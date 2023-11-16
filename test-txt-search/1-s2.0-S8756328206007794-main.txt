@@ -1,0 +1,328 @@
+Anin vitro study of ultrasound signal loss across simple fractures in cortical
+bone mimics and bovine cortical bone samples
+S.P. Dodda, J.L. Cunninghama,⁎, A.W. Milesa, S. Gheduzzia, V.F. Humphreyb
+aCentre for Orthopaedic Biomechanics, Department of Mechanical Engineering, University of Bath, Bath, Avon, BA2 7AY, UK
+bInstitute of Sound and Vibration Research (ISVR), University of Southampton, Southampton, Hampshire, SO17 1BJ, UK
+Received 27 July 2006; revised 4 October 2006; accepted 5 October 2006
+Available online 28 November 2006
+Abstract
+Measurements have been performed on Sawbones® and bovine cortical bone samples at 200 kHz using an axial transmission technique to
+investigate the factors that determine how ultrasonic waves propagate across a simulated fracture. The peak amplitude of the first arrival signal
+(FAS) was studied. Results taken from intact specimens were compared with those produced when a simple transverse fracture was introduced.These fracture simulation experiments were found to be consistent with Finite Difference modelling of the experimental conditions. The peak
+amplitude showed a characteristic variation across the fracture caused by interference between reradiated and scattered/diffracted waves at the
+fracture site and a net Fracture Transmission Loss (FTL). For small fracture gaps, the change in amplitude was sensitive to the presence of thefracture. This sensitivity suggests that this parameter could be a good quantitative indicator for the fracture healing process assuming the relati ve
+change in this parameter brought about by healing is measurable.
+© 2006 Elsevier Inc. All rights reserved.
+Keywords: Attenuation; Axial transmission; Fracture healing measurement; Tibia
+Introduction
+Assessment of bone strength for fracture healing monitoring
+and early detection of osteoporosis is an important area inorthopaedic research. Due to the relatively low cost and non-ionising properties of ultrasound measurement techniques,
+information taken from these measurements has been used to
+evaluate the changes in the mechanical and/or geometricalproperties of cortical bone. These changes can potentially beused to assess fracture stiffness [1–3]and indicate the onset of
+osteoporosis [4–8]. Nokes [9]and Maylia and Nokes [10]have
+reviewed most of the earlier ultrasonic studies, using axialtransmission techniques, and mechanical testing used to directlyor indirectly measure the mechanical properties of the healing
+fracture. In addition, numerical simulation results have
+extended the understanding of ultrasound propagation velocity[11–13] and attenuation [14] in cortical bone and their
+relationship with acoustic frequency and bone geometry.In previous studies where FAS velocity was used to monitor
+the fracture healing of long bones [2,3], the investigators were
+interested in an extra time delay brought about by the differencein velocity between cortical bone and the material filling thefracture site; this time delay is also dependent on the fracturegap size, which was previously identified by Lowet and Van der
+Perre [15]. Therefore, a large change in velocity compared to
+the intact bone velocity for a particular transducer separation isdesirable for the initial inflammatory stages of the healingprocess, which can then be compared with the velocitymeasured as the bone heals. Similarly, a large change comparedto a baseline measurement on the intact bone is desirable whenusing the signal amplitude as a potential parameter to monitorhealing in long bones. Only a small number of studies have been
+performed on the use of ultrasound signal amplitude to monitor
+healing [16,17] .
+Despite these previous attempts to develop a technique to
+characterise the healing process in long bone fractures, only onestudy by Protopappas et al. [3], using numerical modelling of
+bone plates, has been performed to simulate the effect of eachfracture healing stage on ultrasound velocity. Understanding theBone 40 (2007) 656 –661
+www.elsevier.com/locate/bone
+⁎Corresponding author. Fax: +44 1225 386928.
+E-mail address: j.l.cunningham@bath.ac.uk (J.L. Cunningham).
+8756-3282/$ - see front matter © 2006 Elsevier Inc. All rights reserved.
+doi:10.1016/j.bone.2006.10.004
+effect of a fracture and the subsequent healing on ultrasound
+wave amplitude may also revea l useful information for
+providing a quantitative analysis of long bone fracture healingusing the axial transmission technique and is the subject ofinvestigation of the current study.
+In this study, Sawbones® plates (Sawbones Europe, Kross-
+verksgatan 3, Malmo, Sweden) and bovine femora were cut toproduce a transverse fracture and then immersed in distilled
+water to simulate the conditions for the initial inflammatory
+stage of fracture healing [18]. In addition, numerical simulations
+were performed to help understand the wave interaction with afracture. With a material density and acoustic properties closerto human cortical bone, the Sawbones® substitute represents abetter bone mimic in comparison to more commonly usedplastics, such as acrylic [11,15,19] . A more complicated system
+was then examined using bovine femora as a substitute for
+human cortical bone. Baseline measurements, representing
+intact bone, and the relative changes in attenuation values as aresult of a fracture have been investigated.
+Methods and materials
+In these experiments using axial transmission techniques, the waves
+propagating along a plate reduce in amplitude as a result of both the
+attenuation in the material and a proportion of the wave energy leaking out into
+the fluid surrounding the plate, also known as re-radiation. These re-radiatedwaves, detected by a receiving ultrasound transducer, reduce in amplitude withdistance. Measurements of this amplitude with propagation distance can be
+used to evaluate the effective attenuation of the ultrasound along the plate. In
+addition, if there is a discontinuity in the plate, such as a fracture, then theamplitude of the wave transmitted across the discontinuity is reduced. By
+measuring the reradiated wave, the transmission loss of the discontinuity can be
+measured.
+A general description of the apparatus and method used to calculate the
+signal loss across a simple fracture is given, followed by details about a specific
+material used in experiments and then the parameters used in the numerical
+simulation studies.
+Experimental procedures
+To measure the ultrasound velocity and attenuation, an axial transmission
+technique was employed using 20 mm diameter, 200 kHz unfocussed
+transducers, one acting as the source and the other as the receiver. Fig. 1
+shows the geometry for the axial transmission technique. A one-cycle tone burstgenerated by an Agilent 33210A function generator, amplified by 50 dB, wasapplied to the fixed source transducer (T in Fig. 1 ). The specimens and
+transducers were immersed in a tank of distilled water. The source and thereceiver were positioned at a predetermined height ( h) above the particular
+specimen of thickness ( d) under investigation, with their acoustic axis
+perpendicular to the specimen surface. The initial separation between transmitter
+and receiver, denoted by x
+0, was sufficient to avoid signal interference from
+direct water borne waves. The receiving transducer (R) was moved over a
+specified distance at 1-mm intervals using a linear stepper motor rig with the
+transducer separation, x, being measured by an optical encoder (accuracy±1%);
+this separation was limited by the specimen dimensions. The received signalswere filtered, amplified and captured using a digital oscilloscope, which
+averaged over 128 waveforms. Amplitudes of the first peak at each interval were
+recorded. This experimental procedure was repeated three times and theresulting data were averaged and used to calculate the first arrival signal (FAS)attenuation from the slope of the curve. The attenuation data were plotted as a
+sound pressure level (SPL), in decibels, versus transducer separation (m) using
+SPLðxÞ¼20log ðVðxÞ=Vðx
+0ÞÞ ð 1Þ
+where V(x0) is the arrival signal voltage at x=x 0andV(x) is the voltage at each
+measurement position x.
+A new parameter is defined using equation (1) to quantify the effect on
+amplitude (SPL( x)) of introducing a discontinuity to a specimen, i.e. simulating
+a fracture. The difference in sound pressure levels, expressed as a Fracture
+Transmission Loss (FTL), at a given measurement position xis calculated using
+FTL¼/C0 ð SPL FðxÞ/C0SPL IðxÞÞ; ð2Þ
+where the subscript I denotes an intact specimen and F a fractured specimen.
+These parameters are used throughout the paper. With the notation of Eq. (2), areduction in signal as a result of the fracture will give rise to a positive FTL.
+Sawbones® plates
+Two Sawbones® plates, consisting of E-glass fibre epoxy resin, were used to
+demonstrate the sensitivity of the first arrival signal attenuation to the
+introduction of a simple transverse fracture. Path difference immersionmeasurements were used to estimate the longitudinal velocity (3300 m/s) of
+the Sawbones® material. The shear velocity (1600 m/s) was determined from the
+longitudinal velocity and an estimated Poisson's ratio based on typical values forplastics [20]. The plate density was quoted by the Sawbones® manufacturer to
+be 1700 kg/m
+3. Plate 1, with an average thickness ( d) of 6.08±0.05 mm, was
+used in the baseline measurements, i.e. simulating an intact cortex, and plate 2,
+with an average thickness 6.12±0.03 mm, was cut close to the midpoint of thelongest plate dimension to simulate a transverse fracture. Both transducers wereinitially positioned on one side of the fractured plate; the receiving transducer
+(R) was positioned in-line with the start of the fracture, denoted by the dashed
+line A in Fig. 1 . For the in vitro experiments, x
+0was set to 80 mm and hto 3 mm
+with the size of the plates (160×460 mm) being large enough to avoid signalinterference from edge reflections. The receiving transducer scanned over
+50 mm. Three transverse fracture gaps were used in the simulations with widths
+(w)=2, 6 and 10 mm.
+Bovine femur
+Measurements on a bovine femur (sourced from a local abattoir) were
+performed on the anterior –lateral region of the diaphysis with the proximal and
+distal epiphyses and most of the overlying soft tissue removed. In this region, the
+cortex had an approximately constant thickness (6.2±0.4 mm) and flatter
+circumferential surface compared with the rest of the bone over the measurementdistance. The marrow was removed and the bone was halved in the long axisdirection (see Fig. 2 ). The ultrasonic source was positioned as close as possible
+to the bone surface around 30 mm from the distal end of the bone with
+x
+0=40 mm, and the receiving transducer scanned over 40 mm. Due to the slight
+concave nature of the cortical bone surface in the long axis direction, thereceiving transducer was at a maximum height of between 2 and 3 mm above the
+bone surface when the first measurement was taken; this height decreased as the
+measurement distance increased. The initial positions of the transducer centreswere marked on the bone to allow consistent measurements to be performed
+Fig. 1. A geometric representation of the axial transmission apparatus showingthe water and test plate, where T and R represent the transmitting and receiving
+transducers, respectively. x
+0,x,d,handware the initial transducer separation,
+transducer separation, test plate thickness, height of the transducer face abovethe plate and fracture gap width, respectively. The dotted line above point A
+represents the starting position of the receiving ultrasound transducer and the
+arrow shows the direction of receiving transducer motion.657 S.P . Dodd et al. / Bone 40 (2007) 656 –661
+when the fracture was introduced. Subsequently, a simple transverse fracture
+was cut approximately perpendicular to the long axis at a distance of 80 mmfrom the distal end of the bone and the procedure was repeated. The femur was
+frozen and thawed a number of times during the measurement period. Initial
+measurements showed that this process affected the attenuation until the bonewas fully thawed. Only after a number of hours did the attenuation data remain
+constant; therefore, the bone was immersed in water for more than 12 h before
+each set of measurements were performed. Five different fracture gap sizes weretested, ranging from 1 to 10 mm.
+Numerical simulation
+The experimental axial transmission technique was simulated using a 2-D
+Finite Difference code (Wave2000 Pro, Cyberlogic, USA). Material density and
+acoustic values used in the simulations for bovine cortical bone ( ρ=2000 kg/m3,
+VL=4200 m/s, VS=2000 m/s) were based on average data gathered from the
+literature [21–23]; the values used for the Sawbones® material were
+ρ=1700 kg/m3,VL=3300 m/s and VS=1600 m/s. No material damping was
+included in the simulations due to the lack of reliable data at frequencies around200 kHz for these materials. The source and receiver configuration and general
+simulation geometry have been previously described [14]. In the Sawbones
+®
+plate simulations, the test plate with thickness 6.1 mm was positioned 4 mm
+from the top surface of the simulated water region. The source and receiverswere positioned within the water region with h=3 mm and initial transducer
+separation x
+0=80 mm, in accordance with the experimental procedure. A similar
+configuration was used for the bovine femur models, but the femoral cortex wasapproximated to an isotropic flat plate with thickness d=6.2 mm, h=3 mm and
+x
+0=40 mm. Measurement ranges used in these simulations matched those from
+experiments. The simulation data were processed in the same way as the
+experimental FAS amplitude data.
+Results
+Sawbones® plates
+Fig. 3 shows the experimental results of change in first peak
+amplitude or sound pressure level (SPL) for Sawbones® platesas a function of transducer separation and fracture gap width.These characteristic curves can be split into four regions asindicated by the dashed lines in Fig. 3 . In region 1, where
+measurements are taken at the beginning of the fracture, thebaseline (i.e. an intact plate) and fracture curves approximately
+coincide; the small difference in slopes can be attributed to thetwo different plates used. In the second region, an increase in
+amplitude of the first peak occurs relative to the baseline data,signifying interference. In this region, an increase in the gap sizeof the fracture results in the interference spreading over greatertransducer separations, creating a broad maximum. Region 3 ischaracterised by a large decrease in amplitude compared to thebaseline data. Subsequently, in region 4, the slope of each curve(attenuation) becomes comparable with the slope of the base-
+line attenuation curve. Fracture Transmission Loss (FTL) calcu-
+lations were performed at a measurement position of 125 mm,where the net loss is expected to be large. The SPL for eachcurve in Fig. 3 was calculated at 125 mm as baseline= −10.6±
+1.8 dB (mean±standard error), 2 mm gap= −15.7±2.5 dB,
+6 mm gap= −16.9±2.7 dB and 10 mm gap= −18±3 dB. These
+gave FTL values ranging from around 5 to 7 dB depending onthe fracture gap width analysed.
+Numerical simulations were used to help understand the
+interaction of the plate wave with the fracture site, and theresulting characteristic curves. The simulation data for SPL inthe case of the Sawbones® plates are plotted in Fig. 4 . SPL
+simulation plots show similar characteristic shapes of theamplitude curves to those found in experiments with similarvalues for FTL at 125 mm: 5.1 to 7.3 dB for gap sizes rangingfrom 2 to 10 mm. The peaks in the simulation curves do not
+cross above the baseline unlike the experiment; this could be
+attributed in part to lack of damping values in the simulationcalculations.
+Bovine femur
+Attenuation measurements were performed on a bovine
+femur to provide a more suitable mimic for human cortical bone
+than Sawbones® plates. The experimental results for bovine
+cortical bone of SPL are shown in Fig. 5 . Similar characteristics
+are obtained for the SPL in the femur as those described in the
+Fig. 3. Experimental results of the change in first arrival signal (FAS) amplitude
+or SPL versus transducer separation for different fracture gap widths tested onSawbones® plates. The solid line represents the baseline (intact) data and line
+symbols denote the discontinuity (fracture) data at different fracture gap widths.
+Arrow denotes the measurement position where FTL, or change in SPL, wascalculated.
+Fig. 2. The anterior lateral section of a bovine femur used in the axialtransmission experiments.658 S.P . Dodd et al. / Bone 40 (2007) 656 –661
+previous section and presented in Fig. 3 for Sawbones® plates;
+the characteristic interference results in a peak and then a largedrop in amplitude as the fracture is passed for a given fracture
+gap size. At a measurement position of 79 mm, the SPL values
+were calculated as baseline= −6.9±0.6 dB (mean±standard
+error), 1 mm gap= −14±0.8 dB and 2 mm gap= −16±1 dB.
+These gave FTL values ranging from around 7 to 9 dB.
+Similarly, the SPL calculated from modelling data, due to the
+presence of a fracture for bovine cortical bone ( Fig. 6 ), shows
+good qualitative results compared with experiments. Thebaseline data in simulations show a change in slope at 0.04 to
+0.05 mm, this can be attributed to interference from the water
+borne waves. In the experiments, no interference is present,suggesting that the estimated velocity values used in themodelling are lower than the acoustic properties of the bovinefemur. Once again the amplitude of the reradiated wave displays
+the same characteristic regions as the receiver moves across thefracture site.
+Discussion
+Very little work has been performed to understand the effect
+of a fracture on the FAS peak amplitude of the propagatingwave. In the SPL plots of both experimental and numericalmodelling data for Sawbones® plates ( Figs. 3 and 4 ) and Bovine
+cortical bone ( Figs. 5 and 6 ), respectively, the curves showed
+very similar characteristics. In Fig. 3 , the curves were described
+in terms of 4 regions. The mechanisms causing thesecharacteristic changes can be explained with the aid ofsnapshots from the 2-D simulations.
+Figs. 7 a, b and c show three stages in the simulation of a
+200-kHz ultrasonic wave propagating across a 10-mm fracturefrom Sections 1 to 2, which represent the two ends of thefractured plate ( Fig. 7 a). The transmitting transducer is not
+shown in these figures but is positioned to the left of Section
+1. These snapshots are negative images of the originalsimulations; therefore, successive dark and light regions ofthe waves represent high and low pressure regions in amaterial, respectively, with black corresponding to the highestpressure and white the lowest. The thin grey lines at the top ofeach picture represent an overlapping array of receivingtransducers. The ends of Sections 1 and 2 each provide an
+interface with the fracture site; these are defined as interfaces
+1 and 2, respectively ( Fig. 7 a). White arrows denote wave
+direction in Figs. 7 a, b and c.
+The plate wave propagating from left to right in Section 1 of
+Fig. 7 a approaches interface 1 of the fracture site The wave
+reradiated from the top surface of Section 1 (labelled A in Fig.
+7a) gives rise to the first arrival signal detected by the receiving
+transducer; this represents region 1 in Fig. 3 . In this region the
+re-radiated waves for the intact and fractured specimens
+Fig. 5. Experimental results of the change in first arrival signal (FAS) amplitude
+or SPL versus transducer separation for different fracture gap widths tested on
+the bovine femur. The solid line represents the baseline (intact) data and line
+symbols denote the discontinuity (fracture) data at different fracture gap widths.Arrow denotes measurement position where FTL was calculated.
+Fig. 6. Numerical modelling results of the change in first arrival signal (FAS)amplitude or SPL versus transducer separation for different fracture gap widths
+tested on the bovine cortical bone mimicking plates. The solid line represents the
+baseline (intact) data and line-symbol denotes the discontinuity (fracture) data atdifferent fracture gap widths.
+Fig. 4. Numerical modelling results of the change in first arrival signal (FAS)amplitude or SPL versus transducer separation for different fracture gap widthstested on Sawbones® plates. The solid line represents the baseline (intact) dataand line-symbol denotes the discontinuity (fracture) data at different fracture gap
+widths.659 S.P . Dodd et al. / Bone 40 (2007) 656 –661
+coincide as the receiving transducer has not yet crossed the
+fracture site ( Fig. 7 a).
+Fig. 7 b shows the first peak of the plate wave transmitted into
+the fracture site, which results in scattering/diffraction of thewave. The amplitude of the receiver signal will be given by thesuperposition of the reradiated wave (A) from Section 1, and
+scattered/diffracted waves (B) from interface 1 ( Fig. 7 b), this
+wave interaction corresponds to region 2 in Fig. 3 . The location
+along the transducer array where this superposition regionoccurs will depend on the height ( h) and the angle of the
+reradiated wave (A) relative to the reradiating surface, which, inturn, depends on the ratio of the plate wave velocity to the watervelocity.
+Subsequently, some of the wave energy couples into
+Section 2 of the bone ( Fig. 7 c) and a second plate wave,
+which is constantly re-radiated into the water, is set up (wave CinFig. 7 c). The wave energy not coupled onto Section 2 at the
+fracture site takes the form of a waterborne wave (wave B inFig. 7 c). Since there is no material damping present in the
+simulations, region 3 in Fig. 3 , showing a large decrease in
+amplitude, will be highly dependent on the acoustic impedancemismatch between the plate material and water at the two
+interfaces, resulting in some wave reflection. In addition, the
+amount of energy coupled into Section 2 decreases as the gapsize increases. This phenomenon was noticed in bothexperiments and modelling results, suggesting that the signalspread is also an important factor. Further investigation isneeded to determine the mechanisms behind the amount ofsignal loss.
+Finally region 4 corresponds to the detection of the
+reradiating wave C propagating with no interference from thediffracted wave (B), but with a large reduction in amplitude due
+to the two loss factors described above.
+The similar thicknesses of the bovine cortex and Saw-
+bones® plates allow a comparison to be made between thedifferent data sets. The peak amplitude is sensitive to smallfracture gaps, for example, a 2-mm water gap produces an
+FTL of 5 dB (a reduction of 44%) in Sawbones® and an FTL
+of 9 dB (65% reduction) for the bovine femur. The impedancemismatch will be larger for bovine cortical bone due to thefaster plate velocity and higher material density compared tothe Sawbones® material; hence, this parameter will in partcontribute to the larger FTL value. The measurement errorsassociated with calculating Fracture Transmission Loss frompeak amplitude values at a given measurement position are
+dependent on the signal-to-noise ratio. In this study, the
+signal-to-noise ratio provided relatively large errors. However,these errors can be reduced by providing greater signalamplification.
+Although the absolute changes in FAS peak amplitude as a
+function of gap size differ from simulation to experiment forboth Sawbones® and bovine cortical bone, the interferencecausing the change in peak amplitude is the same. These
+simulations of the bovine femur experiments show that by using
+first peak measurements the same wave interference effects thatoccur in isotropic flat plate materials also occur in anisotropicbone specimens.
+As the material density and acoustic properties of human and
+bovine cortical bone are similar, these types of changes may beexpected in ultrasound measurements of a fractured tibia forexample. Therefore, in the context of monitoring fracture
+healing, the peak amplitude seems well suited to detecting the
+Fig. 7. (a, b and c) Snapshots of the numerical modelling fracture simulation showing three stages of a 200-kHz wave propagating across a 10-mm fractur e gap in a
+water tank. Sections 1 and 2 represent the two ends of the fracture. Successive dark and light regions of the wave represent the high and low pressure reg ions of the
+material, respectively, and the thin grey lines at the top of each picture represent an overlapping array of receiving transducers. Panel a shows the p late wave
+propagating in Section 1 from left to right approaching the fracture site, which produces a re-radiated wave A propagating in the water at a different a ngle (three white
+arrows) to the plate wave (two white arrows); panel b shows the wave transmitted into the fracture site, denoted by B; and panel c shows the wave transmit ted into
+Section 2, which produces the re-radiated wave C.660 S.P . Dodd et al. / Bone 40 (2007) 656 –661
+healing process for small fractures. Therefore, changes in the
+mechanical properties of the fracture site during healing,brought about by formation of connective tissue, cartilage andthen woven bone, could be reflected in these relative amplitudemeasurements due to the change in acoustic impedance andamount of signal spread. Alternatively, a combination of FASarrival time and peak amplitude measurements on healingfractures may generate repeated characteristics that allow each
+healing stage to be identified and reveal the mechanical strength
+of the bone.
+However, a number of other physical properties, such as
+cortical thickness, material damping, anisotropic propertiesand porosity, need to be investigated to provide a morecomplete picture of the wave interaction at a simple fracturesite. Following this, the effects of callus formation (includingasymmetry where the periosteal and endosteal callus are of
+differing sizes), different fracture geometries and the
+influence of bone marrow on both ultrasound parametersneed to be investigated, preferably in conjunction with in
+vivo experiments.
+Acknowledgments
+The authors are grateful to Action Medical Research for
+funding this work and to Mr. Richard Weston for his technical
+assistance.
+References
+[1] Barbieri G, Barbieri CH, De Matos PS, Pela CA, Mazzer N.
+Ultrasonometric evaluation of bone healing: experimental study using a
+model of diaphyseal transverse osteotomy of sheep tibiae. Ultrasound Med
+Biol 2006;32:875 –82.
+[2] Protopappas VC, Baga DA, Fotiadis DI, Likas AC, Papachristos A,
+Malizos KN. An ultrasound wearable system for the monitoring and
+acceleration of fracture healing in long bones. IEEE Trans Biomed Eng
+2005;52:1597 –608.
+[3] Protopappas VC, Fotiadis DI, Malizos KN. Guided ultrasound wave
+propagation in intact and healing long bones. Ultrasound Med Biol
+2006;32:693 –708.
+[4] Chen T, Chen P-J, Fung C-S, Lin C-J, Yao W-J. Quantitative assessment of
+osteoporosis from the tibia shaft by ultrasound techniques. Med Eng Phys
+2004;26:141 –5.[5] Haïat G, Padilla F, Barkmann R, Kolta S, Latremouille C, Glüer CC, et al.
+Ultrasound Med Biol 2005;31:987 –96.
+[6] Tatarinov A, Sarvazyan N, Sarvazyan A. Use of multiple acoustic wave
+modes for assessment of long bones: model study. Ultrasonics
+2005;43:672 –80.
+[7] Ta D-a., Huang K. Wang W-q. Wang Y-Y . and Le H.L. Identification
+and analysis of multimode guided waves in tibia cortical bone. Ultrasonics.
+in press.
+[8] Moilanen P, Nicholson PHF, Kilappa V, Cheng S, Timonen J. Measuring
+guided waves in long bones: modelling and experiments in free andimmersed plates. Ultrasound Med Biol 2006;32:709 –19.
+[9] Nokes LDM. The use of low-frequency vibration measurement in
+orthopaedics. Proc Inst Mech Eng 1999;213(H):271 –90.
+[10] Maylia E, Nokes LDM. The use of ultrasound in orthopaedics —a review.
+Technol Health Care 1999;7:1 –28.
+[11] Nicholson PH, Moilanen P, Karkkainen T, Timonen J, Cheng S. Guided
+ultrasonic waves in long bones: modelling, experiment and in vivo
+application. Physiol Meas 2002;23:755 –68.
+[12] Bossy E, Talmant M, Laugier P. Effect of bone cortical thickness on
+velocity measurements using ultrasonic axial transmission: a 2Dsimulation study. J Acoust Soc Am 2002;12:297 –307.
+[13] Bossy E, Talmant M, Laugier P. Three-dimensional simulations of
+ultrasonic axial transmission velocity measurements on cortical bone
+models. J Acoust Soc Am 2004;115:2314 –24.
+[14] Dodd SP, Cunningham JL, Miles AW, Gheduzzi S, Humphrey VF.
+Ultrasonic propagation in cortical bone mimics. Phys Med Biol
+2006;51:4635 –47.
+[15] Lowet G, Van der Perre G. Ultrasound velocity measurement in long bones:
+measurement method and simulation of ultrasound waves. J Biomech1996;29:1255 –62.
+[16] Saha S, Rao VV, Malakanok V, Albright JA. Quantitative measurement of
+fracture healing by ultrasound. In: Saha S, editor. Biomedical EngineeringI: Recent Developments. New York: Pergamon Press; 1982. p. 247 –9.
+[17] Saulgozis J, Pontaga I, Lowet G, Van der Perre G. The effect of fracture
+and fracture healing on ultrasonic velocity and attenuation. Physiol Meas1996;17:201 –11.
+[18] Martin RB, Burr DB, Sharkey NA. Skeletal Tissue Mechanics. New York:
+Springer-Verlag; 1998. p. 67.
+[19] Njeh CF, Kearton JR, Hans D, Boivin CM. The use of quantitative
+ultrasound to monitor fracture healing: a feasibility study using phantoms.Med Eng Phys 1998;20:781 –6.
+[20] Selfridge AR. Approximate material properties in isotropic materials.
+IEEE Trans Sonics Ultrasonic 1985;SU32:381 –94.
+[21] Lakes R, Yoon HS, Katz JL. Ultrasonic wave propagation and attenuation
+in wet bone. J Biomed Eng 1985;8:143 –8.
+[22] Mehta S, Antich P. Measurement of shear-wave velocity by ultrasound
+critical-angle reflectometry (UCR). Ultrasound Med Biol 1997;23:1123 –6.
+[23] Lasaygues P, Pithioux M. Ultrasonic characterization of orthotropic elastic
+bovine bones. Ultrasonics 2002;39:567 –
+73.661 S.P . Dodd et al. / Bone 40 (2007) 656 –661
