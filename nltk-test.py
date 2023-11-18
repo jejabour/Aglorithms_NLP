@@ -1,8 +1,22 @@
-# credit of code goes to
+# Joseph Jabour
+# CS8833 Algorithms
+# Prof. Ioana Banicescu
+
+# references
 # https://dev.to/thedevtimeline/compare-documents-similarity-using-python-nlp-4odp
 # https://stackoverflow.com/questions/30829382/check-the-similarity-between-two-words-with-nltk-with-python
 # https://www.nltk.org/howto/wordnet.html
 # https://www.youtube.com/watch?v=X2vAabgKiuM
+# https://www.nltk.org/howto/tokenize.html
+# https://courses.cs.duke.edu/spring14/compsci290/assignments/lab02.html
+# https://stackoverflow.com/questions/64248850/sort-simmilarity-matrix-according-to-plot-colors
+# https://www.geeksforgeeks.org/removing-stop-words-nltk-python/#
+# https://www.nltk.org/api/nltk.probability.FreqDist.html
+# https://www.geeksforgeeks.org/python-measure-time-taken-by-program-to-execute/
+# https://blog.devgenius.io/time-complexity-with-examples-from-nlp-60c4feb9f31e
+
+
+
 
 import time
 begin = time.time()
@@ -41,23 +55,24 @@ new_line = '\n'
 test_path = 'test-txt-search/'
 
 # Path to where I want to store all the txt outputs containing finalized parts of speech
-output_path = "./Output-nltk/"
+pos_output_path = "./pos_output_nltk/"
 
 # Make the output path if it doesn't exist
 try:
-    os.mkdir(output_path)
+    os.mkdir(pos_output_path)
 except OSError as error:
     print(error)
 
 # Replace my NLTK Freq output if it already exists
-if os.path.exists("NLTK_Frequency_of_coat.txt"):
-    os.remove("NLTK_Frequency_of_coat.txt")
+if os.path.exists("./NLTK_Frequency_of_coat.txt"):
+    os.remove("./NLTK_Frequency_of_coat.txt")
 
 # This is just a file I know contains a few instances of coating
 # 1-s2.0-S8756328205000050-main.txt
 
 # iterate over my directory of files
 for file in os.listdir(test_path):
+    
     # Open the file, set encoder because these journals use big words
     with open(test_path + file, encoding='utf-8') as f:
         # Read the text
@@ -67,22 +82,25 @@ for file in os.listdir(test_path):
         # List for containing all the words that are stemmed
         stemmed_list = []
         # Create and open a new file in the output path to write to
-        output_file = open(output_path + file, "a")
+        pos_output_file = open(pos_output_path + file, "a")
+        
         # Iterate over every word in the tokenized list
         for word in text_tokens:
+            
             # Only if it's not included in the stop words
             if not word in stop_words:
                 # Remove most punctuations
                 no_punct = punctuation.sub("", word)
                 # Create a string of parts of speech out of the words with punctuation remove, then new line
-                output = f"{nltk.pos_tag([no_punct])} {new_line}"
+                pos_output = f"{nltk.pos_tag([no_punct])} {new_line}"
                 # Write the string to the file
-                output_file.write(output)
+                pos_output_file.write(pos_output)
                 # If no_punct basically exists, stem the word and add it to our list
                 if len(no_punct) > 0:
-                    stemmed_list.append(pst.stem(no_punct))
-        # close the output_file
-        output_file.close()
+                    stemmed_list.append(pst.stem(no_punct.lower()))
+        # close the pos_output_file
+        pos_output_file.close()
+        
         # Clear the freq distribution for a new file, then add every word in stemmed list to it
         fdist.clear()
         for word in stemmed_list:
@@ -94,7 +112,7 @@ for file in os.listdir(test_path):
     f.close()
 
 # replace/open our frequence output
-with open("NLTK_Frequency_of_coat", "a") as f:
+with open("NLTK_Frequency_of_coat.txt", "a") as f:
     # create a dictionary out of a sorted string by highest key value, aka most instances of 'coat'
     sorted_dict = dict(sorted(freq_dict.items(), key = lambda x:x[1], reverse=True))
     # I'm writing this way to include a new line in the txt per dictionary element
