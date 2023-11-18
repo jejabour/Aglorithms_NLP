@@ -2,57 +2,128 @@
 # https://dev.to/thedevtimeline/compare-documents-similarity-using-python-nlp-4odp
 # https://stackoverflow.com/questions/30829382/check-the-similarity-between-two-words-with-nltk-with-python
 # https://www.nltk.org/howto/wordnet.html
+# https://www.youtube.com/watch?v=X2vAabgKiuM
 
+import time
+begin = time.time()
 
 from nltk.corpus import wordnet
 import nltk
-# from nltk.text import Text
-from nltk.tokenize import sent_tokenize, word_tokenize
-from itertools import product
-from tqdm import tqdm
-import os
-import pandas as pd
-import numpy as np
-import gensim
-import string
-from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize import word_tokenize
+import os
+from nltk.tokenize import word_tokenize
+import re
+from nltk.probability import FreqDist
+
+from nltk.corpus import stopwords
+nltk.download('averaged_perceptron_tagger')
+
+
+stop_words = set(stopwords.words('english'))
 
 
 
-
+fdist = FreqDist()
+pst = PorterStemmer()
+punctuation = re.compile(r'[-.?!,:;()|0-9]')
 path = 'test-txt-search/'
-token_dict = {}
-stemmer = PorterStemmer()
 
-def stem_tokens(tokens, stemmer):
-    stemmed = []
-    for item in tokens:
-        stemmed.append(stemmer.stem(item))
-    return stemmed
+if os.path.exists("output-nltk.txt"):
+    os.remove("output-nltk.txt")
 
-def tokenize(text):
-    tokens = nltk.word_tokenize(text)
-    stems = stem_tokens(tokens, stemmer)
-    return stems
+# 1-s2.0-S8756328205000050-main.txt
 
-for subdir, dirs, files in os.walk(path):
-    for file in files:
-        print(file)
-        file_path = subdir + os.path.sep + file
-        shakes = open(file_path, 'r')
-        text = shakes.read()
-        lowers = text.lower()
-        translating = str.maketrans('', '', string.punctuation)
-        no_punctuation = lowers.translate(translating)
-        token_dict[file] = no_punctuation
+for file in os.listdir(path):
+    with open(path + file, encoding='utf-8') as f:
+        text = f.read()
+        text_tokens = word_tokenize(text)
+        stemmed_list = []
+        for word in text_tokens:
+            if not word in stop_words:
+                stemmed_word = pst.stem(word)
+                # stemmed_list.append(stemmed_word)
+                no_punct = punctuation.sub("", stemmed_word)
+                if len(no_punct) > 0:
+                    stemmed_list.append(no_punct)
+        fdist.clear()
+        for word in stemmed_list:
+            fdist[word] += 1
         
-#this can take some time
-tfidf = TfidfVectorizer(tokenizer=tokenize, stop_words='english')
-tfs = tfidf.fit_transform(token_dict.values())
+        f = open("output-nltk.txt", "a")
+        new_line = '\n'
+        output = f"Instance of 'coat' in {file}: {fdist['coat']} {new_line}"
+        f.write(output)
+        f.close()
 
-print(tfidf)
+
+
+
+
+
+time.sleep(1)
+end = time.time()
+
+print(f"Time is {end - begin}")
+
+    
+
+
+
+# for file in tqdm(os.listdir(path)):
+#     with open(path + file, encoding='utf-8') as f:
+#         text = f.read()
+#         text_tokens = word_tokenize(text)
+
+#         stemmed_list = []
+#         for word in text:
+#             stemmed_word = pst.stem(word)
+#             stemmed_list.append(stemmed_word)
+#         print(stemmed_list)
+
+        
+
+
+
+
+
+
+
+
+
+
+
+# path = 'test-txt-search/'
+# token_dict = {}
+# stemmer = PorterStemmer()
+
+# def stem_tokens(tokens, stemmer):
+#     stemmed = []
+#     for item in tokens:
+#         stemmed.append(stemmer.stem(item))
+#     return stemmed
+
+# def tokenize(text):
+#     tokens = nltk.word_tokenize(text)
+#     stems = stem_tokens(tokens, stemmer)
+#     return stems
+
+# for subdir, dirs, files in os.walk(path):
+#     for file in files:
+#         print(file)
+#         file_path = subdir + os.path.sep + file
+#         shakes = open(file_path, 'r')
+#         text = shakes.read()
+#         lowers = text.lower()
+#         translating = str.maketrans('', '', string.punctuation)
+#         no_punctuation = lowers.translate(translating)
+#         token_dict[file] = no_punctuation
+        
+# #this can take some time
+# tfidf = TfidfVectorizer(tokenizer=tokenize, stop_words='english')
+# tfs = tfidf.fit_transform(token_dict.values())
+
+# print(tfidf)
 
 
 
