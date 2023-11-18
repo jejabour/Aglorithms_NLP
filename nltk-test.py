@@ -126,4 +126,3 @@ with open("NLTK_Frequency_of_coat.txt", "a") as f:
 time.sleep(1)
 end = time.time()
 print(f"Time is {end - begin}")
-
