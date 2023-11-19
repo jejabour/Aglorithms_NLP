@@ -77,7 +77,7 @@ for file in os.listdir(test_path):
                 stemmed_list.append(token.lemma_.lower())
                 # print(token.text, token.pos_, token.lemma_)
                 # print(token.text)
-        print(stemmed_list)
+        
         pos_output_file.close()
         word_freq = word_freq.clear()
         word_freq = Counter(stemmed_list)
