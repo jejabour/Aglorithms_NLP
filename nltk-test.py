@@ -14,7 +14,26 @@
 # https://www.nltk.org/api/nltk.probability.FreqDist.html
 # https://www.geeksforgeeks.org/python-measure-time-taken-by-program-to-execute/
 # https://blog.devgenius.io/time-complexity-with-examples-from-nlp-60c4feb9f31e
+# https://www.nltk.org/book/ch05.html
 
+# NLTK Parts of Speech Key, taken from the NLTK Book
+# Tag 	Meaning 	        English Examples
+# ADJ 	adjective 	        new, good, high, special, big, local
+# ADP 	adposition 	        on, of, at, with, by, into, under
+# ADV 	adverb 	            really, already, still, early, now
+# CONJ 	conjunction         and, or, but, if, while, although
+# DET 	determiner, article the, a, some, most, every, no, which
+# NOUN 	noun 	            year, home, costs, time, Africa
+# NUM 	numeral 	        twenty-four, fourth, 1991, 14:24
+# PRT 	particle 	        at, on, out, over per, that, up, with
+# PRON 	pronoun 	        he, their, her, its, my, I, us
+# VERB 	verb 	            is, say, told, given, playing, would
+# . 	punctuation marks 	. , ; !
+# X 	other 	            ersatz, esprit, dunno, gr8, univeristy
+
+#####################################################################
+#####################################################################
+#####################################################################
 
 
 
@@ -31,6 +50,7 @@ from nltk.tokenize import word_tokenize
 import re
 from nltk.probability import FreqDist
 from nltk.corpus import stopwords
+import pandas as pd
 nltk.download('averaged_perceptron_tagger')
 
 # Grabs the nltk stop words corpora
@@ -57,6 +77,8 @@ test_path = 'test-txt-search/'
 # Path to where I want to store all the txt outputs containing finalized parts of speech
 pos_output_path = "./pos_output_nltk/"
 
+freq_output_path = "NLTK_Frequency_of_coat.csv"
+
 # Make the output path if it doesn't exist
 try:
     os.mkdir(pos_output_path)
@@ -64,8 +86,8 @@ except OSError as error:
     print(error)
 
 # Replace my NLTK Freq output if it already exists
-if os.path.exists("./NLTK_Frequency_of_coat.txt"):
-    os.remove("./NLTK_Frequency_of_coat.txt")
+if os.path.exists(freq_output_path):
+    os.remove(freq_output_path)
 
 # This is just a file I know contains a few instances of coating
 # 1-s2.0-S8756328205000050-main.txt
@@ -82,7 +104,7 @@ for file in os.listdir(test_path):
         # List for containing all the words that are stemmed
         stemmed_list = []
         # Create and open a new file in the output path to write to
-        pos_output_file = open(pos_output_path + file, "a")
+        pos_output_file = open(pos_output_path + file, "w")
         
         # Iterate over every word in the tokenized list
         for word in text_tokens:
@@ -108,18 +130,13 @@ for file in os.listdir(test_path):
         
         # Search freq_dist for the word 'coat'
         freq_dict.update({file: fdist['coat'] })
+        
     # close the open file.
     f.close()
 
-# replace/open our frequence output
-with open("NLTK_Frequency_of_coat.txt", "a") as f:
-    # create a dictionary out of a sorted string by highest key value, aka most instances of 'coat'
-    sorted_dict = dict(sorted(freq_dict.items(), key = lambda x:x[1], reverse=True))
-    # I'm writing this way to include a new line in the txt per dictionary element
-    for k in sorted_dict.keys():
-        f.write("'{}':'{}'\n".format(k, sorted_dict[k]))
-    # Close the file
-    f.close()
+
+sorted_dict = dict(sorted(freq_dict.items(), key = lambda x:x[1], reverse=True))
+pd.DataFrame.from_dict(data=sorted_dict, orient='index').to_csv(freq_output_path, header=False)
 
 
 # At the very top of the python file, I started a clock. Here is where it ends and prints to the console.
