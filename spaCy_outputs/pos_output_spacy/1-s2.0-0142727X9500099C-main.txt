@@ -1,0 +1,8551 @@
+ELSEVIER, NOUN 
+
+, SPACE 
+Calculation, PROPN 
+flow, NOUN 
+heat, NOUN 
+transfer, NOUN 
+near, ADP 
+
+, SPACE 
+entrance, NOUN 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+
+, SPACE 
+dimensional, ADJ 
+mesh, NOUN 
+embedding, VERB 
+
+, SPACE 
+solution, NOUN 
+adaptation, NOUN 
+
+, SPACE 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+M., PROPN 
+G., PROPN 
+Rose, PROPN 
+
+, SPACE 
+Aerospace, PROPN 
+Group, PROPN 
+Rolls, PROPN 
+Royce, PROPN 
+plc, PROPN 
+Derby, PROPN 
+UK, PROPN 
+
+, SPACE 
+R., PROPN 
+G., PROPN 
+D., PROPN 
+Nedar, PROPN 
+
+, SPACE 
+Volvo, PROPN 
+Aero, PROPN 
+Corporation, PROPN 
+Combuster, PROPN 
+Divison, PROPN 
+Engineering, PROPN 
+Trollh, PROPN 
+~, VERB 
+itan, ADJ 
+Sweden, PROPN 
+
+, SPACE 
+dimensional, ADJ 
+3, NUM 
+D, NOUN 
+mesh, NOUN 
+embedding, VERB 
+algorithm, PROPN 
+Navier, PROPN 
+Stokes, PROPN 
+equa-, VERB 
+
+, SPACE 
+tions, NOUN 
+presented, VERB 
+upwind, NOUN 
+control, NOUN 
+volume, NOUN 
+discretization, NOUN 
+maintain, VERB 
+
+, SPACE 
+accuracy, NOUN 
+stability, NOUN 
+embedding, VERB 
+interfaces, NOUN 
+minor, ADJ 
+restrictions, NOUN 
+cell, NOUN 
+
+, SPACE 
+shape, NOUN 
+fluxes, NOUN 
+conserved, VERB 
+interfaces, NOUN 
+hanging, VERB 
+nodes, NOUN 
+
+, SPACE 
+interfaces, NOUN 
+treated, VERB 
+implicitly, ADV 
+avoid, VERB 
+internal, ADJ 
+boundaries, NOUN 
+flow, NOUN 
+
+, SPACE 
+degrade, VERB 
+rate, NOUN 
+convergence, NOUN 
+embedded, VERB 
+mesh, NOUN 
+solver, NOUN 
+model, VERB 
+90, NUM 
+
+, SPACE 
+30, NUM 
+°, NUM 
+cylindrical, ADJ 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+ingesting, VERB 
+flow, NOUN 
+parallel, ADJ 
+sided, ADJ 
+duct, NOUN 
+
+, SPACE 
+low-, ADJ 
+medium-, ADJ 
+high, ADJ 
+suction, NOUN 
+ratios, NOUN 
+Adaptation, NOUN 
+mesh, NOUN 
+flow, NOUN 
+solution, NOUN 
+
+, SPACE 
+improve, VERB 
+resolution, NOUN 
+high, ADJ 
+gradient, NOUN 
+regions, NOUN 
+influences, NOUN 
+
+, SPACE 
+inclination, NOUN 
+angle, NOUN 
+suction, NOUN 
+ratio, NOUN 
+flow, NOUN 
+heat, NOUN 
+transfer, NOUN 
+vicinity, NOUN 
+
+, SPACE 
+hole, NOUN 
+hole, NOUN 
+discharge, NOUN 
+coefficient, NOUN 
+modelled, VERB 
+compared, VERB 
+re-, ADV 
+
+, SPACE 
+ported, VERB 
+experimental, ADJ 
+measurements, NOUN 
+
+, SPACE 
+Keywords, NOUN 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+mesh, NOUN 
+embedding, VERB 
+solution, NOUN 
+adaptation, NOUN 
+upwind, NOUN 
+con-, VERB 
+
+, SPACE 
+trol, NOUN 
+volumes, NOUN 
+
+, SPACE 
+Introduction, PROPN 
+
+, SPACE 
+Turbine, PROPN 
+entry, NOUN 
+temperatures, NOUN 
+TET, PROPN 
+modern, ADJ 
+gas, NOUN 
+turbine, NOUN 
+engines, NOUN 
+
+, SPACE 
+typically, ADV 
+150, NUM 
+°, NUM 
+K, NOUN 
+melting, NOUN 
+point, NOUN 
+blade, NOUN 
+material, NOUN 
+
+, SPACE 
+Consequently, ADV 
+cooling, VERB 
+blade, NOUN 
+necessary, ADJ 
+turbine, NOUN 
+
+, SPACE 
+useful, ADJ 
+working, NOUN 
+life, NOUN 
+Arrays, NOUN 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+
+, SPACE 
+release, VERB 
+cool, ADJ 
+air, NOUN 
+bled, VERB 
+compressor, NOUN 
+blade, NOUN 
+surface, NOUN 
+
+, SPACE 
+commonly, ADV 
+control, VERB 
+surface, NOUN 
+temperatures, NOUN 
+heat, NOUN 
+
+, SPACE 
+fluxes, NOUN 
+turbine, NOUN 
+designers, NOUN 
+strive, VERB 
+higher, ADJ 
+TET, PROPN 
+
+, SPACE 
+important, ADJ 
+film, NOUN 
+cooling, VERB 
+hole, NOUN 
+designs, NOUN 
+achieve, VERB 
+target, NOUN 
+
+, SPACE 
+thermal, ADJ 
+performances, NOUN 
+
+, SPACE 
+Numerical, PROPN 
+modeling, NOUN 
+plays, VERB 
+important, ADJ 
+role, NOUN 
+film, NOUN 
+cooling, VERB 
+
+, SPACE 
+design, NOUN 
+use, NOUN 
+dimensional, ADJ 
+2, NUM 
+D, NOUN 
+quasi, ADJ 
+three-, ADJ 
+
+, SPACE 
+dimensional, ADJ 
+3, NUM 
+D, NOUN 
+boundary, ADJ 
+layer, NOUN 
+analysis, NOUN 
+methods, NOUN 
+e.g., ADV 
+Norton, PROPN 
+
+, SPACE 
+et, PROPN 
+al, PROPN 
+1990, NUM 
+methods, NOUN 
+intended, VERB 
+parametric, ADJ 
+design, NOUN 
+
+, SPACE 
+studies, NOUN 
+model, NOUN 
+laterally, ADV 
+averaged, VERB 
+behaviour, NOUN 
+
+, SPACE 
+film, NOUN 
+cooling, VERB 
+rows, NOUN 
+detailed, ADJ 
+analyses, NOUN 
+3, NUM 
+D, NOUN 
+flow, NOUN 
+
+, SPACE 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+concentrated, VERB 
+jets, NOUN 
+injecting, VERB 
+
+, SPACE 
+cross, ADJ 
+flow, NOUN 
+Bergeles, PROPN 
+et, PROPN 
+al, PROPN 
+1978, NUM 
+modelled, VERB 
+single, ADJ 
+jet, NOUN 
+
+, SPACE 
+semi, ADJ 
+elliptic, ADJ 
+procedure, NOUN 
+immediately, ADV 
+down-, NUM 
+
+, SPACE 
+Address, PROPN 
+reprint, NOUN 
+requests, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+Rolls, PROPN 
+Royce, PROPN 
+plc, PROPN 
+
+, SPACE 
+P.O., PROPN 
+Box, PROPN 
+31, NUM 
+Derby, PROPN 
+DE24, PROPN 
+8B, PROPN 
+J, PROPN 
+UK, PROPN 
+
+, SPACE 
+Received, VERB 
+20, NUM 
+January, PROPN 
+1995, NUM 
+accepted, VERB 
+26, NUM 
+October, PROPN 
+1995, NUM 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+17, NUM 
+155, NUM 
+166, NUM 
+1996, NUM 
+
+, SPACE 
+©, NOUN 
+1996, NUM 
+Elsevier, ADJ 
+Science, PROPN 
+Inc., PROPN 
+
+, SPACE 
+655, NUM 
+Avenue, PROPN 
+Americas, PROPN 
+New, PROPN 
+York, PROPN 
+NY, PROPN 
+10010, NUM 
+stream, NOUN 
+hole, NOUN 
+coupled, VERB 
+marching, NOUN 
+procedure, NOUN 
+
+, SPACE 
+key, ADJ 
+aspect, NOUN 
+calculations, NOUN 
+use, NOUN 
+nonisotropic, ADJ 
+
+, SPACE 
+form, NOUN 
+high, ADJ 
+Reynolds, PROPN 
+number, NOUN 
+k-~, NOUN 
+model, NOUN 
+improved, VERB 
+
+, SPACE 
+predictions, NOUN 
+film, NOUN 
+cooling, VERB 
+effectiveness, NOUN 
+White, PROPN 
+1980, NUM 
+mod-, X 
+
+, SPACE 
+elled, VERB 
+single, ADJ 
+jet, NOUN 
+separate, ADJ 
+computations, NOUN 
+pipe, NOUN 
+
+, SPACE 
+cross, ADJ 
+flow, ADJ 
+duct, NOUN 
+iteratively, ADV 
+linked, VERB 
+jet, NOUN 
+exit, NOUN 
+
+, SPACE 
+plane, NOUN 
+White, PROPN 
+nonisotropic, ADJ 
+k-~, NOUN 
+model, NOUN 
+improve, VERB 
+
+, SPACE 
+predictions, NOUN 
+velocity, NOUN 
+profiles, NOUN 
+downstream, ADV 
+hole, NOUN 
+
+, SPACE 
+White, PROPN 
+demonstrated, VERB 
+need, NOUN 
+elliptic, ADJ 
+
+, SPACE 
+procedure, NOUN 
+downstream, ADJ 
+hole, NOUN 
+model, VERB 
+strong, ADJ 
+
+, SPACE 
+recirculations, NOUN 
+higher, ADJ 
+injection, NOUN 
+rates, NOUN 
+reduce, VERB 
+computational, ADJ 
+
+, SPACE 
+resources, NOUN 
+number, NOUN 
+models, NOUN 
+locally, ADV 
+elliptic, ADJ 
+
+, SPACE 
+procedures, NOUN 
+near, ADJ 
+injection, NOUN 
+region, NOUN 
+coupled, VERB 
+marching, NOUN 
+
+, SPACE 
+procedures, NOUN 
+away, ADV 
+hole, NOUN 
+e.g., ADV 
+Demuren, PROPN 
+et, PROPN 
+al, PROPN 
+1985, NUM 
+
+, SPACE 
+Dibelius, PROPN 
+et, PROPN 
+al, PROPN 
+1990, NUM 
+Alvarez, PROPN 
+et, PROPN 
+al, PROPN 
+1993, NUM 
+reported, VERB 
+fully, ADV 
+elliptic, ADJ 
+
+, SPACE 
+calculations, NOUN 
+single, ADJ 
+jet, NOUN 
+cross, ADJ 
+flow, NOUN 
+isotropic, ADJ 
+
+, SPACE 
+k, PROPN 
+e, NOUN 
+model, NOUN 
+wall, NOUN 
+functions, NOUN 
+second, ADJ 
+moment, NOUN 
+closure, NOUN 
+
+, SPACE 
+model, NOUN 
+Alvarez, PROPN 
+concluded, VERB 
+overall, ADJ 
+models, NOUN 
+gave, VERB 
+similar, ADJ 
+
+, SPACE 
+level, NOUN 
+agreement, NOUN 
+measurements, NOUN 
+
+, SPACE 
+measurements, NOUN 
+Andreopoulus, PROPN 
+Rodi, PROPN 
+1984, NUM 
+demon-, VERB 
+
+, SPACE 
+strated, VERB 
+biasing, NOUN 
+jet, NOUN 
+exit, NOUN 
+flow, NOUN 
+downstream, ADJ 
+
+, SPACE 
+hole, NOUN 
+importance, NOUN 
+including, VERB 
+pipe, NOUN 
+
+, SPACE 
+calculations, NOUN 
+calculations, NOUN 
+generally, ADV 
+assume, VERB 
+plug, NOUN 
+
+, SPACE 
+fully, ADV 
+developed, VERB 
+flow, NOUN 
+pipe, NOUN 
+entrance, NOUN 
+turbine, NOUN 
+
+, SPACE 
+cooling, VERB 
+applications, NOUN 
+pipe, NOUN 
+fed, VERB 
+internal, ADJ 
+cooling, NOUN 
+pas-, NOUN 
+
+, SPACE 
+sages, NOUN 
+produce, VERB 
+complex, ADJ 
+flow, NOUN 
+patterns, NOUN 
+pipe, NOUN 
+entry, NOUN 
+
+, SPACE 
+0142, NUM 
+727X/96/$15.00, PROPN 
+
+, SPACE 
+SSDI, PROPN 
+0142, NUM 
+727X(95)00099, NUM 
+2, NUM 
+
+
+, SPACE 
+Mesh, PROPN 
+embedding, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Numerical, PROPN 
+modelling, NOUN 
+entrance, NOUN 
+flows, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+
+, SPACE 
+received, VERB 
+attention, NOUN 
+exit, NOUN 
+flows, NOUN 
+Leylek, ADJ 
+
+, SPACE 
+Zerkle, PROPN 
+1993, NUM 
+modelled, VERB 
+entrance, NOUN 
+exit, NOUN 
+flows, VERB 
+jet, NOUN 
+
+, SPACE 
+pipe, NOUN 
+plenum, NOUN 
+feed, VERB 
+pipe, NOUN 
+demonstrated, VERB 
+
+, SPACE 
+development, NOUN 
+strong, ADJ 
+secondary, ADJ 
+flows, NOUN 
+pipe, NOUN 
+
+, SPACE 
+modelling, NOUN 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+turbine, NOUN 
+blades, NOUN 
+introduces, VERB 
+
+, SPACE 
+need, NOUN 
+flexible, ADJ 
+grid, NOUN 
+systems, NOUN 
+Meshes, NOUN 
+adopting, VERB 
+single, ADJ 
+
+, SPACE 
+structured, ADJ 
+style, NOUN 
+domain, NOUN 
+incur, VERB 
+large, ADJ 
+overheads, NOUN 
+
+, SPACE 
+node, NOUN 
+numbers, NOUN 
+grid, NOUN 
+lines, NOUN 
+needed, VERB 
+resolve, VERB 
+holes, NOUN 
+
+, SPACE 
+extend, VERB 
+way, NOUN 
+domain, NOUN 
+boundaries, NOUN 
+provide, VERB 
+exces-, NUM 
+
+, SPACE 
+sive, ADJ 
+mesh, NOUN 
+resolution, NOUN 
+needed, VERB 
+Benz, PROPN 
+et, PROPN 
+al, PROPN 
+1993, NUM 
+
+, SPACE 
+modelled, VERB 
+leading, VERB 
+edge, NOUN 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+slots, NOUN 
+2, NUM 
+D, ADJ 
+
+, SPACE 
+turbine, NOUN 
+blade, NOUN 
+multizone, ADJ 
+grid, NOUN 
+H, NOUN 
+meshes, NOUN 
+holes, NOUN 
+
+, SPACE 
+attached, VERB 
+O, NOUN 
+mesh, NOUN 
+blade, NOUN 
+periodic, ADJ 
+
+, SPACE 
+boundary, ADJ 
+conditions, NOUN 
+Choi, PROPN 
+1993, NUM 
+modelled, VERB 
+row, NOUN 
+film, NOUN 
+cooling, VERB 
+
+, SPACE 
+holes, NOUN 
+suction, NOUN 
+turbine, NOUN 
+blade, NOUN 
+3, NUM 
+D, ADJ 
+slice, NOUN 
+
+, SPACE 
+blade, NOUN 
+contained, VERB 
+single, ADJ 
+hole, NOUN 
+Separate, ADJ 
+overlapping, VERB 
+
+, SPACE 
+meshes, NOUN 
+external, ADJ 
+flow, NOUN 
+flow, NOUN 
+
+, SPACE 
+near, ADP 
+hole, NOUN 
+Chimera, PROPN 
+scheme, NOUN 
+Steger, PROPN 
+et, PROPN 
+al, PROPN 
+1983, NUM 
+
+, SPACE 
+communicate, VERB 
+information, NOUN 
+meshes, NOUN 
+
+, SPACE 
+present, ADJ 
+contribution, NOUN 
+extends, VERB 
+mesh, NOUN 
+embedding, VERB 
+algo-, NOUN 
+
+, SPACE 
+rithm, NOUN 
+Lapworth, PROPN 
+1993, NUM 
+provide, VERB 
+flexible, ADJ 
+grid, NOUN 
+system, NOUN 
+
+, SPACE 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+grid, NOUN 
+system, NOUN 
+uses, VERB 
+single, ADJ 
+nonoverlapping, ADJ 
+
+, SPACE 
+mesh, NOUN 
+internal, ADJ 
+embedding, VERB 
+interfaces, NOUN 
+allow, VERB 
+locally, ADV 
+fine, ADJ 
+
+, SPACE 
+resolution, NOUN 
+vicinity, NOUN 
+hole, NOUN 
+goal, NOUN 
+numerical, ADJ 
+
+, SPACE 
+model, NOUN 
+calculation, NOUN 
+multiple, ADJ 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+3, NUM 
+D, ADJ 
+
+, SPACE 
+turbine, NOUN 
+blades, NOUN 
+including, VERB 
+internal, ADJ 
+cooling, NOUN 
+passages, NOUN 
+Mesh, PROPN 
+
+, SPACE 
+embedding, VERB 
+key, ADJ 
+tool, NOUN 
+keeping, VERB 
+node, NOUN 
+numbers, NOUN 
+
+, SPACE 
+acceptable, ADJ 
+computing, NOUN 
+limits, NOUN 
+ensuring, VERB 
+optimal, ADJ 
+mesh, NOUN 
+reso-, X 
+
+, SPACE 
+lution, NOUN 
+solution, NOUN 
+adaptation, NOUN 
+resolution, NOUN 
+
+, SPACE 
+individual, ADJ 
+holes, NOUN 
+likely, ADJ 
+remain, VERB 
+relatively, ADV 
+sparse, ADJ 
+
+, SPACE 
+high, ADJ 
+Reynolds, PROPN 
+number, NOUN 
+k, PROPN 
+e, NOUN 
+model, NOUN 
+wall, NOUN 
+functions, NOUN 
+
+, SPACE 
+chosen, VERB 
+numerical, ADJ 
+model, NOUN 
+authors, NOUN 
+acknowledge, VERB 
+
+, SPACE 
+model, NOUN 
+unlikely, ADJ 
+accurate, ADJ 
+predictions, NOUN 
+
+, SPACE 
+aim, NOUN 
+develop, VERB 
+flexible, ADJ 
+3, NUM 
+D, ADJ 
+mesh, NOUN 
+embedding, VERB 
+technique, NOUN 
+
+, SPACE 
+establish, VERB 
+provides, VERB 
+solutions, NOUN 
+sufficient, ADJ 
+accuracy, NOUN 
+
+, SPACE 
+use, NOUN 
+engineering, NOUN 
+design, NOUN 
+environment, NOUN 
+present, ADJ 
+study, NOUN 
+considered, VERB 
+isotropic, ADJ 
+turbulence, NOUN 
+importance, NOUN 
+
+, SPACE 
+anisotropic, NOUN 
+diffusivities, NOUN 
+recognized, VERB 
+planned, VERB 
+future, ADJ 
+
+, SPACE 
+study, NOUN 
+paper, NOUN 
+mesh, NOUN 
+embedding, NOUN 
+model, VERB 
+
+, SPACE 
+entrance, NOUN 
+flows, VERB 
+single, ADJ 
+100, NUM 
+times, NOUN 
+engine, NOUN 
+scale, NOUN 
+hole, NOUN 
+ingesting, VERB 
+
+, SPACE 
+air, NOUN 
+parallel, ADJ 
+sided, ADJ 
+duct, NOUN 
+investigated, VERB 
+experimentally, ADV 
+
+, SPACE 
+Byerley, PROPN 
+1989, NUM 
+flow, NOUN 
+field, NOUN 
+heat, NOUN 
+transfer, NOUN 
+modelled, VERB 
+
+, SPACE 
+hole, NOUN 
+inclination, NOUN 
+angles, NOUN 
+30, NUM 
+90, NUM 
+°, NUM 
+low, ADJ 
+medium, ADJ 
+
+, SPACE 
+high, ADJ 
+suction, NOUN 
+ratios, NOUN 
+mesh, NOUN 
+embedding, VERB 
+technique, NOUN 
+pre-, ADV 
+
+, SPACE 
+sented, VERB 
+section, NOUN 
+followed, VERB 
+numerical, PROPN 
+
+, SPACE 
+model, NOUN 
+discussion, NOUN 
+treatment, NOUN 
+internal, ADJ 
+embed-, ADJ 
+
+, SPACE 
+ding, NOUN 
+interfaces, NOUN 
+application, NOUN 
+numerical, ADJ 
+model, NOUN 
+film-, VERB 
+
+, SPACE 
+cooling, VERB 
+entrance, NOUN 
+flows, NOUN 
+described, VERB 
+followed, VERB 
+
+, SPACE 
+numerical, ADJ 
+results, NOUN 
+compared, VERB 
+experimental, ADJ 
+mea-, ADJ 
+
+, SPACE 
+surements, NOUN 
+Finally, ADV 
+conclusions, NOUN 
+drawn, VERB 
+study, NOUN 
+
+, SPACE 
+Embedded, VERB 
+mesh, NOUN 
+model, NOUN 
+
+, SPACE 
+Mesh, PROPN 
+structure, NOUN 
+
+, SPACE 
+flow, NOUN 
+domain, NOUN 
+covered, VERB 
+single, ADJ 
+nonoverlapping, ADJ 
+
+, SPACE 
+curvilinear, VERB 
+H, NOUN 
+style, NOUN 
+mesh, NOUN 
+contains, VERB 
+locally, ADV 
+embedded, VERB 
+fine, ADJ 
+
+, SPACE 
+mesh, NOUN 
+regions, NOUN 
+embedded, VERB 
+regions, NOUN 
+created, VERB 
+cell, NOUN 
+
+, SPACE 
+subdivision, NOUN 
+process, NOUN 
+divides, VERB 
+cells, NOUN 
+
+, SPACE 
+mesh, NOUN 
+directions, NOUN 
+Figure, NOUN 
+1, NUM 
+shows, VERB 
+cell, NOUN 
+
+, SPACE 
+divided, VERB 
+mesh, NOUN 
+directions, NOUN 
+number, NOUN 
+cells, NOUN 
+
+, SPACE 
+selected, VERB 
+subdivision, NOUN 
+constraint, NOUN 
+
+, SPACE 
+embedded, VERB 
+regions, NOUN 
+form, VERB 
+defined, VERB 
+blocks, NOUN 
+criteria, NOUN 
+
+, SPACE 
+available, ADJ 
+deciding, VERB 
+cells, NOUN 
+subdivide, VERB 
+
+, SPACE 
+1, X 
+Geometric, PROPN 
+embedding, VERB 
+mesh, NOUN 
+cells, NOUN 
+adjacent, ADJ 
+wall, NOUN 
+
+, SPACE 
+successively, ADV 
+refined, VERB 
+direction, NOUN 
+normal, ADJ 
+wall, NOUN 
+
+, SPACE 
+desired, VERB 
+near, ADJ 
+wall, NOUN 
+spacing, NOUN 
+achieved, VERB 
+
+, SPACE 
+2, X 
+Block, VERB 
+embedding, VERB 
+User, NOUN 
+defined, VERB 
+regions, NOUN 
+mesh, NOUN 
+
+, SPACE 
+refined, VERB 
+directions, NOUN 
+
+, SPACE 
+3, X 
+Solution, NOUN 
+adaptation, NOUN 
+Cells, NOUN 
+measure, NOUN 
+solu-, ADJ 
+
+, SPACE 
+tion, NOUN 
+accuracy, NOUN 
+greater, ADJ 
+specified, ADJ 
+threshold, NOUN 
+refined, VERB 
+
+, SPACE 
+appropriate, ADJ 
+direction, NOUN 
+numerical, ADJ 
+model, NOUN 
+adapt, VERB 
+
+, SPACE 
+Notation, PROPN 
+
+, SPACE 
+discrete, ADJ 
+coefficient, ADJ 
+matrix, NOUN 
+
+, SPACE 
+b, PRON 
+discrete, ADJ 
+source, NOUN 
+term, NOUN 
+
+, SPACE 
+cl, NOUN 
+c, PROPN 
+2, NUM 
+c~, NUM 
+coefficients, NOUN 
+k, PROPN 
+e, PROPN 
+equations, NOUN 
+
+, SPACE 
+C, NOUN 
+discrete, ADJ 
+continuity, NOUN 
+operator, NOUN 
+
+, SPACE 
+C, NOUN 
+p, NOUN 
+discrete, ADJ 
+pressure, NOUN 
+gradient, NOUN 
+operator, NOUN 
+
+, SPACE 
+C, NOUN 
+d, NOUN 
+hole, NOUN 
+discharge, NOUN 
+coefficient, VERB 
+
+, SPACE 
+cp, PROPN 
+specific, ADJ 
+heat, NOUN 
+constant, ADJ 
+pressure, NOUN 
+
+, SPACE 
+D, ADJ 
+film, NOUN 
+cooling, VERB 
+hole, NOUN 
+diameter, NOUN 
+
+, SPACE 
+dS, PUNCT 
+area, NOUN 
+cell, NOUN 
+face, VERB 
+
+, SPACE 
+G, NOUN 
+generation, NOUN 
+turbulent, ADJ 
+kinetic, ADJ 
+energy, NOUN 
+
+, SPACE 
+H, PROPN 
+enthalpy, NOUN 
+
+, SPACE 
+linear, VERB 
+interpolation, NOUN 
+operator, NOUN 
+
+, SPACE 
+k, PROPN 
+turbulent, ADJ 
+kinetic, ADJ 
+energy, NOUN 
+
+, SPACE 
+L, NOUN 
+mixing, VERB 
+length, NOUN 
+
+, SPACE 
+Nu, PROPN 
+H, NOUN 
+Nusselt, PROPN 
+number, NOUN 
+based, VERB 
+duct, NOUN 
+height, NOUN 
+
+, SPACE 
+Pr, PROPN 
+Prandtl, PROPN 
+number, NOUN 
+
+, SPACE 
+P0, PROPN 
+stagnation, NOUN 
+pressure, NOUN 
+
+, SPACE 
+p, NOUN 
+static, ADJ 
+pressure, NOUN 
+
+, SPACE 
+R, NOUN 
+gas, NOUN 
+constant, NOUN 
+
+, SPACE 
+H, PROPN 
+Reynolds, PROPN 
+number, NOUN 
+based, VERB 
+duct, NOUN 
+height, NOUN 
+
+, SPACE 
+T, PROPN 
+temperature, NOUN 
+
+, SPACE 
+u, NOUN 
+velocity, NOUN 
+
+, SPACE 
+x, SYM 
+Cartesian, PROPN 
+coordinates, VERB 
+Greek, PROPN 
+
+, SPACE 
+ct, NOUN 
+
+, SPACE 
+~ij, PUNCT 
+
+, SPACE 
+E, NOUN 
+
+, SPACE 
+tx, PRON 
+
+, SPACE 
+P, NOUN 
+
+, SPACE 
+O, INTJ 
+
+, SPACE 
+T, NOUN 
+
+, SPACE 
+~p, PUNCT 
+
+, SPACE 
+AV, PROPN 
+
+, SPACE 
+Subscripts, PROPN 
+
+, SPACE 
+cl, NOUN 
+
+, SPACE 
+j, PROPN 
+
+, SPACE 
+
+, SPACE 
+l, NOUN 
+
+, SPACE 
+t, NOUN 
+
+, SPACE 
+H, PROPN 
+l, NOUN 
+H8, PROPN 
+
+, SPACE 
+N1, PROPN 
+Ns, PROPN 
+
+, SPACE 
+k, PROPN 
+e, NOUN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+2, NUM 
+hole, NOUN 
+inclination, NOUN 
+angle, NOUN 
+
+, SPACE 
+Kronecker, PROPN 
+delta, NOUN 
+
+, SPACE 
+turbulent, ADJ 
+dissipation, NOUN 
+rate, NOUN 
+
+, SPACE 
+viscosity, NOUN 
+
+, SPACE 
+density, NOUN 
+
+, SPACE 
+Prandtl, PROPN 
+number, NOUN 
+
+, SPACE 
+viscous, ADJ 
+shear, NOUN 
+stress, NOUN 
+tensor, NOUN 
+
+, SPACE 
+general, ADJ 
+transported, VERB 
+variable, ADJ 
+
+, SPACE 
+cell, NOUN 
+volume, NOUN 
+
+, SPACE 
+adaptation, NOUN 
+parameter, NOUN 
+
+, SPACE 
+centerline, ADJ 
+value, NOUN 
+
+, SPACE 
+tensor, NOUN 
+components, NOUN 
+
+, SPACE 
+element, NOUN 
+discrete, ADJ 
+difference, NOUN 
+stencil, NOUN 
+
+, SPACE 
+laminar, ADJ 
+property, NOUN 
+
+, SPACE 
+turbulent, ADJ 
+property, NOUN 
+
+, SPACE 
+hanging, VERB 
+node, NOUN 
+values, NOUN 
+Figure, VERB 
+la, PRON 
+
+, SPACE 
+regular, ADJ 
+node, ADJ 
+values, NOUN 
+Figure, VERB 
+la, PRON 
+
+, SPACE 
+property, NOUN 
+associated, VERB 
+k, PROPN 
+e, PROPN 
+model, NOUN 
+
+, SPACE 
+stagnation, NOUN 
+property, NOUN 
+
+, SPACE 
+upstream, ADJ 
+reference, NOUN 
+location, NOUN 
+duct, NOUN 
+inlet, ADJ 
+
+, SPACE 
+film, NOUN 
+cooling, VERB 
+hole, NOUN 
+exit, NOUN 
+location, NOUN 
+
+, SPACE 
+156, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+2, NUM 
+April, PROPN 
+1996, NUM 
+
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+H6, PROPN 
+
+, SPACE 
+Hz, PROPN 
+L, PROPN 
+N~, PROPN 
+
+, SPACE 
+Cell, PROPN 
+=, SYM 
+C1, PROPN 
+
+, SPACE 
+~, PUNCT 
+N2, PROPN 
+~K, PUNCT 
+~¢j, ADP 
+
+, SPACE 
+L~, PUNCT 
+L, PROPN 
+Hanging, PROPN 
+Node, PROPN 
+Odent, PROPN 
+~, NOUN 
+ions, NOUN 
+
+, SPACE 
+LTR(H4, VERB 
+=, PROPN 
+1,1,0, NUM 
+
+, SPACE 
+LTR(H3, PROPN 
+=, PROPN 
+1,0,0, PROPN 
+
+, SPACE 
+Nodal, PROPN 
+NelghbouPs, PROPN 
+
+, SPACE 
+NGBN(H4, PROPN 
+=, PROPN 
+H6,-1,Hg,-I, PROPN 
+N3,N7, PROPN 
+
+, SPACE 
+Interpolation, PROPN 
+points, NOUN 
+
+, SPACE 
+NGBH(H3, PROPN 
+=, PROPN 
+N1, PROPN 
+N3,N5,N7, PROPN 
+
+, SPACE 
+NGBH(H4, PROPN 
+=, PROPN 
+N3,N3,N7,N7, PROPN 
+
+, SPACE 
+Cell, NOUN 
+Vertices, NOUN 
+
+, SPACE 
+NSRM(C1, PROPN 
+=, PROPN 
+N1, PROPN 
+N2,N3,N4, PROPN 
+
+, SPACE 
+N5,N6,N7,N8, PROPN 
+
+, SPACE 
+Nodal, NOUN 
+Connectivity, PROPN 
+
+, SPACE 
+~, PUNCT 
+C3-, NOUN 
+~, PUNCT 
+C2, PROPN 
+
+, SPACE 
+~,0, PUNCT 
+F4, PROPN 
+<, X 
+
+, SPACE 
+FI, PROPN 
+$, SYM 
+K, NOUN 
+4j, PROPN 
+
+, SPACE 
+Cells, PROPN 
+Sharing, PROPN 
+Node, PROPN 
+
+, SPACE 
+MSRN(H3, PROPN 
+=, PROPN 
+FI.C1,F2.C1, PROPN 
+
+, SPACE 
+F3.C1,F4,C1, PROPN 
+
+, SPACE 
+Catlwise, PROPN 
+Neighbours, PROPN 
+
+, SPACE 
+NGBC(C1, PROPN 
+=, NOUN 
+D1,*,*,C2, PROPN 
+
+, SPACE 
+NGBC(F4, PROPN 
+=, PROPN 
+-C1, PROPN 
+F3,C3,F2, PROPN 
+
+, SPACE 
+Cells, PROPN 
+Shadng, PROPN 
+Dummy, PROPN 
+Index, PROPN 
+
+, SPACE 
+MSRD(D1, PROPN 
+=, NOUN 
+Ff, PROPN 
+F2,F3,F4, PROPN 
+
+, SPACE 
+denotes, VERB 
+cell, NOUN 
+included, VERB 
+
+, SPACE 
+figure, NOUN 
+
+, SPACE 
+la, X 
+position, NOUN 
+H3, PROPN 
+
+, SPACE 
+b, X 
+Cell, PROPN 
+Connectivity, PROPN 
+
+, SPACE 
+Figure, PROPN 
+1, NUM 
+Embedded, VERB 
+mesh, NOUN 
+data, NOUN 
+structures, NOUN 
+nodal, NOUN 
+connec-, ADJ 
+
+, SPACE 
+tivity, NOUN 
+arrays, NOUN 
+b, X 
+cell, NOUN 
+wise, ADJ 
+connectivity, NOUN 
+arrays, NOUN 
+
+, SPACE 
+first-, NUM 
+second, ADJ 
+order, NOUN 
+differences, NOUN 
+gradients, NOUN 
+
+, SPACE 
+flow, NOUN 
+variables, NOUN 
+Adaptation, NOUN 
+restricted, VERB 
+cells, NOUN 
+greater, ADJ 
+
+, SPACE 
+given, VERB 
+size, NOUN 
+avoid, VERB 
+excessively, ADV 
+fine, ADJ 
+cells, NOUN 
+
+, SPACE 
+created, VERB 
+example, NOUN 
+ensure, VERB 
+near, ADP 
+wall, PROPN 
+cells, NOUN 
+remain, VERB 
+
+, SPACE 
+logarithmic, ADJ 
+region, NOUN 
+boundary, ADJ 
+layer, NOUN 
+
+, SPACE 
+Mesh, PROPN 
+embedding, NOUN 
+produces, VERB 
+internal, ADJ 
+interfaces, NOUN 
+mesh, NOUN 
+
+, SPACE 
+hanging, VERB 
+nodes, NOUN 
+facilitate, VERB 
+transition, NOUN 
+
+, SPACE 
+coarse, ADJ 
+fine, ADJ 
+regions, NOUN 
+Values, NOUN 
+hanging, VERB 
+nodes, NOUN 
+set, VERB 
+
+, SPACE 
+linear, ADJ 
+interpolation, NOUN 
+discussed, VERB 
+Control, PROPN 
+volume, NOUN 
+up-, NOUN 
+
+, SPACE 
+winding, NOUN 
+section, NOUN 
+
+, SPACE 
+Data, PROPN 
+structure, NOUN 
+
+, SPACE 
+cell, NOUN 
+divisions, NOUN 
+applied, VERB 
+recursively, ADV 
+beginning, VERB 
+
+, SPACE 
+structured, ADJ 
+H, PROPN 
+mesh, NOUN 
+coarse, ADJ 
+resolution, NOUN 
+flow, NOUN 
+
+, SPACE 
+domain, NOUN 
+gives, VERB 
+embedded, VERB 
+mesh, NOUN 
+background, NOUN 
+structure, NOUN 
+
+, SPACE 
+means, VERB 
+hanging, VERB 
+nodes, NOUN 
+eliminated, VERB 
+
+, SPACE 
+extending, VERB 
+mesh, NOUN 
+lines, NOUN 
+domain, NOUN 
+boundaries, NOUN 
+single, ADJ 
+
+, SPACE 
+structured, ADJ 
+H, PROPN 
+mesh, PROPN 
+recovered, VERB 
+referred, VERB 
+back-, NOUN 
+
+, SPACE 
+ground, VERB 
+fine, ADJ 
+mesh, NOUN 
+mesh, NOUN 
+needed, VERB 
+
+, SPACE 
+perform, VERB 
+computations, NOUN 
+mesh, NOUN 
+embedding, VERB 
+model, NOUN 
+
+, SPACE 
+background, NOUN 
+fine, ADJ 
+mesh, NOUN 
+provides, VERB 
+node, NOUN 
+
+, SPACE 
+embedded, VERB 
+mesh, NOUN 
+unique, ADJ 
+j, PROPN 
+k, PROPN 
+triplet, NOUN 
+identifies, VERB 
+
+, SPACE 
+position, NOUN 
+nodes, NOUN 
+given, VERB 
+unique, ADJ 
+index, NOUN 
+sequential, ADJ 
+
+, SPACE 
+list, NOUN 
+nodes, NOUN 
+index, NOUN 
+identify, VERB 
+
+, SPACE 
+nodes, NOUN 
+discretization, NOUN 
+scheme, NOUN 
+background, NOUN 
+j, PROPN 
+k, PROPN 
+
+, SPACE 
+triplet, NOUN 
+compute, VERB 
+mesh, NOUN 
+connectivity, NOUN 
+arrays, NOUN 
+
+, SPACE 
+diagnostic, ADJ 
+output, NOUN 
+
+, SPACE 
+background, NOUN 
+j, PROPN 
+k, PROPN 
+triplets, NOUN 
+insufficient, ADJ 
+
+, SPACE 
+define, VERB 
+mesh, NOUN 
+connectivity, NOUN 
+necessary, ADJ 
+additional, ADJ 
+infor-, ADJ 
+
+, SPACE 
+mation, NOUN 
+contained, VERB 
+array, NOUN 
+LTR(n, NUM 
+indicates, VERB 
+
+, SPACE 
+presence, NOUN 
+absence, NOUN 
+neighbours, NOUN 
+node, PROPN 
+n, ADV 
+mesh, NOUN 
+
+, SPACE 
+directions, NOUN 
+LTR(n, NUM 
+=, NOUN 
+neighbour, ADJ 
+indicator, NOUN 
+j, NOUN 
+neighbour, PROPN 
+indica-, ADJ 
+
+, SPACE 
+tor, NOUN 
+k, ADJ 
+neighbour, ADJ 
+indicator, NOUN 
+neighbour, ADJ 
+indicators, NOUN 
+set, VERB 
+
+, SPACE 
+-1, PROPN 
+0, NUM 
++, PROPN 
+1, NUM 
+with-, NOUN 
+1, NUM 
+indicating, VERB 
+neighbour, NOUN 
+
+, SPACE 
+-ve, NOUN 
+mesh, NOUN 
+direction, NOUN 
+absent, ADJ 
++, SYM 
+1, NUM 
+indicating, VERB 
++, ADJ 
+ve, VERB 
+
+, SPACE 
+neighbour, NOUN 
+absent, ADJ 
+0, NUM 
+indicating, VERB 
+neighbours, NOUN 
+
+, SPACE 
+present, ADJ 
+mesh, NOUN 
+structure, NOUN 
+allow, VERB 
+node, NOUN 
+
+, SPACE 
+neighbours, NOUN 
+absent, ADJ 
+mesh, NOUN 
+direction, NOUN 
+Typical, ADJ 
+values, NOUN 
+Mesh, PROPN 
+embedding, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+LTR, PROPN 
+hanging, VERB 
+nodes, NOUN 
+shown, VERB 
+Figure, PROPN 
+la, PROPN 
+nonhang-, ADJ 
+
+, SPACE 
+ing, PROPN 
+nodes, PROPN 
+LTR, PROPN 
+=, PROPN 
+0, NUM 
+O, INTJ 
+0, NUM 
+
+, SPACE 
+values, NOUN 
+LTR, PROPN 
+background, NOUN 
+j, PROPN 
+k, PROPN 
+triplet, NOUN 
+
+, SPACE 
+node, PROPN 
+completely, ADV 
+define, VERB 
+structure, NOUN 
+embedded, VERB 
+mesh, NOUN 
+
+, SPACE 
+information, NOUN 
+node, NOUN 
+coordinates, NOUN 
+
+, SPACE 
+passed, VERB 
+mesh, NOUN 
+generator, NOUN 
+flow, NOUN 
+solver, VERB 
+
+, SPACE 
+simplify, VERB 
+numerical, ADJ 
+discretizations, NOUN 
+flow, NOUN 
+solver, VERB 
+gener-, NOUN 
+
+, SPACE 
+ates, VERB 
+set, NOUN 
+connectivity, NOUN 
+arrays, NOUN 
+arrays, NOUN 
+
+, SPACE 
+1, X 
+NGBN, PROPN 
+list, NOUN 
+direct, ADJ 
+nodal, NOUN 
+neighbours, NOUN 
+mesh, ADJ 
+
+, SPACE 
+direction, NOUN 
+
+, SPACE 
+2, X 
+NGBH, PROPN 
+list, NOUN 
+nodal, NOUN 
+neighbours, NOUN 
+hanging, VERB 
+node, NOUN 
+
+, SPACE 
+interpolations, NOUN 
+
+, SPACE 
+3, X 
+NSRM, PROPN 
+list, NOUN 
+nodal, NOUN 
+vertices, VERB 
+cell, NOUN 
+
+, SPACE 
+4, NUM 
+NGBC, PROPN 
+list, NOUN 
+direct, ADJ 
+cell, NOUN 
+wise, ADJ 
+neighbours, NOUN 
+mesh, ADJ 
+
+, SPACE 
+direction, NOUN 
+
+, SPACE 
+5, X 
+MSRN, NOUN 
+list, NOUN 
+cells, NOUN 
+touching, VERB 
+node, NOUN 
+
+, SPACE 
+6, NUM 
+MSRD, ADV 
+list, NOUN 
+cells, NOUN 
+sharing, VERB 
+dummy, ADJ 
+cell, NOUN 
+index, NOUN 
+
+, SPACE 
+
+, SPACE 
+7, NUM 
+ICFN, NOUN 
+list, NOUN 
+nodes, NOUN 
+convection, NOUN 
+diffusion, NOUN 
+equation, NOUN 
+
+, SPACE 
+difference, NOUN 
+stencil, NOUN 
+
+, SPACE 
+arrays, NOUN 
+illustrated, VERB 
+Figures, PROPN 
+la, PROPN 
+b., PROPN 
+
+, SPACE 
+reduce, VERB 
+unstructured, ADJ 
+array, NOUN 
+handling, NOUN 
+connectivity, NOUN 
+arrays, NOUN 
+
+, SPACE 
+fixed, VERB 
+dimensions, NOUN 
+example, NOUN 
+array, NOUN 
+NGBN, PROPN 
+stor-, ADJ 
+
+, SPACE 
+age, NOUN 
+neighbours, NOUN 
+direction, NOUN 
+nodes, NOUN 
+
+, SPACE 
+independently, ADV 
+neighbours, NOUN 
+actually, ADV 
+present, ADJ 
+
+, SPACE 
+hanging, VERB 
+node, NOUN 
+NGBN, PROPN 
+set, VERB 
+-1, INTJ 
+neighbours, NOUN 
+
+, SPACE 
+absent, ADJ 
+Typical, ADJ 
+values, NOUN 
+NGBN, PROPN 
+shown, VERB 
+Figure, PROPN 
+la, PROPN 
+
+, SPACE 
+hanging, VERB 
+nodes, NOUN 
+important, ADJ 
+neighbours, NOUN 
+
+, SPACE 
+interpolate, VERB 
+linearly, ADV 
+hanging, VERB 
+node, NOUN 
+properties, NOUN 
+
+, SPACE 
+stored, VERB 
+array, NOUN 
+NGBH, PROPN 
+interpolation, NOUN 
+uses, VERB 
+values, NOUN 
+
+, SPACE 
+vertices, NOUN 
+face, NOUN 
+face, NOUN 
+centered, VERB 
+hanging, NOUN 
+nodes, NOUN 
+
+, SPACE 
+values, NOUN 
+ends, NOUN 
+edge, NOUN 
+edge, NOUN 
+centered, VERB 
+nodes, NOUN 
+
+, SPACE 
+NGBH, PROPN 
+stores, NOUN 
+neighbours, NOUN 
+hanging, NOUN 
+nodes, NOUN 
+
+, SPACE 
+edge, NOUN 
+centered, VERB 
+nodes, NOUN 
+neighbour, NOUN 
+stored, VERB 
+twice, ADV 
+
+, SPACE 
+interpolation, NOUN 
+weights, NOUN 
+set, VERB 
+0.25, NUM 
+independently, ADV 
+
+, SPACE 
+hanging, VERB 
+node, NOUN 
+position, NOUN 
+edge, NOUN 
+centered, VERB 
+nodes, NOUN 
+weights, NOUN 
+
+, SPACE 
+automatically, ADV 
+increase, VERB 
+0.5, NUM 
+neighbour, NOUN 
+counted, VERB 
+
+, SPACE 
+twice, ADV 
+Typical, ADJ 
+values, NOUN 
+NGBH, PROPN 
+shown, VERB 
+Figure, PROPN 
+la, PROPN 
+
+, SPACE 
+structure, NOUN 
+NGBH, PROPN 
+highlights, VERB 
+important, ADJ 
+aspect, NOUN 
+
+, SPACE 
+embedded, VERB 
+mesh, NOUN 
+model, NOUN 
+neighbouring, NOUN 
+cells, NOUN 
+
+, SPACE 
+differ, VERB 
+generation, NOUN 
+cell, NOUN 
+division, NOUN 
+process, NOUN 
+
+, SPACE 
+cell, NOUN 
+edge, NOUN 
+face, NOUN 
+contain, VERB 
+hanging, VERB 
+
+, SPACE 
+node, NOUN 
+lie, VERB 
+strictly, ADV 
+geometric, ADJ 
+centre, NOUN 
+
+, SPACE 
+values, NOUN 
+hanging, VERB 
+nodes, NOUN 
+set, VERB 
+linear, ADJ 
+interpolation, NOUN 
+
+, SPACE 
+properties, NOUN 
+cell, NOUN 
+coarse, ADJ 
+interface, NOUN 
+
+, SPACE 
+obtained, VERB 
+solely, ADV 
+values, NOUN 
+cell, NOUN 
+vertices, NOUN 
+
+, SPACE 
+linear, ADJ 
+interpolation, NOUN 
+rules, NOUN 
+number, NOUN 
+location, NOUN 
+
+, SPACE 
+hanging, VERB 
+nodes, NOUN 
+immaterial, ADJ 
+special, ADJ 
+interpolation, NOUN 
+
+, SPACE 
+treatments, NOUN 
+required, VERB 
+indices, NOUN 
+cell, NOUN 
+vertices, NOUN 
+
+, SPACE 
+stored, VERB 
+array, NOUN 
+NSRM, PROPN 
+illustrated, VERB 
+Figure, PROPN 
+la, PROPN 
+addition, NOUN 
+
+, SPACE 
+inuerse, NOUN 
+NSRM, PROPN 
+stored, VERB 
+array, NOUN 
+MSRN, NOUN 
+
+, SPACE 
+contains, VERB 
+cells, NOUN 
+share, VERB 
+given, VERB 
+node, NOUN 
+vertex, NOUN 
+
+, SPACE 
+nonhanging, NOUN 
+nodes, NOUN 
+cells, NOUN 
+sharing, VERB 
+node, NOUN 
+unique, ADJ 
+
+, SPACE 
+Hanging, VERB 
+nodes, NOUN 
+surrounded, VERB 
+fewer, ADJ 
+cells, NOUN 
+
+, SPACE 
+cells, NOUN 
+coarse, ADJ 
+inserted, VERB 
+MSRN, NOUN 
+
+, SPACE 
+shown, VERB 
+Figure, PROPN 
+lb, PROPN 
+
+, SPACE 
+evaluate, VERB 
+certain, ADJ 
+flux, NOUN 
+contributions, NOUN 
+necessary, ADJ 
+find, VERB 
+
+, SPACE 
+cells, NOUN 
+cell, NOUN 
+face, NOUN 
+information, NOUN 
+
+, SPACE 
+available, ADJ 
+array, NOUN 
+NGBC, PROPN 
+contains, VERB 
+cell, NOUN 
+neigh-, ADJ 
+
+, SPACE 
+bours, NOUN 
+mesh, NOUN 
+direction, NOUN 
+embedding, VERB 
+interface, NOUN 
+cell, NOUN 
+
+, SPACE 
+coarse, ADJ 
+multiple, ADJ 
+neighbours, NOUN 
+fine, ADJ 
+
+, SPACE 
+NGBC, PROPN 
+store, VERB 
+neighbour, NOUN 
+
+, SPACE 
+direction, NOUN 
+fine, ADJ 
+cells, NOUN 
+allocated, VERB 
+dummy, ADJ 
+index, NOUN 
+
+, SPACE 
+stored, VERB 
+NGBC, PROPN 
+array, NOUN 
+MSRD, PROPN 
+identifies, VERB 
+fine, ADJ 
+
+, SPACE 
+cells, NOUN 
+share, VERB 
+dummy, ADJ 
+index, NOUN 
+dummy, ADJ 
+indices, NOUN 
+
+, SPACE 
+easily, ADV 
+identified, VERB 
+appended, VERB 
+list, NOUN 
+cells, NOUN 
+
+, SPACE 
+values, NOUN 
+greater, ADJ 
+total, ADJ 
+number, NOUN 
+cells, NOUN 
+
+, SPACE 
+cells, NOUN 
+fine, ADJ 
+interface, NOUN 
+share, VERB 
+unique, ADJ 
+coarse, NOUN 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+2, NUM 
+April, PROPN 
+1996, NUM 
+157, NUM 
+
+
+, SPACE 
+Mesh, PROPN 
+embedding, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+et, PROPN 
+aL, PROPN 
+
+, SPACE 
+Heirarchy, PROPN 
+Violated, PROPN 
+Heirarchy, PROPN 
+Satisfied, NUM 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+b, PROPN 
+
+, SPACE 
+c, PROPN 
+
+, SPACE 
+Figure, PROPN 
+2, NUM 
+Embedded, VERB 
+mesh, NOUN 
+hierarchy, NOUN 
+constraints, NOUN 
+adjacent, ADJ 
+
+, SPACE 
+cells, NOUN 
+differ, VERB 
+generation, NOUN 
+b, X 
+cells, NOUN 
+
+, SPACE 
+simultaneously, ADV 
+fine, ADJ 
+coarse, ADJ 
+sides, NOUN 
+
+, SPACE 
+interface, NOUN 
+c, X 
+nonhanging, NOUN 
+nodes, NOUN 
+lie, VERB 
+interface, NOUN 
+
+, SPACE 
+neighbour, NOUN 
+index, NOUN 
+multiplied, VERB 
+-1, PROPN 
+
+, SPACE 
+stored, VERB 
+NGBC, PROPN 
+boundary, ADJ 
+cells, NOUN 
+neighbours, NOUN 
+
+, SPACE 
+given, VERB 
+direction, NOUN 
+NGBC, PROPN 
+set, VERB 
+0, NUM 
+NGBC, PROPN 
+contains, VERB 
+
+, SPACE 
+information, NOUN 
+needed, VERB 
+decide, VERB 
+given, VERB 
+cell, NOUN 
+
+, SPACE 
+coarse, ADJ 
+fine, ADJ 
+interface, NOUN 
+away, ADV 
+inter-, NOUN 
+
+, SPACE 
+faces, NOUN 
+Typical, ADJ 
+values, NOUN 
+NGBC, PROPN 
+MSRD, PROPN 
+shown, VERB 
+Figure, PROPN 
+
+, SPACE 
+lb, X 
+
+, SPACE 
+difference, NOUN 
+stencil, NOUN 
+convection, NOUN 
+diffusion, NOUN 
+operator, NOUN 
+
+, SPACE 
+stored, VERB 
+array, NOUN 
+ICFN, PROPN 
+discussed, VERB 
+
+, SPACE 
+Numerical, ADJ 
+discretization, NOUN 
+scheme, NOUN 
+section, NOUN 
+preceding, VERB 
+connec-, ADJ 
+
+, SPACE 
+tivity, NOUN 
+arrays, NOUN 
+provide, VERB 
+efficient, ADJ 
+look, VERB 
+tables, NOUN 
+nodal, NOUN 
+
+, SPACE 
+cellwise, ADJ 
+indices, NOUN 
+needed, VERB 
+discretization, NOUN 
+scheme, NOUN 
+Searching, VERB 
+
+, SPACE 
+neighbours, NOUN 
+avoided, VERB 
+initial, ADJ 
+calculation, NOUN 
+
+, SPACE 
+connectivity, NOUN 
+arrays, NOUN 
+searches, NOUN 
+carded, VERB 
+mesh, NOUN 
+
+, SPACE 
+lines, NOUN 
+background, NOUN 
+fine, ADJ 
+mesh, NOUN 
+LTR, PROPN 
+decide, VERB 
+
+, SPACE 
+terminate, VERB 
+search, NOUN 
+
+, SPACE 
+Hierarchical, ADJ 
+constraints, NOUN 
+cell, NOUN 
+divisions, NOUN 
+
+, SPACE 
+preceding, VERB 
+data, NOUN 
+structure, NOUN 
+places, VERB 
+certain, ADJ 
+hierarchical, ADJ 
+con-, NOUN 
+
+, SPACE 
+straints, NOUN 
+mesh, NOUN 
+embedding, VERB 
+algorithm, NOUN 
+illustrated, VERB 
+
+, SPACE 
+Figure, PROPN 
+2, NUM 
+constraint, NOUN 
+prevents, VERB 
+cells, NOUN 
+fine, ADJ 
+
+, SPACE 
+interface, NOUN 
+divided, VERB 
+coarse, ADJ 
+cell, NOUN 
+
+, SPACE 
+divided, VERB 
+Figure, NOUN 
+2a, PROPN 
+neighbouring, NOUN 
+cells, NOUN 
+
+, SPACE 
+differ, VERB 
+generation, NOUN 
+second, ADJ 
+constraint, NOUN 
+pre-, NOUN 
+
+, SPACE 
+vents, NOUN 
+neighbouring, NOUN 
+cells, NOUN 
+refined, VERB 
+conjugate, ADJ 
+directions, NOUN 
+
+, SPACE 
+Figure, NOUN 
+2b, PROPN 
+cell, NOUN 
+simultaneously, ADV 
+fine, ADJ 
+
+, SPACE 
+interface, NOUN 
+orientation, NOUN 
+coarse, ADJ 
+
+, SPACE 
+conjugate, NOUN 
+orientation, NOUN 
+constraint, NOUN 
+prevents, VERB 
+diagonally, ADV 
+
+, SPACE 
+adjacent, ADJ 
+cells, NOUN 
+refined, VERB 
+direction, NOUN 
+
+, SPACE 
+neighbours, NOUN 
+refined, VERB 
+Figure, NOUN 
+2c, PROPN 
+node, NOUN 
+
+, SPACE 
+highlighted, VERB 
+figure, NOUN 
+set, NOUN 
+neighbours, NOUN 
+LTR, PROPN 
+=, ADJ 
+
+, SPACE 
+0, NUM 
+0, NUM 
+0, NUM 
+classed, VERB 
+hanging, VERB 
+node, NOUN 
+
+, SPACE 
+lies, VERB 
+embedding, VERB 
+interface, NOUN 
+violations, NOUN 
+hierarchy, NOUN 
+constraints, NOUN 
+removed, VERB 
+
+, SPACE 
+dividing, VERB 
+cell(s, PROPN 
+coarse, ADJ 
+interface, NOUN 
+
+, SPACE 
+Unfortunately, ADV 
+division, NOUN 
+create, VERB 
+hierarchy, NOUN 
+viola-, NOUN 
+
+, SPACE 
+tion, NOUN 
+cell, NOUN 
+lead, VERB 
+series, NOUN 
+parasitic, ADJ 
+
+, SPACE 
+divisions, NOUN 
+cascade, VERB 
+mesh, NOUN 
+Experience, NOUN 
+shown, VERB 
+
+, SPACE 
+constraint, NOUN 
+leads, VERB 
+particularly, ADV 
+high, ADJ 
+number, NOUN 
+
+, SPACE 
+parasitic, ADJ 
+divisions, NOUN 
+
+, SPACE 
+Embedded, VERB 
+mesh, NOUN 
+generation, NOUN 
+
+, SPACE 
+Embedded, VERB 
+meshes, NOUN 
+generated, VERB 
+following, ADJ 
+algorithm, PROPN 
+
+, SPACE 
+1, X 
+Define, VERB 
+initial, ADJ 
+mesh, NOUN 
+read, VERB 
+previous, ADJ 
+mesh, NOUN 
+performing, VERB 
+
+, SPACE 
+solution, NOUN 
+adaptation, NOUN 
+
+, SPACE 
+2, X 
+Calculate, VERB 
+connectivity, NOUN 
+arrays, NOUN 
+
+, SPACE 
+3, X 
+Select, PROPN 
+cells, NOUN 
+subdivision, NOUN 
+geometric, ADJ 
+block, NOUN 
+
+, SPACE 
+adaptation, NOUN 
+criteria, NOUN 
+
+, SPACE 
+4, X 
+Select, VERB 
+cells, NOUN 
+needed, VERB 
+remove, VERB 
+hierarchy, NOUN 
+violations, NOUN 
+
+, SPACE 
+5, X 
+Order, VERB 
+selected, VERB 
+cells, NOUN 
+coarse, ADJ 
+cells, NOUN 
+
+, SPACE 
+divided, VERB 
+neighbours, NOUN 
+
+, SPACE 
+6, NUM 
+Subdivide, ADJ 
+cells, NOUN 
+updating, VERB 
+LTR, PROPN 
+j, PROPN 
+k, PROPN 
+triplets, NOUN 
+new, ADJ 
+
+, SPACE 
+nodes, NOUN 
+added, VERB 
+
+, SPACE 
+7, X 
+Generate, VERB 
+new, ADJ 
+background, NOUN 
+fine, ADJ 
+mesh, NOUN 
+
+, SPACE 
+8), NUM 
+Ensure, NOUN 
+new, ADJ 
+nodes, NOUN 
+solid, ADJ 
+boundary, ADJ 
+lie, NOUN 
+
+, SPACE 
+boundary, NOUN 
+blend, VERB 
+changes, NOUN 
+boundary, ADJ 
+node, NOUN 
+
+, SPACE 
+position, NOUN 
+surrounding, VERB 
+mesh, NOUN 
+
+, SPACE 
+9, X 
+Repeat, NOUN 
+2, NUM 
+embedding, VERB 
+criteria, NOUN 
+satisfied, ADJ 
+
+, SPACE 
+cells, NOUN 
+divided, VERB 
+new, ADJ 
+nodes, NOUN 
+created, VERB 
+ap-, X 
+
+, SPACE 
+pended, VERB 
+list, NOUN 
+nodes, PROPN 
+existing, VERB 
+nodes, NOUN 
+connected, VERB 
+
+, SPACE 
+new, ADJ 
+neighbours, NOUN 
+Existing, VERB 
+nodes, NOUN 
+simply, ADV 
+LTR, PROPN 
+values, NOUN 
+
+, SPACE 
+modified, VERB 
+new, ADJ 
+nodes, NOUN 
+assigned, VERB 
+j, PROPN 
+k, PROPN 
+index, NOUN 
+
+, SPACE 
+background, NOUN 
+mesh, NOUN 
+correspond, VERB 
+index, NOUN 
+
+, SPACE 
+exists, VERB 
+background, NOUN 
+mesh, NOUN 
+index, NOUN 
+
+, SPACE 
+given, VERB 
+half, ADJ 
+integer, NOUN 
+value, NOUN 
+conflict, VERB 
+indices, NOUN 
+
+, SPACE 
+node, NOUN 
+cell, NOUN 
+divisions, NOUN 
+completed, VERB 
+
+, SPACE 
+new, ADJ 
+lines, NOUN 
+inserted, VERB 
+background, NOUN 
+mesh, NOUN 
+
+, SPACE 
+half, ADJ 
+integer, ADJ 
+values, NOUN 
+created, VERB 
+j, PROPN 
+k, PROPN 
+triplets, NOUN 
+
+, SPACE 
+nodes, NOUN 
+modified, VERB 
+account, VERB 
+increased, VERB 
+dimen-, NOUN 
+
+, SPACE 
+sions, NOUN 
+background, NOUN 
+mesh, NOUN 
+connectivity, NOUN 
+array, NOUN 
+
+, SPACE 
+updated, VERB 
+cell, NOUN 
+divisions, NOUN 
+NGBN, PROPN 
+
+, SPACE 
+arrays, NOUN 
+updated, VERB 
+embedding, VERB 
+sweep, NOUN 
+
+, SPACE 
+completed, VERB 
+
+, SPACE 
+Numerical, ADJ 
+model, NOUN 
+
+, SPACE 
+Governing, NOUN 
+equations, NOUN 
+
+, SPACE 
+flow, NOUN 
+heat, NOUN 
+transfer, NOUN 
+modelled, VERB 
+steady, ADJ 
+
+, SPACE 
+Reynolds, PROPN 
+averaged, VERB 
+conservation, NOUN 
+equations, NOUN 
+mass, PROPN 
+momentum, NOUN 
+
+, SPACE 
+energy, NOUN 
+following, VERB 
+perfect, ADJ 
+gas, NOUN 
+law, NOUN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+0x---, PROPN 
+7, NUM 
+puj, NOUN 
+=, VERB 
+0, NUM 
+
+, SPACE 
+Ou, PROPN 
+
+, SPACE 
+pUj, VERB 
+~Xj, X 
+~'rij, PUNCT 
+~p, PUNCT 
+
+, SPACE 
+~Xj, X 
+~Xj, X 
+
+, SPACE 
+°, VERB 
+-ax, ADV 
+axj, NOUN 
+1, NUM 
+7, NUM 
+
+, SPACE 
+1, NUM 
+,i, PUNCT 
++, PROPN 
+IL, PROPN 
+1, NUM 
+7, NUM 
+Ox, PROPN 
+Tt2c,/, PROPN 
+
+, SPACE 
+p, NOUN 
+=, PROPN 
+RpT, PROPN 
+
+, SPACE 
+
+, SPACE 
+au, ADV 
+auj, INTJ 
+2, NUM 
+Tij, NOUN 
+=, NOUN 
+ILl, PROPN 
++, CCONJ 
+ILt, NOUN 
+~xj, X 
+÷, PUNCT 
+~x, PUNCT 
+-3, SYM 
+~ijpk, X 
+1, X 
+
+, SPACE 
+laminar, NOUN 
+turbulent, ADJ 
+Prandtl, PROPN 
+numbers, NOUN 
+energy, NOUN 
+
+, SPACE 
+equation, NOUN 
+taken, VERB 
+0.7, NUM 
+0.9, NUM 
+respectively, ADV 
+turbulent, ADJ 
+
+, SPACE 
+158, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+2, NUM 
+April, PROPN 
+1996, NUM 
+
+
+, SPACE 
+viscosity, NOUN 
+modelled, VERB 
+high, ADJ 
+Reynolds, PROPN 
+number, NOUN 
+k, PROPN 
+e, NOUN 
+
+, SPACE 
+model, NOUN 
+
+, SPACE 
+k, NOUN 
+2, NUM 
+
+, SPACE 
+~t, PUNCT 
+=, NOUN 
+c, NOUN 
+~, NOUN 
+p--, NOUN 
+
+, SPACE 
+pUj, VERB 
+~Xj, X 
+~Xj, PUNCT 
+J'l, NOUN 
+~tGk, PUNCT 
+~Xj, X 
+G, PROPN 
+p~., PROPN 
+
+, SPACE 
++, PUNCT 
+ClG-, VERB 
+£, NOUN 
+c2p-, NOUN 
+~, PUNCT 
+2, NUM 
+pUJ, ADJ 
+oxj, NOUN 
+OXj, NOUN 
+P'l, NOUN 
++, CCONJ 
+OXj, NOUN 
+
+, SPACE 
+generation, NOUN 
+term, NOUN 
+G, NOUN 
+defined, VERB 
+
+, SPACE 
+G, NOUN 
+=, PROPN 
+lx, ADP 
+t, PROPN 
+~x./, PROPN 
+~x, PUNCT 
+Oxj, PROPN 
+
+, SPACE 
+k, PROPN 
+e, PROPN 
+model, NOUN 
+constants, NOUN 
+standard, ADJ 
+values, NOUN 
+
+, SPACE 
+c~, PROPN 
+=, NUM 
+0.09, NUM 
+~k, PUNCT 
+=, NOUN 
+1.0, NUM 
+o-~, ADJ 
+=, NOUN 
+1.3, NUM 
+c, NOUN 
+1, NUM 
+=, SYM 
+1.44, NUM 
+c, NOUN 
+2, NUM 
+=, SYM 
+1.92, NUM 
+
+, SPACE 
+log, NOUN 
+law, NOUN 
+near, ADJ 
+wall, NOUN 
+regions, NOUN 
+
+, SPACE 
+production, NOUN 
+term, NOUN 
+k, PROPN 
+equation, NOUN 
+evaluated, VERB 
+logarith-, ADJ 
+
+, SPACE 
+mic, ADJ 
+velocity, NOUN 
+profile, NOUN 
+e, NOUN 
+set, VERB 
+directly, ADV 
+local, ADJ 
+equilib-, ADJ 
+
+, SPACE 
+rium, NOUN 
+assumption, NOUN 
+places, VERB 
+constraint, NOUN 
+proximity, NOUN 
+
+, SPACE 
+near, ADJ 
+wall, NOUN 
+grid, PROPN 
+nodes, PROPN 
+closer, ADJ 
+y+=, PROPN 
+12, NUM 
+
+, SPACE 
+average, ADJ 
+y, NOUN 
+÷, PUNCT 
+values, NOUN 
+present, ADJ 
+calculations, NOUN 
+
+, SPACE 
+range, NOUN 
+25, NUM 
+50, NUM 
+
+, SPACE 
+Control, PROPN 
+volume, NOUN 
+assignment, NOUN 
+
+, SPACE 
+flow, NOUN 
+equations, NOUN 
+discretized, VERB 
+upwind, NOUN 
+control, NOUN 
+
+, SPACE 
+volume, NOUN 
+algorithm, PROPN 
+Moore, PROPN 
+1985, NUM 
+algorithm, NOUN 
+control, NOUN 
+
+, SPACE 
+volumes, NOUN 
+allocated, VERB 
+node, NOUN 
+fixed, VERB 
+advance, NOUN 
+
+, SPACE 
+allowed, VERB 
+adjust, VERB 
+calculation, NOUN 
+proceeds, VERB 
+
+, SPACE 
+aligned, VERB 
+closely, ADV 
+possible, ADJ 
+local, ADJ 
+flow, NOUN 
+direction, NOUN 
+
+, SPACE 
+alignment, NOUN 
+computed, VERB 
+subdividing, VERB 
+computational, ADJ 
+cell, NOUN 
+
+, SPACE 
+1/8th, NUM 
+subceUs, ADJ 
+assigning, VERB 
+1/8th, NUM 
+cell, NOUN 
+
+, SPACE 
+vertex, NOUN 
+closest, ADJ 
+downstream, ADJ 
+direction, NOUN 
+division, NOUN 
+
+, SPACE 
+1/8th, NUM 
+subcells, NOUN 
+method, NOUN 
+perform, VERB 
+finite, ADJ 
+
+, SPACE 
+volume, NOUN 
+integration, NOUN 
+independent, ADJ 
+mesh, NOUN 
+embedding, VERB 
+
+, SPACE 
+algorithm, NOUN 
+1/8th, NUM 
+cells, NOUN 
+allocated, VERB 
+
+, SPACE 
+control, NOUN 
+volume, NOUN 
+node, NOUN 
+agglomeration, NOUN 
+
+, SPACE 
+1/8th, NUM 
+cells, NOUN 
+assigned, VERB 
+illustrate, VERB 
+case, NOUN 
+flow, NOUN 
+
+, SPACE 
+grid, NOUN 
+lines, NOUN 
+shown, VERB 
+Figure, PROPN 
+3, NUM 
+downstream, ADJ 
+vertices, VERB 
+
+, SPACE 
+cell, NOUN 
+allocated, VERB 
+1/8th, NUM 
+sub, NOUN 
+cells, NOUN 
+
+, SPACE 
+allocated, VERB 
+upstream, ADJ 
+vertices, NOUN 
+Figure, NOUN 
+3a, PROPN 
+Agglomerating, VERB 
+
+, SPACE 
+l/8th, NOUN 
+cells, NOUN 
+produces, VERB 
+nodal, NOUN 
+control, NOUN 
+volume, NOUN 
+node, NOUN 
+
+, SPACE 
+center, NOUN 
+downstream, ADJ 
+face, NOUN 
+Figure, NOUN 
+3b, PROPN 
+control, NOUN 
+
+, SPACE 
+Flow, NOUN 
+
+, SPACE 
+Nodes, PROPN 
+receiving, VERB 
+l/8th, NOUN 
+contributions, NOUN 
+
+, SPACE 
+C, NOUN 
+Nodes, PROPN 
+receiving, VERB 
+1/8th, NUM 
+contribution~, PROPN 
+Control, PROPN 
+volume, NOUN 
+node, PROPN 
+
+, SPACE 
+Assignment, PROPN 
+l/8th, NOUN 
+sub, NOUN 
+~, NOUN 
+cells, NOUN 
+b, X 
+Agglomeration, NOUN 
+llSths, NOUN 
+fo, VERB 
+~, NOUN 
+n, NOUN 
+
+, SPACE 
+nodal, NOUN 
+control, NOUN 
+volume, NOUN 
+
+, SPACE 
+Figure, PROPN 
+3, NUM 
+Upwind, NOUN 
+control, NOUN 
+volumes, NOUN 
+convection, NOUN 
+dominated, VERB 
+
+, SPACE 
+flow, NOUN 
+grid, NOUN 
+lines, NOUN 
+Mesh, PROPN 
+embedding, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+F,?w, ADP 
+~, PROPN 
+l, NOUN 
+
+, SPACE 
+b, X 
+
+, SPACE 
+m, AUX 
+Hanging, PROPN 
+Node, PROPN 
+o, PROPN 
+Control, PROPN 
+Volumes, PROPN 
+Reassigned, VERB 
+
+, SPACE 
+m, PRON 
+Control, PROPN 
+Volumes, PROPN 
+Assigned, VERB 
+Regular, PROPN 
+Nodes, PROPN 
+o, PROPN 
+
+, SPACE 
+Figure, PROPN 
+4, NUM 
+Reassignment, PROPN 
+hanging, VERB 
+node, PROPN 
+control, NOUN 
+volumes, NOUN 
+
+, SPACE 
+flow, NOUN 
+fine, ADJ 
+coarse, VERB 
+interface, NOUN 
+reas-, ADJ 
+
+, SPACE 
+signment, NOUN 
+b, X 
+reassignment, NOUN 
+
+, SPACE 
+volume, NOUN 
+convective, ADJ 
+fluxes, NOUN 
+discretized, VERB 
+second, ADJ 
+order, NOUN 
+
+, SPACE 
+accurate, ADJ 
+central, ADJ 
+differencing, NOUN 
+need, NOUN 
+additional, ADJ 
+
+, SPACE 
+artificial, ADJ 
+viscosity, NOUN 
+stabilize, VERB 
+discretization, NOUN 
+Readers, NOUN 
+
+, SPACE 
+referred, VERB 
+Moore, PROPN 
+fuller, ADJ 
+details, NOUN 
+control, NOUN 
+volume, NOUN 
+upwind-, X 
+
+, SPACE 
+ing, PROPN 
+algorithm, PROPN 
+
+, SPACE 
+Control, PROPN 
+volume, NOUN 
+upwinding, VERB 
+embedding, VERB 
+interfaces, NOUN 
+
+, SPACE 
+important, ADJ 
+interfaces, NOUN 
+treated, VERB 
+implicitly, ADV 
+
+, SPACE 
+act, VERB 
+internal, ADJ 
+boundaries, NOUN 
+retard, VERB 
+rate, NOUN 
+
+, SPACE 
+convergence, NOUN 
+Stability, PROPN 
+accuracy, NOUN 
+flux, NOUN 
+conservation, NOUN 
+
+, SPACE 
+maintained, VERB 
+interfaces, NOUN 
+features, NOUN 
+achieved, VERB 
+
+, SPACE 
+extending, VERB 
+numerical, PROPN 
+scheme, NOUN 
+proposed, VERB 
+
+, SPACE 
+present, ADJ 
+authors, NOUN 
+Lapworth, PROPN 
+1993, NUM 
+stacked, VERB 
+meshes, NOUN 
+
+, SPACE 
+direction, NOUN 
+rationale, NOUN 
+interface, NOUN 
+treatment, NOUN 
+
+, SPACE 
+ensure, VERB 
+1/8th, NUM 
+subcells, NOUN 
+assigned, VERB 
+hanging, VERB 
+
+, SPACE 
+nodes, NOUN 
+hanging, VERB 
+nodes, NOUN 
+receive, VERB 
+control, NOUN 
+volume, NOUN 
+
+, SPACE 
+updates, NOUN 
+conflict, NOUN 
+setting, VERB 
+values, NOUN 
+linear, ADJ 
+
+, SPACE 
+interpolation, NOUN 
+achieve, VERB 
+1/8th, NUM 
+subcells, NOUN 
+control, NOUN 
+
+, SPACE 
+volume, NOUN 
+upwinding, VERB 
+algorithm, PROPN 
+prefer, VERB 
+assign, VERB 
+hang-, ADJ 
+
+, SPACE 
+ing, ADJ 
+nodes, NOUN 
+reassigned, VERB 
+neighbours, NOUN 
+
+, SPACE 
+Stability, PROPN 
+maintained, VERB 
+ensuring, VERB 
+reassignment, NOUN 
+preserves, VERB 
+
+, SPACE 
+upwind, NOUN 
+bias, NOUN 
+control, NOUN 
+volumes, NOUN 
+Lapworth, PROPN 
+1993, NUM 
+
+, SPACE 
+shown, VERB 
+generic, ADJ 
+cases, NOUN 
+arise, VERB 
+flow, NOUN 
+interface, NOUN 
+
+, SPACE 
+fine, ADJ 
+coarse, ADJ 
+flow, VERB 
+interface, NOUN 
+
+, SPACE 
+opposite, ADJ 
+sense, NOUN 
+flow, VERB 
+interface, NOUN 
+brevity, NOUN 
+
+, SPACE 
+cases, NOUN 
+illustrate, VERB 
+interface, NOUN 
+treatment, NOUN 
+
+, SPACE 
+Lapworth, PROPN 
+fuller, ADJ 
+details, NOUN 
+control, NOUN 
+volumes, VERB 
+
+, SPACE 
+reassignment, NOUN 
+shown, VERB 
+Figure, PROPN 
+4, NUM 
+1/8th, NUM 
+cells, NOUN 
+
+, SPACE 
+reassigned, VERB 
+immediate, ADJ 
+neighbours, NOUN 
+interface, NOUN 
+
+, SPACE 
+produce, VERB 
+pseudo, NOUN 
+coarse, ADJ 
+control, NOUN 
+volumes, NOUN 
+fine, ADJ 
+
+, SPACE 
+interface, NOUN 
+interface, NOUN 
+control, NOUN 
+volumes, NOUN 
+identical, ADJ 
+
+, SPACE 
+arise, VERB 
+hanging, VERB 
+nodes, NOUN 
+present, ADJ 
+
+, SPACE 
+mesh, NOUN 
+simply, ADV 
+expanding, VERB 
+contracting, VERB 
+location, NOUN 
+
+, SPACE 
+preserves, VERB 
+upwind, NOUN 
+bias, NOUN 
+stability, NOUN 
+scheme, NOUN 
+
+, SPACE 
+Accuracy, PROPN 
+maintained, VERB 
+modification, NOUN 
+
+, SPACE 
+control, NOUN 
+volume, NOUN 
+integrations, NOUN 
+interface, NOUN 
+integrations, NOUN 
+
+, SPACE 
+simply, ADV 
+assigned, VERB 
+different, ADJ 
+node, NOUN 
+
+, SPACE 
+Fluxes, NOUN 
+conserved, VERB 
+interface, NOUN 
+sum, NOUN 
+fine, ADJ 
+
+, SPACE 
+fluxes, NOUN 
+balances, VERB 
+coarse, ADJ 
+flux, NOUN 
+Considering, VERB 
+inter-, NOUN 
+
+, SPACE 
+face, NOUN 
+shown, VERB 
+Figure, PROPN 
+la, PROPN 
+sum, NOUN 
+fine, ADJ 
+integrations, NOUN 
+
+, SPACE 
+gives, VERB 
+following, NOUN 
+
+, SPACE 
+4, NUM 
+1, NUM 
+
+, SPACE 
+~1, ADJ 
+~finetp, PROPN 
+dS-, ADJ 
+=, ADJ 
+~(q, NOUN 
+~, PUNCT 
+Nl, PROPN 
++, PROPN 
+q, NOUN 
+~, NOUN 
+nl, PROPN 
++, PROPN 
+q, NOUN 
+~, NOUN 
+n2, NOUN 
++, NOUN 
+CPn3, NOUN 
+dS_l, VERB 
+
+, SPACE 
+face, NOUN 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+-I-, SYM 
+4, NUM 
+q, NOUN 
+~, NOUN 
+N3, PROPN 
+-I-, PUNCT 
+q:~H1, PROPN 
+-I-, PUNCT 
+qDH3, PROPN 
+-t-, PROPN 
+q:)H4, PROPN 
+d_S3, PROPN 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+2, NUM 
+April, PROPN 
+1996, NUM 
+159, NUM 
+
+
+, SPACE 
+Mesh, PROPN 
+embedding, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
++, CCONJ 
+~(%v5, NOUN 
++, CCONJ 
+q~,~z, PROPN 
++, PROPN 
+q, NOUN 
+°, NUM 
+H3, NOUN 
++, PUNCT 
+~Pns, NOUN 
+d, X 
+S5, NOUN 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+4, NUM 
+~N7, X 
+q-, X 
+q, NOUN 
+~, PROPN 
+H5, NOUN 
+q-, X 
+~H3, NOUN 
+q-, X 
+q0H4, PROPN 
+d_S7, PROPN 
+3a, PROPN 
+
+, SPACE 
+dS, PRON 
+fine, ADJ 
+face, NOUN 
+areas, NOUN 
+designated, VERB 
+according, VERB 
+
+, SPACE 
+nonhanging, NOUN 
+node, NOUN 
+touch, VERB 
+Replacing, VERB 
+hanging, VERB 
+node, NOUN 
+values, NOUN 
+
+, SPACE 
+linear, ADJ 
+interpolation, NOUN 
+rules, NOUN 
+leads, VERB 
+
+, SPACE 
+4, NUM 
+1, NUM 
+
+, SPACE 
+~neq~, PUNCT 
+d_S=, PROPN 
+~'~, PUNCT 
+9dS, NUM 
+1, NUM 
++, NUM 
+3d_S, NUM 
+3, NUM 
++, NUM 
+3dS, NUM 
+5, NUM 
++, CCONJ 
+dS_7)q~, NOUN 
+
+, SPACE 
+face, VERB 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
++, NOUN 
+-~, PUNCT 
+9dS, NUM 
+3, NUM 
++, NUM 
+3dS, NUM 
+1, NUM 
++, SYM 
+3dS, NUM 
+7, NUM 
++, CCONJ 
+dSs)q~, NOUN 
+3, NUM 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
++, NOUN 
+-~, PUNCT 
+9dS, NUM 
+5, NUM 
++, SYM 
+3dS, NUM 
+1, NUM 
+--I-, NOUN 
+3dS_7, NUM 
+-ff, NOUN 
+dS_3)~5, PROPN 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
++, NOUN 
+-~, PUNCT 
+9dS, NUM 
+7, NUM 
++, NUM 
+3dS, NUM 
+3, NUM 
++, NUM 
+3d_S, NUM 
+5, NUM 
++, NUM 
+dS_l)q~, NOUN 
+7, NUM 
+3b, NUM 
+
+, SPACE 
+Provided, VERB 
+face, NOUN 
+forms, VERB 
+parallelogram, NOUN 
+dS, SYM 
+=, X 
+1/4dS, NUM 
+c, NOUN 
+
+, SPACE 
+dS, SYM 
+c, PROPN 
+area, NOUN 
+coarse, ADJ 
+face, NOUN 
+sum, NOUN 
+fine, ADJ 
+
+, SPACE 
+fluxes, NOUN 
+
+, SPACE 
+4, NUM 
+1, NUM 
+
+, SPACE 
+face, NOUN 
+face, NOUN 
+
+, SPACE 
+3c, PROPN 
+
+, SPACE 
+convective, ADJ 
+fluxes, NOUN 
+conserved, VERB 
+parallelogram-, NOUN 
+
+, SPACE 
+shaped, VERB 
+interfaces, NOUN 
+practice, NOUN 
+severe, ADJ 
+restriction, NOUN 
+
+, SPACE 
+cells, NOUN 
+initial, ADJ 
+coarse, NOUN 
+H, NOUN 
+mesh, NOUN 
+generally, ADV 
+
+, SPACE 
+close, ADJ 
+parallelpipeds, NOUN 
+cell, NOUN 
+divisions, NOUN 
+change, VERB 
+
+, SPACE 
+underlying, VERB 
+shape, NOUN 
+parent, NOUN 
+cell, NOUN 
+
+, SPACE 
+viscous, ADJ 
+fluxes, NOUN 
+require, VERB 
+derivatives, NOUN 
+evaluated, VERB 
+
+, SPACE 
+cell, NOUN 
+faces, NOUN 
+nodes, NOUN 
+evaluate, VERB 
+derivatives, NOUN 
+depend, VERB 
+
+, SPACE 
+configuration, NOUN 
+upwinded, ADJ 
+control, NOUN 
+volumes, NOUN 
+particu-, NOUN 
+
+, SPACE 
+lar, NOUN 
+difference, NOUN 
+stencil, NOUN 
+discrete, ADJ 
+convection, NOUN 
+diffusion, NOUN 
+
+, SPACE 
+operator, NOUN 
+uses, VERB 
+node, NOUN 
+immediate, ADJ 
+neighbours, NOUN 
+including, VERB 
+
+, SPACE 
+diagonal, ADJ 
+neighbours, NOUN 
+considering, VERB 
+control, NOUN 
+volume, NOUN 
+
+, SPACE 
+node, PROPN 
+N2, PROPN 
+Figure, PROPN 
+4, NUM 
+viscous, ADJ 
+derivative, NOUN 
+interface, NOUN 
+
+, SPACE 
+evaluated, VERB 
+nodes, PROPN 
+NI, PROPN 
+N2, PROPN 
+
+, SPACE 
+difference, NOUN 
+stencil, NOUN 
+node, PROPN 
+N2, PROPN 
+extend, VERB 
+outside, ADP 
+immedi-, NOUN 
+
+, SPACE 
+ate, VERB 
+neighbours, NOUN 
+Node, PROPN 
+N1, PROPN 
+use, VERB 
+evaluation, NOUN 
+
+, SPACE 
+N2, PROPN 
+lies, VERB 
+difference, NOUN 
+stencil, NOUN 
+sided, ADJ 
+
+, SPACE 
+differencing, NOUN 
+viscous, ADJ 
+fluxes, NOUN 
+interface, NOUN 
+
+, SPACE 
+evaluated, VERB 
+distributed, VERB 
+control, NOUN 
+volumes, NOUN 
+share, VERB 
+
+, SPACE 
+interface, NOUN 
+differencing, NOUN 
+biased, VERB 
+coarse, ADJ 
+
+, SPACE 
+fine, ADJ 
+fluxes, NOUN 
+set, VERB 
+quarter, NOUN 
+coarse, ADJ 
+
+, SPACE 
+flux, NOUN 
+bias, NOUN 
+fine, ADJ 
+coarse, ADJ 
+flux, NOUN 
+
+, SPACE 
+sum, NOUN 
+fine, ADJ 
+fluxes, NOUN 
+viscous, ADJ 
+fluxes, NOUN 
+conserved, VERB 
+
+, SPACE 
+shaped, VERB 
+interfaces, NOUN 
+biasing, NOUN 
+viscous, ADJ 
+derivatives, NOUN 
+
+, SPACE 
+similar, ADJ 
+thin, ADJ 
+shear, NOUN 
+layer, NOUN 
+approximation, NOUN 
+predeter-, NOUN 
+
+, SPACE 
+mined, VERB 
+bulk, ADJ 
+flow, NOUN 
+direction, NOUN 
+control, NOUN 
+volume, NOUN 
+upwinding, VERB 
+
+, SPACE 
+grid, NOUN 
+lines, NOUN 
+lateral, ADJ 
+faces, NOUN 
+control, NOUN 
+volume, NOUN 
+lie, NOUN 
+
+, SPACE 
+nodes, NOUN 
+shown, VERB 
+Figure, PROPN 
+3, NUM 
+central, ADJ 
+differenc-, ADJ 
+
+, SPACE 
+ing, NOUN 
+viscous, ADJ 
+derivatives, NOUN 
+Similarly, ADV 
+flow, NOUN 
+
+, SPACE 
+interface, NOUN 
+interface, NOUN 
+lies, VERB 
+entirely, ADV 
+interior, NOUN 
+
+, SPACE 
+control, NOUN 
+volume, NOUN 
+fluxes, NOUN 
+interface, NOUN 
+needed, VERB 
+
+, SPACE 
+case, NOUN 
+convective, ADJ 
+diffusive, ADJ 
+fluxes, NOUN 
+inher-, X 
+
+, SPACE 
+ently, ADV 
+conserved, VERB 
+
+, SPACE 
+Numerical, ADJ 
+discretization, NOUN 
+scheme, NOUN 
+
+, SPACE 
+integrating, VERB 
+upwind, NOUN 
+control, NOUN 
+volumes, NOUN 
+discrete, ADJ 
+
+, SPACE 
+convection, NOUN 
+diffusion, NOUN 
+equations, NOUN 
+following, ADJ 
+form, NOUN 
+
+, SPACE 
+27, NUM 
+
+, SPACE 
+~_~, PUNCT 
+a~8, PROPN 
+~, PUNCT 
+=, X 
+b, X 
+~, PUNCT 
+4, NUM 
+
+, SPACE 
+i=1, NOUN 
+9, NUM 
+~, PUNCT 
+qZ, X 
+
+, SPACE 
+Centre, PROPN 
+point, NOUN 
+difference, NOUN 
+stencil, NOUN 
+
+, SPACE 
+L, PROPN 
+Neighbouring, PROPN 
+points, NOUN 
+k, NOUN 
+plane, NOUN 
+
+, SPACE 
+Neighbouring, PROPN 
+points, NOUN 
+lower, ADJ 
+k, NOUN 
+plane, NOUN 
+
+, SPACE 
+Neighbouring, NOUN 
+points, NOUN 
+upper, ADJ 
+k, NOUN 
+plane, NOUN 
+
+, SPACE 
+Figure, PROPN 
+5, NUM 
+Convection, NOUN 
+diffusion, NOUN 
+equation, NOUN 
+difference, NOUN 
+stencil, NOUN 
+
+, SPACE 
+vicinity, NOUN 
+interface, NOUN 
+
+, SPACE 
+q0, PROPN 
+transported, VERB 
+property, NOUN 
+coefficients, NOUN 
+~, PUNCT 
+contain, VERB 
+
+, SPACE 
+convective, ADJ 
+diffusive, ADJ 
+fluxes, NOUN 
+b, X 
+p, NOUN 
+residual, NOUN 
+
+, SPACE 
+equation, NOUN 
+Away, ADV 
+interfaces, NOUN 
+/-summation, NOUN 
+
+, SPACE 
+3, NUM 
+X, NUM 
+3, NUM 
+X, NUM 
+3, NUM 
+difference, NOUN 
+stencil, NOUN 
+stored, VERB 
+connectivity, NOUN 
+array, NOUN 
+
+, SPACE 
+ICFN, PROPN 
+surrounding, VERB 
+node, NOUN 
+control, NOUN 
+volume, NOUN 
+
+, SPACE 
+assigned, VERB 
+shown, VERB 
+Figure, PROPN 
+5, NUM 
+difference, NOUN 
+stencil, NOUN 
+
+, SPACE 
+interface, NOUN 
+solely, ADV 
+relates, VERB 
+nonhanging, VERB 
+nodes, NOUN 
+hanging, VERB 
+node, NOUN 
+
+, SPACE 
+values, NOUN 
+implicitly, ADV 
+replaced, VERB 
+linear, ADJ 
+interpolation, NOUN 
+rules, NOUN 
+
+, SPACE 
+form, VERB 
+stencil, NOUN 
+circumstances, NOUN 
+
+, SPACE 
+interface, NOUN 
+treatment, NOUN 
+introduces, VERB 
+coefficients, NOUN 
+lie, VERB 
+outside, ADP 
+
+, SPACE 
+ICFN, PROPN 
+stencil, NOUN 
+Prior, ADV 
+solving, VERB 
+equations, NOUN 
+coefficients, NOUN 
+
+, SPACE 
+temporarily, ADV 
+reside, VERB 
+difference, NOUN 
+stencils, NOUN 
+hanging, VERB 
+nodes, NOUN 
+
+, SPACE 
+internal, ADJ 
+sweep, NOUN 
+linear, ADJ 
+solver, NOUN 
+additional, ADJ 
+
+, SPACE 
+coefficients, NOUN 
+evaluated, VERB 
+allocated, VERB 
+appropriate, ADJ 
+node, NOUN 
+
+, SPACE 
+linear, ADJ 
+solution, NOUN 
+solves, VERB 
+complete, ADJ 
+set, NOUN 
+equations, NOUN 
+
+, SPACE 
+coefficients, NOUN 
+lagged, VERB 
+
+, SPACE 
+discrete, ADJ 
+flow, NOUN 
+equations, NOUN 
+iterated, VERB 
+convergence, NOUN 
+
+, SPACE 
+SIMPLER, ADJ 
+algorithm, NOUN 
+Patankar, PROPN 
+1980, NUM 
+
+, SPACE 
+discrete, ADJ 
+momentum, NOUN 
+equations, NOUN 
+substituted, VERB 
+continuity, NOUN 
+
+, SPACE 
+equation, NOUN 
+order, NOUN 
+form, VERB 
+pressure, NOUN 
+correction, NOUN 
+equation, NOUN 
+
+, SPACE 
+update, VERB 
+pressure, NOUN 
+promote, VERB 
+satisfaction, NOUN 
+continuity, NOUN 
+
+, SPACE 
+pressure, NOUN 
+corrections, NOUN 
+computed, VERB 
+cell, NOUN 
+centres, NOUN 
+
+, SPACE 
+interpolated, VERB 
+nodes, NOUN 
+update, VERB 
+pressure, NOUN 
+avoid, VERB 
+
+, SPACE 
+computing, VERB 
+storing, VERB 
+second, ADJ 
+large, ADJ 
+difference, NOUN 
+stencil, NOUN 
+
+, SPACE 
+pressure, NOUN 
+correction, NOUN 
+equations, NOUN 
+solved, VERB 
+defect, NOUN 
+correction, NOUN 
+
+, SPACE 
+procedure, NOUN 
+
+, SPACE 
+7, NUM 
+8, NUM 
+
+, SPACE 
+ait'Ap'i, NOUN 
+=, NOUN 
+b, PROPN 
+p, PROPN 
+y~, PROPN 
+piC~, NOUN 
+8u, PROPN 
+n, NUM 
+
+, SPACE 
+i=1, PROPN 
+i=1, PROPN 
+
+, SPACE 
+8p, PROPN 
+=, VERB 
+8p"-, NUM 
+1, NUM 
++, CCONJ 
+Ap, PROPN 
+
+, SPACE 
+1, NUM 
+s, NOUN 
+n, CCONJ 
+p, NOUN 
+n, CCONJ 
+~Uregular, ADJ 
+=, NOUN 
+~, PUNCT 
+E, NOUN 
+Ci, PROPN 
+~Pi, PUNCT 
+ac, PROPN 
+i=1, PROPN 
+
+, SPACE 
+n, CCONJ 
+h, PROPN 
+n, CCONJ 
+~Uhanging, VERB 
+I~, VERB 
+~Uregular, ADJ 
+5, NUM 
+
+, SPACE 
+160, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+2, NUM 
+April, PROPN 
+1996, NUM 
+
+
+, SPACE 
+Mesh, PROPN 
+embedding, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+l, NOUN 
+~, PUNCT 
+60ram, PROPN 
+
+, SPACE 
+z, NOUN 
+
+, SPACE 
+J'~, PROPN 
+~, PUNCT 
+~/, PROPN 
+/264, PUNCT 
+mm, PROPN 
+
+, SPACE 
+x=10D, PUNCT 
+x~8D, PROPN 
+
+, SPACE 
+D=22, NOUN 
+mm, PROPN 
+
+, SPACE 
+b)/~F, PROPN 
+~, PUNCT 
+w, PROPN 
+Figure, PROPN 
+6, NUM 
+Film, NOUN 
+cooling, VERB 
+model, NOUN 
+geometry, NOUN 
+schematic, NOUN 
+calcu-, ADJ 
+
+, SPACE 
+lation, NOUN 
+domain, NOUN 
+b, NOUN 
+embedded, VERB 
+mesh, NOUN 
+30, NUM 
+°, NUM 
+hole, NOUN 
+SR, PROPN 
+=, PROPN 
+4,70, NUM 
+
+, SPACE 
+solution, NOUN 
+adaptation, NOUN 
+
+, SPACE 
+b, DET 
+p, NOUN 
+continuity, NOUN 
+equation, NOUN 
+residual, ADJ 
+C, PROPN 
+discrete, ADJ 
+
+, SPACE 
+continuity, NOUN 
+operator, NOUN 
+/-summation, PROPN 
+cell, NOUN 
+vertices, VERB 
+
+, SPACE 
+C, NOUN 
+p, NOUN 
+discrete, ADJ 
+pressure, NOUN 
+gradient, NOUN 
+operator, NOUN 
+summation, NOUN 
+
+, SPACE 
+pressure, NOUN 
+correction, NOUN 
+points, NOUN 
+surrounding, VERB 
+node, NOUN 
+a~, PROPN 
+
+, SPACE 
+centre, NOUN 
+point, NOUN 
+coefficient, NOUN 
+momentum, NOUN 
+equations, NOUN 
+
+, SPACE 
+I~, VERB 
+h, PROPN 
+linearly, ADV 
+interpolates, VERB 
+hanging, VERB 
+node, NOUN 
+values, NOUN 
+
+, SPACE 
+pressure, NOUN 
+correction, NOUN 
+matrix, VERB 
+p, NOUN 
+links, NOUN 
+cell, NOUN 
+forward, ADJ 
+
+, SPACE 
+backward, ADJ 
+neighbours, NOUN 
+coordinate, NOUN 
+directions, NOUN 
+
+, SPACE 
+stored, VERB 
+NGBC, PROPN 
+cells, NOUN 
+coarse, ADJ 
+interface, NOUN 
+
+, SPACE 
+multiple, ADJ 
+fine, ADJ 
+neighbours, NOUN 
+agglomerated, VERB 
+single, ADJ 
+
+, SPACE 
+dummy, ADJ 
+cell, NOUN 
+value, NOUN 
+average, NOUN 
+fine, ADJ 
+cell, NOUN 
+values, NOUN 
+
+, SPACE 
+advantage, NOUN 
+defect, ADJ 
+approach, NOUN 
+cells, NOUN 
+
+, SPACE 
+vertices, NOUN 
+regular, ADJ 
+nodes, NOUN 
+surrounded, VERB 
+cells, NOUN 
+
+, SPACE 
+mesh, NOUN 
+structure, NOUN 
+convergence, NOUN 
+defect, NOUN 
+
+, SPACE 
+system, NOUN 
+Ap, PROPN 
+~, PUNCT 
+0, PUNCT 
+pressure, NOUN 
+velocity, NOUN 
+corrections, NOUN 
+pro-, PROPN 
+
+, SPACE 
+duce, VERB 
+field, NOUN 
+satisfies, VERB 
+continuity, NOUN 
+
+, SPACE 
+Solution, NOUN 
+numerical, ADJ 
+equations, NOUN 
+
+, SPACE 
+discrete, ADJ 
+equations, NOUN 
+solved, VERB 
+preconditioned, VERB 
+GM-, PROPN 
+
+, SPACE 
+RES, PROPN 
+algorithm, PROPN 
+Saad, PROPN 
+Schultz, PROPN 
+1986, NUM 
+preconditioners, NOUN 
+tailored, VERB 
+equations, NOUN 
+solved, VERB 
+momentum, NOUN 
+equations, NOUN 
+
+, SPACE 
+preconditioned, VERB 
+Gauss, PROPN 
+Seidel, PROPN 
+iteration, NOUN 
+pressure, NOUN 
+
+, SPACE 
+correction, NOUN 
+equations, NOUN 
+strongly, ADV 
+elliptic, ADJ 
+nature, NOUN 
+use, VERB 
+
+, SPACE 
+incomplete, ADJ 
+lower, ADJ 
+upper, ADJ 
+factorization, NOUN 
+k, PROPN 
+e, PROPN 
+equations, NOUN 
+
+, SPACE 
+strongly, ADV 
+coupled, VERB 
+source, NOUN 
+terms, NOUN 
+precon-, PRON 
+
+, SPACE 
+ditioned, VERB 
+pointwise, NOUN 
+coupled, VERB 
+Gauss, PROPN 
+Seidel, PROPN 
+iteration, NOUN 
+
+, SPACE 
+coupled, VERB 
+system, NOUN 
+derived, VERB 
+linearising, VERB 
+k, PROPN 
+e, NOUN 
+equations, NOUN 
+
+, SPACE 
+previous, ADJ 
+solution, NOUN 
+
+, SPACE 
+pc2(~-/2, NUM 
+e, NOUN 
+6k, PROPN 
+b, X 
+k, PROPN 
+
+, SPACE 
+AV, PROPN 
+y'a~+2pc2-~AV, PROPN 
+Se, PROPN 
+=, VERB 
+b, X 
+~, PUNCT 
+6, NUM 
+
+, SPACE 
+productive, ADJ 
+source, NOUN 
+terms, NOUN 
+omitted, VERB 
+lineariza-, ADJ 
+
+, SPACE 
+tion, NOUN 
+found, VERB 
+cause, VERB 
+poor, ADJ 
+convergence, NOUN 
+
+, SPACE 
+GMRES, PROPN 
+divergence, NOUN 
+nonlinear, ADJ 
+iterations, NOUN 
+Stabil-, X 
+
+, SPACE 
+ity, NOUN 
+required, VERB 
+inclusion, NOUN 
+near, PROPN 
+wall, PROPN 
+log, NOUN 
+law, NOUN 
+equations, NOUN 
+
+, SPACE 
+coupled, ADJ 
+system, NOUN 
+
+, SPACE 
+Application, NOUN 
+film, NOUN 
+cooling, VERB 
+hole, NOUN 
+entrance, NOUN 
+flows, VERB 
+
+, SPACE 
+numerical, ADJ 
+model, NOUN 
+calculate, VERB 
+film, NOUN 
+cooling, VERB 
+en-, X 
+
+, SPACE 
+trance, NOUN 
+flows, NOUN 
+measured, VERB 
+Byerley, PROPN 
+1989, NUM 
+apparatus, NOUN 
+
+, SPACE 
+approximately, ADV 
+100, NUM 
+times, NOUN 
+engine, NOUN 
+scale, NOUN 
+test, NOUN 
+section, NOUN 
+consisted, VERB 
+
+, SPACE 
+parallel, ADJ 
+sided, ADJ 
+duct, NOUN 
+60, NUM 
+x, SYM 
+600, NUM 
+mm, NOUN 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+single, ADJ 
+hole, NOUN 
+22, NUM 
+mm, NOUN 
+diameter, NOUN 
+duct, NOUN 
+
+, SPACE 
+flow, NOUN 
+extracted, VERB 
+plenum, NOUN 
+hole, NOUN 
+length, NOUN 
+di-, NOUN 
+
+, SPACE 
+ameter, NOUN 
+ratio, NOUN 
+10, NUM 
+compared, VERB 
+typical, ADJ 
+engine, NOUN 
+values, NOUN 
+5, NUM 
+10, NUM 
+
+, SPACE 
+duct, NOUN 
+hole, NOUN 
+hydraulic, ADJ 
+diameter, NOUN 
+ratio, NOUN 
+5.45, NUM 
+compared, VERB 
+
+, SPACE 
+typical, ADJ 
+engine, NOUN 
+values, NOUN 
+5, NUM 
+15, NUM 
+Figure, VERB 
+6a, NOUN 
+shows, VERB 
+modelled, VERB 
+
+, SPACE 
+section, NOUN 
+apparatus, NOUN 
+Numerical, ADJ 
+results, NOUN 
+obtained, VERB 
+hole, NOUN 
+
+, SPACE 
+inclination, NOUN 
+angles, NOUN 
+30, NUM 
+90, NUM 
+°, NOUN 
+low, ADJ 
+medium, ADJ 
+high, ADJ 
+
+, SPACE 
+suction, NOUN 
+ratios, NOUN 
+SR, PROPN 
+Suction, NOUN 
+ratio, NOUN 
+mean, ADJ 
+velocity, NOUN 
+hole, NOUN 
+
+, SPACE 
+divided, VERB 
+peak, NOUN 
+inlet, VERB 
+velocity, NOUN 
+cases, NOUN 
+modelled, VERB 
+
+, SPACE 
+summarized, VERB 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+Boundary, PROPN 
+conditions, NOUN 
+
+, SPACE 
+inlet, ADJ 
+velocity, NOUN 
+temperature, NOUN 
+profiles, NOUN 
+taken, VERB 
+Byer-, PROPN 
+
+, SPACE 
+ley, PROPN 
+1989, NUM 
+measurements, NOUN 
+profiles, NOUN 
+fully, ADV 
+developed, VERB 
+
+, SPACE 
+peak, NOUN 
+inlet, ADJ 
+velocities, NOUN 
+temperatures, NOUN 
+shown, VERB 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+inlet, ADJ 
+profiles, NOUN 
+k, PROPN 
+~, PROPN 
+set, VERB 
+assumption, NOUN 
+local, ADJ 
+
+, SPACE 
+equilibrium, NOUN 
+i.e., X 
+turbulence, NOUN 
+production, NOUN 
+=, NOUN 
+turbulence, NOUN 
+dissipation, NOUN 
+
+, SPACE 
+~t, PUNCT 
+G, PROPN 
+=, PUNCT 
+p~, PROPN 
+
+, SPACE 
+k3/2, PROPN 
+
+, SPACE 
+3/4, NUM 
+7, NUM 
+e, NOUN 
+=, NOUN 
+c~, PROPN 
+t, PROPN 
+
+, SPACE 
+L, PROPN 
+eddy, ADJ 
+viscosity, NOUN 
+length, NOUN 
+scale, NOUN 
+calculated, VERB 
+
+, SPACE 
+mixing, VERB 
+length, NOUN 
+model, NOUN 
+Lapworth, PROPN 
+1993, NUM 
+G, PROPN 
+computed, VERB 
+
+, SPACE 
+directly, ADV 
+inlet, ADJ 
+velocities, NOUN 
+Eliminating, VERB 
+~t, PUNCT 
+Equation, NOUN 
+2, NUM 
+
+, SPACE 
+allows, VERB 
+k, PROPN 
+e, PROPN 
+evaluated, VERB 
+directly, ADV 
+
+, SPACE 
+duct, NOUN 
+hole, NOUN 
+exits, NOUN 
+control, NOUN 
+volume, NOUN 
+upwinding, VERB 
+
+, SPACE 
+allows, VERB 
+transported, VERB 
+variables, NOUN 
+updated, VERB 
+differ-, ADJ 
+
+, SPACE 
+ence, NOUN 
+equations, NOUN 
+suction, NOUN 
+ratio, NOUN 
+controlled, VERB 
+specifying, VERB 
+flow, NOUN 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+Flow, NOUN 
+conditions, NOUN 
+mesh, NOUN 
+sizes, NOUN 
+numerical, PROPN 
+test, NOUN 
+cases, NOUN 
+
+, SPACE 
+c~, PROPN 
+°, VERB 
+SR, PROPN 
+Uct, PROPN 
+m, PROPN 
+s, PROPN 
+L, PROPN 
+Tel, PROPN 
+K, PROPN 
+Twa, PROPN 
+K, PROPN 
+Grid, PROPN 
+size, NOUN 
+Rel, PROPN 
+size, NOUN 
+
+, SPACE 
+30, NUM 
+1.85, NUM 
+8.7, NUM 
+25500, NUM 
+350.7, NUM 
+290.5, NUM 
+32472, NUM 
+26, NUM 
+
+, SPACE 
+30, NUM 
+4.70, NUM 
+8.7, NUM 
+25500, NUM 
+350.7, NUM 
+290.5, NUM 
+36555, NUM 
+21, NUM 
+
+, SPACE 
+30, NUM 
+7.68, NUM 
+8.7, NUM 
+25500, NUM 
+350.7, NUM 
+290.5, NUM 
+36555, NUM 
+21, NUM 
+
+, SPACE 
+90, NUM 
+1.20, NUM 
+9.3, NUM 
+25700, NUM 
+363.0, NUM 
+296.0, NUM 
+32941, NUM 
+24, NUM 
+
+, SPACE 
+90, NUM 
+3.47, NUM 
+8.6, NUM 
+27700, NUM 
+332.0, NUM 
+296.0, NUM 
+32068, NUM 
+30, NUM 
+
+, SPACE 
+90, NUM 
+7.48, NUM 
+9.3, NUM 
+26300, NUM 
+364.0, NUM 
+292.0, NUM 
+59456, NUM 
+22, NUM 
+
+, SPACE 
+Relsize, PROPN 
+ratio, NOUN 
+nodes, NOUN 
+embedded, VERB 
+mesh, NOUN 
+background, NOUN 
+~, PROPN 
+ne, PROPN 
+mesh, PROPN 
+
+, SPACE 
+Int, PROPN 
+J, PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+2, NUM 
+April, PROPN 
+1996, NUM 
+161, NUM 
+
+
+, SPACE 
+Mesh, PROPN 
+embedding, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+rates, NOUN 
+exits, NOUN 
+hole, NOUN 
+duct, NOUN 
+flow, NOUN 
+rates, NOUN 
+achieved, VERB 
+
+, SPACE 
+iteratively, ADV 
+updating, VERB 
+exit, NOUN 
+static, ADJ 
+pressures, NOUN 
+bulk, ADJ 
+
+, SPACE 
+walls, NOUN 
+viscous, ADJ 
+slip, NOUN 
+condition, NOUN 
+wall, NOUN 
+
+, SPACE 
+values, NOUN 
+k, PROPN 
+e, NOUN 
+set, VERB 
+zero, NUM 
+near, ADJ 
+wall, NOUN 
+values, NOUN 
+
+, SPACE 
+set, VERB 
+consistently, ADV 
+logarithmic, ADJ 
+velocity, NOUN 
+profile, NOUN 
+wall, NOUN 
+
+, SPACE 
+temperature, NOUN 
+held, VERB 
+fixed, VERB 
+value, NOUN 
+shown, VERB 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+symmetry, NOUN 
+condition, NOUN 
+hole, NOUN 
+centreplane, NOUN 
+
+, SPACE 
+Calculation, NOUN 
+details, NOUN 
+
+, SPACE 
+initialization, NOUN 
+flow, NOUN 
+variables, NOUN 
+found, VERB 
+crucial, ADJ 
+
+, SPACE 
+element, NOUN 
+stability, NOUN 
+numerical, ADJ 
+model, NOUN 
+velocities, NOUN 
+
+, SPACE 
+pressures, NOUN 
+initialized, VERB 
+separately, ADV 
+duct, NOUN 
+hole, NOUN 
+
+, SPACE 
+linear, ADJ 
+ramp, NOUN 
+function, NOUN 
+blend, VERB 
+fields, NOUN 
+
+, SPACE 
+hole, NOUN 
+orifice, NOUN 
+duct, NOUN 
+downstream, NOUN 
+hole, NOUN 
+fully, ADV 
+
+, SPACE 
+developed, VERB 
+inlet, ADJ 
+profiles, NOUN 
+retained, VERB 
+flow, NOUN 
+rate, NOUN 
+
+, SPACE 
+reduced, VERB 
+account, VERB 
+flow, NOUN 
+extracted, VERB 
+hole, NOUN 
+
+, SPACE 
+Overall, ADJ 
+continuity, NOUN 
+balance, NOUN 
+important, ADJ 
+initializa-, NOUN 
+
+, SPACE 
+tion, NOUN 
+strategy, NOUN 
+k, PROPN 
+e, NOUN 
+fields, NOUN 
+initialized, VERB 
+
+, SPACE 
+local, ADJ 
+equilibrium, NOUN 
+assumption, NOUN 
+duct, NOUN 
+inlet, NOUN 
+Relaxation, NOUN 
+
+, SPACE 
+iterative, ADJ 
+updates, NOUN 
+needed, VERB 
+guarantee, VERB 
+conver-, NOUN 
+
+, SPACE 
+gence, NOUN 
+Relaxation, NOUN 
+factors, NOUN 
+0.6, NUM 
+variables, NOUN 
+
+, SPACE 
+low, ADJ 
+medium, ADJ 
+SR, PROPN 
+cases, NOUN 
+reduced, VERB 
+0.2, NUM 
+
+, SPACE 
+high, ADJ 
+SR, PROPN 
+cases, NOUN 
+initialization, NOUN 
+relaxation, NOUN 
+strategies, NOUN 
+allowed, VERB 
+
+, SPACE 
+convergence, NOUN 
+obtained, VERB 
+cases, NOUN 
+need, NOUN 
+start, VERB 
+
+, SPACE 
+calculations, NOUN 
+SR, NOUN 
+solution, NOUN 
+lower, ADJ 
+SR, PROPN 
+
+, SPACE 
+numerical, ADJ 
+calculations, NOUN 
+declared, VERB 
+converged, VERB 
+
+, SPACE 
+rms, NOUN 
+changes, NOUN 
+flow, NOUN 
+variables, NOUN 
+successive, ADJ 
+
+, SPACE 
+iterations, NOUN 
+1, NUM 
+changes, NOUN 
+iteration, NOUN 
+
+, SPACE 
+typically, ADV 
+required, VERB 
+70, NUM 
+100, NUM 
+iterations, NOUN 
+practice, NOUN 
+
+, SPACE 
+calculations, NOUN 
+run, VERB 
+fixed, VERB 
+number, NOUN 
+iterations, NOUN 
+
+, SPACE 
+continued, VERB 
+restart, NOUN 
+file, NOUN 
+convergence, NOUN 
+criterion, NOUN 
+
+, SPACE 
+achieved, VERB 
+adequacy, NOUN 
+convergence, NOUN 
+criterion, NOUN 
+
+, SPACE 
+confirmed, VERB 
+performing, VERB 
+extra, ADJ 
+50, NUM 
+iterations, NOUN 
+90, NUM 
+°, NUM 
+
+, SPACE 
+medium, ADJ 
+SR, PROPN 
+case, NOUN 
+produced, VERB 
+discernible, ADJ 
+differences, NOUN 
+
+, SPACE 
+numerical, ADJ 
+solution, NOUN 
+maximum, ADJ 
+difference, NOUN 
+centreline, NOUN 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+enhancement, NOUN 
+factors, NOUN 
+0.8, NUM 
+
+, SPACE 
+calculations, NOUN 
+performed, VERB 
+Silicon, PROPN 
+Graphics, PROPN 
+Indigo, PROPN 
+work-, PROPN 
+
+, SPACE 
+station, NOUN 
+R3000, NOUN 
+33, NUM 
+MHz, NOUN 
+processor, NOUN 
+typical, ADJ 
+CPU, NOUN 
+time, NOUN 
+
+, SPACE 
+26.9, NUM 
+hours, NOUN 
+100, NUM 
+iterations, NOUN 
+mesh, NOUN 
+36,555, NUM 
+nodes, NOUN 
+
+, SPACE 
+Solution, NOUN 
+adaptation, NOUN 
+strategy, NOUN 
+
+, SPACE 
+solution, NOUN 
+obtained, VERB 
+initial, ADJ 
+embedded, VERB 
+mesh, NOUN 
+
+, SPACE 
+solution, NOUN 
+adaptation, NOUN 
+performed, VERB 
+calculations, NOUN 
+contin-, X 
+
+, SPACE 
+ued, ADJ 
+previous, ADJ 
+solution, NOUN 
+convergence, NOUN 
+criterion, NOUN 
+
+, SPACE 
+achieved, VERB 
+adaptation, NOUN 
+criterion, NOUN 
+based, VERB 
+differ-, ADJ 
+
+, SPACE 
+ences, NOUN 
+chosen, VERB 
+flow, NOUN 
+property, NOUN 
+qb, PROPN 
+cell, NOUN 
+given, VERB 
+
+, SPACE 
+notation, NOUN 
+Figure, PROPN 
+la, PROPN 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+mi(I, PROPN 
+=, VERB 
+-~, PROPN 
+I)N2, NOUN 
+.-~, PUNCT 
+I)N4, NUM 
+1)N6, NOUN 
+.-1-, PUNCT 
+I)N8, PROPN 
+
+, SPACE 
+--(I)N1, PUNCT 
+~N3, NOUN 
+IDN5, PROPN 
+I)N7, NOUN 
+8), NUM 
+
+, SPACE 
+A~, PROPN 
+represents, VERB 
+difference, NOUN 
+cell, NOUN 
+direc-, PROPN 
+
+, SPACE 
+tion, NOUN 
+corresponding, ADJ 
+definitions, NOUN 
+differences, NOUN 
+j, NOUN 
+
+, SPACE 
+k, PROPN 
+directions, NOUN 
+value, NOUN 
+Aiqb, PROPN 
+cell, NOUN 
+compared, VERB 
+
+, SPACE 
+rms, NOUN 
+value, NOUN 
+Ai~, NOUN 
+cells, NOUN 
+
+, SPACE 
+AidP, PROPN 
+rms(Ai(I, PROPN 
+>, PUNCT 
+tolerance, NOUN 
+cell, NOUN 
+flagged, VERB 
+
+, SPACE 
+division, NOUN 
+/-direction, NOUN 
+test, NOUN 
+determine, VERB 
+
+, SPACE 
+cell, NOUN 
+divided, VERB 
+j, PROPN 
+k, PROPN 
+directions, NOUN 
+
+, SPACE 
+tests, NOUN 
+j, PROPN 
+k, PROPN 
+directions, NOUN 
+completely, ADV 
+independent, ADJ 
+
+, SPACE 
+Experience, NOUN 
+shown, VERB 
+setting, VERB 
+adaptation, NOUN 
+tolerance, NOUN 
+
+, SPACE 
+unity, NOUN 
+produces, VERB 
+acceptable, ADJ 
+levels, NOUN 
+refinement, NOUN 
+value, NOUN 
+
+, SPACE 
+present, ADJ 
+calculations, NOUN 
+
+, SPACE 
+present, ADJ 
+study, NOUN 
+adaptation, NOUN 
+parameter, NOUN 
+based, VERB 
+
+, SPACE 
+differences, NOUN 
+flow, NOUN 
+velocity, NOUN 
+cell, NOUN 
+
+, SPACE 
+.2, NUM 
+1/2, NUM 
+
+, SPACE 
+Aiqb, NOUN 
+=, PUNCT 
+Aiu, NOUN 
+e, NOUN 
++, CCONJ 
+Aiu, PROPN 
+2, NUM 
++, CCONJ 
+t, NOUN 
+zaiw, VERB 
+9, X 
+tt, PROPN 
+
+, SPACE 
+IJ, PROPN 
+
+, SPACE 
+c, X 
+o, NOUN 
+
+, SPACE 
+¢J, PROPN 
+14, NUM 
+
+, SPACE 
+12, NUM 
+
+, SPACE 
+10, NUM 
+90, NUM 
+hole, NOUN 
+SR=3.47, PROPN 
+
+, SPACE 
+Embedded, VERB 
+mesh, VERB 
+
+, SPACE 
+---x-, PUNCT 
+Background, ADJ 
+fine, ADJ 
+mesh, NOUN 
+
+, SPACE 
+Byedey, PROPN 
+1989, NUM 
+
+, SPACE 
+
+, SPACE 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+5, NUM 
+6, NUM 
+
+, SPACE 
+x, SYM 
+D, PROPN 
+
+, SPACE 
+b, PROPN 
+90, NUM 
+°, NUM 
+hole, NOUN 
+SR=7.48, PROPN 
+
+, SPACE 
+20, NUM 
+
+, SPACE 
+18, NUM 
+
+, SPACE 
+~, PUNCT 
+l, PROPN 
+=, PROPN 
+Aa, PROPN 
+~, NOUN 
+1, NUM 
+6, NUM 
+IL, PROPN 
+X----, PROPN 
+Adaptation, PROPN 
+
+, SPACE 
+u-, X 
+14, NUM 
+t, NOUN 
+~, PUNCT 
+lh, PROPN 
+t, PROPN 
+U, PROPN 
+Byerley, PROPN 
+1989, NUM 
+
+, SPACE 
+.~, PROPN 
+12, NUM 
+
+, SPACE 
+°, NOUN 
+6, NUM 
+
+, SPACE 
+4, NUM 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+0, NUM 
+t, NOUN 
+~, PUNCT 
+
+, SPACE 
+0, NUM 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+5, NUM 
+6, NUM 
+
+, SPACE 
+x, SYM 
+D, PROPN 
+
+, SPACE 
+Figure, PROPN 
+7, NUM 
+Mesh, PROPN 
+sensitivity, NOUN 
+centreline, NOUN 
+heat, NOUN 
+transfer, NOUN 
+en-, PRON 
+
+, SPACE 
+hancement, NOUN 
+factors, NOUN 
+comparison, NOUN 
+embedded, VERB 
+back-, NOUN 
+
+, SPACE 
+ground, VERB 
+fine, ADJ 
+mesh, NOUN 
+solutions, NOUN 
+b, X 
+comparison, NOUN 
+
+, SPACE 
+levels, NOUN 
+solution, NOUN 
+adaptation, NOUN 
+
+, SPACE 
+parameter, NOUN 
+chosen, VERB 
+detects, VERB 
+large, ADJ 
+gradients, NOUN 
+
+, SPACE 
+flow, NOUN 
+velocity, NOUN 
+vicinity, NOUN 
+film, NOUN 
+cooling, VERB 
+hole, NOUN 
+
+, SPACE 
+good, ADJ 
+sensor, NOUN 
+locating, VERB 
+resolving, VERB 
+separated, VERB 
+secondary, ADJ 
+
+, SPACE 
+flow, NOUN 
+regions, NOUN 
+changes, NOUN 
+velocity, NOUN 
+magnitude, NOUN 
+
+, SPACE 
+significant, ADJ 
+changes, NOUN 
+flow, NOUN 
+direction, NOUN 
+
+, SPACE 
+calculations, NOUN 
+obtained, VERB 
+single, ADJ 
+solution, NOUN 
+
+, SPACE 
+adaptation, NOUN 
+90, NUM 
+°, NUM 
+high, ADJ 
+SR, PROPN 
+case, NOUN 
+adapta-, NOUN 
+
+, SPACE 
+tions, NOUN 
+typical, ADJ 
+adapted, ADJ 
+mesh, NOUN 
+illustrated, VERB 
+Figure, NOUN 
+6b, NUM 
+
+, SPACE 
+mesh, NOUN 
+sizes, NOUN 
+cases, NOUN 
+modelled, VERB 
+summarized, VERB 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+table, NOUN 
+shows, VERB 
+mesh, NOUN 
+sizes, NOUN 
+relative, ADJ 
+
+, SPACE 
+background, NOUN 
+fine, ADJ 
+mesh, NOUN 
+Savings, NOUN 
+node, NOUN 
+numbers, NOUN 
+70, NUM 
+
+, SPACE 
+80, NUM 
+significant, ADJ 
+benefits, NOUN 
+result, VERB 
+mesh, NOUN 
+
+, SPACE 
+embedding, VERB 
+noted, VERB 
+Figure, NOUN 
+6b, NUM 
+shows, VERB 
+regions, NOUN 
+apparently, ADV 
+
+, SPACE 
+unnecessary, ADJ 
+resolution, NOUN 
+result, NOUN 
+parasitic, ADJ 
+subdivi-, NOUN 
+
+, SPACE 
+sions, NOUN 
+required, VERB 
+hierarchy, NOUN 
+constraints, NOUN 
+Hierarchical, ADJ 
+
+, SPACE 
+constraints, NOUN 
+section, NOUN 
+large, ADJ 
+extent, NOUN 
+subdivisions, NOUN 
+
+, SPACE 
+undesirable, ADJ 
+consequence, NOUN 
+rigid, ADJ 
+hierarchical, ADJ 
+structure, NOUN 
+
+, SPACE 
+present, ADJ 
+model, NOUN 
+work, NOUN 
+needed, VERB 
+relax, VERB 
+present, ADJ 
+
+, SPACE 
+constraints, NOUN 
+curtail, VERB 
+number, NOUN 
+parasitic, ADJ 
+subdivi-, NOUN 
+
+, SPACE 
+sions, NOUN 
+
+, SPACE 
+grid, NOUN 
+dependencies, NOUN 
+numerical, ADJ 
+model, NOUN 
+assessed, VERB 
+
+, SPACE 
+comparing, VERB 
+embedded, VERB 
+mesh, NOUN 
+results, NOUN 
+90, NUM 
+°, NUM 
+medium, NOUN 
+SR, PROPN 
+
+, SPACE 
+case, NOUN 
+results, NOUN 
+obtained, VERB 
+background, NOUN 
+fine, ADJ 
+mesh, NOUN 
+
+, SPACE 
+Figure, PROPN 
+7a, PROPN 
+compares, VERB 
+centreline, NOUN 
+heat, NOUN 
+transfer, NOUN 
+enhancement, NOUN 
+
+, SPACE 
+factors, NOUN 
+calculations, NOUN 
+embedded, VERB 
+mesh, NOUN 
+results, NOUN 
+
+, SPACE 
+good, ADJ 
+agreement, NOUN 
+fine, ADJ 
+mesh, NOUN 
+results, NOUN 
+apart, ADV 
+near, ADP 
+
+, SPACE 
+stagnation, NOUN 
+point, NOUN 
+downstream, ADV 
+hole, NOUN 
+embedded, VERB 
+
+, SPACE 
+162, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+VoI., NOUN 
+17, NUM 
+2, NUM 
+April, PROPN 
+1996, NUM 
+
+
+, SPACE 
+Mesh, PROPN 
+embedding, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+ , SPACE 
+tt, PROPN 
+llllllIIt, PROPN 
+
+, SPACE 
+llllll~,l~, PROPN 
+
+, SPACE 
+~l, PUNCT 
+~, PUNCT 
+lllllll, VERB 
+
+, SPACE 
+90, NUM 
+°, NUM 
+100, NUM 
+m, PROPN 
+s, PART 
+
+, SPACE 
+hole, NOUN 
+SR=1.20, PROPN 
+-"x\,",,"x, PROPN 
+
+, SPACE 
+
+, SPACE 
+100, NUM 
+m, PROPN 
+s, PROPN 
+
+, SPACE 
+c, PROPN 
+30, NUM 
+°, NUM 
+hole, NOUN 
+SR=470, PUNCT 
+
+, SPACE 
+
+, SPACE 
+100, NUM 
+m, PROPN 
+s, PROPN 
+
+, SPACE 
+b, PROPN 
+90, NUM 
+°, NUM 
+hole, NOUN 
+SR=7.48, VERB 
+~"~"-, ADP 
+~", NOUN 
+~, PUNCT 
+x, PUNCT 
+,",,\~, PROPN 
+
+, SPACE 
+100, NUM 
+m, PROPN 
+s, PROPN 
+
+, SPACE 
+d, PROPN 
+30, NUM 
+°, NUM 
+hole, NOUN 
+SR=768, PROPN 
+
+, SPACE 
+Figure, PROPN 
+8, NUM 
+Velocity, PROPN 
+vectors, NOUN 
+duct, NOUN 
+centreplane, NOUN 
+90, NUM 
+°, NUM 
+hole, NOUN 
+SR, PROPN 
+=, NOUN 
+1.20, NUM 
+b, X 
+90, NUM 
+°, NUM 
+hole, NOUN 
+SR, PROPN 
+=, ADP 
+7.48, NUM 
+c, PROPN 
+30, NUM 
+°, NUM 
+hole, NOUN 
+SR, PROPN 
+=, ADP 
+4.70, NUM 
+d, X 
+30, NUM 
+°, NUM 
+hole, NOUN 
+
+, SPACE 
+SR, PROPN 
+=, ADP 
+7.68, NUM 
+vectors, NOUN 
+interpolated, VERB 
+coarser, NOUN 
+mesh, NOUN 
+clarity, NOUN 
+
+, SPACE 
+mesh, NOUN 
+results, NOUN 
+small, ADJ 
+kink, NOUN 
+enhancement, NOUN 
+factor, NOUN 
+
+, SPACE 
+probably, ADV 
+result, NOUN 
+interfaces, NOUN 
+larger, ADJ 
+cell, NOUN 
+sizes, NOUN 
+
+, SPACE 
+vicinity, NOUN 
+stagnation, NOUN 
+point, NOUN 
+kink, NOUN 
+
+, SPACE 
+adversely, ADV 
+affect, VERB 
+enhancement, NOUN 
+factors, NOUN 
+away, ADV 
+stagna-, ADJ 
+
+, SPACE 
+tion, NOUN 
+point, NOUN 
+mesh, NOUN 
+dependencies, NOUN 
+felt, VERB 
+acceptable, ADJ 
+
+, SPACE 
+present, ADJ 
+demonstrations, NOUN 
+90, NUM 
+°, NUM 
+high, ADJ 
+SR, PROPN 
+case, NOUN 
+kinks, NOUN 
+
+, SPACE 
+near, ADP 
+stagnation, NOUN 
+point, NOUN 
+pronounced, ADJ 
+
+, SPACE 
+solution, NOUN 
+adaptation, NOUN 
+case, NOUN 
+improve, VERB 
+
+, SPACE 
+solution, NOUN 
+adaptation, NOUN 
+performed, VERB 
+dramatically, ADV 
+
+, SPACE 
+improved, VERB 
+enhancement, NOUN 
+factors, NOUN 
+shown, VERB 
+Figure, PROPN 
+7b, PROPN 
+Insuf-, PUNCT 
+
+, SPACE 
+ficient, NOUN 
+computer, NOUN 
+memory, NOUN 
+prevented, VERB 
+adaptation, NOUN 
+
+, SPACE 
+enhancement, NOUN 
+factors, NOUN 
+similar, ADJ 
+quality, NOUN 
+
+, SPACE 
+shown, VERB 
+Figure, PROPN 
+7a, NUM 
+significant, ADJ 
+changes, NOUN 
+
+, SPACE 
+solution, NOUN 
+anticipated, VERB 
+
+, SPACE 
+Computational, PROPN 
+results, NOUN 
+
+, SPACE 
+Flow, NOUN 
+field, NOUN 
+
+, SPACE 
+Figure, PROPN 
+8, NUM 
+shows, VERB 
+computed, VERB 
+velocity, NOUN 
+vectors, NOUN 
+symmetry, NOUN 
+
+, SPACE 
+plane, NOUN 
+90, NUM 
+°, NUM 
+30, NUM 
+°, NOUN 
+holes, NOUN 
+range, NOUN 
+suction, NOUN 
+ratios, NOUN 
+
+, SPACE 
+90, NUM 
+°, NUM 
+hole, NOUN 
+vectors, NOUN 
+separation, NOUN 
+bubble, NOUN 
+
+, SPACE 
+upstream, ADJ 
+entrance, NOUN 
+hole, NOUN 
+dramatically, ADV 
+reduces, VERB 
+size, NOUN 
+
+, SPACE 
+SR, PROPN 
+increased, VERB 
+vectors, NOUN 
+illustrate, VERB 
+effect, NOUN 
+SR, PROPN 
+
+, SPACE 
+stagnation, NOUN 
+point, NOUN 
+streamline, NOUN 
+separating, VERB 
+flow, NOUN 
+ingested, VERB 
+
+, SPACE 
+hole, NOUN 
+flow, NOUN 
+continuing, VERB 
+duct, NOUN 
+SR, PROPN 
+=, NOUN 
+
+, SPACE 
+1.20, NUM 
+stagnation, NOUN 
+point, NOUN 
+close, ADJ 
+downstream, ADJ 
+lip, NOUN 
+hole, NOUN 
+SR, PROPN 
+=, ADP 
+7.48, NUM 
+stagnation, NOUN 
+point, NOUN 
+position, NOUN 
+0.5D, NOUN 
+
+, SPACE 
+downstream, NOUN 
+hole, NOUN 
+SR, PROPN 
+=, NOUN 
+3.47, NUM 
+shown, VERB 
+Figure, PROPN 
+8), NUM 
+
+, SPACE 
+position, NOUN 
+stagnation, NOUN 
+point, NOUN 
+0.34D, NUM 
+downstream, ADJ 
+
+, SPACE 
+hole, NOUN 
+positions, NOUN 
+good, ADJ 
+overall, ADJ 
+agreement, NOUN 
+Byerley, PROPN 
+
+, SPACE 
+1989, NUM 
+measurements, NOUN 
+stagnation, NOUN 
+point, NOUN 
+remained, VERB 
+
+, SPACE 
+downstream, ADJ 
+lip, NOUN 
+hole, NOUN 
+SRs, NOUN 
+4.2, NUM 
+moved, VERB 
+
+, SPACE 
+downstream, ADJ 
+reached, VERB 
+0.5D, ADJ 
+position, NOUN 
+SR, PROPN 
+=, NOUN 
+5.6, NUM 
+
+, SPACE 
+remained, VERB 
+higher, ADJ 
+SRs, NOUN 
+30, NUM 
+°, NUM 
+hole, NOUN 
+stagnation, NOUN 
+
+, SPACE 
+point, NOUN 
+shows, VERB 
+trend, NOUN 
+increasing, VERB 
+SR, PROPN 
+90, NUM 
+°, NUM 
+hole, NOUN 
+
+, SPACE 
+0.9-, NUM 
+
+, SPACE 
+0.8, NUM 
+
+, SPACE 
+0.7, NUM 
+
+, SPACE 
+8, NUM 
+
+, SPACE 
+~0.6, NUM 
+
+, SPACE 
+o, NOUN 
+
+, SPACE 
+05, NUM 
+
+, SPACE 
+0.4, NUM 
+
+, SPACE 
+Figure, NOUN 
+9, NUM 
+, NOUN 
+.iyedey, PUNCT 
+1989, NUM 
+
+, SPACE 
+3, X 
+~, PUNCT 
+eg, NOUN 
+Cal~=ed, PROPN 
+
+, SPACE 
+./t, PUNCT 
+---e--, PROPN 
+90deg, PROPN 
+Byedey, PROPN 
+1989, NUM 
+
+, SPACE 
+o/, NOUN 
+-e---, PUNCT 
+90de9, NUM 
+Computed, VERB 
+
+, SPACE 
+10, NUM 
+100, NUM 
+
+, SPACE 
+Velocity, PROPN 
+Heed, PROPN 
+Ratio, PROPN 
+
+, SPACE 
+Discharge, NOUN 
+coefficients, NOUN 
+30, NUM 
+90, NUM 
+°, NOUN 
+holes, VERB 
+1000, NUM 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+2, NUM 
+April, PROPN 
+1996, NUM 
+163, NUM 
+
+
+, SPACE 
+Mesh, PROPN 
+embedding, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+medium, ADJ 
+high, ADJ 
+SRs, NOUN 
+shown, VERB 
+Figure, PROPN 
+8), NUM 
+
+, SPACE 
+reverse, ADJ 
+flow, NOUN 
+entering, VERB 
+hole, NOUN 
+produces, VERB 
+large, ADJ 
+separation, NOUN 
+
+, SPACE 
+downstream, ADJ 
+edge, NOUN 
+compared, VERB 
+small, ADJ 
+separation, NOUN 
+
+, SPACE 
+upstream, ADJ 
+edge, NOUN 
+size, NOUN 
+downstream, ADJ 
+separation, NOUN 
+
+, SPACE 
+change, VERB 
+significantly, ADV 
+medium, ADJ 
+high, ADJ 
+SRs, NOUN 
+Discharge, NOUN 
+coefficients, NOUN 
+
+, SPACE 
+Hole, PROPN 
+discharge, NOUN 
+coefficients, NOUN 
+important, ADJ 
+engineering, NOUN 
+parame-, NOUN 
+
+, SPACE 
+ter, NOUN 
+proper, ADJ 
+sizing, NOUN 
+location, NOUN 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+
+, SPACE 
+discharge, NOUN 
+coefficient, NOUN 
+C, PROPN 
+d, PROPN 
+ratio, NOUN 
+actual, ADJ 
+mass, NOUN 
+flow, NOUN 
+
+, SPACE 
+hole, NOUN 
+ideal, ADJ 
+flow, NOUN 
+pass, VERB 
+hole, NOUN 
+
+, SPACE 
+Byerley, PROPN 
+1989, NUM 
+17, NUM 
+
+, SPACE 
+Computed, VERB 
+4.32, NUM 
+3.33, NUM 
+2.92, NUM 
+2.56, NUM 
+2.17, NUM 
+1.92, NUM 
+1.71, NUM 
+1.57, NUM 
+1.46, NUM 
+
+, SPACE 
+SR=1.20, PROPN 
+
+, SPACE 
+BI, PROPN 
+6.24, NUM 
+4.98, NUM 
+4.00, NUM 
+3.56, NUM 
+2.93, NUM 
+2.42, NUM 
+2.13, NUM 
+1.91, NUM 
+1.62, NUM 
+1.50, NUM 
+1.29, NUM 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+Cumput~, ADV 
+6.24, NUM 
+4.98, NUM 
+4.00, NUM 
+3.56, NUM 
+2.93, NUM 
+2.42, NUM 
+2.13, NUM 
+1.91, NUM 
+1.62, NUM 
+
+, SPACE 
+b, PROPN 
+SR, PROPN 
+=, NOUN 
+3.47, NUM 
+
+, SPACE 
+Figure, PROPN 
+10, NUM 
+6.32, NUM 
+5.02, NUM 
+4.20, NUM 
+3.56, NUM 
+2.80, NUM 
+2.35, NUM 
+2.02, NUM 
+1.76, NUM 
+1.59, NUM 
+1.45, NUM 
+1.36, NUM 
+1.27, NUM 
+
+, SPACE 
+6.32, NUM 
+5.02, NUM 
+4.20, NUM 
+3.56, NUM 
+2.80, NUM 
+2.35, NUM 
+2.02, NUM 
+1.76, NUM 
+
+, SPACE 
+C, PROPN 
+SR, PROPN 
+=, ADP 
+7.48, NUM 
+
+, SPACE 
+Contours, PROPN 
+heat, NOUN 
+transfer, NOUN 
+enhancement, NOUN 
+factor, NOUN 
+duct, NOUN 
+endwall, NOUN 
+90, NUM 
+°, NOUN 
+hole, NOUN 
+
+, SPACE 
+164, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+2, NUM 
+April, PROPN 
+1996, NUM 
+
+
+, SPACE 
+ideal, ADJ 
+flow, NOUN 
+evaluated, VERB 
+ideal, ADJ 
+velocity, NOUN 
+hole, NOUN 
+exit, NOUN 
+
+, SPACE 
+computed, VERB 
+Bernoulli, PROPN 
+equation, NOUN 
+
+, SPACE 
+u~, PUNCT 
+deal=, NUM 
+2(P~, NUM 
+dee, PROPN 
+-P2)/P, NOUN 
+1/2, NUM 
+10, NUM 
+
+, SPACE 
+subscript, NOUN 
+2, NUM 
+denotes, VERB 
+hole, NOUN 
+exit, NOUN 
+station, NOUN 
+ideal, ADJ 
+
+, SPACE 
+flow, NOUN 
+losses, NOUN 
+total, ADJ 
+pressure, NOUN 
+duct, NOUN 
+inlet, VERB 
+
+, SPACE 
+station, NOUN 
+subscript, NOUN 
+1, NUM 
+hole, NOUN 
+exit, NOUN 
+
+, SPACE 
+p, NOUN 
+ideal, NOUN 
+11, NUM 
+02, NUM 
+Pol, PROPN 
+
+, SPACE 
+compare, VERB 
+Byerley, PROPN 
+results, NOUN 
+C, NOUN 
+values, NOUN 
+plotted, VERB 
+
+, SPACE 
+velocity, NOUN 
+head, NOUN 
+ratio, NOUN 
+defined, VERB 
+
+, SPACE 
+Velocity, PROPN 
+head, NOUN 
+ratio, NOUN 
+
+, SPACE 
+Pro, PROPN 
+PE, PROPN 
+Pm, PROPN 
+-P, PROPN 
+12, NUM 
+
+, SPACE 
+Figure, PROPN 
+9, NUM 
+compares, VERB 
+computed, VERB 
+C, PROPN 
+d, NOUN 
+values, NOUN 
+30, NUM 
+
+, SPACE 
+90, NUM 
+°, NOUN 
+holes, NOUN 
+computations, NOUN 
+clearly, ADV 
+exhibit, VERB 
+crossover, NOUN 
+
+, SPACE 
+C, NOUN 
+d, NOUN 
+values, NOUN 
+observed, VERB 
+Byerley, PROPN 
+1989, NUM 
+numerical, ADJ 
+results, NOUN 
+
+, SPACE 
+confirm, VERB 
+Byerley, PROPN 
+explanation, NOUN 
+crossover, NOUN 
+
+, SPACE 
+low, ADJ 
+SR, NOUN 
+90, NUM 
+°, NUM 
+hole, NOUN 
+large, ADJ 
+separated, VERB 
+region, NOUN 
+
+, SPACE 
+upstream, ADJ 
+entrance, NOUN 
+presents, VERB 
+significant, ADJ 
+blockage, NOUN 
+leads, VERB 
+
+, SPACE 
+low, ADJ 
+C, NOUN 
+d, NOUN 
+value, NOUN 
+SR, NOUN 
+increases, VERB 
+separated, ADJ 
+region, NOUN 
+reduces, VERB 
+
+, SPACE 
+size, NOUN 
+flow, NOUN 
+separates, VERB 
+down-, ADJ 
+
+, SPACE 
+stream, NOUN 
+entrance, NOUN 
+hole, NOUN 
+result, NOUN 
+stagnation, NOUN 
+point, NOUN 
+
+, SPACE 
+moving, VERB 
+downstream, ADV 
+overall, ADJ 
+blockage, NOUN 
+reduces, NOUN 
+30, NUM 
+°, NUM 
+
+, SPACE 
+hole, NOUN 
+low, ADJ 
+SR, PROPN 
+hole, NOUN 
+angled, VERB 
+favorably, ADV 
+flow, NOUN 
+
+, SPACE 
+blockage, NOUN 
+90, NUM 
+°, NUM 
+low, ADJ 
+SR, PROPN 
+case, NOUN 
+SR, NOUN 
+
+, SPACE 
+increases, NOUN 
+reverse, ADJ 
+flow, NOUN 
+entering, VERB 
+hole, NOUN 
+turn, VERB 
+
+, SPACE 
+150, NUM 
+°, NOUN 
+blockage, NOUN 
+greater, ADJ 
+90, NUM 
+°, NUM 
+hole, NOUN 
+
+, SPACE 
+effects, NOUN 
+clearly, ADV 
+shown, VERB 
+velocity, NOUN 
+vectors, NOUN 
+Figure, PROPN 
+8, NUM 
+
+, SPACE 
+low, ADJ 
+SRs, NOUN 
+computed, VERB 
+C, NOUN 
+values, NOUN 
+order, NOUN 
+
+, SPACE 
+0.05, NUM 
+larger, ADJ 
+measurements, NOUN 
+indicating, VERB 
+block-, NOUN 
+
+, SPACE 
+age, NOUN 
+underestimated, VERB 
+high, ADJ 
+SRs, NOUN 
+computed, VERB 
+C, PROPN 
+d, PROPN 
+
+, SPACE 
+values, NOUN 
+order, NOUN 
+0.1, NUM 
+lower, ADJ 
+measurements, NOUN 
+
+, SPACE 
+indicating, VERB 
+blockage, NOUN 
+overestimated, VERB 
+30, NUM 
+°, NUM 
+
+, SPACE 
+hole, NOUN 
+leads, VERB 
+opposite, ADJ 
+trend, NOUN 
+experimental, ADJ 
+data, NOUN 
+
+, SPACE 
+measurements, NOUN 
+Rohde, PROPN 
+et, PROPN 
+al, PROPN 
+1969, NUM 
+45, NUM 
+°, NUM 
+hole, NOUN 
+
+, SPACE 
+reduction, NOUN 
+C, PROPN 
+d, NOUN 
+low, ADJ 
+medium, ADJ 
+SRs, NOUN 
+
+, SPACE 
+possible, ADJ 
+insufficient, ADJ 
+reduction, NOUN 
+blockage, NOUN 
+
+, SPACE 
+medium, ADJ 
+high, ADJ 
+SRs, NOUN 
+shown, VERB 
+Figures, NOUN 
+8c, PROPN 
+8d, PROPN 
+
+, SPACE 
+suggests, VERB 
+inadequacies, NOUN 
+modelling, VERB 
+separation, NOUN 
+
+, SPACE 
+downstream, ADJ 
+lip, NOUN 
+hole, NOUN 
+
+, SPACE 
+Heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+results, NOUN 
+presented, VERB 
+terms, NOUN 
+enhance-, NUM 
+
+, SPACE 
+ment, ADJ 
+factor, NOUN 
+EF, PROPN 
+defined, VERB 
+local, ADJ 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+coefficient, NOUN 
+divided, VERB 
+base, NOUN 
+level, NOUN 
+heat, NOUN 
+transfer, NOUN 
+coefficient, NOUN 
+
+, SPACE 
+fully, ADV 
+developed, VERB 
+turbulent, ADJ 
+flow, NOUN 
+channel, NOUN 
+film, NOUN 
+cooling, VERB 
+
+, SPACE 
+holes, NOUN 
+base, ADJ 
+level, NOUN 
+heat, NOUN 
+transfer, NOUN 
+obtained, VERB 
+correla-, NOUN 
+
+, SPACE 
+tion, NOUN 
+provided, VERB 
+Kays, NOUN 
+Crawford, PROPN 
+1980, NUM 
+
+, SPACE 
+Nu, PROPN 
+H, PROPN 
+=, VERB 
+0.0146, NUM 
+Pr, PROPN 
+°, NUM 
+5, NUM 
+Re~/8, NOUN 
+13, NUM 
+
+, SPACE 
+Nusselt, PROPN 
+Reynolds, PROPN 
+numbers, NOUN 
+correlation, NOUN 
+based, VERB 
+
+, SPACE 
+height, NOUN 
+duct, NOUN 
+
+, SPACE 
+Contours, PROPN 
+EF, PROPN 
+duct, NOUN 
+surface, NOUN 
+90, NUM 
+°, NUM 
+hole, NOUN 
+
+, SPACE 
+compared, VERB 
+measurements, NOUN 
+Figure, PROPN 
+10, NUM 
+Byerley, PROPN 
+1989, NUM 
+
+, SPACE 
+observed, VERB 
+EF, PROPN 
+contours, VERB 
+downstream, ADV 
+hole, NOUN 
+change, VERB 
+
+, SPACE 
+having, VERB 
+single, ADJ 
+lobed, VERB 
+nature, NOUN 
+low, ADJ 
+SRs, NOUN 
+double, ADJ 
+lobed, VERB 
+
+, SPACE 
+nature, NOUN 
+higher, ADJ 
+SRs, NOUN 
+downstream, ADJ 
+enhance-, NUM 
+
+, SPACE 
+ment, NOUN 
+effects, NOUN 
+boundary, ADJ 
+layer, NOUN 
+thinning, NOUN 
+
+, SPACE 
+result, NOUN 
+downwash, NOUN 
+vortex, NOUN 
+pair, NOUN 
+develop, VERB 
+
+, SPACE 
+downstream, ADJ 
+duct, NOUN 
+low, ADJ 
+SRs, NOUN 
+vortices, NOUN 
+close, ADJ 
+centre, NOUN 
+
+, SPACE 
+plane, NOUN 
+downwash, NOUN 
+occurs, VERB 
+single, ADJ 
+area, NOUN 
+straddles, VERB 
+
+, SPACE 
+centreline, NOUN 
+higher, ADJ 
+SRs, NOUN 
+distance, NOUN 
+separating, VERB 
+vortex, NOUN 
+pair, NOUN 
+
+, SPACE 
+increases, NOUN 
+downwash, NOUN 
+occurs, VERB 
+separate, ADJ 
+areas, NOUN 
+
+, SPACE 
+centreline, NOUN 
+leading, VERB 
+higher, ADJ 
+EFs, NOUN 
+away, ADV 
+Mesh, PROPN 
+embedding, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+10, NUM 
+
+, SPACE 
+._=-~, X 
+
+, SPACE 
+¢, PROPN 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+10, NUM 
+e)90, PROPN 
+hole, NOUN 
+SR, PROPN 
+=, X 
+l.20, PROPN 
+
+, SPACE 
+p, VERB 
+
+, SPACE 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+5, NUM 
+6, NUM 
+
+, SPACE 
+x, SYM 
+D, NOUN 
+10, NUM 
+
+, SPACE 
+8, NUM 
+
+, SPACE 
+.~, NOUN 
+e, NOUN 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+I0, PROPN 
+
+, SPACE 
+b, PROPN 
+90, NUM 
+hole, NOUN 
+SR=3.47, PROPN 
+
+, SPACE 
+8, NUM 
+8, NUM 
+
+, SPACE 
+®, NOUN 
+6, NUM 
+c, NOUN 
+~, PUNCT 
+6, NUM 
+=, SYM 
+=, X 
+
+, SPACE 
+~, PUNCT 
+4, NUM 
+~, PUNCT 
+4, NUM 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+2, NUM 
+2, NUM 
+
+, SPACE 
+0, NUM 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+5, NUM 
+6, NUM 
+
+, SPACE 
+X, NOUN 
+D, NOUN 
+
+, SPACE 
+10, NUM 
+10, NUM 
+
+, SPACE 
+O, PROPN 
+90, NUM 
+°, NUM 
+hole, NOUN 
+SR=7.48, PROPN 
+
+, SPACE 
+8, NUM 
+8, NUM 
+
+, SPACE 
+~, PUNCT 
+6, NUM 
+¢~, PROPN 
+6, NUM 
+
+, SPACE 
+2, NUM 
+~, NOUN 
+2, NUM 
+
+, SPACE 
+1, NUM 
+2, NUM 
+3x, NUM 
+D4, PROPN 
+5, NUM 
+6, NUM 
+7, NUM 
+0, NUM 
+
+, SPACE 
+Figure, NOUN 
+11, NUM 
+Centreline, ADJ 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+computed, VERB 
+Byerley, PROPN 
+11989, NUM 
+90, NUM 
+°, NUM 
+hole, NOUN 
+SR=1.20, PROPN 
+
+, SPACE 
+
+, SPACE 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+5, NUM 
+6, NUM 
+
+, SPACE 
+x, SYM 
+D, PROPN 
+
+, SPACE 
+e, NOUN 
+30, NUM 
+hole, NOUN 
+SR=4.70, PROPN 
+
+, SPACE 
+-4~--, PROPN 
+
+, SPACE 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+5, NUM 
+6, NUM 
+
+, SPACE 
+x, SYM 
+D, PROPN 
+
+, SPACE 
+f, PROPN 
+30, NUM 
+°, NUM 
+hole, NOUN 
+SR=7.68, PROPN 
+
+, SPACE 
+
+, SPACE 
+i--, X 
+
+, SPACE 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+5, NUM 
+6, NUM 
+
+, SPACE 
+x, SYM 
+D, ADJ 
+
+, SPACE 
+enhancement, NOUN 
+factors, NOUN 
++, ADV 
+
+, SPACE 
+centreline, NOUN 
+compared, VERB 
+EF, PROPN 
+centreline, NOUN 
+computed, VERB 
+
+, SPACE 
+EF, PROPN 
+contours, VERB 
+low, ADJ 
+high, ADJ 
+SRs, NOUN 
+clearly, ADV 
+transition, NOUN 
+
+, SPACE 
+single-, NOUN 
+double, ADJ 
+lobed, VERB 
+characteristic, NOUN 
+SR, PROPN 
+=, PROPN 
+3.47, NUM 
+EF, PROPN 
+
+, SPACE 
+contours, NOUN 
+small, ADJ 
+indication, NOUN 
+double, ADJ 
+lobed, VERB 
+characteristic, NOUN 
+
+, SPACE 
+pronounced, VERB 
+measurements, NOUN 
+
+, SPACE 
+case, NOUN 
+close, ADJ 
+SR, PROPN 
+=, PUNCT 
+3, NUM 
+value, NOUN 
+Byerley, PROPN 
+1989, NUM 
+suggested, VERB 
+
+, SPACE 
+crossover, NOUN 
+point, NOUN 
+single, ADJ 
+double, ADJ 
+lobed, VERB 
+
+, SPACE 
+characteristics, NOUN 
+
+, SPACE 
+Profiles, NOUN 
+EF, PROPN 
+duct, NOUN 
+centreline, NOUN 
+90, NUM 
+30, NUM 
+°, NUM 
+
+, SPACE 
+holes, NOUN 
+compared, VERB 
+measurements, NOUN 
+Figure, PROPN 
+11, NUM 
+Overall, ADV 
+
+, SPACE 
+agreement, NOUN 
+measurements, NOUN 
+acceptable, ADJ 
+
+, SPACE 
+rate, NOUN 
+decay, NOUN 
+EF, PROPN 
+downstream, NOUN 
+hole, NOUN 
+underestimated, VERB 
+
+, SPACE 
+probably, ADV 
+underprediction, NOUN 
+rate, NOUN 
+
+, SPACE 
+growth, NOUN 
+new, ADJ 
+boundary, ADJ 
+layer, NOUN 
+downstream, NOUN 
+stagnation, NOUN 
+
+, SPACE 
+point, NOUN 
+difficulty, NOUN 
+exacerbated, VERB 
+fact, NOUN 
+y+, PRON 
+values, NOUN 
+
+, SPACE 
+downstream, ADJ 
+region, NOUN 
+duct, NOUN 
+cut, VERB 
+value, NOUN 
+
+, SPACE 
+12, NUM 
+application, NOUN 
+wall, NOUN 
+functions, NOUN 
+poor, ADJ 
+modelling, NOUN 
+
+, SPACE 
+downstream, ADJ 
+boundary, ADJ 
+layer, NOUN 
+growth, NOUN 
+unexpected, ADJ 
+
+, SPACE 
+high, ADJ 
+Reynolds, PROPN 
+number, NOUN 
+k, PROPN 
+e, PROPN 
+model, NOUN 
+better, ADJ 
+accuracy, NOUN 
+
+, SPACE 
+anticipated, VERB 
+improved, ADJ 
+near, ADJ 
+wall, NOUN 
+model, NOUN 
+
+, SPACE 
+numerical, ADJ 
+results, NOUN 
+sufficiently, ADV 
+credible, ADJ 
+use, NOUN 
+
+, SPACE 
+engineering, NOUN 
+environment, NOUN 
+
+, SPACE 
+Conclusions, PROPN 
+
+, SPACE 
+dimensional, ADJ 
+3, NUM 
+D, NOUN 
+mesh, NOUN 
+embedding, VERB 
+algorithm, PROPN 
+solu-, ADJ 
+
+, SPACE 
+tion, NOUN 
+adaptation, NOUN 
+described, VERB 
+algorithm, PROPN 
+uses, VERB 
+upwind, VERB 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+2, NUM 
+April, PROPN 
+1996, NUM 
+165, NUM 
+
+
+, SPACE 
+Mesh, PROPN 
+embedding, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+B., PROPN 
+L., PROPN 
+Lapworth, PROPN 
+et, NOUN 
+aL, PROPN 
+
+, SPACE 
+control, NOUN 
+volumes, NOUN 
+maintain, VERB 
+accuracy, NOUN 
+stability, NOUN 
+internal, ADJ 
+
+, SPACE 
+interfaces, NOUN 
+Flux, NOUN 
+conservation, NOUN 
+maintained, VERB 
+provided, VERB 
+
+, SPACE 
+interfaces, NOUN 
+parallelograms, NOUN 
+pressure, NOUN 
+correction, NOUN 
+solver, NOUN 
+
+, SPACE 
+implicitness, ADJ 
+discrete, ADJ 
+equations, NOUN 
+maintained, VERB 
+
+, SPACE 
+interfaces, NOUN 
+replacing, VERB 
+hanging, VERB 
+node, ADJ 
+values, NOUN 
+linear, ADJ 
+
+, SPACE 
+interpolation, NOUN 
+rules, NOUN 
+numerical, ADJ 
+model, NOUN 
+allows, VERB 
+uni-, PROPN 
+hi-, PROPN 
+
+, SPACE 
+tri, ADJ 
+direction, NOUN 
+embedding, VERB 
+extends, VERB 
+previous, ADJ 
+work, NOUN 
+Lap-, PROPN 
+
+, SPACE 
+worth, ADJ 
+1993, NUM 
+generated, VERB 
+3, NUM 
+D, ADJ 
+models, NOUN 
+stacking, VERB 
+topologi-, NUM 
+
+, SPACE 
+cally, ADV 
+similar, ADJ 
+meshes, NOUN 
+direction, NOUN 
+
+, SPACE 
+model, NOUN 
+applied, VERB 
+large, ADJ 
+scale, NOUN 
+apparatus, NOUN 
+
+, SPACE 
+entrance, NOUN 
+flows, VERB 
+cylindrical, ADJ 
+film, NOUN 
+cooling, VERB 
+hole, NOUN 
+model, NOUN 
+
+, SPACE 
+captured, VERB 
+salient, NOUN 
+features, NOUN 
+flow, NOUN 
+heat, NOUN 
+
+, SPACE 
+transfer, NOUN 
+downstream, ADJ 
+movement, NOUN 
+stagnation, NOUN 
+
+, SPACE 
+point, NOUN 
+transition, NOUN 
+double, ADJ 
+lobed, VERB 
+nature, NOUN 
+EF, PROPN 
+
+, SPACE 
+contours, VERB 
+SR, PROPN 
+increases, VERB 
+Solution, NOUN 
+adaptation, NOUN 
+shown, VERB 
+
+, SPACE 
+significant, ADJ 
+improvements, NOUN 
+solution, NOUN 
+quality, NOUN 
+vicin-, ADJ 
+
+, SPACE 
+ity, NOUN 
+hole, NOUN 
+entrance, NOUN 
+important, ADJ 
+tool, NOUN 
+control-, NOUN 
+
+, SPACE 
+ling, VERB 
+spurious, ADJ 
+numerical, ADJ 
+oscillations, NOUN 
+Overall, ADV 
+numerical, ADJ 
+model, NOUN 
+
+, SPACE 
+felt, VERB 
+provide, VERB 
+solutions, NOUN 
+sufficient, ADJ 
+accuracy, NOUN 
+use, NOUN 
+
+, SPACE 
+engineering, NOUN 
+environment, NOUN 
+Detailed, ADJ 
+comparisons, NOUN 
+shown, VERB 
+
+, SPACE 
+limitations, NOUN 
+caused, VERB 
+use, NOUN 
+high, ADJ 
+Reynolds, PROPN 
+number, NOUN 
+
+, SPACE 
+k, PROPN 
+e, NOUN 
+model, NOUN 
+limitations, NOUN 
+ascribed, VERB 
+
+, SPACE 
+use, NOUN 
+H, NOUN 
+style, NOUN 
+meshes, NOUN 
+produce, VERB 
+distorted, VERB 
+grid, NOUN 
+distributions, NOUN 
+
+, SPACE 
+hole, NOUN 
+embedded, VERB 
+mesh, NOUN 
+model, NOUN 
+
+, SPACE 
+equally, ADV 
+applied, VERB 
+cylindrical, ADJ 
+polar, ADJ 
+meshes, NOUN 
+
+, SPACE 
+better, ADV 
+suited, VERB 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+aim, NOUN 
+work, NOUN 
+
+, SPACE 
+develop, VERB 
+model, NOUN 
+easily, ADV 
+incorporated, VERB 
+calculations, NOUN 
+
+, SPACE 
+flow, NOUN 
+turbine, NOUN 
+blades, NOUN 
+single, ADJ 
+nonoverlapping, ADJ 
+
+, SPACE 
+mesh, NOUN 
+structure, NOUN 
+present, ADJ 
+model, NOUN 
+H, NOUN 
+meshes, NOUN 
+allow, VERB 
+easier, ADJ 
+
+, SPACE 
+generalization, NOUN 
+multiple, ADJ 
+holes, NOUN 
+turbine, VERB 
+blading, VERB 
+applica-, NOUN 
+
+, SPACE 
+tions, NOUN 
+results, NOUN 
+study, NOUN 
+shown, VERB 
+relatively, ADV 
+coarse, ADJ 
+
+, SPACE 
+representation, NOUN 
+cooling, VERB 
+holes, NOUN 
+produce, VERB 
+solutions, NOUN 
+
+, SPACE 
+engineering, NOUN 
+usefulness, NOUN 
+reductions, NOUN 
+node, NOUN 
+numbers, NOUN 
+be-, PROPN 
+
+, SPACE 
+tween, NOUN 
+70, NUM 
+80, NUM 
+compared, VERB 
+background, NOUN 
+fine, ADJ 
+meshes, NOUN 
+
+, SPACE 
+produced, VERB 
+mesh, NOUN 
+embedding, VERB 
+demonstrate, VERB 
+flexibility, NOUN 
+
+, SPACE 
+numerical, ADJ 
+model, NOUN 
+essential, ADJ 
+analysis, NOUN 
+multiple, ADJ 
+
+, SPACE 
+film, NOUN 
+cooling, VERB 
+holes, NOUN 
+
+, SPACE 
+Acknowledgments, NOUN 
+
+, SPACE 
+authors, NOUN 
+gratefully, ADV 
+acknowledge, VERB 
+permission, NOUN 
+Rolls-, PROPN 
+
+, SPACE 
+Royce, PROPN 
+plc, PROPN 
+publish, VERB 
+paper, NOUN 
+R., PROPN 
+Nedar, PROPN 
+thanks, NOUN 
+Volvo, PROPN 
+Aero, PROPN 
+
+, SPACE 
+Corporation, PROPN 
+opportunity, NOUN 
+collaborate, VERB 
+Rolls, PROPN 
+Royce, PROPN 
+
+, SPACE 
+computations, NOUN 
+reported, VERB 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+Alvarez, PROPN 
+J., PROPN 
+Jones, PROPN 
+W., PROPN 
+P., PROPN 
+Seoud, PROPN 
+R., PROPN 
+1993, NUM 
+Predictions, NOUN 
+momentum, NOUN 
+
+, SPACE 
+scalar, ADJ 
+fields, NOUN 
+jet, NOUN 
+cross, ADJ 
+flow, NOUN 
+second, ADJ 
+order, NOUN 
+turbulence, NOUN 
+closures, NOUN 
+Proc, PROPN 
+AGARD, PROPN 
+Meeting, PROPN 
+Computational, PROPN 
+
+, SPACE 
+Experimental, PROPN 
+Assessment, PROPN 
+Jets, PROPN 
+Cross, PROPN 
+Flow, PROPN 
+AGARD, PROPN 
+CP-534, PROPN 
+
+, SPACE 
+Paper, PROPN 
+24, NUM 
+
+, SPACE 
+Andreopoulus, PROPN 
+J., PROPN 
+Rodi, PROPN 
+W., PROPN 
+1984, NUM 
+Experimental, ADJ 
+investigation, NOUN 
+jets, NOUN 
+
+, SPACE 
+crossflow, NOUN 
+J., PROPN 
+Fluid, PROPN 
+Mech, PROPN 
+138, NUM 
+93, NUM 
+
+, SPACE 
+Benz, PROPN 
+E., PROPN 
+Wittig, PROPN 
+S., PROPN 
+Beeck, PROPN 
+A., NOUN 
+Fottner, PROPN 
+L., PROPN 
+1993, NUM 
+Analysis, NOUN 
+cooling, VERB 
+
+, SPACE 
+jets, NOUN 
+near, ADP 
+leading, VERB 
+edge, NOUN 
+turbine, NOUN 
+blades, NOUN 
+Proc, PROPN 
+AGARD, PROPN 
+Meeting, PROPN 
+
+, SPACE 
+Computational, PROPN 
+Experimental, PROPN 
+Assessment, PROPN 
+Jets, PROPN 
+Cross, PROPN 
+
+, SPACE 
+Flow, PROPN 
+AGARD, PROPN 
+CP-534, PROPN 
+Paper, PROPN 
+37, NUM 
+
+, SPACE 
+Bergeles, PROPN 
+G., PROPN 
+Gosman, PROPN 
+A., NOUN 
+D., PROPN 
+Launder, PROPN 
+B., PROPN 
+E., PROPN 
+1978, NUM 
+turbulent, ADJ 
+jet, NOUN 
+
+, SPACE 
+cross, NOUN 
+stream, NOUN 
+low, ADJ 
+injection, NOUN 
+rates, NOUN 
+dimensional, ADJ 
+numeri-, NUM 
+
+, SPACE 
+cal, NOUN 
+treatment, NOUN 
+Num, ADJ 
+Heat, PROPN 
+Transfer, PROPN 
+1, NUM 
+217, NUM 
+242, NUM 
+
+, SPACE 
+Byerley, PROPN 
+A., NOUN 
+R., PROPN 
+1989, NUM 
+Heat, NOUN 
+transfer, NOUN 
+near, ADP 
+entrance, NOUN 
+film, NOUN 
+cooling, VERB 
+
+, SPACE 
+hole, NOUN 
+gas, NOUN 
+turbine, NOUN 
+blade, NOUN 
+D., PROPN 
+Phil, PROPN 
+thesis, NOUN 
+Department, PROPN 
+Engineering, PROPN 
+
+, SPACE 
+Science, PROPN 
+University, PROPN 
+Oxford, PROPN 
+Oxford, PROPN 
+UK, PROPN 
+
+, SPACE 
+Choi, PROPN 
+D., PROPN 
+1993, NUM 
+Navier, PROPN 
+Stokes, PROPN 
+analysis, NOUN 
+film, NOUN 
+cooling, VERB 
+turbine, NOUN 
+
+, SPACE 
+blade, NOUN 
+Proc, PROPN 
+3]st, NUM 
+Aerospace, PROPN 
+Sciences, PROPN 
+Meeting, PROPN 
+Exhibit, PROPN 
+AIAA, PROPN 
+
+, SPACE 
+Paper, PROPN 
+AIAA-93, PROPN 
+0158, NUM 
+Reno, PROPN 
+NV, PROPN 
+USA, PROPN 
+
+, SPACE 
+Demuren, PROPN 
+A., PROPN 
+O., PROPN 
+Rodi, PROPN 
+W., PROPN 
+Schonung, PROPN 
+B., PROPN 
+1985, NUM 
+Systematic, ADJ 
+study, NOUN 
+
+, SPACE 
+film, NOUN 
+cooling, VERB 
+dimensional, ADJ 
+calculation, NOUN 
+procedure, NOUN 
+Proc, PROPN 
+
+, SPACE 
+ASME, PROPN 
+Gas, PROPN 
+Turbine, PROPN 
+Symposium, PROPN 
+Exposition, PROPN 
+ASME, PROPN 
+Paper, PROPN 
+
+, SPACE 
+85, NUM 
+GT-2, NUM 
+Beijing, PROPN 
+China, PROPN 
+
+, SPACE 
+Dibelius, PROPN 
+G., PROPN 
+H, PROPN 
+Pitt, PROPN 
+R., PROPN 
+Wen, PROPN 
+B., PROPN 
+1990, NUM 
+Numerical, ADJ 
+prediction, NOUN 
+film, NOUN 
+
+, SPACE 
+cooling, VERB 
+effectiveness, NOUN 
+associated, ADJ 
+aerodynamic, ADJ 
+losses, NOUN 
+
+, SPACE 
+dimensional, ADJ 
+calculation, NOUN 
+procedure, NOUN 
+Proc, PROPN 
+ASME, PROPN 
+Gas, PROPN 
+Turbine, PROPN 
+
+, SPACE 
+Aeroengine, PROPN 
+Congress, PROPN 
+Exposition, PROPN 
+ASME, PROPN 
+Paper, PROPN 
+90, NUM 
+GT-, PROPN 
+
+, SPACE 
+226, NUM 
+Brussels, PROPN 
+Belgium, PROPN 
+
+, SPACE 
+Lapworth, PROPN 
+B., PROPN 
+L., PROPN 
+1993, NUM 
+dimensional, ADJ 
+mesh, NOUN 
+embedding, VERB 
+
+, SPACE 
+Navier, PROPN 
+Stokes, PROPN 
+equations, NOUN 
+upwind, NOUN 
+control, NOUN 
+volumes, NOUN 
+Int, ADJ 
+J., PROPN 
+Num, PROPN 
+
+, SPACE 
+Meth, PROPN 
+Fluids, PROPN 
+17, NUM 
+195, NUM 
+220, NUM 
+
+, SPACE 
+Leylek, PROPN 
+1, NUM 
+H., PROPN 
+Zerkle, PROPN 
+R., PROPN 
+D., PROPN 
+1993, NUM 
+Discrete, ADJ 
+jet, NOUN 
+film, NOUN 
+cooling, VERB 
+
+, SPACE 
+comparison, NOUN 
+computational, ADJ 
+results, NOUN 
+experiments, NOUN 
+Proc, PROPN 
+ASME, PROPN 
+
+, SPACE 
+Gas, PROPN 
+Turbine, PROPN 
+Aeroengine, PROPN 
+Congress, PROPN 
+Exposition, PROPN 
+ASME, PROPN 
+Paper, PROPN 
+
+, SPACE 
+93, NUM 
+GT-207, PROPN 
+Cincinnati, PROPN 
+OH, PROPN 
+USA, PROPN 
+
+, SPACE 
+Moore, PROPN 
+J., PROPN 
+G., PROPN 
+1985, NUM 
+Calculation, NOUN 
+3, NUM 
+D, NOUN 
+flow, NOUN 
+numerical, ADJ 
+mixing, NOUN 
+
+, SPACE 
+AGARD, PROPN 
+Lecture, PROPN 
+Series, PROPN 
+140, NUM 
+3, NUM 
+D, NOUN 
+Computational, PROPN 
+Techniques, PROPN 
+
+, SPACE 
+Applied, VERB 
+Internal, ADJ 
+Flows, PROPN 
+Propulsion, PROPN 
+Systems, PROPN 
+
+, SPACE 
+Norton, PROPN 
+R., PROPN 
+J., PROPN 
+G., PROPN 
+Epstein, PROPN 
+A., NOUN 
+H., PROPN 
+Forest, PROPN 
+A., NOUN 
+E., PROPN 
+White, PROPN 
+A., PROPN 
+J., PROPN 
+Henshaw, PROPN 
+D., PROPN 
+
+, SPACE 
+G., PROPN 
+Schultz, PROPN 
+D., PROPN 
+L., PROPN 
+Oldfield, PROPN 
+M., PROPN 
+L., PROPN 
+G., PROPN 
+1990, NUM 
+Turbine, NOUN 
+cooling, VERB 
+
+, SPACE 
+system, NOUN 
+design, NOUN 
+Vol, PROPN 
+1, NUM 
+Technical, ADJ 
+report, NOUN 
+Wright, PROPN 
+Research, PROPN 
+
+, SPACE 
+Development, PROPN 
+Center, PROPN 
+Report, PROPN 
+WRDC, PROPN 
+TR-89, PROPN 
+2109, NUM 
+Vol, PROPN 
+1, NUM 
+
+, SPACE 
+Patankar, PROPN 
+S., PROPN 
+V., PROPN 
+1980, NUM 
+Numerical, PROPN 
+Heat, PROPN 
+Transfer, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Mc-, NOUN 
+
+, SPACE 
+Graw, PROPN 
+Hill, PROPN 
+New, PROPN 
+York, PROPN 
+
+, SPACE 
+Rohde, PROPN 
+J., PROPN 
+E., PROPN 
+Richards, PROPN 
+H., PROPN 
+T., PROPN 
+Metger, PROPN 
+G., PROPN 
+W., PROPN 
+1969, NUM 
+Discharge, VERB 
+
+, SPACE 
+coefficients, NOUN 
+thick, ADJ 
+plate, NOUN 
+orifices, NOUN 
+approach, NOUN 
+flow, NOUN 
+perpendicular, ADJ 
+
+, SPACE 
+inclined, VERB 
+orifice, NOUN 
+axis, NOUN 
+NASA, PROPN 
+TND-5467, PROPN 
+
+, SPACE 
+Saad, PROPN 
+Y., PROPN 
+Schultz, PROPN 
+M., PROPN 
+H., PROPN 
+1986, NUM 
+GMRES, PROPN 
+generalised, ADJ 
+minimal, ADJ 
+
+, SPACE 
+residual, ADJ 
+algorithm, NOUN 
+solving, VERB 
+non, ADJ 
+symmetric, ADJ 
+linear, NOUN 
+systems, NOUN 
+S, PROPN 
+J., PROPN 
+
+, SPACE 
+Sci, PROPN 
+Star, PROPN 
+Comput, PROPN 
+7, NUM 
+856, NUM 
+869, NUM 
+
+, SPACE 
+Steger, PROPN 
+J., PROPN 
+L., PROPN 
+Dougherty, PROPN 
+F., PROPN 
+C., PROPN 
+Benek, PROPN 
+J., PROPN 
+A., PROPN 
+1983, NUM 
+chimera, NOUN 
+grid, NOUN 
+
+, SPACE 
+scheme, NOUN 
+Proc, PROPN 
+ASME, PROPN 
+Minisymposium, PROPN 
+Advances, PROPN 
+Grid, PROPN 
+Geneara-, PROPN 
+
+, SPACE 
+tion, NOUN 
+Houston, PROPN 
+TX, PROPN 
+USA, PROPN 
+
+, SPACE 
+White, PROPN 
+A., NOUN 
+J., PROPN 
+1980, NUM 
+prediction, NOUN 
+flow, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+vicinity, NOUN 
+jet, NOUN 
+crossflow, NOUN 
+Proc, PROPN 
+ASME, PROPN 
+Winter, PROPN 
+Annual, PROPN 
+Meeting, PROPN 
+
+, SPACE 
+ASME, PROPN 
+80, NUM 
+WA, PROPN 
+HT-26, PROPN 
+Chicago, PROPN 
+IL, PROPN 
+USA, PROPN 
+
+, SPACE 
+166, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+2, NUM 
+April, PROPN 
+1996, NUM 
+
+
+, SPACE 

@@ -1,0 +1,324 @@
+Nuclear Instruments and Methods in Physics Research B 117 (1996) 21-25 
+ELSEVIER Beam Interactions 
+with Materials Et Atoms 
+Boron detection using the nuclear reaction l1 B( p, a) 2 (x 
+M. Vollmer, J.D. Meyer, R.W. Michelmann, K. Bethge * 
+Institutfir Kemphysik, J.W. Goethe-Uniuersitiit, August-Euler&r. 6, 60486 Frankfurt am Main, Germany 
+Received 28 December 1995; revised form received 5 March 1996 
+Abstract 
+The nuclear reaction ‘rB(p, o)2o has been used for the determination of boron impurities in silicon. a-particles with a 
+continuous energy spectrum are produced by the three-body-dynamics of this reaction. Therefore, the differential cross 
+section of this reaction has specifically been defined for materials analysis and measured at the three different laboratory 
+angles 19 = 108”, 138”, 158”, for incident proton energies between 150 keV and 800 keV. The formalism for concentration 
+measurements has been developed for a thin boron layer and for a homogeneous boron distribution in the target. The 
+concentration has been compared with results of charged particle activation analysis (CPAA) using the nuclear reaction 
+“B(d,n)“C. 
+1. Introduction 
+Boron is an often used dopant in semiconductors and is 
+commonly detected using secondary ion mass spectrome- 
+try (SIMS). However, as a second non-destructive nuclear 
+technique besides the CPAA [ 11, the nuclear reaction anal- 
+ysis (NRA) can be an useful alternative for the detection of 
+boron [2]. An extensive overview over existing nuclear 
+reactions for boron detection and their applications is 
+given by Moncoffre [3]. The advantages of the nuclear 
+reaction “B(p, (~120~ for boron detection in materials 
+analysis are: (a) it is sensitive to the more abundant boron 
+isotope “B (80.2% natural abundance), (b) it has a large 
+cross section (300 mb [4]>, and (cl there are almost no 
+interfering nuclear reactions (see theory below). Unfortu- 
+nately, the differential cross section does not have a sharp 
+resonance, which makes detailed depth profiling impossi- 
+ble. The energies of the o-ejectiles form a continuum 
+extending from 5 keV up to over 5 MeV. Since the 
+energies of the backscattered protons also cover this en- 
+ergy range, a specific theory is necessary for the evaluation 
+of the experimental data. In this paper we discuss an 
+example of a homogeneous boron doped silicon sample, 
+yhere the advantages of the nuclear reaction “B(p, o)2a 
+are utilised for materials analysis. 
+21 Theory 
+The sensitivity of a nuclear reaction in materials analy- 
+sis is mainly limited by the presence of interfering reac- 
+* Corresponding author. tions with other substances in the sample. Since boron is a 
+light element, an incident energy EP < 1 MeV of the 
+proton is sufficient to induce a nuclear reaction which 
+produces o-particles. In this energy range, only the cr-par- 
+titles from the 15N(p, (.u)‘*C and 180(p, a)‘*N reactions 
+can interfere [4]. Since the natural abundancies of 15N 
+(0.37%) and 180 (0.2%) and cross sections are small 
+compared to the boron cross section, interference is not a 
+problem if the nitrogen or oxygen concentrations do not 
+exceed those of the boron by a factor of lo3 [4]. The 
+reaction of a proton with a “B nucleus has four exit 
+channels [5]. 
+“B+p+‘*C* -+8B + oo-$ CL,,, + oo2 + oo, (I) 
+“B+pd*C* -+‘B* +~,+(Y~~+(Y,~+(Y~, (II) 
+“B+p-t’*C* +02+03+oq, (III) 
+“B+p+‘*C* -,‘*C+y. (IV) 
+The reaction exit channel (IV) has a maximum cross 
+section of 1.57 pb [3] for EP < 1 MeV and is therefore not 
+suitable for trace element detection. However, if a suffi- 
+cient amount of boron is present in the sample, the reso- 
+nance at EP = 163 keV with a width of r= 5.5 keV can 
+be used for depth profiling [6]. 
+As a consequence of the three-body-dynamics for the 
+reaction exit channels (I), (II), and (III), the energies of the 
+ol-ejectiles for a projectile energy below 1 MeV are in a 
+continuum [7] extending from 5.5 MeV down to 5 keV. 
+The different groups of cr-ejectiles overlap one another in 
+the spectrum and are not distinguishable. A spectrum of 
+the nuclear reaction “B(p, ~120: (on a thin boron film) is 
+shown in Fig. 1. This spectrum has been measured using 
+0/68-583X/96/$15.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+PY1 SOl68-583X(96)00235-2 
+22 hf. Votlmer et al./ NucE. Instr. and Meth. in Phys. Res. 3 117 (1996121-25 
+an 8 km thick mylarfoil in front of the detector to stop the 
+backscattered protons. Only the cx,-ejectiles are clearly 
+distinguishable from the rest of the spectrum, whereas the 
+other ol-ejectile groups are in the same energy range. 
+For light elements an 8 pm thick mylarfoil is sufficient 
+to stop the backscattered protons when using the 660 keV 
+resonance [4] for materials analysis. Using tabulated stop- 
+ping powers (Ziegler et al. [8]) to calculate the energy loss 
+in the mylarfoil, and disregarding the first few channels of 
+the spectrum because of the background noise of the 
+detector (disregard the first 54 keV of the spectrum), only 
+cw-ejectiles with an initial energy of more then 2.2 MeV are 
+detectable. Consequently, in this paper the cross section of 
+the nuclear reaction l’B(p, CX)~LI will always be under- 
+stood to include only those a-ejectiles with this minimal 
+initial energy. The differential cross section d g/d L?( E, 0) 
+for this reaction, can be determined through-measurements 
+on a thin target, and is given by [9]: 
+/ 5.5 MevY(E, E;, 0) dE’, 
+g(E, 0) = *.*Me” 
+QAf+'(z)dz ' (1) 
+where 0 is the detection angle, AO is the detector solid 
+angle, Q is the total number of incident ions, E is the 
+energy of incident particle, E{ is the energy of detected 
+particle before the mylarfoil, N(z) is the concentration 
+distribution of target nuclei (atoms/cm3), Y(E, E’,, 0) is 
+the yield of detected particles with the energy E;, by using 
+projectiles of the energy E. 
+The cross section (1) varies as a function of the mini- 
+mal initial energy of the ejectiles (here 2.2 MeV), which is 
+determined by the experimental set-up of the experiment. 
+For example, if a thicker mylarfoil is used (i.e. to stop the 
+backscattered protons for a high 2 target material), the 
+detectable initial energy increases, whereas the cy-ejectile 
+yield will be reduced. A higher initial energy of the 
+a Energy [t&VI 
+Fig. 1. “B(p, u)2a spectrum measured at EP = 700 keV, B = 
+158’. on a tbii (d= 150 unt) target. An 8 km mylarfoil has been 
+mounted iu front of the detector to stop the backscattered protons. I 
+1 2 3 4 
+B [MeV] 
+Fig. 2. Detected fraction w(E) of the a-yield, if the energy loss of 
+the a-particle with the lowest detectable energy is given by 2.2 
+MeVf E. The curve is calculated by the data of Fig. #l for 
+8 = 1.58”. 
+ol-ejectile yield is also measured, if boron is not located on 
+the sample surface but in the depth of the target, the 
+a-particles loose kinetic energy on the way from the depth 
+to the sample surface. This minimal initial energy 2.2 
+MeV + E can be calculated from the stopping powers [8], 
+and the effective cross section can be calculated from the 
+surface cross section (I) multiplied by a factor W(E), 
+which is defined as the detected yield divided by the 
+complete yield (E = 0): 
+g(E, 8, z) = $+, 6)w(c), (2) 
+W(E) = /= MeV Y(E',, 0) dE, 
+2.2 MeVfc 
+/~;;M~;Y(E;, 0) dE,, (3) 
+W(E) is calculated from a reference spectrum of a thin 
+boron target, in which E = 0. The fraction of detectable 
+a-ejectiles W(E) is shown in Fig. 2 as a function of the 
+energy E, which exceeds 2.2 MeV. The function W(E) was 
+calculated from the data in the spectrum of Fig. 1. 
+The large differential cross section of the nuclear reac- 
+tion “B(p, 01)2a and the low interference from other 
+reactions allows to detect of boron impurities down to 30 
+ppb(a) [4]. The reaction kinematics however, causes great 
+difficulties in the calculation of the boron concentration 
+using the a-yield. Nevertheless, two special cases are 
+analytically solvable: (a) the boron is homogeneously dis- 
+tributed in a thin layer only, where the projectile energy 
+and thus the cross section can be taken as constant over the 
+entire depth of the boron layer and (b) the boron is 
+homogeneously distributed over the entire depth z,, in 
+which the protons have sufficient kinetic energy to cause 
+nuclear reactions with the boron. 
+M. Vollmer et al./ Nucl. Ins-. and Meth.. in Phys. Res. B II 7 (1996) 21-25 23 
+In the case of a thin layer of boron, the concentration 
+can be calculated by rewriting Eq. (1) as 
+QARg(E, e)w(c(z))Az 
+1 -1 
+. (4) 
+The thickness A z of the boron layer was used to simplify 
+the integral. The modification of the differential cross 
+section (i.e. thickness of mylarfoil # 8 pm or the boron is 
+in the target depth) is taken into account by the factor 
+w[ E( z>l. 
+If the boron is homogeneously distributed, o-ejectiles from 
+every target layer up to a depth of z,, will be measured 
+in the spectrum. If Eq. (1) is integrated over the depth z, 
+the effective cross section is used, and N(z) is constant 
+(N(z) = N), then Eq. (1) can be transformed to 
+-1 
+zmaxg(E, O)w[.+z)] dz] . 
+(5) 
+The double integral in the numerator is a consequence of 
+the different spectra which are detected, if the o-particles 
+are emitted from different target depth. The value of this 
+integral is the total detected yield Y and can therefore be determined by integrating the o-particle yield of the exper- 
+imental spectrum. 
+“-ax$(E, O)w(s(z)) dz . 
+I (5) 
+Since the number of projectiles (protons), ejectiles (a-par- 
+ticles), and the detector solid angle are experimentally 
+accessible quantities, only the integral in the denominator 
+has to be calculated numerically. Consequently a homoge- 
+neous boron concentration in a target can be determined 
+using the nuclear reaction “B(p, a)2a. 
+3. Experimental 
+The 2.5 MV Van de Graaff accelerator of the Institut 
+fti Kemphysik, University of Frankfurt has been used for 
+the experiments. The accuracy of the beam energy is 
+determined by the accuracy of the analysing magnet and is 
+approximately + 1 keV. The irradiation chamber is electri- 
+cally insulated from the ground and the pumps, so that the 
+set-up functions as a Faraday-cup. At the entrance of the 
+chamber, a 4 mm diaphragm prevents secondary electrons 
+from leaving the Faraday-cup. The accuracy of the current 
+measurement, including the quality of the current integra- 
+tor is about 3%. The o_-ejectiles were detected with a 
+surface barrier detector whose solid angle (7.5 msr) is 
+determined with an accuracy of about 2%. An 8 km thick 
+Mylarfoil is used to stop backscattered protons for an 
+60 
+H+ Energy [keV] 
+Fig. 3. Differential cross section for the nuclear reaction “B(p, a)2a. a-yield measured with an 8 p,m mylarfoil mounted in front of the 
+detector. 
+24 M. Vollmer et al./Nucl. Instr. and Meth. in Phys. Res. B 117 (1996) 21-25 
+incident proton energy of up to 500 keV completely. In the 
+range of 500 keV to 850 keV a 12 pm thick Mylarfoil is 
+necessary to stop the backscattered protons. The resultant 
+loss of detectable o-particles is compensated by multiply- 
+ing the yield with the factor w[ E(Z)], so that the cross 
+section is determined as if the entire proton energy range 
+has been measured with an 8 pm thick Mylarfoil. A 120 
+keV region between 460 keV and 580 keV has been 
+measured with both mylarfoils and the overlapping results 
+have been used to compare and test the accuracy of the 
+factor w[ t‘( z)]. 
+The boron targets are produced by evaporating boron 
+onto a tantalum plate with an e-gun and subsequently 
+evaporating gold onto the thin boron film. The thickness of 
+both films are measured with Rutherford backscattering 
+spectrometry (RBS) to determine the shift in the tantalum 
+edge with and without the layers [ 11. The pfecision of the 
+target thickness is determined by the accuracy of the 
+stopping power values (5% [8]). Typical values for the 
+target thicknesses are 210 kg/cm’ for the gold and 35 
+pg/cm2 for the boron layer [l]. The consequence of the 
+depth of the boron layer on the yield, and subsequently on 
+the cross section is less then 1%. 
+For the measurement of a homogeneous boron concen- 
+tration, a silicon wafer with an as-grown boron impurity 
+was used. With an incident proton energy of 700 keV, the 
+maximum of the cross section (N 300 mb [4]) was used in 
+the analysis. The experimental set-up which was used for 
+the cross section measurements has also been used for the 
+determination of the boron concentration. The detector was 
+placed under an angle of 0 = 158” and an 8 pm mylar-foil 
+was mounted in front of the detector. 
+4. Results and discussion 
+The cross section of the nuclear reaction tlB(p, (r)2a 
+is determined with an error of 8% (l-3% statistical error 
+in the yield, dependent on the yield). The depth of the 
+boron layer with the reultant energy loss, the energy 
+straggling in the target, and the energy inaccuracy of the 
+ion beam limit the accuracy of the reaction energy to f7 
+keV. The differential cross section of the nuclear reaction 
+‘lB(p, a)2a has been measured for three different labora- 
+tory angles, and are shown in Fig. 3 (error bars not shown 
+for clarity). The 0= 158” angle is the maximal and the 
+6 = 108” the minimal achievable angle with the experimen- 
+tal set-up. The resonance at E, = 655 rt 10 keV with the 
+width of r= 310 + 10 keV compares well with the litera- 
+ture values of ER = 663 keV and r = 300 keV [4,14,15]. 
+The resonance at 163 keV is barely detectable, since the 
+energy loss of the projectile in the boron layer (12 keV) is 
+larger then the resonance width of r = 5.5 keV [ 111. The 
+absolute values of the cross sections at 0= 158” agree 
+with the measurements of Ligeon et al. [4] (within the 
+calculated error margin). Ligeon, however measured the cross section with a detector with a large angular opening 
+of = 1 sr (the aperture extending from 8 = 140” to 0 = 
+160”) and therefore did not measure the angular depen- 
+dence of the cross section. 
+The angular dependence of the nuclear reaction “B(p, 
+01)2o can be determined by normalising the cross section 
+measurements. Hereby the systematical errors are elimi- 
+nated, reducing the total error to 2.5%. The angular depen- 
+dence is in the order of 12 + 2.5% in the ER = 663 keV 
+resonance, agreeing remarkably well with the measure- 
+ments of Becker et al. [lo] who estimated 10%. 
+The above mentioned silicon wafer target was analysed 
+with CPAA, using the nuclear reaction “B(d,n)“C [l]. A 
+boron impurity concentration of 100 + 12 ppm(a) [ 121 was 
+measured. Using the “B(p, (w)2a cross section and the 
+formalism described above, a boron impurity concentration 
+of 112 + 20 ppm(a) was found. The results of the two 
+techniques are the same. 
+5. Conclusions 
+The excitation function of the nuclear reaction “B(p, 
+cr)2cc has been measured for three different angles in the 
+energy range from 150 keV up to 800 keV. The location of 
+the resonances, their width and their absolute values agree 
+with the literature values. The detailed presentation of the 
+large differential cross section enables the application of 
+this nuclear reaction for materials analysis, in allowing the 
+determination of traces of boron down to 30 ppb(a) of 
+atoms in the bulk of matrix materials. A formalism is 
+given to enable the calculation of the boron concentration 
+from the ejectile yield if the boron is in a thin layer or is 
+homogeneously distributed in the target. Because of the 
+large number of data points in the cross section measure- 
+ments, it is possible to calculate the integral in the concen- 
+tration determining equation with high precision. Using the 
+nuclear reaction ‘lB(p, o)2cx and the developed formal- 
+ism, the same boron concentration has been measured in 
+comparison with the CPAA, thereby proving its validity. 
+Despite of its less favourite depth resolution the nuclear 
+reaction “B(p, o)2cx is an attractive alternative to boron 
+impurity detection with the CPAA method if the boron is 
+known to be distributed homogeneously throughout the 
+target. 
+References 
+[ll 
+El 
+[31 
+[41 R.W. Michelmann, J. Krauskopf, J.D. Meyer and K. Bethge, 
+Nucl. Instr. and Meth. B 51 (1990) 1. 
+M. Vollmer, J.D. Meyer, R.W. Michelmann and K. Bethge, 
+F’roc. 4th Europ. Conf. on Accelerators in Applied Research 
+and Technology, Nucl. Instr. and Meth. B 113 (1996) 403. 
+N. Moncoffre, Nucl. Instr. and Meth. B 66 (1992) 126. 
+E. Ligeon and A. Bontemps, .I. Radioanal. Chem. 12 (1972) 
+335. 
+M. Vollmer et al./Nucl. Instr. and Merit. in Phys. Res. B 117 (1996) 21-2.5 25 
+[5] F. Ajzenberg-Selove, Nucl. Phys. A 506 (1990) 1. 
+[6] M. Behar, M. Weiser, S. Kalbitzer, D. Fink and F.L. Grande, 
+Nucl. Instr. and Meth. B 34 (1988) 316. 
+[7] G.G. Ohlsen, Nucl. Instr. and Meth. 37 (1965) 240. 
+[8] J, Ziegler and J. Biersack, The Stopping and Range of Ions in 
+Solids (Pergamon Press, New York, 1992). 
+[9] W. Chu, J.W. Mayer, and M. Nicolet, Backscattering Spec- 
+trometry (Academic Press, New York, 1978). [lo] H.W. Becker, C. Rolfs and H.P. Trautvetter, 2. Phys. A 327 
+(1987) 341. 
+[ll] J.M. Davidson, H.L. Berg, M.M. Lowry, M.R. Dwarakanath, 
+A.J. Sierk and P. Batay-Csorba, Nucl. Phys. A 315 (1979) 
+253. 
+[12] T. Schenkel, H. Hebert, J.D. MeyFr, R.W. MicheImann and 
+K. Bethge, Nucl. Instr. and Meth. B 89 (1994) 79. 

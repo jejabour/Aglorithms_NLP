@@ -1,0 +1,302 @@
+a __ Nuclear Instruments and Methods in Physics Research B 112 (1996) 94-98 
+__ 
+!!!!J LiVlOM B 
+ELSEWIER Beam Interactions 
+with Materials 8 Atoms 
+Preparation of C,, single crystalline thin film by ionized cluster beam 
+deposition and ion implantation into single crystalline C,, thin film 
+Satoru Isoda a* * , Hiroaki Kawakubo a, Satoshi Nishikawa a, Osamu Wada b 
+a Central Research Laboratory, Materials and Electronic Devices Laboratory. Mitsubishi Electric Corporation, 8-l Tsukaguchi-Horvnachi 
+I, Amagasaki. Hyogo 661, Japan 
+b Materials and Electronic Devices Laboratory, Mitsubishi Electric Corporation, 8-1 Tsukaguchi-Honmachi I, Amagasaki, Hyogo 661. 
+Japan 
+Abstract 
+We have succeeded in preparing single crystalline C, thin film of a lateral extension in the order of several millimeters 
+on mica by ionized cluster beam (ICB) deposition. During the growth process, planar dendrite-like single crystalline islands 
+were observed by an atomic force microscope (AFM). It was concluded from reflection high-energy electron diffraction 
+(RHEED) and transmission electron diffraction (TED) analyses that these islands grow hetero-epitaxially on mica. As the 
+deposition process continues, the single crystalline islands coalesce and finally form a giant single crystal without grain 
+boundaries between the former islands. This layered dendrite-like crystal growth is considered to be due to the ICB process, 
+namely, ionizing molecules and accelerating them. Furthermore, the effect of ion (P’, B+, Ar+> implantation into C,, thin 
+films on the molecular structure and the conductivity has been studied under various implantation conditions. It was found 
+from the analyses of IT-IR and Raman spectroscopies that the soccer-ball-like structure of C, changes into a diamond-like 
+carbon (DLC) structure with an implantation energy higher than 40 keV, whereas the structure undergoes virtually no change 
+with 10 keV implantation. As for conductivity changes under the lower implantation energy condition, the minimum dose of 
+P+ ions required to increase the conductivity from the non-doped value (lo’* cm-*) is 10 times lower than in the case of 
+Arf implantation. The conductivity change for the P+ . implantation could be explained satisfactorily not only by the effect 
+of chemically-modified C, but also by the effect of a charge-transfer state between C,, and implanted ions. It was 
+concluded from these results that the conductivity of the C, film can be controlled over a wide range based on the carrier 
+generation mechanism, which depends on the implantation conditions. 
+1. Introduction 
+Since the large-scale production method of C,, fullerene 
+was established [ 11, studies of Cm have progressed rapidly 
+in wide areas of science and technology. From the view- 
+point of the application of C, to electronic materials, 
+preparing high-quality thin films and controlling their elec- 
+tronic properties is of great importance. 
+As for thin film formation, it was reported that C,, thin 
+films deposited on sapphire [2], CaF, [3], Si [4] and NaCl 
+[S] substrates take on a polycrystalline, face-centered cubic 
+(fee) crystal structure and those deposited on mica [6,7] 
+and MoS, [8] grow hetero-epitaxially to form an fee 
+structure with (111) orientation normal to the substrates. 
+* Corresponding author. Tel. 81 3 3218 2168, fax 81 3 3218 
+2188, e-mail isoda@hat.hon.melco.co.jp. The quality of C,, thin films, however, has been unsatis- 
+factory for the study of their electronic properties in terms 
+of the size of the crystallite: several pm for polycrystalline 
+films and several hundreds of nm for epitaxial growth 
+films. 
+With regard to conductivity, alkali metal doped C,, 
+shows various conductivities ranging from insulator to 
+metal-like to superconductor [9- 11 I. Though these proper- 
+ties may lead to new functional electronic devices, this 
+conductivity cannot be controlled under atmospheric con- 
+ditions. Therefore, the stable control of conductivity is 
+now under investigation. 
+Along these lines, we have been investigating the for- 
+mation of C,, thin films as well as their electronic proper- 
+ties [12,13]. This paper deals with the preparation of a C,, 
+single crystalline thin film and the effect of the ion implan- 
+tation into the film on conductivity and molecular struc- 
+ture. 
+0168-583X/%/$15.00 0 1996 Elsevier Science B.V. All rights reserved 
+SSDI 0168-583X(95)01233-8 
+S. Isoda et al./Nucl. Instr. and Meth. in Phys. Res. B 11.2 f 1996) 94-98 95 
+2. Experimental 
+C, powder with a purity of more than 99.9% was 
+purchased from Texas Fullerene Corp. and used as deposi- 
+tion source material. The C 6. powder was loaded into a 
+graphite crucible with a 2 mm diameter nozzle and evapo- 
+rated at 550-600°C after a degassing procedure. The C,, 
+molecular beam effusing through the nozzle was ionized 
+by an electron beam and accelerated the ionized C, 
+molecules to the substrate. The ICB source was specially 
+designed for organic material deposition taking account of 
+both the location of the ionizing filaments and the radia- 
+tion shield in order to avoid the degradation of molecules 
+and to maintain the crucible at a constant temperature 
+during deposition. The ICB deposition conditions were 
+fixed at an acceleration voltage of V,: 500 V, an ionization 
+voltage of Vi: 60 V, and an ionization current of Ii: 60 
+mA. The ionization ratio, that is the ratio of the number of 
+ionized molecules to the total number of molecules, is 
+estimated to be 0.23% when li is 60 mA. The deposition 
+rate was 1-2 nm/min and cleaved mica (1 cm X 1 cm) 
+was used as a substrate. Two types of chamber were used 
+for the film deposition. One was evacuated by a turbo- 
+molecular pump (background pressure: 2 X IO-’ Torr), 
+the other was a UHV chamber (background pressure: 10e9 
+Torr) with a substrate prebaking chamber. Ion implantation 
+was carried out with 40 keV apparatus at Ion Engineering 
+Center Corp. (IECC). Structural characterization of ICB 
+deposited thin films and ion-implanted films were per- 
+formed with the following apparatus: transmission electron 
+microscope (TEM) and transmission electron diffraction 
+(TED): JEOL JEM-4OOOEX and JEOL JEM-20OOFX; 
+atomic force microscope (AIM): DI nanoscope II and III; 
+secondary ion mass spectroscope (SIMS): CAMECA IMS- 
+3F; IT-IR: JEOL JIR-100; Raman scattering: JOBIN 
+YVON RAMANOR U-1000 (IECC). The electrical prop- 
+erties of ICB deposited films and ion-implanted films were 
+measured in vacuum with an ammeter (HP414OB) in con- 
+junction with a cryostat (ULVAC CRYO-UlOPU2). 
+3. Results and discussion 
+3.1. Preparation of C,, single crystalline thin jilm 
+During the ICB growth process of C, deposition, 
+planar dendrite-like islands were observed by AFM (Fig. 
+la). A TED pattern (Fig. lb) obtained from these 
+dendrite-like islands shows fee (111) diffraction spots ar- 
+ranged in an identical direction over wide areas of observa- 
+tion. This means that these dendrite-like islands are epitax- 
+ially-grown crystallites, which was also supported by 
+RHEED analysis during deposition. As deposition process 
+continued, single crystalline islands coalesced with each 
+other and finally formed a giant single crystal, whose 
+lateral extension was in the order of several millimeters, without grain boundaries between the former islands (Fig. 
+2a). Furthermore, all the TED patterns obtained from all 
+the observation areas in Cu microgrids show identical fee 
+(111) orientation (Fig. 2b). This layered dendrite-like crys- 
+tal growth is considered to be due to the ICB process, 
+namely, ionizing molecules and accelerating them [ 141. 
+3.2. Ion implantation into single crystalline C,, thin film 
+Some concentration profiles of implanted ions in the 
+film-thickness direction measured by SIMS are shown in 
+Fig. 3. The peak is located about 20 nm from the surface 
+of the film for 10 keV implantation, whereas it is about 70 
+nm under 40 keV implantation. Though the effect of ion 
+implantation on C,, film properties involves very compli- 
+cated physico-chemical processes, the main processes are 
+considered to be represented by the following scheme: 
+c,+x -+ c,+c;e+c,-x+c;()-x+x. 
+where X and Cl0 denote implanted ions and chemically- 
+modified C,,, respectively. C,, - X and C& - X repre- 
+( > a 
+Fig. I. (a) AFh4 image of an ICB-deposited C, fdm (film 
+thickness: 15 nm). The film was deposited at substrate tempera- 
+ture of 220°C. growth rate of 1 nm/min, ionization current of 60 
+mA, acceleration voltage of 500 V, and pressure of about 5 X 10e9 
+Torr. (b) TED pattern of an ICB-deposited C, film (a). 
+IV. CLUSTER PROJECTILES 
+96 S. lsoda et al./Nucl. Instr. and Meth. in Phys. Rex B 112 (1996) 94-98 
+( > a 
+Fig. 2. (a) ‘IEM image of an ICB-deposited C, film (film thickness: 20 nm). No grain boundaries are observed for all the observation areas 
+in the Cu microgrids (each mesh size: 44 X 44 pm). (b) TED pattern of an ICB-deposited C,, film (a). 
+sent charge-transfer (CT) states between C, (C&J and 
+implanted ions. The CT states and chemically-modified 
+C,, are considered to have a major effect on how the ion 
+implantation affects the conductivity. 
+The effect of the ion implantation on the chemical 
+modification of the C, molecule was evaluated by FT-IR 
+and Raman scattering. From FT-IR analysis, the intensity 
+ratios of the peak which corresponds to the F,u(4r mode 
+(1429 cm-‘) of a C, molecule [ 151 for P+ and B+ 
+implanted (40 keV; lOI5 cme2) films to the C,, film 
+without implantation are estimated to be. about 50% and 
+15%. respectively. Fig. 4 shows the Raman scattering 
+spectra of undoped and doped C,, film. As shown in Fig. 
+4a, the soccer-ball-like structure of C, was found to 
+change into diamond-like carbon (DLC) structure [16] at 
+Fig. 3. Concentration profiles of implanted ions in the film-thick- 
+ness direction measured by SIMS. Fig. 4. (a) Comparison of Raman scattering spectrum of an ion 
+implanted (B+; 40 keV; IO” cm-‘) C, film with that of typical 
+DLC. (b) Raman scattering spectra of an ion implanted (P’; 10 
+keV, IO“’ cm-*) C, film. 
+S. Isoda et al./Nucl. I&. and Meth. in Phys. Res. B 112 (1996) 94-98 97 
+Dose (cm-‘) 
+Fig. 5. Conductivity vs. dose for 10 keV P+ and Ar+ implanta- 
+tion into C,, thin films (thickness: 100 nm). Ion implantation was 
+carried out at room temperature and the conductivity was mea- 
+sured at 300°C. 
+40 keV implantation. In the case of 10 keV implantation 
+(Fig. 4b1, on the other hand, the typical spectrum shape of 
+a& molecule, composed of a strong peak due to an Ag 
+mode (around 1465 cm-‘) and weak peaks due to Hg 
+modes (1425, 1570 cm- ‘) [ 171, undergoes virtually no 
+change after implantation regardless of the dose amount. 
+The peak intensity, however, depends very much on the 
+dose amount. Namely, the peak intensity does not change 
+with a dose of lOI cm-*, whereas the peak intensity 
+decreases to 20% compared to undoped film in the case of 
+a lOI cm-* dose. It is concluded from these spectro- 
+scopic analyses that C,, molecules in a film mostly remain 
+unchanged by ion implantation with an implantation en- 
+ergy of IO keV at doses of less than lOI cm-* and 
+become chemically-modified at the higher dose level of 
+lot6 cmW2 as well as with the higher implantation energy 
+of more than 40 keV. 
+Based on the above structural estimation, the effect of 
+ion implantation on conductivity was studied with an 
+implantation energy of 10 keV in order to prevent the 
+complete loss of electronic properties of the C, thin film. 
+In order to clarify the effect of the CT state, the electrical 
+properties of Pt ion implanted films were investigated in 
+comparison with those of Ar + ion implanted films, be- 
+cause the Ar+ ions are inert for the formation of the CT 
+state. Typical results of the conductivity versus dose is 
+shown in Fig. 5. As shown in the figure, the minimum 
+dose (IO I2 cm- 2, of P+ ions required to increase the 
+conductivity from the undoped value is 10 times lower 
+than in the case of Arf implantation. This discrepancy in 
+the conductivity change is assumed to be due to the 
+formation of the CT state (C,, - X and/or C& - Xl in 
+the case of P+ implantation, because the effect of the 
+increase of the conductivity due to C& formation by P’ 
+implantation is considered to be virtually identical with (or less than) the case of the Ar+ implantation from the 
+comparison of the stopping power between both ion 
+species. In order to analyze the conduction mechanism, the 
+temperature dependence of the resistivity was evaluated 
+for both ion implanted films (Figs. 6 and 7). As shown in 
+the figures, the films implanted by Ar+ ions and P+ ions 
+with high dosages (lOI cm-*) fit the plot of the resistiv- 
+ity vs. (l/r)‘/4 well over a wide range of temperatures. 
+This result means that the conduction mechanism for both 
+cases can be interpreted by the variable range hopping 
+(VRH) model [18]. Furthermore, this result corresponds 
+well with the case of Xe+ implantation [19]. On the other 
+hand, the film implanted by P+ ions with lOi cm-’ dose 
+. ’ - 
+I] 
+10' ) 
+0 0.005 O.bl 0.015 0.02 0.025 0.03 
+ifl 
+40 1...,1,..,1,,.,1,,,.',,,,',,,, 
+0.24 0.25 0.26 0.27 0.28 0.29 03 
+T-1/4 
+1 I,"',",","',,,,',',',,,"' 
+0.24 0.25 0.26 0.27 0.28 0.29 0.3 
+T-1/4 
+Fig. 6. Temperature dependence of resistivity of Pt ion implanted 
+C, films for (a), (b) 10 IreV-lOi cm-’ dose and for fc) IO 
+keV-10’6 cme2 dose. 
+IV. CLUSTER PROJECTILES 
+98 S. Isoda er al. /Nucl. Instr. and Merh. in Phys. Res. B 112 (1996) 94-98 
+102 
+0.24 0.25 0.26 0.27 0.28 0.29 0.3 
+T-114 
+Fig. 7. Temperature dependence of resistivity of Ar+ ion im- 
+planted C, films for 10 keV-lOI4 cm-’ dose. 
+fits neither the VRH plot (Fig. 6b) nor the Arrhenius plot 
+(Fig. 6a). In this case, two types of conduction mechanism, 
+an activation process in the temperature range around 
+room temperature, and a VRH process in the lower tem- 
+perature range, are thought to be involved in the electrical 
+properties of the implanted film. When considering the 
+structural studies described above, it is possible to con- 
+clude that for P+ implantation the conductivity in the dose 
+range from 10” to 1Or4 cm-* is mainly controlled by the 
+CT state, which results in the activation process, and that 
+in the higher dose range it is mainly controlled by hopping 
+centers which are produced by chemically-modified C,,. It 
+was thus concluded from these results that the conductivity 
+of the C, film can be controlled over a wide range based 
+on the carrier generation mechanism which depends on the 
+implantation conditions. 
+Acknowledgements 
+We would like to thank Professor S. Nakashima for his 
+helpful discussions and the experiment on the Raman 
+scattering. We also wish to thank Professor I. Yamada and 
+Dr. T. Takagi for their helpful advice on ion beam engi- 
+neering. References 
+[I] W. Krzschmer, L.D. Lamb, K. Fostiropoulos and D.R. Huff- 
+man, Nature 347 (1990) 354. 
+[2] A.F. Hebard, R.C. Haddon, R.M. Fleming and A.R. Kortan, 
+Appl. Phys. Lett. 59 (19911 2109. 
+[3] E.J. Snyder, MS. Anderson, W.M. Tong, R.S. Williams, S.J. 
+Anz, M.M. Alvarez, Y. Rubin, F.N. Diederich and R.L. 
+Whetten, Science 253 (1991) 171. 
+[4] Y. Saito, Y. Ishikawa, A. Ohshita, H. Shinohara and H. 
+Nagashima, Phys. Rev. B 46 (1992) 1846. 
+[5] H.-G. Busmann, R. Hiss, H. Gaber and I.V. Hertel, Surf. Sci. 
+289 (1993) 381. 
+[61 D. Schmicker, S. Schmidt, J.G. Skofronick, J.P. Toennies 
+and R. Vollmer, Phys. Rev. B 44 (1991) 10995. 
+[7] W.M. Tong, D.A.A. Ohlberg, H.K. You, R.S. Williams, S.J. 
+Anz, M.M. Alvarez, R.L. Whetten, Y. Rubin and F.N. 
+Diederich, J. Phys. Chem. 95 (1991) 4709. 
+[8] M. Sakurai, H. Tada, K. Saiki and A. Koma. Jpn. J. Appl. 
+Phys. 30 (19911 L1892. 
+[9] R.C. Haddon, A.F. Hebard, M.J. Rosseinsky, D.W. Murphy, 
+S.J. Duclos, K.B. Lyons, B. Miller, J.M. Rosamilia, R.M. 
+Fleming, A.R. Kortan, S.H. Glamm, A.V. Makhija, A.J. 
+Muller, R.H. Eick. S.M. Zahurak, R.T. Tycko. G. Dabbagh 
+and F.A. Thiel, Nature 350 (1991) 320. 
+[IO] A.F. Hebard, M.J. Rosseinsky, R.C. Haddon, D.W. Murphy, 
+A.P. Ramierez and A.R. Kortan, Nature 350 (1991) 600. 
+[I I] K. Tanigaki, T.W. Ebbesen, S. Saito, J. Mizuki and S. 
+Kuroshima, Nature 352 (1991) 222. 
+[I21 0. Wada, Y. Hanazato, M. Miyamoto, S. Suzuki, M. Kataoka 
+and S. Iscda, Fullerene Sci. and Tech. I (1993) 393. 
+[13] 0. Wada, Y. Hanazato and S. Isoda, Trans. Mat. Res. Sot. 
+Jpn. 17 (1994) 177. 
+[I41 S. Nishikawa, 0. Wada, H. Kawakubo and S. Isoda, to be 
+submitted. 
+[I51 W. Kratschmer, K. Fostiropoulos and D.R. Huffman, Chem. 
+Phys. Lett. 170 (1990) 167. 
+[I61 M. Yoshikawa, G. Katagiri, H. Ishida and A. Ishitani, Appl. 
+Phys. Len. 52 (1988) 1639. 
+[I71 D.S. Bethune, G. Meijer. WC. Tang and H.J. Rosen, Chem. 
+Phys. Len. 174 ( 1990) 2 19. 
+[I81 N.F. Mott and E.A. Davis, Electronic Processes in Non- 
+Crystalline Materials (Clarendon, Oxford, 1979) p. 152. 
+[191 R. Kalish, A. Samoiloff, A. Hoffman, C. Uzan-Saguy, D. 
+McCulloch and S. Prawer, Phys. Rev. B 48 (1993) 18235. 

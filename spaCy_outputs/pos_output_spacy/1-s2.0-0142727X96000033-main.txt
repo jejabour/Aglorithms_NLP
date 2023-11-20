@@ -1,0 +1,8046 @@
+~!~l, PROPN 
+I~, VERB 
+
+, SPACE 
+review, NOUN 
+empirical, ADJ 
+flame, NOUN 
+impingement, VERB 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+
+, SPACE 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+Jr., PROPN 
+B., PROPN 
+Gebhart, PROPN 
+
+, SPACE 
+Department, PROPN 
+Mechanical, PROPN 
+Engineering, PROPN 
+Applied, PROPN 
+Mechanics, PROPN 
+University, PROPN 
+Pennsylvania, PROPN 
+
+, SPACE 
+Philadelphia, PROPN 
+PA, PROPN 
+USA, PROPN 
+
+, SPACE 
+Impinging, PROPN 
+flames, NOUN 
+industrial, ADJ 
+heating, NOUN 
+melting, NOUN 
+safety, NOUN 
+research, NOUN 
+aerospace, NOUN 
+
+, SPACE 
+applications, NOUN 
+Multiple, ADJ 
+modes, NOUN 
+heat, NOUN 
+transfer, NOUN 
+commonly, ADV 
+important, ADJ 
+processes, NOUN 
+
+, SPACE 
+detailed, ADJ 
+heat, NOUN 
+transfer, NOUN 
+mechanisms, NOUN 
+understood, VERB 
+available, ADJ 
+
+, SPACE 
+semianalytical, ADJ 
+heat, NOUN 
+transfer, NOUN 
+solutions, NOUN 
+limited, ADJ 
+applicability, NOUN 
+re-, SCONJ 
+
+, SPACE 
+searchers, NOUN 
+designers, NOUN 
+measurements, NOUN 
+empirical, ADJ 
+correlations, NOUN 
+
+, SPACE 
+determine, VERB 
+heat, NOUN 
+flux, NOUN 
+rates, NOUN 
+empirical, ADJ 
+correlations, NOUN 
+reviewed, VERB 
+correla-, NOUN 
+
+, SPACE 
+tions, NOUN 
+arranged, VERB 
+flow, NOUN 
+geometry, NOUN 
+geometries, NOUN 
+studied, VERB 
+
+, SPACE 
+include, VERB 
+flames, NOUN 
+impinging, VERB 
+1, X 
+normal, ADJ 
+cylinders, NOUN 
+cross, ADJ 
+flow, ADJ 
+2, X 
+normal, ADJ 
+hemispheri-, NOUN 
+
+, SPACE 
+cally, ADV 
+nosed, ADJ 
+cylinders, NOUN 
+3, X 
+normal, ADJ 
+plane, NOUN 
+surfaces, NOUN 
+4, NUM 
+plane, NOUN 
+surfaces, NOUN 
+
+, SPACE 
+correlations, NOUN 
+arranged, VERB 
+size, NOUN 
+region, NOUN 
+target, NOUN 
+consideration, NOUN 
+
+, SPACE 
+Correlations, NOUN 
+apply, VERB 
+small, ADJ 
+region, NOUN 
+target, NOUN 
+stagnation, NOUN 
+point, NOUN 
+
+, SPACE 
+referred, VERB 
+local, ADJ 
+heat, NOUN 
+flux, NOUN 
+Correlations, NOUN 
+apply, VERB 
+large, ADJ 
+region, NOUN 
+target, NOUN 
+
+, SPACE 
+entire, ADJ 
+body, NOUN 
+cylindrical, ADJ 
+target, NOUN 
+referred, VERB 
+average, ADJ 
+heat, NOUN 
+flux, NOUN 
+
+, SPACE 
+correlations, NOUN 
+arranged, VERB 
+type, NOUN 
+heat, NOUN 
+transfer, NOUN 
+Correlations, NOUN 
+natural, ADJ 
+
+, SPACE 
+forced, VERB 
+convection, NOUN 
+thermochemical, ADJ 
+heat, NOUN 
+release, NOUN 
+TCHR, PROPN 
+radiation, NOUN 
+forced, VERB 
+convection, NOUN 
+
+, SPACE 
+TCHR, PROPN 
+forced, VERB 
+convection, NOUN 
+radiation, NOUN 
+reported, VERB 
+combinations, NOUN 
+
+, SPACE 
+geometry, NOUN 
+operating, NOUN 
+conditions, NOUN 
+Finally, ADV 
+correlations, NOUN 
+arranged, VERB 
+flow, NOUN 
+type, NOUN 
+
+, SPACE 
+laminar, NOUN 
+turbulent, NOUN 
+Correlations, NOUN 
+exist, VERB 
+combinations, NOUN 
+geometry, NOUN 
+
+, SPACE 
+operating, NOUN 
+conditions, NOUN 
+recommendations, NOUN 
+given, VERB 
+research, NOUN 
+
+, SPACE 
+Keywords, NOUN 
+flame, NOUN 
+impingement, ADJ 
+heat, NOUN 
+transfer, NOUN 
+empirical, ADJ 
+correlations, NOUN 
+forced, VERB 
+convection, NOUN 
+
+, SPACE 
+natural, ADJ 
+convection, NOUN 
+radiation, NOUN 
+
+, SPACE 
+Introduction, PROPN 
+
+, SPACE 
+Flame, PROPN 
+impingement, VERB 
+heating, NOUN 
+important, ADJ 
+processes, NOUN 
+
+, SPACE 
+Low, ADJ 
+intensity, NOUN 
+flames, NOUN 
+heat, VERB 
+metal, NOUN 
+bars, NOUN 
+prior, ADV 
+rolling, VERB 
+
+, SPACE 
+sheets, NOUN 
+safety, NOUN 
+research, NOUN 
+applica-, NOUN 
+
+, SPACE 
+tion, NOUN 
+quantify, VERB 
+heating, NOUN 
+rate, NOUN 
+caused, VERB 
+
+, SPACE 
+buoyant, ADJ 
+fires, NOUN 
+impinging, VERB 
+walls, NOUN 
+ceilings, NOUN 
+
+, SPACE 
+simulate, VERB 
+extensive, ADJ 
+fires, NOUN 
+impinging, VERB 
+structural, ADJ 
+ele-, NOUN 
+
+, SPACE 
+ments, NOUN 
+high, ADJ 
+velocity, NOUN 
+flames, NOUN 
+caused, VERB 
+ruptured, ADJ 
+fuel, NOUN 
+
+, SPACE 
+pipes, NOUN 
+High, ADJ 
+intensity, NOUN 
+flame, NOUN 
+impingement, VERB 
+arises, VERB 
+applica-, NOUN 
+
+, SPACE 
+tions, NOUN 
+commonly, ADV 
+melt, VERB 
+scrap, NOUN 
+metal, NOUN 
+shape, VERB 
+
+, SPACE 
+glass, NOUN 
+recent, ADJ 
+years, NOUN 
+produce, VERB 
+
+, SPACE 
+synthetic, ADJ 
+diamond, NOUN 
+coatings, NOUN 
+chemical, NOUN 
+vapor, NOUN 
+deposition, NOUN 
+
+, SPACE 
+thermal, ADJ 
+spallation, NOUN 
+supersonic, ADJ 
+velocity, NOUN 
+
+, SPACE 
+flame, NOUN 
+bores, NOUN 
+holes, NOUN 
+rock, NOUN 
+rock, NOUN 
+fragmentation, NOUN 
+caused, VERB 
+
+, SPACE 
+large, ADJ 
+transient, ADJ 
+thermal, ADJ 
+stresses, NOUN 
+attributable, ADJ 
+high, ADJ 
+
+, SPACE 
+heat, NOUN 
+fluxes, NOUN 
+impinging, VERB 
+cold, ADJ 
+surfaces, NOUN 
+High, ADJ 
+intensity, NOUN 
+flame, NOUN 
+
+, SPACE 
+Address, PROPN 
+reprint, NOUN 
+requests, NOUN 
+toDr, NOUN 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+Jr., PROPN 
+St., PROPN 
+Principal, PROPN 
+
+, SPACE 
+Development, PROPN 
+Engineer, PROPN 
+Advanced, PROPN 
+Technology, PROPN 
+Group, PROPN 
+Air, PROPN 
+Prod-, ADJ 
+
+, SPACE 
+ucts, NOUN 
+Chemicals, PROPN 
+Inc., PROPN 
+7201, NUM 
+Hamilton, PROPN 
+Blvd, PROPN 
+Allentown, PROPN 
+PA, PROPN 
+
+, SPACE 
+18195, NUM 
+1501, NUM 
+USA, PROPN 
+
+, SPACE 
+Received, VERB 
+1, NUM 
+August, PROPN 
+1995, NUM 
+accepted, VERB 
+24, NUM 
+January, PROPN 
+1996, NUM 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+17, NUM 
+386, NUM 
+396, NUM 
+1996, NUM 
+
+, SPACE 
+©, NOUN 
+1996, NUM 
+Elsevier, ADJ 
+Science, PROPN 
+Inc., PROPN 
+
+, SPACE 
+655, NUM 
+Avenue, PROPN 
+Americas, PROPN 
+New, PROPN 
+York, PROPN 
+NY, PROPN 
+10010, NUM 
+impingement, ADJ 
+study, VERB 
+extremely, ADV 
+high, ADJ 
+heat, NOUN 
+
+, SPACE 
+fluxes, NOUN 
+encountered, VERB 
+space, NOUN 
+vehicles, NOUN 
+entering, VERB 
+Earth, PROPN 
+
+, SPACE 
+atmosphere, NOUN 
+High, ADJ 
+fluxes, NOUN 
+caused, VERB 
+hypersonic, ADJ 
+impact, NOUN 
+gas, NOUN 
+
+, SPACE 
+velocities, NOUN 
+ionize, VERB 
+highly, ADV 
+shocked, ADJ 
+atmospheric, ADJ 
+gases, NOUN 
+
+, SPACE 
+primary, ADJ 
+objective, NOUN 
+review, NOUN 
+provide, VERB 
+designers, NOUN 
+
+, SPACE 
+researchers, NOUN 
+available, ADJ 
+empirical, ADJ 
+heat, NOUN 
+transfer, NOUN 
+correla-, NOUN 
+
+, SPACE 
+tions, NOUN 
+flame, NOUN 
+impingement, VERB 
+target, NOUN 
+surfaces, NOUN 
+objec-, NOUN 
+
+, SPACE 
+tive, NOUN 
+provide, VERB 
+comprehensive, ADJ 
+reference, NOUN 
+subject, NOUN 
+
+, SPACE 
+identify, VERB 
+areas, NOUN 
+requiring, VERB 
+research, NOUN 
+
+, SPACE 
+Heat, NOUN 
+transfer, NOUN 
+mechanisms, NOUN 
+
+, SPACE 
+Convection, PROPN 
+thermochemical, ADJ 
+heat, NOUN 
+release, NOUN 
+radiation, NOUN 
+conden-, NOUN 
+
+, SPACE 
+sation, NOUN 
+heat, NOUN 
+transfer, NOUN 
+mechanisms, NOUN 
+identified, VERB 
+flame, NOUN 
+
+, SPACE 
+impingement, ADJ 
+studies, NOUN 
+reviewed, VERB 
+relative, ADJ 
+importance, NOUN 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+mechanisms, NOUN 
+depends, VERB 
+experimental, ADJ 
+
+, SPACE 
+conditions, NOUN 
+example, NOUN 
+targets, NOUN 
+located, VERB 
+inside, ADP 
+
+, SPACE 
+hot, ADJ 
+furnace, NOUN 
+radiation, NOUN 
+environment, NOUN 
+furnace, NOUN 
+
+, SPACE 
+walls, NOUN 
+important, ADJ 
+targets, NOUN 
+located, VERB 
+
+, SPACE 
+enclosure, NOUN 
+radiation, NOUN 
+ambient, ADJ 
+environment, NOUN 
+
+, SPACE 
+negligible, ADJ 
+circumstances, NOUN 
+multiple, ADJ 
+mechanisms, NOUN 
+
+, SPACE 
+combined, VERB 
+heat, NOUN 
+transfer, NOUN 
+correlation, NOUN 
+
+, SPACE 
+commonly, ADV 
+forced, VERB 
+convection, NOUN 
+coupled, VERB 
+thermo-, NOUN 
+
+, SPACE 
+0142, NUM 
+727X/96/$15.00, NUM 
+
+, SPACE 
+PII, PROPN 
+S0142, PROPN 
+727X(96)00003, NUM 
+1, NUM 
+
+
+, SPACE 
+Flame, NOUN 
+impingement, VERB 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+B., PROPN 
+Gebhart, PROPN 
+
+, SPACE 
+chemical, ADJ 
+heat, NOUN 
+release, NOUN 
+TCHR, PROPN 
+primarily, ADV 
+difficulty, NOUN 
+
+, SPACE 
+experimentally, ADV 
+separating, VERB 
+mechanisms, NOUN 
+studies, NOUN 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+mechanisms, NOUN 
+completely, ADV 
+ignored, VERB 
+
+, SPACE 
+sufficient, ADJ 
+justification, NOUN 
+discussed, VERB 
+Baukal, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+1996, NUM 
+following, VERB 
+section, NOUN 
+general, ADJ 
+discussion, NOUN 
+
+, SPACE 
+mechanisms, NOUN 
+detailed, ADJ 
+presentation, NOUN 
+specific, ADJ 
+correlations, NOUN 
+
+, SPACE 
+main, ADJ 
+subject, NOUN 
+work, NOUN 
+follows, VERB 
+later, ADJ 
+section, NOUN 
+
+, SPACE 
+Convection, NOUN 
+
+, SPACE 
+Forced, VERB 
+convection, NOUN 
+predominant, ADJ 
+mechanism, NOUN 
+
+, SPACE 
+low, ADJ 
+intensity, NOUN 
+flames, NOUN 
+negligible, ADJ 
+chemical, NOUN 
+dissociation, NOUN 
+Lami-, PROPN 
+
+, SPACE 
+nar, NOUN 
+flames, NOUN 
+investigated, VERB 
+studies, NOUN 
+e.g., ADV 
+Jackson, PROPN 
+
+, SPACE 
+Kilham, PROPN 
+1956, NUM 
+Turbulent, ADJ 
+flames, NOUN 
+tested, VERB 
+studies, NOUN 
+e.g., ADV 
+
+, SPACE 
+Giedt, PROPN 
+et, PROPN 
+al, PROPN 
+1960, NUM 
+turbulence, NOUN 
+level, NOUN 
+directly, ADV 
+enhances, VERB 
+
+, SPACE 
+importance, NOUN 
+forced, VERB 
+convection, NOUN 
+
+, SPACE 
+Natural, ADJ 
+convection, NOUN 
+1985, NUM 
+correlated, VERB 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+buoyant, ADJ 
+flame, NOUN 
+terms, NOUN 
+Rayleigh, PROPN 
+number, NOUN 
+
+, SPACE 
+correlations, NOUN 
+given, VERB 
+later, ADV 
+Equation, PROPN 
+27, NUM 
+Buoyancy, PROPN 
+impor-, X 
+
+, SPACE 
+tant, NOUN 
+study, NOUN 
+low, ADJ 
+burner, NOUN 
+exit, NOUN 
+velocities, NOUN 
+
+, SPACE 
+Thermochemical, ADJ 
+heat, NOUN 
+release, NOUN 
+TCHR, PROPN 
+
+, SPACE 
+mechanism, NOUN 
+refers, VERB 
+energy, NOUN 
+release, NOUN 
+caused, VERB 
+exother-, PROPN 
+
+, SPACE 
+mic, ADJ 
+chemical, NOUN 
+reactions, NOUN 
+Hot, ADJ 
+dissociated, VERB 
+combustion, NOUN 
+products, NOUN 
+
+, SPACE 
+impinge, NOUN 
+cool, ADJ 
+surface, NOUN 
+radical, ADJ 
+species, NOUN 
+diffuse, VERB 
+
+, SPACE 
+concentration, NOUN 
+gradients, NOUN 
+lower, ADJ 
+temperature, NOUN 
+regions, NOUN 
+
+, SPACE 
+exothermically, ADV 
+recombine, VERB 
+species, NOUN 
+form, VERB 
+
+, SPACE 
+stable, ADJ 
+molecules, NOUN 
+new, ADJ 
+molecular, ADJ 
+components, NOUN 
+thermody-, AUX 
+
+, SPACE 
+namically, ADV 
+preferred, VERB 
+lower, ADJ 
+temperatures, NOUN 
+example, NOUN 
+
+, SPACE 
+significant, ADJ 
+amounts, NOUN 
+unburned, ADJ 
+fuel, NOUN 
+form, NOUN 
+
+, SPACE 
+CO, PROPN 
+H2, PROPN 
+produced, VERB 
+O2, PROPN 
+CH, PROPN 
+4, NUM 
+flames, NOUN 
+flames, NOUN 
+usually, ADV 
+higher, ADJ 
+temperatures, NOUN 
+air, NOUN 
+CH, NOUN 
+4, NUM 
+flames, NOUN 
+
+, SPACE 
+caused, VERB 
+removal, NOUN 
+N, PROPN 
+2, NUM 
+acts, VERB 
+diluent, NOUN 
+
+, SPACE 
+moderate, VERB 
+flame, NOUN 
+temperatures, NOUN 
+unburned, ADJ 
+fuel, NOUN 
+compo-, NOUN 
+
+, SPACE 
+nents, NOUN 
+thermodynamically, ADV 
+preferred, VERB 
+high, ADJ 
+temperatures, NOUN 
+
+, SPACE 
+temperatures, NOUN 
+1600, NUM 
+K, PROPN 
+radical, ADJ 
+
+, SPACE 
+species, NOUN 
+cool, ADJ 
+react, VERB 
+form, VERB 
+CO, PROPN 
+2, NUM 
+H20, PROPN 
+simultane-, AUX 
+
+, SPACE 
+ously, ADV 
+release, VERB 
+energy, NOUN 
+Thermochemical, ADJ 
+heat, NOUN 
+release, NOUN 
+commonly, ADV 
+
+, SPACE 
+important, ADJ 
+high, ADJ 
+temperature, NOUN 
+flames, NOUN 
+level, NOUN 
+
+, SPACE 
+dissociation, NOUN 
+increases, NOUN 
+temperature, NOUN 
+types, NOUN 
+TCHR, PROPN 
+
+, SPACE 
+identified, VERB 
+equilibrium, NOUN 
+catalytic, ADJ 
+mixed, ADJ 
+
+, SPACE 
+discussed, VERB 
+Baukal, PROPN 
+et, PROPN 
+al, PROPN 
+1996, NUM 
+
+, SPACE 
+Radiation, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+types, NOUN 
+thermal, ADJ 
+radiation, NOUN 
+involved, VERB 
+flame, NOUN 
+
+, SPACE 
+impingement, ADJ 
+studies, NOUN 
+reviewed, VERB 
+include, VERB 
+nonluminous, ADJ 
+
+, SPACE 
+luminous, ADJ 
+emission, NOUN 
+surfaces, NOUN 
+
+, SPACE 
+Nonluminous, ADJ 
+radiation, NOUN 
+Gaseous, ADJ 
+combustion, NOUN 
+products, NOUN 
+
+, SPACE 
+carbon, NOUN 
+dioxide, NOUN 
+water, NOUN 
+vapor, NOUN 
+produce, VERB 
+nonluminous, ADJ 
+radia-, ADJ 
+
+, SPACE 
+tion, NOUN 
+Radiation, NOUN 
+CO, PROPN 
+2, NUM 
+H20, PROPN 
+extensively, ADV 
+stud-, VERB 
+
+, SPACE 
+ied, VERB 
+important, ADJ 
+combustion, NOUN 
+radiation, NOUN 
+
+, SPACE 
+depends, VERB 
+gas, NOUN 
+temperature, NOUN 
+partial, ADJ 
+pressure, NOUN 
+concentra-, VERB 
+
+, SPACE 
+tion, NOUN 
+gas, NOUN 
+species, NOUN 
+optical, ADJ 
+path, NOUN 
+length, NOUN 
+
+, SPACE 
+gas, NOUN 
+studies, NOUN 
+nonluminous, ADJ 
+radiation, NOUN 
+amounted, VERB 
+
+, SPACE 
+significant, ADJ 
+fraction, NOUN 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+target, NOUN 
+Kilham, PROPN 
+
+, SPACE 
+1949, NUM 
+data, NOUN 
+indicated, VERB 
+flame, NOUN 
+radiation, NOUN 
+accounted, VERB 
+
+, SPACE 
+5, NUM 
+16, NUM 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+Jackson, PROPN 
+Kilham, PROPN 
+1956, NUM 
+
+, SPACE 
+found, VERB 
+measured, ADJ 
+flame, NOUN 
+radiation, NOUN 
+accounted, VERB 
+5, NUM 
+
+, SPACE 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+Ivernel, NOUN 
+Vernotte, PROPN 
+1979, NUM 
+calculated, VERB 
+
+, SPACE 
+nonluminous, ADJ 
+flame, NOUN 
+radiation, NOUN 
+effects, NOUN 
+accounted, VERB 
+
+, SPACE 
+34, NUM 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+measured, ADJ 
+CO, PROPN 
+2, NUM 
+H20, PROPN 
+
+, SPACE 
+concentrations, NOUN 
+furnace, NOUN 
+Hottel, PROPN 
+curves, VERB 
+
+, SPACE 
+Notation, PROPN 
+x, SYM 
+dimensionless, NOUN 
+axial, ADJ 
+distance, NOUN 
+burner, NOUN 
+
+, SPACE 
+stagnation, NOUN 
+point, NOUN 
+=, PROPN 
+x, PROPN 
+d, PROPN 
+n, NUM 
+
+, SPACE 
+cp, PROPN 
+specific, ADJ 
+heat, NOUN 
+
+, SPACE 
+d, NOUN 
+diameter, NOUN 
+Greek, ADJ 
+
+, SPACE 
+g, PROPN 
+gravity, NOUN 
+
+, SPACE 
+h, NOUN 
+c, PROPN 
+chemical, PROPN 
+enthalpy, PROPN 
+13, NUM 
+
+, SPACE 
+h, NOUN 
+s, PART 
+sensible, ADJ 
+enthalpy, NOUN 
+=, PROPN 
+fCp, PROPN 
+dt, PROPN 
+
+, SPACE 
+h, NOUN 
+r, NOUN 
+total, ADJ 
+enthalpy, NOUN 
+=, X 
+h, PROPN 
+c, NOUN 
++, CCONJ 
+h, PROPN 
+s, PART 
+ix, INTJ 
+P, NOUN 
+k, ADJ 
+thermal, ADJ 
+conductivity, NOUN 
+tb, ADP 
+
+, SPACE 
+1, NUM 
+length, NOUN 
+
+, SPACE 
+L, PROPN 
+dimensionless, NOUN 
+distance, NOUN 
+burner, NOUN 
+stagna-, ADJ 
+f~, PROPN 
+
+, SPACE 
+tion, NOUN 
+body, NOUN 
+=, VERB 
+lj, X 
+d, NOUN 
+n, CCONJ 
+
+, SPACE 
+Le, PROPN 
+Lewis, PROPN 
+number, NOUN 
+
+, SPACE 
+m, VERB 
+mole, ADJ 
+fraction, NOUN 
+Subscripts, PROPN 
+
+, SPACE 
+Ma, PROPN 
+Mach, PROPN 
+number, NOUN 
+
+, SPACE 
+Nu, PROPN 
+Nusselt, PROPN 
+number, NOUN 
+b, NOUN 
+
+, SPACE 
+Pr, PROPN 
+Prandtl, PROPN 
+number, NOUN 
+conv, ADJ 
+
+, SPACE 
+q, ADJ 
+heat, NOUN 
+flux, NOUN 
+e, PROPN 
+
+, SPACE 
+qf, AUX 
+burner, NOUN 
+firing, NOUN 
+rate, NOUN 
+kW, NOUN 
+oo, ADP 
+
+, SPACE 
+QH, NOUN 
+H, PROPN 
+atom, NOUN 
+heat, NOUN 
+recombination, NOUN 
+j, PROPN 
+
+, SPACE 
+r, NOUN 
+radial, ADJ 
+distance, NOUN 
+burner, PROPN 
+centerline, PROPN 
+max, PROPN 
+
+, SPACE 
+R, PROPN 
+dimensionless, NOUN 
+radial, ADJ 
+distance, NOUN 
+burner, NOUN 
+cen-, PROPN 
+n, CCONJ 
+
+, SPACE 
+terline, NOUN 
+=, PROPN 
+r, NOUN 
+d, NOUN 
+r, NOUN 
+
+, SPACE 
+Ra, PROPN 
+Rayleigh, PROPN 
+number, NOUN 
+rad, NOUN 
+
+, SPACE 
+Reynolds, PROPN 
+number, NOUN 
+rec, VERB 
+
+, SPACE 
+t, NOUN 
+temperature, NOUN 
+ref, NOUN 
+
+, SPACE 
+s, PART 
+
+, SPACE 
+Tu, PROPN 
+turbulence, NOUN 
+intensity, NOUN 
+=, VERB 
+TCHR, VERB 
+
+, SPACE 
+u, NOUN 
+velocity, NOUN 
+v, ADP 
+
+, SPACE 
+v, PROPN 
+fluctuating, NOUN 
+velocity, NOUN 
+w, PROPN 
+
+, SPACE 
+x, SYM 
+axial, ADJ 
+distance, NOUN 
+burner, NOUN 
+stagnation, NOUN 
+
+, SPACE 
+point, NOUN 
+coefficient, NOUN 
+thermal, ADJ 
+expansion, NOUN 
+
+, SPACE 
+absolute, ADJ 
+dynamic, ADJ 
+viscosity, NOUN 
+
+, SPACE 
+density, NOUN 
+
+, SPACE 
+equivalence, NOUN 
+ratio, NOUN 
+=, NOUN 
+stoichiometric, ADJ 
+oxygen, NOUN 
+fuel, NOUN 
+vol-, NOUN 
+
+, SPACE 
+ume, NOUN 
+ratio)/(actual, ADJ 
+oxygen, NOUN 
+fuel, NOUN 
+volume, NOUN 
+ratio, NOUN 
+
+, SPACE 
+oxygen, NOUN 
+enrichment, NOUN 
+ratio, NOUN 
+=, NOUN 
+oxygen, NOUN 
+volume, NOUN 
+
+, SPACE 
+oxidizer, NOUN 
+total, ADJ 
+oxidizer, NOUN 
+volume, NOUN 
+
+, SPACE 
+body, NOUN 
+target, VERB 
+
+, SPACE 
+convection, NOUN 
+
+, SPACE 
+edge, NOUN 
+boundary, ADJ 
+layer, NOUN 
+
+, SPACE 
+ambient, NOUN 
+
+, SPACE 
+jet, NOUN 
+
+, SPACE 
+maximum, NOUN 
+given, VERB 
+location, NOUN 
+
+, SPACE 
+nozzle, NOUN 
+
+, SPACE 
+based, VERB 
+radial, ADJ 
+distance, NOUN 
+r, NOUN 
+
+, SPACE 
+radiation, NOUN 
+
+, SPACE 
+evaluated, VERB 
+recovery, NOUN 
+temperature, NOUN 
+Equation, PROPN 
+
+, SPACE 
+evaluated, VERB 
+reference, NOUN 
+temperature, NOUN 
+Equation, PROPN 
+le, X 
+
+, SPACE 
+stagnation, NOUN 
+point, VERB 
+
+, SPACE 
+thermochemical, ADJ 
+heat, NOUN 
+release, NOUN 
+
+, SPACE 
+position, NOUN 
+jet, NOUN 
+flow, NOUN 
+fully, ADV 
+developed, VERB 
+
+, SPACE 
+wall, NOUN 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+4, NUM 
+August, PROPN 
+1996, NUM 
+387, NUM 
+
+
+, SPACE 
+Flame, PROPN 
+impingement, VERB 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+B., PROPN 
+Gebhart, PROPN 
+
+, SPACE 
+Hottel, PROPN 
+Sarofim, PROPN 
+1967, NUM 
+determine, VERB 
+flame, NOUN 
+
+, SPACE 
+emissivity, NOUN 
+
+, SPACE 
+studies, NOUN 
+nonluminous, ADJ 
+radiation, NOUN 
+negligible, ADJ 
+Giedt, PROPN 
+
+, SPACE 
+et, PROPN 
+al, PROPN 
+1960, NUM 
+measured, VERB 
+calculated, VERB 
+nonluminous, ADJ 
+radiation, NOUN 
+
+, SPACE 
+2, NUM 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+Woodruff, PROPN 
+Giedt, PROPN 
+
+, SPACE 
+1966, NUM 
+measured, VERB 
+nonluminous, ADJ 
+radiation, NOUN 
+con-, NOUN 
+
+, SPACE 
+figuration, NOUN 
+Giedt, PROPN 
+et, PROPN 
+al, PROPN 
+effect, NOUN 
+negligible, ADJ 
+Shorin, PROPN 
+
+, SPACE 
+Pechurkin, PROPN 
+1968, NUM 
+experimentally, ADV 
+determined, VERB 
+radiation, NOUN 
+
+, SPACE 
+negligible, ADJ 
+Hoogendoorn, PROPN 
+et, PROPN 
+al, PROPN 
+1978, NUM 
+found, VERB 
+radiation, NOUN 
+
+, SPACE 
+exceed, VERB 
+5, NUM 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+measurements, NOUN 
+
+, SPACE 
+calculations, NOUN 
+given, VERB 
+Davies, NOUN 
+1979, NUM 
+calculated, VERB 
+nonlumi-, ADJ 
+
+, SPACE 
+nous, ADJ 
+radiation, NOUN 
+account, NOUN 
+2, NUM 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+
+, SPACE 
+Luminous, ADJ 
+radiation, NOUN 
+occurs, VERB 
+soot, NOUN 
+particles, NOUN 
+pro-, PROPN 
+
+, SPACE 
+duced, VERB 
+radiate, VERB 
+approximately, ADV 
+blackbody, NOUN 
+mecha-, NOUN 
+
+, SPACE 
+nism, NOUN 
+important, ADJ 
+liquid, ADJ 
+solid, ADJ 
+fuels, NOUN 
+oil, NOUN 
+
+, SPACE 
+coal, NOUN 
+commonly, ADV 
+significant, ADJ 
+gaseous, ADJ 
+fuels, NOUN 
+
+, SPACE 
+methane, NOUN 
+1985, NUM 
+measured, VERB 
+radiation, NOUN 
+pure, ADJ 
+diffusion, NOUN 
+
+, SPACE 
+qb, PROPN 
+=, NUM 
+~, PUNCT 
+natural, ADJ 
+gas, NOUN 
+flames, NOUN 
+radiation, NOUN 
+expected, VERB 
+
+, SPACE 
+luminous, ADJ 
+nature, NOUN 
+buoyant, ADJ 
+pure, ADJ 
+
+, SPACE 
+diffusion, NOUN 
+flames, NOUN 
+Radiation, NOUN 
+accounted, VERB 
+13, NUM 
+26, NUM 
+total, ADJ 
+
+, SPACE 
+flux, NOUN 
+stagnation, NOUN 
+point, NOUN 
+Hustad, PROPN 
+co, NOUN 
+workers, NOUN 
+1991, NUM 
+calcu-, NOUN 
+
+, SPACE 
+lated, VERB 
+radiation, NOUN 
+flux, NOUN 
+stagnation, NOUN 
+point, NOUN 
+cylinder, NOUN 
+
+, SPACE 
+cross, ADJ 
+flow, ADJ 
+7, NUM 
+14, NUM 
+20, NUM 
+40, NUM 
+total, ADJ 
+flux, NOUN 
+
+, SPACE 
+CH, PROPN 
+4, NUM 
+C3H, PROPN 
+8, NUM 
+pure, ADJ 
+diffusion, NOUN 
+flames, NOUN 
+respectively, ADV 
+Luminous, ADJ 
+
+, SPACE 
+radiation, NOUN 
+important, ADJ 
+studies, NOUN 
+
+, SPACE 
+flames, NOUN 
+fuel, NOUN 
+rich, ADJ 
+e.g., ADV 
+Buhr, PROPN 
+et, PROPN 
+al, PROPN 
+1973, NUM 
+
+, SPACE 
+measurements, NOUN 
+calculations, NOUN 
+reported, VERB 
+
+, SPACE 
+Surface, NOUN 
+radiant, ADJ 
+emission, NOUN 
+Be6r, PROPN 
+Chigier, PROPN 
+1968, NUM 
+studied, VERB 
+
+, SPACE 
+stoichiometric, ADJ 
+air, NOUN 
+coke, PROPN 
+oven, ADJ 
+gas, NOUN 
+flames, NOUN 
+impinging, VERB 
+hearth, NOUN 
+
+, SPACE 
+furnace, NOUN 
+measured, ADJ 
+radiation, NOUN 
+10, NUM 
+
+, SPACE 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+radiation, NOUN 
+actually, ADV 
+combination, NOUN 
+
+, SPACE 
+furnace, NOUN 
+wall, NOUN 
+radiant, ADJ 
+emission, NOUN 
+radiation, NOUN 
+flame, NOUN 
+
+, SPACE 
+radiation, NOUN 
+type, NOUN 
+flame, NOUN 
+usually, ADV 
+negligi-, ADJ 
+
+, SPACE 
+ble, NOUN 
+previously, ADV 
+discussed, VERB 
+
+, SPACE 
+Vizioz, PROPN 
+Lowes, PROPN 
+1971, NUM 
+Smith, PROPN 
+Lowes, PROPN 
+1974, NUM 
+studied, VERB 
+
+, SPACE 
+flame, NOUN 
+impingement, VERB 
+cooled, VERB 
+plane, NOUN 
+target, NOUN 
+located, VERB 
+inside, ADP 
+
+, SPACE 
+hot, ADJ 
+furnace, NOUN 
+Radiation, NOUN 
+convection, NOUN 
+determined, ADJ 
+
+, SPACE 
+comparable, ADJ 
+magnitude, NOUN 
+Vizioz, PROPN 
+Lowes, PROPN 
+measured, VERB 
+radia-, ADJ 
+
+, SPACE 
+tion, NOUN 
+4, NUM 
+100, NUM 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+Smith, PROPN 
+Lowes, PROPN 
+
+, SPACE 
+calculated, VERB 
+total, ADJ 
+radiation, NOUN 
+Hottel, PROPN 
+zone, NOUN 
+method, NOUN 
+Hottel, PROPN 
+
+, SPACE 
+Sarofim, PROPN 
+1967, NUM 
+accounted, VERB 
+30, NUM 
+43, NUM 
+10, NUM 
+17, NUM 
+
+, SPACE 
+total, ADJ 
+heat, NOUN 
+transfer, NOUN 
+water, NOUN 
+cooled, VERB 
+air, NOUN 
+cooled, VERB 
+flat, ADJ 
+plates, NOUN 
+
+, SPACE 
+respectively, ADV 
+
+, SPACE 
+Matsuo, PROPN 
+et, PROPN 
+al, PROPN 
+1978, NUM 
+studies, VERB 
+flame, NOUN 
+impingement, VERB 
+metal, NOUN 
+
+, SPACE 
+inside, ADP 
+hot, ADJ 
+furnace, NOUN 
+Coke, PROPN 
+oven, ADJ 
+gas, NOUN 
+combusted, VERB 
+air, NOUN 
+
+, SPACE 
+preheated, VERB 
+200, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+exposed, VERB 
+impinging, VERB 
+flame, NOUN 
+rest, NOUN 
+exposed, VERB 
+
+, SPACE 
+radiation, NOUN 
+furnace, NOUN 
+walls, NOUN 
+Furnace, NOUN 
+radiation, NOUN 
+
+, SPACE 
+dominant, ADJ 
+heat, NOUN 
+transfer, NOUN 
+mechanism, NOUN 
+1, X 
+distance, NOUN 
+be-, X 
+
+, SPACE 
+tween, VERB 
+burner, NOUN 
+slab, NOUN 
+large, ADJ 
+2, X 
+high, ADJ 
+slab, PROPN 
+surface, NOUN 
+
+, SPACE 
+temperatures, NOUN 
+3, X 
+large, ADJ 
+R., PROPN 
+Ivernel, PROPN 
+Vernotte, PROPN 
+1979, NUM 
+
+, SPACE 
+calculated, VERB 
+radiation, NOUN 
+furnace, NOUN 
+walls, NOUN 
+accounted, VERB 
+
+, SPACE 
+42, NUM 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+
+, SPACE 
+1985, NUM 
+studied, VERB 
+buoyant, ADJ 
+unenclosed, ADJ 
+flame, NOUN 
+impinging, VERB 
+
+, SPACE 
+flat, ADJ 
+plate, NOUN 
+convective, ADJ 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+rates, NOUN 
+
+, SPACE 
+measured, VERB 
+gauges, NOUN 
+plated, VERB 
+gold, NOUN 
+black, ADJ 
+foils, NOUN 
+respec-, X 
+
+, SPACE 
+tively, ADV 
+subtracting, VERB 
+convection, NOUN 
+effect, NOUN 
+total, ADJ 
+heat, NOUN 
+
+, SPACE 
+flux, NOUN 
+radiation, NOUN 
+calculated, VERB 
+35, NUM 
+
+, SPACE 
+convective, ADJ 
+flux, NOUN 
+Thermal, ADJ 
+radiation, NOUN 
+dropped, VERB 
+rapidly, ADV 
+R, NOUN 
+
+, SPACE 
+increased, VERB 
+fixed, VERB 
+L., PROPN 
+
+, SPACE 
+Water, PROPN 
+vapor, NOUN 
+condensation, NOUN 
+
+, SPACE 
+studies, NOUN 
+reviewed, VERB 
+Hargrave, PROPN 
+eta, NOUN 
+1987, NUM 
+
+, SPACE 
+considered, VERB 
+effect, NOUN 
+condensation, NOUN 
+
+, SPACE 
+attempted, VERB 
+eliminate, VERB 
+careful, ADJ 
+experimental, ADJ 
+design, NOUN 
+Flowing, VERB 
+ethylene, NOUN 
+glycol, NOUN 
+cool, VERB 
+inside, ADJ 
+wall, NOUN 
+cylinder, NOUN 
+
+, SPACE 
+heminosed, VERB 
+cylinder, NOUN 
+target, NOUN 
+Glycol, PROPN 
+higher, ADJ 
+boiling, NOUN 
+point, NOUN 
+
+, SPACE 
+water, NOUN 
+target, NOUN 
+surface, NOUN 
+temperature, NOUN 
+
+, SPACE 
+maintained, VERB 
+high, ADJ 
+level, NOUN 
+prevent, VERB 
+water, NOUN 
+
+, SPACE 
+vapor, NOUN 
+combustion, NOUN 
+products, NOUN 
+condensing, VERB 
+target, NOUN 
+
+, SPACE 
+Water, NOUN 
+cooled, VERB 
+targets, NOUN 
+studies, NOUN 
+e.g., ADV 
+
+, SPACE 
+Anderson, PROPN 
+Stresino, PROPN 
+1963, NUM 
+surface, NOUN 
+temperature, NOUN 
+
+, SPACE 
+maintained, VERB 
+boiling, NOUN 
+point, NOUN 
+water, NOUN 
+prevented, VERB 
+
+, SPACE 
+cooling, VERB 
+water, NOUN 
+boiling, NOUN 
+inside, ADP 
+target, NOUN 
+water, NOUN 
+vapor, NOUN 
+
+, SPACE 
+combustion, NOUN 
+products, NOUN 
+condensed, VERB 
+cool, ADJ 
+
+, SPACE 
+target, NOUN 
+surface, NOUN 
+air, NOUN 
+fuel, NOUN 
+flames, NOUN 
+water, NOUN 
+content, NOUN 
+
+, SPACE 
+combustion, NOUN 
+products, NOUN 
+relatively, ADV 
+small, ADJ 
+O2, PROPN 
+CH, PROPN 
+4, NUM 
+
+, SPACE 
+flames, NOUN 
+example, NOUN 
+products, NOUN 
+thirds, NOUN 
+water, NOUN 
+Con-, PROPN 
+
+, SPACE 
+densation, NOUN 
+important, ADJ 
+studies, NOUN 
+effect, NOUN 
+
+, SPACE 
+quantified, VERB 
+study, NOUN 
+
+, SPACE 
+Thermophysical, ADJ 
+properties, NOUN 
+
+, SPACE 
+transport, NOUN 
+thermodynamic, ADJ 
+properties, NOUN 
+correla-, NOUN 
+
+, SPACE 
+tions, NOUN 
+presented, VERB 
+discussed, VERB 
+section, NOUN 
+
+, SPACE 
+properties, NOUN 
+evaluated, VERB 
+rules, NOUN 
+prop-, ADV 
+
+, SPACE 
+erties, NOUN 
+include, VERB 
+example, NOUN 
+specific, ADJ 
+heat, NOUN 
+thermal, ADJ 
+conductiv-, NOUN 
+
+, SPACE 
+ity, NOUN 
+enthalpy, NOUN 
+viscosity, NOUN 
+combustion, NOUN 
+products, NOUN 
+
+, SPACE 
+nomenclature, NOUN 
+shown, VERB 
+Figure, PROPN 
+1, NUM 
+common, ADJ 
+rule, NOUN 
+
+, SPACE 
+evaluate, VERB 
+properties, NOUN 
+gas, NOUN 
+temperature, NOUN 
+edge, NOUN 
+
+, SPACE 
+stagnation, NOUN 
+zone, NOUN 
+boundary, ADJ 
+layer, NOUN 
+te, PROPN 
+
+, SPACE 
+Pe, PROPN 
+=, NOUN 
+p(t~, PROPN 
+la, INTJ 
+
+, SPACE 
+p, NOUN 
+property, NOUN 
+evaluated, VERB 
+common, ADJ 
+rule, NOUN 
+
+, SPACE 
+evaluate, VERB 
+properties, NOUN 
+wall, NOUN 
+temperature, NOUN 
+
+, SPACE 
+target, NOUN 
+t, PROPN 
+w, NOUN 
+
+, SPACE 
+Pw, PROPN 
+=, NOUN 
+P(tw, PROPN 
+lb, ADV 
+
+, SPACE 
+properties, NOUN 
+evaluated, VERB 
+film, NOUN 
+temperature, NOUN 
+
+, SPACE 
+mean, ADJ 
+temperature, NOUN 
+edge, NOUN 
+stagnation, NOUN 
+
+, SPACE 
+zone, NOUN 
+wall, NOUN 
+temperature, NOUN 
+property, NOUN 
+evaluated, VERB 
+
+, SPACE 
+t5, PROPN 
+=, NOUN 
+p[(t, NOUN 
+e, NOUN 
++, CCONJ 
+tw)/2, PROPN 
+lc, NOUN 
+
+, SPACE 
+studies, NOUN 
+e.g., ADV 
+Hargrave, PROPN 
+et, PROPN 
+al, PROPN 
+1987, NUM 
+weighted, ADJ 
+
+, SPACE 
+average, ADJ 
+temperature, NOUN 
+range, NOUN 
+edge, NOUN 
+
+, SPACE 
+stagnation, NOUN 
+zone, NOUN 
+wall, NOUN 
+temperatures, NOUN 
+
+, SPACE 
+~=, X 
+ft, PROPN 
+~, PROPN 
+pdt/(te, PROPN 
+tw, PROPN 
+tw, PROPN 
+ld, PROPN 
+
+, SPACE 
+BURNER, PROPN 
+f, PROPN 
+d, X 
+
+, SPACE 
+Figure, NOUN 
+Nomenclature, PROPN 
+flame, NOUN 
+impinging, VERB 
+normal, ADJ 
+
+, SPACE 
+plane, NOUN 
+surface, NOUN 
+
+, SPACE 
+388, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+4, NUM 
+August, PROPN 
+1996, NUM 
+
+
+, SPACE 
+Flame, PROPN 
+impingement, VERB 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+B., PROPN 
+Gebhart, PROPN 
+
+, SPACE 
+Hoogendoorn, PROPN 
+et, PROPN 
+al, PROPN 
+1978, NUM 
+Popiel, PROPN 
+et, PROPN 
+al, PROPN 
+1980, NUM 
+
+, SPACE 
+reference, NOUN 
+temperature, NOUN 
+method, NOUN 
+recommended, VERB 
+Eckert, PROPN 
+1956, NUM 
+
+, SPACE 
+Pref, PROPN 
+=, NOUN 
+p[te, PROPN 
++, NOUN 
+0"5(tw, NUM 
++, CCONJ 
+0"22(trec, PROPN 
+te, PROPN 
+le, X 
+
+, SPACE 
+
+, SPACE 
+2, NUM 
+0.5, NUM 
+tre, NOUN 
+c, NOUN 
+=, PROPN 
+t, PROPN 
+e, PROPN 
++, PROPN 
+t, NOUN 
+e, NOUN 
+Pr, PROPN 
+e, NOUN 
+/2cpe, PUNCT 
+lf, PROPN 
+
+, SPACE 
+low, ADJ 
+speed, NOUN 
+flows, NOUN 
+recovery, NOUN 
+temperature, NOUN 
+
+, SPACE 
+t, PROPN 
+e., PROPN 
+Pref, PROPN 
+nearly, ADV 
+~, PUNCT 
+Equation, PROPN 
+lc, PROPN 
+
+, SPACE 
+Be6r, PROPN 
+Chigier, PROPN 
+1968, NUM 
+evaluated, VERB 
+properties, NOUN 
+maxi-, X 
+
+, SPACE 
+mum, NOUN 
+temperature, NOUN 
+measured, VERB 
+given, VERB 
+location, NOUN 
+flame, NOUN 
+jet, NOUN 
+
+, SPACE 
+Pmax, NOUN 
+=, PRON 
+p(tmax, VERB 
+lg, PROPN 
+
+, SPACE 
+Definitions, NOUN 
+dimensionless, ADJ 
+quantities, NOUN 
+introduced, VERB 
+be-, ADP 
+
+, SPACE 
+low, ADJ 
+Nu, PROPN 
+Pr, PROPN 
+require, VERB 
+specification, NOUN 
+
+, SPACE 
+characteristic, ADJ 
+length, NOUN 
+scale, NOUN 
+characteristic, ADJ 
+transport, NOUN 
+properties, NOUN 
+
+, SPACE 
+transport, NOUN 
+properties, NOUN 
+turn, NOUN 
+require, VERB 
+specification, NOUN 
+
+, SPACE 
+rule, NOUN 
+evaluated, VERB 
+e.g., ADV 
+use, NOUN 
+specific, ADJ 
+character-, NOUN 
+
+, SPACE 
+istic, ADJ 
+temperature, NOUN 
+material, NOUN 
+transport, NOUN 
+proper-, NOUN 
+
+, SPACE 
+ties, NOUN 
+i.e., X 
+material, ADJ 
+temperature, NOUN 
+required, VERB 
+indicated, VERB 
+
+, SPACE 
+single, ADJ 
+subscript, NOUN 
+e.g., ADV 
+Pr, PROPN 
+e, NOUN 
+i.e., X 
+Pr, PROPN 
+evaluated, VERB 
+te, PROPN 
+
+, SPACE 
+characteristic, ADJ 
+length, NOUN 
+property, NOUN 
+temperature, NOUN 
+required, VERB 
+
+, SPACE 
+indicated, VERB 
+second, ADJ 
+subscripts, NOUN 
+
+, SPACE 
+respectively, ADV 
+example, NOUN 
+Re,,~, PROPN 
+shorthand, NOUN 
+notation, NOUN 
+
+, SPACE 
+e, NOUN 
+=, PROPN 
+PeUedn, PROPN 
+la, PROPN 
+e, NOUN 
+example, NOUN 
+characteristic, ADJ 
+dimen-, X 
+
+, SPACE 
+sion, NOUN 
+dn, ADJ 
+dimension, NOUN 
+important, ADJ 
+parameter, NOUN 
+correlat-, ADJ 
+
+, SPACE 
+ing, VERB 
+heat, NOUN 
+transfer, NOUN 
+possible, ADJ 
+lengths, NOUN 
+
+, SPACE 
+common, ADJ 
+burner, NOUN 
+nozzle, NOUN 
+
+, SPACE 
+diameter, NOUN 
+d, NUM 
+axial, ADJ 
+distance, NOUN 
+
+, SPACE 
+nozzle, NOUN 
+edge, NOUN 
+surface, NOUN 
+stagnation, NOUN 
+point, VERB 
+lj, ADV 
+cylindrical, ADJ 
+
+, SPACE 
+heminosed, VERB 
+cylindrical, ADJ 
+targets, NOUN 
+Figures, NOUN 
+2, NUM 
+3, NUM 
+diameter, NOUN 
+
+, SPACE 
+body, NOUN 
+d, PROPN 
+b, NOUN 
+plane, NOUN 
+targets, NOUN 
+distance, NOUN 
+
+, SPACE 
+surface, NOUN 
+r, NOUN 
+Smith, PROPN 
+Lowes, PROPN 
+1974, NUM 
+
+, SPACE 
+width, NOUN 
+cooling, VERB 
+channel, NOUN 
+target, NOUN 
+l, PROPN 
+c., PROPN 
+Kataoka, PROPN 
+et, PROPN 
+
+, SPACE 
+al, PROPN 
+1984, NUM 
+radius, NOUN 
+velocity, NOUN 
+half, DET 
+axial, ADJ 
+
+, SPACE 
+r, NOUN 
+=, SYM 
+0, NUM 
+velocity, NOUN 
+rl/2, VERB 
+
+, SPACE 
+Empirical, ADJ 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+
+, SPACE 
+generally, ADV 
+given, VERB 
+forms, NOUN 
+
+, SPACE 
+Nusselt, PROPN 
+number, NOUN 
+dimensionless, ADJ 
+heat, NOUN 
+transfer, NOUN 
+coeffi-, NOUN 
+
+, SPACE 
+cient, NOUN 
+studies, NOUN 
+considered, VERB 
+appeared, VERB 
+Nu, PROPN 
+=, X 
+
+, SPACE 
+aPrbRe, NOUN 
+c, PROPN 
+b, NOUN 
+c, PROPN 
+constants, NOUN 
+second, ADJ 
+form, NOUN 
+
+, SPACE 
+directly, ADV 
+terms, NOUN 
+heat, NOUN 
+flux, NOUN 
+q, PROPN 
+forms, NOUN 
+
+, SPACE 
+related, VERB 
+follows, VERB 
+q, NOUN 
+=, PROPN 
+k, PROPN 
+d){Nu}At, PROPN 
+k, PROPN 
+thermal, ADJ 
+
+, SPACE 
+conductivity, NOUN 
+fluid, NOUN 
+d, NOUN 
+characteristic, ADJ 
+dimension, NOUN 
+
+, SPACE 
+consistency, NOUN 
+correlations, NOUN 
+given, VERB 
+
+, SPACE 
+written, VERB 
+terms, NOUN 
+q, NOUN 
+makes, VERB 
+easier, ADJ 
+directly, ADV 
+compare, VERB 
+
+, SPACE 
+equations, NOUN 
+driving, VERB 
+force, NOUN 
+potential, NOUN 
+heat, NOUN 
+
+, SPACE 
+transfer, NOUN 
+explicitly, ADV 
+given, VERB 
+second, ADJ 
+form, NOUN 
+correla-, NOUN 
+Figure, NOUN 
+2, NUM 
+BURNER, PROPN 
+
+, SPACE 
+Flame, PROPN 
+impinging, VERB 
+normal, ADJ 
+cylinder, NOUN 
+cross, ADJ 
+flow, ADJ 
+
+, SPACE 
+tions, NOUN 
+potential, NOUN 
+temperature, NOUN 
+difference, NOUN 
+
+, SPACE 
+enthalpy, NOUN 
+difference, NOUN 
+form, NOUN 
+Nu, PROPN 
+formulation, NOUN 
+
+, SPACE 
+potential, NOUN 
+given, VERB 
+explicitly, ADV 
+correlations, NOUN 
+con-, VERB 
+
+, SPACE 
+verted, VERB 
+form, NOUN 
+second, ADJ 
+form, NOUN 
+i.e., X 
+Nu, PROPN 
+q, PROPN 
+
+, SPACE 
+Nu, PROPN 
+relationship, NOUN 
+shown, VERB 
+inside, ADP 
+curved, VERB 
+brackets, NOUN 
+
+, SPACE 
+section, NOUN 
+arranged, VERB 
+aid, VERB 
+designer, NOUN 
+researcher, NOUN 
+
+, SPACE 
+find, VERB 
+appropriate, ADJ 
+correlation, NOUN 
+specific, ADJ 
+set, NOUN 
+conditions, NOUN 
+
+, SPACE 
+primary, ADJ 
+consideration, NOUN 
+ensure, VERB 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+correlation, NOUN 
+applies, VERB 
+chosen, VERB 
+geometric, ADJ 
+configuration, NOUN 
+
+, SPACE 
+consideration, NOUN 
+location, NOUN 
+target, NOUN 
+desired, VERB 
+
+, SPACE 
+flux, NOUN 
+calculated, VERB 
+typically, ADV 
+specific, ADJ 
+
+, SPACE 
+location, NOUN 
+stagnation, NOUN 
+point, NOUN 
+referred, VERB 
+
+, SPACE 
+local, ADJ 
+heat, NOUN 
+flux, NOUN 
+Correlations, NOUN 
+determined, VERB 
+
+, SPACE 
+average, ADJ 
+heat, NOUN 
+flux, NOUN 
+given, VERB 
+portion, NOUN 
+target, NOUN 
+
+, SPACE 
+correlations, NOUN 
+arranged, VERB 
+terms, NOUN 
+heat, NOUN 
+transfer, NOUN 
+mecha-, X 
+
+, SPACE 
+nism(s, PROPN 
+include, VERB 
+convection, NOUN 
+TCHR, PROPN 
+radiation, NOUN 
+combi-, PRON 
+
+, SPACE 
+nations, NOUN 
+Finally, ADV 
+correlations, NOUN 
+arranged, VERB 
+
+, SPACE 
+flow, NOUN 
+type, NOUN 
+laminar, NOUN 
+turbulent, ADJ 
+studies, NOUN 
+e.g., ADV 
+Fair-, ADJ 
+
+, SPACE 
+weather, NOUN 
+et, PROPN 
+al, PROPN 
+1984, NUM 
+correlations, NOUN 
+given, VERB 
+laminar, NOUN 
+
+, SPACE 
+turbulent, ADJ 
+flows, NOUN 
+studies, NOUN 
+flow, NOUN 
+type, NOUN 
+
+, SPACE 
+specified, VERB 
+
+, SPACE 
+Flames, NOUN 
+impinging, VERB 
+normal, ADJ 
+cylinder, NOUN 
+
+, SPACE 
+refers, VERB 
+flames, NOUN 
+impinging, VERB 
+perpendicular, ADJ 
+cylinder, NOUN 
+
+, SPACE 
+Figure, PROPN 
+2, NUM 
+cylinder, NOUN 
+cross, ADJ 
+flow, NOUN 
+experimental, ADJ 
+conditions, NOUN 
+
+, SPACE 
+previous, ADJ 
+studies, NOUN 
+geometry, NOUN 
+given, VERB 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+table, NOUN 
+shows, VERB 
+heat, NOUN 
+transfer, NOUN 
+mechanisms, NOUN 
+
+, SPACE 
+correlated, VERB 
+studies, NOUN 
+
+, SPACE 
+Local, ADJ 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+Laminar, PROPN 
+turbulent, ADJ 
+flows, NOUN 
+Hustad, PROPN 
+co, NOUN 
+workers, NOUN 
+1991, NUM 
+
+, SPACE 
+measured, VERB 
+radiation, NOUN 
+total, ADJ 
+heat, NOUN 
+fluxes, NOUN 
+laminar, NOUN 
+
+, SPACE 
+turbulent, ADJ 
+flows, NOUN 
+radiation, NOUN 
+flux, NOUN 
+calculated, VERB 
+
+, SPACE 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+calculated, VERB 
+subtracting, VERB 
+calcu-, ADJ 
+
+, SPACE 
+lated, VERB 
+radiation, NOUN 
+measured, ADJ 
+heat, NOUN 
+flux, NOUN 
+correlations, NOUN 
+
+, SPACE 
+literature, NOUN 
+tested, VERB 
+convective, ADJ 
+portion, NOUN 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+best, ADJ 
+match, NOUN 
+experimental, ADJ 
+convection, NOUN 
+
+, SPACE 
+stagnation, NOUN 
+point, NOUN 
+correlation, NOUN 
+Zukauskas, PROPN 
+
+, SPACE 
+Figure, PROPN 
+3, NUM 
+BURNER, PROPN 
+~, PUNCT 
+~ARGET, PROPN 
+
+, SPACE 
+f, PROPN 
+
+, SPACE 
+Flame, PROPN 
+impinging, VERB 
+normal, ADJ 
+hemi, ADJ 
+nosed, ADJ 
+cylinder, NOUN 
+parallel, ADJ 
+flow, NOUN 
+0, NUM 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+4, NUM 
+August, PROPN 
+1996, NUM 
+389, NUM 
+
+
+, SPACE 
+Flame, PROPN 
+impingement, VERB 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+B., PROPN 
+Gebhart, PROPN 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+Experimental, ADJ 
+conditions, NOUN 
+flames, NOUN 
+impinging, VERB 
+normal, ADJ 
+cylinders, NOUN 
+
+, SPACE 
+Heat, PROPN 
+transfer, NOUN 
+mechanisms, NOUN 
+
+, SPACE 
+Location, PROPN 
+Forced, VERB 
+conv, ADJ 
+TCHR, PROPN 
+Radiation, PROPN 
+Oxidizer, PROPN 
+n, NOUN 
++, PROPN 
+Fuel(s, PROPN 
+Reference, PROPN 
+
+, SPACE 
+Local, PROPN 
+~/, PROPN 
+air, NOUN 
+
+, SPACE 
+¢, PROPN 
+air, NOUN 
+
+, SPACE 
+Average, PROPN 
+~/, PROPN 
+air, NOUN 
+
+, SPACE 
+~/, PROPN 
+air, PROPN 
+
+, SPACE 
+~/, PROPN 
+air, PROPN 
+
+, SPACE 
+~/, PROPN 
+air, PROPN 
+
+, SPACE 
+~/, PROPN 
+~/, PROPN 
+air, PROPN 
+O, NOUN 
+2, NUM 
+
+, SPACE 
+¢, PROPN 
+02, NUM 
+
+, SPACE 
+¢, PROPN 
+air, NOUN 
+
+, SPACE 
+¢, PROPN 
+¢, PROPN 
+02, NUM 
+
+, SPACE 
+¢, PROPN 
+¢, PROPN 
+02, NUM 
+
+, SPACE 
+~/, PROPN 
+~/, PROPN 
+air, PROPN 
+O, NOUN 
+2, NUM 
+
+, SPACE 
+¢, PROPN 
+¢, PROPN 
+02, NUM 
+
+, SPACE 
+Maximum, PROPN 
+~/, PROPN 
+~/, PROPN 
+air, PROPN 
+2000, NUM 
+8000, NUM 
+0.8, NUM 
+1.2, NUM 
+CH, PROPN 
+4, NUM 
+
+, SPACE 
+200, NUM 
+3600, NUM 
+co, NOUN 
+CH4, PROPN 
+C3H8, PROPN 
+
+, SPACE 
+given, VERB 
+1.25, NUM 
+C3H, PROPN 
+8, NUM 
+
+, SPACE 
+laminar, NOUN 
+1.0, NUM 
+1.19, NUM 
+CO, PROPN 
+
+, SPACE 
+200, NUM 
+3600, NUM 
+oo, NOUN 
+CH4, PROPN 
+C3H8, PROPN 
+
+, SPACE 
+given, VERB 
+0.6, NUM 
+1.3, NUM 
+natural, ADJ 
+gas, NOUN 
+
+, SPACE 
+0.5, NUM 
+1.3, NUM 
+
+, SPACE 
+0.5, NUM 
+1.16, NUM 
+
+, SPACE 
+laminar, NOUN 
+1.0, NUM 
+H, NOUN 
+2, NUM 
+
+, SPACE 
+1.0, NUM 
+H, NOUN 
+2, NUM 
+
+, SPACE 
+1.0, NUM 
+2.0, NUM 
+CO, PROPN 
+
+, SPACE 
+given, VERB 
+lean, ADJ 
+rich, ADJ 
+town, NOUN 
+gas, NOUN 
+
+, SPACE 
+1.0, NUM 
+
+, SPACE 
+26,000, NUM 
+b, NOUN 
+~, NOUN 
+CH, PROPN 
+4, NUM 
+
+, SPACE 
+54,000, NUM 
+330,000, NUM 
+b, NOUN 
+C3H, PROPN 
+8, NUM 
+
+, SPACE 
+66,000, NUM 
+b, NOUN 
+C4Hlo, NOUN 
+Hargrave, PROPN 
+et, PROPN 
+al, PROPN 
+1987, NUM 
+
+, SPACE 
+Hustad, PROPN 
+co, NOUN 
+workers, NOUN 
+1991, NUM 
+
+, SPACE 
+Fells, PROPN 
+Harker, PROPN 
+1968, NUM 
+
+, SPACE 
+Kilham, PROPN 
+1949, NUM 
+
+, SPACE 
+Hustad, PROPN 
+co, NOUN 
+workers, NOUN 
+1991, NUM 
+
+, SPACE 
+Davies, NOUN 
+1979, NUM 
+
+, SPACE 
+Jackson, PROPN 
+Kilham, PROPN 
+1956, NUM 
+
+, SPACE 
+Davies, NOUN 
+1965, NUM 
+
+, SPACE 
+Hustad, PROPN 
+et, PROPN 
+al, PROPN 
+1992, NUM 
+
+, SPACE 
+aAccording, PROPN 
+author, NOUN 
+qualitative, ADJ 
+
+, SPACE 
+bCalculated, VERB 
+data, NOUN 
+reference, NOUN 
+
+, SPACE 
+Ziugzda, PROPN 
+1985, NUM 
+assuming, VERB 
+Tu, PROPN 
+=, NUM 
+0.02, NUM 
+
+, SPACE 
+=, PROPN 
+--ke/0.41ReO.6preO.35TuO.,5/, PROPN 
+--Pre, PROPN 
+t, PROPN 
+°, NUM 
+"25/, PROPN 
+t, PROPN 
+e, PROPN 
+-t, PROPN 
+w, PROPN 
+
+, SPACE 
+q, NOUN 
+db, PROPN 
+~, PUNCT 
+~Prw, PUNCT 
+2, X 
+
+, SPACE 
+pure, ADJ 
+fuel, NOUN 
+jet, NOUN 
+significant, ADJ 
+quantities, NOUN 
+
+, SPACE 
+uncombusted, ADJ 
+species, NOUN 
+flame, NOUN 
+impingement, ADJ 
+point, NOUN 
+
+, SPACE 
+TCHR, PROPN 
+important, ADJ 
+dis-, NOUN 
+
+, SPACE 
+cussed, VERB 
+Hustad, PROPN 
+co, NOUN 
+workers, NOUN 
+TCHR, PROPN 
+present, ADJ 
+
+, SPACE 
+included, VERB 
+forced, VERB 
+convection, NOUN 
+Equation, NOUN 
+2, NUM 
+
+, SPACE 
+Turbulent, ADJ 
+flows, NOUN 
+Hargrave, VERB 
+et, PROPN 
+al, PROPN 
+1987, NUM 
+studied, VERB 
+effects, NOUN 
+
+, SPACE 
+turbulence, NOUN 
+following, VERB 
+correlation, NOUN 
+determined, VERB 
+
+, SPACE 
+t, PROPN 
+q~, PROPN 
+=, PROPN 
+~-b, PROPN 
+~eb'5, PROPN 
+1.071, NUM 
++, NUM 
+4.669, NUM 
+100, NUM 
+
+, SPACE 
+TuR, PROPN 
+eb, X 
+~, PUNCT 
+-7.388, PUNCT 
+~---~--0.5, PUNCT 
+a]'~, CCONJ 
+3, X 
+
+, SPACE 
+correlation, NOUN 
+underpredicted, VERB 
+data, NOUN 
+14, NUM 
+
+, SPACE 
+Average, ADJ 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+Laminar, PROPN 
+flows, VERB 
+related, ADJ 
+studies, NOUN 
+Kilham, PROPN 
+1949, NUM 
+Jackson, PROPN 
+
+, SPACE 
+Kilham, PROPN 
+1956, NUM 
+measured, VERB 
+total, ADJ 
+radiative, VERB 
+heat, NOUN 
+fluxes, NOUN 
+
+, SPACE 
+convective, ADJ 
+heat, NOUN 
+transfer, NOUN 
+calculated, VERB 
+subtracting, VERB 
+
+, SPACE 
+radiation, NOUN 
+total, ADJ 
+flux, NOUN 
+Kilham, PROPN 
+studied, VERB 
+air, NOUN 
+CO, PROPN 
+flames, NOUN 
+
+, SPACE 
+convection, NOUN 
+correlated, VERB 
+
+, SPACE 
+7~, PROPN 
+3, NUM 
+q~, PROPN 
+=, X 
+~bb, NOUN 
+l~, NUM 
+°, NUM 
+r, NOUN 
+0.35, NUM 
++, NUM 
+0.47, NUM 
+~, PUNCT 
+eb'52)}(te, X 
+t, PROPN 
+w, PROPN 
+4a, PROPN 
+
+, SPACE 
+Jackson, PROPN 
+Kilham, PROPN 
+studied, VERB 
+air, NOUN 
+H, PROPN 
+2, NUM 
+O2, PROPN 
+H, PROPN 
+2, NUM 
+Oa, PROPN 
+CO, PROPN 
+flames, NOUN 
+convection, NOUN 
+correlated, VERB 
+
+, SPACE 
+------O3, PUNCT 
+q~, NOUN 
+=, X 
+Pr, PROPN 
+0.35, NUM 
++, NUM 
+0.50, NUM 
+~, PUNCT 
+ebSa)}(t, PROPN 
+e, PROPN 
+t, PROPN 
+w, PROPN 
+
+, SPACE 
+ab, PROPN 
+4b, PROPN 
+
+, SPACE 
+equations, NOUN 
+valid, ADJ 
+60, NUM 
+<, X 
+b, NOUN 
+<, X 
+230, NUM 
+constant, ADJ 
+
+, SPACE 
+multiplying, VERB 
+b, NOUN 
+varied, ADJ 
+slightly, ADV 
+studies, NOUN 
+McAdams, PROPN 
+
+, SPACE 
+1954, NUM 
+correlation, NOUN 
+geometry, NOUN 
+nonreacting, VERB 
+jet, NOUN 
+
+, SPACE 
+impingement, ADJ 
+multiplier, ADJ 
+0.56, NUM 
+Oa, PROPN 
+H, PROPN 
+z, PROPN 
+O2, PROPN 
+CO, PROPN 
+
+, SPACE 
+flames, NOUN 
+Jackson, PROPN 
+Kilham, PROPN 
+study, NOUN 
+
+, SPACE 
+significant, ADJ 
+quantities, NOUN 
+dissociated, VERB 
+species, NOUN 
+TCHR, PROPN 
+
+, SPACE 
+important, ADJ 
+discussed, VERB 
+TCHR, PROPN 
+
+, SPACE 
+present, ADJ 
+included, VERB 
+Equation, PROPN 
+4b, PROPN 
+
+, SPACE 
+larger, ADJ 
+difference, NOUN 
+Equations, PROPN 
+4a, PROPN 
+b, PROPN 
+expected, VERB 
+
+, SPACE 
+TCHR, PROPN 
+significant, ADJ 
+
+, SPACE 
+Laminar, PROPN 
+turbulent, ADJ 
+flows, NOUN 
+Hustad, PROPN 
+co, NOUN 
+workers, NOUN 
+1991, NUM 
+
+, SPACE 
+measured, VERB 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+radiation, NOUN 
+heat, NOUN 
+flux, NOUN 
+as-, AUX 
+
+, SPACE 
+sumed, VERB 
+uniformly, ADV 
+distributed, VERB 
+cylinder, NOUN 
+
+, SPACE 
+forced, VERB 
+convection, NOUN 
+calculated, VERB 
+subtracting, VERB 
+calculated, VERB 
+
+, SPACE 
+radiation, NOUN 
+measured, ADJ 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+turbulent, ADJ 
+
+, SPACE 
+intensity, NOUN 
+2, NUM 
+best, ADJ 
+fit, NOUN 
+data, NOUN 
+given, VERB 
+
+, SPACE 
+q~, PROPN 
+=, SYM 
+d~, PROPN 
+0"23Re, NUM 
+°, NUM 
+~6Pre, NOUN 
+°, NOUN 
+35Tu, NUM 
+°, NOUN 
+'lS, PROPN 
+Pre, PROPN 
+~0.25~, NOUN 
+
+, SPACE 
+~-P, X 
+~, PUNCT 
+r, NOUN 
+, SPACE 
+te, NOUN 
+tw, PROPN 
+5, X 
+
+, SPACE 
+Flow, NOUN 
+type, NOUN 
+unspecified, ADJ 
+Fells, PROPN 
+Harker, PROPN 
+1968, NUM 
+empirically, ADV 
+
+, SPACE 
+determined, VERB 
+
+, SPACE 
+=, PROPN 
+
+, SPACE 
+d~, PROPN 
+~----------------0.5~, PROPN 
+q, PROPN 
+=, PROPN 
+0.573, NUM 
+0.0179, NUM 
+lj)l~, PROPN 
+b, PROPN 
+t, PROPN 
+e, PROPN 
+t~, PROPN 
+6, NUM 
+
+, SPACE 
+C3H, PROPN 
+s, PART 
+flames, NOUN 
+correlated, VERB 
+experimental, ADJ 
+data, NOUN 
+
+, SPACE 
+10, NUM 
+Davies, NOUN 
+1979, NUM 
+calculated, VERB 
+forced, VERB 
+convection, NOUN 
+heat, NOUN 
+trans-, X 
+
+, SPACE 
+fer, NOUN 
+equation, NOUN 
+developed, VERB 
+Conolly, PROPN 
+Davies, PROPN 
+1972, NUM 
+
+, SPACE 
+390, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+4, NUM 
+August, PROPN 
+1996, NUM 
+
+
+, SPACE 
+Flame, PROPN 
+impingement, VERB 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+B., PROPN 
+Gebhart, PROPN 
+
+, SPACE 
+water, NOUN 
+cooled, VERB 
+tube, NOUN 
+cross, ADJ 
+flow, ADJ 
+
+, SPACE 
+q~, NOUN 
+=, SYM 
+¢/db){1.32~', PROPN 
+°, NOUN 
+r, NOUN 
+4i, NUM 
+~, PUNCT 
+eb'5, NOUN 
+te, PROPN 
+t~, PROPN 
+7, X 
+
+, SPACE 
+Average, ADJ 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+thermochemical, ADJ 
+
+, SPACE 
+heat, NOUN 
+release, NOUN 
+Flames, PROPN 
+impinging, VERB 
+normal, ADJ 
+hemi, ADJ 
+nosed, ADJ 
+cylinder, NOUN 
+
+, SPACE 
+pertains, VERB 
+cylinders, NOUN 
+axis, NOUN 
+parallel, ADJ 
+flame, NOUN 
+
+, SPACE 
+shown, VERB 
+Figure, PROPN 
+3, NUM 
+end, NOUN 
+cylinder, NOUN 
+hemispherical, ADJ 
+
+, SPACE 
+nose, NOUN 
+flame, NOUN 
+impinges, NOUN 
+nose, NOUN 
+Experimental, ADJ 
+conditions, NOUN 
+
+, SPACE 
+studies, NOUN 
+given, VERB 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+Local, ADJ 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+Flow, NOUN 
+type, NOUN 
+unspecified, ADJ 
+Davies, NOUN 
+1965, NUM 
+correlated, VERB 
+heat, NOUN 
+flux, NOUN 
+
+, SPACE 
+data, NOUN 
+equation, NOUN 
+McAdams, PROPN 
+1954, NUM 
+assuming, VERB 
+Pr, PROPN 
+=, NOUN 
+0.7, NUM 
+
+, SPACE 
+=, X 
+¢, PROPN 
+~------------0.466, PUNCT 
+~, PUNCT 
+q~, NOUN 
++, NOUN 
+TCHR, PROPN 
+=, PROPN 
+k, PROPN 
+db)[O'615]~b, ADJ 
+I(t, PROPN 
+t~, PROPN 
+8), NUM 
+Laminar, PROPN 
+turbulent, ADJ 
+flows, NOUN 
+Fairweather, PROPN 
+et, PROPN 
+al, PROPN 
+1984, NUM 
+cor-, VERB 
+
+, SPACE 
+related, VERB 
+experimental, ADJ 
+data, NOUN 
+laminar, NOUN 
+turbulent, ADJ 
+flames, NOUN 
+
+, SPACE 
+correlations, NOUN 
+modifications, NOUN 
+empirical, ADJ 
+equations, NOUN 
+
+, SPACE 
+derived, VERB 
+heat, NOUN 
+transfer, NOUN 
+stagnation, NOUN 
+point, NOUN 
+
+, SPACE 
+heated, VERB 
+spheres, NOUN 
+turbulent, ADJ 
+air, NOUN 
+flows, NOUN 
+Galloway, NOUN 
+Sage, PROPN 
+1968, NUM 
+
+, SPACE 
+recommended, VERB 
+following, VERB 
+equations, NOUN 
+nonreacting, NOUN 
+flows, NOUN 
+
+, SPACE 
+Average, ADJ 
+radiation, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+Laminar, PROPN 
+turbulent, ADJ 
+flows, NOUN 
+Hustad, PROPN 
+co, NOUN 
+workers, NOUN 
+1991, NUM 
+
+, SPACE 
+studies, VERB 
+pure, ADJ 
+diffusion, NOUN 
+flames, NOUN 
+radiation, NOUN 
+CH, PROPN 
+4, NUM 
+flames, NOUN 
+
+, SPACE 
+given, VERB 
+
+, SPACE 
+q/~,rad, PROPN 
+=, SYM 
+5, NUM 
++, SYM 
+3.9(1/, NUM 
+--Xiiftof, PUNCT 
+f, X 
+kW, PROPN 
+m, PROPN 
+z, PROPN 
+9a, PROPN 
+
+, SPACE 
+radiation, NOUN 
+C3H, PROPN 
+8, NUM 
+flames, NOUN 
+given, VERB 
+
+, SPACE 
+q~,rad, ADJ 
+=, VERB 
+10, NUM 
++, SYM 
+7.8(lj, NUM 
+Xlirtof, PROPN 
+f, PROPN 
+kW, PROPN 
+m, PROPN 
+z, PROPN 
+9b, PROPN 
+
+, SPACE 
+based, VERB 
+analytical, ADJ 
+model, NOUN 
+flame, NOUN 
+
+, SPACE 
+radiating, VERB 
+cylinder, NOUN 
+liftoff, NOUN 
+distance, NOUN 
+Xliftoff, PROPN 
+length, NOUN 
+be-, X 
+
+, SPACE 
+tween, VERB 
+nozzle, NOUN 
+start, NOUN 
+flame, NOUN 
+length, NOUN 
+lj, X 
+-xliftof, PROPN 
+f, PROPN 
+
+, SPACE 
+termed, VERB 
+radiation, NOUN 
+height, NOUN 
+conventional, ADJ 
+burner, NOUN 
+
+, SPACE 
+Xliftof, PROPN 
+f, PROPN 
+zero, NUM 
+flame, NOUN 
+attached, VERB 
+nozzle, NOUN 
+exit, NOUN 
+
+, SPACE 
+distances, NOUN 
+Equations, PROPN 
+9a, PROPN 
+b, NUM 
+meters, NOUN 
+
+, SPACE 
+studies, NOUN 
+fuel, NOUN 
+gas, NOUN 
+velocities, NOUN 
+nozzle, NOUN 
+outlet, NOUN 
+Ma, PROPN 
+>, X 
+0.3, NUM 
+
+, SPACE 
+equates, VERB 
+minimum, NOUN 
+outlet, NOUN 
+velocity, NOUN 
+134, NUM 
+82, NUM 
+m, PROPN 
+s, PROPN 
+
+, SPACE 
+CH, PROPN 
+4, NUM 
+C3H8, PROPN 
+respectively, ADV 
+burning, VERB 
+velocity, NOUN 
+air, NOUN 
+CH, PROPN 
+4, NUM 
+
+, SPACE 
+C3H, PROPN 
+8, NUM 
+0.37, NUM 
+0.41, NUM 
+m, PROPN 
+s, PROPN 
+respectively, ADV 
+lewis, NOUN 
+von, PROPN 
+Elbe, PROPN 
+
+, SPACE 
+1987, NUM 
+flames, NOUN 
+attached, VERB 
+burner, NOUN 
+
+, SPACE 
+exit, NOUN 
+velocities, NOUN 
+higher, ADJ 
+flame, NOUN 
+speed, NOUN 
+
+, SPACE 
+produced, VERB 
+called, VERB 
+unattached, ADJ 
+lifted, VERB 
+flame, NOUN 
+flame, NOUN 
+
+, SPACE 
+starts, VERB 
+local, ADJ 
+gas, NOUN 
+velocity, NOUN 
+flame, NOUN 
+speed, NOUN 
+
+, SPACE 
+Maximum, ADJ 
+convection, NOUN 
+radiation, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+Turbulent, PROPN 
+flows, NOUN 
+Hustad, PROPN 
+et, PROPN 
+al, PROPN 
+1992, NUM 
+correlated, VERB 
+experi-, NUM 
+
+, SPACE 
+mental, ADJ 
+data, NOUN 
+
+, SPACE 
+n, NOUN 
+d, NOUN 
+q, NOUN 
++, PUNCT 
+ra, PROPN 
+=, NOUN 
+20q~, NOUN 
+3, NUM 
+kW, PROPN 
+10, NUM 
+
+, SPACE 
+based, VERB 
+thermal, ADJ 
+input, NOUN 
+qf=, PROPN 
+60, NUM 
+1600, NUM 
+kW., PROPN 
+location, NOUN 
+
+, SPACE 
+maximum, ADJ 
+heat, NOUN 
+flux, NOUN 
+center, NOUN 
+flame, NOUN 
+pure, ADJ 
+
+, SPACE 
+fuel, NOUN 
+jets, NOUN 
+significant, ADJ 
+quantities, NOUN 
+unburned, ADJ 
+
+, SPACE 
+fuel, NOUN 
+target, NOUN 
+impingement, ADJ 
+point, NOUN 
+TCHR, PROPN 
+
+, SPACE 
+important, ADJ 
+included, VERB 
+
+, SPACE 
+correlation, NOUN 
+Nus, PROPN 
+e, NOUN 
+=, PUNCT 
+1.255Re, NUM 
+°, NOUN 
+~5~(Reb, NOUN 
+eTu, NOUN 
+°, NUM 
+°, NUM 
+214, NUM 
+
+, SPACE 
+Nus, PROPN 
+e, NOUN 
+=, X 
+1.128Re, PROPN 
+°, X 
+iSe(Reb, PROPN 
+eTu, NOUN 
+°, NUM 
+2838, NUM 
+Reb, PROPN 
+eTu, PROPN 
+<, X 
+7000, NUM 
+
+, SPACE 
+lla, NOUN 
+
+, SPACE 
+Reb, PROPN 
+eTu, PROPN 
+>, X 
+7000, NUM 
+
+, SPACE 
+11b, NUM 
+
+, SPACE 
+Fairweather, PROPN 
+modifications, NOUN 
+equations, NOUN 
+
+, SPACE 
+q, NOUN 
+=, NOUN 
+1.743(Reh, PROPN 
+eTu, NOUN 
+0"0214, PROPN 
+PelgeCpe, PROPN 
+~, PUNCT 
+t, PROPN 
+w, PROPN 
+ReO:5, PROPN 
+~te-, PUNCT 
+12, NUM 
+
+, SPACE 
+Gostkowski, PROPN 
+Costello, PROPN 
+1970, NUM 
+recommended, VERB 
+following, ADJ 
+
+, SPACE 
+equation, NOUN 
+nonreacting, NOUN 
+flows, NOUN 
+
+, SPACE 
+0.16, NUM 
+De, PROPN 
+Nus, PROPN 
+e, NOUN 
+=, NOUN 
+2, NUM 
++, SYM 
+1.849, NUM 
++, CCONJ 
+0.2122Tu(Tu, NUM 
+0.1072, NUM 
+
+, SPACE 
+Uw, PROPN 
+
+, SPACE 
+1/2, NUM 
+1/6, NUM 
+K~,=I/2, NOUN 
+DvI/3, PROPN 
++, PROPN 
+0.001317]Reb, PROPN 
+e, NOUN 
+Pre, PROPN 
+f''~b, PROPN 
+e''e, PROPN 
+13, NUM 
+
+, SPACE 
+Fairweather, PROPN 
+recommended, VERB 
+following, VERB 
+modification, NOUN 
+Equa-, ADJ 
+
+, SPACE 
+tion, NOUN 
+13, NUM 
+laminar, NOUN 
+turbulent, ADJ 
+flames, NOUN 
+
+, SPACE 
+0.16, NUM 
+2, NUM 
+1.1849, NUM 
+u, NOUN 
+e, NOUN 
++, SYM 
+q~,conv, NOUN 
+=, ADJ 
+peUeCpe, NOUN 
+PreReb, PROPN 
+e, NOUN 
+D,2/3~1/2, PROPN 
+ti, NOUN 
+e, NOUN 
+lX, NUM 
+~, SYM 
+b, PROPN 
+e, PROPN 
+U, PROPN 
+w, NOUN 
+
+, SPACE 
++, CCONJ 
+0.2122Tu(Tu, NUM 
+0.1072, NUM 
++, CCONJ 
+0.001317]Pr~, NOUN 
+t/, NOUN 
+
+, SPACE 
+×(t, PROPN 
+e, NOUN 
+-t, PROPN 
+w, PROPN 
+14, NUM 
+
+, SPACE 
+Equations, PROPN 
+12, NUM 
+14, NUM 
+tended, VERB 
+overpredict, VERB 
+experimen-, PROPN 
+
+, SPACE 
+tal, PROPN 
+data, NOUN 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+Experimental, ADJ 
+conditions, NOUN 
+flames, NOUN 
+impinging, VERB 
+normal, ADJ 
+hemi, ADJ 
+nosed, ADJ 
+cylinders, NOUN 
+
+, SPACE 
+Heat, NOUN 
+transfer, NOUN 
+mechanisms, NOUN 
+
+, SPACE 
+Location, PROPN 
+Forced, PROPN 
+cony, NOUN 
+TCHR, PROPN 
+Radiation, PROPN 
+Oxidizer, PROPN 
+Ren, PROPN 
+~b, PUNCT 
+Fuel, PROPN 
+Reference, PROPN 
+
+, SPACE 
+Local, PROPN 
+~/, PROPN 
+air, NOUN 
+laminar, PROPN 
+0.943, NUM 
+1.171, NUM 
+
+, SPACE 
+turbulent, VERB 
+
+, SPACE 
+~/, NOUN 
+air, NOUN 
+2000, NUM 
+12,000, NUM 
+0.8, NUM 
+1.2, NUM 
+
+, SPACE 
+~/, PROPN 
+~/, PROPN 
+02, NUM 
+given, VERB 
+0.95, NUM 
+CH4, PROPN 
+
+, SPACE 
+CH4, PROPN 
+
+, SPACE 
+natural, ADJ 
+gas, NOUN 
+Fairweather, PROPN 
+et, PROPN 
+al, PROPN 
+1984, NUM 
+
+, SPACE 
+Hargrave, PROPN 
+et, PROPN 
+al, PROPN 
+1987, NUM 
+
+, SPACE 
+Ivernel, PROPN 
+Vernotte, PROPN 
+1979, NUM 
+
+, SPACE 
+aAccording, PROPN 
+author, NOUN 
+qualitative, ADJ 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+4, NUM 
+August, PROPN 
+1996, NUM 
+391, NUM 
+
+
+, SPACE 
+Flame, PROPN 
+impingement, VERB 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+B., PROPN 
+Gebhart, PROPN 
+
+, SPACE 
+Turbulent, PROPN 
+flows, NOUN 
+Hargrave, VERB 
+et, PROPN 
+al, PROPN 
+1987, NUM 
+recommended, VERB 
+
+, SPACE 
+following, VERB 
+empirical, ADJ 
+correlation, NOUN 
+
+, SPACE 
+q~, PROPN 
+=, PROPN 
+~-b, PROPN 
+t, PROPN 
+i~--~, X 
+0.993, NUM 
++, NUM 
+5.465, NUM 
+100, NUM 
+
+, SPACE 
+~0.5, X 
+2"]'~, NUM 
+
+, SPACE 
+TuRe, PROPN 
+ , SPACE 
+-2.375, PUNCT 
+100, NUM 
+JJ, PROPN 
+te, PROPN 
+tw, X 
+15, X 
+
+, SPACE 
+underpredicted, VERB 
+data, NOUN 
+15, NUM 
+near, ADP 
+reaction, NOUN 
+
+, SPACE 
+zone, NOUN 
+Agreement, NOUN 
+good, ADJ 
+downstream, NOUN 
+
+, SPACE 
+Local, ADJ 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+thermochemical, ADJ 
+
+, SPACE 
+heat, NOUN 
+release, NOUN 
+
+, SPACE 
+Turbulent, PROPN 
+flows, NOUN 
+Ivernel, NOUN 
+Vernotte, PROPN 
+1979, NUM 
+determined, VERB 
+
+, SPACE 
+k, PROPN 
+w, PROPN 
+t, PROPN 
+r, NOUN 
+~, NOUN 
+t0"853Re'b,~P--, NUM 
+°, NUM 
+4~, NUM 
+r, NOUN 
+h~, PROPN 
+H, PROPN 
+
+, SPACE 
+QS, PROPN 
+COnV+, PROPN 
+TCHR, PROPN 
+=, VERB 
+
+, SPACE 
+Cpw, PROPN 
+16, NUM 
+
+, SPACE 
+valid, ADJ 
+1000, NUM 
+<, X 
+r, NOUN 
+w, NOUN 
+<, X 
+45000, NUM 
+Equation, NOUN 
+16, NUM 
+correlated, VERB 
+b., PROPN 
+
+, SPACE 
+experimental, ADJ 
+data, NOUN 
+10, NUM 
+flow, NOUN 
+conditions, NOUN 
+
+, SPACE 
+given, VERB 
+believed, VERB 
+turbulent, ADJ 
+
+, SPACE 
+based, VERB 
+comparison, NOUN 
+reported, VERB 
+velocities, NOUN 
+
+, SPACE 
+studies, NOUN 
+Baukal, PROPN 
+Gebhart, PROPN 
+1995, NUM 
+Radiation, NOUN 
+
+, SPACE 
+target, NOUN 
+calculated, VERB 
+specifically, ADV 
+excluded, VERB 
+
+, SPACE 
+correlation, NOUN 
+
+, SPACE 
+Flames, NOUN 
+impinging, VERB 
+normal, ADJ 
+plane, NOUN 
+surface, NOUN 
+
+, SPACE 
+geometry, NOUN 
+shown, VERB 
+Figure, PROPN 
+1, NUM 
+targets, NOUN 
+included, VERB 
+
+, SPACE 
+disks, NOUN 
+rectangular, ADJ 
+plates, NOUN 
+experimental, ADJ 
+conditions, NOUN 
+
+, SPACE 
+given, VERB 
+Table, PROPN 
+3, NUM 
+
+, SPACE 
+Local, ADJ 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+Laminar, PROPN 
+flows, VERB 
+related, ADJ 
+studies, NOUN 
+Hoogendoorn, PROPN 
+et, PROPN 
+al, PROPN 
+1978, NUM 
+
+, SPACE 
+Popiel, PROPN 
+et, PROPN 
+al, PROPN 
+1980, NUM 
+determined, VERB 
+empirical, ADJ 
+correlations, NOUN 
+heat, NOUN 
+transfer, NOUN 
+stagnation, NOUN 
+point, NOUN 
+based, VERB 
+
+, SPACE 
+axial, ADJ 
+distance, NOUN 
+target, NOUN 
+burner, NOUN 
+
+, SPACE 
+correlation, NOUN 
+2, NUM 
+<, X 
+L, PROPN 
+<, PROPN 
+5, NUM 
+
+, SPACE 
+s, VERB 
+s, PART 
+kref, ADJ 
+05, NUM 
+04, NUM 
+hw, PRON 
+
+, SPACE 
+q~, NOUN 
+=, X 
+~, PUNCT 
+0.65, NUM 
++, NUM 
+0.084L)Ren~, NUM 
+ref, PROPN 
+Prre'f, PROPN 
+
+, SPACE 
+Cpref, PROPN 
+17a, PROPN 
+
+, SPACE 
+correlation, NOUN 
+L, PROPN 
+>, X 
+12, NUM 
+
+, SPACE 
+h, PROPN 
+s, PROPN 
+s, NOUN 
+
+, SPACE 
+=, PROPN 
+1.8L, NOUN 
+10, NUM 
+fPrre, PROPN 
+f, PROPN 
+qs, PROPN 
+co, NOUN 
+~, NOUN 
+v, PROPN 
+1.37, NUM 
+-3, SYM 
+0, NUM 
+75, NUM 
+0, NUM 
+4, NUM 
+e, NOUN 
+h~, PROPN 
+
+, SPACE 
+Cp, PROPN 
+ref, NOUN 
+176, NUM 
+
+, SPACE 
+correlations, NOUN 
+closely, ADV 
+matched, VERB 
+data, NOUN 
+5, NUM 
+<, X 
+L, PROPN 
+<, PROPN 
+12, NUM 
+
+, SPACE 
+data, NOUN 
+showed, VERB 
+peak, NOUN 
+Nu, PROPN 
+correlation, NOUN 
+given, VERB 
+
+, SPACE 
+modified, VERB 
+form, NOUN 
+semi, ADJ 
+analytic, ADJ 
+solution, NOUN 
+determined, VERB 
+
+, SPACE 
+form, NOUN 
+equation, NOUN 
+recommended, VERB 
+Sibulkin, PROPN 
+1952, NUM 
+
+, SPACE 
+Sibulkin, PROPN 
+equation, NOUN 
+variations, NOUN 
+discussed, VERB 
+
+, SPACE 
+Baukal, PROPN 
+Gebhart, PROPN 
+1996, NUM 
+modified, ADJ 
+correlation, NOUN 
+
+, SPACE 
+kre, PROPN 
+f, PROPN 
+h, PROPN 
+s, X 
+h, PROPN 
+s, PROPN 
+
+, SPACE 
+=, SYM 
+l"en, PROPN 
+f, PROPN 
+lrref, PROPN 
+J, PROPN 
+q, PROPN 
+d, PROPN 
+2.37(L+, NUM 
+lh-0"5]D, PROPN 
+0.5, NUM 
+D, NOUN 
+0.41, NUM 
+e, NOUN 
+17c, PROPN 
+
+, SPACE 
+Cpref, PROPN 
+
+, SPACE 
+valid, ADJ 
+8, NUM 
+<, NOUN 
+L, PROPN 
+<, X 
+20, NUM 
+underpredicted, VERB 
+data, NOUN 
+
+, SPACE 
+60, NUM 
+believed, VERB 
+caused, VERB 
+failure, NOUN 
+
+, SPACE 
+include, VERB 
+effects, NOUN 
+free, ADJ 
+jet, NOUN 
+turbulence, NOUN 
+correlation, NOUN 
+
+, SPACE 
+recommended, VERB 
+included, VERB 
+effects, NOUN 
+
+, SPACE 
+ql, PROPN 
+=, X 
+d, X 
+n, CCONJ 
+/[(L+l, PROPN 
+°, NOUN 
+ , SPACE 
+Z'Ze, PROPN 
+t, PROPN 
+1, NUM 
+6, NUM 
+6, NUM 
+
+, SPACE 
+TuRe, PROPN 
+reft2, NOUN 
+s, NOUN 
+0.5, NUM 
+0.4, NUM 
+-hw, PROPN 
+2.76, NUM 
+100, NUM 
+Ren, PROPN 
+ref, PROPN 
+Prref, PROPN 
+Cp, PROPN 
+~, PROPN 
+ef, PROPN 
+17d, NOUN 
+
+, SPACE 
+valid, ADJ 
+L, PROPN 
+>, X 
+8, NUM 
+compared, VERB 
+favorably, ADV 
+data, NOUN 
+
+, SPACE 
+L, PROPN 
+>, X 
+4, NUM 
+maximum, ADJ 
+heat, NOUN 
+flux, NOUN 
+occurred, VERB 
+stagnation, NOUN 
+point, NOUN 
+
+, SPACE 
+Table, NOUN 
+3, NUM 
+Experimental, ADJ 
+conditions, NOUN 
+flames, NOUN 
+impinging, VERB 
+normal, ADJ 
+plane, NOUN 
+surfaces, NOUN 
+
+, SPACE 
+Heat, NOUN 
+transfer, NOUN 
+mechanisms, NOUN 
+
+, SPACE 
+Location, PROPN 
+Forced, VERB 
+conv, ADJ 
+TCHR, PROPN 
+Radiation, PROPN 
+Oxidizer, PROPN 
+n, CCONJ 
+~b, PROPN 
+Fuel(s, PROPN 
+Reference, PROPN 
+
+, SPACE 
+Local, PROPN 
+~/, PROPN 
+air, NOUN 
+1050, NUM 
+1860, NUM 
+1.0, NUM 
+
+, SPACE 
+~/, PROPN 
+air, NOUN 
+O, NOUN 
+2, NUM 
+857, NUM 
+2000, NUM 
+0.61, NUM 
+
+, SPACE 
+~/, PROPN 
+air, NOUN 
+1500, NUM 
+19,000, NUM 
+0.67, NUM 
+0.95, NUM 
+
+, SPACE 
+~/, NOUN 
+air, NOUN 
+17,680, NUM 
+22,700, NUM 
+2.75, NUM 
+
+, SPACE 
+v, ADP 
+air, NOUN 
+turbulent, ADJ 
+1.0, NUM 
+
+, SPACE 
+~/, PROPN 
+air, NOUN 
+turbulent, PROPN 
+given, VERB 
+
+, SPACE 
+~/, PROPN 
+air, NOUN 
+turbulent, ADJ 
+0.95, NUM 
+
+, SPACE 
+~/, PROPN 
+air, PROPN 
+O2, PROPN 
+
+, SPACE 
+~/, PROPN 
+air, PROPN 
+laminar, PROPN 
+1.33, NUM 
+1.67, NUM 
+
+, SPACE 
+~/, PROPN 
+~/, PROPN 
+0, NUM 
+2, NUM 
+1.0, NUM 
+
+, SPACE 
+~/, NOUN 
+0, NUM 
+2, NUM 
+1.0, NUM 
+1.43, NUM 
+
+, SPACE 
+~/, PROPN 
+~/, PROPN 
+02, NUM 
+2.34, NUM 
+
+, SPACE 
+~/, PROPN 
+~/, PROPN 
+02, NUM 
+300, NUM 
+1200, NUM 
+0.83, NUM 
+1.0, NUM 
+
+, SPACE 
+~/, PROPN 
+~/, PROPN 
+0, NUM 
+2, NUM 
+turbulent, VERB 
+1.0, NUM 
+
+, SPACE 
+Average, PROPN 
+~/, PROPN 
+air, NOUN 
+70, NUM 
+356, NUM 
+
+, SPACE 
+~/, PROPN 
+air, NOUN 
+1500, NUM 
+19,000, NUM 
+0.67, NUM 
+0.95, NUM 
+natural, ADJ 
+gas, NOUN 
+
+, SPACE 
+CH4, PROPN 
+
+, SPACE 
+town, NOUN 
+gas+, PROPN 
+
+, SPACE 
+CH4, PROPN 
+
+, SPACE 
+natural, ADJ 
+gas, NOUN 
+
+, SPACE 
+coke, PROPN 
+oven, ADJ 
+gas, NOUN 
+
+, SPACE 
+natural, ADJ 
+gas, NOUN 
+
+, SPACE 
+CH4, PROPN 
+
+, SPACE 
+H2, PROPN 
+
+, SPACE 
+C3H8, PROPN 
+
+, SPACE 
+C2H2, PROPN 
+
+, SPACE 
+C3Hs+C4Hlo, PROPN 
+
+, SPACE 
+C3H8, PROPN 
+
+, SPACE 
+natural, ADJ 
+gas, NOUN 
+
+, SPACE 
+town, NOUN 
+gas, NOUN 
++, CCONJ 
+Hoogendoorn, PROPN 
+et, PROPN 
+al, PROPN 
+1978, NUM 
+
+, SPACE 
+Popiel, PROPN 
+et, PROPN 
+al, PROPN 
+1980, NUM 
+
+, SPACE 
+Kataoka, PROPN 
+et, PROPN 
+al, PROPN 
+1984, NUM 
+
+, SPACE 
+Shorin, PROPN 
+Pechurkin, PROPN 
+1968, NUM 
+
+, SPACE 
+Buhr, PROPN 
+et, PROPN 
+al, PROPN 
+1973, NUM 
+
+, SPACE 
+Kremet, PROPN 
+et, PROPN 
+al, PROPN 
+1974, NUM 
+
+, SPACE 
+Smith, PROPN 
+Lowes, PROPN 
+1974, NUM 
+
+, SPACE 
+Matsuo, PROPN 
+et, PROPN 
+al, PROPN 
+1978, NUM 
+
+, SPACE 
+Vizioz, PROPN 
+Lewes, PROPN 
+1971, NUM 
+
+, SPACE 
+Anderson, PROPN 
+Stresino, PROPN 
+1963, NUM 
+
+, SPACE 
+Shorin, PROPN 
+Pechurkin, PROPN 
+1968, NUM 
+
+, SPACE 
+Rauenzahn, PROPN 
+1986, NUM 
+
+, SPACE 
+1985, NUM 
+
+, SPACE 
+Shorin, PROPN 
+Pechurkin, PROPN 
+1968, NUM 
+
+, SPACE 
+aCalculated, PROPN 
+data, NOUN 
+reference, NOUN 
+
+, SPACE 
+392, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+VoI., NOUN 
+17, NUM 
+4, NUM 
+August, PROPN 
+1996, NUM 
+
+
+, SPACE 
+Flame, PROPN 
+impingement, VERB 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+B., PROPN 
+Gebhart, PROPN 
+
+, SPACE 
+L, NOUN 
+=, SYM 
+2, NUM 
+3, NUM 
+maximum, ADJ 
+flux, NOUN 
+occurred, VERB 
+R, NOUN 
+=, SYM 
+0.5, NUM 
+
+, SPACE 
+0.2, NUM 
+respectively, ADV 
+Kataoka, PROPN 
+et, PROPN 
+al, PROPN 
+1984, NUM 
+studied, VERB 
+
+, SPACE 
+air, NOUN 
+O2, PROPN 
+CH, PROPN 
+4, NUM 
+1~, NUM 
+=, SYM 
+0.39, NUM 
+flame, NOUN 
+heat, NOUN 
+transfer, NOUN 
+stagna-, ADJ 
+
+, SPACE 
+tion, NOUN 
+point, NOUN 
+correlated, VERB 
+
+, SPACE 
+ke, PROPN 
+tt, PROPN 
+
+, SPACE 
+qs, X 
+conv, ADJ 
+=, NOUN 
+2rl/2v, PROPN 
+1.44Re2, NUM 
+°, NUM 
+~/, PROPN 
+prO5, PROPN 
+L, NOUN 
+-X~), X 
+°, NOUN 
+"2}(te, NUM 
+G, NOUN 
+18a, NOUN 
+
+, SPACE 
+rl/2v, VERB 
+radius, NOUN 
+burner, NOUN 
+axis, NOUN 
+near, ADP 
+stagnation, NOUN 
+point, NOUN 
+
+, SPACE 
+velocity, NOUN 
+1/2, NUM 
+velocity, NOUN 
+axis, NOUN 
+
+, SPACE 
+symmetry, NOUN 
+correlation, NOUN 
+valid, ADJ 
+L, PROPN 
+>, X 
+X, PROPN 
+X, PROPN 
+
+, SPACE 
+correlated, VERB 
+
+, SPACE 
+X, PROPN 
+=, PROPN 
+2.82(p,/p, PROPN 
+°, NOUN 
+29Ren, NOUN 
+°, NOUN 
+°, NUM 
+xT_0, PUNCT 
+18b, NUM 
+
+, SPACE 
+subsequent, ADJ 
+study, NOUN 
+Kataoka, PROPN 
+1985, NUM 
+found, VERB 
+maximum, ADJ 
+heat, NOUN 
+
+, SPACE 
+flux, NOUN 
+flame, NOUN 
+occurred, VERB 
+L, PROPN 
+=, PROPN 
+X, PROPN 
+
+, SPACE 
+Turbulent, ADJ 
+flows, NOUN 
+Shorin, PROPN 
+Pechurkin, PROPN 
+1968, NUM 
+empirically, ADV 
+de-, AUX 
+
+, SPACE 
+termined, VERB 
+
+, SPACE 
+ke, PROPN 
+02, NUM 
+
+, SPACE 
+q~, NOUN 
+=, X 
+--dT, PROPN 
+a., PROPN 
+O4R%, PROPN 
+~Pre, X 
+t, PROPN 
+e, NOUN 
+tw, PROPN 
+19a, NOUN 
+
+, SPACE 
+valid, ADJ 
+L, PROPN 
+<, X 
+X~, PROPN 
+correlation, NOUN 
+matched, VERB 
+experi-, NUM 
+
+, SPACE 
+mental, ADJ 
+data, NOUN 
+15, NUM 
+correlation, NOUN 
+given, VERB 
+
+, SPACE 
+heat, NOUN 
+flux, NOUN 
+L, PROPN 
+>, X 
+X, PROPN 
+
+, SPACE 
+NUs, NOUN 
+e(X, NOUN 
+v, NUM 
+<, X 
+L, PROPN 
+<, X 
+14, NUM 
+L, PROPN 
+Xv, PROPN 
+2, NUM 
+
+, SPACE 
+0.8e, NOUN 
+0.36, NUM 
+L, PROPN 
+19b, NOUN 
+
+, SPACE 
+NUs, NOUN 
+e(L, PROPN 
+<, X 
+Xt, PROPN 
+
+, SPACE 
+local, ADJ 
+heat, NOUN 
+transfer, NOUN 
+function, NOUN 
+R, NOUN 
+correlated, VERB 
+
+, SPACE 
+ke, PROPN 
+3.22ReO.apree-0.36, PROPN 
+L, PROPN 
+x'')2, PROPN 
+3, NUM 
+6, NUM 
+R, NOUN 
+G, NOUN 
+=, PRON 
+Rd, VERB 
+L, NOUN 
+Zf(t~--t~, PROPN 
+19C, NUM 
+
+, SPACE 
+0, NUM 
+<, X 
+R, NOUN 
+L, PROPN 
+<, X 
+0.9, NUM 
+X, NOUN 
+r, NOUN 
+<, X 
+L, PROPN 
+<, X 
+14, NUM 
+Vizioz, PROPN 
+Lewes, PROPN 
+1971, NUM 
+
+, SPACE 
+investigated, VERB 
+industrial, ADJ 
+scale, NOUN 
+air, NOUN 
+oxygen, NOUN 
+enriched, VERB 
+air, NOUN 
+I~, NOUN 
+=, X 
+
+, SPACE 
+0.30, NUM 
+natural, ADJ 
+gas, NOUN 
+flames, NOUN 
+impinging, VERB 
+cooled, VERB 
+flat, ADJ 
+plate, NOUN 
+targets, NOUN 
+
+, SPACE 
+located, VERB 
+inside, ADP 
+furnace, NOUN 
+different, ADJ 
+types, NOUN 
+flames, NOUN 
+
+, SPACE 
+levels, NOUN 
+swirl, NOUN 
+tested, VERB 
+data, NOUN 
+correlated, VERB 
+
+, SPACE 
+q/,conv, NOUN 
+=, PROPN 
+ke, PROPN 
+r, NOUN 
+Nur, PROPN 
+e}(te, NOUN 
+tw, PROPN 
+20a, NOUN 
+
+, SPACE 
+set, NOUN 
+tests, NOUN 
+surface, NOUN 
+temperature, NOUN 
+water, NOUN 
+cooled, VERB 
+
+, SPACE 
+steel, NOUN 
+flat, ADJ 
+plate, NOUN 
+maintained, VERB 
+373K., PROPN 
+convective, ADJ 
+heat, NOUN 
+
+, SPACE 
+flux, NOUN 
+function, NOUN 
+radius, NOUN 
+stagnation, NOUN 
+point, NOUN 
+valid, ADJ 
+17680, NUM 
+<, X 
+<, X 
+22700, NUM 
+13, NUM 
+<, X 
+L, NOUN 
+<, X 
+65, NUM 
+experi-, NUM 
+
+, SPACE 
+mental, ADJ 
+data, NOUN 
+correlated, VERB 
+9, NUM 
+peak, NOUN 
+flux, NOUN 
+
+, SPACE 
+measured, VERB 
+near, ADP 
+reaction, NOUN 
+zone, NOUN 
+heat, NOUN 
+flux, NOUN 
+showed, VERB 
+small, ADJ 
+
+, SPACE 
+linear, ADJ 
+decline, NOUN 
+probe, NOUN 
+surface, NOUN 
+temperature, NOUN 
+range, NOUN 
+
+, SPACE 
+320, NUM 
+1000K., PROPN 
+Smith, PROPN 
+Lewes, PROPN 
+1974, NUM 
+determined, VERB 
+following, VERB 
+
+, SPACE 
+empirical, ADJ 
+correlation, NOUN 
+
+, SPACE 
+n, CCONJ 
+0.54, NUM 
+0.52, NUM 
+q, NOUN 
+=, PROPN 
+ke, PROPN 
+lc){1.6Retc,~, PROPN 
+PG, PROPN 
+t~, PROPN 
+t~, PROPN 
+22, NUM 
+
+, SPACE 
+l~, PROPN 
+width, NOUN 
+cooling, VERB 
+channels, NOUN 
+correlation, NOUN 
+
+, SPACE 
+valid, ADJ 
+0, NUM 
+<, X 
+L, NOUN 
+<, X 
+8.4, NUM 
+fluid, ADJ 
+properties, NOUN 
+taken, VERB 
+
+, SPACE 
+air, NOUN 
+gas, NOUN 
+temperatures, NOUN 
+measured, VERB 
+near, ADP 
+plate, NOUN 
+axial, ADJ 
+
+, SPACE 
+velocity, NOUN 
+10, NUM 
+cm, NOUN 
+plate, NOUN 
+calculate, VERB 
+velocity, NOUN 
+
+, SPACE 
+Matsuo, PROPN 
+et, PROPN 
+al, PROPN 
+1978, NUM 
+determined, VERB 
+following, VERB 
+correla-, NOUN 
+
+, SPACE 
+tion, NOUN 
+heat, NOUN 
+flux, NOUN 
+stagnation, NOUN 
+point, NOUN 
+
+, SPACE 
+q, X 
+=, SYM 
+O.O10353(q~.936, NUM 
+L1.032)(t, PROPN 
+t, PROPN 
+23a, NOUN 
+
+, SPACE 
+correlation, NOUN 
+given, VERB 
+heat, NOUN 
+flux, NOUN 
+function, NOUN 
+
+, SPACE 
+distance, NOUN 
+r, NOUN 
+stagnation, NOUN 
+point, NOUN 
+
+, SPACE 
+6.318, NUM 
+
+, SPACE 
+q~, NOUN 
+=, NOUN 
+tq~'939, PROPN 
+K1K2L, NOUN 
+e, NOUN 
+lw, PROPN 
+23b, X 
+
+, SPACE 
+
+, SPACE 
+K, PROPN 
+1, NUM 
+=, NOUN 
+-1.903.10, PROPN 
+7r, PROPN 
+2, NUM 
++, CCONJ 
+3.89"10, PROPN 
+3r, NUM 
++, SYM 
+0.985, NUM 
+
+, SPACE 
+K, PROPN 
+2, NUM 
+=, NUM 
+8.42, NUM 
+10, NUM 
+7r, NUM 
+3, NUM 
+1.803.103r, NUM 
+2, NUM 
++, CCONJ 
+1.37r, NOUN 
++, NUM 
+5.00, NUM 
+23c, NUM 
+
+, SPACE 
+23d, NOUN 
+
+, SPACE 
+Equations, PROPN 
+23a, NOUN 
+b, X 
+valid, ADJ 
+5, NUM 
+<, X 
+L, NOUN 
+<, X 
+9, NUM 
+148, NUM 
+<, X 
+qf, X 
+<, X 
+482, NUM 
+
+, SPACE 
+Equation, NOUN 
+23b, NOUN 
+valid, ADJ 
+0, NUM 
+<, X 
+r, NOUN 
+<, X 
+500, NUM 
+r, NOUN 
+ram, NOUN 
+
+, SPACE 
+Local, ADJ 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+thermochemical, ADJ 
+
+, SPACE 
+heat, NOUN 
+release, NOUN 
+
+, SPACE 
+Laminar, PROPN 
+flows, VERB 
+Anderson, PROPN 
+Stresino, PROPN 
+1963, NUM 
+found, VERB 
+
+, SPACE 
+heat, NOUN 
+flux, NOUN 
+decreased, VERB 
+exponentially, ADV 
+R, NOUN 
+increased, VERB 
+
+, SPACE 
+4r, NUM 
+~, PUNCT 
+e, PROPN 
+e, PROPN 
+34, NUM 
+
+, SPACE 
+q~, NOUN 
+TCHR, PROPN 
+=, PROPN 
+q, NOUN 
++, NOUN 
+TCHR, PROPN 
+e-, X 
+dj, ADP 
+J, PROPN 
+24, NUM 
+
+, SPACE 
+qsr, NOUN 
+conv+TCHR, PROPN 
+measured, VERB 
+dj, ADV 
+estimated, VERB 
+
+, SPACE 
+flame, NOUN 
+diameter, NOUN 
+prior, ADV 
+impingement, ADJ 
+Shorin, PROPN 
+Pechurkin, PROPN 
+
+, SPACE 
+1968, NUM 
+found, VERB 
+C3H, PROPN 
+8, NUM 
++, CCONJ 
+C4H10, NOUN 
+flames, NOUN 
+
+, SPACE 
+T, NOUN 
+7, NUM 
+k, NOUN 
+e, NOUN 
+h~, PROPN 
+-h, PUNCT 
+w, PROPN 
+
+, SPACE 
+q~, NOUN 
++, NOUN 
+TCHR, PROPN 
+=, PUNCT 
+~7, X 
+7"8Re, NUM 
+°, NUM 
+;4ePre, PUNCT 
+b7, PROPN 
+p, NOUN 
+25, NUM 
+
+, SPACE 
+L, PROPN 
+<, X 
+X~, PROPN 
+correlated, VERB 
+data, NOUN 
+10, NUM 
+
+, SPACE 
+0, NUM 
+07Re, NOUN 
+°, NUM 
+~Se, X 
+<, X 
+Nut, PROPN 
+e, PROPN 
+<, X 
+0"22Rer, PROPN 
+e, PROPN 
+20b, NOUN 
+
+, SPACE 
+set, NOUN 
+tests, NOUN 
+surface, NOUN 
+temperature, NOUN 
+air, NOUN 
+cooled, VERB 
+
+, SPACE 
+refractory, ADJ 
+plate, NOUN 
+maintained, VERB 
+1280, NUM 
+1420K., PROPN 
+
+, SPACE 
+convection, NOUN 
+correlation, NOUN 
+
+, SPACE 
+0.035Rer, PROPN 
+°, PROPN 
+8, NUM 
+<, X 
+Nut, PROPN 
+e, PROPN 
+<, X 
+0.125Rer, PROPN 
+e, NOUN 
+20c, PROPN 
+
+, SPACE 
+Prandt, PROPN 
+number, NOUN 
+effect, NOUN 
+included, VERB 
+coefficients, NOUN 
+
+, SPACE 
+related, VERB 
+studies, NOUN 
+Buhr, PROPN 
+et, PROPN 
+al, PROPN 
+1973, NUM 
+Kremer, PROPN 
+et, PROPN 
+al, PROPN 
+1974, NUM 
+
+, SPACE 
+determined, VERB 
+following, VERB 
+modification, NOUN 
+Sibulkin, PROPN 
+equation, NOUN 
+
+, SPACE 
+q~, NOUN 
+=, SYM 
+O'0371Pr~, ADJ 
+°, NUM 
+'6peve(hS, NOUN 
+hS, NUM 
+21, X 
+Turbulent, ADJ 
+flows, NOUN 
+Rauenzahn, PROPN 
+1986, NUM 
+calculated, VERB 
+heat, NOUN 
+flux, NOUN 
+
+, SPACE 
+surface, NOUN 
+transient, ADJ 
+temperature, NOUN 
+field, NOUN 
+copper, NOUN 
+
+, SPACE 
+block, NOUN 
+assumed, ADJ 
+form, NOUN 
+surface, NOUN 
+flux, NOUN 
+distribution, NOUN 
+
+, SPACE 
+Anderson, PROPN 
+Stresino, PROPN 
+1963, NUM 
+
+, SPACE 
+
+, SPACE 
+qr, INTJ 
+conv+TCHR, PROPN 
+=, PUNCT 
+qs, VERB 
+conv+, PROPN 
+TCHR, PROPN 
+e, PROPN 
+26, NUM 
+
+, SPACE 
+r, NOUN 
+o, NOUN 
+termed, VERB 
+spreading, VERB 
+radius, NOUN 
+heat, NOUN 
+flux, NOUN 
+distribution, NOUN 
+
+, SPACE 
+reduction, NOUN 
+data, NOUN 
+a---1, PROPN 
+transient, ADJ 
+inverse, NOUN 
+
+, SPACE 
+conduction, NOUN 
+analysis, NOUN 
+Gebhart, PROPN 
+1993, NUM 
+calculate, VERB 
+
+, SPACE 
+q~.conv+TCHR, NOUN 
+q],conv+TCnR, ADJ 
+qf=61, PROPN 
+94, NUM 
+kW, PROPN 
+
+, SPACE 
+L, NOUN 
+=, SYM 
+6, NUM 
+8, NUM 
+q~, NOUN 
++, NOUN 
+TCHR, PROPN 
+ranged, VERB 
+645, NUM 
+1210, NUM 
+kW, PROPN 
+m, PROPN 
+2, NUM 
+r, NOUN 
+0, NUM 
+
+, SPACE 
+ranged, VERB 
+7.3, NUM 
+9.8, NUM 
+cm, NOUN 
+spreading, VERB 
+radius, NOUN 
+generally, ADV 
+de-, X 
+
+, SPACE 
+creased, VERB 
+L, PROPN 
+decreased, VERB 
+qf, PROPN 
+increased, VERB 
+Unfortunately, ADV 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+4, NUM 
+August, PROPN 
+1996, NUM 
+393, NUM 
+
+
+, SPACE 
+Flame, PROPN 
+impingement, VERB 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+B., PROPN 
+Gebhart, PROPN 
+
+, SPACE 
+correlations, NOUN 
+given, VERB 
+q"s, PROPN 
++, PUNCT 
+THR, PROPN 
+r, NOUN 
+0, NUM 
+terms, NOUN 
+L, PROPN 
+
+, SPACE 
+qf, PROPN 
+constants, NOUN 
+equation, NOUN 
+
+, SPACE 
+expected, VERB 
+dependent, ADJ 
+specific, ADJ 
+experimental, ADJ 
+condi-, NOUN 
+
+, SPACE 
+tions, NOUN 
+
+, SPACE 
+Average, ADJ 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+Laminar, PROPN 
+flows, VERB 
+1985, NUM 
+studied, VERB 
+pure, ADJ 
+fuel, NOUN 
+jet, NOUN 
+flames, NOUN 
+im-, VERB 
+
+, SPACE 
+pinging, VERB 
+plate, NOUN 
+fuel, NOUN 
+flow, NOUN 
+burner, NOUN 
+nozzle, NOUN 
+
+, SPACE 
+laminar, NOUN 
+buoyant, ADJ 
+plume, NOUN 
+impinging, VERB 
+plate, NOUN 
+
+, SPACE 
+turbulent, ADJ 
+found, VERB 
+convective, ADJ 
+heat, NOUN 
+flux, NOUN 
+
+, SPACE 
+stagnation, NOUN 
+zone, NOUN 
+essentially, ADV 
+constant, ADJ 
+
+, SPACE 
+q~, NOUN 
+=, SYM 
+31.2(qf, PROPN 
+lZ)Rael/6pre, NOUN 
+3.5, NUM 
+27a, NOUN 
+
+, SPACE 
+R, PROPN 
+<, X 
+0.16, NUM 
+flux, NOUN 
+decreased, VERB 
+R, NOUN 
+wall, PROPN 
+jet, NOUN 
+region, NOUN 
+
+, SPACE 
+q~, X 
+=, X 
+1.46R-, NUM 
+1.63(qf, PROPN 
+l, PROPN 
+2)Rae, PROPN 
+1/6, NUM 
+pr, ADP 
+e, NOUN 
+3/5, NUM 
+27b, NOUN 
+
+, SPACE 
+R, PROPN 
+>, X 
+0.16, NUM 
+cases, NOUN 
+10, NUM 
+9, NUM 
+<, X 
+Ra, PROPN 
+<, X 
+1014, NUM 
+Pr, PROPN 
+~, PUNCT 
+0.7, NUM 
+
+, SPACE 
+Rayleigh, PROPN 
+number, NOUN 
+defined, VERB 
+
+, SPACE 
+Ra-, X 
+2, NUM 
+3, NUM 
+gf, NOUN 
+~, PROPN 
+eqflj, PROPN 
+peCpeVe, PROPN 
+27C, NUM 
+
+, SPACE 
+correlations, NOUN 
+given, VERB 
+measured, ADJ 
+radiation, NOUN 
+heat, NOUN 
+flux, NOUN 
+
+, SPACE 
+accounted, VERB 
+26, NUM 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+radiant, ADJ 
+
+, SPACE 
+flux, NOUN 
+specifically, ADV 
+excluded, VERB 
+correlations, NOUN 
+
+, SPACE 
+Turbulent, ADJ 
+flows, NOUN 
+Shorin, PROPN 
+Pechurkin, PROPN 
+1968, NUM 
+determined, VERB 
+
+, SPACE 
+average, ADJ 
+heat, NOUN 
+transfer, NOUN 
+function, NOUN 
+R, NOUN 
+
+, SPACE 
+=, NOUN 
+6.44Re, NUM 
+°, NUM 
+'4pre, PUNCT 
+e, NOUN 
+°, NOUN 
+'36(L, NOUN 
+xD2L, PROPN 
+qb, PROPN 
+cony, PROPN 
+rb, X 
+
+, SPACE 
+×r, PROPN 
+0.08l, PROPN 
+-0.081, PUNCT 
+e-36y, PROPN 
+
+, SPACE 
+X, PROPN 
+t, PROPN 
+e, PROPN 
+t, PROPN 
+w, NOUN 
+28, NUM 
+
+, SPACE 
+Flames, NOUN 
+parallel, ADJ 
+plane, NOUN 
+surface, NOUN 
+
+, SPACE 
+configuration, NOUN 
+useful, ADJ 
+studying, VERB 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+high, ADJ 
+speed, NOUN 
+airfoils, NOUN 
+high, ADJ 
+temperatures, NOUN 
+occur, VERB 
+
+, SPACE 
+leading, VERB 
+edge, NOUN 
+useful, ADJ 
+studying, VERB 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+flames, NOUN 
+walls, NOUN 
+furnace, NOUN 
+experimental, ADJ 
+conditions, NOUN 
+
+, SPACE 
+studies, NOUN 
+given, VERB 
+Table, NOUN 
+4, NUM 
+
+, SPACE 
+Local, ADJ 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+thermochemical, ADJ 
+
+, SPACE 
+heat, NOUN 
+release, NOUN 
+
+, SPACE 
+Laminar, PROPN 
+flows, VERB 
+Woodruff, NOUN 
+Giedt, PROPN 
+1966, NUM 
+studied, VERB 
+con-, ADJ 
+
+, SPACE 
+figuration, NOUN 
+shown, VERB 
+Figure, PROPN 
+4a, PROPN 
+simulated, VERB 
+air, NOUN 
+foil, NOUN 
+BOR, PROPN 
+ER, PROPN 
+
+, SPACE 
+
+, SPACE 
+TARGET, PROPN 
+
+, SPACE 
+b, PROPN 
+
+, SPACE 
+Figure, NOUN 
+4, NUM 
+Flames, PROPN 
+impinging, VERB 
+plane, NOUN 
+surfaces, NOUN 
+
+, SPACE 
+best, ADJ 
+fit, NOUN 
+experimental, ADJ 
+data, NOUN 
+obtained, VERB 
+
+, SPACE 
+q~, PROPN 
+TCHR, PROPN 
+=, NOUN 
+~, PUNCT 
+oPre, PROPN 
+2/3, NUM 
+1, NUM 
++, X 
+Le, PROPN 
+e, NOUN 
+H, NOUN 
+1)heCH, NUM 
+
+, SPACE 
+~, PUNCT 
+h~, PROPN 
+
+, SPACE 
+×, PROPN 
+r, NOUN 
+h~, PROPN 
+29a, NUM 
+
+, SPACE 
+boundary, ADJ 
+layer, NOUN 
+thickness, NOUN 
+~, PUNCT 
+measured, VERB 
+Pitot, PROPN 
+tube, NOUN 
+
+, SPACE 
+empirical, ADJ 
+curve, NOUN 
+fit, NOUN 
+data, NOUN 
+given, VERB 
+
+, SPACE 
+8, NUM 
+=, NOUN 
+0.0139e, NOUN 
+°, NOUN 
+'3~2r, NUM 
++, CCONJ 
+0.152((e, X 
+°, NUM 
+7, NUM 
+°, NUM 
+3r, NUM 
+1)/e, NUM 
+°, NUM 
+625r, PROPN 
+°, NUM 
+5, NUM 
+29b, NUM 
+
+, SPACE 
+r, NOUN 
+distance, NOUN 
+plate, NOUN 
+measured, VERB 
+inches, NOUN 
+
+, SPACE 
+leading, VERB 
+edge, NOUN 
+best, ADJ 
+fit, NOUN 
+heat, NOUN 
+flux, NOUN 
+data, NOUN 
+Le, PROPN 
+=, NUM 
+3.0, NUM 
+
+, SPACE 
+Turbulent, ADJ 
+flows, NOUN 
+Giedt, PROPN 
+et, PROPN 
+al, PROPN 
+1960, NUM 
+tested, VERB 
+array, NOUN 
+fuel, NOUN 
+rich, ADJ 
+
+, SPACE 
+C2H, PROPN 
+2, NUM 
+flames, NOUN 
+parallel, ADJ 
+flow, NOUN 
+flat, ADJ 
+plate, NOUN 
+shown, VERB 
+Figure, PROPN 
+
+, SPACE 
+4a, PROPN 
+heat, NOUN 
+flux, NOUN 
+data, NOUN 
+correlated, VERB 
+form, NOUN 
+
+, SPACE 
+equation, NOUN 
+recommended, VERB 
+Eckert, PROPN 
+1956, NUM 
+
+, SPACE 
+q~, NOUN 
++, CCONJ 
+TCH, PROPN 
+R, PROPN 
+=, NOUN 
+I¢/r, INTJ 
+0.02961, NUM 
+~, PUNCT 
+e, NOUN 
+~, PROPN 
+SP-~l/3, NOUN 
+t~, X 
+30a, NUM 
+
+, SPACE 
+r, NOUN 
+distance, NOUN 
+leading, VERB 
+edge, NOUN 
+equation, NOUN 
+underpre-, NOUN 
+
+, SPACE 
+dicted, VERB 
+experimental, ADJ 
+data, NOUN 
+25, NUM 
+derived, VERB 
+correction, NOUN 
+factor, NOUN 
+
+, SPACE 
+added, VERB 
+H, PROPN 
+atom, NOUN 
+recombination, NOUN 
+reaction, NOUN 
+
+, SPACE 
+7¢, PROPN 
+---0, PUNCT 
+s, PART 
+1,3, NUM 
+
+, SPACE 
+q~, NOUN 
++, NOUN 
+TCHR, PROPN 
+=, PUNCT 
+r, NOUN 
+0'0296Rer, ADJ 
+p-~, NOUN 
+
+, SPACE 
+×[1, PROPN 
++, PROPN 
+QH(mH, PROPN 
+e, PROPN 
+mH, NUM 
+W, PROPN 
+
+, SPACE 
+
+, SPACE 
+M=(mH, PROPN 
+w, PROPN 
+--mR, PROPN 
+e, NOUN 
+1, NUM 
+--mH, NOUN 
+e, NOUN 
+
+, SPACE 
+QH, PROPN 
+=, SYM 
+436, NUM 
+ld, ADJ 
+kg, NOUN 
+mole, ADJ 
+
+, SPACE 
+Table, PROPN 
+4, NUM 
+Experimental, ADJ 
+conditions, NOUN 
+flames, NOUN 
+impinging, VERB 
+parallel, NOUN 
+plane, NOUN 
+surfaces, NOUN 
+
+, SPACE 
+Heat, NOUN 
+transfer, NOUN 
+mechanisms, NOUN 
+
+, SPACE 
+Location, PROPN 
+Forced, VERB 
+conv, ADJ 
+TCHR, PROPN 
+Radiation, PROPN 
+Oxidizer, PROPN 
+n, NOUN 
+Fuel, PROPN 
+Reference, PROPN 
+
+, SPACE 
+Local, PROPN 
+v, NOUN 
+~, PUNCT 
+~/, PROPN 
+02, NUM 
+laminar, NOUN 
+
+, SPACE 
+x/, PROPN 
+~/, PROPN 
+02, NUM 
+turbulenta, NOUN 
+
+, SPACE 
+x/, PROPN 
+~/, PROPN 
+air, PROPN 
+4800, NUM 
+270,000, NUM 
+2.5, NUM 
+C2H, PROPN 
+2, NUM 
+Woodruff, PROPN 
+Giedt, PROPN 
+1966, NUM 
+
+, SPACE 
+2.5, NUM 
+C2H, PROPN 
+2, NUM 
+Giedt, PROPN 
+et, PROPN 
+al, PROPN 
+1960, NUM 
+
+, SPACE 
+1.0, NUM 
+coke, PROPN 
+oven, ADJ 
+gas, NOUN 
+~, NOUN 
+r, PROPN 
+Chigier, PROPN 
+1968, NUM 
+
+, SPACE 
+aAccording, PROPN 
+author, NOUN 
+qualitative, ADJ 
+
+, SPACE 
+394, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+4, NUM 
+August, PROPN 
+1996, NUM 
+
+
+, SPACE 
+Flame, PROPN 
+impingement, VERB 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+B., PROPN 
+Gebhart, PROPN 
+
+, SPACE 
+QH, PROPN 
+H, PROPN 
+atom, NOUN 
+heat, NOUN 
+recombination, NOUN 
+mu, PROPN 
+H, PROPN 
+atom, VERB 
+
+, SPACE 
+mole, ADJ 
+fraction, NOUN 
+correlated, VERB 
+data, NOUN 
+15, NUM 
+
+, SPACE 
+Local, ADJ 
+convection, NOUN 
+radiation, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+Turbulent, PROPN 
+flows, NOUN 
+Be6r, PROPN 
+Chigier, PROPN 
+1968, NUM 
+studied, VERB 
+flames, NOUN 
+im-, ADP 
+
+, SPACE 
+pinging, VERB 
+20, NUM 
+°, NUM 
+angle, NOUN 
+furnace, NOUN 
+hearth, NOUN 
+Figure, PROPN 
+4b, PROPN 
+
+, SPACE 
+correlation, NOUN 
+total, ADJ 
+heat, NOUN 
+flux, NOUN 
+given, VERB 
+
+, SPACE 
+0.8, NUM 
+
+, SPACE 
+q, NOUN 
++, NOUN 
+tad, NOUN 
+=, X 
+kmax, PROPN 
+r, NOUN 
+O'13Re, VERB 
+/max, X 
+tw, X 
+31, NUM 
+
+, SPACE 
+velocity, NOUN 
+Reynolds, PROPN 
+number, NOUN 
+maximum, ADJ 
+velocity, NOUN 
+
+, SPACE 
+measured, VERB 
+axial, ADJ 
+distance, NOUN 
+point, NOUN 
+impingement, NOUN 
+
+, SPACE 
+temperature, NOUN 
+tma, PROPN 
+x, PROPN 
+maximum, ADJ 
+temperature, NOUN 
+measured, VERB 
+
+, SPACE 
+axial, ADJ 
+distance, NOUN 
+point, NOUN 
+impingement, NOUN 
+Prandtl, PROPN 
+
+, SPACE 
+number, NOUN 
+0.7, NUM 
+assumed, VERB 
+
+, SPACE 
+Recommendations, NOUN 
+
+, SPACE 
+studies, NOUN 
+considered, VERB 
+multiple, ADJ 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+mechanisms, NOUN 
+important, ADJ 
+example, NOUN 
+radiation, NOUN 
+
+, SPACE 
+forced, VERB 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+important, ADJ 
+study, NOUN 
+
+, SPACE 
+~, NOUN 
+r, NOUN 
+Chigier, PROPN 
+1968, NUM 
+little, ADJ 
+work, NOUN 
+try, VERB 
+
+, SPACE 
+separate, VERB 
+mechanisms, NOUN 
+determine, VERB 
+relative, ADJ 
+
+, SPACE 
+importance, NOUN 
+investigated, VERB 
+help, VERB 
+
+, SPACE 
+optimizing, VERB 
+heating, NOUN 
+processes, NOUN 
+instance, NOUN 
+radiation, NOUN 
+impor-, X 
+
+, SPACE 
+tant, NOUN 
+given, VERB 
+set, NOUN 
+conditions, NOUN 
+beneficial, ADJ 
+optimize, VERB 
+
+, SPACE 
+surface, NOUN 
+radiation, NOUN 
+properties, NOUN 
+target, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+mechanisms, NOUN 
+natural, ADJ 
+convection, NOUN 
+condensation, NOUN 
+
+, SPACE 
+received, VERB 
+little, ADJ 
+attention, NOUN 
+important, ADJ 
+
+, SPACE 
+certain, ADJ 
+operating, NOUN 
+conditions, NOUN 
+example, NOUN 
+condensation, NOUN 
+
+, SPACE 
+dominant, ADJ 
+mechanism, NOUN 
+target, NOUN 
+surface, NOUN 
+tempera-, ADJ 
+
+, SPACE 
+ture, NOUN 
+condensation, NOUN 
+point, NOUN 
+water, NOUN 
+vapor, NOUN 
+
+, SPACE 
+combinations, NOUN 
+geometry, NOUN 
+operating, VERB 
+
+, SPACE 
+conditions, NOUN 
+empirical, ADJ 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+exist, VERB 
+
+, SPACE 
+intent, NOUN 
+detailed, ADJ 
+list, NOUN 
+possible, ADJ 
+
+, SPACE 
+experiments, NOUN 
+general, ADJ 
+types, NOUN 
+experi-, NOUN 
+
+, SPACE 
+ments, NOUN 
+suggested, VERB 
+
+, SPACE 
+Flames, NOUN 
+impinging, VERB 
+normal, ADJ 
+cylinder, NOUN 
+flames, NOUN 
+
+, SPACE 
+turbulent, ADJ 
+forced, VERB 
+convection, NOUN 
+stagnation, NOUN 
+point, NOUN 
+
+, SPACE 
+studied, VERB 
+correlations, NOUN 
+determined, VERB 
+local, ADJ 
+
+, SPACE 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+TCHR, PROPN 
+correlation, NOUN 
+
+, SPACE 
+Equation, PROPN 
+8, NUM 
+given, VERB 
+average, ADJ 
+convection, NOUN 
+heat, NOUN 
+
+, SPACE 
+transfer, NOUN 
+TCHR, PROPN 
+Unfortunately, ADV 
+flow, NOUN 
+type, NOUN 
+speci-, NOUN 
+
+, SPACE 
+fied, VERB 
+radiation, NOUN 
+correlations, NOUN 
+Equations, PROPN 
+9a, PROPN 
+b, NOUN 
+10, NUM 
+deter-, NOUN 
+
+, SPACE 
+mined, VERB 
+Hustad, PROPN 
+co, NOUN 
+workers, NOUN 
+1991, NUM 
+Hustad, PROPN 
+et, PROPN 
+al, PROPN 
+1992, NUM 
+
+, SPACE 
+specific, ADJ 
+given, VERB 
+operating, NOUN 
+conditions, NOUN 
+included, VERB 
+
+, SPACE 
+high, ADJ 
+speed, NOUN 
+flows, NOUN 
+equations, NOUN 
+nondimensional-, ADV 
+
+, SPACE 
+ized, ADJ 
+outside, ADP 
+known, VERB 
+experimental, ADJ 
+
+, SPACE 
+conditions, NOUN 
+
+, SPACE 
+Flames, NOUN 
+impinging, VERB 
+normal, ADJ 
+hemi, ADJ 
+nosed, ADJ 
+cylinder, NOUN 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+stagnation, NOUN 
+point, NOUN 
+studied, VERB 
+
+, SPACE 
+heat, NOUN 
+flux, NOUN 
+locations, NOUN 
+reported, VERB 
+averaged, VERB 
+
+, SPACE 
+heat, NOUN 
+flux, NOUN 
+correlations, NOUN 
+given, VERB 
+radiation, NOUN 
+laminar, NOUN 
+
+, SPACE 
+forced, VERB 
+convection, NOUN 
+correlations, NOUN 
+type, NOUN 
+reported, VERB 
+
+, SPACE 
+semianalytic, ADJ 
+heat, NOUN 
+transfer, NOUN 
+equations, NOUN 
+
+, SPACE 
+geometry, NOUN 
+Baukal, PROPN 
+Gebhart, PROPN 
+1996, NUM 
+
+, SPACE 
+Flames, NOUN 
+impinging, VERB 
+normal, ADJ 
+plane, NOUN 
+surface, NOUN 
+
+, SPACE 
+widely, ADV 
+studied, VERB 
+geometry, NOUN 
+correlations, NOUN 
+
+, SPACE 
+reported, VERB 
+local, ADJ 
+turbulent, ADJ 
+convection, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+TCHR, PROPN 
+correlations, NOUN 
+average, ADJ 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+forced, VERB 
+convection, NOUN 
+correlations, NOUN 
+kind, NOUN 
+
+, SPACE 
+specifically, ADV 
+determined, VERB 
+radiation, NOUN 
+Flames, NOUN 
+parallel, ADJ 
+plane, NOUN 
+surface, NOUN 
+
+, SPACE 
+studied, VERB 
+geometry, NOUN 
+pure, ADJ 
+forced, VERB 
+convection, NOUN 
+correlations, NOUN 
+
+, SPACE 
+reported, VERB 
+average, ADJ 
+correlations, NOUN 
+kind, NOUN 
+given, VERB 
+
+, SPACE 
+radiation, NOUN 
+combination, NOUN 
+forced, VERB 
+convection, NOUN 
+
+, SPACE 
+studied, VERB 
+limited, ADJ 
+set, NOUN 
+conditions, NOUN 
+
+, SPACE 
+types, NOUN 
+geometries, NOUN 
+considered, VERB 
+
+, SPACE 
+example, NOUN 
+flames, NOUN 
+impinging, VERB 
+normal, ADJ 
+rectangular, ADJ 
+bars, NOUN 
+
+, SPACE 
+shape, NOUN 
+simulates, VERB 
+typical, ADJ 
+industrial, ADJ 
+application, NOUN 
+metal, NOUN 
+
+, SPACE 
+ingots, NOUN 
+reheated, VERB 
+prior, ADV 
+entering, VERB 
+rolling, NOUN 
+mill, NOUN 
+
+, SPACE 
+combinations, NOUN 
+fuels, NOUN 
+oxidizers, NOUN 
+equivalence, NOUN 
+ra-, VERB 
+
+, SPACE 
+tios, NOUN 
+remain, VERB 
+correlated, VERB 
+example, NOUN 
+little, ADJ 
+work, NOUN 
+
+, SPACE 
+oxidizers, NOUN 
+air, NOUN 
+pure, ADJ 
+oxygen, NOUN 
+
+, SPACE 
+limited, ADJ 
+number, NOUN 
+studies, NOUN 
+investigated, VERB 
+effects, NOUN 
+
+, SPACE 
+furnace, NOUN 
+enclosure, NOUN 
+Flame, NOUN 
+impingement, VERB 
+heating, NOUN 
+represents, VERB 
+
+, SPACE 
+important, ADJ 
+technology, NOUN 
+requires, VERB 
+experimental, ADJ 
+investi-, NOUN 
+
+, SPACE 
+gation, NOUN 
+
+, SPACE 
+Acknowledgment, PROPN 
+
+, SPACE 
+authors, NOUN 
+thank, VERB 
+Air, PROPN 
+Products, PROPN 
+Chemicals, PROPN 
+Inc., PROPN 
+
+, SPACE 
+support, NOUN 
+research, NOUN 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+Anderson, PROPN 
+J., PROPN 
+E., PROPN 
+Stresino, PROPN 
+E., PROPN 
+F., PROPN 
+1963, NUM 
+Heat, NOUN 
+transfer, NOUN 
+flames, NOUN 
+
+, SPACE 
+impinging, VERB 
+flat, ADJ 
+cylindrical, ADJ 
+surface, NOUN 
+J., PROPN 
+Heat, PROPN 
+Trans, PROPN 
+85, NUM 
+
+, SPACE 
+49, NUM 
+54, NUM 
+
+, SPACE 
+Baukal, PROPN 
+C., PROPN 
+E., PROPN 
+Farmer, PROPN 
+L., PROPN 
+K., PROPN 
+Gebhart, PROPN 
+B., PROPN 
+Chan, PROPN 
+I., PROPN 
+1996, NUM 
+Heat, NOUN 
+
+, SPACE 
+transfer, NOUN 
+mechanisms, NOUN 
+flame, NOUN 
+impingement, VERB 
+heating, NOUN 
+Proc, PROPN 
+1995, NUM 
+
+, SPACE 
+Int, PROPN 
+Gas, PROPN 
+Research, PROPN 
+Conference, PROPN 
+D., PROPN 
+A., PROPN 
+Dolenc, PROPN 
+ed, PROPN 
+Government, PROPN 
+
+, SPACE 
+Institutes, PROPN 
+Inc., PROPN 
+Rockville, PROPN 
+MD, PROPN 
+Vol, PROPN 
+2, NUM 
+2277, NUM 
+2287, NUM 
+
+, SPACE 
+Baukal, PROPN 
+C., PROPN 
+E., PROPN 
+Gebhart, PROPN 
+B., PROPN 
+1995, NUM 
+review, NOUN 
+flame, NOUN 
+impingement, VERB 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+studies, NOUN 
+2, NUM 
+Measurements, NOUN 
+Comb, PROPN 
+Sci, PROPN 
+Tech, PROPN 
+
+, SPACE 
+104, NUM 
+359, NUM 
+385, NUM 
+
+, SPACE 
+Baukal, PROPN 
+C., PROPN 
+E., PROPN 
+Gebhart, PROPN 
+B., PROPN 
+1996, NUM 
+review, NOUN 
+semi, ADJ 
+analytical, ADJ 
+
+, SPACE 
+solutions, NOUN 
+flame, NOUN 
+impingement, VERB 
+heat, NOUN 
+transfer, NOUN 
+Int, ADJ 
+J., PROPN 
+Heat, PROPN 
+Mass, PROPN 
+
+, SPACE 
+Transfer, PROPN 
+39, NUM 
+2989, NUM 
+3002, NUM 
+
+, SPACE 
+Be6r, PROPN 
+J., PROPN 
+M., PROPN 
+Chigier, PROPN 
+N., PROPN 
+A., NOUN 
+1968, NUM 
+Impinging, VERB 
+Jet, PROPN 
+Flames, PROPN 
+Comb, PROPN 
+
+, SPACE 
+Flame, PROPN 
+12,575, NUM 
+586, NUM 
+
+, SPACE 
+Buhr, PROPN 
+E., PROPN 
+Haupt, PROPN 
+G., PROPN 
+Kremer, PROPN 
+H., PROPN 
+1973, NUM 
+Heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+impinging, VERB 
+turbulent, ADJ 
+jet, NOUN 
+flames, NOUN 
+plane, NOUN 
+surfaces, NOUN 
+Combustion, PROPN 
+
+, SPACE 
+Institute, PROPN 
+European, PROPN 
+Symposium, PROPN 
+1973, NUM 
+F., PROPN 
+J., PROPN 
+Weinberg, PROPN 
+ed, PROPN 
+Aca-, PROPN 
+
+, SPACE 
+demic, PROPN 
+Press, PROPN 
+New, PROPN 
+York, PROPN 
+607, NUM 
+612, NUM 
+
+, SPACE 
+Conolly, ADJ 
+R., PROPN 
+Davies, NOUN 
+R., PROPN 
+M., PROPN 
+1972, NUM 
+study, NOUN 
+convective, ADJ 
+heat, NOUN 
+
+, SPACE 
+transfer, NOUN 
+flames, NOUN 
+Int, ADJ 
+J., PROPN 
+Heat, PROPN 
+Mass, PROPN 
+Trans, PROPN 
+15, NUM 
+2155, NUM 
+2172, NUM 
+
+, SPACE 
+Davies, NOUN 
+R., PROPN 
+M., PROPN 
+1965, NUM 
+Heat, NOUN 
+transfer, NOUN 
+measurements, NOUN 
+electrically, ADV 
+
+, SPACE 
+boosted, VERB 
+flames, NOUN 
+lOth, PROPN 
+Symposium, PROPN 
+International, PROPN 
+Combustion, PROPN 
+
+, SPACE 
+Combustion, PROPN 
+Institute, PROPN 
+Pittsburgh, PROPN 
+PA, PROPN 
+755, NUM 
+766, NUM 
+
+, SPACE 
+Davies, NOUN 
+D., PROPN 
+R., PROPN 
+1979, NUM 
+Heat, NOUN 
+transfer, NOUN 
+working, VERB 
+flame, NOUN 
+burners, NOUN 
+B.S., PROPN 
+
+, SPACE 
+thesis, NOUN 
+University, PROPN 
+Salford, PROPN 
+Salford, PROPN 
+UK, PROPN 
+
+, SPACE 
+Eckert, PROPN 
+E., PROPN 
+R., PROPN 
+G., PROPN 
+1956, NUM 
+Engineering, NOUN 
+relations, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+friction, NOUN 
+high, ADJ 
+velocity, NOUN 
+laminar, NOUN 
+turbulent, ADJ 
+boundary, ADJ 
+layer, NOUN 
+
+, SPACE 
+flow, NOUN 
+surfaces, NOUN 
+constant, ADJ 
+pressure, NOUN 
+temperature, NOUN 
+J., PROPN 
+
+, SPACE 
+Heat, PROPN 
+Trans, PROPN 
+78, NUM 
+1273, NUM 
+1283, NUM 
+
+, SPACE 
+Fairweather, PROPN 
+M., PROPN 
+Kilham, PROPN 
+J., PROPN 
+K., PROPN 
+Mohebi, PROPN 
+Ashtiani, PROPN 
+A., NOUN 
+1984, NUM 
+Stag-, X 
+
+, SPACE 
+nation, NOUN 
+point, NOUN 
+heat, NOUN 
+transfer, NOUN 
+turbulent, ADJ 
+methane, NOUN 
+air, NOUN 
+flames, NOUN 
+
+, SPACE 
+Comb, PROPN 
+Sci, PROPN 
+Tech, PROPN 
+35, NUM 
+225, NUM 
+238, NUM 
+
+, SPACE 
+Fells, PROPN 
+I., PROPN 
+Harker, PROPN 
+J., PROPN 
+H., PROPN 
+1968, NUM 
+investigation, NOUN 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+unseeded, ADJ 
+propane, NOUN 
+air, NOUN 
+flames, NOUN 
+augmented, VERB 
+DC, PROPN 
+electri-, NOUN 
+
+, SPACE 
+cal, NOUN 
+power, NOUN 
+Comb, PROPN 
+Flame, PROPN 
+12, NUM 
+587, NUM 
+596, NUM 
+
+, SPACE 
+Galloway, PROPN 
+T., PROPN 
+R., PROPN 
+Sage, PROPN 
+B., PROPN 
+H., PROPN 
+1968, NUM 
+Thermal, ADJ 
+material, NOUN 
+transfer, NOUN 
+
+, SPACE 
+spheres, NOUN 
+prediction, NOUN 
+local, ADJ 
+transport, NOUN 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Mass, PROPN 
+
+, SPACE 
+Trans, PROPN 
+11, NUM 
+539, NUM 
+549, NUM 
+
+, SPACE 
+Gebhart, PROPN 
+B., PROPN 
+1993, NUM 
+Heat, PROPN 
+Conduction, PROPN 
+Mass, PROPN 
+Diffusion, PROPN 
+McGraw, PROPN 
+Hill, PROPN 
+
+, SPACE 
+New, PROPN 
+York, PROPN 
+
+, SPACE 
+Giedt, PROPN 
+W., PROPN 
+H., PROPN 
+Cobb, PROPN 
+L., PROPN 
+L., PROPN 
+Russ, PROPN 
+E., PROPN 
+J., PROPN 
+1960, NUM 
+Effect, NOUN 
+hydrogen, NOUN 
+
+, SPACE 
+recombination, NOUN 
+turbulent, ADJ 
+flow, NOUN 
+heat, NOUN 
+transfer, NOUN 
+ASME, PROPN 
+Paper, PROPN 
+
+, SPACE 
+60, NUM 
+WA-256, PROPN 
+
+, SPACE 
+Gostowski, PROPN 
+V., PROPN 
+J., PROPN 
+Costello, PROPN 
+F., PROPN 
+A., NOUN 
+1970, NUM 
+effect, NOUN 
+free, ADJ 
+stream, NOUN 
+
+, SPACE 
+turbulence, NOUN 
+heat, NOUN 
+transfer, NOUN 
+stagnation, NOUN 
+point, NOUN 
+
+, SPACE 
+sphere, NOUN 
+Int, ADJ 
+J., PROPN 
+Heat, PROPN 
+Mass, PROPN 
+Trans, PROPN 
+13, NUM 
+1382, NUM 
+1386, NUM 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+4, NUM 
+August, PROPN 
+1996, NUM 
+395, NUM 
+
+
+, SPACE 
+Flame, PROPN 
+impingement, VERB 
+heat, NOUN 
+transfer, NOUN 
+correlations, NOUN 
+C., PROPN 
+E., PROPN 
+Baukal, PROPN 
+B., PROPN 
+Gebhart, PROPN 
+
+, SPACE 
+Hargrave, PROPN 
+G., PROPN 
+K., PROPN 
+Fairweather, PROPN 
+M., PROPN 
+Kilham, PROPN 
+J., PROPN 
+K., PROPN 
+1987, NUM 
+Forced, VERB 
+
+, SPACE 
+convective, ADJ 
+heat, NOUN 
+transfer, NOUN 
+premixed, ADJ 
+flames, NOUN 
+2, NUM 
+Impinge-, PRON 
+
+, SPACE 
+ment, ADJ 
+heat, NOUN 
+transfer, NOUN 
+Int, ADJ 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+8, NUM 
+132, NUM 
+138, NUM 
+
+, SPACE 
+Hoogendoorn, PROPN 
+C., PROPN 
+J., PROPN 
+Popiel, PROPN 
+C., PROPN 
+O., PROPN 
+van, PROPN 
+der, PROPN 
+Meer, PROPN 
+T., PROPN 
+H., PROPN 
+1978, NUM 
+
+, SPACE 
+Turbulent, ADJ 
+heat, NOUN 
+transfer, NOUN 
+plane, NOUN 
+surface, NOUN 
+inimpingement, NOUN 
+round, ADJ 
+
+, SPACE 
+premixed, ADJ 
+flame, NOUN 
+jets, NOUN 
+Proc, PROPN 
+6th, PROPN 
+Int, PROPN 
+Heat, PROPN 
+Trans, PROPN 
+Conf, PROPN 
+Toronto, PROPN 
+4, NUM 
+
+, SPACE 
+107, NUM 
+112, NUM 
+
+, SPACE 
+Hottel, PROPN 
+H., PROPN 
+C., PROPN 
+Sarofim, PROPN 
+A., PROPN 
+F., PROPN 
+1967, NUM 
+Radiative, PROPN 
+Transfer, PROPN 
+McGraw-, PROPN 
+
+, SPACE 
+Hill, PROPN 
+New, PROPN 
+York, PROPN 
+Chapter, NOUN 
+6, NUM 
+
+, SPACE 
+Hustad, PROPN 
+J., PROPN 
+E., PROPN 
+R, PROPN 
+~, PROPN 
+kke, PROPN 
+N., PROPN 
+A., PROPN 
+S¢nju, PROPN 
+O., PROPN 
+K., PROPN 
+1991, NUM 
+Heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+pipes, NOUN 
+submerged, VERB 
+lifted, VERB 
+buoyant, ADJ 
+diffusion, NOUN 
+flames, NOUN 
+Experimen-, PROPN 
+
+, SPACE 
+tal, NOUN 
+Heat, PROPN 
+Transfer, PROPN 
+Fluid, PROPN 
+Mechanics, PROPN 
+Thermodynamics, PROPN 
+1991, NUM 
+
+, SPACE 
+J., PROPN 
+F., PROPN 
+Keffer, PROPN 
+R., PROPN 
+K., PROPN 
+Shah, PROPN 
+E., PROPN 
+N., PROPN 
+Ganic, PROPN 
+eds, PROPN 
+Elsevier, ADV 
+New, PROPN 
+
+, SPACE 
+York, PROPN 
+567, NUM 
+574, NUM 
+
+, SPACE 
+Hustad, PROPN 
+J., PROPN 
+E., PROPN 
+S¢nju, PROPN 
+O., PROPN 
+K., PROPN 
+1991, NUM 
+Heat, NOUN 
+transfer, NOUN 
+pipe, NOUN 
+s, PART 
+sub-, NOUN 
+
+, SPACE 
+merged, VERB 
+turbulent, ADJ 
+jet, NOUN 
+diffusion, NOUN 
+flames, NOUN 
+Heat, PROPN 
+Transfer, PROPN 
+
+, SPACE 
+Radiating, PROPN 
+Combusting, PROPN 
+Systems, PROPN 
+Springer, PROPN 
+Verlag, PROPN 
+Berlin, PROPN 
+
+, SPACE 
+474, NUM 
+490, NUM 
+
+, SPACE 
+Hustad, PROPN 
+J., PROPN 
+E., PROPN 
+Jacobsen, PROPN 
+M., PROPN 
+Scnju, PROPN 
+O., PROPN 
+K., PROPN 
+1992, NUM 
+Radiation, NOUN 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+oil, NOUN 
+propane, NOUN 
+jet, NOUN 
+diffusion, NOUN 
+flames, NOUN 
+Inst, INTJ 
+Chem, NOUN 
+
+, SPACE 
+Eng, PROPN 
+Symp, PROPN 
+Series, PROPN 
+10, NUM 
+657, NUM 
+663, NUM 
+
+, SPACE 
+Ivernel, PROPN 
+A., NOUN 
+Vernotte, PROPN 
+P., PROPN 
+1979, NUM 
+Etude, PROPN 
+exp6rimentale, PROPN 
+de, X 
+
+, SPACE 
+l'am61ioration, PROPN 
+des, PROPN 
+transferts, PROPN 
+convectis, PROPN 
+dans, PROPN 
+les, PROPN 
+fours, VERB 
+par, PROPN 
+
+, SPACE 
+suroxygEnation, NOUN 
+du, PROPN 
+comburant, PROPN 
+Rdv, PROPN 
+Gen., PROPN 
+Therm, PROPN 
+210, NUM 
+211, NUM 
+
+, SPACE 
+375, NUM 
+391, NUM 
+French, PROPN 
+
+, SPACE 
+Jackson, PROPN 
+E., PROPN 
+G., PROPN 
+Kilham, PROPN 
+J., PROPN 
+K., PROPN 
+1956, NUM 
+Heat, NOUN 
+transfer, NOUN 
+combus-, ADJ 
+
+, SPACE 
+tion, NOUN 
+products, NOUN 
+forced, VERB 
+convection, NOUN 
+Ind., PROPN 
+Eng, PROPN 
+Chem, PROPN 
+48, NUM 
+
+, SPACE 
+2077, NUM 
+2079, NUM 
+
+, SPACE 
+Kataoka, PROPN 
+K., PROPN 
+Shundoh, PROPN 
+H., PROPN 
+Matsuo, PROPN 
+H., PROPN 
+1984, NUM 
+Convective, ADJ 
+heat, NOUN 
+
+, SPACE 
+transfer, NOUN 
+flat, ADJ 
+plate, NOUN 
+jet, NOUN 
+hot, ADJ 
+gas, NOUN 
+impinging, VERB 
+
+, SPACE 
+Drying, VERB 
+84, NUM 
+A., NOUN 
+S., PROPN 
+Mujumdar, PROPN 
+ed, PROPN 
+Hemisphere, PROPN 
+Springer-, PROPN 
+
+, SPACE 
+Verlag, PROPN 
+New, PROPN 
+York, PROPN 
+218, NUM 
+227, NUM 
+
+, SPACE 
+Kataoka, PROPN 
+K., PROPN 
+1985, NUM 
+Optimal, ADJ 
+nozzle, NOUN 
+plate, NOUN 
+spacing, NOUN 
+convective, ADJ 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+nonisothermal, NOUN 
+variable, ADJ 
+density, NOUN 
+impinging, VERB 
+jets, NOUN 
+
+, SPACE 
+Drying, VERB 
+Tech, PROPN 
+3, NUM 
+235, NUM 
+254, NUM 
+
+, SPACE 
+Kilham, PROPN 
+J., PROPN 
+K., PROPN 
+1949, NUM 
+Energy, NOUN 
+transfer, NOUN 
+flame, NOUN 
+gases, NOUN 
+solids, NOUN 
+
+, SPACE 
+Symposium, PROPN 
+Combustion, PROPN 
+Flame, PROPN 
+Explosion, PROPN 
+Phe-, PROPN 
+
+, SPACE 
+nomena, NOUN 
+Williams, PROPN 
+Wilkins, PROPN 
+Baltimore, PROPN 
+MD, PROPN 
+733, NUM 
+740, NUM 
+
+, SPACE 
+Kremcr, PROPN 
+H., PROPN 
+Buhr, PROPN 
+E., PROPN 
+Haupt, PROPN 
+R., PROPN 
+1974, NUM 
+Heat, NOUN 
+transfer, NOUN 
+turbu-, PROPN 
+
+, SPACE 
+lent, VERB 
+free, ADJ 
+jet, NOUN 
+flames, NOUN 
+plane, NOUN 
+surfaces, NOUN 
+Heat, PROPN 
+Transfer, PROPN 
+Flames, PROPN 
+N., PROPN 
+H., PROPN 
+Afgan, PROPN 
+J., PROPN 
+M., PROPN 
+Be6r, PROPN 
+eds, PROPN 
+Scripta, PROPN 
+Washington, PROPN 
+DC, PROPN 
+
+, SPACE 
+463, NUM 
+472, NUM 
+
+, SPACE 
+Lewis, PROPN 
+B., PROPN 
+von, PROPN 
+Elbe, PROPN 
+G., PROPN 
+1987, NUM 
+Combustion, NOUN 
+Flames, PROPN 
+Explosions, NOUN 
+
+, SPACE 
+Gases, PROPN 
+3rd, ADJ 
+ed, NOUN 
+Academic, PROPN 
+Press, PROPN 
+New, PROPN 
+York, PROPN 
+403, NUM 
+
+, SPACE 
+Matsuo, PROPN 
+M., PROPN 
+Hattori, PROPN 
+M., PROPN 
+Ohta, PROPN 
+T., PROPN 
+Kishimoto, PROPN 
+S., PROPN 
+1978, NUM 
+
+, SPACE 
+experimental, ADJ 
+results, NOUN 
+heat, NOUN 
+transfer, NOUN 
+flame, NOUN 
+impingement, ADJ 
+
+, SPACE 
+Int, PROPN 
+Flame, PROPN 
+Research, PROPN 
+Foundation, PROPN 
+Report, PROPN 
+F, PROPN 
+29, NUM 
+la/1, NOUN 
+IJmuiden, PROPN 
+
+, SPACE 
+Netherlands, PROPN 
+
+, SPACE 
+McAdams, PROPN 
+W., PROPN 
+H., PROPN 
+1954, NUM 
+Heat, PROPN 
+Transmission, PROPN 
+McGraw, PROPN 
+Hill, PROPN 
+New, PROPN 
+York, PROPN 
+
+, SPACE 
+268, NUM 
+
+, SPACE 
+Popiel, PROPN 
+C., PROPN 
+O., PROPN 
+van, PROPN 
+der, PROPN 
+Meer, PROPN 
+T., PROPN 
+H., PROPN 
+Hoogendoorn, PROPN 
+C., PROPN 
+J., PROPN 
+1980, NUM 
+
+, SPACE 
+Convective, ADJ 
+heat, NOUN 
+transfer, NOUN 
+plate, NOUN 
+impinging, VERB 
+round, ADJ 
+hot, ADJ 
+gas, NOUN 
+
+, SPACE 
+jet, NOUN 
+low, ADJ 
+Reynolds, PROPN 
+Number, PROPN 
+Int, ADJ 
+J., PROPN 
+Heat, PROPN 
+Mass, PROPN 
+Trans, PROPN 
+23, NUM 
+
+, SPACE 
+1055, NUM 
+1068, NUM 
+
+, SPACE 
+Rauenzahn, PROPN 
+R., PROPN 
+M., PROPN 
+1986, NUM 
+Analysis, NOUN 
+rock, NOUN 
+mechanics, NOUN 
+gas, NOUN 
+dynam-, NOUN 
+
+, SPACE 
+ics, NOUN 
+flame, NOUN 
+jet, NOUN 
+thermal, ADJ 
+spallation, NOUN 
+drilling, NOUN 
+Ph.D., NOUN 
+thesis, NOUN 
+Mas-, PROPN 
+
+, SPACE 
+sachusetts, PROPN 
+Institute, PROPN 
+Technology, PROPN 
+Cambridge, PROPN 
+MA, PROPN 
+
+, SPACE 
+Shorin, PROPN 
+S., PROPN 
+N., PROPN 
+Pechurkin, PROPN 
+V., PROPN 
+A., NOUN 
+1968, NUM 
+Effectivnost, PROPN 
+teploperenosa, NOUN 
+
+, SPACE 
+na, AUX 
+poverkhnost, VERB 
+plity, NOUN 
+ot, PROPN 
+vysokotemperaturnoi, PROPN 
+strui, PROPN 
+produktov, PROPN 
+
+, SPACE 
+sjoraniya, PROPN 
+razlichnykh, PROPN 
+gazov, PROPN 
+Teoriya, PROPN 
+Praktika, PROPN 
+Szhiganiya, PROPN 
+Gaza, PROPN 
+4, NUM 
+
+, SPACE 
+134, NUM 
+143, NUM 
+Russian, PROPN 
+
+, SPACE 
+Sibulkin, PROPN 
+M., PROPN 
+1952, NUM 
+Heat, NOUN 
+transfer, NOUN 
+near, ADP 
+forward, ADJ 
+stagnation, NOUN 
+point, NOUN 
+
+, SPACE 
+body, NOUN 
+revolution, NOUN 
+J., PROPN 
+Aero, PROPN 
+Sci, PROPN 
+19, NUM 
+570, NUM 
+571, NUM 
+
+, SPACE 
+Smith, PROPN 
+R., PROPN 
+B., PROPN 
+Lowes, PROPN 
+T., PROPN 
+M., PROPN 
+1974, NUM 
+Convective, ADJ 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+impinging, VERB 
+tunnel, NOUN 
+burner, NOUN 
+flames, NOUN 
+short, ADJ 
+report, NOUN 
+NG-4, ADJ 
+
+, SPACE 
+trials, NOUN 
+Int, ADJ 
+Flame, PROPN 
+Research, PROPN 
+Foundation, PROPN 
+Report, PROPN 
+F, PROPN 
+35, NUM 
+a/9, NOUN 
+
+, SPACE 
+IJmuiden, PROPN 
+Netherlands, PROPN 
+
+, SPACE 
+Vizioz, PROPN 
+J., PROPN 
+-P., PROPN 
+Lowes, PROPN 
+T., PROPN 
+M., PROPN 
+1971, NUM 
+Convective, ADJ 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+impinging, VERB 
+flame, NOUN 
+jets, NOUN 
+Int, ADJ 
+Flame, PROPN 
+Research, PROPN 
+Foundation, PROPN 
+Report, PROPN 
+F, PROPN 
+
+, SPACE 
+35, NUM 
+a/6, NOUN 
+IJmuiden, PROPN 
+Netherlands, PROPN 
+
+, SPACE 
+Woodruff, PROPN 
+L., PROPN 
+W., PROPN 
+Giedt, PROPN 
+W., PROPN 
+H., PROPN 
+1966, NUM 
+Heat, NOUN 
+transfer, NOUN 
+measurements, NOUN 
+
+, SPACE 
+partially, ADV 
+dissociated, VERB 
+gas, NOUN 
+high, ADJ 
+Lewis, PROPN 
+number, NOUN 
+J., PROPN 
+Heat, PROPN 
+
+, SPACE 
+Trans, PROPN 
+88, NUM 
+415, NUM 
+420, NUM 
+
+, SPACE 
+H.-Z., NOUN 
+1985, NUM 
+Investigation, NOUN 
+fire, NOUN 
+plume, NOUN 
+impingement, VERB 
+hori-, NOUN 
+
+, SPACE 
+zontal, ADJ 
+ceiling, NOUN 
+2, NUM 
+Impingement, ADJ 
+ceiling, NOUN 
+jet, NOUN 
+regions, NOUN 
+Fire, PROPN 
+
+, SPACE 
+Mater, PROPN 
+9, NUM 
+46, NUM 
+56, NUM 
+
+, SPACE 
+Zukauskas, PROPN 
+A., PROPN 
+Ziugzda, PROPN 
+J., PROPN 
+1985, NUM 
+Heat, NOUN 
+Transfer, PROPN 
+Crossflow, PROPN 
+
+, SPACE 
+Hemisphere, PROPN 
+Bristol, PROPN 
+PA, PROPN 
+88, NUM 
+
+, SPACE 
+396, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+4, NUM 
+August, PROPN 
+1996, NUM 
+
+
+, SPACE 

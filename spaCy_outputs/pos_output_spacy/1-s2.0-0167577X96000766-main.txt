@@ -1,0 +1,2809 @@
+ELSEVIER, PROPN 
+October, PROPN 
+1996, NUM 
+
+, SPACE 
+Materials, PROPN 
+Letters, PROPN 
+28, NUM 
+1996, NUM 
+341, NUM 
+346, NUM 
+
+, SPACE 
+Matrix, PROPN 
+mediated, VERB 
+control, NOUN 
+morphology, NOUN 
+para, NOUN 
+nitroaniline, NOUN 
+
+, SPACE 
+dispersed, VERB 
+polymeric, ADJ 
+composites, NOUN 
+
+, SPACE 
+S., PROPN 
+Radhakrishnan, PROPN 
+C., PROPN 
+Saujanya, PROPN 
+
+, SPACE 
+Polyner, PROPN 
+Science, PROPN 
+Engineering, PROPN 
+National, PROPN 
+Chemical, PROPN 
+Laboratory, PROPN 
+Pune, PROPN 
+411008, NUM 
+India, PROPN 
+
+, SPACE 
+Received, VERB 
+20, NUM 
+December, PROPN 
+1995, NUM 
+revised, VERB 
+23, NUM 
+February, PROPN 
+1996, NUM 
+accepted, VERB 
+8, NUM 
+March, PROPN 
+1996, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+structure, NOUN 
+morphology, NOUN 
+para, PROPN 
+nitroaniline, NOUN 
+dispersed, VERB 
+polymers, NOUN 
+polymethyl, PROPN 
+methacrylate, PROPN 
+
+, SPACE 
+polyvinyl, ADJ 
+alcohol, PROPN 
+polvinyl, NOUN 
+acetate, NOUN 
+polyethylene, NOUN 
+oxide, NOUN 
+investigated, VERB 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+optical, ADJ 
+polarizing, NOUN 
+
+, SPACE 
+microscopy, NOUN 
+function, NOUN 
+composition, NOUN 
+low, ADJ 
+concentrations, NOUN 
+material, NOUN 
+showed, VERB 
+little, ADJ 
+structure, NOUN 
+concentrations, NOUN 
+
+, SPACE 
+40, NUM 
+high, ADJ 
+crystallinity, NOUN 
+observed, VERB 
+cases, NOUN 
+crystal, NOUN 
+structure, NOUN 
+conformed, VERB 
+monoclinic, ADJ 
+
+, SPACE 
+=, PROPN 
+12.33, NUM 
+h, NOUN 
+=, X 
+6.07, NUM 
+c, NOUN 
+=, NUM 
+8.59, NUM 
+l3, PROPN 
+=, VERB 
+91.45, NUM 
+intensities, NOUN 
+different, ADJ 
+peaks, NOUN 
+especially, ADV 
+101, NUM 
+012, NUM 
+reflections, NOUN 
+
+, SPACE 
+type, NOUN 
+growth, NOUN 
+habit, NOUN 
+morphology, NOUN 
+strongly, ADV 
+dependent, ADJ 
+polymer, NOUN 
+
+, SPACE 
+Keywords, NOUN 
+Morphology, NOUN 
+Para, PROPN 
+nitroaniline, NOUN 
+Dispersed, VERB 
+Polymeric, ADJ 
+composites, NOUN 
+
+, SPACE 
+1, NUM 
+Introduction, NOUN 
+
+, SPACE 
+Polymer, PROPN 
+dispersed, VERB 
+electroactive, ADJ 
+photoactive, ADJ 
+
+, SPACE 
+materials, NOUN 
+drawn, VERB 
+considerable, ADJ 
+attention, NOUN 
+recent, ADJ 
+
+, SPACE 
+years, NOUN 
+potential, ADJ 
+applications, NOUN 
+opto-, DET 
+
+, SPACE 
+electronics, NOUN 
+especially, ADV 
+large, ADJ 
+area, NOUN 
+components, NOUN 
+
+, SPACE 
+devices, NOUN 
+l-4, PROPN 
+cases, NOUN 
+optically, ADV 
+active, ADJ 
+
+, SPACE 
+material, NOUN 
+liquid, ADJ 
+crystal, NOUN 
+compound, NOUN 
+LC, NOUN 
+
+, SPACE 
+nonlinear, VERB 
+optically, ADV 
+active, ADJ 
+NLO, PROPN 
+crystals, NOUN 
+
+, SPACE 
+meta, ADJ 
+nitroaniline, NOUN 
+azo, ADJ 
+benzene, NOUN 
+derivatives, NOUN 
+etc, X 
+
+, SPACE 
+dispersed, VERB 
+polymeric, ADJ 
+matrix, NOUN 
+processed, VERB 
+
+, SPACE 
+different, ADJ 
+forms, NOUN 
+suitable, ADJ 
+specific, ADJ 
+applications, NOUN 
+
+, SPACE 
+polymer, NOUN 
+matrix, NOUN 
+essentially, ADV 
+helps, VERB 
+processing, NOUN 
+
+, SPACE 
+binding, VERB 
+active, ADJ 
+materials, NOUN 
+earlier, ADJ 
+reports, NOUN 
+
+, SPACE 
+Corresponding, PROPN 
+author, NOUN 
+authors, NOUN 
+mainly, ADV 
+concerned, VERB 
+electri-, NOUN 
+
+, SPACE 
+cal, ADJ 
+optical, ADJ 
+properties, NOUN 
+polymer, NOUN 
+dispersed, VERB 
+
+, SPACE 
+systems, NOUN 
+polymer, NOUN 
+fact, NOUN 
+considered, VERB 
+
+, SPACE 
+inert, ADJ 
+4, NUM 
+61, NUM 
+polymers, NOUN 
+
+, SPACE 
+interact, VERB 
+optically, ADV 
+active, ADJ 
+materials, NOUN 
+polar, ADJ 
+
+, SPACE 
+hydrogen, NOUN 
+bonding, NOUN 
+groups, NOUN 
+hand, NOUN 
+
+, SPACE 
+modification, NOUN 
+structure, NOUN 
+morphology, NOUN 
+
+, SPACE 
+polymeric, ADJ 
+media, NOUN 
+increasingly, ADV 
+impor-, ADJ 
+
+, SPACE 
+tant, NOUN 
+area, NOUN 
+developing, VERB 
+new, ADJ 
+materials, NOUN 
+
+, SPACE 
+molecular, ADJ 
+composites, NOUN 
+nano, NOUN 
+materials, NOUN 
+etc, X 
+7, NUM 
+IO, PROPN 
+
+, SPACE 
+investigation, NOUN 
+para, PROPN 
+nitroaniline, PROPN 
+
+, SPACE 
+PNA, PROPN 
+dispersed, VERB 
+polymeric, ADJ 
+composite, NOUN 
+important, ADJ 
+
+, SPACE 
+NLO, PROPN 
+material, NOUN 
+observed, VERB 
+peculiar, ADJ 
+structural, ADJ 
+fea-, ADJ 
+
+, SPACE 
+tures, NOUN 
+developed, VERB 
+dependent, ADJ 
+
+, SPACE 
+polymer, NOUN 
+matrix, NOUN 
+dispersion, NOUN 
+novel, NOUN 
+
+, SPACE 
+features, NOUN 
+described, VERB 
+briefly, ADV 
+present, ADJ 
+commu-, ADJ 
+
+, SPACE 
+nication, NOUN 
+
+, SPACE 
+00167, NUM 
+577X/96/$12.00, NUM 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+PIf, NOUN 
+SO167, PROPN 
+577X(96)00076, NUM 
+6, NUM 
+
+, SPACE 
+342, NUM 
+S., PROPN 
+Radhakrishnan, PROPN 
+C., PROPN 
+Saujanya, PROPN 
+Materials, PROPN 
+Letters, PROPN 
+28, NUM 
+1996, NUM 
+341, NUM 
+346, NUM 
+
+, SPACE 
+2, NUM 
+Experimental, ADJ 
+
+, SPACE 
+polymer, NOUN 
+dispersed, VERB 
+PNA, PROPN 
+composite, ADJ 
+films, NOUN 
+
+, SPACE 
+dissolving, VERB 
+components, NOUN 
+suitable, ADJ 
+
+, SPACE 
+solvent, NOUN 
+casting, VERB 
+solution, NOUN 
+flat, ADJ 
+glass, NOUN 
+sub-, NOUN 
+
+, SPACE 
+strates, NOUN 
+held, VERB 
+30, NUM 
+°, NUM 
+C, NOUN 
+preferably, ADV 
+dry, ADJ 
+conditions, NOUN 
+
+, SPACE 
+RH, NOUN 
+40, NUM 
+different, ADJ 
+polymers, NOUN 
+
+, SPACE 
+dispersing, VERB 
+matrix, NOUN 
+growth, NOUN 
+media, NOUN 
+poly-, NOUN 
+
+, SPACE 
+ethylene, NOUN 
+oxide, NOUN 
+PEO, PROPN 
+polyox, ADJ 
+WSR, PROPN 
+N350, PROPN 
+BDH, PROPN 
+
+, SPACE 
+UK, PROPN 
+polyvinyl, ADJ 
+alcohol, NOUN 
+PVA, PROPN 
+MW, PROPN 
+75000, NUM 
+Loba, PROPN 
+
+, SPACE 
+Chemie, PROPN 
+India, PROPN 
+polyvinyl, NOUN 
+acetate, NOUN 
+PVAc, NOUN 
+Polyvac, PROPN 
+
+, SPACE 
+MW, PROPN 
+60000, NUM 
+Polychem, PROPN 
+India, PROPN 
+polymethyl, PROPN 
+
+, SPACE 
+methacrylate, NOUN 
+PMMA, PROPN 
+Gujpo1932, PROPN 
+HR, PROPN 
+GSFC, PROPN 
+India, PROPN 
+
+, SPACE 
+para, NOUN 
+nitroniline, PROPN 
+PNA, PROPN 
+BDH, PROPN 
+UK, PROPN 
+dissolved, VERB 
+
+, SPACE 
+acetone, NOUN 
+methanol, NOUN 
+deionized, VERB 
+water, NOUN 
+corre-, NOUN 
+
+, SPACE 
+sponding, VERB 
+polymer, NOUN 
+PMMA, PROPN 
+PVAc, PROPN 
+PVA, PROPN 
+
+, SPACE 
+PEO, PROPN 
+respectively, ADV 
+added, VERB 
+polymer, NOUN 
+
+, SPACE 
+solution, NOUN 
+films, NOUN 
+dried, VERB 
+24, NUM 
+h, NOUN 
+stored, VERB 
+
+, SPACE 
+dry, ADJ 
+conditions, NOUN 
+structure, NOUN 
+morphology, NOUN 
+
+, SPACE 
+studied, VERB 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+XRD, PROPN 
+optical, ADJ 
+
+, SPACE 
+polarizing, NOUN 
+microscopy, NOUN 
+manner, NOUN 
+re-, ADJ 
+
+, SPACE 
+ported, VERB 
+19, NUM 
+1,121, NUM 
+
+, SPACE 
+3, X 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+PNA, PROPN 
+dispersed, VERB 
+polymer, NOUN 
+films, NOUN 
+transpar-, PROPN 
+
+, SPACE 
+ent, NOUN 
+yellow, ADJ 
+appearance, NOUN 
+low, ADJ 
+concentrations, NOUN 
+
+, SPACE 
+PNA, PROPN 
+40, NUM 
+turned, VERB 
+increasingly, ADV 
+opaque, ADJ 
+
+, SPACE 
+increase, NOUN 
+PNA, PROPN 
+content, NOUN 
+40, NUM 
+
+, SPACE 
+suggesting, VERB 
+samples, NOUN 
+highly, ADV 
+crys-, ADJ 
+
+, SPACE 
+talline, NOUN 
+XRD, NOUN 
+scans, VERB 
+PNA, PROPN 
+PMMA, PROPN 
+composite, ADJ 
+
+, SPACE 
+films, NOUN 
+containing, VERB 
+different, ADJ 
+concentrations, NOUN 
+PNA, PROPN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+curves, NOUN 
+E, NOUN 
+corre-, ADJ 
+
+, SPACE 
+spond, NOUN 
+PNA, PROPN 
+concentrations, NOUN 
+10, NUM 
+20, NUM 
+40, NUM 
+60, NUM 
+
+, SPACE 
+80, NUM 
+respectively, ADV 
+evident, ADJ 
+scans, NOUN 
+
+, SPACE 
+large, ADJ 
+number, NOUN 
+sharp, ADJ 
+reflections, NOUN 
+
+, SPACE 
+appear, VERB 
+20, NUM 
+region, NOUN 
+10, NUM 
+26, NUM 
+high, ADJ 
+
+, SPACE 
+concentrations, NOUN 
+PNA, PROPN 
+decrease, NOUN 
+consider-, NOUN 
+
+, SPACE 
+ably, ADV 
+number, NOUN 
+intensity, NOUN 
+decrease, NOUN 
+
+, SPACE 
+PNA, PROPN 
+concentration, NOUN 
+increase, NOUN 
+PMMA, PROPN 
+con-, PART 
+
+, SPACE 
+tent, NOUN 
+interesting, ADJ 
+note, VERB 
+cases, NOUN 
+
+, SPACE 
+low, ADJ 
+concentrations, NOUN 
+PNA, PROPN 
+sharp, ADJ 
+
+, SPACE 
+intense, ADJ 
+peak, NOUN 
+28, NUM 
+23.2, NUM 
+fact, NOUN 
+low, ADJ 
+
+, SPACE 
+intensity, NOUN 
+pure, ADJ 
+PNA, PROPN 
+131, NUM 
+detailed, ADJ 
+analysis, NOUN 
+
+, SPACE 
+data, NOUN 
+table, NOUN 
+indicated, VERB 
+suggests, VERB 
+
+, SPACE 
+peaks, NOUN 
+assigned, VERB 
+reflections, NOUN 
+
+, SPACE 
+monoclinic, ADJ 
+structure, NOUN 
+PNA, PROPN 
+Fig, PROPN 
+1, NUM 
+Wide, ADJ 
+angle, NOUN 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+scans, NOUN 
+PNA, PROPN 
+PMMA, PROPN 
+
+, SPACE 
+molecular, ADJ 
+composite, ADJ 
+films, NOUN 
+containing, VERB 
+different, ADJ 
+concentrations, NOUN 
+
+, SPACE 
+PNA, PROPN 
+Curves, VERB 
+E, NOUN 
+correspond, NOUN 
+PNA, PROPN 
+concentrations, NOUN 
+10, NUM 
+20, NUM 
+
+, SPACE 
+40, NUM 
+60, NUM 
+80, NUM 
+respectively, ADV 
+
+, SPACE 
+reported, VERB 
+liierature, NOUN 
+viz, ADJ 
+
+, SPACE 
+l!ttice, NOUN 
+parameters, NOUN 
+=, PROPN 
+12.33, NUM 
+b, PRON 
+=, SYM 
+6.07, NUM 
+c, NOUN 
+=, SYM 
+8.59, NUM 
+
+, SPACE 
+B, PROPN 
+=, NOUN 
+91.45, NUM 
+respectively, ADV 
+14, NUM 
+large, ADJ 
+
+, SPACE 
+changes, NOUN 
+relative, ADJ 
+intensity, NOUN 
+peaks, NOUN 
+
+, SPACE 
+increase, NOUN 
+PMMA, PROPN 
+content, NOUN 
+suggest, VERB 
+
+, SPACE 
+crystalline, NOUN 
+form, NOUN 
+remains, VERB 
+
+, SPACE 
+morphology, NOUN 
+growth, NOUN 
+pattern, NOUN 
+strongly, ADV 
+influ-, ADJ 
+
+, SPACE 
+enced, VERB 
+presence, NOUN 
+PMMA, PROPN 
+PMMA, PROPN 
+
+, SPACE 
+known, VERB 
+amorphous, ADJ 
+interact, VERB 
+
+, SPACE 
+C, NOUN 
+=, SYM 
+0, NUM 
+groups, NOUN 
+NH, PROPN 
+group, NOUN 
+PNA, PROPN 
+
+, SPACE 
+molecules, NOUN 
+Assuming, VERB 
+case, NOUN 
+
+, SPACE 
+expect, VERB 
+PNA, PROPN 
+molecules, NOUN 
+constrained, VERB 
+mo-, NOUN 
+
+, SPACE 
+bility, NOUN 
+crystallization, NOUN 
+alignment, NOUN 
+
+, SPACE 
+restricted, VERB 
+certain, ADJ 
+directions, NOUN 
+lead, VERB 
+
+, SPACE 
+preferential, ADJ 
+growth, NOUN 
+crystalline, NOUN 
+faces, NOUN 
+
+, SPACE 
+changes, NOUN 
+morphological, ADJ 
+features, NOUN 
+
+, SPACE 
+order, NOUN 
+bring, VERB 
+effect, NOUN 
+molecular, ADJ 
+
+, SPACE 
+S., PROPN 
+Radhakrishnan, PROPN 
+C., PROPN 
+Saujanya, PROPN 
+Materials, PROPN 
+Letters, PROPN 
+28, NUM 
+1996, NUM 
+341, NUM 
+346, NUM 
+343, NUM 
+
+, SPACE 
+interaction, NOUN 
+polymer, NOUN 
+PNA, PROPN 
+
+, SPACE 
+growth, NOUN 
+morphology, NOUN 
+different, ADJ 
+polymers, NOUN 
+
+, SPACE 
+growth, NOUN 
+dispersing, VERB 
+media, NOUN 
+similar, ADJ 
+
+, SPACE 
+studies, NOUN 
+carried, VERB 
+data, NOUN 
+presented, VERB 
+
+, SPACE 
+salient, NOUN 
+features, NOUN 
+emerge, VERB 
+
+, SPACE 
+described, VERB 
+Fig, PROPN 
+2, NUM 
+gives, VERB 
+comparison, NOUN 
+
+, SPACE 
+XRD, PROPN 
+scans, NOUN 
+samples, NOUN 
+containing, VERB 
+
+, SPACE 
+concentrations, NOUN 
+PNA, PROPN 
+80, NUM 
+different, ADJ 
+
+, SPACE 
+polymer, NOUN 
+matrices, NOUN 
+Curves, NOUN 
+b, PROPN 
+c, NOUN 
+d, X 
+corre-, ADJ 
+
+, SPACE 
+spond, NOUN 
+PMMA, PROPN 
+PVAc, PROPN 
+PVA, PROPN 
+PEO, PROPN 
+matrix, NOUN 
+
+, SPACE 
+respectively, ADV 
+clearly, ADV 
+large, ADJ 
+differences, NOUN 
+
+, SPACE 
+intensities, NOUN 
+peaks, NOUN 
+change, NOUN 
+
+, SPACE 
+polymer, NOUN 
+matrix, NOUN 
+detailed, ADJ 
+analysis, NOUN 
+
+, SPACE 
+data, NOUN 
+indicated, VERB 
+Table, PROPN 
+1, NUM 
+gives, VERB 
+
+, SPACE 
+corresponding, VERB 
+values, NOUN 
+pure, ADJ 
+PNA, PROPN 
+evident, ADJ 
+
+, SPACE 
+data, NOUN 
+PNA, PROPN 
+crystallizes, VERB 
+
+, SPACE 
+monoclinic, ADJ 
+structure, NOUN 
+polymeric, ADJ 
+media, NOUN 
+
+, SPACE 
+different, ADJ 
+crystalline, NOUN 
+faces, NOUN 
+
+, SPACE 
+prominent, ADJ 
+polymers, NOUN 
+example, NOUN 
+012, NUM 
+peak, NOUN 
+PNA, PROPN 
+highest, ADJ 
+intensity, NOUN 
+
+, SPACE 
+PMMA, PROPN 
+PVAc, NOUN 
+202, NUM 
+peak, NOUN 
+
+, SPACE 
+strongest, ADJ 
+presence, NOUN 
+PVA, PROPN 
+PEO, PROPN 
+
+, SPACE 
+mentioned, VERB 
+PEO, PROPN 
+poly-, NOUN 
+
+, SPACE 
+mers, NOUN 
+mainly, ADV 
+amorphous, ADJ 
+15, NUM 
+
+, SPACE 
+crystallizing, VERB 
+component, NOUN 
+PNA, PROPN 
+interesting, ADJ 
+
+, SPACE 
+note, VERB 
+polymer, NOUN 
+PNA, PROPN 
+interaction, NOUN 
+case, NOUN 
+
+, SPACE 
+PMMA, PROPN 
+PVAc, PROPN 
+expected, VERB 
+C, PROPN 
+=, SYM 
+0, NUM 
+
+, SPACE 
+NH, PROPN 
+groups, NOUN 
+PVA, PROPN 
+OH, NOUN 
+
+, SPACE 
+group, NOUN 
+PNA, PROPN 
+hand, NOUN 
+PEO, PROPN 
+
+, SPACE 
+known, VERB 
+form, VERB 
+complexes, NOUN 
+NH, PROPN 
+containing, VERB 
+
+, SPACE 
+compounds, NOUN 
+urea, NOUN 
+expect, VERB 
+
+, SPACE 
+similar, ADJ 
+type, NOUN 
+interactions, NOUN 
+PEO, PROPN 
+PNA, PROPN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+shows, VERB 
+optical, ADJ 
+polarizing, NOUN 
+micrographs, NOUN 
+
+, SPACE 
+PNA, PROPN 
+polymer, NOUN 
+composite, ADJ 
+films, NOUN 
+having, VERB 
+80, NUM 
+
+, SPACE 
+PNA, PROPN 
+different, ADJ 
+polymer, NOUN 
+matrices, NOUN 
+PMMA, PROPN 
+b, PROPN 
+
+, SPACE 
+PEO, PROPN 
+c, NOUN 
+>, X 
+PVA, PROPN 
+d, X 
+PVAc, NOUN 
+respectively, ADV 
+dis-, NOUN 
+
+, SPACE 
+tinctly, ADV 
+different, ADJ 
+morphological, ADJ 
+features, NOUN 
+obtained, VERB 
+
+, SPACE 
+case, NOUN 
+clearly, ADV 
+revealed, VERB 
+micrographs, NOUN 
+
+, SPACE 
+Table, NOUN 
+1, NUM 
+
+, SPACE 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+PNA, PROPN 
+grown, VERB 
+different, ADJ 
+polymeric, ADJ 
+media, NOUN 
+a-, X 
+b, PROPN 
+
+, SPACE 
+PNA, PROPN 
+100, NUM 
+PMMA, PROPN 
+PVAc, NOUN 
+PVA, PROPN 
+PEO, PROPN 
+
+, SPACE 
+80, NUM 
+PNA, PROPN 
+80, NUM 
+PNA, PROPN 
+80, NUM 
+PNA, PROPN 
+80, NUM 
+PNA, PROPN 
+
+, SPACE 
+d, X 
+/IO, PROPN 
+hkl, PROPN 
+d, PROPN 
+d, X 
+IO, PROPN 
+d, NOUN 
+/IO, X 
+d, X 
+d, X 
+I/10, NUM 
+
+, SPACE 
+7.25, NUM 
+14, NUM 
+
+, SPACE 
+6.28, NUM 
+6, NUM 
+
+, SPACE 
+5.50, NUM 
+26, NUM 
+
+, SPACE 
+5.01, NUM 
+23, NUM 
+
+, SPACE 
+4.64, NUM 
+
+, SPACE 
+4.35, NUM 
+
+, SPACE 
+3.88, NUM 
+
+, SPACE 
+3.52, NUM 
+
+, SPACE 
+3.42, NUM 
+
+, SPACE 
+3.38, NUM 
+
+, SPACE 
+3.17, NUM 
+
+, SPACE 
+3.08, NUM 
+
+, SPACE 
+3.04, NUM 
+
+, SPACE 
+2.30, NUM 
+48, NUM 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+50, NUM 
+
+, SPACE 
+100, NUM 
+
+, SPACE 
+5, NUM 
+
+, SPACE 
+4, NUM 
+
+, SPACE 
+45, NUM 
+
+, SPACE 
+15, NUM 
+
+, SPACE 
+25, NUM 
+
+, SPACE 
+1, NUM 
+110, NUM 
+5.44, NUM 
+
+, SPACE 
+201, NUM 
+5.06, NUM 
+
+, SPACE 
+011, NUM 
+4.95, NUM 
+4.92, NUM 
+
+, SPACE 
+111, NUM 
+
+, SPACE 
+210, NUM 
+
+, SPACE 
+002, NUM 
+
+, SPACE 
+102/300, PROPN 
+
+, SPACE 
+211, NUM 
+
+, SPACE 
+301, NUM 
+
+, SPACE 
+202, NUM 
+
+, SPACE 
+012, NUM 
+
+, SPACE 
+310, NUM 
+
+, SPACE 
+112, NUM 
+
+, SPACE 
+311, NUM 
+
+, SPACE 
+400/212, PROPN 
+
+, SPACE 
+020, NUM 
+
+, SPACE 
+222/510, PROPN 
+4.61, NUM 
+4.59, NUM 
+
+, SPACE 
+4.55, NUM 
+
+, SPACE 
+4.32, NUM 
+
+, SPACE 
+4.29, NUM 
+4.29, NUM 
+
+, SPACE 
+4.08, NUM 
+
+, SPACE 
+3.88, NUM 
+
+, SPACE 
+3.73, NUM 
+
+, SPACE 
+3.56, NUM 
+
+, SPACE 
+3.50, NUM 
+3.49, NUM 
+
+, SPACE 
+3.40, NUM 
+
+, SPACE 
+3.38, NUM 
+
+, SPACE 
+3.18, NUM 
+3.14, NUM 
+
+, SPACE 
+3.08, NUM 
+
+, SPACE 
+3.03, NUM 
+3.03, NUM 
+
+, SPACE 
+2.30, NUM 
+2.28, NUM 
+101, NUM 
+7.12, NUM 
+6.97, NUM 
+3, NUM 
+7.02, NUM 
+
+, SPACE 
+5.37, NUM 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+4, NUM 
+36.2, NUM 
+5.34, NUM 
+12.8, NUM 
+
+, SPACE 
+4.90, NUM 
+9.26, NUM 
+
+, SPACE 
+4.62, NUM 
+16.8, NUM 
+
+, SPACE 
+4.55, NUM 
+13.4, NUM 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+4.07, NUM 
+
+, SPACE 
+3.66, NUM 
+
+, SPACE 
+3.46, NUM 
+13.4, NUM 
+
+, SPACE 
+100, NUM 
+28.3, NUM 
+
+, SPACE 
+3.60, NUM 
+
+, SPACE 
+loo, PROPN 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+3.12, NUM 
+
+, SPACE 
+15, NUM 
+
+, SPACE 
+3, NUM 
+8.98, NUM 
+
+, SPACE 
+3.03, NUM 
+16.5, NUM 
+7.56, NUM 
+66.6, NUM 
+
+, SPACE 
+7.86, NUM 
+
+, SPACE 
+6.46, NUM 
+
+, SPACE 
+3.86, NUM 
+3.78, NUM 
+3.95, NUM 
+
+, SPACE 
+3.67, NUM 
+19.6, NUM 
+3.66, NUM 
+
+, SPACE 
+100, NUM 
+3.59, NUM 
+100, NUM 
+
+, SPACE 
+3.14, NUM 
+
+, SPACE 
+3.08, NUM 
+7.56, NUM 
+56.8, NUM 
+
+, SPACE 
+6.06, NUM 
+
+, SPACE 
+5.64, NUM 
+38.6, NUM 
+
+, SPACE 
+5.09, NUM 
+
+, SPACE 
+4.79, NUM 
+15.1, NUM 
+
+, SPACE 
+34.0, NUM 
+
+, SPACE 
+3.22, NUM 
+
+, SPACE 
+18.9, NUM 
+
+, SPACE 
+21.2, NUM 
+46.9, NUM 
+
+, SPACE 
+25.7, NUM 
+
+, SPACE 
+30.3, NUM 
+
+, SPACE 
+monoclinic, ADJ 
+structure, NOUN 
+=, PROPN 
+12.33, NUM 
+b, PRON 
+=, SYM 
+6.07, NUM 
+c, NOUN 
+=, NOUN 
+8.59, NUM 
+p, NOUN 
+=, NOUN 
+91.45, NUM 
+
+, SPACE 
+b, PRON 
+Prominent, ADJ 
+peaks, NOUN 
+set, VERB 
+italics, NOUN 
+
+, SPACE 
+344, NUM 
+S., PROPN 
+Radhakrishnan, PROPN 
+C., PROPN 
+Saujanya, PROPN 
+/Materials, PUNCT 
+Letters, NOUN 
+28, NUM 
+19961341, NUM 
+346, NUM 
+
+, SPACE 
+observations, NOUN 
+clearly, ADV 
+demonstrate, VERB 
+important, ADJ 
+
+, SPACE 
+role, NOUN 
+polymer, NOUN 
+matrix, NOUN 
+specific, ADJ 
+
+, SPACE 
+interaction, NOUN 
+controlling, VERB 
+growth, NOUN 
+morphology, NOUN 
+
+, SPACE 
+crystallizing, VERB 
+component, NOUN 
+dispersed, VERB 
+
+, SPACE 
+changes, NOUN 
+relative, ADJ 
+intensities, NOUN 
+XRD, PROPN 
+scans, NOUN 
+
+, SPACE 
+understood, VERB 
+terms, NOUN 
+placement, NOUN 
+
+, SPACE 
+crystallites, NOUN 
+respect, NOUN 
+sample, NOUN 
+surface, NOUN 
+
+, SPACE 
+noted, VERB 
+samples, NOUN 
+form, NOUN 
+films, NOUN 
+
+, SPACE 
+XRD, PROPN 
+scans, NOUN 
+recorded, VERB 
+reflection, NOUN 
+mode, NOUN 
+
+, SPACE 
+wide, ADJ 
+angle, NOUN 
+X, NOUN 
+ray, NOUN 
+powder, NOUN 
+diffractometer, NOUN 
+Changes, NOUN 
+
+, SPACE 
+intensities, NOUN 
+certain, ADJ 
+reflections, NOUN 
+ex-, ADV 
+
+, SPACE 
+pected, VERB 
+crystallites, NOUN 
+preferred, ADJ 
+growth, NOUN 
+
+, SPACE 
+direction, NOUN 
+orientation, NOUN 
+respect, NOUN 
+film, NOUN 
+surface, NOUN 
+
+, SPACE 
+16,171, NUM 
+placement, NOUN 
+crystallite, NOUN 
+faces, NOUN 
+
+, SPACE 
+randomly, ADV 
+oriented, VERB 
+case, NOUN 
+sperulites, NOUN 
+
+, SPACE 
+case, NOUN 
+long, ADJ 
+needle, NOUN 
+shaped, VERB 
+crystallites, NOUN 
+
+, SPACE 
+case, NOUN 
+long, ADJ 
+axis, NOUN 
+preferentially, ADV 
+lie, VERB 
+
+, SPACE 
+film, NOUN 
+surface, NOUN 
+case, NOUN 
+platelet, NOUN 
+mor-, X 
+
+, SPACE 
+phology, NOUN 
+flat, ADJ 
+crystallite, NOUN 
+faces, NOUN 
+tend, VERB 
+
+, SPACE 
+film, NOUN 
+surface, NOUN 
+appears, VERB 
+XRD, PROPN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+scans, NOUN 
+PNA, PROPN 
+Polymer, PROPN 
+composite, ADJ 
+films, NOUN 
+
+, SPACE 
+80, NUM 
+PNA, NOUN 
+different, ADJ 
+polymers, NOUN 
+Curves, NOUN 
+b, PROPN 
+c, NOUN 
+d, X 
+
+, SPACE 
+correspond, VERB 
+PMMA, PROPN 
+PVAc, PROPN 
+PVA, PROPN 
+PEO, PROPN 
+matrix, NOUN 
+respec-, X 
+
+, SPACE 
+tively, ADV 
+scans, NOUN 
+present, ADJ 
+case, NOUN 
+bc, ADJ 
+plane, NOUN 
+
+, SPACE 
+crystal, NOUN 
+preferably, ADV 
+film, NOUN 
+surface, NOUN 
+
+, SPACE 
+PMMA, PROPN 
+PNA, PROPN 
+PVAc, PROPN 
+PNA, PROPN 
+systems, NOUN 
+giving, VERB 
+rise, NOUN 
+
+, SPACE 
+large, ADJ 
+increase, NOUN 
+012, NUM 
+reflection, NOUN 
+
+, SPACE 
+UC, PROPN 
+plane, NOUN 
+crystals, NOUN 
+film, NOUN 
+surface, NOUN 
+
+, SPACE 
+PVA, PROPN 
+PNA, PROPN 
+composite, NOUN 
+
+, SPACE 
+number, NOUN 
+reports, NOUN 
+available, ADJ 
+
+, SPACE 
+literature, NOUN 
+guest, NOUN 
+host, NOUN 
+systems, NOUN 
+polymeric, ADJ 
+
+, SPACE 
+media, NOUN 
+Kryszewski, PROPN 
+et, PROPN 
+al, PROPN 
+extensively, ADV 
+studied, VERB 
+
+, SPACE 
+dispersion, NOUN 
+charge, NOUN 
+transfer, NOUN 
+complex, ADJ 
+salts, NOUN 
+
+, SPACE 
+TTF, PROPN 
+TCNQ, PROPN 
+TTT, PROPN 
+TCNQ, PROPN 
+etc, X 
+different, ADJ 
+poly-, NOUN 
+
+, SPACE 
+mers, NOUN 
+polyvinylidene, NOUN 
+fluoride, NOUN 
+polypropylene, NOUN 
+
+, SPACE 
+etc, X 
+18, NUM 
+201, NUM 
+cases, NOUN 
+reported, VERB 
+
+, SPACE 
+morphology, NOUN 
+systems, NOUN 
+comprised, VERB 
+
+, SPACE 
+tiny, ADJ 
+filamentary, ADJ 
+type, NOUN 
+crystals, NOUN 
+dispersed, VERB 
+poly-, NOUN 
+
+, SPACE 
+meric, ADJ 
+matrix, NOUN 
+observed, VERB 
+spherulitic, ADJ 
+
+, SPACE 
+morphology, NOUN 
+charge, NOUN 
+transfer, NOUN 
+salts, NOUN 
+
+, SPACE 
+dispersed, VERB 
+polyvinylidene, NOUN 
+fluoride, NOUN 
+long, ADJ 
+
+, SPACE 
+needle, NOUN 
+shaped, VERB 
+oriented, VERB 
+crystallites, NOUN 
+grown, VERB 
+
+, SPACE 
+polypropylene, NOUN 
+discussed, VERB 
+
+, SPACE 
+features, VERB 
+reported, VERB 
+X, NOUN 
+ray, NOUN 
+
+, SPACE 
+diffraction, NOUN 
+scans, NOUN 
+main, ADJ 
+concern, NOUN 
+elec-, X 
+
+, SPACE 
+trical, ADJ 
+properties, NOUN 
+systems, NOUN 
+NLO, PROPN 
+chro-, PART 
+
+, SPACE 
+mophores, NOUN 
+based, VERB 
+azobenzene, NOUN 
+derivatives, NOUN 
+nitroani-, NOUN 
+
+, SPACE 
+lines, NOUN 
+etc, X 
+studied, VERB 
+form, NOUN 
+
+, SPACE 
+guest, NOUN 
+host, NOUN 
+systems, NOUN 
+polymers, NOUN 
+PMMA, PROPN 
+
+, SPACE 
+polycarbonate, NOUN 
+polyethylene, NOUN 
+etc, X 
+4,5,21,22, PROPN 
+
+, SPACE 
+authors, NOUN 
+report, VERB 
+chromophores, NOUN 
+molecu-, ADV 
+
+, SPACE 
+larly, ADV 
+dispersed, VERB 
+polymers, NOUN 
+
+, SPACE 
+groups, NOUN 
+found, VERB 
+additives, NOUN 
+crystal-, VERB 
+
+, SPACE 
+lize, NOUN 
+oriented, VERB 
+structures, NOUN 
+especially, ADV 
+poling, VERB 
+
+, SPACE 
+and/or, CCONJ 
+passed, VERB 
+differential, ADJ 
+temperature, NOUN 
+
+, SPACE 
+zones, NOUN 
+23,24, X 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+data, NOUN 
+
+, SPACE 
+reported, VERB 
+earlier, ADJ 
+studies, NOUN 
+
+, SPACE 
+NLO, PROPN 
+crystals, NOUN 
+dispersed, VERB 
+polymers, NOUN 
+difficult, ADJ 
+
+, SPACE 
+surmise, VERB 
+large, ADJ 
+differences, NOUN 
+found, VERB 
+
+, SPACE 
+original, NOUN 
+authors, NOUN 
+observed, VERB 
+
+, SPACE 
+samples, NOUN 
+transparent, ADJ 
+low, ADJ 
+concentrations, NOUN 
+
+, SPACE 
+guest, NOUN 
+molecules, NOUN 
+suggest, VERB 
+amor-, VERB 
+
+, SPACE 
+phous, ADJ 
+present, ADJ 
+case, NOUN 
+found, VERB 
+
+, SPACE 
+samples, NOUN 
+transparent, ADJ 
+low, ADJ 
+
+, SPACE 
+concentrations, NOUN 
+PNA, PROPN 
+20, NUM 
+exhibit, VERB 
+
+, SPACE 
+distinct, ADJ 
+diffraction, NOUN 
+peaks, NOUN 
+
+, SPACE 
+exact, ADJ 
+mechanism, NOUN 
+morphology, NOUN 
+
+, SPACE 
+crystals, NOUN 
+additives, NOUN 
+grown, VERB 
+differ-, ADJ 
+
+, SPACE 
+ent, NOUN 
+polymers, NOUN 
+changes, NOUN 
+fully, ADV 
+understood, VERB 
+
+, SPACE 
+instance, NOUN 
+appear, VERB 
+changes, NOUN 
+
+, SPACE 
+observed, VERB 
+present, ADJ 
+studies, NOUN 
+
+, SPACE 
+different, ADJ 
+solvents, NOUN 
+Recently, ADV 
+Liu, PROPN 
+et, PROPN 
+al, PROPN 
+25, NUM 
+dispersing, VERB 
+PNA, PROPN 
+case, NOUN 
+single, ADJ 
+strong, ADJ 
+
+, SPACE 
+reported, VERB 
+effect, NOUN 
+solvents, NOUN 
+growth, NOUN 
+mor-, VERB 
+012, NUM 
+peak, NOUN 
+PNA, PROPN 
+observed, VERB 
+emerge, VERB 
+promi-, NOUN 
+
+, SPACE 
+phology, NOUN 
+crystals, NOUN 
+seen, VERB 
+nently, ADV 
+concentration, NOUN 
+20, NUM 
+PNA, PROPN 
+Fig, PROPN 
+
+, SPACE 
+case, NOUN 
+PEO, PROPN 
+PVAc, NOUN 
+solvent, NOUN 
+4, NUM 
+certainly, ADV 
+points, VERB 
+interaction, NOUN 
+
+, SPACE 
+viz, PROPN 
+methanol, PROPN 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+shows, VERB 
+C, PROPN 
+=, SYM 
+0, NUM 
+NH, PROPN 
+groups, NOUN 
+source, NOUN 
+modifi-, ADJ 
+
+, SPACE 
+large, ADJ 
+changes, NOUN 
+intensities, NOUN 
+peaks, NOUN 
+cation, NOUN 
+growth, NOUN 
+pattern, NOUN 
+and/or, CCONJ 
+changes, NOUN 
+
+, SPACE 
+cases, NOUN 
+Similarly, ADV 
+case, NOUN 
+PMMA, PROPN 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+scans, VERB 
+samples, NOUN 
+Tenta-, PROPN 
+
+, SPACE 
+solvent, NOUN 
+acetone, NOUN 
+PVA, PROPN 
+tively, ADV 
+consider, VERB 
+initial, ADJ 
+stages, NOUN 
+
+, SPACE 
+acetone, NOUN 
+water, NOUN 
+mixture, NOUN 
+cases, NOUN 
+film, NOUN 
+formation, NOUN 
+PNA, PROPN 
+molecules, NOUN 
+attracted, VERB 
+
+, SPACE 
+similarity, NOUN 
+observed, VERB 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+selectively, ADV 
+C, NOUN 
+=, SYM 
+0, NUM 
+groups, NOUN 
+PMMA, PROPN 
+juxta-, NOUN 
+
+, SPACE 
+morphology, NOUN 
+effect, NOUN 
+solvent, NOUN 
+posed, VERB 
+perpendicular, ADJ 
+position, NOUN 
+main, ADJ 
+
+, SPACE 
+main, ADJ 
+cause, NOUN 
+changes, NOUN 
+observed, VERB 
+PMMA, PROPN 
+chain, NOUN 
+subsequent, ADJ 
+arrival, NOUN 
+PNA, PROPN 
+
+, SPACE 
+present, ADJ 
+case, NOUN 
+hand, NOUN 
+considers, VERB 
+molecules, NOUN 
+constrained, VERB 
+initial, ADJ 
+molecular, ADJ 
+
+, SPACE 
+molecular, ADJ 
+interactions, NOUN 
+guest, NOUN 
+recognition, NOUN 
+effect, NOUN 
+restricted, VERB 
+growth, NOUN 
+
+, SPACE 
+host, NOUN 
+molecules, NOUN 
+PMMA, PROPN 
+PVAc, NOUN 
+C, NOUN 
+=, SYM 
+0, NOUN 
+crystals, NOUN 
+takes, VERB 
+place, NOUN 
+constrained, VERB 
+certain, ADJ 
+direc-, ADJ 
+
+, SPACE 
+groups, NOUN 
+interact, VERB 
+NH, PROPN 
+group, NOUN 
+tions, NOUN 
+molecular, ADJ 
+recognition, NOUN 
+effects, NOUN 
+
+, SPACE 
+PNA, PROPN 
+PMMA, PROPN 
+PNA, PROPN 
+PVAc-, PROPN 
+reported, VERB 
+past, NOUN 
+organic, ADJ 
+crystals, NOUN 
+benzamide, NOUN 
+
+, SPACE 
+PNA, PROPN 
+composites, NOUN 
+exhibit, VERB 
+similar, ADJ 
+X, NOUN 
+ray, NOUN 
+diffrac-, NOUN 
+glysine, NOUN 
+cyanamide, NOUN 
+etc, X 
+>, X 
+grown, VERB 
+presence, NOUN 
+
+, SPACE 
+tion, NOUN 
+scans, NOUN 
+XRD, PROPN 
+scans, NOUN 
+different, ADJ 
+certain, ADJ 
+additives, NOUN 
+benzoic, ADJ 
+acid, NOUN 
+nitorphenyl, NOUN 
+lysine, NOUN 
+
+, SPACE 
+observed, VERB 
+PVA, PROPN 
+PNA, PROPN 
+PEO, PROPN 
+PNA, PROPN 
+cinnamic, ADJ 
+acid, NOUN 
+26,27, X 
+polymer, NOUN 
+
+, SPACE 
+common, ADJ 
+features, NOUN 
+affect, VERB 
+rate, NOUN 
+evaporation, NOUN 
+solvent, NOUN 
+
+, SPACE 
+mentioned, VERB 
+polycarbonate, NOUN 
+Lexan, PROPN 
+101, NUM 
+GE, PROPN 
+contribute, VERB 
+restrictions, NOUN 
+diffusion, NOUN 
+
+, SPACE 
+Plastics, PROPN 
+matrix, NOUN 
+PNA, PROPN 
+molecules, NOUN 
+polymer, NOUN 
+solution, NOUN 
+thickens, VERB 
+
+, SPACE 
+b, PROPN 
+S., PROPN 
+Radhakrishnan, PROPN 
+C., PROPN 
+Saujanya, PROPN 
+/Materials, PUNCT 
+Letters, NOUN 
+28, NUM 
+1996, NUM 
+341, NUM 
+346, NUM 
+345, NUM 
+
+, SPACE 
+C, PROPN 
+d, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Optical, ADJ 
+polarizing, NOUN 
+micrographs, NOUN 
+PNA, PROPN 
+polymer, NOUN 
+composite, ADJ 
+films, NOUN 
+80, NUM 
+PNA, PROPN 
+PMMA, PROPN 
+b, X 
+PEO, PROPN 
+c, NOUN 
+PVA, PROPN 
+d, X 
+PVAc, NOUN 
+
+, SPACE 
+matrix, NOUN 
+respectively, ADV 
+Magnification, PROPN 
+150, NUM 
+X, PROPN 
+cross, ADJ 
+polarized, ADJ 
+condition, NOUN 
+
+, SPACE 
+S., PROPN 
+Radhakrishnan, PROPN 
+C., PROPN 
+Saujanya, PROPN 
+/Materials, PUNCT 
+Letters, NOUN 
+28, NUM 
+1996, NUM 
+341, NUM 
+346, NUM 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+
+, SPACE 
+30, NUM 
+25, NUM 
+20, NUM 
+15, NUM 
+
+, SPACE 
+-DIFFRACTION, PUNCT 
+ANGLE, PROPN 
+28-, NUM 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+scans, NOUN 
+polycarbonate, PROPN 
+PNA, PROPN 
+composite, ADJ 
+
+, SPACE 
+films, NOUN 
+containing, VERB 
+10, NUM 
+b, X 
+20, NUM 
+c, NOUN 
+25, NUM 
+d, X 
+35, NUM 
+PNA, PROPN 
+
+, SPACE 
+possibly, ADV 
+forming, VERB 
+gel, PROPN 
+film, NOUN 
+formation, NOUN 
+
+, SPACE 
+process, NOUN 
+work, NOUN 
+progress, NOUN 
+delineate, VERB 
+
+, SPACE 
+importance, NOUN 
+parameters, NOUN 
+contributing, VERB 
+
+, SPACE 
+modification, NOUN 
+crystal, NOUN 
+growth, NOUN 
+morphol-, NOUN 
+
+, SPACE 
+ogy, NOUN 
+polymeric, ADJ 
+media, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+B.G., PROPN 
+Wu, PROPN 
+J.L., PROPN 
+West, PROPN 
+J.W., PROPN 
+Doanne, PROPN 
+J., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+62, NUM 
+
+, SPACE 
+1987, NUM 
+3925, NUM 
+
+, SPACE 
+2, X 
+M.J., PROPN 
+Bowden, PROPN 
+S., PROPN 
+Turner, PROPN 
+Electronic, PROPN 
+photonic, ADJ 
+applica-, NOUN 
+
+, SPACE 
+tions, NOUN 
+polymers, NOUN 
+ACS, PROPN 
+Washington, PROPN 
+1988, NUM 
+
+, SPACE 
+3, X 
+P., PROPN 
+Pantelis, PROPN 
+G.J., PROPN 
+Davis, PROPN 
+Patent, PROPN 
+4748074, NUM 
+1988, NUM 
+41, NUM 
+
+, SPACE 
+51, NUM 
+
+, SPACE 
+61, NUM 
+
+, SPACE 
+71, NUM 
+
+, SPACE 
+81, NUM 
+
+, SPACE 
+91, NUM 
+
+, SPACE 
+1101, NUM 
+
+, SPACE 
+II, PROPN 
+
+, SPACE 
+I21, PROPN 
+
+, SPACE 
+I131, PROPN 
+
+, SPACE 
+I41, PROPN 
+
+, SPACE 
+I51, PROPN 
+
+, SPACE 
+I61, PROPN 
+
+, SPACE 
+171, NUM 
+
+, SPACE 
+I81, PROPN 
+
+, SPACE 
+I91, PROPN 
+
+, SPACE 
+DOI, PROPN 
+
+, SPACE 
+El1, VERB 
+
+, SPACE 
+D21, PROPN 
+
+, SPACE 
+231, NUM 
+
+, SPACE 
+241, NUM 
+
+, SPACE 
+D51, PROPN 
+
+, SPACE 
+I261, NOUN 
+
+, SPACE 
+b71, NOUN 
+R.A., PROPN 
+Hann, PROPN 
+adn, NOUN 
+D., PROPN 
+Bloor, PROPN 
+Organic, ADJ 
+materials, NOUN 
+nonlinear, ADJ 
+
+, SPACE 
+optics, NOUN 
+Royal, PROPN 
+Sot, PROPN 
+Chemistry, PROPN 
+London, PROPN 
+1989, NUM 
+
+, SPACE 
+R.W., PROPN 
+Munn, PROPN 
+C.N., PROPN 
+Ironside, ADV 
+Principles, NOUN 
+applications, NOUN 
+
+, SPACE 
+nonlinear, ADJ 
+optical, ADJ 
+materials, NOUN 
+Blackie, PROPN 
+Academic, PROPN 
+London, PROPN 
+
+, SPACE 
+1993, NUM 
+
+, SPACE 
+P.P., PROPN 
+Muhoray, PROPN 
+M., PROPN 
+Lee, PROPN 
+J.L., PROPN 
+West, PROPN 
+Mol, PROPN 
+Cryst, PROPN 
+Liquid, PROPN 
+
+, SPACE 
+Cryst, PROPN 
+179, NUM 
+1990, NUM 
+445, NUM 
+
+, SPACE 
+J.C., PROPN 
+Wittman, PROPN 
+P., PROPN 
+Smith, PROPN 
+Nature, PROPN 
+352, NUM 
+1991, NUM 
+414, NUM 
+
+, SPACE 
+H.R., PROPN 
+Allock, PROPN 
+Science, PROPN 
+255, NUM 
+1992, NUM 
+1106, NUM 
+
+, SPACE 
+S., PROPN 
+Radhakrishnan, PROPN 
+J.M., PROPN 
+Schultz, PROPN 
+J., PROPN 
+Cryst, PROPN 
+Growth, NOUN 
+116, NUM 
+
+, SPACE 
+1992, NUM 
+378, NUM 
+
+, SPACE 
+P.A., PROPN 
+Bianconi, PROPN 
+J., PROPN 
+Lin, PROPN 
+A.R., PROPN 
+Strzelecki, PROPN 
+Nature, PROPN 
+349, NUM 
+1991, NUM 
+
+, SPACE 
+315, NUM 
+
+, SPACE 
+S., PROPN 
+Radhakrishnan, PROPN 
+D.R., PROPN 
+Saini, PROPN 
+J., PROPN 
+Cryst, PROPN 
+Growth, NOUN 
+129, NUM 
+
+, SPACE 
+1993, NUM 
+191, NUM 
+
+, SPACE 
+S., PROPN 
+Radhakrishnan, PROPN 
+A.B., PROPN 
+Mandale, PROPN 
+Synth, PROPN 
+Met, PROPN 
+62, NUM 
+1994, NUM 
+
+, SPACE 
+217, NUM 
+
+, SPACE 
+ASTM, PROPN 
+Diffraction, PROPN 
+File, PROPN 
+l-0585, PROPN 
+ASTM, PROPN 
+Publ, PROPN 
+Washington, PROPN 
+
+, SPACE 
+1962, NUM 
+
+, SPACE 
+W.G., PROPN 
+Wykoff, PROPN 
+Crystal, PROPN 
+structures, NOUN 
+Vol, PROPN 
+6, NUM 
+Wiley, PROPN 
+New, PROPN 
+York, PROPN 
+
+, SPACE 
+1969, NUM 
+p.122, PROPN 
+
+, SPACE 
+M., PROPN 
+Brydson, PROPN 
+Plastics, PROPN 
+materials, NOUN 
+Butterworth, PROPN 
+London, PROPN 
+1982, NUM 
+
+, SPACE 
+L.E., PROPN 
+Alexander, PROPN 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+methods, NOUN 
+polymer, NOUN 
+sci-, NOUN 
+
+, SPACE 
+ence, NOUN 
+Wiley, PROPN 
+New, PROPN 
+York, PROPN 
+1969, NUM 
+
+, SPACE 
+E.F., PROPN 
+Kaelble, PROPN 
+Handbook, PROPN 
+X, NOUN 
+rays, NOUN 
+McGraw, PROPN 
+Hill, PROPN 
+New, PROPN 
+York, PROPN 
+
+, SPACE 
+1967, NUM 
+
+, SPACE 
+A., PROPN 
+Tracz, PROPN 
+J.K., PROPN 
+Jeska, PROPN 
+El, PROPN 
+Shafee, PROPN 
+J., PROPN 
+Ulanski, PROPN 
+M., PROPN 
+
+, SPACE 
+Kryszewski, PROPN 
+J., PROPN 
+Phys, PROPN 
+D., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+19, NUM 
+1986, NUM 
+1047, NUM 
+
+, SPACE 
+C.H., PROPN 
+Choi, PROPN 
+A., NOUN 
+Tracz, PROPN 
+J.K., PROPN 
+Jeska, PROPN 
+G., PROPN 
+Boiteux, PROPN 
+G., PROPN 
+Seztre, PROPN 
+J., PROPN 
+
+, SPACE 
+Ulanski, PROPN 
+M., PROPN 
+Kryszewski, PROPN 
+Synth, PROPN 
+Met, PROPN 
+37, NUM 
+1990, NUM 
+181, NUM 
+
+, SPACE 
+A., NOUN 
+Tracz, PROPN 
+El, PROPN 
+Shafee, PROPN 
+J., PROPN 
+Ulanski, PROPN 
+M., PROPN 
+Kryszewski, PROPN 
+Synth, PROPN 
+
+, SPACE 
+Met, PROPN 
+37, NUM 
+1990, NUM 
+175, NUM 
+
+, SPACE 
+F., PROPN 
+Wan, PROPN 
+G.O., PROPN 
+Carlisle, PROPN 
+K., PROPN 
+Koch, PROPN 
+D.R., PROPN 
+Martinez, PROPN 
+J., PROPN 
+Mater, PROPN 
+
+, SPACE 
+Sci, PROPN 
+Mater, PROPN 
+Electron, PROPN 
+6, NUM 
+1995, NUM 
+228, NUM 
+
+, SPACE 
+G.R., PROPN 
+Mohlman, PROPN 
+Synth, PROPN 
+Met, PROPN 
+37, NUM 
+1990, NUM 
+207, NUM 
+
+, SPACE 
+G.H., PROPN 
+Cross, PROPN 
+T.L., PROPN 
+Axon, PROPN 
+D., PROPN 
+Bloor, PROPN 
+R.R., PROPN 
+Rangel, PROPN 
+A.K., PROPN 
+Kar, PROPN 
+
+, SPACE 
+B.S., PROPN 
+Wherrett, PROPN 
+Proc, PROPN 
+SPIIE, PROPN 
+Int, PROPN 
+Sot, PROPN 
+Opt, PROPN 
+Eng, PROPN 
+1775, NUM 
+Nonlin-, PROPN 
+
+, SPACE 
+ear, VERB 
+Optical, PROPN 
+Properties, PROPN 
+1775, NUM 
+1993, NUM 
+p., NOUN 
+54, NUM 
+
+, SPACE 
+N., PROPN 
+Azoz, PROPN 
+P.D., PROPN 
+Calve, PROPN 
+M., PROPN 
+Kadin, PROPN 
+A.J., PROPN 
+McCaffeny, PROPN 
+K.R., PROPN 
+
+, SPACE 
+Seddon, PROPN 
+Nature, PROPN 
+344, NUM 
+1990, NUM 
+49, NUM 
+
+, SPACE 
+X.Y., PROPN 
+Liu, PROPN 
+E.S., PROPN 
+Boek, PROPN 
+W.J., PROPN 
+Briels, PROPN 
+P., PROPN 
+Bennema, PROPN 
+Nature, PROPN 
+
+, SPACE 
+374, NUM 
+1995, NUM 
+342, NUM 
+
+, SPACE 
+I., PROPN 
+Weissbuch, PROPN 
+L., PROPN 
+Addadi, PROPN 
+M., PROPN 
+Lahav, PROPN 
+L., PROPN 
+Leiserowitz, PROPN 
+
+, SPACE 
+Science, PROPN 
+253, NUM 
+1991, NUM 
+637, NUM 
+
+, SPACE 
+J.D., PROPN 
+Wright, PROPN 
+Molecular, ADJ 
+crystals, NOUN 
+Cambridge, PROPN 
+University, PROPN 
+Press, PROPN 
+
+, SPACE 
+Cambridge, PROPN 
+1989, NUM 
+p., NOUN 
+108, NUM 
+
+, SPACE 

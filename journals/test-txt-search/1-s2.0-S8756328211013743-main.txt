@@ -1,0 +1,613 @@
+Original Full Length Article
+Elevated cross-talk between subchondral bone and cartilage in osteoarthritic joints
+Jun Pana,b,⁎⁎, Bin Wanga,b, Wen Lib, Xiaozhou Zhoub, Thomas Scherrb, Yunyi Yangb,
+Christopher Priceb, Liyun Wangb,⁎
+aKey Laboratory for Biorheological Science and Technology of Ministry of Education, Bioengineering College, Chongqing University, Chongqing 4000 44, PR China
+bCenter for Biomedical Engineering Research, Department of Mechanical Engineering, University of Delaware, Newark, DE 19716, USA
+abstract article info
+Article history:
+Received 9 September 2011
+Revised 20 November 2011Accepted 29 November 2011Available online 16 December 2011
+Keyword:Calciﬁed cartilage
+Osteochondral interface
+Permeability
+AgeingDestabilized medial meniscusOsteoarthritis (OA) is a degenerative joint disease and one of the leading causes of disability in the United
+States and across the world. As a disease of the whole joint, OA exhibits a complicated etiology with risk fac-
+tors including, but not limited to, ageing, altered joint loading, and injury. Subchondral bone is hypothesized
+to be involved in OA development. However, direct evidence supporting this is lacking. We previouslydetected measurable transport of solute across the mineralized calci ﬁed cartilage in normal joints, suggesting
+a potential cross-talk between subchondral bone and cartilage. Whether this cross-talk exists in OA has not
+been established yet. Using two models that induced OA by either ageing or surgery (destabilization of me-dial meniscus, DMM), we tested the hypothesis that increased cross-talk occurs in OA. We quanti ﬁed the dif-
+fusivity of sodium ﬂuorescein (mol. wt. 376 Da), a marker of small-sized signaling molecules, within calci ﬁed
+joint matrix using our newly developed ﬂuorescence loss induced by photobleaching (FLIP) method. Tracer
+diffusivity was found to be 0.30±0.17 and 0.33±0.20 μm
+2/s within the calci ﬁed cartilage and 0.12±0.04
+and 0.07±0.03 μm2/s across the osteochondral interface in the aged (20 –24-month-old, n=4) and DMM
+OA joints (5-month-old, n=5), respectively, which were comparable to the control values for the contralat-
+eral non-operated joints in the DMM mice (0.48±0.13 and 0.12±0.06 μm2/s). Although we did not detect
+signiﬁcant changes in tissue matrix permeability in OA joints, we found i) an increased number of vessels in-
+vading the calci ﬁed cartilage (and sometimes approaching the tidemark) in the aged (+100%) and DMM
+(+50%) joints relative to the normal age controls; and ii) a 60% thinning of the subchondral bone and calci-ﬁed cartilage layers in the aged joints (with no signi ﬁcant changes detected in the DMM joints). These results
+suggested that the capacity for cross-talk between subchondral bone and articular cartilage could be elevated
+in OA. Further studies are needed to identify the direction of the cross-talk, the signaling molecules involved,
+and to test whether subchondral bone initiates OA development and could serve as a pharmaceutical targetfor OA treatment.
+This article is part of a Special Issue entitled “Osteoarthritis ”.
+© 2011 Elsevier Inc. All rights reserved.
+Introduction
+Osteoarthritis (OA), one of the leading causes of chronic disability
+in the United States and across the world [1], is a degenerative joint
+disease characterized by the loss of articular cartilage and abnormal
+changes in the surrounding soft and hard tissues of the joint, includ-
+ing bone. Currently, no effective treatment is available to cure OA due
+to its complex etiology and a lack of effective pharmaceutical targets
+[1]. Although many risk factors such as genetics, age, obesity, and al-
+tered joint loading have been identi ﬁed in OA patients [1], themechanisms for the initiation and progression of OA are not well un-
+derstood. There is a growing consensus that OA is a whole-joint dis-
+ease [2,3]. In particular, an increased turnover of subchondral bone
+in OA patients and animal models [4,5] has led to the hypothesis
+that the various cytokines and growth factors released during sub-
+chondral bone turnover may reach the overlying articular cartilage
+and initiate a positive feedback loop between the attempted cartilage
+and bone repair processes that eventually leads to OA progression [6].
+Some recent experimental data support this hypothesis. For example,administration of osteoprotegerin prevented not only trabecular bone
+loss but also cartilage degradation in a surgically induced OA model
+[7]. The aggrecanase-2 de ﬁcient (ADAMTS5
+−/−) mice, which were
+found to be protected from cartilage degeneration after joint instabil-
+ity, showed less severe subchondral bone changes compared to wild
+type controls [8]. At the cellular level, osteoblasts from OA patients in-
+duced hypertrophic differentiation and matrix mineralization of nor-
+mal chondrocytes in vitro [9]. Despite this indirect evidence, directBone 51 (2012) 212 –217
+⁎Correspondence to: L. Wang, Department of Mechanical Engineering, University of
+Delaware, Newark, DE 19716, USA. Fax: +1 302 831 3619.
+⁎⁎Correspondence to: J. Pan, Key Laboratory for Biorheological Science and Technology
+of Ministry of Education, Bioengineering College, Chongqing University, Chongqing400044, PR China. Fax: +86 23 65460031.
+E-mail addresses: lywang@udel.edu (L. Wang), panj@cqu.edu.cn (J. Pan).
+8756-3282/$ –see front matter © 2011 Elsevier Inc. All rights reserved.
+doi:10.1016/j.bone.2011.11.030
+Contents lists available at SciVerse ScienceDirect
+Bone
+journal homepage: www.elsevier.com/locate/bone
+cross-talk between the subchondral bone and articular cartilage has
+yet to be established in OA joints.
+Recently we demonstrated the potential for cross-talk between
+subchondral bone and articular cartilage in normal mature joints
+[10]. By using an advanced imaging approach based on ﬂuorescence
+loss induced by photobleaching (FLIP), we quanti ﬁed the permeabili-
+ty of calci ﬁed cartilage and the osteochondral interface to a small
+molecular-weight tracer (sodium ﬂuorescein, mol. wt. 376 Da) in
+the knee joints of adult mice. Our results, of measurable solute trans-
+port across the joints, challenged the long held view that an imper-
+meable calci ﬁed cartilage separates the subchondral bone and
+articular cartilage in adult joints [11–13]. With OA, alterations in the
+structural and material properties of joint tissues have been reported
+[8,14 –17]. In addition, vascular channels [18,19] or microcracks
+[20,21] , which could act as transport conduits, have been reported
+in OA joints. How the matrix property and structural alterations of
+the OA joints translate to functional changes in bone –cartilage
+cross-talk is not clear.
+In the present study, we quanti ﬁed matrix permeability, vessel inva-
+sion, and overall joint morphology in two well-established OA models:
+age-related spontaneous OA [22], and altered loading (surgery) induced
+OA[23]. Our hypothesis was that the communication potential between
+subchondral bone and articular cartilage increases in OA. In this study,
+weﬁrst used FLIP to quantify the permeability of the calci ﬁed cartilage
+and the osteochondral interface, the main barrier for transport of mo-
+lecular signals between the joint tissues (permeability on the order of
+0.1–0.5μm2/s[10], two to three orders of magnitude smaller than
+those of bone and articular cartilage [24,25] ). We then measured the
+overall joint morphology and the number density of invading vessels
+using confocal microscopy. When compared to controls it was observed
+that OA was not associated with signi ﬁcant changes in tissue matrix
+permeability in either OA model. However, OA did result in an increase
+in the blood vessels that invaded (and perforated) the calci ﬁed cartilage
+in both models and also led to a thinning of the subchondral bone and
+calciﬁed cartilage layers in the aged joints. Together, these results sug-
+gested that the capacity for cross-talk between subchondral bone and
+articular cartilage could be elevated in OA due to morphological alter-
+ations in the joint.
+Materials and methods
+Experimental groups
+Two murine OA models were utilized within this study. The ﬁrst
+was the age-related spontaneous OA model in which C57BL/6J mice
+(n=13) were aged until 20 to 24 months of age, at which time
+mild-to-moderate bi-lateral knee OA is observed as previously de-
+scribed in the literature [22]. The second model was the surgical de-
+stabilization of the medical meniscus (DMM) OA model [23]. In this
+portion of the study, male C57BL/6J mice (n=14) were subjected to
+DMM surgery at the age of three-months as described previously
+[23]. Brie ﬂy, under aseptic conditions, the right knee joint capsule
+was opened, and the ligament attaching the medial meniscus to the
+tibia was transected to impair the stability of the joint structure
+[23]. The left joints were not operated upon and served as internal
+controls. The mice were sacri ﬁced eight weeks post surgery (at the
+age of ﬁve-months), and subjected to cartilage integrity (Safranin-
+O/fast green staining) and transport examinations (FLIP measure-
+ments and basic fuchsin staining) as detailed below. In addition, ten
+separate ﬁve-month-old male C57BL/6J mice were used as controls
+for histological examination of cartilage damage and vessel invasions.
+These baseline control measurements were compared with those in
+aged mice (5-months vs. 20 –24-months) or mice with altered knee
+loading conditions (intact vs. DMM joints). All mice were purchased
+from The Jackson Laboratory (The Jackson Laboratory, Bar Harbor,ME). The study was approved by the Institutional Animal Care and
+Use Committee of the University of Delaware.
+Toﬁrst validate our OA models, joint samples from a subset of
+aged, DMM, and control mice were examined using standard histolo-
+gy to evaluate cartilage damage following previously published pro-
+cedures [23]. Brie ﬂy, joints from aged mice (right joints, n=5),
+DMM mice (both the operated right joints and the left contralateraljoints, n=6), and control mice (right joints, n=6) were harvested,
+ﬁxed in 10% neutral buffed formalin, and decalci ﬁed with formic
+acid before being embedded in paraf ﬁn. Sequential frontal sections
+(5μm thick) were obtained using a microtome and collected onto
+positively charged glass slides (2 –3 sections per slide). To assess dam-
+age through the entire joint, 12 –15 slides covering the full thickness
+of the joint were chosen and stained with 0.1% Safranin O and Fast
+Green. The sections were blindly scored under light microscopy by
+two observers (JP, TS) within four quadrants (medial and lateral fem-
+oral condyles; medial and lateral tibial plateaus), following a semi-
+quantitative grading scale [23], where 0=normal cartilage;
+0.5=loss of Safranin-O staining with no structural lesions;
+1=roughened articular surface and small ﬁbrillations; 2= ﬁbrillation
+below the super ﬁcial layer and some loss of lamina; 3= ﬁbrillations
+extending to the calci ﬁed cartilage across less than 25% of the carti-
+lage width; 4= ﬁbrillations extending to the calci ﬁed cartilage across
+25–50% of the cartilage width; 5= ﬁbrillation and erosions extending
+from 50 to 75% of the cartilage width; 6=cartilage erosion extending
+beyond 75% of the cartilage width. The average score from all the sec-
+tions was reported for each knee. The scores con ﬁrmed signi ﬁcant but
+mild cartilage damage in the aged and DMM groups compared with
+the normal controls (detailed in the Results section). Based upon
+this validation study, both of the OA models were utilized for the fol-
+lowing quantitative studies.
+Matrix permeability measurements using FLIP
+To quantify the permeability of the calci ﬁed cartilage and of the
+osteochondral interface, a subset of DMM mice (n=5) and aged mice
+(n=4) were subjected to FLIP tests using our previously published pro-
+cedures [10]. The operated and the contralateral joints from the DMM
+mice, as well as the right joints from the aged mice were utilized. Be-
+cause no difference was found in the cartilage damage score between
+the DMM contralateral joints and the normal 5-month-old B6 joints,
+the contralateral joints served as undamaged (internal) controls for
+the DMM operated joints. Brie ﬂy, mice were injected with a bolus of so-
+dium ﬂuorescein solution (2 mg in 0.5 mL) via tail vein injection. After
+~0.5 h, the mice were sacri ﬁced, and distal femurs were harvested im-
+mediately and sagittally split along the notch between the two con-
+dyles. After trimming the cut surface with a diamond knife in a
+cryostat, the halved samples were mounted on a cover glass, and im-
+aged using an inverted confocal laser scanning microscope (Zeiss LSM
+510; Standort G őttingen, Germany) equipped with a 40× oil-immersion
+objective under an excitation/emission of 488/520 nm. Individual
+chondrons within calci ﬁed cartilage and osteocyte lacunae near the
+osteochondral interface that were 5 –20μm below the cutting surface
+were readily identi ﬁed based on their shapes (spherical vs. ellipsoidal)
+and size (20 vs. 10 μm). A single chondron (transport sink) was sub-
+jected to continuous photobleaching and the surrounding chondrons
+and/or osteocyte lacunae (transport sources) were monitored using
+a time series of confocal images as describe previously [10].S o u r c e s
+and sinks were chosen based on 3D examination of the region of inter-
+est and the following criteria: 1) they were clearly observed during
+confocal imaging, with no drifting or movement artifacts; 2) there
+were no other cells located between the source and the sink that may
+interfere with tracer transport; multiple sources could be chosen for
+the same sink; 3) the (edge-to-edge) spacing between the source-sink
+was in the range of 0.5 –7 fold of the source radius and the sink/source
+size ratio was chosen to be between 0.5 and 3 because correction factors213 J. Pan et al. / Bone 51 (2012) 212 –217
+accounting for these ranges of source-sink spacing and size ratio had
+been numerically obtained in our previous study [10].U s i n go u rb i s p h e -
+rical transport model [10], the effective diffusivity (D) of the tracer
+between the source and sink chondrons within the calci ﬁed cartilage
+(termed C-C) as well as between the source osteocytes and sink
+chondron across the osteochondral interface (termed O –C) was
+d e r i v e db yc u r v i n g ﬁtting the experimental intensity data with the
+model. Typically, three to six FLIP experiments were performed
+per joint and two to four pairs of source-sink per FLIP experiment
+were ﬁt with the model. Only the diffusivities from reasonable good
+curve ﬁtting (R2≥0.80) were used. The average values of the C-C and
+O-C permeability were obtained from the repeated measures for each
+joint and used for multiple comparisons between the testing regions
+(C-C vs. O-C) for the DMM vs. contralateral joints, or young vs. aged
+joints.
+Joint morphology and vessel invasions
+The overall transport across the joint is dependent on not only the
+local ECM permeability (examined above) but also the structural
+features such as the thickness of each tissue layer and the number den-
+sity of the large vascular channels perforating the ECM. Joint tissue
+thickness and vessel invasions were measured using three dimensional
+confocal imaging. The right distal femurs from normal age control,
+DMM, and aged groups (n=4 joints per group) were bulk stainedwith basic fuchsin, and embedded in plastics following a previously
+published protocol [26]. Sagittal sections of 200 μm thickness (6 –7
+sections per joint) were obtained using a diamond saw and
+surface polished before being mounted on glass slides. The sections
+were observed using the Zeiss LSM 510 confocal microscope with a
+40× oil-immersion objective under excitation and emission wave-
+lengths of 561/640 nm, respectively. Multiple z-stack images consisting
+of 6 slices with a 2 μm interval were taken and stitched together to map
+the entire epiphysis of the distal femur. Due to the distinct cellular mor-
+phology and ECM staining patterns, different tissues can be readily iden-
+tiﬁed (Fig. 1 ); as seen in the strong staining intensity and amorphous
+pattern for marrow cavities, the numerous canalicular channels and
+spindle-shaped osteocyte lacunae on an unstained matrix background
+for subchondral bone (SB), the large rounded hypertrophic chondrons
+for calci ﬁed cartilage (CC), as well as the continuous strong staining at
+the tidemark (TM) interface between calci ﬁed cartilage and articular
+cartilage (AC) ( Fig. 1 ). Within the imaging stacks, it was relatively
+easy to trace and identify blood vessels or marrow cavities in three di-
+mensions (de ﬁned as linear continuous features with ≥10μmi nd i a m -
+eter/width), which might not be distinguishable from other cellularfeatures in 2D histological sections. The numbers of blood vessels that
+ended in the SB, CC or TM layers were counted within the load-
+bearing portion of the femoral condyle using the Zeiss LSM software.
+The number density of the invading vessels that ended at each layer
+was calculated in reference to the articular surface area, which was esti-
+mated by multiplying the tidemark length and the depth of the z-stack
+thickness (12 μm). The z-stack images were then exported to TIFF ﬁles
+and the outlines of AC, TM, CC, and SB were manually traced in the
+Adobe Photoshop software on a digitizing interactive pen display. The
+average thickness values for the tissue layers (SB, CC, AC) were obtained
+from the outlined regions of interest using a custom MatLab code. We
+also reported the total joint thickness by summation of the thicknesses
+of the three layers.
+Statistical analysis
+Descriptive data were presented as means and standard devia-
+tions. Statistical signi ﬁcance was determined using Student ttests
+(paired or unpaired) or one-way ANOVA with Bonferroni post hoc
+tests in the Origin software package. Statistical signi ﬁcance was de-
+ﬁned as p b0.05.
+Results
+Validation of the OA models
+Compared with the normal age controls (n=6), higher scores
+were seen in most quadrants of the aged joints (except for lateral
+tibia, n=5) and in all four quadrants of the DMM joints (n=6, * in-
+dicates p b0.05 in Fig. 2 ). Overall, the damage was mild (OA score
+less than 1.2 out of a full range of 6) for both the aged and the
+DMM joints (
+Fig. 2 ). The left unoperated joints in the DMM mice dis-
+played negligible cartilage damage similar to the normal age controls
+(data not shown), and thus were used as control joints for the FLIP
+study. In sections from 5-month-old control mouse ( Fig. 3 A, repre-
+sentative image shown), Safranin-O/Fast Green staining demonstrat-
+ed smooth undamaged articular surface in the medial femoral
+condyle (MF) and medial tibial plateau (MT). In sections from DMM
+joints ( Fig. 3 B, representative image shown), areas (indicated with
+black arrow heads) with a damage score of 3 (damage extending to
+the calci ﬁed cartilage across less than 25% of the cartilage width)
+and a damage score of 1 (roughened articular surface and small ﬁbril-
+lations) were readily observed in the MF and MT, respectively. In aged
+joints ( Fig. 3 C, representative image shown), these same regions
+demonstrated areas with damage scores of 1 and 2 ( ﬁbrillation
+Fig. 1. Invading vessels and tissue layers in murine distal femurs from (A) normal 5-month-old mice (control), (B) DMM mice (5-month-old, 8 week post surgery ), and (C) aged
+20–24-month-old mice. The slices are captured using z-stack confocal imaging of the plastic embedded femoral epiphysis bulk stained with basic fuchsin . Visualized in the 3D con-
+focal z-stacks, the articular cartilage (AC), calci ﬁed cartilage (CC), tidemark (TM), and subchondral bone (SB) can be readily identi ﬁed due to distinct cell morphology and tissue
+staining patterns as shown here. Invading vessels (v) and marrow cavities were clearly visualized and traced within the 3D image stacks. Compared wit h the younger normal con-
+trol joint where invading vessels are mostly located in SB (panel A), increasing incidence of vascular channel penetrating into CC and even contactin g TM can be seen in the DMM
+and aged joints (panels B and C, respectively). Articular cartilage erosions indicated with arrow heads can be found in the DMM sample shown in Panel B, and thinning of the AC, CC,
+and SB layers is obvious in this aged sample shown in Panel C.214 J. Pan et al. / Bone 51 (2012) 212 –217
+below the super ﬁcial layer and some loss of lamina). Please note that
+the values shown for the four quadrants (medial and lateral femoral/
+tibial condyles) in Fig. 2 were averaged over more than ten sections
+spanning the entire joint. Although the knee medial compartments
+in the DMM joints were reported to have more severe damage than
+the lateral compartments when examined at longer time points post
+surgery in literature [23], such compartmental difference was not
+seen in our DMM mice 8 weeks post surgery.
+Matrix permeability measurements using FLIP
+A total of 42, 28, and 43 source-sink pairs for C-C measurements,
+and 23, 25, and 25 source-sink pairs for O-C measurements, which
+ﬁt the model well (R2≥0.8), were collected and analyzed for the
+DMM knees (n=5), their contralateral unoperated control knees
+(n=5), and the aged knees (n=4), respectively. Within the groups
+examined, the control knees of the DMM mice (age of 5-months)
+showed four-fold increase in the mean diffusivity of sodium ﬂuores-
+cein measured between chondrons within calci ﬁed cartilage (C-C)
+than that measured between osteocytes and chondron (O-C) in the
+same joints (p b0.05; Table 1 ). A similar degree of permeability in-
+crease in C-C over O-C was found in the DMM operated joints of the
+same mice (2.5-fold) as well as the joints of much older mice (age
+of 20 –24 months, 4.7-fold). These changes, however, did not reach
+statistical signi ﬁcance possibly due to the small sample size. Eight
+weeks of altered joint loading resulted in a −37.5% decrease in the
+C-C permeability and no change in the O-C permeability in the DMMoperated knees compared with the control knees (p>0.05, Table 1 ).
+Meanwhile, the aged knees (age of 20 –24 months) showed −31.2%
+and−41.7% decrease in the C-C and O-C permeability, respectively,
+compared with the younger control knees (p>0.05, Table 1 ).
+Joint morphology and vessel invasion
+Compared with the normal age controls (n=4), the average
+thicknesses of the SB and CC layers and the total joint thickness
+were signi ﬁcantly reduced ( −60%) in the aged group, while no signif-
+icant change was detected in any of the tissue layers in the DMM
+joints ( Fig. 4 ). The number density of the vessels invading the CC
+layers showed 1 and 0.5-fold increase in the aged and DMM groups,
+respectively ( Table 2 ). There were no vessels invading the tidemark
+in normal joints while vessels approached tidemark in the aged and
+DMM joints at a density of 51 and 18 per mm2(Table 2 ). Representa-
+tive basic fuchsin images showed that blood vessels and marrow
+spaces advanced closer to articular cartilage in joints subjected to al-
+tered loading ( Fig. 1 B) and in aged joints ( Fig. 1 C), compared with
+normal aged joints without altered loading (control, Fig. 1 A).
+Discussion
+Recent evidence suggests that subchondral bone may be involved in
+OA development and that bone and cartilage are functionally coupled
+through either the distribution of joint loads or by exchanging signaling
+molecules [2,15,17,27] . However, the transport pathways for the cross-
+talk between these two tissues are not fully understood. Combining an-
+imal models, advanced imaging, and mathematical modeling, the pre-
+sent work demonstrated that the capacity for communicating
+biochemical signals between the subchondral bone and cartilage was
+Fig. 2. Validation of the two OA models. The histological scores of cartilage damage
+were obtained within the four quadrants of the right knees from the aged (20 –24-
+month-old), DMM (5-month-old), and control mice (5-month-old). Compared withthe normal age controls, higher average scores were seen in most quadrants of theaged joints (except for lateral tibia) and in all four quadrants of the DMM joints8 weeks post surgery (* indicates p b0.05vs. controls). Overall, the damage was mild
+(average OA score less than 1.2 out of a full range of 6) for both the aged and the
+DMM joints.
+Fig. 3. Selected Safranin-O/Fast Green stained sections are shown for (A) control, (B) DMM, and (C) aged knee joints. Smooth articular surface was seen in the medial femoral con-
+dyle (MF) and medial tibial plateau (MT) from a 5-month-old control mouse (Panel A); damage areas indicated with arrowheads were found in the DMM (Pane l B) and the aged
+joint (Panel C).Table 1The matrix permeability measured using sodium ﬂuorescein in the murine knee joints.
+Group
+(joint side, sample size)Age Diffusivity ( μm
+2/s)
+C-C (mean±SD)Diffusivity ( μm2/s)
+O-C (mean±SD)
+DMM
+(right knees, n=5)5 months 0.30±0.17 0.12±0.04
+Control
+(DMM left knees, n=5)5 months 0.48±0.13* 0.12±0.06*
+Aged
+(right knees, n=4)20–24 months 0.33±0.20 0.07±0.03
+Keys:
+SD standard deviation
+C-C measurements in calci ﬁed cartilage between chondrons;
+O-C measurements across the osteochondral interface between osteocyte and
+chondron;
+n number of joints per group*p b0.05, two-tailed paired Student ttest between C-C and O-C measures of
+the control group.215 J. Pan et al. / Bone 51 (2012) 212 –217
+greatly increased in both altered loading (DMM) and ageing induced OA
+models, with apparently different mechanisms: the DMM model mainly
+involved increasing vessel invasion while the aged model involved both
+vessel invasion and tissue thinning.
+The present study provides information regarding transport bar-
+riers and conduits for molecular exchange in normal and OA joints.
+Weﬁrst tested the permeability of the major structural barrier (i.e.,
+the calci ﬁed cartilage matrix and the osteochondral interface) to
+transport of biochemical signals using a FLIP approach. FLIP has
+been successfully applied to transport quanti ﬁcation across normal
+joints [10], with the FLIP technique providing the distinct advantage
+of a higher sensitivity to low permeability situations when compared
+with traditional tracer desorption or ﬂuorescence recovery after
+photobleaching methods. We found a 31 –37% and 0 –42% reduction
+(although not statistically signi ﬁcant) in the permeability of the calci-
+ﬁed cartilage and the osteochondral interface (C-C and O-C measures)
+that resulted from 8 weeks of altered joint loading or ageing, respective-
+ly. Thus the ECM in the two OA models became more restrictive for dif-
+fusion of our small testing molecules (376 Da ﬂuorescein), possible due
+to hypermineralization of the ECM that is typically seen in OA [14–17].
+Since in vivo signaling molecules are usually proteins with larger mo-
+lecular weights than our testing molecules, their passage through the
+ECM of OA joints would presumably be even more restricted.
+Interestingly, increasing numbers of large transport conduits
+(vascular channels or marrow cavities) were found to break the
+osteochondral interface and to advance towards the tidemark in the
+OA joints ( Fig. 1 andTable 2 ). The presence of these large perforating
+channels greatly increases the overall transport capacity across thejoint, overcoming the transport barriers posed by the denser ECM.
+Unlike the small nanopores found in the calci ﬁed matrix [10], these
+large conduits are expected to facilitate the transport of large signal-
+ing molecules due to their large pore sizes (on the order of 10-
+microns). Based on the average number density of the invading ves-
+sels, one can readily estimate the spacing of the vascular channels
+in the calci ﬁed cartilage to be 81, 55, and 67 μm for the control,
+aged, and DMM groups, respectively. Assuming the diffusivity of sodi-
+umﬂuorescein in these channels is close to free diffusion (532 μm2/s)
+[24], the effective diffusivity of the tracer in the tissue cylinder sur-
+rounding the invading vessel is expected to scale with the square of
+the ratio of the vessel dimension (~10 μm in diameter) over that of
+the tissue cylinder (i.e., vessel spacing). The effective diffusivity is
+thus estimated to be 8 μm2/s (for the normal joints), and increased
+to 18 and 12 μm2/s for the aged and DMM joints, respectively. Fur-
+thermore, a fraction of vessels that penetrated all the way through
+the calci ﬁed cartilage was found to breach the tidemark every 160
+or 236 μm in the aged and DMM joints, respectively. These vessels
+provided the most ef ﬁcient pathway for direct molecular transport
+between subchondral bone and articular cartilage. This cross-talk ca-
+pacity is anticipated to be even more elevated for the aged joints after
+considering the signi ﬁcant thinning of the calci ﬁed tissue layers
+(Fig. 4 of the present study and reference [28]). Our results were con-
+sistent with the conductance measurements performed on OA osteo-
+chondral samples [29].
+In the present study, we tested two OA models; one induced by
+ageing and the other by altered joint loading, two major risk factors
+for OA [1]. The two models exhibited mild cartilage damage in our
+hands (average score on the order of 1.2 out of a full range of 6),
+which was consistent with previous studies [23,30] . These mild OA
+models provided opportunities to study tissue alterations associated
+with the early stage(s) of OA. While not statistically signi ﬁcant tissue
+permeabilities in the two OA models were reduced compared to that
+of the normal age control. This lack of statistical signi ﬁcance among
+the groups may be due to the small sample size used in the study
+(n=4 –5) and the relatively large variation in the data (coef ﬁcient
+of variation in the range of 20 –50%, Table 1 ). Heterogeneous local tis-
+sue mineralization may be a possible factor for the data scattering
+[14], as well as errors associated with ﬂuorescence imaging and
+curve ﬁtting. Larger sample size will be needed in future studies. Con-
+sistent with previous reports [18,19] , increased vessel invasion was
+detected in both OA models with some vessels approaching (and oc-
+casionally breaching) the tidemark. The molecular mechanisms for
+this directed vessel growth process remain unclear. We speculate
+that pro-angiogenic factors may be involved in our OA models and a
+potential source for these factors is the hypertrophic chondrocytes
+[31,32] . Whether angiogenesis directly in ﬂuences the loss of cartilage
+matrix in vivo, as suggested in an in vitro grafting study [33], needs to
+be tested in future studies. However, we do know from the present
+study that the communication capacity between bone and cartilage
+is greatly increased in the two OA models through different mecha-
+nisms. Increased cross-talk was achieved in aged joints mainly by ves-
+sel invasion and thinning of the transport barrier (calci ﬁed tissues),
+whereas only vessel invasion is increased in the altered loading OA
+model 2 months post surgery. Whether tissue thinning would occur
+during later time points in DMM animals needs to be tested further.
+One limitation of this study was that we did not track physiological
+signaling molecules involved in the OA development. Instead we used a
+ﬂuorescent marker as a surrogate for the convenience of imaging. How-
+ever, the diffusivity and effective transport pathway data obtained here-
+in could be readily extrapolated to small nutrients and small bioactive
+molecules. Let's consider the scenario where prostaglandin E2 and nitric
+oxide (with comparable molecular weight to sodium ﬂuorescein) are
+released in the subchondral bone regions during bone turnover [34].A s -
+suming the diffusivity of ﬂuorescein, they could readily permeate the
+calciﬁed cartilage over a distance of 58 μm within half an hour
+Fig. 4. Thickness of the subchondral bone (SB), calci ﬁed cartilage (CC), articular carti-
+lage (AC), and the total thickness (the sum of SB, CC, and AC) of the distal femoralepiphysis in the aged and DMM OA joints. The data were normalized with the normalage controls. * indicates p b0.05 vs. controls using Student's- ttest.
+Table 2
+The number density of invading vessels in the right distal femoral epiphyses.
+Group
+(sample size)Age Number density of invading vessels (#/mm2)
+SB
+(mean+SD)CC
+(mean+SD)TM
+(mean+SD)
+DMM
+(n=4)5 months 427.9±110.8 222.4±72.6 18.1±15.8
+Control
+(n=4)5 months 327.1±178.0 151.5±139.3 0
+Aged
+(n=4)20–24 months 209.5±113.5 332.2±86.4 51.3±40.6*
+Keys:
+SD standard deviation;
+SB subchondral bone;CC calci ﬁed cartilage;
+TM tidemark;*p b0.05, two-tailed Student t-test (aged vs. control).216 J. Pan et al. / Bone 51 (2012) 212 –217
+(i.e.,√[4Dt]=58 μm, for D=0.48 μm2/s and t=0.5 h). If a capillary
+penetrated the joints as occurs in the aged and DMM joints, the signal-
+ing molecules could cover the same distance within a matter of seconds.
+These surprisingly fast transport processes may contribute to the ele-
+vated concentrations in the OA joints, providing an alternative explana-
+tion of the sources of these molecules in the in vivo studies, where
+inhibition of these molecules provided bene ﬁcial effects on cartilage
+[35,36] . The second limitation was that the current study did not ad-
+dress the mechanistic questions such as the direction of the bone –carti-
+lage cross-talk (signaling) and the nature of soluble signals. Due to the
+large surface area of cartilage and the presence of transport barriers
+(calci ﬁed cartilage and osteochondral interface), surface-down signal-
+ing mechanisms are appealing in studying OA pathology. Such mecha-
+nisms are well-accepted for a related cartilage degenerative disease,
+rheumatoid arthritis. However, early changes observed in OA patients
+typically involve the bone compartment [4–6], and inhibition of bone
+remodeling arrested the progression of OA in animal studies [7].T h e s e
+lines of evidence lead to the hypothesis that signaling from bone to car-
+tilage (bottom-up mechanisms) may lead to OA development [3].O u r
+results demonstrated increased transport potential in OA joints, but
+they do not support or exclude either surface-down or bottom-up
+cross-talk. More speci ﬁcally designed experiments are needed to re-
+solve this question. We speculate that the likely candidates for the
+bone –cartilage cross-talk signaling molecules may include bone remo-
+deling byproducts (such as transform growth factor-beta, insulin-like
+growth factors, and ﬁbroblast growth factors), and osteoclast and oste-
+oblast activation factors (such as nitric oxide, prostaglandin E2, and re-
+ceptor activator of nuclear factor kappa-B ligand) derived from cells in
+marrow, bone, or cartilage. In vitro co-culture and targeted blocking
+studies may help identify the signaling molecules. Lastly, the current
+study did not answer whether bone –cartilage cross-talk is the cause
+or result of OA development. We are currently investigating whether
+inhibition of bone turnover and angiogenesis would prevent or delay
+OA development after DMM surgery. More studies are needed to fully
+elucidate the role of bone in OA. If con ﬁrmed, bone may provide an ef-
+fective pharmaceutical target for OA treatment.
+Conclusions
+This investigation provided quantitative measurements of transport
+characteristics of the joints from the aged, surgically destabilized, and
+normal age control mice. Elevated molecular transport was found in
+the OA joints, and various mechanisms (altered local matrix permeabil-
+ity, vessel invasion, and thinning of the transport resistant layers) were
+identi ﬁed. Our data support further studies on subchondral bone, its
+role in OA development, and potential for OA treatments.
+Acknowledgments
+We thank Dr. Sonya Glasson for demonstrating the DMM surgery,
+Dr. Weidong (William) Yang for initiating the DMM operations,
+Mr. Frank Warren for animal care, and Dr. Chaoying Ni for providing
+the cryostat. Author contributions are the following: hypothesis for-
+mulation (LW), experimental design (LW, JP), microsurgery (WL),
+data collection (JP, BW,TS, YY, and CP), data analysis (JP, BW, ZZ, CP,
+and LW), data interpretation (LW, JP, and CP), and manuscript prepa-
+ration and revision (LW, JP, CP, and BW). This study was supported by
+grants from NIH of US (P20RR016458; R01AR054385 to LW) and from
+China (NSF 10972243 to JP and China Council Fellowship to BW).
+References
+[1] Buckwalter JA, Martin JA. Osteoarthritis. Adv Drug Deliv Rev 2006;58(2):150 –67.
+[2] Goldring MB, Goldring SR. Articular cartilage and subchondral bone in the patho-
+genesis of osteoarthritis. Ann N Y Acad Sci 2010;1192:230 –7.[3] Lories RJ, Luyten FP. The bone –cartilage unit in osteoarthritis. Nat Rev Rheumatol
+2011;7(1):43 –9.
+[4] Imhof H, et al. Degenerative joint disease: cartilage or vascular disease? Skeletal
+Radiol 1997;26(7):398 –403.
+[5] Kwan Tat S, Lajeunesse D, Pelletier JP, Martel-Pelletier J. Targeting subchondral
+bone for treating osteoarthritis: what is the evidence? Best Pract Res Clin Rheu-
+matol 2010;24:51 –70.
+[6] Lajeunesse D. The role of bone in the treatment of osteoarthritis. Osteoarthritis
+Cartilage 2004;12(Suppl. A):S34 –8.
+[7] Kadri A, et al. Osteoprotegerin inhibits cartilage degradation through an effect on
+trabecular bone in murine experimental osteoarthritis. Arthritis Rheum
+2008;58(8):2379 –86.
+[8] Botter SM, et al. ADAMTS5−/−mice have less subchondral bone changes after in-
+duction of osteoarthritis through surgical instability: implications for a link be-
+tween cartilage and subchondral bone changes. Osteoarthritis Cartilage
+2009;17(5):636 –45.
+[9] Sanchez C, et al. Subchondral bone osteoblasts induce phenotypic changes
+in human osteoarthritic chondrocytes. Osteoarthritis Cartilage 2005;13(11):
+988–97.
+[10] Pan J, et al. In situ measurement of transport between subchondral bone and ar-
+ticular cartilage. J Orthop Res 2009;27(10):1347 –52.
+[11] Hodge JA, McKibbin B. The nutrition of mature and immature cartilage in rabbits.
+An autoradiographic study. J Bone Joint Surg Br 1969;51(1):140 –7.
+[12] Honner R, Thompson RC. The nutritional pathways of articular cartilage. An auto-
+radiographic study in rabbits using 35S injected intravenously. J Bone Joint SurgAm 1971;53(4):742 –8.
+[13] Ogata K, Whiteside LA. Barrier to material transfer at the bone –cartilage interface:
+measurement with hydrogen gas in vivo. Clin Orthop Relat Res 1979;145:273 –6.
+[14] Ferguson VL, Bushby AJ, Boyde A. Nanomechanical properties and mineral con-
+centration in articular calci ﬁed cartilage and subchondral bone. J Anat
+2003;203(2):191 –202.
+[15] Imhof H, et al. Importance of subchondral bone to articular cartilage in health and
+disease. Top Magn Reson Imaging 1999;10(3):180 –92.
+[16] Miller LM, et al. Alterations in mineral composition observed in osteoarthritic
+joints of cynomolgus monkeys. Bone 2004;35(2):498 –506.
+[17] Radin EL, Rose RM. Role of subchondral bone in the initiation and progression of
+cartilage damage. Clin Orthop Relat Res 1986;213:34 –40.
+[18] Clark JM. The structure of vascular channels in the subchondral plate. J Anat
+1990;171:105 –15.
+[19] Imhof H, et al. Subchondral bone and cartilage disease: a rediscovered functional
+unit. Invest Radiol 2000;35(10):581 –8.
+[20] Burr DB, Schaf ﬂer MB. The involvement of subchondral mineralized tissues in
+osteoarthrosis: quantitative microscopic evidence. Microsc Res Tech 1997;37(4):
+343–57.
+[21] Burr DB, Radin EL. Microfractures and microcracks in subchondral bone: are they
+relevant to osteoarthrosis? Rheum Dis Clin North Am 2003;29(4):675 –85.
+[22] Bendele AM. Animal models of osteoarthritis. J Musculoskelet Neuronal Interact
+2001;1(4):363 –76.
+[23] Glasson SS, Blanchet TJ, Morris EA. The surgical destabilization of the medial
+meniscus (DMM) model of osteoarthritis in the 129/SvEv mouse. Osteoarthritis
+Cartilage 2007;15(9):1061 –9.
+[24] Wang L, et al. In situ measurement of solute transport in the bone lacunar –canalicular
+system. Proc Natl Acad Sci U S A 2005;102(33):11911 –6.
+[25] Leddy HA, Guilak F. Site-speci ﬁc molecular diffusion in articular cartilage mea-
+sured using ﬂuorescence recovery after photobleaching. Ann Biomed Eng
+2003;31(7):753 –60.
+[26] Burr DB, Hooser M. Alterations to the en bloc basic fuchsin staining protocol
+for the demonstration of microdamage produced in vivo. Bone 1995;17(4):
+431–3.
+[27] Lajeunesse D, Reboul P. Subchondral bone in osteoarthritis: a biologic link with
+articular cartilage leading to abnormal remodeling. Curr Opin Rheumatol
+2003;15(5):628 –
+33.
+[28] Lane LB, Bullough PG. Age-related changes in the thickness of the calci ﬁed zone
+and the number of tidemarks in adult human articular cartilage. J Bone Joint
+Surg Br 1980;62(3):372 –5.
+[29] Hwang J, et al. Increased hydraulic conductance of human articular cartilage and
+subchondral bone plate with progression of osteoarthritis. Arthritis Rheum
+2008;58(12):3831 –42.
+[30] Dieppe P, et al. Prediction of the progression of joint space narrowing in osteoar-
+thritis of the knee by bone scintigraphy. Ann Rheum Dis 1993;52(8):557 –63.
+[31] Ashraf S, Walsh DA. Angiogenesis in osteoarthritis. Curr Opin Rheumatol
+2008;20(5):573 –80.
+[32] Pesesse L, Sanchez C, Henrotin Y. Osteochondral plate angiogenesis: a new treat-
+ment target in osteoarthritis. Joint Bone Spine 2011;78(2):144 –9.
+[33] Fenwick SA, Gregg PJ, Rooney P. Osteoarthritic cartilage loses its ability to remain
+avascular. Osteoarthritis Cartilage 1999;7(5):441 –52.
+[34] Burr DB. Increased biological activity of subchondral mineralized tissues underlies
+the progressive deterioration of articular cartilage in osteoarthritis. J Rheumatol2005;32(6):1156 –8 discussion 1158 –9.
+[35] Chabane N, et al. Histone deacetylase inhibitors suppress interleukin-1beta-
+induced nitric oxide and prostaglandin E2 production in human chondrocytes.
+Osteoarthritis Cartilage 2008;16(10):1267 –74.
+[36] Studer R, et al. Nitric oxide in osteoarthritis. Osteoarthritis Cartilage 1999;7(4):
+377–9.217 J. Pan et al. / Bone 51 (2012) 212 –217

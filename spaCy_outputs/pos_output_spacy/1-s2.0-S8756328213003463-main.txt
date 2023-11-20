@@ -1,0 +1,6570 @@
+Original, ADJ 
+Length, PROPN 
+Article, NOUN 
+
+, SPACE 
+Stress, NOUN 
+whitening, NOUN 
+occurs, VERB 
+demineralized, VERB 
+bone, NOUN 
+
+, SPACE 
+M.R., PROPN 
+Hardistya, PROPN 
+b, PROPN 
+T, PROPN 
+C, NOUN 
+.G, PUNCT 
+r, NOUN 
+c, NOUN 
+ac, VERB 
+S, PROPN 
+.C, NOUN 
+h, PROPN 
+o, INTJ 
+ya, PROPN 
+J, PROPN 
+.D, PROPN 
+h, NOUN 
+m, PROPN 
+u, PROPN 
+b, PROPN 
+e, PROPN 
+da, PROPN 
+S.M., PROPN 
+Stoverc, PROPN 
+D.P., PROPN 
+Fyhriea, PROPN 
+b,⁎, NOUN 
+
+, SPACE 
+aLawrence, PROPN 
+J, PROPN 
+Ellison, PROPN 
+Musculoskeletal, PROPN 
+Research, PROPN 
+Laboratory, PROPN 
+Department, PROPN 
+Orthopaedic, PROPN 
+Surgery, PROPN 
+UC, PROPN 
+Davis, PROPN 
+School, PROPN 
+Medicine, PROPN 
+UC, PROPN 
+Davis, PROPN 
+Sacramento, PROPN 
+USA, PROPN 
+
+, SPACE 
+bBiomedical, PROPN 
+Engineering, PROPN 
+Graduate, PROPN 
+Group, PROPN 
+UC, PROPN 
+Davis, PROPN 
+Davis, PROPN 
+USA, PROPN 
+
+, SPACE 
+cJD, NOUN 
+Wheat, PROPN 
+Veterinary, PROPN 
+Orthopedic, PROPN 
+Research, PROPN 
+Laboratory, PROPN 
+School, PROPN 
+Veterinary, PROPN 
+Medicine, PROPN 
+UC, PROPN 
+Davis, PROPN 
+Davis, PROPN 
+USA, PROPN 
+
+, SPACE 
+abstract, ADJ 
+article, NOUN 
+info, NOUN 
+
+, SPACE 
+Article, NOUN 
+history, NOUN 
+
+, SPACE 
+Received, VERB 
+19, NUM 
+January, PROPN 
+2013Revised, NUM 
+29, NUM 
+August, PROPN 
+2013Accepted, NUM 
+31, NUM 
+August, PROPN 
+2013, NUM 
+
+, SPACE 
+Available, ADJ 
+online, ADJ 
+17, NUM 
+September, PROPN 
+2013, NUM 
+
+, SPACE 
+Edited, VERB 
+David, PROPN 
+Burr, PROPN 
+
+, SPACE 
+Keywords, PROPN 
+
+, SPACE 
+BiomechanicsScattering, PROPN 
+
+, SPACE 
+Cortical, ADJ 
+bone, NOUN 
+
+, SPACE 
+Hansen, PROPN 
+hydrogen, NOUN 
+bonding, VERB 
+potentialOpticsStress, NOUN 
+induced, VERB 
+whiteningIntroduction, NOUN 
+incidence, NOUN 
+age, NOUN 
+related, VERB 
+bone, NOUN 
+fracture, NOUN 
+increasing, VERB 
+average, ADJ 
+population, NOUN 
+age, NOUN 
+Bone, NOUN 
+scatters, NOUN 
+
+, SPACE 
+light, NOUN 
+stress, NOUN 
+whitens, NOUN 
+loading, NOUN 
+immediately, ADV 
+prior, ADV 
+failure, NOUN 
+manner, NOUN 
+visually, ADV 
+similar, ADJ 
+polymer, NOUN 
+
+, SPACE 
+crazing, NOUN 
+wish, VERB 
+understand, VERB 
+stress, NOUN 
+whitening, VERB 
+process, NOUN 
+possible, ADJ 
+effect, NOUN 
+bone, NOUN 
+toughness, NOUN 
+
+, SPACE 
+goals, NOUN 
+investigation, NOUN 
+establish, VERB 
+stress, NOUN 
+whitening, NOUN 
+property, NOUN 
+demineralized, VERB 
+organ, NOUN 
+ic, NOUN 
+matrix, NOUN 
+bone, NOUN 
+property, NOUN 
+mineralized, ADJ 
+tissue, NOUN 
+stress, NOUN 
+whitening, VERB 
+thedemineralized, VERB 
+bone, NOUN 
+dependent, ADJ 
+b, NOUN 
+hydrogen, NOUN 
+bonding, NOUN 
+c, X 
+orientation, NOUN 
+loading, NOUN 
+
+, SPACE 
+Methods, NOUN 
+Demineralized, VERB 
+cortical, ADJ 
+bone, NOUN 
+specimens, NOUN 
+loaded, VERB 
+tension, NOUN 
+failure, NOUN 
+0.08, NUM 
+strain, NOUN 
+s, PROPN 
+effect, NOUN 
+
+, SPACE 
+hydrogen, NOUN 
+bonding, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+stress, NOUN 
+whitening, VERB 
+process, NOUN 
+probed, VERB 
+altering, VERB 
+
+, SPACE 
+Hansen, PROPN 
+hydrogen, NOUN 
+bonding, NOUN 
+parameter, NOUN 
+δ, PROPN 
+
+, SPACE 
+h, PROPN 
+immersing, NOUN 
+solution, NOUN 
+
+, SPACE 
+Results, NOUN 
+Stress, NOUN 
+whitening, NOUN 
+occurred, VERB 
+demineralized, VERB 
+bone, NOUN 
+Stress, NOUN 
+whitening, NOUN 
+negatively, ADV 
+correlated, VERB 
+
+, SPACE 
+δh(R2=0, PROPN 
+8, NUM 
+1, NUM 
+pb0.0001, PROPN 
+Stress, NOUN 
+whitening, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+lower, ADJ 
+pb0.0001, PROPN 
+specimens, NOUN 
+loaded, VERB 
+orthogo-, ADV 
+
+, SPACE 
+nally, ADV 
+compared, VERB 
+loaded, VERB 
+parallel, NOUN 
+long, ADJ 
+strong, ADJ 
+axis, NOUN 
+
+, SPACE 
+Conclusion, PROPN 
+stress, NOUN 
+whitening, NOUN 
+observed, NOUN 
+consistent, ADJ 
+increased, VERB 
+Mie, PROPN 
+scattering, VERB 
+suggest, VERB 
+
+, SPACE 
+change, NOUN 
+Mie, PROPN 
+scattering, VERB 
+collagen, NOUN 
+ﬁbril, NOUN 
+dehydration, NOUN 
+driven, VERB 
+externally, ADV 
+applied, VERB 
+stress, NOUN 
+pres-, NOUN 
+
+, SPACE 
+ence, NOUN 
+stress, NOUN 
+whitening, NOUN 
+demineralized, VERB 
+bone, NOUN 
+suggests, VERB 
+process, NOUN 
+property, NOUN 
+collagenous, ADJ 
+
+, SPACE 
+matrix, NOUN 
+present, ADJ 
+collagenous, ADJ 
+tissues, NOUN 
+emergent, ADJ 
+property, NOUN 
+bone, NOUN 
+
+, SPACE 
+composite, NOUN 
+
+, SPACE 
+©, ADJ 
+2013, NUM 
+Elsevier, ADJ 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+Introduction, PROPN 
+
+, SPACE 
+increasing, VERB 
+population, NOUN 
+age, NOUN 
+incidence, NOUN 
+age, NOUN 
+related, VERB 
+bone, NOUN 
+
+, SPACE 
+fracture, NOUN 
+increased, VERB 
+1,2, NUM 
+increase, NOUN 
+fracture, ADJ 
+inci-, NOUN 
+
+, SPACE 
+dence, NOUN 
+age, NOUN 
+related, VERB 
+bone, NOUN 
+mass, NOUN 
+loss, NOUN 
+signi, NOUN 
+ﬁcant, NOUN 
+risk, NOUN 
+
+, SPACE 
+unexplained, ADJ 
+caused, VERB 
+changes, NOUN 
+intrinsic, ADJ 
+material, NOUN 
+prop-, NUM 
+
+, SPACE 
+erties, NOUN 
+hard, ADJ 
+tissue, NOUN 
+3, NUM 
+
+, SPACE 
+Bone, PROPN 
+composed, VERB 
+mineral, NOUN 
+phase, NOUN 
+organic, ADJ 
+phase, NOUN 
+extracel-, NOUN 
+
+, SPACE 
+lularﬂuid[4, NOUN 
+mineral, NOUN 
+phase, NOUN 
+critical, ADJ 
+bone, NOUN 
+stiffness, NOUN 
+or-, PROPN 
+
+, SPACE 
+ganic, ADJ 
+phase, NOUN 
+responsible, ADJ 
+bone, NOUN 
+strength, NOUN 
+toughness[5, NOUN 
+Fracture, NOUN 
+risk, NOUN 
+bone, NOUN 
+increases, NOUN 
+age, NOUN 
+little, ADJ 
+change, NOUN 
+
+, SPACE 
+mean, ADJ 
+mineralization, NOUN 
+aging, VERB 
+6, NUM 
+tissue, NOUN 
+be-, ADJ 
+
+, SPACE 
+comes, VERB 
+weaker, ADJ 
+tough, ADJ 
+5, NUM 
+change, NOUN 
+toughness, NOUN 
+age, NOUN 
+like-, ADJ 
+
+, SPACE 
+ly, NOUN 
+related, ADJ 
+organic, ADJ 
+phase, NOUN 
+collagen, NOUN 
+investigationwas, NOUN 
+focused, VERB 
+organic, ADJ 
+phase, NOUN 
+bone, NOUN 
+
+, SPACE 
+important, ADJ 
+understand, VERB 
+bone, NOUN 
+toughness, NOUN 
+changes, NOUN 
+
+, SPACE 
+aging, VERB 
+disease, NOUN 
+drug, NOUN 
+treatments, NOUN 
+7,8, NUM 
+Damage, NOUN 
+microcracks, NOUN 
+
+, SPACE 
+bone, NOUN 
+normal, ADJ 
+play, VERB 
+important, ADJ 
+regulatory, ADJ 
+role, NOUN 
+bone, NOUN 
+re-, ADP 
+
+, SPACE 
+modeling, NOUN 
+9, NUM 
+ubiquity, NOUN 
+microcracks, NOUN 
+bone, NOUN 
+theiroccurrence, NOUN 
+atraumatic, ADJ 
+loading, NOUN 
+imply, NOUN 
+crack, NOUN 
+growth, NOUN 
+ofgreater, NOUN 
+concern, NOUN 
+initiation, NOUN 
+10, NUM 
+Mineralized, ADJ 
+collagen, NOUN 
+ﬁbrils, VERB 
+com-, NOUN 
+
+, SPACE 
+bined, VERB 
+macromolecules, NOUN 
+glue, VERB 
+ﬁbrils, NOUN 
+
+, SPACE 
+sacriﬁcial, ADJ 
+bonds, NOUN 
+bone, NOUN 
+shown, VERB 
+de, VERB 
+ﬂect, VERB 
+bridge, NOUN 
+
+, SPACE 
+cracks, NOUN 
+5, NUM 
+Bone, NOUN 
+organic, ADJ 
+phase, NOUN 
+plays, VERB 
+primary, ADJ 
+role, NOUN 
+increasing, VERB 
+bone, NOUN 
+
+, SPACE 
+toughness, NOUN 
+post, NOUN 
+yield, NOUN 
+accumulation, NOUN 
+damage, NOUN 
+
+, SPACE 
+bone, NOUN 
+11–14, NOUN 
+Cracks, NOUN 
+bone, NOUN 
+shown, VERB 
+easily, ADV 
+
+, SPACE 
+nucleated, VERB 
+propagated, VERB 
+bones, NOUN 
+older, ADJ 
+individuals, NOUN 
+15, NUM 
+
+, SPACE 
+Stress, NOUN 
+whitening, NOUN 
+bone, NOUN 
+
+, SPACE 
+Immediately, ADV 
+prior, ADV 
+failure, NOUN 
+loading, NOUN 
+bone, NOUN 
+observed, VERB 
+
+, SPACE 
+visually, ADV 
+whiten, VERB 
+i.e., X 
+stress, NOUN 
+whiten, NOUN 
+manner, NOUN 
+visually, ADV 
+similar, ADJ 
+thecrazing, NOUN 
+glassy, NOUN 
+polymers, NOUN 
+16, NUM 
+interest, NOUN 
+stress, NOUN 
+whitening, NOUN 
+bone, NOUN 
+
+, SPACE 
+arises, VERB 
+temporal, ADJ 
+proximity, NOUN 
+crack, VERB 
+nucleation, NOUN 
+propagation, NOUN 
+
+, SPACE 
+ultimate, ADJ 
+failure, NOUN 
+bone, NOUN 
+polymer, NOUN 
+crazing, NOUN 
+white, ADJ 
+bands, NOUN 
+ranging, VERB 
+
+, SPACE 
+50, NUM 
+1000, NUM 
+μm, NOUN 
+length, NOUN 
+form, NOUN 
+loading, VERB 
+17, NUM 
+white, ADJ 
+bands, NOUN 
+
+, SPACE 
+consist, NOUN 
+small, ADJ 
+polymer, NOUN 
+ﬁbrils, NOUN 
+micro, NOUN 
+voids, NOUN 
+size, NOUN 
+
+, SPACE 
+light, NOUN 
+scattered, VERB 
+causing, VERB 
+characteristic, ADJ 
+change, NOUN 
+color, NOUN 
+Crazing, NOUN 
+
+, SPACE 
+increases, VERB 
+toughness, NOUN 
+polymers, NOUN 
+dissipating, VERB 
+energy, NOUN 
+principal, ADJ 
+
+, SPACE 
+ways, NOUN 
+disentanglement, NOUN 
+polymer, NOUN 
+chains, NOUN 
+creation, NOUN 
+new, ADJ 
+
+, SPACE 
+surface, NOUN 
+area, NOUN 
+pores, NOUN 
+18, NUM 
+Crazes, NOUN 
+differ, VERB 
+cracks, NOUN 
+crazesBone, NUM 
+57, NUM 
+2013, NUM 
+367, NUM 
+374, NUM 
+
+, SPACE 
+⁎Corresponding, PROPN 
+author, NOUN 
+
+, SPACE 
+E, ADJ 
+mail, NOUN 
+address, NOUN 
+dpfyhrie@ucdavis.edu, X 
+D.P., PROPN 
+Fyhrie, PROPN 
+
+, SPACE 
+8756, NUM 
+3282/$, NUM 
+matter, NOUN 
+©, ADJ 
+2013, NUM 
+Elsevier, ADJ 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+http://dx.doi.org/10.1016/j.bone.2013.08.029, PROPN 
+
+, SPACE 
+Contents, PROPN 
+lists, NOUN 
+available, ADJ 
+ScienceDirect, PROPN 
+
+, SPACE 
+Bone, PROPN 
+
+, SPACE 
+journal, NOUN 
+homepage, NOUN 
+www.elsevier.com/locate/bone, NOUN 
+
+, SPACE 
+continue, VERB 
+bear, VERB 
+load, NOUN 
+polymer, NOUN 
+ﬁbrils, VERB 
+unbridged, ADJ 
+
+, SPACE 
+cracks, NOUN 
+19, NUM 
+
+, SPACE 
+Stress, NOUN 
+whitening, NOUN 
+extensively, ADV 
+studied, VERB 
+bone, NOUN 
+
+, SPACE 
+previous, ADJ 
+reports, NOUN 
+identi, PROPN 
+ﬁed, PROPN 
+potential, ADJ 
+damage, NOUN 
+process, NOUN 
+in-, ADP 
+
+, SPACE 
+creases, NOUN 
+toughness, NOUN 
+Currey, NOUN 
+observed, VERB 
+bone, NOUN 
+visually, ADV 
+whiter, ADJ 
+
+, SPACE 
+mechanically, ADV 
+loaded, VERB 
+stress, NOUN 
+whitening, NOUN 
+particularly, ADV 
+visible, ADJ 
+
+, SPACE 
+stress, NOUN 
+concentrators, NOUN 
+illuminated, VERB 
+16].S, NUM 
+t, NOUN 
+r, NOUN 
+e, NOUN 
+s, PROPN 
+s, X 
+
+, SPACE 
+whitening, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+studied, VERB 
+observing, VERB 
+axial, ADJ 
+compressive, NOUN 
+
+, SPACE 
+loading, NOUN 
+bone, NOUN 
+cores, NOUN 
+high, ADJ 
+speed, NOUN 
+photography, NOUN 
+20].R, NUM 
+e, NOUN 
+g, PROPN 
+o, PROPN 
+n, CCONJ 
+st, PROPN 
+h, VERB 
+t, NOUN 
+
+, SPACE 
+stress, NOUN 
+whitened, VERB 
+imaged, VERB 
+scanning, VERB 
+electron, PROPN 
+microscopy, NOUN 
+
+, SPACE 
+cracks, NOUN 
+found, VERB 
+suggesting, VERB 
+stress, NOUN 
+whitening, NOUN 
+result, NOUN 
+
+, SPACE 
+microcrack, NOUN 
+formation, NOUN 
+cracks, NOUN 
+shown, VERB 
+bridged, VERB 
+
+, SPACE 
+mineralized, ADJ 
+collagen, NOUN 
+ﬁbrillar, ADJ 
+structures, NOUN 
+authors, NOUN 
+concluded, VERB 
+
+, SPACE 
+bridging, VERB 
+ﬁbrils, NOUN 
+spaces, NOUN 
+ﬁbrils, NOUN 
+microcrack, NOUN 
+scatter, NOUN 
+
+, SPACE 
+light, NOUN 
+caused, VERB 
+stress, NOUN 
+whitening, NOUN 
+process, NOUN 
+
+, SPACE 
+stress, NOUN 
+whitening, NOUN 
+observ, PROPN 
+ed, NOUN 
+thin, ADJ 
+sections, NOUN 
+cortical, ADJ 
+bone, NOUN 
+
+, SPACE 
+increased, VERB 
+darkness, NOUN 
+transmitted, VERB 
+light, ADJ 
+images, NOUN 
+taken, VERB 
+tensile, ADJ 
+
+, SPACE 
+loading, NOUN 
+21, NUM 
+Stress, NOUN 
+whitening, NOUN 
+attributed, VERB 
+nano, NOUN 
+pores, NOUN 
+formed, VERB 
+
+, SPACE 
+debonding, NOUN 
+mineral, NOUN 
+crystals, NOUN 
+collagen, NOUN 
+molecules, NOUN 
+contrast, NOUN 
+
+, SPACE 
+work, NOUN 
+Thurner, PROPN 
+microcracks, NOUN 
+detected, VERB 
+atomic, ADJ 
+force, NOUN 
+
+, SPACE 
+microscopy, ADJ 
+Stress, NOUN 
+whitening, NOUN 
+observed, VERB 
+increase, NOUN 
+back-, PROPN 
+
+, SPACE 
+scattered, VERB 
+spectra, ADJ 
+400, NUM 
+900, NUM 
+nm, NOUN 
+notched, VERB 
+cortical, ADJ 
+bovine, ADJ 
+bone, NOUN 
+
+, SPACE 
+specimens, NOUN 
+Mechanical, ADJ 
+loading, NOUN 
+shown, VERB 
+affect, VERB 
+intensity, NOUN 
+
+, SPACE 
+scattered, VERB 
+light, NOUN 
+spectral, ADJ 
+distribution, NOUN 
+22, NUM 
+
+, SPACE 
+remains, VERB 
+learned, VERB 
+stress, NOUN 
+whitening, NOUN 
+importance, NOUN 
+
+, SPACE 
+bone, NOUN 
+strength, NOUN 
+mechanisms, NOUN 
+cause, VERB 
+process-, NOUN 
+
+, SPACE 
+es, NOUN 
+change, VERB 
+disease, NOUN 
+age, NOUN 
+drug, NOUN 
+treatment, NOUN 
+demon-, ADJ 
+
+, SPACE 
+strate, NOUN 
+bone, NOUN 
+tissue, NOUN 
+mineral, NOUN 
+removed, VERB 
+whitens, VERB 
+
+, SPACE 
+loading, NOUN 
+demonstrating, NOUN 
+microcracks, NOUN 
+and/or, CCONJ 
+separation, NOUN 
+mineral, NOUN 
+
+, SPACE 
+platelets, NOUN 
+matrix, NOUN 
+mechanisms, NOUN 
+stress-, ADJ 
+
+, SPACE 
+whitening, NOUN 
+investigation, NOUN 
+seeks, VERB 
+characterize, VERB 
+stress-, ADJ 
+
+, SPACE 
+whitening, VERB 
+toughening, NOUN 
+mechanism, NOUN 
+hypothesize, VERB 
+arises, VERB 
+
+, SPACE 
+bone, NOUN 
+collagen, NOUN 
+ﬁbrils, NOUN 
+
+, SPACE 
+Hydrogen, PROPN 
+bonding, NOUN 
+bone, NOUN 
+
+, SPACE 
+organic, ADJ 
+phase, NOUN 
+bone, NOUN 
+interacts, NOUN 
+ﬂuid, ADJ 
+phase, NOUN 
+
+, SPACE 
+mineral, NOUN 
+phase, NOUN 
+creating, VERB 
+stiff, ADJ 
+strong, ADJ 
+construct, NOUN 
+material, NOUN 
+
+, SPACE 
+properties, NOUN 
+collagenous, ADJ 
+materials, NOUN 
+profoundly, ADV 
+affected, VERB 
+hy-, ADJ 
+
+, SPACE 
+dration, NOUN 
+collagen, NOUN 
+molecules, NOUN 
+Collagen, NOUN 
+molecules, NOUN 
+con, PROPN 
+ﬁned, VERB 
+
+, SPACE 
+covalent, NOUN 
+crosslinking, VERB 
+pyridinoline, NOUN 
+nonenzymatic, ADJ 
+glycation, NOUN 
+related, VERB 
+
+, SPACE 
+cross, NOUN 
+links, NOUN 
+etc, X 
+mineralization, NOUN 
+23].C, NUM 
+o, NOUN 
+nﬁnement, NOUN 
+colla-, PROPN 
+
+, SPACE 
+gen, PROPN 
+molecule, NOUN 
+provides, VERB 
+stabilizing, VERB 
+effect, NOUN 
+molecular, ADJ 
+structure, NOUN 
+
+, SPACE 
+collagen, NOUN 
+box, NOUN 
+24, NUM 
+increased, VERB 
+stability, NOUN 
+collagen, NOUN 
+
+, SPACE 
+molecules, NOUN 
+necessarily, ADV 
+lead, VERB 
+better, ADJ 
+apparent, ADJ 
+bone, NOUN 
+properties, NOUN 
+
+, SPACE 
+covalent, NOUN 
+cross, ADJ 
+linking, NOUN 
+mineralization, NOUN 
+shown, VERB 
+
+, SPACE 
+increase, VERB 
+age, NOUN 
+increase, VERB 
+bone, NOUN 
+fragility, NOUN 
+25–27, PROPN 
+Collagen, NOUN 
+mole-, ADJ 
+
+, SPACE 
+cules, NOUN 
+stabilized, VERB 
+noncovalent, ADJ 
+interactions, NOUN 
+including, VERB 
+hydro-, NOUN 
+
+, SPACE 
+phobic, NOUN 
+polar, ADJ 
+interactions, NOUN 
+introducing, VERB 
+different, ADJ 
+solvents, NOUN 
+alter, VERB 
+
+, SPACE 
+interactions, NOUN 
+effecting, VERB 
+stability, NOUN 
+28, NUM 
+
+, SPACE 
+extent, NOUN 
+hydrogen, NOUN 
+bonding, NOUN 
+collagen, NOUN 
+proteins, NOUN 
+
+, SPACE 
+controlled, VERB 
+solutions, NOUN 
+different, ADJ 
+Hansen, PROPN 
+solubility, NOUN 
+parameters, NOUN 
+
+, SPACE 
+HSP, PROPN 
+particularly, ADV 
+δh, NOUN 
+hydrogen, NOUN 
+bonding, NOUN 
+parameter, NOUN 
+29, NUM 
+hy-, ADJ 
+
+, SPACE 
+drogen, NOUN 
+bonding, NOUN 
+parameter, NOUN 
+δh)q, PROPN 
+u, PROPN 
+n, ADJ 
+t, NOUN 
+ﬁes, VERB 
+energy, NOUN 
+hydrogen, NOUN 
+
+, SPACE 
+bonding, NOUN 
+molecules, NOUN 
+solute, NOUN 
+solvent, NOUN 
+30, NUM 
+Following, VERB 
+
+, SPACE 
+principle, NOUN 
+like, INTJ 
+dissolves, NOUN 
+like, ADP 
+solvents, NOUN 
+solutes, NOUN 
+suf, NOUN 
+ﬁcient-, PROPN 
+
+, SPACE 
+ly, ADV 
+similar, ADJ 
+δhinteract, NOUN 
+solute, NOUN 
+dissolves, NOUN 
+i.e., X 
+hydrogen, NOUN 
+bonds, NOUN 
+
+, SPACE 
+broken, VERB 
+solvents, NOUN 
+high, ADJ 
+values, NOUN 
+δhthe, ADJ 
+collagen, NOUN 
+molecules, NOUN 
+
+, SPACE 
+bind, VERB 
+solvent, NOUN 
+causing, VERB 
+matrix, NOUN 
+
+, SPACE 
+soften, VERB 
+solvents, NOUN 
+known, VERB 
+HSP, PROPN 
+mixing, VERB 
+
+, SPACE 
+miscible, ADJ 
+solvents, NOUN 
+control, VERB 
+δhof, NOUN 
+solvent, NOUN 
+varying, VERB 
+
+, SPACE 
+concentrations, NOUN 
+component, NOUN 
+
+, SPACE 
+effect, NOUN 
+solvent, ADJ 
+δhon, NOUN 
+dentin, NOUN 
+previously, ADV 
+studied, VERB 
+29,31, X 
+
+, SPACE 
+authors, NOUN 
+explicitly, ADV 
+attributed, VERB 
+effects, NOUN 
+different, ADJ 
+sol-, NOUN 
+
+, SPACE 
+vents, NOUN 
+dehydration, NOUN 
+different, ADJ 
+degrees, NOUN 
+hydrogen, NOUN 
+
+, SPACE 
+bond, NOUN 
+dissolution, NOUN 
+solvents, NOUN 
+Decreasing, VERB 
+δhhas, NOUN 
+shown, VERB 
+toincrease, ADJ 
+stiffness, NOUN 
+dentin, NOUN 
+32, NUM 
+Similarly, ADV 
+drying, VERB 
+bone, NOUN 
+
+, SPACE 
+shown, VERB 
+increase, VERB 
+stiffness, ADV 
+decrease, NOUN 
+strength, NOUN 
+14, NUM 
+
+, SPACE 
+goal, NOUN 
+investigation, NOUN 
+establish, VERB 
+stress, NOUN 
+whitening, NOUN 
+
+, SPACE 
+property, NOUN 
+demineralized, VERB 
+organic, ADJ 
+matrix, NOUN 
+bone, NOUN 
+ex-, NOUN 
+
+, SPACE 
+pand, NOUN 
+previous, ADJ 
+investigations, NOUN 
+found, VERB 
+phenomenon, NOUN 
+
+, SPACE 
+fully, ADV 
+mineralized, VERB 
+bone, NOUN 
+16,20, PROPN 
+22, NUM 
+hypothesize, VERB 
+stress, VERB 
+whiten-, ADV 
+
+, SPACE 
+ing, NOUN 
+demineralized, VERB 
+bone, NOUN 
+dependent, ADJ 
+hydrogenbonding, NOUN 
+b, X 
+orientation, NOUN 
+loading, NOUN 
+relative, ADJ 
+primary, ADJ 
+direc-, NUM 
+
+, SPACE 
+tions, NOUN 
+collagen, NOUN 
+ﬁbers, NOUN 
+matrix, NOUN 
+
+, SPACE 
+Materials, NOUN 
+methods, NOUN 
+
+, SPACE 
+Twenty-, NOUN 
+ﬁve, NOUN 
+cortical, ADJ 
+bone, NOUN 
+specimens, NOUN 
+cut, VERB 
+medial-, ADJ 
+
+, SPACE 
+distal, ADJ 
+quadrant, NOUN 
+diaphysis, NOUN 
+metacarpal, ADJ 
+bone, NOUN 
+MC3, PROPN 
+
+, SPACE 
+necropsied, VERB 
+thoroughbred, ADJ 
+racehorses, NOUN 
+Fig, PROPN 
+1, NUM 
+beams, NOUN 
+cut, VERB 
+
+, SPACE 
+2, NUM 
+×, PROPN 
+8, NUM 
+×, NOUN 
+30, NUM 
+mm, NOUN 
+rectangular, ADJ 
+prisms, NOUN 
+diamond, NOUN 
+coated, VERB 
+band, NOUN 
+saw, VERB 
+
+, SPACE 
+310, NUM 
+EXAKT, PROPN 
+Oklahoma, PROPN 
+City, PROPN 
+OK, PROPN 
+USA, PROPN 
+constant, ADJ 
+irrigation, NOUN 
+
+, SPACE 
+deionized, VERB 
+water, NOUN 
+Beams, NOUN 
+stored, VERB 
+−20, PROPN 
+°, NUM 
+C, PROPN 
+use, NOUN 
+
+, SPACE 
+central, ADJ 
+10, NUM 
+mm, NOUN 
+beams, NOUN 
+demineralized, VERB 
+buff-, ADJ 
+
+, SPACE 
+ered, VERB 
+sodium, NOUN 
+citrate, NOUN 
+100, NUM 
+g, NOUN 
+L, NOUN 
+formic, PROPN 
+acid, NOUN 
+22.5, NUM 
+solution, NOUN 
+known, VERB 
+
+, SPACE 
+maintain, VERB 
+integrity, NOUN 
+collagen, NOUN 
+network, NOUN 
+33, NUM 
+proximal, ADJ 
+
+, SPACE 
+distal, ADJ 
+10, NUM 
+mm, NOUN 
+ends, NOUN 
+beams, NOUN 
+protected, VERB 
+demineralizationby, NOUN 
+nail, NOUN 
+varnish, NOUN 
+Coty, PROPN 
+New, PROPN 
+York, PROPN 
+USA, PROPN 
+coating, NOUN 
+34, NUM 
+Demineralization, PROPN 
+
+, SPACE 
+assessed, VERB 
+digital, ADJ 
+radiography, NOUN 
+Eklin, PROPN 
+Mark, PROPN 
+III, PROPN 
+Min, PROPN 
+X, PROPN 
+Ray, PROPN 
+
+, SPACE 
+HF100, PROPN 
++, PROPN 
+Northbrook, PROPN 
+IL, PROPN 
+USA, PROPN 
+Demineralization, NOUN 
+media, NOUN 
+changed, VERB 
+
+, SPACE 
+day, NOUN 
+5, NUM 
+days, NOUN 
+beams, NOUN 
+dog, NOUN 
+bone, NOUN 
+shaped, VERB 
+
+, SPACE 
+specimens, NOUN 
+Fig, PROPN 
+1, NUM 
+minimum, ADJ 
+cross, ADJ 
+sectional, ADJ 
+area, NOUN 
+4, NUM 
+mm, NUM 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+2, NUM 
+×, NOUN 
+2, NUM 
+mm, NOUN 
+custom, NOUN 
+designed, VERB 
+jig, PROPN 
+guide, VERB 
+biopsy, NOUN 
+punches, NOUN 
+
+, SPACE 
+Acuderm, PROPN 
+Ft, PROPN 
+Lauderdale, PROPN 
+FL, PROPN 
+USA, PROPN 
+Specimens, NOUN 
+marked, VERB 
+pur-, NOUN 
+
+, SPACE 
+pose, NOUN 
+assessing, VERB 
+optical, ADJ 
+strain, NOUN 
+digital, ADJ 
+image, NOUN 
+correlation, NOUN 
+an-, ADJ 
+
+, SPACE 
+study, NOUN 
+data, NOUN 
+shown, VERB 
+35, NUM 
+
+, SPACE 
+Mechanical, PROPN 
+testing, NOUN 
+
+, SPACE 
+Specimens, PROPN 
+loaded, VERB 
+tension, NOUN 
+constant, ADJ 
+strain, NOUN 
+rate, NOUN 
+0.08, NUM 
+±, PROPN 
+
+, SPACE 
+0.006, NUM 
+failure, NOUN 
+servo, ADJ 
+hydraulic, ADJ 
+system, NOUN 
+Load, PROPN 
+Unit, PROPN 
+319.25A, NUM 
+T, PROPN 
+
+, SPACE 
+MTS, PROPN 
+Systems, PROPN 
+Corp., PROPN 
+Eden, PROPN 
+Prairie, PROPN 
+MN, PROPN 
+USA, PROPN 
+ﬁtted, VERB 
+load, NOUN 
+cell, NOUN 
+
+, SPACE 
+2000, NUM 
+N, PROPN 
+range, NOUN 
+model, NOUN 
+662.20C-01, NUM 
+MTS, PROPN 
+Systems, PROPN 
+Corp., PROPN 
+Eden, PROPN 
+Prairie, PROPN 
+
+, SPACE 
+MN, PROPN 
+USA, PROPN 
+Specimens, NOUN 
+mounted, VERB 
+mineralized, ADJ 
+portions, NOUN 
+
+, SPACE 
+beams, NOUN 
+clamped, VERB 
+creating, VERB 
+gauge, NOUN 
+length, NOUN 
+10, NUM 
+mm, NOUN 
+
+, SPACE 
+MTS, PROPN 
+interface, NOUN 
+previously, ADV 
+described, VERB 
+36, NUM 
+mechanical, ADJ 
+testing, NOUN 
+
+, SPACE 
+conducted, VERB 
+37, NUM 
+°, NUM 
+C, NOUN 
+held, VERB 
+constant, ADJ 
+immersion, NOUN 
+temperature, NOUN 
+con-, X 
+
+, SPACE 
+trolled, VERB 
+ﬂuid, ADJ 
+bath, NOUN 
+ﬂuid, ADJ 
+bath, NOUN 
+constructed, VERB 
+acrylic, NOUN 
+visu-, ADJ 
+
+, SPACE 
+alization, NOUN 
+specimen, NOUN 
+clear, ADJ 
+polycarbonate, NOUN 
+Fig, PROPN 
+1, NUM 
+
+, SPACE 
+Axial, ADJ 
+apparent, ADJ 
+stress, NOUN 
+calculated, VERB 
+force, NOUN 
+measured, VERB 
+
+, SPACE 
+load, NOUN 
+cell, NOUN 
+divided, VERB 
+initial, ADJ 
+minimum, ADJ 
+cross, ADJ 
+sectional, ADJ 
+area, NOUN 
+Apparent, ADJ 
+
+, SPACE 
+strain, NOUN 
+estimated, VERB 
+change, NOUN 
+length, NOUN 
+entire, ADJ 
+specimen, NOUN 
+di-, VERB 
+
+, SPACE 
+vided, VERB 
+original, ADJ 
+length, NOUN 
+Elastic, ADJ 
+modulus, NOUN 
+calculated, VERB 
+
+, SPACE 
+linear, ADJ 
+portion, NOUN 
+linear, PROPN 
+Regression, PROPN 
+Excel, PROPN 
+Microsoft, PROPN 
+Redmond, PROPN 
+WA, PROPN 
+
+, SPACE 
+force, NOUN 
+displacement, NOUN 
+curve, NOUN 
+linear, ADJ 
+elastic, ADJ 
+ﬁnite, NOUN 
+element, NOUN 
+model, NOUN 
+
+, SPACE 
+ideal, ADJ 
+initial, ADJ 
+sample, NOUN 
+geometry, NOUN 
+Ultimate, ADJ 
+strain, NOUN 
+stress, NOUN 
+
+, SPACE 
+calculated, VERB 
+
+, SPACE 
+effect, NOUN 
+hydrogen, NOUN 
+bonding, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+
+, SPACE 
+stress, NOUN 
+whitening, VERB 
+process, NOUN 
+probed, VERB 
+immersing, VERB 
+specimens, NOUN 
+
+, SPACE 
+1, NUM 
+4, NUM 
+solutions, NOUN 
+different, ADJ 
+Hansen, PROPN 
+hydrogen, NOUN 
+bonding, NOUN 
+parame-, PROPN 
+
+, SPACE 
+ter, NOUN 
+δh, PROPN 
+mechanical, ADJ 
+testing, NOUN 
+100, NUM 
+ethanol, NOUN 
+δh=1, PROPN 
+9, NUM 
+4, NUM 
+M, PROPN 
+P, NOUN 
+a½, NUM 
+
+, SPACE 
+saline, NOUN 
+9, NUM 
+g, NOUN 
+NaCl, PROPN 
+LH2O, PROPN 
+δh=4, PROPN 
+2, NUM 
+3, NUM 
+M, PROPN 
+P, NOUN 
+a½, NUM 
+40, NUM 
+ethanol, NOUN 
+60, NUM 
+saline, NOUN 
+δh=, NOUN 
+
+, SPACE 
+33.14, NUM 
+MPa½, PROPN 
+70, NUM 
+ethanol, NOUN 
+30, NUM 
+saline, NOUN 
+δh=2, X 
+6, NUM 
+2, NUM 
+7, NUM 
+M, PROPN 
+P, NOUN 
+a½, NUM 
+Prior, ADV 
+
+, SPACE 
+mechanical, ADJ 
+testing, NOUN 
+specimens, NOUN 
+immersed, VERB 
+solution, NOUN 
+
+, SPACE 
+tested, VERB 
+1, NUM 
+h, NOUN 
+allow, VERB 
+specimens, NOUN 
+equilibrate, VERB 
+
+, SPACE 
+solution, NOUN 
+
+, SPACE 
+effect, NOUN 
+orientation, NOUN 
+bone, NOUN 
+structure, NOUN 
+probed, VERB 
+cut-, X 
+
+, SPACE 
+ting, NOUN 
+beams, NOUN 
+parallel, ADJ 
+orthogonal, ADJ 
+long, ADJ 
+axis, NOUN 
+
+, SPACE 
+bone, NOUN 
+
+, SPACE 
+Damage, NOUN 
+cracking, NOUN 
+stress, NOUN 
+whitening, NOUN 
+mechanical, ADJ 
+testing, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+monitored, VERB 
+high, ADJ 
+speed, NOUN 
+1000, NUM 
+fps, NOUN 
+high, ADJ 
+resolution368, PROPN 
+M.R., PROPN 
+Hardisty, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+57, NUM 
+2013, NUM 
+367, NUM 
+374, NUM 
+
+, SPACE 
+1280, NUM 
+×, X 
+1024, NUM 
+pixels, VERB 
+stereo, NOUN 
+cameras, NOUN 
+Phototron, PROPN 
+Fastcam, PROPN 
+PCI, PROPN 
+San, PROPN 
+Diego, PROPN 
+
+, SPACE 
+illuminated, VERB 
+2, NUM 
+white, ADJ 
+light, NOUN 
+tungsten, VERB 
+halogen, NOUN 
+lamps, NOUN 
+DVY, PROPN 
+650, NUM 
+W, PROPN 
+
+, SPACE 
+3400, NUM 
+K, PROPN 
+Model, PROPN 
+700, NUM 
+SG, PROPN 
+Smith, PROPN 
+Victor, PROPN 
+Corp., PROPN 
+Bartlett, PROPN 
+Illinois, PROPN 
+USA, PROPN 
+
+, SPACE 
+mounted, VERB 
+tripods, NOUN 
+placed, VERB 
+1.5, NUM 
+m, NOUN 
+away, ADV 
+~45, X 
+°, NOUN 
+height, NOUN 
+sample, NOUN 
+
+, SPACE 
+directed, VERB 
+sample, NOUN 
+subsequently, ADV 
+adjusted, VERB 
+shadowing, NOUN 
+
+, SPACE 
+Stress, NOUN 
+whitening, NOUN 
+specimens, NOUN 
+quanti, PROPN 
+ﬁed, PROPN 
+manual, ADJ 
+segmenta-, ADJ 
+
+, SPACE 
+tion, NOUN 
+ImageJ, ADJ 
+NIH, PROPN 
+Bethesda, PROPN 
+MD, PROPN 
+USA, PROPN 
+ﬁrst, ADJ 
+frame, NOUN 
+Fig, PROPN 
+2, NUM 
+n, NOUN 
+dt, PROPN 
+h, PROPN 
+e, PROPN 
+n, CCONJ 
+
+, SPACE 
+automated, VERB 
+level, NOUN 
+set, VERB 
+segmentation, NOUN 
+method, NOUN 
+relying, VERB 
+edge, NOUN 
+detec-, NOUN 
+
+, SPACE 
+tion, NOUN 
+37, NUM 
+track, VERB 
+specimen, NOUN 
+subsequent, ADJ 
+frames, NOUN 
+Stress-, ADJ 
+
+, SPACE 
+whitening, NOUN 
+quanti, PROPN 
+ﬁed, PROPN 
+frame, NOUN 
+fractional, ADJ 
+increase, NOUN 
+
+, SPACE 
+brightness, NOUN 
+relative, ADJ 
+initial, ADJ 
+unloaded, ADJ 
+frame, NOUN 
+MATLAB, PROPN 
+MathWorks, PROPN 
+
+, SPACE 
+Natick, PROPN 
+MA, PROPN 
+USA, PROPN 
+intensity, NOUN 
+pixels, NOUN 
+images, NOUN 
+
+, SPACE 
+corrected, VERB 
+differences, NOUN 
+illumination, NOUN 
+correction, NOUN 
+referenceslide, NOUN 
+white, ADJ 
+black, ADJ 
+regions, NOUN 
+included, VERB 
+visual, ADJ 
+
+, SPACE 
+ﬁeld, NOUN 
+videos, NOUN 
+extent, NOUN 
+stress, NOUN 
+whitening, NOUN 
+calculated, VERB 
+
+, SPACE 
+average, ADJ 
+pixel, ADJ 
+intensity, NOUN 
+visible, ADJ 
+specimen, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+relative, ADJ 
+initial, ADJ 
+average, ADJ 
+specimen, NOUN 
+intensity, NOUN 
+follows, VERB 
+
+, SPACE 
+W¼X, NOUN 
+
+, SPACE 
+xX, NUM 
+
+, SPACE 
+yImaxx;yðÞ, PROPN 
+
+, SPACE 
+npixel−X, PROPN 
+
+, SPACE 
+xX, X 
+
+, SPACE 
+yIinitx;yðÞ, PROPN 
+
+, SPACE 
+npixelX, PROPN 
+
+, SPACE 
+xX, X 
+
+, SPACE 
+yIinitx;yðÞ, PROPN 
+
+, SPACE 
+npixel−Icorrectionð1Þ, PROPN 
+
+, SPACE 
+Imaxrepresents, NOUN 
+intensity, NOUN 
+image, NOUN 
+maxi-, X 
+
+, SPACE 
+mum, NOUN 
+increase, NOUN 
+intensity, NOUN 
+observed, VERB 
+Iinitwas, ADV 
+intensity, NOUN 
+
+, SPACE 
+image, NOUN 
+prior, ADV 
+loading, NOUN 
+Icorrection, PROPN 
+average, ADJ 
+intensity, NOUN 
+refer-, ADJ 
+
+, SPACE 
+ence, NOUN 
+slide, NOUN 
+image, NOUN 
+intensities, NOUN 
+averaged, VERB 
+region, NOUN 
+in-, ADP 
+
+, SPACE 
+terest, NOUN 
+frame, NOUN 
+high, ADJ 
+speed, NOUN 
+video, NOUN 
+
+, SPACE 
+investigate, VERB 
+possibility, NOUN 
+stress, NOUN 
+whitening, VERB 
+permanent, ADJ 
+
+, SPACE 
+stress, NOUN 
+whitening, NOUN 
+quanti, PROPN 
+ﬁed, PROPN 
+Eq, PROPN 
+1, NUM 
+circular, ADJ 
+subregion, NOUN 
+
+, SPACE 
+specimens, NOUN 
+visibly, ADV 
+crack, VERB 
+Stress, NOUN 
+whitening, NOUN 
+
+, SPACE 
+circular, ADJ 
+region, NOUN 
+quanti, PROPN 
+ﬁed, PROPN 
+prior, ADV 
+loading, NOUN 
+loading, NOUN 
+
+, SPACE 
+load, NOUN 
+removed, VERB 
+failure, NOUN 
+specimen, NOUN 
+
+, SPACE 
+Statistical, ADJ 
+analysis, NOUN 
+
+, SPACE 
+squares, NOUN 
+regression, NOUN 
+JMP, PROPN 
+SAS, PROPN 
+institute, PROPN 
+Cary, PROPN 
+NC, PROPN 
+USA, PROPN 
+
+, SPACE 
+identify, VERB 
+correlations, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+thespecimens, NOUN 
+stress, NOUN 
+whitening, NOUN 
+δh, NOUN 
+L, NOUN 
+c, NOUN 
+ko, PROPN 
+f, PROPN 
+ﬁt, PROPN 
+tests, NOUN 
+run, VERB 
+inves-, ADJ 
+
+, SPACE 
+tigate, VERB 
+possibility, NOUN 
+inappropriate, ADJ 
+statistical, ADJ 
+model, NOUN 
+Multivariable, ADJ 
+
+, SPACE 
+linear, ADJ 
+regression, NOUN 
+look, VERB 
+relationship, NOUN 
+combining, VERB 
+
+, SPACE 
+mechanical, ADJ 
+properties, NOUN 
+δhto, NOUN 
+predict, VERB 
+stress, NOUN 
+whitening, VERB 
+R, NOUN 
+R, NOUN 
+
+, SPACE 
+foundation, NOUN 
+Statistical, PROPN 
+Computing, PROPN 
+Vienna, PROPN 
+Austria, PROPN 
+Partial, ADJ 
+R2was, AUX 
+
+, SPACE 
+quantify, VERB 
+relative, ADJ 
+contribution, NOUN 
+parameter, NOUN 
+mul-, NUM 
+
+, SPACE 
+tivariable, ADJ 
+regressions, NOUN 
+previous, ADJ 
+investigation, NOUN 
+laboratory, NOUN 
+
+, SPACE 
+showed, VERB 
+sudden, ADJ 
+transition, NOUN 
+elastic, ADJ 
+modulus, NOUN 
+δh=2, PROPN 
+9, NUM 
+M, PROPN 
+P, NOUN 
+a½[38, PROPN 
+
+, SPACE 
+Based, VERB 
+sudden, ADJ 
+transition, NOUN 
+sigmoid, NOUN 
+ﬁt, ADJ 
+stress, NOUN 
+whitening, NOUN 
+
+, SPACE 
+−δhrelationship, NOUN 
+
+, SPACE 
+W¼wmax−wmin, PUNCT 
+
+, SPACE 
+e−δh−β, PROPN 
+
+, SPACE 
+α, PROPN 
+C0, PROPN 
+C1, PROPN 
+
+, SPACE 
+þ1þwmin, PROPN 
+ð2Þ, PUNCT 
+
+, SPACE 
+effect, NOUN 
+orientation, NOUN 
+specimens, NOUN 
+mechanical, ADJ 
+
+, SPACE 
+properties, NOUN 
+stress, NOUN 
+whitening, NOUN 
+quanti, PROPN 
+ﬁed, PROPN 
+analysis, NOUN 
+vari-, NOUN 
+
+, SPACE 
+ance, NOUN 
+ANOVA, PROPN 
+
+, SPACE 
+Results, NOUN 
+
+, SPACE 
+Stress, NOUN 
+whitening, NOUN 
+observed, VERB 
+bone, NOUN 
+organic, ADJ 
+matrix, NOUN 
+
+, SPACE 
+presence, NOUN 
+mineral, NOUN 
+Fig, PROPN 
+2, NUM 
+Stress, NOUN 
+whitening, NOUN 
+observed, VERB 
+speci-, NOUN 
+
+, SPACE 
+mens, NOUN 
+tested, VERB 
+greatest, ADJ 
+stress, NOUN 
+whitening, VERB 
+occurring, VERB 
+saline, NOUN 
+
+, SPACE 
+immersed, VERB 
+parallel, ADJ 
+aligned, VERB 
+specimens, NOUN 
+Fig, PROPN 
+3, NUM 
+Table, NOUN 
+1, NUM 
+Stress, NOUN 
+whitened, VERB 
+
+, SPACE 
+regions, NOUN 
+apparent, ADJ 
+terms, NOUN 
+intensity, NOUN 
+area, NOUN 
+spec-, NOUN 
+
+, SPACE 
+imens, NOUN 
+immersed, VERB 
+higher, ADJ 
+δhsolutions, NOUN 
+Maximum, ADJ 
+stress, NOUN 
+whitening, NOUN 
+
+, SPACE 
+correlated, VERB 
+δh(R2=, PROPN 
+0.81, NUM 
+pb0.0001, PROPN 
+sigmoid, NOUN 
+model, NOUN 
+
+, SPACE 
+Eq, PROPN 
+2),Fig, NUM 
+4, NUM 
+explained, VERB 
+variation, NOUN 
+whitening, VERB 
+
+, SPACE 
+R2=0, PROPN 
+8, NUM 
+1, NUM 
+pb0.0001, PROPN 
+Wmin=0, PROPN 
+1, NUM 
+2, NUM 
+7, NUM 
+Wmin=0, NOUN 
+9, NUM 
+0, NUM 
+8, NUM 
+β=, NOUN 
+30.6, NUM 
+α=, NOUN 
+
+, SPACE 
+3.50, NUM 
+linear, ADJ 
+model, NOUN 
+lack, NOUN 
+ﬁt, PROPN 
+tests, NOUN 
+performed, VERB 
+signif-, ADJ 
+
+, SPACE 
+icant, NOUN 
+linear, ADJ 
+correlation, NOUN 
+model, NOUN 
+modestly, ADV 
+improved, VERB 
+including, VERB 
+
+, SPACE 
+ultimate, ADJ 
+strain, NOUN 
+multivariable, ADJ 
+model, NOUN 
+Radj2=0, PROPN 
+8, NUM 
+6, NUM 
+pb0.0001, PROPN 
+partial, ADJ 
+
+, SPACE 
+R2, NOUN 
+Rδh|εu2=0, PROPN 
+8, NUM 
+9, NUM 
+p=, NOUN 
+0.0003, NUM 
+Rεu|δh2=, PROPN 
+0.54, NUM 
+pb0.0001, PROPN 
+me-, NUM 
+
+, SPACE 
+chanical, ADJ 
+properties, NOUN 
+specimens, NOUN 
+added, VERB 
+statistically, ADV 
+signi, PROPN 
+ﬁcant, NOUN 
+con-, NOUN 
+
+, SPACE 
+tributions, NOUN 
+multivariable, ADJ 
+model, NOUN 
+
+, SPACE 
+specimens, NOUN 
+different, ADJ 
+solvent, NOUN 
+groups, NOUN 
+showed, VERB 
+different, ADJ 
+
+, SPACE 
+mechanical, ADJ 
+properties, NOUN 
+lowest, ADJ 
+δhsigniﬁcantly, ADV 
+increased, VERB 
+elastic, ADJ 
+
+, SPACE 
+modulus, NOUN 
+compared, VERB 
+largest, ADJ 
+260, NUM 
+MPa, NOUN 
+δh=1, PROPN 
+9, NUM 
+4, NUM 
+M, PROPN 
+P, PROPN 
+a½)v, PROPN 
+s, PROPN 
+
+, SPACE 
+170, NUM 
+MPa, NOUN 
+δh=4, PROPN 
+2, NUM 
+3, NUM 
+M, PROPN 
+P, NOUN 
+a½);δhexplained, VERB 
+35, NUM 
+change, NOUN 
+modulus, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Mechanical, ADJ 
+testing, NOUN 
+setup, NOUN 
+Specimens, PROPN 
+loaded, VERB 
+tension, NOUN 
+0.08, NUM 
+s, PROPN 
+immersed, VERB 
+solutions, NOUN 
+ethanol, NOUN 
+saline, NOUN 
+transparent, ADJ 
+temperat, NOUN 
+ure, NOUN 
+37, NUM 
+°, NUM 
+C, NOUN 
+controlled, VERB 
+bath, NOUN 
+
+, SPACE 
+specimens, NOUN 
+imaged, VERB 
+high, ADJ 
+speed, NOUN 
+stereo, NOUN 
+cameras, NOUN 
+Bone, NOUN 
+specimens, NOUN 
+taken, VERB 
+medial, ADJ 
+distal, ADJ 
+quadrant, NOUN 
+mid, NOUN 
+diaphysis, NOUN 
+equine, PROPN 
+t, PROPN 
+hird, PROPN 
+metacarpus, NOUN 
+Bone, NOUN 
+
+, SPACE 
+demineralized, VERB 
+effective, ADJ 
+10, NUM 
+mm, NOUN 
+gauge, NOUN 
+length.369, PROPN 
+M.R., PROPN 
+Hardisty, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+57, NUM 
+2013, NUM 
+367, NUM 
+374, NUM 
+
+, SPACE 
+p=, NOUN 
+0.006, NUM 
+Similarly, ADV 
+ultimate, ADJ 
+strength, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+corre-, VERB 
+
+, SPACE 
+lated, VERB 
+δhwith, VERB 
+negative, ADJ 
+slope, NOUN 
+R2=0, PROPN 
+3, NUM 
+3, NUM 
+p=0, PROPN 
+0, NUM 
+0, NUM 
+8, NUM 
+Fig, PROPN 
+3, NUM 
+Ultimate, PROPN 
+
+, SPACE 
+strain, NOUN 
+signi, AUX 
+ﬁcantly, ADV 
+vary, VERB 
+δh, NOUN 
+Elastic, ADJ 
+modulus, NOUN 
+correlated, VERB 
+
+, SPACE 
+strength, NOUN 
+R2=0, PROPN 
+7, NUM 
+0, NUM 
+pb0.0001, PROPN 
+Fig, PROPN 
+5, NUM 
+
+, SPACE 
+stress, NOUN 
+strain, VERB 
+curves, NOUN 
+demineralized, VERB 
+bone, NOUN 
+specimens, NOUN 
+
+, SPACE 
+typical, ADJ 
+soft, ADJ 
+biological, ADJ 
+tissues, NOUN 
+39, NUM 
+specimens, NOUN 
+showed, VERB 
+nonlinear, ADJ 
+
+, SPACE 
+relationship, NOUN 
+stress, NOUN 
+strain, NOUN 
+initial, ADJ 
+toe, NOUN 
+region, NOUN 
+
+, SPACE 
+low, ADJ 
+tangent, NOUN 
+modulus, NOUN 
+followed, VERB 
+increasing, VERB 
+modulus, NOUN 
+strain, NOUN 
+
+, SPACE 
+nearly, ADV 
+linear, ADJ 
+region, NOUN 
+failure, NOUN 
+Specimens, NOUN 
+failed, VERB 
+suddenly, ADV 
+with-, VERB 
+
+, SPACE 
+strain, NOUN 
+softening, VERB 
+prior, ADV 
+obvious, ADJ 
+crack, NOUN 
+nucleation, NOUN 
+propagation, NOUN 
+
+, SPACE 
+A1, PROPN 
+A2, PROPN 
+
+, SPACE 
+B1, PROPN 
+B2, NOUN 
+A3, NOUN 
+
+, SPACE 
+B3, PROPN 
+
+, SPACE 
+C3, PROPN 
+C2, PROPN 
+C1, PROPN 
+C4, PROPN 
+B4, PROPN 
+A4, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Stress, NOUN 
+whitening, NOUN 
+specimens, NOUN 
+different, ADJ 
+solutions, NOUN 
+Specimens, PROPN 
+immersed, VERB 
+saline, NOUN 
+δh=4, PROPN 
+2, NUM 
+3, NUM 
+M, PROPN 
+P, PROPN 
+a½(A&C, NOUN 
+ethanol, NOUN 
+δh=1, PROPN 
+9, NUM 
+4, NUM 
+M, PROPN 
+P, NOUN 
+a½(B, PROPN 
+tensile, ADJ 
+loading, NOUN 
+direction, NOUN 
+
+, SPACE 
+parellel, NOUN 
+A&B, NOUN 
+orthogonal, ADJ 
+C, NOUN 
+long, ADJ 
+axis, NOUN 
+bone, NOUN 
+Specimens, NOUN 
+depicted, VERB 
+immidiately, ADV 
+prior, ADV 
+loading, NOUN 
+1, NUM 
+immediatly, ADV 
+cracking, VERB 
+began, VERB 
+2, NUM 
+immediately, ADV 
+
+, SPACE 
+failure, NOUN 
+3, NUM 
+Whitening, NOUN 
+observed, VERB 
+cases, NOUN 
+greater, ADJ 
+whitening, NOUN 
+observed, VERB 
+parellel, NOUN 
+aligned, VERB 
+saline, NOUN 
+immersed, VERB 
+th, X 
+e, NOUN 
+parellel, NOUN 
+aligned, VERB 
+ethanol, NOUN 
+immersed, VERB 
+
+, SPACE 
+B, NOUN 
+orthogonal, ADJ 
+aligned, VERB 
+saline, NOUN 
+immersed, VERB 
+C, NOUN 
+specimens, NOUN 
+Table, NOUN 
+1, NUM 
+Red, ADJ 
+contour, ADJ 
+line, NOUN 
+shows, VERB 
+region, NOUN 
+quantify, VERB 
+whitening, NOUN 
+4, X 
+Whitening, NOUN 
+stress, NOUN 
+plotted, VERB 
+strain, NOUN 
+
+, SPACE 
+Stress, NOUN 
+whitening, NOUN 
+increased, VERB 
+till, SCONJ 
+rupture, NOUN 
+greatly, ADV 
+reduced, VERB 
+showing, VERB 
+whitening, NOUN 
+matrix, NOUN 
+reversible, ADJ 
+Specimens, NOUN 
+immersed, VERB 
+salin, PROPN 
+e, PROPN 
+showed, VERB 
+s, ADJ 
+shaped, VERB 
+relationship, NOUN 
+
+, SPACE 
+whitening, NOUN 
+strain, NOUN 
+suggesting, VERB 
+whitening, NOUN 
+independent, ADJ 
+damage, NOUN 
+Mechanical, ADJ 
+behavior, NOUN 
+consistent, ADJ 
+previous, ADJ 
+ﬁndings, NOUN 
+specimens, NOUN 
+increasing, VERB 
+elastic, ADJ 
+
+, SPACE 
+modulus, NOUN 
+increasing, VERB 
+strain, NOUN 
+34, NUM 
+Specimens, NOUN 
+marked, VERB 
+black, ADJ 
+marker, NOUN 
+giving, VERB 
+speckled, ADJ 
+appearance, NOUN 
+purpose, NOUN 
+tracking, VERB 
+optical, ADJ 
+strain, NOUN 
+reported, VERB 
+Specimen, NOUN 
+
+, SPACE 
+illumination, NOUN 
+camera, NOUN 
+position, NOUN 
+held, VERB 
+constant, ADJ 
+mechanical, ADJ 
+testing, NOUN 
+Changes, NOUN 
+illumination, NOUN 
+unloaded, ADJ 
+whiteness, NOUN 
+specimens, NOUN 
+controlled, VERB 
+normalizing, VERB 
+
+, SPACE 
+stress, NOUN 
+whitening, VERB 
+values, NOUN 
+reference, NOUN 
+slide, NOUN 
+initial, ADJ 
+unloaded, ADJ 
+whiteness, NOUN 
+specimen, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Mechanical, ADJ 
+property, NOUN 
+variation, NOUN 
+δh, NOUN 
+Ultimate, PROPN 
+Stress, PROPN 
+correlated, VERB 
+δh, NOUN 
+
+, SPACE 
+R2=0, PROPN 
+3, NUM 
+3, NUM 
+p=, NOUN 
+0.008, NUM 
+elastic, ADJ 
+modulus, NOUN 
+correlated, VERB 
+δh(R2=0, PROPN 
+3, NUM 
+5, NUM 
+p=, PROPN 
+
+, SPACE 
+0.006, NUM 
+a”and, CCONJ 
+b”denote, NUM 
+signi, NOUN 
+ﬁcantly, ADV 
+different, ADJ 
+groups, NOUN 
+Tukey, PROPN 
+HSD, PROPN 
+pb0.05, PROPN 
+Similar, ADJ 
+
+, SPACE 
+previous, ADJ 
+study, NOUN 
+conducted, VERB 
+laboratory, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+speci, NOUN 
+mens, NOUN 
+vary, VERB 
+δ, ADJ 
+
+, SPACE 
+hat, NOUN 
+high, ADJ 
+values, NOUN 
+δhN30)[38].Table, ADJ 
+1, NUM 
+
+, SPACE 
+Mechanical, ADJ 
+properties, NOUN 
+stress, NOUN 
+whitening, VERB 
+o, NOUN 
+f, X 
+demineralized, VERB 
+bone, NOUN 
+parallel, ADJ 
+orthogo-, ADJ 
+
+, SPACE 
+nal, ADJ 
+long, ADJ 
+axis, NOUN 
+bone, NOUN 
+cut, VERB 
+Specimens, NOUN 
+fully, ADV 
+hydratedduring, NOUN 
+testing, NOUN 
+immersion, NOUN 
+normal, ADJ 
+saline, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+stress, NOUN 
+whitening, NOUN 
+found, VERB 
+statistically, ADV 
+different, ADJ 
+groups, NOUN 
+ANOVA, PROPN 
+pb0.0001, PROPN 
+
+, SPACE 
+Alignment, PROPN 
+Stress-, ADJ 
+
+, SPACE 
+whiteningE(MPa, NOUN 
+Ultimate, ADJ 
+
+, SPACE 
+strength, NOUN 
+MPa)Ultimate, NOUN 
+
+, SPACE 
+strain, NOUN 
+
+, SPACE 
+Parallel, ADJ 
+bone, NOUN 
+long, ADJ 
+axis, NOUN 
+0.88, NUM 
+±, PROPN 
+0.24, NUM 
+167, NUM 
+±, PROPN 
+50, NUM 
+32, NUM 
+±, PROPN 
+4.8, NUM 
+14.1, NUM 
+±, PROPN 
+4, NUM 
+
+, SPACE 
+Orthogonal, PROPN 
+bone, NOUN 
+long, ADJ 
+axis, NOUN 
+0.28, NUM 
+±, PROPN 
+0.07, NUM 
+11.9, NUM 
+±, PROPN 
+2.0, NUM 
+5.1, NUM 
+±, PROPN 
+0.8, NUM 
+30, NUM 
+±, PROPN 
+1370, NUM 
+M.R., PROPN 
+Hardisty, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+57, NUM 
+2013, NUM 
+367, NUM 
+374, NUM 
+
+, SPACE 
+shape, NOUN 
+fracture, ADJ 
+surfaces, NOUN 
+differed, VERB 
+groups, NOUN 
+parallel, ADJ 
+
+, SPACE 
+aligned, VERB 
+specimens, NOUN 
+immersed, VERB 
+solutions, NOUN 
+high, ADJ 
+δhhad, ADJ 
+cracks, NOUN 
+
+, SPACE 
+turned, VERB 
+long, ADJ 
+axis, NOUN 
+specimen, NOUN 
+Figs, PROPN 
+2, NUM 
+6, NUM 
+or-, PROPN 
+
+, SPACE 
+thogonally, ADV 
+aligned, VERB 
+specimens, NOUN 
+cracks, NOUN 
+grow, VERB 
+straight, ADV 
+thin-, ADJ 
+
+, SPACE 
+nest, NOUN 
+specimen, NOUN 
+consistent, ADJ 
+region, NOUN 
+highest, ADJ 
+
+, SPACE 
+stress, NOUN 
+Similar, ADJ 
+orthogonal, ADJ 
+specimens, NOUN 
+parallel, ADJ 
+aligned, VERB 
+specimens, NOUN 
+
+, SPACE 
+immersed, VERB 
+low, ADJ 
+δhsolutions, NOUN 
+cracks, NOUN 
+grew, VERB 
+straight, ADV 
+
+, SPACE 
+thinnest, ADJ 
+specimen, NOUN 
+consistent, ADJ 
+region, NOUN 
+
+, SPACE 
+highest, ADJ 
+stress, NOUN 
+
+, SPACE 
+relationship, NOUN 
+stress, NOUN 
+whitening, NOUN 
+strain, NOUN 
+differed, VERB 
+be-, NOUN 
+
+, SPACE 
+tween, NOUN 
+groups, NOUN 
+δhand, NOUN 
+direction, NOUN 
+saline, NOUN 
+immersed, VERB 
+specimens, NOUN 
+
+, SPACE 
+stress, NOUN 
+whitening, NOUN 
+s, ADJ 
+shaped, VERB 
+behavior, NOUN 
+Fig, PROPN 
+2, NUM 
+A4, NOUN 
+applied, VERB 
+
+, SPACE 
+strain, NOUN 
+rate, NOUN 
+stress, NOUN 
+whitening, NOUN 
+strain, NOUN 
+increased, VERB 
+low, ADJ 
+strain, NOUN 
+
+, SPACE 
+values, NOUN 
+relationship, NOUN 
+stress, NOUN 
+whitening, NOUN 
+strain, NOUN 
+
+, SPACE 
+linear, ADJ 
+mid, ADJ 
+range, ADJ 
+values, NOUN 
+strain, NOUN 
+higher, ADJ 
+values, NOUN 
+strain, NOUN 
+stress-, ADJ 
+
+, SPACE 
+whitening, NOUN 
+reached, VERB 
+plateau, NOUN 
+increasing, VERB 
+strain, NOUN 
+s, NOUN 
+shaped, VERB 
+
+, SPACE 
+curve, NOUN 
+present, ADJ 
+solutions, NOUN 
+lower, ADJ 
+δhor, NOUN 
+orthogonally, ADV 
+
+, SPACE 
+aligned, VERB 
+specimens, NOUN 
+
+, SPACE 
+Stress, PROPN 
+whitening, VERB 
+saline, NOUN 
+immersed, VERB 
+parallel, ADJ 
+aligned, VERB 
+specimens, NOUN 
+
+, SPACE 
+evident, ADJ 
+immediately, ADV 
+stretching, VERB 
+occurring, VERB 
+prior, ADV 
+
+, SPACE 
+end, NOUN 
+toe, NOUN 
+region, NOUN 
+stress, NOUN 
+strain, NOUN 
+curve, NOUN 
+Fig, PROPN 
+2, NUM 
+4, NUM 
+.I, PROPN 
+nc, PROPN 
+o, PROPN 
+n, CCONJ 
+t, PROPN 
+r, NOUN 
+s, ADJ 
+t, NOUN 
+
+, SPACE 
+ethanol, NOUN 
+immersed, VERB 
+specimens, NOUN 
+demonstrate, VERB 
+signi, NOUN 
+ﬁcant, NOUN 
+stress, NOUN 
+whitening, NOUN 
+toe, NOUN 
+region, NOUN 
+stress, NOUN 
+strain, NOUN 
+relationship, NOUN 
+
+, SPACE 
+ended, VERB 
+stress, NOUN 
+increasing, VERB 
+nearly, ADV 
+linearly, ADV 
+strain, NOUN 
+Fig, PROPN 
+2, NUM 
+B4, PROPN 
+
+, SPACE 
+Permanent, ADJ 
+stress, NOUN 
+whitening, NOUN 
+removal, NOUN 
+mechanical, ADJ 
+loading, NOUN 
+
+, SPACE 
+present, ADJ 
+w=−0.02, NOUN 
+±, PROPN 
+0.06, NUM 
+Post, NOUN 
+hoc, ADJ 
+power, NOUN 
+analysis, NOUN 
+showed, VERB 
+
+, SPACE 
+permanent, ADJ 
+stress, NOUN 
+whitening, NOUN 
+failure, NOUN 
+de-, VERB 
+
+, SPACE 
+tected, VERB 
+value, NOUN 
+0.03, NUM 
+α=, NUM 
+0.05, NUM 
+power, NOUN 
+=, NOUN 
+0.8, NUM 
+given, VERB 
+number, NOUN 
+
+, SPACE 
+samples, NOUN 
+suggesting, VERB 
+little, ADJ 
+permanent, ADJ 
+stress-, ADJ 
+
+, SPACE 
+whitening, NOUN 
+present, ADJ 
+unloading, VERB 
+
+, SPACE 
+Discussion, PROPN 
+
+, SPACE 
+Stress, PROPN 
+whitening, NOUN 
+observed, VERB 
+organic, ADJ 
+matrix, NOUN 
+bone, NOUN 
+with-, NOUN 
+
+, SPACE 
+presence, NOUN 
+mineralized, ADJ 
+phase, NOUN 
+demonstrated, VERB 
+
+, SPACE 
+stress, NOUN 
+whitening, NOUN 
+demineralized, VERB 
+bone, NOUN 
+decreased, VERB 
+
+, SPACE 
+matrix, NOUN 
+solvated, VERB 
+ﬂuids, NOUN 
+lower, ADJ 
+Hansen, PROPN 
+solubility, NOUN 
+normal, ADJ 
+
+, SPACE 
+saline, NOUN 
+material, NOUN 
+loaded, VERB 
+different, ADJ 
+direction, NOUN 
+
+, SPACE 
+change, NOUN 
+stress, NOUN 
+whitening, NOUN 
+parallel, ADJ 
+orthogonal, ADJ 
+
+, SPACE 
+aligned, VERB 
+demineralized, VERB 
+specimens, NOUN 
+consistent, ADJ 
+changes, NOUN 
+
+, SPACE 
+stress, NOUN 
+whitening, NOUN 
+observed, VERB 
+mineralized, ADJ 
+bone, NOUN 
+specimens, NOUN 
+showed, VERB 
+
+, SPACE 
+minimal, ADJ 
+stress, NOUN 
+whitening, NOUN 
+loaded, VERB 
+radial, ADJ 
+direction, NOUN 
+40].T, NUM 
+h, NOUN 
+e, NOUN 
+
+, SPACE 
+changes, VERB 
+modulus, NOUN 
+strength, NOUN 
+demineralized, VERB 
+bone, NOUN 
+specimens, NOUN 
+
+, SPACE 
+consistent, ADJ 
+previous, ADJ 
+studies, NOUN 
+demonstrating, VERB 
+elastic, ADJ 
+
+, SPACE 
+modulus, NOUN 
+strength, NOUN 
+demineralized, VERB 
+tooth, NOUN 
+dentin, NOUN 
+vary, VERB 
+δh, NOUN 
+t, PROPN 
+h, PROPN 
+e, NOUN 
+
+, SPACE 
+Hansen, PROPN 
+hydrogen, NOUN 
+bonding, NOUN 
+parameter, NOUN 
+32, NUM 
+
+, SPACE 
+Stress, NOUN 
+whitening, NOUN 
+demineralized, VERB 
+bone, NOUN 
+matrix, NOUN 
+inconsistent, ADJ 
+
+, SPACE 
+crazing, NOUN 
+seen, VERB 
+homogenous, ADJ 
+polymers, NOUN 
+consists, VERB 
+
+, SPACE 
+voids, NOUN 
+opening, NOUN 
+Crazes, NOUN 
+polymers, NOUN 
+localized, VERB 
+phenomenon, NOUN 
+occur-, ADP 
+
+, SPACE 
+ring, NOUN 
+regions, NOUN 
+crazing, NOUN 
+stress, NOUN 
+exceeded, VERB 
+Crazes, NOUN 
+form, NOUN 
+
+, SPACE 
+bands, NOUN 
+stretched, VERB 
+polymer, NOUN 
+ﬁbrils, NOUN 
+disentangled, VERB 
+loading, NOUN 
+
+, SPACE 
+solid, ADJ 
+mass, NOUN 
+polymer, NOUN 
+chains, NOUN 
+bulk, ADJ 
+matrix, NOUN 
+material, NOUN 
+
+, SPACE 
+craze, NOUN 
+formed, VERB 
+completely, ADV 
+irreversible, ADJ 
+41, NUM 
+stress-, ADJ 
+
+, SPACE 
+whitening, NOUN 
+matrix, NOUN 
+specimens, NOUN 
+localized, VERB 
+region, NOUN 
+
+, SPACE 
+maximum, ADJ 
+stress, NOUN 
+appeared, VERB 
+reversible, ADJ 
+de-, ADJ 
+
+, SPACE 
+tectable, ADJ 
+permanent, ADJ 
+stress, NOUN 
+whitening, NOUN 
+unloaded, ADJ 
+material, NOUN 
+
+, SPACE 
+expected, VERB 
+crazed, VERB 
+region, NOUN 
+additional, ADJ 
+observation, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Stress, NOUN 
+whitening, VERB 
+vs., ADP 
+δh, NOUN 
+sigmoid, NOUN 
+relationship, NOUN 
+shown, VERB 
+black, ADJ 
+ﬁts, VERB 
+data, NOUN 
+
+, SPACE 
+R2=0, PROPN 
+8, NUM 
+2, NUM 
+pb0.0001, PROPN 
+transition, NOUN 
+sigmoid, NOUN 
+occurred, VERB 
+δh=, PROPN 
+
+, SPACE 
+26.27, NUM 
+33.14, NUM 
+MPa½similar, NOUN 
+value, NOUN 
+δhthat, ADV 
+caused, VERB 
+swelling, NOUN 
+matrix, NOUN 
+separate, ADJ 
+
+, SPACE 
+experiments, NOUN 
+38, NUM 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Elastic, ADJ 
+modulus, NOUN 
+vs., ADP 
+ultimate, ADJ 
+stress, NOUN 
+parallel, ADJ 
+aligned, VERB 
+specimens, NOUN 
+Ultimate, ADJ 
+stress, NOUN 
+
+, SPACE 
+correlated, VERB 
+elastic, ADJ 
+modulus, NOUN 
+R2=0, PROPN 
+7, NUM 
+pb0.0001, PROPN 
+line, NOUN 
+
+, SPACE 
+theﬁnding, VERB 
+ultimate, ADJ 
+strain, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+correlated, VERB 
+δh, PROPN 
+w, PROPN 
+h, PROPN 
+l, NOUN 
+e, NOUN 
+δhdid, VERB 
+
+, SPACE 
+signi, NOUN 
+ﬁcant, NOUN 
+effect, NOUN 
+elastic, ADJ 
+modulus, NOUN 
+ultimate, ADJ 
+stress, NOUN 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Post, ADJ 
+failure, ADJ 
+images, NOUN 
+specimens, NOUN 
+different, ADJ 
+solutions, NOUN 
+showing, VERB 
+crack, VERB 
+direc-, PRON 
+
+, SPACE 
+tion, NOUN 
+Parallel, NOUN 
+aligned, VERB 
+specimens, NOUN 
+1, X 
+tested, VERB 
+saline, NOUN 
+δh=4, PROPN 
+2, NUM 
+3, NUM 
+M, PROPN 
+P, NOUN 
+a½, NUM 
+2, NUM 
+tested, VERB 
+ethanol, NOUN 
+
+, SPACE 
+δh=1, X 
+9, NUM 
+4, NUM 
+M, PROPN 
+P, NOUN 
+a½., ADJ 
+Specimens, PROPN 
+4, NUM 
+5, NUM 
+immersed, VERB 
+solutions, NOUN 
+high, ADJ 
+δh=4, PROPN 
+2, NUM 
+3, NUM 
+M, PROPN 
+P, PROPN 
+a½had, VERB 
+
+, SPACE 
+cracks, NOUN 
+turned, VERB 
+direction, NOUN 
+long, ADJ 
+axis, NOUN 
+specimen, NOUN 
+Specimens, PROPN 
+5, NUM 
+5, NUM 
+im, NOUN 
+mersed, VERB 
+low, ADJ 
+δ, NOUN 
+
+, SPACE 
+hsolutions, NOUN 
+cracks, NOUN 
+grew, VERB 
+straight, ADV 
+thinnest, ADJ 
+
+, SPACE 
+specimen, NOUN 
+turning.371, PROPN 
+M.R., PROPN 
+Hardisty, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+57, NUM 
+2013, NUM 
+367, NUM 
+374, NUM 
+
+, SPACE 
+growth, NOUN 
+polymer, NOUN 
+craze, NOUN 
+damaged, VERB 
+material, NOUN 
+
+, SPACE 
+expands, VERB 
+primarily, ADV 
+boundary, NOUN 
+craze, NOUN 
+bulk, ADJ 
+
+, SPACE 
+polymer, NOUN 
+site, NOUN 
+disentanglement, NOUN 
+polymer, NOUN 
+chains, NOUN 
+disen-, NOUN 
+
+, SPACE 
+tanglement, NOUN 
+process, NOUN 
+energetically, ADV 
+favorable, ADJ 
+height, NOUN 
+
+, SPACE 
+craze, NOUN 
+grows, AUX 
+ultimately, ADV 
+leading, VERB 
+failure, NOUN 
+polymer, NOUN 
+backbone, NOUN 
+
+, SPACE 
+edge, NOUN 
+craze, NOUN 
+growth, NOUN 
+region, NOUN 
+18, NUM 
+bone, NOUN 
+matrix, NOUN 
+speci-, NOUN 
+
+, SPACE 
+mens, NOUN 
+studied, VERB 
+investigation, NOUN 
+location, NOUN 
+failure, NOUN 
+wasalways, NOUN 
+geometric, ADJ 
+stress, NOUN 
+concentration, NOUN 
+periphery, NOUN 
+
+, SPACE 
+whitened, ADJ 
+region, NOUN 
+expected, VERB 
+crazing, NOUN 
+like, ADJ 
+
+, SPACE 
+process, NOUN 
+
+, SPACE 
+Previous, ADJ 
+investigators, NOUN 
+ascribed, VERB 
+phenomenon, NOUN 
+stress-, ADJ 
+
+, SPACE 
+whitening, NOUN 
+mineralized, ADJ 
+bone, NOUN 
+tissue, NOUN 
+formation, NOUN 
+nano, NOUN 
+pores, NOUN 
+
+, SPACE 
+mineral, NOUN 
+crystals, NOUN 
+collagen, NOUN 
+ﬁbrils, NOUN 
+21, NUM 
+microcracks, NOUN 
+
+, SPACE 
+collagen, NOUN 
+ﬁbril, NOUN 
+bridging, VERB 
+42, NUM 
+Analogous, ADJ 
+nano, NOUN 
+pore, ADJ 
+formation, NOUN 
+
+, SPACE 
+microcracks, NOUN 
+demineralized, VERB 
+tissue, NOUN 
+occur, VERB 
+cause, VERB 
+similar, ADJ 
+
+, SPACE 
+changes, NOUN 
+scattering, VERB 
+explanations, NOUN 
+imply, VERB 
+process, NOUN 
+
+, SPACE 
+reversible, ADJ 
+observed, VERB 
+investigation, NOUN 
+previous, ADJ 
+
+, SPACE 
+work, NOUN 
+laboratory, NOUN 
+38, NUM 
+explanations, NOUN 
+occur-, ADJ 
+
+, SPACE 
+rence, NOUN 
+stress, NOUN 
+whitening, NOUN 
+bone, NOUN 
+tissue, NOUN 
+consistent, ADJ 
+data, NOUN 
+
+, SPACE 
+found, VERB 
+investigation, NOUN 
+demineralized, VERB 
+bone, NOUN 
+
+, SPACE 
+focus, VERB 
+optical, ADJ 
+theory, NOUN 
+whitening, VERB 
+or-, PROPN 
+
+, SPACE 
+ganic, ADJ 
+phase, NOUN 
+applied, VERB 
+mineralized, ADJ 
+demineralized, VERB 
+
+, SPACE 
+bone, NOUN 
+mechanisms, NOUN 
+contribute, VERB 
+stress, NOUN 
+whitening, NOUN 
+di-, AUX 
+
+, SPACE 
+rectly, ADV 
+involve, VERB 
+mineral, NOUN 
+phase, NOUN 
+addressed, VERB 
+
+, SPACE 
+focus, NOUN 
+investigation, NOUN 
+organic, ADJ 
+phase, NOUN 
+
+, SPACE 
+bone, NOUN 
+validity, NOUN 
+theory, NOUN 
+explains, VERB 
+stress, NOUN 
+whitening, NOUN 
+
+, SPACE 
+mineralized, ADJ 
+bone, NOUN 
+focusing, VERB 
+solely, ADV 
+organic, ADJ 
+component, NOUN 
+re-, ADV 
+
+, SPACE 
+quire, VERB 
+experimental, ADJ 
+validation, NOUN 
+subject, NOUN 
+future, ADJ 
+
+, SPACE 
+experiments, NOUN 
+
+, SPACE 
+Optical, ADJ 
+theory, NOUN 
+bone, NOUN 
+organic, ADJ 
+matrix, NOUN 
+
+, SPACE 
+Light, PROPN 
+scattering, VERB 
+collagenous, ADJ 
+tissues, NOUN 
+mathematically, ADV 
+modeled, VERB 
+
+, SPACE 
+collection, NOUN 
+scattering, VERB 
+particles, NOUN 
+representing, VERB 
+collagen, NOUN 
+ﬁbrils, NOUN 
+
+, SPACE 
+ﬂuid, ADJ 
+phase, NOUN 
+43, NUM 
+Materials, NOUN 
+scatter, VERB 
+small, ADJ 
+amounts, NOUN 
+light, ADJ 
+
+, SPACE 
+appear, VERB 
+transparent, ADJ 
+materials, NOUN 
+scatter, VERB 
+large, ADJ 
+amounts, NOUN 
+light, ADJ 
+
+, SPACE 
+appear, VERB 
+opaque, ADJ 
+
+, SPACE 
+focus, VERB 
+attention, NOUN 
+investigation, NOUN 
+Mie, PROPN 
+theory, NOUN 
+
+, SPACE 
+describe, VERB 
+light, NOUN 
+scattering, VERB 
+particles, NOUN 
+order, NOUN 
+
+, SPACE 
+wavelength, NOUN 
+light, NOUN 
+200, NUM 
+nm, ADJ 
+5μm, NOUN 
+discuss, VERB 
+Rayleigh, PROPN 
+
+, SPACE 
+scattering, NOUN 
+describes, VERB 
+scattering, VERB 
+particles, NOUN 
+smaller, ADJ 
+
+, SPACE 
+wavelength, NOUN 
+light, NOUN 
+44, NUM 
+chosen, VERB 
+focus, VERB 
+Mie, PROPN 
+scat-, NOUN 
+
+, SPACE 
+tering, NOUN 
+magnitude, NOUN 
+Rayleigh, PROPN 
+scattering, NOUN 
+caused, VERB 
+collage-, NOUN 
+
+, SPACE 
+nous, ADJ 
+materials, NOUN 
+predicted, VERB 
+smaller, ADJ 
+Mie, PROPN 
+scattering, VERB 
+
+, SPACE 
+visual, ADJ 
+spectrum, NOUN 
+scattering, NOUN 
+skin, NOUN 
+primarily, ADV 
+at-, ADV 
+
+, SPACE 
+tributed, VERB 
+Mie, PROPN 
+scattering, VERB 
+45, NUM 
+
+, SPACE 
+Mie, PROPN 
+scattering, VERB 
+theory, NOUN 
+predicts, VERB 
+reduced, VERB 
+scattering, VERB 
+coef, PROPN 
+ﬁ-, X 
+
+, SPACE 
+cient, NOUN 
+μ′, NUM 
+
+, SPACE 
+s, PROPN 
+quantifying, VERB 
+magnitude, NOUN 
+scattering, VERB 
+material, NOUN 
+de-, PROPN 
+
+, SPACE 
+pendent, NOUN 
+volume, NOUN 
+fraction, NOUN 
+collagen, NOUN 
+ﬁbrils, NOUN 
+ϕﬁbril)a, PROPN 
+n, CCONJ 
+d, PROPN 
+
+, SPACE 
+ratio, NOUN 
+refractive, ADJ 
+index, NOUN 
+collagen, NOUN 
+ﬁbrils, VERB 
+sol-, NOUN 
+
+, SPACE 
+ventnfibril, NOUN 
+
+, SPACE 
+nsol, PROPN 
+C16, PROPN 
+C17, PROPN 
+
+, SPACE 
+.[43,45,46, PUNCT 
+
+, SPACE 
+μ′s¼ϕfibril1−ϕfibril, INTJ 
+ðÞ, NOUN 
+ðÞnfibril, PROPN 
+
+, SPACE 
+nsol−1, PROPN 
+C18, PROPN 
+C192:09, PROPN 
+C18, PROPN 
+C193:28πa22πansol, PROPN 
+
+, SPACE 
+λ, PROPN 
+C16, PROPN 
+C170:37, PROPN 
+
+, SPACE 
+Vfibril0, PROPN 
+
+, SPACE 
+B@1, PROPN 
+
+, SPACE 
+CAð3Þ, PROPN 
+
+, SPACE 
+Vﬁbrilis, PROPN 
+volume, NOUN 
+scattering, VERB 
+particle, NOUN 
+a”is, VERB 
+radius, NOUN 
+scatter-, ADJ 
+
+, SPACE 
+ing, ADJ 
+particle, NOUN 
+λis, VERB 
+wavelength, NOUN 
+incident, NOUN 
+light, NOUN 
+reduced, VERB 
+
+, SPACE 
+scattering, VERB 
+coef, NOUN 
+ﬁcient, NOUN 
+μ′s, NOUN 
+ratio, NOUN 
+incident, NOUN 
+photon, PROPN 
+ﬂux, NOUN 
+
+, SPACE 
+scattered, VERB 
+ﬂux, NOUN 
+divided, VERB 
+normalized, VERB 
+thickness, NOUN 
+scattering, VERB 
+
+, SPACE 
+medium, NOUN 
+43,46, X 
+clear, ADJ 
+material, NOUN 
+low, ADJ 
+scattering, VERB 
+coef, NOUN 
+ﬁcient, NOUN 
+
+, SPACE 
+low, ADJ 
+scattering, VERB 
+ﬂux, NOUN 
+photons, NOUN 
+transmitted, VERB 
+
+, SPACE 
+opaque, ADJ 
+material, NOUN 
+higher, ADJ 
+scattering, VERB 
+coef, NOUN 
+ﬁcient, NOUN 
+
+, SPACE 
+photons, NOUN 
+scattered, VERB 
+
+, SPACE 
+Note, VERB 
+ﬁrst, ADV 
+bracketed, ADJ 
+expression, NOUN 
+Eq, PROPN 
+3)shows, NUM 
+depen-, NOUN 
+
+, SPACE 
+dence, NOUN 
+ﬁbril, NOUN 
+volume, NOUN 
+fraction, NOUN 
+expression, NOUN 
+maximizedwhen, NOUN 
+ϕﬁbril=, NOUN 
+0.5, NUM 
+second, ADJ 
+bracketed, ADJ 
+expression, NOUN 
+shows, VERB 
+depen-, NOUN 
+
+, SPACE 
+dence, NOUN 
+refractive, ADJ 
+index, NOUN 
+ratio, NOUN 
+Scattering, VERB 
+increases, NOUN 
+nﬁbrilin-, VERB 
+
+, SPACE 
+creases, NOUN 
+expression, NOUN 
+shows, VERB 
+dependence, NOUN 
+scattering, VERB 
+
+, SPACE 
+geometry, NOUN 
+scattering, VERB 
+particle, NOUN 
+
+, SPACE 
+question, NOUN 
+parameters, NOUN 
+Eq, PROPN 
+3)may, NUM 
+affected, VERB 
+
+, SPACE 
+mechanical, ADJ 
+stress, NOUN 
+scattering, VERB 
+increased, VERB 
+tensile, ADJ 
+
+, SPACE 
+loading, NOUN 
+Load, NOUN 
+induced, VERB 
+changes, NOUN 
+volume, NOUN 
+fraction, NOUN 
+collagen, NOUN 
+ﬁbrils, NOUN 
+
+, SPACE 
+ϕﬁbril, PROPN 
+refractive, ADJ 
+index, NOUN 
+collagen, NOUN 
+ﬁbrils, NOUN 
+nﬁbril)b, PROPN 
+o, NOUN 
+t, NOUN 
+hm, INTJ 
+y, NOUN 
+
+, SPACE 
+explain, VERB 
+stress, NOUN 
+whitening, NOUN 
+bone, NOUN 
+matrix, NOUN 
+assume, VERB 
+refractive, ADJ 
+
+, SPACE 
+index, NOUN 
+solvent, NOUN 
+changed, VERB 
+loading, NOUN 
+
+, SPACE 
+refractive, ADJ 
+index, NOUN 
+medium, NOUN 
+isotropically, ADV 
+distributed, VERB 
+
+, SPACE 
+molecules, NOUN 
+directly, ADV 
+related, VERB 
+numerical, PROPN 
+molecular, ADJ 
+density, NOUN 
+/volume, NOUN 
+
+, SPACE 
+c, NOUN 
+polarizability, NOUN 
+α, X 
+Lorentz, PROPN 
+Lorenz, PROPN 
+LL, PROPN 
+equation, NOUN 
+47, NUM 
+
+, SPACE 
+n2¼1þ8, NUM 
+
+, SPACE 
+3παc, NUM 
+
+, SPACE 
+1−4, NUM 
+
+, SPACE 
+3παcð4Þ, PROPN 
+
+, SPACE 
+Polarizability, PROPN 
+measures, NOUN 
+strongly, ADV 
+static, ADJ 
+electric, ADJ 
+ﬁeld, NOUN 
+induces, VERB 
+elec-, NOUN 
+
+, SPACE 
+tric, ADJ 
+dipoles, NOUN 
+material, NOUN 
+48, NUM 
+Note, VERB 
+relationship, NOUN 
+
+, SPACE 
+roughly, ADV 
+accurate, ADJ 
+orthotropic, ADJ 
+microstructure, NOUN 
+bone, NOUN 
+how-, NUM 
+
+, SPACE 
+allow, VERB 
+useful, ADJ 
+discussion, NOUN 
+effect, NOUN 
+loading, VERB 
+refractive, ADJ 
+
+, SPACE 
+index, NOUN 
+
+, SPACE 
+Mechanism, NOUN 
+stress, NOUN 
+whitening, NOUN 
+bone, NOUN 
+
+, SPACE 
+stress, NOUN 
+whitening, VERB 
+phenomenon, NOUN 
+consistent, ADJ 
+densi, NOUN 
+ﬁcation, NOUN 
+
+, SPACE 
+ﬁbrils, NOUN 
+applied, VERB 
+load, NOUN 
+Fig, PROPN 
+7, NUM 
+speci, NOUN 
+ﬁcally, ADV 
+mechan-, NUM 
+
+, SPACE 
+ical, ADJ 
+loading, NOUN 
+overcomes, NOUN 
+osmotic, ADJ 
+pressure, NOUN 
+holding, VERB 
+solvent, NOUN 
+
+, SPACE 
+collagen, NOUN 
+ﬁbril, NOUN 
+causing, VERB 
+solvent, ADJ 
+molecules, NOUN 
+
+, SPACE 
+interﬁbrillar, ADJ 
+space, NOUN 
+Moving, VERB 
+solvent, NOUN 
+ﬁbrils, NOUN 
+
+, SPACE 
+interﬁbrillar, ADJ 
+space, NOUN 
+dual, ADJ 
+effect, NOUN 
+scattering, VERB 
+1, NUM 
+increasing, VERB 
+re-, ADJ 
+
+, SPACE 
+fractive, ADJ 
+index, NOUN 
+ﬁbrils, NOUN 
+nﬁbril, PROPN 
+increasing, VERB 
+numerical, ADJ 
+
+, SPACE 
+density, NOUN 
+c, NOUN 
+molecules, NOUN 
+ﬁbrils, NOUN 
+2, X 
+decreasing, VERB 
+volume, NOUN 
+
+, SPACE 
+fraction, NOUN 
+collagen, NOUN 
+ﬁbrils, NOUN 
+ϕﬁbril→0.5, PROPN 
+increasing, VERB 
+
+, SPACE 
+volume, NOUN 
+fraction, NOUN 
+inter, PROPN 
+ﬁbrillar, ADJ 
+ﬂuid, NOUN 
+effects, NOUN 
+
+, SPACE 
+cause, VERB 
+increased, VERB 
+scattering, VERB 
+
+, SPACE 
+thinning, NOUN 
+collagen, NOUN 
+ﬁbrils, NOUN 
+causing, VERB 
+stress, NOUN 
+whitening, NOUN 
+
+, SPACE 
+identi, NOUN 
+ﬁed, PROPN 
+Xu, PROPN 
+et, PROPN 
+al, PROPN 
+possible, ADJ 
+explanation, NOUN 
+previously, ADV 
+ob-, NOUN 
+
+, SPACE 
+served, VERB 
+changes, NOUN 
+scattered, VERB 
+white, ADJ 
+light, NOUN 
+spectra, PROPN 
+mineralized, VERB 
+
+, SPACE 
+bone, NOUN 
+specimens, NOUN 
+22, NUM 
+idea, NOUN 
+load, NOUN 
+causes, VERB 
+ejection, NOUN 
+ﬂuid, NOUN 
+
+, SPACE 
+ﬁbril, NOUN 
+reasonable, ADJ 
+given, VERB 
+sensitivity, NOUN 
+collagen, PROPN 
+ﬁbril, PROPN 
+hy-, ADP 
+
+, SPACE 
+dration, NOUN 
+environmental, ADJ 
+factors, NOUN 
+mineralization, NOUN 
+crosslinking, NOUN 
+
+, SPACE 
+23, NUM 
+mechanistic, ADJ 
+explanation, NOUN 
+
+, SPACE 
+effect, NOUN 
+possible, ADJ 
+explanation, NOUN 
+lateral, ADJ 
+contacts, NOUN 
+entangled, VERB 
+
+, SPACE 
+loops, NOUN 
+ﬁbrils, NOUN 
+possible, ADJ 
+wringing, VERB 
+twisted, ADJ 
+ﬁ-, X 
+
+, SPACE 
+brils, VERB 
+Consistent, ADJ 
+idea, NOUN 
+water, NOUN 
+interaction, NOUN 
+collagenous, ADJ 
+
+, SPACE 
+tissue, NOUN 
+changing, VERB 
+loading, NOUN 
+mechanistic, ADJ 
+atomic, ADJ 
+level, NOUN 
+modeling, NOUN 
+
+, SPACE 
+individual, ADJ 
+tropocollagen, NOUN 
+molecules, NOUN 
+demonstrates, VERB 
+axial, ADJ 
+me-, NUM 
+
+, SPACE 
+chanical, ADJ 
+loading, NOUN 
+changes, NOUN 
+con, NOUN 
+ﬁguration, NOUN 
+triple, ADJ 
+helix, NOUN 
+
+, SPACE 
+manner, NOUN 
+certainly, ADV 
+changes, VERB 
+water, NOUN 
+content, NOUN 
+molecule, NOUN 
+
+, SPACE 
+49,50, NUM 
+particular, ADJ 
+tension, NOUN 
+molecule, NOUN 
+reduces, VERB 
+tendency, NOUN 
+
+, SPACE 
+molecule, NOUN 
+open, VERB 
+reducing, VERB 
+water, NOUN 
+strands, NOUN 
+
+, SPACE 
+triple, ADJ 
+helix, NOUN 
+50, NUM 
+atomic, ADJ 
+level, NOUN 
+modeling, NOUN 
+in-, ADP 
+
+, SPACE 
+corporate, ADJ 
+ﬁbrils, NOUN 
+Intra, PROPN 
+ﬁbrillar, ADJ 
+intermolecular, ADJ 
+water, NOUN 
+likely, ADV 
+im-, ADJ 
+
+, SPACE 
+portant, NOUN 
+stress, NOUN 
+whitening, VERB 
+process, NOUN 
+given, VERB 
+water, NOUN 
+present, ADJ 
+
+, SPACE 
+intramolecularly, ADV 
+nearly, ADV 
+strongly, ADV 
+bound, ADJ 
+Regardless, ADV 
+
+, SPACE 
+exact, ADJ 
+mechanism, NOUN 
+movement, NOUN 
+ﬂuid, ADJ 
+
+, SPACE 
+outside, NOUN 
+ﬁbrils, NOUN 
+function, NOUN 
+load, NOUN 
+explain, VERB 
+observed, VERB 
+
+, SPACE 
+change, NOUN 
+whiteness, NOUN 
+
+, SPACE 
+model, NOUN 
+water, NOUN 
+mobility, NOUN 
+explains, VERB 
+reduced, VERB 
+whitening, NOUN 
+
+, SPACE 
+lowδhsolutions, NOUN 
+loading, VERB 
+orthogonal, ADJ 
+long, ADJ 
+axis, NOUN 
+case, NOUN 
+
+, SPACE 
+low, ADJ 
+δhsolvents, NOUN 
+collagen, NOUN 
+matrix, NOUN 
+interact, VERB 
+strongly, ADV 
+
+, SPACE 
+solvent, NOUN 
+Instead, ADV 
+interacting, VERB 
+solvent, NOUN 
+i.e., X 
+instead, ADV 
+im-, NOUN 
+
+, SPACE 
+bibing, VERB 
+ﬂuid, NOUN 
+interact, VERB 
+collagen, NOUN 
+molecules, NOUN 
+bind, VERB 
+to372, PROPN 
+M.R., PROPN 
+Hardisty, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+57, NUM 
+2013, NUM 
+367, NUM 
+374, NUM 
+
+, SPACE 
+rejecting, VERB 
+solvent, NOUN 
+Fewer, ADJ 
+solvent, NOUN 
+collagen, NOUN 
+interactions, NOUN 
+
+, SPACE 
+lead, VERB 
+solvent, NOUN 
+collagen, NOUN 
+ﬁbrils, NOUN 
+unloaded, ADJ 
+
+, SPACE 
+state, NOUN 
+consequently, ADV 
+fewer, ADJ 
+molecules, NOUN 
+driven, VERB 
+loading, NOUN 
+
+, SPACE 
+reduced, ADJ 
+stress, NOUN 
+whitening, NOUN 
+orthogonal, ADJ 
+specimens, NOUN 
+
+, SPACE 
+explained, VERB 
+lower, ADJ 
+rupture, NOUN 
+load, NOUN 
+5, NUM 
+vs., X 
+32, NUM 
+MPa, NOUN 
+Fig, PROPN 
+3, NUM 
+re-, ADJ 
+
+, SPACE 
+duced, VERB 
+stress, NOUN 
+ﬁb, PROPN 
+r, PROPN 
+l, PROPN 
+sr, PROPN 
+e, PROPN 
+d, PROPN 
+u, PROPN 
+c, PROPN 
+e, PROPN 
+st, PROPN 
+h, PROPN 
+ep, PROPN 
+r, PROPN 
+e, PROPN 
+s, PROPN 
+s, X 
+u, NOUN 
+r, NOUN 
+ed, NOUN 
+r, NOUN 
+v, ADP 
+n, CCONJ 
+gt, PROPN 
+h, PROPN 
+ew, PROPN 
+t, NOUN 
+e, NOUN 
+r, NOUN 
+
+, SPACE 
+molecules, NOUN 
+ﬁbrils, NOUN 
+reduces, VERB 
+stress, NOUN 
+whitening, NOUN 
+
+, SPACE 
+interesting, ADJ 
+speculate, VERB 
+ejection, NOUN 
+ﬂuid, NOUN 
+ﬁ-, NOUN 
+
+, SPACE 
+bril, NOUN 
+causes, NOUN 
+increased, VERB 
+intermolecular, ADJ 
+hydrogen, NOUN 
+bonding, NOUN 
+colla-, PROPN 
+
+, SPACE 
+gen, PROPN 
+molecules, NOUN 
+increasing, VERB 
+failure, NOUN 
+load, NOUN 
+compared, VERB 
+hydrated, ADJ 
+
+, SPACE 
+state, NOUN 
+mechanism, NOUN 
+consistent, ADJ 
+observations, NOUN 
+
+, SPACE 
+dehydration, NOUN 
+increases, NOUN 
+strength, NOUN 
+ﬁbrils, NOUN 
+51]and, NUM 
+increases, VERB 
+colla-, NOUN 
+
+, SPACE 
+gen, PROPN 
+stability, NOUN 
+molecular, ADJ 
+level, NOUN 
+23, NUM 
+possible, ADJ 
+stress-, ADJ 
+
+, SPACE 
+whitening, NOUN 
+adaptation, NOUN 
+collagen, NOUN 
+matrix, NOUN 
+increases, VERB 
+ﬁbrillar, ADJ 
+
+, SPACE 
+strength, NOUN 
+ejecting, VERB 
+internal, ADJ 
+water, NOUN 
+extremes, NOUN 
+loading, NOUN 
+prior, ADV 
+
+, SPACE 
+rupture, VERB 
+
+, SPACE 
+demineralized, VERB 
+matrix, NOUN 
+strong, ADJ 
+relative, ADJ 
+
+, SPACE 
+stress, NOUN 
+whitening, VERB 
+effect, NOUN 
+e.g., ADV 
+low, ADJ 
+δhsolvent, NOUN 
+load-, NOUN 
+
+, SPACE 
+ed, NOUN 
+perpendicular, ADJ 
+primary, ADJ 
+direction, NOUN 
+collagenous, ADJ 
+matrix, NOUN 
+
+, SPACE 
+matrix, NOUN 
+weak, ADJ 
+tough, ADJ 
+reasonable, ADJ 
+conjecture, VERB 
+col-, NOUN 
+
+, SPACE 
+lagenous, ADJ 
+matrix, NOUN 
+expresses, VERB 
+property, NOUN 
+toughness, NOUN 
+increased, VERB 
+
+, SPACE 
+strength, NOUN 
+condition, NOUN 
+loaded, VERB 
+direction, NOUN 
+permits, VERB 
+
+, SPACE 
+stress, NOUN 
+whitening, VERB 
+
+, SPACE 
+important, ADJ 
+note, VERB 
+data, NOUN 
+presented, VERB 
+
+, SPACE 
+demineralized, VERB 
+samples, NOUN 
+generalization, NOUN 
+mineralized, ADJ 
+bone, NOUN 
+
+, SPACE 
+straightforward, ADJ 
+focus, NOUN 
+demineralized, VERB 
+bone, NOUN 
+
+, SPACE 
+investigation, NOUN 
+limitation, NOUN 
+advantage, NOUN 
+advan-, NUM 
+
+, SPACE 
+tage, NOUN 
+demineralized, VERB 
+specimens, NOUN 
+increased, VERB 
+simplicity, NOUN 
+
+, SPACE 
+system, NOUN 
+ability, NOUN 
+attribute, VERB 
+observations, NOUN 
+strictly, ADV 
+or-, ADJ 
+
+, SPACE 
+ganic, ADJ 
+phase, NOUN 
+Demineralized, VERB 
+bone, NOUN 
+stiff, ADJ 
+Emin=1, PROPN 
+7, NUM 
+G, PROPN 
+P, NOUN 
+7, NUM 
+
+, SPACE 
+Edemin, PROPN 
+=, ADP 
+170, NUM 
+MPa, NOUN 
+higher, ADJ 
+failure, NOUN 
+strain, NOUN 
+mineralized, VERB 
+
+, SPACE 
+bone, NOUN 
+εf_min, NOUN 
+=, SYM 
+0, NUM 
+0, NUM 
+1, NUM 
+5, NUM 
+0.08, NUM 
+52,53, X 
+εf_demin, PROPN 
+=, VERB 
+0.17, NUM 
+Additionally, ADV 
+con-, NOUN 
+
+, SPACE 
+trary, NOUN 
+ﬁndings, NOUN 
+investigation, NOUN 
+demineralized, VERB 
+bone, NOUN 
+
+, SPACE 
+stress, NOUN 
+whitening, NOUN 
+observed, VERB 
+partially, ADV 
+irre-, ADJ 
+
+, SPACE 
+versible, ADJ 
+mineralized, ADJ 
+bone, NOUN 
+irreversible, ADJ 
+defor-, NOUN 
+
+, SPACE 
+mation, NOUN 
+mineral, NOUN 
+phase, NOUN 
+20,22, NOUN 
+Damage, NOUN 
+mechanisms, NOUN 
+
+, SPACE 
+dilatational, ADJ 
+band, NOUN 
+formation, NOUN 
+54, NUM 
+breaking, VERB 
+mineral, NOUN 
+collagen, NOUN 
+bonds, NOUN 
+
+, SPACE 
+21, NUM 
+mineralized, VERB 
+bone, NOUN 
+occur, VERB 
+coincident, NOUN 
+possibly, ADV 
+causal, NOUN 
+
+, SPACE 
+manner, NOUN 
+stress, NOUN 
+whitening, NOUN 
+occur, VERB 
+demineralized, VERB 
+bone, NOUN 
+
+, SPACE 
+occur, VERB 
+different, ADJ 
+order, NOUN 
+demineralized, VERB 
+bone, NOUN 
+important, ADJ 
+
+, SPACE 
+point, NOUN 
+size, NOUN 
+structures, NOUN 
+200, NUM 
+nm, ADJ 
+5μm, ADJ 
+likely, ADJ 
+affect, VERB 
+Mie, PROPN 
+
+, SPACE 
+scattering, NOUN 
+Collagen, NOUN 
+ﬁbrils, VERB 
+nano, NOUN 
+voids, NOUN 
+21, NUM 
+microcracks, VERB 
+42]and, NUM 
+dilata-, NOUN 
+
+, SPACE 
+tional, ADJ 
+bands, NOUN 
+54]are, INTJ 
+structures, NOUN 
+likely, ADV 
+cause, VERB 
+Mie, PROPN 
+scattering, VERB 
+
+, SPACE 
+cause, VERB 
+stress, NOUN 
+whitening, NOUN 
+mineralized, ADJ 
+tissue, NOUN 
+ability, NOUN 
+bone, NOUN 
+matrix, NOUN 
+stress, NOUN 
+whiten, NOUN 
+indicate, VERB 
+healthy, ADJ 
+
+, SPACE 
+matrix, NOUN 
+Future, ADJ 
+studies, NOUN 
+speci, VERB 
+ﬁcally, ADV 
+investigating, VERB 
+changes, NOUN 
+stress-, ADJ 
+
+, SPACE 
+whitening, VERB 
+disease, NOUN 
+undertaken, VERB 
+investigate, VERB 
+possibil-, ADJ 
+
+, SPACE 
+ity, NOUN 
+investigators, NOUN 
+16, NUM 
+opinion, NOUN 
+formed, VERB 
+anecdotal, ADJ 
+
+, SPACE 
+observation, NOUN 
+stress, NOUN 
+whitening, NOUN 
+apparent, ADJ 
+old, ADJ 
+bone, NOUN 
+dry, ADJ 
+
+, SPACE 
+bone, NOUN 
+mineralized, ADJ 
+bone, NOUN 
+bone, NOUN 
+damaged, VERB 
+collage-, NOUN 
+
+, SPACE 
+nous, ADJ 
+matrix, NOUN 
+conditions, NOUN 
+associated, VERB 
+weak, ADJ 
+and/or, CCONJ 
+brittle, PROPN 
+tissue, NOUN 
+
+, SPACE 
+Changes, NOUN 
+collagen, NOUN 
+ﬁbrils, NOUN 
+affect, VERB 
+ability, NOUN 
+whiten, VERB 
+
+, SPACE 
+expected, VERB 
+change, VERB 
+presumably, ADV 
+reduce, VERB 
+bone, NOUN 
+toughness, NOUN 
+
+, SPACE 
+Conclusion, PROPN 
+
+, SPACE 
+Stress, NOUN 
+whitening, NOUN 
+occurred, VERB 
+demineralized, VERB 
+bone, NOUN 
+showing, VERB 
+
+, SPACE 
+organic, ADJ 
+phase, NOUN 
+associated, VERB 
+stress, NOUN 
+whitening, VERB 
+
+, SPACE 
+mineral, NOUN 
+contribution, NOUN 
+stress, NOUN 
+whitening, NOUN 
+observed, NOUN 
+explained, VERB 
+
+, SPACE 
+stress, NOUN 
+related, VERB 
+increase, NOUN 
+Mie, PROPN 
+scattering, VERB 
+collagen, NOUN 
+ﬁbrils, NOUN 
+
+, SPACE 
+study, NOUN 
+established, VERB 
+connection, NOUN 
+hydrogen, NOUN 
+bonding, NOUN 
+
+, SPACE 
+stress, NOUN 
+whitening, NOUN 
+intensity, NOUN 
+stress, NOUN 
+whitening, NOUN 
+signi, NOUN 
+ﬁcant-, NOUN 
+
+, SPACE 
+ly, NOUN 
+lower, ADJ 
+demineralized, VERB 
+specimens, NOUN 
+tested, VERB 
+solvent, NOUN 
+lower, ADJ 
+δh, NOUN 
+m, AUX 
+
+, SPACE 
+plicating, VERB 
+hydrogen, NOUN 
+bonding, NOUN 
+process, NOUN 
+Stress, NOUN 
+whitening, NOUN 
+
+, SPACE 
+greatest, ADJ 
+demineralized, VERB 
+matrix, NOUN 
+loaded, VERB 
+stiffer, ADJ 
+
+, SPACE 
+stronger, ADJ 
+axis, NOUN 
+
+, SPACE 
+stress, NOUN 
+whitening, VERB 
+process, NOUN 
+observed, VERB 
+inconsistent, ADJ 
+poly-, NOUN 
+
+, SPACE 
+mer, ADJ 
+crazing, NOUN 
+stress, NOUN 
+whitening, VERB 
+phenomenon, NOUN 
+consistent, ADJ 
+
+, SPACE 
+collagen, NOUN 
+ﬁbril, NOUN 
+dehydration, NOUN 
+driven, VERB 
+externally, ADV 
+applied, VERB 
+stress, NOUN 
+
+, SPACE 
+mechanistic, ADJ 
+theory, NOUN 
+require, VERB 
+experimentation, NOUN 
+verify, VERB 
+
+, SPACE 
+validity, NOUN 
+completeness, NOUN 
+ﬁts, VERB 
+experimental, ADJ 
+ob-, NOUN 
+
+, SPACE 
+servations, NOUN 
+stress, NOUN 
+whitening, NOUN 
+investigation, NOUN 
+demineralized, VERB 
+
+, SPACE 
+specimens, NOUN 
+previous, ADJ 
+investigations, NOUN 
+mineralized, ADJ 
+bone, NOUN 
+matrix, NOUN 
+
+, SPACE 
+Acknowledgments, NOUN 
+
+, SPACE 
+study, NOUN 
+supported, VERB 
+National, PROPN 
+Institutes, PROPN 
+Health, PROPN 
+
+, SPACE 
+AR040776, PROPN 
+like, VERB 
+thank, VERB 
+Samuel, PROPN 
+Ravani, PROPN 
+assistance, NOUN 
+
+, SPACE 
+processing, VERB 
+videos, NOUN 
+acquired, VERB 
+investigation, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+1]Lips, NOUN 
+P., PROPN 
+Epidemiology, PROPN 
+predictors, NOUN 
+fractures, NOUN 
+associated, VERB 
+osteoporosis, NOUN 
+J, PROPN 
+
+, SPACE 
+Med, PROPN 
+1997;103:3S, NOUN 
+8S, PROPN 
+discussion, NOUN 
+8S, PROPN 
+11S, X 
+
+, SPACE 
+2]Kannus, NUM 
+P, NOUN 
+Parkkari, PROPN 
+J, PROPN 
+Sievänen, PROPN 
+H, PROPN 
+Heinonen, PROPN 
+Vuori, PROPN 
+Järvinen, PROPN 
+M., PROPN 
+Epidemiology, PROPN 
+
+, SPACE 
+hip, NOUN 
+fractures, NOUN 
+Bone, NOUN 
+1996;18:57S, PROPN 
+63S., NOUN 
+
+, SPACE 
+3]Burr, NUM 
+DB, NOUN 
+Forwood, PROPN 
+MR, PROPN 
+Fyhrie, PROPN 
+DP, NOUN 
+Martin, PROPN 
+RB, PROPN 
+Schaf, PROPN 
+ﬂer, VERB 
+MB, NOUN 
+Turner, PROPN 
+CH, PROPN 
+Bone, NOUN 
+
+, SPACE 
+microdamage, NOUN 
+skeletal, ADJ 
+fragility, NOUN 
+osteoporotic, ADJ 
+stress, ADJ 
+fractures, NOUN 
+J, PROPN 
+Bone, PROPN 
+
+, SPACE 
+Miner, PROPN 
+Res, PROPN 
+1997;12:6, PROPN 
+15, NUM 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+Model, PROPN 
+collagen, NOUN 
+ﬁbrils, NOUN 
+causing, VERB 
+increase, NOUN 
+scattering, NOUN 
+light, NOUN 
+Unloaded, VERB 
+demineralized, VERB 
+bone, NOUN 
+matrix, NOUN 
+uniform, ADJ 
+phase, NOUN 
+collagen, NOUN 
+ﬁbrils, NOUN 
+consequently, ADV 
+scatters, VERB 
+
+, SPACE 
+light, ADJ 
+B, NOUN 
+Collagen, PROPN 
+ﬁbrils, VERB 
+load, NOUN 
+smaller, ADJ 
+volumetrically, ADV 
+↓ϕﬁbril, PROPN 
+denser, PROPN 
+↑c, PROPN 
+leading, VERB 
+higher, ADJ 
+ﬁbrillar, ADJ 
+refractive, ADJ 
+index, NOUN 
+↑nﬁbril, PROPN 
+ultimately, ADV 
+causing, VERB 
+scattering, NOUN 
+
+, SPACE 
+Eq.(3, NOUN 
+Light, NOUN 
+changes, VERB 
+direction, NOUN 
+interface, NOUN 
+regions, NOUN 
+different, ADJ 
+refractive, ADJ 
+indices, NOUN 
+e.g., ADV 
+collagen, NOUN 
+ﬁbril, NOUN 
+nﬁbril, PROPN 
+solvent, NOUN 
+nsol, NOUN 
+leading, VERB 
+scattering].373, NOUN 
+M.R., PROPN 
+Hardisty, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+57, NUM 
+2013, NUM 
+367, NUM 
+374, NUM 
+
+, SPACE 
+4]Kruzic, NUM 
+JJ, PROPN 
+Ritchie, PROPN 
+RO, PROPN 
+Fatigue, NOUN 
+mineralized, ADJ 
+tissues, NOUN 
+cortical, ADJ 
+bone, NOUN 
+dentin, NOUN 
+J, PROPN 
+Mech, PROPN 
+
+, SPACE 
+Behav, PROPN 
+Biomed, PROPN 
+Mater, PROPN 
+2008;1:3, NUM 
+17, NUM 
+
+, SPACE 
+5]Ritchie, NUM 
+R, NOUN 
+Buehler, PROPN 
+M, PROPN 
+Hansma, PROPN 
+P., PROPN 
+Plasticity, PROPN 
+toughness, NOUN 
+bone, NOUN 
+Phys, PROPN 
+Today, PROPN 
+
+, SPACE 
+2009;62:41, NUM 
+7, NUM 
+
+, SPACE 
+6]Boivin, NUM 
+G, PROPN 
+Meunier, PROPN 
+PJ, PROPN 
+degree, NOUN 
+mineralization, NOUN 
+bone, NOUN 
+tissue, NOUN 
+measured, VERB 
+com-, NOUN 
+
+, SPACE 
+puterized, VERB 
+quantitative, ADJ 
+contact, NOUN 
+microradiography, NOUN 
+Calcif, PROPN 
+Tissue, PROPN 
+Int, PROPN 
+2002;70:503, NOUN 
+11, NUM 
+
+, SPACE 
+7]Tjhia, NUM 
+C, PROPN 
+Odvina, PROPN 
+C, PROPN 
+Rao, PROPN 
+D, PROPN 
+Stover, PROPN 
+S., PROPN 
+Mechanical, PROPN 
+property, NOUN 
+tissue, VERB 
+mineral, NOUN 
+density, NOUN 
+
+, SPACE 
+differences, NOUN 
+severely, ADV 
+suppressed, VERB 
+bone, NOUN 
+turnover, NOUN 
+SSBT, PROPN 
+patients, NOUN 
+osteoporoticpatients, NOUN 
+normal, ADJ 
+subjects, NOUN 
+Bone, NOUN 
+2011;49:1279, NOUN 
+89, NUM 
+
+, SPACE 
+8]Tjhia, NUM 
+C, PROPN 
+Stover, PROPN 
+S, PROPN 
+Rao, PROPN 
+D, PROPN 
+Odvina, PROPN 
+C, PROPN 
+Fyhrie, PROPN 
+D., PROPN 
+Relating, VERB 
+micromechanical, ADJ 
+properties, NOUN 
+
+, SPACE 
+mineral, NOUN 
+densities, NOUN 
+severely, ADV 
+suppressed, VERB 
+bone, NOUN 
+turnover, NOUN 
+patients, NOUN 
+osteoporotic, ADJ 
+pa-, PROPN 
+
+, SPACE 
+tients, NOUN 
+normal, ADJ 
+subjects, NOUN 
+Bone, NOUN 
+2012;51:114, NOUN 
+22, NUM 
+
+, SPACE 
+9]Martin, PROPN 
+RB, PROPN 
+Burr, PROPN 
+DB, PROPN 
+Sharkey, PROPN 
+NA, PROPN 
+Skeletal, PROPN 
+Tissue, PROPN 
+Mechanics, PROPN 
+New, PROPN 
+York, PROPN 
+Springer, PROPN 
+
+, SPACE 
+Verlag, PROPN 
+1998, NUM 
+
+, SPACE 
+10, NUM 
+Gupta, PROPN 
+HS, PROPN 
+Zioupos, PROPN 
+P., PROPN 
+Fracture, PROPN 
+bone, NOUN 
+tissue, NOUN 
+s, NOUN 
+s, VERB 
+Med, PROPN 
+Eng, PROPN 
+
+, SPACE 
+Phys, PROPN 
+2008;30:1209, NOUN 
+26, NUM 
+
+, SPACE 
+11, NUM 
+Wynnyckyj, NOUN 
+C, PROPN 
+Willett, PROPN 
+T., PROPN 
+Changes, PROPN 
+bone, NOUN 
+fatigue, NOUN 
+resistance, NOUN 
+collagen, NOUN 
+degrada-, VERB 
+
+, SPACE 
+tion, NOUN 
+J, PROPN 
+Orthop, PROPN 
+Res, PROPN 
+2011;29:197, PROPN 
+203, NUM 
+
+, SPACE 
+12, NUM 
+Barth, PROPN 
+HD, PROPN 
+Launey, PROPN 
+Macdowell, PROPN 
+AA, PROPN 
+Ager, PROPN 
+JW, PROPN 
+Ritchie, PROPN 
+RO, PROPN 
+effect, NOUN 
+X, NOUN 
+ray, NOUN 
+ir-, NOUN 
+
+, SPACE 
+radiation, NOUN 
+deformation, NOUN 
+fracture, ADJ 
+behavior, NOUN 
+human, ADJ 
+cortical, ADJ 
+bone, NOUN 
+Bone, NOUN 
+
+, SPACE 
+2010;46:1475, NOUN 
+85, NUM 
+
+, SPACE 
+13, NUM 
+Wang, PROPN 
+X, PROPN 
+Bank, PROPN 
+R, PROPN 
+TeKoppele, PROPN 
+JM, NOUN 
+Agrawal, PROPN 
+CM, PROPN 
+role, NOUN 
+collagen, NOUN 
+determining, VERB 
+
+, SPACE 
+bone, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+J, PROPN 
+Orthop, PROPN 
+Res, PROPN 
+2001;19:1021, PROPN 
+6, NUM 
+
+, SPACE 
+14, NUM 
+Yan, PROPN 
+J, PROPN 
+Daga, PROPN 
+Kumar, PROPN 
+R, PROPN 
+Mecholsky, PROPN 
+JJ, PROPN 
+Fracture, NOUN 
+toughness, NOUN 
+work, NOUN 
+fracture, NOUN 
+hy-, ADJ 
+
+, SPACE 
+drated, VERB 
+dehydrated, VERB 
+ashed, VERB 
+bovine, ADJ 
+bone, NOUN 
+J, PROPN 
+Biomech, PROPN 
+2008;41:1929, NOUN 
+36, NUM 
+
+, SPACE 
+15, X 
+Nalla, PROPN 
+RK, PROPN 
+Kruzic, PROPN 
+JJ, PROPN 
+Kinney, PROPN 
+JH, PROPN 
+Balooch, PROPN 
+M, PROPN 
+Ager, PROPN 
+JW, PROPN 
+Ritchie, PROPN 
+RO, PROPN 
+Role, PROPN 
+microstructure, NOUN 
+
+, SPACE 
+aging, VERB 
+related, VERB 
+deterioration, NOUN 
+toughness, NOUN 
+human, ADJ 
+cortical, ADJ 
+bone, NOUN 
+Mater, PROPN 
+Sci, PROPN 
+
+, SPACE 
+Eng, PROPN 
+C, PROPN 
+2006;26:1251, PROPN 
+60, NUM 
+
+, SPACE 
+16, NUM 
+Currey, PROPN 
+JD, PROPN 
+Bone, NOUN 
+Structure, NOUN 
+Mechanics, PROPN 
+Princeton, PROPN 
+Princeton, PROPN 
+University, PROPN 
+Press, PROPN 
+
+, SPACE 
+2006, NUM 
+456, NUM 
+pp, ADV 
+
+, SPACE 
+17, NUM 
+Brown, ADJ 
+HR, NOUN 
+Studies, NOUN 
+orientation, NOUN 
+structure, NOUN 
+crazed, VERB 
+matter, NOUN 
+polystyrene, NOUN 
+I., PROPN 
+
+, SPACE 
+Optical, ADJ 
+measurements, NOUN 
+J, PROPN 
+Polym, PROPN 
+Sci, PROPN 
+Polym, PROPN 
+Phys, PROPN 
+Ed, PROPN 
+1979;17:1417, NOUN 
+30, NUM 
+
+, SPACE 
+18, X 
+Lee, PROPN 
+J., PROPN 
+Deformation, PROPN 
+Failure, PROPN 
+Mechanism, PROPN 
+Nanosctructured, PROPN 
+Polymer, PROPN 
+Thin, PROPN 
+Films, PROPN 
+
+, SPACE 
+Amherst, ADV 
+University, PROPN 
+Massachusetts, PROPN 
+2007, NUM 
+
+, SPACE 
+19, NUM 
+Kramer, PROPN 
+E, PROPN 
+Berger, PROPN 
+L., PROPN 
+Kausch, PROPN 
+H, PROPN 
+editor, NOUN 
+Crazing, NOUN 
+Polymers, PROPN 
+Fundamental, ADJ 
+process-, NOUN 
+
+, SPACE 
+es, NOUN 
+craze, NOUN 
+growth, NOUN 
+fracture, NOUN 
+Berlin, PROPN 
+Heidelberg, PROPN 
+Springer, PROPN 
+1990, NUM 
+p., NOUN 
+1, NUM 
+68, NUM 
+
+, SPACE 
+20, NUM 
+Thurner, NOUN 
+PJ, NOUN 
+Erickson, PROPN 
+B, PROPN 
+Jungmann, PROPN 
+R, PROPN 
+Schriock, PROPN 
+Z, PROPN 
+Weaver, PROPN 
+JC, PROPN 
+Fantner, PROPN 
+GE, PROPN 
+et, PROPN 
+al, PROPN 
+High-, PROPN 
+
+, SPACE 
+speed, NOUN 
+photography, NOUN 
+compressed, ADJ 
+human, ADJ 
+trabecular, ADJ 
+bone, NOUN 
+correlates, VERB 
+whitening, VERB 
+
+, SPACE 
+microscopic, ADJ 
+damage, NOUN 
+Eng, PROPN 
+Fract, PROPN 
+Mech, PROPN 
+2007;74:1928, NOUN 
+41, NUM 
+
+, SPACE 
+21, NUM 
+Sun, PROPN 
+X, PROPN 
+Hoon, PROPN 
+Jeon, PROPN 
+J, PROPN 
+Blendell, PROPN 
+J, PROPN 
+Akkus, PROPN 
+O., PROPN 
+Visualization, PROPN 
+phantom, ADJ 
+post, NOUN 
+yield, ADJ 
+defor-, NOUN 
+
+, SPACE 
+mation, NOUN 
+process, NOUN 
+cortical, ADJ 
+bone, NOUN 
+J, PROPN 
+Biomech, PROPN 
+2010;43:1989, PROPN 
+96, NUM 
+
+, SPACE 
+22, NUM 
+Xu, PROPN 
+Z, PROPN 
+Sun, PROPN 
+X, PROPN 
+Liu, PROPN 
+J, PROPN 
+Song, PROPN 
+Q, PROPN 
+Muckley, PROPN 
+M, PROPN 
+Akkus, PROPN 
+O, PROPN 
+et, PROPN 
+al, PROPN 
+Spectroscopic, ADJ 
+visualization, NOUN 
+
+, SPACE 
+nanoscale, ADJ 
+deformation, NOUN 
+bone, NOUN 
+interaction, NOUN 
+light, NOUN 
+partially, ADV 
+disordered, VERB 
+nano-, ADJ 
+
+, SPACE 
+structure, NOUN 
+J, PROPN 
+Biomed, PROPN 
+Opt, PROPN 
+2010;15:060503, NUM 
+
+, SPACE 
+23, NUM 
+
+, SPACE 
+Avery, PROPN 
+N, PROPN 
+Bailey, PROPN 
+A., NOUN 
+Restraining, PROPN 
+cross, NOUN 
+links, NOUN 
+responsible, ADJ 
+mechanical, ADJ 
+properties, NOUN 
+
+, SPACE 
+collagen, NOUN 
+ﬁbers, NOUN 
+natural, ADJ 
+arti, NOUN 
+ﬁcial, PROPN 
+Collagen, PROPN 
+Springer, PROPN 
+2008, NUM 
+81, NUM 
+110, NUM 
+
+, SPACE 
+24, NUM 
+Miles, PROPN 
+Ghelashvili, PROPN 
+M., PROPN 
+Polymer, PROPN 
+box, NOUN 
+mechanism, NOUN 
+thermal, ADJ 
+stabilization, NOUN 
+
+, SPACE 
+collagen, NOUN 
+molecules, NOUN 
+ﬁbers, NOUN 
+Biophys, PROPN 
+J, PROPN 
+1999;76:3243, PROPN 
+52, NUM 
+
+, SPACE 
+25, NUM 
+Zimmermann, PROPN 
+E, NOUN 
+Schaible, PROPN 
+E, NOUN 
+Bale, PROPN 
+H, PROPN 
+Barth, PROPN 
+HD, PROPN 
+Tang, PROPN 
+SY, PROPN 
+Reichert, PROPN 
+P, PROPN 
+et, PROPN 
+al, PROPN 
+Age, PROPN 
+related, VERB 
+
+, SPACE 
+changes, NOUN 
+plasticity, NOUN 
+toughness, NOUN 
+human, ADJ 
+cortical, ADJ 
+bone, NOUN 
+multiple, ADJ 
+length, NOUN 
+
+, SPACE 
+scales, NOUN 
+Proc, PROPN 
+Natl, PROPN 
+Acad, PROPN 
+Sci, PROPN 
+U, PROPN 
+S, PROPN 
+2011;108:14416, NUM 
+21, NUM 
+
+, SPACE 
+26, NUM 
+Currey, PROPN 
+JD, PROPN 
+Role, PROPN 
+collagen, NOUN 
+organics, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+bone, NOUN 
+
+, SPACE 
+Osteoporos, PROPN 
+Int, PROPN 
+2003;14:29, PROPN 
+36, NUM 
+
+, SPACE 
+27, NUM 
+Parﬁtt, PROPN 
+A., NOUN 
+Bone, PROPN 
+age, NOUN 
+mineral, NOUN 
+density, NOUN 
+fatigue, NOUN 
+damage, NOUN 
+Calcif, PROPN 
+Tissue, PROPN 
+Int, PROPN 
+1993;53:82, PROPN 
+6, NUM 
+
+, SPACE 
+28, X 
+Bembey, PROPN 
+AK, PROPN 
+Bushby, PROPN 
+AJ, PROPN 
+Boyde, PROPN 
+Ferguson, PROPN 
+VL, PROPN 
+Oyen, PROPN 
+ML, PROPN 
+Hydration, NOUN 
+effects, NOUN 
+
+, SPACE 
+micro, ADJ 
+mechanical, ADJ 
+properties, NOUN 
+bone, NOUN 
+J, PROPN 
+Mater, PROPN 
+Res, PROPN 
+2006;21:1962, PROPN 
+8, NUM 
+
+, SPACE 
+29, NUM 
+Nalla, PROPN 
+RK, PROPN 
+Balooch, PROPN 
+M, PROPN 
+Ager, PROPN 
+JW, PROPN 
+Kruzic, PROPN 
+JJ, PROPN 
+Kinney, PROPN 
+JH, PROPN 
+Ritchie, PROPN 
+RO, PROPN 
+Effects, NOUN 
+polar, ADJ 
+sol-, NOUN 
+
+, SPACE 
+vents, NOUN 
+fracture, ADJ 
+resistance, NOUN 
+dentin, NOUN 
+role, NOUN 
+water, NOUN 
+hydration, NOUN 
+Acta, PROPN 
+Biomater, PROPN 
+
+, SPACE 
+2005;1:31, NUM 
+43.[30, NUM 
+Hansen, PROPN 
+C., PROPN 
+Hansen, PROPN 
+Solubility, PROPN 
+Parameters, PROPN 
+User, PROPN 
+Handbook, PROPN 
+CRC, PROPN 
+Press, PROPN 
+2007, NUM 
+544, NUM 
+pp, NOUN 
+
+, SPACE 
+31, NUM 
+Maciel, PROPN 
+KT, PROPN 
+Carvalho, PROPN 
+RM, PROPN 
+Ringle, PROPN 
+RD, PROPN 
+Preston, PROPN 
+CD, PROPN 
+Russell, PROPN 
+CM, PROPN 
+Pashley, PROPN 
+DH, PROPN 
+effects, NOUN 
+
+, SPACE 
+acetone, NOUN 
+ethanol, NOUN 
+hema, NOUN 
+air, NOUN 
+stiffness, NOUN 
+human, ADJ 
+decalci, NOUN 
+ﬁed, PROPN 
+dentin, PROPN 
+ma-, PROPN 
+
+, SPACE 
+trix, NOUN 
+J, PROPN 
+Dent, PROPN 
+Res, PROPN 
+1996;75:1851, NOUN 
+8, NUM 
+
+, SPACE 
+32, NUM 
+Pashley, PROPN 
+DH, PROPN 
+Agee, PROPN 
+K, PROPN 
+Carvalho, PROPN 
+RM, PROPN 
+Lee, PROPN 
+K, PROPN 
+W, PROPN 
+Tay, PROPN 
+FR, PROPN 
+Callison, PROPN 
+TE, PROPN 
+Effects, NOUN 
+water, NOUN 
+
+, SPACE 
+water, NOUN 
+free, ADJ 
+polar, ADJ 
+solvents, NOUN 
+tensile, ADJ 
+properties, NOUN 
+demineralized, ADJ 
+dentin, NOUN 
+Dent, PROPN 
+
+, SPACE 
+Mater, PROPN 
+2003;19:347, NUM 
+52, NUM 
+
+, SPACE 
+33, NUM 
+Yeni, PROPN 
+YN, PROPN 
+Schaf, PROPN 
+ﬂer, VERB 
+MB, NOUN 
+Gibson, PROPN 
+G, PROPN 
+Fyhrie, PROPN 
+DP, NOUN 
+Prestress, NOUN 
+dimensional, ADJ 
+changes, NOUN 
+
+, SPACE 
+caused, VERB 
+demineralization, NOUN 
+potential, ADJ 
+mechanism, NOUN 
+microcracking, VERB 
+bone, NOUN 
+
+, SPACE 
+Ann, PROPN 
+Biomed, PROPN 
+Eng, PROPN 
+2002;30:217, NOUN 
+25, NUM 
+
+, SPACE 
+34, NUM 
+Bowman, PROPN 
+SM, PROPN 
+Zeind, PROPN 
+J, PROPN 
+Gibson, PROPN 
+LJ, PROPN 
+Hayes, PROPN 
+WC, PROPN 
+McMahon, PROPN 
+TA, PROPN 
+tensile, ADJ 
+behavior, NOUN 
+
+, SPACE 
+demineralized, VERB 
+bovine, ADJ 
+cortical, ADJ 
+bone, NOUN 
+J, PROPN 
+Biomech, PROPN 
+1996;29:1497, PROPN 
+501, NUM 
+
+, SPACE 
+35, NUM 
+Jenks, PROPN 
+K, PROPN 
+Hardisty, PROPN 
+MR, PROPN 
+Garcia, PROPN 
+Nolan, PROPN 
+T, PROPN 
+Stover, PROPN 
+SM, PROPN 
+Fyhrie, NOUN 
+DP, NOUN 
+Stress, PROPN 
+induced, VERB 
+whiten-, ADV 
+
+, SPACE 
+ing, NOUN 
+bone, NOUN 
+matrix, NOUN 
+strain, NOUN 
+dependent, ADJ 
+Orthopaedic, PROPN 
+Research, PROPN 
+Society, PROPN 
+Meeting, PROPN 
+2013, NUM 
+
+, SPACE 
+p., NOUN 
+0745, NUM 
+
+, SPACE 
+36, NUM 
+Bigley, PROPN 
+RF, PROPN 
+Volume, NOUN 
+Effects, PROPN 
+Strength, PROPN 
+Fatigue, PROPN 
+Life, PROPN 
+Equine, PROPN 
+Cortical, PROPN 
+Bone, PROPN 
+Davis, PROPN 
+
+, SPACE 
+University, PROPN 
+California, PROPN 
+2007, NUM 
+
+, SPACE 
+37, NUM 
+Li, PROPN 
+C, PROPN 
+Xu, PROPN 
+C, PROPN 
+Gui, PROPN 
+C, PROPN 
+Fox, PROPN 
+MD, PROPN 
+Distance, NOUN 
+regularized, VERB 
+level, NOUN 
+set, VERB 
+evolution, NOUN 
+application, NOUN 
+
+, SPACE 
+image, NOUN 
+segmentation, NOUN 
+IEEE, PROPN 
+Trans, PROPN 
+Image, PROPN 
+Process, PROPN 
+2010;19:3243, NUM 
+54, NUM 
+
+, SPACE 
+38, NUM 
+Soicher, PROPN 
+MA, PROPN 
+Hardisty, PROPN 
+MR, PROPN 
+Garcia, PROPN 
+TC, PROPN 
+Stover, PROPN 
+SM, PROPN 
+Fyhrie, NOUN 
+DP, NOUN 
+Hansen, PROPN 
+hydrogen, NOUN 
+bond-, NOUN 
+
+, SPACE 
+ing, ADJ 
+potential, NOUN 
+bathing, NOUN 
+solution, NOUN 
+modi, VERB 
+ﬁes, VERB 
+elastic, ADJ 
+modulus, NOUN 
+MPa, NOUN 
+whitening, NOUN 
+
+, SPACE 
+demineralized, VERB 
+bone, NOUN 
+matrix, NOUN 
+Orthopaedic, PROPN 
+Research, PROPN 
+Society, PROPN 
+Meeting, PROPN 
+2012, NUM 
+p., NOUN 
+1369, NUM 
+
+, SPACE 
+San, PROPN 
+Francisco, PROPN 
+
+, SPACE 
+39, NUM 
+Tang, PROPN 
+H, PROPN 
+Buehler, PROPN 
+MJ, PROPN 
+Moran, PROPN 
+B., PROPN 
+constitutive, ADJ 
+model, NOUN 
+soft, ADJ 
+tissue, NOUN 
+nanoscale, PROPN 
+col-, NOUN 
+
+, SPACE 
+lagen, NOUN 
+tissue, VERB 
+continuum, PROPN 
+Ann, PROPN 
+Biomed, PROPN 
+Eng, PROPN 
+2009;37:1117, NUM 
+30, NUM 
+
+, SPACE 
+40, NUM 
+Szabó, PROPN 
+Thurner, NOUN 
+PJ, NOUN 
+Anisotropy, NOUN 
+bovine, ADJ 
+cortical, ADJ 
+bone, NOUN 
+tissue, NOUN 
+damage, NOUN 
+properties, NOUN 
+
+, SPACE 
+J, PROPN 
+Biomech, PROPN 
+2013;46:2, PROPN 
+6, NUM 
+
+, SPACE 
+41, NUM 
+Sauer, PROPN 
+J, PROPN 
+Hara, PROPN 
+M., PROPN 
+Effect, PROPN 
+molecular, ADJ 
+variables, NOUN 
+crazing, NOUN 
+fatigue, NOUN 
+polymers, NOUN 
+
+, SPACE 
+Crazing, NOUN 
+Polymers, PROPN 
+vol, NOUN 
+2, NUM 
+1990, NUM 
+
+, SPACE 
+42, NUM 
+Thurner, NOUN 
+PJ, NOUN 
+Erickson, PROPN 
+B, PROPN 
+Schriock, PROPN 
+Z, PROPN 
+Langan, PROPN 
+J, PROPN 
+Scott, PROPN 
+J, PROPN 
+Zhao, PROPN 
+M, PROPN 
+et, PROPN 
+al, PROPN 
+High, ADJ 
+speed, NOUN 
+pho-, NOUN 
+
+, SPACE 
+tography, NOUN 
+development, NOUN 
+microdamage, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+compres-, NOUN 
+
+, SPACE 
+sion, NOUN 
+J, PROPN 
+Mater, PROPN 
+Res, PROPN 
+2006;21:1093, PROPN 
+100, NUM 
+
+, SPACE 
+43, NUM 
+Rylander, PROPN 
+C, PROPN 
+Stumpp, PROPN 
+O, PROPN 
+Milner, PROPN 
+T., PROPN 
+Dehydration, PROPN 
+mechanism, NOUN 
+optical, ADJ 
+clearing, NOUN 
+tis-, ADJ 
+
+, SPACE 
+sue, NOUN 
+J, PROPN 
+Biomed, PROPN 
+Opt, PROPN 
+2006;11:041117, NOUN 
+1, NUM 
+7, NUM 
+
+, SPACE 
+44, NUM 
+Bruno, PROPN 
+G., PROPN 
+Classical, PROPN 
+theory, NOUN 
+Rayleigh, PROPN 
+Raman, PROPN 
+scattering, NOUN 
+Raman, PROPN 
+Effect, NOUN 
+
+, SPACE 
+Uniﬁed, PROPN 
+Treatment, PROPN 
+Theory, PROPN 
+Raman, PROPN 
+Scattering, PROPN 
+Molecules, NOUN 
+2002, NUM 
+31, NUM 
+48, NUM 
+
+, SPACE 
+45, NUM 
+Saidi, PROPN 
+Jacques, PROPN 
+SL, PROPN 
+Tittel, PROPN 
+FK, PROPN 
+Mie, PROPN 
+Rayleigh, PROPN 
+modeling, NOUN 
+visible, ADJ 
+light, NOUN 
+scattering, VERB 
+
+, SPACE 
+neonatal, ADJ 
+skin, NOUN 
+Appl, PROPN 
+Opt, PROPN 
+1995;34:7410, PROPN 
+8, NUM 
+
+, SPACE 
+46, NUM 
+Liu, PROPN 
+H, PROPN 
+Beauvoit, PROPN 
+B, PROPN 
+Kimura, PROPN 
+M, PROPN 
+Chance, PROPN 
+B., PROPN 
+Dependence, PROPN 
+tissue, NOUN 
+optical, ADJ 
+properties, NOUN 
+
+, SPACE 
+solute, NOUN 
+induced, VERB 
+changes, NOUN 
+refractive, ADJ 
+index, NOUN 
+osmolarity, NOUN 
+J, PROPN 
+Biomed, PROPN 
+Opt, PROPN 
+
+, SPACE 
+1996;1:200, NUM 
+11, NUM 
+
+, SPACE 
+47, NUM 
+Fuller, PROPN 
+GG, PROPN 
+Optical, ADJ 
+rheometry, NOUN 
+Annu, PROPN 
+Rev, PROPN 
+Fluid, PROPN 
+Mech, PROPN 
+1990;22:387, NOUN 
+417, NUM 
+
+, SPACE 
+48, NUM 
+Tuchin, PROPN 
+V., PROPN 
+Glossary, PROPN 
+1, NUM 
+Physics, PROPN 
+Statistics, PROPN 
+Engineering, PROPN 
+Tissue, NOUN 
+Optics, NOUN 
+Light, PROPN 
+
+, SPACE 
+Scattering, PROPN 
+Methods, PROPN 
+Instruments, PROPN 
+Medical, PROPN 
+Diagnosis, PROPN 
+2000, NUM 
+595, NUM 
+661, NUM 
+
+, SPACE 
+49, NUM 
+Buehler, PROPN 
+MJ, PROPN 
+Wong, PROPN 
+SY, PROPN 
+Entropic, ADJ 
+elasticity, NOUN 
+controls, VERB 
+nanomechanics, NOUN 
+single, ADJ 
+tropocol-, ADJ 
+
+, SPACE 
+lagen, NOUN 
+molecules, NOUN 
+Biophys, PROPN 
+J, PROPN 
+2007;93:37, PROPN 
+43, NUM 
+
+, SPACE 
+50, NUM 
+Chang, PROPN 
+S, PROPN 
+W, PROPN 
+Flynn, PROPN 
+BP, PROPN 
+Ruberti, PROPN 
+JW, PROPN 
+Buehler, PROPN 
+MJ, PROPN 
+Molecular, ADJ 
+mechanism, NOUN 
+force, NOUN 
+induced, VERB 
+
+, SPACE 
+stabilization, NOUN 
+collagen, NOUN 
+enzymatic, ADJ 
+breakdown, NOUN 
+Biomaterials, NOUN 
+2012;33, PROPN 
+
+, SPACE 
+3852, NUM 
+9, NUM 
+
+, SPACE 
+51, NUM 
+Shen, PROPN 
+ZL, PROPN 
+Dodge, PROPN 
+MR, PROPN 
+Kahn, PROPN 
+H, PROPN 
+Ballarini, ADJ 
+R, NOUN 
+Eppell, PROPN 
+SJ, PROPN 
+Stress, NOUN 
+strain, VERB 
+experiments, NOUN 
+in-, ADP 
+
+, SPACE 
+dividual, ADJ 
+collagen, NOUN 
+ﬁbrils, NOUN 
+Biophys, NOUN 
+J, PROPN 
+2008;95:3956, PROPN 
+63, NUM 
+
+, SPACE 
+52, NUM 
+Hernandez, PROPN 
+CJ, PROPN 
+Tang, PROPN 
+SY, PROPN 
+Baumbach, PROPN 
+BM, PROPN 
+Hwu, PROPN 
+PB, PROPN 
+Sakkee, PROPN 
+N, PROPN 
+Van, PROPN 
+der, NOUN 
+Ham, PROPN 
+F, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Trabecular, PROPN 
+microfracture, NOUN 
+ﬂuence, NOUN 
+pyridinium, NOUN 
+non, ADJ 
+enzymatic, ADJ 
+
+, SPACE 
+glycation, NOUN 
+mediated, VERB 
+collagen, NOUN 
+cross, NOUN 
+links, NOUN 
+Bone, NOUN 
+2005;37:825, NOUN 
+32, NUM 
+
+, SPACE 
+53, NUM 
+Fyhrie, NOUN 
+DP, NOUN 
+Vashishth, PROPN 
+D., PROPN 
+Bone, PROPN 
+stiffness, NOUN 
+predicts, VERB 
+strength, NOUN 
+similarly, ADV 
+human, ADJ 
+verte-, ADJ 
+
+, SPACE 
+bral, ADJ 
+cancellous, ADJ 
+bone, NOUN 
+compression, NOUN 
+cortical, ADJ 
+bone, NOUN 
+tension, NOUN 
+Bone, NOUN 
+
+, SPACE 
+2000;26:169, X 
+73, NUM 
+
+, SPACE 
+54, NUM 
+Poundarik, PROPN 
+AA, PROPN 
+Diab, PROPN 
+T, PROPN 
+Sroga, PROPN 
+GE, PROPN 
+Ural, PROPN 
+Boskey, PROPN 
+AL, PROPN 
+Gundberg, PROPN 
+CM, PROPN 
+et, PROPN 
+al, PROPN 
+Dilatational, ADJ 
+
+, SPACE 
+band, NOUN 
+formation, NOUN 
+bone, NOUN 
+Proc, PROPN 
+Natl, PROPN 
+Acad, PROPN 
+Sci, PROPN 
+U, PROPN 
+S, NOUN 
+2012;109:19178, NUM 
+83.374, NUM 
+M.R., PROPN 
+Hardisty, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+57, NUM 
+2013, NUM 
+367, NUM 
+374, NUM 
+
+, SPACE 

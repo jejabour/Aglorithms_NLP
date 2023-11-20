@@ -1,0 +1,333 @@
+cm __ __ @ ELSEVIER September 1996 
+Materials Letters 28 (1996) 71-75 
+Influence of solidification on the flattening of droplets during 
+thermal spraying 
+V.V. Sobolev *, J.M. Guilemany 
+Metalurgia Fisica, Ciencia de Materiales, Departamento de lngenieria Quimica y Metalurgia, Uniuersidad de Barcelona, Marti i Franque’s 
+1, 08028 Barcelona, Spain 
+Received 11 July 1995; revised 18 December 1995; accepted 2 January 1996 
+Abstract 
+The analytical formulae describing the time evolution as well as the final values of the splat thickness and radius and the 
+rates of their variation in the process of flattening of droplets during thermal spraying are obtained. They take into account 
+the solidification of the splat and mass loss of an impinging droplet. The theoretical results obtained agree well with the 
+experimental data and can be used for the prediction of splat flattening parameters. 
+Keywords: Solidification; Flattening; Droplets; Thermal spraying 
+1. Introduction 
+Flattening of thermally sprayed powder particles 
+significantly influences the coating structure and 
+quality [l-3]. Usually the characteristic time of flat- 
+tening t, during thermal spraying is considered to be 
+much smaller than that of splat solidification t, and 
+the latter process is neglected when flattening is 
+studied [1,2]. In general this is not quite correct. 
+Even if t, -=c tc, solidification of the lower part of the 
+splat in the vicinity of the substrate-coating interface 
+is possible, This process influences markedly the 
+kinetics of flattening and the splat form [2,4]. 
+The influence of solidification on splat flattening 
+becomes more pronounced with increase of splat 
+solidification velocity. It occurs when the thermal 
+* Corresponding author. diffusivity of the splat increases and the contact 
+thermal resistance at the substrate-coating interface 
+decreases [3,5]. Then the spreading and cooling of 
+the molten droplet cannot be considered indepen- 
+dently [3]. This means that both these processes 
+should be taken into account when splat flattening is 
+studied. Also droplet mass loss due to splashing and 
+the formation of craters in the surface of the imping- 
+ing droplet should be accounted for. 
+Engineering practice needs rather simple formulae 
+which permit one to estimate these processes. Al- 
+though these formulae are approximate they should 
+reflect all the main features of flattening and make it 
+possible to obtain the necessary estimates which do 
+not differ markedly from the results of mathematical 
+simulation and the experimental data which demand 
+essentially more effort to be established. 
+This paper is devoted to obtaining such formulae 
+which agree well with the experimental data [3,6]. 
+00167-577X/96/$12.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+PII SOl67-577X(96)00038-9 
+72 V.V. Sohole~~, J.M. Guilemany/Muterials Letters 2X (IY%i 71-75 
+2. Transient characteristics of flattening 
+We shall assume that a droplet of radius R, 
+impinges normally on to the surface of a smooth 
+substrate or previously deposited coating layer and 
+forms a cylindrical splat (disc) of radius R and 
+thickness b which vary with time during flattening 
+(Fig. I>. 
+Immediately after a droplet impinges flattening 
+and cooling start. The main cooling is caused by heat 
+removal from the lower part of the splat due to the 
+heat accumulative capacity of the substrate whose 
+mass is infinitely greater than that of the splat. This 
+heat removal depends significantly on the thermo- 
+physical properties of the substrate and splat as well 
+as the contact thermal resistance at the splat-sub- 
+strate (or previously deposited coating layer) inter- 
+face. It considerably exceeds the heat removal from 
+the upper surface of the splat [5,7]. 
+We shall consider the solidification front moving 
+from the mentioned interface with a velocity V, 
+inside the splat. The values of V, depend on the 
+substrate and splat thermophysical properties, contact 
+thermal resistance at the interface as well as the 
+initial temperatures of the splat and the substrate. 
+These values can be determined based on the meth- 
+ods described elsewhere [5,7]. Another possibility is 
+to find the velocity V, from Stefan’s “square root 
+law” which while giving similar results does not 
+reduce the mathematical complexity and is applied 
+only in the case of solidification of the pure sub- 
+stances [2,8]. 
+Droplet impact takes place during the time inter- 
+val t, = R,U-‘, where U is the velocity of droplet 
+impingement. The characteristic time of solidifica- 
+tion of the splat is t, = R,,y,-‘. The ratio p = I, t;’ 
+can be written as follows: 
+p = v,v-‘. (1) 
+During thermal spraying l3 -K I [9]. The flattening 
+Fig. 1. Scheme of splat flattening at the substrate surface. E=RR,‘, [=bR,l, O=at. a=UR,‘. (4) time is about one order of magnitude greater than fC 
+[3,10]. For the flattening process the most important 
+aspect is the solidification of the lower part of the 
+splat with thickness 6. Then t, = SVym’ and the ratio 
+t, t,: ’ has the form 
+q= V,R,(US)-‘. (2) 
+When 6 = R, from (2) we obtain (I). In the case 
+of plasma spraying of a metallic powder on to an 
+aluminium alloy or copper substrate when R, = 20 
+pm, V, = 5 m SC’, 6- 1 Frn and U= 100 m SC’ 
+from (2) we have rl = 1. This means that the solidifi- 
+cation of the splat must be taken into account when 
+splat flattening is analyzed. 
+If during solidification a crystalline structure is 
+formed, this process starts when nucleation takes 
+place. The ratio N of the nucleation time to the 
+impact time for the case of homogeneous nucleation 
+was estimated to be rather high for thermal spray 
+applications [I 11. But homogeneous nucleation hardly 
+ever occurs during thermal spraying due to the pres- 
+ence of different inclusions (oxides, carbides, etc.) in 
+an impinging droplet as well as due to the possible 
+partial solidification of the droplet before impinge- 
+ment [12,13]. We assume that the parameter N is 
+markedly smaller than unity and delays in nucleation 
+practically do not influence the solidification of the 
+lower part of the splat during flattening. 
+Droplet impingement is often accompanied by 
+splashing of the droplet liquid phase [2]. We assume 
+that some part of the mass of the impinging droplet 
+is lost due to the splashing and also due to the 
+formation of craters in the surface where flattening 
+occurs 12,141. This loss can be characterized by the 
+ratio x of the droplet mass which remains after these 
+events to the initial mass of the impinging droplet. 
+From the mass conservation condition it follows that 
+4R&/3 = R’( b - k’,t). (3) 
+For thermal spraying the most interesting case is 
+the situation when the Reynolds number Re = 
+2 R,lJpkm ’ B 1. Here p and@ are the density and 
+dynamic viscosity respectively of the droplet mate- 
+rial 
+We shall use the dimensionless variables: 
+V.V. Soboleu, J.M. Guilemany/Materials Letters 28 (1996) 71-75 73 
+Using the method and correlations given in Ref. [6], 
+we obtain the following analytical expressions for 5 
+and 5 when Re >> 1 and yt -=c 1 (y = t, ’ ): 
+ccop’ (1 - wf30), 0 = exp(0.40) (5) 
+5 = l.l55x”*W”~( 1 + oswpe) . (6) 
+From (5) and (6) we obtain the following rate char- 
+acteristics of the flattening process: 
+dc/d0 = -0.4w-‘( 1 + 2.5w@), (7) 
+dt/d0 = 0.231x”*w”*( 1 + 2.5wl3 + 1.5@3). 
+(8) 
+From (5)-(8) it is seen that splat solidification causes 
+a decrease of the splat thickness, increase of the splat 
+radius and its rate of growth as well as an increase of 
+the absolute value of the rate of decrease of 5. The 
+mass loss leads to the decrease of 5 and de/do. In 
+the absence of solidification (l3 = 0) and mass loss 
+(x = 1) from (5)-(g) we have the formulae obtained 
+in Ref. [6]. At the initial moments of time when 
+8 < 1 we obtain from (5)-(g) the following: 
+5 = 1 - 0.48( 1 + 2.5p), (9) 
+E = l.l55x”2[ 1 + 0.20( 1 + 2.5P)] ) (10) 
+dc/d0 = - 0.4( 1 - 0.48 + 2.5p), (11) 
+d.$/dO = 0.231~“*[ 1 + 0.20( 1 + 15p) + 2.5p]. 
+(12) 
+The analytical results obtained are valid up to t < t, 
+where [6] 
+t, = 1.25R,U-’ ln(1 +0.3Re). (13) 
+The value of t. exceeds the characteristic time of 
+flattening and the formulae obtained (5)-(g) are 
+valid in the whole interval of droplet flattening while 
+Eqs. (9)-(12) can be used when t -=z R,U-’ [6]. 
+3. Final characteristics of flattening 
+Let us find the values of 5, 5, dc/dt3 and dt/d0 
+at t=t,. Using (5)-(g) and (13) we have the fol- 
+lowing when Re >> 1: 
+[ = 1.826Re-‘/2[ 1 - 0.68PRe’/2 ln(0.3Re)], 
+( 14) 6 = 0.8546x1/2Re’/4[ 1 + 0.34PRe’/* ln(0.3Re)], 
+(15) 
+dc/dO = -0.73ReCl/*(1 + 1.37PRe’/*), (16) 
+ds/dO = 0.171~1~2Re1~4[1 + 1.3713Re’j2 
++ 1.0313Re1/* ln(0.3Re)l. (17) 
+In the absence of splat solidification (p = 0) and 
+mass loss (x = I), from (14)-(17) we obtain the 
+formulae established in Ref. [6]. Expressions (14)- 
+(17) show that solidification causes a decrease of the 
+splat thickness, increase of the splat radius as well as 
+an increase of the rate parameter dCJdt3 and the 
+absolute value of d</d0. The mass loss leads to the 
+decrease of 5 and dE/d0. 
+From the above analysis it follows that the influ- 
+ence of splat solidification on flattening characteris- 
+tics is equivalent to the influence of an effective 
+velocity U, of droplet impingement. This means that 
+the flattening process for a droplet impinging with 
+velocity U, , without taking into account splat solidi- 
+fication, is the same as when the velocity of the 
+droplet impingement is U and splat solidification is 
+accounted for. 
+Using the analytical expressions (14) and (151, 
+this effective velocity, with an accuracy up to the 
+terms of the order O(p*), can be represented as 
+follows: 
+U, = U[ 1 + 0.34PRe’12 ln(0.3Re)14. (18) 
+Then expressions (14) and (15) can be written in the 
+form: 
+5 = l.826Re;i/2, Re, = 2R,U,pp-‘, (19) 
+5 = 0.8546x’/2Re’,/4. (20) 
+These formulae are valid when p -=K 1 and this situa- 
+tion corresponds to thermal spraying. 
+The variations of the splat thickness 5 and the 
+splat radius 5 with respect to the Reynolds number 
+according to the analytical expressions (14) and (15) 
+respectively are shown in Fig. 2. The splat thickness 
+diminishes with Re and decreases when splat solidi- 
+fication takes place. The difference between the val- 
+ues of 5 corresponding to the cases p = 0 and 
+p = 0.002 increases with increase of the Reynolds 
+74 V.V. Sob&s, J.M. Guileman~/Materials Letters 28 ~19%) 71-75 
+lg Re 
+Fig. 2. Variation of the final values of the splat thickness and 
+radius with respect to the Reynolds number. 
+number. The splat radius enhances with Re. It also 
+increases when splat solidification occurs and de- 
+creases in the case of droplet mass loss. 
+The absolute value of the rate of the splat thick- 
+ness variation increases with the Reynolds number 
+according to (16) and splat solidification does not 
+change it markedly (Fig. 3). It can be seen from Fig. 
+3 that the rate of splat radius variation increases with 
+Re according to (17). This parameter significantly 
+enhances when splat solidification takes place and 
+decreases in the case of droplet mass loss. 
+L 2 3 L 4.3 
+lg Re 
+Fig. 3. Variation of the final values of the flattening rate character- 
+istics with respect to the Reynolds number. 4. Comparison with experimental data 
+In Ref. [3] the dynamics of the splat flattening and 
+solidification during plasma spraying of zirconia par- 
+ticles on a smooth steel substrate was studied experi- 
+mentally. We estimated that in this case the solidifi- 
+cation velocity can be approximately determined as 
+follows: 
+v, = cY,7&)-‘, (21) 
+where (Y, is the contact thermal heat transfer coeffi- 
+cient at the substrate-coating interface, Tr is the 
+temperature of the impinging droplet (particle), and 
+K and p respectively are the latent heat of fusion and 
+the density of zirconia. The average particle tempera- 
+ture T, was found to be about 3660 K [3]. For 
+zirconia K = 0.71 X lo6 J kg- ’ and p = 5400 kg 
+m -j. Taking these values and (Y, = 3.8 X lo5 WmP2 
+K-’ we obtain from (21) that v, = 0.366 m s-‘. If 
+we assume that the impact velocity U = 150 m sP ’ 
+[3] we have that p = 0.00244. 
+Using this value of l3 and assuming that there is 
+no droplet mass loss (x = 1) because the substrate is 
+heated and its surface is smooth [3], we obtain from 
+(15) the variation of the final radius of the splat 
+(flattening degree) 5 with the Reynolds number 
+shown in Fig. 4 together with the experimental data 
+and their correlation. 
+The theoretical values of 5 are not very sensitive 
+to the particle velocity U which varies according to 
+the particle size distribution. For example, when 
+U= 100 m ss’ and CT= 200 m s-‘, the maximum 
+relative variations of 5 do not exceed about 3% and 
+9% correspondingly with respect to the case when 
+U = 150 m SC’. 
+04 
+200 LOO 600 800 II 0 
+Reynolds number 
+Fig. 4. Comparison of analytical and experimental results for the 
+final splat radius (flattening degree). 
+V.V. Sobolev, J.M. Guilemany/Materials Letters 28 (1996) 71-75 15 
+The theoretical values of 5 are more sensitive to 
+the contact heat transfer coefficient ay,. When ay, 
+varies from 3.3 X lo5 to 5 X lo5 W m-’ K-’ [3], 
+the maximum deviations of 5 are between about 
+13% and 32% with respect to the case when o_, = 
+3.8 X lo5 W m-* K-l. 
+The theoretical values of 5 are seen to agree well 
+with the experimental results. 
+5. Conclusions 
+(1) The approximate formulae describing the time 
+evolution of the thermally sprayed splat thickness 
+and radius as well as the rates of their variation with 
+time during the flattening process are established 
+taking into account splat solidification and mass loss 
+due to the splashing and the formation of craters in 
+the surface where flattening occurs. 
+(2) Realistic correlations between the final values 
+of the splat thickness, radius and the rates of their 
+variations and the Reynolds number are introduced. 
+(3) The theoretical results obtained agree well 
+with the experimental data and can be used for 
+prediction purposes. 
+Acknowledgements 
+The authors thank Generalitat de Catalunya (pro- 
+ject GRQ93-1017) and CICYT (project MAT94- 0013) for the financial support. Professor V.V. 
+Sobolev is grateful to Generalitat de Catalunya for 
+his visiting professor grant. 
+References 
+111 
+121 
+[31 
+[41 
+[51 
+[61 
+[71 
+181 
+[91 
+[lOI 
+[ill 
+[121 
+1131 
+1141 R. MacPherson, Thin Solid Films 83 (1981) 297. 
+R.C. Dykhuizen, J. Therm. Spray Technol. 3 (1994) 351. 
+M. Vardelle, A. Vardelle, A.C. Leger and P. Fauchais, in: 
+Thermal spray industrial applications (ASM International, 
+Boston, 1994) p. 555. 
+V.V. Sobolev, J.M. Guilemany and A.J. Martin, J. Therm. 
+Spray Technol., in press (1995). 
+V.V. Sobolev, J.M. Guilemany and J.A. Calero, Mater. Sci. 
+Technol. 11 (1994) 810. 
+V.V. Sobolev and J.M. Guilemany, Mater. Lett. 22 (1995) 
+209. 
+V.V. Sobolev, J.M. Guilemany, J.R. Miquel and J.A. Calero, 
+Surf. Coat. Technol., in press (1994). 
+J. Madejski, J. Heat Mass Transfer 19 (1976) 1009. 
+L. Pawlowski, The science and engineering of thermal spray 
+coatings (Wiley, New York, 1995). 
+C. Moreau, P. Cielo and M. Lamontagne, J. Therm. Spray 
+Technol. 1 (1992) 317. 
+T.W. Clyne, Metall. Trans. B 15 (1984) 369. 
+V.V. Sobolev, J.M. Guilemany and J.A. Calero, J. Therm. 
+Spray Technol. 4 (1994) 287. 
+V.V. Sobolev, J.M. Guilemany, J.R. Miquel and J.A. Calero, 
+Surf. Coat. Technol., in press (1995). 
+R. Tiwari and H. Herman, Scripta Metal. Mater. 25 (1991) 
+1103. 

@@ -1,0 +1,598 @@
+Corrosion Science, Vol. 38, No. 6, PP. 805-822, 1996 
+Copyright 0 1996 Elsevier Science Ltd 
+Printed in Great Britain. All rights reserved 
+0010--938X/96 $lS.OO+O.OO 
+0010-938x(95)00168-9 
+A STUDY OF THE INITIAL STAGES OF OXIDATION OF 
+YTTRIUM-IMPLANTED CHROMIUM USING X-RAY 
+DIFFRACTION AND ABSORPTION SPECTROSCOPY 
+M. J. CRISTbBAL, P. N. GIBSON and M. F. STROOSNIJDER* 
+Institute for Advanced Materials-Ispra Site, Joint Research Centre, The European Commission, 21020 Ispra (VA), 
+Italy 
+Abstract-The beneficial effect of the addition of yttrium by ion implantation on the oxidation behaviour of 
+chromium has been studied. Emphasis was placed on the initial stages of oxidation during rapid heating to 900°C by 
+exposing samples to intermediate temperatures and withdrawing them for analysis. Characterization of the surface 
+layers was carried out with two X-ray techniques at glancing angles. Glancing angle X-ray diffraction (GAXRD) at 
+various angles was used to obtain structural and texture information as a function of depth. X-ray absorption 
+spectroscopy at the yttrium K-edge enabled information to be gained on the local structure around this element. 
+The short-range structure of two yttrium-rich oxides, Y203 and YCrO4, was observed. The latter is believed to 
+represent the structure around yttrium segregated to the oxide grain boundaries. It is thought that this segregation 
+in the chromia scales can cause many, if not all, of the reported beneficial reactive element effects. The Y203. present 
+as particles, is expected to play only an indirect role by forming a source of yttrium, which slowly segregates to the 
+grain boundaries. The possible effects of the grain boundary segregation of yttrium on the oxidation behaviour of 
+the material and the oxide scale properties are discussed. Copyright 0 1996 Elsevier Science Ltd. 
+Kqvwords: A. chromium, B. ion implantation, C. oxidation, B. yttrium additions, A. reactive elements. 
+INTRODUCTION 
+The ability of the current generation of high-temperature alloys to resist corrosion depends 
+on their potential to form and maintain a protective oxide scale, e.g. Cr203 or A1203. The 
+beneficial role of reactive elements, such as yttrium, cerium and other rare earths, on the 
+oxidation behaviour of high-temperature alloys has received considerable attention, see, for 
+example Refs l-3. These elements added in small amounts ( < 1%) to the bulk alloy or to the 
+surface are able, in particular, to decrease the oxidation rate and dramatically improve the 
+scale adherence. The exact underlying mechanisms of the reactive element effect are still the 
+subject of discussion. In general it is found that the influence of reactive elements is similar 
+regardless of whether the element is implanted, applied as a coating or present as an alloy 
+component or oxide dispersoid addition. 
+Ion implantation offers the unique possibility of introducing a controlled concentration 
+of an element in a thin surface layer, typically up to 100 mn thick. It has been used 
+extensively for studying the mechanisms underlying the reactive element effect, e.g. Refs 3- 
+7. The main effects are on the initial nucleation, growth and adherence of the corrosion 
+scale. The majority of studies deal with the corrosion kinetics and the mechanical properties 
+of the oxide scales, whereas the number of studies dealing with the initial stages of corrosion 
+are rather limited. 
+Manuscript received 28 June 1995. 
+*Author to whom correspondence should be addressed. 
+805 
+806 M. J. Cristobal YI al. 
+In this paper the corrosion of Y-implanted chromium is reported. The study 
+concentrates on the characterization of yttrium present in the as-implanted material and, 
+in particular, in the oxide scales which formed initially on the material during oxidation in 
+air. The changes during fast heating of a sample to 900°C were studied by heating samples to 
+intermediate temperatures and withdrawing them for analysis. The effect of varying 
+exposure times up to 1 h at 800°C was also included. Characterization of the surface layers 
+was carried out with two X-ray techniques at glancing angles. GAXRD at various angles 
+was used to obtain structural and texture information as a function of depth. X-ray 
+absorption near edge structure (XANES) and extended X-ray absorption fine structure 
+(EXAFS) at the yttrium K-edge were employed to gain information on the local structure 
+around this element. XANES refers to the structure in the X-ray absorption coefficient in 
+the immediate vicinity of the absorption edge (i.e. less than 50eV above the edge). In 
+contrast to the EXAFS region the absorption coefficient in the XANES region cannot be 
+described by a simple formalism. However, XANES can be very useful as a fingerprinting 
+technique in which the position and shape of the edge can provide information on the 
+oxidation state of the element. EXAFS is based on the oscillatory structure in the X-ray 
+absorption coefficient that may be observed in the higher spectral range (40-1000 eV) above 
+the absorption edge. This is caused by the interference between the outgoing photo-electron 
+and its scattered component from the surrounding atoms. Factors which contribute to the 
+EXAFS structure are, among others, bond distances, coordination numbers and the types 
+of surrounding atoms. By interactive fitting procedures it is possible to extract this 
+information from the measured EXAFS data. One of the attractive features of EXAFS is 
+the fact that one can determine the local structure around each specific element 
+independently. A more detailed discussion is out of the scope of this paper but is given in 
+several references, e.g. Refs 8, 9. 
+EXPERIMENTAL METHOD 
+A commercial heat of Ducropur was studied containing about 99.9% Cr, 140 ppm 0, 
+24 ppm N, 130 ppm C, 15 ppm S and 14 ppm P. Coupons of approximately 20 x 20 x 2 mm 
+were machined, mechanically abraded on silicon carbide paper up to 1200 grit and polished 
+with alumina suspension of 0.3 pm. For final surface cleaning, the specimens were degreased 
+in acetone. 
+The uniform implantation of one of the principal coupon faces by yttrium, at a nominal 
+dose of 10” ions/cm2, was undertaken utilizing an acceleration potential of 180 keV. 
+Rutherford backscattering (RBS) indicated that the retained doses were approximately 
+97% of the nominal doses. The Y distribution impla.nted in the material agreed well with 
+that predicted by a depth-profile modelling programme.” This was essentially gaussian, 
+with a maximum concentration of approximately 23 at% at a depth of 40 nm. The 
+implantation depth was about 120 nm. 
+For the short-term oxidation tests, a special autoclave system, which had been fitted with 
+a magnetic introduction device, was used in order that the samples could be rapidly inserted 
+and retrieved from the hot gas atmosphere. During the insertion and retrieval of the 
+samples, calibrations showed that the specimen surface temperature changed by 
+approximately 200”C/min. Corrosion testing was performed in flowing synthetic air, 
+which was humidified up to a relative humidity of 40% at 25°C. To study the changes during 
+heating to 900°C samples were heated to 400, 600, 800 and 900°C and rapidly withdrawn 
+Oxidation of yttrium-implanted chromium 801 
+upon reaching these temperatures. A second set of samples was heated to 800°C and 
+withdrawn after 0,2,6 and 60 mins. 
+Details of the GAXRD facility, which included a Cu K, radiation source, have been 
+described elsewhere.” The geometry used was grazing incidence asymmetric Bragg (GIAB) 
+with incident angles ranging from 0.3” to 2”. Fluorescence X-ray absorption spectra at the 
+K-edge of the yttrium glancing angle were recorded at the wiggler station 9.3 of the 
+Synchrotron Radiation Source, Daresbury, U.K. The data were recorded in fluorescence 
+mode, using a 13-element solid-state detector positioned above the sample, at an incident 
+angle of 0.36”, i.e. double the critical angle, corresponding to penetration depths in 
+chromium of 160-200 nm. 
+EXPERIMENTAL RESULTS 
+Glancing angle X-ray diffraction 
+Figure 1 shows the GAXRD spectra of the as-implanted chromium at various angles of 
+incidence. The diffraction spectrum at 0.5”, corresponding to a theoretical penetration depth 
+of approximately 93 nm in Cr203 and 50 nm in the base metal, indicates, besides the (1 lo), 
+(200) and (211) peaks of chromium, the presence of a nanocrystalline phase indicated by the 
+broad peak near 32”. On reducing the incident angle from 0.5” to 0.3”, this broad peak 
+Cr + 1 017 Y ions / cm2 
+7 
+$ = 0.4” 
+lb i0 i0 40 50 60 i0 80 90 
+Diffraction angle 20, degrees 
+Fig. 1. GAXRD spectra at 0.3,0.4 and 0.5” incident angles of the as-implanted chromium. 
+808 M. J. Cristbbal et al. 
+disappeared together with the chromium peaks. The relative intensities of the Cr peaks 
+indicate some preferred orientation of the material. 
+The GAXRD spectra at 0.5” incident angle of the as-implanted material and the samples 
+heated to different temperatures are shown in Fig. 2. The spectra at 400°C and 600°C 
+10 900 “C / -min A = V,Q, 
+B = C&O, 
+B c 
+I C C= Cr 
+I I 
+800 “C / -min C 
+0 
+600 “C / -min 
+C 
+I I I I 1 I I 
+20 30 40 50 60 70 
+Diffraction angle 20, degrees 80 E 1 
+Fig. 2. GAXRD spectra at 0.5” incident angle of the yttrium-implanted chromium, as-implanted 
+and after heating to 400,600,800 and 900°C. 
+Oxidation of yttrium-implanted chromium 809 
+contain only peaks corresponding to the chromium substrate and the YzO3 phase. To 
+determine the grain size, the shape of the YzOs (440) and (622) peaks were analysed using a 
+computer fitting programme,i2 assuming that the broadening was totally due to the grain 
+size effect. The average Y203 grain size was determined to increase from 2.5 nm at 400°C to 
+4.5 nm at 600°C. In both spectra these peaks are shifted slightly relative to the positions 
+expected, which might be due to stresses in the oxide. 
+An interesting aspect of the spectrum for the sample heated to 400°C and in particular 
+the one at 600°C is that the chromium peaks appear to be split. To investigate this in more 
+detail, spectra of the latter sample at 0.5, 1 and 2” incident angles were acquired (Fig. 3). 
+With increasing angle of incidence, the splitting disappears. 
+After heating to 800°C (Fig. 2), Cr203 appears in the GAXRD spectrum. Additionally, 
+the broad peak has completely disappeared. The spectrum at 900°C does not show any 
+600 “C / -min 
+(I = 2” 1 
+h .,*I- --_J. 
+h++ 
+I 
+40 
+Diffraction angle 20, degrees 
+Fig. 3. GAXRD spectra at 0.5, 1 and 2” incident angle of yttrium-implanted chromium after 
+heating to 600°C (compare with Fig. 2). 
+810 M. J. Crist6bal et al. 
+Fig. 4. 300 “c / 60 min A = Y,O, 
+3 
+300%/6min B 
+I 
+300 “C / 2 min 
+C 
+0 
+BOO “C / -min 
+B 
+I I I I I I I 
+io +o 4b 50 so 70 
+Diffraction angle 20, degrees 80 90 
+GAXRD spectra at 0.5” incident angle of yttrium-implanted chromium after oxidation at 
+800°C for 0,2,6 and 60 min. 
+Oxidation of yttrium-implanted chromium 811 
+significant difference from the one at 8OO”C, except for a relatively lower signal from the 
+underlying chromium. The chromia phase shows a significant difference in the relative 
+intensities of the peaks compared to those expected, indicative of a preferred orientation. 
+The GAXRD spectra at 0.5” incident angle obtained on the samples oxidized for 0,2,6 
+and 60 min at 800°C are presented in Fig. 4. Again only Cr203, Y203 and Cr are observed. 
+With increasing exposure times the peaks related to Cr203 become more predominant than 
+those of Y203 and Cr, indicating a growing oxide layer. 
+The GAXRD spectra at 0.5” incident angle obtained on the sample oxidized at 800°C for 
+60 min (Fig. 4) and that heated to 900°C (Fig. 2) are rather similar. For further comparison 
+of these two samples, additional spectra at a 0.3” incident angle, with a theoretical 
+penetration depth of only a few nanometres in Cr203, were obtained (Fig. 5). These spectra 
+are thus more representative of the outer oxide layer. In the spectra obtained on the sample 
+heated to 900°C (Fig. 5(a)) the Y203 and Crz03 phases as well as the chromium substrate are 
+visible, but the Cr203 predominates. In the spectra of the sample exposed for 60 min at 
+800°C (Fig. 5(b)) the Y203 peaks as well as the chromium peaks have practically 
+disappeared, except the one at 64.4” which is overlapped by the (300) peak from Crz03 at 
+64.9”. Thus, in both cases the Y203 phase appears mainly to be located close to the metal- 
+oxide interface. 
+X-ray absorption spectroscopy at the yttrium K-edge 
+The XANES regions of the X-ray absorption spectra of the oxidized samples are shown 
+in Fig. 6, together with that of a YzOs reference powder. Since all of these spectra were not 
+taken in the same experimental run, there is a possibility of slight shifts in the energy scale. 
+However, examining the form of the spectra, it can be observed that of the various samples, 
+the spectrum obtained on the sample heated to 600°C most resembles that of Y203, with 
+that heated to 400°C showing a very similar curve. This can be seen both from the shape of 
+the main absorption peak and from its distance to the wide peak approximately 54 eV higher 
+in energy. The spectrum of the sample heated to 800°C started to differ in the structure of the 
+main absorption maximum. This difference increased on prolonging the time at 800°C or on 
+heating the material up to 900°C. The spectra obtained on the samples heated to 900°C and 
+that heated at 800°C for 60 min are, however, very similar, indicating a similar structure in 
+these two cases. These spectra, which were taken in the same experimental run as that for the 
+sample heated to 800°C display a significantly lower absorption edge energy, indicating that 
+the average oxidation state of the yttrium in these samples may be less than + 3. 
+In EXAFS, see for example Refs 8 and 9, the oscillatory part, X(k), of the absorption 
+coefficient, p(E), is extracted from the relation X(k) = (p - puo)/pO, where ~0 is a smoothly 
+varying background and k = 2x/h[2m(E- I?&)] I’* Here m is the electron mass, h is Plan&s . 
+constant and E. is the zero energy of the outgoing electron. In Fig. 7, typical k3-weighted 
+EXAFS spectra of the implanted and oxidized samples are shown (full lines). The 
+background subtracted EXAFS spectra were analysed using the least-squares fitting 
+programme EXCURV92. l3 In the analysis of EXAFS results, Fourier transformation of 
+the data is a particularly useful interpretation. This transformation, called the EXAFS 
+radial distribution function (RDF), approximately specifies the spatial distribution of the 
+backscattering atoms relative to the central atom (Fig. 7). In the first instance it was used to 
+examine the EXAFS spectra for the presence of Y2O3. For this purpose EXAFS 
+measurements were performed on an unstrained powder of this compound. 
+The EXAFS data obtained on the sample heated to 400°C could be fitted very well with 
+M. J. Crist6bal er ai. 
+900 “C / -min 
+Q, = 0.3” A = Y,O, 
+B = Cr,O, 
+! 
+I I I b 
+I , I I I , 
+20 30 40 50 60 ’ 
+Diffraction angle 20, degrees 
+(b) 
+800 “C / 60 min 6 = G-,0, 
+$ = 0.3” B C= Cr 
+I f 1 I 1 I I I 1 I , 
+20 30 40 50 60 
+Diffraction angle 20, degrees 3 
+Fig. 5. GAXRD spectra at 0.3” incident angle of yttrium-implanted chromium after (a) heating to 
+900°C and (b) oxidation at 800°C for 60 min. 
+Oxidation of yttrium-implanted chromium 
+(a) 813 
+400°C / - min 
+600°C / - min 
+800°C I - min 
+900°C I - min 
+17020 17070 
+Energy, eV 17120 
+Fig. 6. XANES spectra at the yttrium K-edge of unstrained powder of Yz03 and yttrium- 
+implanted chromium after (a) heating to 400,600,800 and 900°C and (b) oxidation at 800°C for 0,2 
+and 60 min. 
+those for Y203. The fitted local structure parameters, as determined with EXCURV92, for 
+the unstrained Y203 and the sample heated to 400°C are presented in Table 1. The 
+coordination numbers in the case of the 400°C sample are significantly lower than those of 
+the reference powder. Except for the second shell, the coordination number decreases with 
+increasing shell number. This indicates a nanocrystalline structure. 
+The fitting of the spectra obtained on all samples exposed to temperatures above 400°C 
+could not be performed assuming only the presence of YzOs. Thus the presence of other 
+814 
+17020 M. J. Crist6bal et al. 
+(b) 
+I/l 800°C I60 min 
+17070 
+Energy, eV 
+Fig. 6. (Conrimed). 17120 
+compounds, such as YCrOs and YCr04, was taken into consideration for the fitting 
+procedures. Due to a lack of suitable reference compounds the accuracy in the local 
+structure parameters is worse than those for the Y203 phase. The spectra for all samples 
+which were heated above 400°C could be fitted successfully assuming the presence of both 
+Yz03 and YCrO+ Because of much larger coordination distances in the case of YCrOs, this 
+phase could not explain the observed EXAFS structures. As with Y203 the coordination 
+number for YCr04 appeared to be much smaller than those expected from the 
+crystallographic data (see for example Table 2). 
+Oxidation of yttrium-implanted chromium 815 
+(a) 
+0.3 
+5 Id 
+B 
+I I I , I I I I I 
+0 0.2 0.4 0.6 0.0 1 
+4 600%/-min 
+3 
+I2 
+c 1 
+B 
+;0 
+3 -1 
++! -2 
+-3 
+-4 r, nm 
+0 I I I , I I I I I 
+0 0.2 0.4 0.6 0.6 1 
+r. nm 
+Cc) 
+6 0.6 
+6OOOC/-min I 
+0.5- 
+0.4- f 
+i 
+0 I I I I I I I I I 
+0 0.2 0.4 0.6 0.0 
+r, nm 
+Fig. 7. Experimental (solid line) and fitted (dotted line) kg-weighted EXAFS spectra and related 
+radial distribution functions of yttrium-implanted chromium after heating to (a) 4OO”C, (b) 6OO”C, 
+(c) 800°C and (d) 900°C and oxidation for (e) 2 min at 800°C and (f) 60 min at 800°C. 
+816 M. J. Crist6bal et al. 
+(d) 
+3 
+2 
+11 
+B 
+‘. 0 
+E 
+8 -1 
+H 
+-2 
+-3 
+r. nm 
+(e) 
+0 
+@00%/2min o.61 
+6 
+0.5 - 
+4 
+i2 0.4 - 
+5 ;; 0 
+8 -2 
+x 
+-4 
+4 
+ElOO”C/6Omin r, nm 
+(f-1 
+0.3 
+: 0.2 
+k 
+az 
+0.1 
+:- I’ 
+I’ . . . I 
+A .: 
+o ‘L I, I I I I I I1 I 
+0 0.2 0.4 0.6 0.6 
+r, nm 
+Fig. 7. (Conrinued). 
+Oxidation of yttrium-implanted chromium 817 
+Table 1. Coordination numbers (N) and bond lengths (r, in nm) in various shells for YaOs from crystallographic 
+data, determined by EXAFS on a reference powder and on the sample heated to 400°C 
+l(O) 207 3fy) 4(O) 5(O) 
+Shell number 
+(atom) N r N r N r N r N r 
+Crystallographic 6 0.229 6 0.352 6 0.400 6 0.420 6 0.440 
+EXAFS reference 6 0.229 6 0.352 6 0.400 6 0.419 6 0.444 
+EXAFS 400°C 3 0.223 1 0.351 2 0.390 1.5 0.412 1.5 0.438 
+Table 2. Coordination numbers (N) and bond lengths (r, in nm) in various shells for YCr04 from crystallographic 
+data and determined by EXAFS on the sample heated to 800°C 
+Shell number 
+(atom) 
+Crystallographic 
+EXAFS 800°C 10 20 Wr) 4(Y) 5(Cr) 
+N r N r N i- N r N r 
+4 0.232 4 0.244 2 0.312 4 0.388 4 0.388 
+2 0.227 2 0.240 1 0.303 2 0.384 2 0.382 
+The EXAFS spectra obtained on the samples heated to 800°C (Fig. 7(c)) and the one 
+which remained an additional 2 min at this temperature (Fig. 7(e)) were rather similar. They 
+could best be fitted assuming that 50% of the yttrium is present in the form of Y20s and 
+50% in the form of YCr04. The determined bond lengths are slightly shorter than those of 
+the crystallographic data. This reduction was approximately 2% for both phases. 
+The EXAFS spectra obtained on the sample heated to 900°C (Fig. 7(d)) and that which 
+was exposed for 60 min at 800°C (Fig. 7(f)) were also rather similar. The fitting of the data of 
+both samples was best assuming that 34% of the yttrium is present in the form of YzOs and 
+the remaining 66% in the form of YCr04. Also in these samples the reduction in the bond 
+distances for Yz03 and YCr04 was about 2%. 
+Table 3 presents the coordination numbers for Y203 as determined from the EXAFS 
+data fitting on various specimens. Similarly, Table 4 presents those for YCr04. It can be 
+observed that with increasing temperature from 800 to 900°C and longer exposure time at 
+Table 3. Coordination numbers in the various shells for YzOs from 
+crystallographic data and determined by EXAFS on the samples heated to 
+400,600,800 and 900°C and exposed at 800°C for 2 and 60 min 
+Shell number 
+(atom) l(0) 2(Y) 3(Y) 4(O) 5(O) 
+Crystallographic 6 6 6 6 6 
+400°C 3 1 2 1.5 1.5 
+600°C 3 2 2.5 2 2 
+800°C 3 3 3 3 3 
+900°C 2 2 2 2 2 
+8OO”C/2 min 3 3 3 3 3 
+8OOC/60 min 2 2 2 2 2 
+818 M. J. Cristbbal cl al. 
+Table 4. Coordination numbers in various shells for YCr04 from 
+crystallographic data and determined by EXAFS on the samples heated to 
+400,600,800 and 900°C and exposed at 800°C for 2 and 60 min 
+Shell number 
+(atom) 
+Crystallographic 
+400°C 
+600,-C 
+800 ‘C 
+900. c 
+800.C,2 mm 
+ROO’C$O min l(O) 30) 3(Cr) 4(Y) 50) 
+4 3 7 4 4 
+1 2 0.X 1.5 1.5 
+2 2 I 2 2 
+26 7.6 I 1 2.6 2.6 
+2 2 I 2 2 
+2.6 ‘6 -. 1 .3 2.6 2.6 
+800°C the coordination numbers for the Y203 phase decrease, whereas those for the YCr04 
+phase increase. It should be noted that coordination number determination by EXAFS has 
+a relatively large error (+ 20%). The coordination numbers presented in Tables 3 and 4 
+confirm that the YCr04 local structure is becoming more dominant upon increasing time 
+and temperature. 
+DISCUSSION 
+The GAXRD results obtained on the as-implanted chromium indicate, besides some 
+preferred orientation of the substrate material. the presence of a nanocrystalline phase. The 
+fact that reduction of the incident angle (Fig. 1) makes the broad peak, as well as the 
+chromium peaks, disappear, indicates that the phase responsible for the peak is present 
+throughout the implanted region, and is not due to a surface oxide. 
+In a previous study on yttrium-implanted Ni-20Cr. a similar broad peak was observed 
+on initial oxidation.12 Simulations of X-ray spectra of various nanocrystalline phases 
+indicated that it could have been due to Y, Y203 or NiO. EXAFS revealed the phase to be 
+Yz03. In the present study the EXAFS curve of the as-implanted material could not be fitted 
+to that of Y203. Thus, either a large proportion of the yttrium is not contained in this phase, 
+and is thus in ‘random’ positions in the implanted region, or nanocrystalline yttrium is 
+formed. Due to the very low intensity of the EXAFS oscilations observed on the as- 
+implanted material, the fn-st of these possibilities is probably correct. 
+These results are different from those reported in a study mainly employing TEM on 
+yttrium-implanted Ni, Ni-4Cr and Ni-20Cr.14 In all materials, if the implantation dose was 
+higher than 1016 ions/cm2, the implanted yttrium caused the formation of an amorphous 
+phase. It was reported that the amorphization process is inherent to yttrium implantation 
+and is not only induced by radiation damage effects. Further it was considered that this 
+amorphous layer and its recrystallization during heating are important in the oxidation 
+mechanism for the implanted alloy. Similar results on the formation of an amorphous phase 
+upon yttrium implantation in Ni-20Cr have been reported in a study using glancing angle 
+X-ray techniques.15 However, in the latter study a contamination by carbon during ion 
+implantation could have played an important role in stabilizing the amorphous phase. It 
+was reported that during oxidation recrystallization occurred and a nanocrystalline Y203 
+phase appeared.15,‘6 
+Oxidation of yttrium-implanted chromium 819 
+Both the GAXRD and the EXAFS results indicate that upon heating to 4OO”C, 
+nanocrystalline YzOs is already formed in the yttrium-implanted chromium samples. The 
+GAXRD results indicate that the average grain size of the crystals increases from 2.5 to 
+4.5 nm by increasing the temperature from 400 to 600°C. Interesting to note in the EXAFS 
+results is the fact that the determined coordination numbers for the Yz03 phase are 
+significantly lower than could be expected from the crystallographic data (Table 1). This 
+difference is more pronounced with increasing shell number. This can be explained by the 
+small grain sizes of the Y203 phase, as determined from GAXRD. By considering the ratio 
+of volume to surface atoms for a Y203 phase with an average crystallite size of 2.5 nm, an 
+estimated 80% of the atoms are either on, or are one interatomic distance away, from grain 
+boundaries, which would involve a decrease of nearly 30% of the atoms in the first shell and 
+about 50% in the second shell. This agrees well with the EXAFS results, taking into account 
+the experimental error. The present GAXRD and EXAFS results, as well as EXAFS at the 
+Cr K-edge,i7 indicate that both the chromium and the yttria lattice are distorted. Also the 
+splitting of the Cr diffraction lines which can be observed on various samples (Fig. 2) can be 
+attributed to this. The GAXRD results on depth profiling of the sample by changing the 
+incident angle (Fig. 3) indicate that the distortion of the chromium is confined to the surface 
+zone. It can be concluded that microstresses are generated by ion implantation and 
+subsequent formation of the YzOs phase. 
+By comparison of the GAXRD spectra obtained at 0.3 (Fig. 5) and 0.5” (Figs 2 and 4) on 
+the sample heated to 900°C and that exposed for 60min at 800°C an indication of the 
+position of the yttria relative to the chromia can be obtained. It appears that the chromia are 
+present on the outer surface, whereas the Y203 phase is mainly located close to the metal- 
+oxide interface. 
+The XANES results indicate that YzOs formed upon initial heating of the sample. 
+However, on raising the temperature to 800°C or above, this structure progressively 
+disappeared. As stated above, the XANES curves do not give any direct information on the 
+local atomic structure and can only be used to suggest the presence of a phase. On the other 
+hand, by comparison of the XANES spectra with the known Y203 reference curve, it can 
+definitely be stated that the samples heated at 800°C for 60 min and that raised up to 900°C 
+could not contain yttrium only in the Y203 phase. It is also very important to note that the 
+spectra of the latter samples displayed an edge shift to lower energies, indicating a lower 
+average oxidation state of the yttrium. 
+The EXAFS results also show that above 400°C another yttrium local structure is 
+present in addition to YZOs. This local structure around yttrium appeared to be similar to 
+that in YCr04 with reduced coordination numbers. It is interesting to note that in the 
+GAXRD no indication of the presence of YCr04 was obtained. Thus, the presence of this 
+phase is limited to a very short order as can be observed with EXAFS. The oxidation state of 
+yttrium in YCr04 is +2,18 while in Y203 and YCrOs it is + 3. Thus the XANES and 
+EXAFS results are entirely consistent with the presence of the YCr04 atomic environment 
+around yttrium. 
+The presence of a second yttrium-containing phase has been additionally checked by a 
+comparative study with X-ray fluorescence analysis.i7 In this study, the sample exposed at 
+800°C for 60 min was compared with an yttrium-implanted Ni-20Cr sample which had been 
+subsequently oxidized. EXAFS studies showed that all the implanted yttrium in the Ni- 
+20Cr sample was present as Y203. The total amount of yttrium in both samples was 
+determined, using X-ray fluorescence analysis, to be the same within the experimental error 
+820 M. J. Crist6bal et ul 
+of 5-10’2~. GAXRD was performed under identical conditions on both samples. Although 
+the exact quantification of the data was made difficult by a preferred orientation of the Y203 
+in the case of the chromium sample, it appeared that a large proportion of the yttrium in the 
+chromium sample was present in a form other than Y203. 
+Curve fitting of the EXAFS spectra indicates that the coordination numbers for the 
+Yz03 decrease and those of YCr04 increase with temperature from 800 to 900°C as well as 
+with a longer exposure time at 800°C (Tables 3 and 4). This indicates a decrease of the 
+amount of yttrium in the form of Yz03 in favour of that in the YCr04 structure with 
+increasing temperature and time. Again the XANES spectra support this analysis with the 
+edge shifts to lower energies being greatest for these more oxidized samples. 
+From the EXAFS and XANES results it appeared that under the present experimental 
+conditions no significant amount of YCr03 was formed. On the basis of extensive TEM 
+studies on oxide scales, the existence of separated Y203 particles, with dimensions up to 
+100 nm, in the oxide scales has been reported.4”9 Also, the presence of YCr03 particles has 
+been suggested on the basis of EDX analysis, although this was not completely confirmed by 
+electron diffraction.7720*21 In various TEM studies,4.7,20721 oxide grain boundary segregation 
+of the yttrium has been reported. This segregation has been reported to be rather 
+homogeneous over the oxide grain boundaries throughout the oxide scale. Careful 
+analysis, taking into account specimen dimensions and electron beam diameter, indicated 
+that the segregation might amount to a monolayer. Due to the restrictions in spatial 
+resolution, the form of this segregated yttrium could not be established. In general it is 
+believed that the segregation of yttrium to grain boundaries in chromia scales can cause 
+many, if not all, of the beneficial effects of yttrium or yttria additions to alloys.22*23 The Y203 
+or YCr03 particles are believed to play only an indirect role by forming a source of yttrium 
+which is slowly segregating to the grain boundaries. 
+On the basis of the present results, it can be suggested that the yttrium segregation, as 
+observed by TEM in various studies, is present on the grain boundaries with a local 
+structure very similar to that in YCr04. In agreement with the above-mentioned studies, the 
+source of yttrium for this structure is Yz03 which is initially formed near the surface of the 
+yttrium-implanted material upon heating and which is observed to grow in size upon 
+heating to 600°C. Upon further heating or with longer exposure time, as the oxidation 
+process proceeds, the Y2O3 possibly reacts with the Cr203. in a fashion similar to that 
+suggested previously2.’ and the yttrium diffuses along the grain boundaries. It is obvious 
+that the exact role of the yttrium segregation on the beneficial effects of yttrium or yttria 
+additions could not be further elucidated based on these results. 
+However, as has been suggested in the literature, the segregation of yttrium to the grain 
+boundaries, possibly with a local structure of YCr04, as determined in the present study, 
+plays a significant role and can even explain all the reactive element effects. The most 
+plausible effect will be that the anion and cation transport rates along the grain boundaries 
+change due to the presence of the yttrium, as has been confirmed by tracer experiments.24 
+This directly changes the overall oxidation kinetics. At the same time also the 
+microstructure, including grain size and possibly preferred orientations, of the oxide scales 
+will change due to the changes in grain boundary transport. An additional factor might be 
+that the presence of the YCr04 structure on the grain boundaries might also inhibit oxide 
+grain growth. Besides a thinner oxide thickness due to slower oxidation kinetics, associated 
+changes in microstructure can contribute to the improved scale adherence. Related to this, 
+the presence of the YCr04 structure on the grain boundaries can directly influence the 
+Oxidation of yttrium-implanted chromium 821 
+mechanical properties of the oxide scale, for example, by changing the viscosity of the oxide 
+grain boundaries or by acting as crack blocking boundaries. However, beside these effects 
+caused by the grain boundary segregation, other processes might play a role. For example, 
+the initially formed Yz03 might very well alter the nucleation of Cr203. 
+CONCLUSIONS 
+Yttrium implantation in chromium possibly induces the formation of a nanocrystalline 
+phase. GAXRD examination of samples simulating the heating of a sample up to 900°C 
+showed that above 400°C Yz03 is formed. The Yz03 particles, with sizes in the nanometre 
+range, grow on an increase in temperature to 600°C. Upon further heating, the surface starts 
+to be dominated by Crz03 scale formation. EXAFS examinations show that part of the 
+yttrium in the samples heated above 400°C is present in a structure other than that of Y203. 
+X-ray fluorescence analysis and evaluation of the XANES data strongly support this 
+conclusion. This structure could best be described by an atomic environment very similar to 
+that in YCr04. The relative amount of yttrium present in the structure of YCr04 relative to 
+that of Y203 increases with increasing temperature and exposure time. The initially formed 
+Y203 appears to react with the Cr203 to form a local YCr04 structure. It is concluded that 
+this is the local atomic environment of yttrium associated with the yttrium grain boundary 
+segregation reported in several TEM studies. 
+It is believed that the segregation of yttrium to grain boundaries in the chromia scales 
+can cause many, if not all, of the reported beneficial reactive element effects. The Y203 
+particles present are believed to play only an indirect role by forming a source of yttrium, 
+which is slowly segregating to the grain boundaries. Due to the presence of yttrium with the 
+local structure of YCr04 at the grain boundaries, the anion and cation transport rates along 
+the grain boundaries are changed, thus influencing the overall oxidation kinetics. At the 
+same time the microstructure, including grain size and possibly preferred orientation, of the 
+oxide scale will be affected due to the alteration in grain boundary transport. An additional 
+factor could be that the presence of the YCr04 structure at the grain boundaries might also 
+inhibit oxide grain growth. Besides a thinner oxide thickness due to slower oxidation 
+kinetics, the changes in microstructure can contribute to the improved scale adherence. 
+Related to this effect, the presence of the YCr04 structure at the grain boundaries can 
+directly influence the mechanical properties of the oxide scale, for example, by changing the 
+viscosity of the oxide grain boundaries or by acting as crack blocking boundaries. However, 
+besides these effects caused by the grain boundary segregation, additional processes might 
+play a role. For example, the initially formed YZ03 might well alter the nucleation of Cr203 
+grains. 
+Acknowledgements-The authors wish to thank Dr U. Watjen of the Institute for Reference Materials and 
+Measurements of the European Commission for providing the RBS analysis. They also wish to acknowledge use of 
+the Daresbury Synchrotron Radiation Source and the SERC Chemical Database Service under the Large Scale 
+Facilities Programme of the European Commission. The assistance of the staff of IAM, in particular Messrs A. 
+Fusari, F. Geiger and H. Willers (ion implantation), is gratefully acknowledged. 
+REFERENCES 
+1. J. Stringer, Mater. Sci. Eng. A120, 129 (1989). 
+2. Y. Saito, B. 6nay and T. Maruyama, J. de Physique IV 3, 217 (1993). 
+822 M. J. Cristobal er u/ 
+3. M.F. Stroosnijder, R. Mevrel and M.J. Bennett, Mater. High Temp. 12. 53 (1994). 
+4. M.J. Bennett and A.T. Tuson, Maler. Sci. Eng. A116. 79 (1989). 
+5. M.F. Stroosnijder and J.F. Norton, Surf: Infer-f. .4nal. 22. 436 (1994). 
+6. W.J. Quadakkers. J. Jedlinski. K. Schmidt, M. Krasovec, G. Borchardt and H. Nickel. Appl. &r-f. Sci. 47. 
+261 (1991). 
+7. K. Przybylski, A.J. Garratt-Reed and G.J. Yurek, J. Elec~twc~hent. Sot. 135. 135 (1988). 
+8. G.S. Knapp and B.W. Veal, Concisr Etzcwlopedia ofMateriu1.r Characterization (eds R.W. Cahn and E. 
+Lifshin). p. 555. Pergamon Press. Oxford (1993). 
+9. L.R. Sharpe, W.R. Heineman and R.C. Elder. C/tern. Rev. 90. 705 (1990). 
+IO. PROFILE. Version 3.18, Implant Sciences Corporation (1991). 
+I I. R.C. Buschert, P.N. Gibson, W. Gissler. J. Haupt and T.A. Crabb. Co//. Phys. C7. 169 (1989). 
+12. T.A. Crabb. PhD Thesis, University of Strathclyde (1993). 
+13. EXCURV92, SERC Daresbury Laboratory (1992). 
+14. J.M. Hampikian and D.I. Potter. Orid. Met. 38, 125 (1992). 
+15. T.A. Crabb, P.N. Gibson and E. McAlpine, Corros. Ser. 34, 1541 (1993). 
+16. P.N. Gibson and T.A. Crabb. presented at the Ist Eur. Con/. on SJnchrorron Radiarion in Maferials Science, 
+Chester, U.K.. 3-8 July (1994). 
+17. M.J. Cristobal. Thesis, Complutense University of Madrid (1995). 
+18. ICSD Data Base, SERC Daresbury Laboratory (1995). 
+19. W.E. King, N.L. Peterson and J.F. Reddy, J. de PhJ’siyue 4. 423 (1985). 
+20. K. Przybylski, A.J. Garratt-Reed and G.J. Yurek. J. elec/rochenz. Sot. 135, 509 (1988). 
+21. C.M. Cotell. G.J. Yurek, R.J. Hussey, D.F. Mitchell and M.J. Graham. O.uid. Met. 34, 201 (1990). 
+22. K. Przybylski and G.J. Yurek. Marrrialr Science Forum 43. I (1989). 
+23. W.J. Quadakkers. Werk.rt. und Kerr. 41. 659 (1990). 
+24. M.F. Stroosnijder. M.J. Cristobal and J.D. Sunderkotter. to be published. 

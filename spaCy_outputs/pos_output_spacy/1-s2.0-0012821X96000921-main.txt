@@ -1,0 +1,8184 @@
+EPSL, PROPN 
+
+, SPACE 
+Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+142, NUM 
+1996, NUM 
+175, NUM 
+189, NUM 
+
+, SPACE 
+Ridge, NOUN 
+hotspot, NOUN 
+interaction, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+Ridge, PROPN 
+
+, SPACE 
+37’30, NOUN 
+40’30’N, NOUN 
+U, PROPN 
+Th, PROPN 
+disequilibrium, NOUN 
+evidence, NOUN 
+
+, SPACE 
+B., PROPN 
+Bourdon, PROPN 
+C.H., PROPN 
+Langmuir, PROPN 
+A., NOUN 
+Zindler, NOUN 
+2, NUM 
+
+, SPACE 
+L.amont, PROPN 
+Doherty, PROPN 
+Earth, PROPN 
+Observatory, PROPN 
+Palisades, PROPN 
+NY, PROPN 
+10964, NUM 
+USA, PROPN 
+
+, SPACE 
+Received, VERB 
+20, NUM 
+October, PROPN 
+1995, NUM 
+accepted, VERB 
+26, NUM 
+April, PROPN 
+1996, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+study, NOUN 
+reports, VERB 
+U, PROPN 
+Th, PROPN 
+disequilibrium, NOUN 
+data, NOUN 
+obtained, VERB 
+mass, ADJ 
+spectrometry, NOUN 
+basaltic, ADJ 
+glasses, NOUN 
+collected, VERB 
+
+, SPACE 
+Azores, PROPN 
+platform, NOUN 
+portion, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+Ridge, PROPN 
+37”30’-40”30’N, NUM 
+region, NOUN 
+characterized, VERB 
+geochemical, ADJ 
+
+, SPACE 
+bathymetric, NOUN 
+gradient, NOUN 
+High, PROPN 
+Th, PROPN 
+U, PROPN 
+concentrations, NOUN 
+Th, PROPN 
+U, PROPN 
+ratios, NOUN 
+document, VERB 
+enriched, VERB 
+geochemical, ADJ 
+signature, NOUN 
+
+, SPACE 
+cz3’Th/, PROPN 
+238U, PROPN 
+activity, NOUN 
+ratios, NOUN 
+range, VERB 
+1.20, NUM 
+1.35, NUM 
+systematically, ADV 
+larger, ADJ 
+EPR, PROPN 
+MORBs, NOUN 
+reported, VERB 
+
+, SPACE 
+literature, NOUN 
+2WTh/, PROPN 
+232Th, PROPN 
+activity, NOUN 
+ratios, NOUN 
+remarkable, ADJ 
+homogeneity, NOUN 
+multiple, ADJ 
+samples, NOUN 
+taken, VERB 
+single, ADJ 
+dredge, NOUN 
+
+, SPACE 
+hauls, NOUN 
+Additionally, ADV 
+samples, VERB 
+highest, ADJ 
+Th, PROPN 
+concentrations, NOUN 
+2.4, NUM 
+ppm, NOUN 
+highest, ADJ 
+Th, PROPN 
+isotope, NOUN 
+ratios, NOUN 
+Taken, VERB 
+
+, SPACE 
+observations, NOUN 
+rule, VERB 
+assimilation, NOUN 
+h, NOUN 
+rich, ADJ 
+sediment, NOUN 
+explanation, NOUN 
+230Th-238U, PROPN 
+systematics, NOUN 
+
+, SPACE 
+relatively, ADV 
+large, ADJ 
+230Th, ADJ 
+excesses, NOUN 
+erupted, VERB 
+lavas, NOUN 
+related, VERB 
+influence, NOUN 
+enriched, VERB 
+Azores, PROPN 
+mantle, NOUN 
+plume, VERB 
+
+, SPACE 
+source, NOUN 
+lack, NOUN 
+observed, VERB 
+correlations, NOUN 
+230, NUM 
+Tb, ADP 
+excess, ADJ 
+trace, VERB 
+element, NOUN 
+isotopic, ADJ 
+indices, NOUN 
+source, NOUN 
+enrichment, NOUN 
+
+, SPACE 
+rules, VERB 
+source, NOUN 
+composition, NOUN 
+explanation, NOUN 
+variations, NOUN 
+230Th/, NUM 
+238U, PROPN 
+
+, SPACE 
+Excess, PROPN 
+~3, NOUN 
+Th, PROPN 
+correlated, VERB 
+axial, ADJ 
+depth, NOUN 
+ridge, NOUN 
+study, NOUN 
+area, NOUN 
+shallowest, ADJ 
+portions, NOUN 
+showing, VERB 
+
+, SPACE 
+largest, ADJ 
+extents, NOUN 
+disequilibrium, NOUN 
+reflect, VERB 
+melting, NOUN 
+presence, NOUN 
+garnet, NOUN 
+shallow, ADJ 
+segments, NOUN 
+
+, SPACE 
+suggests, VERB 
+melting, NOUN 
+begins, VERB 
+garnet, NOUN 
+peridotite, PROPN 
+stability, NOUN 
+field, NOUN 
+35, NUM 
+kbar, NOUN 
+mantle, NOUN 
+beneath, ADP 
+Azores, PROPN 
+
+, SPACE 
+segment, NOUN 
+MAR, PROPN 
+
+, SPACE 
+ridge, NOUN 
+segment, NOUN 
+scale, NOUN 
+230Th, NUM 
+excesses, NOUN 
+tend, VERB 
+smaller, ADJ 
+near, ADP 
+segment, NOUN 
+boundaries, NOUN 
+reflect, VERB 
+differences, NOUN 
+
+, SPACE 
+melting, NOUN 
+process, NOUN 
+frequent, ADJ 
+magmatism, NOUN 
+zones, NOUN 
+results, NOUN 
+demonstrate, VERB 
+potential, NOUN 
+U, PROPN 
+Th, PROPN 
+systematics, NOUN 
+
+, SPACE 
+constrain, VERB 
+depth, NOUN 
+degree, NOUN 
+melting, VERB 
+rate, NOUN 
+mantle, NOUN 
+upwelling, NOUN 
+presence, NOUN 
+source, NOUN 
+chemical, NOUN 
+
+, SPACE 
+heterogeneity, NOUN 
+
+, SPACE 
+Keywords, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+Ridge, PROPN 
+hot, ADJ 
+spots, NOUN 
+mid, ADJ 
+ocean, ADJ 
+ridges, NOUN 
+U-238, PROPN 
+Th-230, PROPN 
+equilibrium, NOUN 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+l, NOUN 
+Corresponding, PROPN 
+author, NOUN 
+Laboratoire, PROPN 
+de, X 
+Gochimie, PROPN 
+et, PROPN 
+
+, SPACE 
+Cosmochimie, PROPN 
+CNRS, PROPN 
+IPGP, PROPN 
+T14, PROPN 
+24.4, NUM 
+Place, PROPN 
+Jussieu, PROPN 
+75252, NUM 
+Paris, PROPN 
+
+, SPACE 
+CCdex, PROPN 
+05, NUM 
+France, PROPN 
+Fax, NOUN 
++33, PROPN 
+1, NUM 
+44, NUM 
+27, NUM 
+37, NUM 
+52, NUM 
+E, NOUN 
+mail, NOUN 
+
+, SPACE 
+bourdon@ipgpjussieu.fr, PROPN 
+
+, SPACE 
+Fax, NOUN 
++, SYM 
+1, NUM 
+914, NUM 
+359, NUM 
+8155, NUM 
+E, NOUN 
+mail, NOUN 
+langmuir@ldeo.columbia.edu, PROPN 
+
+, SPACE 
+National, PROPN 
+High, PROPN 
+Magnetic, PROPN 
+Field, PROPN 
+Laboratory, PROPN 
+Depart-, NOUN 
+
+, SPACE 
+ment, NOUN 
+Geology, PROPN 
+Florida, PROPN 
+State, PROPN 
+University, PROPN 
+32306, NUM 
+USA, PROPN 
+Fax, NOUN 
++, SYM 
+1, NUM 
+
+, SPACE 
+904, NUM 
+644, NUM 
+0827, NUM 
+E, NOUN 
+mail, NOUN 
+zindler@magnet.fsu.edu, PROPN 
+Hotspots, PROPN 
+usually, ADV 
+associated, VERB 
+large, ADJ 
+geo-, ADJ 
+
+, SPACE 
+physical, ADJ 
+geochemical, ADJ 
+anomalies, NOUN 
+Ridges, NOUN 
+affected, VERB 
+
+, SPACE 
+hotspots, NOUN 
+offer, VERB 
+particularly, ADV 
+interesting, ADJ 
+view, NOUN 
+
+, SPACE 
+hotspot, ADJ 
+geochemistry, NOUN 
+display, VERB 
+cross, NOUN 
+
+, SPACE 
+section, NOUN 
+mantle, NOUN 
+flow, NOUN 
+associated, VERB 
+
+, SPACE 
+0012, NUM 
+821X/%/$12.00, NUM 
+Copyright, PROPN 
+8, NUM 
+19, NUM 
+Elsevier, ADJ 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+PII, PROPN 
+SOOl2, PROPN 
+821X(96)00092, NUM 
+1, NUM 
+
+, SPACE 
+176, NUM 
+B., PROPN 
+Bourdon, PROPN 
+et, PROPN 
+al, PROPN 
+Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+14.2, NUM 
+1996, NUM 
+175, NUM 
+189, NUM 
+
+, SPACE 
+plume, NOUN 
+extent, NOUN 
+geochemical, ADJ 
+anomaly, PROPN 
+pro-, PROPN 
+
+, SPACE 
+vides, VERB 
+indication, NOUN 
+scale, NOUN 
+nature, NOUN 
+ridge-, ADJ 
+
+, SPACE 
+hotspot, ADJ 
+interaction, NOUN 
+paper, NOUN 
+report, VERB 
+
+, SPACE 
+study, NOUN 
+ridge, NOUN 
+hotspot, NOUN 
+interaction, NOUN 
+U, PROPN 
+Th, PROPN 
+dise-, ADJ 
+
+, SPACE 
+quilibria, NOUN 
+
+, SPACE 
+Unlike, ADP 
+isotope, NOUN 
+systems, NOUN 
+U, PROPN 
+Th, NOUN 
+disequi-, ADJ 
+
+, SPACE 
+librium, NOUN 
+simply, ADV 
+related, VERB 
+source, NOUN 
+geochemistry, NOUN 
+
+, SPACE 
+Instead, ADV 
+extent, NOUN 
+U, ADJ 
+Th, PROPN 
+disequilibrium, NOUN 
+primar-, ADV 
+
+, SPACE 
+ily, ADV 
+function, NOUN 
+melting, NOUN 
+process, NOUN 
+1,2, NUM 
+time, NOUN 
+
+, SPACE 
+dependence, NOUN 
+U, PROPN 
+lb, ADJ 
+disequilibrium, NOUN 
+provide, VERB 
+
+, SPACE 
+constraints, NOUN 
+rate, NOUN 
+melt, NOUN 
+generation, NOUN 
+2,3, NUM 
+
+, SPACE 
+measured, VERB 
+U, PROPN 
+Th, PROPN 
+systematics, NOUN 
+series, NOUN 
+
+, SPACE 
+young, ADJ 
+MORB, NOUN 
+samples, NOUN 
+collected, VERB 
+Mid-, PROPN 
+
+, SPACE 
+Atlantic, PROPN 
+Ridge, PROPN 
+near, ADP 
+Azores, PROPN 
+cruise, NOUN 
+
+, SPACE 
+AII-129, PROPN 
+RV, PROPN 
+Aflunris, PROPN 
+II, PROPN 
+FAZAR, NOUN 
+expedition, NOUN 
+
+, SPACE 
+region, NOUN 
+selected, VERB 
+study, NOUN 
+
+, SPACE 
+northern, ADJ 
+limb, NOUN 
+geochemical, ADJ 
+gradient, NOUN 
+
+, SPACE 
+Azores, PROPN 
+plateau, NOUN 
+distance, NOUN 
+approximately, ADV 
+300, NUM 
+
+, SPACE 
+km, NOUN 
+examine, VERB 
+data, NOUN 
+conjunction, NOUN 
+major, ADJ 
+
+, SPACE 
+trace, VERB 
+elements, NOUN 
+investigate, VERB 
+melt, ADJ 
+generation, NOUN 
+
+, SPACE 
+relationship, NOUN 
+source, NOUN 
+variations, NOUN 
+ridge, NOUN 
+plume, NOUN 
+
+, SPACE 
+interaction, NOUN 
+ridge, NOUN 
+segmentation, NOUN 
+
+, SPACE 
+2, X 
+Evidence, NOUN 
+ridge, NOUN 
+hotspot, NOUN 
+interaction, NOUN 
+
+, SPACE 
+Azores, PROPN 
+plateau, NOUN 
+
+, SPACE 
+Numerous, ADJ 
+geophysical, ADJ 
+studies, NOUN 
+documented, VERB 
+
+, SPACE 
+anomalies, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+Ridge, PROPN 
+MAR, PROPN 
+near, ADP 
+
+, SPACE 
+Azores, PROPN 
+region, NOUN 
+North, PROPN 
+Atlantic, PROPN 
+
+, SPACE 
+characterized, VERB 
+funnel, NOUN 
+shaped, VERB 
+bathymetric, NOUN 
+swell, NOUN 
+
+, SPACE 
+lateral, ADJ 
+extent, NOUN 
+swell, NOUN 
+widest, ADJ 
+
+, SPACE 
+MAR, PROPN 
+Azores, PROPN 
+intersection, NOUN 
+ridge, NOUN 
+axis, NOUN 
+
+, SPACE 
+shows, VERB 
+long, ADJ 
+wavelength, NOUN 
+bathymetric, NOUN 
+high, ADV 
+
+, SPACE 
+37”N, NUM 
+41”N., NUM 
+Seismic, ADJ 
+refraction, NOUN 
+4, X 
+studies, NOUN 
+
+, SPACE 
+detailed, ADJ 
+modelling, NOUN 
+gravity, NOUN 
+field, NOUN 
+51, NUM 
+
+, SPACE 
+shown, VERB 
+crustal, NOUN 
+thickness, NOUN 
+region, NOUN 
+
+, SPACE 
+60, NUM 
+greater, ADJ 
+normal, ADJ 
+morphology, NOUN 
+
+, SPACE 
+ridge, NOUN 
+axis, NOUN 
+anomalous, ADJ 
+region, NOUN 
+
+, SPACE 
+bathymetty, NOUN 
+shallowest, ADJ 
+axial, ADJ 
+valley, NOUN 
+
+, SPACE 
+marked, VERB 
+segments, NOUN 
+swollen, ADJ 
+analo-, ADJ 
+
+, SPACE 
+gous, ADJ 
+Reykjanes, PROPN 
+Ridge, PROPN 
+segments, VERB 
+closer, ADJ 
+
+, SPACE 
+Iceland, PROPN 
+rift, NOUN 
+valley, NOUN 
+6,7, NUM 
+Similar, ADJ 
+anomalies, NOUN 
+
+, SPACE 
+visible, ADJ 
+large, ADJ 
+scale, NOUN 
+gravity, NOUN 
+maps, NOUN 
+8, NUM 
+resid-, ADJ 
+
+, SPACE 
+ual, ADJ 
+gravity, NOUN 
+anomalies, NOUN 
+great, ADJ 
+30, NUM 
+mgal, NOUN 
+
+, SPACE 
+Azores, PROPN 
+platform, NOUN 
+Modelling, NOUN 
+features, NOUN 
+
+, SPACE 
+shown, VERB 
+explained, VERB 
+large, ADJ 
+mass, NOUN 
+
+, SPACE 
+anomalously, ADV 
+hot, ADJ 
+mantle, NOUN 
+75, NUM 
+°, NUM 
+C, NOUN 
+located, VERB 
+depth, NOUN 
+kilometers, NOUN 
+8, NUM 
+hot, ADJ 
+
+, SPACE 
+upper, ADJ 
+mantle, NOUN 
+related, VERB 
+thermal, ADJ 
+chemical, NOUN 
+
+, SPACE 
+anomalies, NOUN 
+mantle, NOUN 
+beneath, ADP 
+Azores, PROPN 
+platform, NOUN 
+
+, SPACE 
+geophysical, ADJ 
+anomalies, NOUN 
+modeled, VERB 
+
+, SPACE 
+Sleep, PROPN 
+9, NUM 
+estimated, VERB 
+buoyancy, NOUN 
+flux, NOUN 
+1.1, NUM 
+
+, SPACE 
+Mg, PROPN 
+se1, NOUN 
+Azores, PROPN 
+plume, NOUN 
+
+, SPACE 
+Evidence, NOUN 
+interaction, NOUN 
+plume, NOUN 
+derived, VERB 
+ma-, NOUN 
+
+, SPACE 
+terial, ADJ 
+MAR, PROPN 
+plumbing, NOUN 
+system, NOUN 
+derives, VERB 
+
+, SPACE 
+geochemical, ADJ 
+studies, NOUN 
+Long, ADJ 
+wavelength, NOUN 
+sampling, NOUN 
+>, X 
+
+, SPACE 
+1000, NUM 
+km, NOUN 
+shown, VERB 
+variations, NOUN 
+La, PROPN 
+Sm, PROPN 
+
+, SPACE 
+trace, NOUN 
+element, NOUN 
+isotopic, ADJ 
+parameters, NOUN 
+
+, SPACE 
+MAR, PROPN 
+near, ADP 
+Azores, PROPN 
+reflect, VERB 
+interaction, NOUN 
+nor-, DET 
+
+, SPACE 
+mal, ADJ 
+ridge, NOUN 
+source, NOUN 
+material, NOUN 
+plume, NOUN 
+derived, VERB 
+en-, NOUN 
+
+, SPACE 
+riched, VERB 
+material, NOUN 
+lo, X 
+enriched, ADJ 
+mantle, NOUN 
+charac-, ADJ 
+
+, SPACE 
+terized, VERB 
+radiogenic, ADJ 
+Pb, PROPN 
+Sr, PROPN 
+isotope, NOUN 
+ratios, NOUN 
+
+, SPACE 
+low, ADJ 
+3He/4He, NUM 
+lo-181, X 
+origin, NOUN 
+enrich-, NOUN 
+
+, SPACE 
+ment, NOUN 
+variously, ADV 
+attributed, VERB 
+recycled, VERB 
+oceanic, ADJ 
+
+, SPACE 
+crust, NOUN 
+sediments, NOUN 
+and/or, CCONJ 
+mantle, PROPN 
+metasomatism, PROPN 
+
+, SPACE 
+11,16,17,19, NUM 
+Major, ADJ 
+elements, NOUN 
+shown, VERB 
+
+, SPACE 
+anomalous, ADJ 
+MORB, NOUN 
+Azores, PROPN 
+platform, NOUN 
+20, NUM 
+
+, SPACE 
+trace, NOUN 
+element, NOUN 
+enrichment, NOUN 
+Azores, PROPN 
+mantle, NOUN 
+
+, SPACE 
+source, NOUN 
+associated, VERB 
+apparent, ADJ 
+depletion, NOUN 
+
+, SPACE 
+Fe, PROPN 
+major, ADJ 
+element, NOUN 
+anomaly, PROPN 
+affects, VERB 
+crystal-, ADJ 
+
+, SPACE 
+lization, NOUN 
+path, NOUN 
+Azores, PROPN 
+E, PROPN 
+MORB, NOUN 
+leading, VERB 
+
+, SPACE 
+earlier, ADJ 
+appearance, NOUN 
+clinopyroxene, NOUN 
+N-, PROPN 
+
+, SPACE 
+MORB, PROPN 
+11,13, NUM 
+
+, SPACE 
+3, X 
+Description, NOUN 
+sampling, VERB 
+area, NOUN 
+
+, SPACE 
+present, VERB 
+data, NOUN 
+ridge, NOUN 
+segments, NOUN 
+located, VERB 
+
+, SPACE 
+Azores, PROPN 
+platform, NOUN 
+37”30’N, NOUN 
+
+, SPACE 
+40”30’N, PROPN 
+Fig, PROPN 
+1, NUM 
+morphology, NOUN 
+bathymetry, NOUN 
+
+, SPACE 
+gravity, NOUN 
+anomalies, NOUN 
+region, NOUN 
+de-, X 
+
+, SPACE 
+scribed, VERB 
+Needham, PROPN 
+et, PROPN 
+al, PROPN 
+21, NUM 
+segment, NOUN 
+located, VERB 
+
+, SPACE 
+north, NOUN 
+region, NOUN 
+mapped, VERB 
+Needham, PROPN 
+et, PROPN 
+al, PROPN 
+Zll, PROPN 
+
+, SPACE 
+sampled, VERB 
+bathymetry, NOUN 
+established, VERB 
+
+, SPACE 
+SEABEAM, PROPN 
+FAZAR, PROPN 
+cruise, NOUN 
+1221, NUM 
+Fig, PROPN 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+northern, ADJ 
+boundary, NOUN 
+study, NOUN 
+region, NOUN 
+
+, SPACE 
+Kurchatov, PROPN 
+fracture, NOUN 
+zone, NOUN 
+40”30’N., NUM 
+ridge, NOUN 
+shal-, NOUN 
+
+, SPACE 
+lows, VERB 
+rapidly, ADV 
+south, NOUN 
+rift, NOUN 
+valley, NOUN 
+gradu-, VERB 
+
+, SPACE 
+ally, NOUN 
+diminishes, VERB 
+summit, NOUN 
+Azores, PROPN 
+plat-, NOUN 
+
+, SPACE 
+form, NOUN 
+marked, ADJ 
+rift, NOUN 
+valley, NOUN 
+little, ADJ 
+change, NOUN 
+
+, SPACE 
+axial, ADJ 
+depth, NOUN 
+ridge, NOUN 
+segment, NOUN 
+pro-, NOUN 
+
+, SPACE 
+nounced, VERB 
+bathymetry, NOUN 
+variation, NOUN 
+segment, NOUN 
+boundaries, NOUN 
+
+, SPACE 
+occur, VERB 
+southernmost, NOUN 
+segments, NOUN 
+KP-4, X 
+
+, SPACE 
+KP-5, NUM 
+Fig, PROPN 
+2, NUM 
+
+, SPACE 
+3, X 
+Bourdan, PROPN 
+et, PROPN 
+al, PROPN 
+/Earrh, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+L.etters, PROPN 
+I42, PROPN 
+1996117St89, NUM 
+177, NUM 
+
+, SPACE 
+Large, ADJ 
+mantle, NOUN 
+Bouguer, PROPN 
+anomalies, NOUN 
+MBA, PROPN 
+found, VERB 
+
+, SPACE 
+region, NOUN 
+8, X 
+reflect, VERB 
+mantle, NOUN 
+temperature, NOUN 
+
+, SPACE 
+crustal, ADJ 
+thickness, ADJ 
+variations, NOUN 
+gravity, NOUN 
+profile, NOUN 
+
+, SPACE 
+largest, ADJ 
+calculated, VERB 
+crustal, NOUN 
+thicknesses, NOUN 
+found, VERB 
+
+, SPACE 
+segment, NOUN 
+KP-2, X 
+KP-3, NUM 
+crust, NOUN 
+
+, SPACE 
+3, NUM 
+4, NUM 
+km, NOUN 
+thicker, ADJ 
+variations, NOUN 
+MBA, PROPN 
+
+, SPACE 
+bathymetry, NOUN 
+near, ADP 
+segment, NOUN 
+boundaries, NOUN 
+in-, ADV 
+terpreted, VERB 
+thinner, ADJ 
+crust, NOUN 
+resulting, VERB 
+focused, ADJ 
+
+, SPACE 
+upwelling, NOUN 
+segment, NOUN 
+midpoints, NOUN 
+5,23, X 
+
+, SPACE 
+4, X 
+Sample, NOUN 
+collection, NOUN 
+preparation, NOUN 
+
+, SPACE 
+Samples, NOUN 
+collected, VERB 
+dredging, NOUN 
+
+, SPACE 
+rock, NOUN 
+coring, VERB 
+technique, NOUN 
+described, VERB 
+22,24, NUM 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Regional, ADJ 
+map, NOUN 
+section, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+Ridge, PROPN 
+sampled, VERB 
+study, NOUN 
+Seven, NUM 
+dredges, NOUN 
+rock, NOUN 
+cores, NOUN 
+transect, NOUN 
+
+, SPACE 
+selected, VERB 
+U, PROPN 
+Th, PROPN 
+analysis, NOUN 
+
+
+, SPACE 
+178, NUM 
+B., PROPN 
+Bourdon, PROPN 
+et, PROPN 
+al, PROPN 
+Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+142, NUM 
+19, NUM 
+175, NUM 
+189, NUM 
+
+, SPACE 
+Table, NOUN 
+1, NUM 
+
+, SPACE 
+Major, ADJ 
+trace, VERB 
+element, NOUN 
+DCP, PROPN 
+data, NOUN 
+FAZAR, PROPN 
+basatts, PROPN 
+
+, SPACE 
+Sample, PROPN 
+Lat, PROPN 
+Long, ADV 
+Depth, NOUN 
+SiO, NOUN 
+AW, PROPN 
+Fe0, NOUN 
+MgO, PROPN 
+CaO, PROPN 
+Na, PROPN 
+O, INTJ 
+TiO, NOUN 
+Ba, PROPN 
+Sr, PROPN 
+
+, SPACE 
+Sejynent, PROPN 
+KP-5, NOUN 
+
+, SPACE 
+R&07, NOUN 
+37.312, NUM 
+
+, SPACE 
+RC108, NOUN 
+37.316, NUM 
+
+, SPACE 
+RCllO, PROPN 
+37.359, NUM 
+
+, SPACE 
+DR35-, PROPN 
+1, NUM 
+37.42, NUM 
+1, NUM 
+
+, SPACE 
+DR16, PROPN 
+1, NUM 
+37.452, NUM 
+
+, SPACE 
+DR16, PROPN 
+1, NUM 
+37.452, NUM 
+
+, SPACE 
+RC-46, PROPN 
+37.711, NUM 
+
+, SPACE 
+RC9, PROPN 
+g, PROPN 
+37.822, NUM 
+
+, SPACE 
+DR17, PROPN 
+1, NUM 
+37.835, NUM 
+
+, SPACE 
+DR17, PROPN 
+3, NUM 
+37.838, NUM 
+
+, SPACE 
+DR17, PROPN 
+5, NUM 
+37.838, NUM 
+
+, SPACE 
+RC48, PROPN 
+37.889, NUM 
+
+, SPACE 
+RC-49, NOUN 
+37.952, NUM 
+
+, SPACE 
+Segment, PROPN 
+KP-4, PART 
+
+, SPACE 
+DR, PROPN 
+l9, PROPN 
+1A, PROPN 
+38.119, NUM 
+
+, SPACE 
+Segment, PROPN 
+KP-3, X 
+
+, SPACE 
+DR2l-1, PROPN 
+38.489, NUM 
+
+, SPACE 
+DR2l-3, NOUN 
+38.490, NUM 
+
+, SPACE 
+DR21, PROPN 
+5, NUM 
+38.490, NUM 
+
+, SPACE 
+RC-58, PROPN 
+38.541, NUM 
+
+, SPACE 
+RC93, PROPN 
+38.575, NUM 
+
+, SPACE 
+RC-59, VERB 
+38.608, NUM 
+
+, SPACE 
+RC63, VERB 
+38.828, NUM 
+32.267, NUM 
+1800, NUM 
+51.43, NUM 
+14.51, NUM 
+10.17, NUM 
+7.54, NUM 
+11.67, NUM 
+2.43, NUM 
+1.26, NUM 
+65, NUM 
+113, NUM 
+
+, SPACE 
+32.279, NUM 
+1816, NUM 
+50.55, NUM 
+14.85, NUM 
+8.97, NUM 
+8.82, NUM 
+12.89, NUM 
+2.19, NUM 
+0.89, NUM 
+44, NUM 
+98, NUM 
+
+, SPACE 
+32.263, NUM 
+2210, NUM 
+50.89, NUM 
+14.77, NUM 
+10.39, NUM 
+7.73, NUM 
+11.60, NUM 
+2.35, NUM 
+1.26, NUM 
+80, NUM 
+113, NUM 
+
+, SPACE 
+32.270, NUM 
+2730, NUM 
+52.08, NUM 
+14.03, NUM 
+9.66, NUM 
+7.84, NUM 
+11.92, NUM 
+2.21, NUM 
+1.27, NUM 
+67, NUM 
+111, NUM 
+
+, SPACE 
+32.290, NUM 
+2950, NUM 
+50.07, NUM 
+14.63, NUM 
+10.89, NUM 
+7.90, NUM 
+11.86, NUM 
+2.28, NUM 
+1.21, NUM 
+73, NUM 
+117, NUM 
+
+, SPACE 
+32.229, NUM 
+2950, NUM 
+50.61, NUM 
+14.65, NUM 
+10.74, NUM 
+7.63, NUM 
+11.86, NUM 
+2.28, NUM 
+1.22, NUM 
+70, NUM 
+115, NUM 
+
+, SPACE 
+31.558, NUM 
+1420, NUM 
+51.72, NUM 
+14.58, NUM 
+10.79, NUM 
+6.91, NUM 
+11.28, NUM 
+2.41, NUM 
+1.31, NUM 
+74, NUM 
+136, NUM 
+
+, SPACE 
+31.530, NUM 
+1041, NUM 
+51.19, NUM 
+14.47, NUM 
+9.28, NUM 
+9.36, NUM 
+11.76, NUM 
+.96, PROPN 
+0.98, NUM 
+46, NUM 
+90, NUM 
+
+, SPACE 
+31.519, NUM 
+950, NUM 
+49.59, NUM 
+16.26, NUM 
+7.60, NUM 
+8.70, NUM 
+13.68, NUM 
+2.22, NUM 
+1.26, NUM 
+248, NUM 
+288, NUM 
+
+, SPACE 
+31.518, NUM 
+950, NUM 
+49.04, NUM 
+16.10, NUM 
+7.66, NUM 
+8.46, NUM 
+14.04, NUM 
+2.42, NUM 
+1.28, NUM 
+250, NUM 
+302, NUM 
+
+, SPACE 
+31.518, NUM 
+950, NUM 
+49.53, NUM 
+15.57, NUM 
+7.85, NUM 
+8.92, NUM 
+13.81, NUM 
+2.10, NUM 
+1.23, NUM 
+210, NUM 
+268, NUM 
+
+, SPACE 
+31.503, NUM 
+1359, NUM 
+48.97, NUM 
+15.71, NUM 
+7.92, NUM 
+8.90, NUM 
+13.93, NUM 
+2.13, NUM 
+1.31, NUM 
+221, NUM 
+282, NUM 
+
+, SPACE 
+31, NUM 
+SO0, PROPN 
+1575, NUM 
+52.37, NUM 
+13.95, NUM 
+11.68, NUM 
+6.37, NUM 
+10.39, NUM 
+2.76, NUM 
+1.66, NUM 
+119, NUM 
+159, NUM 
+
+, SPACE 
+30.728, NUM 
+1900, NUM 
+50.05, NUM 
+15.57, NUM 
+8.41, NUM 
+8.26, NUM 
+12.91, NUM 
+2.28, NUM 
+1.46, NUM 
+245, NUM 
+305, NUM 
+
+, SPACE 
+30.268, NUM 
+2000, NUM 
+51.96, NUM 
+15.54, NUM 
+8.98, NUM 
+6.42, NUM 
+10.97, NUM 
+3.21, NUM 
+1.92, NUM 
+243, NUM 
+361, NUM 
+
+, SPACE 
+30.267, NUM 
+2ooo, NUM 
+51.30, NUM 
+15.88, NUM 
+9.55, NUM 
+5.77, NUM 
+11.00, NUM 
+3.53, NUM 
+2.14, NUM 
+283, NUM 
+404, NUM 
+
+, SPACE 
+30.267, NUM 
+2OcQ, NUM 
+51.22, NUM 
+15.91, NUM 
+9.64, NUM 
+5.72, NUM 
+10.98, NUM 
+3.61, NUM 
+2.15, NUM 
+279, NUM 
+405, NUM 
+
+, SPACE 
+30.248, NUM 
+1944, NUM 
+53.67, NUM 
+15.20, NUM 
+10.98, NUM 
+4.91, NUM 
+8.57, NUM 
+3.43, NUM 
+2.29, NUM 
+264, NUM 
+267, NUM 
+
+, SPACE 
+30.226, NUM 
+1792, NUM 
+49.94, NUM 
+15.75, NUM 
+8.50, NUM 
+8.20, NUM 
+12.67, NUM 
+2.31, NUM 
+1.63, NUM 
+189, NUM 
+299, NUM 
+
+, SPACE 
+30.224, NUM 
+1507, NUM 
+49.16, NUM 
+15.38, NUM 
+7.72, NUM 
+10.05, NUM 
+13.96, NUM 
+1.80, NUM 
+0.93, NUM 
+82, NUM 
+193, NUM 
+
+, SPACE 
+30.088, NUM 
+1240, NUM 
+49.53, NUM 
+14.55, NUM 
+9.18, NUM 
+9.66, NUM 
+11.69, NUM 
+2.52, NUM 
+1.72, NUM 
+200, NUM 
+313, NUM 
+
+, SPACE 
+Segment, PROPN 
+KP-2, PUNCT 
+
+, SPACE 
+RC64, PROPN 
+38.887, NUM 
+
+, SPACE 
+RC-65, NOUN 
+38.945, NUM 
+
+, SPACE 
+DR22, PROPN 
+5, NUM 
+39.038, NUM 
+
+, SPACE 
+DR22, PROPN 
+6, NUM 
+39.039, NUM 
+
+, SPACE 
+DR22, PROPN 
+7, NUM 
+39.039, NUM 
+
+, SPACE 
+RC66, PROPN 
+39.059, NUM 
+
+, SPACE 
+RC90, PROPN 
+39.103, NUM 
+
+, SPACE 
+RC89, PROPN 
+39.168, NUM 
+
+, SPACE 
+KC?%-2, PROPN 
+39.255, NUM 
+
+, SPACE 
+RC87, PROPN 
+39.307, NUM 
+
+, SPACE 
+RC86, PROPN 
+39.363, NUM 
+
+, SPACE 
+DR29, PROPN 
+2, NUM 
+39.432, NUM 
+
+, SPACE 
+DR29, PROPN 
+1, NUM 
+39.432, NUM 
+
+, SPACE 
+DR27, PROPN 
+3, NUM 
+39.505, NUM 
+
+, SPACE 
+DR27, PROPN 
+4, NUM 
+39.505, NUM 
+
+, SPACE 
+DR27, PROPN 
+5, NUM 
+39.505, NUM 
+
+, SPACE 
+DR27, PROPN 
+6, NUM 
+39.505, NUM 
+
+, SPACE 
+Segment, PROPN 
+KP, PROPN 
+
+, SPACE 
+RC85, PROPN 
+39.577, NUM 
+
+, SPACE 
+RC84, PROPN 
+39.659, NUM 
+
+, SPACE 
+RC83, PROPN 
+39.730, NUM 
+
+, SPACE 
+RC82, PROPN 
+39.802, NUM 
+
+, SPACE 
+DR26, PROPN 
+2, NUM 
+39.908, NUM 
+
+, SPACE 
+DR26, PROPN 
+5, NUM 
+39.908, NUM 
+
+, SPACE 
+DR26-, PROPN 
+1, NUM 
+39.908, NUM 
+
+, SPACE 
+RC81, PROPN 
+39.974, NUM 
+
+, SPACE 
+RC79, PROPN 
+40.041, NUM 
+
+, SPACE 
+RC78, PROPN 
+40.079, NUM 
+
+, SPACE 
+RC77, PROPN 
+40.113, NUM 
+30.072, NUM 
+1200, NUM 
+51.16, NUM 
+15.57, NUM 
+9.00, NUM 
+7.34, NUM 
+11.97, NUM 
+2.40, NUM 
+I.44, PROPN 
+184, NUM 
+281, NUM 
+
+, SPACE 
+30.059, NUM 
+1311, NUM 
+51.63, NUM 
+15.45, NUM 
+9.12, NUM 
+6.93, NUM 
+11.69, NUM 
+2.49, NUM 
+1.53, NUM 
+197, NUM 
+262, NUM 
+
+, SPACE 
+30.025, NUM 
+1380, NUM 
+52.26, NUM 
+IS.31, PROPN 
+IO.26, NUM 
+5.98, NUM 
+10.81, NUM 
+2.73, NUM 
+1.83, NUM 
+253, NUM 
+282, NUM 
+
+, SPACE 
+30.025, NUM 
+1380, NUM 
+52.28, NUM 
+15.18, NUM 
+9.36, NUM 
+6.66, NUM 
+11.19, NUM 
+2.58, NUM 
+1.66, NUM 
+234, NUM 
+272, NUM 
+
+, SPACE 
+30.025, NUM 
+1380, NUM 
+52.26, NUM 
+15.19, NUM 
+9.55, NUM 
+6.60, NUM 
+11.04, NUM 
+2.59, NUM 
+1.67, NUM 
+233, NUM 
+262, NUM 
+
+, SPACE 
+30.027, NUM 
+1280, NUM 
+51.84, NUM 
+15.28, NUM 
+9.96, NUM 
+6.39, NUM 
+10.62, NUM 
+2.87, NUM 
+1.91, NUM 
+232, NUM 
+279, NUM 
+
+, SPACE 
+30.020, NUM 
+1208, NUM 
+52.59, NUM 
+15.47, NUM 
+9.92, NUM 
+5.92, NUM 
+10.43, NUM 
+2.82, NUM 
+1.86, NUM 
+229, NUM 
+266, NUM 
+
+, SPACE 
+29.980, NUM 
+1538, NUM 
+51.43, NUM 
+15.46, NUM 
+8.69, NUM 
+7.17, NUM 
+12.11, NUM 
+2.53, NUM 
+1.61, NUM 
+204, NUM 
+308, NUM 
+
+, SPACE 
+29.963, NUM 
+1665, NUM 
+52.01, NUM 
+15.47, NUM 
+9.30, NUM 
+6.54, NUM 
+11.27, NUM 
+2.67, NUM 
+1.74, NUM 
+217, NUM 
+287, NUM 
+
+, SPACE 
+29.949, NUM 
+1680, NUM 
+52.68, NUM 
+15.06, NUM 
+10.15, NUM 
+6.19, NUM 
+10.37, NUM 
+2.80, NUM 
+1.75, NUM 
+22s, NOUN 
+236, NUM 
+
+, SPACE 
+29.938, NUM 
+1780, NUM 
+52.48, NUM 
+14.95, NUM 
+10.47, NUM 
+6.56, NUM 
+10.17, NUM 
+2.61, NUM 
+1.76, NUM 
+194, NUM 
+213, NUM 
+
+, SPACE 
+29.845, NUM 
+1850, NUM 
+49.49, NUM 
+15.92, NUM 
+8.46, NUM 
+8.31, NUM 
+13.13, NUM 
+2.11, NUM 
+1.59, NUM 
+191, NUM 
+295, NUM 
+
+, SPACE 
+29.846, NUM 
+1850, NUM 
+51.84, NUM 
+15.91, NUM 
+9.28, NUM 
+6.76, NUM 
+10.80, NUM 
+2.82, NUM 
+1.59, NUM 
+204, NUM 
+259, NUM 
+
+, SPACE 
+29.738, NUM 
+2200, NUM 
+51.12, NUM 
+14.83, NUM 
+9.13, NUM 
+8.65, NUM 
+12.08, NUM 
+2.09, NUM 
+1.10, NUM 
+63, NUM 
+118, NUM 
+
+, SPACE 
+29.738, NUM 
+2200, NUM 
+51.15, NUM 
+14.86, NUM 
+9.30, NUM 
+8.51, NUM 
+11.85, NUM 
+2.16, NUM 
+1.17, NUM 
+86, NUM 
+133, NUM 
+
+, SPACE 
+29.738, NUM 
+2200, NUM 
+50.95, NUM 
+14.98, NUM 
+9.24, NUM 
+8.59, NUM 
+11.85, NUM 
+1.16, NUM 
+88, NUM 
+134, NUM 
+
+, SPACE 
+29.738, NUM 
+2200, NUM 
+50.58, NUM 
+14.63, NUM 
+9.46, NUM 
+9.31, NUM 
+Il.70, NOUN 
+2.17, NUM 
+1.14, NUM 
+86, NUM 
+134, NUM 
+
+, SPACE 
+29.750, NUM 
+1995, NUM 
+51.51, NUM 
+15.13, NUM 
+9.85, NUM 
+7.18, NUM 
+11.66, NUM 
+2.30, NUM 
+1.37, NUM 
+149, NUM 
+190, NUM 
+
+, SPACE 
+29.737, NUM 
+1845, NUM 
+so.91, PROPN 
+15.35, NUM 
+8.08, NUM 
+8.95, NUM 
+12.89, NUM 
+1.82, NUM 
+1.00, NUM 
+103, NUM 
+155, NUM 
+
+, SPACE 
+29.720, NUM 
+1965, NUM 
+51.21, NUM 
+15.24, NUM 
+8.97, NUM 
+8.07, NUM 
+12.28, NUM 
+2.06, NUM 
+1.18, NUM 
+126, NUM 
+173, NUM 
+
+, SPACE 
+29.702, NUM 
+2210, NUM 
+51.13, NUM 
+14.96, NUM 
+10.16, NUM 
+7.85, NUM 
+11.74, NUM 
+2.12, NUM 
+1.03, NUM 
+46, NUM 
+97, NUM 
+
+, SPACE 
+29.683, NUM 
+2100, NUM 
+50.34, NUM 
+14.56, NUM 
+ll, NOUN 
+L4, PROPN 
+8.01, NUM 
+11.27, NUM 
+2.27, NUM 
+1.32, NUM 
+50, NUM 
+9s, NUM 
+
+, SPACE 
+29.683, NUM 
+2100, NUM 
+51.06, NUM 
+14.34, NUM 
+10.97, NUM 
+7.80, NUM 
+11.28, NUM 
+2.21, NUM 
+1.33, NUM 
+55, NUM 
+94, NUM 
+
+, SPACE 
+29.680, NUM 
+2100, NUM 
+50.57, NUM 
+14.96, NUM 
+10.92, NUM 
+7.60, NUM 
+Il.60, PROPN 
+2.08, NUM 
+1.27, NUM 
+51, NUM 
+93, NUM 
+
+, SPACE 
+29.677, NUM 
+2170, NUM 
+50.82, NUM 
+14.65, NUM 
+10.94, NUM 
+7.70, NUM 
+11.44, NUM 
+2.15, NUM 
+1.30, NUM 
+51, NUM 
+94, NUM 
+
+, SPACE 
+29.672, NUM 
+2400, NUM 
+51.75, NUM 
+14.76, NUM 
+10.13, NUM 
+7.40, NUM 
+t, NOUN 
+1.37, NUM 
+2.26, NUM 
+1.31, NUM 
+103, NUM 
+138, NUM 
+
+, SPACE 
+29.662, NUM 
+2540, NUM 
+50.82, NUM 
+15.39, NUM 
+8.92, NUM 
+8.64, NUM 
+11.77, NUM 
+2.18, NUM 
+1.28, NUM 
+114, NUM 
+159, NUM 
+
+, SPACE 
+29.647, NUM 
+2495, NUM 
+51.39, NUM 
+15.28, NUM 
+8.74, NUM 
+8.45, NUM 
+12.21, NUM 
+1.86, NUM 
+1.07, NUM 
+57, NUM 
+109, NUM 
+
+, SPACE 
+B., PROPN 
+Bourdon, PROPN 
+et, NOUN 
+al./, ADV 
+Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+142, NUM 
+1996, NUM 
+175, NUM 
+189, NUM 
+179, NUM 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+continued, VERB 
+
+, SPACE 
+Sample, PROPN 
+Lat, PROPN 
+Long, ADV 
+Depth, NOUN 
+SiO, VERB 
+2, NUM 
+A1203, NOUN 
+Fe0, NOUN 
+MgO, PROPN 
+CaO, PROPN 
+Na, PROPN 
+O, INTJ 
+TiO, NOUN 
+Ba, PROPN 
+Sr, PROPN 
+
+, SPACE 
+Segment, PROPN 
+KP-0, NOUN 
+
+, SPACE 
+RC74, PROPN 
+40.204, NUM 
+29.610, NUM 
+
+, SPACE 
+RC73, PROPN 
+40.239, NUM 
+29.574, NUM 
+
+, SPACE 
+RC72, NOUN 
+40.290, NUM 
+29.583, NUM 
+
+, SPACE 
+RC70, PROPN 
+40.318, NUM 
+29.553, NUM 
+
+, SPACE 
+RC69, VERB 
+40.383, NUM 
+29.553, NUM 
+
+, SPACE 
+RC67, PROPN 
+40.481, NUM 
+29.544, NUM 
+
+, SPACE 
+DR24, PROPN 
+2, NUM 
+40.523, NUM 
+29.537, NUM 
+
+, SPACE 
+DR24-, VERB 
+1, NUM 
+40.523, NUM 
+29.535, NUM 
+2920, NUM 
+51.11, NUM 
+15.33, NUM 
+8.83, NUM 
+8.54, NUM 
+11.99, NUM 
+2.02, NUM 
+1.18, NUM 
+85, NUM 
+134, NUM 
+
+, SPACE 
+2535, NUM 
+50.89, NUM 
+14.61, NUM 
+9.32, NUM 
+8.67, NUM 
+12.91, NUM 
+1.87, NUM 
+0.74, NUM 
+10, NUM 
+62, NUM 
+
+, SPACE 
+2404, NUM 
+50.70, NUM 
+15.12, NUM 
+9.41, NUM 
+8.80, NUM 
+12.10, NUM 
+1.83, NUM 
+1.04, NUM 
+48, NUM 
+93, NUM 
+
+, SPACE 
+2480, NUM 
+51.67, NUM 
+14.03, NUM 
+10.16, NUM 
+7.90, NUM 
+12.41, NUM 
+1.87, NUM 
+0.95, NUM 
+14, NUM 
+66, NUM 
+
+, SPACE 
+2634, NUM 
+51.45, NUM 
+14.61, NUM 
+9.66, NUM 
+8.10, NUM 
+12.40, NUM 
+1.79, NUM 
+0.99, NUM 
+16, NUM 
+62, NUM 
+
+, SPACE 
+2834, NUM 
+51.19, NUM 
+13.82, NUM 
+Il.42, NOUN 
+7.90, NUM 
+11.82, NUM 
+2.14, NUM 
+1.16, NUM 
+19, NUM 
+65, NUM 
+
+, SPACE 
+3000, NUM 
+51.29, NUM 
+15.00, NUM 
+9.62, NUM 
+8.35, NUM 
+11.53, NUM 
+2.01, NUM 
+1.13, NUM 
+72, NUM 
+111, NUM 
+
+, SPACE 
+3OXIO, PROPN 
+51.05, NUM 
+14.50, NUM 
+9.85, NUM 
+8.61, NUM 
+11.64, NUM 
+2.11, NUM 
+1.12, NUM 
+70, NUM 
+112, NUM 
+
+, SPACE 
+10, NUM 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+cd, PROPN 
+
+, SPACE 
+8, NUM 
+
+, SPACE 
+6, NUM 
+0, NUM 
+2.6, NUM 
+
+, SPACE 
+cd, PROPN 
+
+, SPACE 
+s, PART 
+
+, SPACE 
+2.4, NUM 
+
+, SPACE 
+37.5, NUM 
+38, NUM 
+38.5, NUM 
+39, NUM 
+39.5, NUM 
+40, NUM 
+40.5, NUM 
+
+, SPACE 
+Latitude, PROPN 
+N, PROPN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Axial, ADJ 
+depth, NOUN 
+profile, NOUN 
+ridge, NOUN 
+segments, NOUN 
+sampled, VERB 
+study, NOUN 
+Segment, NOUN 
+ends, NOUN 
+characterized, VERB 
+dipping, VERB 
+bathymctry, NOUN 
+
+, SPACE 
+Sampling, VERB 
+locations, NOUN 
+numbers, NOUN 
+indicated, VERB 
+vertical, ADJ 
+arrows, NOUN 
+b, X 
+axis, NOUN 
+variations, NOUN 
+Na, PROPN 
+s, PROPN 
+o., PROPN 
+c, PROPN 
+axis, NOUN 
+variations, NOUN 
+Fe, PROPN 
+
+, SPACE 
+0, X 
+=, NOUN 
+segment, NOUN 
+averages, NOUN 
+Fe, PROPN 
+Na, PROPN 
+
+, SPACE 
+180, NUM 
+B., PROPN 
+Bourdon, PROPN 
+et, NOUN 
+al./, ADV 
+Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+142, NUM 
+19, NUM 
+175, NUM 
+189, NUM 
+
+, SPACE 
+U, PROPN 
+series, NOUN 
+studies, NOUN 
+require, VERB 
+collection, NOUN 
+zero, NUM 
+age, NOUN 
+sam-, NOUN 
+
+, SPACE 
+ples, NOUN 
+possible, ADJ 
+high, ADJ 
+resolution, NOUN 
+
+, SPACE 
+SIMRAD, PROPN 
+map, NOUN 
+21, NUM 
+available, ADJ 
+D., PROPN 
+
+, SPACE 
+Needham, PROPN 
+IFREMER, PROPN 
+use, NOUN 
+GPS, PROPN 
+
+, SPACE 
+SEABEAM, PROPN 
+rock, NOUN 
+sampling, NOUN 
+mislocation, NOUN 
+
+, SPACE 
+1, NUM 
+km, NOUN 
+represents, VERB 
+100,000, NUM 
+yr, NOUN 
+slow-, NOUN 
+
+, SPACE 
+spreading, VERB 
+ridge, NOUN 
+half, ADJ 
+rate, NOUN 
+10, NUM 
+mm, NOUN 
+yr, INTJ 
+
+, SPACE 
+significant, ADJ 
+compared, VERB 
+half, ADJ 
+life, NOUN 
+230Th, NUM 
+
+, SPACE 
+75,000, NUM 
+yr, NOUN 
+younger, ADJ 
+age, NOUN 
+samples, NOUN 
+
+, SPACE 
+indicated, VERB 
+absence, NOUN 
+sediment, NOUN 
+
+, SPACE 
+occurring, VERB 
+glass, NOUN 
+rock, NOUN 
+core, NOUN 
+samples, NOUN 
+
+, SPACE 
+Studies, NOUN 
+EPR, PROPN 
+shown, VERB 
+samples, NOUN 
+
+, SPACE 
+crust, NOUN 
+young, ADJ 
+20,000, NUM 
+yr, NOUN 
+old, ADJ 
+return, NOUN 
+sediments, NOUN 
+
+, SPACE 
+rock, NOUN 
+core, NOUN 
+samples, NOUN 
+Furthermore, ADV 
+study, NOUN 
+
+, SPACE 
+region, NOUN 
+ridge, NOUN 
+axis, NOUN 
+defined, VERB 
+narrow, ADJ 
+
+, SPACE 
+shipboard, ADJ 
+estimates, NOUN 
+distance, NOUN 
+sample, NOUN 
+
+, SPACE 
+locations, NOUN 
+ridge, NOUN 
+axis, NOUN 
+
+, SPACE 
+meters, NOUN 
+consistent, ADJ 
+absence, NOUN 
+sedi-, ADJ 
+
+, SPACE 
+ment, NOUN 
+visible, ADJ 
+alteration, NOUN 
+present, ADJ 
+
+, SPACE 
+glass, NOUN 
+chips, NOUN 
+study, NOUN 
+
+, SPACE 
+tens, NOUN 
+thousands, NOUN 
+years, NOUN 
+uncertainty, NOUN 
+
+, SPACE 
+postulated, VERB 
+age, NOUN 
+effect, NOUN 
+data, NOUN 
+distribu-, X 
+
+, SPACE 
+tion, NOUN 
+discussed, VERB 
+later, ADV 
+Dredge, PROPN 
+rock, NOUN 
+core, NOUN 
+loca-, PROPN 
+
+, SPACE 
+tions, NOUN 
+given, VERB 
+Table, PROPN 
+1, NUM 
+shown, VERB 
+Fig, PROPN 
+2, NUM 
+
+, SPACE 
+Glass, PROPN 
+fragments, NOUN 
+broken, VERB 
+pillow, NOUN 
+lavas, PROPN 
+
+, SPACE 
+chipped, VERB 
+steel, NOUN 
+mortar, NOUN 
+small, ADJ 
+frag-, ADJ 
+
+, SPACE 
+ments, NOUN 
+washed, VERB 
+ultrasonic, ADJ 
+bath, NOUN 
+
+, SPACE 
+ethanol, NOUN 
+Glass, PROPN 
+chips, NOUN 
+<, X 
+750, NUM 
+pm, NOUN 
+carefully, ADV 
+
+, SPACE 
+picked, VERB 
+microscope, NOUN 
+avoiding, VERB 
+oxides, NOUN 
+
+, SPACE 
+alteration, NOUN 
+coatings, NOUN 
+ground, VERB 
+hand, NOUN 
+
+, SPACE 
+agate, ADJ 
+mortar, NOUN 
+U, PROPN 
+Th, PROPN 
+disequilibrium, NOUN 
+mass, NOUN 
+spec-, ADJ 
+
+, SPACE 
+trometric, ADJ 
+measurements, NOUN 
+50, NUM 
+100, NUM 
+mg, PROPN 
+glass, NOUN 
+
+, SPACE 
+leached, VERB 
+mixture, NOUN 
+hydrogen, NOUN 
+peroxide, NOUN 
+2.5, NUM 
+N, NUM 
+
+, SPACE 
+HCl, NOUN 
+10, NUM 
+min, NOUN 
+room, NOUN 
+temperature, NOUN 
+technique, NOUN 
+
+, SPACE 
+efficiently, ADV 
+dissolves, VERB 
+Mn, PROPN 
+oxides, NOUN 
+significantly, ADV 
+
+, SPACE 
+leaching, VERB 
+U, PROPN 
+Th, PROPN 
+glass, NOUN 
+25, NUM 
+dissolu-, ADJ 
+
+, SPACE 
+tion, NOUN 
+chemical, ADJ 
+extraction, NOUN 
+U, PROPN 
+Th, PROPN 
+de-, AUX 
+
+, SPACE 
+scribed, VERB 
+25, NUM 
+samples, NOUN 
+analyzed, VERB 
+
+, SPACE 
+Lamont, PROPN 
+Isolab, PROPN 
+54, NUM 
+SIMS, PROPN 
+Th, PROPN 
+TIMS, PROPN 
+@I, NOUN 
+>, X 
+251, NUM 
+
+, SPACE 
+accuracy, NOUN 
+230Th/238U, PROPN 
+measurements, NOUN 
+
+, SPACE 
+1, NUM 
+2, NUM 
+u, NOUN 
+samples, NOUN 
+
+, SPACE 
+dredges, NOUN 
+analyzed, VERB 
+test, VERB 
+dredge, VERB 
+het-, NOUN 
+
+, SPACE 
+erogeneity, NOUN 
+relatively, ADV 
+small, ADJ 
+
+, SPACE 
+glass, NOUN 
+available, ADJ 
+rock, NOUN 
+cores, NOUN 
+sample, NOUN 
+
+, SPACE 
+analyzed, VERB 
+
+, SPACE 
+Major, PROPN 
+trace, NOUN 
+elements, NOUN 
+analyzed, VERB 
+board, NOUN 
+
+, SPACE 
+direct, ADJ 
+current, ADJ 
+plasma, NOUN 
+emission, NOUN 
+spectrometty, NOUN 
+
+, SPACE 
+50, NUM 
+mg, NOUN 
+aliquots, NOUN 
+hand, NOUN 
+picked, VERB 
+ultrasonically, ADV 
+cleaned, VERB 
+glass, NOUN 
+uncertainty, NOUN 
+Ba, PROPN 
+Sr, PROPN 
+concen-, PROPN 
+
+, SPACE 
+trations, NOUN 
+5, NUM 
+ppm, ADJ 
+Major, ADJ 
+elements, NOUN 
+analyzed, VERB 
+
+, SPACE 
+Lamont, PROPN 
+electron, NOUN 
+microprobe, NOUN 
+
+, SPACE 
+5, X 
+Results, NOUN 
+
+, SPACE 
+5.1, NUM 
+Regional, ADJ 
+variations, NOUN 
+major, ADJ 
+trace, VERB 
+elements, NOUN 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+reports, VERB 
+major, ADJ 
+element, NOUN 
+concentrations, NOUN 
+
+, SPACE 
+samples, NOUN 
+collected, VERB 
+FAZAR, PROPN 
+
+, SPACE 
+cruise, NOUN 
+Na, PROPN 
+Fe, PROPN 
+defined, VERB 
+Klein, PROPN 
+
+, SPACE 
+Langmuir, PROPN 
+26, NUM 
+plotted, VERB 
+function, NOUN 
+
+, SPACE 
+latitude, NOUN 
+Fig, PROPN 
+2, NUM 
+curves, NOUN 
+characterized, VERB 
+
+, SPACE 
+extreme, ADJ 
+values, NOUN 
+38”30’N., NUM 
+Fe, PROPN 
+
+, SPACE 
+Na, PROPN 
+interpreted, VERB 
+directly, ADV 
+terms, NOUN 
+pressure, NOUN 
+
+, SPACE 
+degree, NOUN 
+melting, NOUN 
+126,271, NUM 
+
+, SPACE 
+shown, VERB 
+Na, PROPN 
+Fe, PROPN 
+MAR, PROPN 
+
+, SPACE 
+significantly, ADV 
+affected, VERB 
+Azores, PROPN 
+mantle, NOUN 
+plume, NOUN 
+
+, SPACE 
+11,131, NUM 
+High, ADJ 
+Ba, PROPN 
+TiO, PROPN 
+ratios, NOUN 
+near, ADP 
+Azores, PROPN 
+docu-, NOUN 
+
+, SPACE 
+ment, VERB 
+maximum, ADJ 
+extent, NOUN 
+plume, NOUN 
+ridge, NOUN 
+interac-, ADJ 
+
+, SPACE 
+tion, NOUN 
+Fig, PROPN 
+3, NUM 
+region, NOUN 
+characterized, VERB 
+
+, SPACE 
+low, ADJ 
+Fe, PROPN 
+Fe, PROPN 
+simply, ADV 
+reflect, VERB 
+pres-, NOUN 
+
+, SPACE 
+sure, ADJ 
+degree, NOUN 
+melting, NOUN 
+expect, VERB 
+
+, SPACE 
+hotspot, ADJ 
+material, NOUN 
+high, ADJ 
+Ba, PROPN 
+TiO, NOUN 
+ratios, NOUN 
+
+, SPACE 
+high, ADJ 
+Fe, PROPN 
+indicating, VERB 
+relatively, ADV 
+deep, ADJ 
+melting, NOUN 
+
+, SPACE 
+opposite, NOUN 
+observed, VERB 
+Fig, PROPN 
+4, NUM 
+
+, SPACE 
+lines, NOUN 
+evidence, NOUN 
+major, ADJ 
+ele-, NOUN 
+
+, SPACE 
+ment, ADJ 
+variations, NOUN 
+partially, ADV 
+controlled, VERB 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+axis, NOUN 
+Ba, PROPN 
+TiOz, PROPN 
+variations, NOUN 
+33, NUM 
+40”30’N., NUM 
+
+, SPACE 
+largest, ADJ 
+Ba, PROPN 
+TiO, NOUN 
+ratios, NOUN 
+found, VERB 
+Azores, PROPN 
+region, NOUN 
+
+, SPACE 
+study, NOUN 
+Oceanographer, PROPN 
+fracture, NOUN 
+zone, NOUN 
+OFZ, PROPN 
+maxi-, NOUN 
+
+, SPACE 
+mum, NOUN 
+La, PROPN 
+Sm, PROPN 
+anomaly, PROPN 
+found, VERB 
+Schilling, PROPN 
+26, NUM 
+indicated, VERB 
+
+, SPACE 
+arrow, NOUN 
+box, NOUN 
+indicates, VERB 
+sampling, VERB 
+region, NOUN 
+U, PROPN 
+Th, PROPN 
+
+, SPACE 
+disequilibrium, NOUN 
+study, NOUN 
+southernmost, NOUN 
+segment, NOUN 
+box, NOUN 
+KP-5, PROPN 
+
+, SPACE 
+extensively, ADV 
+sampled, VERB 
+FAZAK, ADJ 
+cruise, NOUN 
+
+, SPACE 
+previously, ADV 
+explain, VERB 
+difference, NOUN 
+locations, NOUN 
+
+, SPACE 
+maxima, PROPN 
+enrichment, NOUN 
+found, VERB 
+Schilling, PROPN 
+26, NUM 
+
+, SPACE 
+B., PROPN 
+Bourdon, PROPN 
+et, PROPN 
+al, PROPN 
+/Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+142, NUM 
+19, NUM 
+17.5, NUM 
+189, NUM 
+181, NUM 
+
+, SPACE 
+5, NUM 
+j, NOUN 
+
+, SPACE 
+0, NUM 
+50, NUM 
+100, NUM 
+150, NUM 
+200, NUM 
+
+, SPACE 
+BalTiO, PROPN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Negative, ADJ 
+correlation, NOUN 
+Ba, PROPN 
+TiO, NOUN 
+Fe, PROPN 
+Ba, PROPN 
+TiO, NOUN 
+
+, SPACE 
+taken, VERB 
+indicator, NOUN 
+source, NOUN 
+enrichment, NOUN 
+
+, SPACE 
+enriched, VERB 
+mantle, NOUN 
+source, NOUN 
+iron, NOUN 
+depleted, VERB 
+0, PUNCT 
+=, PUNCT 
+samples, NOUN 
+col-, NOUN 
+
+, SPACE 
+lected, VERB 
+FAZAR, PROPN 
+cruise, NOUN 
+33, NUM 
+40”3O’N, NUM 
+0, PUNCT 
+=, NOUN 
+samples, NOUN 
+
+, SPACE 
+analyzed, VERB 
+U, PROPN 
+Th, NOUN 
+disequilibrium, NOUN 
+
+, SPACE 
+presence, NOUN 
+Azores, PROPN 
+hotspot, NOUN 
+direct, ADJ 
+
+, SPACE 
+interpretation, NOUN 
+major, ADJ 
+elements, NOUN 
+terms, NOUN 
+
+, SPACE 
+melting, NOUN 
+parameters, NOUN 
+possible, ADJ 
+5.2, NUM 
+U, PROPN 
+Th, PROPN 
+disequilibria, NOUN 
+FAZAR, PROPN 
+glasses, NOUN 
+
+, SPACE 
+U, PROPN 
+Th, PROPN 
+data, NOUN 
+FAZAR, NOUN 
+glasses, NOUN 
+reported, VERB 
+
+, SPACE 
+Table, PROPN 
+2, NUM 
+Th, NOUN 
+concentrations, NOUN 
+range, VERB 
+0.14, NUM 
+
+, SPACE 
+2.4, NUM 
+ppm, NOUN 
+remarkably, ADV 
+large, ADJ 
+range, NOUN 
+
+, SPACE 
+single, ADJ 
+sample, NOUN 
+suite, NOUN 
+samples, NOUN 
+enriched, VERB 
+
+, SPACE 
+relative, ADJ 
+normal, ADJ 
+EPR, PROPN 
+MORB, NOUN 
+Th, PROPN 
+0.1, NUM 
+ppm, PROPN 
+
+, SPACE 
+highest, ADJ 
+concentrations, NOUN 
+comparable, ADJ 
+
+, SPACE 
+OIB, PROPN 
+U, PROPN 
+concentrations, NOUN 
+relatively, ADV 
+high, ADJ 
+
+, SPACE 
+ranging, VERB 
+0.04, NUM 
+0.78, NUM 
+ppm, NOUN 
+Th, NOUN 
+U, PROPN 
+ratios, NOUN 
+
+, SPACE 
+fairly, ADV 
+constant, ADJ 
+3.09, NUM 
+3.55, NUM 
+
+, SPACE 
+substantially, ADV 
+higher, ADJ 
+N, PROPN 
+MORB, PROPN 
+2, NUM 
+2.7, NUM 
+
+, SPACE 
+slightly, ADV 
+higher, ADJ 
+FAMOUS, PROPN 
+MORB, NOUN 
+28, NUM 
+Th, NOUN 
+U, NOUN 
+
+, SPACE 
+ratios, NOUN 
+FAZAR, NOUN 
+glasses, NOUN 
+correlate, VERB 
+simply, ADV 
+
+, SPACE 
+Ba, PROPN 
+TiO, NOUN 
+ratios, NOUN 
+Th, PROPN 
+concentrations, NOUN 
+
+, SPACE 
+cz3’Th/, PROPN 
+232Th, PROPN 
+ratios, NOUN 
+reported, VERB 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+samples, NOUN 
+contain, VERB 
+large, ADJ 
+230Th, NUM 
+excesses, NOUN 
+ranging, VERB 
+
+, SPACE 
+N, PROPN 
+20, NUM 
+35, NUM 
+Fig, PROPN 
+5, NUM 
+values, NOUN 
+
+, SPACE 
+broadly, ADV 
+similar, ADJ 
+FAMOUS, PROPN 
+data, NOUN 
+Condomines, PROPN 
+
+, SPACE 
+et, NOUN 
+al, PROPN 
+28, NUM 
+basalts, NOUN 
+Faial, PROPN 
+Azores, PROPN 
+29, NUM 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+U, PROPN 
+Th, PROPN 
+mass, ADJ 
+spectrometry, NOUN 
+data, NOUN 
+FAZAR, PROPN 
+MORB, NOUN 
+glasses, VERB 
+
+, SPACE 
+Sample, PROPN 
+Th, NOUN 
+U, NOUN 
+230Th/232Th)a, NUM 
+f2o, PROPN 
+238U/232Th, PROPN 
+f2a, NOUN 
+234U/238U, PROPN 
+f2u, PROPN 
+230Th/238U, PROPN 
+
+, SPACE 
+ppm, PROPN 
+ppm, PROPN 
+
+, SPACE 
+Dredges, VERB 
+
+, SPACE 
+DR17, PROPN 
+3, NUM 
+
+, SPACE 
+DRl7, NUM 
+5, NUM 
+
+, SPACE 
+DR21, PROPN 
+3, NUM 
+
+, SPACE 
+DR21, PROPN 
+5, NUM 
+
+, SPACE 
+DR22, PROPN 
+5, NUM 
+
+, SPACE 
+DR22, PROPN 
+6, NUM 
+
+, SPACE 
+DR24, PROPN 
+2, NUM 
+
+, SPACE 
+DR26-, PROPN 
+1, NUM 
+
+, SPACE 
+DR26, PROPN 
+5, NUM 
+
+, SPACE 
+DR27, PROPN 
+3, NUM 
+
+, SPACE 
+DR27, PROPN 
+4, NUM 
+
+, SPACE 
+DR27, PROPN 
+5, NUM 
+
+, SPACE 
+DR29-, PROPN 
+1, NUM 
+
+, SPACE 
+DR29, PROPN 
+2, NUM 
+1.97, NUM 
+0.554, NUM 
+1.151, NUM 
+0.0067, NUM 
+0.8536, NUM 
+0.0014, NUM 
+1.348, NUM 
+
+, SPACE 
+1.78, NUM 
+0.511, NUM 
+I.146, PROPN 
+0.010, NUM 
+0.8711, NUM 
+0.0017, NUM 
+0.998, NUM 
+0.0044, NUM 
+1.316, NUM 
+
+, SPACE 
+2.45, NUM 
+0.776, NUM 
+1.185, NUM 
+0.0057, NUM 
+0.9625, NUM 
+0.0068, NUM 
+1.016, NUM 
+0.0061, NUM 
+1.231, NUM 
+
+, SPACE 
+2.34, NUM 
+0.744, NUM 
+1.217, NUM 
+0.0095, NUM 
+0.9638, NUM 
+0.0033, NUM 
+1.012, NUM 
+0.0044, NUM 
+1.263, NUM 
+
+, SPACE 
+2.20, NUM 
+0.632, NUM 
+I.085, ADV 
+0.0068, NUM 
+0.8708, NUM 
+0.0027, NUM 
+1.013, NUM 
+0.0042, NUM 
+1.246, NUM 
+
+, SPACE 
+2.00, NUM 
+0.565, NUM 
+1.088, NUM 
+0.0066, NUM 
+0.8572, NUM 
+0.0019, NUM 
+0.999, NUM 
+0.0047, NUM 
+1.269, NUM 
+
+, SPACE 
+0.677, NUM 
+0.191, NUM 
+1.034, NUM 
+0.0049, NUM 
+0.8574, NUM 
+0.0035, NUM 
+1.02, NUM 
+0.0069, NUM 
+.205, NUM 
+
+, SPACE 
+0.467, NUM 
+0.138, NUM 
+1.107, NUM 
+0.0046, NUM 
+0.8968, NUM 
+0.0037, NUM 
+1.234, NUM 
+
+, SPACE 
+0.461, NUM 
+0.139, NUM 
+I.118, PROPN 
+0.009, NUM 
+0.9147, NUM 
+0.0054, NUM 
+1.003, NUM 
+0.0054, NUM 
+1.222, NUM 
+
+, SPACE 
+0.571, NUM 
+0.166, NUM 
+1.060, NUM 
+0.0085, NUM 
+0.8814, NUM 
+0.0079, NUM 
+.202, NUM 
+
+, SPACE 
+0.787, NUM 
+0.224, NUM 
+1.057, NUM 
+0.010, NUM 
+0.8640, NUM 
+0.0076, NUM 
+1.013, NUM 
+0.0059, NUM 
+.223, NUM 
+
+, SPACE 
+0.797, NUM 
+0.225, NUM 
+1.047, NUM 
+0.0045, NUM 
+0.8578, NUM 
+0.003, NUM 
+1, NUM 
+0.996, NUM 
+0.0003, NUM 
+1.220, NUM 
+
+, SPACE 
+1.79, NUM 
+0.539, NUM 
+1.143, NUM 
+0.0067, NUM 
+0.9142, NUM 
+0.0026, NUM 
+1, NUM 
+011, NUM 
+0.0036, NUM 
+1.250, NUM 
+
+, SPACE 
+1.76, NUM 
+0.525, NUM 
+1.136, NUM 
+0.0040, NUM 
+0.9045, NUM 
+0.0015, NUM 
+0.998, NUM 
+0.0040, NUM 
+1.256, NUM 
+
+, SPACE 
+Rock, PROPN 
+cores, VERB 
+
+, SPACE 
+RC46, PROPN 
+0.807, NUM 
+0.261, NUM 
+1.306, NUM 
+
+, SPACE 
+RC63, VERB 
+1.79, NUM 
+0.541, NUM 
+1.097, NUM 
+
+, SPACE 
+RC66, PROPN 
+2.09, NUM 
+0.593, NUM 
+1.090, NUM 
+
+, SPACE 
+RC70, PROPN 
+0.137, NUM 
+0.0404, NUM 
+1.103, NUM 
+
+, SPACE 
+RC77, PROPN 
+0.515, NUM 
+0.151, NUM 
+1.074, NUM 
+
+, SPACE 
+RC89, PROPN 
+1.89, NUM 
+0.551, NUM 
+1.117, NUM 
+
+, SPACE 
+RC90, PROPN 
+2.16, NUM 
+0.623, NUM 
+1.112, NUM 
+
+, SPACE 
+RC98, PROPN 
+0.839, NUM 
+0.264, NUM 
+1.277, NUM 
+
+, SPACE 
+Ratios, PROPN 
+parenthesis, NOUN 
+activity, NOUN 
+ratios, NOUN 
+0.012, NUM 
+0.9827, NUM 
+0.012, NUM 
+1.329, NUM 
+
+, SPACE 
+0.0059, NUM 
+0.9169, NUM 
+0.0027, NUM 
+1.016, NUM 
+0.0068, NUM 
+1.196, NUM 
+
+, SPACE 
+0.0058, NUM 
+0.8596, NUM 
+0.0019, NUM 
+1.015, NUM 
+0.0072, NUM 
+1.268, NUM 
+
+, SPACE 
+0.013, NUM 
+0.8977, NUM 
+0.0064, NUM 
+1.007, NUM 
+0.02, NUM 
+1, NUM 
+1.229, NUM 
+
+, SPACE 
+0.0060, X 
+0.8888, NUM 
+0.0046, NUM 
+1.018, NUM 
+0.012, NUM 
+.208, NUM 
+
+, SPACE 
+0.014, NUM 
+0.8858, NUM 
+0.0040, NUM 
+1.015, NUM 
+0.0048, NUM 
+1.261, NUM 
+
+, SPACE 
+0.0069, NUM 
+0.8732, NUM 
+0.0051, NUM 
+1.273, NUM 
+
+, SPACE 
+0.0055, NUM 
+0.9556, NUM 
+0.0071, NUM 
+1.015, NUM 
+0.0099, NUM 
+1.336, NUM 
+
+, SPACE 
+182, NUM 
+B., PROPN 
+Bourdon, PROPN 
+et, PROPN 
+al, PROPN 
+Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+I42, PROPN 
+19, NUM 
+175, NUM 
+189, NUM 
+
+, SPACE 
+4.0, NUM 
+3.6, NUM 
+3.2, NUM 
+2.8, NUM 
+2.4, NUM 
+ThlU, PROPN 
+
+, SPACE 
+0.70, NUM 
+0.80, NUM 
+0.90, NUM 
+1.0, NUM 
+1.1, NUM 
+1.2, NUM 
+1.3, NUM 
+1.4, NUM 
+
+, SPACE 
+238lJl232Th, PROPN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+230Th/232Th, PROPN 
+vs., ADP 
+238U/232Th, PROPN 
+diagram, NOUN 
+FAZAR, NOUN 
+
+, SPACE 
+glasses, NOUN 
+0, NUM 
+0, PUNCT 
+=, VERB 
+counting, VERB 
+data, NOUN 
+literature, NOUN 
+27,28, NUM 
+
+, SPACE 
+O=, ADJ 
+MAR, PROPN 
+samples, NOUN 
+29, NUM 
+30”N, NUM 
+36, NUM 
+FAZAR, PROPN 
+glasses, NOUN 
+
+, SPACE 
+range, NOUN 
+20, NUM 
+35, NUM 
+excess, NOUN 
+230Th, PROPN 
+
+, SPACE 
+P30Th/, PROPN 
+232Th, PROPN 
+ratios, NOUN 
+multiple, ADJ 
+samples, NOUN 
+
+, SPACE 
+dredges, NOUN 
+identical, ADJ 
+1, NUM 
+
+, SPACE 
+2a, NUM 
+level, NOUN 
+234U/, NUM 
+238U, NUM 
+activity, NOUN 
+ratios, NOUN 
+sam-, NOUN 
+
+, SPACE 
+ples, NOUN 
+range, NOUN 
+0.996, NUM 
+1.02, NUM 
+number, NOUN 
+
+, SPACE 
+samples, NOUN 
+234U/, PROPN 
+238U, PROPN 
+ratios, NOUN 
+higher, ADJ 
+
+, SPACE 
+1.00, NUM 
+based, VERB 
+run, NOUN 
+counting, NOUN 
+statistics, NOUN 
+
+, SPACE 
+s, PART 
+stematic, ADJ 
+relationship, NOUN 
+230Th, NUM 
+excess, ADJ 
+
+, SPACE 
+Y, PROPN 
+2, NUM 
+4U, NOUN 
+excess, NOUN 
+consider, VERB 
+deviations, NOUN 
+
+, SPACE 
+234U/, NUM 
+238U, PROPN 
+unity, NOUN 
+probably, ADV 
+significant, ADJ 
+
+, SPACE 
+Seawater, NOUN 
+alteration, NOUN 
+glasses, NOUN 
+considered, VERB 
+
+, SPACE 
+perturbed, VERB 
+Th, PROPN 
+U, PROPN 
+systematics, NOUN 
+
+, SPACE 
+6, X 
+Discussion, NOUN 
+
+, SPACE 
+6.1, NUM 
+case, NOUN 
+assimilation, NOUN 
+Z30Th, NOUN 
+rich, ADJ 
+sedi-, NOUN 
+
+, SPACE 
+ment, NOUN 
+cause, NOUN 
+230Th, NUM 
+excesses, NOUN 
+ridges, NOUN 
+
+, SPACE 
+Deep, ADJ 
+sea, NOUN 
+sediments, NOUN 
+Mn, PROPN 
+oxides, NOUN 
+contain, VERB 
+large, ADJ 
+
+, SPACE 
+excesses, NOUN 
+230Th, NUM 
+contaminate, VERB 
+MORB, NOUN 
+
+, SPACE 
+magmas, NOUN 
+way, NOUN 
+surface, NOUN 
+30, NUM 
+
+, SPACE 
+Recent, ADJ 
+mass, ADJ 
+spectrometric, ADJ 
+measurements, NOUN 
+EPR, PROPN 
+
+, SPACE 
+MORBs, NOUN 
+Goldstein, PROPN 
+et, PROPN 
+al, PROPN 
+3, NUM 
+l-331, NOUN 
+shown, VERB 
+
+, SPACE 
+process, NOUN 
+creating, VERB 
+U, PROPN 
+Th, PROPN 
+disequilibrium, NOUN 
+
+, SPACE 
+MORJ3s, NUM 
+happening, VERB 
+ridge, NOUN 
+axis, NOUN 
+
+, SPACE 
+excesses, NOUN 
+general, ADJ 
+present, ADJ 
+basalts, NOUN 
+
+, SPACE 
+dredged, VERB 
+far, ADV 
+axis, NOUN 
+230Th, NOUN 
+excesses, NOUN 
+
+, SPACE 
+theory, NOUN 
+result, VERB 
+assimilation, NOUN 
+Mn-, PROPN 
+
+, SPACE 
+oxides, VERB 
+magma, NOUN 
+way, NOUN 
+surface, NOUN 
+
+, SPACE 
+kilometer, NOUN 
+thick, ADJ 
+pile, NOUN 
+altered, ADJ 
+pillows, NOUN 
+
+, SPACE 
+incorporation, NOUN 
+sediment, NOUN 
+flow, NOUN 
+dur-, NOUN 
+2.00, NUM 
+~, NOUN 
+.--l, PROPN 
+.~, NOUN 
+1, NUM 
+T, NOUN 
+
+, SPACE 
+1.80, NUM 
+
+, SPACE 
+1.60, NUM 
+
+, SPACE 
+I-, PROPN 
+
+, SPACE 
+1.40, NUM 
+
+, SPACE 
+1.20, NUM 
+
+, SPACE 
+Ii, PROPN 
+~, PUNCT 
+
+, SPACE 
+Co, PROPN 
+
+, SPACE 
+o., NOUN 
+S,~_~, PROPN 
+
+, SPACE 
+0.x, PROPN 
+---c_-__zx, NOUN 
+
+, SPACE 
+1, X 
+.oo, PUNCT 
+j, PROPN 
+
+, SPACE 
+xl, NOUN 
+
+, SPACE 
+0, NUM 
+0.2, NUM 
+0.4, NUM 
+0.6, NUM 
+0.8, NUM 
+1, NUM 
+
+, SPACE 
+U, NOUN 
+concentration, NOUN 
+basalt, PROPN 
+@pm, PROPN 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+effect, NOUN 
+assimilation, NOUN 
+230Th, ADJ 
+rich, ADJ 
+sediments, NOUN 
+
+, SPACE 
+230Th/, NUM 
+U, NOUN 
+ratio, NOUN 
+FAZAR, NOUN 
+glasses, NOUN 
+function, NOUN 
+U, PROPN 
+concen-, NOUN 
+
+, SPACE 
+tration, NOUN 
+glass, NOUN 
+hyperbolic, ADJ 
+curves, NOUN 
+represent, VERB 
+bulk, ADJ 
+assimila-, ADJ 
+
+, SPACE 
+tion, NOUN 
+sediment, NOUN 
+cz3’Th/, PROPN 
+sU, PROPN 
+=, VERB 
+3, NUM 
+U, PROPN 
+=, SYM 
+4, NUM 
+ppm, NOUN 
+
+, SPACE 
+basalt, NOUN 
+initial, ADJ 
+230Th-23*U, NUM 
+disequilibrium, NOUN 
+percentage, NOUN 
+
+, SPACE 
+assimilated, VERB 
+sediment, NOUN 
+indicated, VERB 
+curve, NOUN 
+trend, NOUN 
+
+, SPACE 
+shown, VERB 
+data, NOUN 
+accounted, VERB 
+model, NOUN 
+
+, SPACE 
+ing, ADJ 
+eruption, NOUN 
+contamination, NOUN 
+
+, SPACE 
+shallow, ADJ 
+process, NOUN 
+Th, PROPN 
+efficiently, ADV 
+carried, VERB 
+
+, SPACE 
+hydrothermal, NOUN 
+solutions, NOUN 
+fluoride-, X 
+
+, SPACE 
+rich, ADJ 
+precipitation, NOUN 
+Mn, PROPN 
+oxides, NOUN 
+
+, SPACE 
+scavenge, NOUN 
+230Th, NUM 
+seawater, NOUN 
+occurs, VERB 
+low, ADJ 
+
+, SPACE 
+temperature, NOUN 
+oxidizing, ADJ 
+environment, NOUN 
+
+, SPACE 
+tests, NOUN 
+applied, VERB 
+
+, SPACE 
+determine, VERB 
+contamination, NOUN 
+plausible, ADJ 
+ex-, NOUN 
+
+, SPACE 
+planation, NOUN 
+data, NOUN 
+curves, NOUN 
+Fig, PROPN 
+6, NUM 
+
+, SPACE 
+effects, NOUN 
+bulk, ADJ 
+assimilation, NOUN 
+sediment, NOUN 
+
+, SPACE 
+series, NOUN 
+glasses, NOUN 
+different, ADJ 
+U, PROPN 
+concentrations, NOUN 
+
+, SPACE 
+initially, ADV 
+secular, ADJ 
+equilibrium, NOUN 
+given, VERB 
+
+, SPACE 
+1.40L, NUM 
+<, X 
+
+, SPACE 
+secular, ADJ 
+equilibrium, NOUN 
+
+, SPACE 
+0.90, NUM 
+0, NUM 
+1, X 
+
+, SPACE 
+500, NUM 
+1500, NUM 
+2500, NUM 
+3500, NUM 
+4500, NUM 
+
+, SPACE 
+axial, ADJ 
+depth, NOUN 
+m, PROPN 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+230Th/238U, PROPN 
+vs., ADP 
+axial, ADJ 
+depth, NOUN 
+North, PROPN 
+Atlantic, PROPN 
+basalts, NOUN 
+
+, SPACE 
+0, X 
+=, SYM 
+FAZAR, NOUN 
+data, NOUN 
+study, NOUN 
+0, NUM 
+=, NOUN 
+locations, NOUN 
+
+, SPACE 
+basalts, NOUN 
+29”08’N, PROPN 
+29”59’N, NOUN 
+1361, NUM 
+data, NOUN 
+rue, X 
+
+, SPACE 
+1281, NUM 
+solid, ADJ 
+line, NOUN 
+model, NOUN 
+curve, NOUN 
+230Th, NUM 
+excesses, NOUN 
+axial, ADJ 
+
+, SPACE 
+depth, NOUN 
+correlations, NOUN 
+Section, NOUN 
+6.4, NUM 
+details, NOUN 
+
+, SPACE 
+8, X 
+Bourdon, PROPN 
+et, NOUN 
+al./Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+142, NUM 
+19, NUM 
+175, NUM 
+189, NUM 
+183, NUM 
+
+, SPACE 
+assimilation, NOUN 
+low, ADJ 
+U, PROPN 
+concentration, NOUN 
+
+, SPACE 
+samples, NOUN 
+exhibit, VERB 
+larger, ADJ 
+230Th, NUM 
+excesses, NOUN 
+
+, SPACE 
+trend, NOUN 
+shown, VERB 
+FAZAR, PROPN 
+data, NOUN 
+Fig, PROPN 
+6, NUM 
+
+, SPACE 
+assimilation, NOUN 
+required, VERB 
+explain, VERB 
+dise-, NOUN 
+
+, SPACE 
+quilibrium, NOUN 
+enriched, VERB 
+samples, NOUN 
+
+, SPACE 
+unreasonably, ADV 
+large, ADJ 
+>, X 
+2, NUM 
+dredge, NOUN 
+ho-, NOUN 
+
+, SPACE 
+mogeneity, NOUN 
+230Th/232Th, PROPN 
+argues, VERB 
+strongly, ADV 
+
+, SPACE 
+random, ADJ 
+locally, ADV 
+variable, ADJ 
+assimilation, NOUN 
+
+, SPACE 
+eruption, NOUN 
+Finally, ADV 
+230Th/, NUM 
+23*U, NUM 
+correlates, VERB 
+axial, ADJ 
+
+, SPACE 
+depth, NOUN 
+Fig, PROPN 
+7, NUM 
+reason, NOUN 
+
+, SPACE 
+occur, VERB 
+disequilibrium, NOUN 
+
+, SPACE 
+explained, VERB 
+assimilation, NOUN 
+Mn, PROPN 
+rich, ADJ 
+sediments, NOUN 
+
+, SPACE 
+evidence, NOUN 
+assimilation, NOUN 
+
+, SPACE 
+230Th, ADJ 
+rich, ADJ 
+material, NOUN 
+influenced, VERB 
+Th, PROPN 
+U, NOUN 
+system-, NOUN 
+
+, SPACE 
+atics, NOUN 
+glass, NOUN 
+samples, NOUN 
+analyzed, VERB 
+
+, SPACE 
+6.2, X 
+Source, NOUN 
+heterogeneity, NOUN 
+U, ADJ 
+Th, PROPN 
+disequilibrium, NOUN 
+
+, SPACE 
+230Th, NUM 
+238, NUM 
+
+, SPACE 
+U, NOUN 
+presumed, VERB 
+secular, ADJ 
+
+, SPACE 
+equilibrium, NOUN 
+mantle, PROPN 
+source, NOUN 
+prior, ADV 
+melting, NOUN 
+
+, SPACE 
+melting, NOUN 
+extent, NOUN 
+disequilibrium, NOUN 
+
+, SPACE 
+depend, VERB 
+D,/D, NOUN 
+residue, NOUN 
+
+, SPACE 
+modal, ADJ 
+mineralogy, NOUN 
+volatile, ADJ 
+content, NOUN 
+fertility, NOUN 
+
+, SPACE 
+source, NOUN 
+affect, VERB 
+bulk, ADJ 
+U, ADJ 
+Th, PROPN 
+partition, NOUN 
+
+, SPACE 
+coefficient, VERB 
+U, PROPN 
+Th, PROPN 
+systematics, NOUN 
+
+, SPACE 
+melt, NOUN 
+3,34,35, NUM 
+enriched, ADJ 
+source, NOUN 
+abun-, ADJ 
+
+, SPACE 
+dant, NOUN 
+garnet, NOUN 
+example, NOUN 
+higher, ADJ 
+
+, SPACE 
+D”/D, PROPN 
+ll, PROPN 
+
+, SPACE 
+axis, NOUN 
+surveys, NOUN 
+MAR, PROPN 
+Schilling, VERB 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+111, NUM 
+shown, VERB 
+trace, NOUN 
+elements, NOUN 
+document, NOUN 
+source, NOUN 
+
+, SPACE 
+heterogeneities, NOUN 
+correlate, VERB 
+axial, ADJ 
+depth, NOUN 
+
+, SPACE 
+Azores, PROPN 
+region, NOUN 
+relationship, NOUN 
+
+, SPACE 
+230Th/, NUM 
+238U, PROPN 
+source, NOUN 
+chemical, NOUN 
+isotopic, ADJ 
+vari-, NOUN 
+
+, SPACE 
+ations, NOUN 
+needs, VERB 
+carefully, ADV 
+examined, VERB 
+Bourdon, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+36, NUM 
+shown, VERB 
+general, ADJ 
+global, ADJ 
+corre-, ADJ 
+
+, SPACE 
+lation, NOUN 
+230Th/, NUM 
+238U, PROPN 
+Th, PROPN 
+U., PROPN 
+
+, SPACE 
+FAZAR, NOUN 
+samples, NOUN 
+occupy, VERB 
+shallow, ADJ 
+end, NOUN 
+
+, SPACE 
+array, NOUN 
+high, ADJ 
+Th, PROPN 
+U, PROPN 
+relative, ADJ 
+
+, SPACE 
+MORBs, NOUN 
+need, VERB 
+consider, VERB 
+
+, SPACE 
+higher, ADJ 
+average, ADJ 
+230, NUM 
+Th/, PROPN 
+238U, PROPN 
+ratios, NOUN 
+
+, SPACE 
+samples, NOUN 
+explained, VERB 
+source, NOUN 
+effect, NOUN 
+
+, SPACE 
+Measured, VERB 
+230Th/, NUM 
+238U, PROPN 
+ratios, NOUN 
+FAZAR, PROPN 
+
+, SPACE 
+region, NOUN 
+correlate, VERB 
+trace, NOUN 
+element, NOUN 
+
+, SPACE 
+ratios, NOUN 
+Ba, PROPN 
+Th, PROPN 
+Ba, PROPN 
+TiO, NOUN 
+good, ADJ 
+
+, SPACE 
+indicators, NOUN 
+plume, ADJ 
+involvement, NOUN 
+source, NOUN 
+Simi-, X 
+
+, SPACE 
+larly, ADV 
+simple, ADJ 
+relationships, NOUN 
+230Th/, NUM 
+23*U, NUM 
+
+, SPACE 
+Sr/, PROPN 
+86, NUM 
+Sr, PROPN 
+43Nd/, PROPN 
+44Nd, NUM 
+06Pb/, NOUN 
+204Pb, NUM 
+
+, SPACE 
+observed, VERB 
+L., PROPN 
+Dosso, PROPN 
+pers, NOUN 
+commun, NOUN 
+example, NOUN 
+samples, NOUN 
+RC46, PROPN 
+RC98, PROPN 
+come, VERB 
+
+, SPACE 
+shallowest, ADJ 
+ridge, NOUN 
+segment, NOUN 
+studied, VERB 
+KP-5, PROPN 
+rela-, VERB 
+
+, SPACE 
+tively, ADV 
+depleted, VERB 
+geochemical, ADJ 
+signatures, NOUN 
+low, ADJ 
+Ba, PROPN 
+Th, PROPN 
+
+, SPACE 
+relatively, ADV 
+low, ADJ 
+Ba, PROPN 
+TiO, NOUN 
+high, ADJ 
+
+, SPACE 
+230Th/, NUM 
+238U, PROPN 
+similar, ADJ 
+nearby, ADJ 
+geochemically, ADV 
+en-, X 
+
+, SPACE 
+riched, VERB 
+samples, NOUN 
+e.g., ADV 
+DR17, PROPN 
+
+, SPACE 
+influence, NOUN 
+Azores, PROPN 
+plume, NOUN 
+
+, SPACE 
+MAR, PROPN 
+FAZAR, PROPN 
+region, NOUN 
+systematic, ADJ 
+relationships, NOUN 
+
+, SPACE 
+melting, VERB 
+depth, NOUN 
+melting, NOUN 
+process, NOUN 
+source, NOUN 
+
+, SPACE 
+heterogeneity, NOUN 
+expected, VERB 
+
+, SPACE 
+degree, NOUN 
+correlation, NOUN 
+230Th, NUM 
+excess, ADJ 
+
+, SPACE 
+source, NOUN 
+composition, NOUN 
+expected, VERB 
+
+, SPACE 
+direct, ADJ 
+causal, NOUN 
+link, NOUN 
+parameters, NOUN 
+
+, SPACE 
+relationship, NOUN 
+evident, ADJ 
+
+, SPACE 
+data, NOUN 
+conclude, VERB 
+con-, X 
+
+, SPACE 
+ceivable, ADJ 
+source, NOUN 
+enrichment, NOUN 
+contribute, VERB 
+
+, SPACE 
+generally, ADV 
+large, ADJ 
+excesses, NOUN 
+230Th, NUM 
+charac-, X 
+
+, SPACE 
+terize, VERB 
+FAZAR, PROPN 
+samples, NOUN 
+local, ADJ 
+variations, NOUN 
+
+, SPACE 
+230Th/, NUM 
+238U, PROPN 
+scale, NOUN 
+study, NOUN 
+
+, SPACE 
+related, VERB 
+source, NOUN 
+heterogeneity, NOUN 
+
+, SPACE 
+6.3, X 
+relationship, NOUN 
+230Th-23RU, NUM 
+disequilib-, NOUN 
+
+, SPACE 
+rium, NOUN 
+melting, NOUN 
+processes, NOUN 
+
+, SPACE 
+assimilation, NOUN 
+source, NOUN 
+heterogene-, NOUN 
+
+, SPACE 
+ity, NOUN 
+account, VERB 
+internal, ADJ 
+FAZAR, PROPN 
+230Th-238U, PROPN 
+
+, SPACE 
+systematics, NOUN 
+observed, ADJ 
+variations, NOUN 
+likely, ADJ 
+
+, SPACE 
+caused, VERB 
+melting, NOUN 
+processes, NOUN 
+section, NOUN 
+
+, SPACE 
+qualitatively, ADV 
+evaluate, VERB 
+melting, NOUN 
+parameters, NOUN 
+including, VERB 
+
+, SPACE 
+degree, NOUN 
+melting, NOUN 
+upwelling, VERB 
+velocity, NOUN 
+matrix, NOUN 
+
+, SPACE 
+porosity, NOUN 
+pressure, NOUN 
+melting, NOUN 
+affect, VERB 
+
+, SPACE 
+230Th/, NUM 
+238U, PROPN 
+context, NOUN 
+key, ADJ 
+observation, NOUN 
+
+, SPACE 
+correlation, NOUN 
+axial, ADJ 
+de, X 
+th, X 
+ridge, NOUN 
+
+, SPACE 
+geophysical, ADJ 
+observable, ADJ 
+P, NOUN 
+2, NUM 
+oTh/238U, NOUN 
+ratios, NOUN 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+
+, SPACE 
+general, ADJ 
+larger, ADJ 
+degrees, NOUN 
+melting, NOUN 
+
+, SPACE 
+batch, VERB 
+fractional, ADJ 
+lead, VERB 
+smaller, ADJ 
+fractionations, NOUN 
+
+, SPACE 
+230n, NUM 
+238, NUM 
+
+, SPACE 
+U., PROPN 
+shallower, NOUN 
+ridge, NOUN 
+axis, NOUN 
+
+, SPACE 
+indicative, ADJ 
+hotter, ADJ 
+mantle, NOUN 
+higher, ADJ 
+
+, SPACE 
+degrees, NOUN 
+melting, NOUN 
+predict, VERB 
+positive, ADJ 
+
+, SPACE 
+correlation, NOUN 
+230, NUM 
+Th, PROPN 
+excess, ADJ 
+axial, ADJ 
+ridge, NOUN 
+depth, NOUN 
+
+, SPACE 
+opposite, NOUN 
+observe, VERB 
+FAZAR, PROPN 
+
+, SPACE 
+degree, NOUN 
+melting, NOUN 
+
+, SPACE 
+exert, VERB 
+primary, ADJ 
+influence, NOUN 
+degree, NOUN 
+Th, PROPN 
+U, PROPN 
+
+, SPACE 
+disequilibria, NOUN 
+
+, SPACE 
+shown, VERB 
+McKenzie, PROPN 
+2, NUM 
+3,37, X 
+
+, SPACE 
+slow, ADJ 
+upwelling, NOUN 
+source, NOUN 
+material, NOUN 
+beneath, ADP 
+ridge, NOUN 
+
+, SPACE 
+lead, VERB 
+large, ADJ 
+excesses, NOUN 
+230Th, PROPN 
+provided, VERB 
+
+, SPACE 
+184, NUM 
+B., PROPN 
+Bourdon, PROPN 
+et, NOUN 
+01, NUM 
+/Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+142, NUM 
+19, NUM 
+175, NUM 
+189, NUM 
+
+, SPACE 
+1.25, NUM 
+
+, SPACE 
+1.05, NUM 
+
+, SPACE 
+Mid, PROPN 
+Atlantic, PROPN 
+Ridge, PROPN 
+
+, SPACE 
+0.0, NUM 
+0.020, NUM 
+0.040, NUM 
+0.060, NUM 
+0.060, NUM 
+0.10, NUM 
+0.12, NUM 
+
+, SPACE 
+Matrix, PROPN 
+upwelling, NOUN 
+velocity, NOUN 
+m, PROPN 
+yr, PROPN 
+
+, SPACE 
+Pressure, PROPN 
+kbar, PROPN 
+
+, SPACE 
+1.15, NUM 
+t,, NOUN 
+,,,'.1,,,,1, PROPN 
+,1, PUNCT 
+',,l,,,,i, VERB 
+
+, SPACE 
+65, NUM 
+70, NUM 
+75, NUM 
+60, NUM 
+65, NUM 
+90, NUM 
+95, NUM 
+100, NUM 
+105, NUM 
+
+, SPACE 
+Solidus, PROPN 
+depth, NOUN 
+km, NOUN 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+Model, PROPN 
+curve, NOUN 
+z30Th/23aU, NUM 
+function, NOUN 
+matrix, NOUN 
+
+, SPACE 
+upwelling, VERB 
+velocity, NOUN 
+Increased, VERB 
+buoyancy, NOUN 
+near, ADP 
+hotspot, NOUN 
+
+, SPACE 
+increase, VERB 
+matrix, NOUN 
+upwelling, VERB 
+velocity, NOUN 
+Decrease, VERB 
+upwelling, VERB 
+near, ADP 
+
+, SPACE 
+segment, NOUN 
+boundaries, NOUN 
+explain, VERB 
+local, ADJ 
+systematics, NOUN 
+
+, SPACE 
+calculation, NOUN 
+initial, ADJ 
+depth, NOUN 
+melting, NOUN 
+constant, ADJ 
+25, NUM 
+kbar, NOUN 
+
+, SPACE 
+mantle, ADJ 
+porosity, NOUN 
+0.3, NUM 
+b, X 
+Model, PROPN 
+curve, NOUN 
+Th/, NOUN 
+23sU, PROPN 
+
+, SPACE 
+function, NOUN 
+solidus, PROPN 
+depth, NOUN 
+matrix, NOUN 
+upwelling, NOUN 
+velocity, NOUN 
+
+, SPACE 
+0.02, NUM 
+m, NOUN 
+yr, PROPN 
+porosity, NOUN 
+0.3, NUM 
+30, NUM 
+40, NUM 
+km, NOUN 
+
+, SPACE 
+variation, NOUN 
+solidus, PROPN 
+depth, NOUN 
+possibly, ADV 
+explain, VERB 
+axis, NOUN 
+varia-, NOUN 
+
+, SPACE 
+tions, NOUN 
+230Th/, NUM 
+23aU, NUM 
+model, NOUN 
+curves, NOUN 
+melting, NOUN 
+rate, NOUN 
+
+, SPACE 
+l%/kbar, NUM 
+Bulk, ADJ 
+partition, NOUN 
+coefficients, NOUN 
+U, PROPN 
+Th, PROPN 
+1.9X, NOUN 
+
+, SPACE 
+lo-, NOUN 
+5.3X, VERB 
+1O-4, NUM 
+garnet, NOUN 
+lheaolite, NOUN 
+taken, VERB 
+
+, SPACE 
+1, NUM 
+X, NOUN 
+10e5, NUM 
+U, PROPN 
+Th, PROPN 
+spine1, PROPN 
+lherzolite, ADJ 
+field, NOUN 
+simulate, VERB 
+
+, SPACE 
+melt, NOUN 
+depletion, NOUN 
+garnet, NOUN 
+spine1, PROPN 
+lherzolite, ADJ 
+transition, NOUN 
+fixed, VERB 
+
+, SPACE 
+20, NUM 
+kbar, NOUN 
+
+, SPACE 
+melr, NOUN 
+velocity, NOUN 
+sufficiently, ADV 
+rapid, ADJ 
+hotter, ADJ 
+
+, SPACE 
+active, ADJ 
+ridge, NOUN 
+segments, NOUN 
+expected, VERB 
+exhibit, VERB 
+
+, SPACE 
+smallest, ADJ 
+230Th/238U, PROPN 
+ratios, NOUN 
+Fig, PROPN 
+8a, NUM 
+
+, SPACE 
+2,3,37, NUM 
+magma, ADJ 
+upwelling, NOUN 
+rate, NOUN 
+
+, SPACE 
+controlling, VERB 
+factor, NOUN 
+FAZAR, PROPN 
+re-, ADJ 
+
+, SPACE 
+verse, NOUN 
+observe, VERB 
+dis-, VERB 
+
+, SPACE 
+count, NOUN 
+upwelling, VERB 
+velocity, NOUN 
+major, ADJ 
+factor, NOUN 
+
+, SPACE 
+determining, VERB 
+230Th, NUM 
+excesses, NOUN 
+FAZAR, PROPN 
+
+, SPACE 
+important, ADJ 
+parameter, NOUN 
+arises, VERB 
+vari-, ADJ 
+ous, ADJ 
+melting, NOUN 
+models, NOUN 
+matrix, NOUN 
+porosity, NOUN 
+High, ADJ 
+
+, SPACE 
+mantle, ADJ 
+porosity, NOUN 
+associated, VERB 
+hot, ADJ 
+re-, ADJ 
+
+, SPACE 
+gions, NOUN 
+characterized, VERB 
+shallow, PROPN 
+ridge, NOUN 
+depth, NOUN 
+higher, ADJ 
+
+, SPACE 
+rates, NOUN 
+crustal, ADJ 
+production, NOUN 
+Higher, ADJ 
+porosity, NOUN 
+how-, ADP 
+
+, SPACE 
+tend, VERB 
+decrease, VERB 
+230Th/, NUM 
+238U, PROPN 
+
+, SPACE 
+melt, NOUN 
+opposite, NOUN 
+ob-, VERB 
+
+, SPACE 
+serve, VERB 
+porosity, NOUN 
+unlikely, ADJ 
+main, ADJ 
+
+, SPACE 
+controlling, VERB 
+factor, NOUN 
+230Th/, NUM 
+238U, PROPN 
+FAZAR, PROPN 
+
+, SPACE 
+Finally, ADV 
+need, VERB 
+consider, VERB 
+effect, NOUN 
+
+, SPACE 
+pressure, NOUN 
+intersection, NOUN 
+solidus, NOUN 
+
+, SPACE 
+solidus, PROPN 
+intersected, VERB 
+greater, ADJ 
+pressure, NOUN 
+up-, X 
+
+, SPACE 
+welling, NOUN 
+material, NOUN 
+begin, VERB 
+melt, VERB 
+deeper, ADJ 
+
+, SPACE 
+mantle, NOUN 
+Deeper, ADJ 
+initiation, NOUN 
+melting, VERB 
+garnet, NOUN 
+
+, SPACE 
+peridotite, VERB 
+stability, NOUN 
+field, NOUN 
+P, NOUN 
+>, X 
+20, NUM 
+kbar, NOUN 
+leads, VERB 
+
+, SPACE 
+availability, NOUN 
+time, NOUN 
+growth, NOUN 
+230Th, PROPN 
+
+, SPACE 
+238U, PROPN 
+retained, VERB 
+relative, ADJ 
+Th, PROPN 
+garnet-, ADJ 
+
+, SPACE 
+bearing, NOUN 
+residue, NOUN 
+1371, NUM 
+conditions, NOUN 
+
+, SPACE 
+ultimately, ADV 
+lead, VERB 
+greater, ADJ 
+melt, NOUN 
+production, NOUN 
+thicker, ADJ 
+
+, SPACE 
+crust, NOUN 
+shallower, PROPN 
+ridge, PROPN 
+depth, NOUN 
+larger, ADJ 
+extents, NOUN 
+
+, SPACE 
+Th, PROPN 
+U, NOUN 
+disequilibrium, NOUN 
+prediction, NOUN 
+consistent, ADJ 
+
+, SPACE 
+FAZAR, PROPN 
+data, NOUN 
+provides, VERB 
+qualita-, ADJ 
+
+, SPACE 
+tive, NOUN 
+explanation, NOUN 
+correlation, NOUN 
+
+, SPACE 
+230Th/, NUM 
+238U, PROPN 
+axial, ADJ 
+depth, NOUN 
+
+, SPACE 
+Variation, PROPN 
+solidus, PROPN 
+pressure, NOUN 
+ex-, VERB 
+
+, SPACE 
+plain, VERB 
+U, PROPN 
+Th, PROPN 
+data, NOUN 
+Faial, PROPN 
+30”N, NUM 
+MAR, NOUN 
+
+, SPACE 
+basalts, NOUN 
+Fig, PROPN 
+7, NUM 
+considered, VERB 
+end-, DET 
+
+, SPACE 
+members, NOUN 
+melting, NOUN 
+process, NOUN 
+Beneath, ADP 
+center, NOUN 
+
+, SPACE 
+Azores, PROPN 
+hotspot, NOUN 
+Faial, PROPN 
+pressure, NOUN 
+inter-, ADJ 
+
+, SPACE 
+section, NOUN 
+solidus, NOUN 
+high, ADJ 
+leading, VERB 
+
+, SPACE 
+longer, ADJ 
+residence, NOUN 
+time, NOUN 
+garnet, NOUN 
+field, NOUN 
+
+, SPACE 
+producing, VERB 
+larger, ADJ 
+230Th, NUM 
+excesses, NOUN 
+
+, SPACE 
+shallowest, ADJ 
+ridge, NOUN 
+depending, VERB 
+variation, NOUN 
+up-, X 
+
+, SPACE 
+welling, NOUN 
+rates, NOUN 
+hotspot, NOUN 
+ridge, NOUN 
+
+, SPACE 
+mantle, NOUN 
+Faial, PROPN 
+overlain, ADJ 
+N, PROPN 
+40, NUM 
+km, NOUN 
+thick, ADJ 
+
+, SPACE 
+lithospheric, NOUN 
+lid, NOUN 
+melt, VERB 
+transport, NOUN 
+re-, ADP 
+
+, SPACE 
+gion, NOUN 
+fast, ADJ 
+preserve, VERB 
+
+, SPACE 
+U, PROPN 
+Th, NOUN 
+disequilibrium, NOUN 
+30”N, NUM 
+axial, ADJ 
+depth, NOUN 
+
+, SPACE 
+order, NOUN 
+3000, NUM 
+4000, NUM 
+m, PROPN 
+accordingly, ADV 
+
+, SPACE 
+mantle, NOUN 
+temperature, NOUN 
+cooler, ADJ 
+upwelling, VERB 
+mantle, NOUN 
+
+, SPACE 
+reaches, VERB 
+solidus, NOUN 
+relatively, ADV 
+shallow, ADJ 
+depth, NOUN 
+
+, SPACE 
+solidus, ADJ 
+pressure, NOUN 
+model, NOUN 
+lead, VERB 
+low, ADJ 
+
+, SPACE 
+230Th, NUM 
+excess, NOUN 
+fact, NOUN 
+observe, VERB 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+sample, NOUN 
+D12, PROPN 
+9, NUM 
+29”N, NUM 
+contains, VERB 
+
+, SPACE 
+excess, ADJ 
+238U, PROPN 
+indicating, VERB 
+melting, NOUN 
+
+, SPACE 
+started, VERB 
+garnet, NOUN 
+spine1, PROPN 
+transition, NOUN 
+
+, SPACE 
+clinopyroxene, ADJ 
+main, ADJ 
+phase, NOUN 
+controlling, VERB 
+U, PROPN 
+Th, PROPN 
+
+, SPACE 
+fractionation, NOUN 
+38,39, NOUN 
+case, NOUN 
+D, PROPN 
+>, X 
+DY, PROPN 
+
+, SPACE 
+melting, NOUN 
+lead, VERB 
+excess, ADJ 
+238U, PROPN 
+relative, NOUN 
+3oTh, NOUN 
+
+, SPACE 
+8, X 
+Bourdon, PROPN 
+et, NOUN 
+af, ADP 
+Earth, PROPN 
+Pfanetmy, PROPN 
+Science, PROPN 
+Letters, PROPN 
+I42, PROPN 
+19, NUM 
+I75, PROPN 
+189, NUM 
+185, NUM 
+
+, SPACE 
+observation, NOUN 
+strongly, ADV 
+supports, VERB 
+solidus, PROPN 
+pres-, NOUN 
+
+, SPACE 
+sure, ADJ 
+model, NOUN 
+melting, NOUN 
+parameter, NOUN 
+in-, X 
+
+, SPACE 
+duce, VERB 
+reversal, NOUN 
+U, PROPN 
+Th, PROPN 
+fractionation, NOUN 
+
+, SPACE 
+summary, NOUN 
+correlation, NOUN 
+U, PROPN 
+Th, NOUN 
+disequilib-, NOUN 
+
+, SPACE 
+rium, NOUN 
+axial, ADJ 
+depth, NOUN 
+FAZAR, PROPN 
+best, ADV 
+explained, VERB 
+
+, SPACE 
+variation, NOUN 
+solidus, PROPN 
+pressure, NOUN 
+MAR, PROPN 
+
+, SPACE 
+variation, NOUN 
+related, VERB 
+anomalously, ADV 
+
+, SPACE 
+high, ADJ 
+volatile, ADJ 
+content, NOUN 
+Azores, PROPN 
+plume, NOUN 
+material, NOUN 
+
+, SPACE 
+11,40,41, NUM 
+hotter, ADJ 
+mantle, PROPN 
+temperature, NOUN 
+combina-, NOUN 
+
+, SPACE 
+tion, NOUN 
+increased, VERB 
+presence, NOUN 
+fertile, ADJ 
+
+, SPACE 
+eclogite, ADJ 
+plume, ADJ 
+source, NOUN 
+material, NOUN 
+
+, SPACE 
+simultaneously, ADV 
+increase, VERB 
+solidus, PROPN 
+depth, NOUN 
+
+, SPACE 
+interval, NOUN 
+garnet, NOUN 
+liquidus, NOUN 
+
+, SPACE 
+case, NOUN 
+eclogite, NOUN 
+main, ADJ 
+car-, NOUN 
+
+, SPACE 
+rier, ADJ 
+plume, ADJ 
+geochemical, ADJ 
+signature, NOUN 
+
+, SPACE 
+absence, NOUN 
+observed, VERB 
+correlations, NOUN 
+
+, SPACE 
+230Th/, NUM 
+238U, PROPN 
+trace, NOUN 
+element, NOUN 
+isotopic, ADJ 
+
+, SPACE 
+indices, NOUN 
+enrichment, NOUN 
+Furthermore, ADV 
+low, ADJ 
+Fe, PROPN 
+con-, VERB 
+
+, SPACE 
+tent, NOUN 
+MORB, NOUN 
+near, ADP 
+Azores, PROPN 
+
+, SPACE 
+argue, VERB 
+fertile, ADJ 
+source, NOUN 
+
+, SPACE 
+region, NOUN 
+terms, NOUN 
+major, ADJ 
+elements, NOUN 
+data, NOUN 
+
+, SPACE 
+discriminate, VERB 
+hypotheses, NOUN 
+
+, SPACE 
+U, PROPN 
+Th, PROPN 
+disequilibrium, NOUN 
+reflects, VERB 
+depth, NOUN 
+
+, SPACE 
+melting, NOUN 
+begins, VERB 
+consider, VERB 
+likely, ADJ 
+mantle, NOUN 
+
+, SPACE 
+temperature, NOUN 
+increased, VERB 
+volatile, ADJ 
+content, NOUN 
+impor-, X 
+
+, SPACE 
+tant, NOUN 
+enhanced, ADJ 
+presence, NOUN 
+mafic, ADJ 
+material, NOUN 
+
+, SPACE 
+source, NOUN 
+reflect, VERB 
+principle, NOUN 
+
+, SPACE 
+Th, PROPN 
+U, PROPN 
+data, NOUN 
+
+, SPACE 
+6.4, X 
+Quantitative, ADJ 
+investigation, NOUN 
+model, NOUN 
+U, PROPN 
+Th, PROPN 
+
+, SPACE 
+disequilibrium, NOUN 
+
+, SPACE 
+plausibility, NOUN 
+model, NOUN 
+proposed, VERB 
+
+, SPACE 
+tested, VERB 
+calculating, VERB 
+230Th/238U, PROPN 
+function, NOUN 
+
+, SPACE 
+pressure, NOUN 
+intersection, NOUN 
+solidus, NOUN 
+
+, SPACE 
+stage, NOUN 
+dimensional, ADJ 
+transport, NOUN 
+
+, SPACE 
+model, NOUN 
+37, NUM 
+stage, NOUN 
+garnet, NOUN 
+lherzolite, ADJ 
+
+, SPACE 
+field, NOUN 
+Dr,,/D, NUM 
+=, PROPN 
+0.28, NUM 
+second, ADJ 
+stage, NOUN 
+
+, SPACE 
+spine1, PROPN 
+lherzolite, ADJ 
+field, NOUN 
+D, NOUN 
+D, PROPN 
+
+, SPACE 
+small, ADJ 
+melt, NOUN 
+depletion, NOUN 
+solid, ADJ 
+
+, SPACE 
+calculation, NOUN 
+variable, NOUN 
+PO, NOUN 
+
+, SPACE 
+parameters, NOUN 
+held, VERB 
+constant, ADJ 
+caption, NOUN 
+Fig, PROPN 
+8), NUM 
+
+, SPACE 
+matrix, NOUN 
+porosity, NOUN 
+essentially, ADV 
+free, ADJ 
+parameter, NOUN 
+
+, SPACE 
+value, NOUN 
+0.3, NUM 
+gives, VERB 
+range, NOUN 
+230Th/, NUM 
+238U, PROPN 
+
+, SPACE 
+closely, ADV 
+matches, VERB 
+range, NOUN 
+obtained, VERB 
+
+, SPACE 
+FAZAR, NOUN 
+samples, NOUN 
+increase, NOUN 
+solidus, ADJ 
+pressure, NOUN 
+
+, SPACE 
+necessary, ADJ 
+obtain, VERB 
+observed, VERB 
+range, NOUN 
+
+, SPACE 
+230Th/238U, PROPN 
+10, NUM 
+kbar, NOUN 
+places, VERB 
+highest, ADJ 
+pressure, NOUN 
+onset, NOUN 
+melting, VERB 
+30, NUM 
+35, NUM 
+
+, SPACE 
+kbar, NOUN 
+Fig, PROPN 
+8b, PROPN 
+correspond, VERB 
+increase, NOUN 
+
+, SPACE 
+temperature, NOUN 
+relative, ADJ 
+ambient, ADJ 
+mantle, NOUN 
+
+, SPACE 
+100, NUM 
+°, NOUN 
+C, NOUN 
+mantle, NOUN 
+temperature, NOUN 
+derived, VERB 
+
+, SPACE 
+model, NOUN 
+reasonable, ADJ 
+agreement, NOUN 
+esti-, ADJ 
+
+, SPACE 
+mate, NOUN 
+based, VERB 
+gravity, NOUN 
+data, NOUN 
+75”C, NUM 
+Cochran, PROPN 
+
+, SPACE 
+Talwani, PROPN 
+8, NUM 
+consistent, ADJ 
+range, NOUN 
+
+, SPACE 
+regional, ADJ 
+depth, NOUN 
+1500, NUM 
+m, NOUN 
+Azores, PROPN 
+total, ADJ 
+
+, SPACE 
+range, NOUN 
+ridge, NOUN 
+axial, ADJ 
+depth, NOUN 
+o-5000, PROPN 
+m, PROPN 
+reflects, VERB 
+
+, SPACE 
+250, NUM 
+°, NOUN 
+C, NOUN 
+change, NOUN 
+mantle, ADJ 
+temperature, NOUN 
+estimate, NOUN 
+
+, SPACE 
+lower, ADJ 
+estimate, NOUN 
+=, NUM 
+200, NUM 
+°, NOUN 
+C, NOUN 
+given, VERB 
+
+, SPACE 
+Schilling, PROPN 
+42, NUM 
+lead, VERB 
+crustal, NOUN 
+thick-, NUM 
+
+, SPACE 
+ness, ADV 
+greatly, ADV 
+excess, NOUN 
+deduced, VERB 
+seismic, ADJ 
+
+, SPACE 
+observations, NOUN 
+11, NUM 
+km, NOUN 
+
+, SPACE 
+Assuming, VERB 
+melt, NOUN 
+productivity, NOUN 
+=, NOUN 
+
+, SPACE 
+l%/kbar, NUM 
+axial, ADJ 
+depth, NOUN 
+ridge, NOUN 
+mod-, ADJ 
+
+, SPACE 
+elled, VERB 
+different, ADJ 
+pressures, NOUN 
+intersection, NOUN 
+
+, SPACE 
+solidus, NOUN 
+isostatic, ADJ 
+model, NOUN 
+Klein, PROPN 
+
+, SPACE 
+Langmuir, PROPN 
+26, NUM 
+compensation, NOUN 
+depth, NOUN 
+200, NUM 
+
+, SPACE 
+km, NOUN 
+crustal, NOUN 
+thicknesses, NOUN 
+obtained, VERB 
+model, NOUN 
+
+, SPACE 
+consistent, ADJ 
+maximum, ADJ 
+crustal, NOUN 
+thickness, NOUN 
+
+, SPACE 
+determined, VERB 
+seismically, ADV 
+Azores, PROPN 
+plateau, NOUN 
+
+, SPACE 
+curve, NOUN 
+shown, VERB 
+Fig, PROPN 
+7, NUM 
+result, NOUN 
+parameteri-, NOUN 
+
+, SPACE 
+zation, NOUN 
+axial, ADJ 
+depth, NOUN 
+230Th/, NUM 
+238U, PROPN 
+function, NOUN 
+
+, SPACE 
+P, PROPN 
+consistent, ADJ 
+trend, NOUN 
+shown, VERB 
+
+, SPACE 
+data, NOUN 
+
+, SPACE 
+discrepancy, NOUN 
+detail, NOUN 
+be-, X 
+
+, SPACE 
+tween, VERB 
+crustal, NOUN 
+thickness, NOUN 
+estimated, VERB 
+Detrick, PROPN 
+et, PROPN 
+
+, SPACE 
+al, PROPN 
+5, NUM 
+inferred, VERB 
+Th, PROPN 
+U, NOUN 
+disequihb-, ADJ 
+
+, SPACE 
+rium, NOUN 
+data, NOUN 
+interpretation, NOUN 
+gravity, NOUN 
+data, NOUN 
+suggests, VERB 
+
+, SPACE 
+crust, NOUN 
+thicker, ADJ 
+beneath, ADP 
+segment, NOUN 
+KP-2, X 
+
+, SPACE 
+KP-3, NUM 
+Th, PROPN 
+U, PROPN 
+consistent, ADJ 
+thicker, ADJ 
+
+, SPACE 
+crust, NOUN 
+segment, NOUN 
+KP-5, NOUN 
+rea-, NOUN 
+
+, SPACE 
+sons, NOUN 
+discrepancy, NOUN 
+Segments, NOUN 
+KP-4, PUNCT 
+KP-5, PROPN 
+
+, SPACE 
+inflated, ADJ 
+constructional, ADJ 
+
+, SPACE 
+phase, NOUN 
+U, PROPN 
+series, NOUN 
+data, NOUN 
+reflects, VERB 
+instantaneous, ADJ 
+
+, SPACE 
+state, NOUN 
+melting, NOUN 
+region, NOUN 
+gravity, NOUN 
+averaged, VERB 
+
+, SPACE 
+long, ADJ 
+length, NOUN 
+scale, NOUN 
+determination, NOUN 
+crustal, ADJ 
+
+, SPACE 
+thickness, NOUN 
+gravity, NOUN 
+tacitly, ADV 
+assumes, VERB 
+mantle, NOUN 
+
+, SPACE 
+densities, NOUN 
+constant, ADJ 
+mentioned, VERB 
+earlier, ADV 
+
+, SPACE 
+Azores, PROPN 
+region, NOUN 
+characterized, VERB 
+iron, NOUN 
+depletion, NOUN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+2, NUM 
+segments, NOUN 
+KP-2, X 
+KP-3, PROPN 
+
+, SPACE 
+lower, ADJ 
+Fe, PROPN 
+content, NOUN 
+adjacent, ADJ 
+segments, NOUN 
+
+, SPACE 
+segments, NOUN 
+truly, ADV 
+characterized, VERB 
+thicker, ADJ 
+crust, NOUN 
+
+, SPACE 
+expect, VERB 
+higher, ADJ 
+mean, ADJ 
+
+, SPACE 
+pressure, NOUN 
+melting, NOUN 
+higher, ADJ 
+Fe, PROPN 
+
+, SPACE 
+apparent, ADJ 
+contradiction, NOUN 
+resolved, VERB 
+seg-, NOUN 
+
+, SPACE 
+ments, NOUN 
+depleted, VERB 
+Fe, PROPN 
+produce, VERB 
+
+, SPACE 
+186, NUM 
+3, NUM 
+Bourdon, PROPN 
+et, PROPN 
+al, PROPN 
+/Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+142, NUM 
+1996, NUM 
+175-, NUM 
+I89, PROPN 
+
+, SPACE 
+lower, ADJ 
+density, NOUN 
+underlying, ADJ 
+mantle, NOUN 
+
+, SPACE 
+result, VERB 
+overestimation, NOUN 
+crustal, ADJ 
+thickness, NOUN 
+
+, SPACE 
+gravity, NOUN 
+method, NOUN 
+help, VERB 
+explain, VERB 
+
+, SPACE 
+discrepancy, NOUN 
+U, PROPN 
+Th, PROPN 
+disequilibria, NOUN 
+
+, SPACE 
+gravity, NOUN 
+data, NOUN 
+modelling, NOUN 
+
+, SPACE 
+6.5, NUM 
+Segment, NOUN 
+scale, NOUN 
+systematics, NOUN 
+
+, SPACE 
+significant, ADJ 
+dispersion, NOUN 
+230Th, ADJ 
+
+, SPACE 
+excess, ADJ 
+versus, ADP 
+axial, ADJ 
+depth, NOUN 
+correlation, NOUN 
+Fig, PROPN 
+7, NUM 
+
+, SPACE 
+230Th/23*U, NUM 
+axial, ADJ 
+depth, NOUN 
+shown, VERB 
+func-, ADJ 
+
+, SPACE 
+tion, NOUN 
+latitude, NOUN 
+Fig, PROPN 
+9, NUM 
+seen, VERB 
+
+, SPACE 
+230Th, NUM 
+excesses, NOUN 
+diminish, VERB 
+segment, NOUN 
+boundaries, NOUN 
+
+, SPACE 
+bathymetry, NOUN 
+deeper, ADJ 
+consider, VERB 
+
+, SPACE 
+possible, ADJ 
+explanations, NOUN 
+observation, NOUN 
+
+, SPACE 
+1, X 
+Samples, NOUN 
+recovered, VERB 
+segment, NOUN 
+boundaries, NOUN 
+
+, SPACE 
+fresh, ADJ 
+collected, VERB 
+segments, NOUN 
+
+, SPACE 
+suggested, VERB 
+based, VERB 
+morphology, NOUN 
+
+, SPACE 
+tectonics, NOUN 
+slow, ADV 
+spreading, VERB 
+ridges, NOUN 
+magma, ADJ 
+
+, SPACE 
+supply, NOUN 
+near, ADP 
+segment, NOUN 
+boundaries, NOUN 
+robust, ADJ 
+
+, SPACE 
+simple, ADJ 
+explanation, NOUN 
+lower, ADJ 
+230Th/, NUM 
+238U, PROPN 
+
+, SPACE 
+ratios, NOUN 
+near, ADP 
+segment, NOUN 
+boundaries, NOUN 
+samples, NOUN 
+
+, SPACE 
+1.35, NUM 
+
+, SPACE 
+s, NOUN 
+
+, SPACE 
+1.30, NUM 
+
+, SPACE 
+N, PROPN 
+
+, SPACE 
+z, PROPN 
+1.25, NUM 
+
+, SPACE 
+2, NUM 
+w, NOUN 
+
+, SPACE 
+1.20, NUM 
+
+, SPACE 
+1.15, NUM 
+
+, SPACE 
+37.50, NUM 
+38.50, NUM 
+39.50, NUM 
+40.50, NUM 
+
+, SPACE 
+Latitude, PROPN 
+
+, SPACE 
+Fig, PROPN 
+9, NUM 
+Comparison, NOUN 
+axial, ADJ 
+depth, NOUN 
+230Th/, NUM 
+U, NOUN 
+show-, PUNCT 
+
+, SPACE 
+ing, VERB 
+similarity, NOUN 
+curves, NOUN 
+Plotted, VERB 
+data, NOUN 
+points, NOUN 
+
+, SPACE 
+represent, VERB 
+averages, NOUN 
+s, NOUN 
+-nples, NOUN 
+single, ADJ 
+dredge, NOUN 
+
+, SPACE 
+Vertical, ADJ 
+lines, NOUN 
+represent, VERB 
+segment, NOUN 
+boundaries, NOUN 
+average, ADJ 
+older, ADJ 
+20, NUM 
+kyr, NOUN 
+consequence, NOUN 
+
+, SPACE 
+lower, ADJ 
+frequency, NOUN 
+magma, ADJ 
+injections, NOUN 
+
+, SPACE 
+2, X 
+proposed, VERB 
+central, ADJ 
+regions, NOUN 
+
+, SPACE 
+segments, NOUN 
+characterized, VERB 
+buoyant, ADJ 
+up-, X 
+
+, SPACE 
+welling, NOUN 
+hotter, ADJ 
+mantle, PROPN 
+temperatures, NOUN 
+23,43, NUM 
+
+, SPACE 
+lead, VERB 
+higher, ADJ 
+pressure, NOUN 
+intersection, NOUN 
+
+, SPACE 
+solidus, NOUN 
+segments, NOUN 
+segment, NOUN 
+boundaries, NOUN 
+
+, SPACE 
+possible, ADJ 
+significant, ADJ 
+horizontal, ADJ 
+thermal, ADJ 
+
+, SPACE 
+gradients, NOUN 
+>, X 
+7”K/, PROPN 
+10, NUM 
+km, NOUN 
+maintained, VERB 
+
+, SPACE 
+upwelling, NOUN 
+mantle, NOUN 
+difficult, ADJ 
+
+, SPACE 
+relatively, ADV 
+high, ADJ 
+rates, NOUN 
+thermal, ADJ 
+diffusion, NOUN 
+greater, ADJ 
+
+, SPACE 
+volatile, ADJ 
+content, NOUN 
+lead, VERB 
+deeper, ADJ 
+initiation, NOUN 
+
+, SPACE 
+melting, NOUN 
+possibility, NOUN 
+explaining, VERB 
+
+, SPACE 
+segment, NOUN 
+variability, NOUN 
+
+, SPACE 
+3, X 
+Upwelling, VERB 
+velocity, NOUN 
+vary, VERB 
+near, ADP 
+segment, NOUN 
+
+, SPACE 
+offsets, NOUN 
+20, NUM 
+50, NUM 
+km, NOUN 
+consequence, NOUN 
+near, ADJ 
+surface, NOUN 
+
+, SPACE 
+cooling, VERB 
+adjacent, ADJ 
+older, ADJ 
+plates, NOUN 
+23,43, NUM 
+47, NUM 
+
+, SPACE 
+model, NOUN 
+Sparks, PROPN 
+et, PROPN 
+al, PROPN 
+45, NUM 
+predicts, NOUN 
+example, NOUN 
+
+, SPACE 
+variations, NOUN 
+upwelling, VERB 
+rates, NOUN 
+60, NUM 
+near, ADP 
+
+, SPACE 
+transform, NOUN 
+zone, NOUN 
+reduction, NOUN 
+matrix, NOUN 
+velocity, NOUN 
+
+, SPACE 
+produce, VERB 
+larger, ADJ 
+smaller, ADJ 
+230Th, NOUN 
+excesses, NOUN 
+de-, X 
+
+, SPACE 
+pending, VERB 
+absolute, ADJ 
+value, NOUN 
+matrix, NOUN 
+velocity, NOUN 
+
+, SPACE 
+Fig, PROPN 
+8a, NUM 
+37, NUM 
+th, X 
+e, NOUN 
+matrix, NOUN 
+upwelling, NOUN 
+velocity, NOUN 
+
+, SPACE 
+0.01, NUM 
+m, PROPN 
+yr, PROPN 
+reduction, NOUN 
+
+, SPACE 
+30, NUM 
+40, NUM 
+explain, VERB 
+variations, NOUN 
+excess, ADJ 
+230Th, NOUN 
+
+, SPACE 
+observed, VERB 
+segment, NOUN 
+boundaries, NOUN 
+hypothesis, NOUN 
+
+, SPACE 
+consistent, ADJ 
+diapiric, ADJ 
+models, NOUN 
+slow, ADJ 
+spreading, VERB 
+
+, SPACE 
+ridge, NOUN 
+segments, NOUN 
+23,43,47, NUM 
+
+, SPACE 
+4, X 
+Melt, NOUN 
+segment, NOUN 
+boundaries, NOUN 
+longer, ADJ 
+
+, SPACE 
+residence, NOUN 
+time, NOUN 
+shallow, ADJ 
+upper, ADJ 
+mantle, NOUN 
+transport, NOUN 
+
+, SPACE 
+lithosphere, NOUN 
+slower, ADJ 
+^, ADJ 
+
+, SPACE 
+case, NOUN 
+decay, NOUN 
+Th, PROPN 
+
+, SPACE 
+disequilibrium, VERB 
+smaller, ADJ 
+cause, VERB 
+extent, NOUN 
+
+, SPACE 
+7, NUM 
+Summary, NOUN 
+conclusions, NOUN 
+
+, SPACE 
+U, PROPN 
+Th, PROPN 
+data, NOUN 
+basaltic, ADJ 
+glasses, NOUN 
+40”30’N, PROPN 
+
+, SPACE 
+37”30’N, NOUN 
+characterized, VERB 
+large, ADJ 
+230Th/238U, PROPN 
+
+, SPACE 
+ratios, NOUN 
+1.20-, NUM 
+1.35, NUM 
+attributed, VERB 
+assimi-, X 
+
+, SPACE 
+lation, NOUN 
+sediment, NOUN 
+Mn, NOUN 
+oxide, NOUN 
+coated, ADJ 
+surfaces, NOUN 
+
+, SPACE 
+Major, ADJ 
+elements, NOUN 
+trace, NOUN 
+elements, NOUN 
+Sr, PROPN 
+Nd, PROPN 
+Pb, PROPN 
+
+, SPACE 
+isotopes, NOUN 
+suggest, VERB 
+large, ADJ 
+variations, NOUN 
+mantle, PROPN 
+source, NOUN 
+
+, SPACE 
+composition, NOUN 
+portion, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+
+, SPACE 
+Ridge, PROPN 
+data, NOUN 
+set, VERB 
+rule, VERB 
+
+, SPACE 
+possibility, NOUN 
+high, ADJ 
+mean, ADJ 
+level, NOUN 
+230Th, ADJ 
+
+, SPACE 
+excess, NOUN 
+responding, VERB 
+garnet, NOUN 
+
+, SPACE 
+mantle, ADJ 
+source, NOUN 
+region, NOUN 
+internal, ADJ 
+variations, NOUN 
+
+
+, SPACE 
+3, NUM 
+Bourdon, PROPN 
+et, NOUN 
+al./, ADV 
+Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+142, NUM 
+19, NUM 
+175, NUM 
+189, NUM 
+187, NUM 
+
+, SPACE 
+sample, NOUN 
+suite, NOUN 
+independent, ADJ 
+
+, SPACE 
+compositional, ADJ 
+variations, NOUN 
+
+, SPACE 
+230Th/, NUM 
+238U, PROPN 
+ratios, NOUN 
+FAZAR, NOUN 
+glasses, NOUN 
+correlate, VERB 
+
+, SPACE 
+axial, ADJ 
+depth, NOUN 
+ridge, NOUN 
+greatest, ADJ 
+
+, SPACE 
+excesses, NOUN 
+230Th, NUM 
+observed, VERB 
+shallowest, ADJ 
+ridge, NOUN 
+
+, SPACE 
+segments, NOUN 
+data, NOUN 
+explained, VERB 
+qualitatively, ADV 
+
+, SPACE 
+quantitatively, ADV 
+variations, NOUN 
+solidus, PROPN 
+pressure, NOUN 
+
+, SPACE 
+resulting, VERB 
+hotter, ADJ 
+mantle, PROPN 
+temperatures, NOUN 
+and/or, CCONJ 
+
+, SPACE 
+higher, ADJ 
+source, NOUN 
+volatile, ADJ 
+content, NOUN 
+near, ADP 
+Azores, PROPN 
+plume, NOUN 
+
+, SPACE 
+model, NOUN 
+dependent, ADJ 
+estimate, NOUN 
+variation, NOUN 
+
+, SPACE 
+solidus, PROPN 
+pressure, NOUN 
+10, NUM 
+kbar, NOUN 
+300, NUM 
+km, NOUN 
+
+, SPACE 
+ridge, NOUN 
+place, VERB 
+initial, ADJ 
+pressure, NOUN 
+melt-, ADJ 
+
+, SPACE 
+ing, PROPN 
+beneath, ADP 
+shallowest, ADJ 
+portion, NOUN 
+ridge, NOUN 
+30, NUM 
+35, NUM 
+
+, SPACE 
+kbar, NOUN 
+consistent, ADJ 
+inferred, VERB 
+crustal, NOUN 
+thickness, NOUN 
+
+, SPACE 
+10, NUM 
+11, NUM 
+km, NOUN 
+
+, SPACE 
+solidus, ADJ 
+pressure, NOUN 
+model, NOUN 
+consistent, ADJ 
+
+, SPACE 
+association, NOUN 
+thick, ADJ 
+crust, NOUN 
+lighter, ADJ 
+hotter, ADJ 
+mantle, NOUN 
+
+, SPACE 
+bathymetric, ADJ 
+highs, NOUN 
+proposed, VERB 
+based, VERB 
+
+, SPACE 
+major, ADJ 
+element, NOUN 
+systematics, NOUN 
+normal, ADJ 
+ridge, NOUN 
+
+, SPACE 
+segments, NOUN 
+27, NUM 
+note, VERB 
+context, NOUN 
+
+, SPACE 
+major, ADJ 
+element, NOUN 
+approach, NOUN 
+Azores, PROPN 
+region, NOUN 
+
+, SPACE 
+considered, VERB 
+anomalous, ADJ 
+evidence, NOUN 
+
+, SPACE 
+major, ADJ 
+trace, VERB 
+element, NOUN 
+heterogeneity, NOUN 
+Th, PROPN 
+U, NOUN 
+
+, SPACE 
+disequilibrium, NOUN 
+approach, NOUN 
+sensitive, ADJ 
+
+, SPACE 
+major, ADJ 
+element, NOUN 
+source, NOUN 
+heterogeneity, NOUN 
+permits, VERB 
+
+, SPACE 
+investigation, NOUN 
+melting, VERB 
+systematics, NOUN 
+
+, SPACE 
+anomalous, ADJ 
+region, NOUN 
+
+, SPACE 
+FAZAR, PROPN 
+region, NOUN 
+230Th, NUM 
+excesses, NOUN 
+rela-, VERB 
+
+, SPACE 
+tively, ADV 
+smaller, ADJ 
+segment, NOUN 
+ends, NOUN 
+reduction, NOUN 
+mantle, NOUN 
+
+, SPACE 
+upwelling, VERB 
+velocity, NOUN 
+slow, ADJ 
+melt, ADJ 
+transport, NOUN 
+near, ADP 
+
+, SPACE 
+boundaries, NOUN 
+account, VERB 
+observations, NOUN 
+Al-, ADP 
+
+, SPACE 
+ternatively, ADV 
+smaller, ADJ 
+230Th/, NUM 
+238U, PROPN 
+reflect, VERB 
+
+, SPACE 
+older, ADJ 
+age, NOUN 
+lavas, NOUN 
+segment, NOUN 
+boundaries, NOUN 
+
+, SPACE 
+data, NOUN 
+needed, VERB 
+confirm, VERB 
+frame-, NOUN 
+
+, SPACE 
+work, NOUN 
+interpretation, NOUN 
+data, NOUN 
+provides, VERB 
+Exten-, NOUN 
+
+, SPACE 
+sion, NOUN 
+U, PROPN 
+Th, PROPN 
+studies, NOUN 
+ridges, NOUN 
+spread-, VERB 
+
+, SPACE 
+ing, ADJ 
+rates, NOUN 
+degrees, NOUN 
+melting, NOUN 
+axia1, NOUN 
+depths, NOUN 
+
+, SPACE 
+different, ADJ 
+help, VERB 
+understand, VERB 
+clearly, ADV 
+
+, SPACE 
+relationship, NOUN 
+variation, NOUN 
+melting, VERB 
+parameters, NOUN 
+
+, SPACE 
+230Th, NUM 
+excesses, NOUN 
+
+, SPACE 
+Acknowledgements, NOUN 
+
+, SPACE 
+Samples, NOUN 
+study, NOUN 
+collected, VERB 
+
+, SPACE 
+help, NOUN 
+Captain, PROPN 
+Howland, PROPN 
+crew, NOUN 
+Research, PROPN 
+
+, SPACE 
+Vessel, PROPN 
+Atlantis, PROPN 
+II, PROPN 
+appreciated, ADJ 
+
+, SPACE 
+paper, NOUN 
+greatly, ADV 
+benefited, VERB 
+discussions, NOUN 
+Tim, PROPN 
+Elliott, PROPN 
+Franc0, PROPN 
+Marcantonio, PROPN 
+Marc, PROPN 
+Spiegelman, PROPN 
+
+, SPACE 
+Jennifer, PROPN 
+Reynolds, PROPN 
+Dave, PROPN 
+Sparks, PROPN 
+Vincent, PROPN 
+Salters, PROPN 
+
+, SPACE 
+Laure, PROPN 
+Dosso, PROPN 
+thanked, VERB 
+sharing, VERB 
+unpublished, ADJ 
+
+, SPACE 
+FAZAR, PROPN 
+Sr, PROPN 
+Nd, PROPN 
+Pb, PROPN 
+isotope, NOUN 
+data, NOUN 
+work, NOUN 
+
+, SPACE 
+supported, VERB 
+NSF, PROPN 
+grants, NOUN 
+AZ, PROPN 
+CHL, PROPN 
+Construc-, PROPN 
+
+, SPACE 
+tive, VERB 
+comments, NOUN 
+J.-G., PROPN 
+Schilling, PROPN 
+Bill, PROPN 
+White, PROPN 
+
+, SPACE 
+anonymous, ADJ 
+reviewer, NOUN 
+helped, VERB 
+clarify, VERB 
+im-, VERB 
+
+, SPACE 
+prove, VERB 
+manuscript, NOUN 
+FAI, NOUN 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+C.J., PROPN 
+All&z, PROPN 
+M., PROPN 
+Condomines, PROPN 
+Basalt, PROPN 
+genesis, NOUN 
+mantle, NOUN 
+
+, SPACE 
+structure, NOUN 
+studied, VERB 
+Th, PROPN 
+isotopic, ADJ 
+geochemistry, NOUN 
+Nature, PROPN 
+
+, SPACE 
+299, NUM 
+21, NUM 
+24, NUM 
+1982, NUM 
+
+, SPACE 
+2, X 
+D., PROPN 
+McKenzie, PROPN 
+230Th-238U, PROPN 
+disequilibrium, NOUN 
+melting, NOUN 
+
+, SPACE 
+processes, NOUN 
+beneath, ADP 
+ridge, NOUN 
+Earth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+Lett, PROPN 
+72, NUM 
+149, NUM 
+157, NUM 
+
+, SPACE 
+1985, NUM 
+
+, SPACE 
+3, X 
+R.W., PROPN 
+Williams, PROPN 
+J.B., PROPN 
+Gill, PROPN 
+Effects, NOUN 
+partial, ADJ 
+melting, NOUN 
+
+, SPACE 
+uranium, NOUN 
+decay, PROPN 
+series, PROPN 
+Geochim, PROPN 
+Cosmochim, PROPN 
+Acta, PROPN 
+53, NUM 
+1607-, NUM 
+
+, SPACE 
+1619, NUM 
+1989, NUM 
+
+, SPACE 
+4, X 
+R., PROPN 
+Searle, PROPN 
+Tectonic, ADJ 
+pattern, NOUN 
+Azores, PROPN 
+spreading, VERB 
+centre, NOUN 
+
+, SPACE 
+triple, ADJ 
+junction, NOUN 
+Barth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+Lett, PROPN 
+51, NUM 
+415, NUM 
+434, NUM 
+
+, SPACE 
+1980, NUM 
+
+, SPACE 
+51, NUM 
+R.S., PROPN 
+Detrick, PROPN 
+H.D., PROPN 
+Needham, PROPN 
+V., PROPN 
+Renard, PROPN 
+Gravity, PROPN 
+anoma-, ADV 
+
+, SPACE 
+lies, NOUN 
+crustal, VERB 
+thickness, ADJ 
+variations, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+
+, SPACE 
+Ridge, PROPN 
+33”N, NUM 
+4O”N, NUM 
+J., PROPN 
+Geophys, PROPN 
+Res, PROPN 
+100, NUM 
+3767-, NUM 
+
+, SPACE 
+3787, NUM 
+1995, NUM 
+
+, SPACE 
+161, NUM 
+R.E., PROPN 
+Bell, PROPN 
+W.R., PROPN 
+Buck, PROPN 
+Crustal, NOUN 
+control, NOUN 
+ridge, NOUN 
+segmenta-, SYM 
+
+, SPACE 
+tion, NOUN 
+inferred, VERB 
+observations, NOUN 
+Reykjanes, PROPN 
+Ridge, PROPN 
+
+, SPACE 
+Nature, PROPN 
+357, NUM 
+583, NUM 
+586, NUM 
+1993, NUM 
+
+, SPACE 
+7, X 
+L.M., PROPN 
+Parsons, PROPN 
+et, PROPN 
+al, PROPN 
+En, ADP 
+echelon, NOUN 
+axial, ADJ 
+volcanic, ADJ 
+ridges, NOUN 
+
+, SPACE 
+Reykjanes, PROPN 
+Ridge, PROPN 
+life, NOUN 
+cycle, NOUN 
+volcanism, NOUN 
+tectonics, NOUN 
+
+, SPACE 
+Barth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+Lea, PROPN 
+117, NUM 
+73, NUM 
+87, NUM 
+1993, NUM 
+
+, SPACE 
+81, NUM 
+J.R., PROPN 
+Co&ran, PROPN 
+M., PROPN 
+Talwani, PROPN 
+Gravity, NOUN 
+anomalies, NOUN 
+regional, ADJ 
+
+, SPACE 
+elevation, NOUN 
+deep, ADJ 
+structure, NOUN 
+North, PROPN 
+Atlantic, PROPN 
+J., PROPN 
+
+, SPACE 
+Geophys, PROPN 
+Res, PROPN 
+83, NUM 
+4907, NUM 
+4924, NUM 
+1978, NUM 
+
+, SPACE 
+91, NUM 
+N.H., PROPN 
+Sleep, PROPN 
+Hotspots, PROPN 
+mantle, NOUN 
+plumes, NOUN 
+phenomenol-, NOUN 
+
+, SPACE 
+ogy, NOUN 
+1, NUM 
+Geophys, PROPN 
+Res, PROPN 
+95, NUM 
+6175, NUM 
+6736, NUM 
+1990, NUM 
+
+, SPACE 
+IO, PROPN 
+J.-G., X 
+Schilling, PROPN 
+Azores, PROPN 
+mantle, NOUN 
+blob, PROPN 
+rare, ADJ 
+earth, NOUN 
+evidence, NOUN 
+
+, SPACE 
+Barth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+Lett, PROPN 
+25, NUM 
+103, NUM 
+105, NUM 
+1975, NUM 
+
+, SPACE 
+1111, NUM 
+J.-G., PROPN 
+Schilling, PROPN 
+M., PROPN 
+Zajac, PROPN 
+R., PROPN 
+Evans, PROPN 
+T., PROPN 
+Johnston, PROPN 
+W., PROPN 
+White, PROPN 
+
+, SPACE 
+J.D., PROPN 
+Devine, PROPN 
+R., PROPN 
+Kingsley, PROPN 
+Petrologic, ADJ 
+geochemical, ADJ 
+
+, SPACE 
+variations, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+Ridge, PROPN 
+29”N, NUM 
+73”N, NUM 
+
+, SPACE 
+J., PROPN 
+Sci, PROPN 
+283, NUM 
+510, NUM 
+586, NUM 
+1983, NUM 
+
+, SPACE 
+121, NUM 
+W.G., PROPN 
+Melson, PROPN 
+T., PROPN 
+CYHearn, PROPN 
+Zero, NUM 
+age, NOUN 
+variations, NOUN 
+
+, SPACE 
+composition, NOUN 
+abyssal, NOUN 
+volcanic, ADJ 
+rocks, NOUN 
+axial, ADJ 
+zone, NOUN 
+
+, SPACE 
+Mid, PROPN 
+Atlantic, PROPN 
+Ridge, PROPN 
+Geology, PROPN 
+North, PROPN 
+America, PROPN 
+
+, SPACE 
+pp, ADJ 
+117, NUM 
+136, NUM 
+Geol, NOUN 
+Sot, PROPN 
+Boulder, PROPN 
+CO, PROPN 
+1986, NUM 
+
+, SPACE 
+13, NUM 
+H., PROPN 
+Sigurdsson, PROPN 
+Fit, PROPN 
+order, NOUN 
+major, ADJ 
+element, NOUN 
+variation, NOUN 
+basalt, NOUN 
+
+, SPACE 
+glasses, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+Ridge, PROPN 
+29’N, NOUN 
+73”N, NUM 
+J., PROPN 
+Geo-, PROPN 
+
+, SPACE 
+phys, NOUN 
+Res, PROPN 
+86,9483, PROPN 
+9502, NUM 
+1981, NUM 
+
+, SPACE 
+1141, NUM 
+W.M., PROPN 
+White, PROPN 
+J.-G., PROPN 
+Schilling, PROPN 
+nature, NOUN 
+origin, NOUN 
+
+, SPACE 
+geochemical, ADJ 
+variation, NOUN 
+Mid, PROPN 
+Atlantic, ADJ 
+ridge, NOUN 
+basahs, NOUN 
+
+, SPACE 
+188, NUM 
+B., PROPN 
+Bourdon, PROPN 
+et, NOUN 
+al./, ADV 
+Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+112, NUM 
+19, NUM 
+175, NUM 
+189, NUM 
+
+, SPACE 
+Central, PROPN 
+North, PROPN 
+Atlantic, PROPN 
+Geochim, PROPN 
+Cosmochim, PROPN 
+Acta, PROPN 
+42, NUM 
+
+, SPACE 
+1501, NUM 
+1516, NUM 
+1978, NUM 
+
+, SPACE 
+15, NUM 
+B., PROPN 
+Dupt+, PROPN 
+C.J., PROPN 
+Alltgre, PROPN 
+Pb, PROPN 
+Sr, PROPN 
+Nd, ADJ 
+isotopic, ADJ 
+correlation, NOUN 
+
+, SPACE 
+chemistry, NOUN 
+North, PROPN 
+Atlantic, PROPN 
+mantle, NOUN 
+Nature, PROPN 
+286, NUM 
+
+, SPACE 
+17, NUM 
+22, NUM 
+1980, NUM 
+
+, SPACE 
+I61, PROPN 
+G.R., PROPN 
+Davies, PROPN 
+M.J., PROPN 
+Norry, PROPN 
+D.C., PROPN 
+Gerlach, PROPN 
+R.A., PROPN 
+Cliff, PROPN 
+
+, SPACE 
+combined, VERB 
+chemical, NOUN 
+Pb, PROPN 
+Sr, PROPN 
+Nd, PROPN 
+isotope, NOUN 
+study, NOUN 
+
+, SPACE 
+Azores, PROPN 
+Cape, PROPN 
+Verde, PROPN 
+hot, ADJ 
+spots, NOUN 
+geodynamic, ADJ 
+implica-, NOUN 
+
+, SPACE 
+tions, NOUN 
+Magmatism, NOUN 
+Ocean, PROPN 
+Basins, PROPN 
+A.D., NOUN 
+Saunders, NOUN 
+
+, SPACE 
+M.J., PROPN 
+Norry, PROPN 
+eds, PROPN 
+Geol, PROPN 
+Sot, PROPN 
+London, PROPN 
+Spec, PROPN 
+Publ, PROPN 
+42, NUM 
+
+, SPACE 
+23, NUM 
+l-255, NOUN 
+1989, NUM 
+
+, SPACE 
+171, NUM 
+C.J., PROPN 
+Hawkesworth, PROPN 
+M.J., PROPN 
+Norry, PROPN 
+J.C., PROPN 
+Roddick, PROPN 
+R., PROPN 
+Vollmer, PROPN 
+
+, SPACE 
+43Nd/, PROPN 
+144, NUM 
+Nd, PROPN 
+Sr/, PROPN 
+86Sr, NUM 
+ratios, NOUN 
+Azores, PROPN 
+
+, SPACE 
+significance, NOUN 
+LIL, PROPN 
+element, NOUN 
+enriched, ADJ 
+mantle, NOUN 
+Nature, PROPN 
+
+, SPACE 
+286, NUM 
+28, NUM 
+31, NUM 
+1979, NUM 
+
+, SPACE 
+1181, NUM 
+M.D., PROPN 
+Kurz, PROPN 
+W.J., PROPN 
+Jenkins, PROPN 
+J.-G., PROPN 
+Schilling, PROPN 
+S.R., PROPN 
+Hart, PROPN 
+
+, SPACE 
+Helium, PROPN 
+isotopic, ADJ 
+variations, NOUN 
+mantle, NOUN 
+beneath, ADP 
+central, ADJ 
+
+, SPACE 
+North, PROPN 
+Atlantic, PROPN 
+Ocean, PROPN 
+Earth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+Len, PROPN 
+58, NUM 
+1, NUM 
+14, NUM 
+
+, SPACE 
+1982, NUM 
+
+, SPACE 
+19, NUM 
+J.-G., X 
+Schilling, PROPN 
+M.B., PROPN 
+Bergeron, PROPN 
+R., PROPN 
+Evans, PROPN 
+Halogens, PROPN 
+
+, SPACE 
+mantle, NOUN 
+beneath, ADP 
+North, PROPN 
+Atlantic, PROPN 
+Philos, PROPN 
+Trans, PROPN 
+R., PROPN 
+Sot, PROPN 
+
+, SPACE 
+London, PROPN 
+297, NUM 
+147, NUM 
+178, NUM 
+1980, NUM 
+
+, SPACE 
+20, NUM 
+C.H., PROPN 
+Langmuir, PROPN 
+G.N., PROPN 
+Hanson, PROPN 
+evaluation, NOUN 
+major, ADJ 
+
+, SPACE 
+element, NOUN 
+heterogeneity, NOUN 
+mantle, NOUN 
+sources, NOUN 
+basal, NOUN 
+Phi-, PROPN 
+
+, SPACE 
+10s, NOUN 
+Trans, PROPN 
+R., PROPN 
+Sot, PROPN 
+London, PROPN 
+297, NUM 
+383, NUM 
+407, NUM 
+1980, NUM 
+
+, SPACE 
+211, NUM 
+H.D., PROPN 
+Needham, PROPN 
+M., PROPN 
+Voisset, PROPN 
+V., PROPN 
+Renard, PROPN 
+H., PROPN 
+Bougault, PROPN 
+0, NUM 
+
+, SPACE 
+Dauteuil, PROPN 
+R., PROPN 
+Detrick, PROPN 
+C., PROPN 
+Langmuir, PROPN 
+Structural, PROPN 
+vol-, NOUN 
+
+, SPACE 
+canic, ADJ 
+features, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+Rift, PROPN 
+zone, NOUN 
+40”N, NUM 
+
+, SPACE 
+33”N., NUM 
+EOS, PROPN 
+Trans, PROPN 
+AGU, PROPN 
+73, NUM 
+552, NUM 
+1992, NUM 
+
+, SPACE 
+22, NUM 
+C.H., PROPN 
+Langmuir, PROPN 
+et, PROPN 
+al, PROPN 
+FAZAR, PROPN 
+Cruise, PROPN 
+Technical, PROPN 
+Rep., PROPN 
+
+, SPACE 
+LDGO-92, NOUN 
+3, NUM 
+1992, NUM 
+
+, SPACE 
+23, NUM 
+J., PROPN 
+Lin, PROPN 
+G.M., PROPN 
+Purdy, PROPN 
+H., PROPN 
+Schouten, PROPN 
+J.-C., PROPN 
+Sempere, PROPN 
+C., PROPN 
+
+, SPACE 
+Zervas, PROPN 
+Evidence, NOUN 
+gravity, NOUN 
+data, NOUN 
+focused, ADJ 
+magmatic, ADJ 
+
+, SPACE 
+accretion, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+Ridge, PROPN 
+Nature, PROPN 
+344,627, NUM 
+632, NUM 
+
+, SPACE 
+1990, NUM 
+
+, SPACE 
+25, NUM 
+A., NOUN 
+Zindler, PROPN 
+B., PROPN 
+Bourdon, PROPN 
+J., PROPN 
+England, PROPN 
+B., PROPN 
+Hamelin, PROPN 
+J., PROPN 
+Ruben-, PROPN 
+
+, SPACE 
+stone, NOUN 
+V., PROPN 
+Salters, PROPN 
+L., PROPN 
+Reisberg, PROPN 
+Measurement, PROPN 
+
+, SPACE 
+230Th/, PROPN 
+232Th, PROPN 
+secondary, ADJ 
+ion, NOUN 
+mass, PROPN 
+spectrometry, NOUN 
+Anal, PROPN 
+
+, SPACE 
+Chem, PROPN 
+submitted, VERB 
+24, X 
+J.R., PROPN 
+Reynolds, PROPN 
+C.H., PROPN 
+Langmuir, PROPN 
+J.F., PROPN 
+Bender, PROPN 
+K.A., PROPN 
+Kastens, PROPN 
+
+, SPACE 
+W.R., PROPN 
+Ryan, PROPN 
+Spatial, PROPN 
+temporal, ADJ 
+variability, NOUN 
+
+, SPACE 
+geochemistry, NOUN 
+basalts, NOUN 
+East, PROPN 
+Pacific, PROPN 
+Rise, PROPN 
+Nature, PROPN 
+
+, SPACE 
+359, NUM 
+493, NUM 
+499, NUM 
+1992, NUM 
+
+, SPACE 
+26, NUM 
+E.M., PROPN 
+Klein, PROPN 
+C.H., PROPN 
+Langmuir, PROPN 
+Global, ADJ 
+correlations, NOUN 
+ocean, NOUN 
+
+, SPACE 
+ridge, NOUN 
+basalt, PROPN 
+chemistry, PROPN 
+axial, ADJ 
+depth, NOUN 
+crustal, NOUN 
+thickness, NOUN 
+
+, SPACE 
+J., PROPN 
+Geophys, PROPN 
+Res, PROPN 
+92, NUM 
+8089, NUM 
+8115, NUM 
+1987, NUM 
+
+, SPACE 
+27, NUM 
+C.H., PROPN 
+Langmuir, PROPN 
+E.M., PROPN 
+Klein, PROPN 
+T., PROPN 
+Plank, PROPN 
+Petrological, ADJ 
+sys-, NOUN 
+
+, SPACE 
+tematics, NOUN 
+mid, ADJ 
+ocean, ADJ 
+ridge, NOUN 
+basalts, NOUN 
+constraints, NOUN 
+melt, ADJ 
+
+, SPACE 
+generation, NOUN 
+beneath, ADP 
+ocean, NOUN 
+ridges, NOUN 
+Mantle, PROPN 
+Flow, PROPN 
+Melt, PROPN 
+
+, SPACE 
+Generation, PROPN 
+Mid, PROPN 
+ocean, PROPN 
+Ridges, PROPN 
+J., PROPN 
+Phipps, PROPN 
+Morgan, PROPN 
+D.K., PROPN 
+
+, SPACE 
+Blackman, PROPN 
+J.M., PROPN 
+Sinton, PROPN 
+eds, PROPN 
+pp, PROPN 
+183, NUM 
+280, NUM 
+Geo-, PROPN 
+
+, SPACE 
+phys, NOUN 
+Union, PROPN 
+1992, NUM 
+
+, SPACE 
+28, NUM 
+M., PROPN 
+Condomines, PROPN 
+P., PROPN 
+Morand, PROPN 
+C.J., PROPN 
+Allegre, PROPN 
+230Th-238U, PROPN 
+
+, SPACE 
+radioactive, ADJ 
+disequilibria, NOUN 
+tholeiites, NOUN 
+FAMOUS, PROPN 
+
+, SPACE 
+zone, NOUN 
+Mid, PROPN 
+Atlantic, PROPN 
+Ridge, PROPN 
+36”5O’N, NUM 
+Th, PROPN 
+Sr, PROPN 
+isotopic, ADJ 
+
+, SPACE 
+geochemistry, NOUN 
+Earth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+Lett, PROPN 
+55, NUM 
+247, NUM 
+256, NUM 
+1981, NUM 
+29, X 
+V.M., PROPN 
+Oversby, PROPN 
+P.W., PROPN 
+Gast, PROPN 
+Lead, PROPN 
+isotope, VERB 
+compositions, NOUN 
+
+, SPACE 
+uranium, NOUN 
+decay, PROPN 
+series, PROPN 
+disequilibrium, NOUN 
+recent, ADJ 
+volcanic, ADJ 
+
+, SPACE 
+rocks, NOUN 
+Earth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+Len, PROPN 
+5, NUM 
+199, NUM 
+206, NUM 
+1968, NUM 
+
+, SPACE 
+I., PROPN 
+Reinitz, PROPN 
+K.K., PROPN 
+Turekian, PROPN 
+230Th/, PROPN 
+23*U, NUM 
+226Ra/, PROPN 
+Th, PROPN 
+
+, SPACE 
+fractionation, NOUN 
+young, ADJ 
+basaltic, ADJ 
+glasses, NOUN 
+East, PROPN 
+Pacific, PROPN 
+
+, SPACE 
+Rise, PROPN 
+Earth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+Lett, PROPN 
+94, NUM 
+199, NUM 
+207, NUM 
+1989, NUM 
+
+, SPACE 
+31, NUM 
+S.J., PROPN 
+Goldstein, PROPN 
+M.T., PROPN 
+Murtell, PROPN 
+D.R., PROPN 
+Janecky, PROPN 
+J.R., PROPN 
+Delaney, PROPN 
+
+, SPACE 
+D.A., PROPN 
+Clague, PROPN 
+Geochronology, PROPN 
+petrogenesis, NOUN 
+MORB, NOUN 
+
+, SPACE 
+Juan, PROPN 
+de, X 
+Fuca, PROPN 
+Gorda, PROPN 
+ridges, VERB 
+23sU-230Th, PROPN 
+
+, SPACE 
+disequilibrium, NOUN 
+Earth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+Lett, PROPN 
+107, NUM 
+25, NUM 
+41, NUM 
+1991, NUM 
+
+, SPACE 
+32, NUM 
+S.J., PROPN 
+Goldstein, PROPN 
+M.T., PROPN 
+Murrell, PROPN 
+R.W., PROPN 
+Williams, PROPN 
+23’Pa, PROPN 
+
+, SPACE 
+230Th, NUM 
+chronology, NOUN 
+mid, PROPN 
+ocean, PROPN 
+ridge, PROPN 
+basal, PROPN 
+Earth, PROPN 
+Planet, PROPN 
+
+, SPACE 
+Sci, PROPN 
+Lett, PROPN 
+11.5, NUM 
+151, NUM 
+159, NUM 
+1993, NUM 
+
+, SPACE 
+1331, NUM 
+S.J., PROPN 
+Goldstein, PROPN 
+M.R., PROPN 
+R., PROPN 
+Batiza, PROPN 
+D.J., PROPN 
+Fomari, PROPN 
+M.T., PROPN 
+
+, SPACE 
+Murrell, PROPN 
+axis, NOUN 
+volcanism, NOUN 
+East, PROPN 
+Pacific, PROPN 
+Rise, PROPN 
+detected, VERB 
+
+, SPACE 
+uranium, NOUN 
+series, NOUN 
+dating, NOUN 
+basalts, NOUN 
+Nature, PROPN 
+367, NUM 
+157, NUM 
+159, NUM 
+
+, SPACE 
+1994, NUM 
+
+, SPACE 
+34, NUM 
+D., PROPN 
+Ben, PROPN 
+Othman, PROPN 
+W.M., PROPN 
+White, PROPN 
+P.J., PROPN 
+Patchett, PROPN 
+geo-, ADJ 
+
+, SPACE 
+chemistry, NOUN 
+marine, ADJ 
+sediments, NOUN 
+island, NOUN 
+arc, NOUN 
+magma, NOUN 
+genesis, NOUN 
+
+, SPACE 
+crust, NOUN 
+mantle, NOUN 
+recycling, NOUN 
+Earth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+Lett, PROPN 
+94, NUM 
+1, NUM 
+21, NUM 
+
+, SPACE 
+1989, NUM 
+
+, SPACE 
+35, NUM 
+A., NOUN 
+Prinzhofer, NOUN 
+E., PROPN 
+Lewin, PROPN 
+C.J., PROPN 
+Allbgre, PROPN 
+Stochastic, NOUN 
+melting, NOUN 
+
+, SPACE 
+marble, NOUN 
+cake, NOUN 
+mantle, NOUN 
+evidence, NOUN 
+local, ADJ 
+study, NOUN 
+
+, SPACE 
+East, PROPN 
+Pacific, PROPN 
+Rise, PROPN 
+12”50’N, PROPN 
+Earth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+L.&t, PROPN 
+92, NUM 
+
+, SPACE 
+189, NUM 
+206, NUM 
+1989, NUM 
+
+, SPACE 
+36, NUM 
+B., PROPN 
+Bourdon, PROPN 
+A., NOUN 
+Zindler, NOUN 
+T., PROPN 
+Elliott, PROPN 
+C.H., PROPN 
+Langmuir, PROPN 
+
+, SPACE 
+230Th-23sU, NOUN 
+systematics, NOUN 
+MORB, NOUN 
+global, ADJ 
+perspective, NOUN 
+
+, SPACE 
+Nature, PROPN 
+submitted, VERB 
+
+, SPACE 
+37, NUM 
+M., PROPN 
+Spiegelman, PROPN 
+T., PROPN 
+Elliott, PROPN 
+Consequences, PROPN 
+melt, NOUN 
+trans-, VERB 
+
+, SPACE 
+port, NOUN 
+uranium, NOUN 
+series, NOUN 
+disequilibrium, NOUN 
+young, ADJ 
+lavas, NOUN 
+Earth, PROPN 
+
+, SPACE 
+Planet, PROPN 
+Sci, PROPN 
+Lett, PROPN 
+118, NUM 
+l-20, ADV 
+1993, NUM 
+
+, SPACE 
+38, NUM 
+P.D., PROPN 
+Beattie, PROPN 
+Uranium, PROPN 
+thorium, NOUN 
+disequilibria, NOUN 
+partitioning, VERB 
+
+, SPACE 
+melting, NOUN 
+garnet, NOUN 
+peridotite, NOUN 
+Nature, PROPN 
+363, NUM 
+63, NUM 
+65, NUM 
+1993, NUM 
+
+, SPACE 
+39, NUM 
+T.Z., PROPN 
+LaTourrette, PROPN 
+A.K., PROPN 
+Kennedy, PROPN 
+G.J., PROPN 
+Wasserburg, PROPN 
+Tho-, PROPN 
+
+, SPACE 
+rium, NOUN 
+uranium, NOUN 
+fractionation, NOUN 
+garnet, NOUN 
+evidence, NOUN 
+deep, ADJ 
+
+, SPACE 
+source, NOUN 
+rapid, ADJ 
+rise, NOUN 
+oceanic, ADJ 
+basalts, NOUN 
+Science, PROPN 
+261, NUM 
+739-, NUM 
+
+, SPACE 
+742, NUM 
+1993, NUM 
+
+, SPACE 
+40, NUM 
+E., PROPN 
+Bonatti, PROPN 
+hot, ADJ 
+Hot, ADJ 
+Spots, PROPN 
+oceanic, ADJ 
+mantle, NOUN 
+
+, SPACE 
+Science, PROPN 
+250, NUM 
+107, NUM 
+l, NOUN 
+11, NUM 
+1990, NUM 
+
+, SPACE 
+41, NUM 
+R.H., PROPN 
+Kingsley, PROPN 
+J.-G., PROPN 
+Schilling, PROPN 
+Carbon, PROPN 
+Mid, PROPN 
+Atlantic, PROPN 
+
+, SPACE 
+Ridge, PROPN 
+basalt, ADJ 
+glasses, NOUN 
+28”N, NUM 
+63”N, NUM 
+evidence, NOUN 
+
+, SPACE 
+carbon, NOUN 
+enriched, VERB 
+Azores, PROPN 
+mantle, NOUN 
+plume, NOUN 
+Earth, PROPN 
+Planet, PROPN 
+Sci, PROPN 
+
+, SPACE 
+Len, PROPN 
+129, NUM 
+31, NUM 
+53, NUM 
+1995, NUM 
+
+, SPACE 
+42, NUM 
+J.-G., X 
+Schilling, PROPN 
+Fluxes, PROPN 
+excess, ADJ 
+temperatures, NOUN 
+mantle, PROPN 
+
+, SPACE 
+plumes, NOUN 
+inferred, VERB 
+interaction, NOUN 
+migrating, VERB 
+mid, NOUN 
+oc-, ADJ 
+
+, SPACE 
+ean, NOUN 
+ridges, NOUN 
+Nature, PROPN 
+352, NUM 
+397, NUM 
+403, NUM 
+1991, NUM 
+
+, SPACE 
+43, NUM 
+M., PROPN 
+Tolstoy, PROPN 
+A.J., PROPN 
+Harding, PROPN 
+J.A., PROPN 
+Orcutt, PROPN 
+Crustal, PROPN 
+thickness, NOUN 
+
+, SPACE 
+Mid, PROPN 
+Atlantic, ADJ 
+ridge, NOUN 
+bull’s_eye, NOUN 
+anomalies, NOUN 
+focused, VERB 
+
+, SPACE 
+accretion, NOUN 
+Science, PROPN 
+262, NUM 
+726, NUM 
+729, NUM 
+1993, NUM 
+
+, SPACE 
+44, NUM 
+Y., PROPN 
+Shen, PROPN 
+D.W., PROPN 
+Forsyth, PROPN 
+effects, NOUN 
+temperature-, ADJ 
+
+, SPACE 
+pressure, NOUN 
+dependent, ADJ 
+viscosity, NOUN 
+dimensional, ADJ 
+passive, ADJ 
+
+, SPACE 
+flow, NOUN 
+mantle, NOUN 
+beneath, ADP 
+ridge, NOUN 
+transform, NOUN 
+system, NOUN 
+J., PROPN 
+
+, SPACE 
+Geophys, PROPN 
+Res, PROPN 
+97, NUM 
+19,717, NUM 
+19,728, NUM 
+1992, NUM 
+
+, SPACE 
+45, NUM 
+D.W., PROPN 
+Sparks, PROPN 
+E.M., PROPN 
+Parmentier, PROPN 
+J., PROPN 
+Phipps, PROPN 
+Morgan, PROPN 
+
+, SPACE 
+dimensional, ADJ 
+mantle, NOUN 
+convection, NOUN 
+beneath, ADP 
+segmented, VERB 
+
+, SPACE 
+spreading, VERB 
+center, NOUN 
+implications, NOUN 
+axis, NOUN 
+variations, NOUN 
+
+, SPACE 
+B., PROPN 
+Bourdon, PROPN 
+et, PROPN 
+al, PROPN 
+Earth, PROPN 
+Planetary, PROPN 
+Science, PROPN 
+Letters, PROPN 
+142, NUM 
+19, NUM 
+175, NUM 
+189, NUM 
+189, NUM 
+
+, SPACE 
+crustal, NOUN 
+thickness, NOUN 
+gravity, NOUN 
+J., PROPN 
+Geophys, PROPN 
+Res, PROPN 
+98, NUM 
+21,977-, NUM 
+
+, SPACE 
+21,995, NUM 
+1993, NUM 
+
+, SPACE 
+46, NUM 
+J., PROPN 
+Phipps, PROPN 
+Morgan, PROPN 
+D.W., PROPN 
+Forsyth, PROPN 
+dimensional, ADJ 
+flow, NOUN 
+
+, SPACE 
+temperature, NOUN 
+perturbations, NOUN 
+transform, NOUN 
+offset, NOUN 
+
+, SPACE 
+effects, NOUN 
+oceanic, ADJ 
+crustal, NOUN 
+upper, ADJ 
+mantle, NOUN 
+structure, NOUN 
+J., PROPN 
+
+, SPACE 
+Geophys, PROPN 
+Res, PROPN 
+93, NUM 
+2955, NUM 
+2966, NUM 
+1988, NUM 
+47, NUM 
+B.-Y., X 
+Kuo, PROPN 
+D.W., PROPN 
+Foqth, PROPN 
+Gravity, NOUN 
+anomalies, NOUN 
+
+, SPACE 
+ridge, NOUN 
+transform, NOUN 
+system, NOUN 
+South, PROPN 
+Atlantic, PROPN 
+31, NUM 
+
+, SPACE 
+34.5, NUM 
+upwelling, VERB 
+centers, NOUN 
+variations, NOUN 
+crustal, ADJ 
+thickness, NOUN 
+
+, SPACE 
+Mar., PROPN 
+Geophys, PROPN 
+Res, PROPN 
+10, NUM 
+205, NUM 
+232, NUM 
+1988, NUM 
+
+, SPACE 

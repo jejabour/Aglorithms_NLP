@@ -1,0 +1,1920 @@
+CwJ, X 
+Nuclear, PROPN 
+Instruments, PROPN 
+Methods, PROPN 
+Physics, PROPN 
+Research, PROPN 
+B, PROPN 
+111, NUM 
+1996, NUM 
+259, NUM 
+262, NUM 
+
+, SPACE 
+
+, SPACE 
+k!lULiWU, PROPN 
+B, PROPN 
+
+, SPACE 
+EISEVIER, NOUN 
+Beam, PROPN 
+Interaotions, PROPN 
+
+, SPACE 
+Materials, NOUN 
+8, NUM 
+Atoms, NOUN 
+
+, SPACE 
+Film, PROPN 
+thickness, NOUN 
+simulation, NOUN 
+fabricating, VERB 
+6, NUM 
+diameter, NOUN 
+ErBCO, PROPN 
+films, NOUN 
+
+, SPACE 
+partially, ADV 
+ionized, VERB 
+beam, NOUN 
+deposition, NOUN 
+
+, SPACE 
+A., NOUN 
+Shuhara, PROPN 
+Y., PROPN 
+Kawagoe, PROPN 
+S., PROPN 
+Yamaji, PROPN 
+T., PROPN 
+Kishida, PROPN 
+b, PROPN 
+A., PROPN 
+Ryohman, PROPN 
+b, PROPN 
+
+, SPACE 
+Ion, PROPN 
+Engineering, PROPN 
+Research, PROPN 
+Institute, PROPN 
+Corp., PROPN 
+Hirakata, PROPN 
+Osaka, PROPN 
+573, NUM 
+01, NUM 
+Japan, PROPN 
+
+, SPACE 
+b, PRON 
+Kansai, PROPN 
+Electric, PROPN 
+Power, PROPN 
+Co., PROPN 
+Inc, PROPN 
+Amagasaki, PROPN 
+Hyogo, PROPN 
+661, NUM 
+Japan, PROPN 
+
+, SPACE 
+Received, VERB 
+26, NUM 
+July, PROPN 
+1994, NUM 
+revised, VERB 
+form, NOUN 
+received, VERB 
+7, NUM 
+November, PROPN 
+199.5, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+configuration, NOUN 
+PIB, PROPN 
+source, NOUN 
+studied, VERB 
+grow, VERB 
+uniform, ADJ 
+large, ADJ 
+area, NOUN 
+HTS, PROPN 
+high, ADJ 
+temperature, NOUN 
+superconducting, NOUN 
+films, NOUN 
+
+, SPACE 
+application, NOUN 
+coil, NOUN 
+tape, NOUN 
+fabrication, NOUN 
+uniformity, NOUN 
+thin, ADJ 
+films, NOUN 
+simulated, VERB 
+cases, NOUN 
+PIB, PROPN 
+source, NOUN 
+placed, VERB 
+
+, SPACE 
+tilted, VERB 
+0, NUM 
+axis, NOUN 
+L, NOUN 
+orientation, NOUN 
+assumption, NOUN 
+thickness, ADJ 
+distribution, NOUN 
+PIB, PROPN 
+deposited, VERB 
+films, NOUN 
+followed, VERB 
+
+, SPACE 
+cos, PROPN 
+law, NOUN 
+tilted, ADJ 
+axis, NOUN 
+orientation, NOUN 
+found, VERB 
+improve, VERB 
+uniformity, NOUN 
+thin, ADJ 
+films, NOUN 
+calculated, VERB 
+
+, SPACE 
+uniformity, NOUN 
+D, PROPN 
+=, NUM 
+430, NUM 
+0, NUM 
+=, SYM 
+30, NUM 
+L, PROPN 
+=, SYM 
+30, NUM 
+greater, ADJ 
+90, NUM 
+D, PROPN 
+source, NOUN 
+substrate, NOUN 
+distance, NOUN 
+Fabrication, PROPN 
+
+, SPACE 
+HTS, PROPN 
+films, NOUN 
+D, NOUN 
+=, NOUN 
+430, NUM 
+reduced, VERB 
+source, NOUN 
+consumption, NOUN 
+prolonged, VERB 
+source, NOUN 
+life, NOUN 
+significantly, ADV 
+deposited, VERB 
+films, NOUN 
+
+, SPACE 
+prepared, VERB 
+6, NUM 
+rotating, VERB 
+sample, NOUN 
+holder, NOUN 
+D, PROPN 
+=, NOUN 
+430, NUM 
+composition, NOUN 
+variation, NOUN 
++, ADJ 
+5, NUM 
+zero, NUM 
+
+, SPACE 
+resistance, NOUN 
+temperature, NOUN 
+78, NUM 
+80, NUM 
+K., PROPN 
+
+, SPACE 
+0168, NUM 
+583X/96/$15.00, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+AI1, PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+.S.SDI, PROPN 
+0168, NUM 
+583X(95)01, NUM 
+430, NUM 
+6, NUM 
+1, NUM 
+Introduction, NOUN 
+2, NUM 
+Assumption, NOUN 
+calculation, NOUN 
+
+, SPACE 
+investigated, VERB 
+high, ADJ 
+temperature, NOUN 
+superconduct-, NOUN 
+
+, SPACE 
+ing, PROPN 
+HTS, PROPN 
+films, NOUN 
+prepared, VERB 
+partially, ADV 
+ionized, VERB 
+beam, NOUN 
+PIB, PROPN 
+
+, SPACE 
+deposition, NOUN 
+order, NOUN 
+apply, VERB 
+films, NOUN 
+tape, NOUN 
+coil, NOUN 
+
+, SPACE 
+fabrication, NOUN 
+ErBa, PROPN 
+Cu, PROPN 
+O, INTJ 
+films, NOUN 
+pro-, PROPN 
+
+, SPACE 
+duced, VERB 
+sample, NOUN 
+holder, NOUN 
+3, NUM 
+diameter, NOUN 
+PIB, PROPN 
+
+, SPACE 
+sources, NOUN 
+Er, PROPN 
+Ba, PROPN 
+Cu, PROPN 
+deposition, NOUN 
+l-3, PROPN 
+film, NOUN 
+
+, SPACE 
+fabrication, NOUN 
+larger, ADJ 
+diameter, NOUN 
+e.g., ADV 
+6, NUM 
+substrate, NOUN 
+
+, SPACE 
+necessary, ADJ 
+purposes, NOUN 
+Formation, NOUN 
+larger, ADJ 
+substrate, NOUN 
+
+, SPACE 
+basically, ADV 
+performed, VERB 
+increasing, VERB 
+distance, NOUN 
+
+, SPACE 
+PIB, PROPN 
+sources, NOUN 
+substrate, NOUN 
+
+, SPACE 
+films, NOUN 
+produced, VERB 
+relatively, ADV 
+high, ADJ 
+pressure, NOUN 
+
+, SPACE 
+l-4, PROPN 
+x, SYM 
+10m4, PROPN 
+Torr, PROPN 
+collisions, NOUN 
+place, NOUN 
+be-, ADP 
+
+, SPACE 
+tween, NOUN 
+gas, NOUN 
+molecules, NOUN 
+0, NUM 
++, CCONJ 
+6, NUM 
+vol.%, NOUN 
+0, NUM 
+metal, NOUN 
+atoms, NOUN 
+
+, SPACE 
+present, ADJ 
+problems, NOUN 
+fabrication, NOUN 
+good, ADJ 
+HTS, PROPN 
+thin, ADJ 
+
+, SPACE 
+films, NOUN 
+explained, VERB 
+problems, NOUN 
+particular, ADJ 
+
+, SPACE 
+PIB, PROPN 
+deposition, NOUN 
+common, ADJ 
+physical, ADJ 
+deposi-, ADJ 
+
+, SPACE 
+tion, NOUN 
+methods, NOUN 
+needed, VERB 
+focus, VERB 
+studies, NOUN 
+
+, SPACE 
+reducing, VERB 
+collisions, NOUN 
+previous, ADJ 
+fabricating, VERB 
+tapes, NOUN 
+
+, SPACE 
+coils, NOUN 
+results, NOUN 
+reducing, VERB 
+collisions, NOUN 
+lowering, VERB 
+
+, SPACE 
+pressure, NOUN 
+deposition, NOUN 
+reported, VERB 
+
+, SPACE 
+4, NUM 
+paper, NOUN 
+presents, VERB 
+effects, NOUN 
+tilted, ADJ 
+axis, NOUN 
+
+, SPACE 
+orientation, NOUN 
+PIB, PROPN 
+sources, NOUN 
+improving, VERB 
+deposition, NOUN 
+
+, SPACE 
+efficiency, NOUN 
+film, NOUN 
+thickness, NOUN 
+distribution, NOUN 
+
+, SPACE 
+Corresponding, VERB 
+author, NOUN 
+Tel, INTJ 
++, SYM 
+8, NUM 
+1, NUM 
+6, NUM 
+497, NUM 
+7035, NUM 
+fax, NOUN 
++, PROPN 
+8, NUM 
+1, NUM 
+6, NUM 
+497, NUM 
+
+, SPACE 
+7288, NUM 
+e, NOUN 
+mail, NOUN 
+shuhara@adm.crl.melco.co.jp, NOUN 
+thickness, ADJ 
+distributions, NOUN 
+PIB, PROPN 
+deposited, VERB 
+films, NOUN 
+
+, SPACE 
+studied, VERB 
+evaluating, VERB 
+distributions, NOUN 
+SIO, PROPN 
+films, NOUN 
+pro-, X 
+
+, SPACE 
+duced, VERB 
+reactive, ADJ 
+PIB, PROPN 
+deposition, NOUN 
+oxygen, NOUN 
+pressure, NOUN 
+
+, SPACE 
+3, NUM 
+X, NUM 
+lo-, NOUN 
+Torr, PROPN 
+5,6, X 
+data, NOUN 
+close, ADJ 
+
+, SPACE 
+cos, ADP 
+Y, PROPN 
+l, PROPN 
+d, PROPN 
+=, SYM 
+0.5, NUM 
+tended, VERB 
+center, NOUN 
+con-, NOUN 
+
+, SPACE 
+centrated, VERB 
+distribution, NOUN 
+d, PROPN 
+increased, VERB 
+Y, PROPN 
+
+, SPACE 
+ejection, NOUN 
+angle, NOUN 
+source, NOUN 
+nozzle, NOUN 
+1, NUM 
+nozzle, NOUN 
+length, NOUN 
+
+, SPACE 
+1, NUM 
+mm, NUM 
+d, NUM 
+nozzle, NOUN 
+diameters, NOUN 
+1, NUM 
+2, NUM 
+mm, NUM 
+Taking, VERB 
+
+, SPACE 
+data, NOUN 
+consideration, NOUN 
+assume, VERB 
+distribu-, NOUN 
+
+, SPACE 
+tion, NOUN 
+PIB, PROPN 
+deposited, VERB 
+films, NOUN 
+simply, ADV 
+proportional, ADJ 
+
+, SPACE 
+cos, PROPN 
+cr, PROPN 
+n, NOUN 
+experimental, ADJ 
+constant, NOUN 
+
+, SPACE 
+11, NUM 
+experiments, NOUN 
+following, ADJ 
+
+, SPACE 
+simulations, NOUN 
+11, NUM 
+n, NUM 
+calculate, VERB 
+lowest, ADJ 
+
+, SPACE 
+uniformity, NOUN 
+configuration, NOUN 
+PIB, PROPN 
+source, NOUN 
+
+, SPACE 
+substrate, NOUN 
+illustrated, VERB 
+Fig, PROPN 
+1, NUM 
+deposition, NOUN 
+efficiency, NOUN 
+
+, SPACE 
+defined, VERB 
+ratio, NOUN 
+metal, NOUN 
+quantity, NOUN 
+utilized, VERB 
+
+, SPACE 
+film, NOUN 
+formation, NOUN 
+substrate, NOUN 
+150, NUM 
+mm, NOUN 
+diameter, NOUN 
+
+, SPACE 
+evaporated, VERB 
+source, NOUN 
+obtained, VERB 
+calculating, VERB 
+
+, SPACE 
+following, VERB 
+integral, ADJ 
+
+, SPACE 
+cos, PROPN 
+cy)“sin, NOUN 
+sin, NOUN 
+y, PROPN 
+0, NUM 
+
+, SPACE 
+s2, PROPN 
+dA., VERB 
+
+, SPACE 
+uniformity, NOUN 
+film, NOUN 
+thickness, NOUN 
+defined, VERB 
+
+, SPACE 
+T(min)/T(max, PROPN 
+r(min, NOUN 
+>, X 
+T(max, NOUN 
+mini-, NOUN 
+
+, SPACE 
+mum, NOUN 
+maximum, ADJ 
+thickness, NOUN 
+radial, ADJ 
+distance, NOUN 
+
+, SPACE 
+75, NUM 
+mm, NUM 
+respectively, ADV 
+substrate, NOUN 
+assumed, VERB 
+rotate, VERB 
+
+, SPACE 
+A., NOUN 
+Shuhara, PROPN 
+er, INTJ 
+al./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+III, PROPN 
+1996, NUM 
+259, NUM 
+262, NUM 
+
+, SPACE 
+Ejection, NOUN 
+angle, NOUN 
+
+, SPACE 
+y, NOUN 
+Angle, PROPN 
+CPE, PROPN 
+Substrate, PROPN 
+
+, SPACE 
+Tilt, NOUN 
+angle, NOUN 
+PIB, PROPN 
+source, NOUN 
+
+, SPACE 
+dA, NUM 
+AreaofP, NUM 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Configuration, NOUN 
+PIB, PROPN 
+source, NOUN 
+substrate, NOUN 
+
+, SPACE 
+constant, ADJ 
+velocity, NOUN 
+Oxygenmetal, ADJ 
+collisions, NOUN 
+taken, VERB 
+
+, SPACE 
+account, NOUN 
+calculations, NOUN 
+
+, SPACE 
+3, X 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+shows, VERB 
+calculated, ADJ 
+uniformity, NOUN 
+film, NOUN 
+
+, SPACE 
+thickness, NOUN 
+deposition, NOUN 
+efficiency, NOUN 
+function, NOUN 
+D, PROPN 
+
+, SPACE 
+distance, NOUN 
+source, NOUN 
+substrate, NOUN 
+uniform-, ADJ 
+
+, SPACE 
+ity, NOUN 
+increased, VERB 
+increase, NOUN 
+D., PROPN 
+contrast, NOUN 
+
+, SPACE 
+deposition, NOUN 
+efficiency, NOUN 
+decreased, VERB 
+D., PROPN 
+example, NOUN 
+
+, SPACE 
+uniformity, NOUN 
+greater, ADJ 
+90, NUM 
+obtained, VERB 
+D, PROPN 
+=, NOUN 
+564, NUM 
+mm, NUM 
+
+, SPACE 
+8, NUM 
+evaporated, VERB 
+metals, NOUN 
+
+, SPACE 
+utilized, VERB 
+film, NOUN 
+formation, NOUN 
+real, ADJ 
+deposition, NOUN 
+efficiency, NOUN 
+
+, SPACE 
+rate, NOUN 
+greatly, ADV 
+lowered, VERB 
+oxygen, NOUN 
+metal, NOUN 
+collisions, NOUN 
+
+, SPACE 
+3, NUM 
+source, NOUN 
+temperature, NOUN 
+raised, VERB 
+
+, SPACE 
+maintain, VERB 
+given, VERB 
+film, NOUN 
+growth, NOUN 
+rate, NOUN 
+deposition, NOUN 
+effi-, NOUN 
+
+, SPACE 
+ciency, NOUN 
+low, ADJ 
+source, NOUN 
+overheated, VERB 
+
+, SPACE 
+extent, NOUN 
+source, NOUN 
+materials, NOUN 
+W, PROPN 
+Ta, PROPN 
+endure, VERB 
+
+, SPACE 
+corrosion, NOUN 
+deposition, NOUN 
+metals, NOUN 
+Cu, PROPN 
+Ba, PROPN 
+Er, PROPN 
+
+, SPACE 
+Ba, PROPN 
+source, NOUN 
+fragile, ADJ 
+cracks, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, X 
+Calculated, VERB 
+uniformity, NOUN 
+efficiency, NOUN 
+6, NUM 
+diameter, NOUN 
+film, NOUN 
+
+, SPACE 
+fabrication, NOUN 
+PIB, PROPN 
+source, NOUN 
+Fig, PROPN 
+3, X 
+Relationship, NOUN 
+calculated, VERB 
+uniformity, NOUN 
+film, NOUN 
+thick-, NUM 
+
+, SPACE 
+ness, NOUN 
+configuration, NOUN 
+PIB, PROPN 
+source, NOUN 
+
+, SPACE 
+found, VERB 
+Cu, PROPN 
+Er, PROPN 
+sources, NOUN 
+fabrication, NOUN 
+
+, SPACE 
+performed, VERB 
+D, PROPN 
+=, NOUN 
+680, NUM 
+film, NOUN 
+growth, NOUN 
+rate, NOUN 
+4, NUM 
+
+, SPACE 
+nm, NOUN 
+min, PROPN 
+addition, NOUN 
+Ba, PROPN 
+source, NOUN 
+metal, NOUN 
+
+, SPACE 
+charged, VERB 
+source, NOUN 
+crucible, ADJ 
+depositing, VERB 
+100, NUM 
+nm, ADJ 
+
+, SPACE 
+thick, ADJ 
+films, NOUN 
+times, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+shows, VERB 
+calculated, ADJ 
+uniformity, NOUN 
+film, NOUN 
+thickness, NOUN 
+
+, SPACE 
+cases, NOUN 
+PIB, PROPN 
+source, NOUN 
+placed, VERB 
+tilted, VERB 
+0, NUM 
+
+, SPACE 
+axis, NOUN 
+L, NOUN 
+orientation, NOUN 
+distance, NOUN 
+D, NOUN 
+maintained, VERB 
+
+, SPACE 
+430, NUM 
+mm, NOUN 
+figure, NOUN 
+shows, VERB 
+tilted, ADJ 
+axis, NOUN 
+
+, SPACE 
+orientation, NOUN 
+effective, ADJ 
+improving, VERB 
+unifirmity, NOUN 
+
+, SPACE 
+example, NOUN 
+uniformity, NOUN 
+D, PROPN 
+=, NUM 
+430, NUM 
+0, NUM 
+=, SYM 
+30, NUM 
+L, NOUN 
+=, SYM 
+30, NUM 
+
+, SPACE 
+9, NUM 
+identical, ADJ 
+D, PROPN 
+=, NUM 
+564, NUM 
+0, NUM 
+=, SYM 
+0, NUM 
+
+, SPACE 
+L, NOUN 
+=, SYM 
+0, NUM 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+shows, VERB 
+calculated, VERB 
+deposition, NOUN 
+efficiency, NOUN 
+
+, SPACE 
+function, NOUN 
+0, NUM 
+L., PROPN 
+distance, NOUN 
+D, NOUN 
+maintained, VERB 
+
+, SPACE 
+430, NUM 
+mm, NOUN 
+Data, NOUN 
+normalized, VERB 
+efficiency, NOUN 
+
+, SPACE 
+D, NOUN 
+=, NOUN 
+430, NUM 
+0, NUM 
+=, SYM 
+0, NUM 
+L, PROPN 
+=, SYM 
+0, NUM 
+Comparing, VERB 
+Fig, PROPN 
+4, NUM 
+Fig, PROPN 
+3, NUM 
+
+, SPACE 
+found, VERB 
+uniformity, NOUN 
+increased, VERB 
+
+, SPACE 
+tilted, ADJ 
+axis, NOUN 
+orientation, NOUN 
+efficienct, NOUN 
+decreased, VERB 
+
+, SPACE 
+efficiency, NOUN 
+reduction, NOUN 
+induced, VERB 
+tilted, VERB 
+
+, SPACE 
+axis, NOUN 
+orientation, NOUN 
+compensated, VERB 
+efficiency, NOUN 
+im-, ADP 
+
+, SPACE 
+provement, NOUN 
+induced, VERB 
+decrease, NOUN 
+distance, NOUN 
+D., PROPN 
+
+, SPACE 
+D-430, PROPN 
+
+, SPACE 
+-50, SYM 
+40, NUM 
+-30, X 
+-20, NUM 
+.I0, NOUN 
+0, NUM 
++10, NOUN 
+l, NOUN 
+20, NUM 
+-24, NUM 
++40, PROPN 
++50, PROPN 
+
+, SPACE 
+L, PROPN 
+mm, PROPN 
+1, NUM 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Relationship, NOUN 
+calculated, VERB 
+efficiency, NOUN 
+6, NUM 
+diame-, NUM 
+
+, SPACE 
+ter, NOUN 
+film, NOUN 
+fabrication, NOUN 
+configuration, NOUN 
+PIB, PROPN 
+source, NOUN 
+
+, SPACE 
+A., PROPN 
+Shuhara, PROPN 
+et, NOUN 
+al./Nucl, NOUN 
+Insrr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Rex, PROPN 
+B, PROPN 
+111, NUM 
+1996, NUM 
+259, NUM 
+262, NUM 
+261, NUM 
+
+, SPACE 
+1.0, NUM 
+
+, SPACE 
+3, X 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+3, NUM 
+0.65, NUM 
+.i, PROPN 
+f, PROPN 
+
+, SPACE 
+
+, SPACE 
+z, NOUN 
+
+, SPACE 
+
+, SPACE 
+p, NOUN 
+0.6, NUM 
+.i, PROPN 
+j, PROPN 
+
+, SPACE 
+8, NUM 
+
+, SPACE 
+$, SYM 
+I--.=Y, NOUN 
+
+, SPACE 
+g, PROPN 
+0.65, NUM 
+j, NOUN 
+
+, SPACE 
+
+, SPACE 
+c, X 
+0.6, NUM 
+
+, SPACE 
+Simu&aion, NOUN 
+
+, SPACE 
+0, NUM 
+10, NUM 
+20, NUM 
+30, NUM 
+40, NUM 
+50, NUM 
+60, NUM 
+70, NUM 
+60, NUM 
+
+, SPACE 
+Position, PROPN 
+mm, PROPN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Calculated, ADJ 
+profile, NOUN 
+film, NOUN 
+thickness, PROPN 
+performed, VERB 
+D, PROPN 
+=, NOUN 
+430, NUM 
+
+, SPACE 
+8=3O”aad, PROPN 
+L=30, PROPN 
+
+, SPACE 
+example, NOUN 
+efficiency, NOUN 
+D, PROPN 
+=, NUM 
+430, NUM 
+=, SYM 
+30, NUM 
+L, NOUN 
+=, SYM 
+30, NUM 
+
+, SPACE 
+133, NUM 
+D, PROPN 
+=, NUM 
+564, NUM 
+=, SYM 
+0, NUM 
+L, NOUN 
+=, SYM 
+0, NUM 
+configura-, NUM 
+
+, SPACE 
+tion, NOUN 
+effect, NOUN 
+addition, NOUN 
+efficiency, NOUN 
+improvement, NOUN 
+
+, SPACE 
+enhanced, VERB 
+reduction, NOUN 
+oxygen, NOUN 
+metal, NOUN 
+collisions, NOUN 
+
+, SPACE 
+extent, NOUN 
+enhancement, NOUN 
+depends, VERB 
+elemental, ADJ 
+
+, SPACE 
+species, NOUN 
+enhancement, NOUN 
+metal, NOUN 
+smaller, ADJ 
+mass, NOUN 
+
+, SPACE 
+number, NOUN 
+larger, ADJ 
+estimated, VERB 
+extent, NOUN 
+enhancement, NOUN 
+
+, SPACE 
+barium, NOUN 
+deposition, NOUN 
+example, NOUN 
+mean, ADJ 
+free, ADJ 
+path, NOUN 
+
+, SPACE 
+M, PROPN 
+barium, NOUN 
+oxygen, NOUN 
+collisions, NOUN 
+250, NUM 
+mm, NOUN 
+4, NUM 
+X, NUM 
+low4, NOUN 
+
+, SPACE 
+Torr, PROPN 
+follows, VERB 
+equation, NOUN 
+
+, SPACE 
+=, NOUN 
+N, PROPN 
+exp, PROPN 
+-D, PROPN 
+M, PROPN 
+
+, SPACE 
+number, NOUN 
+metal, NOUN 
+atoms, NOUN 
+ejected, VERB 
+fromt, ADJ 
+
+, SPACE 
+source, NOUN 
+N, NUM 
+number, NOUN 
+atoms, NOUN 
+reaching, VERB 
+substrate, NOUN 
+
+, SPACE 
+141, NUM 
+equation, NOUN 
+estimate, VERB 
+efficiency, NOUN 
+
+, SPACE 
+improvement, NOUN 
+drcreasing, VERB 
+source, NOUN 
+substrate, NOUN 
+distance, NOUN 
+
+, SPACE 
+distance, NOUN 
+effect, NOUN 
+efficiency, NOUN 
+D, PROPN 
+=, NOUN 
+430, NUM 
+found, VERB 
+
+, SPACE 
+171, NUM 
+D, PROPN 
+=, NUM 
+564, NUM 
+Combining, VERB 
+efficiency, NOUN 
+im-, ADP 
+
+, SPACE 
+provement, NOUN 
+2, NUM 
+times, NOUN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+shows, VERB 
+calculated, VERB 
+profile, NOUN 
+film, NOUN 
+thickness, NOUN 
+
+, SPACE 
+D, PROPN 
+=, NUM 
+430, NUM 
+0, NUM 
+=, SYM 
+30, NUM 
+L, PROPN 
+=, SYM 
+30, NUM 
+film, NOUN 
+thickness, NOUN 
+
+, SPACE 
+found, VERB 
+decrease, VERB 
+radial, ADJ 
+position, NOUN 
+monotonously, ADV 
+
+, SPACE 
+dependence, NOUN 
+n, NOUN 
+thickness, ADJ 
+uniformity, NOUN 
+6, NUM 
+
+, SPACE 
+film, NOUN 
+fabrication, NOUN 
+shown, VERB 
+Fig, PROPN 
+6, NUM 
+Considering, VERB 
+fact, NOUN 
+
+, SPACE 
+n, ADV 
+11, NUM 
+expect, VERB 
+uniformity, NOUN 
+
+, SPACE 
+greater, ADJ 
+90, NUM 
+D, PROPN 
+=, NOUN 
+430, NUM 
+=, SYM 
+30, NUM 
+L, PROPN 
+=, SYM 
+30, NUM 
+
+, SPACE 
+sufficient, ADJ 
+margin, NOUN 
+Evaluation, NOUN 
+ErBCO, PROPN 
+thin, ADJ 
+films, NOUN 
+fabri-, VERB 
+
+, SPACE 
+cated, VERB 
+D, PROPN 
+=, NOUN 
+430, NUM 
+0, NUM 
+=, SYM 
+30, NUM 
+K, PROPN 
+=, NUM 
+30, NUM 
+MgO(100, PROPN 
+
+, SPACE 
+carried, VERB 
+confirm, VERB 
+calculations, NOUN 
+
+, SPACE 
+1.05, NUM 
+Slm, PROPN 
+~, PROPN 
+tion, NOUN 
+
+, SPACE 
+g, PROPN 
+0.95, NUM 
+
+, SPACE 
+~~, PUNCT 
+j, PROPN 
+
+, SPACE 
+Y, NOUN 
+
+, SPACE 
+$, SYM 
+0.65, NUM 
+-.-I-, NOUN 
+o, X 
+
+, SPACE 
+.i, PROPN 
+j, PROPN 
+~, PUNCT 
+
+, SPACE 
+L-30, NOUN 
+
+, SPACE 
+
+, SPACE 
+o-430, VERB 
+1, NUM 
+
+, SPACE 
+
+, SPACE 
+0.8, NUM 
+c, NOUN 
+
+, SPACE 
+0, NUM 
+2, NUM 
+4, NUM 
+6, NUM 
+6, NUM 
+10, NUM 
+12, NUM 
+14, NUM 
+
+, SPACE 
+n, CCONJ 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Dependence, NOUN 
+calculated, VERB 
+uniformity, NOUN 
+exponent, PROPN 
+constant, NOUN 
+
+, SPACE 
+n, CCONJ 
+fabrication, NOUN 
+6, NUM 
+diameter, NOUN 
+films, NOUN 
+-20, SYM 
+0, NUM 
+20, NUM 
+40, NUM 
+60, NUM 
+80, NUM 
+-20, SYM 
+0, NUM 
+20, NUM 
+40, NUM 
+60, NUM 
+80, NUM 
+-20, SYM 
+0, NUM 
+20, NUM 
+40, NUM 
+60, NUM 
+80, NUM 
+
+, SPACE 
+Position, PROPN 
+mm, PROPN 
+
+, SPACE 
+Fig, PROPN 
+7, X 
+Elemental, ADJ 
+composition, NOUN 
+profiles, NOUN 
+versus, ADP 
+position, NOUN 
+de-, NOUN 
+
+, SPACE 
+posited, VERB 
+ErBCO, PROPN 
+films, NOUN 
+grown, VERB 
+650, NUM 
+°, NOUN 
+C, NOUN 
+rotating, VERB 
+sample, NOUN 
+holder, NOUN 
+
+, SPACE 
+150, NUM 
+mm, NOUN 
+diameter, NOUN 
+pressure, NOUN 
+1, NUM 
+X, NUM 
+10e4, NUM 
+Torr, PROPN 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+shows, VERB 
+film, NOUN 
+composition, NOUN 
+profiles, NOUN 
+obtained, VERB 
+
+, SPACE 
+rotating, VERB 
+6, NUM 
+holder, NOUN 
+Data, NOUN 
+normalized, VERB 
+
+, SPACE 
+metal, NOUN 
+weight, NOUN 
+detected, VERB 
+sample, NOUN 
+10, NUM 
+X, PROPN 
+10, NUM 
+mm, NOUN 
+placed, VERB 
+
+, SPACE 
+center, NOUN 
+weight, NOUN 
+metal, NOUN 
+deposited, VERB 
+
+, SPACE 
+sample, NOUN 
+determined, VERB 
+ICP, PROPN 
+inductively, ADV 
+coupled, VERB 
+
+, SPACE 
+plasma, NOUN 
+measurements, NOUN 
+film, NOUN 
+orderly, ADJ 
+tendency, NOUN 
+
+, SPACE 
+found, VERB 
+elemental, ADJ 
+profiles, NOUN 
+Er, PROPN 
+Ba, PROPN 
+Cu, PROPN 
+
+, SPACE 
+variation, NOUN 
++5, PROPN 
+wt.%, PROPN 
+
+, SPACE 
+uniform, NOUN 
+HTS, PROPN 
+films, NOUN 
+6, NUM 
+inches, NOUN 
+diameter, NOUN 
+ex-, ADV 
+
+, SPACE 
+pected, VERB 
+configuration, NOUN 
+
+, SPACE 
+critical, ADJ 
+temperatures, NOUN 
+films, NOUN 
+evalu-, ADJ 
+
+, SPACE 
+ated, VERB 
+standard, ADJ 
+fourprobe, NOUN 
+ac, PROPN 
+measurement, NOUN 
+zero, NUM 
+
+, SPACE 
+resistance, NOUN 
+temperature, NOUN 
+78, NUM 
+80, NUM 
+K, PROPN 
+obtained, VERB 
+
+, SPACE 
+samples, NOUN 
+placed, VERB 
+rotating, NOUN 
+6, NUM 
+holder, NOUN 
+T, PROPN 
+
+, SPACE 
+higher, ADJ 
+outer, ADJ 
+edge, NOUN 
+variation, NOUN 
+caused, VERB 
+
+, SPACE 
+temperature, NOUN 
+gradient, NOUN 
+sample, NOUN 
+holder, NOUN 
+4, NUM 
+steps, NOUN 
+
+, SPACE 
+improve, VERB 
+uniformity, NOUN 
+substrate, NOUN 
+temperature, NOUN 
+
+, SPACE 
+decrease, VERB 
+variation, NOUN 
+T, PROPN 
+improved, ADJ 
+properties, NOUN 
+
+, SPACE 
+films, NOUN 
+published, VERB 
+
+, SPACE 
+Finally, ADV 
+improvement, NOUN 
+deposition, NOUN 
+efficiency, NOUN 
+
+, SPACE 
+found, VERB 
+elongate, VERB 
+source, NOUN 
+life, NOUN 
+reduce, VERB 
+source, NOUN 
+
+, SPACE 
+consumption, NOUN 
+apparent, ADJ 
+cracks, NOUN 
+found, VERB 
+
+, SPACE 
+sources, NOUN 
+fabricating, VERB 
+dozens, NOUN 
+films, NOUN 
+D, PROPN 
+=, NOUN 
+430, NUM 
+
+, SPACE 
+Ba, PROPN 
+source, NOUN 
+capable, ADJ 
+depostion, NOUN 
+100, NUM 
+nm, ADV 
+thick, ADJ 
+
+, SPACE 
+films, NOUN 
+10, NUM 
+times, NOUN 
+batch, NOUN 
+barium, NOUN 
+chunks, NOUN 
+
+, SPACE 
+source, NOUN 
+crucible, ADJ 
+
+, SPACE 
+4, X 
+Conclusions, NOUN 
+
+, SPACE 
+configuration, NOUN 
+PIB, PROPN 
+sources, NOUN 
+studied, VERB 
+
+, SPACE 
+viewpoint, NOUN 
+depositing, VERB 
+large, ADJ 
+area, NOUN 
+HTS, PROPN 
+films, NOUN 
+Film, NOUN 
+thick-, PROPN 
+
+, SPACE 
+ness, ADJ 
+simulated, VERB 
+assumption, NOUN 
+thickness, ADJ 
+
+, SPACE 
+distribution, NOUN 
+PIB, PROPN 
+deposited, VERB 
+films, NOUN 
+followed, VERB 
+cos, PROPN 
+
+, SPACE 
+law, NOUN 
+tilted, ADJ 
+axis, NOUN 
+orientation, NOUN 
+PIB, PROPN 
+source, NOUN 
+
+, SPACE 
+found, VERB 
+improve, VERB 
+film, NOUN 
+uniformity, NOUN 
+calculated, VERB 
+
+, SPACE 
+uniformity, NOUN 
+D, PROPN 
+=, NUM 
+430, NUM 
+0, NUM 
+=, SYM 
+30, NUM 
+L, PROPN 
+=, NOUN 
+30, NUM 
+
+, SPACE 
+identical, ADJ 
+D, PROPN 
+=, NUM 
+564, NUM 
+0, NUM 
+=, SYM 
+0, NUM 
+L, PROPN 
+=, SYM 
+0, NUM 
+Fabrica-, ADV 
+
+, SPACE 
+tion, NOUN 
+D, NOUN 
+=, NOUN 
+430, NUM 
+reduced, VERB 
+source, NOUN 
+consumption, NOUN 
+
+, SPACE 
+prolonged, VERB 
+source, NOUN 
+life, NOUN 
+significantly, ADV 
+deposted, VERB 
+films, NOUN 
+
+, SPACE 
+propared, VERB 
+6, NUM 
+diameter, NOUN 
+sample, NOUN 
+holder, NOUN 
+D, PROPN 
+=, NOUN 
+430, NUM 
+
+, SPACE 
+262, NUM 
+A., NOUN 
+Shuhara, PROPN 
+et, NOUN 
+al./Nucl, NOUN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+111, NUM 
+19961259, NUM 
+262, NUM 
+
+, SPACE 
+0, NUM 
+=, SYM 
+30, NUM 
+L, PROPN 
+=, SYM 
+30, NUM 
+composition, NOUN 
+variation, NOUN 
+
+, SPACE 
+.5, NUM 
+zero, NUM 
+resistance, NOUN 
+temperature, NOUN 
+
+, SPACE 
+78, NUM 
+80, NUM 
+K., PROPN 
+2, X 
+Y., PROPN 
+Kawagoe, PROPN 
+K., PROPN 
+Yamanishi, PROPN 
+M., PROPN 
+Tanaka, PROPN 
+K., PROPN 
+Imada, PROPN 
+K., PROPN 
+
+, SPACE 
+Sate, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+59/60, NUM 
+1991, NUM 
+1426, NUM 
+
+, SPACE 
+3, X 
+L.L., PROPN 
+Levenson, PROPN 
+M., PROPN 
+Stan, PROPN 
+K.B., PROPN 
+Bhasin, PROPN 
+J., PROPN 
+Vat, PROPN 
+Sci, PROPN 
+Tech-, PROPN 
+
+, SPACE 
+nol, NOUN 
+9(1991, PROPN 
+405, NUM 
+
+, SPACE 
+41, NUM 
+A., NOUN 
+Shuhara, PROPN 
+N., PROPN 
+Ritoh, PROPN 
+T., PROPN 
+Takagi, PROPN 
+E., PROPN 
+Haraguchi, PROPN 
+S., PROPN 
+Terai, PROPN 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+l, X 
+K., PROPN 
+Yamanishi, PROPN 
+S., PROPN 
+Yasunaga, PROPN 
+Y., PROPN 
+Kawagoe, PROPN 
+K., PROPN 
+Sate, PROPN 
+K., PROPN 
+
+, SPACE 
+Imada, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+37/38, NUM 
+1989, NUM 
+930, NUM 
+A., PROPN 
+Ryohman, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+80/81, NUM 
+1993, NUM 
+1313, NUM 
+
+, SPACE 
+5, X 
+K., PROPN 
+Yamanishi, PROPN 
+Y., PROPN 
+Minowa, PROPN 
+A., PROPN 
+Shuhara, PROPN 
+Proc, PROPN 
+Int, PROPN 
+Ion, NOUN 
+Engi-, X 
+
+, SPACE 
+neering, VERB 
+Congress, PROPN 
+ISIAT’83&IPAT’83, NOUN 
+Kyoto, PROPN 
+1983, NUM 
+p., NOUN 
+1203, NUM 
+
+, SPACE 
+161, NUM 
+Y., PROPN 
+Minowa, PROPN 
+K., PROPN 
+Yamanishi, PROPN 
+K., PROPN 
+Tsukamoto, PROPN 
+J., PROPN 
+Vat, PROPN 
+Sci, PROPN 
+
+, SPACE 
+Technol, PROPN 
+B, PROPN 
+l/4, PUNCT 
+1983, NUM 
+1148, NUM 
+
+, SPACE 

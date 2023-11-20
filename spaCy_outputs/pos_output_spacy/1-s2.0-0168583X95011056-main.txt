@@ -1,0 +1,2955 @@
+ELSEVIER, PROPN 
+Nuclear, PROPN 
+Instruments, PROPN 
+Methods, PROPN 
+Physics, PROPN 
+Research, PROPN 
+B, PROPN 
+18, NUM 
+1996, NUM 
+547, NUM 
+55, NUM 
+
+, SPACE 
+Nl[lM, NOUN 
+B, PROPN 
+Beam, PROPN 
+Interactions, PROPN 
+
+, SPACE 
+Materials, NOUN 
+Atoms, PROPN 
+
+, SPACE 
+Characterization, PROPN 
+recovery, NOUN 
+recrystallization, NOUN 
+SrTiO, PROPN 
+
+, SPACE 
+surface, NOUN 
+ion, NOUN 
+channeling, VERB 
+
+, SPACE 
+F., PROPN 
+Wang, PROPN 
++, PROPN 
+M., PROPN 
+Badaye, PROPN 
+Y., PROPN 
+Yoshida, PROPN 
+T., PROPN 
+Morishita, PROPN 
+
+, SPACE 
+Superconductivity, PROPN 
+Reseurch, PROPN 
+Laboratory, PROPN 
+ISTEC, PROPN 
+IO-13, NUM 
+Shinonome, ADJ 
+chome, VERB 
+Koto, PROPN 
+ku, PROPN 
+Tokyo, PROPN 
+135, NUM 
+Japun, PROPN 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+response, NOUN 
+amorphous, ADJ 
+SrTiO, PROPN 
+@TO, PROPN 
+films, NOUN 
+deposited, VERB 
+sputtering, VERB 
+ST0, PROPN 
+single, ADJ 
+crystalline, NOUN 
+substrates, NOUN 
+ihermal, VERB 
+
+, SPACE 
+annealing, NOUN 
+investigated, VERB 
+950, NUM 
+keV, NOUN 
+He+, NOUN 
+ion, NOUN 
+channeling, NOUN 
+annealing, PROPN 
+amorphous, ADJ 
+films, NOUN 
+560, NUM 
+thick, ADJ 
+
+, SPACE 
+crystallize, VERB 
+epitaxially, ADV 
+underlying, VERB 
+substrate, NOUN 
+solid, ADJ 
+phase, NOUN 
+epitaxy, NOUN 
+SPE, PROPN 
+crystallized, VERB 
+films, NOUN 
+defective, ADJ 
+
+, SPACE 
+defect, ADJ 
+level, NOUN 
+decreases, NOUN 
+increasing, VERB 
+annealing, VERB 
+temperature, NOUN 
+range, NOUN 
+400, NUM 
+800, NUM 
+°, NUM 
+C, NOUN 
+increases, VERB 
+
+, SPACE 
+increasing, VERB 
+temperature, NOUN 
+range, NOUN 
+800, NUM 
+l, NOUN 
+100, NUM 
+°, NOUN 
+C, NOUN 
+thought, VERB 
+result, VERB 
+competition, NOUN 
+annealing, VERB 
+
+, SPACE 
+SPE, PROPN 
+formation, NOUN 
+randomly, ADV 
+oriented, VERB 
+crystallit$s, PROPN 
+dominant, ADJ 
+process, NOUN 
+high, ADJ 
+temperatures, NOUN 
+Tbe, VERB 
+recovery, NOUN 
+
+, SPACE 
+crystallinity, NOUN 
+ST0, NOUN 
+substrate, NOUN 
+560, NUM 
+thick, ADJ 
+amorphous, ADJ 
+layer, NOUN 
+requires, VERB 
+step, NOUN 
+annealing, NOUN 
+sequence, NOUN 
+i.e., X 
+
+, SPACE 
+annealing, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+followed, VERB 
+annealing, VERB 
+100, NUM 
+°, NOUN 
+C, NOUN 
+single, ADJ 
+crystal, NOUN 
+substrates, NOUN 
+thin, ADJ 
+ST0, NOUN 
+amorphous, ADJ 
+layer, NOUN 
+80, NUM 
+
+, SPACE 
+thick, ADJ 
+completely, ADV 
+recovered, VERB 
+single, ADJ 
+step, NOUN 
+annealing, NOUN 
+1100, NUM 
+°, NUM 
+C, NOUN 
+30, NUM 
+min, NOUN 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+Solid, ADJ 
+phase, NOUN 
+epitaxy, NOUN 
+SPE, PROPN 
+extensively, ADV 
+studied, VERB 
+
+, SPACE 
+semiconducting, VERB 
+materials, NOUN 
+metal, NOUN 
+oxides, NOUN 
+2,3, NUM 
+
+, SPACE 
+especially, ADV 
+ternary, ADJ 
+oxides, NOUN 
+probable, ADJ 
+exis-, NOUN 
+
+, SPACE 
+tence, NOUN 
+multiple, ADJ 
+metastable, ADJ 
+crystalline, NOUN 
+phases, NOUN 
+com-, NOUN 
+
+, SPACE 
+peting, VERB 
+bonding, NOUN 
+mechanisms, NOUN 
+makes, VERB 
+understanding, NOUN 
+
+, SPACE 
+SPE, PROPN 
+difficult, ADJ 
+semiconductors, NOUN 
+spite, NOUN 
+
+, SPACE 
+difficulties, NOUN 
+studies, NOUN 
+SPE, PROPN 
+ABO,-type, PROPN 
+com-, NOUN 
+
+, SPACE 
+pounds, NOUN 
+recently, ADV 
+attracted, VERB 
+interest, NOUN 
+
+, SPACE 
+unique, ADJ 
+electrical, ADJ 
+optical, ADJ 
+properties, NOUN 
+
+, SPACE 
+ABO,-type, PROPN 
+compounds, NOUN 
+SrTiO, PROPN 
+STO, PROPN 
+widely, ADV 
+
+, SPACE 
+substrate, NOUN 
+material, NOUN 
+growth, NOUN 
+high, ADJ 
+temperature, NOUN 
+super-, X 
+
+, SPACE 
+conducting, VERB 
+films, NOUN 
+barrier, NOUN 
+layer, NOUN 
+
+, SPACE 
+intermediate, ADJ 
+layer, NOUN 
+superconducting, VERB 
+devices, NOUN 
+based, VERB 
+
+, SPACE 
+multilayer, ADJ 
+structures, NOUN 
+goal, NOUN 
+present, ADJ 
+work, NOUN 
+
+, SPACE 
+achieve, VERB 
+better, ADJ 
+understanding, NOUN 
+general, ADJ 
+nature, NOUN 
+
+, SPACE 
+recovery, NOUN 
+processes, NOUN 
+ST0, PROPN 
+surface, NOUN 
+occur, VERB 
+amor-, VERB 
+
+, SPACE 
+phous, ADJ 
+ST0, PROPN 
+crystallizes, VERB 
+SPE, PROPN 
+
+, SPACE 
+recently, ADV 
+reported, VERB 
+investiga-, NOUN 
+
+, SPACE 
+tions, NOUN 
+dealing, VERB 
+SPE, PROPN 
+ABO,-type, PROPN 
+materials, NOUN 
+
+, SPACE 
+studies, NOUN 
+devoted, VERB 
+investigating, VERB 
+ion, NOUN 
+
+, SPACE 
+implantation, NOUN 
+annealing, VERB 
+behavior, NOUN 
+LiNbO, NOUN 
+use, NOUN 
+
+, SPACE 
+manufacture, NOUN 
+optical, ADJ 
+waveguides, NOUN 
+4, NUM 
+61, NUM 
+
+, SPACE 
+devoted, ADJ 
+CaTiO, PROPN 
+7, NUM 
+BaTiO, PROPN 
+8,9, NUM 
+ST0, PROPN 
+8,9,10, NUM 
+131, NUM 
+
+, SPACE 
+reported, VERB 
+study, NOUN 
+SPE, PROPN 
+ion, NOUN 
+beam, NOUN 
+amorphized, VERB 
+
+, SPACE 
+Corresponding, VERB 
+author, NOUN 
+Tel, INTJ 
++81, PROPN 
+3, NUM 
+3536, NUM 
+5713, NUM 
+fax, PROPN 
++81, PROPN 
+3, NUM 
+
+, SPACE 
+3536, NUM 
+5717, NUM 
+ST0, NOUN 
+White, PROPN 
+et, PROPN 
+al, PROPN 
+S, X 
+study, NOUN 
+
+, SPACE 
+showed, VERB 
+amorphous, ADJ 
+layers, NOUN 
+resulting, VERB 
+Pb, PROPN 
+ion, NOUN 
+
+, SPACE 
+bombardment, NOUN 
+recrystallized, VERB 
+SPE, ADJ 
+process, NOUN 
+
+, SPACE 
+annealing, VERB 
+moderate, ADJ 
+temperatures, NOUN 
+Moretti, PROPN 
+et, PROPN 
+al, PROPN 
+9, X 
+
+, SPACE 
+implanted, VERB 
+Nb, PROPN 
+ions, NOUN 
+ST0, NOUN 
+BaTiO, PROPN 
+investigated, VERB 
+
+, SPACE 
+structures, NOUN 
+oxidation, NOUN 
+states, NOUN 
+damaged, VERB 
+layers, NOUN 
+
+, SPACE 
+McCallum, PROPN 
+et, PROPN 
+al, PROPN 
+131, NUM 
+examined, VERB 
+effect, NOUN 
+ambient, ADJ 
+water, NOUN 
+
+, SPACE 
+vapour, NOUN 
+epitaxial, ADJ 
+regrowth, NOUN 
+rate, NOUN 
+amorphous, ADJ 
+ST0, NOUN 
+
+, SPACE 
+layers, NOUN 
+time, NOUN 
+resolved, VERB 
+optical, ADJ 
+reflectivity, NOUN 
+technique, NOUN 
+
+, SPACE 
+Recently, ADV 
+Simpson, PROPN 
+et, PROPN 
+al, PROPN 
+IO, PROPN 
+proved, VERB 
+hydrogen, NOUN 
+pro-, PROPN 
+
+, SPACE 
+vided, VERB 
+dissociation, NOUN 
+water, NOUN 
+molecules, NOUN 
+catalyst, NOUN 
+
+, SPACE 
+crystallization, NOUN 
+amorphous, ADJ 
+STO, PROPN 
+reported, VERB 
+
+, SPACE 
+works, NOUN 
+amorphous, ADJ 
+layers, NOUN 
+formed, VERB 
+ion, NOUN 
+
+, SPACE 
+implantation, NOUN 
+relatively, ADV 
+low, ADJ 
+temperatures, NOUN 
+<, X 
+500, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+annealing, VERB 
+ST0, PROPN 
+order, NOUN 
+examine, VERB 
+
+, SPACE 
+regrowth, NOUN 
+kinetics, NOUN 
+
+, SPACE 
+present, ADJ 
+work, NOUN 
+investigates, VERB 
+annealing, VERB 
+behavior, NOUN 
+
+, SPACE 
+amorphous, ADJ 
+ST0, NOUN 
+layers, NOUN 
+formed, VERB 
+ST0, NOUN 
+single, ADJ 
+crystal, NOUN 
+
+, SPACE 
+sputter, NOUN 
+deposition, NOUN 
+extends, VERB 
+annealing, VERB 
+temperature, NOUN 
+
+, SPACE 
+1100, NUM 
+°, NUM 
+C, NOUN 
+results, NOUN 
+regrowth, NOUN 
+behavior, NOUN 
+
+, SPACE 
+amorphous, ADJ 
+ST0, NOUN 
+strong, ADJ 
+function, NOUN 
+annealing, VERB 
+
+, SPACE 
+temperature, NOUN 
+step, NOUN 
+annealing, NOUN 
+sequence, NOUN 
+required, VERB 
+
+, SPACE 
+recovery, NOUN 
+crystallinity, NOUN 
+
+, SPACE 
+2, X 
+Experimental, ADJ 
+details, NOUN 
+
+, SPACE 
+Amorphous, PROPN 
+ST0, PROPN 
+films, NOUN 
+deposited, VERB 
+ST0, PROPN 
+sub-, NOUN 
+
+, SPACE 
+strates, NOUN 
+rf, ADJ 
+sputtering, NOUN 
+stoichiometric, ADJ 
+target, NOUN 
+room, NOUN 
+
+, SPACE 
+temperature, NOUN 
+base, NOUN 
+pressure, NOUN 
+chamber, NOUN 
+2, NUM 
+X, NOUN 
+
+, SPACE 
+0168, NUM 
+583X/96/$15.00, PROPN 
+Copyright, NOUN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+SSDI, PROPN 
+0168, NUM 
+583X(95)01, NUM 
+105, NUM 
+6, NUM 
+VII, PROPN 
+SURFACES, NOUN 
+INTERFACES, VERB 
+
+, SPACE 
+548, NUM 
+F., PROPN 
+Wang, PROPN 
+et, PROPN 
+al, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Rex, PROPN 
+B, PROPN 
+IR, PROPN 
+1996, NUM 
+547, NUM 
+551, NUM 
+
+, SPACE 
+10e7, NUM 
+Torr, PROPN 
+deposition, NOUN 
+chamber, NOUN 
+filled, VERB 
+
+, SPACE 
+Ar, PROPN 
+O, PROPN 
+mixture, NOUN 
+50, NUM 
+m, NOUN 
+Torr, PROPN 
+Ar, PROPN 
+O, PROPN 
+ratio, NOUN 
+3, NUM 
+1, NUM 
+
+, SPACE 
+layers, NOUN 
+560, NUM 
+thick, ADJ 
+number, NOUN 
+
+, SPACE 
+layers, NOUN 
+thickness, NOUN 
+ranging, VERB 
+10, NUM 
+260, NUM 
+
+, SPACE 
+order, NOUN 
+study, VERB 
+thickness, ADJ 
+dependence, NOUN 
+
+, SPACE 
+recovery, NOUN 
+behavior, NOUN 
+ST0, NOUN 
+substrates, VERB 
+100, NUM 
+orienta-, NOUN 
+
+, SPACE 
+tion, NOUN 
+primarily, ADV 
+limited, ADJ 
+studies, NOUN 
+
+, SPACE 
+carried, VERB 
+ST0, PROPN 
+IO, PROPN 
+substrate, NOUN 
+samples, NOUN 
+
+, SPACE 
+annealed, VERB 
+oven, NOUN 
+1, NUM 
+atm, NOUN 
+flowing, VERB 
+oxygen, NOUN 
+
+, SPACE 
+temperatures, NOUN 
+range, NOUN 
+400-, NUM 
+1100, NUM 
+°, NOUN 
+C, NOUN 
+time, NOUN 
+periods, NOUN 
+
+, SPACE 
+ranging, VERB 
+5, NUM 
+min, NOUN 
+10, NUM 
+h., NOUN 
+1200, NUM 
+SrTiO,/SrTiO, PROPN 
+100, NUM 
+
+, SPACE 
+T_,,,=500, PROPN 
+°, NUM 
+C, PROPN 
+
+, SPACE 
+800, NUM 
+
+, SPACE 
+400, NUM 
+
+, SPACE 
+800, NUM 
+1, NUM 
+Solid, ADJ 
+circle, NOUN 
+5min, NUM 
+
+, SPACE 
+Samples, NOUN 
+examined, VERB 
+950, NUM 
+keV, NOUN 
+He+, NOUN 
+Ruther-, PROPN 
+
+, SPACE 
+ford, PROPN 
+backscattering, PROPN 
+RBS, PROPN 
+ion, NOUN 
+channeling, VERB 
+technique, NOUN 
+
+, SPACE 
+Selected, VERB 
+samples, NOUN 
+examined, VERB 
+atomic, ADJ 
+force, NOUN 
+
+, SPACE 
+microscopy, ADJ 
+AFM, PROPN 
+
+, SPACE 
+3, X 
+Results, NOUN 
+discussion, NOUN 
+5, NUM 
+$, SYM 
+=, NUM 
+800, NUM 
+
+, SPACE 
+400, NUM 
+
+, SPACE 
+3.1, NUM 
+SrTiO,(lOO, PROPN 
+0, NUM 
+
+, SPACE 
+STO(100, PROPN 
+substrates, NOUN 
+examined, VERB 
+RBS, PROPN 
+channel-, NOUN 
+
+, SPACE 
+ing, PROPN 
+prior, ADV 
+deposition, NOUN 
+amorphous, ADJ 
+ST0, NOUN 
+layers, NOUN 
+
+, SPACE 
+minimum, ADJ 
+yield, NOUN 
+xmin, NOUN 
+1.3, NUM 
+surface, NOUN 
+peak, NOUN 
+area, NOUN 
+
+, SPACE 
+SPA, PROPN 
+3.0, NUM 
+atoms, NOUN 
+row, NOUN 
+measured, VERB 
+demon-, ADV 
+
+, SPACE 
+strating, VERB 
+high, ADJ 
+quality, NOUN 
+surface, NOUN 
+annealing, VERB 
+
+, SPACE 
+process, NOUN 
+samples, NOUN 
+rapidly, ADV 
+inserted, VERB 
+
+, SPACE 
+removed, VERB 
+preheated, ADJ 
+oven, VERB 
+minimize, VERB 
+effects, NOUN 
+
+, SPACE 
+warm, NOUN 
+cool, NOUN 
+800, NUM 
+
+, SPACE 
+400, NUM 
+
+, SPACE 
+0, NUM 
+300, NUM 
+400, NUM 
+500, NUM 
+600, NUM 
+700, NUM 
+800, NUM 
+S, NOUN 
+
+, SPACE 
+regrowth, NOUN 
+characteristic, NOUN 
+studied, VERB 
+function, NOUN 
+
+, SPACE 
+annealing, VERB 
+temperature, NOUN 
+time, NOUN 
+Fig, PROPN 
+1, NUM 
+shows, VERB 
+ion, NOUN 
+
+, SPACE 
+channeling, VERB 
+results, NOUN 
+obtained, VERB 
+anneaiing, VERB 
+tem-, NOUN 
+
+, SPACE 
+peratures, NOUN 
+periods, NOUN 
+time, NOUN 
+data, NOUN 
+
+, SPACE 
+400, NUM 
+°, NOUN 
+C, NOUN 
+annealing, NOUN 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+fact, NOUN 
+
+, SPACE 
+observe, VERB 
+noticeable, ADJ 
+change, NOUN 
+aligned, VERB 
+spectrum, NOUN 
+
+, SPACE 
+annealing, VERB 
+400, NUM 
+°, NOUN 
+C, NOUN 
+15, NUM 
+min, NOUN 
+annealing, VERB 
+
+, SPACE 
+400, NUM 
+°, NOUN 
+C, NOUN 
+10, NUM 
+h, NOUN 
+resulted, VERB 
+slight, ADJ 
+reduction, NOUN 
+
+, SPACE 
+height, NOUN 
+Sr, PROPN 
+signal, NOUN 
+channeling, NOUN 
+spectrum, NOUN 
+
+, SPACE 
+expected, VERB 
+ion, NOUN 
+amorphized, VERB 
+STO, PROPN 
+regrowth, NOUN 
+rate, NOUN 
+
+, SPACE 
+1, NUM 
+s, PROPN 
+300, NUM 
+°, NOUN 
+C, NOUN 
+30, NUM 
+min, NOUN 
+annealing, VERB 
+400, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+recrystallize, VERB 
+1800, NUM 
+thick, ADJ 
+amorphous, ADJ 
+ST0, NOUN 
+
+, SPACE 
+layer, NOUN 
+8, NUM 
+difference, NOUN 
+regrowth, NOUN 
+behavior, NOUN 
+
+, SPACE 
+ion, NOUN 
+amorphized, VERB 
+deposited, ADJ 
+ST0, NOUN 
+possibly, ADV 
+
+, SPACE 
+difference, NOUN 
+microstructure, NOUN 
+interface, NOUN 
+ion, NOUN 
+
+, SPACE 
+implantation, NOUN 
+produces, VERB 
+end, NOUN 
+range, NOUN 
+region, NOUN 
+deposited, VERB 
+
+, SPACE 
+samples, NOUN 
+usually, ADV 
+sharp, ADJ 
+possibly, ADV 
+contaminated, VERB 
+
+, SPACE 
+interface, NOUN 
+sample, NOUN 
+annealed, VERB 
+500, NUM 
+°, NOUN 
+C, NOUN 
+15, NUM 
+
+, SPACE 
+min, NOUN 
+aligned, VERB 
+yield, NOUN 
+deposited, ADJ 
+region, NOUN 
+
+, SPACE 
+greatly, ADV 
+reduced, VERB 
+Fig, PROPN 
+demonstrating, NOUN 
+amorphous, ADJ 
+
+, SPACE 
+film, NOUN 
+crystallized, VERB 
+epitaxially, ADV 
+underlying, ADJ 
+substrate, NOUN 
+
+, SPACE 
+epitaxial, ADJ 
+growth, NOUN 
+amorphous, ADJ 
+
+, SPACE 
+film, NOUN 
+completed, VERB 
+annealing, VERB 
+500, NUM 
+°, NOUN 
+C, NOUN 
+15, NUM 
+min, NOUN 
+
+, SPACE 
+significant, ADJ 
+residual, ADJ 
+defects, NOUN 
+present, ADJ 
+lattice, NOUN 
+Fig, PROPN 
+
+, SPACE 
+lb, PRON 
+shows, VERB 
+annealing, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+leads, VERB 
+epitaxial, ADJ 
+
+, SPACE 
+growth, NOUN 
+ST0, NOUN 
+layer, NOUN 
+residual, ADJ 
+defects, NOUN 
+How-, X 
+
+, SPACE 
+sample, NOUN 
+annealed, VERB 
+900, NUM 
+°, NUM 
+C, NOUN 
+Fig, PROPN 
+lc, PROPN 
+Fig, PROPN 
+RBS, PROPN 
+channeling, VERB 
+spectra, PROPN 
+recrystallization, NOUN 
+SrTiO, NOUN 
+100, NUM 
+
+, SPACE 
+crystals, NOUN 
+coated, VERB 
+560, NUM 
+thick, ADJ 
+amorphous, ADJ 
+SrTiOs, PROPN 
+layer, NOUN 
+
+, SPACE 
+Samples, NOUN 
+annealed, VERB 
+1, NUM 
+atm, NOUN 
+flowing, VERB 
+0, NUM 
+temperatures, NOUN 
+
+, SPACE 
+range, NOUN 
+400-, NUM 
+1100, NUM 
+°, NOUN 
+C, NOUN 
+time, NOUN 
+periods, NOUN 
+ranging, VERB 
+5, NUM 
+min, NOUN 
+10, NUM 
+h., ADJ 
+
+, SPACE 
+residual, ADJ 
+defect, NOUN 
+level, NOUN 
+higher, ADJ 
+obtained, VERB 
+
+, SPACE 
+annealing, VERB 
+8OO”C, NUM 
+shape, NOUN 
+aligned, VERB 
+spectrum, NOUN 
+
+, SPACE 
+different, ADJ 
+shown, VERB 
+Fig, PROPN 
+la, PROPN 
+Fig, PROPN 
+lb, X 
+Fig, PROPN 
+
+, SPACE 
+lc, NOUN 
+shows, VERB 
+annealing, VERB 
+treatment, NOUN 
+caused, VERB 
+
+, SPACE 
+amorphous, ADJ 
+crystal, PROPN 
+c, NOUN 
+interface, NOUN 
+advance, VERB 
+
+, SPACE 
+surface, NOUN 
+near, ADJ 
+surface, NOUN 
+region, NOUN 
+highly, ADV 
+defective, ADJ 
+
+, SPACE 
+sample, NOUN 
+annealed, VERB 
+1, NUM 
+lOO”C, NOUN 
+results, NOUN 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+d, PROPN 
+suggest, VERB 
+layer, NOUN 
+layer, NOUN 
+crystallization, NOUN 
+
+, SPACE 
+30, NUM 
+min, NOUN 
+c, NOUN 
+transformation, NOUN 
+occurs, VERB 
+
+, SPACE 
+interface, NOUN 
+moves, VERB 
+urface, NOUN 
+30, NUM 
+
+, SPACE 
+min, NOUN 
+average, ADJ 
+growth, NOUN 
+rate, NOUN 
+6, NUM 
+min, NOUN 
+far, ADV 
+lower, ADJ 
+
+, SPACE 
+reported, VERB 
+value, NOUN 
+ion, NOUN 
+beam, NOUN 
+amorphized, VERB 
+ST0, NOUN 
+
+, SPACE 
+400, NUM 
+°, NOUN 
+C, NOUN 
+8, NUM 
+results, NOUN 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+suggest, VERB 
+types, NOUN 
+
+, SPACE 
+growth, NOUN 
+behavior, NOUN 
+annealing, VERB 
+annealing, NOUN 
+temper-, X 
+
+, SPACE 
+atures, NOUN 
+ranging, VERB 
+500, NUM 
+800, NUM 
+°, NOUN 
+C, NOUN 
+causes, VERB 
+rapid, ADJ 
+epitaxial, ADJ 
+
+, SPACE 
+growth, NOUN 
+amorphous, ADJ 
+film, NOUN 
+underlying, VERB 
+sub-, NOUN 
+
+, SPACE 
+strate, NOUN 
+results, NOUN 
+growth, NOUN 
+defected, ADJ 
+iayer, NOUN 
+
+, SPACE 
+higher, ADJ 
+temperatures, NOUN 
+ranging, VERB 
+900, NUM 
+1, NUM 
+100, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+annealing, VERB 
+treatment, NOUN 
+results, NOUN 
+slow, ADJ 
+movement, NOUN 
+
+, SPACE 
+interface, NOUN 
+surface, NOUN 
+large, ADJ 
+disorder, NOUN 
+concentra-, NUM 
+
+, SPACE 
+tion, NOUN 
+film, NOUN 
+established, VERB 
+1, NUM 
+compet-, NOUN 
+
+, SPACE 
+ing, ADJ 
+processes, NOUN 
+exist, VERB 
+solid, ADJ 
+phase, NOUN 
+crystallization, NOUN 
+lid, PROPN 
+circle, PROPN 
+15min, NUM 
+
+, SPACE 
+n, CCONJ 
+circle, PROPN 
+30min, NOUN 
+
+, SPACE 
+Line, NOUN 
+annealing, VERB 
+
+, SPACE 
+Solid, ADJ 
+circle, NOUN 
+Smin, PROPN 
+
+, SPACE 
+circle, NOUN 
+30min, NOUN 
+
+, SPACE 
+10, NUM 
+
+, SPACE 
+Channel, PROPN 
+Number, PROPN 
+
+, SPACE 
+F., PROPN 
+Wang, PROPN 
+et, PROPN 
+al, PROPN 
+Nucl, PROPN 
+lnstr, PROPN 
+und, PROPN 
+Meth, PROPN 
+Phvs, PROPN 
+Rex, PROPN 
+B, PROPN 
+I8, PROPN 
+f, PROPN 
+1996, NUM 
+547, NUM 
+551, NUM 
+
+, SPACE 
+120, NUM 
+950KeV, PROPN 
+He+, NOUN 
+SrTiO,/SrTiO, NOUN 
+100, NUM 
+140, NUM 
+
+, SPACE 
+120, NUM 
+950KeV, PROPN 
+He+, X 
+SrTiO@rTiO, PROPN 
+100, NUM 
+
+, SPACE 
+o, PROPN 
+o--0, NOUN 
+-0, PUNCT 
+7oooc, NUM 
+
+, SPACE 
+o, NOUN 
+8OOOC, PROPN 
+
+, SPACE 
+b, PROPN 
+k, PROPN 
+
+, SPACE 
+n, CCONJ 
+20, NUM 
+40, NUM 
+60, NUM 
+600, NUM 
+t, NOUN 
+
+, SPACE 
+Annealing, PROPN 
+Time, PROPN 
+min, PROPN 
+3, NUM 
+
+, SPACE 
+Annealing, PROPN 
+Temperature, PROPN 
+C, PROPN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Normalized, VERB 
+disorder, NOUN 
+concentration, NOUN 
+recrystallized, VERB 
+
+, SPACE 
+films, NOUN 
+function, NOUN 
+annealing, VERB 
+temperature, NOUN 
+Fig, PROPN 
+3, X 
+Normalized, VERB 
+disorder, NOUN 
+concentration, NOUN 
+m, VERB 
+recrystallized, VERB 
+
+, SPACE 
+films, NOUN 
+function, NOUN 
+annealing, VERB 
+time, NOUN 
+
+, SPACE 
+annealing, VERB 
+continuous, ADJ 
+c, NOUN 
+transformation, NOUN 
+
+, SPACE 
+interface, NOUN 
+moves, VERB 
+surface, NOUN 
+
+, SPACE 
+nucleation, NOUN 
+growth, NOUN 
+randomly, ADV 
+oriented, VERB 
+crystallites, NOUN 
+
+, SPACE 
+amorphous, ADJ 
+layer, NOUN 
+annealing, VERB 
+SPE, PROPN 
+dominates, VERB 
+
+, SPACE 
+relatively, ADV 
+low, ADJ 
+temperatures, NOUN 
+random, ADJ 
+nucleation, NOUN 
+
+, SPACE 
+growth, NOUN 
+dominant, ADJ 
+crystallization, NOUN 
+process, NOUN 
+
+, SPACE 
+higher, ADJ 
+temperatures, NOUN 
+Reports, NOUN 
+recent, ADJ 
+TEM, PROPN 
+investiga-, ADJ 
+
+, SPACE 
+tion, NOUN 
+preparation, NOUN 
+cross, ADJ 
+section, ADJ 
+micrographs, NOUN 
+
+, SPACE 
+demonstrate, VERB 
+SPE, PROPN 
+amorphous, ADJ 
+ST0, PROPN 
+
+, SPACE 
+completed, VERB 
+randomly, ADV 
+oriented, VERB 
+crystallites, NOUN 
+built, VERB 
+
+, SPACE 
+temperature, NOUN 
+range, NOUN 
+400, NUM 
+800, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+high, ADJ 
+temperatures, NOUN 
+ranging, VERB 
+900, NUM 
+1, NUM 
+lOO”C, NOUN 
+number, NOUN 
+
+, SPACE 
+randomly, ADV 
+oriented, VERB 
+crystallites, NOUN 
+formed, VERB 
+sam-, NOUN 
+
+, SPACE 
+ple, PROPN 
+surface, NOUN 
+interrupted, VERB 
+regular, ADJ 
+progression, NOUN 
+
+, SPACE 
+epitaxial, ADJ 
+growth, NOUN 
+interface, NOUN 
+
+, SPACE 
+movement, NOUN 
+implied, VERB 
+Fig, PROPN 
+d, PROPN 
+real, ADJ 
+c, NOUN 
+transforma-, NOUN 
+
+, SPACE 
+tion, NOUN 
+shows, VERB 
+transformation, NOUN 
+randomly, ADV 
+oriented, VERB 
+
+, SPACE 
+crystallites, NOUN 
+single, ADJ 
+crystal, NOUN 
+explaining, VERB 
+slow, ADJ 
+
+, SPACE 
+regrowth, NOUN 
+rate, NOUN 
+observed, VERB 
+amorphous, ADJ 
+ST0, NOUN 
+1100, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+competing, VERB 
+crystallization, NOUN 
+pro-, NOUN 
+
+, SPACE 
+cesses, NOUN 
+highest, ADJ 
+temperature, NOUN 
+result, VERB 
+
+, SPACE 
+growth, NOUN 
+lowest, ADJ 
+defect, ADJ 
+level, NOUN 
+normalized, VERB 
+
+, SPACE 
+total, ADJ 
+number, NOUN 
+displaced, VERB 
+atoms, NOUN 
+square, ADJ 
+centimeter, NOUN 
+
+, SPACE 
+recrystallized, VERB 
+layer, NOUN 
+atom, NOUN 
+density, NOUN 
+layer, NOUN 
+
+, SPACE 
+refer, VERB 
+normalized, VERB 
+disorder, NOUN 
+concentration, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+shows, VERB 
+normalized, VERB 
+disorder, NOUN 
+concentration, NOUN 
+
+, SPACE 
+recrystallized, VERB 
+region, NOUN 
+function, NOUN 
+annealing, VERB 
+tempera-, ADJ 
+
+, SPACE 
+ture, NOUN 
+Starting, VERB 
+4OO”C, NUM 
+residual, ADJ 
+defect, NOUN 
+level, NOUN 
+de-, NOUN 
+
+, SPACE 
+creases, VERB 
+increasing, VERB 
+annealing, VERB 
+temperature, NOUN 
+reaches, VERB 
+
+, SPACE 
+lowest, ADJ 
+value, NOUN 
+8OO”C, NUM 
+increases, VERB 
+rapidly, ADV 
+
+, SPACE 
+increasing, VERB 
+temperature, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+shows, VERB 
+normalized, VERB 
+disorder, NOUN 
+concentration, NOUN 
+
+, SPACE 
+recrystallized, VERB 
+region, NOUN 
+function, NOUN 
+annealing, VERB 
+time, NOUN 
+
+, SPACE 
+common, ADJ 
+phenomenon, NOUN 
+samples, NOUN 
+re-, ADJ 
+
+, SPACE 
+sponse, NOUN 
+annealing, VERB 
+linear, ADJ 
+time, NOUN 
+observed, VERB 
+
+, SPACE 
+annealing, VERB 
+case, NOUN 
+1, NUM 
+lOO”C, NOUN 
+changes, NOUN 
+
+, SPACE 
+occurred, VERB 
+minutes, NOUN 
+saturated, VERB 
+
+, SPACE 
+indicates, VERB 
+annealing, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+results, NOUN 
+
+, SPACE 
+epitaxial, ADJ 
+growth, NOUN 
+lowest, ADJ 
+disorder, NOUN 
+concentra-, VERB 
+549, NUM 
+
+, SPACE 
+tion, NOUN 
+step, NOUN 
+annealing, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+result, VERB 
+
+, SPACE 
+high, ADJ 
+crystalline, NOUN 
+quality, NOUN 
+
+, SPACE 
+step, NOUN 
+annealing, VERB 
+procedure, NOUN 
+produce, VERB 
+
+, SPACE 
+high, ADJ 
+crystalline, NOUN 
+quality, NOUN 
+stage, NOUN 
+annealing, NOUN 
+
+, SPACE 
+800, NUM 
+°, NUM 
+C, NOUN 
+results, VERB 
+growth, NOUN 
+defected, VERB 
+
+, SPACE 
+layer, NOUN 
+Subsequently, ADV 
+high, ADJ 
+temperature, NOUN 
+treatment, NOUN 
+1100, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+applied, VERB 
+reduce, VERB 
+residual, ADJ 
+defect, NOUN 
+level, NOUN 
+
+, SPACE 
+similar, ADJ 
+treatment, NOUN 
+extensively, ADV 
+recov-, NOUN 
+
+, SPACE 
+ery, NOUN 
+GaAs, PROPN 
+III, PROPN 
+V, NOUN 
+semiconductors, NOUN 
+14,151, NUM 
+Fig, PROPN 
+
+, SPACE 
+4, NUM 
+shows, VERB 
+aligned, VERB 
+spectra, NOUN 
+sample, NOUN 
+
+, SPACE 
+annealed, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+5, NUM 
+min, NOUN 
+followed, VERB 
+annealing, VERB 
+
+, SPACE 
+1100, NUM 
+°, NOUN 
+C, NOUN 
+30, NUM 
+min, NOUN 
+sample, NOUN 
+recovered, VERB 
+step, NOUN 
+
+, SPACE 
+annealing, NOUN 
+process, NOUN 
+xrmn, ADJ 
+SPA, PROPN 
+values, NOUN 
+2.5, NUM 
+3, NUM 
+
+, SPACE 
+atoms, NOUN 
+row, NOUN 
+respectively, ADV 
+comparable, ADJ 
+sub-, NOUN 
+
+, SPACE 
+strate, NOUN 
+coating, VERB 
+
+, SPACE 
+3.2, NUM 
+SrTiO, PROPN 
+f, PROPN 
+1, NUM 
+IO, PROPN 
+
+, SPACE 
+Limited, PROPN 
+studies, NOUN 
+STO(I, PROPN 
+10, NUM 
+sub-, PROPN 
+
+, SPACE 
+strates, NOUN 
+y, PROPN 
+SPA, PROPN 
+substrate, NOUN 
+3.8, NUM 
+
+, SPACE 
+annealing, VERB 
+
+, SPACE 
+b, PROPN 
+800, NUM 
+°, NUM 
+C, NOUN 
+5min, NUM 
+
+, SPACE 
+c, NOUN 
+1, NUM 
+IOO’C, NOUN 
+3Omin, NUM 
+
+, SPACE 
+500, NUM 
+ho0, NOUN 
+7no, NOUN 
+
+, SPACE 
+Channel, PROPN 
+Number, PROPN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Channeling, VERB 
+spectra, NOUN 
+SrTiO,(lOO, PROPN 
+crystal, PROPN 
+coated, VERB 
+
+, SPACE 
+560, PROPN 
+thick, VERB 
+amorphous, ADJ 
+SrTiO, PROPN 
+layer, NOUN 
+sample, NOUN 
+an-, ADV 
+
+, SPACE 
+nealed, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+5, NUM 
+min, NOUN 
+annealed, VERB 
+100, NUM 
+°, NOUN 
+C, NOUN 
+30, NUM 
+
+, SPACE 
+min, PROPN 
+
+, SPACE 
+VII, PROPN 
+SURFACES, PROPN 
+INTERFACES, VERB 
+
+, SPACE 
+550, NUM 
+F., PROPN 
+Wang, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Rex, PROPN 
+B, PROPN 
+I18, PROPN 
+1996, NUM 
+547, NUM 
+551, NUM 
+
+, SPACE 
+2000, NUM 
+
+, SPACE 
+950KeV, PROPN 
+He+, NOUN 
+x, X 
+<, X 
+SrTiO,/SrTiO, PROPN 
+1, NUM 
+IO, PROPN 
+
+, SPACE 
+Line, NOUN 
+annealing, VERB 
+
+, SPACE 
+Solid, ADJ 
+circle, NOUN 
+15min, NUM 
+
+, SPACE 
+en, ADP 
+circle, NOUN 
+30min, NOUN 
+
+, SPACE 
+1, NUM 
+I., PROPN 
+I., PROPN 
+I., PROPN 
+SB, PROPN 
+
+, SPACE 
+so0, PROPN 
+
+, SPACE 
+400, NUM 
+500, NUM 
+600, NUM 
+700, NUM 
+800, NUM 
+900, NUM 
+
+, SPACE 
+Channel, PROPN 
+Number, PROPN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Random, NOUN 
+channeling, VERB 
+spectra, PROPN 
+recrystallization, NOUN 
+aa, ADJ 
+
+, SPACE 
+SrTiO,(l, PROPN 
+IO, PROPN 
+crystal, NOUN 
+coated, VERB 
+amorphous, ADJ 
+layer, NOUN 
+560, NUM 
+
+, SPACE 
+thickness, NOUN 
+Samples, NOUN 
+annealed, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+flowing, VERB 
+0, NUM 
+
+, SPACE 
+time, NOUN 
+periods, NOUN 
+
+, SPACE 
+4.8, NUM 
+atoms, NOUN 
+row, NOUN 
+respectively, ADV 
+values, NOUN 
+higher, ADJ 
+
+, SPACE 
+STO(100, PROPN 
+substrate, NOUN 
+substrates, NOUN 
+
+, SPACE 
+coated, VERB 
+amorphous, ADJ 
+ST0, NOUN 
+layer, NOUN 
+sputtering, VERB 
+
+, SPACE 
+way, NOUN 
+STO(100, PROPN 
+substrates, NOUN 
+found, VERB 
+
+, SPACE 
+annealing, VERB 
+500, NUM 
+°, NOUN 
+C, NOUN 
+30, NUM 
+min, NOUN 
+cause, VERB 
+noticeable, ADJ 
+
+, SPACE 
+change, NOUN 
+aligned, VERB 
+spectrum, NOUN 
+Fig, PROPN 
+5, NUM 
+shows, VERB 
+response, NOUN 
+
+, SPACE 
+sample, NOUN 
+thermal, ADJ 
+annealing, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+seen, VERB 
+
+, SPACE 
+annealing, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+interface, NOUN 
+moved, VERB 
+
+, SPACE 
+surface, NOUN 
+200, NUM 
+high, ADJ 
+density, NOUN 
+defects, NOUN 
+
+, SPACE 
+remained, VERB 
+near, ADP 
+surface, NOUN 
+Annealing, VERB 
+1100, NUM 
+°, NOUN 
+C, NOUN 
+shows, VERB 
+
+, SPACE 
+similar, ADJ 
+behavior, NOUN 
+Similar, ADJ 
+case, NOUN 
+STO(100, PROPN 
+sub-, PROPN 
+
+, SPACE 
+strate, NOUN 
+response, NOUN 
+STO(l, PROPN 
+10, NUM 
+samples, NOUN 
+annealing, VERB 
+
+, SPACE 
+linear, ADJ 
+time, NOUN 
+residual, ADJ 
+defect, NOUN 
+level, NOUN 
+
+, SPACE 
+saturates, NOUN 
+Compared, VERB 
+STO, PROPN 
+lOO, PROPN 
+forma-, ADJ 
+
+, SPACE 
+tion, NOUN 
+randomly, ADV 
+oriented, VERB 
+crystallites, NOUN 
+STo(llO, NUM 
+
+, SPACE 
+system, NOUN 
+dominant, ADJ 
+process, NOUN 
+lower, ADJ 
+tempera-, ADJ 
+
+, SPACE 
+xti=1.3, ADJ 
+
+, SPACE 
+SPA=2.7atoms, NOUN 
+row, NOUN 
+
+, SPACE 
+
+, SPACE 
+500, NUM 
+600, NUM 
+700, NUM 
+
+, SPACE 
+Channel, PROPN 
+Number, PROPN 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+lOOI, X 
+aligned, VERB 
+backscattering, VERB 
+spectra, PROPN 
+frym, VERB 
+SrTiO,(lOO, PROPN 
+
+, SPACE 
+substrate, NOUN 
+heen, AUX 
+coated, VERB 
+80, NUM 
+thick, ADJ 
+amorphous, ADJ 
+
+, SPACE 
+SrTiO, PROPN 
+layer, NOUN 
+spectrum, NOUN 
+obtained, VERB 
+annealing, VERB 
+llOO, X 
+°, NUM 
+C, PROPN 
+
+, SPACE 
+30, NUM 
+min, NOUN 
+indistinguishable, ADJ 
+substrate, NOUN 
+
+, SPACE 
+coating, NOUN 
+l, NOUN 
+950KeV, PROPN 
+He+, NOUN 
+SrTiO, PROPN 
+100, NUM 
+
+, SPACE 
+
+, SPACE 
+o-~, PROPN 
+
+, SPACE 
+0, NUM 
+200, NUM 
+400, NUM 
+600, NUM 
+800, NUM 
+1000, NUM 
+1, NUM 
+
+, SPACE 
+Annealing, PROPN 
+Temperature, PROPN 
+C, NOUN 
+30, NUM 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+Sr, PROPN 
+surface, NOUN 
+peak, PROPN 
+area, NOUN 
+SPA, PROPN 
+values, NOUN 
+SrTiO,(lOO, NUM 
+
+, SPACE 
+samples, NOUN 
+function, NOUN 
+annealing, VERB 
+temperature, NOUN 
+annealing, NOUN 
+
+, SPACE 
+carried, VERB 
+1, NUM 
+atm, NOUN 
+flowing, VERB 
+0, NUM 
+30, NUM 
+min, NOUN 
+
+, SPACE 
+tures, NOUN 
+STO(100, PROPN 
+case, NOUN 
+implying, VERB 
+c, NOUN 
+trans-, VERB 
+
+, SPACE 
+formation, NOUN 
+rate, NOUN 
+STO(l10, NOUN 
+interface, NOUN 
+lower, ADJ 
+
+, SPACE 
+STO(100, PROPN 
+direction, NOUN 
+dependence, NOUN 
+crystal-, NUM 
+
+, SPACE 
+lization, NOUN 
+behavior, NOUN 
+poorer, ADJ 
+surface, NOUN 
+quality, NOUN 
+
+, SPACE 
+STO(l10, NOUN 
+substrate, NOUN 
+intrinsic, ADJ 
+growth, NOUN 
+kinetics, NOUN 
+
+, SPACE 
+clear, ADJ 
+
+, SPACE 
+3.3, X 
+Thin, ADJ 
+amorphous, ADJ 
+layers, NOUN 
+
+, SPACE 
+found, VERB 
+easier, ADJ 
+recover, VERB 
+ST0, PROPN 
+crystal, NOUN 
+surface, NOUN 
+
+, SPACE 
+coated, VERB 
+thin, ADJ 
+amorphous, ADJ 
+layer, NOUN 
+16, NUM 
+amor-, ADJ 
+
+, SPACE 
+phous, ADJ 
+layer, NOUN 
+thin, ADJ 
+step, NOUN 
+annealing, VERB 
+proce-, NOUN 
+
+, SPACE 
+dure, NOUN 
+necessary, ADJ 
+annealing, VERB 
+1100, NUM 
+°, NUM 
+C, NOUN 
+30, NUM 
+min, NOUN 
+
+, SPACE 
+resulted, VERB 
+high, ADJ 
+quality, NOUN 
+recrystallization, NOUN 
+amorphous, ADJ 
+
+, SPACE 
+layer, NOUN 
+certain, ADJ 
+thickness, NOUN 
+simple, ADJ 
+annealing, NOUN 
+
+, SPACE 
+treatment, NOUN 
+great, ADJ 
+difference, NOUN 
+
+, SPACE 
+sample, NOUN 
+inserted, VERB 
+oven, PROPN 
+quickly, ADV 
+slowly, ADV 
+Fig, PROPN 
+6, NUM 
+
+, SPACE 
+shows, VERB 
+lOOI, X 
+aligned, VERB 
+spectra, NOUN 
+ST0, NOUN 
+substrate, NOUN 
+
+, SPACE 
+80, NUM 
+thick, ADJ 
+amorphous, ADJ 
+layer, NOUN 
+annealing, VERB 
+1100, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+30, NUM 
+min, NOUN 
+channeling, VERB 
+yield, NOUN 
+annealed, ADJ 
+sample, NOUN 
+
+, SPACE 
+indistinguishable, ADJ 
+virgin, PROPN 
+crystal, PROPN 
+demonstrating, VERB 
+
+, SPACE 
+complete, ADJ 
+recovery, NOUN 
+surface, NOUN 
+found, VERB 
+
+, SPACE 
+thickness, ADJ 
+limit, NOUN 
+complete, ADJ 
+recovery, NOUN 
+80, NUM 
+A., NOUN 
+Fig, PROPN 
+7, NUM 
+
+, SPACE 
+shows, VERB 
+SPA, PROPN 
+values, NOUN 
+samples, NOUN 
+annealing, VERB 
+
+, SPACE 
+30, NUM 
+min, NOUN 
+function, NOUN 
+annealing, VERB 
+temperature, NOUN 
+shows, VERB 
+
+, SPACE 
+recovery, NOUN 
+crystallinity, NOUN 
+requires, VERB 
+annealing, VERB 
+
+, SPACE 
+llOO”C, NOUN 
+30, NUM 
+min, NOUN 
+1100, NUM 
+°, NOUN 
+C, NOUN 
+samples, NOUN 
+
+, SPACE 
+amorphous, ADJ 
+layers, NOUN 
+80, NUM 
+thick, ADJ 
+possess, NOUN 
+
+, SPACE 
+SPA, PROPN 
+value, NOUN 
+equal, ADJ 
+virgin, PROPN 
+crystal, PROPN 
+
+, SPACE 
+AFM, PROPN 
+measurements, NOUN 
+carried, VERB 
+selected, VERB 
+samples, NOUN 
+indi-, NOUN 
+
+, SPACE 
+cate, NOUN 
+recrystallized, ADJ 
+ST0, NOUN 
+substrates, NOUN 
+atomfcally, ADV 
+
+, SPACE 
+flat, ADJ 
+surface, NOUN 
+root, NOUN 
+mean, NOUN 
+square, ADJ 
+roughness, NOUN 
+1.2, NUM 
+A., NOUN 
+
+, SPACE 
+4, X 
+Conclusions, PROPN 
+
+, SPACE 
+Systematic, PROPN 
+studies, NOUN 
+thermal, ADJ 
+annealing, VERB 
+behavior, NOUN 
+
+, SPACE 
+amorphous, ADJ 
+ST0, NOUN 
+layers, NOUN 
+deposited, VERB 
+ST0, NOUN 
+single, ADJ 
+crystal, NOUN 
+
+, SPACE 
+F., PROPN 
+Wang, PROPN 
+et, PROPN 
+al, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Rex, PROPN 
+B, PROPN 
+I18, PROPN 
+996, NUM 
+547, NUM 
+551, NUM 
+551, NUM 
+
+, SPACE 
+substrates, NOUN 
+carried, VERB 
+950, NUM 
+keV, NOUN 
+He+, NOUN 
+ion, NOUN 
+
+, SPACE 
+channeling, NOUN 
+annealing, PROPN 
+560, NUM 
+thick, ADJ 
+amor-, ADJ 
+
+, SPACE 
+phous, ADJ 
+layers, NOUN 
+crystallize, VERB 
+epitaxially, ADV 
+underlying, VERB 
+
+, SPACE 
+substrate, NOUN 
+SPE, PROPN 
+crystallized, VERB 
+films, NOUN 
+defective, ADJ 
+
+, SPACE 
+defect, ADJ 
+level, NOUN 
+decreases, NOUN 
+increasing, VERB 
+annealing, VERB 
+tem-, NOUN 
+
+, SPACE 
+perature, NOUN 
+range, NOUN 
+400, NUM 
+8OOT, NOUN 
+increases, VERB 
+
+, SPACE 
+increasing, VERB 
+temperature, NOUN 
+ranging, VERB 
+800, NUM 
+l, NOUN 
+1OU*C., NUM 
+
+, SPACE 
+competition, NOUN 
+annealing, VERB 
+
+, SPACE 
+SPE, PROPN 
+formation, NOUN 
+randomly, ADV 
+oriented, VERB 
+crystallites, NOUN 
+
+, SPACE 
+dominant, ADJ 
+process, NOUN 
+high, ADJ 
+temperatures, NOUN 
+
+, SPACE 
+recovery, NOUN 
+crystallinity, NOUN 
+requires, VERB 
+step, NOUN 
+annealing, VERB 
+
+, SPACE 
+sequence, NOUN 
+stage, NOUN 
+anneal, ADJ 
+8OO”C, NUM 
+
+, SPACE 
+results, VERB 
+growth, NOUN 
+layer, NOUN 
+low, ADJ 
+defect, NOUN 
+level, NOUN 
+
+, SPACE 
+Subsequently, ADV 
+sample, NOUN 
+annealed, VERB 
+1100, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+reduce, VERB 
+residual, ADJ 
+defects, NOUN 
+films, NOUN 
+crystallized, VERB 
+
+, SPACE 
+step, NOUN 
+annealing, NOUN 
+treatment, NOUN 
+crystalline, ADJ 
+quality, NOUN 
+
+, SPACE 
+comparable, ADJ 
+virgin, PROPN 
+crystal, PROPN 
+crystallization, NOUN 
+
+, SPACE 
+thin, ADJ 
+amorphous, ADJ 
+layers, NOUN 
+step, NOUN 
+annealing, VERB 
+
+, SPACE 
+procedure, NOUN 
+necessary, ADJ 
+found, VERB 
+single*crystal, ADJ 
+
+, SPACE 
+substrates, NOUN 
+thin, ADJ 
+amorphous, ADJ 
+layer, NOUN 
+80, NUM 
+thick, ADJ 
+
+, SPACE 
+completely, ADV 
+recovered, VERB 
+single, ADJ 
+step, NOUN 
+annealing, VERB 
+
+, SPACE 
+1100, NUM 
+°, NOUN 
+C, NOUN 
+iatm, NOUN 
+O2, PROPN 
+30, NUM 
+min, NOUN 
+
+, SPACE 
+Acknowledgements, NOUN 
+
+, SPACE 
+thank, VERB 
+G., PROPN 
+Pindoria, PROPN 
+helpful, ADJ 
+comments, NOUN 
+
+, SPACE 
+corrections, NOUN 
+work, NOUN 
+partially, ADV 
+supported, VERB 
+NEDO, PROPN 
+References, NOUN 
+
+, SPACE 
+111, NUM 
+instance, NOUN 
+G.L., PROPN 
+Olson, PROPN 
+J.A., PROPN 
+Roth, PROPN 
+Handbook, PROPN 
+
+, SPACE 
+Crystal, PROPN 
+Growth, PROPN 
+ed, PROPN 
+D.T.J., PROPN 
+Hurle, PROPN 
+Vol, PROPN 
+3, NUM 
+1994, NUM 
+pp, PROPN 
+255, NUM 
+312, NUM 
+
+, SPACE 
+references, NOUN 
+
+, SPACE 
+2, X 
+C.J., PROPN 
+McHargue, PROPN 
+P.S., PROPN 
+Sklad, PROPN 
+C.W., PROPN 
+White, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+
+, SPACE 
+Meth, PROPN 
+B, NOUN 
+46, NUM 
+1990, NUM 
+78, NUM 
+
+, SPACE 
+131, NUM 
+L., PROPN 
+Romana, PROPN 
+P., PROPN 
+Thevenard, PROPN 
+B., PROPN 
+Canut, PROPN 
+G., PROPN 
+Massouras, PROPN 
+R., PROPN 
+
+, SPACE 
+Brenier, PROPN 
+M., PROPN 
+Brunei, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+46, NUM 
+1990, NUM 
+
+, SPACE 
+94, NUM 
+
+, SPACE 
+4, X 
+Ch, PROPN 
+Buchal, PROPN 
+P.R., PROPN 
+Ashley, PROPN 
+B.R., PROPN 
+Appleton, PROPN 
+J., PROPN 
+Mater, PROPN 
+Res, PROPN 
+2, NUM 
+
+, SPACE 
+1987, NUM 
+222, NUM 
+
+, SPACE 
+5, X 
+T., PROPN 
+Bremer, PROPN 
+W., PROPN 
+Heiland, PROPN 
+Ch, PROPN 
+Buchal, PROPN 
+R., PROPN 
+lrmscher, NOUN 
+B., PROPN 
+
+, SPACE 
+Stritzker, PROPN 
+J., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+67, NUM 
+1990, NUM 
+1183, NUM 
+
+, SPACE 
+6, NUM 
+D.B., PROPN 
+Poker, PROPN 
+D.K., PROPN 
+Thomas, PROPN 
+J., PROPN 
+Mater, PROPN 
+Res, PROPN 
+4, NUM 
+1989, NUM 
+412, NUM 
+
+, SPACE 
+71, NUM 
+J., PROPN 
+Rankin, PROPN 
+L.W., PROPN 
+Hobbs, PROPN 
+L.A., PROPN 
+Boatner, PROPN 
+C.W, PROPN 
+White, PROPN 
+Nucl, PROPN 
+
+, SPACE 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+32, NUM 
+1988, NUM 
+28, NUM 
+
+, SPACE 
+8, X 
+C.W., PROPN 
+White, PROPN 
+L.A., PROPN 
+Boatner, PROPN 
+P.S., PROPN 
+Sklad, PROPN 
+C.J., PROPN 
+McHargue, PROPN 
+J., PROPN 
+
+, SPACE 
+Rankin, PROPN 
+G.C., PROPN 
+Farlow, PROPN 
+M.J., PROPN 
+Aziz, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+
+, SPACE 
+32, NUM 
+1988, NUM 
+Il, PROPN 
+
+, SPACE 
+191, NUM 
+
+, SPACE 
+lOI, X 
+
+, SPACE 
+III, NUM 
+
+, SPACE 
+iI21, NOUN 
+
+, SPACE 
+iI31, VERB 
+
+, SPACE 
+I41, PROPN 
+
+, SPACE 
+I51, PROPN 
+
+, SPACE 
+I61, PROPN 
+P., PROPN 
+Moretti, PROPN 
+B., PROPN 
+nut, PROPN 
+S.M.M., PROPN 
+Ramos, PROPN 
+P., PROPN 
+Thevenard, PROPN 
+G., PROPN 
+
+, SPACE 
+Godefroy, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+65, NUM 
+1992, NUM 
+264, NUM 
+
+, SPACE 
+T.W., PROPN 
+Simpson, PROPN 
+I.V., PROPN 
+Mitchell, PROPN 
+J.C., PROPN 
+McCallum, PROPN 
+L.A., PROPN 
+Boat-, PROPN 
+
+, SPACE 
+ner, PROPN 
+J., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+76, NUM 
+1994, NUM 
+271, NUM 
+I., PROPN 
+
+, SPACE 
+T.W., PROPN 
+Simpson, PROPN 
+I.V., PROPN 
+Mitchell, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+
+, SPACE 
+30/81, NUM 
+1993, NUM 
+1178, NUM 
+
+, SPACE 
+J., PROPN 
+Rankin, PROPN 
+J.C., PROPN 
+McCallum, PROPN 
+L.A., PROPN 
+Boater, PROPN 
+J., PROPN 
+Mater, PROPN 
+Res, PROPN 
+7, NUM 
+
+, SPACE 
+1992, NUM 
+717, NUM 
+
+, SPACE 
+J.C., PROPN 
+McCallum, PROPN 
+J., PROPN 
+Rankin, PROPN 
+C.W., PROPN 
+White, PROPN 
+L.A., PROPN 
+Boatner, PROPN 
+
+, SPACE 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+46, NUM 
+1990, NUM 
+98, NUM 
+
+, SPACE 
+K., PROPN 
+Gamo, PROPN 
+T., PROPN 
+Inada, PROPN 
+J.W., PROPN 
+Mayer, PROPN 
+F.H., PROPN 
+Eisen, PROPN 
+C.G., PROPN 
+
+, SPACE 
+Rhodes, PROPN 
+Radiat, PROPN 
+Eff, PROPN 
+35, NUM 
+1977, NUM 
+85, NUM 
+
+, SPACE 
+J.S., PROPN 
+Williams, PROPN 
+H.B., PROPN 
+Harrison, PROPN 
+Mater, PROPN 
+Res, PROPN 
+Sot, PROPN 
+Symp, PROPN 
+
+, SPACE 
+Proc, PROPN 
+1981, NUM 
+209, NUM 
+
+, SPACE 
+F., PROPN 
+Wang, PROPN 
+M., PROPN 
+Badaye, PROPN 
+K., PROPN 
+Ogawa, PROPN 
+T., PROPN 
+Morishita, PROPN 
+Appl, PROPN 
+
+, SPACE 
+Surf, PROPN 
+Sci, PROPN 
+90, NUM 
+1995, NUM 
+123, NUM 
+
+, SPACE 
+VII, PROPN 
+SURFACES, PROPN 
+INTERFACES, PROPN 
+
+, SPACE 

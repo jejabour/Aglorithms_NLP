@@ -1,0 +1,312 @@
+cm . __ Nuclear Instruments and Methods in Physics Research B 116 (1996) 369-372 
+__ 
+@ 
+ELSEVIER Beam Interactions 
+with Materials S Atoms 
+Excimer laser induced thermal evaporation and ablation 
+of silicon carbide 
+R. Reitano * , P. Baeri 
+Dipartimento di Fisica, Unioersit& di Catania, Cot-so Italia 57, 195129 Catania, Italy 
+Abstract 
+It is well known that the ablation of material from a solid target exhibits a threshold behaviour. The ablation of material 
+is usually performed at laser fluences significantly above the threshold and considerably high ablation rates are achieved. No 
+particular effort has been devoted to the study of the low energy range, near the ablation threshold. This regime is of 
+particular interest in what it might give insight on the reason for the presence of a threshold and then on the physical 
+processes underlying the ablation itself. 
+We have measured the ablation rate of silicon carbide single crystal targets induced by XeCl laser pulses as function of 
+the laser fluence over a wide range, from below to well above the threshold. We have investigated the angular distribution of 
+the emitted material through the measurements of the thickness of the deposited films; also, the morphology of the craters 
+left in the irradiated targets as a function of the laser fluence has been monitored. 
+We have modelled the surface heating and melting due to the absorption of the laser light, and calculated the surface 
+temperature as function of time by using the well known “thermal model” often used for the laser annealing. Thermal 
+evaporation from the liquid surface can then be calculated for each laser pulse energy and compared to the observed ablation 
+rates. 
+1. Introduction 
+Pulsed laser deposition 
+been demonstrated to be a 
+amorphous and crystalline of silicon carbide (SIC) has 
+promising tool to obtain both 
+films [1,2] or even epitaxial 
+films on silicon substrates [3J. 
+In contrast with the chemical vapor deposition (CVD) 
+method [4], Sic deposited by pulsed laser deposition (PLD) 
+requires much lower substrate temperature and, being a 
+high vacuum process, contamination is marginal. 
+Although laser ablation is now used for many applica- 
+tions, no clear description is available for the ablation 
+process itself and, in particular, the presence of a well 
+defined threshold has not been explained in detail. 
+Silicon carbide, like many other materials, is ablated 
+via the so-called “thermal sputtering” IS]. This mecha- 
+nism consists in the melting and evaporation from the free 
+surface. The loss of material by.vaporization is rate-limited 
+by kinetics; an estimate of the vaporizing flux can be 
+obtained from the Clausius-Clapeyron equation which 
+gives the number of atoms per unit area leaving the surface 
+of the condensed phase. 
+* Conespondmg author. Tel: +39 95 7195 424, fax +39 95 
+383023, e-mail: reitano@ct.infn.it. However, this simple mechanism predicts much lower 
+ablation rates than observed. Clearly, some other mecha- 
+nisms become effective at least above a certain energy 
+threshold. 
+In the present work we have measured the ablation rate 
+of Sic induced by XeCl 15 ns laser pulses in a wide range 
+of laser fluence, from just above the melting threshold up 
+to, 10 J/cm’. We will show that two different regimes of 
+ablation can be identified. These regimes are characterized 
+by very different ablation rates and different morphologi- 
+cal features in the craters left in the target. 
+Modelling the vaporization induced by the laser pulses 
+on our target can account for the low fluence regime up to 
+the ablation threshold. On this same thermal basis, a 
+plausible interpretation of the ablation threshold can be 
+given. 
+2. Experimental 
+XeCl laser pulses, 15 ns duration were focused to a 
+single crystal 6H-CYSIC target in vacuum (lop6 Torr) at a 
+45” angle of incidence. The laser spot size was about 
+1.5 X 0.3 mm with a Gaussian profile along the smaller 
+dimension and almost flat in the larger one. A CW argon 
+laser beam (A = 488 nm) was focused on the center of the 
+0168-583X/96/$15.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+PII SO168-583X(96)00072-9 
+370 R. Reitano, P. Baeri/Nuct. Instr. and Meth. in Phys. Res. B 1 I6 11996) 369-372 
+XeCl laser spot and the transient reflectivity signal was 
+monitored by a fast p-i-n photodiode. 
+A different number of shots was used depending on the 
+energy density; it ranges from 1000 for the highest ener- 
+gies up to 100000 for the lowest. 
+Silicon substrates were placed close to the target tilted 
+45” with respect to the target normal as shown in the insert 
+of Fig. 3. In this way we cover emission angles from 0 to 
+90”. The average target-substrate distance was about 2 cm. 
+The ablation rate (emitted material per laser pulse) has 
+been evaluated from the depth of the crater created by the 
+incoming radiation averaged over a large number of shots 
+(1000 or more). The crater depth was measured by optical 
+microscopy. Alternatively, we have measured the amount 
+of material deposited onto the substrate, integrating the 
+thickness profile of the deposited films over the whole 
+solid angle of emission. We assumed a sticking coefficient 
+equal to 1 throughout; redeposition of material on the 
+target has also been taken into account. 
+The deposited films were analyzed by 2 MeV He+ 
+Rutherford backscattering spectrometry (RBS). 
+3. Results and discussion 
+The laser heating of SIC shows qualitatively the same 
+behaviour as silicon or other semiconductors. Above a 
+certain threshold energy density, a large change in reflec- 
+tivity (not shown here) was observed. The time duration of 
+the high reflectivity phase increased with increasing en- 
+ergy density. The threshold for the onset of melting was at 
+a fluence of 1 + 0.05 J/cm2. 
+A collection of data of the ablation rate as a function of 
+the laser fluence is shown in Fig. 1. Data obtained from 
+the evaluation of the crater depth are shown as circles, 
+XeCl 15 ns pulse on Sic 
+700 I I , , I , ) , , , , , , , , , 
+T T 
+0t 
+0 2 4 6 6 10 
+Energy Density (J/cm’) 
+Fig. 1. Ablation rate of 6H-(YS~C as a function of laser fluence. 
+0: data from material removal. A : data from deposited material. XeCl 15 ns pulse on Sic 
+0 From removed material 
+A From deposited material 
+3 
+Energy Density (J/cm”) 
+Fig. 2. Same as Fig. 1 in a logarithmic scale. The shadowed 
+region is the range of variability of the calculated thermal evapo- 
+ration as detailed in the text. The dashed line is drawn to guide the 
+eye. 
+whilst triangles have been used for data obtained by 
+measuring the amount of deposited material. The two 
+methods are in good agreement. 
+The presence of a threshold at about 2.0 J/cm2 is 
+clearly visible from ihe figure; it is followed by a sharp 
+increase up to 550 A/pulse, and by a saturation up to 
+highest energy density employed (9 J/cm’). Both the 
+presence of a well defined threshold and the saturation of 
+the ablation rate are quite common. The latter can be 
+explained by the shielding of the incoming laser light by 
+the plasma formed in front of the target which prevents the 
+surface to be reached by the remaining of the pulse. 
+We will now turn our attention to the other characteris- 
+tic feature of the ablation process, i.e. the presence of a 
+threshold. Even just below the ablation threshold no more 
+crater is left in the target, whatever the number of shots (at 
+least up to 100000). Optical microscopy reveals a rough 
+surface which averages to about zero and no ablation rate 
+measurement is possible. By measuring the thickness of 
+the deposited films we were able to greatly enhance the 
+measurable range of ablation rates. In Fig. 2 we report the 
+same data of Fig. 1 in a logarithmic scale. Very low, but 
+still measurable, ablation rates are present down to the 
+surface melting point. Thermal evaporation from a hot 
+liquid surface is able to explain this range of ablation rates, 
+as will be shown soon, and we will come to some conclu- 
+sions about the presence of a threshold in the very same 
+framework. 
+We have calculated the amount of evaporated material 
+per pulse as a function of the laser fluence by first 
+modelling the surface heating and melting (standard heat 
+flow calculation [6]) and then calculating the evaporation 
+rate weighted by the surface temperature vs time profile 
+R. Reitano, P. Baeri/Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 369-372 371 
+(not shown here). To do this, we needed the thermal and 
+optical parameters of all the three phases involved, namely 
+solid, liquid and gas. Some of these parameters (solid and 
+liquid SIC optical constant at 488 nm) are not known with 
+enough accuracy and we could get a better estimate by 
+fitting the observed melting threshold and the whole melt 
+duration vs laser fluence curve. The other parameters 
+(thermal conductivity, melting temperature and enthalpy, 
+etc.) are known or can be derived from the thermodynami- 
+cal data tables [7]. 
+The evaporation rate as a function of temperature 
+(G(T)) is given by: 
+where pv is the vapor pressure, M the molecular weight 
+and T the absolute temperature. The vapor pressure can be 
+calculated from the thermodynamical functions. Not much 
+is known about the liquid phase; some uncertainty is 
+present even on the concentration of the peritectic point 
+which in turns reflects on the Gibbs free energy of the 
+liquid phase; the heat of vaporization varies accordingly. 
+Then, our estimate of the evaporation rate has to be 
+considered as an order of magnitude. 
+Two slightly different phase diagrams are reported in 
+the literature [8,9] from which two different values of the 
+enthalpy of evaporation (AH, = 490 kJ/mole and AH, = 
+530 kJ/mole) can be derived. The results of these calcula- 
+tion are shown in Fig. 2 as a shaded area. The limits of this 
+region correspond to the two different enthalpies of evapo- 
+ration. It is worth to notice that the data of ablation rate 
+below -’ 1.6 J/cm2 are in good agreement with the 
+calculated thermal evaporation. At higher fluences some 
+mechanism, other than the pure thermal evaporation pre- 
+dicted by Eq. (1) arises. 
+Extrapolation of the concept of phase explosion [lo] 
+proposed to explain the explosion of conducting wires 
+heated by very intense current pulses may by applied to 
+surface laser heating as well. 
+The particles leaving the surface with their own veloc- 
+ity exert a pressure on the liquid due to the recoil momen- 
+tum; also, the vapour formed in front of the surface gives 
+another contribution to the pressure. This pressure in- 
+creases strongly with increasing evaporation rate. Pressures 
+as high as 10’ Pa have indeed been measured in some 
+cases [ 111. 
+If the laser light is not shielded by the plasma, the 
+liquid may raise its temperature well above the melting 
+point. A point may be reached where the temperature and 
+pressure reach the critical value of the irradiated material. 
+At this point the liquid transforms with zero enthalpy of 
+evapomtion to a highly compressed vapour phase and 
+expands promptly mainly in the direction normal to the 
+target surface; this gives the typical forward peaked angu- 
+lar distribution of the emitted particles [ 121. : - 
+2 0.8 - 
+.z - 
+.2 s -Q 0.6 - 
+a - 
+s - 
+‘2 0.4 - 
+E : 
+k - R 0.2 - Substrate ) 1 
+‘Lp (degree) 
+Fig. 3. Normalized thickness of the deposited films as function of 
+the emission angle 6 as define in the insert for three different 
+laser fluences. 0: E=9 J/cm’; A: E=2 J/cm’; 0: E=l.l 
+J/cm’. 
+Unfortunately the critical point of silicon carbide is not 
+known and then quantitative comparison of the prediction 
+of this model is not possible. Just to give plausibility 
+arguments we calculated the critical temperature. and pres- 
+sure. Assuming the ablation threshold to be around 2.5 
+J/cm*, we can then estimate the critical temperature from 
+the heat flow calculations and the critical pressure from the 
+velocity of the evaporating molecules; the results put the 
+critical point of silicon carbide around T, - 5000 K and 
+pc - 100 MPa. 
+As a final test, we measured the angular distribution of 
+the emitted particles. One would expect a strongly forward 
+peaked distribution above the ablation threshold and much 
+wider’distribution, approaching the cos 4 law, below the 
+threshold. 
+RBS measurements of the thickness of the films de- 
+posited on Si substrates placed in front of the target in a 
+geometry reported in the insert of Fig. 3, can give such 
+information. We estimated the angular distribution of the 
+emitted material by measuring the film thickness at differ- 
+ent points corresponding to different emission angle 6 
+from the normal to the target (see insert in Fig. 3). 
+In Fig. 3 the thickness of the deposited films (normal- 
+ized to the maximum value for each substrate) vs 19 is 
+reported for three different laser fluences. The shift of the 
+maximum of the distribution to larger emission angle is 
+due to the particular geometry adopted. 
+For the two highest fluences the angular dependence of 
+the thickness is very narrow and, within the experimental 
+errors, the two curves are equal. The maximum is close to 
+0” and the FWHM is about 15”. This shape could be fitted 
+by assuming a co&Y law of emission with n - 35. This is 
+the typical angular distribution of the emitted plasma 
+plume [ 121. 
+372 R. Reitano, P. Baeri/Nucl. Instr. and Meth. in Phys. Res. B 116 119961369-372 
+For the lowest fluence, instead, a broad maximum at 
+IY- 10” is seen and a FWHM greater than 35” is esti- 
+mated. Although this distribution is not the expected cos 4 
+law, it suggests that pure thermal evaporation took place; 
+the deviation from the theoretical law could be ascribed to 
+the roughness of the evaporating source. The formation of 
+cones, typical of multi-shot irradiations [13], could infact 
+shield the substrate from particles emitted at large angles. 
+4. Conclusions 
+In conclusion, we have shown that ablation of crys- 
+talline 6H-ozSiC with XeCl laser pulses is characterized by 
+two well definite fluence thresholds: at 1 J/cm*, which is 
+also the surface melting threshold, pure thermal evapora- 
+tion produces the epission of about 10-l A/pulse, it 
+increases up to - 1 A/pulse with increasing fluence up to 
+1.6 J/cm*. This is the onset of a different mechanism for 
+which the ablation rate is rapidly increased to - 600 
+&/pulse. A saturation effect, probably due to plasma 
+shielding of the laser light, is observed at higher fluence. 
+The process can be qualitatively described as the ther- 
+ma1 evaporation from a hot liquid surface. When the 
+evaporation rate and the laser fluence are high enough to 
+raise the temperature and the pressure up to the critical 
+point, an almost instantaneous transition to a highly com- 
+pressed vapour phase occurs. This interpretation, supported 
+by heat flow and pressure calculations, explain the low 
+fluence regime up to the threshold for plasma formation. References 
+[l] M. Balocch, R.J. Tenth, W.J. Siekhans, R.J. Allen, A.L. 
+Connor and D.R. Holander, Appl. Phys. Len. 57 (1990) 
+1540. 
+[2] T. Zehnder, A. Blaner and A. Bachli, Thin Solid Films 241 
+(1994) 138. 
+[3] L. Rimai, R. Ager, E.M. Logothetis, W.H. Weber and J. 
+Hangus, Appl. Phys. Len. 59 (1991) 2267. 
+[4] J.A. Powell, D.J. La&m, L.G. Matus, W.J. Choike, J.L. 
+B&show, L. Menderson, M. Yoganathan, J. Yang and P. 
+Pirouz, Appl. Phys. Len. 56 (1990) 1942. 
+[5] R. Kelly and A. Miotello, in: Pulsed laser deposition of thin 
+films (Wiley, New York, 1994) chap. 3, p. 63. 
+[6] P. Baeri and S.U. Campisano, in: Laser annealing of semi- 
+conductors, eds. J.M. Poate and J.W. Mayer (Academic 
+Press, New York, 1982) chap. 4. 
+[7] JANAF Thermochemical tables, J. Phys. and Chem. Ref. 
+Data 14 (1985) 636. 
+[S] R.W. Olesinski and G.J. Abbaschian, Bull. Alloy Phase 
+Diagrams 5 (1984) 486. 
+[9] L. Kaufman, CALPHAD 3 (1979) 45. 
+[lOI M.M. Martinyuk, Sov. Phys. Tech. Phys. 21 (1976) 430; 
+Radio Eng. and Electron. Phys. 25 (1980) 100. 
+[ll] C.R. Phipps, T.P. Turner, R.F. Harrison, G.W. York, W.Z. 
+Osborne, G.K. Anderson, X.F. Corlis, L.C. Haynes, H.S. 
+Steele, K.C. Spicocchi and T.R. King, J. Appl. Phys. 64 
+(1988) 1083. 
+[12] K.L. Sanger, in: Pulsed laser deposition of thin films (Wiley, 
+New York, 1994) chap. 7 p. 199. 
+[13] J.E. Rothemberg and R. Kelly, Nucl. Instr. and Meth. B‘l 
+(1984) 291. 

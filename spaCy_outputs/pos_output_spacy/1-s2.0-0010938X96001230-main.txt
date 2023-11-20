@@ -1,0 +1,5360 @@
+Pergamon, PROPN 
+Corrosion, PROPN 
+Science, PROPN 
+Vol, PROPN 
+38, NUM 
+1, NUM 
+pp, PROPN 
+155, NUM 
+170, NUM 
+1996, NUM 
+
+, SPACE 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+
+, SPACE 
+001&938X/96, VERB 
+$, SYM 
+15.00, NUM 
++, NUM 
+0.00, NUM 
+
+, SPACE 
+0010, NUM 
+938X(96)00123, NUM 
+9, NUM 
+
+, SPACE 
+ALUMINIUM, PROPN 
+MAGNESIUM, PROPN 
+ALLOYS, PROPN 
+CORROSION, NOUN 
+
+, SPACE 
+RESISTANT, VERB 
+COATINGS, PROPN 
+STEEL, PROPN 
+
+, SPACE 
+K.R., PROPN 
+BALDWIN, PROPN 
+R.I., PROPN 
+BATES, NOUN 
+R.D., PROPN 
+ARNELL, PROPN 
+C.J.E., PROPN 
+SMITH, PROPN 
+
+, SPACE 
+Structural, PROPN 
+Materials, PROPN 
+Centre, PROPN 
+Defence, PROPN 
+Research, PROPN 
+Agency, PROPN 
+Farnborough, PROPN 
+Hampshire, PROPN 
+GUI4, PROPN 
+6TD, PROPN 
+U.K., PROPN 
+
+, SPACE 
+Research, PROPN 
+Institute, PROPN 
+Design, PROPN 
+Manufacture, PROPN 
+Marketing, PROPN 
+University, PROPN 
+Salford, PROPN 
+Salford, PROPN 
+M5, PROPN 
+4WT, PROPN 
+U.K, PROPN 
+
+, SPACE 
+Abstract, PROPN 
+corrosion, NOUN 
+behaviour, NOUN 
+binary, ADJ 
+aluminium, NOUN 
+magnesium, NOUN 
+Al, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+deposited, VERB 
+steel, NOUN 
+
+, SPACE 
+panels, NOUN 
+unbalanced, ADJ 
+magnetron, NOUN 
+sputtering, NOUN 
+technique, NOUN 
+studied, VERB 
+Neutral, ADJ 
+salt, NOUN 
+fog, NOUN 
+tests, NOUN 
+shown, VERB 
+
+, SPACE 
+corrosion, NOUN 
+resistance, NOUN 
+sputtered, ADJ 
+aluminium, NOUN 
+alloy, NOUN 
+coatings, NOUN 
+increases, NOUN 
+magnesium, NOUN 
+content, NOUN 
+raised, VERB 
+
+, SPACE 
+optimum, NOUN 
+reached, VERB 
+alloys, NOUN 
+containing, VERB 
+approximately, ADV 
+20, NUM 
+wt%, NUM 
+Mg, PROPN 
+Increasing, VERB 
+magnesium, NOUN 
+content, NOUN 
+
+, SPACE 
+20wt%, NUM 
+improvements, NOUN 
+protection, NOUN 
+instead, ADV 
+caused, VERB 
+decline, NOUN 
+corrosion, NOUN 
+
+, SPACE 
+performance, NOUN 
+Potentiodynamic, ADJ 
+cathodic, NOUN 
+polarization, NOUN 
+sweeps, VERB 
+conducted, VERB 
+600, NUM 
+mmol, PROPN 
+1, NUM 
+l, NOUN 
+sodium, NOUN 
+chloride, NOUN 
+solution, NOUN 
+
+, SPACE 
+shown, VERB 
+corrosion, NOUN 
+current, ADJ 
+density, NOUN 
+sputtered, ADJ 
+aluminium, NOUN 
+coatings, NOUN 
+increased, VERB 
+magnesium, NOUN 
+
+, SPACE 
+content, NOUN 
+increased, VERB 
+suggesting, VERB 
+reduction, NOUN 
+barrier, NOUN 
+protection, NOUN 
+afforded, VERB 
+Al, PROPN 
+coatings, NOUN 
+Mg, PROPN 
+
+, SPACE 
+level, NOUN 
+raised, VERB 
+Open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+potential, ADJ 
+measurements, NOUN 
+shown, VERB 
+sputtered, ADJ 
+aluminium, NOUN 
+alloys, NOUN 
+
+, SPACE 
+progressively, ADV 
+active, ADJ 
+magnesium, NOUN 
+content, NOUN 
+increased, VERB 
+suggesting, VERB 
+afford, VERB 
+improved, VERB 
+
+, SPACE 
+sacrificial, ADJ 
+protection, NOUN 
+Mg, PROPN 
+level, NOUN 
+raised, VERB 
+proposed, VERB 
+peak, NOUN 
+performance, NOUN 
+observed, VERB 
+neutral, ADJ 
+
+, SPACE 
+salt, PROPN 
+fog, PROPN 
+environment, NOUN 
+represents, VERB 
+optimum, ADJ 
+balance, NOUN 
+barrier, NOUN 
+sacrificial, ADJ 
+properties, NOUN 
+Al, PROPN 
+Mg, PROPN 
+
+, SPACE 
+coatings, NOUN 
+
+, SPACE 
+Keywords, NOUN 
+A., NOUN 
+aluminium, NOUN 
+A., NOUN 
+magnesium, NOUN 
+A., NOUN 
+metal, NOUN 
+coatings, NOUN 
+B., PROPN 
+polarization, NOUN 
+C., PROPN 
+sputtered, VERB 
+films, NOUN 
+
+, SPACE 
+INTRODUCTION, PROPN 
+
+, SPACE 
+Aluminium, PROPN 
+coatings, NOUN 
+industrial, ADJ 
+scale, NOUN 
+applied, VERB 
+variety, NOUN 
+
+, SPACE 
+methods, NOUN 
+including, VERB 
+metal, NOUN 
+spraying, NOUN 
+hot, ADJ 
+dipping, NOUN 
+cladding, NOUN 
+fine, ADJ 
+tolerances, NOUN 
+
+, SPACE 
+required, VERB 
+aluminium, NOUN 
+coatings, NOUN 
+deposited, VERB 
+electrodeposition, NOUN 
+organic, ADJ 
+
+, SPACE 
+electrolytes1, NOUN 
+6, NUM 
+usually, ADV 
+ion, NOUN 
+vapour, NOUN 
+deposition, NOUN 
+IVD, NOUN 
+vacuum, NOUN 
+
+, SPACE 
+techniques.7-‘3, NOUN 
+early, ADJ 
+1970s, NUM 
+aluminium, NOUN 
+coatings, NOUN 
+deposited, VERB 
+IVD, PROPN 
+route, NOUN 
+
+, SPACE 
+produced, VERB 
+commercially, ADV 
+technology, NOUN 
+required, VERB 
+obtain, VERB 
+controlled, VERB 
+thicknesses, NOUN 
+
+, SPACE 
+simple, ADJ 
+complex, ADJ 
+shapes, NOUN 
+established, VERB 
+Aluminium, NOUN 
+coatings, NOUN 
+
+, SPACE 
+routinely, ADV 
+employed, VERB 
+corrosion, NOUN 
+protection, NOUN 
+decoration, NOUN 
+metallic, ADJ 
+non, ADJ 
+metallic, ADJ 
+
+, SPACE 
+surfaces, NOUN 
+suggested, VERB 
+means, NOUN 
+cladding, VERB 
+corrosion, NOUN 
+resistant, ADJ 
+aluminium, NOUN 
+
+, SPACE 
+alloy, NOUN 
+substrates.14, NOUN 
+advantage, NOUN 
+aluminium, NOUN 
+coatings, NOUN 
+receptive, ADJ 
+
+, SPACE 
+conventional, ADJ 
+chromate, NOUN 
+passivation, NOUN 
+treatments, NOUN 
+
+, SPACE 
+Aluminium, PROPN 
+coatings, NOUN 
+corrosion, NOUN 
+protection, NOUN 
+ferrous, ADJ 
+substrates, NOUN 
+
+, SPACE 
+main, ADJ 
+reasons, NOUN 
+Firstly, ADV 
+aluminium, NOUN 
+air, NOUN 
+formed, VERB 
+passive, ADJ 
+oxide, NOUN 
+film, NOUN 
+forms, VERB 
+effective, ADJ 
+
+, SPACE 
+barrier, NOUN 
+layer, NOUN 
+attack, NOUN 
+secondly, ADV 
+underlying, ADJ 
+substrate, NOUN 
+exposed, VERB 
+
+, SPACE 
+example, NOUN 
+base, NOUN 
+pre, ADJ 
+existing, ADJ 
+defects, NOUN 
+corrosion, NOUN 
+pits, NOUN 
+aluminium, NOUN 
+coating, NOUN 
+afford, VERB 
+
+, SPACE 
+degree, NOUN 
+sacrificial, ADJ 
+protection, NOUN 
+substrate, NOUN 
+advantage, NOUN 
+aluminium, NOUN 
+
+, SPACE 
+Manuscript, PROPN 
+received, VERB 
+1, NUM 
+June, PROPN 
+1995, NUM 
+
+, SPACE 
+0, NUM 
+Crown, PROPN 
+copyright, NOUN 
+995, NUM 
+
+, SPACE 
+155, NUM 
+
+, SPACE 
+156, NUM 
+K.R., PROPN 
+Baldwin, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+coatings, NOUN 
+corrosion, NOUN 
+potentials, NOUN 
+relatively, ADV 
+close, ADJ 
+structural, ADJ 
+
+, SPACE 
+aerospace, NOUN 
+aluminium, NOUN 
+alloys, NOUN 
+little, ADJ 
+driving, VERB 
+force, NOUN 
+galvanic, ADJ 
+corrosion, NOUN 
+
+, SPACE 
+them.i5-, PROPN 
+use, NOUN 
+aluminium, NOUN 
+coatings, NOUN 
+example, NOUN 
+steel, NOUN 
+fasteners, NOUN 
+
+, SPACE 
+serve, VERB 
+reduce, VERB 
+bimetallic, ADJ 
+corrosion, NOUN 
+steel, NOUN 
+components, NOUN 
+structural, ADJ 
+aluminium, NOUN 
+
+, SPACE 
+alloys, NOUN 
+come, VERB 
+contact, NOUN 
+
+, SPACE 
+disadvantage, NOUN 
+aluminium, NOUN 
+coatings, NOUN 
+deposited, VERB 
+IVD, PROPN 
+columnar, ADJ 
+
+, SPACE 
+porous, ADJ 
+nature, NOUN 
+‘-12, NOUN 
+porous, ADJ 
+structure, NOUN 
+result, VERB 
+inefficient, ADJ 
+barrier, NOUN 
+protection, NOUN 
+
+, SPACE 
+premature, ADJ 
+breakdown, NOUN 
+coating, NOUN 
+substrate, NOUN 
+rapidly, ADV 
+exposed, VERB 
+
+, SPACE 
+corrosive, ADJ 
+environment, NOUN 
+base, NOUN 
+pores, NOUN 
+porosity, NOUN 
+IVD, NOUN 
+aluminium, NOUN 
+coatings, NOUN 
+
+, SPACE 
+reduced, VERB 
+compacting, VERB 
+surface, NOUN 
+post, ADJ 
+plating, ADJ 
+glass, NOUN 
+bead, NOUN 
+peening, VERB 
+treatments, NOUN 
+
+, SPACE 
+Electrolytically, ADV 
+deposited, VERB 
+aluminium, NOUN 
+coatings, NOUN 
+generally, ADV 
+dense, ADJ 
+plated, VERB 
+IVD, NOUN 
+
+, SPACE 
+aluminium, NOUN 
+afford, VERB 
+high, ADJ 
+levels, NOUN 
+protection, NOUN 
+steel, NOUN 
+substrates, NOUN 
+
+, SPACE 
+exposed, VERB 
+aggressive, ADJ 
+chloride, NOUN 
+bearing, VERB 
+environments.i6, PROPN 
+
+, SPACE 
+Recent, ADJ 
+advances, NOUN 
+University, PROPN 
+Salford, PROPN 
+enabled, VERB 
+aluminium, NOUN 
+coatings, NOUN 
+
+, SPACE 
+obtained, VERB 
+unbalanced, ADJ 
+magnetron, NOUN 
+sputtering, NOUN 
+Aluminium, NOUN 
+coatings, NOUN 
+deposited, VERB 
+
+, SPACE 
+vacuum, NOUN 
+technique, NOUN 
+dense, ADJ 
+non, ADJ 
+columnar, ADJ 
+significantly, ADV 
+improved, VERB 
+barrier, NOUN 
+
+, SPACE 
+properties, NOUN 
+produced, VERB 
+conventional, ADJ 
+ion, NOUN 
+plating, NOUN 
+Magnetron, PROPN 
+sputtering, NOUN 
+
+, SPACE 
+deposit, VERB 
+pure, ADJ 
+metals, NOUN 
+aluminium, NOUN 
+alloy, ADJ 
+coatings, NOUN 
+
+, SPACE 
+controlled, VERB 
+compositions, NOUN 
+drawback, NOUN 
+pure, ADJ 
+aluminium, NOUN 
+corrosion, NOUN 
+
+, SPACE 
+potential, NOUN 
+far, ADV 
+removed, VERB 
+steels, NOUN 
+unable, ADJ 
+provide, VERB 
+adequate, ADJ 
+levels, NOUN 
+
+, SPACE 
+sacrificial, ADJ 
+protection, NOUN 
+particularly, ADV 
+natural, ADJ 
+exposure, NOUN 
+conditions.2s22, NUM 
+Earlier, ADJ 
+work, NOUN 
+
+, SPACE 
+DRA, PROPN 
+Farnborough2, NUM 
+shown, VERB 
+aluminium, NOUN 
+alloyed, VERB 
+small, ADJ 
+amounts, NOUN 
+active, ADJ 
+
+, SPACE 
+metals, NOUN 
+magnesium, NOUN 
+corrosion, NOUN 
+potential, NOUN 
+depressed, VERB 
+leading, VERB 
+significant, ADJ 
+
+, SPACE 
+improvement, NOUN 
+sacrificial, ADJ 
+properties, NOUN 
+present, ADJ 
+work, NOUN 
+unbalanced, ADJ 
+magnetron, NOUN 
+
+, SPACE 
+sputtering, NOUN 
+technique, NOUN 
+deposit, VERB 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+improved, VERB 
+barrier, NOUN 
+
+, SPACE 
+sacrificial, ADJ 
+properties, NOUN 
+Aluminium, NOUN 
+alloys, NOUN 
+containing, VERB 
+50, NUM 
+Mg, PROPN 
+
+, SPACE 
+deposited, VERB 
+steel, NOUN 
+substrates, NOUN 
+corrosion, NOUN 
+behaviour, NOUN 
+sputtered, ADJ 
+deposits, NOUN 
+
+, SPACE 
+determined, ADJ 
+neutral, ADJ 
+salt, NOUN 
+fog, NOUN 
+tests, NOUN 
+electrochemical, ADJ 
+techniques, NOUN 
+Particular, ADJ 
+attention, NOUN 
+
+, SPACE 
+paid, VERB 
+determining, VERB 
+effects, NOUN 
+magnesium, NOUN 
+additions, NOUN 
+barrier, NOUN 
+
+, SPACE 
+sacrificial, ADJ 
+properties, NOUN 
+aluminium, NOUN 
+
+, SPACE 
+EXPERIMENTAL, PROPN 
+METHODS, PROPN 
+
+, SPACE 
+production, NOUN 
+coatings, NOUN 
+
+, SPACE 
+Pure, PROPN 
+Al, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloy, NOUN 
+coatings, NOUN 
+deposited, VERB 
+unbalanced, ADJ 
+magnetron-, NOUN 
+
+, SPACE 
+sputtering, VERB 
+technique, NOUN 
+University, PROPN 
+Salford, PROPN 
+use, NOUN 
+magnetron, NOUN 
+sputtering, NOUN 
+
+, SPACE 
+reviewed, VERB 
+published, VERB 
+articles23, NOUN 
+25, NUM 
+precise, ADJ 
+details, NOUN 
+unit, NOUN 
+operation, NOUN 
+
+, SPACE 
+present, ADJ 
+work, NOUN 
+described, VERB 
+
+, SPACE 
+present, ADJ 
+work, NOUN 
+mild, ADJ 
+steel, NOUN 
+test, NOUN 
+panels, NOUN 
+1, NUM 
+mm, NUM 
+thickness, NOUN 
+50, NUM 
+x, SYM 
+50, NUM 
+mm, NOUN 
+dimensions, NOUN 
+
+, SPACE 
+initially, ADV 
+degreased, VERB 
+ultrasonic, ADJ 
+bath, NOUN 
+containing, VERB 
+alcohol, NOUN 
+placed, VERB 
+
+, SPACE 
+vacuum, NOUN 
+chamber, NOUN 
+magnetron, PROPN 
+sputtering, NOUN 
+chamber, NOUN 
+evacuated, VERB 
+lo-, PROPN 
+Torr, PROPN 
+
+, SPACE 
+backfilled, VERB 
+high, ADJ 
+purity, NOUN 
+argon, NOUN 
+typically, ADV 
+5, NUM 
+x, SYM 
+lop3, NOUN 
+Torr, PROPN 
+chamber, NOUN 
+
+, SPACE 
+contained, VERB 
+consumable, ADJ 
+targets, NOUN 
+commercial, ADJ 
+grade, NOUN 
+aluminium, NOUN 
+99.4, NUM 
+purity, NOUN 
+
+, SPACE 
+commercial, ADJ 
+grade, NOUN 
+magnesium, NOUN 
+99.5, NUM 
+purity, NOUN 
+Prior, ADV 
+deposition, NOUN 
+steel, NOUN 
+test, NOUN 
+
+, SPACE 
+panels, NOUN 
+sputter, NOUN 
+cleaned, VERB 
+typically, ADV 
+applied, VERB 
+voltage, NOUN 
+1, NUM 
+kV, NUM 
+30, NUM 
+min, NOUN 
+remove, VERB 
+
+, SPACE 
+traces, NOUN 
+surface, NOUN 
+contamination, NOUN 
+
+, SPACE 
+Following, VERB 
+high, ADJ 
+voltage, NOUN 
+sputter, NOUN 
+cleaning, NOUN 
+process, NOUN 
+low, ADJ 
+voltage, NOUN 
+applied, VERB 
+test, NOUN 
+
+, SPACE 
+Aluminium, PROPN 
+magnesium, NOUN 
+alloys, NOUN 
+157, NUM 
+
+, SPACE 
+panels, NOUN 
+typically, ADV 
+50, NUM 
+V, PROPN 
+DC, PROPN 
+provide, VERB 
+external, ADJ 
+bias, NOUN 
+deposition, NOUN 
+Unbalanced, ADJ 
+
+, SPACE 
+magnetron, NOUN 
+sputtering, VERB 
+utilises, NOUN 
+plasma, NOUN 
+metal, NOUN 
+targets, NOUN 
+self, NOUN 
+bias, NOUN 
+
+, SPACE 
+substrates, NOUN 
+deposition, NOUN 
+present, ADJ 
+work, NOUN 
+achieved, VERB 
+weakening, VERB 
+
+, SPACE 
+magnetic, ADJ 
+field, NOUN 
+strengths, NOUN 
+targets, NOUN 
+allowing, VERB 
+plasma, NOUN 
+escape, VERB 
+confines, NOUN 
+
+, SPACE 
+target, NOUN 
+surface, NOUN 
+engulf, NOUN 
+substrates, NOUN 
+large, ADJ 
+substrate, NOUN 
+assembly, NOUN 
+
+, SPACE 
+relation, NOUN 
+size, NOUN 
+targets, NOUN 
+fact, NOUN 
+targets, NOUN 
+slightly, ADV 
+unbalanced, ADJ 
+
+, SPACE 
+coating, NOUN 
+facility, NOUN 
+Salford, PROPN 
+necessitates, VERB 
+use, NOUN 
+external, ADJ 
+bias, NOUN 
+supply, NOUN 
+deposition, NOUN 
+
+, SPACE 
+targets, NOUN 
+energised, VERB 
+electrical, ADJ 
+current, NOUN 
+typical, ADJ 
+power, NOUN 
+levels, NOUN 
+3, NUM 
+kW, NOUN 
+
+, SPACE 
+aluminium, NOUN 
+target, NOUN 
+1.5, NUM 
+kW, NOUN 
+magnesium, NOUN 
+target, NOUN 
+power, NOUN 
+levels, NOUN 
+varied, ADJ 
+
+, SPACE 
+obtain, VERB 
+required, VERB 
+ratio, NOUN 
+Al, PROPN 
+Mg, PROPN 
+deposits, NOUN 
+producing, VERB 
+different, ADJ 
+sputtering, NOUN 
+rates, NOUN 
+
+, SPACE 
+coating, NOUN 
+process, NOUN 
+continued, VERB 
+sufficient, ADJ 
+time, NOUN 
+allow, VERB 
+required, VERB 
+thickness, NOUN 
+
+, SPACE 
+deposit, NOUN 
+build, VERB 
+substrates, NOUN 
+required, VERB 
+thickness, NOUN 
+obtained, VERB 
+
+, SPACE 
+deposition, NOUN 
+process, NOUN 
+halted, VERB 
+coupons, NOUN 
+allowed, VERB 
+cool, VERB 
+vacuum, NOUN 
+prevent, VERB 
+
+, SPACE 
+oxidation, NOUN 
+typical, ADJ 
+deposition, NOUN 
+rate, NOUN 
+pure, ADJ 
+Al, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+
+, SPACE 
+0.3, NUM 
+pm, NOUN 
+min-, X 
+depending, VERB 
+power, NOUN 
+supplied, VERB 
+targets, NOUN 
+
+, SPACE 
+composition, NOUN 
+alloy, NOUN 
+coating, NOUN 
+checked, VERB 
+electron, NOUN 
+microprobe, NOUN 
+analysis, NOUN 
+
+, SPACE 
+sputtering, ADJ 
+process, NOUN 
+produce, VERB 
+coatings, NOUN 
+thicknesses, NOUN 
+5, NUM 
+7.5, NUM 
+10, NUM 
+15, NUM 
+25, NUM 
+
+, SPACE 
+2.5, NUM 
+pm, NOUN 
+thickness, NOUN 
+coating, NOUN 
+measured, VERB 
+prior, ADV 
+testing, NOUN 
+non-, ADJ 
+
+, SPACE 
+destructive, ADJ 
+eddy, ADJ 
+current, ADJ 
+method, NOUN 
+coatings, NOUN 
+subjected, VERB 
+post, ADJ 
+plating, ADJ 
+
+, SPACE 
+treatments, NOUN 
+tested, VERB 
+plated, VERB 
+condition, NOUN 
+
+, SPACE 
+Neutral, ADJ 
+salt, NOUN 
+fog, NOUN 
+tests, VERB 
+
+, SPACE 
+corrosion, NOUN 
+resistance, NOUN 
+plated, VERB 
+pure, ADJ 
+Al, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+containing, VERB 
+
+, SPACE 
+60, NUM 
+wt%, NOUN 
+Mg, PROPN 
+evaluated, VERB 
+neutral, ADJ 
+salt, NOUN 
+fog, PROPN 
+tests, NOUN 
+conducted, VERB 
+accordance, NOUN 
+ASTM, PROPN 
+
+, SPACE 
+Bl, PROPN 
+17.26, NUM 
+salt, NOUN 
+fog, PROPN 
+cabinet, PROPN 
+fed, VERB 
+reservoir, NOUN 
+containing, VERB 
+5, NUM 
+w, NOUN 
+v, ADP 
+NaCl, PROPN 
+solution, NOUN 
+
+, SPACE 
+pH, NOUN 
+adjustment, NOUN 
+NaCl, PROPN 
+solution, NOUN 
+pumped, VERB 
+atomizing, ADJ 
+jet, NOUN 
+compressed, VERB 
+air, NOUN 
+
+, SPACE 
+directed, VERB 
+stream, NOUN 
+solution, NOUN 
+produce, VERB 
+dense, ADJ 
+salt, NOUN 
+fog, NOUN 
+test, NOUN 
+panels, NOUN 
+
+, SPACE 
+mounted, VERB 
+Perspex, PROPN 
+racks, NOUN 
+angle, NOUN 
+20, NUM 
+vertical, ADJ 
+inspected, VERB 
+daily, ADV 
+signs, NOUN 
+
+, SPACE 
+corrosion, NOUN 
+
+, SPACE 
+Open, ADJ 
+circuit, NOUN 
+potential, ADJ 
+measurements, NOUN 
+
+, SPACE 
+Open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+potential, ADJ 
+measurements, NOUN 
+conducted, VERB 
+test, NOUN 
+electrodes, NOUN 
+
+, SPACE 
+constructed, VERB 
+plated, VERB 
+pure, ADJ 
+Al, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+25, NUM 
+pm, NOUN 
+thickness, NOUN 
+steel, NOUN 
+
+, SPACE 
+substrates, NOUN 
+test, NOUN 
+electrodes, NOUN 
+separately, ADV 
+immersed, VERB 
+600, NUM 
+mmol, PROPN 
+1, NUM 
+l, NOUN 
+3.5, NUM 
+w, NOUN 
+v, NOUN 
+NaCl, PROPN 
+
+, SPACE 
+solution, NOUN 
+100, NUM 
+ml, NOUN 
+contained, VERB 
+polypropylene, NOUN 
+beakers, NOUN 
+beakers, NOUN 
+positioned, VERB 
+
+, SPACE 
+water, NOUN 
+bath, NOUN 
+maintained, VERB 
+25, NUM 
+f, PROPN 
+2, NUM 
+°, NOUN 
+C, NOUN 
+Luggin, PROPN 
+capillary, NOUN 
+solution, NOUN 
+contact, NOUN 
+external, ADJ 
+
+, SPACE 
+reference, NOUN 
+electrode, NOUN 
+SCE, PROPN 
+positioned, VERB 
+adjacent, ADJ 
+surface, NOUN 
+test, NOUN 
+electrode, ADJ 
+
+, SPACE 
+potential, NOUN 
+measured, VERB 
+30, NUM 
+min, NOUN 
+intervals, NOUN 
+programmable, ADJ 
+voltmeter, NOUN 
+
+, SPACE 
+experiments, NOUN 
+halted, VERB 
+200, NUM 
+h, NOUN 
+case, NOUN 
+
+, SPACE 
+Polarization, PROPN 
+sweeps, VERB 
+
+, SPACE 
+Cathodic, PROPN 
+potentiodynamic, ADJ 
+polarization, NOUN 
+sweeps, NOUN 
+carried, VERB 
+conventional, ADJ 
+three-, ADJ 
+
+, SPACE 
+electrode, ADJ 
+glass, NOUN 
+cell, NOUN 
+test, NOUN 
+electrodes, NOUN 
+constructed, VERB 
+sputtered, ADJ 
+pure, ADJ 
+Al, PROPN 
+Al, PROPN 
+Mg, PROPN 
+
+, SPACE 
+alloy, ADJ 
+coatings, NOUN 
+25, NUM 
+pm, NOUN 
+thickness, NOUN 
+test, NOUN 
+electrodes, NOUN 
+immersed, VERB 
+600, NUM 
+mmol, PROPN 
+1, NUM 
+l, NOUN 
+NaCl, PROPN 
+
+, SPACE 
+solution, NOUN 
+25, NUM 
++, SYM 
+1, NUM 
+C, NOUN 
+contained, VERB 
+glass, NOUN 
+cell, NOUN 
+Prior, ADV 
+sweep, NOUN 
+test, NOUN 
+electrodes, NOUN 
+
+, SPACE 
+permitted, VERB 
+stabilise, VERB 
+approximately, ADV 
+30, NUM 
+min, NOUN 
+Immediately, ADV 
+following, VERB 
+stabilisation, NOUN 
+
+, SPACE 
+period, NOUN 
+electrodes, NOUN 
+polarized, VERB 
+cathodically, ADV 
+sweep, NOUN 
+rate, NOUN 
+0.125, NUM 
+mV, PROPN 
+SF, PROPN 
+
+, SPACE 
+158, NUM 
+K.R., PROPN 
+Baldwin, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+sweeps, NOUN 
+conducted, VERB 
+solutions, NOUN 
+gently, ADV 
+aerated, VERB 
+
+, SPACE 
+experiment, NOUN 
+
+, SPACE 
+EXPERIMENTAL, PROPN 
+RESULTS, NOUN 
+
+, SPACE 
+Coating, PROPN 
+microstructure, NOUN 
+
+, SPACE 
+microstructure, NOUN 
+magnetron, NOUN 
+sputtered, VERB 
+pure, ADJ 
+Al, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+
+, SPACE 
+investigated, VERB 
+scanning, VERB 
+electron, PROPN 
+microscopy, NOUN 
+SEM, PROPN 
+Figure, PROPN 
+l(a, PROPN 
+shows, VERB 
+surface, NOUN 
+
+, SPACE 
+pure, ADJ 
+Al, PROPN 
+sputter, NOUN 
+deposit, NOUN 
+steel, NOUN 
+substrate, NOUN 
+pure, ADJ 
+Al, PROPN 
+coating, NOUN 
+flat, ADJ 
+
+, SPACE 
+completely, ADV 
+featureless, ADJ 
+typical, ADJ 
+dense, ADJ 
+non, ADJ 
+columnar, ADJ 
+coatings, NOUN 
+
+, SPACE 
+deposited, VERB 
+unbalanced, ADJ 
+magnetron, PROPN 
+sputtering, NOUN 
+pure, ADJ 
+Al, PROPN 
+coating, NOUN 
+appeared, VERB 
+afford, VERB 
+
+, SPACE 
+complete, ADJ 
+coverage, NOUN 
+substrate, NOUN 
+completely, ADV 
+free, ADJ 
+holidays, NOUN 
+small, ADJ 
+pores, NOUN 
+
+, SPACE 
+microscopic, ADJ 
+surface, NOUN 
+defects, NOUN 
+
+, SPACE 
+Pm, PROPN 
+Aluminium, PROPN 
+
+, SPACE 
+c, NOUN 
+Al-32, VERB 
+wt%, NUM 
+Mg, PROPN 
+d, PROPN 
+k-57, VERB 
+wt%, X 
+r&g, NOUN 
+
+, SPACE 
+w, PROPN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+SEM, PROPN 
+micrographs, NOUN 
+fracture, ADJ 
+cross, NOUN 
+sections, NOUN 
+unbalanced, ADJ 
+magnetron, PROPN 
+sputtered, VERB 
+pure, ADJ 
+Al, PROPN 
+
+, SPACE 
+AI, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+steel, NOUN 
+substrates, NOUN 
+black, ADJ 
+bar, NOUN 
+4, NUM 
+pm, NOUN 
+long, ADV 
+
+, SPACE 
+Aluminium, NOUN 
+magnesium, NOUN 
+alloys, NOUN 
+159, NUM 
+
+, SPACE 
+Figures, PROPN 
+l(b)-l(d, PROPN 
+fracture, NOUN 
+cross, NOUN 
+sections, NOUN 
+Al, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+containing, VERB 
+5, NUM 
+32, NUM 
+
+, SPACE 
+57, NUM 
+wt%, NUM 
+Mg, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloy, NOUN 
+coatings, NOUN 
+similar, ADJ 
+pure, ADJ 
+Al, PROPN 
+sputter, NOUN 
+deposits, NOUN 
+
+, SPACE 
+flat, ADJ 
+generally, ADV 
+featureless, ADJ 
+indicating, VERB 
+Mg, PROPN 
+content, NOUN 
+little, ADJ 
+effect, NOUN 
+
+, SPACE 
+microstructure, NOUN 
+coatings, NOUN 
+pure, ADJ 
+Al, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+exhibited, VERB 
+extremely, ADV 
+
+, SPACE 
+good, ADJ 
+adhesion, NOUN 
+steel, NOUN 
+substrate, NOUN 
+
+, SPACE 
+Neutral, ADJ 
+salt, NOUN 
+fog, NOUN 
+tests, VERB 
+
+, SPACE 
+corrosion, NOUN 
+sputtered, ADJ 
+pure, ADJ 
+Al, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloy, NOUN 
+deposits, NOUN 
+containing, VERB 
+
+, SPACE 
+30, NUM 
+wt%, NOUN 
+Mg, PROPN 
+salt, PROPN 
+fog, PROPN 
+environment, NOUN 
+initially, ADV 
+characterized, VERB 
+formation, NOUN 
+large, ADJ 
+
+, SPACE 
+pits, NOUN 
+coating, VERB 
+surface, NOUN 
+coatings, NOUN 
+remained, VERB 
+generally, ADV 
+bright, ADJ 
+White, ADJ 
+corrosion, NOUN 
+
+, SPACE 
+products, NOUN 
+commonly, ADV 
+termed, VERB 
+white, ADJ 
+rust, NOUN 
+found, VERB 
+build, VERB 
+region, NOUN 
+pits, NOUN 
+
+, SPACE 
+usually, ADV 
+accompanied, VERB 
+formation, NOUN 
+gelatinous, ADJ 
+corrosion, NOUN 
+products, NOUN 
+Al, PROPN 
+
+, SPACE 
+alloy, ADJ 
+coatings, NOUN 
+containing, VERB 
+30, NUM 
+wt%, NOUN 
+Mg, PROPN 
+generally, ADV 
+susceptible, ADJ 
+localized, VERB 
+pitting, VERB 
+
+, SPACE 
+attack, NOUN 
+instead, ADV 
+appeared, VERB 
+corrode, VERB 
+uniform, ADJ 
+manner, NOUN 
+
+, SPACE 
+prolonged, VERB 
+exposure, NOUN 
+salt, PROPN 
+fog, PROPN 
+coatings, NOUN 
+ceased, VERB 
+provide, VERB 
+protection, NOUN 
+
+, SPACE 
+attack, NOUN 
+corrosion, NOUN 
+underlying, VERB 
+metal, NOUN 
+occurred, VERB 
+giving, VERB 
+rise, NOUN 
+formation, NOUN 
+
+, SPACE 
+red, ADJ 
+rust, NOUN 
+iron, NOUN 
+oxide, NOUN 
+FezOs, PROPN 
+corrosion, NOUN 
+products, NOUN 
+ferrous, ADJ 
+substrate, NOUN 
+Figure, NOUN 
+2, NUM 
+
+, SPACE 
+illustrates, VERB 
+time, NOUN 
+taken, VERB 
+appearance, NOUN 
+red, ADJ 
+rust, NOUN 
+function, NOUN 
+alloy, NOUN 
+Mg, PROPN 
+
+, SPACE 
+content, NOUN 
+8, NUM 
+pm, NOUN 
+thick, ADJ 
+coatings, NOUN 
+found, VERB 
+time, NOUN 
+red, ADJ 
+rust, NOUN 
+increased, VERB 
+alloy, NOUN 
+
+, SPACE 
+Mg, PROPN 
+content, NOUN 
+increased, VERB 
+peak, NOUN 
+corrosion, NOUN 
+performance, NOUN 
+obtained, VERB 
+Al, PROPN 
+alloys, NOUN 
+
+, SPACE 
+containing, VERB 
+approximately, ADV 
+20, NUM 
+wt%, NUM 
+Mg, PROPN 
+increases, NOUN 
+magnesium, NOUN 
+content, NOUN 
+
+, SPACE 
+benefit, NOUN 
+instead, ADV 
+caused, VERB 
+decrease, NOUN 
+corrosion, NOUN 
+resistance, NOUN 
+Al, PROPN 
+Mg, PROPN 
+
+, SPACE 
+
+, SPACE 
+10, NUM 
+20, NUM 
+30, NUM 
+40, NUM 
+50, NUM 
+
+, SPACE 
+Ut, PROPN 
+X, PROPN 
+Mg, PROPN 
+alloying, VERB 
+addition, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+relationship, NOUN 
+time, NOUN 
+red, ADJ 
+rust, NOUN 
+alloy, ADJ 
+composition, NOUN 
+8, NUM 
+pm, NOUN 
+thick, ADJ 
+unbalanced, ADJ 
+
+, SPACE 
+magnetron, PROPN 
+sputtered, VERB 
+AI, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+steel, NOUN 
+exposed, VERB 
+continuous, ADJ 
+neutral, ADJ 
+salt, NOUN 
+fog, PROPN 
+
+, SPACE 
+160, NUM 
+K.R., PROPN 
+Baldwin, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+alloy, NOUN 
+coatings, NOUN 
+Figure, NOUN 
+2, NUM 
+shows, VERB 
+sputtered, NOUN 
+Ai-, PROPN 
+wt%, PUNCT 
+Mg, PROPN 
+alloy, NOUN 
+delayed, VERB 
+onset, NOUN 
+
+, SPACE 
+red, ADJ 
+rust, NOUN 
+twice, DET 
+long, ADV 
+pure, ADJ 
+aluminium, NOUN 
+coatings, NOUN 
+
+, SPACE 
+effect, NOUN 
+coating, VERB 
+thickness, NOUN 
+time, NOUN 
+red, ADJ 
+rust, NOUN 
+sputtered, ADJ 
+pure, ADJ 
+Al, PROPN 
+Al, PROPN 
+alloys, NOUN 
+
+, SPACE 
+containing, VERB 
+5, NUM 
+10, NUM 
+15, NUM 
+30, NUM 
+55, NUM 
+wt%, NOUN 
+magnesium, NOUN 
+given, VERB 
+Fig, PROPN 
+3, NUM 
+pure, ADJ 
+aluminium, NOUN 
+
+, SPACE 
+coatings, NOUN 
+time, NOUN 
+red, ADJ 
+rust, NOUN 
+increased, VERB 
+linearly, ADV 
+thickness, NOUN 
+increased, VERB 
+
+, SPACE 
+good, ADJ 
+agreement, NOUN 
+earlier, ADJ 
+work’6,18, PROPN 
+corrosion, NOUN 
+behaviour, NOUN 
+IVD, NOUN 
+pure, ADJ 
+Al, PROPN 
+coatings, NOUN 
+
+, SPACE 
+neutral, ADJ 
+salt, PROPN 
+fog, PROPN 
+environment, NOUN 
+Figure, NOUN 
+3, NUM 
+shows, VERB 
+contrast, NOUN 
+pure, ADJ 
+Al, PROPN 
+
+, SPACE 
+coatings, NOUN 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+Mg, PROPN 
+level, NOUN 
+increased, VERB 
+30, NUM 
+wt%, NUM 
+significant, ADJ 
+
+, SPACE 
+deviation, NOUN 
+linearity, NOUN 
+occurred, VERB 
+thickness, NOUN 
+time, NOUN 
+red, ADJ 
+rust, NOUN 
+relationship, NOUN 
+
+, SPACE 
+particularly, ADV 
+pronounced, VERB 
+Al-30, NOUN 
+wt%, PRON 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+time, NOUN 
+red, ADJ 
+rust, NOUN 
+
+, SPACE 
+increased, VERB 
+sharply, ADV 
+relatively, ADV 
+small, ADJ 
+increase, NOUN 
+coating, VERB 
+thickness, NOUN 
+
+, SPACE 
+concentration, NOUN 
+magnesium, NOUN 
+metal, NOUN 
+increased, VERB 
+55, NUM 
+wt%, NUM 
+return, NOUN 
+linear, VERB 
+behaviour, NOUN 
+
+, SPACE 
+obtained, VERB 
+
+, SPACE 
+Information, PROPN 
+relating, VERB 
+kinetics, NOUN 
+coating, NOUN 
+breakdown, NOUN 
+obtained, VERB 
+
+, SPACE 
+determining, VERB 
+rate, NOUN 
+red, ADJ 
+rust, NOUN 
+forms, NOUN 
+panel, NOUN 
+surfaces, NOUN 
+barrier, NOUN 
+
+, SPACE 
+sacrificial, ADJ 
+protection, NOUN 
+lost, VERB 
+relationship, NOUN 
+area, NOUN 
+red, ADJ 
+rust, NOUN 
+
+, SPACE 
+exposure, NOUN 
+time, NOUN 
+8, NUM 
+pm, NOUN 
+thick, ADJ 
+sputtered, ADJ 
+coatings, NOUN 
+shown, VERB 
+Fig, PROPN 
+4, NUM 
+pure, ADJ 
+Al, PROPN 
+Al, PROPN 
+
+, SPACE 
+alloys, NOUN 
+containing, VERB 
+35, NUM 
+wt%, NUM 
+magnesium, NOUN 
+spread, NOUN 
+red, ADJ 
+rust, NOUN 
+limited, VERB 
+area, NOUN 
+
+, SPACE 
+rust, NOUN 
+increasingly, ADV 
+slowly, ADV 
+extended, VERB 
+exposure, NOUN 
+periods, NOUN 
+Following, VERB 
+initial, ADJ 
+period, NOUN 
+
+, SPACE 
+coating, NOUN 
+remained, VERB 
+largely, ADV 
+intact, ADJ 
+rate, NOUN 
+coating, NOUN 
+loss, NOUN 
+increased, VERB 
+sharply, ADV 
+
+, SPACE 
+Time, PROPN 
+tD, PROPN 
+red, ADJ 
+rust, NOUN 
+Ihours, PROPN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+relationship, NOUN 
+coating, VERB 
+thickness, NOUN 
+time, NOUN 
+red, ADJ 
+rust, NOUN 
+unbalanced, ADJ 
+magnetron, PROPN 
+
+, SPACE 
+sputtered, VERB 
+pure, ADJ 
+Al, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+steel, NOUN 
+exposed, VERB 
+continuous, ADJ 
+neutral, ADJ 
+salt, NOUN 
+fog, PROPN 
+
+, SPACE 
+Aluminium, PROPN 
+magnesium, NOUN 
+alloys, NOUN 
+161, NUM 
+
+, SPACE 
+Exposure, PROPN 
+time, NOUN 
+hours, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+relationship, NOUN 
+area, NOUN 
+red, ADJ 
+rust, NOUN 
+exposure, NOUN 
+time, NOUN 
+unbalanced, ADJ 
+magnetron, PROPN 
+
+, SPACE 
+sputtered, VERB 
+pure, ADJ 
+Al, PROPN 
+AI, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+steel, NOUN 
+exposed, VERB 
+continuous, ADJ 
+neutral, ADJ 
+salt, NOUN 
+fog, PROPN 
+
+, SPACE 
+sputtered, VERB 
+deposits, NOUN 
+rapidly, ADV 
+consumed, VERB 
+possible, ADJ 
+type, NOUN 
+behaviour, NOUN 
+
+, SPACE 
+related, VERB 
+dense, ADJ 
+nature, NOUN 
+sputtered, ADJ 
+deposits, NOUN 
+coatings, NOUN 
+
+, SPACE 
+thin, ADJ 
+significant, ADJ 
+area, NOUN 
+substrate, NOUN 
+exposed, VERB 
+corrodant, NOUN 
+rapid, ADJ 
+
+, SPACE 
+corrosion, NOUN 
+underlying, VERB 
+steel, NOUN 
+occurred, VERB 
+moment, NOUN 
+coating, NOUN 
+
+, SPACE 
+finally, ADV 
+lost, VERB 
+Figure, NOUN 
+4, NUM 
+shows, VERB 
+Al-55, PROPN 
+wt%, VERB 
+Mg, PROPN 
+alloy, NOUN 
+coating, NOUN 
+consumed, VERB 
+rapidly, ADV 
+
+, SPACE 
+red, ADJ 
+rust, NOUN 
+initiated, VERB 
+reflecting, VERB 
+poor, ADJ 
+corrosion, NOUN 
+resistance, NOUN 
+high, ADJ 
+Mg, PROPN 
+alloy, NOUN 
+
+, SPACE 
+Open, ADJ 
+circuit, NOUN 
+potential, ADJ 
+measurements, NOUN 
+
+, SPACE 
+variation, NOUN 
+open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+potential, NOUN 
+EC, PROPN 
+time, NOUN 
+sputtered, ADJ 
+pure, ADJ 
+Al, PROPN 
+
+, SPACE 
+alloys, NOUN 
+containing, VERB 
+5, NUM 
+10, NUM 
+1.5, NUM 
+25, NUM 
+55, NUM 
+wt%, NOUN 
+Mg, PROPN 
+recorded, VERB 
+immersion, NOUN 
+
+, SPACE 
+quiescent, ADJ 
+600, NUM 
+mmol, PROPN 
+1, NUM 
+l, NOUN 
+NaCl, PROPN 
+solution, NOUN 
+shown, VERB 
+Fig, PROPN 
+5, NUM 
+test, NOUN 
+electrode, NOUN 
+constructed, VERB 
+
+, SPACE 
+pure, ADJ 
+Al, PROPN 
+initially, ADV 
+adopted, VERB 
+potential, NOUN 
+0.90, NUM 
+V, PROPN 
+SCE, PROPN 
+chloride, NOUN 
+solution, NOUN 
+
+, SPACE 
+potential, NOUN 
+increased, VERB 
+sharply, ADV 
+hours, NOUN 
+immersion, NOUN 
+value, NOUN 
+
+, SPACE 
+approximately, ADV 
+0.74, NUM 
+V, PROPN 
+SCE, PROPN 
+similar, ADJ 
+previously, ADV 
+recorded, VERB 
+ion, NOUN 
+plated, VERB 
+
+, SPACE 
+aluminium, NOUN 
+quiescent, ADJ 
+sodium, NOUN 
+chloride, PROPN 
+solutions.16, PROPN 
+18, NUM 
+corrosion, NOUN 
+behaviour, NOUN 
+pure, ADJ 
+
+, SPACE 
+Al, PROPN 
+coatings, NOUN 
+characterized, VERB 
+frequent, ADJ 
+potential, ADJ 
+fluctuations, NOUN 
+0.1, NUM 
+V, NOUN 
+magnitude, NOUN 
+
+, SPACE 
+usually, ADV 
+attributed, VERB 
+effects, NOUN 
+localized, VERB 
+corrosion, NOUN 
+pitting, VERB 
+attack.27, PROPN 
+30, NUM 
+
+, SPACE 
+Figure, NOUN 
+5, NUM 
+shows, VERB 
+aluminium, NOUN 
+alloys, NOUN 
+containing, VERB 
+lower, ADJ 
+magnesium, NOUN 
+contents, NOUN 
+
+, SPACE 
+15, NUM 
+wt%, NUM 
+similar, ADJ 
+potential, ADJ 
+time, NOUN 
+behaviour, NOUN 
+observed, VERB 
+obtained, VERB 
+
+, SPACE 
+sputtered, VERB 
+pure, ADJ 
+aluminium, NOUN 
+steep, ADJ 
+rise, NOUN 
+potential, ADJ 
+followed, VERB 
+period, NOUN 
+rapid, ADJ 
+
+, SPACE 
+potential, ADJ 
+fluctuations, NOUN 
+contrast, NOUN 
+alloy, NOUN 
+magnesium, NOUN 
+content, NOUN 
+increased, VERB 
+
+, SPACE 
+25, NUM 
+wt%, NUM 
+open, ADJ 
+circuit, NOUN 
+potential, NOUN 
+generally, ADV 
+stable, ADJ 
+fluctuations, NOUN 
+
+, SPACE 
+potential, NOUN 
+pronounced, ADJ 
+suggests, VERB 
+Al, PROPN 
+alloys, NOUN 
+containing, VERB 
+moderate, ADJ 
+levels, NOUN 
+
+, SPACE 
+magnesium, NOUN 
+resistant, ADJ 
+pitting, VERB 
+attack, NOUN 
+pure, ADJ 
+Al, PROPN 
+containing, VERB 
+low, ADJ 
+
+, SPACE 
+levels, NOUN 
+Mg, PROPN 
+supporting, VERB 
+observations, NOUN 
+salt, PROPN 
+fog, PROPN 
+environment, NOUN 
+trend, NOUN 
+
+, SPACE 
+continued, VERB 
+aluminium, NOUN 
+alloy, NOUN 
+containing, VERB 
+55, NUM 
+wt%, NUM 
+magnesium, NOUN 
+
+, SPACE 
+potential, ADJ 
+fluctuations, NOUN 
+observed, VERB 
+Al-55, PROPN 
+wt%, VERB 
+Mg, PROPN 
+alloy, NOUN 
+behaved, VERB 
+
+, SPACE 
+differently, ADV 
+alloys, NOUN 
+mainly, ADV 
+composed, VERB 
+Al, PROPN 
+following, VERB 
+
+, SPACE 
+large, ADJ 
+rise, NOUN 
+open, ADJ 
+circuit, NOUN 
+potential, NOUN 
+100, NUM 
+h, NOUN 
+immersion, NOUN 
+potential, NOUN 
+
+, SPACE 
+stabilise, VERB 
+continued, VERB 
+drift, VERB 
+noble, ADJ 
+direction, NOUN 
+
+, SPACE 
+162, NUM 
+K.R., PROPN 
+Baldwin, PROPN 
+er, INTJ 
+al, PROPN 
+
+, SPACE 
+Pure, PROPN 
+Aluminium, PROPN 
+
+, SPACE 
+Time, PROPN 
+lhoursl, NOUN 
+
+, SPACE 
+jg, PROPN 
+-1.01, NUM 
+0, NUM 
+100, NUM 
+200, NUM 
+
+, SPACE 
+Tlme, PROPN 
+hours1, NOUN 
+4, NUM 
+
+, SPACE 
+D, NOUN 
+Al-5, NOUN 
+Mg, PROPN 
+-0.6, NOUN 
+v, NOUN 
+m, PROPN 
+
+, SPACE 
+Time, PROPN 
+Ihours, PROPN 
+
+, SPACE 
+Time, PROPN 
+lhoursl, NOUN 
+
+, SPACE 
+Time, PROPN 
+fhoursl, NOUN 
+Time, PROPN 
+Ihours, PROPN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+variation, NOUN 
+open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+potential, NOUN 
+time, NOUN 
+unbalanced, ADJ 
+magnetron, PROPN 
+
+, SPACE 
+sputtered, VERB 
+pure, ADJ 
+Al, PROPN 
+AI, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+containing, VERB 
+5, NUM 
+IO, PROPN 
+15, NUM 
+25, NUM 
+55, NUM 
+wt%, NUM 
+Mg, PROPN 
+determined, VERB 
+
+, SPACE 
+quiescent, ADJ 
+600, NUM 
+mmol, PROPN 
+I-, PROPN 
+sodium, NOUN 
+chloride, NOUN 
+solution, NOUN 
+
+, SPACE 
+average, ADJ 
+open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+potential, NOUN 
+sputtered, ADJ 
+deposits, NOUN 
+calculated, VERB 
+
+, SPACE 
+200, NUM 
+h, NOUN 
+immersion, NOUN 
+period, NOUN 
+600, NUM 
+mmol, PROPN 
+1, NUM 
+t, NOUN 
+NaCl, PROPN 
+solution, NOUN 
+Figure, NOUN 
+6, NUM 
+illustrates, VERB 
+
+, SPACE 
+relationship, NOUN 
+average, ADJ 
+open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+potential, NOUN 
+Al, PROPN 
+Mg, PROPN 
+alloy, NOUN 
+
+, SPACE 
+composition, NOUN 
+plot, NOUN 
+shows, VERB 
+average, ADJ 
+potential, NOUN 
+Al, PROPN 
+alloys, NOUN 
+
+, SPACE 
+increasingly, ADV 
+negative, ADJ 
+Mg, PROPN 
+content, NOUN 
+increased, VERB 
+line, NOUN 
+previous, ADJ 
+
+, SPACE 
+study, NOUN 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+carried, VERB 
+DRA, PROPN 
+Farnborough, PROPN 
+open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+
+, SPACE 
+potential, NOUN 
+bare, ADJ 
+steel, NOUN 
+determined, VERB 
+earlier, ADJ 
+workI, PROPN 
+value, NOUN 
+-0.67, NUM 
+V, PROPN 
+SCE, PROPN 
+
+, SPACE 
+Aluminium, PROPN 
+magnesium, NOUN 
+alloys, NOUN 
+163, NUM 
+
+, SPACE 
+-0.6, NOUN 
+
+, SPACE 
+iii, NUM 
+
+, SPACE 
+ti, NOUN 
+r___-___-___________-~---, NOUN 
+E, NOUN 
+eOPr, PROPN 
+tsteell-------, PUNCT 
+
+, SPACE 
+-0.7, NOUN 
+
+, SPACE 
+
+, SPACE 
+-1.0, PROPN 
+
+, SPACE 
+
+, SPACE 
+z, NOUN 
+-1.1-, PUNCT 
+
+, SPACE 
+0, NUM 
+10, NUM 
+20, NUM 
+30, NUM 
+40, NUM 
+50, NUM 
+
+, SPACE 
+WtX, PROPN 
+Mg, PROPN 
+alloying, VERB 
+addition, NOUN 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+relationship, NOUN 
+average, ADJ 
+open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+potential, NOUN 
+alloy, ADJ 
+composition, NOUN 
+
+, SPACE 
+unbalanced, ADJ 
+magnetron, PROPN 
+sputtered, VERB 
+AI, PROPN 
+Mg, PROPN 
+alloy, NOUN 
+coatings, NOUN 
+determined, VERB 
+200, NUM 
+h, NOUN 
+immersion, NOUN 
+
+, SPACE 
+600, NUM 
+mmol, PROPN 
+1, NUM 
+l, NOUN 
+NaCl, PROPN 
+solution, NOUN 
+
+, SPACE 
+obtained, VERB 
+quiescent, ADJ 
+600, NUM 
+mmol, PROPN 
+1, NUM 
+l, NOUN 
+NaCl, PROPN 
+solution, NOUN 
+Figure, NOUN 
+6, NUM 
+shows, VERB 
+sputtered, ADJ 
+
+, SPACE 
+deposits, NOUN 
+negative, ADJ 
+respect, NOUN 
+bare, ADJ 
+steel, NOUN 
+Al, PROPN 
+alloys, NOUN 
+
+, SPACE 
+increasingly, ADV 
+sacrificial, ADJ 
+concentration, NOUN 
+active, ADJ 
+Mg, PROPN 
+metal, NOUN 
+increased, VERB 
+
+, SPACE 
+Potentiodynamic, PROPN 
+polarization, NOUN 
+sweeps, VERB 
+
+, SPACE 
+cathodic, ADJ 
+polarization, NOUN 
+sweeps, AUX 
+obtained, VERB 
+magnetron, NOUN 
+sputtered, ADJ 
+pure, ADJ 
+Al, PROPN 
+
+, SPACE 
+selected, VERB 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+aerated, VERB 
+600, NUM 
+mmol, PROPN 
+1, NUM 
+l, NOUN 
+NaCl, PROPN 
+solution, NOUN 
+shown, VERB 
+Fig, PROPN 
+7, NUM 
+
+, SPACE 
+pure, ADJ 
+Al, PROPN 
+coatings, NOUN 
+rapid, ADJ 
+increase, NOUN 
+current, ADJ 
+density, NOUN 
+initially, ADV 
+observed, VERB 
+close, ADV 
+open-, ADJ 
+
+, SPACE 
+circuit, NOUN 
+potential, NOUN 
+cathodic, ADJ 
+response, NOUN 
+showed, VERB 
+highly, ADV 
+polarized, VERB 
+behaviour, NOUN 
+
+, SPACE 
+small, ADJ 
+increase, NOUN 
+current, ADJ 
+density, NOUN 
+observed, VERB 
+large, ADJ 
+increase, NOUN 
+overpotential, ADJ 
+
+, SPACE 
+behaviour, NOUN 
+typical, ADJ 
+corrosion, NOUN 
+processes, NOUN 
+diffusion, NOUN 
+control, NOUN 
+e.g., ADV 
+oxygen, NOUN 
+
+, SPACE 
+reduction.31, PROPN 
+
+, SPACE 
+Figure, PROPN 
+7, NUM 
+shows, VERB 
+cathodic, ADJ 
+polarization, NOUN 
+response, NOUN 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+similar, ADJ 
+
+, SPACE 
+obtained, VERB 
+pure, ADJ 
+Al, PROPN 
+diffusion, NOUN 
+controlled, VERB 
+cathodic, NOUN 
+reactions, NOUN 
+appeared, VERB 
+
+, SPACE 
+predominant, ADJ 
+found, VERB 
+polarization, NOUN 
+curves, NOUN 
+obtained, VERB 
+Al, PROPN 
+Mg, PROPN 
+
+, SPACE 
+alloy, NOUN 
+coatings, NOUN 
+cases, NOUN 
+polarized, VERB 
+pure, ADJ 
+aluminium, NOUN 
+alloys, NOUN 
+
+, SPACE 
+showing, VERB 
+deviation, NOUN 
+purely, ADV 
+diffusion, NOUN 
+limited, VERB 
+behaviour, NOUN 
+particularly, ADV 
+higher, ADJ 
+
+, SPACE 
+overpotentials, NOUN 
+
+, SPACE 
+effect, NOUN 
+increasing, VERB 
+alloy, NOUN 
+magnesium, NOUN 
+content, NOUN 
+shift, VERB 
+cathodic, NOUN 
+
+, SPACE 
+polarization, NOUN 
+curves, NOUN 
+progressively, ADV 
+higher, ADJ 
+current, ADJ 
+densities, NOUN 
+corrosion, NOUN 
+current, ADJ 
+density, NOUN 
+
+, SPACE 
+determined, VERB 
+sputtered, ADJ 
+deposit, NOUN 
+Tafel, PROPN 
+extrapolation, NOUN 
+technique.32, NOUN 
+
+, SPACE 
+corrosion, NOUN 
+current, ADJ 
+density, NOUN 
+values, NOUN 
+obtained, VERB 
+plotted, VERB 
+logarithmically, ADV 
+function, NOUN 
+
+, SPACE 
+magnesium, NOUN 
+content, NOUN 
+Fig, PROPN 
+8, NUM 
+plot, NOUN 
+shows, VERB 
+corrosion, NOUN 
+current, ADJ 
+density, NOUN 
+Al, PROPN 
+
+, SPACE 
+alloys, NOUN 
+increased, VERB 
+Mg, PROPN 
+content, NOUN 
+increased, VERB 
+suggests, VERB 
+barrier, NOUN 
+corrosion, NOUN 
+
+, SPACE 
+resistance, NOUN 
+sputtered, PROPN 
+Al, PROPN 
+progressively, ADV 
+diminished, VERB 
+concentration, NOUN 
+Mg, PROPN 
+
+, SPACE 
+alloys, NOUN 
+raised, VERB 
+
+, SPACE 
+164, NUM 
+K.R., PROPN 
+Baldwin, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+-7oc, PROPN 
+
+, SPACE 
+-900, X 
+
+, SPACE 
+z, NOUN 
+
+, SPACE 
+5, NUM 
+
+, SPACE 
+
+, SPACE 
+>, X 
+-1100, NOUN 
+E, PROPN 
+
+, SPACE 
+r, PROPN 
+II, PROPN 
+.?I, PUNCT 
+JJ, PROPN 
+
+, SPACE 
+s, PROPN 
+J, PROPN 
+-1300, PROPN 
+
+, SPACE 
+a0, PROPN 
+
+, SPACE 
+-1500, NOUN 
+M9, PROPN 
+
+, SPACE 
+.5x, PROPN 
+M9, PROPN 
+
+, SPACE 
+-3, PUNCT 
+-2, INTJ 
+-1, INTJ 
+0, NUM 
+
+, SPACE 
+Log, PROPN 
+Current, ADJ 
+Density, PROPN 
+$, SYM 
+tA, NUM 
+mmz, NOUN 
+J, PROPN 
+
+, SPACE 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+Fig, PROPN 
+7, X 
+Cathodic, ADJ 
+potentiodynamic, ADJ 
+polarization, NOUN 
+sweeps, VERB 
+unbalanced, ADJ 
+magneton, NOUN 
+sputtered, VERB 
+pure, ADJ 
+Al, PROPN 
+
+, SPACE 
+AI, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+aerated, VERB 
+600mmoll-, PROPN 
+sodium, NOUN 
+chloride, NOUN 
+solution, NOUN 
+Sweep, NOUN 
+rate, NOUN 
+
+, SPACE 
+0.125mVs-, NOUN 
+
+, SPACE 
+Figure, NOUN 
+7, NUM 
+showed, VERB 
+alloy, NOUN 
+magnesium, NOUN 
+content, NOUN 
+increased, VERB 
+cathodic, ADJ 
+
+, SPACE 
+polarization, NOUN 
+curves, NOUN 
+shifted, VERB 
+lower, ADJ 
+potentials, NOUN 
+relationship, NOUN 
+corrosion, NOUN 
+
+, SPACE 
+current, ADJ 
+density, NOUN 
+open, ADJ 
+circuit, NOUN 
+potentials, NOUN 
+sputtered, ADJ 
+deposits, NOUN 
+determined, VERB 
+1, NUM 
+h, NOUN 
+
+, SPACE 
+immersion, NOUN 
+aerated, VERB 
+600, NUM 
+mmol, PROPN 
+I-‘NaCl, NOUN 
+solution, NOUN 
+shown, VERB 
+Fig, PROPN 
+9, NUM 
+plot, NOUN 
+obtained, VERB 
+
+, SPACE 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+indicates, VERB 
+corrosion, NOUN 
+current, ADJ 
+density, NOUN 
+increased, VERB 
+open, ADJ 
+circuit, NOUN 
+
+, SPACE 
+potential, NOUN 
+negative, ADJ 
+type, NOUN 
+relationship, NOUN 
+observed, VERB 
+
+, SPACE 
+binary, ADJ 
+alloy, PROPN 
+systems33, PROPN 
+34, NUM 
+demonstrates, VERB 
+corrosion, NOUN 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+
+, SPACE 
+predominantly, ADV 
+cathodic, ADJ 
+control, NOUN 
+corrosion, NOUN 
+current, NOUN 
+larger, ADJ 
+
+, SPACE 
+potential, NOUN 
+negative, ADJ 
+
+, SPACE 
+DISCUSSION, PROPN 
+
+, SPACE 
+Barrier, PROPN 
+properties, NOUN 
+coatings, NOUN 
+
+, SPACE 
+cathodic, ADJ 
+polarization, NOUN 
+sweeps, VERB 
+conducted, VERB 
+sputtered, NOUN 
+pure, ADJ 
+Al, PROPN 
+showed, VERB 
+type, NOUN 
+
+, SPACE 
+highly, ADV 
+polarized, VERB 
+behaviour, NOUN 
+normally, ADV 
+associated, VERB 
+corrosion, NOUN 
+reactions, NOUN 
+
+, SPACE 
+diffusion, NOUN 
+control, NOUN 
+Fig, PROPN 
+7, NUM 
+near, ADJ 
+neutral, ADJ 
+solutions, NOUN 
+employed, VERB 
+study, NOUN 
+
+, SPACE 
+predominant, ADJ 
+cathodic, ADJ 
+reaction, NOUN 
+considered, VERB 
+oxygen, NOUN 
+reduction, NOUN 
+cathodic, NOUN 
+
+, SPACE 
+corrosion, NOUN 
+behaviour, NOUN 
+sputtered, ADJ 
+Al, PROPN 
+alloys, NOUN 
+similar, ADJ 
+pure, ADJ 
+Al, PROPN 
+
+, SPACE 
+alloys, NOUN 
+containing, VERB 
+high, ADJ 
+Mg, PROPN 
+levels, NOUN 
+example, NOUN 
+Al-55wt%, PROPN 
+Mg, PROPN 
+alloy, NOUN 
+behaved, VERB 
+
+, SPACE 
+similar, ADJ 
+manner, NOUN 
+pure, ADJ 
+Al, PROPN 
+diffusion, NOUN 
+control, NOUN 
+predominant, ADJ 
+showing, VERB 
+
+, SPACE 
+Aluminium, NOUN 
+magnesium, NOUN 
+alloys, NOUN 
+165, NUM 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+Magnesium, PROPN 
+content, NOUN 
+wtX1, PROPN 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+relationship, NOUN 
+corrosion, NOUN 
+current, ADJ 
+density, NOUN 
+magnesium, NOUN 
+content, NOUN 
+unbalanced, ADJ 
+
+, SPACE 
+magnetron, PROPN 
+sputtered, VERB 
+AI, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+aerated, VERB 
+600, NUM 
+mmol, PROPN 
+I-, PROPN 
+NaCl, PROPN 
+solution, NOUN 
+
+, SPACE 
+active, ADJ 
+behaviour, NOUN 
+associated, VERB 
+pure, ADJ 
+magnesium, NOUN 
+hydrogen, NOUN 
+evolution, NOUN 
+
+, SPACE 
+principal, ADJ 
+cathodic, NOUN 
+process.3S37, PROPN 
+
+, SPACE 
+cathodic, ADJ 
+polarization, NOUN 
+sweeps, NOUN 
+showed, VERB 
+corrosion, NOUN 
+current, ADJ 
+density, NOUN 
+pure, ADJ 
+Al, PROPN 
+
+, SPACE 
+shifted, VERB 
+higher, ADJ 
+currents, NOUN 
+Mg, PROPN 
+level, NOUN 
+raised, VERB 
+Figs, NOUN 
+7, NUM 
+8), NUM 
+cathodic, NOUN 
+
+, SPACE 
+current, NOUN 
+determined, VERB 
+solely, ADV 
+diffusion, NOUN 
+limited, VERB 
+reduction, NOUN 
+oxygen, NOUN 
+effect, NOUN 
+
+, SPACE 
+nature, NOUN 
+cathode, NOUN 
+observed, VERB 
+corrosion, NOUN 
+current, NOUN 
+
+, SPACE 
+independent, ADJ 
+alloy, ADJ 
+composition, NOUN 
+fact, NOUN 
+currents, NOUN 
+different, ADJ 
+shows, NOUN 
+
+, SPACE 
+nature, NOUN 
+alloy, NOUN 
+surface, NOUN 
+significant, ADJ 
+addition, NOUN 
+aluminium, NOUN 
+significant, ADJ 
+
+, SPACE 
+concentrations, NOUN 
+magnesium, NOUN 
+certainly, ADV 
+expected, VERB 
+change, VERB 
+nature, NOUN 
+
+, SPACE 
+passive, ADJ 
+surface, NOUN 
+film, NOUN 
+Al, PROPN 
+presence, NOUN 
+moisture, NOUN 
+Mg, PROPN 
+develops, VERB 
+thin, ADJ 
+film, NOUN 
+
+, SPACE 
+magnesium, NOUN 
+hydroxide, ADV 
+Mg(OH)2, PROPN 
+generally, ADV 
+incomplete, ADJ 
+provides, VERB 
+limited, ADJ 
+
+, SPACE 
+protection, NOUN 
+magnesium, NOUN 
+addition, NOUN 
+sufficient, ADJ 
+concentrations, NOUN 
+Mg, PROPN 
+Al, PROPN 
+
+, SPACE 
+expected, VERB 
+disrupt, VERB 
+surface, NOUN 
+oxide, NOUN 
+film, NOUN 
+formed, VERB 
+Al, PROPN 
+weaken, VERB 
+protective, ADJ 
+effect, NOUN 
+
+, SPACE 
+possibly, ADV 
+accounting, VERB 
+poorer, ADJ 
+barrier, NOUN 
+properties, NOUN 
+Al, PROPN 
+Mg, PROPN 
+binary, ADJ 
+alloys, NOUN 
+
+, SPACE 
+increase, NOUN 
+cathodic, ADJ 
+current, NOUN 
+occurs, VERB 
+magnesium, NOUN 
+content, NOUN 
+raised, VERB 
+
+, SPACE 
+related, VERB 
+increased, VERB 
+rate, NOUN 
+oxygen, NOUN 
+diffusion, NOUN 
+protective, ADJ 
+oxide, NOUN 
+film, NOUN 
+
+, SPACE 
+formed, VERB 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+Mansfeld, PROPN 
+et, NOUN 
+a1.38, NOUN 
+employed, VERB 
+similar, ADJ 
+arguments, NOUN 
+explain, VERB 
+
+, SPACE 
+difference, NOUN 
+corrosion, NOUN 
+rates, NOUN 
+aluminium, NOUN 
+alloys, NOUN 
+found, VERB 
+
+, SPACE 
+corrosion, NOUN 
+reactions, NOUN 
+cathodic, ADJ 
+control, NOUN 
+Mansfeld, PROPN 
+et, PROPN 
+al.38, PROPN 
+proposed, VERB 
+
+, SPACE 
+differences, NOUN 
+efficiency, NOUN 
+oxygen, NOUN 
+reduction, NOUN 
+individual, ADJ 
+Al, PROPN 
+alloys, NOUN 
+
+, SPACE 
+account, VERB 
+observed, ADJ 
+difference, NOUN 
+corrosion, NOUN 
+rates, NOUN 
+
+, SPACE 
+166, NUM 
+K.R., PROPN 
+Baldwin, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Open, ADJ 
+circuit, NOUN 
+potential, NOUN 
+V, NOUN 
+vs, ADP 
+SCEl, PROPN 
+
+, SPACE 
+Fig, PROPN 
+9, NUM 
+relationship, NOUN 
+corrosion, NOUN 
+current, ADJ 
+density, NOUN 
+open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+potential, NOUN 
+
+, SPACE 
+unbalanced, ADJ 
+magnetron, PROPN 
+sputtered, VERB 
+AI, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+determined, VERB 
+1, NUM 
+h, NOUN 
+immersion, NOUN 
+aerated, VERB 
+
+, SPACE 
+600, NUM 
+mmol, PROPN 
+I-, PROPN 
+NaCl, PROPN 
+solution, NOUN 
+Weight, NOUN 
+percentage, NOUN 
+magnesium, NOUN 
+content, NOUN 
+ofeach, NOUN 
+alloy, NOUN 
+shown, VERB 
+brackets, NOUN 
+
+, SPACE 
+barrier, NOUN 
+corrosion, NOUN 
+resistance, NOUN 
+Al, PROPN 
+coatings, NOUN 
+dependent, ADJ 
+rate, NOUN 
+
+, SPACE 
+corrode, VERB 
+nature, NOUN 
+corrosion, NOUN 
+neutral, ADJ 
+salt, NOUN 
+fog, PROPN 
+
+, SPACE 
+environment, NOUN 
+found, VERB 
+corrosion, NOUN 
+Al, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+
+, SPACE 
+characterized, VERB 
+mainly, ADV 
+pitting, VERB 
+attack, NOUN 
+type, NOUN 
+localized, VERB 
+attack, NOUN 
+thought, VERB 
+result, VERB 
+
+, SPACE 
+presence, NOUN 
+flaws, NOUN 
+passive, ADJ 
+oxide, NOUN 
+film, NOUN 
+studies, NOUN 
+pure, ADJ 
+Al, PROPN 
+coatings, NOUN 
+Hinton, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+proposed, VERB 
+local, ADJ 
+microstructure, NOUN 
+exhibited, VERB 
+little, ADJ 
+porosity, NOUN 
+attack, NOUN 
+occurred, VERB 
+
+, SPACE 
+mainly, ADV 
+uniform, ADJ 
+penetration, NOUN 
+wide, ADJ 
+area, NOUN 
+pitting, NOUN 
+prevalent, ADJ 
+grain, NOUN 
+
+, SPACE 
+boundaries, NOUN 
+plated, VERB 
+ion, NOUN 
+vapour, NOUN 
+deposited, VERB 
+coatings, NOUN 
+Hinton, PROPN 
+et, PROPN 
+al, PROPN 
+found, VERB 
+
+, SPACE 
+local, ADJ 
+microstructure, NOUN 
+contained, VERB 
+high, ADJ 
+levels, NOUN 
+porosity, NOUN 
+characterized, VERB 
+mainly, ADV 
+
+, SPACE 
+localized, VERB 
+pitting, NOUN 
+leading, VERB 
+early, ADJ 
+exposure, NOUN 
+substrate, NOUN 
+present, ADJ 
+work, NOUN 
+
+, SPACE 
+corrosion, NOUN 
+dense, ADJ 
+non, ADJ 
+porous, ADJ 
+sputtered, NOUN 
+Al, PROPN 
+alloys, NOUN 
+containing, VERB 
+low, ADJ 
+Mg, PROPN 
+levels, NOUN 
+<, X 
+15, NUM 
+wt%, NUM 
+
+, SPACE 
+characterized, VERB 
+formation, NOUN 
+large, ADJ 
+pits, NOUN 
+similar, ADJ 
+form, NOUN 
+observed, VERB 
+pure, ADJ 
+
+, SPACE 
+Al, PROPN 
+susceptibility, NOUN 
+coatings, NOUN 
+pitting, NOUN 
+attack, NOUN 
+demonstrated, VERB 
+open, ADJ 
+
+, SPACE 
+circuit, NOUN 
+corrosion, NOUN 
+potential, ADJ 
+measurements, NOUN 
+showed, VERB 
+potential, ADJ 
+fluctuations, NOUN 
+
+, SPACE 
+typical, ADJ 
+type, NOUN 
+localized, VERB 
+attack, NOUN 
+contrast, NOUN 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+containing, VERB 
+higher, ADJ 
+
+, SPACE 
+Mg, PROPN 
+levels, NOUN 
+susceptible, ADJ 
+pitting, VERB 
+attack, NOUN 
+possible, ADJ 
+explanation, NOUN 
+high, ADJ 
+Mg, PROPN 
+
+, SPACE 
+alloys, NOUN 
+gradually, ADV 
+assuming, VERB 
+characteristics, NOUN 
+pure, ADJ 
+Mg, PROPN 
+uniform, ADJ 
+
+, SPACE 
+type, NOUN 
+attack, NOUN 
+found.36337, PROPN 
+supported, VERB 
+open, ADJ 
+circuit, NOUN 
+potential, ADJ 
+
+, SPACE 
+measurements, NOUN 
+showed, VERB 
+marked, ADJ 
+increase, NOUN 
+electrochemical, ADJ 
+stability, NOUN 
+alloy, NOUN 
+Mg, PROPN 
+
+, SPACE 
+level, NOUN 
+increased, VERB 
+Fig, PROPN 
+5, NUM 
+
+, SPACE 
+Aluminium, NOUN 
+magnesium, NOUN 
+alloys, NOUN 
+167, NUM 
+
+, SPACE 
+pure, ADJ 
+Al, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloy, NOUN 
+coatings, NOUN 
+air, NOUN 
+formed, VERB 
+film, NOUN 
+provide, VERB 
+
+, SPACE 
+barrier, NOUN 
+attack, NOUN 
+presence, NOUN 
+aggressive, ADJ 
+environment, NOUN 
+presence, NOUN 
+
+, SPACE 
+chloride, NOUN 
+ions, NOUN 
+appreciable, ADJ 
+thinning, NOUN 
+oxide, NOUN 
+film, NOUN 
+likely, ADJ 
+occur, VERB 
+eventually, ADV 
+
+, SPACE 
+underlying, VERB 
+metallic, ADJ 
+layer, NOUN 
+exposed, VERB 
+corrodant, NOUN 
+corrodant, NOUN 
+penetrate, VERB 
+pre-, ADJ 
+
+, SPACE 
+existing, VERB 
+defects, NOUN 
+coating, NOUN 
+small, ADJ 
+pores, NOUN 
+behave, VERB 
+crevices, NOUN 
+
+, SPACE 
+pores, NOUN 
+pits, NOUN 
+formed, VERB 
+result, NOUN 
+corrosion, NOUN 
+local, ADJ 
+environment, NOUN 
+
+, SPACE 
+increasingly, ADV 
+acidic, ADJ 
+case, NOUN 
+pure, ADJ 
+Al, PROPN 
+development, NOUN 
+local, ADJ 
+acidity, NOUN 
+accelerate, VERB 
+
+, SPACE 
+dissolution, NOUN 
+Al, PROPN 
+stimulate, VERB 
+pit, NOUN 
+growth.39, NOUN 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+development, NOUN 
+
+, SPACE 
+strongly, ADV 
+acidic, ADJ 
+conditions, NOUN 
+lead, VERB 
+dissolution, NOUN 
+Al, PROPN 
+Mg, PROPN 
+early, ADJ 
+stages, NOUN 
+
+, SPACE 
+pit, NOUN 
+growth, NOUN 
+hydrogen, NOUN 
+evolution, NOUN 
+occur, VERB 
+limited, ADJ 
+oxygen, NOUN 
+supply, NOUN 
+
+, SPACE 
+low, ADJ 
+solubility, NOUN 
+oxygen, NOUN 
+solutions, NOUN 
+high, ADJ 
+chloride, NOUN 
+concentration, NOUN 
+lo, PROPN 
+Following, VERB 
+initial, ADJ 
+
+, SPACE 
+period, NOUN 
+pH, NUM 
+pit, NOUN 
+thought, VERB 
+rise, VERB 
+oxygen, NOUN 
+reduction, NOUN 
+predominant, ADJ 
+
+, SPACE 
+cathodic, ADJ 
+reaction, NOUN 
+generating, VERB 
+hydroxyl, PROPN 
+ions, NOUN 
+case, NOUN 
+pure, ADJ 
+Al, PROPN 
+hydroxides, NOUN 
+
+, SPACE 
+Al(OH)s, NOUN 
+precipitate, VERB 
+pit, NOUN 
+accompanied, VERB 
+formation, NOUN 
+insoluble, ADJ 
+
+, SPACE 
+corrosion, NOUN 
+products, NOUN 
+Mg(OH)2, PROPN 
+case, NOUN 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+help, VERB 
+stifle, VERB 
+
+, SPACE 
+corrosion, NOUN 
+activity, NOUN 
+
+, SPACE 
+sacrificialproperties, NOUN 
+coatings, NOUN 
+
+, SPACE 
+electrochemical, ADJ 
+potential, NOUN 
+binary, ADJ 
+alloys, NOUN 
+related, VERB 
+thermodynamic, ADJ 
+
+, SPACE 
+equilibrium, NOUN 
+potentials, NOUN 
+components, NOUN 
+alloy.40, PROPN 
+electrochemical, ADJ 
+potential, NOUN 
+
+, SPACE 
+adopted, VERB 
+binary, ADJ 
+alloy, NOUN 
+located, VERB 
+potential, ADJ 
+values, NOUN 
+parent, NOUN 
+metals, NOUN 
+
+, SPACE 
+potential, NOUN 
+pure, ADJ 
+magnesium, NOUN 
+approximately, ADV 
+1.9, NUM 
+V, NOUN 
+SCE, PROPN 
+600, NUM 
+mmol, PROPN 
+1, NUM 
+l, NOUN 
+chloride, NOUN 
+
+, SPACE 
+solution35, NOUN 
+37, NUM 
+compared, VERB 
+value, NOUN 
+-0.7, NOUN 
+1, NUM 
+.O, NOUN 
+V, PROPN 
+SCE, PROPN 
+aluminium, NOUN 
+
+, SPACE 
+depending, VERB 
+purity, NOUN 
+‘5, X 
+18, NUM 
+Accordingly, PROPN 
+addition, NOUN 
+Mg, PROPN 
+sputtered, ADJ 
+Al, PROPN 
+deposits, NOUN 
+
+, SPACE 
+produced, VERB 
+alloys, NOUN 
+adopted, VERB 
+open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+potentials, NOUN 
+negative, ADJ 
+
+, SPACE 
+pure, ADJ 
+Al, PROPN 
+positive, ADJ 
+respect, NOUN 
+pure, ADJ 
+Mg, PROPN 
+Fig, PROPN 
+6, NUM 
+
+, SPACE 
+Previous, ADJ 
+work, NOUN 
+DRA, PROPN 
+Farnborough4i, NOUN 
+shown, VERB 
+open, ADJ 
+circuit, NOUN 
+potential, ADJ 
+
+, SPACE 
+measurements, NOUN 
+reliable, ADJ 
+guide, NOUN 
+predicting, VERB 
+direction, NOUN 
+current, ADJ 
+flow, NOUN 
+
+, SPACE 
+galvanic, ADJ 
+couple, NOUN 
+formed, VERB 
+metal, NOUN 
+coatings, NOUN 
+steel, NOUN 
+magnitude, NOUN 
+
+, SPACE 
+current, NOUN 
+determined, VERB 
+solely, ADV 
+potential, ADJ 
+data, NOUN 
+usually, ADV 
+determined, VERB 
+
+, SPACE 
+experimentally, ADV 
+potential, NOUN 
+coating, NOUN 
+negative, ADJ 
+steel, NOUN 
+sacrificial, ADJ 
+protection, NOUN 
+
+, SPACE 
+obtained, VERB 
+noble, ADJ 
+substrate, NOUN 
+steel, NOUN 
+corrode, VERB 
+
+, SPACE 
+preferentially, ADV 
+present, ADJ 
+work, NOUN 
+open, ADJ 
+circuit, NOUN 
+potential, NOUN 
+adopted, VERB 
+pure, ADJ 
+Al, PROPN 
+close, ADJ 
+
+, SPACE 
+bare, ADJ 
+steel, NOUN 
+indicated, VERB 
+adopts, VERB 
+potential, NOUN 
+-0.67, NUM 
+V, PROPN 
+SCE, PROPN 
+
+, SPACE 
+600, NUM 
+mmol, PROPN 
+1, NUM 
+l, NOUN 
+NaCl, PROPN 
+solution.16, PROPN 
+pure, ADJ 
+Al, PROPN 
+slightly, ADV 
+negative, ADJ 
+steel, NOUN 
+possible, ADJ 
+
+, SPACE 
+coatings, NOUN 
+insufficiently, ADV 
+active, ADJ 
+drive, VERB 
+potential, NOUN 
+steel, NOUN 
+substrate, NOUN 
+
+, SPACE 
+protection, NOUN 
+potential, NOUN 
+accounting, VERB 
+limited, ADJ 
+sacrificial, ADJ 
+protection, NOUN 
+afforded, VERB 
+
+, SPACE 
+pure, ADJ 
+Al, PROPN 
+sputter, NOUN 
+deposited, VERB 
+Al, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+found, VERB 
+increasingly, ADV 
+
+, SPACE 
+active, ADJ 
+magnesium, NOUN 
+content, NOUN 
+raised, VERB 
+indicating, VERB 
+coatings, NOUN 
+afford, VERB 
+
+, SPACE 
+improved, VERB 
+sacrificial, ADJ 
+protection, NOUN 
+steel, VERB 
+obtained, VERB 
+pure, ADJ 
+Al, PROPN 
+
+, SPACE 
+Figures, NOUN 
+5, NUM 
+6, NUM 
+showed, VERB 
+alloying, VERB 
+additions, NOUN 
+15, NUM 
+wt%, NUM 
+Mg, PROPN 
+required, VERB 
+
+, SPACE 
+obtain, VERB 
+significant, ADJ 
+negative, ADJ 
+shift, NOUN 
+potential, NOUN 
+ensure, VERB 
+steel, NOUN 
+effectively, ADV 
+
+, SPACE 
+protected, VERB 
+pre, ADJ 
+existing, ADJ 
+pores, NOUN 
+corrosion, NOUN 
+pits, NOUN 
+coating, NOUN 
+magnesium, NOUN 
+level, NOUN 
+
+, SPACE 
+increased, VERB 
+significantly, ADV 
+value, NOUN 
+30, NUM 
+wt%, NUM 
+Mg, PROPN 
+potential, NOUN 
+alloys, NOUN 
+
+, SPACE 
+found, VERB 
+decrease, VERB 
+1, NUM 
+.O, NOUN 
+V, NOUN 
+SCE, PROPN 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+adopt, VERB 
+
+, SPACE 
+active, ADJ 
+potentials, NOUN 
+provide, VERB 
+effective, ADJ 
+sacrificial, ADJ 
+protection, NOUN 
+likely, ADJ 
+
+, SPACE 
+present, ADJ 
+long, ADV 
+likely, ADJ 
+suffer, VERB 
+high, ADJ 
+rates, NOUN 
+galvanic, ADJ 
+corrosion, NOUN 
+
+, SPACE 
+168, NUM 
+K.R., PROPN 
+Baldwin, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Binary, PROPN 
+alloy, NOUN 
+systems, NOUN 
+composed, VERB 
+metals, NOUN 
+widely, ADV 
+different, ADJ 
+electrochemical, ADJ 
+
+, SPACE 
+potentials, NOUN 
+susceptible, ADJ 
+de, NOUN 
+alloying, ADJ 
+occurs, VERB 
+example, NOUN 
+types, NOUN 
+
+, SPACE 
+copper, NOUN 
+zinc, NOUN 
+alloys, NOUN 
+brasses, NOUN 
+active, ADJ 
+metal, NOUN 
+Zn, PROPN 
+selectively, ADV 
+dissolves, VERB 
+
+, SPACE 
+alloy, ADJ 
+matrix, NOUN 
+leaving, VERB 
+deposit, NOUN 
+enriched, VERB 
+noble, ADJ 
+metal, NOUN 
+Cu, PROPN 
+simple, ADJ 
+terms, NOUN 
+Al, PROPN 
+
+, SPACE 
+alloys, NOUN 
+containing, VERB 
+50, NUM 
+wt%, NUM 
+magnesium, NOUN 
+analogous, ADJ 
+Cu, PROPN 
+Zn, PROPN 
+alloys, NOUN 
+
+, SPACE 
+active, ADJ 
+metal, NOUN 
+Mg, PROPN 
+contained, VERB 
+matrix, NOUN 
+composed, VERB 
+noble, ADJ 
+metal, NOUN 
+Al, PROPN 
+
+, SPACE 
+earlier, ADJ 
+study, NOUN 
+conducted, VERB 
+DRA, PROPN 
+Farnborough42, PROPN 
+shown, VERB 
+open, ADJ 
+circuit, NOUN 
+potential, ADJ 
+
+, SPACE 
+monitoring, NOUN 
+useful, ADJ 
+studying, VERB 
+de, NOUN 
+alloying, ADJ 
+significant, ADJ 
+positive, ADJ 
+shift, NOUN 
+potential, ADJ 
+
+, SPACE 
+generally, ADV 
+occurs, VERB 
+active, ADJ 
+component, NOUN 
+alloy, NOUN 
+dissolved, VERB 
+alloy, NOUN 
+
+, SPACE 
+surface, NOUN 
+present, ADJ 
+work, NOUN 
+potential, NOUN 
+Al, PROPN 
+alloys, NOUN 
+containing, VERB 
+50, NUM 
+wt%, NOUN 
+Mg, PROPN 
+
+, SPACE 
+remained, VERB 
+relatively, ADV 
+stable, ADJ 
+despite, SCONJ 
+fluctuations, NOUN 
+potential, NOUN 
+suggesting, VERB 
+Al, PROPN 
+Mg, PROPN 
+
+, SPACE 
+alloys, NOUN 
+composed, VERB 
+mainly, ADV 
+Al, PROPN 
+resistant, ADJ 
+de, NOUN 
+alloying, ADJ 
+
+, SPACE 
+open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+potential, ADJ 
+measurements, NOUN 
+conducted, VERB 
+sputtered, ADJ 
+alloys, NOUN 
+
+, SPACE 
+composed, VERB 
+mainly, ADV 
+Mg, PROPN 
+found, VERB 
+behave, VERB 
+differently, ADV 
+composed, VERB 
+mainly, ADV 
+Al, PROPN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+shows, VERB 
+potential, NOUN 
+Al-55, PROPN 
+wt%, VERB 
+Mg, PROPN 
+alloy, NOUN 
+increased, VERB 
+sharply, ADV 
+initial, ADJ 
+
+, SPACE 
+immersion, NOUN 
+period, NOUN 
+contrast, NOUN 
+pure, ADJ 
+Al, PROPN 
+low, ADJ 
+magnesium, NOUN 
+alloys, NOUN 
+showed, VERB 
+
+, SPACE 
+initial, ADJ 
+rises, NOUN 
+potential, NOUN 
+Al-55, PROPN 
+wt%, VERB 
+Mg, PROPN 
+alloy, NOUN 
+increasingly, ADV 
+noble, ADJ 
+
+, SPACE 
+stabilise, VERB 
+suggesting, VERB 
+susceptible, ADJ 
+form, NOUN 
+de, NOUN 
+alloying, NOUN 
+possible, ADJ 
+explanation, NOUN 
+
+, SPACE 
+magnesium, NOUN 
+selectively, ADV 
+dissolved, VERB 
+leaving, VERB 
+surface, NOUN 
+enriched, VERB 
+noble, ADJ 
+
+, SPACE 
+aluminium, NOUN 
+accounting, VERB 
+noble, ADJ 
+shift, NOUN 
+potential, NOUN 
+end, NOUN 
+immersion, NOUN 
+
+, SPACE 
+period, NOUN 
+potential, NOUN 
+high, ADJ 
+magnesium, NOUN 
+alloy, NOUN 
+eventually, ADV 
+signs, NOUN 
+stabilising, VERB 
+
+, SPACE 
+possibly, ADV 
+equilibrium, NOUN 
+structure, NOUN 
+developed, VERB 
+surface, NOUN 
+layers, NOUN 
+
+, SPACE 
+Corrosion, PROPN 
+behaviour, NOUN 
+iiz, VERB 
+neutral, ADJ 
+salt, NOUN 
+f5, NOUN 
+g, NOUN 
+
+, SPACE 
+neutral, ADJ 
+salt, NOUN 
+fog, PROPN 
+tests, NOUN 
+found, VERB 
+level, NOUN 
+corrosion, NOUN 
+protection, NOUN 
+afforded, VERB 
+
+, SPACE 
+steel, NOUN 
+sputtered, ADJ 
+Al, PROPN 
+coatings, NOUN 
+increased, VERB 
+sharply, ADV 
+magnesium, NOUN 
+content, NOUN 
+increased, VERB 
+
+, SPACE 
+peak, NOUN 
+performance, NOUN 
+observed, VERB 
+alloys, NOUN 
+containing, VERB 
+20, NUM 
+wt%, NOUN 
+magnesium, NOUN 
+
+, SPACE 
+increases, VERB 
+magnesium, NOUN 
+content, NOUN 
+benefit, NOUN 
+instead, ADV 
+caused, VERB 
+decline, NOUN 
+
+, SPACE 
+corrosion, NOUN 
+performance, NOUN 
+cathodic, ADJ 
+polarization, NOUN 
+sweeps, NOUN 
+showed, VERB 
+corrosion, NOUN 
+current, ADJ 
+
+, SPACE 
+density, NOUN 
+Al, PROPN 
+600, NUM 
+mmol, PROPN 
+l-, X 
+NaCl, PROPN 
+solution, NOUN 
+increased, VERB 
+Mg, PROPN 
+level, NOUN 
+raised, VERB 
+
+, SPACE 
+values, NOUN 
+obtained, VERB 
+Al, PROPN 
+alloys, NOUN 
+Mg, PROPN 
+concentrations, NOUN 
+approximately, ADV 
+20, NUM 
+wt%, NOUN 
+
+, SPACE 
+lower, ADJ 
+corrosion, NOUN 
+currents, NOUN 
+previously, ADV 
+recorded, VERB 
+ion, NOUN 
+vapour, NOUN 
+deposited, VERB 
+pure, ADJ 
+Al, PROPN 
+
+, SPACE 
+corrosion, NOUN 
+current, ADJ 
+density, NOUN 
+plated, VERB 
+IVD, NOUN 
+coatings, NOUN 
+aerated, VERB 
+600, NUM 
+mmol, PROPN 
+1, NUM 
+l, NOUN 
+
+, SPACE 
+found, VERB 
+approximately, ADV 
+0.01, NUM 
+PA, NOUN 
+mm-, X 
+10, NUM 
+times, NOUN 
+higher, ADJ 
+recorded, VERB 
+
+, SPACE 
+present, ADJ 
+work, NOUN 
+sputtered, ADJ 
+pure, ADJ 
+Al, PROPN 
+similar, ADJ 
+experimental, ADJ 
+conditions, NOUN 
+
+, SPACE 
+significantly, ADV 
+higher, ADJ 
+corrosion, NOUN 
+current, ADJ 
+density, NOUN 
+found, VERB 
+ion, NOUN 
+vapour, NOUN 
+deposited, VERB 
+
+, SPACE 
+aluminium, NOUN 
+coating, NOUN 
+likely, ADJ 
+high, ADJ 
+porosity, NOUN 
+compared, VERB 
+sputtered, ADJ 
+
+, SPACE 
+deposits, NOUN 
+evaluated, VERB 
+study, NOUN 
+concluded, VERB 
+addition, NOUN 
+
+, SPACE 
+significant, ADJ 
+concentrations, NOUN 
+Mg, PROPN 
+reduced, VERB 
+barrier, NOUN 
+corrosion, NOUN 
+protection, NOUN 
+
+, SPACE 
+afforded, VERB 
+Al, PROPN 
+alloy, NOUN 
+sputtered, ADJ 
+deposits, NOUN 
+remain, VERB 
+effective, ADJ 
+
+, SPACE 
+conventional, ADJ 
+ion, NOUN 
+plated, VERB 
+aluminium, NOUN 
+coatings, NOUN 
+provided, VERB 
+Mg, PROPN 
+content, NOUN 
+exceed, VERB 
+
+, SPACE 
+approximately, ADV 
+20, NUM 
+wt, ADP 
+
+, SPACE 
+neutral, ADJ 
+salt, PROPN 
+fog, PROPN 
+environment, PROPN 
+proposed, VERB 
+initial, ADJ 
+increase, NOUN 
+level, NOUN 
+
+, SPACE 
+corrosion, NOUN 
+protection, NOUN 
+observed, VERB 
+neutral, ADJ 
+salt, NOUN 
+fog, PROPN 
+environment, NOUN 
+alloys, NOUN 
+containing, VERB 
+
+, SPACE 
+20, NUM 
+wt%, NUM 
+magnesium, NOUN 
+mainly, ADV 
+improvement, NOUN 
+level, NOUN 
+sacrificial, ADJ 
+protection, NOUN 
+
+, SPACE 
+afforded, VERB 
+sputtered, ADJ 
+deposits, NOUN 
+Mg, PROPN 
+concentration, NOUN 
+increased, VERB 
+shown, VERB 
+
+, SPACE 
+loss, NOUN 
+barrier, NOUN 
+properties, NOUN 
+significant, ADJ 
+factor, NOUN 
+
+, SPACE 
+Aluminium, NOUN 
+magnesium, NOUN 
+alloys, NOUN 
+169, NUM 
+
+, SPACE 
+magnesium, NOUN 
+content, NOUN 
+relatively, ADV 
+high, ADJ 
+>, X 
+20, NUM 
+wt%, NUM 
+Mg, PROPN 
+decline, NOUN 
+level, NOUN 
+corrosion, NOUN 
+
+, SPACE 
+protection, NOUN 
+afforded, VERB 
+sputtered, ADJ 
+Al, PROPN 
+Mg, PROPN 
+alloys, NOUN 
+Fig, PROPN 
+2, NUM 
+magnesium, NOUN 
+level, NOUN 
+
+, SPACE 
+increased, VERB 
+20, NUM 
+wt%, NOUN 
+likely, ADJ 
+combined, VERB 
+effects, NOUN 
+excessive, ADJ 
+rates, NOUN 
+
+, SPACE 
+galvanic, ADJ 
+corrosion, NOUN 
+coatings, NOUN 
+active, ADJ 
+loss, NOUN 
+barrier, NOUN 
+corrosion, NOUN 
+
+, SPACE 
+protection, NOUN 
+data, NOUN 
+obtained, VERB 
+present, ADJ 
+work, NOUN 
+suggest, VERB 
+peak, NOUN 
+performance, NOUN 
+
+, SPACE 
+observed, VERB 
+neutral, ADJ 
+salt, NOUN 
+fog, PROPN 
+environment, NOUN 
+sputtered, ADJ 
+deposits, NOUN 
+containing, VERB 
+
+, SPACE 
+approximately, ADV 
+20, NUM 
+wt%, X 
+Mg, PROPN 
+represents, VERB 
+optimum, ADJ 
+balance, NOUN 
+attained, VERB 
+
+, SPACE 
+barrier, NOUN 
+sacrificial, ADJ 
+properties, NOUN 
+Al, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+
+, SPACE 
+CONCLUSIONS, PROPN 
+
+, SPACE 
+1, NUM 
+Potentiodynamic, ADJ 
+cathodic, NOUN 
+polarization, NOUN 
+sweeps, VERB 
+conducted, VERB 
+unbalanced, ADJ 
+mag-, NOUN 
+
+, SPACE 
+netron, PROPN 
+sputtered, VERB 
+Al, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+600mmol, PROPN 
+I-, PROPN 
+NaCl, PROPN 
+solution, NOUN 
+showed, VERB 
+
+, SPACE 
+corrosion, NOUN 
+current, ADJ 
+density, NOUN 
+Al, PROPN 
+alloys, NOUN 
+increased, VERB 
+Mg, PROPN 
+content, NOUN 
+raised, VERB 
+
+, SPACE 
+indicating, VERB 
+barrier, NOUN 
+corrosion, NOUN 
+resistance, NOUN 
+sputtered, PROPN 
+Al, PROPN 
+decline, VERB 
+alloy, NOUN 
+
+, SPACE 
+Mg, PROPN 
+level, NOUN 
+increased, VERB 
+
+, SPACE 
+2, X 
+open, ADJ 
+circuit, NOUN 
+corrosion, NOUN 
+potential, ADJ 
+measurements, NOUN 
+conducted, VERB 
+600, NUM 
+mmol, PROPN 
+l-, PROPN 
+
+, SPACE 
+NaCl, PROPN 
+solution, NOUN 
+found, VERB 
+sputter, NOUN 
+deposited, VERB 
+Al, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+progressively, ADV 
+
+, SPACE 
+active, ADJ 
+alloy, NOUN 
+Mg, PROPN 
+content, NOUN 
+increased, VERB 
+suggesting, VERB 
+Al, PROPN 
+alloys, NOUN 
+
+, SPACE 
+sacrificial, ADJ 
+Mg, PROPN 
+level, NOUN 
+raised, VERB 
+
+, SPACE 
+3, X 
+neutral, ADJ 
+salt, NOUN 
+fog, PROPN 
+tests, NOUN 
+level, NOUN 
+corrosion, NOUN 
+protection, NOUN 
+afforded, VERB 
+Al, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+
+, SPACE 
+improved, VERB 
+addition, NOUN 
+Mg, PROPN 
+optimum, NOUN 
+reached, VERB 
+alloys, NOUN 
+containing, VERB 
+
+, SPACE 
+approximately, ADV 
+20, NUM 
+wt%, NUM 
+Mg, PROPN 
+increases, NOUN 
+Mg, PROPN 
+level, NOUN 
+20, NUM 
+wt%, NUM 
+caused, VERB 
+
+, SPACE 
+decline, NOUN 
+performance, NOUN 
+proposed, VERB 
+peak, NOUN 
+performance, NOUN 
+represents, VERB 
+optimum, ADJ 
+
+, SPACE 
+balance, NOUN 
+attained, VERB 
+neutral, ADJ 
+salt, NOUN 
+fog, PROPN 
+environment, NOUN 
+barrier, NOUN 
+sacrificial, ADJ 
+
+, SPACE 
+properties, NOUN 
+Al, PROPN 
+Mg, PROPN 
+alloy, ADJ 
+coatings, NOUN 
+
+, SPACE 
+REFERENCES, NOUN 
+
+, SPACE 
+G.A., PROPN 
+Capuano, PROPN 
+R., PROPN 
+Lafortune, PROPN 
+C., PROPN 
+Gobeil, PROPN 
+Plating, PROPN 
+Surface, PROPN 
+Finishing, PROPN 
+I,49, PROPN 
+1977, NUM 
+
+, SPACE 
+2, X 
+R., PROPN 
+Suchentrunk, PROPN 
+Corrosion, PROPN 
+Protection, PROPN 
+Electra, PROPN 
+deposited, VERB 
+Aluminium, PROPN 
+AGARD, PROPN 
+Lecture, PROPN 
+Series, PROPN 
+106, NUM 
+I., PROPN 
+l-7.25, PROPN 
+
+, SPACE 
+1980, NUM 
+
+, SPACE 
+3, X 
+W., PROPN 
+Wittich, PROPN 
+R., PROPN 
+Suchentrunk, PROPN 
+H., PROPN 
+Kellerer, PROPN 
+Metal1, PROPN 
+und, VERB 
+Technik, PROPN 
+30, NUM 
+943, NUM 
+1980, NUM 
+
+, SPACE 
+4, X 
+M., PROPN 
+Galova, PROPN 
+Surf, PROPN 
+Technol, PROPN 
+11, NUM 
+357, NUM 
+1980, NUM 
+
+, SPACE 
+5, X 
+S., PROPN 
+Biallozor, PROPN 
+A., PROPN 
+Lisowska, PROPN 
+Oleksiak, PROPN 
+W.N., PROPN 
+Titova, PROPN 
+Surf, PROPN 
+Coat, PROPN 
+Technol, NOUN 
+34, NUM 
+549, NUM 
+1988, NUM 
+
+, SPACE 
+6, X 
+W., PROPN 
+Kautek, PROPN 
+Corros, PROPN 
+Sci, PROPN 
+28, NUM 
+I73, PROPN 
+1988, NUM 
+
+, SPACE 
+7, X 
+E., PROPN 
+Fanin, PROPN 
+AGARD, PROPN 
+Conf, PROPN 
+Proc, PROPN 
+256, NUM 
+Advanced, PROPN 
+Fabrication, PROPN 
+Processes, PROPN 
+Florence, PROPN 
+Italy, PROPN 
+2628, NUM 
+September, PROPN 
+
+, SPACE 
+1978, NUM 
+
+, SPACE 
+8, X 
+M., PROPN 
+El, PROPN 
+Sherbiny, PROPN 
+E., PROPN 
+Salem, PROPN 
+Anti, PROPN 
+corrosion, ADJ 
+28, NUM 
+15, NUM 
+1981, NUM 
+
+, SPACE 
+9, X 
+N.A.G., PROPN 
+Ahmed, PROPN 
+Anti, PROPN 
+Corrosion, PROPN 
+31, NUM 
+4, NUM 
+1984, NUM 
+
+, SPACE 
+10, X 
+B.R.W., PROPN 
+Hinton, PROPN 
+W.J., PROPN 
+Pollock, PROPN 
+P.N., PROPN 
+Trathen, PROPN 
+A., NOUN 
+Crosky, PROPN 
+Corros, PROPN 
+Australasia, PROPN 
+13, NUM 
+12, NUM 
+1987, NUM 
+
+, SPACE 
+11, NUM 
+R., PROPN 
+Palmer, PROPN 
+D.J., PROPN 
+Hall, PROPN 
+Product, NOUN 
+Finishing, VERB 
+45, NUM 
+6, NUM 
+1992, NUM 
+
+, SPACE 
+12, NUM 
+B.T., PROPN 
+Nevill, PROPN 
+Plating, PROPN 
+Surf, PROPN 
+Finishing, PROPN 
+80, NUM 
+14, NUM 
+1993, NUM 
+
+, SPACE 
+13, X 
+J.F., PROPN 
+McIntyre, PROPN 
+L., PROPN 
+Hang, PROPN 
+Corrosion, PROPN 
+50, NUM 
+26, NUM 
+1994, NUM 
+
+, SPACE 
+14, NUM 
+J.C., PROPN 
+Salvador, PROPN 
+Fernandes, PROPN 
+M.G.S., PROPN 
+Ferreira, PROPN 
+Surf, PROPN 
+Coat, PROPN 
+Technol, NOUN 
+53, NUM 
+99, NUM 
+1992, NUM 
+
+, SPACE 
+15, X 
+W.H., PROPN 
+Ailor, PROPN 
+Proc, PROPN 
+ConfI, PROPN 
+Corrosion, PROPN 
+70, NUM 
+Paper, PROPN 
+36, NUM 
+p., NOUN 
+200, NUM 
+Philadelphia, PROPN 
+1970, NUM 
+
+, SPACE 
+16, X 
+C.J.E., PROPN 
+Smith, PROPN 
+K.R., PROPN 
+Baldwin, PROPN 
+Product, NOUN 
+Finishing, VERB 
+45, NUM 
+12, NUM 
+1992, NUM 
+
+, SPACE 
+17, X 
+T.D., PROPN 
+Burleigh, PROPN 
+R.C., PROPN 
+Rennick, PROPN 
+F.S., PROPN 
+Bovard, PROPN 
+Corrosion, PROPN 
+49, NUM 
+683, NUM 
+1993, NUM 
+
+, SPACE 
+18, X 
+K.R., PROPN 
+Baldwin, PROPN 
+C.J.E., PROPN 
+Smith, PROPN 
+Proc, PROPN 
+Co@, VERB 
+Materials, PROPN 
+Technology, PROPN 
+91, NUM 
+ed, NOUN 
+A., PROPN 
+Niku, PROPN 
+Lari, PROPN 
+p., NOUN 
+153, NUM 
+IITT-, X 
+
+, SPACE 
+Technology, PROPN 
+Transfer, PROPN 
+International, PROPN 
+Paris, PROPN 
+September, PROPN 
+1991, NUM 
+
+, SPACE 
+170, NUM 
+K.R., PROPN 
+Baldwin, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+19, NUM 
+D.P., PROPN 
+Monaghan, PROPN 
+D.G., PROPN 
+Teer, PROPN 
+P.A., PROPN 
+Logan, PROPN 
+K.C., PROPN 
+Laing, PROPN 
+R.I., PROPN 
+Bates, PROPN 
+R.D., PROPN 
+Amell, PROPN 
+Surf, PROPN 
+Coat, PROPN 
+Technol, PROPN 
+60, NUM 
+
+, SPACE 
+592, NUM 
+1993, NUM 
+
+, SPACE 
+20, X 
+P.L., PROPN 
+Lane, PROPN 
+C.J.E., PROPN 
+Smith, PROPN 
+Surface, PROPN 
+Engineering, PROPN 
+Practise, PROPN 
+ed, NOUN 
+K.N., PROPN 
+Strafford, PROPN 
+P.K., PROPN 
+Datta, PROPN 
+J.S., PROPN 
+Gray, PROPN 
+
+, SPACE 
+p., NOUN 
+566, NUM 
+Ellis, PROPN 
+Horwood, PROPN 
+Ltd., PROPN 
+Chichester, PROPN 
+1990, NUM 
+
+, SPACE 
+21, X 
+J.B., PROPN 
+Horton, PROPN 
+Corrosion, PROPN 
+Control, PROPN 
+Coatings, PROPN 
+ed, PROPN 
+H., PROPN 
+Leidheiser, PROPN 
+Science, PROPN 
+Press, PROPN 
+p., NOUN 
+59, NUM 
+Princeton, PROPN 
+1979, NUM 
+
+, SPACE 
+22, X 
+V.C.R., PROPN 
+McLaughlin, PROPN 
+AGARD, PROPN 
+nt, PART 
+Proc, PROPN 
+256, NUM 
+Advanced, PROPN 
+Fabrication, PROPN 
+Processes, PROPN 
+Florence, PROPN 
+Italy, PROPN 
+2628, NUM 
+
+, SPACE 
+September, PROPN 
+1978, NUM 
+
+, SPACE 
+23, NUM 
+B., PROPN 
+Window, PROPN 
+N., PROPN 
+Savvides, PROPN 
+J., PROPN 
+Var, PROPN 
+Sri, PROPN 
+Technol, PROPN 
+A4, PROPN 
+196, NUM 
+1986, NUM 
+
+, SPACE 
+24, NUM 
+B., PROPN 
+Window, PROPN 
+N., PROPN 
+Savvides, PROPN 
+J., PROPN 
+Var, PROPN 
+Sci, PROPN 
+Technol, PROPN 
+A4, PROPN 
+453, NUM 
+1986, NUM 
+
+, SPACE 
+25, NUM 
+B., PROPN 
+Window, PROPN 
+N., PROPN 
+Savvides, PROPN 
+J., PROPN 
+Var, PROPN 
+Sri, PROPN 
+Technol, PROPN 
+A4, PROPN 
+504, NUM 
+1986, NUM 
+
+, SPACE 
+26, X 
+ASTM, PROPN 
+B117, PROPN 
+Standard, PROPN 
+Method, PROPN 
+Salt, PROPN 
+Spray, PROPN 
+Fog, PROPN 
+Testing, NOUN 
+American, PROPN 
+Society, PROPN 
+Testing, PROPN 
+Materials, PROPN 
+
+, SPACE 
+Philadelphia, PROPN 
+198, NUM 
+1, NUM 
+
+, SPACE 
+27, NUM 
+M., PROPN 
+Janik, PROPN 
+Czachor, PROPN 
+G.C., PROPN 
+Wood, PROPN 
+G.E., PROPN 
+Thompson, PROPN 
+Br, PROPN 
+Corros, PROPN 
+J., PROPN 
+15, NUM 
+154, NUM 
+1980, NUM 
+
+, SPACE 
+28, X 
+B., PROPN 
+Samuels, PROPN 
+K., PROPN 
+Sotoudeh, PROPN 
+R.T., PROPN 
+Foley, PROPN 
+Corrosion, PROPN 
+37, NUM 
+92, NUM 
+1981, NUM 
+
+, SPACE 
+29, X 
+R.T., PROPN 
+Foley, PROPN 
+Corrosion, PROPN 
+42, NUM 
+277, NUM 
+1986, NUM 
+
+, SPACE 
+30, X 
+K., PROPN 
+Nisancioglu, PROPN 
+H., PROPN 
+Holtan, PROPN 
+Werkstoffe, PROPN 
+und, NOUN 
+Korrosion, PROPN 
+30, NUM 
+105, NUM 
+1979, NUM 
+
+, SPACE 
+31, X 
+M.G., PROPN 
+Fontana, PROPN 
+N.D., PROPN 
+Greene, PROPN 
+Corros, PROPN 
+Eng, PROPN 
+Ch, PROPN 
+9, NUM 
+McGraw, PROPN 
+Hill, PROPN 
+Book, PROPN 
+Co., PROPN 
+New, PROPN 
+York, PROPN 
+1967, NUM 
+
+, SPACE 
+32, X 
+F., PROPN 
+Mansfeld, PROPN 
+Electrochemical, PROPN 
+Techniques, PROPN 
+Corrosion, PROPN 
+ed, PROPN 
+R., PROPN 
+Baboian, PROPN 
+p., NOUN 
+18, NUM 
+NACE, PROPN 
+1977, NUM 
+
+, SPACE 
+33, X 
+K.R., PROPN 
+Baldwin, PROPN 
+M.J., PROPN 
+Robinson, PROPN 
+C.J.E., PROPN 
+Smith, PROPN 
+Corros, PROPN 
+Sri, PROPN 
+36, NUM 
+1115, NUM 
+1994, NUM 
+
+, SPACE 
+34, X 
+N.R., PROPN 
+Short, PROPN 
+A., NOUN 
+Abibsi, PROPN 
+J.K., PROPN 
+Dennis, PROPN 
+Trans, PROPN 
+Inst, PROPN 
+Met, PROPN 
+Finishing, VERB 
+67, NUM 
+73, NUM 
+1991, NUM 
+
+, SPACE 
+35, X 
+F., PROPN 
+Hehmann, PROPN 
+F., PROPN 
+Sommer, PROPN 
+H., PROPN 
+Jones, PROPN 
+R.G.J., PROPN 
+Edyvean, PROPN 
+J., PROPN 
+Mar., PROPN 
+Sci, PROPN 
+24, NUM 
+2369, NUM 
+1989, NUM 
+
+, SPACE 
+36, X 
+G.L., PROPN 
+Makar, PROPN 
+J., PROPN 
+Kruger, PROPN 
+J., PROPN 
+electrochem, NOUN 
+Sot, PROPN 
+137, NUM 
+414, NUM 
+1990, NUM 
+
+, SPACE 
+37, X 
+G.L., PROPN 
+Makar, PROPN 
+J., PROPN 
+Kruger, PROPN 
+K., PROPN 
+Sieradzki, PROPN 
+J., PROPN 
+electrochem, NOUN 
+Sot, PROPN 
+139, NUM 
+47, NUM 
+1992, NUM 
+
+, SPACE 
+38, X 
+F., PROPN 
+Mansfeld, PROPN 
+D.H., PROPN 
+Hengstenberg, PROPN 
+J.V., PROPN 
+Kenkel, PROPN 
+Corrosion, PROPN 
+30, NUM 
+343, NUM 
+1974, NUM 
+
+, SPACE 
+39, NUM 
+M., PROPN 
+Pourbaix, PROPN 
+Atlas, PROPN 
+Electrochemical, PROPN 
+Equilibria, PROPN 
+Aqueous, PROPN 
+Solutions, PROPN 
+Section, PROPN 
+5.1, NUM 
+2nd, PROPN 
+Edition, PROPN 
+NACE, PROPN 
+
+, SPACE 
+Cebelcor, PROPN 
+1974, NUM 
+
+, SPACE 
+40, X 
+H., PROPN 
+Kaiser, PROPN 
+Corrosion, PROPN 
+Mechanisms, PROPN 
+ed, NOUN 
+F., PROPN 
+Mansfeld, PROPN 
+p., NOUN 
+85, NUM 
+Marcel, PROPN 
+Dekker, PROPN 
+Inc., PROPN 
+1987, NUM 
+
+, SPACE 
+41, X 
+K.R., PROPN 
+Baldwin, PROPN 
+M.J., PROPN 
+Robinson, PROPN 
+C.J.E., PROPN 
+Smith, PROPN 
+Br, PROPN 
+Corrosion, PROPN 
+J., PROPN 
+29, NUM 
+299, NUM 
+1994, NUM 
+
+, SPACE 
+42, X 
+K.R., PROPN 
+Baldwin, PROPN 
+M.J., PROPN 
+Robinson, PROPN 
+C.J.E., PROPN 
+Smith, PROPN 
+Corros, PROPN 
+Sci, PROPN 
+35, NUM 
+1267, NUM 
+1993, NUM 
+
+, SPACE 

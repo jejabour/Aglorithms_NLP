@@ -1,0 +1,2322 @@
+cm, PROPN 
+ELSEVIER, NOUN 
+September, PROPN 
+1996, NUM 
+
+, SPACE 
+Materials, PROPN 
+Letters, PROPN 
+28, NUM 
+1996, NUM 
+71, NUM 
+75, NUM 
+
+, SPACE 
+Influence, PROPN 
+solidification, NOUN 
+flattening, NOUN 
+droplets, NOUN 
+
+, SPACE 
+thermal, ADJ 
+spraying, VERB 
+
+, SPACE 
+V.V., PROPN 
+Sobolev, PROPN 
+J.M., PROPN 
+Guilemany, PROPN 
+
+, SPACE 
+Metalurgia, PROPN 
+Fisica, PROPN 
+Ciencia, PROPN 
+de, ADP 
+Materiales, PROPN 
+Departamento, PROPN 
+de, PROPN 
+lngenieria, PROPN 
+Quimica, PROPN 
+y, PROPN 
+Metalurgia, PROPN 
+Uniuersidad, PROPN 
+de, PROPN 
+Barcelona, PROPN 
+Marti, PROPN 
+Franque, PROPN 
+
+, SPACE 
+1, NUM 
+08028, NUM 
+Barcelona, PROPN 
+Spain, PROPN 
+
+, SPACE 
+Received, VERB 
+11, NUM 
+July, PROPN 
+1995, NUM 
+revised, VERB 
+18, NUM 
+December, PROPN 
+1995, NUM 
+accepted, VERB 
+2, NUM 
+January, PROPN 
+1996, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+analytical, ADJ 
+formulae, NOUN 
+describing, VERB 
+time, NOUN 
+evolution, NOUN 
+final, ADJ 
+values, NOUN 
+splat, ADJ 
+thickness, NOUN 
+radius, NOUN 
+
+, SPACE 
+rates, NOUN 
+variation, NOUN 
+process, NOUN 
+flattening, NOUN 
+droplets, NOUN 
+thermal, ADJ 
+spraying, NOUN 
+obtained, VERB 
+account, NOUN 
+
+, SPACE 
+solidification, NOUN 
+splat, ADJ 
+mass, ADJ 
+loss, NOUN 
+impinging, VERB 
+droplet, NOUN 
+theoretical, ADJ 
+results, NOUN 
+obtained, VERB 
+agree, VERB 
+
+, SPACE 
+experimental, ADJ 
+data, NOUN 
+prediction, NOUN 
+splat, ADJ 
+flattening, NOUN 
+parameters, NOUN 
+
+, SPACE 
+Keywords, NOUN 
+Solidification, NOUN 
+Flattening, PROPN 
+Droplets, NOUN 
+Thermal, NOUN 
+spraying, VERB 
+
+, SPACE 
+1, NUM 
+Introduction, NOUN 
+
+, SPACE 
+Flattening, PROPN 
+thermally, ADV 
+sprayed, VERB 
+powder, NOUN 
+particles, NOUN 
+
+, SPACE 
+significantly, ADV 
+influences, VERB 
+coating, NOUN 
+structure, NOUN 
+
+, SPACE 
+quality, NOUN 
+l-3, PROPN 
+Usually, ADV 
+characteristic, ADJ 
+time, NOUN 
+flat-, ADJ 
+
+, SPACE 
+tening, NOUN 
+t, PROPN 
+thermal, ADJ 
+spraying, NOUN 
+considered, VERB 
+
+, SPACE 
+smaller, ADJ 
+splat, ADJ 
+solidification, NOUN 
+t, NOUN 
+
+, SPACE 
+process, NOUN 
+neglected, VERB 
+flattening, NOUN 
+
+, SPACE 
+studied, VERB 
+1,2, NUM 
+general, ADJ 
+correct, ADJ 
+
+, SPACE 
+t, PROPN 
+-=c, PROPN 
+tc, PROPN 
+solidification, NOUN 
+lower, ADJ 
+
+, SPACE 
+splat, ADJ 
+vicinity, NOUN 
+substrate, NOUN 
+coating, VERB 
+interface, NOUN 
+
+, SPACE 
+possible, ADJ 
+process, NOUN 
+influences, VERB 
+markedly, ADV 
+
+, SPACE 
+kinetics, NOUN 
+flattening, NOUN 
+splat, ADJ 
+form, NOUN 
+2,4, NUM 
+
+, SPACE 
+influence, NOUN 
+solidification, NOUN 
+splat, ADJ 
+flattening, NOUN 
+
+, SPACE 
+pronounced, ADJ 
+increase, NOUN 
+splat, ADJ 
+
+, SPACE 
+solidification, NOUN 
+velocity, NOUN 
+occurs, VERB 
+thermal, ADJ 
+
+, SPACE 
+Corresponding, PROPN 
+author, NOUN 
+diffusivity, NOUN 
+splat, ADJ 
+increases, NOUN 
+contact, NOUN 
+
+, SPACE 
+thermal, ADJ 
+resistance, NOUN 
+substrate, NOUN 
+coating, VERB 
+interface, NOUN 
+
+, SPACE 
+decreases, VERB 
+3,5, NUM 
+spreading, NOUN 
+cooling, NOUN 
+
+, SPACE 
+molten, ADJ 
+droplet, NOUN 
+considered, VERB 
+indepen-, X 
+
+, SPACE 
+dently, ADV 
+3, NUM 
+means, VERB 
+processes, NOUN 
+
+, SPACE 
+taken, VERB 
+account, NOUN 
+splat, ADJ 
+flattening, NOUN 
+
+, SPACE 
+studied, VERB 
+droplet, ADJ 
+mass, NOUN 
+loss, NOUN 
+splashing, NOUN 
+
+, SPACE 
+formation, NOUN 
+craters, NOUN 
+surface, NOUN 
+imping-, ADJ 
+
+, SPACE 
+ing, ADJ 
+droplet, NOUN 
+accounted, VERB 
+
+, SPACE 
+Engineering, NOUN 
+practice, NOUN 
+needs, VERB 
+simple, ADJ 
+formulae, NOUN 
+
+, SPACE 
+permit, VERB 
+estimate, VERB 
+processes, NOUN 
+Al-, INTJ 
+
+, SPACE 
+formulae, ADJ 
+approximate, ADJ 
+
+, SPACE 
+reflect, VERB 
+main, ADJ 
+features, NOUN 
+flattening, NOUN 
+
+, SPACE 
+possible, ADJ 
+obtain, VERB 
+necessary, ADJ 
+estimates, NOUN 
+
+, SPACE 
+differ, VERB 
+markedly, ADV 
+results, NOUN 
+mathematical, ADJ 
+
+, SPACE 
+simulation, NOUN 
+experimental, ADJ 
+data, NOUN 
+demand, VERB 
+
+, SPACE 
+essentially, ADV 
+effort, NOUN 
+established, VERB 
+
+, SPACE 
+paper, NOUN 
+devoted, VERB 
+obtaining, VERB 
+formulae, ADJ 
+
+, SPACE 
+agree, VERB 
+experimental, ADJ 
+data, NOUN 
+3,6, NUM 
+
+, SPACE 
+00167, NUM 
+577X/96/$12.00, NUM 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+PII, PROPN 
+SOl67, PROPN 
+577X(96)00038, NUM 
+9, NUM 
+
+, SPACE 
+72, NUM 
+V.V., PROPN 
+Sohole~~, NOUN 
+J.M., PROPN 
+Guilemany, PROPN 
+Muterials, PROPN 
+Letters, PROPN 
+2X, PROPN 
+IY%i, NOUN 
+71, NUM 
+75, NUM 
+
+, SPACE 
+2, NUM 
+Transient, ADJ 
+characteristics, NOUN 
+flattening, VERB 
+
+, SPACE 
+shall, AUX 
+assume, VERB 
+droplet, NOUN 
+radius, NOUN 
+R, PROPN 
+
+, SPACE 
+impinges, NOUN 
+normally, ADV 
+surface, NOUN 
+smooth, ADJ 
+
+, SPACE 
+substrate, NOUN 
+previously, ADV 
+deposited, VERB 
+coating, NOUN 
+layer, NOUN 
+
+, SPACE 
+forms, VERB 
+cylindrical, ADJ 
+splat, ADJ 
+disc, NOUN 
+radius, NOUN 
+R, PROPN 
+
+, SPACE 
+thickness, PROPN 
+b, PROPN 
+vary, VERB 
+time, NOUN 
+flattening, VERB 
+
+, SPACE 
+Fig, PROPN 
+>, X 
+
+, SPACE 
+Immediately, ADV 
+droplet, ADJ 
+impinges, NOUN 
+flattening, VERB 
+
+, SPACE 
+cooling, VERB 
+start, NOUN 
+main, ADJ 
+cooling, NOUN 
+caused, VERB 
+heat, NOUN 
+
+, SPACE 
+removal, NOUN 
+lower, ADJ 
+splat, ADJ 
+
+, SPACE 
+heat, NOUN 
+accumulative, NOUN 
+capacity, NOUN 
+substrate, NOUN 
+
+, SPACE 
+mass, NOUN 
+infinitely, ADV 
+greater, ADJ 
+splat, ADJ 
+
+, SPACE 
+heat, NOUN 
+removal, NOUN 
+depends, VERB 
+significantly, ADV 
+thermo-, NOUN 
+
+, SPACE 
+physical, ADJ 
+properties, NOUN 
+substrate, NOUN 
+splat, ADJ 
+
+, SPACE 
+contact, NOUN 
+thermal, ADJ 
+resistance, NOUN 
+splat, ADJ 
+sub-, NOUN 
+
+, SPACE 
+strate, NOUN 
+previously, ADV 
+deposited, VERB 
+coating, NOUN 
+layer, NOUN 
+inter-, NOUN 
+
+, SPACE 
+face, NOUN 
+considerably, ADV 
+exceeds, VERB 
+heat, NOUN 
+removal, NOUN 
+
+, SPACE 
+upper, ADJ 
+surface, NOUN 
+splat, ADJ 
+5,7, NUM 
+
+, SPACE 
+shall, AUX 
+consider, VERB 
+solidification, NOUN 
+moving, VERB 
+
+, SPACE 
+mentioned, ADJ 
+interface, NOUN 
+velocity, NOUN 
+V, NOUN 
+
+, SPACE 
+inside, ADP 
+splat, NOUN 
+values, NOUN 
+V, NOUN 
+depend, VERB 
+
+, SPACE 
+substrate, NOUN 
+splat, ADJ 
+thermophysical, ADJ 
+properties, NOUN 
+contact, NOUN 
+
+, SPACE 
+thermal, ADJ 
+resistance, NOUN 
+interface, NOUN 
+
+, SPACE 
+initial, ADJ 
+temperatures, NOUN 
+splat, ADJ 
+substrate, NOUN 
+
+, SPACE 
+values, NOUN 
+determined, VERB 
+based, VERB 
+meth-, ADJ 
+
+, SPACE 
+ods, NOUN 
+described, VERB 
+5,7, NUM 
+possibility, NOUN 
+
+, SPACE 
+find, VERB 
+velocity, NOUN 
+V, NOUN 
+Stefan, PROPN 
+square, ADJ 
+root, NOUN 
+
+, SPACE 
+law, NOUN 
+giving, VERB 
+similar, ADJ 
+results, NOUN 
+
+, SPACE 
+reduce, VERB 
+mathematical, ADJ 
+complexity, NOUN 
+applied, VERB 
+
+, SPACE 
+case, NOUN 
+solidification, NOUN 
+pure, ADJ 
+sub-, NOUN 
+
+, SPACE 
+stances, NOUN 
+2,8, NUM 
+
+, SPACE 
+Droplet, PROPN 
+impact, NOUN 
+takes, VERB 
+place, NOUN 
+time, NOUN 
+inter-, NOUN 
+
+, SPACE 
+val, PROPN 
+t, PROPN 
+=, PROPN 
+R, PROPN 
+U-, PROPN 
+U, PROPN 
+velocity, NOUN 
+droplet, ADJ 
+
+, SPACE 
+impingement, ADJ 
+characteristic, ADJ 
+time, NOUN 
+solidifica-, ADJ 
+
+, SPACE 
+tion, NOUN 
+splat, ADJ 
+t, NOUN 
+=, PROPN 
+R,,y,-, PROPN 
+ratio, NOUN 
+p, NOUN 
+=, PROPN 
+t, PROPN 
+
+, SPACE 
+written, VERB 
+follows, VERB 
+
+, SPACE 
+p, PROPN 
+=, PROPN 
+v, NOUN 
+v-, X 
+1, X 
+
+, SPACE 
+thermal, ADJ 
+spraying, VERB 
+l3, PROPN 
+-K, PUNCT 
+9, NUM 
+flattening, VERB 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Scheme, NOUN 
+splat, ADJ 
+flattening, NOUN 
+substrate, ADJ 
+surface, NOUN 
+E, NOUN 
+=, NOUN 
+RR, PROPN 
+[=, X 
+bR, ADJ 
+l, NOUN 
+O, PROPN 
+=, NOUN 
+=, NOUN 
+UR, NOUN 
+4, NUM 
+time, NOUN 
+order, NOUN 
+magnitude, NOUN 
+greater, ADJ 
+fC, NUM 
+
+, SPACE 
+3,10, NUM 
+flattening, NOUN 
+process, NOUN 
+important, ADJ 
+
+, SPACE 
+aspect, NOUN 
+solidification, NOUN 
+lower, ADJ 
+
+, SPACE 
+splat, ADJ 
+thickness, NOUN 
+6, NUM 
+t, PROPN 
+=, PROPN 
+SVym, PROPN 
+ratio, NOUN 
+
+, SPACE 
+t, PROPN 
+t, PROPN 
+form, NOUN 
+
+, SPACE 
+q=, ADJ 
+V, PROPN 
+R,(US)-, PROPN 
+2, X 
+
+, SPACE 
+6, NUM 
+=, SYM 
+R, NOUN 
+2, X 
+obtain, VERB 
+case, NOUN 
+
+, SPACE 
+plasma, NOUN 
+spraying, VERB 
+metallic, ADJ 
+powder, NOUN 
+
+, SPACE 
+aluminium, NOUN 
+alloy, NOUN 
+copper, NOUN 
+substrate, NOUN 
+R, NOUN 
+=, SYM 
+20, NUM 
+
+, SPACE 
+pm, NOUN 
+V, PROPN 
+=, SYM 
+5, NUM 
+m, PROPN 
+SC, PROPN 
+6-, PROPN 
+1, NUM 
+Frn, PROPN 
+U=, PROPN 
+100, NUM 
+m, PROPN 
+SC, PROPN 
+
+, SPACE 
+2, X 
+rl, X 
+=, PROPN 
+1, NUM 
+means, VERB 
+solidifi-, ADJ 
+
+, SPACE 
+cation, NOUN 
+splat, ADJ 
+taken, VERB 
+account, NOUN 
+
+, SPACE 
+splat, ADJ 
+flattening, NOUN 
+analyzed, VERB 
+
+, SPACE 
+solidification, NOUN 
+crystalline, NOUN 
+structure, NOUN 
+
+, SPACE 
+formed, VERB 
+process, NOUN 
+starts, VERB 
+nucleation, NOUN 
+takes, VERB 
+
+, SPACE 
+place, NOUN 
+ratio, NOUN 
+N, PROPN 
+nucleation, NOUN 
+time, NOUN 
+
+, SPACE 
+impact, NOUN 
+time, NOUN 
+case, NOUN 
+homogeneous, ADJ 
+nucleation, NOUN 
+
+, SPACE 
+estimated, VERB 
+high, ADJ 
+thermal, ADJ 
+spray, NOUN 
+
+, SPACE 
+applications, NOUN 
+11, NUM 
+homogeneous, ADJ 
+nucleation, NOUN 
+hardly, ADV 
+
+, SPACE 
+occurs, VERB 
+thermal, ADJ 
+spraying, NOUN 
+pres-, NOUN 
+
+, SPACE 
+ence, NOUN 
+different, ADJ 
+inclusions, NOUN 
+oxides, NOUN 
+carbides, NOUN 
+etc, X 
+
+, SPACE 
+impinging, VERB 
+droplet, NOUN 
+possible, ADJ 
+
+, SPACE 
+partial, ADJ 
+solidification, NOUN 
+droplet, NOUN 
+impinge-, SYM 
+
+, SPACE 
+ment, NOUN 
+12,13, NUM 
+assume, VERB 
+parameter, NOUN 
+N, PROPN 
+
+, SPACE 
+markedly, ADV 
+smaller, ADJ 
+unity, NOUN 
+delays, NOUN 
+nucleation, NOUN 
+
+, SPACE 
+practically, ADV 
+influence, VERB 
+solidification, NOUN 
+
+, SPACE 
+lower, ADJ 
+splat, ADJ 
+flattening, NOUN 
+
+, SPACE 
+Droplet, PROPN 
+impingement, NOUN 
+accompanied, VERB 
+
+, SPACE 
+splashing, NOUN 
+droplet, ADJ 
+liquid, NOUN 
+phase, NOUN 
+2, NUM 
+assume, VERB 
+
+, SPACE 
+mass, NOUN 
+impinging, VERB 
+droplet, NOUN 
+
+, SPACE 
+lost, VERB 
+splashing, NOUN 
+
+, SPACE 
+formation, NOUN 
+craters, NOUN 
+surface, NOUN 
+flattening, NOUN 
+
+, SPACE 
+occurs, VERB 
+12,141, NUM 
+loss, NOUN 
+characterized, VERB 
+
+, SPACE 
+ratio, NOUN 
+x, PROPN 
+droplet, ADJ 
+mass, NOUN 
+remains, VERB 
+
+, SPACE 
+events, NOUN 
+initial, ADJ 
+mass, NOUN 
+impinging, VERB 
+droplet, NOUN 
+
+, SPACE 
+mass, NOUN 
+conservation, NOUN 
+condition, NOUN 
+follows, VERB 
+
+, SPACE 
+4R&/3, PROPN 
+=, ADJ 
+R, NOUN 
+b, PROPN 
+k’,t, PROPN 
+3, X 
+
+, SPACE 
+thermal, ADJ 
+spraying, VERB 
+interesting, ADJ 
+case, NOUN 
+
+, SPACE 
+situation, NOUN 
+Reynolds, PROPN 
+number, NOUN 
+=, NOUN 
+
+, SPACE 
+2, NUM 
+R, NOUN 
+lJpkm, PROPN 
+B, NOUN 
+1, NUM 
+p, NOUN 
+and@, PROPN 
+density, NOUN 
+
+, SPACE 
+dynamic, ADJ 
+viscosity, NOUN 
+respectively, ADV 
+droplet, ADJ 
+mate-, NOUN 
+
+, SPACE 
+rial, NOUN 
+
+, SPACE 
+shall, AUX 
+use, VERB 
+dimensionless, ADJ 
+variables, NOUN 
+
+, SPACE 
+V.V., PROPN 
+Soboleu, PROPN 
+J.M., PROPN 
+Guilemany, PROPN 
+Materials, PROPN 
+Letters, PROPN 
+28, NUM 
+1996, NUM 
+71, NUM 
+75, NUM 
+73, NUM 
+
+, SPACE 
+method, NOUN 
+correlations, NOUN 
+given, VERB 
+Ref, PROPN 
+6, NUM 
+
+, SPACE 
+obtain, VERB 
+following, VERB 
+analytical, ADJ 
+expressions, NOUN 
+5, NUM 
+
+, SPACE 
+5, NUM 
+>, X 
+>, X 
+1, NUM 
+yt, PROPN 
+-=c, PROPN 
+1, NUM 
+y, PROPN 
+=, PUNCT 
+t, PROPN 
+
+, SPACE 
+ccop, NOUN 
+1, NUM 
+wf30, PROPN 
+0, NUM 
+=, SYM 
+exp(0.40, NUM 
+5, X 
+
+, SPACE 
+5, NUM 
+=, X 
+l.l55x”*W”~, PROPN 
+1, NUM 
++, NUM 
+oswpe, NOUN 
+6, NUM 
+
+, SPACE 
+5, NUM 
+6, NUM 
+obtain, VERB 
+following, VERB 
+rate, NOUN 
+char-, PROPN 
+
+, SPACE 
+acteristics, NOUN 
+flattening, NOUN 
+process, NOUN 
+
+, SPACE 
+dc, NOUN 
+d0, PROPN 
+=, X 
+-0.4w-, NOUN 
+1, NUM 
++, NUM 
+2.5w@, NUM 
+7, NUM 
+
+, SPACE 
+dt, PROPN 
+d0, PROPN 
+=, ADP 
+0.231x”*w, NUM 
+1, NUM 
++, NUM 
+2.5wl3, PROPN 
++, CCONJ 
+1.5@3, PROPN 
+
+, SPACE 
+8), NUM 
+
+, SPACE 
+5)-(8, PROPN 
+seen, VERB 
+splat, ADJ 
+solidification, NOUN 
+causes, VERB 
+
+, SPACE 
+decrease, NOUN 
+splat, ADJ 
+thickness, NOUN 
+increase, NOUN 
+splat, ADJ 
+
+, SPACE 
+radius, NOUN 
+rate, NOUN 
+growth, NOUN 
+increase, NOUN 
+
+, SPACE 
+absolute, ADJ 
+value, NOUN 
+rate, NOUN 
+decrease, NOUN 
+5, NUM 
+
+, SPACE 
+mass, ADJ 
+loss, NOUN 
+leads, VERB 
+decrease, NOUN 
+5, NUM 
+de, NOUN 
+
+, SPACE 
+absence, NOUN 
+solidification, NOUN 
+l3, PROPN 
+=, NOUN 
+0, NUM 
+mass, ADJ 
+loss, NOUN 
+
+, SPACE 
+x, PROPN 
+=, NOUN 
+1, NUM 
+5)-(g, PROPN 
+formulae, NOUN 
+obtained, VERB 
+
+, SPACE 
+Ref, PROPN 
+6, NUM 
+initial, ADJ 
+moments, NOUN 
+time, NOUN 
+
+, SPACE 
+8, NUM 
+<, SYM 
+1, NUM 
+obtain, VERB 
+5)-(g, PROPN 
+following, VERB 
+
+, SPACE 
+5, NUM 
+=, SYM 
+1, NUM 
+0.48, NUM 
+1, NUM 
++, NUM 
+2.5p, NUM 
+9, X 
+
+, SPACE 
+E, NOUN 
+=, NOUN 
+l.l55x”2, PROPN 
+1, NUM 
++, NUM 
+0.20, NUM 
+1, NUM 
++, NUM 
+2.5P, NOUN 
+10, NUM 
+
+, SPACE 
+dc, NOUN 
+d0, PROPN 
+=, NOUN 
+0.4, NUM 
+1, NUM 
+0.48, NUM 
++, NUM 
+2.5p, NUM 
+11, NUM 
+
+, SPACE 
+d.$/dO, PROPN 
+=, ADP 
+0.231~, ADJ 
+1, NUM 
++, NUM 
+0.20, NUM 
+1, NUM 
++, NUM 
+15p, NOUN 
++, CCONJ 
+2.5p, NUM 
+
+, SPACE 
+12, NUM 
+
+, SPACE 
+analytical, ADJ 
+results, NOUN 
+obtained, VERB 
+valid, ADJ 
+t, PROPN 
+<, X 
+t, PROPN 
+
+, SPACE 
+6, NUM 
+
+, SPACE 
+t, PROPN 
+=, PROPN 
+1.25R, NUM 
+U-, PROPN 
+ln(1, NOUN 
++0.3Re, PROPN 
+13, NUM 
+
+, SPACE 
+value, NOUN 
+t., PROPN 
+exceeds, VERB 
+characteristic, ADJ 
+time, NOUN 
+
+, SPACE 
+flattening, NOUN 
+formulae, NOUN 
+obtained, VERB 
+5)-(g, PROPN 
+
+, SPACE 
+valid, ADJ 
+interval, NOUN 
+droplet, ADJ 
+flattening, NOUN 
+
+, SPACE 
+Eqs, PROPN 
+9)-(12, PROPN 
+t, PROPN 
+-=z, NOUN 
+R, NOUN 
+U-, PROPN 
+6, NUM 
+
+, SPACE 
+3, X 
+Final, ADJ 
+characteristics, NOUN 
+flattening, VERB 
+
+, SPACE 
+Let, VERB 
+find, VERB 
+values, NOUN 
+5, NUM 
+5, NUM 
+dc, PROPN 
+dt3, ADJ 
+dt, PROPN 
+d0, PROPN 
+
+, SPACE 
+t, PROPN 
+=, NOUN 
+t, PROPN 
+5)-(g, PROPN 
+13, NUM 
+fol-, NOUN 
+
+, SPACE 
+lowing, NOUN 
+>, X 
+>, X 
+1, NUM 
+
+, SPACE 
+=, X 
+1.826Re-‘/2, PROPN 
+1, NUM 
+0.68PRe’/2, PROPN 
+ln(0.3Re, NOUN 
+
+, SPACE 
+14, NUM 
+6, NUM 
+=, SYM 
+0.8546x1/2Re’/4, NUM 
+1, NUM 
++, SYM 
+0.34PRe’/, NUM 
+ln(0.3Re, PROPN 
+
+, SPACE 
+15, NUM 
+
+, SPACE 
+dc, PROPN 
+=, NOUN 
+-0.73ReCl/*(1, PUNCT 
++, CCONJ 
+1.37PRe’/, NUM 
+16, NUM 
+
+, SPACE 
+ds, PROPN 
+=, NOUN 
+0.171~1~2Re1~4[1, NUM 
++, CCONJ 
+1.3713Re’j2, NUM 
+
+, SPACE 
++, PUNCT 
+1.0313Re1/, PROPN 
+ln(0.3Re)l, X 
+17, NUM 
+
+, SPACE 
+absence, NOUN 
+splat, ADJ 
+solidification, NOUN 
+p, NOUN 
+=, NOUN 
+0, NUM 
+
+, SPACE 
+mass, ADJ 
+loss, NOUN 
+x, PROPN 
+=, X 
+14)-(17, NUM 
+obtain, VERB 
+
+, SPACE 
+formulae, NOUN 
+established, VERB 
+Ref, PROPN 
+6, NUM 
+Expressions, NOUN 
+14)-, ADJ 
+
+, SPACE 
+17, NUM 
+solidification, NOUN 
+causes, VERB 
+decrease, NOUN 
+
+, SPACE 
+splat, ADJ 
+thickness, NOUN 
+increase, NOUN 
+splat, ADJ 
+radius, NOUN 
+
+, SPACE 
+increase, NOUN 
+rate, NOUN 
+parameter, NOUN 
+dCJdt3, INTJ 
+
+, SPACE 
+absolute, ADJ 
+value, NOUN 
+d</d0, PROPN 
+mass, ADJ 
+loss, NOUN 
+leads, VERB 
+
+, SPACE 
+decrease, NOUN 
+5, NUM 
+dE, NOUN 
+d0, NOUN 
+
+, SPACE 
+analysis, NOUN 
+follows, VERB 
+influ-, ADJ 
+
+, SPACE 
+ence, NOUN 
+splat, ADJ 
+solidification, NOUN 
+flattening, VERB 
+characteris-, PROPN 
+
+, SPACE 
+tics, NOUN 
+equivalent, ADJ 
+influence, NOUN 
+effective, ADJ 
+
+, SPACE 
+velocity, NOUN 
+U, NOUN 
+droplet, ADJ 
+impingement, NOUN 
+means, VERB 
+
+, SPACE 
+flattening, NOUN 
+process, NOUN 
+droplet, ADJ 
+impinging, VERB 
+
+, SPACE 
+velocity, NOUN 
+U, NOUN 
+taking, VERB 
+account, NOUN 
+splat, ADJ 
+solidi-, NOUN 
+
+, SPACE 
+fication, NOUN 
+velocity, NOUN 
+
+, SPACE 
+droplet, NOUN 
+impingement, NOUN 
+U, NOUN 
+splat, ADJ 
+solidification, NOUN 
+
+, SPACE 
+accounted, VERB 
+
+, SPACE 
+analytical, ADJ 
+expressions, NOUN 
+14, NUM 
+151, NUM 
+
+, SPACE 
+effective, ADJ 
+velocity, NOUN 
+accuracy, NOUN 
+
+, SPACE 
+terms, NOUN 
+order, NOUN 
+O(p, X 
+represented, VERB 
+
+, SPACE 
+follows, VERB 
+
+, SPACE 
+U, PROPN 
+=, NOUN 
+U, NOUN 
+1, NUM 
++, SYM 
+0.34PRe’12, NOUN 
+ln(0.3Re)14, PROPN 
+18, NUM 
+
+, SPACE 
+expressions, NOUN 
+14, NUM 
+15, NUM 
+written, VERB 
+
+, SPACE 
+form, NOUN 
+
+, SPACE 
+5, X 
+=, NOUN 
+l.826Re;i/2, PROPN 
+=, NOUN 
+2R, PROPN 
+U, PROPN 
+pp-, ADV 
+19, NUM 
+
+, SPACE 
+5, NUM 
+=, NUM 
+0.8546x’/2Re’,/4, NUM 
+20, NUM 
+
+, SPACE 
+formulae, NOUN 
+valid, ADJ 
+p, NOUN 
+-=K, SYM 
+1, NUM 
+situa-, NOUN 
+
+, SPACE 
+tion, NOUN 
+corresponds, VERB 
+thermal, ADJ 
+spraying, NOUN 
+
+, SPACE 
+variations, NOUN 
+splat, ADJ 
+thickness, NOUN 
+5, NUM 
+
+, SPACE 
+splat, ADJ 
+radius, NOUN 
+5, NUM 
+respect, NOUN 
+Reynolds, PROPN 
+number, NOUN 
+
+, SPACE 
+according, VERB 
+analytical, ADJ 
+expressions, NOUN 
+14, NUM 
+15, NUM 
+
+, SPACE 
+respectively, ADV 
+shown, VERB 
+Fig, PROPN 
+2, NUM 
+splat, ADJ 
+thickness, NOUN 
+
+, SPACE 
+diminishes, VERB 
+decreases, NOUN 
+splat, ADJ 
+solidi-, NOUN 
+
+, SPACE 
+fication, NOUN 
+takes, VERB 
+place, NOUN 
+difference, NOUN 
+val-, NOUN 
+
+, SPACE 
+ues, NOUN 
+5, NUM 
+corresponding, VERB 
+cases, NOUN 
+p, NOUN 
+=, NOUN 
+0, NUM 
+
+, SPACE 
+p, NOUN 
+=, NUM 
+0.002, NUM 
+increases, NOUN 
+increase, NOUN 
+Reynolds, PROPN 
+
+, SPACE 
+74, NUM 
+V.V., PROPN 
+Sob&s, PROPN 
+J.M., PROPN 
+Guileman~/Materials, NOUN 
+Letters, PROPN 
+28, NUM 
+~19, NUM 
+71, NUM 
+75, NUM 
+
+, SPACE 
+lg, PROPN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Variation, NOUN 
+final, ADJ 
+values, NOUN 
+splat, ADJ 
+thickness, NOUN 
+
+, SPACE 
+radius, NOUN 
+respect, NOUN 
+Reynolds, PROPN 
+number, NOUN 
+
+, SPACE 
+number, NOUN 
+splat, ADJ 
+radius, NOUN 
+enhances, NOUN 
+
+, SPACE 
+increases, VERB 
+splat, ADJ 
+solidification, NOUN 
+occurs, VERB 
+de-, X 
+
+, SPACE 
+creases, NOUN 
+case, NOUN 
+droplet, ADJ 
+mass, NOUN 
+loss, NOUN 
+
+, SPACE 
+absolute, ADJ 
+value, NOUN 
+rate, NOUN 
+splat, ADJ 
+thick-, NUM 
+
+, SPACE 
+ness, ADJ 
+variation, NOUN 
+increases, VERB 
+Reynolds, PROPN 
+number, NOUN 
+
+, SPACE 
+according, VERB 
+16, NUM 
+splat, ADJ 
+solidification, NOUN 
+
+, SPACE 
+change, VERB 
+markedly, ADV 
+Fig, PROPN 
+3, NUM 
+seen, VERB 
+Fig, PROPN 
+
+, SPACE 
+3, NUM 
+rate, NOUN 
+splat, ADJ 
+radius, NOUN 
+variation, NOUN 
+increases, NOUN 
+
+, SPACE 
+according, VERB 
+17, NUM 
+parameter, NOUN 
+significantly, ADV 
+
+, SPACE 
+enhances, NOUN 
+splat, ADJ 
+solidification, NOUN 
+takes, VERB 
+place, NOUN 
+
+, SPACE 
+decreases, VERB 
+case, NOUN 
+droplet, ADJ 
+mass, NOUN 
+loss, NOUN 
+
+, SPACE 
+L, PROPN 
+2, NUM 
+3, NUM 
+L, NOUN 
+4.3, NUM 
+
+, SPACE 
+lg, PROPN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Variation, NOUN 
+final, ADJ 
+values, NOUN 
+flattening, NOUN 
+rate, NOUN 
+character-, NOUN 
+
+, SPACE 
+istics, NOUN 
+respect, NOUN 
+Reynolds, PROPN 
+number, NOUN 
+4, X 
+Comparison, NOUN 
+experimental, ADJ 
+data, NOUN 
+
+, SPACE 
+Ref, PROPN 
+3, X 
+dynamics, NOUN 
+splat, ADJ 
+flattening, NOUN 
+
+, SPACE 
+solidification, NOUN 
+plasma, NOUN 
+spraying, VERB 
+zirconia, PROPN 
+par-, PROPN 
+
+, SPACE 
+ticles, NOUN 
+smooth, ADJ 
+steel, NOUN 
+substrate, NOUN 
+studied, VERB 
+experi-, NUM 
+
+, SPACE 
+mentally, ADV 
+estimated, VERB 
+case, NOUN 
+solidifi-, ADJ 
+
+, SPACE 
+cation, NOUN 
+velocity, NOUN 
+approximately, ADV 
+determined, ADJ 
+
+, SPACE 
+follows, VERB 
+
+, SPACE 
+v, NOUN 
+=, PROPN 
+cY,7&)-, ADP 
+21, NUM 
+
+, SPACE 
+Y, PROPN 
+contact, NOUN 
+thermal, ADJ 
+heat, NOUN 
+transfer, NOUN 
+coeffi-, NOUN 
+
+, SPACE 
+cient, NOUN 
+substrate, NOUN 
+coating, VERB 
+interface, NOUN 
+Tr, PROPN 
+
+, SPACE 
+temperature, NOUN 
+impinging, VERB 
+droplet, NOUN 
+particle, NOUN 
+
+, SPACE 
+K, PROPN 
+p, NOUN 
+respectively, ADV 
+latent, ADJ 
+heat, NOUN 
+fusion, NOUN 
+
+, SPACE 
+density, NOUN 
+zirconia, PROPN 
+average, ADJ 
+particle, NOUN 
+tempera-, X 
+
+, SPACE 
+ture, NOUN 
+T, PROPN 
+found, VERB 
+3660, NUM 
+K, NOUN 
+3, NUM 
+
+, SPACE 
+zirconia, PROPN 
+K, PROPN 
+=, PROPN 
+0.71, NUM 
+X, X 
+lo6, NOUN 
+J, PROPN 
+kg-, X 
+p, NOUN 
+=, SYM 
+5400, NUM 
+kg, NOUN 
+
+, SPACE 
+m, VERB 
+-j, PUNCT 
+Taking, VERB 
+values, NOUN 
+Y, NOUN 
+=, PROPN 
+3.8, NUM 
+X, NOUN 
+lo5, NOUN 
+WmP2, PROPN 
+
+, SPACE 
+K-, PROPN 
+obtain, VERB 
+21, NUM 
+v, ADV 
+=, PRON 
+0.366, NUM 
+m, VERB 
+s-, ADV 
+
+, SPACE 
+assume, VERB 
+impact, NOUN 
+velocity, NOUN 
+U, NOUN 
+=, NOUN 
+150, NUM 
+m, NOUN 
+sP, PUNCT 
+
+, SPACE 
+3, X 
+p, NOUN 
+=, NOUN 
+0.00244, NUM 
+
+, SPACE 
+value, NOUN 
+l3, PROPN 
+assuming, VERB 
+
+, SPACE 
+droplet, ADJ 
+mass, NOUN 
+loss, NOUN 
+x, NOUN 
+=, NOUN 
+1, NUM 
+substrate, NOUN 
+
+, SPACE 
+heated, VERB 
+surface, NOUN 
+smooth, ADJ 
+3, NUM 
+obtain, VERB 
+
+, SPACE 
+15, NUM 
+variation, NOUN 
+final, ADJ 
+radius, NOUN 
+splat, ADJ 
+
+, SPACE 
+flattening, NOUN 
+degree, NOUN 
+5, NUM 
+Reynolds, PROPN 
+number, NOUN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+4, NUM 
+experimental, ADJ 
+data, NOUN 
+
+, SPACE 
+correlation, NOUN 
+
+, SPACE 
+theoretical, ADJ 
+values, NOUN 
+5, NUM 
+sensitive, ADJ 
+
+, SPACE 
+particle, NOUN 
+velocity, NOUN 
+U, NOUN 
+varies, VERB 
+according, VERB 
+
+, SPACE 
+particle, NOUN 
+size, NOUN 
+distribution, NOUN 
+example, NOUN 
+
+, SPACE 
+U=, NOUN 
+100, NUM 
+m, VERB 
+ss, ADV 
+CT=, PROPN 
+200, NUM 
+m, NOUN 
+s-, ADV 
+maximum, ADJ 
+
+, SPACE 
+relative, ADJ 
+variations, NOUN 
+5, NUM 
+exceed, VERB 
+3, NUM 
+
+, SPACE 
+9, NUM 
+correspondingly, ADV 
+respect, NOUN 
+case, NOUN 
+
+, SPACE 
+U, PROPN 
+=, SYM 
+150, NUM 
+m, PROPN 
+SC, PROPN 
+
+, SPACE 
+04, NUM 
+
+, SPACE 
+200, NUM 
+LOO, PROPN 
+600, NUM 
+800, NUM 
+II, NUM 
+0, NUM 
+
+, SPACE 
+Reynolds, PROPN 
+number, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Comparison, NOUN 
+analytical, ADJ 
+experimental, ADJ 
+results, NOUN 
+
+, SPACE 
+final, ADJ 
+splat, ADJ 
+radius, NOUN 
+flattening, NOUN 
+degree, NOUN 
+
+, SPACE 
+V.V., PROPN 
+Sobolev, PROPN 
+J.M., PROPN 
+Guilemany, PROPN 
+Materials, PROPN 
+Letters, PROPN 
+28, NUM 
+1996, NUM 
+71, NUM 
+75, NUM 
+15, NUM 
+
+, SPACE 
+theoretical, ADJ 
+values, NOUN 
+5, NUM 
+sensitive, ADJ 
+
+, SPACE 
+contact, NOUN 
+heat, NOUN 
+transfer, NOUN 
+coefficient, VERB 
+ay, INTJ 
+ay, ADV 
+
+, SPACE 
+varies, VERB 
+3.3, NUM 
+X, NOUN 
+lo5, NOUN 
+5, NUM 
+X, NOUN 
+lo5, NOUN 
+W, PROPN 
+m-, X 
+K-, PROPN 
+3, X 
+
+, SPACE 
+maximum, ADJ 
+deviations, NOUN 
+5, NUM 
+
+, SPACE 
+13, NUM 
+32, NUM 
+respect, NOUN 
+case, NOUN 
+o, PROPN 
+=, VERB 
+
+, SPACE 
+3.8, NUM 
+X, NOUN 
+lo5, NOUN 
+W, PROPN 
+m-, X 
+K, PROPN 
+l., PROPN 
+
+, SPACE 
+theoretical, ADJ 
+values, NOUN 
+5, NUM 
+seen, VERB 
+agree, VERB 
+
+, SPACE 
+experimental, ADJ 
+results, NOUN 
+
+, SPACE 
+5, X 
+Conclusions, NOUN 
+
+, SPACE 
+1, X 
+approximate, ADJ 
+formulae, NOUN 
+describing, VERB 
+time, NOUN 
+
+, SPACE 
+evolution, NOUN 
+thermally, ADV 
+sprayed, VERB 
+splat, ADJ 
+thickness, NOUN 
+
+, SPACE 
+radius, NOUN 
+rates, NOUN 
+variation, NOUN 
+
+, SPACE 
+time, NOUN 
+flattening, NOUN 
+process, NOUN 
+established, VERB 
+
+, SPACE 
+taking, VERB 
+account, NOUN 
+splat, ADJ 
+solidification, NOUN 
+mass, NOUN 
+loss, NOUN 
+
+, SPACE 
+splashing, NOUN 
+formation, NOUN 
+craters, NOUN 
+
+, SPACE 
+surface, NOUN 
+flattening, NOUN 
+occurs, VERB 
+
+, SPACE 
+2, X 
+Realistic, ADJ 
+correlations, NOUN 
+final, ADJ 
+values, NOUN 
+
+, SPACE 
+splat, ADJ 
+thickness, NOUN 
+radius, NOUN 
+rates, NOUN 
+
+, SPACE 
+variations, NOUN 
+Reynolds, PROPN 
+number, NOUN 
+introduced, VERB 
+
+, SPACE 
+3, X 
+theoretical, ADJ 
+results, NOUN 
+obtained, VERB 
+agree, VERB 
+
+, SPACE 
+experimental, ADJ 
+data, NOUN 
+
+, SPACE 
+prediction, NOUN 
+purposes, NOUN 
+
+, SPACE 
+Acknowledgements, NOUN 
+
+, SPACE 
+authors, NOUN 
+thank, VERB 
+Generalitat, PROPN 
+de, X 
+Catalunya, PROPN 
+pro-, PROPN 
+
+, SPACE 
+ject, PROPN 
+GRQ93, PROPN 
+1017, NUM 
+CICYT, PROPN 
+project, NOUN 
+MAT94-, PROPN 
+0013, NUM 
+financial, ADJ 
+support, NOUN 
+Professor, PROPN 
+V.V., PROPN 
+
+, SPACE 
+Sobolev, PROPN 
+grateful, ADJ 
+Generalitat, PROPN 
+de, X 
+Catalunya, PROPN 
+
+, SPACE 
+visiting, VERB 
+professor, NOUN 
+grant, NOUN 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+111, NUM 
+
+, SPACE 
+121, NUM 
+
+, SPACE 
+31, NUM 
+
+, SPACE 
+41, NUM 
+
+, SPACE 
+51, NUM 
+
+, SPACE 
+61, NUM 
+
+, SPACE 
+71, NUM 
+
+, SPACE 
+181, NUM 
+
+, SPACE 
+91, NUM 
+
+, SPACE 
+lOI, X 
+
+, SPACE 
+ill, ADJ 
+
+, SPACE 
+121, NUM 
+
+, SPACE 
+1131, NUM 
+
+, SPACE 
+1141, NUM 
+R., PROPN 
+MacPherson, PROPN 
+Thin, PROPN 
+Solid, PROPN 
+Films, PROPN 
+83, NUM 
+1981, NUM 
+297, NUM 
+
+, SPACE 
+R.C., PROPN 
+Dykhuizen, PROPN 
+J., PROPN 
+Therm, PROPN 
+Spray, PROPN 
+Technol, PROPN 
+3, NUM 
+1994, NUM 
+351, NUM 
+
+, SPACE 
+M., PROPN 
+Vardelle, PROPN 
+A., PROPN 
+Vardelle, PROPN 
+A.C., PROPN 
+Leger, PROPN 
+P., PROPN 
+Fauchais, PROPN 
+
+, SPACE 
+Thermal, ADJ 
+spray, VERB 
+industrial, ADJ 
+applications, NOUN 
+ASM, PROPN 
+International, PROPN 
+
+, SPACE 
+Boston, PROPN 
+1994, NUM 
+p., NOUN 
+555, NUM 
+
+, SPACE 
+V.V., PROPN 
+Sobolev, PROPN 
+J.M., PROPN 
+Guilemany, PROPN 
+A.J., PROPN 
+Martin, PROPN 
+J., PROPN 
+Therm, PROPN 
+
+, SPACE 
+Spray, PROPN 
+Technol, PROPN 
+press, NOUN 
+1995, NUM 
+
+, SPACE 
+V.V., PROPN 
+Sobolev, PROPN 
+J.M., PROPN 
+Guilemany, PROPN 
+J.A., PROPN 
+Calero, PROPN 
+Mater, PROPN 
+Sci, PROPN 
+
+, SPACE 
+Technol, PROPN 
+11, NUM 
+1994, NUM 
+810, NUM 
+
+, SPACE 
+V.V., PROPN 
+Sobolev, PROPN 
+J.M., PROPN 
+Guilemany, PROPN 
+Mater, PROPN 
+Lett, PROPN 
+22, NUM 
+1995, NUM 
+
+, SPACE 
+209, NUM 
+
+, SPACE 
+V.V., PROPN 
+Sobolev, PROPN 
+J.M., PROPN 
+Guilemany, PROPN 
+J.R., PROPN 
+Miquel, PROPN 
+J.A., PROPN 
+Calero, PROPN 
+
+, SPACE 
+Surf, PROPN 
+Coat, PROPN 
+Technol, PROPN 
+press, NOUN 
+1994, NUM 
+
+, SPACE 
+J., PROPN 
+Madejski, PROPN 
+J., PROPN 
+Heat, PROPN 
+Mass, PROPN 
+Transfer, PROPN 
+19, NUM 
+1976, NUM 
+1009, NUM 
+
+, SPACE 
+L., PROPN 
+Pawlowski, PROPN 
+science, NOUN 
+engineering, NOUN 
+thermal, ADJ 
+spray, NOUN 
+
+, SPACE 
+coatings, NOUN 
+Wiley, PROPN 
+New, PROPN 
+York, PROPN 
+1995, NUM 
+
+, SPACE 
+C., PROPN 
+Moreau, PROPN 
+P., PROPN 
+Cielo, PROPN 
+M., PROPN 
+Lamontagne, PROPN 
+J., PROPN 
+Therm, PROPN 
+Spray, PROPN 
+
+, SPACE 
+Technol, PROPN 
+1, NUM 
+1992, NUM 
+317, NUM 
+
+, SPACE 
+T.W., PROPN 
+Clyne, PROPN 
+Metall, PROPN 
+Trans, PROPN 
+B, NOUN 
+15, NUM 
+1984, NUM 
+369, NUM 
+
+, SPACE 
+V.V., PROPN 
+Sobolev, PROPN 
+J.M., PROPN 
+Guilemany, PROPN 
+J.A., PROPN 
+Calero, PROPN 
+J., PROPN 
+Therm, PROPN 
+
+, SPACE 
+Spray, PROPN 
+Technol, PROPN 
+4, NUM 
+1994, NUM 
+287, NUM 
+
+, SPACE 
+V.V., PROPN 
+Sobolev, PROPN 
+J.M., PROPN 
+Guilemany, PROPN 
+J.R., PROPN 
+Miquel, PROPN 
+J.A., PROPN 
+Calero, PROPN 
+
+, SPACE 
+Surf, PROPN 
+Coat, PROPN 
+Technol, PROPN 
+press, NOUN 
+1995, NUM 
+
+, SPACE 
+R., PROPN 
+Tiwari, PROPN 
+H., PROPN 
+Herman, PROPN 
+Scripta, PROPN 
+Metal, PROPN 
+Mater, PROPN 
+25, NUM 
+1991, NUM 
+
+, SPACE 
+1103, NUM 
+
+, SPACE 

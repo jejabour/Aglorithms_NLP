@@ -1,0 +1,1448 @@
+Nuclear, PROPN 
+Instruments, PROPN 
+Methods, PROPN 
+Physics, PROPN 
+Research, PROPN 
+B, PROPN 
+111, NUM 
+1996, NUM 
+187-, NUM 
+189, NUM 
+
+, SPACE 
+cm, NOUN 
+l!!B, INTJ 
+ELSEVIER, NOUN 
+NOM, PROPN 
+B, PROPN 
+Beam, PROPN 
+Interactions, PROPN 
+
+, SPACE 
+Materials, PROPN 
+Atoms, PROPN 
+
+, SPACE 
+New, PROPN 
+plasma, NOUN 
+source, NOUN 
+ion, NOUN 
+implantation, NOUN 
+technique, NOUN 
+inner, ADJ 
+surface, NOUN 
+
+, SPACE 
+modification, NOUN 
+materials, NOUN 
+
+, SPACE 
+MuSun, PROPN 
+S.Z., PROPN 
+Yang, PROPN 
+B., PROPN 
+Li, PROPN 
+
+, SPACE 
+Group, PROPN 
+101, NUM 
+Institute, PROPN 
+Physics, PROPN 
+Chinese, PROPN 
+Academy, PROPN 
+Sciences, PROPN 
+Beijing, PROPN 
+100080, NUM 
+China, PROPN 
+
+, SPACE 
+Received, VERB 
+14, NUM 
+September, PROPN 
+1995, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+Plasma, PROPN 
+source, NOUN 
+ion, NOUN 
+implantation, NOUN 
+PSII, PROPN 
+non, ADJ 
+line, NOUN 
+sight, NOUN 
+ion, NOUN 
+implantation, NOUN 
+technique, NOUN 
+surface, NOUN 
+modification, NOUN 
+
+, SPACE 
+materials, NOUN 
+present, ADJ 
+technique, NOUN 
+suitable, ADJ 
+outer, ADJ 
+surface, NOUN 
+modification, NOUN 
+targets, NOUN 
+inner, ADJ 
+surface, NOUN 
+
+, SPACE 
+modification, NOUN 
+targets, NOUN 
+paper, NOUN 
+present, VERB 
+new, ADJ 
+technique, NOUN 
+applies, VERB 
+inner, ADJ 
+surface, NOUN 
+implantation, NOUN 
+Preliminary, ADJ 
+
+, SPACE 
+experiment, NOUN 
+results, NOUN 
+new, ADJ 
+technique, NOUN 
+1, X 
+increases, VERB 
+plasma, NOUN 
+density, NOUN 
+uniformity, NOUN 
+obviously, ADV 
+inside, ADP 
+target, NOUN 
+
+, SPACE 
+inner, ADJ 
+surface, NOUN 
+2, X 
+generates, VERB 
+plasma, NOUN 
+sheath, NOUN 
+inner, ADJ 
+surface, NOUN 
+target, NOUN 
+plasma, NOUN 
+implant, VERB 
+inner, ADJ 
+
+, SPACE 
+surface, NOUN 
+target, NOUN 
+effectively, ADV 
+3, X 
+achieves, VERB 
+dose, ADJ 
+uniformity, NOUN 
+acceptable, ADJ 
+industrial, ADJ 
+application, NOUN 
+
+, SPACE 
+Plasma, NOUN 
+source, NOUN 
+ion, NOUN 
+implantation, NOUN 
+PSII, PROPN 
+new, ADJ 
+ion, NOUN 
+
+, SPACE 
+implantation, NOUN 
+technique, NOUN 
+l-5, X 
+surface, NOUN 
+modification, NOUN 
+
+, SPACE 
+materials, NOUN 
+Compared, VERB 
+conventional, ADJ 
+ion, NOUN 
+implantation, NOUN 
+
+, SPACE 
+PSI1, PROPN 
+following, VERB 
+advantages, NOUN 
+6, NUM 
+1, X 
+need, NOUN 
+
+, SPACE 
+target, NOUN 
+manipulation, NOUN 
+target, NOUN 
+masking, NOUN 
+
+, SPACE 
+non, ADJ 
+line, NOUN 
+sight, NOUN 
+nature, NOUN 
+2, X 
+greater, ADJ 
+production, NOUN 
+
+, SPACE 
+ughput, ADJ 
+especially, ADV 
+large, ADJ 
+targets, NOUN 
+3, X 
+readily, ADV 
+
+, SPACE 
+SC, PROPN 
+led, VERB 
+large, ADJ 
+and/or, CCONJ 
+heavy, ADJ 
+targets, NOUN 
+4, X 
+facility, NOUN 
+
+, SPACE 
+si, NOUN 
+$, SYM 
+ple, NOUN 
+cost, VERB 
+effective, ADJ 
+expensive, ADJ 
+PSI1, PROPN 
+tech-, X 
+
+, SPACE 
+ni, PROPN 
+ue, PROPN 
+optimized, VERB 
+surface, NOUN 
+modification, NOUN 
+
+, SPACE 
+4, NUM 
+~, PUNCT 
+ide, ADJ 
+range, NOUN 
+materials, NOUN 
+industrial, ADJ 
+application, NOUN 
+7, NUM 
+lo, X 
+
+, SPACE 
+~, PUNCT 
+spite, NOUN 
+advantages, NOUN 
+present, ADJ 
+PSI1, PROPN 
+
+, SPACE 
+te, PROPN 
+
+, SPACE 
+C, PROPN 
+hnique, NOUN 
+suitable, ADJ 
+implantation, NOUN 
+outer, ADJ 
+surface, NOUN 
+
+, SPACE 
+exposed, VERB 
+areas, NOUN 
+target, NOUN 
+limited, ADJ 
+
+, SPACE 
+m, VERB 
+P, NOUN 
+ossible, ADJ 
+inner, ADJ 
+surface, NOUN 
+implantation, NOUN 
+target, NOUN 
+
+, SPACE 
+paper, NOUN 
+present, VERB 
+new, ADJ 
+PSI1, PROPN 
+technique, NOUN 
+applied, VERB 
+
+, SPACE 
+inner, ADJ 
+surface, NOUN 
+implantation, NOUN 
+target, NOUN 
+followed, VERB 
+
+, SPACE 
+
+, SPACE 
+m, PROPN 
+e, PROPN 
+preliminary, ADJ 
+experiment, NOUN 
+results, NOUN 
+description, NOUN 
+
+, SPACE 
+sheath, ADJ 
+model, NOUN 
+
+, SPACE 
+~, PUNCT 
+new, ADJ 
+PSI1, PROPN 
+device, NOUN 
+shown, VERB 
+schematically, ADV 
+Fig, PROPN 
+1, NUM 
+
+, SPACE 
+main, ADJ 
+construction, NOUN 
+similar, ADJ 
+existing, VERB 
+PSI1, PROPN 
+
+, SPACE 
+device, NOUN 
+Plasma, PROPN 
+generated, VERB 
+cylindrical, ADJ 
+vacuum, NOUN 
+cham-, X 
+
+, SPACE 
+ber, NOUN 
+conventional, ADJ 
+filament, NOUN 
+discharge, NOUN 
+device, NOUN 
+
+, SPACE 
+operated, VERB 
+nitrogen, NOUN 
+pressure, NOUN 
+2, NUM 
+X, NOUN 
+10m3, NUM 
+Torr, PROPN 
+
+, SPACE 
+lasma, NOUN 
+density, NOUN 
+lo’-10, NOUN 
+cme3, NOUN 
+negative, ADJ 
+high, ADJ 
+
+, SPACE 
+vo, ADJ 
+tage, NOUN 
+applied, VERB 
+target, NOUN 
+range, NOUN 
+IO-50, NOUN 
+kV, NUM 
+
+, SPACE 
+small, ADJ 
+pulse, NOUN 
+width, NOUN 
+5, NUM 
+10, NUM 
+/.LS, NUM 
+typical, ADJ 
+
+, SPACE 
+Corresponding, PROPN 
+author, NOUN 
+frequency, NOUN 
+100, NUM 
+Hz, PROPN 
+main, ADJ 
+characteristics, NOUN 
+differ, VERB 
+
+, SPACE 
+present, ADJ 
+PSI1, PROPN 
+targets, NOUN 
+selected, VERB 
+
+, SPACE 
+series, NOUN 
+aluminum, ADJ 
+cylindrical, ADJ 
+tubes, NOUN 
+different, ADJ 
+sizes, NOUN 
+
+, SPACE 
+metal, NOUN 
+anode, NOUN 
+connected, VERB 
+vacuum, PROPN 
+chamber, PROPN 
+wall, PROPN 
+
+, SPACE 
+fixed, VERB 
+center, NOUN 
+cylindrical, ADJ 
+target, NOUN 
+
+, SPACE 
+PSII, PROPN 
+plasma, NOUN 
+generated, VERB 
+vacuum, NOUN 
+chamber, NOUN 
+
+, SPACE 
+working, VERB 
+gas, NOUN 
+ionization, NOUN 
+caused, VERB 
+primary, ADJ 
+elec-, PRON 
+
+, SPACE 
+trons, NOUN 
+hard, ADJ 
+primary, ADJ 
+electrons, NOUN 
+cylindrical, ADJ 
+target, NOUN 
+filament, NOUN 
+dtscharge, NOUN 
+bias, NOUN 
+applied, VERB 
+
+, SPACE 
+filament, NOUN 
+vacuum, PROPN 
+chamber, PROPN 
+wall, PROPN 
+plasma, NOUN 
+
+, SPACE 
+density, NOUN 
+inside, ADP 
+target, NOUN 
+
+, SPACE 
+outside, ADP 
+target, NOUN 
+uniform, ADJ 
+decrease, NOUN 
+
+, SPACE 
+ratio, NOUN 
+D, PROPN 
+L, PROPN 
+D, PROPN 
+diameter, NOUN 
+target, NOUN 
+L, NOUN 
+
+, SPACE 
+length, NOUN 
+target, NOUN 
+difference, NOUN 
+greater, ADJ 
+
+, SPACE 
+negative, ADJ 
+high, ADJ 
+voltage, NOUN 
+applied, VERB 
+
+, SPACE 
+target, NOUN 
+electric, ADJ 
+field, NOUN 
+inside, ADP 
+target, NOUN 
+
+, SPACE 
+exception, NOUN 
+regions, NOUN 
+near, ADP 
+target, NOUN 
+sides, NOUN 
+Fig, PROPN 
+2a, NUM 
+
+, SPACE 
+impossible, ADJ 
+form, VERB 
+plasma, NOUN 
+sheath, NOUN 
+propa-, X 
+
+, SPACE 
+gating, VERB 
+normal, ADJ 
+line, NOUN 
+inner, ADJ 
+surface, NOUN 
+
+, SPACE 
+target, NOUN 
+target, NOUN 
+immersed, VERB 
+plasma, NOUN 
+new, ADJ 
+
+, SPACE 
+PSI1, PROPN 
+device, NOUN 
+metal, NOUN 
+anode, NOUN 
+connected, VERB 
+chamber, NOUN 
+
+, SPACE 
+wall, NOUN 
+set, VERB 
+inside, ADP 
+cylindrical, ADJ 
+target, NOUN 
+helps, VERB 
+
+, SPACE 
+draw, VERB 
+primary, ADJ 
+electrons, NOUN 
+target, NOUN 
+ionize, VERB 
+work-, PROPN 
+
+, SPACE 
+ing, ADJ 
+gas, NOUN 
+plasma, NOUN 
+density, NOUN 
+uniformity, NOUN 
+inside, ADP 
+
+, SPACE 
+target, NOUN 
+considerably, ADV 
+increased, VERB 
+hand, NOUN 
+
+, SPACE 
+uniform, ADJ 
+electric, ADJ 
+field, NOUN 
+formed, VERB 
+inner, ADJ 
+
+, SPACE 
+surface, NOUN 
+metal, NOUN 
+anode, NOUN 
+negative, ADJ 
+high, ADJ 
+voltage, NOUN 
+
+, SPACE 
+applied, VERB 
+target, NOUN 
+Fig, PROPN 
+2b, PROPN 
+results, VERB 
+
+, SPACE 
+plasma, NOUN 
+sheath, NOUN 
+propagating, VERB 
+metal, NOUN 
+anode, NOUN 
+
+, SPACE 
+target, NOUN 
+immersed, VERB 
+plasma, NOUN 
+inner, ADJ 
+
+, SPACE 
+surface, NOUN 
+implantation, NOUN 
+possible, ADJ 
+
+, SPACE 
+0168, NUM 
+583X/%/$15.00, NUM 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+SSDZ, PROPN 
+0168, NUM 
+583X(95)01293, NUM 
+1, NUM 
+
+, SPACE 
+188, NUM 
+M., PROPN 
+Sun, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Rex, PROPN 
+B, PROPN 
+111, NUM 
+1996, NUM 
+187, NUM 
+189, NUM 
+
+, SPACE 
+P, NOUN 
+HV, PROPN 
+pulse, NOUN 
+
+, SPACE 
+metal, NOUN 
+
+, SPACE 
+anode, PROPN 
+
+, SPACE 
+vacuum, PROPN 
+
+, SPACE 
+chamber, PROPN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Schematic, ADJ 
+diagram, NOUN 
+PSI1, PROPN 
+device, NOUN 
+inner, ADJ 
+surface, NOUN 
+
+, SPACE 
+implantation, NOUN 
+
+, SPACE 
+order, NOUN 
+quantify, VERB 
+plasma, NOUN 
+density, NOUN 
+uniformity, NOUN 
+
+, SPACE 
+inside, ADP 
+target, NOUN 
+different, ADJ 
+size, NOUN 
+factor, NOUN 
+D, PROPN 
+L, PROPN 
+
+, SPACE 
+compare, VERB 
+influence, NOUN 
+metal, NOUN 
+anode, NOUN 
+series, NOUN 
+
+, SPACE 
+targets, NOUN 
+immersed, VERB 
+plasma, NOUN 
+density, NOUN 
+
+, SPACE 
+1, NUM 
+X, NUM 
+10, NUM 
+cmm3, NOUN 
+electron, NOUN 
+temperature, NOUN 
+2, NUM 
+eV, NUM 
+axial, ADJ 
+
+, SPACE 
+distributions, NOUN 
+plasma, NOUN 
+density, NOUN 
+inside, ADP 
+targets, NOUN 
+
+, SPACE 
+measured, VERB 
+Langmuir, PROPN 
+probe, NOUN 
+results, NOUN 
+
+, SPACE 
+axial, ADJ 
+distribution, NOUN 
+plasma, NOUN 
+density, NOUN 
+inside, ADP 
+target, NOUN 
+
+, SPACE 
+uniform, ADJ 
+plasma, NOUN 
+density, NOUN 
+region, NOUN 
+near, ADP 
+
+, SPACE 
+sides, NOUN 
+close, ADJ 
+outside, ADP 
+target, NOUN 
+increasing, VERB 
+
+, SPACE 
+distance, NOUN 
+sides, NOUN 
+plasma, NOUN 
+density, NOUN 
+
+, SPACE 
+middle, NOUN 
+target, NOUN 
+use, VERB 
+
+, SPACE 
+ratio, NOUN 
+TZJTZ,~, PROPN 
+ni, PROPN 
+plasma, NOUN 
+density, NOUN 
+middle, NOUN 
+
+, SPACE 
+target, NOUN 
+nout, NOUN 
+plasma, NOUN 
+density, NOUN 
+outside, ADP 
+target, NOUN 
+
+, SPACE 
+measure, NOUN 
+plasma, NOUN 
+density, NOUN 
+uniformity, NOUN 
+inside, ADP 
+
+, SPACE 
+target, NOUN 
+shown, VERB 
+Fig, PROPN 
+3, NUM 
+decrease, NOUN 
+D, PROPN 
+L, PROPN 
+
+, SPACE 
+ratio, NOUN 
+nin, PROPN 
+nOUt, ADJ 
+decreases, NOUN 
+uniformity, NOUN 
+decreases, VERB 
+
+, SPACE 
+metal, NOUN 
+anode, NOUN 
+applied, VERB 
+ratio, NOUN 
+nin, PROPN 
+noUt, NOUN 
+clearly, ADV 
+
+, SPACE 
+increases, NOUN 
+example, NOUN 
+D, PROPN 
+L, PROPN 
+=, NOUN 
+0.6, NUM 
+close, ADJ 
+1.0, NUM 
+
+, SPACE 
+D, PROPN 
+L, PROPN 
+=, SYM 
+0.4, NUM 
+increases, VERB 
+times, NOUN 
+
+, SPACE 
+times, NOUN 
+D, PROPN 
+L, PROPN 
+=, NOUN 
+0.2, NUM 
+means, VERB 
+metal, NOUN 
+
+, SPACE 
+anode, NOUN 
+set, VERB 
+inside, ADP 
+target, NOUN 
+plasma, NOUN 
+density, NOUN 
+
+, SPACE 
+uniformity, NOUN 
+inside, ADP 
+target, NOUN 
+improved, VERB 
+
+, SPACE 
+inner, ADJ 
+surface, NOUN 
+implantation, NOUN 
+time, NOUN 
+
+, SPACE 
+implantation, NOUN 
+dose, NOUN 
+uniformity, NOUN 
+inside, ADP 
+target, NOUN 
+
+, SPACE 
+acceptable, ADJ 
+range, NOUN 
+industrial, ADJ 
+application, NOUN 
+
+, SPACE 
+ion, NOUN 
+implantation, NOUN 
+
+, SPACE 
+b, PROPN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Electric, ADJ 
+field, NOUN 
+distribution, NOUN 
+inside, ADP 
+cylindrical, ADJ 
+target, NOUN 
+
+, SPACE 
+electric, ADJ 
+field, NOUN 
+b, X 
+uniform, ADJ 
+electric, ADJ 
+field, NOUN 
+
+, SPACE 
+formed, VERB 
+metal, NOUN 
+anode, NOUN 
+set, VERB 
+inside, ADP 
+target, NOUN 
+0.3, NUM 
+
+, SPACE 
+0.2, NUM 
+anode, PROPN 
+
+, SPACE 
+0, NUM 
+anode, ADJ 
+
+, SPACE 
+0.0, NUM 
+1, NUM 
+
+, SPACE 
+0.0, NUM 
+0.2, NUM 
+0.4, NUM 
+0.6, NUM 
+0.8, NUM 
+1.0, NUM 
+1.2, NUM 
+
+, SPACE 
+D, PROPN 
+L, PROPN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Influence, NOUN 
+metal, NOUN 
+anode, NOUN 
+target, VERB 
+size, NOUN 
+factor, NOUN 
+D, PROPN 
+L, PROPN 
+
+, SPACE 
+plasma, NOUN 
+uniformity, NOUN 
+inside, ADP 
+target, NOUN 
+
+, SPACE 
+sheath, ADJ 
+model, NOUN 
+described, VERB 
+follow-, X 
+
+, SPACE 
+ing, ADJ 
+time, NOUN 
+scales, NOUN 
+time, NOUN 
+t, NOUN 
+=, SYM 
+0, X 
+target, NOUN 
+zero, NUM 
+
+, SPACE 
+potential, NOUN 
+large, ADJ 
+negative, ADJ 
+high, ADJ 
+voltage, NOUN 
+pulse, NOUN 
+applied, VERB 
+
+, SPACE 
+target, NOUN 
+time, NOUN 
+scale, NOUN 
+inverse, ADJ 
+electron, NOUN 
+plasma, NOUN 
+
+, SPACE 
+frequency, PROPN 
+w, PROPN 
+electrons, NOUN 
+near, ADP 
+target, NOUN 
+inner, ADJ 
+surface, NOUN 
+
+, SPACE 
+expelled, VERB 
+region, NOUN 
+ion, NOUN 
+motion, NOUN 
+negligible, ADJ 
+
+, SPACE 
+ion, NOUN 
+matrix, NOUN 
+sheath, NOUN 
+formed, VERB 
+Fig, PROPN 
+4, NUM 
+
+, SPACE 
+slower, ADJ 
+time, NOUN 
+scale, NOUN 
+inverse, ADJ 
+ion, NOUN 
+plasma, NOUN 
+frequency, NOUN 
+
+, SPACE 
+wpi, ADJ 
+ions, NOUN 
+accelerated, VERB 
+inner, ADJ 
+surface, NOUN 
+
+, SPACE 
+target, NOUN 
+fall, VERB 
+ion, NOUN 
+matrix, NOUN 
+sheath, NOUN 
+Finally, ADV 
+
+, SPACE 
+longer, ADJ 
+time, NOUN 
+scale, VERB 
+decreasing, VERB 
+ion, NOUN 
+density, NOUN 
+
+, SPACE 
+inside, ADP 
+sheath, ADJ 
+region, NOUN 
+causes, VERB 
+corresponding, ADJ 
+decrease, NOUN 
+
+, SPACE 
+electron, NOUN 
+density, NOUN 
+sheath, ADJ 
+edge, NOUN 
+expands, VERB 
+
+, SPACE 
+ion, NOUN 
+acoustic, ADJ 
+velocity, NOUN 
+expanding, VERB 
+sheath, NOUN 
+as-, AUX 
+
+, SPACE 
+sumed, VERB 
+obey, VERB 
+Child, PROPN 
+Langmuir, PROPN 
+law, NOUN 
+l, X 
+l, NOUN 
+
+, SPACE 
+instant, NOUN 
+propagation, NOUN 
+current, NOUN 
+supplied, VERB 
+
+, SPACE 
+ions, NOUN 
+uncovered, VERB 
+expanding, VERB 
+sheath, NOUN 
+sheath, ADJ 
+
+, SPACE 
+edge, NOUN 
+velocity, NOUN 
+case, NOUN 
+described, VERB 
+
+, SPACE 
+z, NOUN 
+4.70, NUM 
+2, NUM 
+us/=, PROPN 
+
+, SPACE 
+
+, SPACE 
+dt, PROPN 
+9n, PROPN 
+em, PRON 
+rr, VERB 
+P, PROPN 
+
+, SPACE 
+radius, NOUN 
+sheath, ADJ 
+edge, NOUN 
+rt, PROPN 
+inner, ADJ 
+
+, SPACE 
+radius, NOUN 
+cylindrical, ADJ 
+target, NOUN 
+n, ADV 
+plasma, NOUN 
+density, NOUN 
+v, NOUN 
+
+, SPACE 
+target, NOUN 
+negative, ADJ 
+bias, NOUN 
+m, VERB 
+ion, NOUN 
+mass, NOUN 
+/3, PROPN 
+=, NOUN 
+fi, NOUN 
+T, PROPN 
+I~, PROPN 
+
+, SPACE 
+negative, ADJ 
+sign, NOUN 
+means, VERB 
+sheath, NOUN 
+expands, VERB 
+
+, SPACE 
+center, NOUN 
+
+, SPACE 
+summary, NOUN 
+present, VERB 
+new, ADJ 
+technique, NOUN 
+inner, ADJ 
+
+, SPACE 
+surface, NOUN 
+implantation, NOUN 
+cylindrical, ADJ 
+target, NOUN 
+describe, VERB 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Ion, NOUN 
+matrix, NOUN 
+sheath, NOUN 
+model, NOUN 
+inner, ADJ 
+surface, NOUN 
+implantation, NOUN 
+
+, SPACE 
+M., PROPN 
+Sun, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Ins@., PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+II1, NOUN 
+1996, NUM 
+187, NUM 
+189, NUM 
+189, NUM 
+
+, SPACE 
+sheath, ADJ 
+model, NOUN 
+case, NOUN 
+Experiment, NOUN 
+results, NOUN 
+
+, SPACE 
+method, NOUN 
+1, X 
+obviouslv, ADJ 
+increase, NOUN 
+Dlasma, PROPN 
+densitv, PROPN 
+Plasma, PROPN 
+Assisted, PROPN 
+Processes, PROPN 
+Industrial, PROPN 
+Applications, PROPN 
+
+, SPACE 
+22, NUM 
+25, NUM 
+1988, NUM 
+Atlanta, PROPN 
+GA, PROPN 
+
+, SPACE 
+uniformity, NOUN 
+inside, ADP 
+target, NOUN 
+inner, ADJ 
+surface, NOUN 
+2, X 
+gener-, NOUN 
+
+, SPACE 
+ate, VERB 
+plasma, NOUN 
+sheath, NOUN 
+inner, ADJ 
+surface, NOUN 
+target, NOUN 
+
+, SPACE 
+plasma, VERB 
+implant, VERB 
+inner, ADJ 
+surface, NOUN 
+target, NOUN 
+
+, SPACE 
+effectively, ADV 
+3, X 
+achieve, VERB 
+dose, ADJ 
+uniformity, NOUN 
+acceptable, ADJ 
+
+, SPACE 
+industrial, ADJ 
+application, NOUN 
+5, X 
+G.P., PROPN 
+Meeker, PROPN 
+S., PROPN 
+Baumann, PROPN 
+J.R., PROPN 
+Conrad, PROPN 
+R.S., PROPN 
+Post, PROPN 
+
+, SPACE 
+Proceedings, PROPN 
+International, PROPN 
+Conference, PROPN 
+Ion, PROPN 
+Beam, PROPN 
+
+, SPACE 
+Modification, PROPN 
+Materials, PROPN 
+Tokyo,, PROPN 
+June, PROPN 
+12, NUM 
+17, NUM 
+1988, NUM 
+
+, SPACE 
+6, X 
+J.R., PROPN 
+Conrad, PROPN 
+C., PROPN 
+Forest, PROPN 
+IEEE, PROPN 
+International, PROPN 
+Conference, PROPN 
+
+, SPACE 
+Plasma, PROPN 
+Science, PROPN 
+Saskatoon, PROPN 
+Canada, PROPN 
+Mav, PROPN 
+19, NUM 
+21, NUM 
+1986, NUM 
+D., PROPN 
+
+, SPACE 
+28, NUM 
+
+, SPACE 
+7, X 
+J.R., PROPN 
+Conrad, PROPN 
+T., PROPN 
+Castagna, PROPN 
+Proceedings, NOUN 
+39th, ADJ 
+
+, SPACE 
+Annual, PROPN 
+Gaseous, PROPN 
+Electronics, PROPN 
+Conference, PROPN 
+Madison, PROPN 
+WI, PROPN 
+Octo-, PROPN 
+
+, SPACE 
+References, PROPN 
+ber, NOUN 
+7, NUM 
+10, NUM 
+1986, NUM 
+p., NOUN 
+75, NUM 
+
+, SPACE 
+8, X 
+J.R., PROPN 
+Conrad, PROPN 
+T., PROPN 
+Castagna, PROPN 
+Bull, PROPN 
+Phys, NOUN 
+Sot, PROPN 
+31, NUM 
+1986, NUM 
+
+, SPACE 
+1479, NUM 
+
+, SPACE 
+l, X 
+J.R., PROPN 
+Conrad, PROPN 
+J., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+62, NUM 
+1987, NUM 
+777, NUM 
+
+, SPACE 
+2, X 
+J.R., PROPN 
+Conrad, PROPN 
+R.A., PROPN 
+Dodd, PROPN 
+F.J., PROPN 
+Worzala, PROPN 
+N.C., PROPN 
+Tran, PROPN 
+J., PROPN 
+
+, SPACE 
+Appl, PROPN 
+Phys, PROPN 
+62, NUM 
+1987, NUM 
+4591, NUM 
+
+, SPACE 
+3, X 
+J.R., PROPN 
+Conrad, PROPN 
+R.A., PROPN 
+Dodd, PROPN 
+F.J., PROPN 
+Worzala, PROPN 
+X., PROPN 
+Qiu, PROPN 
+Surf, PROPN 
+
+, SPACE 
+Coatings, PROPN 
+Technol, PROPN 
+36, NUM 
+1988, NUM 
+927, NUM 
+
+, SPACE 
+4, X 
+J.R., PROPN 
+Conrad, PROPN 
+R.A., PROPN 
+Dodd, PROPN 
+F.J., PROPN 
+Worzala, PROPN 
+X., PROPN 
+Qiu, PROPN 
+R.S., PROPN 
+Post, PROPN 
+
+, SPACE 
+Proceedings, NOUN 
+ASM, PROPN 
+Conference, PROPN 
+Ion, PROPN 
+Implantation, PROPN 
+9, NUM 
+F.J., PROPN 
+Worzala, PROPN 
+R.A., PROPN 
+Dodd, PROPN 
+J.R., PROPN 
+Conrad, PROPN 
+J.L., PROPN 
+Radtke, PROPN 
+
+, SPACE 
+Proceedings, PROPN 
+International, PROPN 
+Conference, PROPN 
+Tool, PROPN 
+Materi-, PROPN 
+
+, SPACE 
+als, NOUN 
+Chicago, PROPN 
+IL, PROPN 
+September, PROPN 
+28, NUM 
+October, PROPN 
+1, NUM 
+1987, NUM 
+
+, SPACE 
+lo, X 
+J.R., PROPN 
+Conrad, PROPN 
+J.I., PROPN 
+Radtke, PROPN 
+Conference, PROPN 
+Record, PROPN 
+1987, NUM 
+IEEE, ADJ 
+
+, SPACE 
+International, PROPN 
+Conference, PROPN 
+Plasma, PROPN 
+Science, PROPN 
+Arlington, PROPN 
+VA, PROPN 
+
+, SPACE 
+June, PROPN 
+l-3, PROPN 
+1987, NUM 
+paper, NOUN 
+6Y7, NOUN 
+p., NOUN 
+124, NUM 
+
+, SPACE 
+l, X 
+l, NOUN 
+I., PROPN 
+Langmuir, PROPN 
+K., PROPN 
+Blodgett, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+22, NUM 
+1923, NUM 
+347, NUM 
+
+, SPACE 

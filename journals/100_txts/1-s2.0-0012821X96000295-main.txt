@@ -1,0 +1,941 @@
+ELSEVIER EkthandPlanetaryScienceLetters 139(19%)411-421 
+Sorption and diffusion of helium in garnet: 
+volatile tracing and dating 
+T.J. Dunai a’ * , K. Roselieb b EPSL 
+implications for 
+a Institutfiir Isotopengeologie und Mineralische Rohstoffe, ETH-Zentrum, 8092-Ziirich, Switzerland 
+b Mineralogisch-Petrologisches Institut, Unioersitiit Giittingen. GoldschmidtstraJe I, 37077 Giittingen. FRG 
+Received 29 December 1995; accepted 14 February 1996 
+Abstract 
+We present data on He sorption in garnet obtained by loading garnet samples with He at 250 + 10 bar in the temperature 
+range 800-990°C. For this temperature range we find a three-fold decrease in He sorption from 2.1 . 10F5 (800°C) to 
+0.72 . lo-’ cm3 STPg- ’ bar- ’ (990°C). We use the sorption data of partially saturated samples to obtain the activation 
+energy (E, = 660 k :g kJ/mol) and frequency factor (D, = 1015~q+**~s~2) cm2/s> for He diffusion in garnet. 
+The results of our study suggest that garnet is probably one of the most retentive silicate minerals for He, which is in 
+agreement with its very low ion porosity. The high retentivity results in a high closure temperature (T,) for the (U + Th)-He 
+system. For cooling rates as low as O.l-l”C/Ma, T, lies between 590” and 630°C. Accordingly, (U + Th)-He dating of 
+garnet may provide information about the medium to high temperature cooling path of a rock at the lower end of the 
+temperature range of currently used isotopic systems in garnet. In addition, the high retentivity for He makes garnet a 
+potentially useful mineral in the field of exposure age dating. Currently, it is the only-known common silicate mineral 
+occurring in upper crustal rocks which probably retains cosmogenic noble gases under all climatic conditions. For 
+geochemical studies using noble gases as tracers for geofluids, garnet is a perfect container if temperatures never exceed 
+600°C; that is, all originally trapped noble gases are quantitatively retained. 
+Keywords: U/He; helium; garnet group; diffusion; sorption 
+1. Introduction 
+Diffusion studies on helium in natural samples are 
+directed at assessing either the suitability of a min- 
+era1 for dating [l-3] or the ability of a mineral to preserve a geochemically relevant noble gas signa- 
+ture in fluid inclusions or in its lattice [4-61. Helium 
+measurements in garnet, the object of the present 
+study, have potential applications in both these fields; 
+namely, dating and geochemical tracing. Ther- 
+mochronological information at the low-temperature 
+side of currently used decay schemes is potentially 
+available by application of the (U + Th)-He method 
+l Corresponding author. Present address: Isotopegeology, Aard- to garnet. Also, in the field, exposure-age dating of 
+wetenschappen, Vxije Universiteit Amsterdam, De Boelelaan 1085, garnet might prove useful in supplementing quartz 
+1081 HV Amsterdam, The Netherlands. Fax: +31 20 6462457. and feldspars in areas where outcrops of ultramatic 
+E-mail: dunt@geo.vu.nl. rocks are missing. In geochemical studies, where 
+0032-821X/%/$12.00 8 1996 Elsevier Science B.V. All rights reserved 
+PII SO0 12-82 1 X(96)00029-5 
+412 TJ. Dunai, K. Roselieb / Earth and Planetary Science Letters I39 (1996) 41 I-42 I 
+noble gases are used as tracers for fluids in the 
+continental crust, garnet also holds promise. To date, 
+it is the only common mineral in the crust which has 
+been shown to preserve primary high-grade fluid 
+inclusions [7-91. Furthermore, garnet is able to pre- 
+serve relics of very ancient noble gas signatures 
+[lo-121. 
+Here we present He sorption data of garnets 
+loaded with He at temperatures between 800” and 
+990°C. This data is used to derive the activation 
+energy and frequency factor of He diffusion in gar- 
+net. The results are discussed in the context of using 
+garnet in both geochronological and geochemical 
+tracer studies. 
+2. Sample material 
+The garnets used for the experiments were alman- 
+dine-rich pyropes with minor grossular and spessar- 
+tine components (Pyr,, Alm,Gro,Sp, ). They also 
+contained traces of P,O, and TiO, ( - 0.1 and _ 0.02 
+wt%, respectively). Their Fe+3/Fe2f ratios varied 
+between 0.02 and 0.04 (Mbssbauer spectroscopy, W. 
+Lottermoser, pers. commun.). The tumbled material 
+comes from Orissa, India, and was mined for com- 
+mercial purposes. The precise location of the mining 
+operation is unknown. 
+Each individual stone (0 5-10 mm) was in- 
+spected in immersion oil under the binocular micro- 
+scope with transmitted and reflected light. Transmit- 
+ted light reveals compact inclusions, whilst reflected 
+light is essential to reveal rutile needles. All stones 
+with visible inclusions at 4O-fold magnification were 
+discarded as potential sample material. The optical 
+examination was facilitated by the smooth and pol- 
+ished surfaces of the tumbled stones. By crushing 
+and sieving two individual garnets we prepared the 
+following grain size fractions: 6-l 1 pm, 1 l-20 
+pm, 11-30 pm, 30-60 pm and 120-145 pm. 
+Grain sizes > 30 pm were dry-sieved whereas 
+smaller grain sizes were sieved using filter pressing 
+in acetone. We could not avoid adhesion of the 
+smallest grain sizes and the nominal 6-l 1, 11-20 
+and 1 l-30 pm grain size fractions contain variable 
+but significant amounts (up to 40 vol.%) of much 
+smaller grains, as small as 0.5 pm (0.5 pm is the 
+lower detection limit of the Ultra-fine Particle Ana- lyzer (UPA) used). However, the precise knowledge 
+of the actual grain sizes in these small grain size 
+fractions is not crucial, because we only use them to 
+obtain He saturation concentrations. Low-tempera- 
+ture diffusive loss from the finest grains, however, 
+did occur and needs to be taken into consideration 
+when determining saturation concentrations (see be- 
+low). The grain size distribution of the 30-60 pm 
+fraction has a median of about 45 pm (UPA), a 
+value which is later used for the diffusion calcula- 
+tions. The 120-145 pm fraction was too coarse for 
+the UPA used and we take the geometric mean of 
+132.5 pm for later calculations. The grains were 
+optically examined and were found to be roughly 
+spherical and not appreciably elongated. Spheres 
+were manufactured from two other garnets by cutting 
+garnets into cubes and subsequently abrading them 
+following the method of Bond [13]. Diameters of 
+those fabricated garnet spheres had a maximum vari- 
+ability of 1%. Diameters were determined optically 
+as well as mechanically and are given in Table 1. 
+3. Methods 
+From structural considerations, and by compari- 
+son of garnet ion porosity with that of olivine, we 
+expected a similar, if not higher He retentivity in 
+garnet than in olivine [ 143. Thus, step-wise heating 
+experiments would have to be carried out at tempera- 
+tures greater than 900°C to release accurately mea- 
+surable fractions of He in a reasonable time (garnets 
+used contained 0.3-2.5 * 1O-6 cm3STP/g radiogenic 
+4He). At these temperatures, however, the almandine 
+component is meta-stable (reaction almandine # 
+fayalite + cordierite + herzynite + fluid located at 
+N 82O”C, 250 bar, fo2 at IW/IM, 1153). As the 
+garnet used for our experiments has a considerable 
+almandine component, we anticipated unstable ’ be- 
+haviour of our samples during in vacua heating 
+experiments. Therefore, we dismissed the idea of 
+conventional step-wise heating experiments as it 
+would have been impossible to prove the (meta- 
+stability of samples throughout the experiments. 
+High-temperature release experiments, which would 
+allow investigations for phase transitions, were con- 
+ducted in the reconnaissance stage of the project, but 
+were found to be unsuitable for the highly variable 
+T.J. Dunai, K. Roselieb/Ear?k and Planetary Science Leners 139 (1996) 41X-421 413 
+Table 1 
+He sorption data for garnet samples loaded at 2.50 bar 
+size 
+Ml V69.I-I 6-11 
+V69.l-2(97) b79 
+Vb9.l-2(881 1224 
+V58.l-l II-20 
+VS&l-I 11.20 
+V58. I-2 30.60 
+VSS-14(n) 21b3 
+V5&2-3 I I-20 
+v5a.2-3 11-20 
+V58-2-2 898 
+v75.1.I 6-1 I 
+v75.I-2 11.20 
+v75.2.2 II-U) 
+V72.1.I 3aM) 
+‘.72-I-2(76) 2uO 
+V72-I-X98) 690 
+w2-2-1 6-I 1 
+v72.2-2 11.20 
+v72.2-3(103) law 
+V6)_I-I 6-11 
+Vb3.I-1 611 
+Vb3-1-3 830 
+V63.2-l 3060 
+Vb3.2.X85) IQ70 
+Vb3.2-X99) 680 1.64 800 167.5 l 211(4) 
+0.66 800 167.5 l 
+3.83 800 167.5 l 
+7.21 8CO 191 M 
+2.39 800 191 M, l * 
+10.15 800 191 
+21.00 em 191 
+7.56 BM) 191 M.lW 
+5.76 800 191 M. nv, l * 
+1.45 800 191 nv 
+6.96 800 501.5 t 
+0.81 800 Ml.5 t 
+0.18 ~MI 501.5 t 
+2.04 QOO 24.83 l 
+23.34 900 24.83 l 
+0.60 QUO 24.83 ’ 
+2.82 wo 24.83 l 
+3.41 900 24.83 l 
+2.23 900 24.83 l 
+1.77 900 116.5 M 
+7.10 900 116.5 M. l * 
+1.25 900 116.5 
+4.46 900 116.5 
+16.78 900 116.5 
+0.72 900 116.5 
+v57.1-I 3a.a 2.94 990 18 M 
+V57-I-2 120-145 19.98 990 18 
+V57-2-I 30.60 8.44 990 18 RV 
+VS7.2-2 II-30 2.92 990 18 M.lW 
+V57-2-2 Il.30 2.61 990 18 MIW.” 
+V57.2-3 216rJ 21.12 990 18 W 
+V%2.1 MM) 6.61 990 18.58 M 
+VM2.2 m&145 12.40 990 18.58 
+VSb-2-3 2140 19.95 990 18.58 
+V68-I-I 6-11 I.77 QQO 18.58 t 
+Vb%l-2 II-20 3.41 QQO 18.5B * 1.75(8) 
+1.51(2) 
+5W5) 
+46Wb) 
+16X2) 
+X73(6) 
+55X7) 
+525(7) 
+22.916) 
+8.78(9) 
+13.2(S) 
+17.9(3) 
+11X2) 
+4 54(S) 
+5 l(3) 
+29X4) 
+3Qx4) 
+900) 
+4w7) 
+29W3) 
+9 70) 
+law) 
+3 230) 
+3 8(2) 
+139(2) 
+65 X7) 
+QW) 
+W3) 
+1330) 
+10.4(l) 
+107(l) 
+35 S(4) 
+8.31(S) 
+937(20) 
+70918) M4.IU” 
+3.w 10 I’ 
+b.50.1W’ 
+1.56~10” 
+4.39. IQ” 
+4.49.10” 
+L.53.Ialz 
+1.85.10” 
+1.2I.10” 
+7.87.1a11 
+9.444a0* 
+2.69.1U” 
+5.41.1U” 
+3.58.10” 
+2.44.w 
+3.2640~~ 
+Vb8-1.3m) 770 0.98 Q90 18.58 * 19.8(6) 
+vb8-l-3@1) 1370 5.44 990 18.58 * II WI) 
+V65 611.11.20& 99069 Q 
+2280 
+Errors on He concentrations are 1 u and given in brackets and 
+refer to the last significant unit. M = samples investigated by 
+Massbatter spectroscopy; IW= samples loaded with Fe/Fe0 
+buffer, * = samples accidentally uncooled for 2 months; * * = 
+duphcate measurements of and ahquot purposely uncooled for 9 
+months; t = R capsule leaked; $ = garnet was unstable, peak 
+broadening and new peak8 observed by X-ray diffraction, severe 
+surface alteration on spheres; face = garnet instability macroscopi- 
+tally evident. Sorption experiments were conducted at the Univer- 
+sity of. Giittingen, noble gas analysis at the ETH-Ziirich and 
+Miissbaurer spectroscopy at the University of Salzburg (W. Lot- 
+termoscr. pers. commun.). 
+natural He concentrations in the sample material. 
+Instead, we chose to reverse conventional step-wise 
+heating experiments; that is, to load the garnets at a 
+high pressure with He and subsequently measure the 
+incorporated He. Although this approach requires 
+loading temperatures exceeding the almandine stabil- 
+ity field, the garnet can be studied for signs of 
+instability after loading and prior to He analysis. The iron content in garnet required additional 
+experimental precautions. The possibility of Fe loss 
+into the Pt capsule and redox reactions had to be 
+considered. To prevent Fe loss we used a double 
+capsule technique. We loaded the garnet samples 
+into garnet crucibles that were manufactured from 
+the same material as the samples. The garnet cru- 
+cibles were placed in a Pt capsule of 4 mm outer and 
+3.6 mm inner diameter and 20 mm length (Fig. 1). 
+This assembly was dried for about 1 min at 500°C. 
+Subsequently, the capsule was filled with 50-60 bar 
+He and sealed following the method of [16]. To 
+study the control of oxygen fugacity on the experi- 
+ments, some were performed with an Fe/Fe0 buffer 
+in the capsules. MGssbauer spectrometric investiga- 
+tion of buffered and unbuffered samples prior to and 
+after loading revealed no shifts in Fe3+/Fe2+ ratios 
+during the loading experiments. 
+Usually two capsules were mounted obliquely in a 
+ceramic holder and placed in an internally heated 
+pressure vessel at 250 f 10 bar using Ar as the 
+pressure-transmitting medium. The pressure was lim- 
+ited to 250 bar to prevent strong compaction of Pt 
+capsules and subsequent destruction of the garnet 
+crucibles. Run temperatures were between 800” and 
+990°C and run times varied between 18 and 500 h. 
+We conducted no zero time runs because run times 
+are all much longer than the time required to reach 
+experimental conditions. Table 1 summarizes experi- 
+A PI-capsule 
+arnet crucible 
+2mm 
+- 
+Fig. I. Sketch of a Pt capsule as used for the He sorption 
+experiments. 
+
+414 T.J. Dunai, K. Roselieb/Earth and Planetary Science Letters 139 (1996) 411-42I 
+I 
+800 900 1000 
+temperature PC) 
+Fig. 2. He sorption at NO”, 900” and 990°C. Error bars are 5%. 
+they include uncertainty of pressure, temperature (i.e. the tempera- 
+ture effect on sorption) and the uncertainty of He abundance 
+determinations. Symbols: circles = 1 l-20 km; squares = 6- 11 
+pm; filled symbols = uncooled for a maximum of I week; grey = 
+purposely uncooled for 9 months; unfilled = accidentally uncooled 
+for 2 months. 
+mental conditions. Pressure readings were taken with 
+a Burster (8219R) pressure sensor and a DVM read 
+out (type 9151). They were checked against a cali- 
+brated Heise manometer. The thermocouple (Pt- 
+Pt9ORhlO) was placed into the ceramic holder be- 
+tween the two samples. The thermocouple was 
+checked under pressure against the melting point of 
+Au and is accurate to < +2 K. The temperature 
+gradient over the length of the capsule is + 10K. 
+After loading at high temperatures the samples were 
+quenched at about 400 K/min. 
+To minimize diffusive loss in the finest grain size 
+fractions the samples were stored in liquid nitrogen 
+after loading. Usually, the samples were at room 
+temperature for less than 1 week prior to He analy- 
+sis. Some samples were left uncooled for 2 months 
+because the automated nitrogen filling system failed 
+(Table 1). Duplicate measurements of aliquots cooled 
+in liquid nitrogen and purposely uncooled for 9 
+months, indicate a diffusive loss of about 25% and 
+O-15% for the 6-11 and 11-20 pm grain size 
+fractions during that period, respectively (Fig. 2). 
+The finest grain sizes were checked for signs of 
+instability, because changes would most likely occur 
+in these first. We used X-ray diffraction and 
+Miissbauer spectroscopy to check for new phases 
+and for changes in the Fe3+/Fe2+ ratios, respec- 
+tively. Spheres were inspected for surface changes with an ESEM (Environmental-SEM, Electroscan@ >, 
+which allowed study of samples without any coating. 
+In one experiment (V65, 99O”C, 69 h) garnet break- 
+down was macroscopically evident and samples were 
+discarded. In another experiment (V68,99O”C, 18 h 
+35 min) X-ray diffraction patterns indicated the pres- 
+ence of new phases. Furthermore, the garnet peaks 
+were broadened. The spheres of this experiment 
+suffered severe surface alteration. To illustrate the 
+effect of garnet instability the latter samples were 
+nevertheless analyzed and we found that garnet in- 
+stability increased the apparent solubility consider- 
+ably (Table 1). In all experiments where garnet was 
+found to be stable, a change in Fe3+/Fe2+ ratios 
+could not be resolved analytically (W. Lottermoser, 
+pers. commun.). 
+Helium was analyzed by mass spectrometer after 
+being released by heating the samples to 1800°C for 
+15 min. The samples were not baked prior to analy- 
+sis. Typical blanks during the course of the investiga- 
+tion were l-2 . lo-” cm3STP He. The reproducibil- 
+ity of He abundance determinations of a noble gas 
+standard processed in exactly the same way as the 
+samples is 1% (1 u >. A description of the analytical 
+equipment and the analytical procedure is given in 
+IlOl. 
+4. Results 
+The sorption data for all grain size fractions ana- 
+lyzed are given in Table 1. In general, we observed a 
+decrease in He sorption with increasing grain size. 
+Here we use the finest grain sizes to derive estimates 
+of the saturation concentrations. Data of the larger, 
+partially saturated, grain sizes is later used for the 
+calculation of the diffusion coefficients. Sorption 
+data for the fine grain size fractions are displayed in 
+Fig. 2. For each temperature the lower He concentra- 
+tions are always observed in those samples which 
+were uncooled for long periods of time (2-9 months), 
+whereas permanently cooled samples invariably have 
+the highest concentrations. We therefore explain the 
+low He concentrations of the uncooled samples as 
+artefacts of low-temperature diffusive loss of He 
+from ultra fine particles (< 1 pm) prior to analysis. 
+The data of the uncooled samples is thus not used. 
+T.J. Dunui, K. Roselieb / Earth and Planetary Science Letters 139 (1996) 41 l-421 41.5 
+We take the good agreement obtained for the 6- 11 
+and 11-20 pm fractions loaded for 24 h 50 min and 
+116 h 30 min @OO”C), respectively, as an indication 
+that these samples are effectively saturated. Experi- 
+ments designed to prove saturation at 800°C and 
+990°C; that is, using longer loading time or finer 
+grain sizes, failed because the Pt capsules leaked or 
+garnet was no longer meta-stable (Table 1). Never- 
+theless, we consider the 1 l-30 pm grains loaded at 
+990°C for 18 h to be saturated because of the faster 
+diffusion at higher temperature. It is, however, very 
+likely that the grains loaded at 800°C for 191 h 
+(1 l-20 pm) are not completely saturated. We take 
+this view because He diffusion at 800°C is more than 
+100 times slower than at 900°C (see below) and the 
+maximum duration of (successful) experiments at 
+800°C was only 1 l/2 times as long as the loading 
+time for the same grain size at 900°C; that is, the 
+samples loaded at 800°C would only be saturated if 
+saturation at 900°C occurs within - 20 min. 
+From the highest concentrations obtained for each 
+temperature we obtained Henry coefficients for He 
+sorption in garnet. These are: 2.1 . 10e5, 1.6. low5 
+and 0.72 - 10m5 cm3STPg-’ bar- ’ for 800”, 900” 
+and 990°C respectively. 
+5. Discussion 
+5.1. He sorption in garnet 
+Currently, the solubility of noble gases in natural 
+minerals is not well understood. Different samples of 
+the same mineral display different sorption be- 
+haviour and reported solubilities may vary by up to 
+l-2 orders of magnitude [ 17,181. Furthermore, there 
+is no ‘consensus on the preferred trapping sites of 
+noble gases. Broadhurst and co-workers [ 17,181 
+favour lattice vacancies whereas Hiyagon and Ozima 
+[19] favour interstitial lattice sites. A recent study of 
+Ar sorption in quartz [20] reveals heterogenous Ar 
+distribution in the samples, which implies a consider- 
+able influence of structural defects (e.g., extended 
+dislocations and fluid inclusions). Although there is 
+currently no clearly demonstrated solubility model 
+(see also [21 I), below we discuss our presently pre- 
+ferred view on mechanisms for He sorption in garnet 
+in the light of our data. The ideal, undisturbed structure of garnet lacks 
+large structural voids that may host He (atomic 
+diameter of He is 0.93 A, [22]). Thus non-ideal 
+phenomena, such as extended dislocations and point 
+defects, must provide the voids that may be occupied 
+by He. Besides serving as potential trapping sites for 
+helium, extended dislocations may serve as fast path- 
+ways of He transport, thereby affecting the kinetics 
+of sorption. Garnet has the proven ability to anneal 
+severe lattice damage, such as, for example, fission 
+tracks in laboratory experiments. Fission tracks are 
+erased after about 10 h at 660°C ([23] and references 
+therein). Due to the fact that we conducted our 
+experiments at 800°C and above and for 18 or more 
+hours, we assume that extended defects were effec- 
+tively annealed at the end of our experiments. This 
+means that the extended dislocations could only ac- 
+celerate He sorption in the first few hours of the 
+experiments. However, since extended dislocations 
+are orders of magnitude faster pathways of He trans- 
+port than volume diffusion [24], the sorption results 
+of partially saturated samples would be dominated 
+by the effects of extended dislocations. Indeed, we 
+observe that, partially saturated sample aliquots of 
+the same grain size (30-60 pm) loaded at 900°C for 
+25 and 117 h, contain almost identical amounts of 
+He. This observation is in agreement with the con- 
+cept that dislocations are important for the kinetics 
+of sorption but only active for few hours. We expect 
+that the former locations of annealed extended dislo- 
+cations may be detected as areas of enhanced He 
+sorption until volume diffusion erases concentration 
+gradients. For the larger grain sizes (> 30 pm) the 
+duration of this process clearly exceeds the time 
+scale of our experiments. Similar behaviour of sam- 
+ples; that is, near constancy of noble gas concentra- 
+tion after varying loading times, can be found for He 
+in olivine (K.R. and T.J.D., unpublished data) and 
+for Ar in quartz [20]. 
+A generally available trapping site for He in 
+garnet are the point defects created by charge com- 
+pensation for aliovalent chemical substitutions. The 
+crystal chemistry of garnet allows for a variety of 
+such substitutions. Among them are: Pv+, A13+, 
+Fe2+*3+, replacing Si4+ in the tetrahedral site, Ti4+ 
+replacing Al 3+ in the octahedral site and Ti4+, A13+, 
+Fe3+ replacing di-valent ions on the triangular do- 
+decahedron site [25]. Up to 5 . 10” vacancies/g are 
+416 T.J. Dunai, K. Roselieb / Earth and Planetary Science Letters I39 (1996) 41 l-421 
+created by the 0.048 wt% P we find in our garnet. 
+Further vacancies may be created if a small portion 
+of the Fe3+ is not on the octahedral site but in the 
+triangular dodecahedral site (for each 1% fraction of 
+Fe3+ on dodecahedral sites, 3. lOI vacancies/g are 
+created). In both cases these numbers are higher than 
+the number of He atoms we find in our saturated 
+samples (0.5-1.5 . 1017 atom/g>. Therefore, in prin- 
+ciple, the measured sorption could be accounted for 
+by point defects alone. On basis of the present data 
+set, however, we hesitate to assess the relative im- 
+portance of point defects versus extended disloca- 
+tions. 
+A prominent feature of Fig. 2 is the temperature 
+dependence of He sorption. In the temperature range 
+between 800” and 99O“C, He sorption decreases by a 
+factor of 3. The temperature dependence may well be 
+even more pronounced, considering the fact that the 
+grains were probably not saturated at 800°C (see 
+above). Decreasing solubilities with temperature are 
+also observed for other noble gases in other minerals. 
+Similar tendencies are reported for He in tridymite 
+and cristobalite, as well as for Ne, Ar and Kr in 
+sod&e and cancrinite 126,271. 
+5.2. He dfision in garnet, a comparison 
+Diffusion coefficients were determined from the 
+concentration ratio of the partially saturated grains/ 
+spheres and the saturated powders using the follow- 
+ing equation: 
+Mb -= 1 
+MO -5. F f.e(-n2.7rZ.D.t/a2) 
+n=l 
+after 1281. 
+Where, M, = the saturation concentration; Mb = 
+the concentration of the partially saturated samples; 
+t = the loading duration; a = the radius of the spheres 
+or grains. The equation was solved numerically for 
+D for n = 1 to n = 1000. Diffusion coefficients ob- 
+tained are given in Table 1 and plotted as a function 
+of temperature in Fig. 3. 
+For each temperature there is a wide range of D 
+values. For the 800°C experiments the D values vary 
+almost 3 orders of magnitude. The variation for the 
+900” and 990°C experiments is significantly lower 
+but still considerable. Although greatest care was Fig. 3. Arrhenius diagram for diffusion coefficients of He in 
+garnet at 8OO”, 900” and 990°C. Symbols are usually larger than 
+errors of D. Numbers to the right of the symbols give grain sizes 
+in microns and the run time in hours. The lower solid tie-line 
+gives the minimum estimate for volume diffusion of He in garnet 
+(E, = 660* I;$ kJ/mol and D, = 10’5.q+ ‘,- ‘.*) cm*/sec). Only 
+the 900” and 990°C experiments are considered because the 
+saturation concentration of He at 800°C is not well enough 
+constrained and probably higher than determined (D values are 
+too high, see text). The upper line potentially delineates shortcut 
+diffusion 1241. 
+taken in the selection of suitable starting material, we 
+see this variability in D values as an indication of 
+extended structural defects in the garnets used. We 
+take the decrease in the variability in D values from 
+lower to higher temperatures as an indication that the 
+defects anneal in the course of the loading experi- 
+ments. This finding is also supported by the consis- 
+tently lower D values obtained for samples loaded 
+for 116.5 h at 900°C compared to those loaded for 25 
+h at the same temperature (Fig. 3). Given a random 
+distribution of extended structural defects, large 
+grains should have a greater probability to ,:ontain 
+such defects than small ones. Furthermore, the rela- 
+tive importance of defects tends to be larger in 
+coarse grains than in small ones [24]. Indeed, we find 
+that the large spheres often have the highest D 
+values. It is, however, noteworthy that for 900“ and 
+800°C the lowest D values are obtained for spheres 
+with a diameter of 680 pm. This may indicate that 
+the garnets used have domains larger than 680 pm 
+that are virtually free of extended structural defects. 
+TJ. Dud. K. Roselieb / Earth and Planetary Science Letters 139 (1996) 41 l-421 417 
+We use the lowest D values obtained for the 900” 
+and 990°C fractions to derive the activation energy, 
+E,, and frequency factor, D,, of volume diffusion. 
+The corresponding values are 660(+ :z$ kJ/mol 
+and 1015.q+8V-5-21 cm*/sec, respectively. We do not 
+include the lowest diffusivities for 800°C because the 
+saturation concentration obtained for this tempera- 
+ture is probably too low (see above). The calculated 
+diffusivities are thus too high. We use only the 
+lowest D values of the remaining temperatures in 
+order to obtain, as close as possible, an estimate of 
+ideal volume diffusion. Both the calculated E, and 
+D,, are minimum values. This is because the lowest 
+D value for 990°C is rather well defined by three 
+independent experiments and we therefore assume 
+that this value is close to the actual value of volume 
+diffusion. At the same time, we cannot exclude 
+lower D values for 900°C. Thus, the slope of the 
+tie-line may be steeper and the y-axis intercept may 
+be shifted to higher values. The highest D values 
+may be used to estimate E, and D, of shortcut 
+diffusion; that is, the diffusion along structural de- 
+fects. The corresponding values are 490(+ E”) 
+kJ/mol and lO9.9(+6*-3.8) cm2/sec, respectively. 
+To date, there are only few published studies on 
+high temperature (> 700°C) He diffusion in miner- 
+als. Only data on olivine and diopside have been 
+reported so far (Fig. 4) [4,5,29]. The principal diffi- 
+culty in comparing the results of these studies to ours 
+is the difference in the sites on which He is trapped. 
+All previous studies investigated samples that con- 
+tained He almost exclusively in CO, fluid inclu- 
+sions, whereas in our samples He is trapped in lattice 
+defects. Therefore, the diffusion data on olivine and 
+diopside is complicated by the partitioning between 
+fluid and crystalline phases (for detailed discussion 
+see 151). The consequence is that the diffusion coeffi- 
+cients obtained may be several orders of magnitude 
+too low. Trull and Kurz [51 assessed to possibility of 
+correcting their data for those effects and obtained 
+rather high corrected diffusivities for He, higher than 
+for basalt melt, which they explained by the high 
+defect abundance in their samples. Following the 
+arguments of [5], we consider the experimentally 
+derived diffusion coefficients for He in olivine and 
+diopside as minimum values (Fig. 4). Consequently, 
+we note that garnet is probably the most retentive 
+silicate mineral for He known, because our values lb00 1400 1200 loo0 
+1o-5 I 800°C I 
+I. 1 I J 
+6 8 10 
+104/ (K-5 
+Fig. 4. Arrhenius diagram for diffusion of He in garnet, olivine 
+and diopside. The line representing He diffusion in gamet between 
+990” and 900°C is solid and the extrapolation to 800°C is stippled. 
+Data from [4], [5] and this study. 
+are probably maximum values. This finding is in 
+good agreement with the very low ion porosity (IP) 
+of garnet, which is the among lowest of all crustal 
+silicates, for example, the garnet investigated has an 
+IP as low as 27%. whereas diopside and olivine have 
+considerably higher IPs of 34% and 35%, respec- 
+tively (at 24”C, [ 141). 
+5.3. Geochronological applications 
+In order to derive an idea of the temperature at 
+which the (II + Th)-He system becomes isolated in 
+garnet we use the closure temperature (T,) concept 
+of Dodson [30]. We find that a garnet of 350 pm 
+radius has a T, for He between 590” and 630°C for 
+cooling rates between 0.1 and l”C/Ma (Fig. 5). We 
+take 350 pm as the example because the largest 
+grains which displayed a close to ideal volume diffu- 
+sion behaviour were of this size. For practical pur- 
+poses, this radius is probably a maximum because 
+non-gem quality, that is, ‘real’ garnets will have 
+smaller defect-free domains. If shortcut diffusion 
+[24] dominates the above closure temperatures would 
+be about 110°C lower. 
+The T,s of He in garnet are at the low end of the 
+range of values proposed for the Sm-Nd system 
+(600-750°C; [3I-33D and significantly lower than 
+418 T.J. Dud, K. Roselieb/Earth and Planetary Science Letters 139 (1996) 411-421 
+600 / 
+/ 
+/- 
+/ 
+0.01 0.1 1 
+grain radius (mm] 10 
+Fig. 5. Clown temperature for He diffusion in garnet for various 
+grain sizes and cooling rates. 
+that of the U-Pb system (> 8OO”C, [341). Therefore, 
+(U-Th)-He dating of garnet is potentially useful to 
+date low- to high-grade metamorphic rocks or gar- 
+net-bearing magmatic rocks. Information about the 
+high to medium temperature cooling history at the 
+low temperature end of currently used isotopic sys- 
+tems may be obtained. Great analytical care, how- 
+ever, has to be taken to assure that the splits on 
+which the U-Th determination are performed are 
+real aliquots of the splits used for the He determina- 
+tion. For regional metamorphic garnets which con- 
+tain little U and Th (e.g. [23,34]) but U-Th-rich 
+mineral inclusions this precaution is especially im- 
+portant. Magmatic and contact .metamorphic garnets 
+(mainly grossular and spessarine) often have higher 
+U and Th contents [23] and are therefore expected to 
+be less problematic. Analogous to excess Ar in 
+K-Ar and Ar-Ar dating, excess He may be present 
+in some garnets. This exce.ss He is most probably 
+trapped in fluid inclusions because of the highly 
+incompatible nature of He and the tight garnet struc- 
+ture. Crush-release experiments may be used to de- 
+tect and correct for this excess He. 
+In the field of exposure age dating, using cosmo- 
+genie noble gas nuclides garnet may also prove 
+useful. Garnet is common and, as our results show, 
+retentive for He and, by inference, also for Ne. This combination of features is not common amongst 
+rock-forming minerals. Olivine and diopside are re- 
+tentive for He and Ne [5,35] but their use is limited 
+to outcrops of mafic rocks. Quartz and feldspars 
+potentially retain cosmogenic He only at very low 
+temperatures, as found in Antarctica, whereas in 
+warm areas they loose cosmogenic 3He [3,36,37]. 
+We are aware that, similar to olivine, cosmogenic 
+3He may diffuse faster in garnet at low temperatures 
+than inferred from high temperature experiments [3]. 
+This is probably due to the predominance of shortcut 
+diffusion [24] along un-annealed structural defects 
+(see previous section). We also see the effects of 
+shortcut diffusion in our experimental data and pre- 
+viously derived a lower T, for diffusion dominated 
+by defects (- 480°C). For garnets from other loca- 
+tions this value may be higher or lower, but probably 
+always higher than surface temperatures on Earth. 
+Furthermore, from structural considerations, there is 
+no reason to assume that garnet is more likely to 
+suffer low temperature He loss than olivine; the 
+latter has the demonstrated ability to retain cosmo- 
+genie ‘He in all climates. We take this view because 
+olivines frequently display undulose extinction, faint 
+translation lamellae (slip bands) and kink-bands (in- 
+homogeous translation gliding) [38] and all these 
+features indicate a high density of extended defects, 
+possibly enhancing diffusion. In contrast, almandine 
+and pyrope-rich garnets, the most common garnet 
+species, are usually devoid of these features [381. 
+Therefore, on average, they probably have less de- 
+fects than olivine. Spessartine and garnets of the 
+ugrandite series frequently show anomalous birefrin- 
+gence [38], possibly indicating a high defect density 
+due to excessive strain in the lattice. The latter garnet 
+species are, anyhow, unsuitable for exposure age 
+dating due to their unfavourable noble gas compo- 
+nent structure, which is discussed elsewhere in detail 
+WI. 
+5.4. Geochemical applications 
+High grade metamorphic fluids, their provenance 
+and interactions with rocks, have been the objective 
+of a multitude of studies. To date, garnet, or minerals 
+included in garnet, are the only minerals in which 
+non-reequilibrated primary, amphibolite to granulite 
+TJ. Dunai, K. Roselieb/ Earth and Planetary Science Letters 139 (1996) 411-421 419 
+facies, fluid inclusions are found (e.g. [7-g]). There- 
+fore, this suggests that fluid inclusions in garnet 
+should preferably be used to characterize (peak) 
+metamorphic fluids. Noble gases, especially He, may 
+be used to obtain information about the provenance 
+of these fluids. For instance, recent studies have 
+demonstrated that carbonic fluids, involved in gran- 
+ulite metamorphism in metamorphic terranes in 
+southern India and northern Norway, are of mantle 
+origin [lo-121. For such studies it is important to 
+know under what conditions a primary He isotopic 
+signature may be preserved. If this is not known it is 
+impossible to judge whether the absence of a mantle 
+signature is indicative for the absence of mantle 
+fluids at any stage of the evolution of the rock, or 
+simply reflects that (mantle) helium was lost since 
+the time of fluid entrapment. 
+The ‘characteristic diffusive length’ defined as 
+X = (Dt>‘/* gives an conceptual idea of over which 
+distance a He signature may be dispersed. In total, 
+99% of diffusive loss, gain or exchange of helium 
+occurs in a spherical volume with a diameter X in 
+time t and 50% of transfer in about l/lOth of t [5]. 
+When X is greater than the grain size or the size of 
+diffusion domains He may be considered lost. As 
+before, we assume that the maximum size of diffu- 
+sion domains in garnet is probably in the order of 
+700 ,wm. For this diameter, complete equilibration is 
+achieved in about 1 Ma at 800°C and about 1 Ga at 
+700°C (Fig. 6). Virtually no exchange occurs at 
+temperatures below 600°C. For practical purposes 
+Fig. 6. Diffusive path-length, (Dt)‘/*, of He in garnet for various 
+temperatures and heating durations. this means that garnets in granulite facies rocks, if 
+held at 700°C for lo- 100 Ma, may lose some of the 
+He originally trapped. Furthermore, radiogenic He 
+from the rock matrix will find its way into fluid 
+inclusions in the garnet and start to camouflage an 
+inherited mantle signature. Under these conditions 
+the absence of a mantle He signature is not conclu- 
+sive for the absence of syn-metamorphic, mantle-de- 
+rived fluids. Only a ‘positive’ finding; that is, the 
+proven presence of mantle-derived fluids is unequiv- 
+ocal. Garnets from mid-amphibolite facies or lower 
+grade rocks, however, will retain their originally 
+trapped He quantitatively. 
+6. Conclusions 
+From the above the following conclusions can be 
+drawn: 
+1. 
+2. 
+3. 
+4. Extended structural defects in garnet may act as 
+trapping sites for He as well as fast pathways of 
+He diffusion. They affect the kinetics of sorption 
+considerably, but anneal in the course of the 
+experiments. In principle, point defects created by 
+charge compensation for aliovalent chemical sub- 
+stitutions could account for the He saturation 
+concentrations measured. However, with the pre- 
+sent experimental data we cannot assess the rela- 
+tive contribution of extended structural defects 
+versus point defects. 
+Garnet is very retentive for He. We have obtained 
+estimates for the activation energy, E,, and the 
+pre-exponential factor, D,, of 660 f t;E kJ/mol 
+and 10’5.q+8~-5.2) cm*/sec, respectively. It is 
+very probable that garnet is the most retentive 
+silicate mineral for He, as it has the lowest ion 
+porosity of all crustal rock-forming silicates. The 
+good retentivity results in a high closure tempera- 
+ture of the (U + Th)-He system in garnet of 
+about 600°C. 
+Garnet has a great potential for use in exposure 
+age dating utilizing cosmogenic noble gas nu- 
+elides. Unlike quartz and feldspar, two commonly 
+used crustal minerals, garnet is likely to retain 
+cosmogenic noble gases quantitatively even in hot 
+climates. 
+Ancient He trapped in fluid inclusions is quantita- 
+420 T.J. Dunai, K. Roselieb/Earth and Planetary Science Letters 139 (1996) 411-421 
+tively retained in garnet if temperatures never 
+exceed 600°C. If temperatures are around 700°C 
+for several lo- 100 Ma some originally trapped 
+He may be lost, and/or He components from 
+outside the garnet may be added. 
+Acknowledgements 
+We thank Th. Lind (Idar Oberstein, FRG) for the 
+generous supply of sample material. We would also 
+like to thank: W. Lottermoser, K. Forcher and G. 
+Amthauer (all University of Salzburg) for MSssbauer 
+spectroscopy and the interpretation of spectra; A. 
+Gerdes (ETH-Zlirich) for providing access to ESEM 
+at short notice; Th. Driesner (ETH-Zirich) for X-ray 
+diffraction; E. Verdurmen (Vrije Universiteit Ams- 
+terdam) for XRF analysis; A. Hampe (University of 
+Giittingen) for masterly manufacturing the garnet 
+crucibles; U. Eicke and U. KiShler (University of 
+Giittingen) for manufacturing perfect garnet spheres. 
+We are grateful for discussions with M. Rosenhauer 
+(University of GGttingen), P. Signer, R. Wieler and 
+H. Baur (all ETH-Ztich). Financial support for this 
+study came from the ETH-Zurich (ETH-research 
+project o-20-244-88; T.J.D.), the Deutsche 
+Forschungsgemeinschaft (Programm SPP 
+“Elementverteilungen”, Ro 414/11; K.R.) and the 
+European Union (HCM-project; K.R. and T.J.D), 
+which is gratefully acknowledged. [UC1 
+References 
+[1] HJ. Lippolt and E. Weigel, 4He diffusion in 40Ar-retentive 
+minerals, Geochim. Cosmochim. Acta 52, 1449- 1458, 1988. 
+[2] R. Bohr, HJ. Lippolt and R.S. Wemicke, Tempemture-in- 
+duced 4He degassing of specularite and botryoidal haematite: 
+a ‘He retentivity study, I. Geophys. Res. 99 B9, 17695- 
+17707, 1994. 
+[3] T.W. Ttull, M.D. Kurz and WJ. Jenkins. Diffusion of cos- 
+mogenic 3He in olivine and quartz: implications for exposure 
+age dating, Earth Planet. Sci. Lett. 103. 241-256, 1991. 
+[4] S.R. Hart, He-diffusion ln olivine, Earth Planet. Sci. Lett. 70, 
+297-302, 1984. 
+[5] T.W. Trull and M.D. Kurz, Experimental measurements of 
+3He and 4He mobility in olivine and clinopyroxene at mag- 
+matic temperatures, Geochim. Cosmochim. Acta 57. 1313- 
+1324, 1993. [6] H. Hiyagon. Retention of solar helium and neon in 1DPs in 
+deep sea sediment. Science 263, 1257-1259, 1994. 
+[7] J.L.R. Towet and T.H. Hansteen, Geothermobarometry and 
+fluid inclusions in a rock from the Doddabetta chamockite 
+complex, southwest India, Rend. Sot. Ital. Mineral. Petrol. 
+43, 65-82, 1988. 
+181 J.K. Vry and P.E. Brown, Texturally early fluid inclusions in 
+garnets: evidence of the prograde metamorphic path, Cootrib. 
+Mineral. Petrol. 108,271-282. 1991. 
+[9] S. Elvevold and T. Andersen, Fluid evolution during meta- 
+morphism at increasing pressure: carbonic and nitrogen bear- 
+ing fluid inclusions in granulites form Oksfjord, north Nor- 
+wegian Caledonides, Contrib. Mineral. Petrol. 114.236-246, 
+1993. 
+[lo] T.J. Dunai and J.L.R. Touret, A noble gas study of a 
+granulite sample from the Nilgiri Hills, southern India: impli- 
+cations for gmnulite formation, Earth Planet. Sci. Len. 119, 
+Z-71-281, 1993. 
+[l I] T.J. Dunai, Mantle derived CO* and granulite genesis: evi- 
+dence from noble gases, Mineral. Mag. 58A, 245-246, 1994. 
+[12] T.J. Dunai. D.R. Hilton, J.L.R. Touret and G. Markl, Gran- 
+ulite formation and mantle CO, - Evidence from the Lofoten 
+and Vester&len Islands, Norway, EOS 76,678, 1995. 
+[13] W.L. Bond, Making small spheres, Rev. Sci. Iustrum. 22, 
+344-345, 1951. 
+[ 141 S.M. Fortier and BJ. Giletti, An empirical model for predict- 
+ing diffusion coefticients in silicate minerals, Science 245, 
+1481-1484, 1989. 
+[ 151 L.C. Hsu. Selected phase relationships in the system Al- 
+Mn-Fe-Si-O-H: a model for garnet equilibria, J. Petrol. 9, 
+40-83, 1968. 
+[ 161 S.L. Boettcher, Q. Guo and A. Montana, A simple device for 
+loading gases in high pressure experiments, Am. Mineral. 74, 
+1383-1384, 1989. 
+[17] C.L. Broadhurst, M.J. Drake, B.E. Hagee and T.J. Bematow- 
+icz, Solubility and partitioning of Ar in anorthite, diopside, 
+forsterite spine1 and synthetic basaltic liquids, Geochim. Cos- 
+mochim. Acta 54,299-309, 1990. 
+[18] C.L. Broadhurst, M.J. Drake, B.E. Hagee and TJ. Bema- 
+towitz, Solubility and partitioning of Ne, Ar. Kr, and Xe in 
+minerals and synthetic basaltic melts. Geochim. Cosmochim. 
+Acta 56, 709-723, 1992. 
+[ 191 H. Hiyagon and M. Ozima, Partitioning of noble gases 
+between olivine and basalt melt, Geochim. Cosmochim. Acta 
+50,2O45-2O57, 1986. 
+[20] K. Roselieb. P. Blanc, H. Blittner, A. Jambon, W. Ram- 
+mensee, M. Rosenhauer, D. Vielzeuf and H. Walter, Experi- 
+mental study of the Ar sorption in quartz: evidence for Argon 
+incompatibility, Geochim. Cosmochim. Acta, submitted. 
+[21] M.R. Carol1 and D.S. Draper, Noble gases as trace elements 
+in magmatic processes, Chem. Geol. 117, 37-56, 1994. 
+[22] L. Paulmg, The sizes of ions and the structure of ionic 
+crystals, J. Am. Chem. Sot. 49,765-790, 1927. 
+[23] G. Wagner and P. Van den Haute, Fission Track Dating, 
+Kluwer, Dordrecht, 1992. 
+TJ. Dunai, K. Roselieb/Earth and Planetary Science Letters 139 (1996) 411-421 421 
+[24] J.K.W. Lee, Multipath diffusion in geochronology, Contrib. 
+Mineral. Petrol. 120,60-82, 1995. 
+[25] E.P. Meagher, Silicate garnets, in: Grthosilicates, P.H. Ribbe, 
+Ed., Rev. Mineral. 5, 25-66, 1982. 
+[26] R.M. Barrer and D.E.W. Vaughan, Solution and diffusion of 
+helium and neon in tridymite and cristobalitc, Trans. Faraday 
+Sot. 63, 2215-2290, 1961. 
+[U] R.M. Barter and D.E.W. Vaughan, Trapping of inert gases in 
+sodalite and cancrinite crystals, J. Phys. Chem. Solids 32, 
+731-743, 1971. 
+1281 I. Crank, The Mathematics of Diffusion, Clatendon, Oxford, 
+1975. 
+[29] J.W. Gramlich and JJ. Naughton, Nature of source material 
+for ultramafic minerals from Salt Lake Crater, Hawaii, from 
+measurements of helium and argon diffusion, J. Geophys. 
+Res. 77 17, 3032-3042, 1972. 
+(301 M.H. Dodson. Closure tempemture in cooling geochronologi- 
+cal and petrological systems, Contrib. Mineral. Petrol. 40, 
+259-274, 1973. 
+[31] K. Metxger, EJ. Essene and A.N. Hall&y, Closure tempera- 
+ture of the Sm-Nd system in metamorphic garnets, Earth 
+Planet. Sci. Lett. 113, 397-409, 1992. 
+[32] D. Vance and R.K. G’Nions, Prograde and retrograde ther- 
+mal histories from the Central Swiss Alps, Earth Planet. Sci. 
+Len. 114, 113-129, 1992. [33] B.J. Hensen and B. Zhou, Retention of isotopic memory in 
+garnets partially broken down during an overprinting gran- 
+ulite-facies metamorphism: Implications for the Sm-Nd clo- 
+sure temperamre, Geology 23, 225-228, 1995. 
+[34] K. Metzger, G.N. Hanson and S.R. Bohlen, U-Pb systemat- 
+its of garnet: Dating the growth of garnet in the late Ar- 
+chaean Pikwitonei granulite domain at Cauchon and 
+Natawahunan Lakes, Manitoba, Canada, Contrib. Mineral. 
+Petrol. 101. 136-148, 1989. 
+[35] T. Staudacher and CJ. Alltgte, The cosmic my produced 
+3 He/ ” Ne ratio in ultramafic rocks, Geophys. Res. Lett. 20, 
+1075-1078, 1993. 
+[36] T.E. Cerling. Dating of geomotphologic surfaces using cos- 
+mogenic ‘He, Quat. Res. 33, 148-156, 1990. 
+[37] T.W. Trull, E.T. Brown, B. Marty, G.M. Raisbeck and F. 
+Yiou, Cosmogenic “Be and ‘He accumulation in Pleistocene 
+beach terraces in Death Valley, California, USA: Implica- 
+tions for cosmic-my exposure dating of young surfaces in hot 
+climates, Chcm. Geol. 119, 191-207, 1995. 
+[38] W.A. Deer, R.A. Howie and J. Zussman, An Introduction to 
+Rock-Forming Minerals, Longman, Essex, 1992. 
+[39] T.J. Dunai, Noble gas components in garnet and their aplica- 
+tions to exposure age dating, in prep. 

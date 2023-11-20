@@ -1,0 +1,323 @@
+CQa .__ __ B Nuclear Instruments and Methods in Physics Research B 116 ( 1996) 257-26 1 
+Angu lar distribution and expansion of laser ablation plumes measl 
+by fast intensified charge coupled device photographs NIOM B Beam Interactions 
+with Materials 8 Atoms 
+lred 
+A. Mele &*, A. Giardini Guidoni a, R. Kelly b, A. Miotello b, S. Orlando ‘, 
+R. Teghil d, C. Fhrnini a 
+a Dipartimento di Chimica, Vniversit& di Roma “La Sapienza”, Piauale A. More, 5-00185 Rome, Italy 
+b Dipartimento di Fisica, Vniversith di Trento, Povo (TN), Italy 
+’ Istituto Materiali Speciali, CNR, Tito Scala (PZ), Italy 
+’ Dipartimento di Chimica, Vniversit& &Na Basilicata, Potenza. Italy 
+Abstract 
+Laser ablation plumes produced from various targets including metals, semiconductors, and superconductors have been 
+photographed in real time with a gated, intensified charge coupled device (CCD) camera system. The expansion rates of the 
+three-dimensional images have been measured in a wide range of delay times after the laser pulse by varying the beam 
+parameters such as spot size, spot shape, and fluence. The analysis of the observed plumes leads to the angular distribution 
+of the ablated material which is strongly related to the process of film growth by pulsed laser deposition. 
+1. Introduction 
+Pulsed laser deposition (PLD) has been increasingly 
+applied to the preparation of thin films and coatings of a 
+large number of materials. Laser ablation of a solid pro- 
+duces a plume (often but not always a plasma plume) 
+which travels from the target to the substrate expanding 
+along three perpendicular axes. In situ characterization of 
+the plume as it moves and of the angular spread is very 
+important in order to control thin film properties such as 
+uniformity, morphology, and composition [l]. During PLD 
+a background gas such as 0, or N, may be added to 
+supplement a loss or to aid incorporation in the growing 
+film. It is known, both from gas dynamics [2] and experi- 
+ment [3], that plume expansion has a different trend in 
+vacuum than in the presence of background gas. Moreover, 
+angular profiles of film thickness and composition (i.e. 
+stoichiometry) may be altered if a multicomponent target 
+is being ablated [4]. The overall process has been inter- 
+preted in terms of Knudsen layer formation very close to 
+the target surface, followed by an unsteady adiabatic ex- 
+pansion [5,6]. 
+Several experimental methods have been used to mea- 
+sure the plume angular distribution. These are classified as 
+film-based or probe-based [I]. The probe-methods analyze 
+* Corresponding author. Fax +39 6 490324, Tel. -I- 39 6 
+49913307. the high resolution optical emission or absorption of the 
+laser plume. Ion probes have also been utilized to probe 
+the expanding plume [7]. The film-based methods depend 
+on determining ex situ the thickness profile of the de- 
+posited thin film. The present work deals with a direct 
+method of probing the expanding plume by a three-dimen- 
+sional fast photographic technique. The method is useful 
+for studying plume dynamics during in situ pulsed laser 
+deposition of a wide variety of materials: metals, semicon- 
+ductors, and high T, superconductors. The effect of the 
+laser parameters (spot size, spot shape, and fluence) has 
+been investigated by observing temporally and spatially 
+the expanding plume. 
+2. Experimental 
+Laser ablation was carried out in a high vacuum cham- 
+ber equipped with several view ports [3]. Vacuum operat- 
+ing conditions were better than 1O-3 Pa. A rotating target 
+(8 rpm) was irradiated at normal incidence either by an 
+excimer laser (A = 248 nm, r= 18 ns, fluence 3-12 
+J/cm’, rectangular spot size 0.5-2.4 mm by 1.0 mm) or 
+by a NQYAG laser (A = 532 nm, r = 6 ns, fluence 3-6 
+J/cm2, circular spot size 0.7 mm’). The larger dimension 
+of the rectangular spot could be reduced by inserting a slit 
+between the laser and the target. Independently of this, the 
+fluence could be varied by tilting a coated fused silica 
+plate through which the beam passed. A gated intensified 
+0168-583X/%/$15.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+PII SO168-583X(96)00056-0 
+258 A. Mele et al./Nucl. Instr. and Meth. in Phys. Res. B II6 (1996) 257-261 
+charge coupled device (CCD) camera (EG & G Model 
+1530-PUV+ LCI-I, 512X 512 pixels, 18 bits dynamic 
+range) with spatial and temporal resolution of 1.50 pm and 
+5 ns was used to acquire the plume images for a single 
+shot. Orthogonal lateral views of the plume expansion 
+were made by recording the overall visible emission (400- 
+800 nm). A 50 mm Nikkor lens could observe the plume 
+expansion over a 6 cm region starting at the target. The 
+plasma emission intensity of the intensified CCD pho- 
+tographs was plotted in terms of 10% step contours. The 
+targets were Cu disks, Sn disks, as well as 
+Pbe,,Bi,,,Sr,Ca,Cu,O. (PbBSCCO) and SnSe pellets 
+which were made from pressed powders. 
+3. Results and discussion 
+The expansion of the plasma plumes obtained by irradi- 
+ating with the rectangular beam of the excimer laser was 
+measured from the intensified CCD photographs. The 
+plumes were analyzed in three dimensions by lateral views 
+in both the xz and yz planes. z is the axis normal ,to the 
+target, whereas x is normally the larger and y is normally 
+the smaller dimension of the laser spot (Fig. 1). The 
+plumes were found to have an ellipsoidal shape with three 
+distinct axes. As in previous.work [8] the lateral expan- 
+sions (x and y) were found to be “rotated” by 90“ with 
+respect to the laser spot (Fig. 1). We hasten to add, 
+however, that the “rotation” was not a formal rotation in 
+which the plume passed continuously from one orientation 
+to the other but rather a situation in which (referring to 
+Fig. 1) the transport of particles was more effective in the 
+y than in the x direction. This has been confirmed by 
+numerical solution of the gas-dynamic equations in two 
+dimensions [8,9] where we find an unrotated situation at 
+very short times but a well defined symmetry change at 
+longer times. Tentatively, the effect can be explained in 
+terms of the directionality of the flow such that transport 
+normal to a side is favored over transport from region near 
+a comer because it is less divergent. The effect has been 
+confirmed for square, rectangular, and triangular laser 
+spots [9,10]. 
+The materials examined, namely Cu, Sn, SnSe and 
+PbBSCCO, have all shown very similar behaviour. A 
+typical example is shown in Fig. 2 for plumes generated 
+from Cu and PbBSCCO targets at 600 ns delay time 
+viewed from two lateral axes at 90” with respect to the 
+laser spot as in Fig. 1. It can be seen that both plumes have 
+an ellipsoidal shape, that for Cu having dimensions x = 5 
+mm, y = 12 mm, Z= 12 mm and that for PbBSCCO 
+having dimensions x = 12 mm, y = 17 mm, z = 21 mm. 
+A correlation between the laser spot shape and the lateral 
+spread of the luminous material is indicated. According to 
+the gas-dynamics calculations [S,9] the role of the spot 
+shape in affecting the shape of the plume begins in the 
+period immediately after particle release when the lateral expansion is relatively slight. This was also confirmed 
+experimentally from photographs at very short delay times 
+when the plume was close to the target (50-60 ns). The 
+shape changes would, by necessity, cease when the parti- 
+cles no longer interacted according to gas-dynamics but 
+went into free flight. We have assumed that the light 
+emitting particles in the plume are representative of all 
+materials ejected, i.e. that the emitting and non-emitting 
+states have similar velocities. 
+A detailed analysis of the effect of spot size on the 
+plume generated from Cu is shown in Fig. 3. A set of three 
+density contours, obtained by varying one dimension of the 
+rectangular spot and maintaining the other fixed, always at 
+the same fluence (12 J/cm2), is shown. The contours of 
+these frames depict the change of the plume viewed in the 
+xz. plane, i.e. the plane corresponding to the reduced 
+dimension of the spot (Fig. 1). The plume shape viewed in 
+the yz plane, i.e. the plane corresponding to the unreduced 
+dimension y = 1 mm, remained the same (12 + 1 mm). 
+From this sequence it may be observed that by reducing 
+the larger dimension from 2.0 to 0.5 mm the lateral spread 
+increases. These data confirm previous findings that film 
+thickness profiles become less forward peaked as the spot 
+dimension diminishes [4]. 
+Results for Cu of the type seen in Fig. 3 are plotted in 
+Fig. 4a in terms of the parameter p of the angular distribu- 
+tion fl f3) a cos pl.?, which is a reasonable approximation to 
+describe the plume shape in three-dimensional space [l]. In 
+this case 0 is measured on the 10% intensity contour. The 
+plot shows the trend of p when the large (x) dimension of 
+the rectangular laser beam is diminished from 2.4 to 0.5 at 
+the same fluence of 12 J/cm’. The data fit a linear plot 
+with the tendency to a value of 0 5 p I 1 for small spot 
+sizes. It should be noted that for different time delays from 
+the laser pulse and thus for various distances from the 
+target, the plumes have similar values of p, i.e. the shape 
+I /-\ / EXPANDING 
+PLUME \ 
+Fig. 1. Solid: sketch showing the lateral (xy) axes of a rectangular 
+1ase.r spot appropriate to a laser pulse directed at normal incidence 
+towards a target. Dashed: approximate xy symmetry of the ex- 
+panding plume, showing that the larger side of the spot becomes 
+the smaller side of the plume. 
+A. Mele et al./Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 257-261 259 
+is conserved. The effect of laser fluence on the angular 
+distribution in the xz plane of the plume generated from 
+Cu is reported in Fig. 4b. A marked decrease of p from 9 
+to 5 as a result of varying the fluence from 12 to 6 J/cm2 
+is found. Similar behaviour is observed also for a SnSe 
+target. This interesting result indicates that the plume has a 
+tendency to become symmetrical along the three axes 
+x, y, z when the fluence of the laser beam is decreased 
+(p = 1). At the same time the lateral spread increases. A 
+broadened distribution is typical at low fluence also for 
+other systems [ 1,7]. 
+Experiments with a circular beam from a Nd-YAG 
+laser (532 nm) show that, at a laser fluence of 12 J/cm’, 
+the plume expansion is ellipsoidal and symmetrical in the 
+xz and yz planes with the axes z > x = y. This could be 
+expected from the geometry of the spot. The same evolu- 
+tion of plume shape found for a rectangular spot as a function of fluence is observed. Thus, the plume tends to 
+become symmetrical along the three axes x, y, z when 
+the fluence of the laser beam is decreased. The nearly 
+spherical shape of the plume with both a rectangular and a 
+spherical spot suggests an effusive regime corresponding 
+to a removal of material by normal vaporization (as dis- 
+tinct from explosive boiling [11,12]). This suggests that 
+within distances where the substrate is usually located, that 
+is about 20-30 mm, the angular distribution will be inde- 
+pendent of distance. The analysis of the plume evolution of 
+all materials studied, namely Cu, Sn, SnSe, and PbB- 
+SCCO, has confirmed this result. 
+It is apparent from the contours of the rectangular spot 
+of Fig. 3 and from the circular spot (to be published) that 
+the spot size and shape of the laser beam have a marked 
+effect on the plume symmetry. This effect is very general 
+for all materials and persists at long distances from the 
+Fig. 2. Overall emission from Cu ((a) and (b)) and PbBSCCO (cc) and (d>) targets laser-irradiated at 248 mn. The light intensity is shown in 
+terms of two-dimensional 10% density contours (smoothened). The maxima are indicated in (b) to (d) as a solid circle. Details: delay time 
+600 ns, exposure time 100 ns, fluence 12 J/cm*, rectangular laser spot (2.4 X 1 mm*). The views, as indicated in each case, are either in 
+the xz or the yz plane of the spot. Grid step: 2 mm. 
+260 A. Mele et al./Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 257-261 
+TARGET 1 (4 
+600 ns 
+TARGET I(b)] 
+1 TARGET 1 
+Fig. 3. Set of three 10% density contours (smoothened) from 
+photographs of a Cu disk laser-irradiated at 248 nm. Details: delay 
+time 600 ns, exposure time 100 ns, fluence 12 J/cm’. The 
+rectangular laser spot dimensions are 2.0X 1.0 mm* (a), 1.0X 1.0 
+mm* (b), 0.5 X 1.0 mm* (cl. The views are in the w plane of the 
+spot. Grid step: 2 mm. target. A closer examination of the results of the present 
+investigation shows an additional effect which is due to the 
+energy distribution within the laser spot. It is known from 
+the profiles of the energy maps, either of an excimer laser 
+with a rectangular beam or of a Nd-YAG laser with a 
+circular beam, that the energy for both is higher in the 
+middle than in the periphery of the beam. This has the 
+effect of a non-uniform removal of material from the 
+target. This view is supported from a comparison of the 
+plume contours obtained by a square spot from an excimer 
+laser beam by reducing the larger lateral dimension down 
+to that of the smaller one. A homogeneous distribution of 
+the energy on both sides would provide an identical plume 
+symmetry as observed for a circular spot [13]. However, 
+this is not the case for the excimer laser because the 
+unreduced small dimension side has kept the energy distri- 
+101 I I 1 
+x DIMENSION OF LASER SPOT (mm) 
+10 I L , 
+hv(248nm)--Cu 
+I I L J 
+6 8 10 12 
+ENERGY FLUENCE (J/cm*) 
+Fig. 4. Angular distribution in terms of cos@ from data for a 
+laser-irradiated Cu disk as in Fig. 3. (a) Plot of p versus a varying 
+laser spot dimension (x). the other dimension remaining fixed at 
+1.0 mm. (b) Plot of p versus fluence. In the case of(b) the spot 
+dimensions are 2.4X 1.0 mm*. The views are in the xz plane of 
+the spot for both (a) and (b). 
+A. Mele et al./Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 257-261 261 
+.z 600 ns 
+1 TARGET ( I600 ns 1 
+TARGET i(b)I 
+Fig. 5. Set of two-dimensional 10% density contours (smoothened) from photographs of a Cu disk laser-irradiated at 
+are indicated as a solid circle. Details: delay time 600 ns, exposure time 100 ns, fluence 12 J/cm*, square laser spot 
+views, as indicated in each case, are either in the xz or the yz plane of the spot. Grid step: 2 mm. 248 nm. The maxima 
+(0.8 X 0.8 mm2). The 
+bution whereas the other side acquires a more homoge- 
+neous distribution when the original dimension is reduced. 
+The latter distribution produces the plume of Fig. 5a in the 
+ZJ plane, the unchanged side that of Fig. 5b in the zy 
+plane. 
+The angular distribution of the expanding plume is a 
+direct measurement of the particles velocities in a three-di- 
+mensional space. From the results of Figs. 2 and 3 it 
+appears that the highest velocity is normal to the target and 
+that the lowest velocities are for lateral expansion. Various 
+factors may lead to such behaviour. For example, it may 
+be the result of complex phenomena occurring by the 
+interaction of the laser beam with a solid surface, such that 
+a number of layers of the material are ejected and a 
+pressure profile develops at the interface which character- 
+izes the flow of material. This would be especially true at 
+higher fluences when explosive rather than normal vapor- 
+ization can be expected [11,12]. The expansion n&ma1 and 
+parallel to the target evidently acquires different pressure 
+gradients [ 13,141. The highest gradient is expected to be 
+along the target normal (z axis) and the lowest gradients 
+along the x and y axes. The gradients themselves are in 
+turn effected by the size and shape of the laser beam. 
+Finally we note that conditions of normal vaporization 
+lead to low particle densities and the distributions are 
+characterized by low powers of cos 6. The flow of the 
+particles under conditions of explosive boiling is character- 
+ized by high number densities. The flow conditions are 
+then characterized by a Knudsen layer, where the distribu- 
+tion is discontinuous [ 11,121. This boundary layer is fol- 
+lowed fist by an unsteady adiabatic expansion and finally 
+by free flight. Depending on the persistance of adiabatic expansion phase, the angular distributions show strong 
+forward peaking of the type cos% with p >> 1. 
+References 
+[I] K.L. Saenger, in Pulsed Laser Deposition of Thin Films 
+(than. 71, eds. D.B. Chrisev and G.K. Hubler (Wiley, New 
+01 
+[31 
+[41 
+151 
+t61 
+[iI 
+k4 
+191 
+1101 
+illI 
+[I21 
+[I31 
+[I41 York, 1994) p. 199. - 
+R. Kelly, A. Miotello, B. Braren, A. Gupta and K. Casey, 
+Nucl. Instr. and Meth B 65 (1992) 187. 
+T. Di Palma, S. Orlando, A. Giardini Guidoni, A.J. Paul, 
+J.W. Hastie and A. Mele, Appl. Surf. Sci. 86 (1995) 68. 
+R,E. Muenchausen, K.M. Hubbard, S. Foltyn, R.G. Esteer, 
+N.S. Nogar and C. Jenkins, Appl. Phys. Lett. 56 (1990) 578. 
+R. Kelly and R.W. Dreyfus, Surf. Sci. 198 (1988) 263. 
+R. Kelly and A. Miotello, Appl. Phys. B 57 (1993) 145. 
+D.B. Geohegan, in: Pulsed Laser Deposition of Thin Films 
+(chap. 51, eds. D.B. Chrisey and G.K. Hubler (Wiley, New 
+York, 1994) p. 115. 
+A. Mele, A. Giardmi, R. Kelly, A. Miotello, S. Orlando and 
+R. Teghil, Appl. Surf. Sci. 96-98 (1996) 102. 
+A. Miotello and R. Kelly, Appl. Phys. Lett. 61 (1992) 2784. 
+R. Kelly and A. Miotello, Nucl. Jnstr. and Meth. B 91 (1994) 
+682. 
+R. Kelly and A. Miotello, Appl. Surf. Sci. 96-98 (1996) 205. 
+R. Kelly, A. Miotello, A. Mele, A. Giardini Guidoni, J.W. 
+Hastie, P.K. Schenck and H. Okabe, Surf. Sci. (submitted). 
+R.W. Ohse, J.F. Bebelot, A. Frezzotti, K.A. Long and J. 
+Magill, High Temp. High Press. 2 (1980) 537. 
+N.F. Ramsey, Molecular Beams (Clarendon Press, Oxford, 
+1956). 

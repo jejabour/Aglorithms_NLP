@@ -1,0 +1,237 @@
+Pergamon Vacuum/volume 47/number g/pages 1089 to 1092/1996 
+Copyright 0 1996 Elsevier Science Ltd 
+Printed in Great Britain. All rights reserved 
+PII: SOO42-207X(96)00133-9 0042-207X/96 $15.00+.00 
+Small pulsed electron-ion sources for radiation 
+technologies and surface modification of materials* 
+S A Korene@ and A J Perry,b a Joint Institute for Nuclear Research, 14 1980 Dubna Moscow Region, Russia; 
+blSM Technologies, Inc, 9965 Carroll Canyon Road, San Diego, CA 92131, USA 
+revised version received 20 January 7996 
+A new type of small, combined pulsed electron-ion source for radiation technologies and surface modification 
+of materials is reported. The source consists of a high voltage generator and particle emitter in the form of a 
+vacuum diode. Explosive electron emission is used for production of electron beams and explosive ion 
+emission for production of ion beams. The main parameters are the source output are: kinetic energy 200- 
+700 keV, pulse length 0.3-1.0 ps, electron beam current 0.5-6 kA, ion beam current 0.1-200 A for ions of 
+various conducting materials. The main applications of the device are presented. Copyright 0 1996 Elsevier 
+Science Ltd. 
+Introduction 
+The development of advanced technologies based on the inter- 
+action of pulsed high current electron and ion beams with the 
+surfaces of solid materials is very significant at the present time. 
+By way of example, major development work has been done in 
+the US by the Lawrence Berkeley National Laboratory and at 
+ISM Technologies on MEVVA sources and their applications,‘,’ 
+and in the Los Alamos and Sandia National Laboratories on 
+high intensity beams.j In Russia, extensive work has been done 
+in Tomsk4-” and Dubna7 on intense beam technologies. 
+A survey of contemporary intense beam technology indicates 
+the need for an ion source of simple and rugged design, and 
+which is also inexpensive for commercial application. For real- 
+world applications, it is necessary to be able to change the operat- 
+ing parameters of the ion beams over a wide range. This means 
+that the voltage generator has to be able to operate under different 
+loads, and the ion diode offers this flexibility. The best power 
+supply available for this purpose is the Arkad’ev-Marx generator 
+which can operate under very different loads. In the present 
+work which is oriented towards technological applications this 
+generator is coupled to a pulsed electron and ion source based 
+on explosive ion emission. 
+General structure of the combined small, electron-ion source 
+The combined pulsed electron-ion source consists of a high volt- 
+age generator for beam, acceleration, vacuum diode and vacuum 
+* Paper is based on that presented at the 9th International School on 
+Vacuum Electron and Ion Technologies held on 14-17 September 1995, 
+Sozopol, Bulgaria. and diagnostic systems. A schematic block-diagram of the elec- 
+tron-ion source is given in Figure 1. 
+I I ’ 1 
+-- I-- 
+Figure 1. Block-diagram of an electron-ion accelerator mounted onto a 
+small sample chamber showing: l-the high voltage insulator, 2-the 
+anode (plasma initiator), 3-the cathode (extractor grid), 4-a collimator, 
+5-a current transformer (to measure the beam current), &shunt of 
+current; 7-the film deposition on to a substrate in a small holder; 
+8-vacuum chamber; 9-an oscilliscope. l-high voltage generator; 
+IlLelectron~ion source. 
+1089 
+S A Korenev and A J Perry: Small pulsed electron-ion sources 
+The pulsed high voltage generator is a Arkad’ev-Marx gen- 
+erator with ten capacitor steps. The polarity is set on the high 
+voltage rectifier according to whether electrons or ions are to 
+be generated. The vacuum diode is very simple in design and 
+comprises a stainless steel chamber 350 mm long and 400 mm in 
+diameter, a high voltage insulator made from Capralon on which 
+is mounted the anode (plasma initiator), a cathode (extractor 
+grid), and various diagnostic devices for measuring the ion beam 
+and total currents (integrating Rogovski transformer and Fara- 
+day cup), and the pulsed voltage on the anode (a high resistance 
+divider). 
+The source can be operated in the following regimes: 
+l generation of electron beams 
+l generation of metal, dielectric or semiconductor ion beams 
+l production of various films with ion or electron beam mixing. 
+The operating ranges of the main parameters of the electron-ion 
+source are: 
+l kinetic energy-200-700 keV 
+l pulse length--0.3-1 .O /*s 
+l electron beam current--0.5-6 kA 
+l ion beam current for different ions-O. I-200 A 
+l ion types-all conducting (anode) materials. 
+Production of electron beams 
+Explosive electron emission is used to produce a beam of elec- 
+trons, The value of the pulsed current emitted is stable, par- 
+ticularly if a carbon fiber bundle is used as the cathode. A stable 
+current is also emitted when using high temperature super- 
+conductor materials as cathode, such as Y-Ba-Cu-0 or Bi-Ca- 
+Sr-Cu-0, operating at ambient temperatures.* 
+Production of ion beams 
+Detailed discussions of the reduction of pulsed explosive emission 
+to practice have been given elsewhere,‘,” so only the main prin- 
+ciples are considered here. Referring to the schematic drawing in 
+Figure 2, a positive voltage pulse is applied to the anode (termed 
+1 I Figure 2. Schematic arrangement of the ion diode showing: l-the anode 
+plasma initiator, 2--extractor, 3-anode plasma, G-atoms or molecules, 
+5-ions, &substrate, 7-the film being deposited, or electron irradiated 
+after deposition. 
+1090 the plasma initiator) and a plasma is formed on its surface, and 
+ions are extracted by application of a single positive voltage 
+pulse. 
+For the operation of a planar ion source using explosive ion 
+emission, the intensity of the electric field E in the diode must 
+exceed the threshold voltage Ethr needed for forming the anode 
+plasma: 
+E = KU/d > Ethr g lO’V.cm- 
+where U is the voltage applied to the diode, K is the amplification 
+factor determined by the initiator geometry, and d is the distance 
+between anode and cathode. 
+The main mechanism for maintaining the anode plasma is as 
+follows: initially there is a condition of auto-emission from the 
+heating by the ion current of points (micro-heterogeneities, on 
+the surface of the anode) and electron emission from the cathode. 
+The atoms in the vapor are ionized and form an anode plasma, 
+which is the ion emitter, so that an ion beam can be extracted 
+from it by applying a bias from the cathode, and thus forms a 
+stable vacuum discharge. This type of ion emission is termed 
+explosive ion emission. 
+The formation of the ion beam from the anode plasma is 
+accompanied by an intense emission of anode material, this 
+material is emitted in the form of clusters and macro-particles. 
+These components of the discharge can be condensed out to form 
+a film on substrates located behind the cathode extractor grid. In 
+this way, the deposition of films is possible with ion beam mixing. 
+The diode can be operated in two regimes: 
+Regime I. Maintaining the voltage pulse length less than the 
+time required for the diode to be short-circuited by the anode 
+plasma, and, 
+Regime 2. Lengthening the duration of the voltage pulse so 
+that it exceeds the time for short-circuiting by the anode plasma. 
+In the first regime, the beams produced are primarily ions with 
+only a limited amount of material emitted by the anode plasma 
+initiator. In the second, there is a far greater amount of material 
+emitted, and films of plasma initiator material can be deposited 
+accompanied by ion beam mixing, as noted above. In this second 
+regime, the significance of the ion beams is far less than in the 
+first. 
+The operating sequence of the source can be understood from 
+the time diagram shown schematically in Figures 3(a)-(c) which 
+illustrate the various emission processes. In the very first pulse 
+beginning at t,, the anode plasma forms (on the plasma initiator), 
+and the diode voltage U,, (Figure 3(a)) remains constant over the 
+time tb taken for the diode to short circuit, During this time (i.e. 
+in Regime 1 noted above) ions are formed from the anode with 
+some erosion of anode material. and an ion current I,, can be 
+extracted from the plasma by the cathode (Figure 3(b)) at a 
+velocity V,. These first ions pass through the cathode extractor 
+grid, and can implant and ion-clean the substrates located behind 
+the grid. This cleaning by the first burst of ions enhances the 
+adhesion of the coating. After the diode short-circuits (Figure 
+3(c)) the voltage drops and the current increases to the full diode 
+level I, accompanied by the explosive emission of material from 
+the anode with a velocity V, (Regime 2 noted above). This com- 
+ponent of the pulse length t, can be set, giving a total pulse length 
+of t, = t,,+ t,. The emitted material passes through the cathode 
+screen and coats the substrates located behind it. The second, 
+and subsequent pulses, starting at t, continue the process with 
+the single difference that the ion beam now irradiates the 
+S A Korenev and A J Perry: Small pulsed electron-ion sources 
+a) Diode voltage 
+A First pulse 
+Y _ \ \ \ i i L-___ 
++--4--4 Subsequent pulses 
+\ \ \ \ i L____ 
+t1 
+A Implantation Ion beam 
+Ion emission and cleaning modification 
+Ib 
+“‘.” v, . . . . .._ ..,... c’i-_/ :::::: v; .._.._ 
+c) ,FFkled;rde 
+Material emission 
+Deposition 
+Anode Cathode 
+to i-4-J Figure 3. Time diagram of the processes occurring in the ion diode 
+deposited film, modifying its properties. The adjustment of the 
+pulse lengths t, and t, gives control of the ion/atom ratio during 
+the film deposition process. Figure 4 shows emission charac- 
+teristics of source in the ion diode regime. 
+The kind of ion beams desired can be selected from amongst 
+all metals and conducting materials, for instance conducting cer- 
+amics such as titanium nitride TIN, superconductor materials 
+such as Y-Ba-Cu-0 or Bi-Ca-SrCu-O. Films can be deposited 
+on different substrates at any temperature compatible with the 
+design of the deposition chamber. The speed of deposition 
+depends on the parameters of the discharge circuit high voltage 
+generator, plasma source and ion beam. As an example, the 
+deposition rate of films from a rhenium plasma initiator (anode) 
+is shown in Figure 5 as a function of the diode voltage. 
+200 300 &xl MO 600 700 800 
+Voltage (kV) 
+Figure 4. Emission characteristics of the ion diode for typical materials 
+showing the high current densities which can be reached. In these studies, 
+the distances between anode and cathode, and anode and substrate were 
+7 mm and 30 mm, respectively. The pulse length was 300 ns. The data 
+are for ions of copper, aluminum, carbon and beryllium, represented by 
+round, square, filled square, and triangular symbols, respectively. Time 
+Applications 
+This kind of universal electron-ion source is simple to operate 
+and can be used for the surface modification of different 
+materials, semiconductors, high temperature superconductors 
+and metals, and for the electron beam post treatment of the 
+films deposited with the device. The current directions aimed 
+for industrial application include the deposition of films onto 
+polymer substrates, and the deposition of hard, stable coatings 
+for optical devices. 
+Conclusions 
+The explosive electron and ion source, based on the ion diode 
+powered by an Arkad’ev-Marx generator, delivers very intense 
+beams with ion beam currents in the range l-200 A. The control 
+variables can be set in the ranges: voltage 100-700 kV, pulse 
+length typically 0.3 gs, depending on the ion chosen. It can be 
+used very effectively in the surface treatment of bulk materials, 
+for the deposition of films with concomitant ion beam treatment 
+1 I 
+0 IM) ml 300 4co MO @al 
+Voltage (kV) 
+Figure 5. Dependence of the rate of deposition of rhenium on the voltage 
+applied to the ion diode, geometry as in Figure 4. 
+1091 
+SA KorenevandA J Perry:Small pulsed electron-ion sources 
+in the ion emission mode, snd for electron beam irradiation and 
+surface fusion in the electron emission mode. 
+References 
+’ I G Brown, J Vuc Sri Technol A, 11, 1480 (I 993). 
+‘J R Treglio. A J Perry and R J Stinner, Surf’ Coar Technol, 65, 144 
+(1994). 
+‘R W Stinnett, R G Buchheit, F A Greulich, C R Hills, A C Kilgo, D C 
+McIntyre, J B Greenly, M 0 Thompson, G P Johnston and R J Rej, Mat 
+Res Sot Sl,rnp Proc, 316, 52 1 (I 994). 4G E Remnev and V A Shulov, Proc 9th Int Cor~f BEAMS92, Wash- 
+ington, DC, S/25, 1992. 
+‘A Didenko, A Ligachev and I Kurakin, E@cts of particles beums 
+irradiation on metals and alloys surface. Moscow. Energoatomizdat 
+(1987). 
+“Electron Beams in Technology,, G Mesyats (Ed.). Novosibirsk. Science, 
+1986. 
+‘S A Korenev, Nucl Instr Meth Phys, B80/81, 242 (1993). 
+‘S A Korenev, Doctor of Science thesis. Dubna. 1994. 
+“S A Korenev, Proc 3rd Int Corzf Energy Pulse and Particle Beam Modi- 
+fication o/Materialr (EPM’89). Dresden, Germany, 1989. p 448. 
+‘OS A Korenev, Rer Sci Ins@, V. 36 147 (I 994). 
+1092 

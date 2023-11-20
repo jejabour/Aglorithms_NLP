@@ -1,0 +1,338 @@
+Nuclear Instruments and Methods in Physics Research B 118 (1996) 274-277 
+ELSEVIER Beam Interactions 
+with Materials 6 Atoms 
+Comparison of elastic resonance and elastic recoil detection 
+in the quantification of carbon in SiGeC 
+A.E. Bair a* * , Z. Atzmon a, S.W. Russell a, J.C. Barbour ‘, T.L. Alford a, J.W. Mayer b 
+a Department of Chemical, Bio and Materials Engineering, Arizona State University. Tempe. AZ 85287-6006. USA 
+b Center for Solid State Science, Arizona State University, Tempe, AZ 852874006, USA 
+’ Sandia National Laboratories. Albuquerque, NM 871851056, USA 
+Abstract 
+The carbon concentrations of chemical vapor deposition grown Si, _ ._,Ge,C y (0.25 < x < 0.37 and 0.01 < ~0.12) layers 
+on (100) Si with uniform composition profiles were quantified by two ion analysis techniques. Measurements made with 
+backscattering spectrometry using a 4.295 MeV He’+ incident ion were compared to compositions predicted by elastic 
+recoil detection (ERD) using a 24 MeV Si 5c incident ion. To enhance the carbon scattering cross section for the 
+backscattering measurements, the 4.265 MeV “C(a, a)i2C elastic resonance reaction was used. The carbon concentrations 
+of the films were calculated by integrating the resonant scattering cross section using the energy width of the layer as the 
+limits of integration. The results of this backscattering analysis technique were compared to the predicted carbon 
+concentrations obtained by ERD. It was found that the predictions of these techniques correlated within the uncertainty of 
+each method. 
+1. Introduction 
+Rutherford backscattering spectrometry (RBS) is a fre- 
+quently used method for thin film analysis. However, 
+when measuring a light element such as carbon in the 
+relatively heavy SiGeC matrix, the sensitivity is too poor 
+to detect carbon concentrations in the 1 to 10% range. This 
+is due to the background signal from Si and Ge, and due to 
+the Z2 dependence of the scattering cross section [ 11. If the 
+scattering cross section of carbon can be enhanced, the 
+effect of a background signal can be lessened. This can be 
+accomplished by the use of the 12C(a, a)“C elastic reso- 
+nance reaction which has a local maximum near 4.265 
+MeV. At this energy, the cross section is enhanced by a 
+factor of about 100 over Rutherford scattering [2-41. The 
+data were analyzed by means of a technique which used 
+the backscattering yield equation with an integrated reso- 
+nance area for the cross section. This will be described in 
+detail. A separate technique, elastic recoil detection (ERD), 
+was also used to analyze the carbon concentrations of the 
+same samples [5]. One of the benefits of ERD analysis is 
+the elimination of a heavy element background signal. 
+Thus the carbon signal is not obscured. The data from 
+* Corresponding author. Tel. 602 965 5021, fax 602 965 3534, 
+e-mail: aseah@asuvm.inre.asu.edu these experiments were analyzed with the program SER- 
+DAP [6]. The objective of this study was to compare the 
+predictions of the carbon concentrations using these two 
+methods. 
+2. Experimental 
+The samples analyzed in this experiment were layers of 
+Si,_,_,Ge,C, (0.25 < x < 0.37 and 0.01 < y < 0.12), 
+grown on Si(100) substrates. The layer thicknesses ranged 
+from 200 to 300 ML The backscattering measurements 
+were made using a General Ionex tandem Cockroft-Wal- 
+ton accelerator. The vacuum in the backscattering chamber 
+was 1 X lo-’ Torr. The detector scattering angle was 
+170.0 f 0.3”. The sample was tilted so that the sample 
+normal was 7” to the incident beam and the sample stage 
+was slowly rotated to reduce the possibility of channeling. 
+The detector solid angle, 0, was 1.07 f 0.05 X 10e3 sr. 
+Beam energy calibration was made using the i60(a, a)‘60 
+elastic resonance reaction in a method based on Scott and 
+Paine [7]. Each spectrum was additionally calibrated with 
+the aid of an americium marker which emits 5.486 MeV 
+alpha particles. The keV/channel conversion and the en- 
+ergy offset were determined with the calibration subroutine 
+in the simulation program RUMP [8]. This subroutine also 
+verifies the incident ion energy. With the combination of 
+0168-583X/96/$15.00 Copyright 0 19% Elsevier Science B.V. All rights reserved 
+SSDI 0168-583X(95)01468-3 
+A.E. Buir et al./Nucl. Instr. and Merh. in Phys. Res. B 118 (1996) 274-277 275 
+these methods the beam energy and detected energy scales 
+were calibrated to within 5 keV. The samples were ana- 
+lyzed using a beam energy of 2.0 MeV to determine the 
+Si/Ge ratio and the layer thickness in atoms/cm’. These 
+values were obtained from the data with RUMP. The 
+carbon analysis was performed using an incident energy of 
+4.295 + 0.005 MeV and a fluence of 2.5 X lOI He*+. 
+This energy places the 4.265 MeV ‘?(a, a)‘*C reaction 
+peak near the center of the SiGeC layer. 
+The ERD measurements used in this experiment were 
+performed using an EN tandem Van de Graaff accelerator 
+with a terminal voltage of 4.0 MV. A beam of Si’+ 
+incident ions with an energy of 24 MeV was used. The 
+sample was positioned so that the sample normal was at an 
+angle of 75.0 + 0.2” to the incident beam. The detector 
+was positioned so that the recoil scattering angle was at 
+30.0 f 0.2”. A 12 urn mylar foil was placed in front of the 
+detector to prevent detection of forward scattered heavy 
+elements. Calibration was performed using a standard of 
+hydrogenated Si3N,. The hydrogen concentration of the 
+standard had previously been quantified using nuclear 
+reaction analysis. Calibration is necessary to properly align 
+the sample and detector geometries, which are sensitive to 
+0.2” due to the glancing angles used. It is also necessary to 
+calibrate for charge collection and detector efficiency since 
+there is no substrate signal for normalization as there is 
+with RBS. The data were collected using a multichannel 
+analyzer and were converted to spectra of atomic fraction 
+versus depth using the program SERDAP. 
+3. Data analysis 
+3.1. Backscattering 
+The carbon area1 density, n(x), was obtained from the 
+backscattering yield equation [ 11: 
+n(x)= Y(dE/dx) 
+Q&(E) ’ (1) 
+where d E/d x is the energy loss in the layer, Q is the 
+incident ion fluence, and R is the detector solid angle. 
+The carbon yield, Y, was obtained from each spectra by 
+integrating the area under the carbon peak after subtracting 
+the silicon substrate signal with a linear background fit. 
+The resonant scattering cross section, u, was deter- 
+mined by integrating the resonance data using the incident 
+energy as the upper limit of integration and the energy at 
+the back edge of the layer as the lower limit of integration. 
+To do this the stopping power of the incident ion in the 
+layer must be calculated. 
+The stopping powers of helium in silicon (E& germa- 
+nium (E& and carbon (cc) were taken from TRIM-92 191. A function was fit in the region of interest for each 
+element of the form: 
+E;= [A In(E) +B]/E, 
+and evaluated at the incident beam energy [I]. Bragg’s law 
+was then used to calculate the stopping in the layer: 
+E=XSiESi +X,,&oc+XCEc, (3) 
+where Xi is the atomic fraction of element i. Since the 
+concentration of carbon was initially unknown, the equa- 
+tions were solved iteratively until the carbon concentration 
+converged. The energy of the back edge of the layer was 
+determined by multiplying the stopping value by the film 
+thickness. These values were then used to integrate the 
+resonant scattering cross-sectional area. 
+3.2. Elastic recoil detection 
+Data from the elastic recoil detection measurements 
+were collected in a multichannel analyzer and plotted as 
+counts versus channel. The spectra were converted to 
+atomic fraction versus depth using the program SERDAP. 
+The atomic density of the carbon atoms in the layer was 
+calculated using the yield equation [IO]: 
+Y,(EcJ = QMxb(Eb> 4)nsE, 
+cos 8, dE,/dx ’ (4) 
+where Q is the incident ion fluence, N,(x) is the atomic 
+density of carbon in the layer at depth x, a(E& 4) is the 
+scattering cross section of carbon (which in this experi- 
+ment obeys the model of Rutherford), 0 is the detector 
+solid angle, SE,, is the energy width of the channels, and 
+cos 0, is the cosine of the angle between the incident 
+beam and the sample surface normal. The subscript r refers 
+to the recoiled atom. The term dE,/dx is the stopping 
+power of the incident silicon ion on the inward path and 
+the carbon recoil on the outward path and was evaluated 
+with a slab analysis. The energy width per channel, 6 Ed. is 
+determined from the energy of a surface element peak 
+divided by the channel number of that peak. Energy loss in 
+the mylar foil was also calculated through slab analysis. 
+4. Results 
+An ERD spectrum for sample F is shown in Fig. 1. 
+This plot shows atomic fraction versus depth. It should be 
+noted that the depth resolution of this technique is approxi- 
+mately 200 x lOi atoms/cm* and therefore the surface of 
+the sample is shown at the half height of the front edge of 
+the carbon signal. The slope of this front edge is a result of 
+the depth resolution rather than a concentration effect. The 
+atomic fraction was averaged from a depth of 200 to 
+700 X lOI atoms/cm*. The carbon concentration for all 
+of the samples analyzed are listed in Table 1. 
+IV. ERDA 
+276 A.E. Bair et al./Nucl. Instr. and Meth. in Phys. Res. B 118 (1996) 274-277 
+Depth (A) 
+1000 500 0 
+0.15, , , , , , , , I , , , , , , I I 1 , 
+C profile for sample F 
+24 MeV Si5+ ERD 
+600 400 200 0 -200 
+Depth (1 xl 015 atotns/cm2) 
+Fig. 1. Elastic recoil detection spectrum showing the carbon 
+profile of sample F. The %Igstrijm depth scale was calculated 
+using an average atomic density approximation. The surface posi- 
+tion of the sample was set at the half maximum of the front edge. 
+Atomic fractions were obtained by averaging all of the data points 
+from a depth of 200 to 700X IO” atoms/cm*. The back edge of 
+the film was obscured by a hydrogen surface signal and is not 
+shown. 
+The backscattering data for sample F is shown in Fig. 
+2. To the left, at approximately channel 440 is the signal 
+from the silicon in the layer. This signal merges with the 
+substrate silicon signal about 10 channels lower. The effect 
+of silicon resonance reactions can be seen by the large 
+fluctuations in the substrate signal yield in channels 250 
+through 420. The remainder of the substrate signal is 
+smooth which is characteristic of a purely Rutherford cross 
+section. The signal from the carbon resonance reaction is 
+then sitting on this region of the substrate signal; thus the 
+silicon resonance does not interfere with the carbon mea- 
+surement. 
+5. Discussion 
+A plot comparing the ERD and backscattered results is 
+shown in Fig. 3. The ERD values are plotted along the 
+Table 1 
+Carbon concentrations in at.% for ERD and backscattering mea- 
+surements 
+Sample 
+A 
+B 
+C 
+D 
+E 
+F ERD 
+9.5 f 0.5 
+7.4fO.5 
+0.8 f 0.3 
+1.6kO.3 
+5.8*0.4 
+8.4 f 0.5 Backscattering 
+9.81t0.6 
+7.4* 0.5 
+1.3rto.4 
+1.9rto.4 
+5.5 * 0.4 
+8.5 f 0.6 Energy (MeV) 
+1.0 
+14, 1.5 2.0 2.5 3.0 3.5 
+I I I 1 I 1 
+12 
+t II C in layer 
+/ 
+1oc II -I 
+Si in substrate 
+:0: 
+Channel 
+Fig. 2. The backscattering spectrum from sample F using 4.295 
+MeV incident He*’ ions. Large fluctuations in the silicon sub- 
+strate signal are due to a silicon resonance reaction. Note that the 
+carbon signal sits behind this region and is not affected. 
+abscissa and the backscattering values are plotted along the 
+ordinate. The dashed line denotes a one-to-one correlation 
+between the two techniques. The carbon concentration 
+predictions of both techniques correlate to within the k 0.5 
+at.% uncertainty of each technique. There is a small diver- 
+gence of the values of these two techniques at the lowest 
+carbon concentrations, where the backscattered values are 
+always larger than the ERD values. Part of this may be a 
+contribution of surface contaminants to the signal. Since it 
+is difficult to separate the contributions to the carbon peak 
+of surface carbon and carbon in the layer, this type of 
+contamination can be misleading. It should be noted that 
+this effect can be reduced by using an incident beam 
+energy high enough so that the peak of the scattering cross 
+12 
+/’ : -Lineor fit of doto / / 
+‘< 10 - 
+> 
+z --One to one correlation /t/ / 
+o 8- t 
+: 8 
+P 6- , 
+‘iz / 
+pl 4- / / , 2 / :: / / 
+; *_ : +4 */’ 
+,, 
+O/’ I I I I 1 
+0 2 4 6 8 10 1 
+ERD concentration 
+Fig. 3. The backscattering carbon concentrations are plotted against 
+the ERD values. The dashed line shows the position of a one to 
+one correlation between ERD and backscatteting. Note the corre- 
+lation between the two methods is less than the uncertainty of the 
+techniques. 
+A.E. Bair et al./Nucl. Instr. and Meth. in Phys. Res. B 118 (1996) 274-277 277 
+section is well into the layer. The advantage of ERD in this high chamber vacuum and using clean samples cannot be 
+regard is that it develops a clear profile of the carbon over emphasized because of difficulties in determining 
+concentration so that contributions to the carbon signal by accurate carbon signals when the surface is covered by 
+surface contaminants can be easily distinguished. hydrocarbons. 
+Peak shaped resonance reactions like the i2C(cx, cy)‘*C 
+at 4.265 MeV used in this experiment can lead to mislead- 
+ing results if not performed carefully due to the extremely 
+high dependence on the scattering cross section with en- 
+ergy. To minimize this, it is very important that the 
+incident ion energy be calibrated to close tolerances. For 
+an accuracy of &OS at.%, the beam energy must be 
+calibrated to within 5 keV. Acknowledgements 
+6. Conclusions 
+These experiments showed good agreement between 
+two independent techniques for measuring the carbon con- 
+centration in SiGeC/Si alloys; elastic recoil detection and 
+backscattering spectrometry. The values obtained only di- 
+verge slightly at lower carbon concentrations. Since the 
+backscattered values are systematically larger than the 
+ERD values, it is likely that a portion of this is due to the 
+proportional increase in the contribution of surface hydro- 
+carbon contamination to the backscattered carbon signal. The authors would like to acknowledge the Arizona 
+State University Center for Solid State Science where RBS 
+was performed with the assistance of Barry Wilkens, TEM 
+with the assistance of David J. Smith and D. Chan- 
+drasekhar and SIMS with the assistance of P. Oakey and 
+R. Hervig. J.C. Barbour was supported by the U.S. Depart- 
+ment of Energy under contract DE-AC0494AL85000. The 
+work at Arizona State University was supported by the 
+Advanced Research Project Agency and monitored by the 
+Air Force Office of Scientific Research under Contract No. 
+F49620-93-c-0018 (G. Witt). 
+References 
+The measurements using ERD are more reliable since 
+the scattering cross section obeys the model of Rutherford. 
+A profile of the carbon concentration is also obtained; thus 
+enabling one to distinguish the contribution of surface 
+hydrocarbons. However, this technique requires an acceler- 
+ator capable of producing 2 24 MeV silicon ion beams, 
+e.g. accelerators with terminal voltages 2 4 MV. These 
+accelerators are limited in number. Yet, backscattering 
+techniques using the mom common accelerators (terminal 
+voltage 5 2 MV) can reliably measure carbon concentra- 
+tions as demonstrated by this paper. A large scatter in the 
+carbon concentrations may occur depending on how the 
+integrated cross section is calculated, and therefore it is 
+critical that the scattering cross section be properly mea- 
+sured in order to obtain reliable backscattering results. 
+Since this cross section changes rapidly with incident 
+beam energy it is necessary to calibrate the beam energy to 
+within 5 keV. Finally, the importance of maintaining a [l] W.K. Chu, J.W. Mayer and M-A. Nicolet, Backscattering 
+Spectrometry (Academic Press, San Diego, CA, 1978). 
+[2] J.A. Leavitt, L.C. McIntyre, Jr., P. Stoss, J.G. Gder, M.D. 
+Ashbaugh, B. Dezfouly-Arjomandy, Z.-M. Yang and Z. Lin, 
+Nucl. Instr. and Meth. B 40/41 (1989) 776. 
+[3] P. Revesz. Cornell University, private communication. 
+[4] Cl. Vizkelethy, P. Revesz, J.W. Mayer and Jian Lee, Surf. 
+and Inter. Analysis, 20 (1993) 309. 
+[5] C. Neelmeijer, R. Grotzschel and R. Klabes. Nucl. lnstr. and 
+Meth. B 64 (19921 461. 
+[6] J.C. Barbour (1994) SERDAP computer program (Sandia 
+National Laboratories, Dept. I I 11, Albuquerque, NM). 
+[7] D.M. Scott and B.M. Paine, Nucl. Instr. and Meth. 218 
+(1983) 154. 
+[8] L.R. Doolittle, Nucl. Instr. and Meth. B 9 (1985) 344. 
+[9] J.F. Zeigler, RSTOP computer code from TRIM-92 (IBM 
+Research Center, Yorktown Heights, NY 10598). 
+[lo] J.C. Barbour and B.L. Doyle, in: Handbook of Modem Ion 
+Beam Materials Analysis, eds. J.R. Tesmer. M. Nastasi. C.J. 
+Maggiore, J.C. Barbour and J.W. Mayer, Materials Research 
+Society, Pittsburgh, PA (1995) chap. 5. 
+IV. ERDA 

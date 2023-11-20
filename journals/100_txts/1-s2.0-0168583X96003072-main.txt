@@ -1,0 +1,757 @@
+cm __ Nuclear Instruments and Methods in Physics Research B 119 (1996) 30-41 
+ELSEVlER Beam Inteactloes 
+with Materials A Atoms 
+On the role of classical and quantum notions in channeling 
+and the development of fast positrons as a solid state probe 
+of valence electron and spin densities 
+Lene Vestergaard Hau a7c’ * , J.A. Golovchenko a*c, R. Haakenaasen b*d, A.W. Hunt ‘, 
+J.P. Peng d, P. Asoka-&mar d, KG. Lynn d, M. Weinert d, J.C. Palathingal e 
+a Rowland Institute for Science, Edwin H. Lund Boulevard, Cambridge, MA OZI42, USA 
+b Department of Physics, Universiry of Oslo, Oslo. Norway 
+’ Department of Physics, Harvard University, Cambridge, MA 02138, USA 
+d Department of Physics, Brookhaven Nutional Laboratory, Upton, NY 11973, USA 
+’ Department of Physics. University of Puerto Rico, Mayogue:. Puerto Rico 00680 
+Received 24 November 199.5; revised form received 3 April 1996 
+Abstract 
+The subtleties of the interplay between classical and quantum pictures are revealed particularly clearly in connection with 
+the effect of channeling. The role of this interplay is described and related to a new probe for valence electron and spin 
+magnetic densities in thin films, which is based upon two-photon annihilation in flight of channeled MeV positrons. The 
+channeling effect is used to steer positrons into the interstices of a crystal, where the valence electron density is high. 
+Transmission measurements have been performed to test our quantitative understanding of the spatial and momentum 
+distribution of channeled positrons. We calculate annihilation rates in a gold crystal and show that the probe is highly 
+sensitive to valence electrons. Channeling states in iron are shown to be sensitive to different regions of the spin magnetic 
+density. With a polarized beam of MeV positrons and the possibility for selective state population, we show that the spatial 
+distribution of the magnetization density can be probed. 
+1. Introduction to channeling 
+In recent years, a significant interest in studies of 
+fundamental quantum effects has created a desire for con- 
+structing wave guides for de Broglie matter waves [l-4]. 
+These guides act as transport systems and result in trans- 
+verse motion, that is stably bound in a confining two-di- 
+mensional potential, and in a free longitudinal motion, 
+along the length of the structure. The bound states in the 
+guide offer very direct evidence of quantum interference of 
+de Broglie waves since the sharpness of energy levels 
+associated with the states is a result of wave interference, 
+similar to the frequency selection in a high-quality interfer- 
+ometer. To propagate microwaves, for example, a special 
+wave guide is required and, similarly, de Broglie waves, 
+associated with atoms, cooled to temperatures of a few 
+microkelvin with the new techniques of laser cooling [51, 
+need special guiding structures. 
+* Corresponding author. E-mail: hau@risvax.rowland.org; Fax: 
++ 1 617 4974627. For de Broglie waves, associated with electrons and 
+positrons of a few MeV, a wave guide is created in the 
+strong electric field in the proximity of atomic strings in 
+single crystals. The motion of high energy, charged parti- 
+cles, penetrating a crystal at small angles with an atomic 
+axis, is governed by the continuum potential obtained as an 
+average of the crystal potential along the atomic string (z) 
+direction, 
+where d is the interatomic spacing for atoms on the 
+string. The three examples of wave structures represent a 
+large span in scales and wavelengths: microwaves, with 
+cm wavelengths, propagate in macroscopic structures 
+whereas microkelvin cold atoms, with wavelengths on the 
+order of 1000 A, require mesoscopic structures, based on 
+micron sized wires, for their propagation. MeV electrons 
+and positrons have wavelengths (connected with transverse 
+motion) on the order of I A which matches the size of the 
+crystalline wave guides. 
+0168-583X/96/$15.00 Copyright 0 1996 Elsevier Science J3.V. All rights reserved 
+PII SO168-583X(96)00307-2 
+L.V. Hau et al./Nucl. Insrr. and Merh. in Phys. Res. B I19 (1996) 30-41 31 
+The theoretical foundation for crystalline guiding - or 
+‘channeling’ - is contained in the papers by Lindhard 
+[6.7]. For channeling corresponding to bound motion in the 
+continuum potential, incidence angles of the charged parti- 
+cles must be smaller than the angle 
+(2) 
+where U, is the height of the continuum potential, and 
+p and u are particle momentum and velocity. This critical 
+angle for channeling is valid for both positively and nega- 
+tively charged particles. In [6], an alternative angle, 8,, 
+was introduced as a result of an investigation of the 
+validity of the continuum potential. The requirement, that 
+many atoms on a string contribute to the scattering of an 
+incident particle even at the distance of closest approach, 
+leads to the requirement that incidence angles be smaller 
+than 
+where Z,e is the charge of the incoming particle and 
+Z, the atomic number of target atoms. This analysis ap- 
+plies to positively charged, channeled particles, and the 
+two critical angles are typically of the same order of 
+magnitude. 
+The guiding effect for heavy ions of a few MeV has 
+turned into a standard tool for investigation of crystal 
+quality and defect locations [8]. However, the intellectually 
+most intriguing aspect of the channeling effect is its illus- 
+tration of the subtle interplay between classical orbital and 
+quantum mechanical pictures. As an example of this inter- 
+play, we consider scattering of a charged particle on an 
+atomic string [6,9], which results from the combined scat- 
+tering on many atoms. For scattering on one of these 
+atoms. a classical description breaks down in the limit of 
+large velocities. This is a well known fact which might at 
+first seem surprising since the de Broglie wavelength, h, is 
+inversely proportional to the velocity and hence large 
+velocities correspond to small de Broglie wavelengths. 
+However, this wavelength must be compared to a charac- 
+teristic length in the scattering problem: a natural length is 
+the collisional diameter, b, which is inversely proportional 
+to the inverse square of the velocity. Thus, a classical 
+orbital picture requires 
+b 2Z,Z,e2 
+K=-==>>l 
+x hV 
+where the parameter K was introduced by Bohr [lo]. We 
+have used a collisional diameter corresponding to un- 
+screened Coulomb scattering between two charges Z, e and 
+Z,e. As seen from Eq. (4), an impact parameter descrip- 
+tion breaks down for large velocities. For scattering on an atomic string, however, the classi- 
+cal orbital picture is valid in the large velocity limit. This 
+statement does not represent an inconsistency with the 
+above argument since the scattering on a string is due to a 
+series of correlated scattering events - whether or not the 
+scattering angle is well defined at large distances in each 
+single scattering event is immaterial. The relevant issue is 
+the amount of spreading of a transverse wave packet over 
+one interatomic spacing along the atomic swing. For a 
+wave packet. centered around a momentum corresponding 
+to the reduced wavelength, X, this spreading is G. and 
+we conclude that the classical orbital picture is indeed 
+approached for large velocities. 
+As in the case of single atom scattering, we can intro- 
+duce a kappa parameter for scattering on an atomic string 
+described by a continuum potential. This potential, corre- 
+sponding to a smearing of the charge distribution in the 
+string direction, is exact in the limit of large velocities 
+(which may be seen by a simple argument: cutting each 
+atom along the string in halves and placing the pieces at 
+half the interatomic distance is equivalent to increasing the 
+velocity by a factor of two) [6]. For string scattering, the 
+kappa parameter is inversely proportional to the transverse 
+velocity ~0, where 0 is the angle of incidence with respect 
+to the atomic axis, and the requirement for the validity of a 
+classical orbital picture for the transverse motion of a 
+channeled particle is 
+2Z,Z,e” a 
+KtGIII =--% 1. 
+five d 
+Here u is the screening length in a simple Thomas- 
+Fermi estimate for the continuum string potential. By 
+inserting the critical angle 6, into Eq. (5). we conclude 
+that this requirement is fulfilled for all particles with 
+masses large compared to the electron rest mass. For 
+highly relativistic electrons and positrons with energies of 
+GeV a classical description would apply whereas a quan- 
+tum mechanical treatment of string scattering is required 
+for electrons and positrons of a few MeV as considered in 
+this paper. 
+At this point it should be stressed that statements about 
+the applicability of classical mechanics are not absolute 
+statements but depend on the quantity under consideration. 
+Eqs. (4) and (5) govern the applicability of classical me- 
+chanics in the determination of scattering angles at large 
+distances in single-atom and single-string scattering. For 
+scattering on an array of strings, however, a number of 
+classical paths could give rise to the same scattering angle 
+and a prediction of the final result of the scattering process 
+involves an addition of the amplitudes associated with the 
+different paths. This gives rise to interference and diffrac- 
+tion effects even in cases where scattering on a single 
+string is classical. Diffraction is associated with events in 
+which the recoil momentum in the scattering process is 
+taken up by the crystal as a whole, as a non-local, phonon 
+32 L.V. Hau et al./NucI. Instr. and Meth. in Phys. Rex B II9 (1996130-41 
+excitation. If a local excitation is involved, as in close 
+encounter processes associated with large angle scattering, 
+interference effects disappear since scattering on different 
+atoms leads to distinctly different final states. These con- 
+siderations are relevant for our transmission scattering 
+experiments reported below. Also described in this paper is 
+spin density probing in iron where the d electrons give rise 
+to a net magnetization. Quantum tunneling into classically 
+forbidden regions of the non-localized d orbitals could be 
+the main contribution to our annihilation signals to be 
+probed, even in cases where the kappa parameter for single 
+string scattering is large. 
+Scattering by strings of atoms has been used to study 
+impact parameter dependence of atomic ionization pro- 
+cesses in situations where a classical impact parameter 
+description would be impossible for scattering on a single 
+atom [11,12]. 
+The quantized nature of the motion of channeled elec- 
+trons of a few MeV has been beautifully revealed through 
+channeling radiation spectroscopy [ 13,141. (In this case the 
+quantized nature of the problem is revealed through the 
+number of bound states in phase space rather than from 
+values of the kappa parameter). The bound states for the 
+DISTANCE FROM STRING r(i) transverse motion are found as eigenstates for a transverse 
+Hamiltonian, 
+-2 
+H,= PI 
+- + U(F), 
+2v (6) 
+where y is the relativistic gamma factor. 
+The continuum potential for channeling of electrons 
+along the < 111 > axis in silicon is shown in Fig. la 
+together with the quantized levels corresponding to an 
+electron energy of 3.5 MeV 1151. Channeled electrons will 
+be tightly confined around atomic strings and for low lying 
+levels, the continuum potential can be approximated by a 
+single string potential with rotational symmetry. Hence we 
+can label the states as Is, 2s, 2p, etc., according to the 
+quantum number for orbital angular momentum projected 
+onto the string direction. Fig. lb contains an experimental 
+radiation spectrum emitted by 3.5 MeV electrons chan- 
+neled along the < 111 > axis in silicon [IS]. The spec- 
+trum was obtained by placing a solid state detector in the 
+forward beam direction. Clearly, superimposed on the I/W 
+incoherent bremsstrahlung spectrum is a line spectrum 
+which corresponds to transitions between the quantized 
+W 3000 IO‘ m 
+ENERGY (keV) 
+Fig. 1. (a) Continuum potential for the < 111 > -axial wave guide in silicon. We show the potential, thermally averaged over lattice 
+vibrations, for three different crystal temperatures together with the quantized states corresponding to an electron energy of 3.5 MeV. The 
+single string potential is rotationally symmetric and we can label the deeply bound channeling states according to their angular momentum 
+quantum number, (b) Radiation spectra for 3.5 MeV electrons channeled along the < 111 > axis in a 5600 a thick silicon crystal. The 
+spectra were obtained with a lithium doped silicon detector placed in the forward beam direction. The quantized structure of the 
+two-dimensional bound motion in the crystalline wave guide is clearly revealed through the line spectrum superimposed on the l/o 
+incoherent bremsstrahlung background. 
+L.V. Hau er al./Nucl. Instr. and Meth. in Phys. Res. B 119 11996) 30-41 
+levels of Fig. la. Typical level spacings are on the order of 
+10 eV, and the Lorentz boost of radiation energies into the 
+keV region is due to a recoil effect for the radiating, 
+relativistic electron. The energy of the emitted photon is 
+supplied mainly from the energy ‘reservoir’ associated 
+with the longitudinal, relativistic motion. 
+Channeling radiation spectroscopy has been developed 
+[ 16,171 and successfully applied to obtain very precise 
+values for solid state parameters such as thermal vibra- 
+tional amplitudes [18]. It is also possible to obtain vibra- 
+tional correlation coefficients from linewidths of planar 
+channeling lines [16]. Planar channeling refers to one-di- 
+mensional, bound motion in a planar continuum potential 
+obtained from the crystal potential by averaging over 
+planar directions. This description is applicable for charged 
+particles incident at small angles with atomic planes in the 
+crystal and far from atomic string directions. 
+Our aim here is to measure valence electron and spin 
+magnetic densities in thin magnetic films with channeled 
+MeV positrons. These positively charged particles will be 
+guided into the interstices of the crystal and will hence be 
+particularly sensitive to the presence of valence electrons. 
+In our density studies, we shall combine the channeling 
+effect with the process of two-photon annihilation in flight 
+of positrons, which acts as a localized probe of the electron 
+density. 
+2. Transmission channeling experiments 
+We have performed preliminary experiments with 1 
+MeV positrons in single crystals of silicon, where the 
+transmission of channeled particles is measured in the 
+forward beam direction as a function of incidence angle to 
+atomic planes [19]. With these experiments, we test our 
+quantitative understanding of the transverse spatial and 
+momentum distribution of channeled positrons as a func- 
+tion of penetration depth into the crystal, which is of 
+decisive importance in extracting information on valence 
+electron and spin densities from our planned annihilation 
+in flight measurements. The experiments were performed 
+at the newly developed, intense, energy-tunable positron 
+source at Brookhaven National Laboratory, which was 
+constructed in the search for the illusive X0 particle [20]. 
+A source of sodium 22, which is a beta+ emitter with an 
+endpoint energy of 546 keV, has been placed in the high 
+voltage terminal of a dynamitron accelerator. The energy 
+can be tuned from 1 to 2.5 MeV with a resolution of 1 keV 
+and a flux of lo5 positrons per second is obtained within 
+an angular cone of one degree. 
+To measure the transmitted flux through a 2700 A 
+silicon crystal, a germanium detector is placed in the 
+forward beam direction. The detector opening angle is 0.2” 
+which ensures that only the direct, zeroth order Bragg 
+beam is recorded. Furthermore, the detector opening angle 
+is smaller than the critical angles associated with the bl - zec- 
+Fig. 2. Forward transmitted yield of channeled I MeV positrons as 
+a function of incidence angle with the (lOO), (1 IO), and (Ill) 
+planes in a 2700 A thick single crystal of silicon. The stippled 
+lines connect the experimental data points obtained with a germa- 
+nium detector with an opening angle of 0.2”. This angle is small 
+enough that all Bragg diffraction spots (except the zero-order one) 
+escape the detector. The solid lines are theoretical predictions 
+based upon the many beam method. This description includes 
+dynamical diffraction effects which are. subsequently averaged 
+over variations in crystal thickness across Ihe beam spot. 
+atomic planes used for the channeling experiments (Eq. (2) 
+gives critical angles 0, = 0.22” for the (100) plane, 0.30’ 
+for (1 IO), and 0.3 1’ for the (111) plane). The measured 
+transmission as a function of angle is shown in Fig. 2 
+where the angles are in units of Bragg angles (Ba = 0.184”, 
+0.130”, and 0.080”. respectively). Also shown in the figure 
+is a theoretical curve obtained with the ‘many beam 
+method’ as described below. Both the overall yield enve- 
+lope and the fine structure, including the pronounced dips 
+at the Bragg conditions, are well accounted for in our 
+calculations. The positions of the Bragg dips may be 
+obtained from diffraction kinematics whereas dynamical 
+diffraction theory is necessary for evaluation of the magni- 
+34 L.V. Hau et al./ Nucl. Instr. and Meth. in Phys. Rex. B I19 (1996130-41 
+tude of the yield. The fine structure is due to a beating 
+between eigenstates with different energies, populated at 
+the entrance surface of the crystal. Pendellosung-beating- 
+lengths are on the order of loo0 A and the fine structure is 
+sensitive to crystal thickness changes of IO-100 A. The 
+theoretical curves have been averaged over the variation in 
+crystal thickness across the beam spot on the crystal, 
+which amounts to - 500 .& for a beam diameter of 1.4 
+mm. The agreement of our theoretical predictions with the 
+experimental data gives us confidence that we can quanti- 
+tatively describe the transverse flux distribution of chan- 
+neled positrons as they penetrate the crystal. 
+While the presence of Bragg dips is clearly a quantum 
+mechanical effect, one might expect that the overall enve- 
+1 
+0.9 
+0.8 
+0.7 
+E 
+F 0.6 
+0.5 
+0.4 
+0.3 
+0.2 lope function could be obtained from classical considera- 
+tions. We have investigated this and found that the experi- 
+mental envelope is well approximated by the classical 
+envelope function obtained for a detector opening angle 
+equal to twice the Bragg angle. However, quantum me- 
+chanically the transmission yield would not change for any 
+change in the detector opening angle, which is less than 
+twice the Bragg angle, whereas classically a continuous 
+dependence of opening angle is obtained. 
+We have calculated the classical envelope in two cases 
+- one for a detector opening angle equal to twice the 
+Bragg angle and one where the opening angle equals one 
+fifth of the Bragg angle. These curves are shown in Fig. 3 
+and, as seen, the yield is different in the two cases by 
+0 1 2 3 4 5 6 7 8 
+Incidence Angle O/O,, ( > a 
+3. Classical functions for forward transmitted of 1 positrons channeled the (11 plane in with 
+detector angles of = 0.16” and 0,/5 0.016” (b). (a) agrees with the obtained envelope Fig. 
+2c. 
+L.V. Hau et aI./Nucl. Instr. and Meth. in Phys. Res. B I19 (1996) 30-41 35 
+about an order of magnitude. A correct envelope function 
+is obtained from a classical calculation only by introducing 
+a distinct quantum mechanical quantity, the Bragg angle, 
+into the theory. For the present experiment, where the 
+detector opening angle is of the order of the Bragg angle, 
+our conclusion is that the experimental envelope function 
+cannot be obtained within a purely classical theory. How- 
+ever, for large, detector angles, spanning many Bragg 
+angles, a classical theory is applicable. 
+The classical envelope functions shown in Fig. 3 are 
+obtained by approximating the continuum potential with a 
+harmonic potential. The transmission into the detector is 
+calculated by integrating the probability distribution of exit 
+angles for a given incidence angle, P(6,,,1@,,), over the 
+detector opening angle A, 
+Yield = JdB-,,ilP( O,,i,lOi,). i (7) 
+This probability distribution is given as the product 
+“(%,,I%) =/dE_P(H,,,,lEI)P(E,le,,), (8) 
+where P (E,le,,) is the probability distribution of 
+transverse energies for a given incidence angle, obtained by assuming a uniform spatial distribution of positrons as 
+they reach the front crystal surface. 
+(9) 
+Furthermore, P(O,,,\ E, ) is the distribution function 
+for exit angles for a given transverse energy, which is 
+obtained from the microcanonical ensemble under an as- 
+sumption of statistical equilibrium in the available phase 
+space. 
+PC LJE,) Or /& . (10) 
+Note that the factor of proportionality in ECq. (IO) 
+depends on the transverse energy. 
+3. Valence electron densities 
+To probe valence electron densities, we utilize the 
+guiding effect of channeling to steer positrons into regions 
+of the crystal with a high concentration of valence elec- 
+trons. We combine this effect with the process of two-pho- 
+357 Annihilation Rate vs. Incidence Angle 
+Random Even1 Rate - 
+0 ~~~l~~~l~~~l~,~t~~~l’~~I~“I~ 
+0 0.4 0.8 1.2 1.6 2 2.4 2.0 
+Incidence Angle (degrees) 
+Fig. 4. Two-photon annihilation in-flight rate calculated as a function of incidence angle for I MeV positrons channeled along the < 110 > 
+axis in a 6000 A gold crystal. The angle to the (100) plane is IO” Also indicated on the figure is the random rate obtained with a uniform 
+positron flux distribution. 
+36 L.V. Hau et al. / Nucl. Instr. and Meth. in Phys. Res. B I I9 (1996) 30-41 
+Electron Density in Transverse Unit Cell 
+4 
+3.5 
+3 
+2.5 
+2 y (A) 
+1.5 
+1 
+0.5 
+0 
+0 0.5 1 1.5 2 2.5 
+x (A) 
+Fig. 5. Contour plot of the electron distribution in gold, shown in the plane perpendicular to the < I IO > axis. The density is obtained from 
+density functional methods and is averaged along the < 110 > direction. 
+ton annihilation in flight which acts as a probe of the local 
+electron density. The calculated annihilation rate for 1 
+MeV psitrons channeled along the < 110 > axis in a 
+6000 A gold crystal as a function of incidence angle is 
+shown in Fig. 4. The annihilation rate is given as a 
+product, 
+Annihilation rate = @a / ‘d z overlap, (11) 0 
+of the positron flux @= IO5 per second, the annihilation 
+cross section u= (e2/m~2)2 for MeV positrons annihilat- 
+ing with electrons at rest, and the transverse overlap 
+integral integrated over crystal thickness T, 
+Overlap = /I q ( r’, z)l’n,( 7, z)dr’. (‘2) 
+Here, I$/*(?, z> is the positron probability density at 
+penetration depth z into the crystal, and n,(r’, z> the 
+electron density in the crystal, which is obtained from 
+density functional methods based on augmented plane 
+wave expansions [21]. A contour plot of the electron 
+density is shown in Fig. 5. 
+The transverse positron wavefunction, $, is expanded 
+in eigenstates for the transverse Hamiltonian (6), where the 
+continuum potential U(r) is periodic. Hence the eigen- 
+states can be chosen as two-dimensional Bloch states that 
+are subsequently expanded in plane waves (the ‘many 
+beam method’). The transverse &h&linger equation is 
+then transformed into an algebraic eigenvalue equation and 
+in Fig. 6 we show the Bloch bands in an extended zone 
+scheme along a line which is at an angle of IO” to the 
+(100) plane. In Fig. 4, the annihilation rate is seen to increase with 
+increasing angle to the atomic string. This is due to the fact 
+that for larger angles, the positron penetrates into the 
+Energy Bands for 1 MeV Positrons in Gold <l lO> 
+26 
+24 
+22 
+I / 
+I 
+18 
+16 
+14 
+12 i -I 
+10 
+8 
+-1.5 -1 -0.5 0 0.5 1 1.5 
+Reciprocal Lattice Vector (I/A> 
+Fig. 6. Bloch bands for 1 MeV positrons channeled along the 
+< 110 > axis in gold. The bands are shown in a two-dimensional 
+extended zone scheme along a direction that forms an angle of 10” 
+with the (100) plane. 
+L.V. Huu et ul./ Nucl. Instr. and Meth. in Phys. Rex B i 19 f 1996) 30-41 37 
+atomic cores where the total electron density is high. The 
+rate at large angles approaches the random value of 24/s, 
+indicated by the solid line in the figure, which is obtained 
+for a uniform transverse positron flux. The small increase 
+for zero angle (on axis) is a symmetry effect which causes 
+the lowest excited states to have an exactly vanishing 
+overlap with the atomic stings for this incidence angle. 
+The ground state, which is the only of these states popu- 
+lated on axis, has a very small but nonvanishing overlap 
+with the atomic strings. 
+To illustrate our ability to selectively probe valence 
+electrons with use of the channeling effect, we note that 
+the contribution from valence electrons to the zero angle 
+annihilation rate in Fig. 4 is greater than 30%. This is 
+obtained from the electron density of 0.17 e/A3 in the 
+center of the < I10 > channel, as shown in Fig. 5, and 
+constitutes a much larger relative contribution than is 
+obtained for low order Fourier components in X-ray and 
+electron diffraction experiments. The demonstrated spatial 
+selectivity is an important aspect for the ultimate utility of 
+channeling annihilation experiments. 
+We have estimated dechanneling effects due to elec- 
+tronic multiple scattering and these results indicate that we 
+could increase our counting rates by an order of magnitude 
+by using thicker crystals (up to several microns). Taking 
+into account, however, the enhanced background problems 
+due to nuclear multiple scattering und:r non-channeling 
+conditions, we conclude that the 6000 A crystal thickness 
+is a good choice for the initial demonstration of channeling 
+annihilation effects. 
+In the design of the detector geometry for the annihila- 
+tion photons, we make use of the fact that the relativistic motion of the incoming positrons causes a forward peaking 
+of the gamma-rays. With a relatively simple detector ge- 
+ometry, consisting of 16 sodium iodide and bismuth ger- 
+manate scintillators, we can detect annihilation gammas 
+with an efficiency of 60% [22]. 
+4. Spin magnetic densities 
+Our ultimate goal is to use the combination of channel- 
+ing and two-photon annihilation in flight to study spin 
+magnetic densities in thin magnetic films. The success of 
+this endeavor depends on two major facts: a high sensitiv- 
+ity of the annihilation cross section to the relative spin 
+directions of the annihilating electron-positron pair and 
+the possibility for creating spin polarized positron sources. 
+The differential cross sections for parallel and anti-parallel 
+spins are shown in Fig. 7 as a function of angle of one of 
+the annihilation gammas with respect to the incoming 
+positron direction [23]. For 1 MeV positrons, the differen- 
+tial cross section for anti-parallel spins is significantly 
+higher than the cross section for parallel spins, particularly 
+at the smallest angles. At around 4 MeV, the cross sections 
+are equal and at higher energies, the cross section for 
+parallel spins dominates. Even with an integration over 
+angles in Fig. 7, the total annihilation cross section for 
+anti-parallel spins is 2.5 times larger than for parallel 
+spins. 
+Furthermore, the positron source at Brookhaven can be 
+modified to produce a beam of longitudinally polarized 
+positrons [24,25]. We utilize that parity is not conserved in 
+beta decay which is the source of our positrons as de- 
+Differential Cross Section 
+for Annihilation in Flight 
+of 1MeV Positrons 
+0.0 0.5 1.0 1.5 2.0 2.5 3.0 
+e (Rad) 
+Fig. 7. Differential cross sections for two-photon annihilation of I MeV positrons with electrons at rest. We show the cross sections for the 
+two possible relative spin orientations of the annihilating pair as a function of angle bchveen one of the photons and the direction of the 
+incoming positron. 
+38 L.V. Hau et al. / Nucl. Instr. and Meth. in Phys. Res. B 119 (1996) 30-41 
+Continuum Potential for Iron <lOO> We shall consider channeling of 1 MeV positrons in a 
+single crystal of iron as an example. Iron is a ferromag- 
+netic material with a Curie temperature of 1043 K, and the 
+easy magnetization direction is along the < 100 > 
+direction. Since the positrons are longitudinally polarized, 
+we consider channeling along the < 100 > direction, and 
+the continuum potential for this axis is shown in Fig. 8. 
+The spin magnetic density in iron, obtained from spin 
+density functional methods [21,26], is shown in Fig. 9 as 
+the difference between spin-up and spin-down densities 
+relative to the total electron density. As expected, no net 
+spin density is obtained inside the atomic cores. In the 
+interstices, we see regions with a predominant spin-down 
+density and regions with mainly spin-up density. The 
+average magnetization in iron is 2.2 Bohr magnetons per 
+Fig. 8. Continuum potential for positrons channeled along the 
+< 100 > easy magnetization axis in iron. 
+scribed above. The highest degree of polarization is ob- 
+tained for positrons close to the endpoint energy of the 
+beta spectrum and through velocity selection, a spin polar- 
+ized positron beam may be obtained. With a loss in flux of 
+a factor of ten, we can obtain a spin polarization of 
+= 80%. 
+Relative Spin Density of Iron <loo> Overlap of Positron Eigen Functions and 
+Relative Spin Density 
+0.15 Podan of (1 OO> axes 
+.i 0.1 
+B 0.05 
+.B 
+:: 0 
+.z -0.05 
+z -0.1 
+Fig. 9. The net spin density relative to the total electron density in 
+iron, shown in the plane perpendicular to the < 100 > axis. The 
+density is averaged along the < 100 > direction, and the posi- 
+tions of the < 100 > axes in the transverse plane are shown in the 
+insert. ‘Ihe magnetization in iron is caused by unpaired d electrons 
+and .ihe presence of spin down parts in the spin density distribu- 
+tion is a crystalline effect. It accounts for the fact that the average 
+magnetization in crystalline iron is only 2.2 Bohr magnetons 
+compared to 4 Bohr magnetons in atomic iron. Fig. 10. Relative spin density (from Fig. 9) shown together with 
+the transverse ground state (top> and first excited state (bottom) of 
+1 MeV positrons channeled along the < 100 > axis in iron. The 
+ground state probes the spatial region with a net spin down 
+density whereas the first excited state digs into the spin up part of 
+the distribution. 
+L.V. Hau ef ~1. / Nucl. Instr. and Merh. in Plry.ys. Res. B I19 (1996) 30-41 39 
+0.6 
+0.2 
+0.1 
+0 Population of Ground and First Excited States 
+Ground State + 
+First Excited State -+--- 
+0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 0.5 
+Incidence Angle (degrees) 
+Fig. I I. Population of the ground and first excited states, shown in 
+Fig. IO, as a function of incidence angle with the < 100 > axis. 
+unit cell. The spin down parts of the spin density distribu- 
+tion in Fig. 9 account for the decrease in magnetization 
+from 4 Bohr magnetons in atomic iron. 
+Polamation Ratlo vs. Inudence Angle for Ctystallme Iron <loo> 
+1 
+0.025 
+-I 
+0 0.5 1 1.5 2 2.5 
+Incidence Angie (degrees) 
+Fig. 12. We show the polarization ratio defined as the difference 
+between the annihilation rates for the two possible relative spin 
+orientations of the annihilating pair relative to the total annihila- 
+tion rate. The polarization ratio is given as a function of incidence 
+angle for I MeV positrons channeled along the < lOO> axis in 
+iron. The angle to a (100) plane is 10”. We have indicated the 
+random polarization ratio which is obtained with a uniform positron 
+flux. In Fig. 10 we show the two deepest bound, transverse 
+positron channeling states together with the spin magnetic 
+density (as in Fig. 9). The lowest lying state predominantly 
+probes the spin-down part of the density distribution 
+whereas the first excited state probes the spin-up part. We 
+can selectively populate these states by changing the inci- 
+dence angle of the channeled positrons with respect to the 
+Annihilation Rate vs. Incidence Angle 
+Incidence Angle (degrees) 
+Energy Bands for 1 MeV Positrons in Iron < lOO> 
+45 
+: Angle of Population Change 
+40 - 
+k 
+35 - j\ 
+rl-[;::: v “L 
+30 
+‘WY-‘\ 
+25 
+-“L 
+-i_ J 
+15’ I ’ ’ I:1 ’ t ’ ’ ’ 
+0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 0.5 
+Incidence Angle (degrees) 
+Fig. 13. (a) Annihilation rate as a function of incidence angle for I 
+MeV positrons channeled along < 100 > in iron. The plot corre- 
+sponds to a narrow range of angles and shows an example of an 
+abrupt dip in annihilation rate at an incidence angle of 0.225”. The 
+dip coincides with a near degeneracy between the fourth and fifth 
+Bloch bands as seen in (b). At this angle, a Bragg condition is 
+satisfied and the character of the populated eigenstates will change 
+rapidly across the Bragg angle. This explains the abrupt change of 
+annihilation rate. 
+40 L.V. Hau et al./Nucl. Instr. and Meth. in Phys. Res. B I I9 (1996) 30-41 
+atomic string as seen in Fig. 11 where the population of 
+the two lowest states is shown as a function of incidence 
+angle. The population amplitudes of the states are obtained 
+as overlap integrals between the incident transverse plane 
+wave and the eigenstates. The resulting annihilation rate is 
+shown in Fig. 12 as a function of incidence angle. We 
+show the polarization ratio defined as the difference be- 
+tween the annihilation rates for the two possible spin 
+polarizations of the positron beam with respect to the 
+magnetization direction in iron, relative to the total anni- 
+hilation rate. We see a minimum for the smallest angles 
+and an increase for angles larger than 0.15’. This is a 
+reflection of the fact that for angles smaller than 0.15’, the 
+deepest bound channeling state is predominantly populated 
+and hence the spin-down part of the spin density distribu- 
+tion is probed. For larger angles, mainly the first excited 
+state, which probes the spin-up part, is populated. For even 
+larger angles, the positron wavefunction penetrates into the 
+cores with no net spin polarization. This causes the de- 
+crease for the largest angles in Fig. 12, where the annihila- 
+tion rate approaches the random value of 0.037. The 
+random value is obtained for a uniform positron flux 
+annihilating with valence electrons with a net spin density 
+of 2.2 Bohr magnetons per unit cell. 
+We have explored the origin of the spikes occurring in 
+the figures (4 and 12) for annihilation rates as a function of 
+incidence angle. The annihilation rate in iron for an unpo- 
+larized positron beam is shown in Fig. 13a in a small 
+angular region. The abrupt dip at 0.225” is related to the 
+avoided crossing at that angle of the fourth and fifth 
+energy bands, as shown in Fig. 13b. In a narrow angular 
+Polarization Ratios vs. lnudence Angle for Crystalline and Atomic Iron <loo> 
+lnadence Angie (degrees) 
+Fig. 14. Polarization ratio as a function of incidence angle for 1 
+MeV positrons channeled along the < 100 > axis in crystalline 
+iron (as in Fig. 12) and in a BCC crystal made up of overlapping 
+iron atoms. Note the different scale for the two cmves. range, population amplitudes for the corresponding Bloch 
+states change rapidly. 
+To show the sensitivity of the channeling-annihilation 
+probe to crystalline effects, we compare in Fig. 14 the 
+polarization ratio for crystalline iron (as in Fig. 12) to the 
+ratio for a crystal made up of overlapping atomic iron. In 
+the latter case, we have 4 Bohr magnetons per unit cell and 
+the random value is correspondingly higher. We see a clear 
+difference between the curves for small angles due to the 
+missing spin-down contribution in atomic iron. We con- 
+clude that our method is highly sensitive to crystalline 
+effects of the spin-magnetic density. 
+5. Conclusion 
+We have shown a potential new use of channeling for 
+materials research. By combining the channeling effect for 
+positrons with two-photon annihilation in flight, acting as a 
+localized probe, we have at hand a very sensitive tool for 
+studying valence electron and spin magnetic densities. 
+Channeled positrons can be guided into the interstitial 
+regions of a crystal, with high concentrations of valence 
+electrons. We can furthermore select different parts of the 
+valence electron density distribution by utilizing that dif- 
+ferent channeling states probe different parts of the crystal 
+and that those states can be selectively populated by 
+changing the incidence angle of the channeled positrons 
+with respect to the atomic string direction. Particularly 
+intriguing is the possibility for using our new tool in 
+studies of spin magnetic densities in thin magnetic films. 
+Spin densities have so far been studied by neutron diffrac- 
+tion [27] which requires large samples and a reactor. The 
+possibility for studying thin films could be of major tech- 
+nological importance in connection with development of 
+efficient data-storage media. Planned upgrades of the 
+positron source at Brookhaven National Laboratory, in- 
+volving a projected increase in the positron flux by several 
+orders of magnitude, make the spin magnetic density stud- 
+ies feasible. 
+Further use of the channeling effect involves develop- 
+ment of a positron microscope. One of the major draw- 
+backs of transmission electron microscopes is the limited 
+range ( = 1000 A> of electrons in the samples under inves- 
+tigation. With use of the channeling effect, positrons could 
+be guided through the interstices of the crystal, with 
+minimum scattering on nuclei, and hence microscopy could 
+be performed on samples with thicknesses of several mi- 
+crons. 
+References 
+111 L.V. Hau, M.M. Bums, and J.A. Golovchenko, Phys. Rev. A 
+45 (1992) 6468. 
+[2] L.V. Hau, J.A. Golovchenko and M.M. Bums, Phys. Rev. 
+Lett. 74 (1995) 3 138. 
+L.V. Hau et al./Nucl. Instr. and Meth. in Phys. Res. B 119 (1996) 30-41 41 
+[3] J. Schmiedmayer, Appl. Phys. B 60 (l?!I5) 169. 
+[4] M.J. Renn, D. Montgomery, 0. Vdovin, D.Z. Anderson, C.E. 
+Wieman and E.A. Cornell, Phys. Rev. Lett. 75 (1995) 3253. 
+[5] J. Opt. Sot. Am. B 6 (1989), topical issue. 
+[6] J. Lindhard, K. Dan. Vid. Selsk. Mat. Fys. Medd. 34, no. 14 
+(1965). 
+[7] P. Lervig. J. Lindhard and V. Nielsen, Nucl. Phys. A 96 
+(1967) 481. 
+[8] L.C. Feldman, J.W. Mayer and ST. Picraux, Materials Anal- 
+ysis by ion Channeling (Academic Press, New York, 19821. 
+[9] J.U. Andersen, in: Semiclassical Descriptions of Atomic and 
+Nuclear Collisions, eds J. Bang and J. de Boer (North- 
+Holland, 1985) ~463. 
+[l I] J.U. Andersen and J.A. Davies, Nucl. Ins&. and Meth. 132 
+(1976) 179. [IO] N. Bohr, K. Dan. Vid. Selsk. Mat. Fys. Medd. 18, no. 8 
+( 1948). 
+[12] J.F. Bak et al., Phys. Rev. A 25 (1982) 1334. 
+(131 R.L. Swent, R.H. Pantell, M.J. Alguard, B.L. Berman, S.D. 
+Bloom and S. Datz, Phys. Rev. Lett. 43 (1979) 1723. 
+[14] J.U. Andersen and E. Laegsgaard, Phys. Rev. Lett. 44 (1980) 
+1079. 
+[ 151 J.U. Andersen, E. Lzgsgaard and A.H. Sorensen, Nucl. Instr. 
+and Meth. B 2 (1984) 63. [16] J.U. Andersen, E. Bonderup, E. Lregsgaard and A.H. Sore- 
+nsen, Phys. Scripta 28 (1983) 308. 
+(171 L.V. Hau and J.U. Andersen, Phys. Rev. A 47 (1993) 4007. 
+[IS] L.V. Hau, E. Laegsgaard and J.U. Andersen, Nucl. Instr. and 
+Meth. B 48 (1990) 244. 
+[19] R. Haakenaasen, L.V. Hau, J.A. Golovchenko. J.C. 
+Palathinghal. J.P. Peng, P. Asoka-Kumar and K.G. Lynn, 
+Phys. Rev. Lett. 75 (1995) 1650. 
+[20] P. Asoka-Kumar et al.. Nucl. Instr. and Meth. A 337 (1993) 
+3. 
+1241 J. Van House and P.W. Zitzewitz. Phys. Rev. A 29 (1984) 
+96. [21] These calculations were performed by M. Weincrt. 
+Brookhaven National Laboratory. 
+[22] R. Haakenaasen, Ph.D. diss., Harvard University (1995). 
+[23] See: J.J. Sakurai. Advanced Quantum Mechanics (Addison- 
+Wesley, Reading, MA, 1967). 
+[25] D.W. Gidley. A.R. Koymen and T. Weston Capehart. Phys. 
+Rev. Lett. 49 (1982) 1779. 
+[26] A.K. RajagopaJ, in: Advances in Chemical Physics, Vol. 41, 
+eds. I Progogine and S.A. Rice (Wiley, New York, 1980). 
+[27] C.G. Shull, Early Development of Neutron Scattering (Nobel 
+Prize Lecture), Rev. Mod. Phys. 67. no. 4 (1995). in press. 

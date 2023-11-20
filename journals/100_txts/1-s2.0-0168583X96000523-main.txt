@@ -1,0 +1,426 @@
+s .__ __ EB Nuclear Instruments and Methods in Physics Research B 114 (1996) 252-258 
+ELSEVIER NIOMI B Beam Interactions 
+with Materials&Atoms 
+Multiple beam ion channeling patterns 
+M.B.H. Breese * 
+SPM Unit, Nuclear Physics Laboratory, University of Oxford, Keble Road, Oxford, OX1 3RH, UK 
+Received 5 December 1995 
+Abstract 
+This paper describes the production and uses of “multiple beam ” ion channeling patterns generated using a nuclear 
+microprobe. Multiple beams are produced by splitting a single 3 MeV proton beam, diverging from the object aperture, into 
+two or more beams with different trajectories. All the beams are incident on the surface of a 0.3 km thick [lOO] silicon 
+crystal and produce superposed channeling patterns. Multiple beam patterns produced with the quadrupole lenses of the 
+nuclear microprobe switched both off and on are shown, and the relationship between the different contrast observed under 
+these two conditions is described. Multiple beam patterns are used to understand recent results showing channeling patterns 
+produced through thin, rotated crystal bilayers and strained layers. 
+1. Introduction 
+One of the first confirmations of the effect of crystal 
+structure on ion trajectories through matter was the produc- 
+tion of “blocking” or “star” patterns using collimated, 
+unfocused MeV ion beams. There has been considerable 
+subsequent development of the use of ion channeling 
+patterns to identify different types of crystal structures, as 
+described in Ref. [I] and chapter 11 of Ref. [Z]. Other 
+work on measuring and interpreting channeling patterns is 
+reviewed in Ref. [3]. 
+For channeling patterns recorded in transmission using 
+thin crystals, an increased intensity of transmitted ions is 
+produced where the incident beam is aligned with a chan- 
+neling direction [4]. Channels away from the beam direc- 
+tion show a reduced intensity owing to blocking [5]. 
+There has been recent renewed interest in the produc- 
+tion, interpretation and applications of ion channeling pat- 
+terns through thin crystals using a nuclear microprobe 
+[3,6,7]. The use of a focused, convergent proton beam has 
+allowed the production of “selected area” and “conver- 
+gent beam” patterns [3], which enabled coherent planar 
+oscillations through thin silicon crystals to be directly 
+observed. This same paper also described how a nuclear 
+microprobe could be used for beam-crystal alignment by 
+changing the incident angle of the focused beam, instead 
+of tilting the crystal in the usual manner. 
+* Tel.: + 44 1865 273439, fax: 44 1865 273418, e-mail: 
+breese@physics.ox.ac.uk. Ion channeling patterns have also recently been used to 
+observe and quantify the strain present in Si 1 _ .Ge,/Si, 
+strained layers [7]. This was first modelled experimentally 
+by recording channeling patterns produced by 3 MeV 
+protons transmitted through two thin [ 1001 crystals, with a 
+small rotation angle between them. A sample of 
+Si,,s,Ge,,,/Si was used, which had a rotation angle at the 
+bilayer interface along the off-normal directions due to 
+strain-induced tetragonal lattice distortion. This sample 
+was thinned to less than 1 km and used to produce 
+channeling patterns with the beam aligned close to the 
+[ 11 l] axes of the different layers present. These patterns 
+enabled the amount of strain present within the Si,s,Ge,,,, 
+layer to be measured. 
+The first aim of this present paper is to relate the 
+focusing action of a nuclear microprobe to the new types 
+of channeling patterns produced here. The second aim is to 
+add to the interpretation of the previous work on channel- 
+ing patterns generated through rotated bilayers and strained 
+layers, by comparison with multiple beam patterns pro- 
+duced with the quadrupole lenses switched on. 
+All the channeling patterns shown in this paper utilise 
+the “doughnut” distribution produced when the 3 MeV 
+proton beam is tilted slightly away from the silicon [lo01 
+and [l lo] axes of a thin crystal. These doughnuts have 
+been previously investigated by Rosner et al. [8] who 
+studied the intensity distribution of 3.2 MeV protons trans- 
+mitted through silicon crystals less than 1 km thick. It was 
+noted that the angular extent of these doughnuts was 
+proportional to the tilt angle of the [ 1 lo] axis away from 
+the beam axis, for tilt angles less than the axial channeling 
+critical angle. The azimuthal intensity distribution of these 
+0168-583X/96/$15.00 Copyright Q 1996 Elsevier Science B.V. All rights reserved 
+SD2 0168-583X(96)00052-3 
+M.B.H. Breese / Nucl. Instr. and Meth. in Phys. Res. B I14 (1996) 252-258 253 
+doughnuts was non-uniform and reflected the crystal sym- 
+metry caused by the major channeling planes crossing at 
+the crystal axis. 
+2. Production of multiple beam channeling patterns 
+The crystal used in this work was a 0.3 pm thick, 
+self-supporting [IOO] silicon membrane, with a thin region 
+approximately 8 mm in diameter. It was prepared at the 
+University of Florida according to the method developed 
+by Cheung [9]. Boron was diffused into one side of a blank 
+silicon wafer at about lOOO”C, then a masked area was 
+selectively etched to produce a dislocation-free thin layer. 
+There is no detectable variation of the crystallographic 
+orientation across the crystal using this procedure. For this 
+crystal, the measured thickness typically varies by + 100 
+nm. While this variation is large enough to detect coherent 
+planar oscillations in channeling patterns [3], the crystal is 
+too thick for coherent axial channeling oscillations to 
+affect the observed patterns [lo]. 
+The ion optics of nuclear microprobes are fully de- 
+scribed in Ref. Ill]. It suffices to say here that a nuclear 
+microprobe uses two to four magnetic quadrupole lenses to 
+focus a low-divergence MeV light ion beam passing 
+through an object aperture into a small spot with a higher 
+convergence angle on the crystal surface, as shown in the 
+lower half of Fig. 1. The beam divergence half-angle from 
+the object aperture is 0, in the horizontal (x) direction and 
+$c in the vertical ( y) direction. 
+beam axis (m) 
+Fig. 1. Schematic diagram showing the production of multiple 
+beams in a nuclear microprobe. Only the horizontal direction is 
+shown, where the beam angle to the axis is 0. The vertical 
+direction, where the beam angle to the beam axis is 4, gives a 
+similar effect. In the upper half, the quadrupole lenses arc switched 
+off and in the lower half they are switched on. In both cases the 
+separate beams hit the crystal surface and the resultant channeling 
+pattern is observed on a viewing screen located 680 mm further 
+downstream, unless otherwise stated. The vertical size of the 
+aperture, lenses, crystal and the viewing screen is not to scale. The production of.multiple beams in a nuclear micro- 
+probe with the quadrupole lenses switched off is shown 
+schematically in the upper half of Fig. 1, and with the 
+quadrupole lenses switched on in the lower half. In both 
+cases, the beam diverges from an object aperture and 
+uniformly illuminates a collimator aperture about 5 m 
+downstream, which defines the beam divergence into the 
+quadrupole lenses. For the production of multiple beams, a 
+coarse mesh grid, or a series of drilled holes in a metal 
+plate, or strands of wire are placed across the collimator 
+aperture. The beam portions which are intercepted by the 
+grid bars or the strands of wire are stopped, or heavily 
+scattered so they are absent when the remaining beam hits 
+the crystal surface. The separate beams which pass through 
+the collimator aperture thus have a slightly different trajec- 
+tories on to the crystal surface. 
+For example, consider a 3 MeV proton beam passing 
+through two half millimetre diameter holes, separated by 2 
+mm, at the collimator aperture. The two separate beams 
+which pass through the aperture differ in divergence angle 
+by - 0.025” (0.4 mrad). This is very small compared with 
+the [lOOI and [l lo] characteristic axial channeling angles 
+in silicon of $, = 0.28” and 0.34” respectively for 3 MeV 
+protons. With the quadnrpole lenses switched off, these 
+two separate beams am incident on different parts of the 
+crystal surface, but have approximately the same beam- 
+crystal alignment, as shown in the upper half of Fig. 1. 
+With the quadrupole lenses switched on, the focusing 
+action of the quadrupole multiplet results in the beam on 
+the crystal surface being a demagnified image of the object 
+aperture, with a convergence half-angle of t+ = D,0, in 
+the x direction and & = D,$, in the y direction, where 
+D,, D, are the demagnifications in the x and y directions 
+respectively. The Oxford nuclear microprobe uses a triplet 
+configuration of quadrupole lenses [12] with demagnifica- 
+tions of D, - 80 and D, - 23. Protons with different 
+divergence angles into the quadrupole triplet are thus 
+focused to the same point on the crystal surface, but with a 
+much greater difference in divergence angle, as shown in 
+the lower half of Fig. 1. For the same two beams separated 
+by 0.025” at the collimator aperture, the demagnifying 
+effect of the lenses means that the beams would be sepa- 
+rated by 2” in the horizontal direction on the crystal 
+surface and - 0.6” in the vertical direction. These angles 
+are much larger than the axial channeling angles for 3 
+MeV protons and so are unsuitable for these types of 
+patterns, as described below. Instead, strands of wire, with 
+a diameter of 150 pm across the collimator aperture, were. 
+used to produce the multiple beam channeling patterns 
+produced with the lenses switched on. These produced 
+focused beams, each separated by 0.15” in the horizontal 
+beam direction on the crystal surface. This is less than the 
+[ 1001 and [ 1 lo] axial channeling angles, which is a neces- 
+sary condition for producing the multiple beam patterns 
+described in Section 3.2. 
+Fig. 2 summarises the spatial and angular relationship 
+254 M.B.H. Breese/NucI. Instr. and Meth. in Phys. Res. B 114 (I996) 252-258 
+t (iio) 
+g4-L (llO>- 
+-0 -to 
+Fig. 2. Examples of (a) spatial and (b) angular representations of three separate beams incident on the surface of a [IOOJ silicon crystal, for 
+which only the {I IO} planes are shown. In this example the beams are channeled in the horizontally-running (110) planes but not the 
+vertically-rumtiug (li0) planes. The coordinates of the separate beams with the quadrupole lenses switched off are shown by the hollow 
+squares and with the quadrupole lenses switched on by the smaller, solid squares. 
+between two separate beams on the crystal surface. With 
+the quadrupole lenses switched off, the multiple beams 
+have approximately the same divergence angle on the 
+crystal surface (Fig. 2b) but are incident at different posi- 
+tions (Fig. 2a). With the quadrupole lenses switched on, 
+the multiple beams have widely different divergence an- 
+gles (Fig. 2b) but hit the crystal at the same position (Fig. 
+2a). A proton beam current of lo-100 pA was used to 
+produce all the channeling patterns. The channeling pat- 
+terns were produced on a fluorescent viewing screen con- 
+sisting of willemite (ZnSiO, : Mn), located 680 mm down- 
+stream of the crystal, as shown in Fig. 1. The patterns were 
+each photographed using 25 ASA technical pan black and 
+white film with a 30 s exposure. Two +4 diopter lenses 
+were used to enlarge the patterns on the camera film. 
+Fig. 3. Patterns recorded through a single, 0.3 pm thick, silicon crystal with the quadrupole lenses switched off, except in Fig. 3f. (a> Three 
+separate beams hitting the viewing screen. (b) Showing planar oscillations by the three beams within the horizontally-running (1 IO) planes. 
+(c) Three interlocking rings produced by aligning the crystal [IOO] axis 0.15” away from the beam axis, within the (I IO) planes. Cd) Five 
+separate beams hitting the viewing screen. (e) “Olympic” symbol produced with these tive beams aligned close to the [I IO] axis. (f) Pattern 
+produced with the same five beams aligned close to the [loo] axes and with the quadrupole Ienses partially switched on. This pattern is 
+discussed in Section 3.3. 
+3. Multiple beam channeling patterns 
+3.1. Lenses switched off 
+Fig. 3a shows three separate proton beams hitting the 
+viewing screen, with the crystal removed from the beam 
+axis. A metal plate located at the collimator aperture with 
+half millimeter diameter holes, drilled 2 mm apart, was 
+used to produce these separate beams, with the lenses 
+switched off. The beams differ in angle by 0.025” and each 
+has an angular width of 0.006”. In Fig. 3b the 
+horizontally-running (110) planes were aligned with the 
+beam axis. Because the separate beams hit different re- 
+gions of the crystal, they travel through slightly different 
+thicknesses and so emerge with different angles to the 
+(110) planes owing to their coherent oscillatory motion, as 
+described in detail in Ref. [3]. The pattern in Fig. 3c was 
+recorded under the same conditions as Fig. 3b except the 
+crystal [lOO] axis was aligned 0.15” away from the beam 
+axis, such that each separate beam produced a doughnut 
+distribution. Each of these three doughnuts was produced 
+from different locations across the crystal surface and so 
+they appear as overlapping rings. 
+Fig. 3d shows five separate proton beams hitting the 
+viewing screen, with the crystal removed from the beam 
+axis and the lenses switched off. The hole spacing was 
+again 2 mm with hole sizes of 0.5 mm. Fig. 3e shows the 
+channeling pattern produced by these five beams aligned 
+0.2” away from the crystal [ 1 lo] axis. Each beam produces 
+a doughnut distribution, resulting in the observed ‘ ’ Olympic’ ’ symbol comprising five interlocking rings. 
+Figs. 3d and 3e were recorded using a distance of 200 mm 
+between the crystal and the viewing screen, which is 
+considerably a shorter distance than for the other patterns 
+in this paper. This is because at a distance of 680 mm, the 
+separate rings merge together and are not resolved. 
+3.2. Lenses switched on 
+Multiple beam channeling patterns produced with the 
+quadrupole lenses of the nuclear microprobe switched on, 
+so that two, or three, separate proton beams were focused 
+to the same point on the crystal surface, are now described. 
+Each beam is separated by 0.15” in the horizontal beam 
+direction and the angular width of each beam is 0.04”. 
+Fig. 4a shows two separate proton beams hitting the 
+viewing screen, with the crystaf removed from the beam 
+axis and the lenses switched on. The (110) planes were 
+then aligned with the beam axis, and the nest of Fig. 4 
+shows channeling patterns produced by tilting the crystal 
+[loo] axis through small angles towards, and through, 
+alignment with the beam axis. In Fig. 4b, both beams are 
+aligned too far away from the [lo01 axis to project dough- 
+nut distributions but in Fig. 4c, the right hand beam 
+projects a faint doughnut distribution with a large angular 
+diameter. This doughnut becomes stronger and has a pro- 
+gressively smaller diameter in Figs. 4d and 4e as the right 
+hand beam becomes more aligned with the [IOO] axis. In 
+Fig. 4e tbe left hand beam also projects a doughnut 
+distribution with a larger diameter than the corresponding h4.B.H. Breese/Nucl. Instr. and Meth. in Phys. Res. B I14 (1996) 252-258 255 
+Fig. 4. Patterns recorded through a single, 0.3 Frn thick, silicon crystal as a function of tilt angle to the beam axis, within the (110) planes. 
+Two proton beams, shown in Fig. 4a, separated by +0.075’ about the beam axis, were focused on the crystal surface, with the lenses 
+switched on. The crystal [IO01 tilt angle to the beam axis is: (b) -O&Y, (c) -O.ZO”, (d) -0.17”, (e) -O.I3”, (f) -O.OS”, (g> -l-0.02”, (h) 
++0.2T. 
+256 M.B.H. Breese / Nucl. Instr. and Meth. in Phys. Res. B 114 (1996) 252-258 
+right hand beam, creating alternate bright and dark rings 
+centred on the [ 1001 axis. In Fig. 4f, the right hand beam is 
+aligned with the [lo01 axis, producing a bright spot, while 
+the left hand beam projects a bright doughnut distribution 
+around it. In Fig. 4g, the two beams are aligned on 
+opposite sides of the [lOOI axis and no rings are observed 
+since the intensity distributions produced by the two beams 
+overlap. In Fig. 4h, the right hand beam is too far away 
+from the [lOOI axis to produce a doughnut distribution, 
+while the left hand beam does produce one. At further tilt 
+angles in the same direction, both beams are channeled in 
+the (110) planes and produce no doughnut distributions. 
+Fig. 5 shows a similar sequence of channeling patterns 
+produced by aligning the [l lo] axis of the same crystal 
+close to the beam axis, and tilting within the horizontally- 
+running (100) planes. Since the [ 1 lo] axis is wider than the 
+[lo01 axis, three beams, separated by 0.15”, were used to 
+produce these patterns, instead of two for the [lOOI axis. A 
+similar series of bright and dark rings, centred on the [ 1 lo] 
+axis, is observed in this sequence of patterns. 
+3.3. Discussion 
+With the quadrupole lenses switched off, a series of 
+bright rings, with similar diameters but offset from each 
+other, are observed in the multiple beam channeling pat- 
+terns shown in Fig. 3. The rings are offset because the 
+patterns generated by the separate beams are produced 
+from different parts of the crystal. They have a similar 
+diameter because the separate beams have nearly the same 
+beam-crystal alignment. With the lenses switched on, a series of bright and dark 
+rings with different diameters but centred on the same 
+point on the screen are observed in the multiple beam 
+channeling patterns in Figs. 4 and 5. They are centred on 
+the same point because the patterns generated by the 
+separate beams are produced from the same part of the 
+crystal. The rings have a different diameter because the 
+separate beams have widely differing angles to the [ 1001 or 
+[llO] axes. 
+An example of an intermediate condition between the 
+two discussed so far, where the lenses have been either 
+switched off, or used to focus the multiple beams to the 
+same point on the crystal surface, is shown in Fig. 3f. This 
+shows a multiple beam pattern produced using the same 
+five beams as in Figs. 3d and 3e. In this case the lenses 
+were switched on, but not to the strengths required to focus 
+the separate beams on the crystal surface. All the different 
+beams thus hit different parts of the crystal surface with 
+different angles and the resultant pattern is a superposition 
+of five different patterns in which there is no similarity or 
+common centre. 
+4. Interpretation of channeling patterns through ro- 
+tated bilayers 
+In addition to being an interesting example of the use 
+of a nuclear microprobe to produce previously unobserved 
+patterns, the use of multiple beams produced with the 
+quadrupole lenses switched on also helps in the under- 
+standing of previous work [7] in characterising the effects 
+Fig 
+ho] :. 5. Patterns recorded through a single, 0.3 @rn thick, silicon crystal as a function of tilt angle to the beam axis, within 
+izontally-running (100) planes. Three proton beams, each separated by O.lS’, with the central beam on the beam axis, were focused 
+crystal surface. The crystal [l 101 tilt angle to the beam axis is: (a> - OH”, (b) - 0.50”, (c) - 0.34”, (d) - 0.28”, (e) - 0.22”, (f) + 0 
++ 0.14”, (h) + 0.25”. Ignore the far left hand side where the pattern is chopped off by the limited extent of the viewing screen. the 
+M&H. Breese/Nucl. Instr. and Meth. in Phys. Res. B I14 (1996) 252-258 257 
+Fig. 6. (a) Pattern generated through a bilayer comprising two, 
+individual, 0.3 pm thick, [lOOI silicon crystals, with a rotation 
+angle of 0.25” between them [7]. The front and back crystal [lOC] 
+axes were respectively aligned - 0.15” and + 0.10” above and 
+below the beam axis. (b) Same as Fig. 4d, but rotated anticlock- 
+wise through 90” for comparison with Fig. 6a. 
+of rotated bilayers on channeling patterns. A rotated bi- 
+layer interface is the dechanneling mechanism used to 
+character&e strained layers using ion channeling analysis, 
+as described in Ref. [13]. 
+An example of this type of pattern is shown in Fig. 6a. 
+This was recorded through a bilayer comprising two, indi- 
+vidual 0.3 pm thick [lOO] silicon crystals, with a rotation 
+angle of 0.25” between them. The front and back crystal 
+[lOO] axes were respectively aligned -0.15” and +O.lOO 
+above and below the vertical beam axis, so that the [loo] 
+axes of the two crystals were on opposite sides of the 
+beam axis. A doughnut distribution was projected by the 
+front crystal into the back crystal, giving to two beam 
+portions within th.e vertically-running (iio) planes of the 
+back crystal. These are the lower bright regions within the 
+(170) planes in Fig. 6a and the lower extent of the 
+doughnut distribution, which lies on the beam axis. This 
+portion on the beam axis projects another doughnut distri- 
+bution around the back crystal [lo01 axis, visible in the 
+upper region of this pattern. The resultant channeling 
+pattern produced through both layers is thus a superposi- 
+tion of the different patterns produced by the two separate 
+beam fractions within the (170) planes of the back crystal. 
+Since the beam which enters the (170) planes of the 
+back crystal in Fig. 6a is separated into two portions 
+travelling through the same position, but with different 
+angles with respect to the beam axis, the mechanism of 
+pattern formation is very similar to that of the multiple 
+beam channeling patterns in Fig. 4. For example, Fig. 4d 
+was produced with two separate beams entering the (110) 
+planes of a crystal layer and emerging from the same 
+point, and gives similar behaviour. It is shown again in 
+Fig. 6b, but rotated by 90” for easier comparison with Fig. 
+6a. In Fig. 6a, the upper of the two beam portions of the 
+doughnut projected from the front crystai into the (ITO) 
+planes of the back crystal is aligned approximately 0.10” below the back crystal [IOO] axis. Similarly in Fig. 6b the 
+upper of the two multiple beam portions projected into the 
+(110) planes of the single crystal is aligned approximately 
+0.10” below the [loo] axis. In both Figs. 6a and 6b this 
+beam portion has a similar alignment to the back crystal 
+axis and so similar size doughnut distributions are pro- 
+duced by the back crystal in both patterns. 
+The multiple beam patterns in Figs. 4 and 5 (and Fig. 
+6b) may be considered to be the limiting cases for produc- 
+ing channeling patterns through rotated bilayers, such as 
+shown in Fig. 6a. This is because in the multiple beam 
+patterns there is no dechanneling caused by the proportion 
+of the doughnut intensity distribution outside the (170) 
+channeling angle of the back layer. This makes the multi- 
+ple beam patterns in Figs. 4 and 5 (and Fig. 6b) less 
+blurred than the strained layer patterns in Fig. 6a and in 
+Ref. [7], for the same crystal thickness. See, for example, 
+the centre of the [ 1001 axis, which is uniformly dark in Fig. 
+6b but more blurred in Fig. 6a owing to a higher scattered 
+beam fraction. Another reason is the less well defined 
+proton trajectories which make up the beam portions within 
+the back crystal (liO> planes in the rotated bilayer pattern 
+in Fig. 6a owing to scattering through the front crystal, 
+compared with the sharply defined trajectories in Fig. 6b. 
+5. Conclusions 
+Multiple beam ion channeling patterns, generated with 
+the quadrupole lenses of a nuclear microprobe switched on 
+and off, have been described and the relationship between 
+them has been explained. It has been demonstrated that 
+two separate beam portions travelling through the same 
+spatial location within channeling planes of a crystal layer 
+gives rise to channeling patterns which can be considered 
+as the superposition of the patterns produced by the indi- 
+vidual beams. Multiple beam channeling patterns produced 
+with the quadrupole lenses switched on are able to help in 
+the interpretation of channeling patterns recorded through 
+rotated bilayers. 
+Acknowledgement 
+Prof. L.E. Seiberling, from the Physics Department, 
+University of Florida is gratefully acknowledged for sup- 
+plying the thin silicon membranes used in this work. 
+References 
+[l] C.S. Barrett, R.M. Mueller and W. White, J. Appl. Phys. 39 
+(1968) 4695. 
+[2] D.V. Morgan (ed.), Channeling, Theory, Observation and 
+Applications (Wiley, London, 1973). 
+258 M.B.H. Breese/Nucl. Instr. and Meth. in Phys. Res. B 114 (1996) 252-258 
+[3] M.B.H. Breese, P.J.C. King, G.W. Grime, P.J.M. Smulders, 
+L.E. Seiberling and M.A. Boshart, Phys. Rev. B 53 (1996) 
+8267. 
+[4] G. Deamaley, I.V. Mitchell, R.S. Nelson, B.W. Farmery and 
+M.W. Thompson, Philos. Mag. 18 (1968) 985. 
+[5] D.S. Gemmell and R.E. Holland, Phys. Rev. Led. 14 (1965) 
+945. [8] J.S. Rosner, W.M. Gibson, J.A. Golovchenko, A.N. Goland 
+and H.E. Wegner, Phys. Rev. B 18 (1978) 1066. 
+[9] N.W. Cheung, Rev. Sci. Instr. 51 (1980) 1212. 
+[lo] J.F. Barrett, Phys. Rev. B 3 (1971) 1527. 
+[ll] M.B.H. Breese, D.N. Jamieson and P.J.C. King, Materials 
+Analysis Using a Nuclear Microprobe (Wiley, New York, 
+1995). 
+[6] M.B.H. Breese, P.J.C. King, G.W. Grime, L.E. Seiberling [12] G.W. Grime, M. Dawson, M. Marsh, I.C. McArthur and F. 
+and M.A. Boshart, Appl. Phys. Lett. 67 (1995) 2132. Watt, Nucl. Instr. and Meth. B 54 (1991) 52. 
+[7] M.B.H. Breese, P.J.C. King, and P.J.M. Smulders, unpub- [13] S.T. Picraux, B.L. Doyle and J.Y. Tsao, Semiconductors and 
+lished. Metals, vol. 33 AT & T Bell Labs. (1991) chap. 3. 

@@ -1,0 +1,5074 @@
+Corrosion, PROPN 
+Science, PROPN 
+Vol, PROPN 
+38, NUM 
+6, NUM 
+PP, PROPN 
+805, NUM 
+822, NUM 
+1996, NUM 
+
+, SPACE 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+0010, NUM 
+-938X/96, NUM 
+$, SYM 
+lS.OO+O.OO, PROPN 
+
+, SPACE 
+0010, NUM 
+938x(95)00168, NUM 
+9, NUM 
+
+, SPACE 
+STUDY, NOUN 
+INITIAL, NOUN 
+STAGES, NOUN 
+OXIDATION, NOUN 
+
+, SPACE 
+YTTRIUM, PROPN 
+IMPLANTED, ADJ 
+CHROMIUM, PROPN 
+X, PROPN 
+RAY, PROPN 
+
+, SPACE 
+DIFFRACTION, PROPN 
+ABSORPTION, PROPN 
+SPECTROSCOPY, PROPN 
+
+, SPACE 
+M., PROPN 
+J., PROPN 
+CRISTbBAL, PROPN 
+P., PROPN 
+N., PROPN 
+GIBSON, PROPN 
+M., PROPN 
+F., PROPN 
+STROOSNIJDER, PROPN 
+
+, SPACE 
+Institute, PROPN 
+Advanced, PROPN 
+Materials, PROPN 
+Ispra, PROPN 
+Site, PROPN 
+Joint, PROPN 
+Research, PROPN 
+Centre, PROPN 
+European, PROPN 
+Commission, PROPN 
+21020, NUM 
+Ispra, PROPN 
+VA, PROPN 
+
+, SPACE 
+Italy, PROPN 
+
+, SPACE 
+Abstract, PROPN 
+beneficial, ADJ 
+effect, NOUN 
+addition, NOUN 
+yttrium, NOUN 
+ion, NOUN 
+implantation, NOUN 
+oxidation, NOUN 
+behaviour, NOUN 
+
+, SPACE 
+chromium, NOUN 
+studied, VERB 
+Emphasis, PROPN 
+placed, VERB 
+initial, ADJ 
+stages, NOUN 
+oxidation, NOUN 
+rapid, ADJ 
+heating, NOUN 
+900, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+exposing, VERB 
+samples, NOUN 
+intermediate, ADJ 
+temperatures, NOUN 
+withdrawing, VERB 
+analysis, NOUN 
+Characterization, NOUN 
+surface, NOUN 
+
+, SPACE 
+layers, NOUN 
+carried, VERB 
+X, NOUN 
+ray, NOUN 
+techniques, NOUN 
+glancing, ADJ 
+angles, NOUN 
+Glancing, VERB 
+angle, NOUN 
+X, NOUN 
+ray, PROPN 
+diffraction, NOUN 
+GAXRD, PROPN 
+
+, SPACE 
+angles, NOUN 
+obtain, VERB 
+structural, ADJ 
+texture, NOUN 
+information, NOUN 
+function, NOUN 
+depth, NOUN 
+X, NOUN 
+ray, NOUN 
+absorption, NOUN 
+
+, SPACE 
+spectroscopy, NOUN 
+yttrium, NOUN 
+K, NOUN 
+edge, NOUN 
+enabled, VERB 
+information, NOUN 
+gained, VERB 
+local, ADJ 
+structure, NOUN 
+element, NOUN 
+
+, SPACE 
+short, ADJ 
+range, NOUN 
+structure, NOUN 
+yttrium, NOUN 
+rich, ADJ 
+oxides, NOUN 
+Y203, PROPN 
+YCrO4, PROPN 
+observed, VERB 
+believed, VERB 
+
+, SPACE 
+represent, VERB 
+structure, NOUN 
+yttrium, NOUN 
+segregated, VERB 
+oxide, NOUN 
+grain, NOUN 
+boundaries, NOUN 
+thought, VERB 
+segregation, NOUN 
+
+, SPACE 
+chromia, NOUN 
+scales, NOUN 
+cause, VERB 
+reported, VERB 
+beneficial, ADJ 
+reactive, NOUN 
+element, NOUN 
+effects, NOUN 
+Y203, PROPN 
+present, ADJ 
+
+, SPACE 
+particles, NOUN 
+expected, VERB 
+play, VERB 
+indirect, ADJ 
+role, NOUN 
+forming, VERB 
+source, NOUN 
+yttrium, NOUN 
+slowly, ADV 
+segregates, VERB 
+
+, SPACE 
+grain, NOUN 
+boundaries, NOUN 
+possible, ADJ 
+effects, NOUN 
+grain, NOUN 
+boundary, NOUN 
+segregation, NOUN 
+yttrium, NOUN 
+oxidation, NOUN 
+behaviour, NOUN 
+
+, SPACE 
+material, NOUN 
+oxide, NOUN 
+scale, NOUN 
+properties, NOUN 
+discussed, VERB 
+Copyright, NOUN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd., PROPN 
+
+, SPACE 
+Kqvwords, NOUN 
+A., NOUN 
+chromium, NOUN 
+B., PROPN 
+ion, NOUN 
+implantation, NOUN 
+C., PROPN 
+oxidation, NOUN 
+B., PROPN 
+yttrium, NOUN 
+additions, NOUN 
+A., NOUN 
+reactive, NOUN 
+elements, NOUN 
+
+, SPACE 
+INTRODUCTION, NOUN 
+
+, SPACE 
+ability, NOUN 
+current, ADJ 
+generation, NOUN 
+high, ADJ 
+temperature, NOUN 
+alloys, NOUN 
+resist, VERB 
+corrosion, NOUN 
+depends, VERB 
+
+, SPACE 
+potential, NOUN 
+form, VERB 
+maintain, VERB 
+protective, ADJ 
+oxide, NOUN 
+scale, NOUN 
+e.g., ADV 
+Cr203, PROPN 
+A1203, PROPN 
+
+, SPACE 
+beneficial, ADJ 
+role, NOUN 
+reactive, ADJ 
+elements, NOUN 
+yttrium, NOUN 
+cerium, NOUN 
+rare, ADJ 
+earths, NOUN 
+
+, SPACE 
+oxidation, NOUN 
+behaviour, NOUN 
+high, ADJ 
+temperature, NOUN 
+alloys, NOUN 
+received, VERB 
+considerable, ADJ 
+attention, NOUN 
+
+, SPACE 
+example, NOUN 
+Refs, PROPN 
+l-3, PROPN 
+elements, NOUN 
+added, VERB 
+small, ADJ 
+amounts, NOUN 
+<, X 
+1, NUM 
+bulk, ADJ 
+alloy, NOUN 
+
+, SPACE 
+surface, NOUN 
+able, ADJ 
+particular, ADJ 
+decrease, VERB 
+oxidation, NOUN 
+rate, NOUN 
+dramatically, ADV 
+improve, VERB 
+
+, SPACE 
+scale, NOUN 
+adherence, NOUN 
+exact, ADJ 
+underlying, ADJ 
+mechanisms, NOUN 
+reactive, ADJ 
+element, NOUN 
+effect, NOUN 
+
+, SPACE 
+subject, NOUN 
+discussion, NOUN 
+general, ADJ 
+found, VERB 
+influence, NOUN 
+reactive, ADJ 
+elements, NOUN 
+similar, ADJ 
+
+, SPACE 
+regardless, ADV 
+element, NOUN 
+implanted, VERB 
+applied, VERB 
+coating, NOUN 
+present, ADJ 
+alloy, NOUN 
+
+, SPACE 
+component, NOUN 
+oxide, NOUN 
+dispersoid, ADJ 
+addition, NOUN 
+
+, SPACE 
+Ion, NOUN 
+implantation, NOUN 
+offers, VERB 
+unique, ADJ 
+possibility, NOUN 
+introducing, VERB 
+controlled, VERB 
+concentration, NOUN 
+
+, SPACE 
+element, NOUN 
+thin, ADJ 
+surface, NOUN 
+layer, NOUN 
+typically, ADV 
+100, NUM 
+mn, NOUN 
+thick, ADJ 
+
+, SPACE 
+extensively, ADV 
+studying, VERB 
+mechanisms, NOUN 
+underlying, VERB 
+reactive, ADJ 
+element, NOUN 
+effect, NOUN 
+e.g., ADV 
+Refs, PROPN 
+3-, PROPN 
+
+, SPACE 
+7, X 
+main, ADJ 
+effects, NOUN 
+initial, ADJ 
+nucleation, NOUN 
+growth, NOUN 
+adherence, NOUN 
+corrosion, NOUN 
+
+, SPACE 
+scale, NOUN 
+majority, NOUN 
+studies, NOUN 
+deal, VERB 
+corrosion, NOUN 
+kinetics, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+
+, SPACE 
+oxide, NOUN 
+scales, NOUN 
+number, NOUN 
+studies, NOUN 
+dealing, VERB 
+initial, ADJ 
+stages, NOUN 
+corrosion, NOUN 
+
+, SPACE 
+limited, ADJ 
+
+, SPACE 
+Manuscript, PROPN 
+received, VERB 
+28, NUM 
+June, PROPN 
+1995, NUM 
+
+, SPACE 
+Author, NOUN 
+correspondence, NOUN 
+addressed, VERB 
+
+, SPACE 
+805, NUM 
+
+, SPACE 
+806, NUM 
+M., PROPN 
+J., PROPN 
+Cristobal, PROPN 
+YI, PROPN 
+al, PROPN 
+
+, SPACE 
+paper, NOUN 
+corrosion, NOUN 
+Y, PROPN 
+implanted, VERB 
+chromium, NOUN 
+reported, VERB 
+study, NOUN 
+
+, SPACE 
+concentrates, VERB 
+characterization, NOUN 
+yttrium, NOUN 
+present, ADJ 
+implanted, VERB 
+material, NOUN 
+
+, SPACE 
+particular, ADJ 
+oxide, NOUN 
+scales, NOUN 
+formed, VERB 
+initially, ADV 
+material, NOUN 
+oxidation, NOUN 
+
+, SPACE 
+air, NOUN 
+changes, NOUN 
+fast, ADJ 
+heating, NOUN 
+sample, NOUN 
+900, NUM 
+°, NOUN 
+C, NOUN 
+studied, VERB 
+heating, NOUN 
+samples, NOUN 
+
+, SPACE 
+intermediate, ADJ 
+temperatures, NOUN 
+withdrawing, VERB 
+analysis, NOUN 
+effect, NOUN 
+varying, VERB 
+
+, SPACE 
+exposure, NOUN 
+times, NOUN 
+1, NUM 
+h, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+included, VERB 
+Characterization, NOUN 
+surface, NOUN 
+layers, NOUN 
+
+, SPACE 
+carried, VERB 
+X, NOUN 
+ray, NOUN 
+techniques, NOUN 
+glancing, ADJ 
+angles, NOUN 
+GAXRD, NOUN 
+angles, NOUN 
+
+, SPACE 
+obtain, VERB 
+structural, ADJ 
+texture, NOUN 
+information, NOUN 
+function, NOUN 
+depth, NOUN 
+X, NOUN 
+ray, NOUN 
+
+, SPACE 
+absorption, NOUN 
+near, ADP 
+edge, NOUN 
+structure, NOUN 
+XANES, PROPN 
+extended, VERB 
+X, NOUN 
+ray, NOUN 
+absorption, NOUN 
+fine, ADJ 
+structure, NOUN 
+
+, SPACE 
+EXAFS, PROPN 
+yttrium, NOUN 
+K, PROPN 
+edge, NOUN 
+employed, VERB 
+gain, VERB 
+information, NOUN 
+local, ADJ 
+structure, NOUN 
+
+, SPACE 
+element, NOUN 
+XANES, PROPN 
+refers, VERB 
+structure, NOUN 
+X, NOUN 
+ray, NOUN 
+absorption, NOUN 
+coefficient, NOUN 
+
+, SPACE 
+immediate, ADJ 
+vicinity, NOUN 
+absorption, NOUN 
+edge, NOUN 
+i.e., X 
+50eV, PROPN 
+edge, NOUN 
+
+, SPACE 
+contrast, NOUN 
+EXAFS, PROPN 
+region, NOUN 
+absorption, NOUN 
+coefficient, NOUN 
+XANES, PROPN 
+region, NOUN 
+
+, SPACE 
+described, VERB 
+simple, ADJ 
+formalism, NOUN 
+XANES, PROPN 
+useful, ADJ 
+fingerprinting, ADJ 
+
+, SPACE 
+technique, NOUN 
+position, NOUN 
+shape, NOUN 
+edge, NOUN 
+provide, VERB 
+information, NOUN 
+
+, SPACE 
+oxidation, NOUN 
+state, NOUN 
+element, NOUN 
+EXAFS, PROPN 
+based, VERB 
+oscillatory, ADJ 
+structure, NOUN 
+X, NOUN 
+ray, NOUN 
+
+, SPACE 
+absorption, NOUN 
+coefficient, NOUN 
+observed, VERB 
+higher, ADJ 
+spectral, ADJ 
+range, NOUN 
+40, NUM 
+1000, NUM 
+eV, PROPN 
+
+, SPACE 
+absorption, NOUN 
+edge, NOUN 
+caused, VERB 
+interference, NOUN 
+outgoing, ADJ 
+photo, NOUN 
+electron, NOUN 
+
+, SPACE 
+scattered, VERB 
+component, NOUN 
+surrounding, VERB 
+atoms, NOUN 
+Factors, NOUN 
+contribute, VERB 
+
+, SPACE 
+EXAFS, PROPN 
+structure, NOUN 
+bond, NOUN 
+distances, NOUN 
+coordination, NOUN 
+numbers, NOUN 
+types, NOUN 
+
+, SPACE 
+surrounding, VERB 
+atoms, NOUN 
+interactive, ADJ 
+fitting, ADJ 
+procedures, NOUN 
+possible, ADJ 
+extract, VERB 
+
+, SPACE 
+information, NOUN 
+measured, ADJ 
+EXAFS, NOUN 
+data, NOUN 
+attractive, ADJ 
+features, NOUN 
+EXAFS, PROPN 
+
+, SPACE 
+fact, NOUN 
+determine, VERB 
+local, ADJ 
+structure, NOUN 
+specific, ADJ 
+element, NOUN 
+
+, SPACE 
+independently, ADV 
+detailed, ADJ 
+discussion, NOUN 
+scope, NOUN 
+paper, NOUN 
+given, VERB 
+
+, SPACE 
+references, NOUN 
+e.g., ADV 
+Refs, PROPN 
+8, NUM 
+9, NUM 
+
+, SPACE 
+EXPERIMENTAL, PROPN 
+METHOD, PROPN 
+
+, SPACE 
+commercial, ADJ 
+heat, NOUN 
+Ducropur, PROPN 
+studied, VERB 
+containing, VERB 
+99.9, NUM 
+Cr, NOUN 
+140, NUM 
+ppm, NUM 
+0, NUM 
+
+, SPACE 
+24, NUM 
+ppm, PROPN 
+N, PROPN 
+130, NUM 
+ppm, ADJ 
+C, PROPN 
+15, NUM 
+ppm, ADJ 
+S, PROPN 
+14, NUM 
+ppm, NOUN 
+P., PROPN 
+Coupons, PROPN 
+approximately, ADV 
+20, NUM 
+x, SYM 
+20, NUM 
+x, SYM 
+2, NUM 
+mm, NOUN 
+
+, SPACE 
+machined, VERB 
+mechanically, ADV 
+abraded, VERB 
+silicon, NOUN 
+carbide, PROPN 
+paper, NOUN 
+1200, NUM 
+grit, NOUN 
+polished, VERB 
+
+, SPACE 
+alumina, PROPN 
+suspension, NOUN 
+0.3, NUM 
+pm, NOUN 
+final, ADJ 
+surface, NOUN 
+cleaning, NOUN 
+specimens, NOUN 
+degreased, VERB 
+
+, SPACE 
+acetone, NOUN 
+
+, SPACE 
+uniform, ADJ 
+implantation, NOUN 
+principal, ADJ 
+coupon, NOUN 
+faces, VERB 
+yttrium, NOUN 
+nominal, ADJ 
+
+, SPACE 
+dose, NOUN 
+10, NUM 
+ions, NOUN 
+cm2, NOUN 
+undertaken, VERB 
+utilizing, VERB 
+acceleration, NOUN 
+potential, NOUN 
+180, NUM 
+keV., PROPN 
+
+, SPACE 
+Rutherford, PROPN 
+backscattering, NOUN 
+RBS, PROPN 
+indicated, VERB 
+retained, VERB 
+doses, NOUN 
+approximately, ADV 
+
+, SPACE 
+97, NUM 
+nominal, ADJ 
+doses, NOUN 
+Y, PROPN 
+distribution, NOUN 
+impla.nted, VERB 
+material, NOUN 
+agreed, VERB 
+
+, SPACE 
+predicted, VERB 
+depth, NOUN 
+profile, NOUN 
+modelling, NOUN 
+programme, NOUN 
+essentially, ADV 
+gaussian, ADJ 
+
+, SPACE 
+maximum, ADJ 
+concentration, NOUN 
+approximately, ADV 
+23, NUM 
+at%, NOUN 
+depth, NOUN 
+40, NUM 
+nm, NOUN 
+
+, SPACE 
+implantation, NOUN 
+depth, NOUN 
+120, NUM 
+nm, NOUN 
+
+, SPACE 
+short, ADJ 
+term, NOUN 
+oxidation, NOUN 
+tests, NOUN 
+special, ADJ 
+autoclave, NOUN 
+system, NOUN 
+fitted, VERB 
+
+, SPACE 
+magnetic, ADJ 
+introduction, NOUN 
+device, NOUN 
+order, NOUN 
+samples, NOUN 
+rapidly, ADV 
+inserted, VERB 
+
+, SPACE 
+retrieved, VERB 
+hot, ADJ 
+gas, NOUN 
+atmosphere, NOUN 
+insertion, NOUN 
+retrieval, NOUN 
+
+, SPACE 
+samples, NOUN 
+calibrations, NOUN 
+showed, VERB 
+specimen, NOUN 
+surface, NOUN 
+temperature, NOUN 
+changed, VERB 
+
+, SPACE 
+approximately, ADV 
+200”C, NOUN 
+min, PROPN 
+Corrosion, PROPN 
+testing, NOUN 
+performed, VERB 
+flowing, VERB 
+synthetic, ADJ 
+air, NOUN 
+
+, SPACE 
+humidified, VERB 
+relative, ADJ 
+humidity, NOUN 
+40, NUM 
+25, NUM 
+°, NUM 
+C, NOUN 
+study, VERB 
+changes, NOUN 
+
+, SPACE 
+heating, NOUN 
+900, NUM 
+°, NOUN 
+C, NOUN 
+samples, NOUN 
+heated, VERB 
+400, NUM 
+600, NUM 
+800, NUM 
+900, NUM 
+°, NUM 
+C, NOUN 
+rapidly, ADV 
+withdrawn, VERB 
+
+, SPACE 
+Oxidation, PROPN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+801, NUM 
+
+, SPACE 
+reaching, VERB 
+temperatures, NOUN 
+second, ADJ 
+set, NOUN 
+samples, NOUN 
+heated, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+withdrawn, VERB 
+0,2,6, PROPN 
+60, NUM 
+mins, NOUN 
+
+, SPACE 
+Details, NOUN 
+GAXRD, PROPN 
+facility, NOUN 
+included, VERB 
+Cu, PROPN 
+K, PROPN 
+radiation, NOUN 
+source, NOUN 
+
+, SPACE 
+described, VERB 
+geometry, NOUN 
+grazing, VERB 
+incidence, NOUN 
+asymmetric, NOUN 
+Bragg, PROPN 
+GIAB, PROPN 
+
+, SPACE 
+incident, NOUN 
+angles, NOUN 
+ranging, VERB 
+0.3, NUM 
+2, NUM 
+Fluorescence, PROPN 
+X, PROPN 
+ray, PROPN 
+absorption, NOUN 
+spectra, PROPN 
+
+, SPACE 
+K, NOUN 
+edge, NOUN 
+yttrium, NOUN 
+glancing, VERB 
+angle, NOUN 
+recorded, VERB 
+wiggler, NOUN 
+station, NOUN 
+9.3, NUM 
+
+, SPACE 
+Synchrotron, PROPN 
+Radiation, PROPN 
+Source, PROPN 
+Daresbury, PROPN 
+U.K., PROPN 
+data, NOUN 
+recorded, VERB 
+fluorescence, NOUN 
+
+, SPACE 
+mode, NOUN 
+13, NUM 
+element, NOUN 
+solid, ADJ 
+state, NOUN 
+detector, NOUN 
+positioned, VERB 
+sample, NOUN 
+incident, NOUN 
+
+, SPACE 
+angle, NOUN 
+0.36, NUM 
+i.e., X 
+double, DET 
+critical, ADJ 
+angle, NOUN 
+corresponding, VERB 
+penetration, NOUN 
+depths, NOUN 
+
+, SPACE 
+chromium, NOUN 
+160, NUM 
+200, NUM 
+nm, NOUN 
+
+, SPACE 
+EXPERIMENTAL, PROPN 
+RESULTS, NOUN 
+
+, SPACE 
+Glancing, PROPN 
+angle, NOUN 
+X, NOUN 
+ray, PROPN 
+diffraction, NOUN 
+
+, SPACE 
+Figure, PROPN 
+1, NUM 
+shows, VERB 
+GAXRD, PROPN 
+spectra, NOUN 
+implanted, VERB 
+chromium, NOUN 
+angles, NOUN 
+
+, SPACE 
+incidence, NOUN 
+diffraction, NOUN 
+spectrum, VERB 
+0.5, NUM 
+corresponding, VERB 
+theoretical, ADJ 
+penetration, NOUN 
+depth, NOUN 
+
+, SPACE 
+approximately, ADV 
+93, NUM 
+nm, NOUN 
+Cr203, PROPN 
+50, NUM 
+nm, NOUN 
+base, NOUN 
+metal, NOUN 
+indicates, VERB 
+1, NUM 
+lo, PROPN 
+
+, SPACE 
+200, NUM 
+211, NUM 
+peaks, NOUN 
+chromium, NOUN 
+presence, NOUN 
+nanocrystalline, ADJ 
+phase, NOUN 
+indicated, VERB 
+
+, SPACE 
+broad, ADJ 
+peak, NOUN 
+near, ADP 
+32, NUM 
+reducing, VERB 
+incident, NOUN 
+angle, NOUN 
+0.5, NUM 
+0.3, NUM 
+broad, ADJ 
+peak, NOUN 
+
+, SPACE 
+Cr, PROPN 
++, SYM 
+1, NUM 
+017, NUM 
+Y, PROPN 
+ions, NOUN 
+cm2, NOUN 
+
+, SPACE 
+7, NUM 
+
+, SPACE 
+$, SYM 
+=, NUM 
+0.4, NUM 
+
+, SPACE 
+lb, ADJ 
+i0, PROPN 
+i0, ADV 
+40, NUM 
+50, NUM 
+60, NUM 
+i0, PROPN 
+80, NUM 
+90, NUM 
+
+, SPACE 
+Diffraction, PROPN 
+angle, NOUN 
+20, NUM 
+degrees, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+GAXRD, PROPN 
+spectra, PROPN 
+0.3,0.4, PROPN 
+0.5, NUM 
+incident, NOUN 
+angles, NOUN 
+implanted, VERB 
+chromium, NOUN 
+
+, SPACE 
+808, NUM 
+M., PROPN 
+J., PROPN 
+Cristbbal, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+disappeared, VERB 
+chromium, NOUN 
+peaks, NOUN 
+relative, ADJ 
+intensities, NOUN 
+Cr, PROPN 
+peaks, NOUN 
+
+, SPACE 
+indicate, VERB 
+preferred, ADJ 
+orientation, NOUN 
+material, NOUN 
+
+, SPACE 
+GAXRD, PROPN 
+spectra, NOUN 
+0.5, NUM 
+incident, NOUN 
+angle, NOUN 
+implanted, VERB 
+material, NOUN 
+samples, NOUN 
+
+, SPACE 
+heated, VERB 
+different, ADJ 
+temperatures, NOUN 
+shown, VERB 
+Fig, PROPN 
+2, NUM 
+spectra, NOUN 
+400, NUM 
+°, NOUN 
+C, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+10, NUM 
+900, NUM 
+C, NOUN 
+-min, PUNCT 
+=, ADJ 
+V, PROPN 
+Q, PROPN 
+
+, SPACE 
+B, PROPN 
+=, PROPN 
+C&O, PROPN 
+
+, SPACE 
+B, NOUN 
+c, NOUN 
+
+, SPACE 
+C, NOUN 
+C=, NOUN 
+Cr, PROPN 
+
+, SPACE 
+
+, SPACE 
+800, NUM 
+C, PROPN 
+-min, NOUN 
+C, PROPN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+600, NUM 
+C, PROPN 
+-min, PUNCT 
+
+, SPACE 
+C, NOUN 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+20, NUM 
+30, NUM 
+40, NUM 
+50, NUM 
+60, NUM 
+70, NUM 
+
+, SPACE 
+Diffraction, PROPN 
+angle, NOUN 
+20, NUM 
+degrees, VERB 
+80, NUM 
+E, NOUN 
+1, NUM 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+GAXRD, PROPN 
+spectra, PROPN 
+0.5, NUM 
+incident, NOUN 
+angle, NOUN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+implanted, VERB 
+
+, SPACE 
+heating, VERB 
+400,600,800, NUM 
+900, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+Oxidation, PROPN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+809, NUM 
+
+, SPACE 
+contain, VERB 
+peaks, NOUN 
+corresponding, VERB 
+chromium, NOUN 
+substrate, NOUN 
+YzO3, ADJ 
+phase, NOUN 
+
+, SPACE 
+determine, VERB 
+grain, NOUN 
+size, NOUN 
+shape, NOUN 
+YzOs, PROPN 
+440, NUM 
+622, NUM 
+peaks, NOUN 
+analysed, VERB 
+
+, SPACE 
+computer, NOUN 
+fitting, VERB 
+programme, NOUN 
+i2, NOUN 
+assuming, VERB 
+broadening, NOUN 
+totally, ADV 
+grain, NOUN 
+
+, SPACE 
+size, NOUN 
+effect, NOUN 
+average, ADJ 
+Y203, PROPN 
+grain, NOUN 
+size, NOUN 
+determined, ADJ 
+increase, VERB 
+2.5, NUM 
+nm, NOUN 
+400, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+4.5, NUM 
+nm, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+spectra, NOUN 
+peaks, NOUN 
+shifted, VERB 
+slightly, ADV 
+relative, ADJ 
+positions, NOUN 
+
+, SPACE 
+expected, VERB 
+stresses, NOUN 
+oxide, NOUN 
+
+, SPACE 
+interesting, ADJ 
+aspect, NOUN 
+spectrum, NOUN 
+sample, NOUN 
+heated, VERB 
+400, NUM 
+°, NOUN 
+C, NOUN 
+particular, ADJ 
+
+, SPACE 
+600, NUM 
+°, NOUN 
+C, NOUN 
+chromium, NOUN 
+peaks, NOUN 
+appear, VERB 
+split, VERB 
+investigate, VERB 
+
+, SPACE 
+detail, NOUN 
+spectra, PROPN 
+sample, NOUN 
+0.5, NUM 
+1, NUM 
+2, NUM 
+incident, NOUN 
+angles, NOUN 
+acquired, VERB 
+Fig, PROPN 
+3, NUM 
+
+, SPACE 
+increasing, VERB 
+angle, NOUN 
+incidence, NOUN 
+splitting, NOUN 
+disappears, VERB 
+
+, SPACE 
+heating, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+Fig, PROPN 
+2, NUM 
+Cr203, PROPN 
+appears, VERB 
+GAXRD, NOUN 
+spectrum, NOUN 
+Additionally, ADV 
+
+, SPACE 
+broad, ADJ 
+peak, NOUN 
+completely, ADV 
+disappeared, VERB 
+spectrum, NOUN 
+900, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+600, NUM 
+C, PROPN 
+-min, PROPN 
+
+, SPACE 
+=, SYM 
+2, NUM 
+1, NUM 
+
+, SPACE 
+h, NOUN 
+.,*I-, PROPN 
+--_J., PROPN 
+
+, SPACE 
+h++, PROPN 
+
+, SPACE 
+
+, SPACE 
+40, NUM 
+
+, SPACE 
+Diffraction, PROPN 
+angle, NOUN 
+20, NUM 
+degrees, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+GAXRD, PROPN 
+spectra, PROPN 
+0.5, NUM 
+1, NUM 
+2, NUM 
+incident, NOUN 
+angle, NOUN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+
+, SPACE 
+heating, VERB 
+600, NUM 
+°, NOUN 
+C, NOUN 
+compare, VERB 
+Fig, PROPN 
+2, NUM 
+
+, SPACE 
+810, NUM 
+M., PROPN 
+J., PROPN 
+Crist6bal, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+300, NUM 
+c, NOUN 
+60, NUM 
+min, NOUN 
+=, NOUN 
+Y, PROPN 
+O, PROPN 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+300%/6min, NUM 
+B, NOUN 
+
+, SPACE 
+
+, SPACE 
+300, NUM 
+C, NOUN 
+2, NUM 
+min, NOUN 
+
+, SPACE 
+C, NOUN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+BOO, PROPN 
+C, PROPN 
+-min, PUNCT 
+
+, SPACE 
+B, NOUN 
+
+, SPACE 
+
+, SPACE 
+io, VERB 
++, ADJ 
+o, NOUN 
+4b, PROPN 
+50, NUM 
+70, NUM 
+
+, SPACE 
+Diffraction, PROPN 
+angle, NOUN 
+20, NUM 
+degrees, VERB 
+80, NUM 
+90, NUM 
+
+, SPACE 
+GAXRD, PROPN 
+spectra, NOUN 
+0.5, NUM 
+incident, NOUN 
+angle, NOUN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+oxidation, NOUN 
+
+, SPACE 
+800, NUM 
+°, NOUN 
+C, NOUN 
+0,2,6, PROPN 
+60, NUM 
+min, NOUN 
+
+, SPACE 
+Oxidation, PROPN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+811, NUM 
+
+, SPACE 
+significant, ADJ 
+difference, NOUN 
+8OO”C, NUM 
+relatively, ADV 
+lower, ADJ 
+signal, NOUN 
+
+, SPACE 
+underlying, VERB 
+chromium, NOUN 
+chromia, NOUN 
+phase, NOUN 
+shows, VERB 
+significant, ADJ 
+difference, NOUN 
+relative, ADJ 
+
+, SPACE 
+intensities, NOUN 
+peaks, NOUN 
+compared, VERB 
+expected, VERB 
+indicative, ADJ 
+preferred, ADJ 
+orientation, NOUN 
+
+, SPACE 
+GAXRD, PROPN 
+spectra, NOUN 
+0.5, NUM 
+incident, NOUN 
+angle, NOUN 
+obtained, VERB 
+samples, NOUN 
+oxidized, VERB 
+0,2,6, PROPN 
+
+, SPACE 
+60, NUM 
+min, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+presented, VERB 
+Fig, PROPN 
+4, NUM 
+Cr203, PROPN 
+Y203, PROPN 
+Cr, PROPN 
+observed, VERB 
+
+, SPACE 
+increasing, VERB 
+exposure, NOUN 
+times, NOUN 
+peaks, NOUN 
+related, VERB 
+Cr203, NOUN 
+predominant, ADJ 
+
+, SPACE 
+Y203, PROPN 
+Cr, PROPN 
+indicating, VERB 
+growing, VERB 
+oxide, NOUN 
+layer, NOUN 
+
+, SPACE 
+GAXRD, PROPN 
+spectra, NOUN 
+0.5, NUM 
+incident, NOUN 
+angle, NOUN 
+obtained, VERB 
+sample, NOUN 
+oxidized, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+60, NUM 
+min, NOUN 
+Fig, PROPN 
+4, NUM 
+heated, VERB 
+900, NUM 
+°, NUM 
+C, NOUN 
+Fig, PROPN 
+2, NUM 
+similar, ADJ 
+comparison, NOUN 
+
+, SPACE 
+samples, NOUN 
+additional, ADJ 
+spectra, NOUN 
+0.3, NUM 
+incident, NOUN 
+angle, NOUN 
+theoretical, ADJ 
+
+, SPACE 
+penetration, NOUN 
+depth, NOUN 
+nanometres, NOUN 
+Cr203, PROPN 
+obtained, VERB 
+Fig, PROPN 
+5, NUM 
+spectra, NOUN 
+
+, SPACE 
+representative, ADJ 
+outer, ADJ 
+oxide, NOUN 
+layer, NOUN 
+spectra, NOUN 
+obtained, VERB 
+sample, NOUN 
+
+, SPACE 
+heated, VERB 
+900, NUM 
+°, NUM 
+C, NOUN 
+Fig, PROPN 
+5(a, NUM 
+Y203, PROPN 
+Crz03, PROPN 
+phases, NOUN 
+chromium, NOUN 
+substrate, NOUN 
+
+, SPACE 
+visible, ADJ 
+Cr203, ADJ 
+predominates, VERB 
+spectra, NOUN 
+sample, NOUN 
+exposed, VERB 
+60, NUM 
+min, NOUN 
+
+, SPACE 
+800, NUM 
+°, NOUN 
+C, NOUN 
+Fig, PROPN 
+5(b, NUM 
+Y203, PROPN 
+peaks, NOUN 
+chromium, NOUN 
+peaks, NOUN 
+practically, ADV 
+
+, SPACE 
+disappeared, VERB 
+64.4, NUM 
+overlapped, VERB 
+300, NUM 
+peak, NOUN 
+Crz03, PROPN 
+
+, SPACE 
+64.9, NUM 
+cases, NOUN 
+Y203, PROPN 
+phase, NOUN 
+appears, VERB 
+mainly, ADV 
+located, VERB 
+close, ADV 
+metal-, PROPN 
+
+, SPACE 
+oxide, NOUN 
+interface, NOUN 
+
+, SPACE 
+X, NOUN 
+ray, NOUN 
+absorption, NOUN 
+spectroscopy, NOUN 
+yttrium, NOUN 
+K, NOUN 
+edge, NOUN 
+
+, SPACE 
+XANES, PROPN 
+regions, NOUN 
+X, NOUN 
+ray, NOUN 
+absorption, NOUN 
+spectra, PROPN 
+oxidized, VERB 
+samples, NOUN 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+YzOs, PROPN 
+reference, NOUN 
+powder, NOUN 
+spectra, NOUN 
+
+, SPACE 
+taken, VERB 
+experimental, ADJ 
+run, NOUN 
+possibility, NOUN 
+slight, ADJ 
+shifts, NOUN 
+energy, NOUN 
+scale, NOUN 
+
+, SPACE 
+examining, VERB 
+form, NOUN 
+spectra, NOUN 
+observed, VERB 
+samples, NOUN 
+
+, SPACE 
+spectrum, NOUN 
+obtained, VERB 
+sample, NOUN 
+heated, VERB 
+600, NUM 
+°, NUM 
+C, NOUN 
+resembles, VERB 
+Y203, PROPN 
+
+, SPACE 
+heated, VERB 
+400, NUM 
+°, NOUN 
+C, NOUN 
+showing, VERB 
+similar, ADJ 
+curve, NOUN 
+seen, VERB 
+shape, NOUN 
+
+, SPACE 
+main, ADJ 
+absorption, NOUN 
+peak, NOUN 
+distance, NOUN 
+wide, ADJ 
+peak, NOUN 
+approximately, ADV 
+54, NUM 
+eV, NUM 
+higher, ADJ 
+
+, SPACE 
+energy, NOUN 
+spectrum, NOUN 
+sample, NOUN 
+heated, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+started, VERB 
+differ, VERB 
+structure, NOUN 
+
+, SPACE 
+main, ADJ 
+absorption, NOUN 
+maximum, NOUN 
+difference, NOUN 
+increased, VERB 
+prolonging, VERB 
+time, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+heating, VERB 
+material, NOUN 
+900, NUM 
+°, NUM 
+C, NOUN 
+spectra, NOUN 
+obtained, VERB 
+samples, NOUN 
+heated, VERB 
+900, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+heated, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+60, NUM 
+min, NOUN 
+similar, ADJ 
+indicating, VERB 
+similar, ADJ 
+structure, NOUN 
+
+, SPACE 
+cases, NOUN 
+spectra, NOUN 
+taken, VERB 
+experimental, ADJ 
+run, NOUN 
+
+, SPACE 
+sample, NOUN 
+heated, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+display, NOUN 
+significantly, ADV 
+lower, ADJ 
+absorption, NOUN 
+edge, NOUN 
+energy, NOUN 
+indicating, VERB 
+
+, SPACE 
+average, ADJ 
+oxidation, NOUN 
+state, NOUN 
+yttrium, NOUN 
+samples, NOUN 
++, NUM 
+3, NUM 
+
+, SPACE 
+EXAFS, PROPN 
+example, NOUN 
+Refs, PROPN 
+8, NUM 
+9, NUM 
+oscillatory, ADJ 
+X(k, PROPN 
+absorption, NOUN 
+
+, SPACE 
+coefficient, NOUN 
+p(E, PROPN 
+extracted, VERB 
+relation, NOUN 
+X(k, X 
+=, NOUN 
+p, NOUN 
+puo)/pO, NOUN 
+~0, NOUN 
+smoothly, ADV 
+
+, SPACE 
+varying, VERB 
+background, NOUN 
+k, PROPN 
+=, SYM 
+2x, PROPN 
+h[2m(E-, PROPN 
+m, VERB 
+electron, PROPN 
+mass, PROPN 
+h, PROPN 
+Plan&s, PROPN 
+
+, SPACE 
+constant, ADJ 
+E., PROPN 
+zero, NUM 
+energy, NOUN 
+outgoing, ADJ 
+electron, NOUN 
+Fig, PROPN 
+7, NUM 
+typical, ADJ 
+k3, PROPN 
+weighted, VERB 
+
+, SPACE 
+EXAFS, PROPN 
+spectra, PROPN 
+implanted, ADJ 
+oxidized, VERB 
+samples, NOUN 
+shown, VERB 
+lines, NOUN 
+
+, SPACE 
+background, NOUN 
+subtracted, VERB 
+EXAFS, PROPN 
+spectra, PROPN 
+analysed, VERB 
+squares, NOUN 
+fitting, ADJ 
+
+, SPACE 
+programme, NOUN 
+EXCURV92, NOUN 
+l3, NOUN 
+analysis, NOUN 
+EXAFS, PROPN 
+results, NOUN 
+Fourier, ADJ 
+transformation, NOUN 
+
+, SPACE 
+data, NOUN 
+particularly, ADV 
+useful, ADJ 
+interpretation, NOUN 
+transformation, NOUN 
+called, VERB 
+EXAFS, PROPN 
+
+, SPACE 
+radial, ADJ 
+distribution, NOUN 
+function, NOUN 
+RDF, PROPN 
+approximately, ADV 
+specifies, VERB 
+spatial, ADJ 
+distribution, NOUN 
+
+, SPACE 
+backscattering, NOUN 
+atoms, NOUN 
+relative, ADJ 
+central, ADJ 
+atom, NOUN 
+Fig, PROPN 
+7, NUM 
+instance, NOUN 
+
+, SPACE 
+examine, VERB 
+EXAFS, PROPN 
+spectra, PROPN 
+presence, NOUN 
+Y2O3, PROPN 
+purpose, NOUN 
+EXAFS, NOUN 
+
+, SPACE 
+measurements, NOUN 
+performed, VERB 
+unstrained, ADJ 
+powder, NOUN 
+compound, NOUN 
+
+, SPACE 
+EXAFS, NOUN 
+data, NOUN 
+obtained, VERB 
+sample, NOUN 
+heated, VERB 
+400, NUM 
+°, NOUN 
+C, NOUN 
+fitted, VERB 
+
+, SPACE 
+M., PROPN 
+J., PROPN 
+Crist6bal, PROPN 
+er, INTJ 
+ai, VERB 
+
+, SPACE 
+900, NUM 
+C, PROPN 
+-min, PROPN 
+
+, SPACE 
+Q, PROPN 
+=, VERB 
+0.3, NUM 
+=, PROPN 
+Y, PROPN 
+O, PROPN 
+
+, SPACE 
+B, PROPN 
+=, PUNCT 
+Cr, PROPN 
+O, INTJ 
+
+, SPACE 
+
+, SPACE 
+b, VERB 
+
+, SPACE 
+
+, SPACE 
+20, NUM 
+30, NUM 
+40, NUM 
+50, NUM 
+60, NUM 
+
+, SPACE 
+Diffraction, PROPN 
+angle, NOUN 
+20, NUM 
+degrees, NOUN 
+
+, SPACE 
+b, PROPN 
+
+, SPACE 
+800, NUM 
+C, NOUN 
+60, NUM 
+min, NOUN 
+6, PROPN 
+=, SYM 
+G-,0, PROPN 
+
+, SPACE 
+$, SYM 
+=, SYM 
+0.3, NUM 
+B, NOUN 
+C=, NOUN 
+Cr, PROPN 
+
+, SPACE 
+f, PROPN 
+1, NUM 
+1, NUM 
+1, NUM 
+
+, SPACE 
+20, NUM 
+30, NUM 
+40, NUM 
+50, NUM 
+60, NUM 
+
+, SPACE 
+Diffraction, PROPN 
+angle, NOUN 
+20, NUM 
+degrees, VERB 
+3, NUM 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+GAXRD, PROPN 
+spectra, PROPN 
+0.3, NUM 
+incident, NOUN 
+angle, NOUN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+heating, NOUN 
+
+, SPACE 
+900, NUM 
+°, NUM 
+C, NOUN 
+b, NOUN 
+oxidation, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+60, NUM 
+min, NOUN 
+
+, SPACE 
+Oxidation, PROPN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+
+, SPACE 
+813, NUM 
+
+, SPACE 
+400, NUM 
+°, NUM 
+C, NOUN 
+min, NOUN 
+
+, SPACE 
+600, NUM 
+°, NUM 
+C, NOUN 
+min, NOUN 
+
+, SPACE 
+800, NUM 
+°, NOUN 
+C, NOUN 
+min, NOUN 
+
+, SPACE 
+900, NUM 
+°, NUM 
+C, NOUN 
+min, NOUN 
+
+, SPACE 
+17020, NUM 
+17070, NUM 
+
+, SPACE 
+Energy, PROPN 
+eV, NUM 
+17120, NUM 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+XANES, PROPN 
+spectra, PROPN 
+yttrium, NOUN 
+K, NOUN 
+edge, NOUN 
+unstrained, ADJ 
+powder, NOUN 
+Yz03, PROPN 
+yttrium-, PROPN 
+
+, SPACE 
+implanted, VERB 
+chromium, NOUN 
+heating, NOUN 
+400,600,800, NUM 
+900, NUM 
+°, NUM 
+C, NOUN 
+b, NOUN 
+oxidation, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+0,2, NOUN 
+
+, SPACE 
+60, NUM 
+min, NOUN 
+
+, SPACE 
+Y203, PROPN 
+fitted, VERB 
+local, ADJ 
+structure, NOUN 
+parameters, NOUN 
+determined, ADJ 
+EXCURV92, NOUN 
+
+, SPACE 
+unstrained, ADJ 
+Y203, PROPN 
+sample, NOUN 
+heated, VERB 
+400, NUM 
+°, NOUN 
+C, NOUN 
+presented, VERB 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+coordination, NOUN 
+numbers, NOUN 
+case, NOUN 
+400, NUM 
+°, NOUN 
+C, NOUN 
+sample, NOUN 
+significantly, ADV 
+lower, ADJ 
+
+, SPACE 
+reference, NOUN 
+powder, NOUN 
+second, ADJ 
+shell, NOUN 
+coordination, NOUN 
+number, NOUN 
+decreases, VERB 
+
+, SPACE 
+increasing, VERB 
+shell, NOUN 
+number, NOUN 
+indicates, VERB 
+nanocrystalline, ADJ 
+structure, NOUN 
+
+, SPACE 
+fitting, NOUN 
+spectra, NOUN 
+obtained, VERB 
+samples, NOUN 
+exposed, VERB 
+temperatures, NOUN 
+400, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+performed, VERB 
+assuming, VERB 
+presence, NOUN 
+YzOs, PROPN 
+presence, NOUN 
+
+, SPACE 
+814, NUM 
+
+, SPACE 
+17020, NUM 
+M., PROPN 
+J., PROPN 
+Crist6bal, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+b, PROPN 
+
+, SPACE 
+l, PROPN 
+800, NUM 
+°, NUM 
+C, PROPN 
+I60, PROPN 
+min, NOUN 
+
+, SPACE 
+17070, NUM 
+
+, SPACE 
+Energy, PROPN 
+eV, DET 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Conrimed, PROPN 
+17120, NUM 
+
+, SPACE 
+compounds, NOUN 
+YCrOs, PROPN 
+YCr04, PROPN 
+taken, VERB 
+consideration, NOUN 
+fitting, ADJ 
+
+, SPACE 
+procedures, NOUN 
+lack, NOUN 
+suitable, ADJ 
+reference, NOUN 
+compounds, VERB 
+accuracy, NOUN 
+local, ADJ 
+
+, SPACE 
+structure, NOUN 
+parameters, NOUN 
+worse, ADJ 
+Y203, PROPN 
+phase, NOUN 
+spectra, NOUN 
+samples, NOUN 
+
+, SPACE 
+heated, VERB 
+400, NUM 
+°, NOUN 
+C, NOUN 
+fitted, VERB 
+successfully, ADV 
+assuming, VERB 
+presence, NOUN 
+
+, SPACE 
+Yz03, PROPN 
+YCrO+, PROPN 
+larger, ADJ 
+coordination, NOUN 
+distances, NOUN 
+case, NOUN 
+YCrOs, PROPN 
+
+, SPACE 
+phase, NOUN 
+explain, VERB 
+observed, ADJ 
+EXAFS, PROPN 
+structures, NOUN 
+Y203, PROPN 
+coordination, NOUN 
+
+, SPACE 
+number, NOUN 
+YCr04, NOUN 
+appeared, VERB 
+smaller, ADJ 
+expected, VERB 
+
+, SPACE 
+crystallographic, ADJ 
+data, NOUN 
+example, NOUN 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+Oxidation, NOUN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+815, NUM 
+
+, SPACE 
+
+, SPACE 
+0.3, NUM 
+
+, SPACE 
+5, NUM 
+d, PROPN 
+
+, SPACE 
+B, PROPN 
+
+, SPACE 
+
+, SPACE 
+0, NUM 
+0.2, NUM 
+0.4, NUM 
+0.6, NUM 
+0.0, NUM 
+1, NUM 
+
+, SPACE 
+4, NUM 
+600%/-min, NUM 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+I2, PROPN 
+
+, SPACE 
+c, PROPN 
+1, NUM 
+
+, SPACE 
+B, NOUN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+3, NUM 
+-1, NOUN 
+
+, SPACE 
++, NOUN 
+-2, PUNCT 
+
+, SPACE 
+-3, PUNCT 
+
+, SPACE 
+-4, NOUN 
+r, NOUN 
+nm, PROPN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+0, NUM 
+0.2, NUM 
+0.4, NUM 
+0.6, NUM 
+0.6, NUM 
+1, NUM 
+
+, SPACE 
+r., PROPN 
+nm, PROPN 
+
+, SPACE 
+Cc, PROPN 
+
+, SPACE 
+6, NUM 
+0.6, NUM 
+
+, SPACE 
+6OOOC/-min, NOUN 
+
+, SPACE 
+0.5-, PUNCT 
+
+, SPACE 
+0.4-, PROPN 
+f, PROPN 
+
+, SPACE 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+0, NUM 
+0.2, NUM 
+0.4, NUM 
+0.6, NUM 
+0.0, NUM 
+
+, SPACE 
+r, NOUN 
+nm, PROPN 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+Experimental, ADJ 
+solid, ADJ 
+line, NOUN 
+fitted, VERB 
+dotted, VERB 
+line, NOUN 
+kg, PROPN 
+weighted, VERB 
+EXAFS, PROPN 
+spectra, PROPN 
+related, ADJ 
+
+, SPACE 
+radial, ADJ 
+distribution, NOUN 
+functions, NOUN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+heating, VERB 
+4OO”C, NUM 
+b, PROPN 
+6OO”C, NUM 
+
+, SPACE 
+c, PROPN 
+800, NUM 
+°, NUM 
+C, PROPN 
+d, X 
+900, NUM 
+°, NUM 
+C, NOUN 
+oxidation, NOUN 
+e, NOUN 
+2, NUM 
+min, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+f, PROPN 
+60, NUM 
+min, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+816, NUM 
+M., PROPN 
+J., PROPN 
+Crist6bal, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+d, PROPN 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+11, NUM 
+
+, SPACE 
+B, NOUN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+E, NOUN 
+
+, SPACE 
+8, NUM 
+-1, NOUN 
+
+, SPACE 
+H, NOUN 
+
+, SPACE 
+-2, X 
+
+, SPACE 
+-3, PUNCT 
+
+, SPACE 
+r., PROPN 
+nm, PROPN 
+
+, SPACE 
+e, NOUN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+@00%/2min, NOUN 
+o.61, ADP 
+
+, SPACE 
+6, NUM 
+
+, SPACE 
+0.5, NUM 
+
+, SPACE 
+4, NUM 
+
+, SPACE 
+i2, PROPN 
+0.4, NUM 
+
+, SPACE 
+5, NUM 
+0, NUM 
+
+, SPACE 
+8, NUM 
+-2, NOUN 
+
+, SPACE 
+x, X 
+
+, SPACE 
+-4, NOUN 
+
+, SPACE 
+4, NUM 
+
+, SPACE 
+ElOO”C/6Omin, NOUN 
+r, NOUN 
+nm, PROPN 
+
+, SPACE 
+f-1, NUM 
+
+, SPACE 
+0.3, NUM 
+
+, SPACE 
+0.2, NUM 
+
+, SPACE 
+k, NOUN 
+
+, SPACE 
+az, PROPN 
+
+, SPACE 
+0.1, NUM 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+o, NOUN 
+L, NOUN 
+I1, NOUN 
+
+, SPACE 
+0, NUM 
+0.2, NUM 
+0.4, NUM 
+0.6, NUM 
+0.6, NUM 
+
+, SPACE 
+r, NOUN 
+nm, PROPN 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+Conrinued, PROPN 
+
+, SPACE 
+Oxidation, NOUN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+817, NUM 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+Coordination, NOUN 
+numbers, NOUN 
+N, PROPN 
+bond, NOUN 
+lengths, NOUN 
+r, NOUN 
+nm, PROPN 
+shells, NOUN 
+YaOs, PROPN 
+crystallographic, ADJ 
+
+, SPACE 
+data, NOUN 
+determined, VERB 
+EXAFS, PROPN 
+reference, NOUN 
+powder, NOUN 
+sample, NOUN 
+heated, VERB 
+400, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+l(O, PROPN 
+207, NUM 
+3fy, ADJ 
+4(O, PROPN 
+5(O, PROPN 
+
+, SPACE 
+Shell, PROPN 
+number, NOUN 
+
+, SPACE 
+atom, PROPN 
+N, PROPN 
+r, NOUN 
+N, PROPN 
+r, NOUN 
+N, PROPN 
+r, NOUN 
+N, PROPN 
+r, NOUN 
+N, PROPN 
+r, NOUN 
+
+, SPACE 
+Crystallographic, PROPN 
+6, NUM 
+0.229, NUM 
+6, NUM 
+0.352, NUM 
+6, NUM 
+0.400, NUM 
+6, NUM 
+0.420, NUM 
+6, NUM 
+0.440, NUM 
+
+, SPACE 
+EXAFS, PROPN 
+reference, NOUN 
+6, NUM 
+0.229, NUM 
+6, NUM 
+0.352, NUM 
+6, NUM 
+0.400, NUM 
+6, NUM 
+0.419, NUM 
+6, NUM 
+0.444, NUM 
+
+, SPACE 
+EXAFS, PROPN 
+400, NUM 
+°, NUM 
+C, NOUN 
+3, NUM 
+0.223, NUM 
+1, NUM 
+0.351, NUM 
+2, NUM 
+0.390, NUM 
+1.5, NUM 
+0.412, NUM 
+1.5, NUM 
+0.438, NUM 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+Coordination, NOUN 
+numbers, NOUN 
+N, PROPN 
+bond, NOUN 
+lengths, NOUN 
+r, NOUN 
+nm, PROPN 
+shells, NOUN 
+YCr04, NOUN 
+crystallographic, ADJ 
+
+, SPACE 
+data, NOUN 
+determined, VERB 
+EXAFS, PROPN 
+sample, NOUN 
+heated, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+Shell, PROPN 
+number, NOUN 
+
+, SPACE 
+atom, PROPN 
+
+, SPACE 
+Crystallographic, PROPN 
+
+, SPACE 
+EXAFS, PROPN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+10, NUM 
+20, NUM 
+Wr, PROPN 
+4(Y, PROPN 
+5(Cr, NUM 
+
+, SPACE 
+N, PROPN 
+r, NOUN 
+N, PROPN 
+r, NOUN 
+N, PROPN 
+i-, NOUN 
+N, NOUN 
+r, NOUN 
+N, PROPN 
+r, NOUN 
+
+, SPACE 
+4, NUM 
+0.232, NUM 
+4, NUM 
+0.244, NUM 
+2, NUM 
+0.312, NUM 
+4, NUM 
+0.388, NUM 
+4, NUM 
+0.388, NUM 
+
+, SPACE 
+2, NUM 
+0.227, NUM 
+2, NUM 
+0.240, NUM 
+1, NUM 
+0.303, NUM 
+2, NUM 
+0.384, NUM 
+2, NUM 
+0.382, NUM 
+
+, SPACE 
+EXAFS, PROPN 
+spectra, NOUN 
+obtained, VERB 
+samples, NOUN 
+heated, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+Fig, PROPN 
+7(c, NUM 
+
+, SPACE 
+remained, VERB 
+additional, ADJ 
+2, NUM 
+min, NOUN 
+temperature, NOUN 
+Fig, PROPN 
+7(e, NUM 
+similar, ADJ 
+
+, SPACE 
+best, ADV 
+fitted, VERB 
+assuming, VERB 
+50, NUM 
+yttrium, NOUN 
+present, ADJ 
+form, NOUN 
+Y20s, NOUN 
+
+, SPACE 
+50, NUM 
+form, NOUN 
+YCr04, NOUN 
+determined, ADJ 
+bond, NOUN 
+lengths, NOUN 
+slightly, ADV 
+shorter, ADJ 
+
+, SPACE 
+crystallographic, ADJ 
+data, NOUN 
+reduction, NOUN 
+approximately, ADV 
+2, NUM 
+phases, NOUN 
+
+, SPACE 
+EXAFS, PROPN 
+spectra, NOUN 
+obtained, VERB 
+sample, NOUN 
+heated, VERB 
+900, NUM 
+°, NUM 
+C, NOUN 
+Fig, PROPN 
+7(d, NUM 
+
+, SPACE 
+exposed, VERB 
+60, NUM 
+min, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+Fig, PROPN 
+7(f, NUM 
+similar, ADJ 
+fitting, NOUN 
+data, NOUN 
+
+, SPACE 
+samples, NOUN 
+best, ADV 
+assuming, VERB 
+34, NUM 
+yttrium, NOUN 
+present, ADJ 
+form, NOUN 
+YzOs, PROPN 
+
+, SPACE 
+remaining, VERB 
+66, NUM 
+form, NOUN 
+YCr04, NOUN 
+samples, NOUN 
+reduction, NOUN 
+bond, NOUN 
+
+, SPACE 
+distances, NOUN 
+Yz03, PROPN 
+YCr04, NOUN 
+2, NUM 
+
+, SPACE 
+Table, NOUN 
+3, NUM 
+presents, VERB 
+coordination, NOUN 
+numbers, NOUN 
+Y203, PROPN 
+determined, VERB 
+EXAFS, PROPN 
+
+, SPACE 
+data, NOUN 
+fitting, VERB 
+specimens, NOUN 
+Similarly, ADV 
+Table, NOUN 
+4, NUM 
+presents, VERB 
+YCr04, NOUN 
+
+, SPACE 
+observed, VERB 
+increasing, VERB 
+temperature, NOUN 
+800, NUM 
+900, NUM 
+°, NUM 
+C, NOUN 
+longer, ADJ 
+exposure, NOUN 
+time, NOUN 
+
+, SPACE 
+Table, PROPN 
+3, NUM 
+Coordination, NOUN 
+numbers, NOUN 
+shells, NOUN 
+YzOs, PROPN 
+
+, SPACE 
+crystallographic, ADJ 
+data, NOUN 
+determined, VERB 
+EXAFS, PROPN 
+samples, NOUN 
+heated, VERB 
+
+, SPACE 
+400,600,800, NUM 
+900, NUM 
+°, NUM 
+C, NOUN 
+exposed, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+2, NUM 
+60, NUM 
+min, NOUN 
+
+, SPACE 
+Shell, PROPN 
+number, NOUN 
+
+, SPACE 
+atom, PROPN 
+l(0, PROPN 
+2(Y, PROPN 
+3(Y, PROPN 
+4(O, PROPN 
+5(O, PROPN 
+
+, SPACE 
+Crystallographic, ADJ 
+6, NUM 
+6, NUM 
+6, NUM 
+6, NUM 
+6, NUM 
+
+, SPACE 
+400, NUM 
+°, NUM 
+C, NOUN 
+3, NUM 
+1, NUM 
+2, NUM 
+1.5, NUM 
+1.5, NUM 
+
+, SPACE 
+600, NUM 
+°, NUM 
+C, NOUN 
+3, NUM 
+2, NUM 
+2.5, NUM 
+2, NUM 
+2, NUM 
+
+, SPACE 
+800, NUM 
+°, NUM 
+C, NOUN 
+3, NUM 
+3, NUM 
+3, NUM 
+3, NUM 
+3, NUM 
+
+, SPACE 
+900, NUM 
+°, NUM 
+C, NOUN 
+2, NUM 
+2, NUM 
+2, NUM 
+2, NUM 
+2, NUM 
+
+, SPACE 
+8OO”C/2, NOUN 
+min, NOUN 
+3, NUM 
+3, NUM 
+3, NUM 
+3, NUM 
+3, NUM 
+
+, SPACE 
+8OOC/60, NUM 
+min, NOUN 
+2, NUM 
+2, NUM 
+2, NUM 
+2, NUM 
+2, NUM 
+
+, SPACE 
+818, NUM 
+M., PROPN 
+J., PROPN 
+Cristbbal, PROPN 
+cl, PROPN 
+al, PROPN 
+
+, SPACE 
+Table, NOUN 
+4, NUM 
+Coordination, NOUN 
+numbers, NOUN 
+shells, NOUN 
+YCr04, NOUN 
+
+, SPACE 
+crystallographic, ADJ 
+data, NOUN 
+determined, VERB 
+EXAFS, PROPN 
+samples, NOUN 
+heated, VERB 
+
+, SPACE 
+400,600,800, NUM 
+900, NUM 
+°, NUM 
+C, NOUN 
+exposed, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+2, NUM 
+60, NUM 
+min, NOUN 
+
+, SPACE 
+Shell, PROPN 
+number, NOUN 
+
+, SPACE 
+atom, PROPN 
+
+, SPACE 
+Crystallographic, ADJ 
+
+, SPACE 
+400, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+600,-C, NUM 
+
+, SPACE 
+800, NUM 
+C, NOUN 
+
+, SPACE 
+900, NUM 
+c, NOUN 
+
+, SPACE 
+800.C,2, NUM 
+mm, NOUN 
+
+, SPACE 
+ROO’C$O, PROPN 
+min, PROPN 
+l(O, PROPN 
+30, NUM 
+3(Cr, NUM 
+4(Y, PROPN 
+50, NUM 
+
+, SPACE 
+4, NUM 
+3, NUM 
+7, NUM 
+4, NUM 
+4, NUM 
+
+, SPACE 
+1, NUM 
+2, NUM 
+0.X, NUM 
+1.5, NUM 
+1.5, NUM 
+
+, SPACE 
+2, NUM 
+2, NUM 
+2, NUM 
+2, NUM 
+
+, SPACE 
+26, NUM 
+7.6, NUM 
+1, NUM 
+2.6, NUM 
+2.6, NUM 
+
+, SPACE 
+2, NUM 
+2, NUM 
+2, NUM 
+2, NUM 
+
+, SPACE 
+2.6, NUM 
+6, NUM 
+1, NUM 
+.3, NUM 
+2.6, NUM 
+2.6, NUM 
+
+, SPACE 
+800, NUM 
+°, NOUN 
+C, NOUN 
+coordination, NOUN 
+numbers, NOUN 
+Y203, PROPN 
+phase, NOUN 
+decrease, NOUN 
+YCr04, ADJ 
+
+, SPACE 
+phase, NOUN 
+increase, NOUN 
+noted, VERB 
+coordination, NOUN 
+number, NOUN 
+determination, NOUN 
+EXAFS, PROPN 
+
+, SPACE 
+relatively, ADV 
+large, ADJ 
+error, NOUN 
++, NUM 
+20, NUM 
+coordination, NOUN 
+numbers, NOUN 
+presented, VERB 
+Tables, PROPN 
+3, NUM 
+4, NUM 
+
+, SPACE 
+confirm, VERB 
+YCr04, ADJ 
+local, ADJ 
+structure, NOUN 
+dominant, ADJ 
+increasing, VERB 
+time, NOUN 
+
+, SPACE 
+temperature, NOUN 
+
+, SPACE 
+DISCUSSION, PROPN 
+
+, SPACE 
+GAXRD, NOUN 
+results, NOUN 
+obtained, VERB 
+implanted, VERB 
+chromium, NOUN 
+indicate, VERB 
+
+, SPACE 
+preferred, VERB 
+orientation, NOUN 
+substrate, NOUN 
+material, NOUN 
+presence, NOUN 
+nanocrystalline, NOUN 
+phase, NOUN 
+
+, SPACE 
+fact, NOUN 
+reduction, NOUN 
+incident, NOUN 
+angle, NOUN 
+Fig, PROPN 
+1, NUM 
+makes, VERB 
+broad, ADJ 
+peak, NOUN 
+
+, SPACE 
+chromium, NOUN 
+peaks, NOUN 
+disappear, VERB 
+indicates, VERB 
+phase, NOUN 
+responsible, ADJ 
+peak, NOUN 
+present, ADJ 
+
+, SPACE 
+implanted, ADJ 
+region, NOUN 
+surface, NOUN 
+oxide, NOUN 
+
+, SPACE 
+previous, ADJ 
+study, NOUN 
+yttrium, NOUN 
+implanted, VERB 
+Ni-20Cr, NOUN 
+similar, ADJ 
+broad, ADJ 
+peak, NOUN 
+observed, VERB 
+
+, SPACE 
+initial, ADJ 
+oxidation.12, NOUN 
+Simulations, PROPN 
+X, NOUN 
+ray, PROPN 
+spectra, PROPN 
+nanocrystalline, NOUN 
+phases, NOUN 
+
+, SPACE 
+indicated, VERB 
+Y, PROPN 
+Y203, PROPN 
+NiO., PROPN 
+EXAFS, PROPN 
+revealed, VERB 
+phase, NOUN 
+
+, SPACE 
+Yz03, PROPN 
+present, ADJ 
+study, NOUN 
+EXAFS, PROPN 
+curve, NOUN 
+implanted, VERB 
+material, NOUN 
+fitted, VERB 
+
+, SPACE 
+Y203, PROPN 
+large, ADJ 
+proportion, NOUN 
+yttrium, NOUN 
+contained, VERB 
+phase, NOUN 
+
+, SPACE 
+random, ADJ 
+positions, NOUN 
+implanted, ADJ 
+region, NOUN 
+nanocrystalline, ADJ 
+yttrium, NOUN 
+
+, SPACE 
+formed, VERB 
+low, ADJ 
+intensity, NOUN 
+EXAFS, PROPN 
+oscilations, NOUN 
+observed, VERB 
+as-, ADJ 
+
+, SPACE 
+implanted, VERB 
+material, NOUN 
+fn, NOUN 
+st, PROPN 
+possibilities, NOUN 
+probably, ADV 
+correct, ADJ 
+
+, SPACE 
+results, NOUN 
+different, ADJ 
+reported, VERB 
+study, NOUN 
+mainly, ADV 
+employing, VERB 
+TEM, PROPN 
+
+, SPACE 
+yttrium, NOUN 
+implanted, VERB 
+Ni, PROPN 
+Ni-4Cr, NOUN 
+Ni-20Cr.14, PROPN 
+materials, NOUN 
+implantation, NOUN 
+dose, NOUN 
+
+, SPACE 
+higher, ADJ 
+1016, NUM 
+ions, NOUN 
+cm2, NOUN 
+implanted, VERB 
+yttrium, NOUN 
+caused, VERB 
+formation, NOUN 
+amorphous, ADJ 
+
+, SPACE 
+phase, NOUN 
+reported, VERB 
+amorphization, NOUN 
+process, NOUN 
+inherent, ADJ 
+yttrium, VERB 
+implantation, NOUN 
+
+, SPACE 
+induced, VERB 
+radiation, NOUN 
+damage, NOUN 
+effects, NOUN 
+considered, VERB 
+
+, SPACE 
+amorphous, ADJ 
+layer, NOUN 
+recrystallization, NOUN 
+heating, NOUN 
+important, ADJ 
+oxidation, NOUN 
+
+, SPACE 
+mechanism, NOUN 
+implanted, ADJ 
+alloy, NOUN 
+Similar, ADJ 
+results, NOUN 
+formation, NOUN 
+amorphous, ADJ 
+phase, NOUN 
+
+, SPACE 
+yttrium, NOUN 
+implantation, NOUN 
+Ni-20Cr, NOUN 
+reported, VERB 
+study, NOUN 
+glancing, VERB 
+angle, NOUN 
+
+, SPACE 
+X, NOUN 
+ray, NOUN 
+techniques.15, PROPN 
+study, NOUN 
+contamination, NOUN 
+carbon, NOUN 
+ion, NOUN 
+
+, SPACE 
+implantation, NOUN 
+played, VERB 
+important, ADJ 
+role, NOUN 
+stabilizing, VERB 
+amorphous, ADJ 
+phase, NOUN 
+
+, SPACE 
+reported, VERB 
+oxidation, NOUN 
+recrystallization, NOUN 
+occurred, VERB 
+nanocrystalline, ADJ 
+Y203, PROPN 
+
+, SPACE 
+phase, NOUN 
+appeared.15,‘6, X 
+
+, SPACE 
+Oxidation, PROPN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+819, NUM 
+
+, SPACE 
+GAXRD, NOUN 
+EXAFS, NOUN 
+results, NOUN 
+indicate, VERB 
+heating, VERB 
+4OO”C, NUM 
+
+, SPACE 
+nanocrystalline, PROPN 
+YzOs, PROPN 
+formed, VERB 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+samples, NOUN 
+
+, SPACE 
+GAXRD, NOUN 
+results, NOUN 
+indicate, VERB 
+average, ADJ 
+grain, NOUN 
+size, NOUN 
+crystals, NOUN 
+increases, VERB 
+2.5, NUM 
+
+, SPACE 
+4.5, NUM 
+nm, NOUN 
+increasing, VERB 
+temperature, NOUN 
+400, NUM 
+600, NUM 
+°, NOUN 
+C, NOUN 
+Interesting, ADJ 
+note, VERB 
+EXAFS, NOUN 
+
+, SPACE 
+results, NOUN 
+fact, NOUN 
+determined, ADJ 
+coordination, NOUN 
+numbers, NOUN 
+Yz03, PROPN 
+phase, NOUN 
+
+, SPACE 
+significantly, ADV 
+lower, ADJ 
+expected, VERB 
+crystallographic, ADJ 
+data, NOUN 
+Table, NOUN 
+1, NUM 
+
+, SPACE 
+difference, NOUN 
+pronounced, ADJ 
+increasing, VERB 
+shell, NOUN 
+number, NOUN 
+explained, VERB 
+
+, SPACE 
+small, ADJ 
+grain, NOUN 
+sizes, NOUN 
+Y203, PROPN 
+phase, NOUN 
+determined, VERB 
+GAXRD, PROPN 
+considering, VERB 
+ratio, NOUN 
+
+, SPACE 
+volume, NOUN 
+surface, NOUN 
+atoms, NOUN 
+Y203, PROPN 
+phase, NOUN 
+average, ADJ 
+crystallite, NOUN 
+size, NOUN 
+2.5, NUM 
+nm, NOUN 
+
+, SPACE 
+estimated, VERB 
+80, NUM 
+atoms, NOUN 
+interatomic, ADJ 
+distance, NOUN 
+away, ADV 
+grain, NOUN 
+
+, SPACE 
+boundaries, NOUN 
+involve, VERB 
+decrease, NOUN 
+nearly, ADV 
+30, NUM 
+atoms, NOUN 
+shell, NOUN 
+
+, SPACE 
+50, NUM 
+second, ADJ 
+shell, NOUN 
+agrees, VERB 
+EXAFS, NOUN 
+results, NOUN 
+taking, VERB 
+account, NOUN 
+
+, SPACE 
+experimental, ADJ 
+error, NOUN 
+present, ADJ 
+GAXRD, NOUN 
+EXAFS, PROPN 
+results, NOUN 
+EXAFS, PROPN 
+
+, SPACE 
+Cr, PROPN 
+K, NOUN 
+edge, NOUN 
+i7, NOUN 
+indicate, VERB 
+chromium, NOUN 
+yttria, PROPN 
+lattice, NOUN 
+distorted, VERB 
+
+, SPACE 
+splitting, NOUN 
+Cr, PROPN 
+diffraction, NOUN 
+lines, NOUN 
+observed, VERB 
+samples, NOUN 
+Fig, PROPN 
+2, NUM 
+
+, SPACE 
+attributed, VERB 
+GAXRD, NOUN 
+results, VERB 
+depth, NOUN 
+profiling, NOUN 
+sample, NOUN 
+changing, VERB 
+
+, SPACE 
+incident, NOUN 
+angle, NOUN 
+Fig, PROPN 
+3, NUM 
+indicate, VERB 
+distortion, NOUN 
+chromium, NOUN 
+confined, VERB 
+surface, NOUN 
+
+, SPACE 
+zone, NOUN 
+concluded, VERB 
+microstresses, NOUN 
+generated, VERB 
+ion, NOUN 
+implantation, NOUN 
+
+, SPACE 
+subsequent, ADJ 
+formation, NOUN 
+YzOs, PROPN 
+phase, NOUN 
+
+, SPACE 
+comparison, NOUN 
+GAXRD, PROPN 
+spectra, NOUN 
+obtained, VERB 
+0.3, NUM 
+Fig, PROPN 
+5, NUM 
+0.5, NUM 
+Figs, NOUN 
+2, NUM 
+4, NUM 
+
+, SPACE 
+sample, NOUN 
+heated, VERB 
+900, NUM 
+°, NUM 
+C, NOUN 
+exposed, VERB 
+60min, NOUN 
+800, NUM 
+°, NUM 
+C, NOUN 
+indication, NOUN 
+
+, SPACE 
+position, NOUN 
+yttria, NOUN 
+relative, ADJ 
+chromia, NOUN 
+obtained, VERB 
+appears, VERB 
+chromia, NOUN 
+
+, SPACE 
+present, ADJ 
+outer, ADJ 
+surface, NOUN 
+Y203, PROPN 
+phase, NOUN 
+mainly, ADV 
+located, VERB 
+close, ADV 
+metal-, PROPN 
+
+, SPACE 
+oxide, NOUN 
+interface, NOUN 
+
+, SPACE 
+XANES, PROPN 
+results, NOUN 
+indicate, VERB 
+YzOs, PROPN 
+formed, VERB 
+initial, ADJ 
+heating, NOUN 
+sample, NOUN 
+
+, SPACE 
+raising, VERB 
+temperature, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+structure, NOUN 
+progressively, ADV 
+
+, SPACE 
+disappeared, VERB 
+stated, VERB 
+XANES, PROPN 
+curves, NOUN 
+direct, ADJ 
+information, NOUN 
+
+, SPACE 
+local, ADJ 
+atomic, ADJ 
+structure, NOUN 
+suggest, VERB 
+presence, NOUN 
+phase, NOUN 
+
+, SPACE 
+hand, NOUN 
+comparison, NOUN 
+XANES, PROPN 
+spectra, PROPN 
+known, VERB 
+Y203, PROPN 
+reference, NOUN 
+curve, NOUN 
+
+, SPACE 
+definitely, ADV 
+stated, VERB 
+samples, NOUN 
+heated, VERB 
+800, NUM 
+°, NOUN 
+C, NOUN 
+60, NUM 
+min, NOUN 
+raised, VERB 
+900, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+contain, VERB 
+yttrium, NOUN 
+Y203, PROPN 
+phase, NOUN 
+important, ADJ 
+note, VERB 
+
+, SPACE 
+spectra, NOUN 
+samples, NOUN 
+displayed, VERB 
+edge, NOUN 
+shift, NOUN 
+lower, ADJ 
+energies, NOUN 
+indicating, VERB 
+lower, ADJ 
+
+, SPACE 
+average, ADJ 
+oxidation, NOUN 
+state, NOUN 
+yttrium, NOUN 
+
+, SPACE 
+EXAFS, NOUN 
+results, NOUN 
+400, NUM 
+°, NUM 
+C, NOUN 
+yttrium, NOUN 
+local, ADJ 
+structure, NOUN 
+
+, SPACE 
+present, ADJ 
+addition, NOUN 
+YZOs, PROPN 
+local, ADJ 
+structure, NOUN 
+yttrium, NOUN 
+appeared, VERB 
+similar, ADJ 
+
+, SPACE 
+YCr04, NUM 
+reduced, VERB 
+coordination, NOUN 
+numbers, NOUN 
+interesting, ADJ 
+note, VERB 
+
+, SPACE 
+GAXRD, NOUN 
+indication, NOUN 
+presence, NOUN 
+YCr04, NOUN 
+obtained, VERB 
+presence, NOUN 
+
+, SPACE 
+phase, NOUN 
+limited, VERB 
+short, ADJ 
+order, NOUN 
+observed, VERB 
+EXAFS, PROPN 
+oxidation, NOUN 
+state, NOUN 
+
+, SPACE 
+yttrium, NOUN 
+YCr04, NOUN 
++2,18, ADJ 
+Y203, PROPN 
+YCrOs, PROPN 
++, NUM 
+3, NUM 
+XANES, PROPN 
+
+, SPACE 
+EXAFS, PROPN 
+results, NOUN 
+entirely, ADV 
+consistent, ADJ 
+presence, NOUN 
+YCr04, NUM 
+atomic, ADJ 
+environment, NOUN 
+
+, SPACE 
+yttrium, NOUN 
+
+, SPACE 
+presence, NOUN 
+second, ADJ 
+yttrium, NOUN 
+containing, VERB 
+phase, NOUN 
+additionally, ADV 
+checked, VERB 
+
+, SPACE 
+comparative, ADJ 
+study, NOUN 
+X, NOUN 
+ray, NOUN 
+fluorescence, NOUN 
+analysis.i7, PROPN 
+study, NOUN 
+sample, NOUN 
+exposed, VERB 
+
+, SPACE 
+800, NUM 
+°, NOUN 
+C, NOUN 
+60, NUM 
+min, NOUN 
+compared, VERB 
+yttrium, NOUN 
+implanted, VERB 
+Ni-20Cr, PROPN 
+sample, NOUN 
+
+, SPACE 
+subsequently, ADV 
+oxidized, VERB 
+EXAFS, PROPN 
+studies, NOUN 
+showed, VERB 
+implanted, VERB 
+yttrium, NOUN 
+Ni-, PROPN 
+
+, SPACE 
+20Cr, NOUN 
+sample, NOUN 
+present, ADJ 
+Y203, PROPN 
+total, ADJ 
+yttrium, NOUN 
+samples, NOUN 
+
+, SPACE 
+determined, VERB 
+X, NOUN 
+ray, NOUN 
+fluorescence, NOUN 
+analysis, NOUN 
+experimental, ADJ 
+error, NOUN 
+
+, SPACE 
+820, NUM 
+M., PROPN 
+J., PROPN 
+Crist6bal, PROPN 
+et, PROPN 
+ul, PROPN 
+
+, SPACE 
+5, NUM 
+10’2~., NUM 
+GAXRD, NOUN 
+performed, VERB 
+identical, ADJ 
+conditions, NOUN 
+samples, NOUN 
+
+, SPACE 
+exact, ADJ 
+quantification, NOUN 
+data, NOUN 
+difficult, ADJ 
+preferred, ADJ 
+orientation, NOUN 
+Y203, PROPN 
+
+, SPACE 
+case, NOUN 
+chromium, NOUN 
+sample, NOUN 
+appeared, VERB 
+large, ADJ 
+proportion, NOUN 
+yttrium, NOUN 
+
+, SPACE 
+chromium, NOUN 
+sample, NOUN 
+present, ADJ 
+form, NOUN 
+Y203, PROPN 
+
+, SPACE 
+Curve, VERB 
+fitting, ADJ 
+EXAFS, PROPN 
+spectra, PROPN 
+indicates, VERB 
+coordination, NOUN 
+numbers, NOUN 
+
+, SPACE 
+Yz03, PROPN 
+decrease, NOUN 
+YCr04, NUM 
+increase, NOUN 
+temperature, NOUN 
+800, NUM 
+900, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+longer, ADJ 
+exposure, NOUN 
+time, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+Tables, PROPN 
+3, NUM 
+4, NUM 
+indicates, VERB 
+decrease, NOUN 
+
+, SPACE 
+yttrium, NOUN 
+form, NOUN 
+Yz03, PROPN 
+favour, NOUN 
+YCr04, ADJ 
+structure, NOUN 
+
+, SPACE 
+increasing, VERB 
+temperature, NOUN 
+time, NOUN 
+XANES, PROPN 
+spectra, PROPN 
+support, VERB 
+analysis, NOUN 
+
+, SPACE 
+edge, NOUN 
+shifts, NOUN 
+lower, ADJ 
+energies, NOUN 
+greatest, ADJ 
+oxidized, ADJ 
+samples, NOUN 
+
+, SPACE 
+EXAFS, PROPN 
+XANES, PROPN 
+results, NOUN 
+appeared, VERB 
+present, ADJ 
+experimental, ADJ 
+
+, SPACE 
+conditions, NOUN 
+significant, ADJ 
+YCr03, NOUN 
+formed, VERB 
+basis, NOUN 
+extensive, ADJ 
+TEM, PROPN 
+
+, SPACE 
+studies, NOUN 
+oxide, NOUN 
+scales, NOUN 
+existence, NOUN 
+separated, VERB 
+Y203, PROPN 
+particles, NOUN 
+dimensions, NOUN 
+
+, SPACE 
+100, NUM 
+nm, NOUN 
+oxide, NOUN 
+scales, NOUN 
+reported.4”9, VERB 
+presence, NOUN 
+YCr03, NOUN 
+particles, NOUN 
+
+, SPACE 
+suggested, VERB 
+basis, NOUN 
+EDX, PROPN 
+analysis, NOUN 
+completely, ADV 
+confirmed, VERB 
+
+, SPACE 
+electron, NOUN 
+diffraction.7720, PROPN 
+21, NUM 
+TEM, PROPN 
+studies,4.7,20721, PROPN 
+oxide, NOUN 
+grain, NOUN 
+boundary, NOUN 
+segregation, NOUN 
+
+, SPACE 
+yttrium, NOUN 
+reported, VERB 
+segregation, NOUN 
+reported, VERB 
+
+, SPACE 
+homogeneous, ADJ 
+oxide, NOUN 
+grain, NOUN 
+boundaries, NOUN 
+oxide, NOUN 
+scale, NOUN 
+Careful, ADJ 
+
+, SPACE 
+analysis, NOUN 
+taking, VERB 
+account, NOUN 
+specimen, PROPN 
+dimensions, NOUN 
+electron, PROPN 
+beam, NOUN 
+diameter, NOUN 
+indicated, VERB 
+
+, SPACE 
+segregation, NOUN 
+monolayer, NOUN 
+restrictions, NOUN 
+spatial, ADJ 
+
+, SPACE 
+resolution, NOUN 
+form, NOUN 
+segregated, VERB 
+yttrium, NOUN 
+established, VERB 
+general, ADJ 
+
+, SPACE 
+believed, VERB 
+segregation, NOUN 
+yttrium, NOUN 
+grain, NOUN 
+boundaries, NOUN 
+chromia, NOUN 
+scales, NOUN 
+cause, VERB 
+
+, SPACE 
+beneficial, ADJ 
+effects, NOUN 
+yttrium, NOUN 
+yttria, NOUN 
+additions, NOUN 
+alloys.22, PROPN 
+23, NUM 
+Y203, PROPN 
+
+, SPACE 
+YCr03, NOUN 
+particles, NOUN 
+believed, VERB 
+play, VERB 
+indirect, ADJ 
+role, NOUN 
+forming, VERB 
+source, NOUN 
+yttrium, NOUN 
+
+, SPACE 
+slowly, ADV 
+segregating, VERB 
+grain, NOUN 
+boundaries, NOUN 
+
+, SPACE 
+basis, NOUN 
+present, ADJ 
+results, NOUN 
+suggested, VERB 
+yttrium, NOUN 
+segregation, NOUN 
+
+, SPACE 
+observed, VERB 
+TEM, PROPN 
+studies, NOUN 
+present, ADJ 
+grain, NOUN 
+boundaries, NOUN 
+local, ADJ 
+
+, SPACE 
+structure, NOUN 
+similar, ADJ 
+YCr04, NOUN 
+agreement, NOUN 
+mentioned, VERB 
+studies, NOUN 
+
+, SPACE 
+source, NOUN 
+yttrium, NOUN 
+structure, NOUN 
+Yz03, PROPN 
+initially, ADV 
+formed, VERB 
+near, ADP 
+surface, NOUN 
+
+, SPACE 
+yttrium, NOUN 
+implanted, VERB 
+material, NOUN 
+heating, NOUN 
+observed, VERB 
+grow, VERB 
+size, NOUN 
+
+, SPACE 
+heating, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+heating, NOUN 
+longer, ADJ 
+exposure, NOUN 
+time, NOUN 
+oxidation, NOUN 
+
+, SPACE 
+process, NOUN 
+proceeds, NOUN 
+Y2O3, PROPN 
+possibly, ADV 
+reacts, VERB 
+Cr203, PROPN 
+fashion, NOUN 
+similar, ADJ 
+
+, SPACE 
+suggested, VERB 
+previously2, NOUN 
+yttrium, NOUN 
+diffuses, VERB 
+grain, NOUN 
+boundaries, NOUN 
+obvious, ADJ 
+
+, SPACE 
+exact, ADJ 
+role, NOUN 
+yttrium, NOUN 
+segregation, NOUN 
+beneficial, ADJ 
+effects, NOUN 
+yttrium, NOUN 
+yttria, NOUN 
+
+, SPACE 
+additions, NOUN 
+elucidated, VERB 
+based, VERB 
+results, NOUN 
+
+, SPACE 
+suggested, VERB 
+literature, NOUN 
+segregation, NOUN 
+yttrium, NOUN 
+grain, NOUN 
+
+, SPACE 
+boundaries, NOUN 
+possibly, ADV 
+local, ADJ 
+structure, NOUN 
+YCr04, NOUN 
+determined, VERB 
+present, ADJ 
+study, NOUN 
+
+, SPACE 
+plays, VERB 
+significant, ADJ 
+role, NOUN 
+explain, VERB 
+reactive, ADJ 
+element, NOUN 
+effects, NOUN 
+
+, SPACE 
+plausible, ADJ 
+effect, NOUN 
+anion, NOUN 
+cation, NOUN 
+transport, NOUN 
+rates, NOUN 
+grain, NOUN 
+boundaries, NOUN 
+
+, SPACE 
+change, NOUN 
+presence, NOUN 
+yttrium, NOUN 
+confirmed, VERB 
+tracer, NOUN 
+experiments.24, NOUN 
+
+, SPACE 
+directly, ADV 
+changes, VERB 
+overall, ADJ 
+oxidation, NOUN 
+kinetics, NOUN 
+time, NOUN 
+
+, SPACE 
+microstructure, NOUN 
+including, VERB 
+grain, NOUN 
+size, NOUN 
+possibly, ADV 
+preferred, ADJ 
+orientations, NOUN 
+oxide, NOUN 
+scales, NOUN 
+
+, SPACE 
+change, VERB 
+changes, NOUN 
+grain, NOUN 
+boundary, ADJ 
+transport, NOUN 
+additional, ADJ 
+factor, NOUN 
+
+, SPACE 
+presence, NOUN 
+YCr04, ADJ 
+structure, NOUN 
+grain, NOUN 
+boundaries, NOUN 
+inhibit, VERB 
+oxide, NOUN 
+
+, SPACE 
+grain, NOUN 
+growth, NOUN 
+thinner, ADJ 
+oxide, NOUN 
+thickness, NOUN 
+slower, ADJ 
+oxidation, NOUN 
+kinetics, NOUN 
+associated, VERB 
+
+, SPACE 
+changes, NOUN 
+microstructure, NOUN 
+contribute, VERB 
+improved, ADJ 
+scale, NOUN 
+adherence, NOUN 
+Related, VERB 
+
+, SPACE 
+presence, NOUN 
+YCr04, ADJ 
+structure, NOUN 
+grain, NOUN 
+boundaries, NOUN 
+directly, ADV 
+influence, VERB 
+
+, SPACE 
+Oxidation, PROPN 
+yttrium, NOUN 
+implanted, VERB 
+chromium, NOUN 
+821, NUM 
+
+, SPACE 
+mechanical, ADJ 
+properties, NOUN 
+oxide, NOUN 
+scale, NOUN 
+example, NOUN 
+changing, VERB 
+viscosity, NOUN 
+oxide, NOUN 
+
+, SPACE 
+grain, NOUN 
+boundaries, NOUN 
+acting, VERB 
+crack, NOUN 
+blocking, VERB 
+boundaries, NOUN 
+effects, NOUN 
+
+, SPACE 
+caused, VERB 
+grain, NOUN 
+boundary, ADJ 
+segregation, NOUN 
+processes, NOUN 
+play, VERB 
+role, NOUN 
+example, NOUN 
+
+, SPACE 
+initially, ADV 
+formed, VERB 
+Yz03, PROPN 
+alter, VERB 
+nucleation, NOUN 
+Cr203, PROPN 
+
+, SPACE 
+CONCLUSIONS, PROPN 
+
+, SPACE 
+Yttrium, PROPN 
+implantation, NOUN 
+chromium, NOUN 
+possibly, ADV 
+induces, VERB 
+formation, NOUN 
+nanocrystalline, ADJ 
+
+, SPACE 
+phase, NOUN 
+GAXRD, NOUN 
+examination, NOUN 
+samples, NOUN 
+simulating, VERB 
+heating, NOUN 
+sample, NOUN 
+900, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+showed, VERB 
+400, NUM 
+°, NOUN 
+C, NOUN 
+Yz03, PROPN 
+formed, VERB 
+Yz03, PROPN 
+particles, NOUN 
+sizes, NOUN 
+nanometre, PROPN 
+
+, SPACE 
+range, NOUN 
+grow, VERB 
+increase, NOUN 
+temperature, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+heating, NOUN 
+surface, NOUN 
+starts, VERB 
+
+, SPACE 
+dominated, VERB 
+Crz03, PROPN 
+scale, NOUN 
+formation, NOUN 
+EXAFS, PROPN 
+examinations, NOUN 
+
+, SPACE 
+yttrium, NOUN 
+samples, NOUN 
+heated, VERB 
+400, NUM 
+°, NOUN 
+C, NOUN 
+present, ADJ 
+structure, NOUN 
+Y203, PROPN 
+
+, SPACE 
+X, NOUN 
+ray, NOUN 
+fluorescence, NOUN 
+analysis, NOUN 
+evaluation, NOUN 
+XANES, PROPN 
+data, NOUN 
+strongly, ADV 
+support, VERB 
+
+, SPACE 
+conclusion, NOUN 
+structure, NOUN 
+best, ADV 
+described, VERB 
+atomic, ADJ 
+environment, NOUN 
+similar, ADJ 
+
+, SPACE 
+YCr04, NOUN 
+relative, ADJ 
+yttrium, NOUN 
+present, ADJ 
+structure, NOUN 
+YCr04, NOUN 
+relative, ADJ 
+
+, SPACE 
+Y203, PROPN 
+increases, VERB 
+increasing, VERB 
+temperature, NOUN 
+exposure, NOUN 
+time, NOUN 
+initially, ADV 
+formed, VERB 
+
+, SPACE 
+Y203, PROPN 
+appears, VERB 
+react, VERB 
+Cr203, NOUN 
+form, VERB 
+local, ADJ 
+YCr04, NOUN 
+structure, NOUN 
+concluded, VERB 
+
+, SPACE 
+local, ADJ 
+atomic, ADJ 
+environment, NOUN 
+yttrium, NOUN 
+associated, VERB 
+yttrium, NOUN 
+grain, NOUN 
+boundary, ADJ 
+
+, SPACE 
+segregation, NOUN 
+reported, VERB 
+TEM, PROPN 
+studies, NOUN 
+
+, SPACE 
+believed, VERB 
+segregation, NOUN 
+yttrium, NOUN 
+grain, NOUN 
+boundaries, NOUN 
+chromia, NOUN 
+scales, NOUN 
+
+, SPACE 
+cause, VERB 
+reported, VERB 
+beneficial, ADJ 
+reactive, NOUN 
+element, NOUN 
+effects, NOUN 
+Y203, NOUN 
+
+, SPACE 
+particles, NOUN 
+present, ADJ 
+believed, VERB 
+play, VERB 
+indirect, ADJ 
+role, NOUN 
+forming, VERB 
+source, NOUN 
+yttrium, NOUN 
+
+, SPACE 
+slowly, ADV 
+segregating, VERB 
+grain, NOUN 
+boundaries, NOUN 
+presence, NOUN 
+yttrium, NOUN 
+
+, SPACE 
+local, ADJ 
+structure, NOUN 
+YCr04, NOUN 
+grain, NOUN 
+boundaries, NOUN 
+anion, NOUN 
+cation, NOUN 
+transport, NOUN 
+rates, NOUN 
+
+, SPACE 
+grain, NOUN 
+boundaries, NOUN 
+changed, VERB 
+influencing, VERB 
+overall, ADJ 
+oxidation, NOUN 
+kinetics, NOUN 
+
+, SPACE 
+time, NOUN 
+microstructure, NOUN 
+including, VERB 
+grain, NOUN 
+size, NOUN 
+possibly, ADV 
+preferred, ADJ 
+orientation, NOUN 
+
+, SPACE 
+oxide, NOUN 
+scale, NOUN 
+affected, VERB 
+alteration, NOUN 
+grain, NOUN 
+boundary, ADJ 
+transport, NOUN 
+additional, ADJ 
+
+, SPACE 
+factor, NOUN 
+presence, NOUN 
+YCr04, ADJ 
+structure, NOUN 
+grain, NOUN 
+boundaries, NOUN 
+
+, SPACE 
+inhibit, VERB 
+oxide, NOUN 
+grain, NOUN 
+growth, NOUN 
+thinner, ADJ 
+oxide, NOUN 
+thickness, NOUN 
+slower, ADJ 
+oxidation, NOUN 
+
+, SPACE 
+kinetics, NOUN 
+changes, NOUN 
+microstructure, NOUN 
+contribute, VERB 
+improved, ADJ 
+scale, NOUN 
+adherence, NOUN 
+
+, SPACE 
+Related, VERB 
+effect, NOUN 
+presence, NOUN 
+YCr04, ADJ 
+structure, NOUN 
+grain, NOUN 
+boundaries, NOUN 
+
+, SPACE 
+directly, ADV 
+influence, VERB 
+mechanical, ADJ 
+properties, NOUN 
+oxide, NOUN 
+scale, NOUN 
+example, NOUN 
+changing, VERB 
+
+, SPACE 
+viscosity, NOUN 
+oxide, NOUN 
+grain, NOUN 
+boundaries, NOUN 
+acting, VERB 
+crack, NOUN 
+blocking, VERB 
+boundaries, NOUN 
+
+, SPACE 
+effects, NOUN 
+caused, VERB 
+grain, NOUN 
+boundary, ADJ 
+segregation, NOUN 
+additional, ADJ 
+processes, NOUN 
+
+, SPACE 
+play, VERB 
+role, NOUN 
+example, NOUN 
+initially, ADV 
+formed, VERB 
+YZ03, PROPN 
+alter, VERB 
+nucleation, NOUN 
+Cr203, ADJ 
+
+, SPACE 
+grains, NOUN 
+
+, SPACE 
+Acknowledgements, NOUN 
+authors, NOUN 
+wish, VERB 
+thank, VERB 
+Dr, PROPN 
+U., PROPN 
+Watjen, PROPN 
+Institute, PROPN 
+Reference, PROPN 
+Materials, PROPN 
+
+, SPACE 
+Measurements, NOUN 
+European, PROPN 
+Commission, PROPN 
+providing, VERB 
+RBS, PROPN 
+analysis, NOUN 
+wish, VERB 
+acknowledge, VERB 
+use, NOUN 
+
+, SPACE 
+Daresbury, PROPN 
+Synchrotron, PROPN 
+Radiation, PROPN 
+Source, PROPN 
+SERC, PROPN 
+Chemical, PROPN 
+Database, PROPN 
+Service, PROPN 
+Large, ADJ 
+Scale, PROPN 
+
+, SPACE 
+Facilities, PROPN 
+Programme, PROPN 
+European, PROPN 
+Commission, PROPN 
+assistance, NOUN 
+staff, NOUN 
+IAM, PROPN 
+particular, ADJ 
+Messrs, PROPN 
+A., NOUN 
+
+, SPACE 
+Fusari, PROPN 
+F., PROPN 
+Geiger, PROPN 
+H., PROPN 
+Willers, PROPN 
+ion, NOUN 
+implantation, NOUN 
+gratefully, ADV 
+acknowledged, VERB 
+
+, SPACE 
+REFERENCES, PROPN 
+
+, SPACE 
+1, NUM 
+J., PROPN 
+Stringer, PROPN 
+Mater, PROPN 
+Sci, PROPN 
+Eng, PROPN 
+A120, PROPN 
+129, NUM 
+1989, NUM 
+
+, SPACE 
+2, X 
+Y., PROPN 
+Saito, PROPN 
+B., PROPN 
+6nay, PROPN 
+T., PROPN 
+Maruyama, PROPN 
+J., PROPN 
+de, PROPN 
+Physique, PROPN 
+IV, PROPN 
+3, NUM 
+217, NUM 
+1993, NUM 
+
+, SPACE 
+822, NUM 
+M., PROPN 
+J., PROPN 
+Cristobal, PROPN 
+er, INTJ 
+u/, NOUN 
+
+, SPACE 
+3, NUM 
+M.F., PROPN 
+Stroosnijder, PROPN 
+R., PROPN 
+Mevrel, PROPN 
+M.J., PROPN 
+Bennett, PROPN 
+Mater, PROPN 
+High, PROPN 
+Temp, PROPN 
+12, NUM 
+53, NUM 
+1994, NUM 
+
+, SPACE 
+4, X 
+M.J., PROPN 
+Bennett, PROPN 
+A.T., PROPN 
+Tuson, PROPN 
+Maler, PROPN 
+Sci, PROPN 
+Eng, PROPN 
+A116, ADV 
+79, NUM 
+1989, NUM 
+
+, SPACE 
+5, X 
+M.F., PROPN 
+Stroosnijder, PROPN 
+J.F., PROPN 
+Norton, PROPN 
+Surf, PROPN 
+Infer, PROPN 
+f., PROPN 
+.4nal, PROPN 
+22, NUM 
+436, NUM 
+1994, NUM 
+
+, SPACE 
+6, X 
+W.J., PROPN 
+Quadakkers, PROPN 
+J., PROPN 
+Jedlinski, PROPN 
+K., PROPN 
+Schmidt, PROPN 
+M., PROPN 
+Krasovec, PROPN 
+G., PROPN 
+Borchardt, PROPN 
+H., PROPN 
+Nickel, PROPN 
+Appl, ADV 
+r, PROPN 
+f., PROPN 
+Sci, PROPN 
+47, NUM 
+
+, SPACE 
+261, NUM 
+1991, NUM 
+
+, SPACE 
+7, X 
+K., PROPN 
+Przybylski, PROPN 
+A.J., PROPN 
+Garratt, PROPN 
+Reed, PROPN 
+G.J., PROPN 
+Yurek, PROPN 
+J., PROPN 
+Elec, PROPN 
+~, NOUN 
+twc, NOUN 
+~, NOUN 
+hent, NOUN 
+Sot, PROPN 
+135, NUM 
+135, NUM 
+1988, NUM 
+
+, SPACE 
+8, X 
+G.S., PROPN 
+Knapp, PROPN 
+B.W., PROPN 
+Veal, PROPN 
+Concisr, PROPN 
+Etzcwlopedia, PROPN 
+ofMateriu1.r, PROPN 
+Characterization, PROPN 
+eds, X 
+R.W., PROPN 
+Cahn, PROPN 
+E., PROPN 
+
+, SPACE 
+Lifshin, PROPN 
+p., NOUN 
+555, NUM 
+Pergamon, PROPN 
+Press, PROPN 
+Oxford, PROPN 
+1993, NUM 
+
+, SPACE 
+9, X 
+L.R., PROPN 
+Sharpe, PROPN 
+W.R., PROPN 
+Heineman, PROPN 
+R.C., PROPN 
+Elder, PROPN 
+C, PROPN 
+tern, PROPN 
+Rev., PROPN 
+90, NUM 
+705, NUM 
+1990, NUM 
+
+, SPACE 
+IO, PROPN 
+PROFILE, PROPN 
+Version, NOUN 
+3.18, NUM 
+Implant, PROPN 
+Sciences, PROPN 
+Corporation, PROPN 
+1991, NUM 
+
+, SPACE 
+I., PROPN 
+R.C., PROPN 
+Buschert, PROPN 
+P.N., PROPN 
+Gibson, PROPN 
+W., PROPN 
+Gissler, PROPN 
+J., PROPN 
+Haupt, PROPN 
+T.A., PROPN 
+Crabb, PROPN 
+Co//., PROPN 
+Phys, PROPN 
+C7, PROPN 
+169, NUM 
+1989, NUM 
+
+, SPACE 
+12, NUM 
+T.A., PROPN 
+Crabb, PROPN 
+PhD, PROPN 
+Thesis, PROPN 
+University, PROPN 
+Strathclyde, PROPN 
+1993, NUM 
+
+, SPACE 
+13, NUM 
+EXCURV92, PROPN 
+SERC, PROPN 
+Daresbury, PROPN 
+Laboratory, PROPN 
+1992, NUM 
+
+, SPACE 
+14, NUM 
+J.M., PROPN 
+Hampikian, PROPN 
+D.I., PROPN 
+Potter, PROPN 
+Orid, PROPN 
+Met, PROPN 
+38, NUM 
+125, NUM 
+1992, NUM 
+
+, SPACE 
+15, X 
+T.A., PROPN 
+Crabb, PROPN 
+P.N., PROPN 
+Gibson, PROPN 
+E., PROPN 
+McAlpine, PROPN 
+Corros, PROPN 
+Ser, PROPN 
+34, NUM 
+1541, NUM 
+1993, NUM 
+
+, SPACE 
+16, NUM 
+P.N., PROPN 
+Gibson, PROPN 
+T.A., PROPN 
+Crabb, PROPN 
+presented, VERB 
+Ist, PROPN 
+Eur, PROPN 
+Con/., PROPN 
+SJnchrorron, PROPN 
+Radiarion, PROPN 
+Maferials, PROPN 
+Science, PROPN 
+
+, SPACE 
+Chester, PROPN 
+U.K, PROPN 
+3, NUM 
+8, NUM 
+July, PROPN 
+1994, NUM 
+
+, SPACE 
+17, X 
+M.J., PROPN 
+Cristobal, PROPN 
+Thesis, PROPN 
+Complutense, PROPN 
+University, PROPN 
+Madrid, PROPN 
+1995, NUM 
+
+, SPACE 
+18, X 
+ICSD, PROPN 
+Data, PROPN 
+Base, PROPN 
+SERC, PROPN 
+Daresbury, PROPN 
+Laboratory, PROPN 
+1995, NUM 
+
+, SPACE 
+19, X 
+W.E., PROPN 
+King, PROPN 
+N.L., PROPN 
+Peterson, PROPN 
+J.F., PROPN 
+Reddy, PROPN 
+J., PROPN 
+de, PROPN 
+PhJ’siyue, PROPN 
+4, NUM 
+423, NUM 
+1985, NUM 
+
+, SPACE 
+20, NUM 
+K., PROPN 
+Przybylski, PROPN 
+A.J., PROPN 
+Garratt, PROPN 
+Reed, PROPN 
+G.J., PROPN 
+Yurek, PROPN 
+J., PROPN 
+elec, PROPN 
+rochenz, PROPN 
+Sot, PROPN 
+135, NUM 
+509, NUM 
+1988, NUM 
+
+, SPACE 
+21, X 
+C.M., PROPN 
+Cotell, PROPN 
+G.J., PROPN 
+Yurek, PROPN 
+R.J., PROPN 
+Hussey, PROPN 
+D.F., PROPN 
+Mitchell, PROPN 
+M.J., PROPN 
+Graham, PROPN 
+O.uid, NOUN 
+Met, PROPN 
+34, NUM 
+201, NUM 
+1990, NUM 
+
+, SPACE 
+22, X 
+K., PROPN 
+Przybylski, PROPN 
+G.J., PROPN 
+Yurek, PROPN 
+Marrrialr, PROPN 
+Science, PROPN 
+Forum, PROPN 
+43, NUM 
+1989, NUM 
+
+, SPACE 
+23, X 
+W.J., PROPN 
+Quadakkers, PROPN 
+Werk.rt, PROPN 
+und, VERB 
+Kerr, PROPN 
+41, NUM 
+659, NUM 
+1990, NUM 
+
+, SPACE 
+24, X 
+M.F., PROPN 
+Stroosnijder, PROPN 
+M.J., PROPN 
+Cristobal, PROPN 
+J.D., PROPN 
+Sunderkotter, PROPN 
+published, VERB 
+
+, SPACE 

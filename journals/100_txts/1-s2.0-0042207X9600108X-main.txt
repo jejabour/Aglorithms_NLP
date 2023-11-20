@@ -1,0 +1,505 @@
+Pergamon Vacuum/volume 47Jnumbers 6-8/pages 985 to 99011996 
+Copyright 0 1996 Elsevier Science Ltd 
+Printed in Great Britain. All rights reserved 
+PII: SOO42-207X(96300106-X 0042-207X/96 $15.00+.00 
+Hydrogen isotope analysis of thick layers deposited in 
+tokamaks 
+J P Goad,” B G Skorodumov,b V G Ulano@ and C H Wu,” “JETJoint Undertaking, Abingdon, Oxon 0X14 3EA, 
+UK, *Institute of Nuclear Physics, Academy of Science of Uzbekistan, 702132 Tashkent, Uzbekistan, “The NET 
+Team, Max-Planck-lnstitut fuer Plasmaph ysik, D-85748 Garching, Germany 
+Predictions can be made for the tritium retention in future tokamaks such as ITER, based on the analyses of 
+the D retention in redeposited films in existing tokamaks. However, a/though amounts of H+D up to the 
+saturation level are frequently observed, measurement is invariably by Ion Beam methods such as NRA and 
+ERDA which only analyse to a depth in the region of a micron, whilst it is only the total content of very thick 
+layers that is of relevance to ITER. This article compares these near-surface data with methods developed to 
+determine the composition throughout thick C-H films (- 100 microns) such as Neutron-induced Elastic Recoil 
+Detection Analysis (n-ERDA) and SIMS and Nuclear Microprobe analysis of specially prepared cross-sections. 
+Copyright 0 7996 Elsevier Science Ltd. 
+Key words: Analysis, hydrogen retention, thick films, tokamaks. 
+Introduction 
+The primary mechanism for hydrogen retention in large tok- 
+amaks is codeposition with (and/or implantation into) material 
+eroded from areas of plasma-facing components (PFC) with high 
+incident fluxes and redeposited in regions of lower fluxes. If the 
+PFCs are made of carbon in the form of graphite the saturation 
+level of H-isotope trapping in redeposited layers at <27OC has 
+been shown to be given by H:Cr0.4: I.’ In a long pulse, high 
+power machine such as the planned International Thermonuclear 
+Experimental Reactor (ITER) redeposited films up to millimetres 
+in thickness may accumulate at the deposition-dominated wall 
+areas. If the machine is fuelled by a 50% deuterium (D)/50% 
+tritium (T) mixture, then T may be trapped at up to 0.2 times the 
+amount of C in these thick layers, and retention of this magnitude 
+would be unacceptable both from radioactivity and cost con- 
+siderations. 
+In the post-mortem analysis of PFCs from JET and other 
+tokamaks. similar amounts of H and D are generally observed 
+in the near-surface region: since JET is normally fuelled with D 
+the reason for the prevalence of H is unclear.’ However. as a 
+result a saturation level of H-isotopes in the near-surface region 
+may correspond to an analysed retention of D of about 0.2 times 
+the amount of C, and D at this level has frequently been observed 
+in surveys of the PFCs in JET.‘.4 Most of these measurements have 
+been made using the Ion Beam Analysis (IBA) variant Nuclear 
+Reaction Analysis (NRA), and with this technique usually only 
+the outermost I micron (approximately) of the surface is 
+analysed. Redeposited layers up to 130 microns thick have been 
+measured in JET by sectioning the films on the flanks of the discrete limiters used until 1986,5 and it is clearly important 
+for the retained D inventory to know whether or not the D 
+concentration throughout the film is the same as that seen by 
+NRA in the outermost micron. A Secondary Ion Mass Spec- 
+troscopy (SIMS) profile was made at a different point on the 
+limiter where the film was 24 microns thick which showed that 
+the D (and H) concentrations appeared to start high at the 
+surface, but then fell by about an order of magnitude within the 
+bulk of the film.’ However, the SIMS technique, which consists 
+of sputtering material from a surface using an ion gun and ana- 
+lysing the ion content of the sputtered material entering a mass 
+spectrometer, cannot be considered to be quantitative except in 
+certain well-defined situations. Firstly the sputtering yield for an 
+impurity element in a surface can vary over orders of magnitude 
+depending on the surface roughness, the composition of the sub- 
+strate and the binding configuration of the impurity. Secondly 
+the fraction of material sputtered as ions and detected by the 
+spectrometer varies by many orders of magnitude for different 
+elements, and thirdly the composition profiles into the surface 
+can be severely distorted due to differential sputtering. knock-on 
+and shadowing effects. 
+Thus JET data (which give a similar picture for H-isotope 
+retention to other tokamaks) generally show high surface ( -- I 
+micron) concentrations of retained H and D, and provide an 
+example of lower concentrations into the bulk of a thick rede- 
+posited film. This article describes the assessment of techniques 
+for determining the H-isotope content of thick (> IO micron) 
+films and their application to the analysis of the same thick 
+redeposited films from the 1986 JET limiters 
+985 
+J P Coad ef a/: Hydrogen isotope analysis 
+Experimental results 
+Preparation of samples. The ideal situation would be to be able 
+to make an analysis in situ, or at least on a complete component 
+after removal from the tokamak. However, since the limiter tiles 
+removed from JET after the 1986 operations were each 
+450 x 120 x 77 mm, the only technique able to analyse a complete 
+tile was IBA using a large target chamber specially constructed 
+for analysing JET components. In order to investigate other 
+methods it was therefore necessary to prepare smaller samples: 
+samples were cut from the flanks of one of the limiter tiles as 
+shown in Figure 1. Samples cut from the same part of the profile 
+of the tile (e.g. samples 3, 8 and 11) are assumed to be equivalent. 
+Since the films are very thick, it is possible to profile through the 
+film by analysing a cross-section of the film, if the spatial res- 
+olution of the technique is good enough, and this can be enhanced 
+by producing a taper section which improves the resolution by 
+up to an order of magnitude by increasing the apparent thickness 
+of the film. Thus it can be seen that sections were prepared from 
+samples cut adjacent to the conventional coupons. However it 
+should be noted that preparation of sections may affect the results 
+obtained subsequently by smearing material across the surface 
+or leaching out certain components by reaction with the potting 
+resin or polishing solution. (A possible method of preparing a 
+section through a thick film without metallographic polishing is 
+ion beam slope cutting.6.7 The area to be analysed is the side wall 
+of a crater formed by ion bombardment, the line of the wall being 
+defined by a sharp-edged screen. However development of the 
+technique from films a few microns thick’ to films of the order of 
+100 microns has yet to be demonstrated.) 
+NRA analyses of tile samples and an implanted standard. The 
+samples cut from the JET limiter tile were analysed by NRA to 
+obtain the surface (- 1 micron) concentration of D using the 
+D(3He,p)4He reaction. The results are given in the first column 
+of Table 1. To check the quantification some graphite samples 
+were also implanted to saturation with 5 keV deuterons over a 5 
+mm diameter region, which according to TRIM calculations 
+should provide a surface containing 6.10” deuterium atoms cm-’ 
+Last closed flux surface Table 1. Comparison of the analyses (all in units of 10” atoms cm-‘) of 
+H-isotopes in carbon samples by different techniques 
+NERD 
+Outer micron Total in Film 
+Sample Number NRA HIERD H D H D 
+1 or6 4.7 
+2or7 5.4 19 6.2 
+3 or 8 5.0 3.0 12 8.0 
+4 or 9 4.8 1.0 2.7 65 8.5 
+5or 10 2.6 87 5.3 
+D-standard 2 5.1(5.3) b/g 7.5 
+within the outermost 0.15 microns. One of these standards 
+analysed by NRA and by other techniques is included in Table I 
+and the NRA result (which was duplicated in different lab- 
+oratories) is shown to be in good agreement with the calculations. 
+Heavy ion induced elastic recoil detection analysis. Another of the 
+IBA family is Elastic Recoil Detection Analysis (ERDA) wherein 
+an ion beam is incident at glancing angle and atoms may be 
+ejected from the surface after an elastic collision with the incident 
+ion (that is, most of the incident energy is transferred to a recoil 
+in the collision). The detector for the ejected particles is placed 
+at glancing angle in the forward direction. In the most common 
+form of this technique a helium ion beam is employed at energies 
+up to 3 MeV. Each of the H isotopes can be analysed separately 
+by this method, and the depth of analysis is about 1 micron. The 
+technique is much more dependent on surface roughness than 
+NRA, but is usually the only way to obtain an idea of the H (i.e. 
+protium) surface concentration. However, if the incident energies 
+employed are increased the depth which can be analysed also 
+increases, and if ions of a heavier element are used the range of 
+masses detected is also increased: this is the technique known as 
+Heavy Ion ERDA.8.9 Ejected ions are detected using ionisation 
+/ Top view of tile , I 
+“b/ Side view of tile 
+Figure 1. A diagram showing the original locations of the samples cut from a JET limiter tile used in this study. and the position of the tile relative 
+to the JET plasma. 
+986 
+J P Goad et al: Hydrogen isotope analysis 
+chambers wherein an ion from the sample passes through the 
+chambers in series. The maximum value of the energy loss dE/dx, 
+i.e. the Bragg peak height, of the detected particles in the detector 
+gas depends on their atomic charge number Z. By suitable adjust- 
+ment of the detectors, the atomic number and energy of each 
+ion can be measured simultaneously. From the number of ions 
+detected as a function of energy, for each element in the energy 
+loss vs energy plots, can be calculated the depth distribution of 
+that element into the surface. 
+Figure 2 shows depth distributions for the masses 1, 2, 12 and 
+16 (H, D. C and 0: respectively) through the outermost 2 microns 
+of the surface of sample 8 from the I986 JET limiter tile. Profiles 
+can be derived to about 10 microns for the H isotopes under 
+these Heavy Ion ERDA conditions, but it can be seen in Figure 
+2 that the H, D and 0 are mostly restricted to the outermost ‘,/? 
+micron of the surface. Note. however, that the H continues at 
+- 20% of its peak value beyond 2 microns, whereas the D con- 
+centration falls to zero. Integrating under the D depth profile 
+and using a surface density for graphite of 10” atoms cm‘? gives 
+a concentration of 3.10” D atoms cm-’ on sample 8. As seen in 
+Table 1 this is lower than the NRA value, but factors of two 
+between these methods have been seen previously” and may be 
+caused by a difference in the calibration of the Heavy Ion ERDA 
+technique. 
+Neutron-induced elastic recoil detection analysis (n-ERDA). 
+ERDA with primary ions can be seen from the previous section 
+to be potentially very powerful, but the depth attainable is limited 
+by the need to use glancing angles (to approach the forward 
+scattering conditions necessary for maximum momentum con- 
+servation, and which also imposes severe practical limitations on 
+the sample) and by the penetration of the primary beam. These 
+limitations are eased if neutrons incident on the rear of the sample 
+are the primary source. Fast neutrons will pass through samples 
+a few millimetres thick without significant energy loss or attenu- 
+ation, and the maximum escape depth for the recoil particles (i.e. 
+normal to the surface) can be utilised.” For graphite samples 
+total H isotope concentrations can be absolutely determined from 
+comparison with TiH, x7 and TiD, 97 standard samples for films 
+6 2.0 
+1.5 
+90 0.5 
+0 0.5 1.0 1.5 0.5 1.0 1.5 2.0 
+Distance into surface (microns) 
+Figure 2. Depth distributions for masses 1, 2, 12 and 16 (H, D, C and 0. 
+respectively) determined by Heavy Ion ERDA in sample 8. 300-400 microns thick using 14 MeV neutrons, with variations 
+in concentration with depth visible with a resolution for D analy- 
+sis of k 30 microns: using 2.5 MeV neutrons these figures become 
+-50 and -5 microns, respectively. In these experiments a 14 
+MeV neutron source was employed. and a three detector tele- 
+scope using silicon sensors was used to simultaneously measure 
+energy loss and energy for each particle. One disadvantage of the 
+method is that the neutron flux at the sample obtainable from an 
+accelerator used as a neutron generator is much lower than the 
+ion flux that can be achieved, so counting times are much longer 
+(typically about an hour) for reasonable statistics and the absoI- 
+ute sensitivity of the technique is also lower than for the ion beam 
+techniques. 
+The total amounts of H and D present throughout the thick- 
+ness of the films (since they are well within the detection range 
+for 14 MeV neutrons) are listed in the right-hand columns of 
+Table 1. It can be seen that according to n-ERDA the total 
+amounts of D in films up to 120 microns thick are not much 
+greater than those detected in the outermost micron by NRA, 
+although there was good agreement in the analysis of the D 
+standard. n-ERDA also showed larger quantities of H than D in 
+the films. In order to shed light on these somewhat surprising 
+results, the data were deconvoluted to provide depth profiles 
+through the thickest film (sample 4), and these experimental 
+profiles were compared with profiles simulated by Monte Carlo 
+methods for a number of distribution scenarios. The results for 
+D are shown in Figure 3. It can be seen in the figure that the data 
+are a good match to a distribution with 33% of the D at the 
+surface and the remainder tailing in approximately 70 microns 
+into the film, but clearly do not match the other model dis- 
+tributions in the figure. Likewise Figure 4 shows the experimental 
+Assumed depth profiles Energy spectra 
+” ‘D 
+4 
+4 
+” l.O- 3 100% of total x2=1 3 
+S 
+s content in 1 pm 
+‘Z 
+F 
+E 
+d 
+S 0 
+0 
+l.O- 33% of total 
+content in 1 pm 
+80 40 0 
+Depth, pm Energy, MeV 
+Figure 3. The n-ERDA spectrum for D From sample 4 compared with 
+the calculated spectrum expected for each of three different D depth 
+distributions in the film 
+987 
+J P Coad et al: Hydrogen isotope analysis 
+1 .ok 33% of total I 
+1 content in 1 Km 
+7 
+Depth, pm Energy, MeV 
+Figure 4. The n-ERDA spectrum for H from sample 4 compared with 
+the calculated spectrum expected for each of three different H depth 
+distributions in the film. 
+profile for H, and in this case there is a good match with a 
+distribution with a constant level for 70 microns from the surface 
+followed by a concentration decreasing from half that value to 
+zero over the next 50 microns. 
+The distributions in Figure 3 and Figure 4 are merely indicative 
+and in reality there may be a wealth of fine structure, since the 
+inherent resolution of the n-ERDA technique is rather poor. 
+However, uniform concentrations of either H or D throughout 
+the film are precluded, and there is a genuine difference between 
+the distributions of the two isotopes: much more detailed infor- 
+mation on the distribution in the outer part of the film would be 
+obtained using 2.5 MeV neutrons. Assuming the best-fit profiles 
+to be correct, the H and D contents of the outermost 1 micron 
+would be 1. lOI and 2.7 x 10” atoms cme2, respectively. 
+Thus the n-ERDA data suggest the D is concentrated at the 
+surface, and are not inconsistent with the NRA results, ahhough 
+the expected amount in the outermost micron is about half the 
+NRA amount (as was the Heavy Ion ERDA result). Note also 
+that the H content of the outermost micron is about one-third of 
+the D content (as indeed was shown by Heavy Ion ERDA on the 
+adjacent sample), so that a more surface specific technique would 
+suggest there is more D than H in the film, whereas in fact there 
+is almost an order of magnitude less. 
+Nuclear microprobe analysis of sections. The Nuckar Microprobe 
+produces a focussed ion beam with a minimum diameter of about 
+5 microns. Thus in principle it is possible to produce NRA profiles 
+through a thick film with a resolution of about 5 microns by 
+analysing a section through the film in a Nuclear Microprobe. 
+Indeed, this resolution can be improved to about 1 micron by 
+producing a taper section through the film. At the maximum 
+resolution the beam current becomes too low for analysis in a 
+reasonable time, but since the film extends uniformly in one 
+direction (supposedly) the beam can be extended parallel to the film surface without degrading depth resolution. In this inves- 
+tigation the bombarded area was thus oblong, 15 microns wide 
+(which is thus the resolution across the section) and 100 microns 
+long, allowing good statistics in about 60 s. Figure 5 shows a 
+plot of D peak intensity (in arbitrary units) vs distance across the 
+redeposited film section. This section was a taper section of a 60 
+micron thick film polished at 5” to the surface of the sample: 
+the film appears 240 microns across, so the tapering improves 
+resolution by a factor of 4. (The factor of 11 that might be 
+expected geometrically does not appear to be realised.) The 
+sample was taken from a different part of the 1986 limiter, 
+though from a similar section of tile to that shown in Figure 1. 
+The Nuclear Microprobe analysis shows a peak of D at the 
+surface, the width of which is approximately equal to the beam 
+width, so the actual width of the D-rich layer in this taper section 
+must be < I5 microns, and therefore in normal section must be 
+of the order of a micron or less. Integrating under the surface 
+peak and under the rest of the depth distribution suggests about 
+half of the D is in the surface peak, a result similar to the n- 
+ERDA analysis of another area of film. 
+SIMS profiling and analysis of sections. As mentioned in the 
+Introduction, a SIMS analysis of a similar limiter tile from 1986 
+showed lower H and D levels within than at the surface,’ but 
+there are many possible errors associated with the measurement. 
+However, many of the errors associated with sputter profiling 
+disappear if SIMS is used to image the cross-section, as signal 
+intensities from all points in the section should be directly com- 
+parable. Furthermore, since the primary ion beam used can be 
+focussed to < 1 micron the potential resolution makes the tech- 
+nique complementary to the Nuclear Microprobe. A number of 
+sections, including sample 12, from limiter tiles were examined 
+by SIMS, but the results were disappointing. When the whole 
+cross-section was viewed good secondary electron images were 
+obtained, and ions of impurity elements such as Cr and Ni could 
+be mapped. However the D and H distributions were distorted 
+and could not be used to compare the quantities of each isotope 
+1600 
+l 
+ul 
+E 
+z 
+: 800 Redeposited film 
+Graphite 
+t+ 
+Distance (microns) 
+Figure 5. The D peak intensity vs distance across the taper section 
+redeposited film obtained by NRA using a Nuclear Microprobe. ofa 
+J P Goad et al: Hydrogen isotope analysis 
+across the film. It was possible to see that there was generally 
+an aggregation of H and D at the surface, and occasionally 
+accumulations at defects within the film or at the film/substrate 
+interface. It was also clear that on the micron scale the com- 
+position parallel to the surface, as well as through the film, was 
+variable. 
+Conventional SIMS was performed (i.e. by bombarding the 
+outer surface) on samples l-5 and the D standard. Figure 6 shows 
+the signal intensities in the mass peaks 1, 2 and 12 (H, D and 
+C, respectively) vs bombardment time for the D standard. The 
+maximum D signal level is about a factor of 7 lower than the C 
+signal, so this should correspond to the saturation ratio for D:C 
+of 0.4: 1.’ The D level falls off after - 300 sets, which according 
+to TRIM code predictions should correspond to a depth of - 150 
+nm. Figure 7 shows a similar spectrum recorded from the tile 
+sample 4. Again the maximum D signal is about a factor of 7 
+lower than the C signal, so since the matrix is again essentially 
+carbon, this should also indicate the saturation level for D in C. 
+Note, however, that this is only for < 100 s at the start of the 
+profiling. The beam current density was about twice that used in 
+Figure 6 (hence the C signal is lo4 rather than 4. IO’) so the amount 
+sputtered away in this time (again assuming similar behaviour to 
+the standard) is - 100 nm. The D concentration then stabilises 
+at about a factor of 5 less than its earlier value. 
+The steps up and down in signal levels seen in Figure 7 after 
+- 600 and - IO00 s are caused by raising the beam current density 
+deliberately by a factor of two and then returning it to the initial 
+value. The signals from elements present in the substrate should 
+also double. but impurities originating from the vacuum system 
+should not respond in this manner. In particular H is always 
+present in the system. From the behaviour of the H signal in 
+Figure 7 it can be seen that about half of the H at that time is 
+really part of the film whilst the rest may be contamination. 
+By comparison with Figure 7 and profiles from other samples 
+analysed at that time, it seems probable that most if not all of 
+the H seen in Figure 6 comes from contamination. It should be 
+noted that the relative intensities of the H and D signals cannot 
+107 
+Standard 2 
+106- 
+0 100 200 300 400 
+Time (s) 
+Figure 6. Signal intensities for masses I, 2 and 12 (H, D and C, respec- 
+tively) vs sputtering time (i.e. depth) into a D-implanted graphite stan- 
+dard. ‘O’L 0 200 400 600 800 l&T&T 
+Time (s) 
+Figure 7. Signal intensities for masses I, 2 and 12 (H, D and C. respec- 
+tively) vs sputtering time (i.e. depth) into sample 4. 
+be taken as a measure of their relative quantities in the film, since 
+the ion sputtering characteristics and detection efficiencies may 
+differ. 
+Discussion 
+All the analyses of these redeposited films on samples cut from 
+the flank of one of the discrete limiters used in JET in 1986 agree 
+that the D is peaked within the outermost micron (approximately) 
+of the film, and that there is perhaps a similar amount in total in 
+the remaining thickness of the film. Thus there is no serious 
+discrepancy between any one technique and others. None of the 
+techniques offers a non-destructive method of analysing the large 
+components likely to be used as PFCs in ITER, and these data 
+highlight the problem that surface analysis by NRA (which can 
+be done non-destructively) cannot be used to predict bulk com- 
+position. 
+n-ERDA can provide a quantitative analysis simultaneously 
+for each of the isotopes H, D and T through films up to some 
+hundreds of microns thick (and would give the ratios H:D:T in 
+the outer part of films in the millimetre range. should they occur). 
+The method does rely on neutrons penetrating through the sam- 
+ple without significant losses, but the resulting limitations on 
+sample composition and thickness have not been fully assessed. 
+Samples ofgraphite a few millimetres thick as in this work present 
+no problem. so it may be possible to analyse through certain first 
+wall components, or to arrange for special components with the 
+outer few millimetres detachable in areas where rapid film growth 
+is expected. If samples have to be cut out for analysis, then cutting 
+out samples to a rough thickness tolerance is all that is required 
+for n-ERDA as well as the surface layer examination techniques 
+like Heavy Ion ERDA and SIMS, whilst that is only the first 
+step in the preparation of the sections necessary for Nuclear 
+Microprobe analysis. There is also a risk that the polishing pro- 
+cess may introduce anomalies into the film analysis, though there 
+was no evidence of such problems in this investigation: ion beam 
+slope cuttin$’ may offer an alternative preparation method. 
+Smearing effects during sectioning would. however, he expected 
+989 
+J P Goad et al: Hydrogen isotope analysis 
+to be too great to allow second order measurements such as 
+bulk diffusion to be made using either technique. The Nuclear 
+Microprobe could also measure T depth profiles for films 
+deposited from D-T plasmas by using a different NRA reaction, 
+but, like n-ERDA, does not have the sensitivity to measure the 
+T in films deposited from D-D plasmas. Measurement of H by 
+ERDA is also possible in principle, but would be very difficult in 
+practice due to the glancing angle geometry required. 
+The samples used in this work are the only known examples 
+of very thick (C 100 microns or more) material redeposited in a 
+tokamak, and it was hoped that they would contain significant 
+D levels throughout the film to provide a better test for the 
+analysis options. The fact that the SIMS analysis previously 
+carried out on the tile? showed reduced H and D levels within 
+the film means that the localisation of the D to the surface in 
+these analyses several years later is unlikely to have occurred 
+merely with time. The discrete limiters regularly reached tem- 
+peratures in excess of 1000°C at the erosion zones to either side 
+of the centre of the tile during plasma pulses, and temperatures 
+in the redeposition zone must also have regularly exceeded the 
+400°C at which the film starts to degas:” a number of the plasma 
+pulses also terminated in disruptions which can cause large tran- 
+sient heat loads. Thus thermal outgassing of the samples seems a 
+plausible reason for the low total D content of these films, and it 
+may be possible for high D levels to exist throughout a thick film 
+provided the temperature is always kept low enough. 
+Conclusions 
+The H, D and T contents of films up to hundreds of microns thick 
+can be simultaneously measured quantitatively by n-ERDA. For 
+thick film analysis a source of 14 MeV neutrons is required, whilst 
+better resolution in depth distributions is obtained using 2.5 MeV 
+neutrons. It is intended to develop an n-ERDA analysis facility 
+capable of providing both energies in the near future. 
+Metallographic sectioning can also be used to provide D depth 
+profiles through thick films with the Nuclear Microprobe. These 
+tests show that the depth resolution obtainable is a few microns 
+using taper sections, which is equivalent to about 1 micron in a 
+normal section through the film. Of course considerable effort is 
+required to produce the sections, but the polishing process does 
+not appear to have a deleterious effect on the profiles. T depth profiles could also be measured for films deposited from D-T 
+plasmas. 
+These thick (up to 130 micron) redeposited films had a total D 
+content no larger than thin films found elsewhere in JET, and the 
+D concentration within the surface was at least an order of 
+magnitude less than in the outermost 1 micron. It is believed that 
+this is caused by thermal outgassing of the films when the limiters 
+were heated to - 1000°C by the JET plasma during high power 
+discharges and/or as the result of disruptions. 
+Acknowledgements 
+The help of Dr R Behrisch (Max-Planck Institut fur Plasma- 
+physik, Garching) and Dr W Assmann and H Huber (Ludwig 
+Maximilians Universitaet Muenchen) with Heavy Ion ERDA 
+analysis, Dr S Sugden (AEA Technology) and Dr A Clough 
+(Surrey University) with Nuclear Microprobe anaiysis, B Farm- 
+ery (Sussex University) with NRA analysis and Dr A Chew 
+(Loughborough Consultants) with SIMS analysis is gratefully 
+acknowledged. This work was supported by NET in the context 
+of the European Home Team contribution to ITER (ITER Task 
+T62 of the 1994 Comprehensive Task Agreement). 
+References 
+’ K L Wilson and W L Hsu, J Nucl Materials, 145-147, 121 (1987). 
+‘J P Coad, J Nucl Materials, 226, 156 (1995). 
+‘H Bergsaker, R Behrisch, J P Coad, J Ehrenberg, B Emmoth, S K 
+Erents, G M McCracken, A P Martinelli and J W Partridge, J Nucl 
+Materials, 145-147, 727 (1987). 
+‘J P Coad, R Behrisch, H Bergsaker, J Ehrenberg, B Emmoth, J Partridge, 
+G Saibene, R Sartori, J C B Simpson and Wen-Min Wang, J Nucl 
+Materials, 162, 533 (1989). 
+‘G M McCracken, D H J Goodall, P C Stangeby, J P Coad, J Roth, B 
+Denne and R Behrisch, ibid, p 356. 
+‘W Hauffe, Beitr Elektronenmikr Direktabb Oberji, 23, 305 (1990). 
+‘D Grambole, F Herrmann, R Klabes, W Hauffe and R Behrisch, Nuc.1 
+Instr and Methods, B68, IS4 (1992). 
+‘R Behrisch, R Grotzschel, E Hentschel and W Assmann, ibid, p 245. 
+‘U Kreissig, R Grotzschel and R Behrisch, Nucl Instr and Methods, B85, 
+71 (1994). 
+“‘R Behrisch A P Martinelli, S Grigull, R Grotzschel, U Kreissig, 
+Hildebrandt and W Schneider, J Nucl Materials, 220-222, 590 (I 995). D 
+“B G Skorodumov. I 0 Yatsevitch, V G Ulanov, E V Zhukovska and 0 
+A Zhukovsky, Ntlcl Instr and Methods, B85, 803 (1994). 
+“R A Causey, W R Wampler and D Walsh. J Nucl Materials. 176 and 
+177,987 (1990). 
+990 

@@ -1,0 +1,1872 @@
+Vacuum, PROPN 
+volume, NOUN 
+47lnumbers, PROPN 
+6, NUM 
+8jpages, NUM 
+697, NUM 
+700/1996, NUM 
+
+, SPACE 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+rights, NOUN 
+reserved, VERB 
+Pergamon, PROPN 
+
+, SPACE 
+PII, PROPN 
+SOO42, PROPN 
+207X(96)00050, PROPN 
+4, NUM 
+0042, NUM 
+207X/56, PROPN 
+$, SYM 
+15.00+.00, NUM 
+
+, SPACE 
+Hydrogen, PROPN 
+permeation, NOUN 
+properties, NOUN 
+surface, NOUN 
+structure, NOUN 
+
+, SPACE 
+BN, PROPN 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+membrane, NOUN 
+
+, SPACE 
+Itakura, PROPN 
+M, PROPN 
+Tosa, PROPN 
+S, PROPN 
+lkeda, NOUN 
+K, PROPN 
+Yoshihara, PROPN 
+National, PROPN 
+Research, PROPN 
+institute, NOUN 
+Metals, PROPN 
+l-2, PROPN 
+7, PROPN 
+Sengen, PROPN 
+
+, SPACE 
+Tsukuba, PROPN 
+305, NUM 
+Japan, PROPN 
+
+, SPACE 
+developed, VERB 
+boron, NOUN 
+nitride, ADV 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+vacuum, NOUN 
+vessel, NOUN 
+materials, NOUN 
+low, ADJ 
+adsorption, NOUN 
+rate, NOUN 
+
+, SPACE 
+oxygen, NOUN 
+carbonates, NOUN 
+extremely, ADV 
+high, ADJ 
+vacuum, NOUN 
+range, NOUN 
+70, NUM 
+lo, PROPN 
+Pa, PROPN 
+main, ADJ 
+component, NOUN 
+residual, ADJ 
+
+, SPACE 
+gas, NOUN 
+hydrogen, NOUN 
+found, VERB 
+low, ADJ 
+adsorption, NOUN 
+rate, NOUN 
+hydrogen, NOUN 
+surface, NOUN 
+precipitated, VERB 
+BN, PROPN 
+precipitated, VERB 
+
+, SPACE 
+BN, PROPN 
+layer, NOUN 
+lower, VERB 
+hydrogen, NOUN 
+permeation, NOUN 
+rate, NOUN 
+stainless, ADJ 
+steel, NOUN 
+membrane, NOUN 
+BN, NOUN 
+coating, NOUN 
+
+, SPACE 
+effect, NOUN 
+reduction, NOUN 
+outgassing, NOUN 
+adsorbed, VERB 
+hydrogen, NOUN 
+surface, NOUN 
+vessel, NOUN 
+materials, NOUN 
+
+, SPACE 
+contained, VERB 
+hydrogen, NOUN 
+vessel, NOUN 
+materials, NOUN 
+successfully, ADV 
+coated, VERB 
+BN, PROPN 
+stainless, ADJ 
+steel, NOUN 
+surface, NOUN 
+
+, SPACE 
+surface, NOUN 
+segregation, NOUN 
+BN, PROPN 
+stainless, ADJ 
+steel, NOUN 
+co, ADJ 
+deposited, ADJ 
+film, NOUN 
+RHEED, ADJ 
+pattern, NOUN 
+BN, PROPN 
+showed, VERB 
+
+, SPACE 
+diffraction, NOUN 
+rings, NOUN 
+spots, NOUN 
+hexagonal, ADJ 
+BN, NOUN 
+C, NOUN 
+axis, NOUN 
+orientated, VERB 
+surface, NOUN 
+normal, ADJ 
+
+, SPACE 
+image, NOUN 
+transmission, NOUN 
+electron, NOUN 
+microscopy, NOUN 
+showed, VERB 
+lattice, NOUN 
+h, PROPN 
+BN, PROPN 
+basal, NOUN 
+plane, NOUN 
+diameter, NOUN 
+
+, SPACE 
+BN, PROPN 
+crystals, NOUN 
+50, NUM 
+80, NUM 
+nm, NOUN 
+crystal, NOUN 
+structure, NOUN 
+inhibited, VERB 
+hydrogen, NOUN 
+permeation, NOUN 
+Copyright, NOUN 
+0, NUM 
+7996, NUM 
+
+, SPACE 
+Published, VERB 
+Elsevier, ADJ 
+Science, PROPN 
+Ltd., PROPN 
+
+, SPACE 
+Introduction, NOUN 
+
+, SPACE 
+demand, NOUN 
+extremely, ADV 
+high, ADJ 
+vacuum, NOUN 
+systems, NOUN 
+increasing, VERB 
+
+, SPACE 
+especially, ADV 
+field, NOUN 
+surface, NOUN 
+analysis, NOUN 
+thin, ADJ 
+film, NOUN 
+preparation, NOUN 
+
+, SPACE 
+technology, NOUN 
+major, ADJ 
+performances, NOUN 
+necessary, ADJ 
+build, VERB 
+
+, SPACE 
+maintain, VERB 
+XHV, NOUN 
+system, NOUN 
+high, ADJ 
+pumping, NOUN 
+speed, NOUN 
+vac-, PROPN 
+
+, SPACE 
+uum, ADJ 
+pumps, NOUN 
+low, ADJ 
+outgassing, VERB 
+rate, NOUN 
+material, NOUN 
+
+, SPACE 
+surface, NOUN 
+composes, VERB 
+vacuum, NOUN 
+system, NOUN 
+pumps, NOUN 
+
+, SPACE 
+developed, VERB 
+improved, ADJ 
+pumping, VERB 
+speed, NOUN 
+Outgassing, NOUN 
+
+, SPACE 
+reduced, VERB 
+new, ADJ 
+materials, NOUN 
+vacuum, NOUN 
+system, NOUN 
+surface, NOUN 
+
+, SPACE 
+treatments, NOUN 
+surface, NOUN 
+polishing, NOUN 
+TIN, PROPN 
+coating, NOUN 
+oxide, NOUN 
+layer, NOUN 
+
+, SPACE 
+considered, VERB 
+origins, NOUN 
+outgassing, NOUN 
+1, NUM 
+
+, SPACE 
+desorption, NOUN 
+adsorbed, ADJ 
+molecules, NOUN 
+stuck, VERB 
+material, NOUN 
+surfaces, NOUN 
+
+, SPACE 
+2, NUM 
+evolution, NOUN 
+occluded, VERB 
+atoms, NOUN 
+and/or, CCONJ 
+molecules, NOUN 
+chamber, NOUN 
+
+, SPACE 
+materials, NOUN 
+components, NOUN 
+3, NUM 
+permeation, NOUN 
+atoms, NOUN 
+
+, SPACE 
+outside, NOUN 
+materials, NOUN 
+developed, VERB 
+boron, NOUN 
+nitride, NOUN 
+
+, SPACE 
+BN)-coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+vacuum, NOUN 
+vessel, NOUN 
+materials, NOUN 
+low, ADJ 
+
+, SPACE 
+adsorption, NOUN 
+rate, NOUN 
+low, ADJ 
+outgassing, ADJ 
+rate, NOUN 
+oxygen, NOUN 
+carbon-, NOUN 
+
+, SPACE 
+ates.4, X 
+Hydrogen, PROPN 
+main, ADJ 
+component, NOUN 
+residual, ADJ 
+gas, NOUN 
+
+, SPACE 
+extreme, ADJ 
+high, ADJ 
+vacuum, NOUN 
+IO--, PUNCT 
+Pa, NOUN 
+range, NOUN 
+objective, NOUN 
+
+, SPACE 
+study, NOUN 
+establish, VERB 
+suitable, ADJ 
+surface, NOUN 
+treatment, NOUN 
+technique, NOUN 
+
+, SPACE 
+reduce, VERB 
+hydrogen, NOUN 
+outgassing, VERB 
+rate, NOUN 
+considering, VERB 
+
+, SPACE 
+evolution, NOUN 
+occluded, VERB 
+atoms, NOUN 
+2, NUM 
+permeation, NOUN 
+atoms, NOUN 
+3, NUM 
+
+, SPACE 
+.4kiko, PROPN 
+Itakura, PROPN 
+National, PROPN 
+Research, PROPN 
+Institute, PROPN 
+Metals, PROPN 
+I-2, NUM 
+1, NUM 
+Sengen, PROPN 
+
+, SPACE 
+Tsukuba, PROPN 
+305, NUM 
+Japan, PROPN 
+Tel, NOUN 
+0298, NUM 
+53, NUM 
+184, NUM 
+Fax, NOUN 
+0298, NUM 
+53, NUM 
+199, NUM 
+Experimental, PROPN 
+
+, SPACE 
+BN, NOUN 
+coating, NOUN 
+BN, NOUN 
+coating, VERB 
+layer, NOUN 
+stainless, ADJ 
+steel, NOUN 
+surface, NOUN 
+
+, SPACE 
+prepared, VERB 
+surface, NOUN 
+segregation, NOUN 
+segregation, NOUN 
+BN, PROPN 
+
+, SPACE 
+found, VERB 
+surface, NOUN 
+B, PROPN 
+N, NOUN 
+doped, VERB 
+stainless, ADJ 
+steel, NOUN 
+
+, SPACE 
+study, NOUN 
+use, VERB 
+BN, PROPN 
+layer, NOUN 
+segregated, VERB 
+surface, NOUN 
+
+, SPACE 
+deposited, VERB 
+film, NOUN 
+Type, NOUN 
+304, NUM 
+stainless, ADJ 
+steel, NOUN 
+BN, PROPN 
+co-, ADJ 
+
+, SPACE 
+deposit, NOUN 
+type, NOUN 
+304, NUM 
+stainless, ADJ 
+steel, NOUN 
+substrate, NOUN 
+RF, PROPN 
+magnetron, NOUN 
+
+, SPACE 
+sputtering, NOUN 
+annealing, VERB 
+vacuum, NOUN 
+B, PROPN 
+N, NOUN 
+segregate, NOUN 
+
+, SPACE 
+surface, NOUN 
+film, NOUN 
+combine, VERB 
+form, VERB 
+BN, PROPN 
+BN, PROPN 
+detected, VERB 
+
+, SPACE 
+line, NOUN 
+shape, NOUN 
+Auger, PROPN 
+spectrum, NOUN 
+shoulder, NOUN 
+B, NOUN 
+
+, SPACE 
+peak.6, ADP 
+BN, PROPN 
+thickness, NOUN 
+controlled, VERB 
+deposit, NOUN 
+thickness, NOUN 
+
+, SPACE 
+annealing, VERB 
+temperature, NOUN 
+
+, SPACE 
+Hydrogen, PROPN 
+adsorption, NOUN 
+desorption, NOUN 
+observed, VERB 
+adsorption, NOUN 
+
+, SPACE 
+rate, NOUN 
+hydrogen, NOUN 
+BN, PROPN 
+coated, VERB 
+surface, NOUN 
+non, ADJ 
+coated, ADJ 
+stain-, NOUN 
+
+, SPACE 
+steel, NOUN 
+surface, NOUN 
+electron, NOUN 
+stimulated, VERB 
+desorption, NOUN 
+ESD, PROPN 
+
+, SPACE 
+experiment, NOUN 
+Figure, NOUN 
+1, NUM 
+shows, VERB 
+image, NOUN 
+partly, ADV 
+coated, VERB 
+stain-, X 
+
+, SPACE 
+steel, NOUN 
+sample, NOUN 
+scanning, VERB 
+electron, NOUN 
+microscopy, NOUN 
+right, ADJ 
+
+, SPACE 
+BN, PROPN 
+coated, ADJ 
+area, NOUN 
+left, ADJ 
+stainless, ADJ 
+steel, NOUN 
+Figure, NOUN 
+
+, SPACE 
+l(b, PROPN 
+shows, VERB 
+ESD, PROPN 
+mapping, NOUN 
+H+, NOUN 
+ions, NOUN 
+measured, VERB 
+IO-, PROPN 
+
+, SPACE 
+Pa, PROPN 
+hydrogen, NOUN 
+atmosphere, NOUN 
+Light, ADJ 
+points, NOUN 
+desorbed, VERB 
+ions, NOUN 
+Com-, PROPN 
+
+, SPACE 
+paring, VERB 
+b, NOUN 
+shown, VERB 
+stainless, ADJ 
+steel, NOUN 
+
+, SPACE 
+bright, ADJ 
+BN, PROPN 
+dark, ADJ 
+boundary, ADJ 
+shape, NOUN 
+dark, ADJ 
+
+, SPACE 
+area, NOUN 
+similar, ADJ 
+shape, NOUN 
+BN, PROPN 
+coated, VERB 
+area, NOUN 
+BN, PROPN 
+
+, SPACE 
+low, ADJ 
+adsorption, NOUN 
+rate, NOUN 
+H, NOUN 
+similar, ADJ 
+case, NOUN 
+low, ADJ 
+adsorption, NOUN 
+
+, SPACE 
+rate, NOUN 
+oxygen, NOUN 
+carbonates, NOUN 
+thermal, ADJ 
+desorption, NOUN 
+spec-, NOUN 
+
+, SPACE 
+troscopy, ADJ 
+TDS, PROPN 
+experiment, NOUN 
+showed, VERB 
+H2, PROPN 
+desorption, NOUN 
+BN, PROPN 
+
+, SPACE 
+697, NUM 
+
+, SPACE 
+lfakura, NOUN 
+et, NOUN 
+a/, NOUN 
+BN, NOUN 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+membrane, NOUN 
+
+, SPACE 
+1, NUM 
+stainless, ADJ 
+steel, NOUN 
+BN, NOUN 
+coated, ADJ 
+area, NOUN 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+stainless, ADJ 
+steel, NOUN 
+BN, PROPN 
+coated, ADJ 
+area, NOUN 
+
+, SPACE 
+P, NOUN 
+
+, SPACE 
+Figure, PROPN 
+1, NUM 
+SEM, PROPN 
+image, NOUN 
+half, NOUN 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+surface, NOUN 
+BN, NOUN 
+coating, NOUN 
+
+, SPACE 
+area, NOUN 
+shown, VERB 
+right, ADJ 
+b, X 
+ESD, PROPN 
+mapping, NOUN 
+H+, NOUN 
+ions, NOUN 
+
+, SPACE 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+lower, ADJ 
+H, PROPN 
+desorption, NOUN 
+non-, NUM 
+
+, SPACE 
+coated, VERB 
+stainless, ADJ 
+steel.7, NUM 
+
+, SPACE 
+Hydrogen, PROPN 
+permeation, NOUN 
+observed, VERB 
+permeation, NOUN 
+rate, NOUN 
+hydro, PROPN 
+
+, SPACE 
+gen, PROPN 
+BN, PROPN 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+membrane, NOUN 
+Permeation, NOUN 
+
+, SPACE 
+rates, NOUN 
+determined, VERB 
+change, NOUN 
+hydrogen, NOUN 
+pressure, NOUN 
+
+, SPACE 
+vacuum, NOUN 
+chamber, NOUN 
+membrane, NOUN 
+wall, NOUN 
+dividing, VERB 
+chamber, NOUN 
+
+, SPACE 
+rooms, NOUN 
+rooms, NOUN 
+pumped, VERB 
+separately, ADV 
+
+, SPACE 
+heating, VERB 
+membrane, NOUN 
+IR, PROPN 
+heater, NOUN 
+purified, VERB 
+hydrogen, NOUN 
+gas, NOUN 
+
+, SPACE 
+introduced, VERB 
+room, NOUN 
+called, VERB 
+high, ADJ 
+pressure, NOUN 
+room, NOUN 
+
+, SPACE 
+hydrogen, NOUN 
+pressure, NOUN 
+measured, VERB 
+room, NOUN 
+called, VERB 
+
+, SPACE 
+low, ADJ 
+pressure, NOUN 
+room, NOUN 
+quadrupole, ADJ 
+mass, NOUN 
+spectrometer, NOUN 
+
+, SPACE 
+low, ADJ 
+pressure, NOUN 
+room, NOUN 
+pumped, VERB 
+orifice, NOUN 
+cal-, VERB 
+
+, SPACE 
+culated, VERB 
+diffusion, NOUN 
+coefficients, NOUN 
+line, NOUN 
+shape, NOUN 
+change, NOUN 
+
+, SPACE 
+hydrogen, NOUN 
+pressure, NOUN 
+low, ADJ 
+pressure, NOUN 
+room, NOUN 
+showed, VERB 
+
+, SPACE 
+time, NOUN 
+delay, NOUN 
+time, NOUN 
+hydrogen, NOUN 
+introduction, NOUN 
+
+, SPACE 
+high, ADJ 
+pressure, NOUN 
+room, NOUN 
+time, NOUN 
+pressure, NOUN 
+saturation, NOUN 
+
+, SPACE 
+low, ADJ 
+pressure, NOUN 
+room, NOUN 
+Diffusion, NOUN 
+coefficients, NOUN 
+BN, NOUN 
+coated, VERB 
+stainless, ADJ 
+
+, SPACE 
+steel, NOUN 
+membranes, NOUN 
+equivalent, ADJ 
+non, ADJ 
+coated, ADJ 
+stainless, ADJ 
+steel, NOUN 
+
+, SPACE 
+membranes, NOUN 
+range, NOUN 
+1, NUM 
+3, NUM 
+x, SYM 
+lo-, PROPN 
+m’js, PROPN 
+Figure, NOUN 
+2, NUM 
+shows, VERB 
+
+, SPACE 
+variation, NOUN 
+hydrogen, NOUN 
+permeability, NOUN 
+BN, NOUN 
+coated, VERB 
+stainless, ADJ 
+
+, SPACE 
+698, NUM 
+1, NUM 
+o-4, NUM 
+
+, SPACE 
+t, NOUN 
+0, NUM 
+sus, NOUN 
+304, NUM 
+
+, SPACE 
+0, NUM 
+SUS, PROPN 
+304, NUM 
++, SYM 
+BN, PROPN 
+1Onm, NUM 
+
+, SPACE 
+0, NUM 
+SUS, PROPN 
+304, NUM 
++, NUM 
+BN, PROPN 
+20, NUM 
+nm, NUM 
+
+, SPACE 
+0, NUM 
+SUS, PROPN 
+304, NUM 
++, NUM 
+BN, PROPN 
+30, NUM 
+nm, NOUN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+1.5, NUM 
+
+, SPACE 
+Reciprocal, ADJ 
+temp, NOUN 
+1, NUM 
+03, NUM 
+T, PROPN 
+K-, PROPN 
+
+, SPACE 
+Figure, PROPN 
+2, NUM 
+Hydrogen, NOUN 
+permeability, NOUN 
+reciprocal, ADJ 
+temperature, NOUN 
+
+, SPACE 
+membrane, NOUN 
+0, X 
+Non, ADJ 
+coated, ADJ 
+stainless, ADJ 
+steel, NOUN 
+SUS304, PROPN 
+membrane, NOUN 
+n, CCONJ 
+BN, PROPN 
+
+, SPACE 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+membrane, NOUN 
+BN, NOUN 
+thickness, NOUN 
+10, NUM 
+nm, ADJ 
+0, NUM 
+BN, NOUN 
+thickness, NOUN 
+
+, SPACE 
+20, NUM 
+nm, ADJ 
+q, NOUN 
+BN, PROPN 
+thickness, NOUN 
+30, NUM 
+nm, ADJ 
+
+, SPACE 
+steel, PROPN 
+hydrogen, NOUN 
+permeability, NOUN 
+non, ADJ 
+coated, ADJ 
+stainless, ADJ 
+steel, NOUN 
+
+, SPACE 
+membranes, NOUN 
+reciprocal, ADJ 
+temperature, NOUN 
+series, NOUN 
+experi-, NOUN 
+
+, SPACE 
+ments, NOUN 
+BN, NOUN 
+coated, VERB 
+surfaces, NOUN 
+face, VERB 
+low, ADJ 
+pressure, NOUN 
+room, NOUN 
+Coated, ADJ 
+
+, SPACE 
+BN, PROPN 
+stainless, ADJ 
+steel, NOUN 
+lowers, VERB 
+permeability, NOUN 
+hydrogen, NOUN 
+
+, SPACE 
+temperature, NOUN 
+lowering, VERB 
+effect, NOUN 
+depend, VERB 
+BN, PROPN 
+
+, SPACE 
+thickness, NOUN 
+10, NUM 
+30, NUM 
+nm, NOUN 
+Activation, NOUN 
+energies, NOUN 
+permeation, NOUN 
+
+, SPACE 
+BN, PROPN 
+thickness, NOUN 
+agrees, VERB 
+non, ADJ 
+coated, ADJ 
+
+, SPACE 
+membranes, NOUN 
+Figure, NOUN 
+3, NUM 
+shows, VERB 
+variation, NOUN 
+permeability, NOUN 
+BN-, PROPN 
+
+, SPACE 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+membrane, NOUN 
+BN, PROPN 
+layer, NOUN 
+facing, VERB 
+
+, SPACE 
+low, ADJ 
+pressure, NOUN 
+room, NOUN 
+BN, PROPN 
+layer, NOUN 
+facing, VERB 
+high, ADJ 
+
+, SPACE 
+0, NUM 
+0, NUM 
+SUS, PROPN 
+304, NUM 
+
+, SPACE 
+SUS, PROPN 
+304, NUM 
++, CCONJ 
+EN, NOUN 
+low, ADJ 
+p., NOUN 
+
+, SPACE 
+0, NUM 
+SUS, PROPN 
+304, NUM 
++, CCONJ 
+BN, PROPN 
+high, ADJ 
+p., NOUN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+
+, SPACE 
+0, X 
+
+, SPACE 
+O, INTJ 
+0, PUNCT 
+
+, SPACE 
+
+, SPACE 
+0, X 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+0, PUNCT 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+1.0, NUM 
+1.5, NUM 
+
+, SPACE 
+Reciprocal, ADJ 
+temp, NOUN 
+lO’/T, NOUN 
+K, PROPN 
+l, PROPN 
+
+, SPACE 
+Figure, PROPN 
+3, NUM 
+Hydrogen, NOUN 
+permeability, NOUN 
+reciprocal, ADJ 
+temperature, NOUN 
+
+, SPACE 
+membrane, NOUN 
+O, NOUN 
+Non, ADJ 
+coated, ADJ 
+stainless, ADJ 
+steel, NOUN 
+SUS304, PROPN 
+membrane, NOUN 
+n, CCONJ 
+BN, PROPN 
+
+, SPACE 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+membrane, NOUN 
+BN, NOUN 
+thickness, NOUN 
+20, NUM 
+nm, ADJ 
+BN, PROPN 
+layer, NOUN 
+
+, SPACE 
+faces, VERB 
+low, ADJ 
+pressure, NOUN 
+room, NOUN 
+0, NUM 
+BN, NOUN 
+thickness, NOUN 
+20, NUM 
+nm, ADJ 
+BN, PROPN 
+
+, SPACE 
+layer, NOUN 
+faces, VERB 
+high, ADJ 
+pressure, NOUN 
+room, NOUN 
+
+, SPACE 
+ltakura, NOUN 
+et, NOUN 
+al, PROPN 
+BN, PROPN 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+membrane, NOUN 
+
+, SPACE 
+Fig, PROPN 
+ure, NOUN 
+4, NUM 
+RHEED, ADJ 
+pattern, NOUN 
+obtained, VERB 
+boron, NOUN 
+nitride, NOUN 
+segregated, VERB 
+la, PROPN 
+.yer, PUNCT 
+
+, SPACE 
+r&n, PROPN 
+co, NOUN 
+deposited‘fihn, NOUN 
+stainless, ADJ 
+steel, NOUN 
+SUS304, PROPN 
+
+, SPACE 
+lressure, NOUN 
+room, NOUN 
+BN, PROPN 
+layer, NOUN 
+facing, VERB 
+high, ADJ 
+pressure, NOUN 
+
+, SPACE 
+oom, NOUN 
+slightly, ADV 
+lowers, VERB 
+hydrogen, NOUN 
+permeability, NOUN 
+lowering, VERB 
+
+, SPACE 
+e, NOUN 
+ffect, NOUN 
+smaller, ADJ 
+BN, PROPN 
+layer, NOUN 
+facing, VERB 
+low, ADJ 
+
+, SPACE 
+pressure, NOUN 
+room, NOUN 
+Diffusion, NOUN 
+coefficient, NOUN 
+activation, NOUN 
+energy, NOUN 
+
+, SPACE 
+permeation, NOUN 
+similar, ADJ 
+turned, VERB 
+membranes, NOUN 
+non, ADJ 
+coated, ADJ 
+
+, SPACE 
+membranes, NOUN 
+discussed, VERB 
+carefully, ADV 
+compare, VERB 
+different, ADJ 
+
+, SPACE 
+directions, NOUN 
+hydrogen, NOUN 
+diffusion, NOUN 
+disregard, VERB 
+low, ADJ 
+sticking, VERB 
+
+, SPACE 
+probability, NOUN 
+hydrogen, NOUN 
+BN, PROPN 
+layer, NOUN 
+facing, VERB 
+high, ADJ 
+pressure, NOUN 
+
+, SPACE 
+gas, NOUN 
+Figure, PROPN 
+
+, SPACE 
+Structure, NOUN 
+BN, PROPN 
+segregated, VERB 
+layer, NOUN 
+diffraction, NOUN 
+study, NOUN 
+revealed, VERB 
+
+, SPACE 
+hexagonal, ADJ 
+boron, NOUN 
+nitride, NOUN 
+layers, NOUN 
+preferred, ADJ 
+orientation, NOUN 
+
+, SPACE 
+tended, VERB 
+cover, VERB 
+segregated, ADJ 
+surface, NOUN 
+basal, NOUN 
+plane, NOUN 
+
+, SPACE 
+001, NUM 
+Figure, NOUN 
+4, NUM 
+RHEED, PROPN 
+pattern, NOUN 
+electron, NOUN 
+energy, NOUN 
+=, X 
+50, NUM 
+kV, NUM 
+
+, SPACE 
+BN, PROPN 
+segregated, VERB 
+layer, NOUN 
+shows, VERB 
+weak, ADJ 
+diffraction, NOUN 
+rings, NOUN 
+
+, SPACE 
+strong, ADJ 
+spots, NOUN 
+ordering, VERB 
+mirror, NOUN 
+reflection, NOUN 
+diffraction, NOUN 
+rings, NOUN 
+
+, SPACE 
+polycrystal, NOUN 
+come, VERB 
+h, PROPN 
+BN, PROPN 
+crystals, NOUN 
+ordered, VERB 
+spots, NOUN 
+
+, SPACE 
+shows, NOUN 
+OOn, NOUN 
+refraction, NOUN 
+h, PROPN 
+BN, PROPN 
+basal, NOUN 
+plane, NOUN 
+C, NOUN 
+axis, NOUN 
+
+, SPACE 
+orientated, VERB 
+surface, NOUN 
+normal, ADJ 
+Figure, NOUN 
+5(a, NUM 
+image, NOUN 
+
+, SPACE 
+transmission, NOUN 
+electron, NOUN 
+microscopy, NOUN 
+electron, NOUN 
+energy, NOUN 
+=, ADJ 
+400, NUM 
+kV, NUM 
+
+, SPACE 
+BN, PROPN 
+segregated, ADJ 
+layer, NOUN 
+sample, NOUN 
+prepared, VERB 
+chemical, PROPN 
+etch-, X 
+
+, SPACE 
+ing, NOUN 
+reverse, ADJ 
+BN, PROPN 
+segregated, VERB 
+layer, NOUN 
+BN, PROPN 
+
+, SPACE 
+layer, NOUN 
+coated, VERB 
+inert, ADJ 
+resin, NOUN 
+image, NOUN 
+shown, VERB 
+Figure, PROPN 
+
+, SPACE 
+5(a, NUM 
+gives, VERB 
+kinds, NOUN 
+grains, NOUN 
+gray, ADJ 
+grains, NOUN 
+striped, ADJ 
+grains, NOUN 
+
+, SPACE 
+diameter, NOUN 
+measured, VERB 
+50, NUM 
+80, NUM 
+nm, NOUN 
+Figure, PROPN 
+5(b, NUM 
+
+, SPACE 
+lattice, NOUN 
+picture, NOUN 
+gray, ADJ 
+grain, NOUN 
+indicated, VERB 
+Figure, NOUN 
+5(a, NUM 
+clearly, ADV 
+
+, SPACE 
+shows, VERB 
+sixth, ADJ 
+symmetry, NOUN 
+lattice, NOUN 
+points, NOUN 
+dark, ADJ 
+spots, NOUN 
+
+, SPACE 
+lattice, NOUN 
+constant, NOUN 
+2.5, NUM 
+O., PROPN 
+1, NUM 
+A., NOUN 
+constant, NOUN 
+good, ADJ 
+agreement, NOUN 
+
+, SPACE 
+lattice, NOUN 
+constant, ADJ 
+h, PROPN 
+BN, PROPN 
+basal, NOUN 
+plane, NOUN 
+structure, NOUN 
+
+, SPACE 
+B, PROPN 
+grain, NOUN 
+determined, VERB 
+characteristic, ADJ 
+X, NOUN 
+ray, NOUN 
+shows, VERB 
+
+, SPACE 
+B, PROPN 
+N, PROPN 
+stainless, ADJ 
+steel, NOUN 
+materials, NOUN 
+contained, VERB 
+B, PROPN 
+
+, SPACE 
+grain, NOUN 
+suggests, VERB 
+BN, PROPN 
+crystal, NOUN 
+cover, VERB 
+
+, SPACE 
+surface, NOUN 
+perfectly, ADV 
+co, ADJ 
+deposited, VERB 
+film, NOUN 
+remained, VERB 
+surface, NOUN 
+
+, SPACE 
+Result, NOUN 
+discussion, NOUN 
+
+, SPACE 
+BN, NOUN 
+coated, VERB 
+layer, NOUN 
+stainless, ADJ 
+steel, NOUN 
+reduced, VERB 
+permeability, NOUN 
+
+, SPACE 
+hydrogen, NOUN 
+diffusion, NOUN 
+constants, NOUN 
+activation, NOUN 
+energies, NOUN 
+
+, SPACE 
+permeation, NOUN 
+similar, ADJ 
+constant, ADJ 
+energy, NOUN 
+non, ADJ 
+coated, ADJ 
+
+, SPACE 
+stainless, ADJ 
+steel, NOUN 
+reduction, NOUN 
+mechanism, NOUN 
+hydrogen, NOUN 
+out-, X 
+
+, SPACE 
+gassing, VERB 
+BN, PROPN 
+surface, NOUN 
+BN, PROPN 
+smaller, ADJ 
+diffusion, NOUN 
+
+, SPACE 
+coefficient, VERB 
+stainless, ADJ 
+steel, NOUN 
+permeability, NOUN 
+decreases, VERB 
+
+, SPACE 
+lowering, VERB 
+effect, NOUN 
+proportional, ADJ 
+BN, PROPN 
+thick-, NOUN 
+
+, SPACE 
+ness, ADJ 
+try, VERB 
+explain, VERB 
+permeating, NOUN 
+phenomena, NOUN 
+lowering, VERB 
+Figure, PROPN 
+5, NUM 
+TEM, PROPN 
+image, NOUN 
+BN, PROPN 
+segregated, VERB 
+layer, NOUN 
+b, X 
+Lattice, PROPN 
+image, NOUN 
+
+, SPACE 
+gray, ADJ 
+grain, NOUN 
+pointed, VERB 
+
+, SPACE 
+effect, NOUN 
+BN, PROPN 
+layer, NOUN 
+following, ADJ 
+mechanism, NOUN 
+Hydrogen, NOUN 
+mol-, X 
+
+, SPACE 
+ecules, VERB 
+dissolve, NOUN 
+stainless, ADJ 
+steel, NOUN 
+hydrogen, NOUN 
+atoms, NOUN 
+
+, SPACE 
+high, ADJ 
+pressure, NOUN 
+atomic, ADJ 
+H, PROPN 
+goes, VERB 
+grain, NOUN 
+and/or, CCONJ 
+grain, NOUN 
+
+, SPACE 
+boundary, NOUN 
+stainless, ADJ 
+steel, NOUN 
+Diffusion, NOUN 
+coefficients, NOUN 
+activation, NOUN 
+
+, SPACE 
+energies, NOUN 
+determined, VERB 
+substrate, ADJ 
+stainless, ADJ 
+steel, NOUN 
+
+, SPACE 
+atomic, ADJ 
+hydrogen, NOUN 
+reached, VERB 
+BN, PROPN 
+segregated, ADJ 
+area, NOUN 
+suppose, VERB 
+
+, SPACE 
+atomic, ADJ 
+hydrogen, NOUN 
+dissolve, VERB 
+BN, PROPN 
+layer, NOUN 
+orien-, ADV 
+
+, SPACE 
+tated, VERB 
+h, PROPN 
+BN, PROPN 
+surface, NOUN 
+prevents, VERB 
+recombination, NOUN 
+hydrogen, NOUN 
+
+, SPACE 
+atoms, NOUN 
+molecular, ADJ 
+hydrogen, NOUN 
+Hydrogen, NOUN 
+molecules, NOUN 
+
+, SPACE 
+permeated, VERB 
+BN, NOUN 
+coated, VERB 
+membrane, NOUN 
+permeated, VERB 
+
+, SPACE 
+BN, PROPN 
+lacking, NOUN 
+area, NOUN 
+large, ADJ 
+grain, NOUN 
+boundary, NOUN 
+BN, PROPN 
+grains, NOUN 
+
+, SPACE 
+Summary, PROPN 
+
+, SPACE 
+developed, VERB 
+BN, NOUN 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+vacuum, NOUN 
+vessel, NOUN 
+
+, SPACE 
+materials, NOUN 
+low, ADJ 
+adsorption, NOUN 
+rate, NOUN 
+oxygen, NOUN 
+car-, PROPN 
+
+, SPACE 
+bonates, NOUN 
+hydrogen, NOUN 
+BN, PROPN 
+coating, NOUN 
+effect, NOUN 
+
+, SPACE 
+reduction, NOUN 
+outgassing, NOUN 
+adsorbed, VERB 
+hydrogen, NOUN 
+
+, SPACE 
+surface, NOUN 
+hydrogen, NOUN 
+contained, VERB 
+vessel, NOUN 
+materials, NOUN 
+
+, SPACE 
+Hydrogen, PROPN 
+permeability, NOUN 
+BN, NOUN 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+
+, SPACE 
+order, NOUN 
+lower, ADJ 
+permeability, NOUN 
+non, ADJ 
+coated, ADJ 
+stainless, ADJ 
+steel, NOUN 
+
+, SPACE 
+diffusion, NOUN 
+constants, NOUN 
+activation, NOUN 
+energies, NOUN 
+per-, PROPN 
+
+, SPACE 
+meation, NOUN 
+similar, ADJ 
+non, ADJ 
+coated, ADJ 
+stainless, ADJ 
+steel, NOUN 
+structure, NOUN 
+
+, SPACE 
+segregated, ADJ 
+BN, PROPN 
+layer, NOUN 
+polycrystalline, ADJ 
+hexagonal, ADJ 
+BN, PROPN 
+
+, SPACE 
+699, NUM 
+
+, SPACE 
+ltekura, NOUN 
+et, NOUN 
+al, PROPN 
+BN, PROPN 
+coated, VERB 
+stainless, ADJ 
+steel, NOUN 
+membrane, NOUN 
+
+, SPACE 
+C, NOUN 
+axis, NOUN 
+orientated, VERB 
+surface, NOUN 
+normal, ADJ 
+crystal, NOUN 
+structure, NOUN 
+
+, SPACE 
+BN, PROPN 
+offers, VERB 
+low, ADJ 
+hydrogen, NOUN 
+permeability, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+Mutoh, PROPN 
+Y, PROPN 
+Hirohata, PROPN 
+T, PROPN 
+Hino, PROPN 
+T, PROPN 
+Yamashina, PROPN 
+T, PROPN 
+Kikuchi, PROPN 
+N, PROPN 
+Ohsako, PROPN 
+
+, SPACE 
+J, PROPN 
+Vuc, PROPN 
+Sot, PROPN 
+Jpn, PROPN 
+37, NUM 
+173, NUM 
+1994, NUM 
+Japanese, PROPN 
+
+, SPACE 
+Y, PROPN 
+Ikeda, PROPN 
+K, PROPN 
+Saitoh, PROPN 
+S, PROPN 
+Inayoshi, PROPN 
+S, PROPN 
+Tukamoto, PROPN 
+J, PROPN 
+Vat, PROPN 
+Sot, PROPN 
+Jpn, PROPN 
+37,232, NUM 
+
+, SPACE 
+1994, NUM 
+Japanese, PROPN 
+Y, PROPN 
+Ishikawa, PROPN 
+S, PROPN 
+Ohkido, PROPN 
+T, PROPN 
+Yoshimura, PROPN 
+J, PROPN 
+Vat, PROPN 
+Sot, PROPN 
+Jpn, PROPN 
+37, NUM 
+176, NUM 
+
+, SPACE 
+1994, NUM 
+
+, SPACE 
+M, PROPN 
+Tosa, PROPN 
+M, PROPN 
+Yoshitake, PROPN 
+K, PROPN 
+Yoshihara, PROPN 
+J, PROPN 
+Vat, PROPN 
+Sot, PROPN 
+Jpn, PROPN 
+34, NUM 
+62, NUM 
+1991, NUM 
+
+, SPACE 
+Japanese, PROPN 
+
+, SPACE 
+K, PROPN 
+Yoshihara, PROPN 
+M, PROPN 
+Tosa, PROPN 
+K, PROPN 
+Nii, PROPN 
+J, PROPN 
+Vuc, PROPN 
+Sci, PROPN 
+Technol, PROPN 
+A3, PROPN 
+1804, NUM 
+1985, NUM 
+
+, SPACE 
+M, PROPN 
+Tosa, PROPN 
+K, PROPN 
+Yoshihara, PROPN 
+J, PROPN 
+Vuc, PROPN 
+Sot, PROPN 
+Jpn, PROPN 
+33, NUM 
+520, NUM 
+1990, NUM 
+
+, SPACE 
+Itakura, PROPN 
+M, PROPN 
+Tosa, PROPN 
+K, PROPN 
+Yoshihara, PROPN 
+J, PROPN 
+Vuc, PROPN 
+Sot, PROPN 
+Jpn, PROPN 
+37,240, NUM 
+1994, NUM 
+
+, SPACE 
+Japanese, PROPN 
+
+, SPACE 
+Itakura, PROPN 
+M, PROPN 
+Tosa, PROPN 
+K, PROPN 
+Yoshihara, PROPN 
+J, PROPN 
+Vuc, PROPN 
+Sot, PROPN 
+Jpn, PROPN 
+37, NUM 
+793, NUM 
+1994, NUM 
+
+, SPACE 
+700, NUM 
+
+, SPACE 

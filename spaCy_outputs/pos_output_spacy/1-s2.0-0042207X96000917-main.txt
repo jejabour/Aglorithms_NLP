@@ -1,0 +1,2216 @@
+Pergamon, PROPN 
+Vacuum, PROPN 
+volume, NOUN 
+47lnumbers, PROPN 
+6, NUM 
+6fpages, NUM 
+903, NUM 
+906/1996, NUM 
+
+, SPACE 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+PII, PROPN 
+SOO42, PROPN 
+207X(96)00091, PROPN 
+7, NUM 
+0042, NUM 
+207X/96, NUM 
+$, SYM 
+15.00+.00, NUM 
+
+, SPACE 
+La, PROPN 
+Ce, PROPN 
+incorporation, NOUN 
+effects, NOUN 
+surface, NOUN 
+
+, SPACE 
+properties, NOUN 
+fluorinated, VERB 
+Ti, PROPN 
+Zr)(Mn, PROPN 
+Cr, PROPN 
+Ni, PROPN 
+
+, SPACE 
+hydriding, VERB 
+alloys, NOUN 
+
+, SPACE 
+F, PROPN 
+J, PROPN 
+Liu, PROPN 
+K, PROPN 
+Kitayama, PROPN 
+S, PROPN 
+Suda, PROPN 
+Department, PROPN 
+Chemical, PROPN 
+Engineering, PROPN 
+Kogakuin, PROPN 
+University, PROPN 
+2665-, PROPN 
+1, NUM 
+
+, SPACE 
+Nakano, PROPN 
+machi, PROPN 
+Hachioji, PROPN 
+shi, PROPN 
+Tokyo, PROPN 
+792, NUM 
+Japan, PROPN 
+
+, SPACE 
+small, ADJ 
+La, PROPN 
+Ce, PROPN 
+incorporation, NOUN 
+AB, PROPN 
+alloys, VERB 
+Ti,_,_&_,(La, PROPN 
+Ce, PROPN 
+Mn0.8Cro.sNi0.r, PROPN 
+compounds, NOUN 
+
+, SPACE 
+x, PUNCT 
+varying, VERB 
+0.0, NUM 
+0.05, NUM 
+performed, VERB 
+order, NOUN 
+improve, VERB 
+activation, NOUN 
+characteristics, NOUN 
+Ti, PROPN 
+Zr, PROPN 
+
+, SPACE 
+based, VERB 
+AB, PROPN 
+hydriding, VERB 
+alloys, NOUN 
+gas, NOUN 
+solid, ADJ 
+reactions, NOUN 
+fluorinated, ADJ 
+surface, NOUN 
+properties, NOUN 
+compounds, NOUN 
+
+, SPACE 
+investigated, VERB 
+addition, NOUN 
+structural, ADJ 
+compositional, ADJ 
+analysis, NOUN 
+ESCA, PROPN 
+EPMA, PROPN 
+XRD, PROPN 
+
+, SPACE 
+microscope, NOUN 
+observations, NOUN 
+La, PROPN 
+Ce, PROPN 
+incorporation, NOUN 
+forms, NOUN 
+La, PROPN 
+Ce, PROPN 
+rich, ADJ 
+secondary, ADJ 
+phase, NOUN 
+homogeneously, ADV 
+
+, SPACE 
+distributed, VERB 
+grain, NOUN 
+boundaries, NOUN 
+original, ADJ 
+AB, PROPN 
+phase, NOUN 
+particle, NOUN 
+surface, NOUN 
+secondary, ADJ 
+
+, SPACE 
+phases, NOUN 
+contribute, VERB 
+significant, ADJ 
+improvement, NOUN 
+activation, NOUN 
+characteristics, NOUN 
+Copyright, NOUN 
+0, NUM 
+1996, NUM 
+Elsevier, ADJ 
+
+, SPACE 
+Science, PROPN 
+Ltd., PROPN 
+
+, SPACE 
+Key, ADJ 
+words, NOUN 
+Fluorination, NOUN 
+treatment, NOUN 
+incorporation, NOUN 
+effect, NOUN 
+La, PROPN 
+Cc, PROPN 
+fluorinated, VERB 
+surface, NOUN 
+Ni, PROPN 
+enriched, VERB 
+surface, NOUN 
+
+, SPACE 
+activation, NOUN 
+characteristics, NOUN 
+
+, SPACE 
+Introduction, PROPN 
+Experimental, PROPN 
+procedures, NOUN 
+
+, SPACE 
+Multicomponent, PROPN 
+Ti, PROPN 
+Zr, PROPN 
+based, VERB 
+Cl4, ADJ 
+Cl5, NOUN 
+Laves, PROPN 
+phase, NOUN 
+alloys, NOUN 
+
+, SPACE 
+extensively, ADV 
+developed, VERB 
+hydrogen, NOUN 
+storage, NOUN 
+
+, SPACE 
+materials, NOUN 
+gasssolid, ADJ 
+reactions, NOUN 
+electrode, ADJ 
+materials, NOUN 
+
+, SPACE 
+MH, PROPN 
+Ni, PROPN 
+batteries, NOUN 
+high, ADJ 
+electrochemical, ADJ 
+
+, SPACE 
+capacities, NOUN 
+compared, VERB 
+AB5, NOUN 
+alloysm3, NOUN 
+authors, NOUN 
+
+, SPACE 
+previous, ADJ 
+studies, NOUN 
+La, PROPN 
+incorporated, VERB 
+Ti, PROPN 
+Zr, PROPN 
+Mn, PROPN 
+Cr, PROPN 
+Ni, PROPN 
+hyd-, PRON 
+
+, SPACE 
+riding, VERB 
+alloys, NOUN 
+gas, NOUN 
+phase, NOUN 
+reaction, NOUN 
+disclosed, VERB 
+small, ADJ 
+amounts, NOUN 
+
+, SPACE 
+La, PROPN 
+incorporation, NOUN 
+AB, PROPN 
+system, NOUN 
+alloys, NOUN 
+form, VERB 
+island, NOUN 
+like, ADJ 
+
+, SPACE 
+La, PROPN 
+enriched, VERB 
+phases, NOUN 
+original, ADJ 
+AB, PROPN 
+matrix, NOUN 
+phase, NOUN 
+result, VERB 
+
+, SPACE 
+dramatic, ADJ 
+improvement, NOUN 
+activation, NOUN 
+characteristics, NOUN 
+with-, NOUN 
+
+, SPACE 
+decrease, NOUN 
+hydriding, VERB 
+capacity, NOUN 
+improvment, NOUN 
+enhanced, VERB 
+
+, SPACE 
+particular, ADJ 
+fluorination, NOUN 
+treatment, NOUN 
+F, NOUN 
+containing, VERB 
+
+, SPACE 
+aqueous, ADJ 
+solution, NOUN 
+reported, VERB 
+
+, SPACE 
+investigation, NOUN 
+aimed, VERB 
+studying, VERB 
+fluorination, NOUN 
+effects, NOUN 
+
+, SPACE 
+La, PROPN 
+incorporated, VERB 
+Ti, PROPN 
+Zr)(Mn, PROPN 
+Cr, NOUN 
+Ni)z, PROPN 
+hydriding, NOUN 
+alloys, NOUN 
+
+, SPACE 
+surface, NOUN 
+properties, NOUN 
+view, NOUN 
+gas, NOUN 
+solid, ADJ 
+reaction, NOUN 
+charac-, ADJ 
+
+, SPACE 
+teristics, NOUN 
+X, NOUN 
+ray, NOUN 
+photoemission, NOUN 
+spectroscope, NOUN 
+XPS, PROPN 
+elec-, PRON 
+
+, SPACE 
+tron, NOUN 
+probe, PROPN 
+microanalyzer, PROPN 
+EPMA, PROPN 
+X, NOUN 
+ray, NOUN 
+diffractometer, NOUN 
+
+, SPACE 
+XRD, PROPN 
+studies, NOUN 
+microscopic, ADJ 
+observations, NOUN 
+work, NOUN 
+
+, SPACE 
+extended, VERB 
+La, PROPN 
+incorporation, NOUN 
+Ce, PROPN 
+order, NOUN 
+understand, VERB 
+
+, SPACE 
+possibility, NOUN 
+Mm, PROPN 
+mischmetal)-incorporation, NOUN 
+system, NOUN 
+
+, SPACE 
+AB, PROPN 
+alloys, NOUN 
+future, ADJ 
+applications, NOUN 
+Hz, ADJ 
+absorption, NOUN 
+mechanism, NOUN 
+
+, SPACE 
+improved, ADJ 
+La, PROPN 
+Ce, PROPN 
+fluorinated, VERB 
+surface, NOUN 
+discussed, VERB 
+based, VERB 
+
+, SPACE 
+H, PROPN 
+activation, NOUN 
+surface, NOUN 
+analysis, NOUN 
+results, NOUN 
+Alloy, ADJ 
+preparation, NOUN 
+Based, VERB 
+previous, ADJ 
+studies, NOUN 
+La-, PROPN 
+
+, SPACE 
+incorporated, VERB 
+Ti, PROPN 
+5, NUM 
+y, PROPN 
+Zr, PROPN 
+5_-r,2Zr, NUM 
+5p, PROPN 
+zLa, NUM 
+Mn, PROPN 
+rO, NUM 
+Ni, PROPN 
+4, NUM 
+alloys, NOUN 
+
+, SPACE 
+x, PROPN 
+=, SYM 
+O.O, PROPN 
+O.l, NUM 
+La, PROPN 
+Ce, PROPN 
+fixed, VERB 
+study, NOUN 
+=, ADP 
+0.05, NUM 
+i.e., X 
+
+, SPACE 
+composnlon, NOUN 
+1s, PROPN 
+Tr-0.475Zr, PROPN 
+475, NUM 
+La, PROPN 
+Ce),,,,Mn, PROPN 
+rO, X 
+XNi,,.4, PROPN 
+
+, SPACE 
+Alloy, NOUN 
+samples, NOUN 
+prepared, VERB 
+non, ADJ 
+consumable, ADJ 
+IV, PROPN 
+electrode, ADJ 
+
+, SPACE 
+melting, NOUN 
+elements, NOUN 
+water, NOUN 
+cooled, VERB 
+Cu, PROPN 
+hearth, PROPN 
+argon, NOUN 
+
+, SPACE 
+atmosphere, NOUN 
+Tio.sp, PROPN 
+ui2Zr0.~, ADP 
+.zMno, PROPN 
+Cr, PROPN 
+Ni, PROPN 
+x, PROPN 
+=, NOUN 
+0, NUM 
+0.05, NUM 
+
+, SPACE 
+melted, VERB 
+remelted, VERB 
+additional, ADJ 
+pure, ADJ 
+La, PROPN 
+
+, SPACE 
+Ce, PROPN 
+atomic, ADJ 
+ratio, NOUN 
+0.05, NUM 
+obtain, VERB 
+La, PROPN 
+Ce, PROPN 
+enriched, VERB 
+
+, SPACE 
+secondary, ADJ 
+phase, NOUN 
+distributed, VERB 
+original, ADJ 
+AB, PROPN 
+phase, NOUN 
+tiny, ADJ 
+
+, SPACE 
+islands, NOUN 
+difference, NOUN 
+melting, NOUN 
+point, NOUN 
+phase, NOUN 
+
+, SPACE 
+nucleation, NOUN 
+growth, NOUN 
+AB2, PROPN 
+phase, NOUN 
+started, VERB 
+melt, NOUN 
+
+, SPACE 
+solidification, NOUN 
+La, PROPN 
+Ce, PROPN 
+enriched, VERB 
+liquid, ADJ 
+
+, SPACE 
+phase, NOUN 
+followed, VERB 
+precipitate, VERB 
+AB, PROPN 
+grain, NOUN 
+boundaries, NOUN 
+Water, NOUN 
+
+, SPACE 
+cooling, VERB 
+results, NOUN 
+rapid, ADJ 
+solidification, NOUN 
+effective, ADJ 
+forming, VERB 
+
+, SPACE 
+La, PROPN 
+Ce, PROPN 
+enriched, VERB 
+secondary, ADJ 
+phase, NOUN 
+specimen, NOUN 
+
+, SPACE 
+melted, VERB 
+times, NOUN 
+ensure, VERB 
+homogeneous, ADJ 
+distribution, NOUN 
+
+, SPACE 
+secondary, ADJ 
+phases, NOUN 
+annealing, VERB 
+treatment, NOUN 
+
+, SPACE 
+performed, VERB 
+study, NOUN 
+sample, NOUN 
+ingots, NOUN 
+mechanically, ADV 
+
+, SPACE 
+ground, NOUN 
+average, ADJ 
+particle, NOUN 
+size, NOUN 
+250, NUM 
+106, NUM 
+pm, NOUN 
+
+, SPACE 
+fluorination, NOUN 
+treatment, NOUN 
+performed, VERB 
+putting, VERB 
+sample, NOUN 
+
+, SPACE 
+powders, NOUN 
+fluorine, NOUN 
+containing, VERB 
+aqueous, ADJ 
+solution, NOUN 
+certain, ADJ 
+
+, SPACE 
+ratio, NOUN 
+alloy, NOUN 
+solution, NOUN 
+3, NUM 
+h, NOUN 
+followed, VERB 
+
+, SPACE 
+water, NOUN 
+washing, NOUN 
+naturally, ADV 
+dried, VERB 
+air, NOUN 
+
+, SPACE 
+903, NUM 
+
+, SPACE 
+FJ, PROPN 
+Liu, PROPN 
+eta/, PROPN 
+Fluorinated, PROPN 
+Ti, PROPN 
+ZrHMn, PROPN 
+Cr, PROPN 
+Ni, PROPN 
+hydriding, VERB 
+alloys, NOUN 
+
+, SPACE 
+Figure, PROPN 
+1, NUM 
+Metallographic, ADJ 
+pictures, NOUN 
+La, PROPN 
+Ce, PROPN 
+incorporatedTi, PROPN 
+5, NUM 
+m, NOUN 
+rl, PROPN 
+ZZr, PROPN 
+zm, PROPN 
+~,2(La, PROPN 
+Ce),Mn,,,Cr,,*Nio.4, PROPN 
+x, PROPN 
+=, SYM 
+0.05, NUM 
+
+, SPACE 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+Metallographic, PROPN 
+microstructures, NOUN 
+metallographic, ADJ 
+micro-, NOUN 
+
+, SPACE 
+structure, NOUN 
+shown, VERB 
+Figure, PROPN 
+1, NUM 
+indicates, VERB 
+mixed, ADJ 
+phase, NOUN 
+structure, NOUN 
+
+, SPACE 
+formed, VERB 
+La, PROPN 
+Ce, PROPN 
+incorporated, VERB 
+Ti, PROPN 
+Zr)(Mn, PROPN 
+Cr, PROPN 
+Ni, PROPN 
+
+, SPACE 
+alloys, NOUN 
+found, VERB 
+La, PROPN 
+Ce, PROPN 
+substitute, VERB 
+matrix, NOUN 
+
+, SPACE 
+form, VERB 
+single, ADJ 
+AB, PROPN 
+Cl4, ADJ 
+Laves, PROPN 
+phase, NOUN 
+forms, VERB 
+La, PROPN 
+Ce-, ADV 
+
+, SPACE 
+containing, VERB 
+secondary, ADJ 
+phase, NOUN 
+small, ADJ 
+dark, ADJ 
+islands, NOUN 
+homogeneously, ADV 
+
+, SPACE 
+distributed, VERB 
+AB, PROPN 
+matrix, NOUN 
+phase, NOUN 
+Ce, PROPN 
+rich, ADJ 
+islands, NOUN 
+
+, SPACE 
+irregular, ADJ 
+shapes, NOUN 
+La, PROPN 
+caused, VERB 
+
+, SPACE 
+relatively, ADV 
+lower, ADJ 
+melting, NOUN 
+temperature, NOUN 
+Ce, PROPN 
+X, NOUN 
+ray, NOUN 
+mapping, NOUN 
+
+, SPACE 
+focused, VERB 
+La, PROPN 
+Ce, PROPN 
+enriched, VERB 
+islands, NOUN 
+performed, VERB 
+EPMA4.6, PROPN 
+
+, SPACE 
+shows, VERB 
+secondary, ADJ 
+phases, NOUN 
+pure, ADJ 
+La, PROPN 
+Ce, PROPN 
+
+, SPACE 
+associated, VERB 
+Ni, PROPN 
+element, NOUN 
+form, VERB 
+La, PROPN 
+Ni, PROPN 
+Ce, PROPN 
+Ni, PROPN 
+phases, NOUN 
+
+, SPACE 
+compositions, NOUN 
+La, PROPN 
+Ni, PROPN 
+Cc, PROPN 
+Ni, PROPN 
+phases, NOUN 
+
+, SPACE 
+identified, VERB 
+XRD, PROPN 
+analysis, NOUN 
+technical, ADJ 
+difficulties, NOUN 
+
+, SPACE 
+distinguish, VERB 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+patterns, NOUN 
+major, ADJ 
+AB1, PROPN 
+
+, SPACE 
+phase, NOUN 
+extremely, ADV 
+small, ADJ 
+La, PROPN 
+Ce, PROPN 
+rich, ADJ 
+phase, NOUN 
+
+, SPACE 
+Activation, PROPN 
+characteristics, NOUN 
+Figure, NOUN 
+2, NUM 
+shows, VERB 
+effect, NOUN 
+La, PROPN 
+Ce-, PROPN 
+
+, SPACE 
+incorporation, NOUN 
+activation, NOUN 
+characteristics, NOUN 
+AB2, PROPN 
+system, NOUN 
+
+, SPACE 
+alloys, NOUN 
+fluorination, NOUN 
+seen, VERB 
+
+, SPACE 
+Ti, PROPN 
+sZrO.sMn, NOUN 
+8Cr,, NUM 
+,Ni0.4, PUNCT 
+alloy, NOUN 
+La, PROPN 
+Ce, PROPN 
+incorporation, NOUN 
+
+, SPACE 
+exhibits, VERB 
+poor, ADJ 
+activation, NOUN 
+result, VERB 
+worse, ADV 
+Auo-, PROPN 
+
+, SPACE 
+rination, NOUN 
+initial, ADJ 
+hydriding, ADJ 
+reaction, NOUN 
+start, VERB 
+
+, SPACE 
+5, NUM 
+h, NOUN 
+40, NUM 
+°, NUM 
+C, NOUN 
+1.0, NUM 
+MPa, NOUN 
+H, NOUN 
+atmosphere, NOUN 
+
+, SPACE 
+contrary, NOUN 
+La, PROPN 
+Ce, PROPN 
+incorporation, NOUN 
+improves, VERB 
+acti-, NOUN 
+
+, SPACE 
+vation, NOUN 
+characteristics, NOUN 
+significantly, ADV 
+cutting, VERB 
+incubation, NOUN 
+time, NOUN 
+
+, SPACE 
+defined, VERB 
+required, VERB 
+time, NOUN 
+interval, NOUN 
+starting, VERB 
+hydriding, ADJ 
+reaction, NOUN 
+Figure, PROPN 
+2(A, PROPN 
+fluorination, NOUN 
+treatment, NOUN 
+
+, SPACE 
+effects, NOUN 
+increasing, VERB 
+reaction, NOUN 
+kinetics, NOUN 
+La, PROPN 
+
+, SPACE 
+Ce, PROPN 
+incorporation, NOUN 
+Figure, PROPN 
+2(B, PROPN 
+Ce, NOUN 
+incorporation, NOUN 
+found, VERB 
+
+, SPACE 
+effective, ADJ 
+improving, VERB 
+reaction, NOUN 
+kinetics, NOUN 
+La., PROPN 
+
+, SPACE 
+evident, ADJ 
+La, PROPN 
+Ce, PROPN 
+incorporation, NOUN 
+effective, ADJ 
+
+, SPACE 
+accelerating, VERB 
+initial, ADJ 
+activation, NOUN 
+especially, ADV 
+fluorination, NOUN 
+
+, SPACE 
+contributes, VERB 
+formation, NOUN 
+island, NOUN 
+like, ADJ 
+LaaNi, PROPN 
+Gee, PROPN 
+
+, SPACE 
+Ni, PROPN 
+secondary, ADJ 
+phases, NOUN 
+increase, NOUN 
+fluorination, NOUN 
+effects, NOUN 
+
+, SPACE 
+compounds, NOUN 
+
+, SPACE 
+Surface, PROPN 
+analysis, NOUN 
+fluorination, NOUN 
+treatment, NOUN 
+La, PROPN 
+Ce, PROPN 
+incor-, NOUN 
+
+, SPACE 
+porated, VERB 
+AB, PROPN 
+system, NOUN 
+alloys, NOUN 
+found, VERB 
+experimentally, ADV 
+
+, SPACE 
+improve, VERB 
+activation, NOUN 
+characteristics, NOUN 
+AB, PROPN 
+alloys, NOUN 
+fluor-, NOUN 
+
+, SPACE 
+ination, NOUN 
+effect, NOUN 
+correlated, VERB 
+past, ADJ 
+studies, NOUN 
+AB, PROPN 
+
+, SPACE 
+alloys, NOUN 
+LaNi4,7A10,.i,7.8, PROPN 
+LaF, PROPN 
+coating, NOUN 
+followed, VERB 
+
+, SPACE 
+metallic, ADJ 
+Ni, PROPN 
+rich, ADJ 
+substrate, NOUN 
+takes, VERB 
+place, NOUN 
+treatment, NOUN 
+
+, SPACE 
+work, NOUN 
+surface, NOUN 
+studies, NOUN 
+performed, VERB 
+order, NOUN 
+
+, SPACE 
+clarify, VERB 
+fluorination, NOUN 
+effects, NOUN 
+La, PROPN 
+Ce, PROPN 
+rich, ADJ 
+sec-, VERB 
+
+, SPACE 
+ondary, ADJ 
+phase, NOUN 
+AB, PROPN 
+matrix, NOUN 
+phase, NOUN 
+roles, NOUN 
+Ni, PROPN 
+
+, SPACE 
+behaviors, NOUN 
+surface, NOUN 
+phases, NOUN 
+
+, SPACE 
+fluorination, NOUN 
+authors, NOUN 
+special, ADJ 
+concerns, NOUN 
+present, ADJ 
+study, NOUN 
+
+, SPACE 
+AB, PROPN 
+phase, NOUN 
+surface, NOUN 
+chemical, NOUN 
+states, NOUN 
+constituent, NOUN 
+
+, SPACE 
+elements, NOUN 
+analyzed, VERB 
+XPS, PROPN 
+MgKcl, PROPN 
+hv-, ADV 
+1253.6, NUM 
+eV, X 
+
+, SPACE 
+radiation, NOUN 
+base, NOUN 
+pressure, NOUN 
+lo-, ADV 
+Pa, PROPN 
+spectra, NOUN 
+
+, SPACE 
+Ti2p, PROPN 
+Zr3d, PROPN 
+Mn2pp, NUM 
+Cr2p, PROPN 
+Ni2p, PROPN 
+core, NOUN 
+levels, NOUN 
+
+, SPACE 
+untreated, ADJ 
+treated, VERB 
+Ti,,,Zr,,sMn,, PROPN 
+,Cr,, PROPN 
+,Ni,,~, PUNCT 
+alloy, PROPN 
+indicated, VERB 
+
+, SPACE 
+upper, ADJ 
+Figure, PROPN 
+3, NUM 
+spectra, NOUN 
+untreated, ADJ 
+sample, NOUN 
+
+, SPACE 
+
+, SPACE 
+2, NUM 
+s, VERB 
+0.8, NUM 
+
+, SPACE 
+
+, SPACE 
+s, PROPN 
+B, NOUN 
+0.6, NUM 
+
+, SPACE 
+0.4, NUM 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+0.2, NUM 
+Pi, PROPN 
+l.0, NOUN 
+h4, NOUN 
+Pa, PROPN 
+
+, SPACE 
+-O-, PROPN 
+La, PROPN 
+Ce, PROPN 
+=, NOUN 
+O, PROPN 
+
+, SPACE 
+-O-, X 
+Ce, NOUN 
+=, NOUN 
+O.O5, NUM 
+
+, SPACE 
++, PROPN 
+La, PROPN 
+O.05, PROPN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+0, NUM 
+30, NUM 
+60, NUM 
+90, NUM 
+120, NUM 
+
+, SPACE 
+Time, PROPN 
+Onin, PROPN 
+$, SYM 
+fz%, NOUN 
+Pi, PROPN 
+=, PROPN 
+l., PROPN 
+OMPa, PROPN 
+
+, SPACE 
+0, NUM 
+30, NUM 
+60, NUM 
+90, NUM 
+120, NUM 
+150, NUM 
+
+, SPACE 
+Time, PROPN 
+min, PROPN 
+
+, SPACE 
+Figure, PROPN 
+2, NUM 
+Initial, ADJ 
+activation, NOUN 
+Ti,,_x/2Zr, PROPN 
+~__~/2(La, PROPN 
+Ce),Mn,,Cr,,Ni, PROPN 
+alloys, NOUN 
+x, PROPN 
+=, NOUN 
+0, NUM 
+0.05, NUM 
+fluorination, NOUN 
+40, NUM 
+°, NUM 
+C, NOUN 
+1.0, NUM 
+MPa, NOUN 
+H, NOUN 
+
+, SPACE 
+pressure, NOUN 
+
+, SPACE 
+904, NUM 
+
+, SPACE 
+FJ, PROPN 
+Liu, PROPN 
+era, NOUN 
+Fluorinated, PROPN 
+Ti, PROPN 
+Zr)(Mn, PROPN 
+Cr, PROPN 
+Ni, PROPN 
+hydriding, VERB 
+alloys, NOUN 
+
+, SPACE 
+Min, PROPN 
+
+, SPACE 
+462, NUM 
+458, NUM 
+454, NUM 
+188, NUM 
+184, NUM 
+180, NUM 
+646, NUM 
+642, NUM 
+638, NUM 
+SiO, NUM 
+5i6, NUM 
+5, NUM 
+862, NUM 
+858, NUM 
+854, NUM 
+690, NUM 
+686, NUM 
+682, NUM 
+536, NUM 
+s32, NOUN 
+528, NUM 
+846, NUM 
+842, NUM 
+838, NUM 
+834, NUM 
+
+, SPACE 
+Figure, PROPN 
+3, NUM 
+XPS, PROPN 
+spectra, PROPN 
+fluorinated, VERB 
+Ti,,~r2Zr05~,,La, ADJ 
+Mno, PROPN 
+Cr,,,Ni, PROPN 
+x, SYM 
+=, NOUN 
+0.0, NUM 
+x, PROPN 
+=, SYM 
+0.05, NUM 
+
+, SPACE 
+omitted, VERB 
+core, ADJ 
+level, NOUN 
+spectra, NOUN 
+reveal, VERB 
+surface, NOUN 
+
+, SPACE 
+completely, ADV 
+oxidized, VERB 
+identified, VERB 
+ZrO, PROPN 
+sep-, ADJ 
+
+, SPACE 
+aration, NOUN 
+energy, NOUN 
+2.2, NUM 
+eV, X 
+main, ADJ 
+peak, NOUN 
+Eb, NOUN 
+=, NOUN 
+182.4, NUM 
+eV, X 
+
+, SPACE 
+satellite, NOUN 
+peak, NOUN 
+Eb, NOUN 
+=, X 
+184.6, NUM 
+eV, NUM 
+TiO, NOUN 
+strong, ADJ 
+peak, NOUN 
+
+, SPACE 
+Eb, NOUN 
+=, SYM 
+458.6, NUM 
+eV, X 
+respectively, ADV 
+ZrO, PROPN 
+TiO, NOUN 
+remain, VERB 
+stable, ADJ 
+
+, SPACE 
+surface, NOUN 
+persist, VERB 
+prolonged, VERB 
+sputtering, NOUN 
+
+, SPACE 
+spectrum, NOUN 
+Mn2p, PROPN 
+>, X 
+shows, VERB 
+weak, ADJ 
+peak, NOUN 
+signal, NOUN 
+difficult, ADJ 
+
+, SPACE 
+identify, VERB 
+chemical, ADJ 
+state, NOUN 
+layer, NOUN 
+gradually, ADV 
+
+, SPACE 
+changes, VERB 
+metallic, ADJ 
+state, NOUN 
+Eb, PROPN 
+=, NOUN 
+638.6, NUM 
+eV, NUM 
+increasing, VERB 
+
+, SPACE 
+sputtering, VERB 
+time, NOUN 
+spectrum, NOUN 
+Ni2pJjz, PROPN 
+core, NOUN 
+level, NOUN 
+indicates, VERB 
+
+, SPACE 
+Ni, PROPN 
+hydroxidized, VERB 
+Ni(OH)2, VERB 
+Increasing, VERB 
+sputtering, VERB 
+time, NOUN 
+
+, SPACE 
+results, NOUN 
+decrease, NOUN 
+Ni, PROPN 
+hydroxide, ADV 
+increase, NOUN 
+metallic, ADJ 
+
+, SPACE 
+Ni, PROPN 
+broad, ADJ 
+peaks, NOUN 
+576.6574.0, NUM 
+eV, NUM 
+
+, SPACE 
+single, ADJ 
+peak, NOUN 
+Eb, NOUN 
+=, SYM 
+583.0, NUM 
+eV, NUM 
+Cr, PROPN 
+identified, VERB 
+metallic, ADJ 
+Cr, PROPN 
+
+, SPACE 
+limited, ADJ 
+Cr, PROPN 
+fluoride, NOUN 
+appearing, NOUN 
+CrF, PROPN 
+cross, NOUN 
+
+, SPACE 
+section, NOUN 
+Ti2p, PROPN 
+Zr3d, PROPN 
+Mn2p, PROPN 
+Cr2p, PROPN 
+Ni2pjjz, NOUN 
+peaks, NOUN 
+weight, NOUN 
+
+, SPACE 
+ratios, NOUN 
+Ti, PROPN 
+Zr, AUX 
+Mn, PROPN 
+Cr, PROPN 
+Ni, PROPN 
+quantitatively, ADV 
+determined, VERB 
+
+, SPACE 
+calculated, ADJ 
+data, NOUN 
+surface, NOUN 
+composition, NOUN 
+
+, SPACE 
+T10.5ZrI~.~Mn0, NOUN 
+J%, PROPN 
+J%, PROPN 
+compound, PROPN 
+changed, VERB 
+Ti,,,Zr, PROPN 
+
+, SPACE 
+Mn, PROPN 
+Cr, PROPN 
+OhhNi(l, NOUN 
+xx7, NOUN 
+treatment, NOUN 
+Ti, PROPN 
+sZro.2,Mno, PROPN 
+36Cr, NUM 
+2x, NUM 
+
+, SPACE 
+Ni, PROPN 
+treatment, NOUN 
+indicating, VERB 
+Ni, PROPN 
+enriched, VERB 
+surface, NOUN 
+layer, NOUN 
+
+, SPACE 
+formed, VERB 
+fluorination, NOUN 
+
+, SPACE 
+formation, NOUN 
+Ni, PROPN 
+rich, ADJ 
+surface, NOUN 
+caused, VERB 
+selective, ADJ 
+
+, SPACE 
+dissolution, NOUN 
+elements, NOUN 
+Zr, PROPN 
+Ti, PROPN 
+Mn, PROPN 
+Cr, PROPN 
+F-, PROPN 
+
+, SPACE 
+containing, VERB 
+solution, NOUN 
+treatment, NOUN 
+result, NOUN 
+contrary, ADJ 
+
+, SPACE 
+AB, PROPN 
+alloys, NOUN 
+LaF, NOUN 
+formation, NOUN 
+Ni, PROPN 
+dissolution, NOUN 
+
+, SPACE 
+treatment, NOUN 
+predominant, ADJ 
+La, PROPN 
+Ni, PROPN 
+Ce, PROPN 
+Ni, PROPN 
+phase, NOUN 
+understand, VERB 
+improved, ADJ 
+activation, NOUN 
+
+, SPACE 
+characteristics, NOUN 
+obtained, VERB 
+La, PROPN 
+Ce, PROPN 
+incorporation, NOUN 
+fluo-, NOUN 
+
+, SPACE 
+rination, NOUN 
+surface, NOUN 
+compositions, NOUN 
+fluorinated, VERB 
+La, PROPN 
+Ce, PROPN 
+incor-, NOUN 
+
+, SPACE 
+porated, VERB 
+samples, NOUN 
+analyzed, VERB 
+ESCA, PROPN 
+results, NOUN 
+
+, SPACE 
+illustrated, VERB 
+lower, ADJ 
+Figure, NOUN 
+3, NUM 
+La, PROPN 
+incorporated, VERB 
+
+, SPACE 
+sample, NOUN 
+Compared, VERB 
+core, NOUN 
+level, NOUN 
+spectra, NOUN 
+non, ADJ 
+
+, SPACE 
+La, PROPN 
+Ce, PROPN 
+incorporated, VERB 
+sample, NOUN 
+single, ADJ 
+peak, NOUN 
+Eb, NOUN 
+=, SYM 
+838, NUM 
+eV, NUM 
+
+, SPACE 
+La3d, ADJ 
+core, NOUN 
+level, NOUN 
+spectrum, NOUN 
+strong, ADJ 
+fluorine, NOUN 
+peak, NOUN 
+
+, SPACE 
+Eb, NOUN 
+=, NOUN 
+685, NUM 
+eV, NUM 
+FdSj2, PROPN 
+core, NOUN 
+level, NOUN 
+spectrum, NOUN 
+observed, VERB 
+
+, SPACE 
+additionally, ADV 
+result, NOUN 
+clarifies, VERB 
+existence, NOUN 
+LaF, PROPN 
+
+, SPACE 
+appears, VERB 
+surface, NOUN 
+increasing, VERB 
+sputtering, ADJ 
+time, NOUN 
+
+, SPACE 
+peak, NOUN 
+Eb, NOUN 
+=, SYM 
+838, NUM 
+eV, NUM 
+La3dX, PROPN 
+core, NOUN 
+level, NOUN 
+spectrum, NOUN 
+shifts, NOUN 
+
+, SPACE 
+Eb, PROPN 
+=, NOUN 
+836, NUM 
+eV, X 
+known, VERB 
+metallic, ADJ 
+La., PROPN 
+EPMA, PROPN 
+analysis, NOUN 
+
+, SPACE 
+confirmed, VERB 
+result4.6, X 
+showed, VERB 
+isolated, ADJ 
+La, PROPN 
+Ni, PROPN 
+
+, SPACE 
+CeeNi, PROPN 
+secondary, ADJ 
+phases, NOUN 
+dispersing, VERB 
+fractured, ADJ 
+particle, NOUN 
+
+, SPACE 
+surface, NOUN 
+covered, VERB 
+LaF, PROPN 
+noted, VERB 
+
+, SPACE 
+fluoride, ADJ 
+formation, NOUN 
+restricted, VERB 
+parts, NOUN 
+La, PROPN 
+Ni, PROPN 
+Ce--, PROPN 
+
+, SPACE 
+Ni, PROPN 
+secondary, ADJ 
+phases, NOUN 
+
+, SPACE 
+analysis, NOUN 
+clear, ADJ 
+fluo-, X 
+
+, SPACE 
+rination, NOUN 
+effective, ADJ 
+increasing, VERB 
+Ni, PROPN 
+distribution, NOUN 
+surface, NOUN 
+
+, SPACE 
+AB, PROPN 
+matrix, NOUN 
+phase, NOUN 
+simultaneously, ADV 
+forming, VERB 
+flu-, PROPN 
+
+, SPACE 
+orides, VERB 
+surface, NOUN 
+La, PROPN 
+Ni, PROPN 
+Ce+Ni, ADJ 
+secondary, ADJ 
+phase, NOUN 
+
+, SPACE 
+indicates, VERB 
+fluorination, NOUN 
+effects, NOUN 
+La, PROPN 
+Ce, PROPN 
+incor-, VERB 
+
+, SPACE 
+porated, VERB 
+AB, PROPN 
+alloys, NOUN 
+limited, VERB 
+fluoride, ADJ 
+formation, NOUN 
+
+, SPACE 
+lead, VERB 
+Ni, PROPN 
+enrichment, NOUN 
+surface, NOUN 
+AB1, PROPN 
+
+, SPACE 
+matrix, NOUN 
+hardly, ADV 
+protected, VERB 
+fluoride, NOUN 
+coating, NOUN 
+
+, SPACE 
+passive, ADJ 
+Zr, PROPN 
+Ti, PROPN 
+oxides, VERB 
+drying, VERB 
+air, NOUN 
+
+, SPACE 
+905, NUM 
+
+, SPACE 
+FJ, PROPN 
+Liu, PROPN 
+eta/, PROPN 
+Fluorinated, PROPN 
+Ti, PROPN 
+Zr)(Mn, PROPN 
+Cr, PROPN 
+Ni, PROPN 
+hydriding, VERB 
+alloys, NOUN 
+
+, SPACE 
+treatment, NOUN 
+surface, NOUN 
+reactivity, NOUN 
+deteriorated, VERB 
+exhibits, VERB 
+
+, SPACE 
+converse, NOUN 
+effect, NOUN 
+activation, NOUN 
+characteristics, NOUN 
+incor-, NOUN 
+
+, SPACE 
+porating, VERB 
+La, PROPN 
+Ce, PROPN 
+
+, SPACE 
+H2, PROPN 
+absorption, NOUN 
+mechanism, NOUN 
+improved, VERB 
+La, PROPN 
+Ce, PROPN 
+fluorinated, VERB 
+
+, SPACE 
+surface, NOUN 
+concluded, VERB 
+significant, ADJ 
+improvement, NOUN 
+
+, SPACE 
+activation, NOUN 
+characteristics, NOUN 
+La, PROPN 
+Ce, PROPN 
+incorporated, VERB 
+Ti, PROPN 
+Zr, PROPN 
+based, VERB 
+
+, SPACE 
+AB, PROPN 
+alloys, NOUN 
+strongly, ADV 
+related, VERB 
+formation, NOUN 
+La, PROPN 
+Ni, PROPN 
+Ce-, PROPN 
+
+, SPACE 
+Ni, PROPN 
+secondary, ADJ 
+phase, NOUN 
+dispersed, VERB 
+original, ADJ 
+AB2, PROPN 
+matrix, NOUN 
+
+, SPACE 
+fluorination, NOUN 
+La, PROPN 
+Ni, PROPN 
+Ce, PROPN 
+Ni, PROPN 
+phase, NOUN 
+forms, VERB 
+fluoride, NOUN 
+coating, NOUN 
+
+, SPACE 
+AB, PROPN 
+phase, NOUN 
+changes, VERB 
+layer, NOUN 
+composition, NOUN 
+Ni-, X 
+
+, SPACE 
+enriched, VERB 
+surface, NOUN 
+fluorinated, VERB 
+La, PROPN 
+Ni, PROPN 
+Ce, PROPN 
+Ni, PROPN 
+secondary, ADJ 
+
+, SPACE 
+phases, NOUN 
+provide, VERB 
+abundant, ADJ 
+number, NOUN 
+hydrogen, NOUN 
+uptake, NOUN 
+sites, NOUN 
+
+, SPACE 
+convert, VERB 
+molecular, ADJ 
+hydrogen, NOUN 
+monatomic, ADJ 
+hydrogen, NOUN 
+
+, SPACE 
+accelerate, VERB 
+initial, ADJ 
+activation, NOUN 
+Ni, PROPN 
+enriched, VERB 
+AB2, ADJ 
+phase, NOUN 
+acts, VERB 
+
+, SPACE 
+catalyst, NOUN 
+rapid, ADJ 
+conversion, NOUN 
+hydrogen, NOUN 
+mol-, X 
+
+, SPACE 
+ecules, NOUN 
+atoms, NOUN 
+easily, ADV 
+deactivated, VERB 
+shielding, NOUN 
+
+, SPACE 
+protection, NOUN 
+fluoride, ADJ 
+coating, NOUN 
+Hz, PROPN 
+absorption, NOUN 
+mechanism, NOUN 
+
+, SPACE 
+schematically, ADV 
+illustrated, VERB 
+Figure, NOUN 
+4, NUM 
+
+, SPACE 
+H2, PROPN 
+
+, SPACE 
+Solid, ADJ 
+phase, NOUN 
+Interface, PROPN 
+Gas, PROPN 
+phase, NOUN 
+
+, SPACE 
+Figure, PROPN 
+4, NUM 
+schematic, ADJ 
+model, NOUN 
+describing, VERB 
+H, PROPN 
+absorption, NOUN 
+mechanism, NOUN 
+
+, SPACE 
+fluorinated, VERB 
+La, PROPN 
+Ce, PROPN 
+incorporated, VERB 
+alloy, NOUN 
+surface, NOUN 
+Conclusions, NOUN 
+
+, SPACE 
+mixed, ADJ 
+phase, NOUN 
+structure, NOUN 
+composed, VERB 
+AB2, PROPN 
+Laves, PROPN 
+phase, NOUN 
+matrix, NOUN 
+
+, SPACE 
+highly, ADV 
+active, ADJ 
+La, PROPN 
+Ni, PROPN 
+Ce, PROPN 
+Ni, ADJ 
+secondary, ADJ 
+phase, NOUN 
+distributed, VERB 
+
+, SPACE 
+grain, NOUN 
+boundaries, NOUN 
+tiny, ADJ 
+islands, NOUN 
+obtained, VERB 
+incor-, NOUN 
+
+, SPACE 
+porating, VERB 
+small, ADJ 
+amounts, NOUN 
+La, PROPN 
+Ce, PROPN 
+Ti,5_utrZro, NUM 
+s_.,zMn, NOUN 
+8, NUM 
+
+, SPACE 
+La, PROPN 
+Ce),Cr,, PROPN 
+,Ni, PUNCT 
+alloys, NOUN 
+x, SYM 
+varying, VERB 
+0, NUM 
+0.05, NUM 
+
+, SPACE 
+La, PROPN 
+Ni, PROPN 
+Ce, PROPN 
+Ni, ADJ 
+secondary, ADJ 
+phases, NOUN 
+dispersed, VERB 
+fractured, ADJ 
+
+, SPACE 
+AB, PROPN 
+alloy, PROPN 
+surface, PROPN 
+act, NOUN 
+catalytic, ADJ 
+site, NOUN 
+rapid, ADJ 
+H2, PROPN 
+uptake, NOUN 
+
+, SPACE 
+fluorination, NOUN 
+effect, NOUN 
+La, PROPN 
+Ni, PROPN 
+Ce, PROPN 
+Ni, PROPN 
+sites, NOUN 
+fur-, X 
+
+, SPACE 
+ther, NOUN 
+improved, VERB 
+forming, VERB 
+reactive, ADJ 
+La, PROPN 
+Ce, PROPN 
+fluoride, ADJ 
+
+, SPACE 
+coating, NOUN 
+La, PROPN 
+Ni, PROPN 
+Ce, PROPN 
+Ni, ADJ 
+secondary, ADJ 
+phases, NOUN 
+
+, SPACE 
+poor, ADJ 
+surface, NOUN 
+AB2, PROPN 
+matrix, NOUN 
+phase, NOUN 
+changes, VERB 
+composition, NOUN 
+
+, SPACE 
+Ni, PROPN 
+enrichment, NOUN 
+effects, NOUN 
+contribute, VERB 
+individually, ADV 
+
+, SPACE 
+improvement, NOUN 
+activation, NOUN 
+kinetics, NOUN 
+enhancing, VERB 
+dis-, ADJ 
+
+, SPACE 
+sociative, ADJ 
+chemisorption, NOUN 
+H, PROPN 
+molecules, NOUN 
+H, NOUN 
+atoms, NOUN 
+
+, SPACE 
+summary, NOUN 
+clear, ADJ 
+difficulties, NOUN 
+fluo-, NOUN 
+
+, SPACE 
+rinating, NOUN 
+AB, PROPN 
+alloys, NOUN 
+overcome, VERB 
+incorporating, VERB 
+small, ADJ 
+
+, SPACE 
+rare, ADJ 
+earth, NOUN 
+elements, NOUN 
+La, PROPN 
+Ce, PROPN 
+non-, ADJ 
+
+, SPACE 
+stoichiometric, ADJ 
+manner, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+S, PROPN 
+Wakao, PROPN 
+H, PROPN 
+Sawa, PROPN 
+H, PROPN 
+Nakano, PROPN 
+S, PROPN 
+Chubachi, PROPN 
+M, PROPN 
+Abe, PROPN 
+J, PROPN 
+Common, PROPN 
+
+, SPACE 
+Metals, PROPN 
+131, NUM 
+311, NUM 
+1987, NUM 
+
+, SPACE 
+Y, PROPN 
+Moriwaki, PROPN 
+T, PROPN 
+Gamo, PROPN 
+Shintani, PROPN 
+T, PROPN 
+Iwaki, PROPN 
+Eur, PROPN 
+Patent, PROPN 
+0,293.660, PROPN 
+
+, SPACE 
+1988, NUM 
+
+, SPACE 
+3, X 
+M, NUM 
+Fetcenko, PROPN 
+S, PROPN 
+Venkatesan, PROPN 
+S, PROPN 
+R, PROPN 
+Oveshinsky, PROPN 
+EIec1rochemicaI, PROPN 
+
+, SPACE 
+Society, PROPN 
+Proc, PROPN 
+92, NUM 
+5, NUM 
+141, NUM 
+1992, NUM 
+
+, SPACE 
+4F, PROPN 
+J, PROPN 
+Liu, PROPN 
+G, PROPN 
+Sandrock, PROPN 
+S, PROPN 
+Suds, PROPN 
+Surface, PROPN 
+metallographic, ADJ 
+micro-, NOUN 
+
+, SPACE 
+structure, NOUN 
+La, PROPN 
+added, VERB 
+AB2, PROPN 
+compound, NOUN 
+Ti, PROPN 
+Zr)(Mn, PROPN 
+Cr, PROPN 
+Ni, PROPN 
+F, PROPN 
+J, PROPN 
+Liu, PROPN 
+
+, SPACE 
+S, PROPN 
+Suds, PROPN 
+F, NOUN 
+treatment, NOUN 
+effect, NOUN 
+hydriding, VERB 
+properties, NOUN 
+La, PROPN 
+sub-, NOUN 
+
+, SPACE 
+stituted, VERB 
+AB2, PROPN 
+compound, NOUN 
+Ti, PROPN 
+Zr)(Mn, PROPN 
+Cr, PROPN 
+Ni, PROPN 
+Ini, PROPN 
+Symp, PROPN 
+Melal, PROPN 
+Hydro-, PROPN 
+
+, SPACE 
+gen, PROPN 
+Systems, PROPN 
+Fundamentals, PROPN 
+Applications, PROPN 
+Nov., PROPN 
+611, NUM 
+1994, NUM 
+Japan, PROPN 
+
+, SPACE 
+J, PROPN 
+AlIoys, PROPN 
+Compounds, PROPN 
+press, NOUN 
+
+, SPACE 
+F, PROPN 
+J, PROPN 
+Liu, PROPN 
+S, PROPN 
+Suda, PROPN 
+G, PROPN 
+Sandrock, PROPN 
+J, PROPN 
+Alloys, PROPN 
+Compounds, PROPN 
+press, NOUN 
+
+, SPACE 
+6, NUM 
+K, PROPN 
+Kitayama, PROPN 
+D, PROPN 
+Komori, PROPN 
+F, PROPN 
+J, PROPN 
+Liu, PROPN 
+S, PROPN 
+Suds, PROPN 
+Research, PROPN 
+Reports, PROPN 
+qf, VERB 
+
+, SPACE 
+Kogakuin, PROPN 
+University, PROPN 
+78, NUM 
+63, NUM 
+1995, NUM 
+
+, SPACE 
+F, PROPN 
+J, PROPN 
+Liu, PROPN 
+G, PROPN 
+Sandrock, PROPN 
+S, PROPN 
+Suds, PROPN 
+J, PROPN 
+Alloys, PROPN 
+Compounds, PROPN 
+190, NUM 
+57, NUM 
+1992, NUM 
+
+, SPACE 
+X, PROPN 
+L, PROPN 
+Wang, PROPN 
+S, PROPN 
+Suds, PROPN 
+J, PROPN 
+Alloys, PROPN 
+Compounds, PROPN 
+194,73, NUM 
+1993, NUM 
+
+, SPACE 
+9S, NOUN 
+Suda, PROPN 
+H, PROPN 
+Fuse, PROPN 
+K, PROPN 
+Nakajima, PROPN 
+T, PROPN 
+Okazaki, PROPN 
+Hiromoto, PROPN 
+Research, PROPN 
+
+, SPACE 
+Reports, PROPN 
+Kogakuin, PROPN 
+University, PROPN 
+75,41, NOUN 
+1993, NUM 
+
+, SPACE 
+906, NUM 
+
+, SPACE 

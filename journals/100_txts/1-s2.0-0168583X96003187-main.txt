@@ -1,0 +1,446 @@
+Nuclear Instruments and Methods in Physics Research B I I7 (I 996) 42 I-427 
+s __ _- i!B ELFEVIER NOM B Beam Interactions 
+with Materials 8 Atoms 
+UV quantum efficiencies of organic fluors 
+C.H. Lally, G.J. Davies * , W.G. Jones, N.J.T. Smith 
+Blucketi Luborurory. Imperiul College, Prince Consort Road. London, SW7 282. UK 
+Received 2 1 November 1995; revised form received 13 February 1996 
+Abstract 
+The need for, and benefits of using, wavelength shifters with certain dark matter scintillator detectors is discussed. The 
+dependence of conversion efficiency on thickness and incident wavelength is extensively investigated for evaporated 
+coatings of p-terphenyl and tetraphenyl butadiene, and for plastic waveshifters based upon p-terphenyl. For the latter the 
+effect of varying the p-terphenyl concentration is studied and some factors which must be considered when developing them 
+for use in the UV are also discussed. 
+1. Introduction 
+Whereas dark matter detectors based on ionization in 
+semiconductors and low temperature bolometric tech- 
+niques have been under study since 1985 [I], only recently 
+has the use of scintillators become widespread [2]. They 
+are suitable for scale-up (and hence annual modulation 
+experiments) and may offer significant discrimination of 
+the nuclear recoil signal from the background 
+electron/gamma events via differences in the pulse shape 
+of the scintillation light [3]. As the expected energy deposit 
+for a recoiling nucleus from a dark matter event is small, 
+scintillators with high light output, such as liquid xenon 
+(LXe) and sodium iodide (NaI) are required. Thus the most 
+important parameter limiting sensitivity in these detectors 
+becomes the light collection efficiency, as this determines 
+the achievable energy threshold and the discriminatory 
+power. However, because all or some of the scintillation 
+light is in the UV region for both detectors (175 nm for 
+LXe and 300 nm for pure NaI) several problems can arise 
+in achieving a good collection efficiency: 
+(I) UV sensitive photomultiplier tubes (PMTs) are 
+required which are more radioactive necessitating a long 
+(y 30 cm) lightguide. 
+(2) The lightguides needed to separate the PMTs from 
+the target lose light through high UV attenuation and poor 
+UV reflectance. 
+(3) Light will not emerge from the target vessel due to 
+the poor UV reflectance of the walls. 
+* Corresponding author. Fax: (44) I71 823 8830, E-mail: 
+g.j.davies@ic.ac.uk. These problems can be avoided and substantial gains in 
+light collection made if the light is shifted to the visible 
+region via a wavelength shifter (WLS). These fluors ab- 
+sorb light in the UV and re-emit at longer wavelengths. 
+Some aromatic organic compounds fluoresce when their 
+n-orbital electrons are excited, either by ionizing particles 
+or UV radiation [4]. Electrons excited to the vibrational 
+states of the first excited state (S,) relax within picosec- 
+onds to the lowest lying level of S, before decaying to the 
+ground state with the radiation of a photon at the com- 
+pound’s characteristic emission wavelength, see Fig. I. In 
+plastic scintillators, the binder in which the WLS is dis- 
+solved, must also have a n-electron saucture, and absorbs 
+the incident energy. If the concentration of the wavelength 
+shifting solute is high enough this energy is transferred by 
+non-radiative dipole-dipole interactions to its excited lev- 
+els producing fluorescence [5]. The transfer is efficient if 
+there is good overlap between the binder’s emission spec- 
+trum and the absorption spectrum of the solute. Energy 
+transfer to further solutes is possible, allowing the final 
+light to be shifted to even longer wavelengths. 
+Traditionally these fluors have been applied by vacuum 
+evaporation from powder form and so can be applied 
+directly to crystal faces, target vessel walls or the front 
+face of lightguides or photomultipliers [6]. It is possible to 
+tune the final emission wavelength of the shifter to a 
+detector’s optimum sensitivity (u 400 nm for a conven- 
+tional photomultiplier) either directly by selecting a single 
+suitable compound or by adding a secondary shifter to 
+further increase the final wavelength of the light (a ternary 
+system). More recently they have been dissolved in plastic 
+binders offering greater rigidity, higher wavelength shifter 
+concentrations and making the production of ternary sys- 
+terns easier. 
+0168-583X/96/$15.00 Copyright 0 1996 Published by Elsevier Science All rights reserved 
+PII SO 168-583X(96)0031 8-7 
+422 C.H. Lully et ul./Nucl. Instr. cmd Meth. in Phys. Res. B II7 (1996) 42/-427 
+$2: 
+s, ‘- so0 -- k c 2 ‘Z .Y 
+iu E w 
+. - - - 
+. - - - 
+.--- - 
+Fig. I. Energy levels of an organic molecule with ff-electron 
+structure. _---__ 
+.----- 
+.----- 
+.---__ We have produced evaporated samples of p-terphenyl 
+(TPH) and tetraphenyl butadiene (TPB) and obtained plas- 
+tic samples, based upon TPH, of varying thickness from 
+NE Technologies [7] and BICRON [8]. For each we have 
+measured its conversion efficiency as a function of inci- 
+dent wavelength and its emission spectrum. 
+2. Method 
+Coatings of a range of thicknesses were produced using 
+the evaporation chamber shown in Fig. 2. The wavelength 
+shifting powder is heated in a nickel foil boat and the 
+evaporated fluor is deposited on a glass slide near the top 
+of the evacuated chamber. The thickness of the coating is 
+controlled by interposing a mechanical shutter in front of 
+the glass slide when the attenuation of a light beam by the 
+coated slide has reached a pre-set level. Samples whose 
+thicknesses have been measured directly by weighing are 
+used to obtain the light attenuation coefficient from a plot 
+of light attenuation against thickness. The evaporations 
+were made at a pressure of l-l.5 X IO-’ Torr; improving 
+the vacuum to I X 10m2 Torr did not improve the conver- 
+sion efficiency of the fluors. TPB goes through a liquid 
+Detector - 
+(silicon diode) - Filter 
+Glass slide to be 
+Motor to rotate 
+* w 
+35 cm 
+Fig. 2. Evaporation chamber. 
+C.H. Lally et al./Nucl. Instr. and Meth. in Phys. Res. B 117 (1996) 421-427 423 
+phase when heated whereas TPH sublimes; the bubbling light from a deuterium lamp (D,) passes through a 185 nm 
+which occurs during this liquid phase can lead to poor interference filter (25 nm FWHM bandwidth) onto the 
+quality coatings unless controlled. Thus the heating profile WLS. The emitted (isotropic) light is then focused by a 
+for TPB must be adjusted according to the amount of lens, via the grating, onto a calibrated photomultiplier 
+powder to be evaporated making it a more difficult com- tube. We needed to use a PMT instead of a diode as the 
+pound to evaporate uniformly. amount of shifted light reaching the exit was very low. 
+The plastic samples were based upon a primary WLS 
+of TPH of varying concentration, with POPOP as the usual 
+secondary shifter, in a polyvinyltoluene (PVT) binder. 
+Thicknesses of 40 pm to 5 mm were tested. 
+We have measured the output spectrum of the WLS 
+using a specially adapted monochromator (Fig. 3a): The The conversion efficiency of the WLS is measured 
+using the monochromator but in a different configuration 
+(Fig. 3b): This time the light from the D, lamp passes 
+directly to the grating which is set to reflect a particular 
+wavelength of light onto the monochromator exit. This 
+light is then first measured by a calibrated, UV sensitive 
+diode (to calculate the flux of UV photons at the exit) and 
+then, after rotating the diode mount, is shone onto the 
+WLS sample which is fixed directly in front of a second 
+calibrated diode (from which we can estimate the flux of 
+wavelength shifted photons). The external quantum effi- 
+ciency (defined as the number of photons emitted divided 
+by the number of incident photons) can then be calculated 
+by correcting for the different active areas of the two 
+diodes, the quantum efficiencies of the diodes at the 
+relevant wavelengths, the solid angle of the isotropic shifted 
+light that the second diode ‘sees’, and the various reflec- 
+tive and refractive processes that the shifted light under- 
+goes before reaching the diode surface. Values of 1.3 and 
+1.5 were taken for the refractive indices of the evaporated 
+coatings and plastics, respectively. Although these correc- 
+tion factors can carry significant systematic errors, they are 
+the same for each type of shifter (evaporated or plastic) 
+and hence a comparison of different evaporated or plastic 
+shifters is insensitive to them. (4 Calibrated PMT 
+n 
+I 
+Grating I Deuterium Lamp 
+WLS Sample 
+Calibrated Diodes 
+Rotatable Mount 
+, 
+Grating Deuterium Lamp 
+Fig. 3. (a) Schematic of monochromator set-up for measuring 
+emission spectra. (b) Schematic of monochromator set-up for 
+measuring conversion efficiency. The self-attenuation of the evaporated coatings was 
+tested by illuminating them with light whose wavelength 
+equalled that at their peak emission. 
+3. Results 
+Fig. 4a, b gives the emission spectra for TPH and TPB 
+and is in fairly good agreement with earlier measurements 
+quoted in the literature [7,9]. We have observed that, as 
+would be expected, this emission spectrum does not vary 
+with WLS thickness or wavelength of incident light (even 
+for light incident with a higher energy than the fluors 
+primary absorption band). 
+Fig. 5a, b shows their external quantum efficiency for 
+incident light of 175 nm versus thickness. The errors here, 
+as for all other graphs, are dominated by the systematic 
+uncertainty (- 15%) in the quantum efficiencies of the 
+diodes arising from the uncertainties in the intensity of the 
+light source with which they were calibrated. We took 
+advantage of TPH’s more gentle decrease in efficiency 
+with thickness to make a crude evaporation onto the 
+cylindrical walls of a small LXe test cell (a protective 
+transparent layer of magnesium fluoride was placed over 
+424 C.H. Lally et at./Nuci. Imtr. and Meth. in Phys. Res. 3 117 (1996) 421-427 
+the shifter to prevent contamination of the LXe). Scintilla- 
+tion light was observed but some of the TPH migrated to 
+unprotected surfaces. Whilst this problem is solvable it 
+illustrates an advantage of plastic shifters over evaporated 
+coatings. 
+Fig. 6a, b shows the transmittance of TPH and TPB 
+coatings at their emission wavelengths (335 nm and 440 
+nm, respectively) as a function of thickness. Clearly the 
+attenuation of the longer light by the TPB is far greater 
+than the attenuation of the shorter light by the TPH. 
+Fig. 7a, b shows the external quantum efficiency as a 
+function of wavelength for two samples of approximately 
+optimum thickness. We believe the peak in the efficiency 
+of TPH at about 260 nm corresponds to this fluor’s S, 
+absorption peak (i.e. transitions from the ground state to 
+the first excited state) which occurs at this wavelength [4]. 
+The absorption of light by TPB is far more rapid than by 
+TPH, as supported by Fig. 5 and 6, and all the incident 
+light at all wavelengths is fully absorbed by the sample. 
+Thus, in contrast to TPH, we believe we cannot directly 
+see the fluor’s absorption peaks; the 5, absorption peak for 
+TPB occurs at about 340 nm [4]. Mechanisms (M,) exist 
+[4] whereby a molecule which absorbs an incident photon 
+of energy greater than that required to excite a single 
+electron to the lowest S, level can excite a further electron 
+1 50( 
+Wavelength (nm) 
+a ~~~~~~~~_.~..~_~~~L 
+450 500 550 
+Wavelength (nm) 
+Fig. 4. Emission spectra for TPH and TPB with 185 nm wave- 
+length incident light. 08 1 1.2 1.4 
+Thickness br+-n?) 
+0.5 0.6 0.7 
+Thickness (mg/cm? 
+Fig. 5. External quantum efficiency versus thickness of TPH and 
+TPB for 175 nm incident light. 
+in a neighboring molecule. These processes can be qualita- 
+tively represented by 
+s **+s+s*+s*, 
+where S signifies a WLS molecule. For M, to be signifi- 
+cant, the molecular density must be high and the time 
+taken for the usual thermal dissipation of this excess 
+energy relatively long. We suggest that, as one approaches 
+the energy required for excitation to 5, (the second excited 
+energy level) the likelihood of M, increases. However, the 
+higher energy S, vibrational states will be shorter lived 
+and fall more rapidly to the lowest S, level. Therefore, for 
+a given molecular density, there will be an optimum 
+energy at which these further excitations can occur. Thus 
+we conjecture that the greater than 100% external quantum 
+efficiency peaks at 175 nm and - 275 nm for TPH and 
+TPB in Figs. 5a and 7b respectively are explained by the 
+above processes. 
+A number of the TPH and TF’B samples were repeat- 
+edly retested over a six month period. During this time 
+they were sealed in petri dishes and kept in a dark cup- 
+board (to avoid the large degradation which would result 
+from a continuous exposure to sunlight). Fig. 8a, b shows 
+C.H. Lally et al./Nucl. Instr. and Meth. in Phys. Res. B II? (19%) 421-427 425 
+the ageing effects at the end of this period due to oxidation 
+and hydration for the two fluors, random errors are shown 
+only. The deterioration occurred steadily and is worse at 
+the optimum thickness of the WLS and corresponds to a 
+decrease in efficiency of lo-1.5%. It should be noted that, 
+in contrast to some previous published results 161, the 
+ageing of TPB appears to be no worse than that of TPH. 
+Fig. 9 shows the external quantum efficiency versus 
+wavelength for three of the plastic shifters. The random 
+error alone is plotted on the lower graph to illustrate the 
+significance of the differences between the samples. The 
+most efficient plastic, denoted by ‘0.2 mm, 30% enriched 
+TPH’, contained 30% more p-terphenyl than usual and 
+was 0.2 mm thick. The conversion efficiency decreases as 
+either the concentration of TPH is decreased, see the curve 
+‘0.2 mm’, or as the thickness of the sample is increased, 
+see curve ‘2 mm 30% enriched TPH’. As mentioned 
+previously, for a plastic wavelength shifter, the energy is 
+absorbed by the binder and transferred non-radiatively to 
+the primary shifter, TPH in our case. As this process is of 
+a finite range, and the concentration of TPH limited, one is 
+sensitive to the structure of its absorption spectrum. We 
+believe that the resulting external quantum efficiency ver- 
+sus wavelength curve can be explained as follows: 
+1 1.2 1 .4 
+Thickness (mg/cm*) 
+0:2 0:3 
+Thickness (mg/cm2) 
+Fig. 6. Transmittance of TPH and TPB versus thickness at their 
+respective emission wavelengths. 200 220 240 260 260 
+Wavelength km) 
+160 200 240 280 320 360 
+Wavelength (nm) 
+Fig. 7. External quantum efficiency versus incident wavelength 
+for TPH and TPB for two samples of approximately optimum 
+thickness. 
+For incident wavelengths around 280 nm the energy is 
+absorbed by the S, vibrational states of the PVT. and with 
+little energy loss falls to the S, ground state from where it 
+is efficiently transferred to the broad S, absorption peak of 
+the TPH at 280 nm. 
+For incident wavelengths around 210 nm, the energy is 
+absorbed by the S, vibrational states of the PVT. and with 
+more significant loss falls to the S, ground state which is 
+at a lower energy than the very narrow S, absorption peak 
+in the TPH at 210 nm. Indeed, as the TPH has a minimum 
+in absorption at 230 nm, the energy transfer to the TPH is 
+inefficient and the resulting conversion efficiency low in 
+this wavelength region. 
+However, for incident wavelengths around 170 nm, the 
+energy absorption proceeds via the S, states in the PVT. 
+which lie at slightly higher energy than the TPH S, states, 
+allowing efficient energy transfer to the TPH S, energy 
+level. Thus we see an increase in the conversion efficiency 
+in this region. 
+As the concentration of TPH is increased so is the 
+efficiency of the energy transfer from the PVT to it; thus 
+higher TPH concentrations yield higher conversion effi- 
+ciencies. Some of the light emitted by the POPOP i.e. light 
+426 C.H. Lally et al./Nucl. Instr. and Meth. in Phys. Res. B I17 (1996) 421-427 
+_c Original QE 
+(1 b Liui-L -i-u ..-. i-L-uLiuL-.- -i 0 0.1 0.2 03 0.4 0.5 0.6 0.7 
+Thickness (mg/cm2) 
+Fig. 8. Deterioration in efficiency of TPH and TPB after a six 
+month period (175 nm incident light). 
+at the final, detected wavelength (- 400 nm) will be 
+absorbed by the PVT. Hence, as all wavelengths of inci- 
+dent light are absorbed within the first few tens of microns, 
+the ‘0.2 mm 30% enriched TPH’ sample is more efficient 
+than the corresponding 2 mm one due to reduced absorp- 
+tion of the 400 nm light by the PVT. The absorption of 
+light in the PVT was confirmed by measuring the transmit- 
+tance of a pure PVT sample, see Fig. 10. The transmit- 
+tance below 295 nm is consistent with zero. 
+To further investigate the possible improvement with 
+thinner plastic binders, enriched 100 pm samples and 40 
+pm samples with the usual TPH concentrations were 
+tested. Fig. 11 shows the result for one of the 100 pm 
+thick samples. The attenuation length ( - 20 mm at - 400 
+nm) calculated from Fig. 10 would suggest that there 
+should be little difference between the enriched 200 and 
+100 pm samples as is indeed observed at wavelengths 
+above - 240 nm. There is however a significant improve- 
+ment at the shortest wavelengths. The efficiency of the 40 
+pm thick samples was considerably less, especially at the 
+shortest wavelengths, than that of the 0.2 mm sample with 
+the equivalent TPH concentration. These two effects can 
+be explained in terms of depletion regions which contain 
+little or no TPH. These have been observed by the manu- 0.2 mm 30% enriched TPH 
+60 
+40 
+20 
+170 190 210 230 250 270 290 310 
+Wavelength (nm) 
+Fig. 9. External quantum efficiency versus wavelength for TPH + 
+POPOP of varying concentration in PVT binders of different 
+thicknesses. 
+facturer to form at the faces of the plastic binder when 
+either very thin samples with the usual TPH concentrations 
+are produced directly (i.e. the 40 pm samples) or when 
+samples with very high TPH concentrations of any thick- 
+ness are produced. 
+Thus we suggest the effect of the depletion regions in 
+the 40 p.m samples is more strongly felt by the shorter 
+60 
+0 
+200 250 300 350 400 450 560 
+Wavelength (nm) 
+Fig. 10. Transmittance versus wavelength of a 10 mm pure PVT 
+sample. 
+C.H. Lally et al./ Nucl. Instr. und Meth. in Phys. Res. B I I7 (1996) 421-427 427 
+0 1 1~‘~1~‘~‘~1~1~‘~/~1”~‘,‘~‘~’ 170 190 210 230 250 270 290 310 
+Wavelength (nm) 
+Fig. 11. External quantum efficiency versus wavelength for an 
+enriched TPH + POPOP sample in a I00 pm PVT binder. 
+wavelengths because, as they are absorbed more rapidly in 
+the PVT, they are unable to reach the undepleted region. 
+The 100 pm enriched .samples were produced by com- 
+pressing thicker samples. As a result of this thinning 
+process, the depth of the depletion regions in the 100 pm 
+samples was reduced such that short wavelengths are able 
+to traverse it. 
+We have recently successfully operated plastic wave- 
+length shifter disks in the cooled (160 K), pure NaI 
+(scintillation at 300 and 420 nm) detector as used under- 
+ground. The disks were placed between the crystal and the 
+lightguides. The discrimination achieved with non-UV sen- 
+sitive tubes was equal to that with UV sensitive ones, 
+indicating that the latter can be replaced with lower back- 
+ground tubes in conjunction with a WLS. Furthermore, 
+their lower radioactivity means that the lightguides can be 
+shortened, improving the light collection and hence both 
+the experiments sensitivity and discriminatory power. 
+4. Conclusions 
+As expected, the conversion efficiency of both TPB and 
+TPH is high at very short wavelengths [6,10,11]. Thus both 
+fluors should allow the construction of a detector without 
+needing a UV reflector, although TPH would require a 
+secondary shifter for use with a low activity borosilicate 
+PMT this is most easily achieved with a plastic shifter. 
+The optimum thicknesses are 0.3 mg/cm2 for TPH and 
+0.07 mg/cm2 for TPB, similar to previous measurements 
+although there is variation in the literature [6,1 l]. The 
+thinner optimum thickness and faster fall-off of TPB are 
+easily explained by its greater self-attenuation as seen from 
+Fig. 6. 
+The efficiency of the plastic shifters is maximised by 
+using the highest possible TPH concentration. Although it 
+is better to reduce the binder thickness as much as possible 
+care must be taken as to how this is done; it would appear that the best method is simply to compress thicker samples 
+to minimise the depth of any depletion regions. 
+An interesting possibility currently under investigation 
+is a plastic shifter based upon TPB alone. Such a shifter 
+would not need a secondary fluor as the TPB emits 
+directly at 440 nm, thus avoiding the loss of efficiency in 
+the transfer from primary to secondary shifter and perhaps 
+benefiting from the greater overlap of the TPB and PVT 
+energy levels. An extension of this, as suggested in [12], 
+would be a mixture of shifters with overlapping absorption 
+bands to minimise the poor overlap between PVT and a 
+single fluor at certain wavelengths. 
+Acknowledgements 
+We gratefully thank NE and BICRON for their plastic 
+waveshifter samples. We sincerely thank the mechanical 
+and electrical workshops in the HEP group for the con- 
+struction of the evaporation chamber, and in particular M. 
+Khalecq and V. Kasey for their assistance in producing the 
+samples; our thanks also go to S. Jagger for her help and 
+good humor. GJD would like to acknowledge the support 
+of PPARC under the post doctoral fellowship scheme. 
+References 
+[I] P.F. Smith and J.D. Lewin, Phys. Rep. 187 (1990) 203; 
+J. Primack et al., Ann. Rev. Nucl. Sci. 38 ( 1988) 75 1. 
+[2] P.F. Smith, Review talk, 227, Proc. 1st Intern. Symp. on 
+Sources of Dark Matter in the Universe, ed. D. Cline (World 
+Scientific, Singapore, 1995); 
+C. Bacci et al., Phys. Lett. B 293 (1992) 460; 
+G. Gerbier, Proc. XXVI Rencontrc de Moriond (Editions 
+Frontieres, Gif-mu-Yvette) p. 470. 
+[3] G.J. Davies, J.D. Davies, J.D. Lewin, P.F. Smith and W.G. 
+Jones, Phys. Lett. B 320 (1994) 395; 
+N.J.C. Spooner and P.F. Smith, Phys. Lett. B 314 (19931 
+430. 
+[4] X. Berlman, Handbook of Fluorescence Spectra of Aromatic 
+Molecules, 2nd Ed. (Academic Press, New York). 
+[5] Th. Forster, Ann. Physik. 2 (1948) 55. 
+[6] M. Brunet, M. Cantin, C. Julliot and J. Vasseur, J. Phys. 
+Appl. 24 (1%3) 53a. 
+[7] NE Technology ltd., Bankhead Medway. Sighthill Industrial 
+Estate, Edinburgh, EHl 1 4BY. 
+[8] BICRON, P.O. Box 3093, 3760 DB Soest, The Netherlands; 
+BICRON, 12345 Kinsman Road, Newbury, OH 44065, USA. 
+[9] T.A. DeVol, D.K. Wehe and G.F. Knoll, Nucl. Instr. and 
+Meth. A 327 (1993) 354. 
+[lo] Trinh Thi Hoang Mai and R. Doubt, Appl. Opt. IO (1971) 
+207. 
+[I 11 M. Grande and G.R. Moss, Nucl. Instr. and Meth. 215 (1983) 
+539. 
+[ 121 W. Viehamnn and R.L. Frost, Nucl. Instr. and Meth. 167 
+( 1979) 405. 

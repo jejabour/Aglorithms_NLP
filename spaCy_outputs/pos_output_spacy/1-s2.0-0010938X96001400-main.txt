@@ -1,0 +1,3923 @@
+Pergamon, PROPN 
+Corrosion, PROPN 
+Science, PROPN 
+Vol, PROPN 
+38, NUM 
+3, NUM 
+pp, PROPN 
+431, NUM 
+441, NUM 
+1996, NUM 
+
+, SPACE 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+0010, NUM 
+938X196, NUM 
+$, SYM 
+15.00, NUM 
++, NUM 
+0.00, NUM 
+
+, SPACE 
+0010, NUM 
+938X(96)00140, NUM 
+9, NUM 
+
+, SPACE 
+DIRECT, PROPN 
+OBSERVATION, PROPN 
+ANODIC, PROPN 
+Bi203, PROPN 
+FORMED, PROPN 
+
+, SPACE 
+BISMUTH, PROPN 
+AMMONIUM, PROPN 
+DIHYDROGEN, PROPN 
+PHOSPHATE, PROPN 
+
+, SPACE 
+SOLUTION, PROPN 
+
+, SPACE 
+K., PROPN 
+SHIMIZU, PROPN 
+K., PROPN 
+KOBAYASHI, PROPN 
+P., PROPN 
+SKELDON,+, PROPN 
+G.E., PROPN 
+THOMPSON+, PROPN 
+
+, SPACE 
+G.C., PROPN 
+WOOD+, PROPN 
+
+, SPACE 
+Department, PROPN 
+Chemistry, PROPN 
+Faculty, PROPN 
+Science, PROPN 
+Technology, PROPN 
+Keio, PROPN 
+University, PROPN 
+3, NUM 
+14, NUM 
+l, NOUN 
+Hiyoshi, PROPN 
+Yokohama, PROPN 
+223, NUM 
+
+, SPACE 
+Japan, PROPN 
+
+, SPACE 
+Corrosion, PROPN 
+Protection, PROPN 
+Centre, PROPN 
+University, PROPN 
+Manchester, PROPN 
+Institute, PROPN 
+Science, PROPN 
+Technology, PROPN 
+Manchester, PROPN 
+
+, SPACE 
+M60, PROPN 
+lQD, NOUN 
+U.K., PROPN 
+
+, SPACE 
+Abstract, PROPN 
+relatively, ADV 
+thin, ADJ 
+bismuth, NOUN 
+layer, NOUN 
+sputter, NOUN 
+deposited, VERB 
+oxide, NOUN 
+coated, VERB 
+microscopically, ADV 
+flat, ADJ 
+
+, SPACE 
+aluminium, NOUN 
+substrate, NOUN 
+ultramicrotomed, ADJ 
+sections, NOUN 
+anodic, ADJ 
+B&O3, PROPN 
+prepared, VERB 
+successfully, ADV 
+allowing, VERB 
+direct, ADJ 
+
+, SPACE 
+observation, NOUN 
+film, NOUN 
+section, NOUN 
+transmission, NOUN 
+electron, NOUN 
+microscope, NOUN 
+important, ADJ 
+features, NOUN 
+observed, VERB 
+
+, SPACE 
+anodic, ADJ 
+oxide, NOUN 
+film, NOUN 
+formed, VERB 
+ammonium, NOUN 
+dihydrogen, NOUN 
+phosphate, NOUN 
+solution, NOUN 
+film, NOUN 
+essentially, ADV 
+amorphous, ADJ 
+
+, SPACE 
+consists, VERB 
+distinct, ADJ 
+layers, NOUN 
+different, ADJ 
+compositions, NOUN 
+comprising, VERB 
+inner, ADJ 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+located, VERB 
+adjacent, ADJ 
+
+, SPACE 
+metal, NOUN 
+outer, ADJ 
+layer, NOUN 
+doped, VERB 
+phosphate, ADJ 
+anions, NOUN 
+ionic, ADJ 
+conductivity, NOUN 
+outer, ADJ 
+electrolyte, NOUN 
+doped, VERB 
+
+, SPACE 
+layer, NOUN 
+considerably, ADV 
+lower, ADJ 
+inner, ADJ 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+effect, NOUN 
+incorporated, VERB 
+phosphate, ADJ 
+anions, NOUN 
+
+, SPACE 
+ionic, ADJ 
+conductivity, NOUN 
+oxide, NOUN 
+considerably, ADV 
+greater, ADJ 
+reported, VERB 
+previously, ADV 
+amorphous, ADJ 
+anodic, ADJ 
+
+, SPACE 
+oxides, NOUN 
+tantalum, NOUN 
+niobium, NOUN 
+
+, SPACE 
+Keywords, NOUN 
+B., PROPN 
+TEM, PROPN 
+C., PROPN 
+anodic, ADJ 
+films, NOUN 
+
+, SPACE 
+INTRODUCTION, NOUN 
+
+, SPACE 
+pioneering, VERB 
+work, NOUN 
+Guritherschulze, PROPN 
+Betz, PROPN 
+early, ADJ 
+1930s, NUM 
+anodic, ADJ 
+oxidation, NOUN 
+
+, SPACE 
+valve, NOUN 
+metals, NOUN 
+subject, NOUN 
+widespread, ADJ 
+study, NOUN 
+practical, ADJ 
+
+, SPACE 
+fundamental, ADJ 
+importance.2d, PROPN 
+generally, ADV 
+accepted, VERB 
+ionic, ADJ 
+transport, NOUN 
+processes, NOUN 
+
+, SPACE 
+involved, VERB 
+anodic, ADJ 
+oxide, NOUN 
+growth, NOUN 
+considerably, ADV 
+complex, ADJ 
+previously, ADV 
+thought, VERB 
+
+, SPACE 
+aluminium, NOUN 
+tantalum, NOUN 
+niobium, NOUN 
+anodic, ADJ 
+oxides, NOUN 
+amorphous, ADJ 
+oxide, NOUN 
+
+, SPACE 
+growth, NOUN 
+involves, VERB 
+high, ADJ 
+field, NOUN 
+assisted, VERB 
+co, ADJ 
+operative, ADJ 
+transport, NOUN 
+metal, NOUN 
+oxygen, NOUN 
+ions, NOUN 
+
+, SPACE 
+new, ADJ 
+oxide, NOUN 
+growth, NOUN 
+occurring, VERB 
+simultaneously, ADV 
+oxide, NOUN 
+electrolyte, NOUN 
+metal, NOUN 
+oxide, NOUN 
+
+, SPACE 
+interfaces.5, PROPN 
+10, NUM 
+particular, ADJ 
+mode, NOUN 
+oxide, NOUN 
+growth, NOUN 
+anodic, ADJ 
+oxide, NOUN 
+films, NOUN 
+
+, SPACE 
+metals, NOUN 
+generally, ADV 
+exhibit, VERB 
+duplex, NOUN 
+structures, NOUN 
+taking, VERB 
+dissolution, NOUN 
+oxide, NOUN 
+
+, SPACE 
+account, NOUN 
+cases, NOUN 
+incorporated, ADJ 
+anion, NOUN 
+species, NOUN 
+immobile, ADJ 
+proportion, NOUN 
+
+, SPACE 
+outer, ADJ 
+anion, NOUN 
+doped, VERB 
+layer, NOUN 
+total, ADJ 
+film, NOUN 
+thickness, NOUN 
+gives, VERB 
+transport, NOUN 
+number, NOUN 
+metal, NOUN 
+
+, SPACE 
+ions, NOUN 
+key, ADJ 
+factors, NOUN 
+understanding, VERB 
+microscopic, ADJ 
+processes, NOUN 
+ionic, ADJ 
+
+, SPACE 
+transport, NOUN 
+anodic, ADJ 
+oxide, NOUN 
+growth, NOUN 
+Consequently, ADV 
+considerable, ADJ 
+attention, NOUN 
+paid, VERB 
+
+, SPACE 
+previously, ADV 
+duplex, NOUN 
+structure, NOUN 
+anodic, ADJ 
+oxide, NOUN 
+films, NOUN 
+anion, NOUN 
+incorporation, NOUN 
+
+, SPACE 
+amorphous, ADJ 
+anodic, ADJ 
+oxide, NOUN 
+films, NOUN 
+investigated, VERB 
+detail, NOUN 
+
+, SPACE 
+films, NOUN 
+aluminium,13-‘7, NOUN 
+tantalum,11212~18, NUM 
+niobium.11, PROPN 
+19, NUM 
+
+, SPACE 
+Manuscript, PROPN 
+received, VERB 
+30, NUM 
+June, PROPN 
+1995, NUM 
+
+, SPACE 
+431, NUM 
+
+, SPACE 
+432, NUM 
+K., PROPN 
+Shimizu, PROPN 
+et, NOUN 
+al, PROPN 
+
+, SPACE 
+present, ADJ 
+work, NOUN 
+anion, NOUN 
+incorporation, NOUN 
+anodic, ADJ 
+oxide, NOUN 
+film, NOUN 
+grown, VERB 
+bismuth, NOUN 
+
+, SPACE 
+sodium, NOUN 
+dihydrogen, NOUN 
+phosphate, NOUN 
+solution, NOUN 
+investigated, VERB 
+transmission, NOUN 
+electron, NOUN 
+
+, SPACE 
+microscopy, NOUN 
+ultramicrotomed, ADJ 
+sections, NOUN 
+Bismuth, PROPN 
+selected, VERB 
+anodic, ADJ 
+oxide, NOUN 
+
+, SPACE 
+films, NOUN 
+known, VERB 
+amorphous, ADJ 
+field, NOUN 
+strengths, NOUN 
+required, VERB 
+usual, ADJ 
+range, NOUN 
+
+, SPACE 
+ionic, ADJ 
+currents, NOUN 
+considerably, ADV 
+10w,~, ADJ 
+1, NUM 
+.O, NOUN 
+x, NOUN 
+lo6, NOUN 
+V, PROPN 
+cm, PROPN 
+1, NUM 
+mA, NOUN 
+cm, PROPN 
+25, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+compared, VERB 
+6.2, NUM 
+x, SYM 
+lo6, NOUN 
+V, PROPN 
+cm, PROPN 
+tantalum, NOUN 
+8.2, NUM 
+x, SYM 
+lo6, NOUN 
+V, PROPN 
+cm, PROPN 
+aluminium, NOUN 
+
+, SPACE 
+conditions2, NOUN 
+low, ADJ 
+fields, NOUN 
+oxide, NOUN 
+growth, NOUN 
+bismuth, NOUN 
+lead, VERB 
+differences, NOUN 
+
+, SPACE 
+ionic, ADJ 
+transport, NOUN 
+processes, NOUN 
+compared, VERB 
+aluminium, NOUN 
+example, NOUN 
+important, ADJ 
+
+, SPACE 
+determine, VERB 
+growth, NOUN 
+amorphous, ADJ 
+anodic, ADJ 
+oxide, NOUN 
+films, NOUN 
+bismuth, NOUN 
+proceeds, NOUN 
+
+, SPACE 
+co, ADJ 
+operative, ADJ 
+movement, NOUN 
+metal, NOUN 
+oxygen, NOUN 
+ions, NOUN 
+resulting, VERB 
+growth, NOUN 
+oxides, NOUN 
+
+, SPACE 
+duplex, NOUN 
+structures, NOUN 
+similar, ADJ 
+observed, VERB 
+films, NOUN 
+aluminium, NOUN 
+tantalum, NOUN 
+
+, SPACE 
+niobium, NOUN 
+Ammonium, NOUN 
+dihydrogen, NOUN 
+phosphate, NOUN 
+solution, NOUN 
+selected, VERB 
+anodizing, NOUN 
+
+, SPACE 
+electrolyte, VERB 
+phosphate, ADJ 
+anion, NOUN 
+readily, ADV 
+incorporated, VERB 
+anodic, ADJ 
+oxide, NOUN 
+films, NOUN 
+
+, SPACE 
+aluminium, NOUN 
+tantalum, NOUN 
+niobium, NOUN 
+l, NOUN 
+l9, PROPN 
+anions, NOUN 
+undergo, VERB 
+field, NOUN 
+induced, VERB 
+
+, SPACE 
+transformations, NOUN 
+incorporation, NOUN 
+thickening, NOUN 
+oxide, NOUN 
+
+, SPACE 
+EXPERIMENTAL, PROPN 
+METHOD, PROPN 
+
+, SPACE 
+Thin, ADJ 
+bismuth, NOUN 
+layers, NOUN 
+4, NUM 
+pm, NOUN 
+thick, ADJ 
+sputter, NOUN 
+deposited, VERB 
+face, NOUN 
+oxide-, NOUN 
+
+, SPACE 
+coated, VERB 
+microscopically, ADV 
+flat, ADJ 
+aluminium, NOUN 
+substrates, NOUN 
+dimensions, NOUN 
+50, NUM 
+x, SYM 
+10, NUM 
+x, SYM 
+0.2, NUM 
+mm, NUM 
+
+, SPACE 
+prepared, VERB 
+usual, ADJ 
+manner.22, NOUN 
+use, NOUN 
+thin, ADJ 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layers, NOUN 
+
+, SPACE 
+oxide, NOUN 
+coated, VERB 
+aluminium, NOUN 
+substrates, NOUN 
+essential, ADJ 
+successful, ADJ 
+preparation, NOUN 
+
+, SPACE 
+ultramicrotomed, ADJ 
+sections, NOUN 
+bulk, ADJ 
+bismuth, NOUN 
+preparation, NOUN 
+ultramicrotomed, ADJ 
+sections, NOUN 
+
+, SPACE 
+particularly, ADV 
+difficult, ADJ 
+impossible, ADJ 
+bismuth, NOUN 
+brittle, ADJ 
+
+, SPACE 
+trimmed, VERB 
+glass, NOUN 
+knife, NOUN 
+suitably, ADV 
+fine, ADJ 
+size, NOUN 
+final, ADJ 
+sectioning, NOUN 
+diamond, NOUN 
+knife, NOUN 
+
+, SPACE 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layers, NOUN 
+anodized, VERB 
+constant, ADJ 
+current, ADJ 
+density, NOUN 
+
+, SPACE 
+5, NUM 
+mA, NOUN 
+cm2, NOUN 
+340, NUM 
+V, NOUN 
+0.1, NUM 
+M, PROPN 
+ammonium, NOUN 
+dihydrogen, NOUN 
+phosphate, NOUN 
+solution, NOUN 
+25, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+Preliminary, ADJ 
+examination, NOUN 
+anodized, ADJ 
+specimens, NOUN 
+revealed, VERB 
+significant, ADJ 
+differences, NOUN 
+
+, SPACE 
+interference, NOUN 
+colours, NOUN 
+films, NOUN 
+grown, VERB 
+sputter, NOUN 
+deposited, VERB 
+layers, NOUN 
+
+, SPACE 
+electropolished, VERB 
+bulk, ADJ 
+bismuth, NOUN 
+
+, SPACE 
+Ultramicrotomed, PROPN 
+sections, NOUN 
+anodic, ADJ 
+oxide, NOUN 
+films, NOUN 
+formed, VERB 
+thin, ADJ 
+layer, NOUN 
+bismuth, NOUN 
+
+, SPACE 
+oxide, NOUN 
+coated, VERB 
+aluminium, NOUN 
+substrate, NOUN 
+prepared, VERB 
+usual, ADJ 
+way, NOUN 
+RMC, PROPN 
+MT, PROPN 
+
+, SPACE 
+600, NUM 
+XL, PROPN 
+ultramicrotome.23, PROPN 
+Briefly, PROPN 
+anodized, ADJ 
+specimens, NOUN 
+cut, VERB 
+dimensions, NOUN 
+
+, SPACE 
+2, NUM 
+x, SYM 
+10, NUM 
+x, SYM 
+0.2, NUM 
+mm, NOUN 
+embedded, VERB 
+epoxy, NOUN 
+resin, NOUN 
+encapsulated, VERB 
+specimens, NOUN 
+trimmed, VERB 
+
+, SPACE 
+initially, ADV 
+glass, NOUN 
+knife, NOUN 
+suitably, ADV 
+thin, ADJ 
+sections, NOUN 
+10, NUM 
+nm, ADV 
+thick, ADJ 
+prepared, VERB 
+
+, SPACE 
+sectioning, VERB 
+direction, NOUN 
+approximately, ADV 
+parallel, ADJ 
+metal, NOUN 
+oxide, NOUN 
+interface, NOUN 
+diamond, NOUN 
+
+, SPACE 
+knife, NOUN 
+Ultramicrotomed, ADJ 
+sections, NOUN 
+collected, VERB 
+copper, NOUN 
+grids, NOUN 
+examined, VERB 
+JEM, PROPN 
+2000, NUM 
+
+, SPACE 
+FXII, PROPN 
+transmission, NOUN 
+electron, NOUN 
+microscope, NOUN 
+operated, VERB 
+200, NUM 
+kV., PROPN 
+elemental, ADJ 
+analysis, NOUN 
+EDX, PROPN 
+
+, SPACE 
+nominal, ADJ 
+electron, NOUN 
+probe, NOUN 
+diameter, NOUN 
+10, NUM 
+nm, NOUN 
+employed, VERB 
+optimize, VERB 
+spatial, ADJ 
+
+, SPACE 
+resolution, NOUN 
+X, NOUN 
+ray, NOUN 
+count, NOUN 
+rate, NOUN 
+
+, SPACE 
+EXPERIMENTAL, PROPN 
+RESULTS, PROPN 
+
+, SPACE 
+General, PROPN 
+observations, NOUN 
+
+, SPACE 
+Preparation, PROPN 
+acceptable, ADJ 
+ultramicrotomed, ADJ 
+sections, NOUN 
+found, VERB 
+particularly, ADV 
+
+, SPACE 
+difficult, ADJ 
+use, NOUN 
+thin, ADJ 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layer, NOUN 
+oxide, NOUN 
+coated, VERB 
+
+, SPACE 
+aluminium, NOUN 
+substrate, NOUN 
+poor, ADJ 
+adhesion, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+bismuth, NOUN 
+layer, NOUN 
+
+, SPACE 
+Direct, ADJ 
+observation, NOUN 
+anodic, ADJ 
+B&O3, PROPN 
+433, NUM 
+
+, SPACE 
+b, NOUN 
+oxide, NOUN 
+
+, SPACE 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Transmission, NOUN 
+electron, NOUN 
+micrograph, NOUN 
+ultramicrotomed, ADJ 
+section, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+sitting, VERB 
+
+, SPACE 
+slice, NOUN 
+aluminium, NOUN 
+
+, SPACE 
+Previously, ADV 
+Mason, PROPN 
+Young2, PROPN 
+reported, VERB 
+poor, ADJ 
+adhesion, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+
+, SPACE 
+bulk, ADJ 
+bismuth, NOUN 
+allows, VERB 
+oxide, NOUN 
+readily, ADV 
+stripped, VERB 
+substrate, NOUN 
+adhesive, ADJ 
+
+, SPACE 
+tape, NOUN 
+similar, ADJ 
+reason, NOUN 
+ultramicrotomed, ADJ 
+sections, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+attached, VERB 
+
+, SPACE 
+magnetron, PROPN 
+sputtered, VERB 
+bismuth, NOUN 
+layer, NOUN 
+rarely, ADV 
+generated, VERB 
+Fortunately, ADV 
+
+, SPACE 
+examination, NOUN 
+large, ADJ 
+number, NOUN 
+ultramicrotomed, ADJ 
+sections, NOUN 
+revealed, VERB 
+fragments, NOUN 
+non-, NUM 
+
+, SPACE 
+adherent, NOUN 
+oxide, NOUN 
+sections, NOUN 
+supported, VERB 
+sections, NOUN 
+oxidized, VERB 
+aluminium, NOUN 
+
+, SPACE 
+substrate, NOUN 
+embedding, VERB 
+resin, NOUN 
+allowing, VERB 
+direct, ADJ 
+transmission, NOUN 
+electron, NOUN 
+microscopy, NOUN 
+
+, SPACE 
+anodic, ADJ 
+Bi203, PROPN 
+time, NOUN 
+
+, SPACE 
+typical, ADJ 
+example, NOUN 
+detached, VERB 
+oxide, NOUN 
+regions, NOUN 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+section, NOUN 
+
+, SPACE 
+bismuth, NOUN 
+layer, NOUN 
+observed, VERB 
+dark, ADJ 
+region, NOUN 
+micrograph, NOUN 
+anodic, ADJ 
+
+, SPACE 
+Bi203, PROPN 
+layer, NOUN 
+observed, VERB 
+near, ADP 
+middle, NOUN 
+micrograph, NOUN 
+dark, ADJ 
+band, NOUN 
+material, NOUN 
+thin, ADJ 
+
+, SPACE 
+section, NOUN 
+aluminium, NOUN 
+substrate, NOUN 
+supports, VERB 
+sections, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+
+, SPACE 
+bismuth, NOUN 
+observed, VERB 
+clearly, ADV 
+micrograph, NOUN 
+presence, NOUN 
+dark, ADJ 
+
+, SPACE 
+extinction, NOUN 
+contours, NOUN 
+indicated, VERB 
+arrow, NOUN 
+
+, SPACE 
+important, ADJ 
+features, NOUN 
+observed, VERB 
+anodic, ADJ 
+Bi203, PROPN 
+Firstly, ADV 
+duplex, NOUN 
+structure, NOUN 
+
+, SPACE 
+immediately, ADV 
+evident, ADJ 
+outer, ADJ 
+layer, NOUN 
+originally, ADV 
+contact, NOUN 
+electrolyte, NOUN 
+shows, VERB 
+
+, SPACE 
+lighter, ADJ 
+contrast, NOUN 
+inner, ADJ 
+layer, NOUN 
+originally, ADV 
+attached, VERB 
+metal, NOUN 
+
+, SPACE 
+Additionally, ADV 
+anodic, ADJ 
+Bi203, PROPN 
+non, ADJ 
+uniform, ADJ 
+thickness, NOUN 
+local, ADJ 
+region, NOUN 
+indicated, VERB 
+
+, SPACE 
+arrow, NOUN 
+thickness, NOUN 
+oxide, NOUN 
+film, NOUN 
+127, NUM 
+nm, NOUN 
+local, ADJ 
+region, NOUN 
+
+, SPACE 
+indicated, VERB 
+arrow, PROPN 
+b, PROPN 
+film, NOUN 
+163, NUM 
+nm, ADV 
+thick, ADJ 
+Furthermore, ADV 
+interesting, ADJ 
+
+, SPACE 
+correlation, NOUN 
+evident, ADJ 
+locally, ADV 
+thickness, NOUN 
+outer, ADJ 
+lighter, ADJ 
+layer, NOUN 
+film, NOUN 
+
+, SPACE 
+thickness, NOUN 
+i.e., X 
+overall, ADJ 
+film, NOUN 
+thickness, NOUN 
+reduced, VERB 
+local, ADJ 
+regions, NOUN 
+outer, ADJ 
+lighter, ADJ 
+
+, SPACE 
+layer, NOUN 
+increased, VERB 
+thickness, NOUN 
+
+, SPACE 
+Analysis, NOUN 
+offilm, NOUN 
+sections, NOUN 
+
+, SPACE 
+Figure, PROPN 
+2, NUM 
+enlargement, NOUN 
+boxed, ADJ 
+area, NOUN 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+revealing, VERB 
+fine, ADJ 
+details, NOUN 
+
+, SPACE 
+appearance, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+Approximate, ADJ 
+probe, NOUN 
+positions, NOUN 
+indicated, VERB 
+
+, SPACE 
+434, NUM 
+K., PROPN 
+Shimizu, PROPN 
+et, NOUN 
+al, PROPN 
+
+, SPACE 
+oxide, NOUN 
+surface, NOUN 
+
+, SPACE 
+
+, SPACE 
+metal, NOUN 
+oxide, NOUN 
+
+, SPACE 
+interface, NOUN 
+0.1, NUM 
+p, NOUN 
+n, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Enlargement, NOUN 
+boxed, ADJ 
+area, NOUN 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+Probe, NOUN 
+positions, NOUN 
+indicated, VERB 
+EDX, PROPN 
+
+, SPACE 
+analysis, NOUN 
+carried, VERB 
+
+, SPACE 
+micrograph, NOUN 
+EDX, PROPN 
+analysis, NOUN 
+carried, VERB 
+chatter, NOUN 
+bands, NOUN 
+run, VERB 
+
+, SPACE 
+relatively, ADV 
+periodically, ADV 
+perpendicularly, ADV 
+direction, NOUN 
+cutting, NOUN 
+
+, SPACE 
+background, NOUN 
+contrast, NOUN 
+section, NOUN 
+aluminium, NOUN 
+substrate, NOUN 
+indicated, VERB 
+
+, SPACE 
+arrows, NOUN 
+outer, ADJ 
+inner, ADJ 
+layers, NOUN 
+anodic, ADJ 
+B&03, PROPN 
+relatively, ADV 
+featureless, ADJ 
+
+, SPACE 
+uniform, ADJ 
+contrast, NOUN 
+electron, NOUN 
+microscope, NOUN 
+selected, VERB 
+area, NOUN 
+electron, PROPN 
+
+, SPACE 
+diffraction, NOUN 
+film, NOUN 
+section, NOUN 
+revealed, VERB 
+diffuse, PROPN 
+halos, NOUN 
+indicating, VERB 
+anodic, ADJ 
+Bi203, PROPN 
+
+, SPACE 
+largely, ADV 
+amorphous, ADJ 
+reported, VERB 
+previously.24, PROPN 
+relatively, ADV 
+dark, ADJ 
+regions, NOUN 
+
+, SPACE 
+nanometres, NOUN 
+size, NOUN 
+diffraction, NOUN 
+contrast, NOUN 
+observed, VERB 
+occasionally, ADV 
+indicated, VERB 
+
+, SPACE 
+white, ADJ 
+arrows, NOUN 
+present, ADJ 
+stage, NOUN 
+certain, ADJ 
+crystalline, ADJ 
+regions, NOUN 
+
+, SPACE 
+present, ADJ 
+initially, ADV 
+arise, VERB 
+rapidly, ADV 
+electron, PROPN 
+beam, NOUN 
+irradiation, NOUN 
+electron, NOUN 
+
+, SPACE 
+microscope, NOUN 
+Certainly, ADV 
+anodic, ADJ 
+Bi203, PROPN 
+found, VERB 
+highly, ADV 
+susceptible, ADJ 
+electron, PROPN 
+
+, SPACE 
+beam, NOUN 
+induced, VERB 
+crystallization, NOUN 
+Additionally, ADV 
+interestingly, ADV 
+crystallization, NOUN 
+proceeds, VERB 
+
+, SPACE 
+readily, ADV 
+inner, ADJ 
+darker, ADJ 
+layer, NOUN 
+outer, ADJ 
+lighter, ADJ 
+layer, NOUN 
+observation, NOUN 
+
+, SPACE 
+electron, NOUN 
+microscope, NOUN 
+
+, SPACE 
+EDX, PROPN 
+spectra, NOUN 
+obtained, VERB 
+probe, NOUN 
+positions, NOUN 
+1, NUM 
+2, NUM 
+shown, VERB 
+Figs, PROPN 
+3(a, NUM 
+3(b, NUM 
+
+, SPACE 
+respectively, ADV 
+spectra, NOUN 
+0, NUM 
+K(a, PROPN 
+Q, PROPN 
+Al, PROPN 
+K(c(,B, PROPN 
+Bi, PROPN 
+L(a, PROPN 
+B, PROPN 
+lines, NOUN 
+observed, VERB 
+
+, SPACE 
+peaks, NOUN 
+1.05, NUM 
+1.49, NUM 
+2.42, NUM 
+keV, NOUN 
+respectively, ADV 
+peaks, NOUN 
+Al, PROPN 
+K, PROPN 
+B, PROPN 
+lines, NOUN 
+arise, VERB 
+
+, SPACE 
+aluminium, NOUN 
+section, NOUN 
+supporting, VERB 
+anodic, ADJ 
+Bi203, PROPN 
+Additionally, ADV 
+spectrum, NOUN 
+obtained, VERB 
+
+, SPACE 
+probe, NOUN 
+position, NOUN 
+1, NUM 
+located, VERB 
+outer, ADJ 
+lighter, ADJ 
+layer, NOUN 
+phosphorus, NOUN 
+peak, NOUN 
+
+, SPACE 
+evident, ADJ 
+2.01, NUM 
+keV, NOUN 
+peak, NOUN 
+essentially, ADV 
+absent, ADJ 
+spectrum, NOUN 
+obtained, VERB 
+probe, NOUN 
+
+, SPACE 
+position, NOUN 
+2, NUM 
+located, VERB 
+inner, ADJ 
+darker, ADJ 
+layer, NOUN 
+data, NOUN 
+suggest, VERB 
+outer, ADJ 
+lighter, ADJ 
+layer, NOUN 
+
+, SPACE 
+contains, VERB 
+incorporated, VERB 
+phosphate, ADJ 
+anions, NOUN 
+inner, ADJ 
+darker, ADJ 
+layer, NOUN 
+comprised, VERB 
+
+, SPACE 
+relatively, ADV 
+pure, ADJ 
+oxide, NOUN 
+incorporated, ADJ 
+phosphate, ADJ 
+anions, NOUN 
+evidently, ADV 
+delay, VERB 
+electron, PROPN 
+
+, SPACE 
+beam, NOUN 
+induced, VERB 
+crystallization, NOUN 
+outer, ADJ 
+layer, NOUN 
+examination, NOUN 
+electron, NOUN 
+
+, SPACE 
+microscope, NOUN 
+
+, SPACE 
+addition, NOUN 
+duplex, NOUN 
+structure, NOUN 
+associated, VERB 
+phosphate, ADJ 
+incorporation, NOUN 
+close, ADJ 
+
+, SPACE 
+examination, NOUN 
+section, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+reveals, VERB 
+layered, VERB 
+structure, NOUN 
+seen, VERB 
+
+, SPACE 
+Direct, ADJ 
+observation, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+435, NUM 
+
+, SPACE 
+0.00, NUM 
+Energy, PROPN 
+KeV, PROPN 
+4.00, NUM 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+EDX, PROPN 
+spectra, NOUN 
+obtained, VERB 
+probe, NOUN 
+positions, NOUN 
+1, NUM 
+2, NUM 
+Fig, PROPN 
+2, NUM 
+revealing, VERB 
+presence, NOUN 
+
+, SPACE 
+phosphate, ADJ 
+anions, NOUN 
+outer, ADJ 
+oxide, NOUN 
+layer, NOUN 
+light, ADJ 
+contrast, NOUN 
+
+, SPACE 
+faintly, ADV 
+magnification, NOUN 
+Fig, PROPN 
+2, NUM 
+Figure, NOUN 
+4, NUM 
+enlargement, NOUN 
+boxed, ADJ 
+area, NOUN 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+reveals, VERB 
+anodic, ADJ 
+Biz03, PROPN 
+consists, VERB 
+distinct, ADJ 
+layers, NOUN 
+differing, VERB 
+textures, NOUN 
+
+, SPACE 
+opposed, VERB 
+contrast, NOUN 
+differences, NOUN 
+reported, VERB 
+earlier, ADV 
+fine, ADJ 
+bubble, NOUN 
+like, ADJ 
+texture, NOUN 
+observed, VERB 
+
+, SPACE 
+inner, ADJ 
+layer, NOUN 
+oxide, NOUN 
+located, VERB 
+adjacent, ADJ 
+bismuth, NOUN 
+substrate, NOUN 
+
+, SPACE 
+texture, NOUN 
+observed, VERB 
+readily, ADV 
+outer, ADJ 
+layer, NOUN 
+oxide, NOUN 
+contact, NOUN 
+
+, SPACE 
+phosphate, NOUN 
+electrolyte, NOUN 
+boundary, NOUN 
+layers, NOUN 
+indicated, VERB 
+micrograph, NOUN 
+
+, SPACE 
+solid, ADJ 
+line, NOUN 
+runs, VERB 
+closely, ADV 
+parallel, ADJ 
+boundary, NOUN 
+outer, ADJ 
+phosphate-, X 
+
+, SPACE 
+doped, VERB 
+layer, NOUN 
+inner, ADJ 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+particular, ADJ 
+interest, NOUN 
+boundary, NOUN 
+
+, SPACE 
+layers, NOUN 
+differing, VERB 
+textures, NOUN 
+located, VERB 
+boundary, NOUN 
+outer, ADJ 
+
+, SPACE 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+inner, ADJ 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+i.e., X 
+boundary, NOUN 
+separating, VERB 
+regions, NOUN 
+
+, SPACE 
+differing, VERB 
+contrasts, NOUN 
+
+, SPACE 
+DISCUSSION, PROPN 
+
+, SPACE 
+General, PROPN 
+considerations, VERB 
+
+, SPACE 
+use, NOUN 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+designed, VERB 
+substrates, NOUN 
+ultramicrotomed, ADJ 
+
+, SPACE 
+sections, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+prepared, VERB 
+successfully, ADV 
+time, NOUN 
+Subsequent, ADJ 
+
+, SPACE 
+436, NUM 
+K., PROPN 
+Shimizu, PROPN 
+et, NOUN 
+al, PROPN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Enlargement, NOUN 
+boxed, ADJ 
+area, NOUN 
+shown, VERB 
+Fig, PROPN 
+2, NUM 
+showing, VERB 
+oxide, NOUN 
+layers, NOUN 
+differing, VERB 
+
+, SPACE 
+textures, NOUN 
+fine, ADJ 
+bubble, NOUN 
+like, ADJ 
+texture, NOUN 
+evident, ADJ 
+inner, ADJ 
+layer, NOUN 
+oxide, NOUN 
+
+, SPACE 
+examination, NOUN 
+ultramicrotomed, ADJ 
+sections, NOUN 
+revealed, VERB 
+important, ADJ 
+new, ADJ 
+features, NOUN 
+anodic, ADJ 
+
+, SPACE 
+oxidation, NOUN 
+bismuth, NOUN 
+
+, SPACE 
+results, NOUN 
+confirm, VERB 
+anodic, ADJ 
+Biz03, PROPN 
+largely, ADV 
+amorphous, ADJ 
+supporting, VERB 
+X, NOUN 
+ray, NOUN 
+
+, SPACE 
+diffraction, NOUN 
+analysis, NOUN 
+Komorita, PROPN 
+et, PROPN 
+a1.24, PROPN 
+shown, VERB 
+anodic, ADJ 
+Bi203, PROPN 
+
+, SPACE 
+consists, VERB 
+distinct, ADJ 
+layers, NOUN 
+different, ADJ 
+compositions, NOUN 
+observed, VERB 
+anodic, ADJ 
+films, NOUN 
+
+, SPACE 
+aluminium, NOUN 
+tantalum, NOUN 
+niobium, NOUN 
+inner, ADJ 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+separates, VERB 
+metal, NOUN 
+
+, SPACE 
+outer, ADJ 
+layer, NOUN 
+doped, VERB 
+phosphate, ADJ 
+anions, NOUN 
+anodizing, NOUN 
+electrolyte, NOUN 
+lighter, ADJ 
+
+, SPACE 
+contrast, NOUN 
+exhibited, VERB 
+outer, ADJ 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+thought, VERB 
+arise, VERB 
+
+, SPACE 
+effectively, ADV 
+reduced, VERB 
+electron, NOUN 
+scattering, VERB 
+cross, NOUN 
+section, NOUN 
+electrolyte, ADJ 
+anion, NOUN 
+containing, VERB 
+layer, NOUN 
+
+, SPACE 
+compared, VERB 
+inner, ADJ 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+Considerable, ADJ 
+variations, NOUN 
+evident, ADJ 
+
+, SPACE 
+film, NOUN 
+thickness, NOUN 
+extent, NOUN 
+phosphate, ADJ 
+incorporation, NOUN 
+specifically, ADV 
+
+, SPACE 
+proportion, NOUN 
+outer, ADJ 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+local, ADJ 
+film, NOUN 
+thickness, NOUN 
+d,,J~&,t, PROPN 
+
+, SPACE 
+local, ADJ 
+region, NOUN 
+Fig, PROPN 
+1, NUM 
+local, ADJ 
+film, NOUN 
+thickness, NOUN 
+127, NUM 
+nm, NOUN 
+dout, NOUN 
+dtotat, NOUN 
+value, NOUN 
+
+, SPACE 
+0.57, NUM 
+local, ADJ 
+region, NOUN 
+b, NOUN 
+Fig, PROPN 
+1, NUM 
+film, NOUN 
+thickness, NOUN 
+163, NUM 
+nm, NOUN 
+dout, NOUN 
+dtotal, ADJ 
+value, NOUN 
+
+, SPACE 
+0.23, NUM 
+variations, NOUN 
+film, NOUN 
+thickness, NOUN 
+dout, NOUN 
+dtotat, NOUN 
+value, NOUN 
+closely, ADV 
+associated, VERB 
+
+, SPACE 
+smoothing, NOUN 
+initially, ADV 
+rough, ADJ 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+substrate, NOUN 
+amorphous, ADJ 
+
+, SPACE 
+anodic, ADJ 
+oxide, NOUN 
+growth, NOUN 
+reduced, VERB 
+ionic, ADJ 
+conductivity, NOUN 
+outer, ADJ 
+phosphate, NOUN 
+doped, VERB 
+
+, SPACE 
+layer, NOUN 
+
+, SPACE 
+smoothing, VERB 
+process, NOUN 
+initially, ADV 
+rough, ADJ 
+metal, NOUN 
+surface, NOUN 
+amorphous, ADJ 
+anodic, ADJ 
+
+, SPACE 
+oxide, NOUN 
+valve, NOUN 
+metals, NOUN 
+discussed, VERB 
+detail, NOUN 
+Pringle2, PROPN 
+experimentally, ADV 
+verified, VERB 
+
+, SPACE 
+aluminium, NOUN 
+Shimizu, PROPN 
+et, PROPN 
+al, PROPN 
+Briefly, NOUN 
+smoothing, NOUN 
+initially, ADV 
+rough, ADJ 
+metal, NOUN 
+surface, NOUN 
+
+, SPACE 
+amorphous, ADJ 
+anodic, ADJ 
+oxide, NOUN 
+growth, NOUN 
+consequence, NOUN 
+amorphous, ADJ 
+nature, NOUN 
+
+, SPACE 
+oxides, NOUN 
+oxide, NOUN 
+growth, NOUN 
+kinetics, NOUN 
+commonly, ADV 
+described, VERB 
+called, VERB 
+high-, NOUN 
+
+, SPACE 
+field, NOUN 
+conduction, NOUN 
+equation, NOUN 
+
+, SPACE 
+=, X 
+exp, NOUN 
+BV, PROPN 
+h, PROPN 
+1, X 
+
+, SPACE 
+Direct, ADJ 
+observation, NOUN 
+anodic, ADJ 
+B&O3, PROPN 
+437, NUM 
+
+, SPACE 
+ionic, ADJ 
+current, ADJ 
+density, NOUN 
+T, PROPN 
+potential, NOUN 
+oxide, NOUN 
+film, NOUN 
+thickness, PROPN 
+h, PROPN 
+
+, SPACE 
+B, NOUN 
+constants, NOUN 
+kinetics, NOUN 
+anodic, ADJ 
+oxide, NOUN 
+growth, NOUN 
+represented, VERB 
+equation, NOUN 
+1, NUM 
+
+, SPACE 
+require, VERB 
+anodic, ADJ 
+oxide, NOUN 
+uniform, ADJ 
+thickness, ADJ 
+perpendicular, ADJ 
+local, ADJ 
+metal, NOUN 
+surface, NOUN 
+
+, SPACE 
+anodic, ADJ 
+oxide, NOUN 
+growth, NOUN 
+initial, ADJ 
+metal, NOUN 
+surface, NOUN 
+flat, ADJ 
+current, ADJ 
+density, NOUN 
+
+, SPACE 
+growing, VERB 
+oxide, NOUN 
+uniform, ADJ 
+laterally, ADV 
+perpendicularly, ADV 
+oxide, NOUN 
+growth, NOUN 
+
+, SPACE 
+initial, ADJ 
+metal, NOUN 
+surface, NOUN 
+relatively, ADV 
+rough, ADJ 
+current, ADJ 
+density, NOUN 
+
+, SPACE 
+growing, VERB 
+oxide, NOUN 
+varies, VERB 
+laterally, ADV 
+perpendicularly, ADV 
+metal, NOUN 
+surface, NOUN 
+coupled, VERB 
+
+, SPACE 
+amorphous, ADJ 
+nature, NOUN 
+oxide, NOUN 
+allows, VERB 
+oxide, NOUN 
+follow, VERB 
+gradually, ADV 
+
+, SPACE 
+changing, VERB 
+contours, NOUN 
+metal, NOUN 
+surface, NOUN 
+leads, VERB 
+smoothing, NOUN 
+initial, ADJ 
+rough, ADJ 
+metal, NOUN 
+surface, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Ref, PROPN 
+25, NUM 
+Figs, NOUN 
+3, NUM 
+5, NUM 
+Ref, PROPN 
+26, NUM 
+important, ADJ 
+consequence, NOUN 
+
+, SPACE 
+smoothing, VERB 
+effect, NOUN 
+relevant, ADJ 
+variation, NOUN 
+d,,,/d, PROPN 
+totai, NOUN 
+value, NOUN 
+thickness, NOUN 
+
+, SPACE 
+oxide, NOUN 
+grown, VERB 
+oxide, NOUN 
+electrolyte, VERB 
+interface, NOUN 
+outward, ADJ 
+migration, NOUN 
+metal, NOUN 
+ions, NOUN 
+
+, SPACE 
+thicker, ADJ 
+oxide, NOUN 
+formed, VERB 
+valleys, NOUN 
+ridges, NOUN 
+associated, VERB 
+rough, ADJ 
+surface, NOUN 
+
+, SPACE 
+observed, VERB 
+Fig, PROPN 
+1, NUM 
+local, ADJ 
+regions, NOUN 
+indicated, VERB 
+arrows, NOUN 
+b, NOUN 
+respectively, ADV 
+
+, SPACE 
+variation, NOUN 
+film, NOUN 
+thickness, NOUN 
+specifically, ADV 
+thinner, ADJ 
+oxide, NOUN 
+growth, NOUN 
+valleys, NOUN 
+
+, SPACE 
+thickness, NOUN 
+outer, ADJ 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+greater, ADJ 
+reduced, ADJ 
+
+, SPACE 
+ionic, ADJ 
+conductivity, NOUN 
+outer, ADJ 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+
+, SPACE 
+Ionic, ADJ 
+transport, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+formation, NOUN 
+
+, SPACE 
+discussing, VERB 
+reduced, VERB 
+ionic, ADJ 
+conductivity, NOUN 
+outer, ADJ 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+
+, SPACE 
+particular, ADJ 
+point, NOUN 
+interest, NOUN 
+observation, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+consists, VERB 
+distinct, ADJ 
+
+, SPACE 
+layers, NOUN 
+differing, VERB 
+textures, NOUN 
+specifically, ADV 
+origin, NOUN 
+fine, ADJ 
+bubble, NOUN 
+like, ADJ 
+texture, NOUN 
+
+, SPACE 
+develops, VERB 
+rapidly, ADV 
+examination, NOUN 
+film, NOUN 
+sections, NOUN 
+electron, NOUN 
+
+, SPACE 
+microscope, NOUN 
+requires, VERB 
+consideration, NOUN 
+development, NOUN 
+fine, ADJ 
+bubble, NOUN 
+like, ADJ 
+
+, SPACE 
+texture, NOUN 
+explained, VERB 
+basis, NOUN 
+bismuth, NOUN 
+layer, NOUN 
+sputter, NOUN 
+deposited, VERB 
+argon, NOUN 
+
+, SPACE 
+atmosphere, NOUN 
+argon, PROPN 
+co, VERB 
+deposited, VERB 
+bismuth, NOUN 
+metal, NOUN 
+subsequently, ADV 
+
+, SPACE 
+incorporated, VERB 
+anodic, ADJ 
+oxide, NOUN 
+examination, NOUN 
+electron, NOUN 
+microscope, NOUN 
+
+, SPACE 
+argon, NOUN 
+agglomerates, VERB 
+form, VERB 
+fine, ADJ 
+bubbles, NOUN 
+anodic, ADJ 
+oxide, NOUN 
+EDX, NOUN 
+analysis, NOUN 
+failed, VERB 
+reveal, VERB 
+
+, SPACE 
+presence, NOUN 
+argon, NOUN 
+atoms, NOUN 
+inner, ADJ 
+layer, NOUN 
+oxide, NOUN 
+fine, NOUN 
+bubble, NOUN 
+texture, NOUN 
+
+, SPACE 
+observed, VERB 
+Fig, PROPN 
+3(b, NUM 
+probably, ADV 
+insensitivity, NOUN 
+detection, NOUN 
+relatively, ADV 
+small, ADJ 
+
+, SPACE 
+amounts, NOUN 
+argon, NOUN 
+increased, VERB 
+amounts, NOUN 
+argon, NOUN 
+bubble, NOUN 
+like, ADJ 
+texture, NOUN 
+peak, NOUN 
+
+, SPACE 
+expected, VERB 
+2.95, NUM 
+keV, PROPN 
+revealed, VERB 
+previously, ADV 
+film, NOUN 
+formed, VERB 
+sputter, NOUN 
+deposited, VERB 
+
+, SPACE 
+amorphous, ADJ 
+Al, PROPN 
+Ta, PROPN 
+alloys.27, PROPN 
+
+, SPACE 
+investigation, NOUN 
+needed, VERB 
+confirm, VERB 
+origin, NOUN 
+fine, ADJ 
+bubble, NOUN 
+like, ADJ 
+texture, NOUN 
+
+, SPACE 
+assumed, VERB 
+texture, NOUN 
+presence, NOUN 
+argon, NOUN 
+atoms, NOUN 
+
+, SPACE 
+originally, ADV 
+co, VERB 
+deposited, VERB 
+bismuth, NOUN 
+sputter, NOUN 
+deposition, NOUN 
+basis, NOUN 
+
+, SPACE 
+behaviour, NOUN 
+incorporated, ADJ 
+phosphate, ADJ 
+anions, NOUN 
+considered, VERB 
+
+, SPACE 
+evident, ADJ 
+anodic, ADJ 
+oxide, NOUN 
+growth, NOUN 
+bismuth, NOUN 
+proceeds, NOUN 
+oxide/, NUM 
+
+, SPACE 
+electrolyte, NOUN 
+metal, NOUN 
+oxide, NOUN 
+interfaces, NOUN 
+outward, ADJ 
+migration, NOUN 
+Bi3, PROPN 
++, ADJ 
+ions, NOUN 
+inward, ADJ 
+
+, SPACE 
+migration, NOUN 
+oxygen, NOUN 
+ions, NOUN 
+respectively, ADV 
+observed, VERB 
+anodic, ADJ 
+oxide, NOUN 
+growth, NOUN 
+aluminium, NOUN 
+
+, SPACE 
+tantalum, NOUN 
+niobium, NOUN 
+conclusion, NOUN 
+relates, VERB 
+textured, ADJ 
+inner, ADJ 
+layer, NOUN 
+oxide, NOUN 
+
+, SPACE 
+assumed, VERB 
+associated, VERB 
+argon, NOUN 
+anodic, ADJ 
+oxidation, NOUN 
+argon, PROPN 
+
+, SPACE 
+incorporated, VERB 
+anodic, ADJ 
+oxide, NOUN 
+result, NOUN 
+film, NOUN 
+growth, NOUN 
+metal, NOUN 
+film, NOUN 
+interface, NOUN 
+
+, SPACE 
+known, VERB 
+argon, NOUN 
+atoms, NOUN 
+incorporated, VERB 
+growing, VERB 
+oxide, NOUN 
+
+, SPACE 
+regarded, VERB 
+immobile, ADJ 
+argon, NOUN 
+atoms, NOUN 
+previously, ADV 
+inert, ADJ 
+immobile, ADJ 
+
+, SPACE 
+markers, NOUN 
+determination, NOUN 
+transport, NOUN 
+numbers, NOUN 
+anodic, ADJ 
+oxide, NOUN 
+growth, NOUN 
+
+, SPACE 
+aluminium, NOUN 
+tantalum.6, PROPN 
+immediately, ADV 
+follows, VERB 
+inner, ADJ 
+layer, NOUN 
+associated, VERB 
+
+, SPACE 
+438, NUM 
+K., PROPN 
+Shimizu, PROPN 
+et, NOUN 
+ul, NOUN 
+
+, SPACE 
+fine, ADJ 
+bubble, NOUN 
+like, ADJ 
+texture, NOUN 
+delineates, VERB 
+oxide, NOUN 
+grown, VERB 
+metal, NOUN 
+oxide, NOUN 
+interface, NOUN 
+inward, PROPN 
+
+, SPACE 
+migration, NOUN 
+oxygen, NOUN 
+ions, NOUN 
+developed, VERB 
+film, NOUN 
+electrolyte, VERB 
+interface, NOUN 
+egress, NOUN 
+
+, SPACE 
+Bi3, ADJ 
++, NOUN 
+ions, NOUN 
+particular, ADJ 
+importance, NOUN 
+boundary, NOUN 
+argon, NOUN 
+contaminated, VERB 
+
+, SPACE 
+argon, NOUN 
+free, ADJ 
+layers, NOUN 
+located, VERB 
+boundary, NOUN 
+outer, ADJ 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+
+, SPACE 
+inner, ADJ 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+oxide, NOUN 
+grown, VERB 
+local, ADJ 
+regions, NOUN 
+sputter-, NOUN 
+
+, SPACE 
+deposited, VERB 
+bismuth, NOUN 
+substrate, NOUN 
+relatively, ADV 
+smooth, ADJ 
+smoothing, VERB 
+effect, NOUN 
+
+, SPACE 
+insignificant, ADJ 
+film, NOUN 
+thickness, NOUN 
+dout, NOUN 
+dtotat, NOUN 
+values, NOUN 
+158, NUM 
+0.33, NUM 
+nm, NOUN 
+respectively, ADV 
+
+, SPACE 
+Additionally, ADV 
+boundary, NOUN 
+layers, NOUN 
+grown, VERB 
+outward, ADJ 
+migration, NOUN 
+metal, NOUN 
+ions, NOUN 
+
+, SPACE 
+inward, ADJ 
+migration, NOUN 
+oxygen, NOUN 
+ions, NOUN 
+found, VERB 
+located, VERB 
+depth, NOUN 
+oxide, NOUN 
+
+, SPACE 
+surface, NOUN 
+15, NUM 
+film, NOUN 
+thickness, NOUN 
+Assuming, VERB 
+current, ADJ 
+efficiency, NOUN 
+oxide, NOUN 
+
+, SPACE 
+growth, NOUN 
+lOO%, PROPN 
+results, NOUN 
+imply, VERB 
+transport, NOUN 
+number, NOUN 
+Bi3, PROPN 
++, PROPN 
+0.15, NUM 
+
+, SPACE 
+phosphate, ADJ 
+anions, NOUN 
+incorporated, VERB 
+anodic, ADJ 
+Bi203, PROPN 
+film, NOUN 
+electrolyte, ADJ 
+
+, SPACE 
+interface, NOUN 
+mobile, ADJ 
+inwards, NOUN 
+field, NOUN 
+dout, NOUN 
+dtotal, ADJ 
+value, NOUN 
+0.33, NUM 
+greater, ADJ 
+
+, SPACE 
+fraction, NOUN 
+film, NOUN 
+thickness, NOUN 
+developed, VERB 
+outwardly, ADV 
+mobile, ADJ 
+Bi3, NOUN 
++, NOUN 
+ions, NOUN 
+
+, SPACE 
+Evidence, NOUN 
+presented, VERB 
+recently, ADV 
+incorporated, ADJ 
+phosphate, ADJ 
+anions, NOUN 
+
+, SPACE 
+migrate, VERB 
+inwards, NOUN 
+anodic, ADJ 
+oxide, NOUN 
+films, NOUN 
+aluminium, NOUN 
+tantalum, NOUN 
+niobium.18,‘9, PROPN 
+
+, SPACE 
+similarities, NOUN 
+evident, ADJ 
+anodic, ADJ 
+oxide, NOUN 
+growth, NOUN 
+bismuth, NOUN 
+aluminium, NOUN 
+
+, SPACE 
+tantalum, NOUN 
+niobium, NOUN 
+remarkably, ADV 
+low, ADJ 
+ionic, ADJ 
+conductivity, NOUN 
+outer, ADJ 
+
+, SPACE 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+discussed, VERB 
+
+, SPACE 
+Conductivities, NOUN 
+compositionally, ADV 
+differing, VERB 
+film, NOUN 
+regions, NOUN 
+
+, SPACE 
+important, ADJ 
+observation, NOUN 
+stated, VERB 
+explicitly, ADV 
+
+, SPACE 
+thickness, NOUN 
+oxide, NOUN 
+observed, VERB 
+127, NUM 
+168, NUM 
+nm, NOUN 
+considerably, ADV 
+value, NOUN 
+
+, SPACE 
+273, NUM 
+nm, NOUN 
+calculated, VERB 
+kinetic, ADJ 
+equation, NOUN 
+Mason, PROPN 
+Young, PROPN 
+anodic, ADJ 
+oxide, NOUN 
+
+, SPACE 
+growth, NOUN 
+electropolished, ADJ 
+bismuth, NOUN 
+substrates, NOUN 
+0.1, NUM 
+M, PROPN 
+sodium, NOUN 
+hydroxide, NOUN 
+solution, NOUN 
+
+, SPACE 
+difference, NOUN 
+thickness, ADJ 
+values, NOUN 
+large, ADJ 
+explained, VERB 
+fully, ADV 
+consideration, NOUN 
+
+, SPACE 
+reduced, VERB 
+ionic, ADJ 
+conductivity, NOUN 
+associated, VERB 
+outer, ADJ 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+
+, SPACE 
+investigate, VERB 
+behaviour, NOUN 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layers, NOUN 
+anodized, VERB 
+
+, SPACE 
+constant, ADJ 
+current, ADJ 
+density, NOUN 
+5, NUM 
+mA, NOUN 
+cm2, NOUN 
+30, NUM 
+V, NOUN 
+0.1, NUM 
+M, PROPN 
+sodium, NOUN 
+hydroxide, NOUN 
+solution, NOUN 
+25, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+Variations, NOUN 
+film, NOUN 
+thicknesses, NOUN 
+immediately, ADV 
+evident, ADJ 
+different, ADJ 
+interference, NOUN 
+
+, SPACE 
+colours, VERB 
+evident, ADJ 
+films, NOUN 
+formed, VERB 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layers, NOUN 
+ammonium, NOUN 
+
+, SPACE 
+dihydrogen, NOUN 
+phosphate, NOUN 
+sodium, NOUN 
+hydroxide, ADJ 
+solutions, NOUN 
+specimen, NOUN 
+anodized, VERB 
+
+, SPACE 
+ammonium, NOUN 
+dihydrogen, NOUN 
+phosphate, NOUN 
+solution, NOUN 
+exhibited, VERB 
+bluish, ADJ 
+purple, NOUN 
+colour, NOUN 
+
+, SPACE 
+specimen, NOUN 
+anodized, VERB 
+sodium, NOUN 
+hydroxide, NOUN 
+solution, NOUN 
+exhibited, VERB 
+faint, ADJ 
+greenish, ADJ 
+yellow, ADJ 
+colour, NOUN 
+
+, SPACE 
+significant, ADJ 
+differences, NOUN 
+observed, VERB 
+interference, NOUN 
+colours, NOUN 
+films, NOUN 
+grown, VERB 
+
+, SPACE 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layer, NOUN 
+bulk, NOUN 
+electropolished, VERB 
+bismuth, NOUN 
+sodium, NOUN 
+
+, SPACE 
+hydroxide, NOUN 
+ammonium, NOUN 
+dihydrogen, NOUN 
+phosphate, NOUN 
+solution, NOUN 
+
+, SPACE 
+Transmission, PROPN 
+electron, NOUN 
+microscopy, NOUN 
+ultramicrotomed, ADJ 
+sections, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+
+, SPACE 
+grown, VERB 
+sodium, NOUN 
+hydroxide, NOUN 
+solution, NOUN 
+showed, VERB 
+oxide, NOUN 
+uniform, ADJ 
+contrast, NOUN 
+
+, SPACE 
+electron, NOUN 
+microscope, NOUN 
+unlike, ADP 
+Fig, PROPN 
+1, NUM 
+layered, ADJ 
+structure, NOUN 
+observed, VERB 
+expected, VERB 
+
+, SPACE 
+absence, NOUN 
+incorporated, ADJ 
+electrolyte, ADJ 
+species, NOUN 
+Additionally, ADV 
+oxide, NOUN 
+uniform, ADJ 
+
+, SPACE 
+thickness, NOUN 
+221, NUM 
+nm, NOUN 
+direction, NOUN 
+perpendicular, ADJ 
+local, ADJ 
+metal, NOUN 
+surface, NOUN 
+oxide, NOUN 
+
+, SPACE 
+grown, VERB 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layer, NOUN 
+sodium, NOUN 
+hydroxide, NOUN 
+solution, NOUN 
+thicker, ADJ 
+
+, SPACE 
+film, NOUN 
+grown, VERB 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layer, NOUN 
+ammonium, NOUN 
+dihydrogen, NOUN 
+phosphate, NOUN 
+
+, SPACE 
+solution, NOUN 
+expected, VERB 
+difference, NOUN 
+interference, NOUN 
+colours, VERB 
+oxide, NOUN 
+
+, SPACE 
+grown, VERB 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layer, NOUN 
+sodium, NOUN 
+hydroxide, NOUN 
+solution, NOUN 
+
+, SPACE 
+considerably, ADV 
+thinner, ADJ 
+calculated, VERB 
+273, NUM 
+nm, ADJ 
+kinetic, ADJ 
+equation, NOUN 
+obtained, VERB 
+
+, SPACE 
+Direct, ADJ 
+observation, NOUN 
+anodic, ADJ 
+B&03, PROPN 
+439, NUM 
+
+, SPACE 
+Mason, PROPN 
+Young, PROPN 
+reduced, ADJ 
+film, NOUN 
+thickness, NOUN 
+observed, VERB 
+present, ADJ 
+work, NOUN 
+result, VERB 
+
+, SPACE 
+use, NOUN 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layer, NOUN 
+particularly, ADV 
+relatively, ADV 
+low, ADJ 
+
+, SPACE 
+density, NOUN 
+appear, VERB 
+main, ADJ 
+cause, NOUN 
+difference, NOUN 
+film, NOUN 
+
+, SPACE 
+thicknesses, NOUN 
+interference, NOUN 
+colours, NOUN 
+exhibited, VERB 
+films, NOUN 
+grown, VERB 
+sputter, NOUN 
+deposited, VERB 
+
+, SPACE 
+bismuth, NOUN 
+layer, NOUN 
+electropolished, ADJ 
+bismuth, NOUN 
+substrate, NOUN 
+electrolyte, NOUN 
+
+, SPACE 
+similar, ADJ 
+cause, NOUN 
+discrepancy, NOUN 
+film, NOUN 
+thickness, NOUN 
+sought, VERB 
+
+, SPACE 
+Mason, PROPN 
+Young, PROPN 
+determined, VERB 
+film, NOUN 
+thickness, NOUN 
+spectrophotometric, NOUN 
+method, NOUN 
+
+, SPACE 
+interference, NOUN 
+minima, PROPN 
+successive, ADJ 
+orders, NOUN 
+occur, VERB 
+wavelengths, NOUN 
+near, ADP 
+400, NUM 
+nm, NOUN 
+value, NOUN 
+
+, SPACE 
+2.27, NUM 
+assumed, VERB 
+refractive, ADJ 
+index, NOUN 
+400, NUM 
+nm, NOUN 
+Mason, PROPN 
+Young, PROPN 
+
+, SPACE 
+consider, VERB 
+reliable, ADJ 
+n(400, PROPN 
+nm, PROPN 
+=, VERB 
+2.27, NUM 
+n(400, NOUN 
+nm)/p, PROPN 
+=, SYM 
+0.333, NUM 
+
+, SPACE 
+obtained, VERB 
+Mason, PROPN 
+Young, PROPN 
+value, NOUN 
+density, NOUN 
+oxide, NOUN 
+p, NOUN 
+6.8, NUM 
+g, NOUN 
+cm3, NOUN 
+
+, SPACE 
+obtained, VERB 
+appears, VERB 
+low, ADJ 
+published, VERB 
+values, NOUN 
+bulk, ADJ 
+density, NOUN 
+Bi203, PROPN 
+fall, VERB 
+
+, SPACE 
+range, NOUN 
+8.2, NUM 
+8.9, NUM 
+g, NOUN 
+cm3.28, NOUN 
+Recently, ADV 
+Komorita, PROPN 
+et, PROPN 
+01.~~, PROPN 
+reported, VERB 
+value, NOUN 
+8.3, NUM 
+g, NOUN 
+cm3, NOUN 
+
+, SPACE 
+density, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+grown, VERB 
+borate, ADJ 
+glycol, NOUN 
+solutions, NOUN 
+assuming, VERB 
+p, NOUN 
+=, NOUN 
+8.3, NUM 
+g, NOUN 
+cm3, NOUN 
+
+, SPACE 
+n(400, PROPN 
+nm)/p, PROPN 
+=, NUM 
+0.333, NUM 
+n(400, PROPN 
+nm, AUX 
+=, VERB 
+2.76, NUM 
+n(400, PROPN 
+nm, PROPN 
+=, VERB 
+2.76, NUM 
+thickness, NOUN 
+
+, SPACE 
+oxide, NOUN 
+grown, VERB 
+electropolished, ADJ 
+bismuth, NOUN 
+substrate, NOUN 
+constant, ADJ 
+current, ADJ 
+density, NOUN 
+
+, SPACE 
+5, NUM 
+mA, NOUN 
+cm, PROPN 
+30, NUM 
+V, NOUN 
+0.1, NUM 
+M, PROPN 
+sodium, NOUN 
+hydroxide, NOUN 
+solution, NOUN 
+25”C, NUM 
+estimated, VERB 
+225, NUM 
+nm, ADJ 
+
+, SPACE 
+agreement, NOUN 
+present, ADJ 
+result, NOUN 
+221, NUM 
+nm, NOUN 
+revised, VERB 
+value, NOUN 
+Mason, PROPN 
+
+, SPACE 
+Young, PROPN 
+225, NUM 
+nm, NOUN 
+excellent, ADJ 
+
+, SPACE 
+thickness, NOUN 
+oxide, NOUN 
+grown, VERB 
+sodium, NOUN 
+hydroxide, NOUN 
+solution, NOUN 
+electric, ADJ 
+field, NOUN 
+set, VERB 
+
+, SPACE 
+growing, VERB 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+estimated, VERB 
+1.36, NUM 
+x, SYM 
+lo6, NOUN 
+V, PROPN 
+cm, PROPN 
+5, NUM 
+mA, NOUN 
+cm, PROPN 
+
+, SPACE 
+25, NUM 
+°, NUM 
+C, NOUN 
+value, NOUN 
+local, ADJ 
+thickness, NOUN 
+associated, PROPN 
+dout, PROPN 
+dt, PROPN 
+t, PROPN 
+l, NOUN 
+value, NOUN 
+
+, SPACE 
+possible, ADJ 
+estimate, VERB 
+electric, ADJ 
+field, NOUN 
+specifically, ADV 
+applied, VERB 
+field, NOUN 
+phosphate-, NOUN 
+
+, SPACE 
+doped, VERB 
+layer, NOUN 
+avoid, VERB 
+complications, NOUN 
+arising, VERB 
+smoothing, VERB 
+effect, NOUN 
+local, ADJ 
+regions, NOUN 
+
+, SPACE 
+selected, VERB 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layer, NOUN 
+relatively, ADV 
+smooth, ADJ 
+
+, SPACE 
+regions, NOUN 
+local, ADJ 
+film, NOUN 
+thickness, NOUN 
+dout, NOUN 
+dtotal, ADJ 
+values, NOUN 
+158, NUM 
+0.33, NUM 
+nm, NOUN 
+respectively, ADV 
+
+, SPACE 
+thicknesses, NOUN 
+outer, ADJ 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+inner, ADJ 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+estimated, VERB 
+
+, SPACE 
+52, NUM 
+106, NUM 
+nm, ADJ 
+respectively, ADV 
+electric, ADJ 
+field, NOUN 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+
+, SPACE 
+1.36, NUM 
+x, SYM 
+lo6, NOUN 
+V, PROPN 
+cm, PROPN 
+voltage, NOUN 
+applied, VERB 
+inner, ADJ 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+14.4, NUM 
+V., NOUN 
+
+, SPACE 
+difference, NOUN 
+voltage, NOUN 
+i.e., X 
+15.6, NUM 
+V, NOUN 
+supported, VERB 
+outer, ADJ 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+
+, SPACE 
+52, NUM 
+nm, NOUN 
+thickness, NOUN 
+Consequently, ADV 
+electric, ADJ 
+field, NOUN 
+outer, ADJ 
+phosphate, ADJ 
+layer, NOUN 
+
+, SPACE 
+3.00, NUM 
+x, NUM 
+IO6, PROPN 
+V, PROPN 
+cm, PROPN 
+considerably, ADV 
+greater, ADJ 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+Similar, ADJ 
+figures, NOUN 
+
+, SPACE 
+i.e., X 
+3.12, NUM 
+x, SYM 
+lo6, PROPN 
+3.44, NUM 
+x, SYM 
+lo6, NOUN 
+V, PROPN 
+cm, PROPN 
+obtained, VERB 
+local, ADJ 
+regions, NOUN 
+b, NOUN 
+Fig, PROPN 
+1, NUM 
+
+, SPACE 
+respectively, ADV 
+
+, SPACE 
+tantalum, NOUN 
+niobium, NOUN 
+known, VERB 
+ionic, ADJ 
+conductivity, NOUN 
+outer, ADJ 
+
+, SPACE 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+lower, ADJ 
+inner, ADJ 
+pure, ADJ 
+oxide, NOUN 
+layer, NOUN 
+interpreted, VERB 
+
+, SPACE 
+incorporated, VERB 
+phosphate, ADJ 
+anions, NOUN 
+lowering, VERB 
+dielectric, ADJ 
+constant, NOUN 
+turn, NOUN 
+
+, SPACE 
+lower, VERB 
+effective, ADJ 
+field, NOUN 
+Lorenz, PROPN 
+field, NOUN 
+oxide, NOUN 
+controls, VERB 
+ionic, ADJ 
+transport, NOUN 
+
+, SPACE 
+processes, NOUN 
+12, NUM 
+29, NUM 
+broadly, ADV 
+similar, ADJ 
+explanation, NOUN 
+applied, VERB 
+present, ADJ 
+case, NOUN 
+
+, SPACE 
+evident, ADJ 
+effect, NOUN 
+incorporated, VERB 
+phosphate, ADJ 
+anions, NOUN 
+ionic, ADJ 
+
+, SPACE 
+conductivity, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+considerably, ADV 
+greater, ADJ 
+anodic, ADJ 
+Ta205, NOUN 
+Nb205, NOUN 
+
+, SPACE 
+despite, SCONJ 
+dielectric, ADJ 
+constants, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+Nb205, PROPN 
+similar, ADJ 
+40, NUM 
+
+, SPACE 
+present, ADJ 
+time, NOUN 
+precise, ADJ 
+composition, NOUN 
+phosphate, NOUN 
+doped, VERB 
+anodic, ADJ 
+Bi203, PROPN 
+
+, SPACE 
+available, ADJ 
+discussion, NOUN 
+effect, NOUN 
+incorporated, VERB 
+phosphate, ADJ 
+anions, NOUN 
+ionic, ADJ 
+
+, SPACE 
+conductivity, NOUN 
+oxide, NOUN 
+possible, ADJ 
+Determination, NOUN 
+precise, ADJ 
+compositions, NOUN 
+
+, SPACE 
+anodic, ADJ 
+Bi203, PROPN 
+formed, VERB 
+electrolytes, NOUN 
+including, VERB 
+ammonium, NOUN 
+dihydrogen, NOUN 
+phosphate, NOUN 
+
+, SPACE 
+solution, NOUN 
+progress, NOUN 
+Rutherford, PROPN 
+backscattering, VERB 
+spectroscopy, ADJ 
+X, NOUN 
+ray, NOUN 
+
+, SPACE 
+440, NUM 
+K., PROPN 
+Shimizu, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+photoelectron, PROPN 
+spectroscopy, NOUN 
+combined, VERB 
+chemical, NOUN 
+sectioning, NOUN 
+oxide, NOUN 
+dilute, PROPN 
+
+, SPACE 
+sulphuric, PROPN 
+acid, NOUN 
+solution, NOUN 
+results, NOUN 
+interpretation, NOUN 
+effect, NOUN 
+
+, SPACE 
+electrolyte, ADJ 
+anions, NOUN 
+ionic, ADJ 
+conductivity, NOUN 
+anodic, ADJ 
+Bi203, PROPN 
+published, VERB 
+
+, SPACE 
+course, NOUN 
+
+, SPACE 
+CONCLUSIONS, PROPN 
+
+, SPACE 
+1, NUM 
+Ultramicrotomy, PROPN 
+employed, VERB 
+generate, VERB 
+electron, NOUN 
+transparent, ADJ 
+sections, NOUN 
+
+, SPACE 
+amorphous, ADJ 
+anodic, ADJ 
+Bi203, PROPN 
+formed, VERB 
+magnetron, PROPN 
+sputtered, VERB 
+bismuth, NOUN 
+layers, NOUN 
+ammonium, NOUN 
+
+, SPACE 
+dihydrogen, NOUN 
+phosphate, NOUN 
+solution, NOUN 
+
+, SPACE 
+2, X 
+differently, ADV 
+contrasted, VERB 
+film, NOUN 
+sections, NOUN 
+reveal, VERB 
+duplex, NOUN 
+film, NOUN 
+structure, NOUN 
+comprising, VERB 
+
+, SPACE 
+outer, ADJ 
+region, NOUN 
+film, NOUN 
+material, NOUN 
+containing, VERB 
+incorporated, ADJ 
+phosphate, ADJ 
+species, NOUN 
+inner, ADJ 
+layer, NOUN 
+
+, SPACE 
+relatively, ADV 
+pure, ADJ 
+oxide, NOUN 
+differently, ADV 
+textured, VERB 
+film, NOUN 
+regions, NOUN 
+suggest, VERB 
+amorphous, ADJ 
+
+, SPACE 
+oxide, NOUN 
+developed, VERB 
+egress, NOUN 
+Bi3, NOUN 
++, NOUN 
+tons, NOUN 
+ingress, NOUN 
+O*-, ADJ 
+ions, NOUN 
+electric, ADJ 
+field, NOUN 
+
+, SPACE 
+suggested, VERB 
+transport, NOUN 
+number, NOUN 
+Bi3, NOUN 
++, ADJ 
+tons, NOUN 
+0.15, NUM 
+incorporated, VERB 
+phosphate, ADJ 
+ions, NOUN 
+
+, SPACE 
+inwardly, ADV 
+mobile, ADJ 
+film, NOUN 
+growth, NOUN 
+electric, ADJ 
+field, NOUN 
+
+, SPACE 
+3, X 
+comparison, NOUN 
+films, NOUN 
+formed, VERB 
+sodium, NOUN 
+hydroxide, ADV 
+electrolyte, VERB 
+applied, VERB 
+field, NOUN 
+
+, SPACE 
+inner, ADJ 
+region, NOUN 
+relatively, ADV 
+pure, ADJ 
+Bi203, PROPN 
+1.36, NUM 
+x, SYM 
+lo6, NOUN 
+V, PROPN 
+cm, PROPN 
+5, NUM 
+mA, NOUN 
+cm2, NOUN 
+25, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+compared, VERB 
+3.00, NUM 
+x, SYM 
+lo6, NOUN 
+V, PROPN 
+cm, PROPN 
+outer, ADJ 
+phosphate, NOUN 
+doped, VERB 
+layer, NOUN 
+Reasons, NOUN 
+
+, SPACE 
+large, ADJ 
+variation, NOUN 
+applied, VERB 
+field, NOUN 
+different, ADJ 
+regions, NOUN 
+currently, ADV 
+explored, VERB 
+
+, SPACE 
+Acknowledgemenu, PROPN 
+authors, NOUN 
+wish, VERB 
+thank, VERB 
+Mr, PROPN 
+E., PROPN 
+Akiyama, PROPN 
+Prof., PROPN 
+K., PROPN 
+Hashimoto, PROPN 
+Institute, PROPN 
+
+, SPACE 
+Materials, PROPN 
+Research, PROPN 
+Tohoku, PROPN 
+University, PROPN 
+preparation, NOUN 
+sputter, NOUN 
+deposited, VERB 
+bismuth, NOUN 
+layers, NOUN 
+
+, SPACE 
+REFERENCES, PROPN 
+
+, SPACE 
+1, NUM 
+A., NOUN 
+Gunthereschulze, PROPN 
+H., PROPN 
+Betz, PROPN 
+Electrolytkondensatoren, PROPN 
+2nd, PROPN 
+edn, PROPN 
+Herbert, PROPN 
+Cram, PROPN 
+Berlin, PROPN 
+1952, NUM 
+
+, SPACE 
+2, X 
+L., PROPN 
+Young, PROPN 
+Anodic, PROPN 
+Oxide, PROPN 
+Films, PROPN 
+Academic, PROPN 
+Press, PROPN 
+New, PROPN 
+York, PROPN 
+1960, NUM 
+
+, SPACE 
+3, X 
+J.W., PROPN 
+Diggle, PROPN 
+T.C., PROPN 
+Downie, PROPN 
+C.W., PROPN 
+Goulding, PROPN 
+Chem, PROPN 
+Rev., PROPN 
+69, NUM 
+367, NUM 
+1969, NUM 
+
+, SPACE 
+4, X 
+M.J., PROPN 
+Dignam, PROPN 
+Ionic, ADJ 
+transport, NOUN 
+oxide, NOUN 
+films, NOUN 
+Oxide, NOUN 
+Oxide, PROPN 
+Films, PROPN 
+ed, PROPN 
+J.W., PROPN 
+Diggle, PROPN 
+Vol, PROPN 
+1, NUM 
+p., NOUN 
+91, NUM 
+
+, SPACE 
+Marcel, PROPN 
+Dekker, PROPN 
+New, PROPN 
+York, PROPN 
+1972, NUM 
+
+, SPACE 
+5, X 
+J.A., PROPN 
+Davies, NOUN 
+B., PROPN 
+Domeij, PROPN 
+J.P.S., PROPN 
+Pringle, PROPN 
+F., PROPN 
+Brown, PROPN 
+J., PROPN 
+electrochem, NOUN 
+Sot, PROPN 
+112, NUM 
+675, NUM 
+1965, NUM 
+
+, SPACE 
+6, X 
+J.P.S., PROPN 
+Pringle, PROPN 
+J., PROPN 
+eiectrochem, NOUN 
+Sot, PROPN 
+120, NUM 
+398, NUM 
+1973, NUM 
+
+, SPACE 
+7, X 
+J.P.S., PROPN 
+Pringle, PROPN 
+J., PROPN 
+eiectrochem, NOUN 
+Sot, PROPN 
+120, NUM 
+1391, NUM 
+1973, NUM 
+
+, SPACE 
+8, X 
+F., PROPN 
+Brown, PROPN 
+W.D., PROPN 
+Mackintosh, PROPN 
+J., PROPN 
+electrochem, NOUN 
+Sot, PROPN 
+120, NUM 
+1096, NUM 
+1973, NUM 
+
+, SPACE 
+9, X 
+K., PROPN 
+Shimizu, PROPN 
+G.E., PROPN 
+Thompson, PROPN 
+G.C., PROPN 
+Wood, PROPN 
+Y., PROPN 
+Xu, PROPN 
+Thin, PROPN 
+Solid, PROPN 
+Films, PROPN 
+88, NUM 
+255, NUM 
+1982, NUM 
+
+, SPACE 
+10, X 
+J.P.S., PROPN 
+Pringle, PROPN 
+Electrochem, PROPN 
+Sot, PROPN 
+Ext, PROPN 
+Abstracts, NOUN 
+78, NUM 
+1, NUM 
+Abs, PROPN 
+198, NUM 
+Seattle, PROPN 
+Meeting, PROPN 
+1978, NUM 
+
+, SPACE 
+11, NUM 
+J.J., PROPN 
+Randall, PROPN 
+W.J., PROPN 
+Bernard, PROPN 
+R.R., PROPN 
+Wilkinson, PROPN 
+Elecrrochim, PROPN 
+Acta, PROPN 
+10, NUM 
+183, NUM 
+1965, NUM 
+
+, SPACE 
+12, NUM 
+C.J., PROPN 
+Dell’oca, PROPN 
+L., PROPN 
+Young, PROPN 
+J., PROPN 
+electrochem, NOUN 
+Sot, PROPN 
+117, NUM 
+1548, NUM 
+1970, NUM 
+
+, SPACE 
+13, X 
+J.J., PROPN 
+Randall, PROPN 
+W.J., PROPN 
+Bernard, PROPN 
+Electrochim, PROPN 
+Acta, PROPN 
+20, NUM 
+653, NUM 
+1975, NUM 
+
+, SPACE 
+14, NUM 
+K., PROPN 
+Shimizu, PROPN 
+G.E., PROPN 
+Thompson, PROPN 
+G.C., PROPN 
+Wood, PROPN 
+Thin, PROPN 
+Solid, PROPN 
+Films, PROPN 
+77, NUM 
+313, NUM 
+1981, NUM 
+
+, SPACE 
+15, X 
+K., PROPN 
+Shimizu, PROPN 
+G.E., PROPN 
+Thompson, PROPN 
+G.C., PROPN 
+Wood, PROPN 
+Thin, PROPN 
+Solid, PROPN 
+Films, PROPN 
+81, NUM 
+39, NUM 
+1981, NUM 
+
+, SPACE 
+16, X 
+H., PROPN 
+Takahashi, PROPN 
+K., PROPN 
+Fujimoto, PROPN 
+H., PROPN 
+Konno, PROPN 
+M., PROPN 
+Nagayama, PROPN 
+J., PROPN 
+elecrrochem, PROPN 
+Sot, PROPN 
+131, NUM 
+1856, NUM 
+1984, NUM 
+
+, SPACE 
+17, X 
+P., PROPN 
+Skeldon, PROPN 
+K., PROPN 
+Shimizu, PROPN 
+G.E., PROPN 
+Thompson, PROPN 
+G.C., PROPN 
+Wood, PROPN 
+Thin, PROPN 
+Solid, ADJ 
+Films, PROPN 
+123, NUM 
+127, NUM 
+1985, NUM 
+
+, SPACE 
+18, X 
+K., PROPN 
+Shimizu, PROPN 
+K., PROPN 
+Kobayashi, PROPN 
+G.E., PROPN 
+Thompson, PROPN 
+P., PROPN 
+Skeldon, PROPN 
+G.C., PROPN 
+Wood, PROPN 
+Phil, PROPN 
+Mug, PROPN 
+B, PROPN 
+submitted, VERB 
+
+, SPACE 
+19, X 
+K., PROPN 
+Shimizu, PROPN 
+K., PROPN 
+Kobayashi, PROPN 
+G, PROPN 
+.E., PROPN 
+Thompson, PROPN 
+P., PROPN 
+Skeldon, PROPN 
+G.C., PROPN 
+Wood, PROPN 
+published, VERB 
+
+, SPACE 
+20, NUM 
+I., PROPN 
+Mason, PROPN 
+L., PROPN 
+Young, PROPN 
+J., PROPN 
+Chem, PROPN 
+40, NUM 
+9903, NUM 
+1962, NUM 
+
+, SPACE 
+21, X 
+A.C., PROPN 
+Harkness, PROPN 
+L., PROPN 
+Young, PROPN 
+J., PROPN 
+Chem, PROPN 
+44, NUM 
+2409, NUM 
+1966, NUM 
+
+, SPACE 
+22, X 
+K., PROPN 
+Shimizu, PROPN 
+G.E., PROPN 
+Thompson, PROPN 
+G.C., PROPN 
+Wood, PROPN 
+Y., PROPN 
+Kurima, PROPN 
+K., PROPN 
+Kobayashi, PROPN 
+Thin, PROPN 
+Solid, PROPN 
+Films, PROPN 
+173, NUM 
+263, NUM 
+1989, NUM 
+
+, SPACE 
+23, NUM 
+R.C., PROPN 
+Furneaux, PROPN 
+G.E., PROPN 
+Thompson, PROPN 
+G.C., PROPN 
+Wood, PROPN 
+Corros, PROPN 
+Sci, PROPN 
+18, NUM 
+853, NUM 
+1978, NUM 
+
+, SPACE 
+24, NUM 
+K., PROPN 
+Komorita, PROPN 
+H., PROPN 
+Nishimura, PROPN 
+A., PROPN 
+Yoshida, PROPN 
+Thin, PROPN 
+Solid, PROPN 
+Films, PROPN 
+229, NUM 
+156, NUM 
+1993, NUM 
+
+, SPACE 
+Direct, ADJ 
+observation, NOUN 
+anodic, ADJ 
+B&O3, PROPN 
+441, NUM 
+
+, SPACE 
+25, NUM 
+J.P.S., PROPN 
+Pringle, PROPN 
+Electrochinl, PROPN 
+Acta, PROPN 
+25, NUM 
+1423, NUM 
+1980, NUM 
+
+, SPACE 
+26, NUM 
+K., PROPN 
+Shimizu, PROPN 
+K., PROPN 
+Kobayashi, PROPN 
+G.E., PROPN 
+Thompson, PROPN 
+G.C., PROPN 
+Wood, PROPN 
+J., PROPN 
+Surf, PROPN 
+Finish, PROPN 
+Sot, PROPN 
+Jap, PROPN 
+42, NUM 
+63, NUM 
+1991, NUM 
+
+, SPACE 
+27, X 
+K., PROPN 
+Shimizu, PROPN 
+K., PROPN 
+Kobayashi, PROPN 
+G.E., PROPN 
+Thompson, PROPN 
+G.C., PROPN 
+Wood, PROPN 
+published, VERB 
+
+, SPACE 
+28, X 
+CRC, PROPN 
+Handbook, PROPN 
+Chemistry, PROPN 
+Physics, PROPN 
+4, NUM 
+44, NUM 
+CRC, PROPN 
+Press, PROPN 
+1995, NUM 
+
+, SPACE 
+29, X 
+J.J., PROPN 
+Randall, PROPN 
+Electrochim, PROPN 
+Acta, PROPN 
+20, NUM 
+663, NUM 
+1975, NUM 
+
+, SPACE 

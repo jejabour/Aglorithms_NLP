@@ -1,0 +1,2002 @@
+Nuclear, PROPN 
+Instruments, PROPN 
+Methods, PROPN 
+Physics, PROPN 
+Research, PROPN 
+B, PROPN 
+107, NUM 
+1996, NUM 
+393, NUM 
+396, NUM 
+cm, NOUN 
+li!B, PROPN 
+
+, SPACE 
+ELSEVIER, NOUN 
+NIIM, PROPN 
+B, PROPN 
+
+, SPACE 
+Beam, PROPN 
+lnteraotions, NOUN 
+
+, SPACE 
+Materials&Atoms, NOUN 
+
+, SPACE 
+Solvent, PROPN 
+induced, VERB 
+track, NOUN 
+sensitization, NOUN 
+Role, PROPN 
+amines, NOUN 
+
+, SPACE 
+T., PROPN 
+Steckenreiter, PROPN 
+ay, ADP 
+M., PROPN 
+Esser, PROPN 
+b, PROPN 
+H., PROPN 
+Fuess, PROPN 
+J., PROPN 
+Fuhrmann, PROPN 
+b, PROPN 
+R., PROPN 
+Spohr, PROPN 
+C., PROPN 
+Trautmann, PROPN 
+
+, SPACE 
+TH, PROPN 
+Darmstadt, PROPN 
+Petersenstr, PROPN 
+20, NUM 
+D-64287, PROPN 
+Darmstadt, PROPN 
+Germany, PROPN 
+
+, SPACE 
+b, PROPN 
+TU, PROPN 
+Clausthal, PROPN 
+Arnold, PROPN 
+Sommerfeld, PROPN 
+Str, PROPN 
+4, NUM 
+D-38678, ADJ 
+Clausthal, PROPN 
+Zellerfeld, PROPN 
+Germany, PROPN 
+
+, SPACE 
+GSI, PROPN 
+Planckstr, PROPN 
+1, NUM 
+D-64291, PROPN 
+Darmstadt, PROPN 
+Germany, PROPN 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+necessary, ADJ 
+condition, NOUN 
+etching, VERB 
+particle, NOUN 
+tracks, NOUN 
+polymers, NOUN 
+selective, ADJ 
+removal, NOUN 
+molecular, ADJ 
+fragments, NOUN 
+formed, VERB 
+
+, SPACE 
+ion, NOUN 
+path, NOUN 
+recently, ADV 
+assumed, VERB 
+solvent, ADJ 
+induced, VERB 
+track, NOUN 
+sensitization, NOUN 
+N, PROPN 
+N, NOUN 
+dimethylformamide, NOUN 
+DMF, PROPN 
+
+, SPACE 
+poly(ethyleneterephthalate, PROPN 
+PET, PROPN 
+removes, VERB 
+oligomers, NOUN 
+track, NOUN 
+core, NOUN 
+exclusively, ADV 
+dissolution, NOUN 
+process, NOUN 
+
+, SPACE 
+present, ADJ 
+study, NOUN 
+shows, VERB 
+degradation, NOUN 
+products, NOUN 
+DMF, PROPN 
+particular, ADJ 
+amines, NOUN 
+involved, VERB 
+sensitization, NOUN 
+process, NOUN 
+
+, SPACE 
+purpose, NOUN 
+chemical, ADJ 
+interaction, NOUN 
+amines, NOUN 
+heavy, ADJ 
+ion, NOUN 
+irradiated, VERB 
+PET, PROPN 
+examined, VERB 
+techniques, NOUN 
+
+, SPACE 
+shown, VERB 
+amines, NOUN 
+induce, VERB 
+selective, ADJ 
+track, NOUN 
+pre, ADJ 
+etching, VERB 
+Compared, VERB 
+pure, ADJ 
+DMF, PROPN 
+track, NOUN 
+etching, VERB 
+rate, NOUN 
+increases, NOUN 
+
+, SPACE 
+amine, NOUN 
+concentration, NOUN 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+Heavy, PROPN 
+ion, NOUN 
+tracks, NOUN 
+polymers, NOUN 
+consist, VERB 
+amorphous, ADJ 
+
+, SPACE 
+phase, NOUN 
+form, NOUN 
+cylindrical, ADJ 
+damage, NOUN 
+zone, NOUN 
+
+, SPACE 
+increased, VERB 
+chemical, NOUN 
+reactivity, NOUN 
+ion, NOUN 
+tracks, NOUN 
+at-, ADV 
+
+, SPACE 
+tacked, VERB 
+selective, ADJ 
+etching, VERB 
+suitable, ADJ 
+etchant, NOUN 
+
+, SPACE 
+modified, VERB 
+material, NOUN 
+track, NOUN 
+dissolved, VERB 
+
+, SPACE 
+higher, ADJ 
+rate, NOUN 
+non, ADJ 
+damaged, ADJ 
+matrix, NOUN 
+technique, NOUN 
+
+, SPACE 
+years, NOUN 
+makes, VERB 
+possible, ADJ 
+wide, ADJ 
+
+, SPACE 
+range, NOUN 
+scientific, ADJ 
+technical, ADJ 
+applications, NOUN 
+1,2, NUM 
+
+, SPACE 
+effect, NOUN 
+solvent, ADJ 
+induced, VERB 
+track, NOUN 
+sensitization, NOUN 
+known, VERB 
+
+, SPACE 
+1990, NUM 
+131, NUM 
+Tracks, NOUN 
+poly(ethyleneterephthalate1, NOUN 
+PET, PROPN 
+
+, SPACE 
+showed, VERB 
+increased, VERB 
+etching, VERB 
+rate, NOUN 
+treated, VERB 
+
+, SPACE 
+organic, ADJ 
+solvent, NOUN 
+N, PROPN 
+N, NOUN 
+dimethylformamide, NOUN 
+DMF, PROPN 
+
+, SPACE 
+effect, NOUN 
+exclusively, ADV 
+attributed, VERB 
+swelling, NOUN 
+
+, SPACE 
+recrystallisation, VERB 
+extraction, NOUN 
+oligomers, NOUN 
+
+, SPACE 
+4, NUM 
+81, NUM 
+
+, SPACE 
+Etching, VERB 
+tracks, NOUN 
+PET, PROPN 
+usually, ADV 
+performed, VERB 
+aque-, NOUN 
+
+, SPACE 
+ous, ADJ 
+NaOH, PROPN 
+3, NUM 
+6, NUM 
+M, NOUN 
+temperatures, NOUN 
+30, NUM 
+70, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+polymer, NOUN 
+decomposed, VERB 
+alkaline, NOUN 
+hydrolysis, NOUN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+
+, SPACE 
+known, VERB 
+PET, PROPN 
+degraded, VERB 
+
+, SPACE 
+non, ADJ 
+aqueous, ADJ 
+systems, NOUN 
+aminolysis, NOUN 
+reactions, NOUN 
+Fig, PROPN 
+2, NUM 
+
+, SPACE 
+assume, VERB 
+aminolysis, NOUN 
+reaction, NOUN 
+involved, VERB 
+
+, SPACE 
+sensitization, NOUN 
+process, NOUN 
+Amines, NOUN 
+produced, VERB 
+DMF, PROPN 
+
+, SPACE 
+degrades, NOUN 
+influence, NOUN 
+light, NOUN 
+water, NOUN 
+e.g., ADV 
+
+, SPACE 
+atmospheric, ADJ 
+Fig, PROPN 
+3, NUM 
+exists, VERB 
+
+, SPACE 
+spurious, ADJ 
+impurity, NOUN 
+DMF, PROPN 
+
+, SPACE 
+report, VERB 
+studies, NOUN 
+techniques, NOUN 
+UV, NOUN 
+
+, SPACE 
+Corresponding, PROPN 
+author, NOUN 
+fluorescence, PROPN 
+spectroscopy, PROPN 
+gel, PROPN 
+permeation, NOUN 
+chromatog-, NOUN 
+
+, SPACE 
+raphy, NOUN 
+electric, ADJ 
+conductance, NOUN 
+chemical, NOUN 
+etching, VERB 
+order, NOUN 
+
+, SPACE 
+test, VERB 
+influence, NOUN 
+amines, NOUN 
+process, NOUN 
+track, NOUN 
+
+, SPACE 
+sensitization, NOUN 
+
+, SPACE 
+2, X 
+Irradiation, PROPN 
+
+, SPACE 
+Commercial, PROPN 
+PET, PROPN 
+films, NOUN 
+Hoechst, PROPN 
+type, NOUN 
+RN, PROPN 
+23, NUM 
+
+, SPACE 
+average, ADJ 
+thickness, NOUN 
+23, NUM 
+pm, NOUN 
+irradiated, VERB 
+
+, SPACE 
+Xe, PROPN 
+ions, NOUN 
+specific, ADJ 
+energy, NOUN 
+11.4, NUM 
+MeV, PROPN 
+u., NOUN 
+extrac-, NOUN 
+
+, SPACE 
+tion, NOUN 
+experiments, VERB 
+applied, VERB 
+fluence, NOUN 
+10, NUM 
+ions, NOUN 
+cm2, NOUN 
+
+, SPACE 
+sensitization, NOUN 
+etching, VERB 
+experiments, NOUN 
+ion, NOUN 
+fluence, NOUN 
+
+, SPACE 
+3, NUM 
+X, NOUN 
+lo8, NOUN 
+ions, NOUN 
+cm2, NOUN 
+
+, SPACE 
+3, X 
+Experimental, ADJ 
+results, VERB 
+
+, SPACE 
+3.1, NUM 
+Spectroscopy, ADJ 
+chromatography, NOUN 
+
+, SPACE 
+investigate, VERB 
+influence, NOUN 
+amines, NOUN 
+methylamine, ADJ 
+
+, SPACE 
+propylamine, NOUN 
+Aldrich, PROPN 
+Chemie, PROPN 
+track, NOUN 
+sensitiza-, VERB 
+
+, SPACE 
+tion, NOUN 
+defined, VERB 
+quantities, NOUN 
+added, VERB 
+DMF, PROPN 
+Merck, PROPN 
+vary-, VERB 
+
+, SPACE 
+ing, VERB 
+concentration, NOUN 
+0, NUM 
+6, NUM 
+~01, NUM 
+spectroscopic, NOUN 
+
+, SPACE 
+measurements, NOUN 
+use, VERB 
+homologue, NOUN 
+propylamine, NOUN 
+model, NOUN 
+
+, SPACE 
+substance, NOUN 
+instead, ADV 
+gaseous, ADJ 
+methylamine, NOUN 
+
+, SPACE 
+100, NUM 
+mg, NOUN 
+irradiated, ADJ 
+PET, PROPN 
+films, NOUN 
+extracted, VERB 
+
+, SPACE 
+48, NUM 
+h, NOUN 
+T=, PROPN 
+25, NUM 
+°, NOUN 
+C, NOUN 
+shaking, VERB 
+DMF, PROPN 
+amine, NOUN 
+
+, SPACE 
+solutions, NOUN 
+extracts, NOUN 
+examined, VERB 
+following, ADJ 
+
+, SPACE 
+standard, ADJ 
+methods, NOUN 
+characterizing, VERB 
+chemical, NOUN 
+compounds, NOUN 
+
+, SPACE 
+1, X 
+UV, NOUN 
+spectroscopy, NOUN 
+Lambda, PROPN 
+15, NUM 
+spectrometer, NOUN 
+Per-, PROPN 
+
+, SPACE 
+kin, PROPN 
+Elmer, PROPN 
+wavelength, NOUN 
+range, NOUN 
+280, NUM 
+450, NUM 
+nm, NOUN 
+step, NOUN 
+
+, SPACE 
+width, VERB 
+1, NUM 
+nm, ADJ 
+recording, VERB 
+speed, NOUN 
+120, NUM 
+nm, NOUN 
+min, PROPN 
+
+, SPACE 
+0168, NUM 
+583X/96/$15.00, NOUN 
+0, NUM 
+I996, PROPN 
+Elsevier, ADJ 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+SSDIO168, NOUN 
+583X(95)01151, PROPN 
+X, NOUN 
+V., PROPN 
+RELATED, PROPN 
+FIELDS, PROPN 
+
+, SPACE 
+394, NUM 
+T., PROPN 
+Steckenreiter, PROPN 
+et, PROPN 
+al./Nucl, NOUN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+107, NUM 
+1996, NUM 
+393, NUM 
+396, NUM 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+3, X 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Alkaline, NOUN 
+hydrolysis, NOUN 
+PET, PROPN 
+NaOH, PROPN 
+1, NUM 
+benzenedicarboxylic, PROPN 
+acid, NOUN 
+glycol, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Degradation, NOUN 
+PET, PROPN 
+amines, NOUN 
+Production, NOUN 
+amides, NOUN 
+glycol, NOUN 
+
+, SPACE 
+Fluorescence, PROPN 
+spectroscopy, VERB 
+double, ADJ 
+beam, NOUN 
+spec-, NOUN 
+
+, SPACE 
+trometer, NOUN 
+Fluorolog, PROPN 
+Spex, PROPN 
+single, ADJ 
+photon, NOUN 
+count-, NOUN 
+
+, SPACE 
+ing, ADJ 
+device, NOUN 
+monochromator, NOUN 
+slits, NOUN 
+set, VERB 
+3, NUM 
+nm, NOUN 
+
+, SPACE 
+spectra, NOUN 
+calibrated, VERB 
+rhodamine, ADJ 
+B, PROPN 
+solu-, ADJ 
+
+, SPACE 
+tion, NOUN 
+3, NUM 
+g, NOUN 
+l, NOUN 
+glycerine, NOUN 
+
+, SPACE 
+Gel, PROPN 
+permeation, NOUN 
+chromatography, NOUN 
+GPC, PROPN 
+stan-, NOUN 
+
+, SPACE 
+dard, NOUN 
+chromatograph, NOUN 
+Waters, PROPN 
+Inc., PROPN 
+consist, VERB 
+UV, NOUN 
+
+, SPACE 
+fluorescence, NOUN 
+refractive, ADJ 
+sensors, NOUN 
+Polystyrene, ADJ 
+stan-, NOUN 
+
+, SPACE 
+dards, NOUN 
+h4, PROPN 
+=, PROPN 
+500, NUM 
+600, NUM 
+Ooo, PROPN 
+g, PROPN 
+mol, PROPN 
+MJM, PROPN 
+5, NUM 
+1, NUM 
+
+, SPACE 
+calibration, NOUN 
+sample, NOUN 
+volume, NOUN 
+90, NUM 
+l_~l, NUM 
+
+, SPACE 
+flow, NOUN 
+rate, NOUN 
+1.5, NUM 
+ml, PROPN 
+min, PROPN 
+tetrahydrofuran, NOUN 
+
+, SPACE 
+eluant, ADJ 
+
+, SPACE 
+found, VERB 
+total, ADJ 
+extracts, NOUN 
+increased, VERB 
+
+, SPACE 
+function, NOUN 
+concentration, NOUN 
+propylamine, NOUN 
+pure, ADJ 
+
+, SPACE 
+DMF, PROPN 
+Fig, PROPN 
+4, NUM 
+observed, ADJ 
+absorbance, NOUN 
+wavelength, NOUN 
+
+, SPACE 
+400, NUM 
+nm, NOUN 
+indicates, VERB 
+existence, NOUN 
+radiolysis, NOUN 
+prod-, VERB 
+
+, SPACE 
+ucts, NOUN 
+5,9, NUM 
+recorded, ADJ 
+GPC, PROPN 
+signal, NOUN 
+corresponds, NOUN 
+masses, NOUN 
+
+, SPACE 
+lower, ADJ 
+500, NUM 
+g, NOUN 
+mol, NOUN 
+peak, NOUN 
+solvent, NOUN 
+
+, SPACE 
+Masses, NOUN 
+higher, ADJ 
+500, NUM 
+g, PROPN 
+mol, NOUN 
+observed, VERB 
+
+, SPACE 
+Fluorescence, PROPN 
+spectra, PROPN 
+recorded, VERB 
+excitation, NOUN 
+
+, SPACE 
+wavelength, NOUN 
+386, NUM 
+nm, NOUN 
+emission, NOUN 
+wavelength, NOUN 
+
+, SPACE 
+420, NUM 
+nm, NOUN 
+Fig, PROPN 
+5, NUM 
+indicate, VERB 
+radiolysis, NOUN 
+products, NOUN 
+
+, SPACE 
+caused, VERB 
+ion, NOUN 
+irradiation, NOUN 
+similar, ADJ 
+gener-, NOUN 
+
+, SPACE 
+ated, VERB 
+photodegradation, NOUN 
+lo-, X 
+121, NUM 
+
+, SPACE 
+Surnmarising, VERB 
+results, NOUN 
+obtained, VERB 
+GPC, PROPN 
+UV, NOUN 
+
+, SPACE 
+fluorescence, PROPN 
+spectroscopy, VERB 
+evident, ADJ 
+
+, SPACE 
+irradiation, NOUN 
+products, NOUN 
+extracts, NOUN 
+strongly, ADV 
+correlated, VERB 
+
+, SPACE 
+concentration, NOUN 
+amine, NOUN 
+DMF, PROPN 
+
+, SPACE 
+Mass, PROPN 
+spectrometry, NOUN 
+performed, VERB 
+mass, NOUN 
+spec-, NOUN 
+
+, SPACE 
+trometer, NOUN 
+coupled, VERB 
+gas, NOUN 
+chromatograph, NOUN 
+Hewlett-, PROPN 
+
+, SPACE 
+Packard, PROPN 
+chromatography, NOUN 
+carried, VERB 
+he-, PROPN 
+
+, SPACE 
+lium, NOUN 
+column, NOUN 
+temperature, NOUN 
+150, NUM 
+°, NUM 
+C, NOUN 
+order, NOUN 
+avoid, VERB 
+
+, SPACE 
+thermal, ADJ 
+degradation, NOUN 
+spectra, NOUN 
+following, VERB 
+masses, NOUN 
+
+, SPACE 
+identified, VERB 
+M, PROPN 
+=, NUM 
+327, NUM 
+g, PROPN 
+mol, PROPN 
+M, PROPN 
+=, NUM 
+251, NUM 
+g, NOUN 
+mok, NOUN 
+
+, SPACE 
+h+v, PUNCT 
+
+, SPACE 
+HCO, PROPN 
+N(CH, PROPN 
+H20, PROPN 
+H&O, PROPN 
++, CCONJ 
+HN(CH, PROPN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Degradation, NOUN 
+N, PROPN 
+N, NOUN 
+dimethylformamide, NOUN 
+dimethylamine, NOUN 
+
+, SPACE 
+formaldehyde, NOUN 
+M, NOUN 
+=, AUX 
+248, NUM 
+g, PROPN 
+mol, PROPN 
+taken, VERB 
+extracts, NOUN 
+sensitization, NOUN 
+
+, SPACE 
+pure, ADJ 
+DMF, PROPN 
+DMF/3, PROPN 
+propylamine, NOUN 
+
+, SPACE 
+DMF, PROPN 
+lO%, NOUN 
+propylamine, NOUN 
+respectively, ADV 
+attributed, VERB 
+
+, SPACE 
+chemical, NOUN 
+compounds, NOUN 
+shown, VERB 
+Fig, PROPN 
+6, NUM 
+interest-, ADJ 
+
+, SPACE 
+ing, NOUN 
+note, VERB 
+compounds, NOUN 
+observed, VERB 
+
+, SPACE 
+degradation, NOUN 
+products, NOUN 
+amides, NOUN 
+polyester, NOUN 
+aminol-, NOUN 
+
+, SPACE 
+ysis, NOUN 
+substance, NOUN 
+corresponding, VERB 
+M, PROPN 
+=, PROPN 
+327, NUM 
+g, PROPN 
+mol, PROPN 
+
+, SPACE 
+found, VERB 
+extract, NOUN 
+pure, ADJ 
+DMF, PROPN 
+provides, VERB 
+evidence, NOUN 
+
+, SPACE 
+degradation, NOUN 
+PET, PROPN 
+amines, NOUN 
+impurities, NOUN 
+DMF, PROPN 
+
+, SPACE 
+3.2, NUM 
+Permeation, NOUN 
+
+, SPACE 
+experiment, NOUN 
+studied, VERB 
+permeation, NOUN 
+
+, SPACE 
+solvent, NOUN 
+ion, NOUN 
+tracks, NOUN 
+conductivity, NOUN 
+cell, NOUN 
+
+, SPACE 
+irradiated, VERB 
+PET, ADJ 
+foil, NOUN 
+separates, VERB 
+chambers, NOUN 
+filled, VERB 
+
+, SPACE 
+DMF, PROPN 
+methylamine, ADJ 
+water, NOUN 
+solution, NOUN 
+sensitization, NOUN 
+
+, SPACE 
+conducting, VERB 
+medium, NOUN 
+sensitization, NOUN 
+process, NOUN 
+
+, SPACE 
+electrical, ADJ 
+current, NOUN 
+cell, NOUN 
+continuously, ADV 
+moni-, X 
+
+, SPACE 
+tored, VERB 
+instant, NOUN 
+sensitization, NOUN 
+medium, NOUN 
+com-, NOUN 
+
+, SPACE 
+pletely, ADV 
+penetrates, VERB 
+tracks, NOUN 
+breakthrough, ADJ 
+time, NOUN 
+
+, SPACE 
+characterised, VERB 
+dramatic, ADJ 
+increase, NOUN 
+electric, ADJ 
+
+, SPACE 
+current, NOUN 
+sensitization, NOUN 
+rate, NOUN 
+K, PROPN 
+defined, VERB 
+
+, SPACE 
+K, NOUN 
+=, NOUN 
+t,/2d, PROPN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+UV, NOUN 
+GPC, PROPN 
+signal, NOUN 
+extracts, NOUN 
+function, NOUN 
+
+, SPACE 
+concentration, NOUN 
+propylamine, NOUN 
+
+, SPACE 
+T., PROPN 
+Steckenreiter, PROPN 
+et, X 
+al./, ADV 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+107, NUM 
+11996, NUM 
+393, NUM 
+396, NUM 
+395, NUM 
+
+, SPACE 
+h, NOUN 
+
+, SPACE 
+.Z, PROPN 
+1, NUM 
+
+, SPACE 
+P, NOUN 
+
+, SPACE 
+B, PROPN 
+
+, SPACE 
+.4, X 
+
+, SPACE 
+0.5, NUM 
+P, NOUN 
+e, NOUN 
+
+, SPACE 
+0, PUNCT 
+v, NOUN 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+0, NUM 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+5, NUM 
+6, NUM 
+7, NUM 
+
+, SPACE 
+ptopylamine, NOUN 
+DMFNol, ADJ 
+1.5, NUM 
+
+, SPACE 
+methylamine, ADJ 
+d, PROPN 
+l, NOUN 
+y, PROPN 
+1, NUM 
+le.49, NOUN 
++, ADJ 
+-92.892logW, NOUN 
+n=, NOUN 
+8.9982, NUM 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Fluorescence, NOUN 
+extracts, NOUN 
+function, NOUN 
+concentration, NOUN 
+Fig, PROPN 
+7, NUM 
+Breakthrough, ADJ 
+time, NOUN 
+function, NOUN 
+amine, NOUN 
+concentration, NOUN 
+
+, SPACE 
+propylamine, NOUN 
+DMF, PROPN 
+7, NUM 
+=, VERB 
+30, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+d, NOUN 
+original, ADJ 
+thickness, NOUN 
+polymer, NOUN 
+film, NOUN 
+
+, SPACE 
+factor, NOUN 
+2, NUM 
+takes, VERB 
+account, NOUN 
+solvent, NOUN 
+permeates, VERB 
+
+, SPACE 
+foil, NOUN 
+sides, NOUN 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+shows, VERB 
+breakthrough, ADJ 
+time, NOUN 
+function, NOUN 
+
+, SPACE 
+amine, NOUN 
+concentration, NOUN 
+DMF, PROPN 
+breakthrough, ADJ 
+time, NOUN 
+
+, SPACE 
+solvent, NOUN 
+decreases, VERB 
+exponentially, ADV 
+increasing, VERB 
+amine, NOUN 
+
+, SPACE 
+concentration, NOUN 
+process, NOUN 
+permeation, NOUN 
+described, VERB 
+
+, SPACE 
+order, NOUN 
+reaction, NOUN 
+respect, NOUN 
+sensitization, NOUN 
+
+, SPACE 
+medium, NOUN 
+
+, SPACE 
+type, NOUN 
+experiment, NOUN 
+performed, VERB 
+varying, VERB 
+
+, SPACE 
+temperature, NOUN 
+electrolyte, NOUN 
+Fig, PROPN 
+8, NUM 
+shows, VERB 
+Arrhe-, PROPN 
+
+, SPACE 
+H)-cMNJ, PROPN 
+o-(H, ADJ 
+
+, SPACE 
+
+, SPACE 
+C,,H,,NO, PROPN 
+M=251, PROPN 
+g, PROPN 
+mol, PROPN 
+
+, SPACE 
+C,,H,&O, PROPN 
+M=248, NOUN 
+g, PROPN 
+mol, PROPN 
+-25, PUNCT 
+.,I, PROPN 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Chemical, ADJ 
+formulas, NOUN 
+masses, NOUN 
+M, PROPN 
+=, SYM 
+327, NUM 
+g, PROPN 
+mol, PROPN 
+M, PROPN 
+=, SYM 
+251, NUM 
+
+, SPACE 
+g, PROPN 
+mol, PROPN 
+M, PROPN 
+=, SYM 
+248g, PROPN 
+mol, PROPN 
+identified, VERB 
+extraction, NOUN 
+pure, ADJ 
+
+, SPACE 
+DMF, PROPN 
+DMF/3, PROPN 
+propylamine, NOUN 
+DMF/, PROPN 
+10, NUM 
+propylamine, NOUN 
+
+, SPACE 
+respectively, ADV 
+3.15, NUM 
+3.2, NUM 
+3.25, NUM 
+3.3, NUM 
+3.35, NUM 
+3.4, NUM 
+3.45, NUM 
+
+, SPACE 
+11(1ooO, NUM 
+T, NOUN 
+KI, PROPN 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+Sensitization, NOUN 
+rate, NOUN 
+function, NOUN 
+inverse, ADJ 
+temperature, NOUN 
+
+, SPACE 
+solution, NOUN 
+90, NUM 
+DMF/6, VERB 
+water/4, ADJ 
+methylamine, ADJ 
+nius, ADJ 
+plot, NOUN 
+solution, NOUN 
+90, NUM 
+DMF/6, NOUN 
+water/4, PROPN 
+
+, SPACE 
+methylamine, ADJ 
+slope, NOUN 
+plot, NOUN 
+K, PROPN 
+
+, SPACE 
+function, NOUN 
+inverse, ADJ 
+temperature, NOUN 
+activation, NOUN 
+energy, NOUN 
+
+, SPACE 
+115.3, NUM 
+kJ, PROPN 
+mol, NOUN 
+deduced, VERB 
+sensitization, NOUN 
+solution, NOUN 
+
+, SPACE 
+linear, ADJ 
+dependence, NOUN 
+confirms, VERB 
+sensitization, NOUN 
+
+, SPACE 
+order, NOUN 
+reaction, NOUN 
+
+, SPACE 
+3.3, X 
+Track, NOUN 
+etching, VERB 
+
+, SPACE 
+Etching, VERB 
+experiments, NOUN 
+performed, VERB 
+investigate, VERB 
+
+, SPACE 
+influence, NOUN 
+amine, NOUN 
+concentration, NOUN 
+DMF, PROPN 
+pore, ADJ 
+
+, SPACE 
+growth, NOUN 
+etched, ADJ 
+tracks, NOUN 
+sensitization, NOUN 
+DMF, PROPN 
+lO%, NOUN 
+
+, SPACE 
+water, NOUN 
+DMF, PROPN 
+IO%, PROPN 
+water, NOUN 
+methylamine, ADJ 
+2.1, NUM 
+
+, SPACE 
+mol, PROPN 
+l, PROPN 
+additive, ADJ 
+polymer, NOUN 
+foils, NOUN 
+etched, VERB 
+5, NUM 
+M, NOUN 
+
+, SPACE 
+sodium, NOUN 
+hydroxide, NOUN 
+solution, NOUN 
+4OT, NUM 
+30, NUM 
+min, NOUN 
+pore, ADV 
+diam-, ADJ 
+
+, SPACE 
+eter, NOUN 
+determined, VERB 
+scanning, VERB 
+electron, NOUN 
+microscope, NOUN 
+
+, SPACE 
+SEM, PROPN 
+Etched, VERB 
+tracks, NOUN 
+sensitized, VERB 
+
+, SPACE 
+DMF, PROPN 
+water, NOUN 
+amine, NOUN 
+solution, NOUN 
+showed, VERB 
+larger, ADJ 
+pore, NOUN 
+diameters, NOUN 
+
+, SPACE 
+-20, PUNCT 
+
+, SPACE 
+-22, PUNCT 
+
+, SPACE 
+kvi, PROPN 
+
+, SPACE 
+c, NOUN 
+
+, SPACE 
+-23, NOUN 
+
+, SPACE 
+-24, PUNCT 
+y, PROPN 
+c, NOUN 
+23.693, NUM 
++, CCONJ 
+-13856x, NOUN 
+R, NOUN 
+=, SYM 
+0.99772, NUM 
+
+, SPACE 
+V., PROPN 
+RELATED, PROPN 
+FTELDS, PROPN 
+
+, SPACE 
+396, NUM 
+
+, SPACE 
+solution, NOUN 
+right, NOUN 
+micrographs, NOUN 
+magnification, NOUN 
+
+, SPACE 
+etched, VERB 
+tracks, NOUN 
+sensitized, VERB 
+pure, ADJ 
+DMF, PROPN 
+water, NOUN 
+mix-, NOUN 
+
+, SPACE 
+ture, NOUN 
+Fig, PROPN 
+9, NUM 
+etched, ADJ 
+surface, NOUN 
+amine, NOUN 
+sensitized, VERB 
+
+, SPACE 
+polymer, NOUN 
+rougher, ADJ 
+DMF, PROPN 
+sensitized, VERB 
+film, NOUN 
+
+, SPACE 
+4, X 
+Summary, PROPN 
+
+, SPACE 
+influence, NOUN 
+amine, NOUN 
+concentration, NOUN 
+DMF, PROPN 
+
+, SPACE 
+sensitizer, NOUN 
+track, NOUN 
+etching, VERB 
+investigated, VERB 
+vari-, NOUN 
+
+, SPACE 
+ous, ADJ 
+techniques, NOUN 
+experiments, NOUN 
+clearly, ADV 
+amines, NOUN 
+
+, SPACE 
+impurities, NOUN 
+additive, NOUN 
+N, PROPN 
+N, NOUN 
+dimethylfor-, NOUN 
+
+, SPACE 
+mamide, NOUN 
+play, VERB 
+important, ADJ 
+role, NOUN 
+sensitization, NOUN 
+process, NOUN 
+
+, SPACE 
+UV, NOUN 
+fluorescence, PROPN 
+spectra, PROPN 
+provide, VERB 
+evidence, NOUN 
+
+, SPACE 
+treatment, NOUN 
+DMF, PROPN 
+amines, NOUN 
+dissolves, VERB 
+radiolysis, NOUN 
+
+, SPACE 
+products, NOUN 
+ion, NOUN 
+tracks, NOUN 
+spectroscopic, NOUN 
+properties, NOUN 
+
+, SPACE 
+products, NOUN 
+similar, ADJ 
+generated, VERB 
+
+, SPACE 
+photolysis, NOUN 
+PET, PROPN 
+Figs, PROPN 
+4, NUM 
+6, NUM 
+8, NUM 
+IO, PROPN 
+aminolysis, NOUN 
+
+, SPACE 
+irradiated, VERB 
+PET, PROPN 
+produces, VERB 
+molecules, NOUN 
+weight, NOUN 
+lower, ADJ 
+
+, SPACE 
+500, NUM 
+g, PROPN 
+mol, PROPN 
+GPC, PROPN 
+
+, SPACE 
+identified, VERB 
+mass, NOUN 
+spectrometry, NOUN 
+reaction, NOUN 
+products, NOUN 
+
+, SPACE 
+identified, VERB 
+sensitization, NOUN 
+irradiated, ADJ 
+PET, PROPN 
+pure, ADJ 
+
+, SPACE 
+DMF, PROPN 
+indicated, VERB 
+methylamine, ADJ 
+degradation, NOUN 
+product, NOUN 
+
+, SPACE 
+DMF, PROPN 
+influences, VERB 
+sensitization, NOUN 
+process, NOUN 
+results, NOUN 
+
+, SPACE 
+chemical, NOUN 
+reactions, NOUN 
+occurring, VERB 
+
+, SPACE 
+solvent, ADJ 
+induced, VERB 
+track, NOUN 
+sensitization, NOUN 
+similar, ADJ 
+rele-, VERB 
+
+, SPACE 
+vant, ADJ 
+processes, NOUN 
+etching, VERB 
+sodium, NOUN 
+hydroxide, ADV 
+
+, SPACE 
+alkaline, NOUN 
+hydrolysis, NOUN 
+13-, NUM 
+151, NUM 
+
+, SPACE 
+Permeation, NOUN 
+experiments, NOUN 
+indicated, VERB 
+increasing, VERB 
+
+, SPACE 
+concentration, NOUN 
+amines, NOUN 
+DMF, PROPN 
+sensitization, NOUN 
+process, NOUN 
+
+, SPACE 
+accelerated, VERB 
+order, NOUN 
+reaction, NOUN 
+explains, VERB 
+ob-, ADJ 
+
+, SPACE 
+servation, NOUN 
+sensitization, NOUN 
+time, NOUN 
+depended, VERB 
+
+, SPACE 
+concentration, NOUN 
+amines, NOUN 
+DMF, PROPN 
+large, ADJ 
+
+, SPACE 
+difference, NOUN 
+pore, ADJ 
+diameters, NOUN 
+etched, VERB 
+tracks, NOUN 
+sensitized, VERB 
+
+, SPACE 
+DMF, PROPN 
+water, NOUN 
+amine, NOUN 
+solution, NOUN 
+amine, NOUN 
+free, ADJ 
+solution, NOUN 
+conclude, VERB 
+amines, NOUN 
+support, VERB 
+sensitization, NOUN 
+
+, SPACE 
+process, NOUN 
+ion, NOUN 
+tracks, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+R.L., PROPN 
+Fleischer, PROPN 
+P.B., PROPN 
+Price, PROPN 
+R.M., PROPN 
+Walker, PROPN 
+Nuclear, PROPN 
+
+, SPACE 
+Tracks, PROPN 
+Solids, PROPN 
+University, PROPN 
+California, PROPN 
+Press, PROPN 
+Berkeley, PROPN 
+
+, SPACE 
+121, NUM 
+
+, SPACE 
+31, NUM 
+
+, SPACE 
+F41, PROPN 
+
+, SPACE 
+151, NUM 
+
+, SPACE 
+k51, NOUN 
+
+, SPACE 
+71, NUM 
+
+, SPACE 
+b31, NUM 
+
+, SPACE 
+191, NUM 
+
+, SPACE 
+1101, NUM 
+
+, SPACE 
+Ill, PROPN 
+
+, SPACE 
+1121, NUM 
+
+, SPACE 
+1131, NUM 
+
+, SPACE 
+I41, PROPN 
+
+, SPACE 
+t151, PROPN 
+1975, NUM 
+
+, SPACE 
+R., PROPN 
+Spohr, PROPN 
+Ion, PROPN 
+Tracks, PROPN 
+Microtechnology, PROPN 
+Principles, PROPN 
+
+, SPACE 
+Applications, PROPN 
+Vieweg, PROPN 
+Sobn, PROPN 
+Verlagsgesellschaft, PROPN 
+mbH, PROPN 
+
+, SPACE 
+Braunschweig, PROPN 
+1990, NUM 
+
+, SPACE 
+H.B., PROPN 
+Lllck, PROPN 
+Nucl, PROPN 
+Tracks, VERB 
+Radiat, PROPN 
+Meas, PROPN 
+19, NUM 
+1991, NUM 
+189, NUM 
+
+, SPACE 
+P., PROPN 
+Ape1, NOUN 
+L.I., PROPN 
+Kravets, PROPN 
+High, PROPN 
+Energy, PROPN 
+Chem, PROPN 
+26, NUM 
+1993, NUM 
+230, NUM 
+
+, SPACE 
+P., PROPN 
+Apel, PROPN 
+N., PROPN 
+Angert, PROPN 
+W., PROPN 
+Brbchle, PROPN 
+H., PROPN 
+Hermann, PROPN 
+U., PROPN 
+Kamp-, PROPN 
+
+, SPACE 
+schulte, PROPN 
+P., PROPN 
+Klein, PROPN 
+L.I., PROPN 
+Kravets, PROPN 
+Y.T., PROPN 
+Oganessian, PROPN 
+Cl, PROPN 
+Rem-, PROPN 
+
+, SPACE 
+mert, PROPN 
+R., PROPN 
+Spohr, PROPN 
+T., PROPN 
+Steckenreiter, PROPN 
+C., PROPN 
+Trautmrum, PROPN 
+J., PROPN 
+Vetter, PROPN 
+
+, SPACE 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+86, NUM 
+1994, NUM 
+325, NUM 
+
+, SPACE 
+M., PROPN 
+EDer, PROPN 
+P., PROPN 
+Apel, PROPN 
+W., PROPN 
+Briichle, PROPN 
+J., PROPN 
+Fuhrmann, PROPN 
+B., PROPN 
+Heinrich, PROPN 
+G., PROPN 
+
+, SPACE 
+Remmert, PROPN 
+R., PROPN 
+Spohr, PROPN 
+C., PROPN 
+Trautrnann, PROPN 
+J., PROPN 
+Vetter, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+
+, SPACE 
+Meth, PROPN 
+B, NOUN 
+91, NUM 
+1994, NUM 
+157, NUM 
+
+, SPACE 
+K., PROPN 
+Ogura, PROPN 
+T., PROPN 
+Hattori, PROPN 
+T., PROPN 
+Naito, PROPN 
+K., PROPN 
+Nakano, PROPN 
+T., PROPN 
+Takahashi, PROPN 
+
+, SPACE 
+Nucl, PROPN 
+Tracks, VERB 
+Radiat, PROPN 
+Meas, PROPN 
+22, NUM 
+1993, NUM 
+921, NUM 
+
+, SPACE 
+T., PROPN 
+Steckenreiter, PROPN 
+H., PROPN 
+Fuess, PROPN 
+M., PROPN 
+Stamm, PROPN 
+C., PROPN 
+Trautmann, PROPN 
+
+, SPACE 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+105, NUM 
+1995, NUM 
+200, NUM 
+
+, SPACE 
+E., PROPN 
+Ferain, PROPN 
+R., PROPN 
+Legras, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+82, PROPN 
+1993, NUM 
+
+, SPACE 
+539, NUM 
+
+, SPACE 
+H.H.G., PROPN 
+Jellinek, PROPN 
+Aspects, NOUN 
+Degradation, PROPN 
+Stabilization, PROPN 
+
+, SPACE 
+Polymers, PROPN 
+Elsevier, ADJ 
+Amsterdam, PROPN 
+1978, NUM 
+
+, SPACE 
+M., PROPN 
+Hennecke, PROPN 
+I., PROPN 
+Keck, PROPN 
+E., PROPN 
+Lemmert, PROPN 
+J., PROPN 
+Fuhrmann, PROPN 
+Z., PROPN 
+
+, SPACE 
+Naturforsch, PROPN 
+44b, X 
+1989, NUM 
+745, NUM 
+
+, SPACE 
+J., PROPN 
+Pacifici, PROPN 
+G., PROPN 
+Straley, PROPN 
+Polym, PROPN 
+Lett, PROPN 
+7, NUM 
+1969, NUM 
+7, NUM 
+
+, SPACE 
+W., PROPN 
+Schnabel, PROPN 
+Polymer, PROPN 
+Degradation, PROPN 
+Principles, PROPN 
+Practi-, PROPN 
+
+, SPACE 
+cal, PROPN 
+Applications, PROPN 
+Hanser, PROPN 
+International, PROPN 
+198, NUM 
+1, NUM 
+
+, SPACE 
+J.L., PROPN 
+Koenig, PROPN 
+M., PROPN 
+Hammon, PROPN 
+J., PROPN 
+Macromol, PROPN 
+Sci, PROPN 
+B, PROPN 
+1, NUM 
+1967, NUM 
+
+, SPACE 
+119, NUM 
+
+, SPACE 
+T., PROPN 
+Matsumoto, PROPN 
+N., PROPN 
+Ikegami, PROPN 
+K., PROPN 
+Ehara, PROPN 
+T., PROPN 
+Kawai, PROPN 
+H., PROPN 
+
+, SPACE 
+Maeda, PROPN 
+Kogyo, PROPN 
+Kagaku, PROPN 
+Zusshi, PROPN 
+73, NUM 
+1970, NUM 
+2441, NUM 
+
+, SPACE 

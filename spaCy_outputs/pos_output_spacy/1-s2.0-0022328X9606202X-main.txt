@@ -1,0 +1,5573 @@
+ELSEVIER, PROPN 
+Journal, PROPN 
+Organometallic, PROPN 
+Chemistry, PROPN 
+518, NUM 
+1996, NUM 
+139-, NUM 
+146, NUM 
+oumal, ADJ 
+
+, SPACE 
+me%iiic, PROPN 
+Chemistry, PROPN 
+
+, SPACE 
+Solvent, PROPN 
+induced, VERB 
+disproportionation, NOUN 
+alkyl(amido)magnesium, NOUN 
+species, NOUN 
+
+, SPACE 
+containing, VERB 
+2, NUM 
+pyridyl)amido, NOUN 
+unit, NOUN 
+synthetic, ADJ 
+theoretical, ADJ 
+NMR, NOUN 
+
+, SPACE 
+spectroscopic, NOUN 
+studies, NOUN 
+bis(amido)magnesium, NUM 
+compounds, VERB 
+
+, SPACE 
+Kenneth, PROPN 
+W., PROPN 
+Henderson, PROPN 
+Robert, PROPN 
+E., PROPN 
+Mulvey, PROPN 
+aY, NOUN 
+Andrea, PROPN 
+E., PROPN 
+Dorigo, PROPN 
+b, PROPN 
+
+, SPACE 
+Depurtment, PROPN 
+Pure, ADJ 
+und, NOUN 
+Applied, PROPN 
+Chemistry, PROPN 
+University, PROPN 
+Struthciyde, PROPN 
+Glu, PROPN 
+~, VERB 
+gow, PROPN 
+Gl, PROPN 
+IXL, PROPN 
+UK, PROPN 
+
+, SPACE 
+b, PROPN 
+Department, PROPN 
+Chemistry, PROPN 
+Brown, PROPN 
+University, PROPN 
+Providence, PROPN 
+RI, PROPN 
+02906, NUM 
+USA, PROPN 
+
+, SPACE 
+Received, VERB 
+29, NUM 
+November, PROPN 
+1995, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+Reaction, NOUN 
+R(2, PROPN 
+pyr)NH, NOUN 
+R, NOUN 
+=, SYM 
+Ph, PROPN 
+2, NUM 
+pyr, NOUN 
+Bu, PROPN 
+Mg, PROPN 
+ether, ADJ 
+free, ADJ 
+environment, NOUN 
+yields, VERB 
+corresponding, VERB 
+
+, SPACE 
+alkyl(amido)magnesium, NOUN 
+derivative, ADJ 
+R(2_pyr)NMgBu, PROPN 
+polar, ADJ 
+solvent, NOUN 
+added, VERB 
+species, NOUN 
+bis(amido)magnesium, NUM 
+
+, SPACE 
+compounds, VERB 
+separate, ADJ 
+solution, NOUN 
+expected, VERB 
+solvated, ADJ 
+alkyl(amido, PROPN 
+derivatives, NOUN 
+Isolation, NOUN 
+alkyl(amido, PROPN 
+compound, NOUN 
+
+, SPACE 
+prior, ADV 
+reaction, NOUN 
+donor, NOUN 
+solvent, NOUN 
+proves, VERB 
+mixed, ADJ 
+anion, NOUN 
+species, NOUN 
+exist, VERB 
+polar, ADJ 
+molecules, NOUN 
+introduced, VERB 
+
+, SPACE 
+disproportionation, NOUN 
+reaction, NOUN 
+ensues, NOUN 
+yielding, VERB 
+homoleptic, ADJ 
+compounds, NOUN 
+R, PROPN 
+Mg, PROPN 
+S, PROPN 
+R, NOUN 
+N),Mg, NOUN 
+@),},,I, NOUN 
+S, PROPN 
+THF, PROPN 
+
+, SPACE 
+TMEDA, PROPN 
+PMDETA, PROPN 
+Theoretical, ADJ 
+calculations, NOUN 
+likewise, ADV 
+disproportionation, NOUN 
+reaction, NOUN 
+model, NOUN 
+compounds, VERB 
+closely, ADV 
+related, VERB 
+
+, SPACE 
+systems, NOUN 
+strongly, ADV 
+exothermic, ADJ 
+H/, NUM 
+13C, NUM 
+NMR, PROPN 
+spectroscopic, NOUN 
+study, NOUN 
+assign, VERB 
+nature, NOUN 
+bis(amido, NOUN 
+species, NOUN 
+
+, SPACE 
+solution, NOUN 
+analyses, NOUN 
+possible, ADJ 
+propose, VERB 
+solvated, ADJ 
+bis(amido, NOUN 
+derivatives, NOUN 
+assume, VERB 
+common, ADJ 
+structural, ADJ 
+motif, NOUN 
+
+, SPACE 
+monomer, NOUN 
+n, CCONJ 
+=, SYM 
+1, NUM 
+pseudo, ADJ 
+octahedral, ADJ 
+magnesium, NOUN 
+center, NOUN 
+
+, SPACE 
+Keywords, PROPN 
+Magnesium, PROPN 
+Amido, NOUN 
+Ab, X 
+initio, NOUN 
+MO, PROPN 
+calculations, NOUN 
+Disproportionation, NOUN 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+Remarkably, PROPN 
+studies, NOUN 
+synthetic, ADJ 
+struc-, NOUN 
+
+, SPACE 
+tural, ADJ 
+focused, VERB 
+bis(amido)magnesium, NUM 
+com-, NOUN 
+
+, SPACE 
+pounds, NOUN 
+R, NOUN 
+N),Mg, NOUN 
+right, NOUN 
+l, X 
+
+, SPACE 
+contrasts, VERB 
+increasing, VERB 
+number, NOUN 
+publica-, NOUN 
+
+, SPACE 
+tions, NOUN 
+concerning, VERB 
+Grignard, PROPN 
+reagents, NOUN 
+2, NUM 
+lesser, ADJ 
+
+, SPACE 
+extent, NOUN 
+bis(organo)magnesium, NUM 
+species, NOUN 
+3, NUM 
+dearth, NOUN 
+
+, SPACE 
+information, NOUN 
+biscamides, NOUN 
+surprising, ADJ 
+
+, SPACE 
+considering, VERB 
+vast, ADJ 
+utility, NOUN 
+amides, NOUN 
+lithium, NOUN 
+magne-, NOUN 
+
+, SPACE 
+sium, NOUN 
+diagonal, ADJ 
+neighbor, NOUN 
+4, NUM 
+reagents, NOUN 
+organic, ADJ 
+
+, SPACE 
+synthesis, NOUN 
+5, NUM 
+Bases, NOUN 
+lithium, NOUN 
+diisopropylamide, NOUN 
+
+, SPACE 
+LDA, PROPN 
+6, NUM 
+lithium, NOUN 
+hexamethyldisilazide, NOUN 
+LHMDS, PROPN 
+
+, SPACE 
+7, X 
+commonly, ADV 
+selective, ADJ 
+proton, NOUN 
+abstracters, NOUN 
+
+, SPACE 
+organic, ADJ 
+transformations, NOUN 
+5,8, NUM 
+note, NOUN 
+intrigu-, ADJ 
+
+, SPACE 
+ing, ADJ 
+structural, ADJ 
+variety, NOUN 
+found, VERB 
+lithium, NOUN 
+amides, NOUN 
+
+, SPACE 
+led, VERB 
+intensive, ADJ 
+research, NOUN 
+past, ADJ 
+decade, NOUN 
+
+, SPACE 
+Corresponding, VERB 
+author, NOUN 
+
+, SPACE 
+0022, NUM 
+328X/96/$15.00, NUM 
+0, NUM 
+1996, NUM 
+Elsevier, ADJ 
+Science, PROPN 
+S.A., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+PII, PROPN 
+SOO22, PROPN 
+328X(96)06202, PROPN 
+X, NOUN 
+9, NUM 
+little, ADJ 
+work, NOUN 
+carried, VERB 
+
+, SPACE 
+corresponding, ADJ 
+amidomagnesium, NOUN 
+compounds, NOUN 
+shown, VERB 
+
+, SPACE 
+differing, VERB 
+selectivities, NOUN 
+lithium, NOUN 
+
+, SPACE 
+counterparts, NOUN 
+thought, VERB 
+consequence, NOUN 
+
+, SPACE 
+lower, ADJ 
+reactivity, NOUN 
+lo, X 
+associated, VERB 
+
+, SPACE 
+lower, ADJ 
+reactivity, NOUN 
+species, NOUN 
+higher, ADJ 
+thermal, ADJ 
+
+, SPACE 
+stability, NOUN 
+allows, VERB 
+reactions, NOUN 
+conducted, VERB 
+
+, SPACE 
+elevated, VERB 
+temperatures, NOUN 
+decomposition, NOUN 
+base, NOUN 
+
+, SPACE 
+lo, X 
+Considering, VERB 
+obvious, ADJ 
+advantages, NOUN 
+
+, SPACE 
+magnesium, NOUN 
+amides, NOUN 
+lithium, NOUN 
+amides, NOUN 
+
+, SPACE 
+surprising, ADJ 
+greater, ADJ 
+scrutiny, NOUN 
+
+, SPACE 
+focused, VERB 
+synthetic, ADJ 
+utility, NOUN 
+species, NOUN 
+
+, SPACE 
+limited, ADJ 
+investigations, NOUN 
+use, NOUN 
+magnesium, NOUN 
+amides, NOUN 
+
+, SPACE 
+reported, VERB 
+difficulty, NOUN 
+
+, SPACE 
+preparation, NOUN 
+1, NUM 
+particular, ADJ 
+alkyl(amido)magnesiums, NOUN 
+
+, SPACE 
+R(R, NOUN 
+2, NUM 
+N)Mg],,l, NOUN 
+d, NOUN 
+o, NOUN 
+react, VERB 
+secondary, ADJ 
+
+, SPACE 
+amine, NOUN 
+corresponding, VERB 
+bis(amido, NOUN 
+derivative, NOUN 
+
+, SPACE 
+recently, ADV 
+reported, VERB 
+121, NUM 
+reaction, NOUN 
+
+, SPACE 
+Grignard, PROPN 
+reagent, ADJ 
+BuMgCl, PROPN 
+tetrahydrofuran, NOUN 
+solution, NOUN 
+
+, SPACE 
+alkali, PROPN 
+metal, PROPN 
+amide, ADP 
+Ph(2, NOUN 
+pyr)NM, NOUN 
+M, PROPN 
+=, NOUN 
+Li, PROPN 
+
+, SPACE 
+Na, PROPN 
+1, NUM 
+1, NUM 
+ratio, NOUN 
+yields, NOUN 
+exclusively, ADV 
+biscamido, NOUN 
+com-, NOUN 
+
+, SPACE 
+140, NUM 
+K.W., PROPN 
+Henderson, PROPN 
+et, NOUN 
+al./Journul, PROPN 
+Orgunometallic, PROPN 
+Chemistry, PROPN 
+518, NUM 
+1996, NUM 
+139, NUM 
+146, NUM 
+
+, SPACE 
+pound, NOUN 
+Ph(2, PROPN 
+pyr)N, PROPN 
+Mg, PROPN 
+THF, PROPN 
+1, NUM 
+bis(alkyl, PROPN 
+
+, SPACE 
+compound, NOUN 
+Bu, PROPN 
+Mg, PROPN 
+THF, PROPN 
+expected, VERB 
+
+, SPACE 
+alkyl(amido, PROPN 
+derivative, NOUN 
+Ph(2, PROPN 
+pyr)NMg”Bu, PROPN 
+2, NUM 
+Eq, PROPN 
+1, NUM 
+
+, SPACE 
+comparative, ADJ 
+study, NOUN 
+carried, VERB 
+alkali, ADJ 
+metal, NOUN 
+
+, SPACE 
+amide, PROPN 
+PhCH, PROPN 
+NMCH, PROPN 
+CH, PROPN 
+NMe, PROPN 
+derived, VERB 
+
+, SPACE 
+polyamine, NOUN 
+I\j’-benzyl, PROPN 
+N, PROPN 
+N, PROPN 
+dimethylethylenediamine, NOUN 
+
+, SPACE 
+found, VERB 
+yield, VERB 
+expected, VERB 
+alkyl(amido, PROPN 
+
+, SPACE 
+compound, NOUN 
+PhCH,(Me, PROPN 
+NCH, PROPN 
+CH,)NMg”Bu, PROPN 
+3, NUM 
+
+, SPACE 
+reaction, NOUN 
+BuMgCl, PROPN 
+Eq, PROPN 
+2, NUM 
+crystal, NOUN 
+structures, NOUN 
+
+, SPACE 
+1, NUM 
+3, NUM 
+elucidated, VERB 
+
+, SPACE 
+2, X 
+BuMgCl, PROPN 
++, CCONJ 
+2Ph, NUM 
+2, NUM 
+pyr, NOUN 
+NM, PROPN 
+
+, SPACE 
+3, NUM 
+Ph(2, PROPN 
+pyr)N},Mg, NOUN 
+THF, PROPN 
+
+, SPACE 
++, CCONJ 
+Bu, PROPN 
+Mg, PROPN 
+THF, PROPN 
+x, NUM 
++, SYM 
+2MCl, NUM 
+1, NUM 
+
+, SPACE 
+2”BuMgCl+, PROPN 
+2PhCH, PROPN 
+NMCH, PROPN 
+CH, PROPN 
+NMe, PROPN 
+
+, SPACE 
+3, NUM 
+PhCH, PROPN 
+NCH, PROPN 
+CH,)NMg”Bu, PROPN 
+
+, SPACE 
++, ADJ 
+2MCl, PROPN 
+2, NUM 
+
+, SPACE 
+Utilizing, VERB 
+H, NOUN 
+NMR, PROPN 
+spectroscopic, NOUN 
+X, NOUN 
+ray, NOUN 
+crystallo-, NOUN 
+
+, SPACE 
+graphic, ADJ 
+evidence, NOUN 
+proposed, VERB 
+2, NUM 
+forms, NOUN 
+inter-, ADJ 
+
+, SPACE 
+mediate, NOUN 
+reaction, NOUN 
+Furthermore, ADV 
+proposed, VERB 
+
+, SPACE 
+2, NUM 
+dimeric, ADJ 
+solution, NOUN 
+containing, VERB 
+coordinate, NOUN 
+
+, SPACE 
+magnesium, NOUN 
+centers, NOUN 
+internal, ADJ 
+ligation, NOUN 
+nitro-, PROPN 
+
+, SPACE 
+gen, PROPN 
+2, NUM 
+pyridyl, ADJ 
+unit, NOUN 
+found, VERB 
+known, VERB 
+
+, SPACE 
+structure, NOUN 
+Ph(2_pyr)NMgNPh, PROPN 
+j, PROPN 
+131, NUM 
+Solvation, PROPN 
+
+, SPACE 
+metal, NOUN 
+center, NOUN 
+THF, PROPN 
+molecules, NOUN 
+possible, ADJ 
+
+, SPACE 
+structure, NOUN 
+flat, ADJ 
+sterically, ADV 
+undemanding, VERB 
+nature, NOUN 
+
+, SPACE 
+Ph(2, PROPN 
+pyr)N-, NOUN 
+unit, NOUN 
+conjunction, NOUN 
+flexibil-, NOUN 
+
+, SPACE 
+2R(2, NUM 
+pyr)NH, NOUN 
++, PROPN 
+2Bu2Mg, NUM 
+0, PUNCT 
+NjBu, PROPN 
+
+, SPACE 
+QMg/, PROPN 
+\Mi, PROPN 
++R, PROPN 
+
+, SPACE 
+B”/, PROPN 
+N, PROPN 
++, CCONJ 
+
+, SPACE 
+R, PROPN 
+
+, SPACE 
+.Y3, PUNCT 
+2BuH, NUM 
+
+, SPACE 
++, CCONJ 
+lBu$f~.(V, PROPN 
+t, PROPN 
+l, NOUN 
+
+, SPACE 
+R, PROPN 
+=, VERB 
+Ph, PROPN 
+2.pyr, PROPN 
+
+, SPACE 
+Scheme, NOUN 
+1, NUM 
+General, ADJ 
+reaction, NOUN 
+pathway, ADV 
+solvent, NOUN 
+induced, VERB 
+dispro-, NOUN 
+
+, SPACE 
+portionation, NOUN 
+reaction, NOUN 
+2, NUM 
+pyridyl, NOUN 
+containing, VERB 
+alkyl(amido)magnesium, NOUN 
+
+, SPACE 
+species, NOUN 
+R, NOUN 
+=, PUNCT 
+Ph, PROPN 
+2, NUM 
+pyr, NOUN 
+S, PROPN 
+=, NOUN 
+THF, PROPN 
+nitrogen, NOUN 
+atom, NOUN 
+
+, SPACE 
+TMJZDA, PROPN 
+PMDETA, PROPN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Plan, NOUN 
+dimeric, ADJ 
+structure, NOUN 
+PhCH,(Me, PROPN 
+NCH, PROPN 
+CH,)-, PROPN 
+
+, SPACE 
+NMg, PROPN 
+Bu, PROPN 
+
+, SPACE 
+ity, NOUN 
+sp2, ADJ 
+N, PROPN 
+Mg, PROPN 
+dative, NOUN 
+bond, NOUN 
+solvation, NOUN 
+in-, ADP 
+
+, SPACE 
+duces, VERB 
+disproportionation, NOUN 
+reaction, NOUN 
+bis(amido, NOUN 
+
+, SPACE 
+bis(organo, ADJ 
+derivatives, NOUN 
+driving, VERB 
+force, NOUN 
+
+, SPACE 
+increase, NOUN 
+coordination, NOUN 
+number, NOUN 
+metal, NOUN 
+
+, SPACE 
+dimer, NOUN 
+2, NUM 
+monomer, NOUN 
+1, NUM 
+
+, SPACE 
+Scheme, NOUN 
+1, NUM 
+comparison, NOUN 
+tetrahedral, ADJ 
+metal, NOUN 
+center, NOUN 
+
+, SPACE 
+3, NUM 
+protected, VERB 
+attack, NOUN 
+solvent, ADJ 
+
+, SPACE 
+molecules, NOUN 
+ligation, NOUN 
+NMe, PROPN 
+unit, NOUN 
+forms, VERB 
+
+, SPACE 
+rigid, ADJ 
+membered, VERB 
+MgNCH, PROPN 
+CH, PROPN 
+NMe, PROPN 
+ring, NOUN 
+Fig, PROPN 
+
+, SPACE 
+1, NUM 
+case, NOUN 
+reaction, NOUN 
+ceases, VERB 
+alkyl(amido, PROPN 
+stage, NOUN 
+
+, SPACE 
+evidence, NOUN 
+disproportionation, NOUN 
+
+, SPACE 
+observations, NOUN 
+nature, NOUN 
+2, NUM 
+pyridyl, ADJ 
+
+, SPACE 
+amine, NOUN 
+ligand, NOUN 
+paramount, ADJ 
+determination, NOUN 
+
+, SPACE 
+product, NOUN 
+apparently, ADV 
+simple, ADJ 
+reaction, NOUN 
+
+, SPACE 
+outline, VERB 
+evidence, NOUN 
+proposed, VERB 
+
+, SPACE 
+mechanism, NOUN 
+investigate, VERB 
+generality, NOUN 
+
+, SPACE 
+solvent, ADJ 
+induced, VERB 
+disproportionation, NOUN 
+reaction, NOUN 
+H/, NUM 
+13C, NUM 
+
+, SPACE 
+NMR, PROPN 
+study, NOUN 
+instigated, VERB 
+compounds, NOUN 
+produced, VERB 
+
+, SPACE 
+assign, VERB 
+character, NOUN 
+species, NOUN 
+solution, NOUN 
+
+, SPACE 
+correlate, VERB 
+known, VERB 
+solid, ADJ 
+state, NOUN 
+structures, NOUN 
+
+, SPACE 
+ab, NOUN 
+initio, NOUN 
+theoretical, ADJ 
+investigation, NOUN 
+model, NOUN 
+systems, NOUN 
+
+, SPACE 
+disproportionation, NOUN 
+reaction, NOUN 
+undertaken, VERB 
+
+, SPACE 
+assess, VERB 
+relative, ADJ 
+stability, NOUN 
+compounds, NOUN 
+involved, VERB 
+
+, SPACE 
+2, X 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+2.1, NUM 
+Synthetic, ADJ 
+studies, NOUN 
+
+, SPACE 
+Preparation, PROPN 
+alkyltamido, NOUN 
+intermediate, ADJ 
+
+, SPACE 
+carried, VERB 
+ether, ADJ 
+free, ADJ 
+environment, NOUN 
+reaction, NOUN 
+
+, SPACE 
+Bu, PROPN 
+Mg, PROPN 
+heptane, NOUN 
+purchased, VERB 
+Aldrich, PROPN 
+
+, SPACE 
+molar, NOUN 
+solution, NOUN 
+heptane, NOUN 
+containing, VERB 
+1, NUM 
+1, NUM 
+ratio, NOUN 
+
+, SPACE 
+n, CCONJ 
+butyl, ADJ 
+s, VERB 
+butyl, ADJ 
+units, NOUN 
+secondary, ADJ 
+amine, NOUN 
+
+, SPACE 
+species, NOUN 
+subjected, VERB 
+attack, VERB 
+donor, NOUN 
+
+, SPACE 
+solvents, NOUN 
+tetrahydrofuran, NOUN 
+THF, PROPN 
+N, PROPN 
+N, PROPN 
+N’,N’-tetramethyl-, NOUN 
+
+, SPACE 
+ethylenediamine, NOUN 
+TMEDA, PROPN 
+1,1,4,7,7pentamethyl-, NUM 
+
+, SPACE 
+diethylenetriamine, NOUN 
+PMDETA, PROPN 
+investigate, VERB 
+sol-, NOUN 
+
+, SPACE 
+vation, NOUN 
+place, NOUN 
+disproportionation, NOUN 
+
+, SPACE 
+occur, VERB 
+addition, NOUN 
+amine, ADJ 
+Ph(2, NOUN 
+pyr)NH, NOUN 
+
+, SPACE 
+2, NUM 
+pyridyl, NOUN 
+containing, VERB 
+amines, NOUN 
+2,2, NUM 
+dipyri-, NOUN 
+
+, SPACE 
+dylamine, NOUN 
+2, NUM 
+pyr, NOUN 
+NH, PROPN 
+methyl-2, PROPN 
+pyridylamine, PROPN 
+
+, SPACE 
+K.W., PROPN 
+Henderson, PROPN 
+et, PROPN 
+oL, PROPN 
+Journul, PROPN 
+r?fOrpmomrrullic, PROPN 
+Chrmisrry, PROPN 
+S/8, X 
+1996, NUM 
+139, NUM 
+146, NUM 
+141, NUM 
+
+, SPACE 
+Me(2, NOUN 
+pyr)NH, NOUN 
+studied, VERB 
+similar, ADJ 
+reaction, NOUN 
+
+, SPACE 
+aforementioned, VERB 
+secondary, ADJ 
+amine, NOUN 
+PhCH, PROPN 
+NHCH2CH,-, PROPN 
+
+, SPACE 
+NMe, NOUN 
+subject, NOUN 
+similar, ADJ 
+reactions, NOUN 
+
+, SPACE 
+comparison, NOUN 
+2, NUM 
+pyridyl, NOUN 
+containing, VERB 
+amines, NOUN 
+series, NOUN 
+
+, SPACE 
+compounds, NOUN 
+isolated, VERB 
+listed, VERB 
+Table, PROPN 
+
+, SPACE 
+1, NUM 
+addition, NOUN 
+donor, NOUN 
+solvent, NOUN 
+ether, ADJ 
+free, ADJ 
+com-, NOUN 
+
+, SPACE 
+pounds, NOUN 
+bis(amido, NOUN 
+derivatives, NOUN 
+isolated, VERB 
+
+, SPACE 
+Plainly, ADV 
+addition, NOUN 
+donor, NOUN 
+solvent, NOUN 
+alkyl(amido, PROPN 
+
+, SPACE 
+species, NOUN 
+drives, VERB 
+disproportionation, NOUN 
+reaction, NOUN 
+similar, ADJ 
+
+, SPACE 
+described, VERB 
+BuMgCl, PROPN 
+Ph(2, NOUN 
+pyr)NM, NOUN 
+
+, SPACE 
+THF, PROPN 
+bis(amides, NOUN 
+1, NUM 
+4, NUM 
+S, NOUN 
+outlined, VERB 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+able, ADJ 
+obtain, VERB 
+characterize, VERB 
+
+, SPACE 
+ether, ADJ 
+free, ADJ 
+alkyl(amido, PROPN 
+intermediate, ADJ 
+Reaction, NOUN 
+
+, SPACE 
+Bu, PROPN 
+Mg, PROPN 
+2, NUM 
+pyr),NH, NUM 
+toluene, NOUN 
+yields, NOUN 
+microcrys-, NOUN 
+
+, SPACE 
+talline, NOUN 
+solid, ADJ 
+identified, VERB 
+mixture, NOUN 
+2-, NUM 
+
+, SPACE 
+pyr, NOUN 
+NMg”Bu, PROPN 
+@pyr, NUM 
+NMg”Bu, PROPN 
+find-, NOUN 
+
+, SPACE 
+ing, NOUN 
+clear, ADJ 
+compound, NOUN 
+alkyl(amido, PROPN 
+
+, SPACE 
+stage, NOUN 
+stable, ADJ 
+i.e., X 
+inherent, ADJ 
+instability, NOUN 
+associ-, PRON 
+
+, SPACE 
+ated, VERB 
+mixed, ADJ 
+anion, NOUN 
+compounds, NOUN 
+forces, VERB 
+dis-, ADJ 
+
+, SPACE 
+proportionation, NOUN 
+results, NOUN 
+fully, ADV 
+line, NOUN 
+
+, SPACE 
+proposed, VERB 
+mechanism, NOUN 
+Scheme, NOUN 
+1, NUM 
+pertinent, ADJ 
+note, VERB 
+
+, SPACE 
+reaction, NOUN 
+PhCH, PROPN 
+2, NUM 
+NHCH, PROPN 
+CH, PROPN 
+2, NUM 
+NMe, NOUN 
+
+, SPACE 
+Bu, PROPN 
+Mg, PROPN 
+yields, VERB 
+expected, VERB 
+alkyl(amido, PROPN 
+derivatives, NOUN 
+
+, SPACE 
+PhCH,(Me, PROPN 
+NCH, PROPN 
+CH,)NMg”Bu, PROPN 
+PhCH,(Me,-, X 
+
+, SPACE 
+NCH, PROPN 
+CH,)NM$Bu, PROPN 
+inert, ADJ 
+attack, VERB 
+
+, SPACE 
+polar, ADJ 
+solvents, NOUN 
+chosen, VERB 
+mixture, NOUN 
+isomers, NOUN 
+
+, SPACE 
+consequence, NOUN 
+reagent, ADJ 
+Bu, PROPN 
+Mg, PROPN 
+consisting, VERB 
+
+, SPACE 
+1, NUM 
+1, NUM 
+blend, NOUN 
+n, ADV 
+butyl, ADJ 
+s, VERB 
+butyl, ADJ 
+units, NOUN 
+Apparently, ADV 
+
+, SPACE 
+balance, NOUN 
+exists, VERB 
+thermodynamic, ADJ 
+kinetic, PROPN 
+con-, NOUN 
+
+, SPACE 
+trol, NOUN 
+reaction, NOUN 
+stronger, ADJ 
+base, NOUN 
+s, NOUN 
+butyl, ADJ 
+
+, SPACE 
+group, NOUN 
+expected, VERB 
+cleave, VERB 
+metal, NOUN 
+
+, SPACE 
+n, CCONJ 
+butyl, ADJ 
+chain, NOUN 
+reality, NOUN 
+mixture, NOUN 
+
+, SPACE 
+components, NOUN 
+yielded, VERB 
+average, ADJ 
+ratio, NOUN 
+
+, SPACE 
+experiments, NOUN 
+n, ADV 
+butyl, ADJ 
+s, VERB 
+butyl, ADJ 
+units, NOUN 
+found, VERB 
+
+, SPACE 
+approximately, ADV 
+1, NUM 
+3, NUM 
+mixtures, NOUN 
+9, NUM 
+10, NUM 
+
+, SPACE 
+instances, NOUN 
+reactions, NOUN 
+proceed, VERB 
+mainly, ADV 
+kinetic, ADJ 
+
+, SPACE 
+control, NOUN 
+previous, ADJ 
+study, NOUN 
+Raston, PROPN 
+White, PROPN 
+
+, SPACE 
+coworkers, NOUN 
+141, NUM 
+revealed, VERB 
+similar, ADJ 
+result, NOUN 
+
+, SPACE 
+reaction, NOUN 
+Bu, PROPN 
+Mg, PROPN 
+Si),NH, NUM 
+affords, VERB 
+crys-, NOUN 
+
+, SPACE 
+talline, NOUN 
+form, NOUN 
+Si),NMg”Bu, PROPN 
+preference, NOUN 
+
+, SPACE 
+thermodynamically, ADV 
+favorable, ADJ 
+n, ADJ 
+butyl, ADJ 
+deriva-, ADJ 
+
+, SPACE 
+tive, NOUN 
+investigation, NOUN 
+reactivity, NOUN 
+Bu, PROPN 
+Mg, PROPN 
+
+, SPACE 
+currently, ADV 
+progress, NOUN 
+event, NOUN 
+metal, NOUN 
+centers, NOUN 
+mixture, NOUN 
+10, NUM 
+protected, VERB 
+solvation, NOUN 
+steric, ADJ 
+
+, SPACE 
+crowding, VERB 
+evidence, NOUN 
+unique, ADJ 
+
+, SPACE 
+bonding, NOUN 
+mode, NOUN 
+2, NUM 
+pyridyl, NOUN 
+ligand, NOUN 
+associated, VERB 
+
+, SPACE 
+unexpected, ADJ 
+solvation, NOUN 
+reaction, NOUN 
+2, NUM 
+pyridyl, NOUN 
+
+, SPACE 
+unit, NOUN 
+relatively, ADV 
+flat, ADJ 
+sterically, ADV 
+undemanding, VERB 
+character, NOUN 
+
+, SPACE 
+coupled, VERB 
+sp, NOUN 
+hybridized, VERB 
+nature, NOUN 
+pyridyl, NOUN 
+N, PROPN 
+
+, SPACE 
+atom, NOUN 
+attached, VERB 
+Mg, PROPN 
+result, VERB 
+metal, NOUN 
+
+, SPACE 
+surface, NOUN 
+exposed, VERB 
+attack, VERB 
+solvent, ADJ 
+molecules, NOUN 
+
+, SPACE 
+aspect, NOUN 
+flexibility, NOUN 
+ligand, NOUN 
+
+, SPACE 
+pyridyl, PROPN 
+group, PROPN 
+second, ADJ 
+unit, NOUN 
+bound, VERB 
+amido, NOUN 
+
+, SPACE 
+nitrogen, NOUN 
+phenyl, NOUN 
+pyridyl, NOUN 
+methyl, NOUN 
+tilt, VERB 
+
+, SPACE 
+way, NOUN 
+allow, VERB 
+space, NOUN 
+donor, NOUN 
+solvent, NOUN 
+
+, SPACE 
+attack, NOUN 
+metal, NOUN 
+assumption, NOUN 
+alkyl(amido, PROPN 
+
+, SPACE 
+intermediate, ADJ 
+dimeric, ADJ 
+appears, VERB 
+reasonable, ADJ 
+previ-, NOUN 
+
+, SPACE 
+ous, ADJ 
+research, NOUN 
+results, NOUN 
+Dimeric, ADJ 
+structures, NOUN 
+found, VERB 
+
+, SPACE 
+solid, ADJ 
+state, NOUN 
+alkyl(amido, PROPN 
+compounds, VERB 
+contain-, X 
+
+, SPACE 
+ing, VERB 
+chelating, ADJ 
+ligand, NOUN 
+classic, ADJ 
+example, NOUN 
+
+, SPACE 
+Me(Me, PROPN 
+NCH, PROPN 
+CH,)NMgMe, NUM 
+151, NUM 
+adopts, VERB 
+
+, SPACE 
+structure, NOUN 
+akin, ADJ 
+3, NUM 
+Similar, ADJ 
+dimers, NOUN 
+found, VERB 
+
+, SPACE 
+non, ADJ 
+chelating, ADJ 
+dinitrogen, NOUN 
+species, NOUN 
+P),CoN=, PROPN 
+
+, SPACE 
+NMg’Bu, PROPN 
+Et@, NOUN 
+1161, NUM 
+utilizes, VERB 
+ether, ADJ 
+
+, SPACE 
+molecules, NOUN 
+donation, NOUN 
+aforementioned, VERB 
+com-, NOUN 
+
+, SPACE 
+pound, NOUN 
+Si),NMg”Bu, PROPN 
+14, NUM 
+un-, ADJ 
+
+, SPACE 
+usual, ADJ 
+coordination, NOUN 
+number, NOUN 
+metal, NOUN 
+
+, SPACE 
+Monomeric, PROPN 
+structures, NOUN 
+produced, VERB 
+
+, SPACE 
+ligands, NOUN 
+present, ADJ 
+large, ADJ 
+bulky, ADJ 
+car-, NOUN 
+
+, SPACE 
+bazole, NOUN 
+derivative, NOUN 
+C,,H, PROPN 
+N)MgEt, PROPN 
+171, NUM 
+
+, SPACE 
+knowledge, NOUN 
+simple, ADJ 
+
+, SPACE 
+alkyl(amido)magnesium, NOUN 
+monomer, NOUN 
+crystallographi-, ADJ 
+
+, SPACE 
+tally, NOUN 
+characterized, VERB 
+Dimeric, PROPN 
+alkyl(amido, PROPN 
+compounds, VERB 
+
+, SPACE 
+observed, VERB 
+predominant, ADJ 
+species, NOUN 
+
+, SPACE 
+solution, NOUN 
+ebullioscopic, NOUN 
+181, NUM 
+proton, NOUN 
+NMR, PROPN 
+
+, SPACE 
+1191, NUM 
+experiments, NOUN 
+light, NOUN 
+previous, ADJ 
+studies, NOUN 
+
+, SPACE 
+likely, ADJ 
+structure, NOUN 
+chelating, ADJ 
+alkyl(amido, PROPN 
+
+, SPACE 
+intermediates, NOUN 
+dimers, NOUN 
+form, NOUN 
+R(2-, PROPN 
+
+, SPACE 
+pyr)NMgBu, PROPN 
+metal, NOUN 
+centers, NOUN 
+
+, SPACE 
+coordinated, VERB 
+pyridyl, ADJ 
+nitrogen, NOUN 
+leading, VERB 
+tetracoordi-, NOUN 
+
+, SPACE 
+nation, NOUN 
+magnesiums, NOUN 
+
+, SPACE 
+type, NOUN 
+donor, NOUN 
+required, VERB 
+induce, VERB 
+dispropor-, ADJ 
+
+, SPACE 
+tionation, NOUN 
+reaction, NOUN 
+varied, VERB 
+relatively, ADV 
+small, ADJ 
+
+, SPACE 
+molecule, NOUN 
+THF, PROPN 
+bulkier, NOUN 
+chelating, VERB 
+
+, SPACE 
+group, NOUN 
+PMDETA, PROPN 
+Consequently, ADV 
+reasonable, ADJ 
+
+, SPACE 
+assume, VERB 
+complexation, NOUN 
+metal, NOUN 
+occurs, VERB 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+Products, NOUN 
+reaction, NOUN 
+Bu, PROPN 
+Mg, PROPN 
+solution, NOUN 
+amine, NOUN 
+donor, NOUN 
+solvent, NOUN 
+
+, SPACE 
+Amine, PROPN 
+Donor, PROPN 
+solvent, ADJ 
+Isolated, ADJ 
+product, NOUN 
+
+, SPACE 
+Ph(2, PROPN 
+pyr)NH, NOUN 
+THF, PROPN 
+
+, SPACE 
+Ph(2, PROPN 
+pyr)NH, NOUN 
+Ph@pyr)Nl, PROPN 
+Mg, PROPN 
+THF, PROPN 
+1, NUM 
+
+, SPACE 
+TMEDA, PROPN 
+
+, SPACE 
+Ph(2, PROPN 
+pyr)NH, NOUN 
+llfPh(‘Lpyr)Nl, NOUN 
+Mg, PROPN 
+TMEDA, PROPN 
+
+, SPACE 
+PMDETA, PROPN 
+
+, SPACE 
+2, NUM 
+pyrIzNH, NOUN 
+Ph@pyr)N, PROPN 
+Mg, PROPN 
+PMDETA, PROPN 
+
+, SPACE 
+TMEDA, PROPN 
+
+, SPACE 
+@pyr),NH, PROPN 
+K, PROPN 
+pyr, NOUN 
+NI, PROPN 
+Mg, PROPN 
+TMEDA)~,,~, PROPN 
+
+, SPACE 
+PMDETA, PROPN 
+
+, SPACE 
+Me@pyr)NH, PROPN 
+WQyr, PROPN 
+NI, PROPN 
+~g, PUNCT 
+PMDETA, PROPN 
+
+, SPACE 
+TMEDA, PROPN 
+
+, SPACE 
+@pyr),NH, PROPN 
+Me(2, NOUN 
+pyr)N, PROPN 
+Mg, PROPN 
+TMEIIA, PROPN 
+
+, SPACE 
+2, NUM 
+pyr),NMg”‘“Bu},,l, ADJ 
+
+, SPACE 
+BzNHEtNMe, PROPN 
+THF, PROPN 
+TMEDA, PROPN 
+PMDETA, PROPN 
+j(Bz(Me, PROPN 
+NEt)NMg”‘SBu, NUM 
+
+, SPACE 
+Abbreviation, PROPN 
+PhCH, PROPN 
+NHCH, PROPN 
+CH, PROPN 
+NMe, PROPN 
+Compound, PROPN 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+4, NUM 
+
+, SPACE 
+5, NUM 
+
+, SPACE 
+6, NUM 
+
+, SPACE 
+7, NUM 
+
+, SPACE 
+8, NUM 
+
+, SPACE 
+9, NUM 
+
+, SPACE 
+10, NUM 
+
+, SPACE 
+142, NUM 
+K.W., PROPN 
+Henderson, PROPN 
+et, PROPN 
+al./Journal, PROPN 
+Organometullic, PROPN 
+Chemistry, PROPN 
+518, NUM 
+1996, NUM 
+139, NUM 
+146, NUM 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+H, NOUN 
+NMR, PROPN 
+chemical, NOUN 
+shift, NOUN 
+values, NOUN 
+2, NUM 
+pyridyl, ADJ 
+groups, NOUN 
+amide, PROPN 
+ligands, NOUN 
+deuterated, ADJ 
+solvent, NOUN 
+chosen, VERB 
+benzene, NOUN 
+toluene, NOUN 
+dependent, ADJ 
+
+, SPACE 
+compound, NOUN 
+relative, ADJ 
+solubility, NOUN 
+
+, SPACE 
+Compound, PROPN 
+Solvent, PROPN 
+cr, PROPN 
+P, PROPN 
+P, PROPN 
+Y, PROPN 
+
+, SPACE 
+IPh(2, PROPN 
+pyr)Nl, PROPN 
+Mg, PROPN 
+OHF)2, PROPN 
+1, NUM 
+1, NUM 
+C6D6, PROPN 
+1.13, NUM 
+6.00, NUM 
+6.99, NUM 
+6.99, NUM 
+
+, SPACE 
+Ph@pyr)N, PROPN 
+Mg, PROPN 
+CIMEDA))nl4, PROPN 
+C6D6, PROPN 
+1.57, NUM 
+5.98, NUM 
+6.79, NUM 
+6.94, NUM 
+
+, SPACE 
+Ph@pyr)N, PROPN 
+Mg, PROPN 
+PMDETA)),I, INTJ 
+5, NUM 
+C6D6, PROPN 
+1.61, NUM 
+5.98, NUM 
+6.80, NUM 
+6.89, NUM 
+
+, SPACE 
+KK2, PROPN 
+pyr, PROPN 
+NJ2, PROPN 
+Mg, PROPN 
+TMEDA)l, PROPN 
+l6, ADJ 
+C, NOUN 
+7.95, NUM 
+6.11, NUM 
+6.88, NUM 
+6.98, NUM 
+
+, SPACE 
+KK2, PROPN 
+pyr, PROPN 
+N, PROPN 
+Mg, PROPN 
+PMDETA)I, PROPN 
+l, NOUN 
+7, NUM 
+CT, PROPN 
+1.92, NUM 
+6.12, NUM 
+6.88, NUM 
+1.09, NUM 
+
+, SPACE 
+UMe(2, PROPN 
+pyr)N, PROPN 
+Mg, PROPN 
+~0MEDA)l,,lS, PROPN 
+C6D6, PROPN 
+7.53, NUM 
+5.92, NUM 
+6.12, NUM 
+7.19, NUM 
+
+, SPACE 
+ease, NOUN 
+alkyl(amido, PROPN 
+compound, NOUN 
+sup-, NOUN 
+
+, SPACE 
+ported, VERB 
+fact, NOUN 
+reactions, NOUN 
+proceed, VERB 
+
+, SPACE 
+mild, ADJ 
+conditions, NOUN 
+ambient, ADJ 
+temperature, NOUN 
+
+, SPACE 
+products, NOUN 
+obtained, VERB 
+simply, ADV 
+cooling, VERB 
+resulting, VERB 
+
+, SPACE 
+solutions, NOUN 
+generality, NOUN 
+reaction, NOUN 
+in-, ADV 
+
+, SPACE 
+creased, VERB 
+cover, VERB 
+2, NUM 
+pyridyl, NOUN 
+containing, VERB 
+amines, NOUN 
+
+, SPACE 
+2, NUM 
+pyr, NOUN 
+NH, PROPN 
+Me(2, NOUN 
+pyr)NH, NOUN 
+attempts, NOUN 
+
+, SPACE 
+isolating, VERB 
+species, NOUN 
+produced, VERB 
+
+, SPACE 
+alkyl(amido, PROPN 
+stage, NOUN 
+solvation, NOUN 
+
+, SPACE 
+THF, PROPN 
+TMEDA, PROPN 
+PMDETA, PROPN 
+listed, VERB 
+Table, PROPN 
+
+, SPACE 
+1, NUM 
+fully, ADV 
+isolated, VERB 
+identified, VERB 
+mainly, ADV 
+
+, SPACE 
+high, ADJ 
+hydrocarbon, NOUN 
+solubility, NOUN 
+
+, SPACE 
+species, NOUN 
+produced, VERB 
+led, VERB 
+difficulty, NOUN 
+separa-, ADJ 
+
+, SPACE 
+tion, NOUN 
+high, ADJ 
+solubility, NOUN 
+surprising, ADJ 
+given, VERB 
+
+, SPACE 
+expected, VERB 
+low, ADJ 
+oligomerisation, NOUN 
+monomeric, ADJ 
+state, NOUN 
+
+, SPACE 
+pertinent, ADJ 
+note, VERB 
+reaction, NOUN 
+PhCH, PROPN 
+NHCH, PROPN 
+CH,-, PROPN 
+
+, SPACE 
+NMe, PROPN 
+Bu, PROPN 
+Mg, PROPN 
+yields, VERB 
+expected, VERB 
+alkyl(amido, PROPN 
+
+, SPACE 
+compound, VERB 
+10, NUM 
+regardless, ADV 
+donor, NOUN 
+solvent, NOUN 
+
+, SPACE 
+present, ADJ 
+reaction, NOUN 
+place, NOUN 
+
+, SPACE 
+instance, NOUN 
+magnesium, NOUN 
+protected, VERB 
+attack, NOUN 
+
+, SPACE 
+la, X 
+exist, VERB 
+formation, NOUN 
+coordinate, NOUN 
+
+, SPACE 
+magnesium, NOUN 
+center, NOUN 
+implies, VERB 
+
+, SPACE 
+metal, NOUN 
+centers, NOUN 
+remain, VERB 
+tetracoordinated, ADJ 
+
+, SPACE 
+alkyl(amido, PROPN 
+dimer, NOUN 
+PMDETA, PROPN 
+ligand, NOUN 
+possi-, NOUN 
+
+, SPACE 
+bility, NOUN 
+tricoordination, NOUN 
+case, NOUN 
+2-, NUM 
+
+, SPACE 
+pyr),N-, PROPN 
+containing, VERB 
+compounds, NOUN 
+possible, ADJ 
+fur-, ADP 
+
+, SPACE 
+ther, NOUN 
+coordination, NOUN 
+achieved, VERB 
+nitrogen, NOUN 
+
+, SPACE 
+second, ADJ 
+2, NUM 
+pyridyl, ADJ 
+unit, NOUN 
+order, NOUN 
+investigate, VERB 
+
+, SPACE 
+questions, NOUN 
+H/, NUM 
+13C, NUM 
+NMR, PROPN 
+study, NOUN 
+undertaken, VERB 
+
+, SPACE 
+results, NOUN 
+possible, ADJ 
+provide, VERB 
+infor-, ADJ 
+
+, SPACE 
+mation, NOUN 
+solution, NOUN 
+nature, NOUN 
+species, NOUN 
+
+, SPACE 
+consider, VERB 
+comparisons, NOUN 
+conclusions, NOUN 
+
+, SPACE 
+drawn, VERB 
+known, VERB 
+solid, ADJ 
+state, NOUN 
+structures, NOUN 
+
+, SPACE 
+2.2, X 
+NMR, PROPN 
+studies, NOUN 
+
+, SPACE 
+detailed, ADJ 
+examination, NOUN 
+biscamides, NOUN 
+pre-, NOUN 
+
+, SPACE 
+pared, VERB 
+reveals, VERB 
+common, ADJ 
+structure, NOUN 
+prevail, VERB 
+
+, SPACE 
+contains, VERB 
+TMEDA, PROPN 
+PMDETA, PROPN 
+unit, NOUN 
+
+, SPACE 
+alternatively, ADV 
+THF, PROPN 
+molecules, NOUN 
+internal, ADJ 
+ligation, NOUN 
+
+, SPACE 
+nitrogen, NOUN 
+2, NUM 
+pyridyl, NOUN 
+ring, NOUN 
+certain, ADJ 
+
+, SPACE 
+evidenced, VERB 
+crystal, NOUN 
+structure, NOUN 
+1, NUM 
+12, NUM 
+
+, SPACE 
+metal, NOUN 
+center, NOUN 
+contain, VERB 
+tetracoordination, NOUN 
+
+, SPACE 
+amide, NOUN 
+ligands, NOUN 
+Donation, NOUN 
+nitrogens, NOUN 
+
+, SPACE 
+TMEDA, PROPN 
+PMDETA, PROPN 
+yield, VERB 
+structure, NOUN 
+
+, SPACE 
+similar, ADJ 
+1, NUM 
+i.e., X 
+monomer, NOUN 
+coordi-, NOUN 
+
+, SPACE 
+nate, NOUN 
+magnesium, NOUN 
+Formation, NOUN 
+bis(THF, NOUN 
+solvated, VERB 
+
+, SPACE 
+pseudo, ADJ 
+octahedral, ADJ 
+compound, NOUN 
+1, NUM 
+takes, VERB 
+place, NOUN 
+
+, SPACE 
+equivalent, NOUN 
+donor, NOUN 
+added, VERB 
+i.e., X 
+solid, ADJ 
+monosol-, NOUN 
+
+, SPACE 
+vated, VERB 
+product, NOUN 
+yielded, VERB 
+strong, ADJ 
+preference, NOUN 
+Tables, PROPN 
+2, NUM 
+3, NUM 
+lists, VERB 
+H, NOUN 
+13C, NUM 
+NMR, PROPN 
+chemical, NOUN 
+
+, SPACE 
+shift, NOUN 
+values, NOUN 
+2, NUM 
+pyridyl, NOUN 
+group, NOUN 
+bis(amides, NOUN 
+
+, SPACE 
+mentioned, VERB 
+previously, ADV 
+interesting, ADJ 
+feature, NOUN 
+
+, SPACE 
+compounds, NOUN 
+listed, VERB 
+denticity, NOUN 
+donors, NOUN 
+
+, SPACE 
+THF, PROPN 
+monodentate, ADJ 
+binding, VERB 
+oxygen, NOUN 
+TMEDA, PROPN 
+
+, SPACE 
+possibility, NOUN 
+didentate, ADJ 
+20, NUM 
+binding, VERB 
+
+, SPACE 
+nitrogen, PROPN 
+PMDETA, PROPN 
+possibility, NOUN 
+
+, SPACE 
+tridentate, ADJ 
+21, NUM 
+binding, VERB 
+nitrogen, NOUN 
+Remark-, PROPN 
+
+, SPACE 
+ably, ADV 
+similar, ADJ 
+chemical, ADJ 
+shift, NOUN 
+values, NOUN 
+anion, NOUN 
+
+, SPACE 
+found, VERB 
+TMEDA, PROPN 
+PMDETA, PROPN 
+complexes, NOUN 
+
+, SPACE 
+Ph(2, PROPN 
+pyr)N-, PROPN 
+4, NUM 
+5, NUM 
+2, NUM 
+pyr, NOUN 
+N-, PROPN 
+
+, SPACE 
+6, NUM 
+7, NUM 
+averaged, VERB 
+chemical, NOUN 
+shift, NOUN 
+difference, NOUN 
+
+, SPACE 
+H, NOUN 
+jC, ADJ 
+NMR, PROPN 
+spectra, NOUN 
+4, NUM 
+5, NUM 
+0.03, NUM 
+
+, SPACE 
+ppm, NOUN 
+instances, NOUN 
+similar, ADJ 
+situation, NOUN 
+found, VERB 
+6, NUM 
+
+, SPACE 
+7, NUM 
+averaged, VERB 
+H, NOUN 
+chemical, NOUN 
+shift, NOUN 
+difference, NOUN 
+
+, SPACE 
+0.04, NUM 
+ppm, ADJ 
+0.02, NUM 
+ppm, NOUN 
+C, PROPN 
+spectra, NOUN 
+
+, SPACE 
+similar, ADJ 
+chemical, ADJ 
+shift, NOUN 
+values, NOUN 
+H, NOUN 
+
+, SPACE 
+13C, NUM 
+NMR, PROPN 
+spectra, NOUN 
+strong, ADJ 
+evidence, NOUN 
+similar, ADJ 
+struc-, ADJ 
+
+, SPACE 
+tures, NOUN 
+solution, NOUN 
+22, NUM 
+reasonable, ADJ 
+assume, VERB 
+
+, SPACE 
+Table, PROPN 
+3, NUM 
+
+, SPACE 
+C, NOUN 
+NMR, PROPN 
+chemical, NOUN 
+shift, NOUN 
+values, NOUN 
+2, NUM 
+pyridyl, ADJ 
+groups, NOUN 
+amide, PROPN 
+ligands, NOUN 
+run, VERB 
+deuterated, ADJ 
+solvents, NOUN 
+listed, VERB 
+Table, PROPN 
+2, NUM 
+
+, SPACE 
+Compound, VERB 
+P, NOUN 
+P, NOUN 
+Y, PROPN 
+IPSO, PROPN 
+
+, SPACE 
+Ph@pyr)N, PROPN 
+Mg, PROPN 
+CITE, PROPN 
+1, NUM 
+1, NUM 
+147.44, NUM 
+107.71, NUM 
+IO.1, PUNCT 
+139.23, NUM 
+164.36, NUM 
+
+, SPACE 
+Ph(2, PROPN 
+pyr)N, PROPN 
+Mg, PROPN 
+OMEDA)J, PROPN 
+l41, ADJ 
+146.62, NUM 
+106.79, NUM 
+107.21, NUM 
+138.70, NUM 
+167.20, NUM 
+
+, SPACE 
+PhGpyr, PROPN 
+Mg, PROPN 
+t, PROPN 
+@MDETA)~,)I, PROPN 
+5, NUM 
+146.69, NUM 
+106.80, NUM 
+101.25, NUM 
+138.73, NUM 
+167.18, NUM 
+
+, SPACE 
+K2, ADJ 
+pyr, NOUN 
+N, PROPN 
+Mg, PROPN 
+TMEDA)l, PROPN 
+l6, ADJ 
+146.80, NUM 
+Il.90, ADP 
+112.40, NUM 
+131.91, NUM 
+163.55, NUM 
+
+, SPACE 
+2, NUM 
+pyr, NOUN 
+Nj2, PUNCT 
+Mg, PROPN 
+PMDETANJ, PROPN 
+7, NUM 
+146.80, NUM 
+111.91, NUM 
+112.42, NUM 
+137.98, NUM 
+163.58, NUM 
+
+, SPACE 
+Me(2, NOUN 
+pyr)N),Mg, PROPN 
+ThfEDA)),lS, NOUN 
+146.68, NUM 
+103.49, NUM 
+103.54, NUM 
+138.62, NUM 
+169.73, NUM 
+
+, SPACE 
+K.W., PROPN 
+Henderson, PROPN 
+et, NOUN 
+al./Journul, PROPN 
+Organomrtullic, PROPN 
+Chemistry, PROPN 
+518, NUM 
+1996, NUM 
+139, NUM 
+146, NUM 
+143, NUM 
+
+, SPACE 
+electronic, ADJ 
+environments, NOUN 
+sets, NOUN 
+compounds, NOUN 
+
+, SPACE 
+appear, VERB 
+identical, ADJ 
+likely, ADJ 
+
+, SPACE 
+TMEDA, PROPN 
+ligand, NOUN 
+4, NUM 
+6, NUM 
+8, NUM 
+binds, NOUN 
+metal, NOUN 
+center, NOUN 
+
+, SPACE 
+didentate, ADJ 
+fashion, NOUN 
+resulting, VERB 
+monomer, NOUN 
+similar, ADJ 
+
+, SPACE 
+1, NUM 
+magnesium, NOUN 
+coordination, NOUN 
+number, NOUN 
+
+, SPACE 
+probable, ADJ 
+structure, NOUN 
+5, NUM 
+7, NUM 
+
+, SPACE 
+monomer, NOUN 
+nitrogen, NOUN 
+atoms, NOUN 
+bound, VERB 
+metal, NOUN 
+
+, SPACE 
+leaving, VERB 
+nitrogen, NOUN 
+PMDETA, PROPN 
+hanging, VERB 
+free, ADJ 
+
+, SPACE 
+asymmetrical, ADJ 
+structures, NOUN 
+known, VERB 
+solid, ADJ 
+
+, SPACE 
+state, NOUN 
+PMDETA, PROPN 
+ligand, NOUN 
+23, NUM 
+usually, ADV 
+
+, SPACE 
+adopts, VERB 
+tridentate, ADJ 
+conformation, NOUN 
+21, NUM 
+unlikely, ADJ 
+
+, SPACE 
+coordination, NOUN 
+pyridyl, ADJ 
+nitrogens, NOUN 
+com-, NOUN 
+
+, SPACE 
+pounds, NOUN 
+6, NUM 
+7, NUM 
+place, NOUN 
+addition, NOUN 
+
+, SPACE 
+presence, NOUN 
+donor, NOUN 
+ligands, VERB 
+TMEDA, PROPN 
+PMDETA, PROPN 
+
+, SPACE 
+situation, NOUN 
+create, VERB 
+coordination, NOUN 
+number, NOUN 
+
+, SPACE 
+greater, ADJ 
+metal, NOUN 
+Organomagnesium, NOUN 
+com-, NOUN 
+
+, SPACE 
+pounds, NOUN 
+usually, ADV 
+tetracoordinated, VERB 
+solid, ADJ 
+
+, SPACE 
+solution, NOUN 
+states, NOUN 
+24, NUM 
+magnesium, NOUN 
+strong, ADJ 
+
+, SPACE 
+predilection, NOUN 
+coordination, NOUN 
+number, NOUN 
+types, NOUN 
+compound, NOUN 
+recently, ADV 
+noted, VERB 
+structural, ADJ 
+
+, SPACE 
+review, NOUN 
+25, NUM 
+bis(amido, NOUN 
+compounds, VERB 
+1, NUM 
+4, NUM 
+8, NUM 
+
+, SPACE 
+reported, VERB 
+probably, ADV 
+coordinate, NOUN 
+makes, VERB 
+
+, SPACE 
+relatively, ADV 
+rare, ADJ 
+examples, NOUN 
+pseudo, ADJ 
+octahedral, ADJ 
+
+, SPACE 
+organomagnesiums, NOUN 
+mind, NOUN 
+
+, SPACE 
+extremely, ADV 
+doubtful, ADJ 
+space, NOUN 
+available, ADJ 
+
+, SPACE 
+bonds, NOUN 
+metal, NOUN 
+species, NOUN 
+
+, SPACE 
+2.3, X 
+Theoretical, ADJ 
+studies, NOUN 
+
+, SPACE 
+Calculations, NOUN 
+model, NOUN 
+system, NOUN 
+NHCH=, NUM 
+
+, SPACE 
+NH)-, PROPN 
+amide, ADJ 
+anion, NOUN 
+methyl, NOUN 
+organic, ADJ 
+unit, NOUN 
+
+, SPACE 
+water, NOUN 
+donor, NOUN 
+solvent, NOUN 
+conducted, VERB 
+HF/6-, PROPN 
+
+, SPACE 
+3, NUM 
+IG, PROPN 
+level, NOUN 
+Gaussian, PROPN 
+94, NUM 
+program, NOUN 
+
+, SPACE 
+geometry, NOUN 
+optimizations, NOUN 
+26, NUM 
+aza, NOUN 
+ally1, NOUN 
+amide, NOUN 
+
+, SPACE 
+chosen, VERB 
+model, NOUN 
+sp, NOUN 
+p, NOUN 
+nitrogen, NOUN 
+
+, SPACE 
+available, ADJ 
+chelation, NOUN 
+similar, ADJ 
+2, NUM 
+pyridyl, NOUN 
+contain-, X 
+
+, SPACE 
+ing, PROPN 
+amines, NOUN 
+Water, NOUN 
+chosen, VERB 
+simplest, ADJ 
+form, NOUN 
+
+, SPACE 
+solvent, NOUN 
+reality, NOUN 
+course, NOUN 
+react, VERB 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Geometry, NOUN 
+optimized, VERB 
+structures, NOUN 
+III, PROPN 
+
+, SPACE 
+144, NUM 
+K.W., PROPN 
+Hrnderson, PROPN 
+et, NOUN 
+ul./Journul, NOUN 
+Orpnometullic, PROPN 
+Chemistry, PROPN 
+518, NUM 
+1996, NUM 
+139, NUM 
+146, NUM 
+
+, SPACE 
+form, NOUN 
+Mg(OH, PROPN 
+Formation, NOUN 
+monomeric, NOUN 
+dialkylmag-, NOUN 
+
+, SPACE 
+nesium, NOUN 
+appears, VERB 
+reasonable, ADJ 
+previous, ADJ 
+NMR, NOUN 
+
+, SPACE 
+evidence, NOUN 
+27, NUM 
+geometry, NOUN 
+optimized, VERB 
+structures, NOUN 
+
+, SPACE 
+components, NOUN 
+involved, VERB 
+shown, VERB 
+Fig, PROPN 
+2, NUM 
+28, NUM 
+
+, SPACE 
+energy, NOUN 
+disproportionation, NOUN 
+reaction, NOUN 
+calculated, VERB 
+
+, SPACE 
+according, VERB 
+Eq, PROPN 
+3, NUM 
+found, VERB 
+exothermic, ADJ 
+
+, SPACE 
+-21.8, X 
+kcal, NOUN 
+mol-, X 
+
+, SPACE 
+NH, PROPN 
+=, NOUN 
+CHN(H)MgMe, NOUN 
++, CCONJ 
+4H, PROPN 
+O, INTJ 
+
+, SPACE 
++, PUNCT 
+NH, PROPN 
+=, X 
+CHN(H, X 
+Mg, PROPN 
+W, PROPN 
+
+, SPACE 
++, CCONJ 
+M%w?~, ADJ 
+W20Ll, NOUN 
+3, X 
+
+, SPACE 
+structures, NOUN 
+outlined, VERB 
+Fig, PROPN 
+2, NUM 
+features, NOUN 
+
+, SPACE 
+comparable, ADJ 
+known, VERB 
+structures, NOUN 
+step, NOUN 
+like, ADJ 
+
+, SPACE 
+alkyl(amido, PROPN 
+dimer, NOUN 
+similar, ADJ 
+silylamido, NOUN 
+dianion, NOUN 
+
+, SPACE 
+SiMe,('BuN),Mg, NOUN 
+THF, PROPN 
+29, NUM 
+common, ADJ 
+strut-, NOUN 
+
+, SPACE 
+tural, ADJ 
+theme, NOUN 
+dialkylmagnesium, NOUN 
+compounds, NOUN 
+tetra-, ADJ 
+
+, SPACE 
+coordinate, NOUN 
+monomer, NOUN 
+II, PROPN 
+30, NUM 
+Lastly, ADV 
+know, VERB 
+
+, SPACE 
+crystal, NOUN 
+structure, NOUN 
+evidence, NOUN 
+octahe-, ADJ 
+
+, SPACE 
+dral, ADJ 
+bis(amido, NOUN 
+derivatives, NOUN 
+III, NUM 
+stable, ADJ 
+12, NUM 
+
+, SPACE 
+exothermicity, NOUN 
+Eq, PROPN 
+3, X 
+supports, VERB 
+experimental, ADJ 
+
+, SPACE 
+observations, NOUN 
+disproportionation, NOUN 
+reaction, NOUN 
+
+, SPACE 
+3, X 
+Conclusions, NOUN 
+
+, SPACE 
+summary, NOUN 
+given, VERB 
+evidence, NOUN 
+
+, SPACE 
+addition, NOUN 
+donor, NOUN 
+solvent, NOUN 
+alkyl(amido)magnesium, NOUN 
+
+, SPACE 
+compound, NOUN 
+containing, VERB 
+2, NUM 
+pyridyl, NOUN 
+amine, NOUN 
+unit, NOUN 
+causes, VERB 
+
+, SPACE 
+disproportionation, NOUN 
+reaction, NOUN 
+yields, VERB 
+respective, ADJ 
+
+, SPACE 
+bis(amido, NOUN 
+bis(organo)magnesium, NUM 
+compounds, NOUN 
+
+, SPACE 
+appears, VERB 
+flat, ADJ 
+flexible, ADJ 
+character, NOUN 
+
+, SPACE 
+ligands, NOUN 
+intermediate, ADJ 
+alkyl(amido, PROPN 
+compound, NOUN 
+
+, SPACE 
+allows, VERB 
+solvation, NOUN 
+encourages, VERB 
+subsequent, ADJ 
+
+, SPACE 
+cleavage, NOUN 
+compound, NOUN 
+reiterate, VERB 
+driving, VERB 
+
+, SPACE 
+force, NOUN 
+alkyl(amido, PROPN 
+cleavage, NOUN 
+lies, VERB 
+effective, ADJ 
+
+, SPACE 
+increase, NOUN 
+coordination, NOUN 
+number, NOUN 
+metal, NOUN 
+center, NOUN 
+
+, SPACE 
+reactions, NOUN 
+studied, VERB 
+far, ADV 
+series, NOUN 
+type, NOUN 
+
+, SPACE 
+donor, NOUN 
+solvent, NOUN 
+nature, NOUN 
+second, ADJ 
+
+, SPACE 
+organic, ADJ 
+group, NOUN 
+amine, NOUN 
+affect, VERB 
+outcome, NOUN 
+
+, SPACE 
+reaction, NOUN 
+i.e., X 
+disproportionation, NOUN 
+proceeds, VERB 
+regardless, ADV 
+
+, SPACE 
+donor, NOUN 
+solvent, NOUN 
+chosen, VERB 
+R, NOUN 
+group, NOUN 
+
+, SPACE 
+amine, NOUN 
+2, NUM 
+pyridyl, ADJ 
+unit, NOUN 
+
+, SPACE 
+4, X 
+Experimental, ADJ 
+
+, SPACE 
+4.1, NUM 
+Syntheses, VERB 
+
+, SPACE 
+syntheses, NOUN 
+conducted, VERB 
+Schlenk, PROPN 
+type, NOUN 
+glass-, NOUN 
+
+, SPACE 
+ware, VERB 
+blanket, NOUN 
+argon, PROPN 
+gas, NOUN 
+metallated, ADJ 
+
+, SPACE 
+compounds, NOUN 
+isolated, VERB 
+found, VERB 
+highly, ADV 
+air, NOUN 
+
+, SPACE 
+moisture, VERB 
+sensitive, ADJ 
+handled, VERB 
+argon, NOUN 
+filled, VERB 
+
+, SPACE 
+glove, PROPN 
+box, PROPN 
+fitted, VERB 
+recirculating, NOUN 
+column, NOUN 
+
+, SPACE 
+Preparation, PROPN 
+bis(amides, NOUN 
+carried, VERB 
+
+, SPACE 
+similar, ADJ 
+manner, NOUN 
+Dibutylmagnesium, PROPN 
+purchased, VERB 
+Aldrich, PROPN 
+molar, NOUN 
+solution, NOUN 
+heptane, NOUN 
+containing, VERB 
+
+, SPACE 
+1, NUM 
+1, NUM 
+ratio, NOUN 
+n, ADV 
+butyl, ADJ 
+s, VERB 
+butyl, ADJ 
+units, NOUN 
+10, NUM 
+mmol, NOUN 
+
+, SPACE 
+added, VERB 
+dropwise, ADV 
+stirred, ADJ 
+solution, NOUN 
+amine, NOUN 
+Ph@, NOUN 
+
+, SPACE 
+pyr)NH, NOUN 
+2, NUM 
+pyr, NOUN 
+NH, PROPN 
+Me(2, NOUN 
+pyr)NH, NOUN 
+10, NUM 
+mmol, NOUN 
+10, NUM 
+
+, SPACE 
+ml, NOUN 
+toluene, NOUN 
+gas, NOUN 
+evolution, NOUN 
+ceased, VERB 
+clear, ADJ 
+yellow, ADJ 
+
+, SPACE 
+solution, NOUN 
+remained, VERB 
+Donor, ADJ 
+solvent, NOUN 
+THF, PROPN 
+TMEDA, PROPN 
+
+, SPACE 
+PMDETA, PROPN 
+10, NUM 
+mmol, PROPN 
+added, VERB 
+stirred, ADJ 
+solutions, NOUN 
+
+, SPACE 
+showing, VERB 
+visible, ADJ 
+change, NOUN 
+Conditions, NOUN 
+precipita-, ADJ 
+
+, SPACE 
+tion, NOUN 
+solid, ADJ 
+material, NOUN 
+varied, VERB 
+reactions, NOUN 
+
+, SPACE 
+outlined, VERB 
+individually, ADV 
+solids, NOUN 
+filtered, VERB 
+
+, SPACE 
+solution, NOUN 
+washed, VERB 
+hexane, NOUN 
+2, NUM 
+X, NOUN 
+2, NUM 
+ml, NOUN 
+dried, VERB 
+
+, SPACE 
+vacuum, NOUN 
+Yields, NOUN 
+reported, VERB 
+represent, VERB 
+batch, NOUN 
+
+, SPACE 
+solid, ADJ 
+material, NOUN 
+produced, VERB 
+
+, SPACE 
+Ph(2, PROPN 
+pyr)N, PROPN 
+Mg, PROPN 
+OXF, PROPN 
+1, X 
+Pale, ADJ 
+yellow, ADJ 
+crystals, NOUN 
+
+, SPACE 
+formed, VERB 
+day, NOUN 
+ambient, ADJ 
+temperature, NOUN 
+
+, SPACE 
+Analyses, NOUN 
+crystals, NOUN 
+reported, VERB 
+previ-, PROPN 
+
+, SPACE 
+ously, ADV 
+121, NUM 
+
+, SPACE 
+Ph(2, PROPN 
+pyr)N, PROPN 
+Mg, PROPN 
+CIMEDA, PROPN 
+4, NUM 
+standing, VERB 
+
+, SPACE 
+4, NUM 
+°, NUM 
+C, NOUN 
+days, NOUN 
+small, ADJ 
+yellow, ADJ 
+micro-, NOUN 
+
+, SPACE 
+crystalline, NOUN 
+solid, ADJ 
+deposited, VERB 
+solution, NOUN 
+Yield, VERB 
+
+, SPACE 
+based, VERB 
+consumption, NOUN 
+amine, NOUN 
+6, NUM 
+m.p, PROPN 
+209, NUM 
+212, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+Anal, PROPN 
+Found, VERB 
+C, PROPN 
+72.2, NUM 
+H, PROPN 
+7.1, NUM 
+N, PROPN 
+16.9, NUM 
+Mg, PROPN 
+4.7, NUM 
+
+, SPACE 
+C,,H,,N, PROPN 
+Mg, PROPN 
+Calc, PROPN 
+C, NOUN 
+70.2, NUM 
+H, PROPN 
+7.1, NUM 
+N, PROPN 
+17.6, NUM 
+Mg, PROPN 
+
+, SPACE 
+5.1, NUM 
+
+, SPACE 
+Ph(2, PROPN 
+pyr)N, PROPN 
+Mg, PROPN 
+PMDETA, PROPN 
+5, X 
+Large, ADJ 
+orange, NOUN 
+
+, SPACE 
+crystals, NOUN 
+obtained, VERB 
+4, NUM 
+h, NOUN 
+ambient, ADJ 
+temperature, NOUN 
+
+, SPACE 
+Yield, VERB 
+68, NUM 
+m.p, PROPN 
+123, NUM 
+°, NUM 
+C, NOUN 
+Anal, PROPN 
+Found, VERB 
+C, PROPN 
+69.5, NUM 
+H, PROPN 
+8.1, NUM 
+
+, SPACE 
+N, PROPN 
+17.7, NUM 
+Mg, PROPN 
+4.5, NUM 
+C3,H4,N7Mg, PROPN 
+Calc, PROPN 
+C, PROPN 
+69.5, NUM 
+H, PROPN 
+7.5, NUM 
+
+, SPACE 
+N, PROPN 
+18.3, NUM 
+Mg, PROPN 
+4.5, NUM 
+
+, SPACE 
+2, NUM 
+pyr, NOUN 
+N)2, PROPN 
+Mg, PROPN 
+TMEDA, PROPN 
+6, NUM 
+stirring, VERB 
+~, PUNCT 
+U-, PRON 
+
+, SPACE 
+tion, NOUN 
+ambient, ADJ 
+temperature, NOUN 
+1, NUM 
+h, NOUN 
+yellow, ADJ 
+solid, ADJ 
+
+, SPACE 
+precipitated, VERB 
+solution, NOUN 
+Yield, VERB 
+52, NUM 
+m.p, PROPN 
+136-, PROPN 
+138, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+Anal, PROPN 
+Found, VERB 
+C, PROPN 
+65.0, NUM 
+H, PROPN 
+6.2, NUM 
+N, PROPN 
+22.1, NUM 
+Mg, PROPN 
+4.9, NUM 
+
+, SPACE 
+C,,H,,N, PROPN 
+Mg, PROPN 
+Calc, PROPN 
+C, NOUN 
+65.0, NUM 
+H, PROPN 
+6.7, NUM 
+N, PROPN 
+23.3, NUM 
+Mg, PROPN 
+
+, SPACE 
+5.0, NUM 
+
+, SPACE 
+2, NUM 
+pyr),N],Mg, NUM 
+PMDETA, PROPN 
+7, X 
+standing, VERB 
+12, NUM 
+
+, SPACE 
+h, NOUN 
+4, NUM 
+°, NUM 
+C, NOUN 
+deep, ADV 
+yellow, ADJ 
+solid, ADJ 
+gleaned, VERB 
+
+, SPACE 
+solution, NOUN 
+Yield, VERB 
+36, NUM 
+m.p, PROPN 
+82, NUM 
+84, NUM 
+°, NUM 
+C, NOUN 
+Anal, PROPN 
+Found, VERB 
+C, PROPN 
+
+, SPACE 
+68.1, NUM 
+H, PROPN 
+7.4, NUM 
+N, PROPN 
+21.8, NUM 
+Mg, PROPN 
+4.4, NUM 
+C,,H,,N, PROPN 
+Mg, PROPN 
+Calc, PROPN 
+C, PROPN 
+
+, SPACE 
+64.8, NUM 
+H, PROPN 
+7.2, NUM 
+N, PROPN 
+23.4, NUM 
+Mg, PROPN 
+4.5, NUM 
+
+, SPACE 
+Me@pyr)N),Mg, X 
+TMEDA, PROPN 
+8, NUM 
+day, NOUN 
+
+, SPACE 
+20, NUM 
+°, NUM 
+C, NOUN 
+pale, ADJ 
+yellow, ADJ 
+solid, ADJ 
+deposited, VERB 
+solution, NOUN 
+
+, SPACE 
+Yield, VERB 
+83, NUM 
+m.p, PROPN 
+115, PROPN 
+l, NOUN 
+17, NUM 
+°, NUM 
+C, NOUN 
+Anal, ADJ 
+Found, PROPN 
+C, NOUN 
+61.5, NUM 
+H, PROPN 
+
+, SPACE 
+8.3, NUM 
+N, PROPN 
+23.5, NUM 
+Mg, PROPN 
+6.8, NUM 
+C,,H,,N, PROPN 
+Mg, PROPN 
+Calc, PROPN 
+C, NOUN 
+61.0, NUM 
+H, PROPN 
+
+, SPACE 
+8.5, NUM 
+N, PROPN 
+23.7, NUM 
+Mg, PROPN 
+6.8, NUM 
+
+, SPACE 
+2, NUM 
+pyr, NOUN 
+NMg, X 
+Bu, PROPN 
+9, NUM 
+reaction, NOUN 
+conducted, VERB 
+
+, SPACE 
+outlined, VERB 
+exception, NOUN 
+donor, NOUN 
+
+, SPACE 
+solvent, NOUN 
+added, VERB 
+solution, NOUN 
+solution, NOUN 
+yielded, VERB 
+
+, SPACE 
+bright, ADJ 
+yellow, ADJ 
+microcrystalline, NOUN 
+material, NOUN 
+standing, VERB 
+
+, SPACE 
+ambient, ADJ 
+temperature, NOUN 
+12, NUM 
+h., NOUN 
+Yield, NOUN 
+34, NUM 
+decomposed, VERB 
+
+, SPACE 
+160, NUM 
+°, NUM 
+C, NOUN 
+Anal, PROPN 
+Found, VERB 
+C, NOUN 
+66.8, NUM 
+H, PROPN 
+7.0, NUM 
+N, PROPN 
+16.3, NUM 
+
+, SPACE 
+Mg, PROPN 
+9.7, NUM 
+C,,H,,NjMg, PROPN 
+Calc, PROPN 
+C, NOUN 
+66.8, NUM 
+H, PROPN 
+6.8, NUM 
+N, PROPN 
+16.7, NUM 
+
+, SPACE 
+Mg, PROPN 
+9.7, NUM 
+
+, SPACE 
+PhCH,(Me, PROPN 
+NCH, PROPN 
+CH,)NMg”/“Bu, PROPN 
+10, NUM 
+solution, NOUN 
+
+, SPACE 
+dibutylmagnesium, NOUN 
+10, NUM 
+mmol, NOUN 
+10, NUM 
+ml, NOUN 
+pentane, NOUN 
+
+, SPACE 
+stirred, VERB 
+amine, NOUN 
+N’-benzyl, PROPN 
+N, PROPN 
+N, PROPN 
+dimethyl-, NUM 
+
+, SPACE 
+K.W., PROPN 
+Henderson, PROPN 
+rt, PROPN 
+cd./, PROPN 
+Journal, PROPN 
+Organometullic, PROPN 
+Chemistry, PROPN 
+518, NUM 
+11996, NUM 
+139, NUM 
+146, NUM 
+145, NUM 
+
+, SPACE 
+ethylenediamine, NOUN 
+IO, PROPN 
+mmol, PROPN 
+added, VERB 
+Gas, NOUN 
+evolution, NOUN 
+
+, SPACE 
+observed, VERB 
+solution, NOUN 
+changed, VERB 
+color, NOUN 
+pale, ADJ 
+
+, SPACE 
+yellow, ADJ 
+pale, ADJ 
+pink, ADV 
+standing, VERB 
+resulting, VERB 
+solution, NOUN 
+
+, SPACE 
+12, NUM 
+h, NOUN 
+4, NUM 
+°, NUM 
+C, NOUN 
+small, ADJ 
+pink, ADJ 
+needles, NOUN 
+obtained, VERB 
+
+, SPACE 
+Yield, VERB 
+9, NUM 
+m.p, PROPN 
+mixture, NOUN 
+94, NUM 
+96, NUM 
+°, NUM 
+C, NOUN 
+Anal, PROPN 
+Found, VERB 
+C, PROPN 
+
+, SPACE 
+69.7, NUM 
+H, PROPN 
+10.4, NUM 
+N, PROPN 
+11.1, NUM 
+Mg, PROPN 
+10.0, NUM 
+C,,H,,N, PROPN 
+Mg, PROPN 
+Calc, PROPN 
+
+, SPACE 
+C, PROPN 
+69.7, NUM 
+H, PROPN 
+10.1, NUM 
+N, PROPN 
+10.8, NUM 
+Mg, PROPN 
+9.4, NUM 
+
+, SPACE 
+4.1, NUM 
+.I, ADJ 
+IR, PROPN 
+spectra, PROPN 
+Perkin, PROPN 
+Elmer, PROPN 
+457, NUM 
+grating, VERB 
+spectrome-, NOUN 
+
+, SPACE 
+ter, PROPN 
+cm-, PROPN 
+Nujol, PROPN 
+mulls, NOUN 
+
+, SPACE 
+4, X 
+292Os, NUM 
+2875s, NUM 
+1604s, NUM 
+1585s, NUM 
+1538, NUM 
+m, PROPN 
+1465s, NUM 
+1434s, NUM 
+
+, SPACE 
+1380s, NOUN 
+1300s, NUM 
+1285, NUM 
+m, PROPN 
+1239, NUM 
+m, PROPN 
+1171, NUM 
+m, PROPN 
+1150s, NUM 
+1063, NUM 
+m, PROPN 
+
+, SPACE 
+1038, NUM 
+m, PROPN 
+lOlOm, PROPN 
+998s, PROPN 
+951, NUM 
+m, PROPN 
+849, NUM 
+m, PROPN 
+834, NUM 
+m, PROPN 
+819, NUM 
+m, NUM 
+800, NUM 
+m, PROPN 
+
+, SPACE 
+762s, PROPN 
+754s, PROPN 
+737s, PROPN 
+700s, PROPN 
+660, NUM 
+m, NUM 
+642, NUM 
+m, PROPN 
+592w, NUM 
+581, NUM 
+m, NUM 
+
+, SPACE 
+513, NUM 
+m, PROPN 
+48Ow, NUM 
+444w, PROPN 
+428, NUM 
+m, NOUN 
+419w, PROPN 
+295~., NUM 
+
+, SPACE 
+5, NUM 
+2925s, NUM 
+2850s, NOUN 
+1602s, NOUN 
+1538s, NUM 
+1537, NUM 
+m, PROPN 
+1467s, NUM 
+1440s, NUM 
+
+, SPACE 
+1387s, NOUN 
+1311, NUM 
+m, PROPN 
+1299s, NUM 
+129Ow, PROPN 
+1261w, NUM 
+1238, NUM 
+m, PROPN 
+1173, NUM 
+m, PROPN 
+
+, SPACE 
+1153, NUM 
+m, PROPN 
+1108w, NUM 
+1025, NUM 
+m, PROPN 
+997, NUM 
+m, NOUN 
+989, NUM 
+m., NOUN 
+945w, PROPN 
+9Olw, PROPN 
+
+, SPACE 
+86Ow, PROPN 
+835w, PROPN 
+82Ow, NUM 
+808w, NOUN 
+762w, NUM 
+739, NUM 
+m, PROPN 
+705, NUM 
+m, PROPN 
+700, NUM 
+m, PROPN 
+
+, SPACE 
+66Ow, PROPN 
+623w, PROPN 
+530, NUM 
+m, NOUN 
+394~., NUM 
+
+, SPACE 
+6, NUM 
+2921s, NUM 
+2859s, NUM 
+1590s, NUM 
+1552, NUM 
+m, PROPN 
+1465s, NUM 
+1431s, NUM 
+138Os, NUM 
+
+, SPACE 
+1300s, NOUN 
+1286s, NUM 
+1255w, NUM 
+1168w, NUM 
+1142, NUM 
+m, PROPN 
+1025w, NUM 
+lOOOm, PROPN 
+
+, SPACE 
+996w, NUM 
+95Ow, NUM 
+910, NUM 
+m, PROPN 
+866, NUM 
+m, PROPN 
+825w, PROPN 
+798, NUM 
+m, PROPN 
+785, NUM 
+m, PROPN 
+774, NUM 
+m, PROPN 
+
+, SPACE 
+731, NUM 
+m, PROPN 
+69Ow, PROPN 
+55Ow, NUM 
+429~., NUM 
+
+, SPACE 
+7, NUM 
+2925s, NUM 
+2859s, NUM 
+1590s, NUM 
+1552s, NUM 
+1470s, NOUN 
+1430s, NUM 
+1377s, NUM 
+
+, SPACE 
+1305s, NUM 
+1284, NUM 
+m, PROPN 
+1248, NUM 
+m, PROPN 
+1144s, NUM 
+1105w, NUM 
+1050, NUM 
+m, PROPN 
+998s, NUM 
+
+, SPACE 
+985, NUM 
+m, PROPN 
+950, NUM 
+m, PROPN 
+911, NUM 
+m, PROPN 
+863, NUM 
+m, PROPN 
+83Ow, PROPN 
+799w, NUM 
+775s, NUM 
+745w, NUM 
+
+, SPACE 
+735s, NUM 
+688w, PROPN 
+64Ow, NUM 
+625w, NUM 
+549, NUM 
+m, PROPN 
+53Ow, PROPN 
+428, NUM 
+m., NOUN 
+
+, SPACE 
+8, NUM 
+2922s, NUM 
+2854s, NUM 
+1751w, NUM 
+16OOs, PROPN 
+1535w, NUM 
+1491s, NUM 
+1460s, NUM 
+
+, SPACE 
+1404, NUM 
+m, PROPN 
+1370, NUM 
+m, PROPN 
+1300, NUM 
+m, PROPN 
+1255w, NUM 
+1154, NUM 
+m, PROPN 
+1073w, NUM 
+1031w, NUM 
+
+, SPACE 
+979w, PROPN 
+95Ow, PROPN 
+803w, PROPN 
+760, NUM 
+m, PROPN 
+731, NUM 
+m, PROPN 
+699w, PROPN 
+639~., NUM 
+
+, SPACE 
+9, NUM 
+2930s, NUM 
+2855s, NUM 
+1464s, NUM 
+1378, NUM 
+m, PROPN 
+1346, NUM 
+m, PROPN 
+1302w, NUM 
+
+, SPACE 
+1288w, NOUN 
+1276w, NUM 
+1252w, NUM 
+1189w, NUM 
+1168w, NUM 
+lllOm, PROPN 
+1074w, NUM 
+
+, SPACE 
+1026, NUM 
+m, PROPN 
+953w, PROPN 
+937, NUM 
+m, PROPN 
+847, NUM 
+m, PROPN 
+778, NUM 
+m, PROPN 
+729, NUM 
+m, PROPN 
+700, NUM 
+m, PROPN 
+664, NUM 
+m, PROPN 
+
+, SPACE 
+5oow, NUM 
+541, NUM 
+w., PROPN 
+
+, SPACE 
+10, NUM 
+292Os, NUM 
+2845s, NUM 
+2785, NUM 
+m, PROPN 
+1607s, NUM 
+1598s, NUM 
+1556, NUM 
+m, PROPN 
+
+, SPACE 
+1470s, NUM 
+1434s, NUM 
+1380, NUM 
+m, PROPN 
+1360s, NUM 
+1305, NUM 
+m, PROPN 
+1288, NUM 
+m, PROPN 
+1249w, NUM 
+
+, SPACE 
+1153, NUM 
+m, PROPN 
+1106w, NUM 
+1064w, NUM 
+1014, NUM 
+m, PROPN 
+982w, PROPN 
+902w, PROPN 
+873w, NUM 
+
+, SPACE 
+808w, PROPN 
+839, NUM 
+m, NUM 
+778s, PROPN 
+750, NUM 
+m, PROPN 
+739, NUM 
+m, PROPN 
+666w, PROPN 
+626, NUM 
+m, PROPN 
+542w, PROPN 
+
+, SPACE 
+495, NUM 
+m, PROPN 
+480, NUM 
+m, PROPN 
+420~., NUM 
+
+, SPACE 
+4.1.2, PROPN 
+H, NOUN 
+NMR, PROPN 
+spectra, NOUN 
+Bruker, PROPN 
+AMX, PROPN 
+400, NUM 
+MHz, NOUN 
+300, NUM 
+K, NOUN 
+
+, SPACE 
+4, X 
+Ph, PROPN 
+pH, NUM 
+2H, PROPN 
+m, PROPN 
+a6.94, PROPN 
+OH, PROPN 
+4H, PROPN 
+d, PROPN 
+a7.23, PROPN 
+mH, NUM 
+4H, PROPN 
+
+, SPACE 
+t, PROPN 
+7.30, NUM 
+Pyr, NOUN 
+PH, PROPN 
+2H, PROPN 
+m, PROPN 
+a5.98, PROPN 
+P’H, PROPN 
+2H, PROPN 
+m, PROPN 
+a6.79, PROPN 
+
+, SPACE 
+y, PROPN 
+H, PROPN 
+2H, PROPN 
+m, PROPN 
+a6.94, PROPN 
+Y, PROPN 
+H, PROPN 
+2H, PROPN 
+m, PROPN 
+a7.57, PROPN 
+TMEDA, PROPN 
+C, PROPN 
+H, PROPN 
+
+, SPACE 
+4H, PROPN 
+S, PROPN 
+21.70, NUM 
+CH, PROPN 
+12H, NUM 
+S, PROPN 
+al.921, PROPN 
+C, PROPN 
+D, PROPN 
+
+, SPACE 
+5, X 
+Ph, PROPN 
+pH, NUM 
+2H, PROPN 
+a6.97, PROPN 
+OH, PROPN 
+4H, PROPN 
+a7.21, PROPN 
+mH, NUM 
+4H, PROPN 
+
+, SPACE 
+37.27, NUM 
+Pyr, PROPN 
+/3H, PROPN 
+2H, PROPN 
+m, PROPN 
+a5.98, PROPN 
+P’H, PROPN 
+2H, PROPN 
+m, PROPN 
+a6.80, PROPN 
+yH, NUM 
+
+, SPACE 
+2H, PROPN 
+m, PROPN 
+86.89, NUM 
+Y, PROPN 
+H, PROPN 
+2H, PROPN 
+m, PROPN 
+a7.67, PROPN 
+PMDETA, PROPN 
+C, NOUN 
+H, PROPN 
+
+, SPACE 
+12H, NUM 
+s, PROPN 
+a1.92, PROPN 
+CH, PROPN 
+4H, PROPN 
+m, PROPN 
+a1.98, PROPN 
+CH, PROPN 
+3H, PROPN 
+s, PROPN 
+a2.09, PROPN 
+
+, SPACE 
+CH, PROPN 
+4H, PROPN 
+m, PROPN 
+4H, PROPN 
+a2.39, PROPN 
+C, PROPN 
+D, PROPN 
+
+, SPACE 
+6, X 
+Pyr, NOUN 
+OH, PROPN 
+4H, PROPN 
+m, PROPN 
+a6.11, PROPN 
+P’H, PROPN 
+4H, PROPN 
+m, PROPN 
+a6.88, PROPN 
+yH, NUM 
+
+, SPACE 
+4H, PROPN 
+m, PROPN 
+a6.98, PROPN 
+Y, PROPN 
+H, PROPN 
+4H, PROPN 
+m, PROPN 
+a7.95, PROPN 
+TMEDA, PROPN 
+C, PROPN 
+H, PROPN 
+12H, NUM 
+
+, SPACE 
+s, PROPN 
+a2.10, PROPN 
+C, PROPN 
+H, PROPN 
+4H, PROPN 
+s, PROPN 
+a2.32, PROPN 
+toluene, PROPN 
+d, NOUN 
+
+, SPACE 
+7, X 
+Pyr, NOUN 
+/3H, PROPN 
+4H, PROPN 
+m, PROPN 
+a6.12, PROPN 
+P’H, PROPN 
+4H, PROPN 
+m, PROPN 
+a6.88, PROPN 
+yH, NUM 
+
+, SPACE 
+4H, PROPN 
+m, PROPN 
+a7.09, PROPN 
+aH, NUM 
+4H, PROPN 
+m, PROPN 
+a7.92, PROPN 
+PMDETA, PROPN 
+CH, PROPN 
+12H, NUM 
+s, PROPN 
+a2.12, PROPN 
+CH, PROPN 
+3H, PROPN 
+s, PROPN 
+a2.18, PROPN 
+CH, PROPN 
+4H, PROPN 
+t, PROPN 
+a2.34, PROPN 
+
+, SPACE 
+C, PROPN 
+H, PROPN 
+4H, PROPN 
+t, PROPN 
+a2.46, PROPN 
+toluene, PROPN 
+d, NOUN 
+
+, SPACE 
+8, X 
+a2.80, PROPN 
+s, PROPN 
+Pyr, NOUN 
+OH, PROPN 
+4H, PROPN 
+m, PROPN 
+a5.92, PROPN 
+P’H, PROPN 
+4H, PROPN 
+
+, SPACE 
+m, PROPN 
+a6.12, PROPN 
+-yH, PROPN 
+4H, PROPN 
+m, PROPN 
+a7.19, PROPN 
+aH, NUM 
+4H, PROPN 
+m, PROPN 
+a7.53, PROPN 
+
+, SPACE 
+C, PROPN 
+D, PROPN 
+
+, SPACE 
+9, X 
+Pyr, NOUN 
+c&H, PROPN 
+lH, PROPN 
+m, PROPN 
+a6.11, PROPN 
+PbH, PROPN 
+lH, PROPN 
+m, PROPN 
+a6.25, PROPN 
+
+, SPACE 
+/3,‘H, PROPN 
+lH, PROPN 
+m, PROPN 
+a6.71, PROPN 
+H, PROPN 
+y, PROPN 
+H, PROPN 
+lH, PROPN 
+lH, PROPN 
+m, PROPN 
+a6.80, PROPN 
+
+, SPACE 
+y, PROPN 
+H, PROPN 
+cu, PROPN 
+H, PROPN 
+lH, PROPN 
+lH, PROPN 
+m, PROPN 
+a7.00, PROPN 
+H, PROPN 
+lH, PROPN 
+m, PROPN 
+a7.75, PROPN 
+
+, SPACE 
+P, NOUN 
+Bu, PROPN 
+series, NOUN 
+overlapping, VERB 
+multiplets, NOUN 
+aO.18, PROPN 
+32.23, NUM 
+
+, SPACE 
+characteristic, ADJ 
+CH,-Mg, PROPN 
+triplet, NOUN 
+Bu, PROPN 
+do.51, NOUN 
+
+, SPACE 
+CH, PROPN 
+CH, PROPN 
+Mg, PROPN 
+doublet, NOUN 
+al.531, PROPN 
+toluene, PROPN 
+d, NOUN 
+
+, SPACE 
+10, NUM 
+H, NOUN 
+NMR, PROPN 
+spectrum, NOUN 
+compound, NOUN 
+
+, SPACE 
+complex, ADJ 
+owing, VERB 
+high, ADJ 
+degree, NOUN 
+secondary, ADJ 
+
+, SPACE 
+splitting, NOUN 
+leading, VERB 
+overlapping, VERB 
+signals, NOUN 
+compounded, VERB 
+
+, SPACE 
+fact, NOUN 
+components, NOUN 
+Bu, PROPN 
+Bu, PROPN 
+present, ADJ 
+
+, SPACE 
+characteristic, ADJ 
+C, PROPN 
+H,-Mg, PROPN 
+triplet, NOUN 
+Bu, PROPN 
+do.15, PROPN 
+C, PROPN 
+H, PROPN 
+
+, SPACE 
+multiplet, NOUN 
+Bu, PROPN 
+aO.37, PROPN 
+C, PROPN 
+D, PROPN 
+
+, SPACE 
+4.1.3, NUM 
+13C, NUM 
+NMR, PROPN 
+spectra, NOUN 
+
+, SPACE 
+1, NUM 
+Ph, PROPN 
+PC, PROPN 
+121.38, NUM 
+ppm, NOUN 
+oC, NUM 
+122.65, NUM 
+ppm, NOUN 
+mC, PROPN 
+
+, SPACE 
+129.80, NUM 
+ppm, NOUN 
+iC, NUM 
+148.69, NUM 
+ppm, NOUN 
+Pyr, NOUN 
+PC, NOUN 
+107.77, NUM 
+ppm, NOUN 
+
+, SPACE 
+P’C, PROPN 
+110.11, NUM 
+yC, NUM 
+139.23, NUM 
+ppm, NOUN 
+crC, PROPN 
+147.55, NUM 
+ppm, NOUN 
+iC, NUM 
+
+, SPACE 
+164.36, NUM 
+ppm, NOUN 
+THF, PROPN 
+CH, PROPN 
+25.90, NUM 
+ppm, NOUN 
+OCH, PROPN 
+68.68, NUM 
+
+, SPACE 
+ppm, PROPN 
+C, PROPN 
+D, PROPN 
+
+, SPACE 
+4, X 
+Ph, PROPN 
+PC, NOUN 
+120.61, NUM 
+ppm, NOUN 
+oC, NUM 
+124.25, NUM 
+ppm, NOUN 
+mC, PROPN 
+
+, SPACE 
+129.75, NUM 
+ppm, NOUN 
+iC, NUM 
+152.73, NUM 
+ppm, NOUN 
+Pyr, NOUN 
+PC, NOUN 
+106.79, NUM 
+ppm, NOUN 
+
+, SPACE 
+j?‘C, PROPN 
+107.21, NUM 
+yC, NUM 
+138.70, NUM 
+ppm, NOUN 
+aC, PROPN 
+146.62, NUM 
+ppm, NOUN 
+iC, NUM 
+
+, SPACE 
+167.20, NUM 
+ppm, NOUN 
+TMEDA, PROPN 
+CH, PROPN 
+46.65, NUM 
+ppm, NOUN 
+CH, PROPN 
+56.76, NUM 
+
+, SPACE 
+ppm, PROPN 
+C, PROPN 
+D, PROPN 
+
+, SPACE 
+5, X 
+Ph, PROPN 
+PC, NOUN 
+120.62, NUM 
+ppm, NOUN 
+oC, NUM 
+124.30, NUM 
+ppm, NOUN 
+mC, PROPN 
+
+, SPACE 
+129.76, NUM 
+ppm, NOUN 
+iC, NUM 
+152.67, NUM 
+ppm, NOUN 
+Pyr, NOUN 
+PC, NOUN 
+106.80, NUM 
+ppm, NOUN 
+
+, SPACE 
+P’C, PROPN 
+107.25, NUM 
+yC, NUM 
+138.73, NUM 
+ppm, NOUN 
+CXC, PROPN 
+146.69, NUM 
+ppm, NOUN 
+iC, NUM 
+
+, SPACE 
+167.18, NUM 
+ppm, ADJ 
+PMDETA, PROPN 
+CH, PROPN 
+42.28, NUM 
+ppm, NOUN 
+CH, PROPN 
+46.30, NUM 
+
+, SPACE 
+ppm, PROPN 
+CH, PROPN 
+57.50, NUM 
+ppm, NOUN 
+C, PROPN 
+D, PROPN 
+
+, SPACE 
+6, X 
+Pyr, NOUN 
+PC, NOUN 
+111.90, NUM 
+ppm, NOUN 
+PC, PROPN 
+111.40, NUM 
+yC, PROPN 
+137.97, NUM 
+
+, SPACE 
+ppm, PROPN 
+CWC, PROPN 
+146.80, NUM 
+ppm, NOUN 
+iC, NUM 
+163.55, NUM 
+ppm, NOUN 
+TMEDA, PROPN 
+
+, SPACE 
+CH, PROPN 
+45.97, NUM 
+ppm, NOUN 
+CH, PROPN 
+58.41, NUM 
+ppm, NOUN 
+toluene, PROPN 
+d, NOUN 
+
+, SPACE 
+7, X 
+Pyr, NOUN 
+PC, NOUN 
+111.91, NUM 
+ppm, NOUN 
+P’C, PROPN 
+112.42, NUM 
+yC, NUM 
+137.98, NUM 
+
+, SPACE 
+ppm, PROPN 
+aC, NUM 
+146.80, NUM 
+ppm, NOUN 
+iC, NUM 
+163.58, NUM 
+ppm, ADJ 
+PMDETA, PROPN 
+
+, SPACE 
+CH, PROPN 
+43.12, NUM 
+ppm, NOUN 
+CH, PROPN 
+45.99, NUM 
+ppm, PROPN 
+CH, PROPN 
+56.97, NUM 
+ppm, NOUN 
+
+, SPACE 
+CH, PROPN 
+58.39, NUM 
+ppm, NOUN 
+toluene, PROPN 
+d, NOUN 
+
+, SPACE 
+8, X 
+34.49, NUM 
+ppm, ADJ 
+Pyr, NOUN 
+PC, NOUN 
+103.49, NUM 
+ppm, NOUN 
+/3’C, ADP 
+
+, SPACE 
+103.54, NUM 
+yC, NUM 
+138.62, NUM 
+ppm, NOUN 
+aC, NUM 
+146.68, NUM 
+ppm, NOUN 
+iC, NUM 
+169.73, NUM 
+
+, SPACE 
+ppm, PROPN 
+TMEDA, PROPN 
+CH, PROPN 
+46.33, NUM 
+ppm, NOUN 
+CH, PROPN 
+58.80, NUM 
+ppm, NOUN 
+
+, SPACE 
+C, PROPN 
+D, PROPN 
+
+, SPACE 
+13C, NUM 
+NMR, PROPN 
+spectra, NOUN 
+9, NUM 
+10, NUM 
+little, ADJ 
+diagnos-, ADJ 
+
+, SPACE 
+tic, ADJ 
+value, NOUN 
+numerous, ADJ 
+overlapping, VERB 
+peaks, NOUN 
+arising, VERB 
+
+, SPACE 
+mixture, NOUN 
+compounds, NOUN 
+
+, SPACE 
+Assignment, PROPN 
+spectra, NOUN 
+aided, VERB 
+use, NOUN 
+
+, SPACE 
+Jmod, PROPN 
+COSY, PROPN 
+45, NUM 
+C, NOUN 
+H, NOUN 
+correlation, NOUN 
+experiments, NOUN 
+
+, SPACE 
+Acknowledgements, NOUN 
+
+, SPACE 
+thank, VERB 
+ICI, PROPN 
+representative, ADJ 
+P.J.V., PROPN 
+Jones, PROPN 
+
+, SPACE 
+SERC, PROPN 
+financial, ADJ 
+support, NOUN 
+appreciate, VERB 
+
+, SPACE 
+cooperation, NOUN 
+Professor, PROPN 
+Paul, PROPN 
+Williard, PROPN 
+
+, SPACE 
+146, NUM 
+K., PROPN 
+W., PROPN 
+Henderson, PROPN 
+et, PROPN 
+al, PROPN 
+Journul, PROPN 
+Orgunometullic, PROPN 
+Chemistry, PROPN 
+518, NUM 
+1996, NUM 
+139, NUM 
+146, NUM 
+
+, SPACE 
+References, PROPN 
+notes, NOUN 
+
+, SPACE 
+l, X 
+M.F., PROPN 
+Lappert, PROPN 
+P.P., PROPN 
+Power, PROPN 
+A.R., PROPN 
+Sanger, PROPN 
+R.C., PROPN 
+Srivastava, PROPN 
+
+, SPACE 
+Metul, PROPN 
+Metalloid, PROPN 
+Amides, PROPN 
+Ellis, PROPN 
+Horwood, PROPN 
+Chichester, PROPN 
+1980, NUM 
+
+, SPACE 
+M., PROPN 
+Veith, PROPN 
+Adu, PROPN 
+Orgunomrt, PROPN 
+Chem, PROPN 
+31(1990, NUM 
+269, NUM 
+A.G., PROPN 
+Pinkus, PROPN 
+
+, SPACE 
+Coord, PROPN 
+Chem, PROPN 
+Reu, PROPN 
+25, NUM 
+1978, NUM 
+173, NUM 
+A.W., PROPN 
+Duff, PROPN 
+P.B., PROPN 
+Hitchcock, PROPN 
+
+, SPACE 
+M.F., PROPN 
+Lappert, PROPN 
+R.G., PROPN 
+Taylor, PROPN 
+J.A., PROPN 
+Segal, PROPN 
+J., PROPN 
+Orgunomet, PROPN 
+
+, SPACE 
+Chem, PROPN 
+293, NUM 
+198.5, NUM 
+271, NUM 
+review, NOUN 
+early, ADJ 
+work, NOUN 
+
+, SPACE 
+alkyI(amido)magnesiums, NOUN 
+B.J., PROPN 
+Wakefield, PROPN 
+Adu, PROPN 
+Inorg, PROPN 
+Chem, PROPN 
+
+, SPACE 
+Rudiochem, PROPN 
+II, PROPN 
+1968, NUM 
+341, NUM 
+
+, SPACE 
+2, X 
+W.E., PROPN 
+Lindsell, PROPN 
+G., PROPN 
+Wilkinson, PROPN 
+F.G.A., PROPN 
+Stone, PROPN 
+E.W., PROPN 
+Abel, PROPN 
+
+, SPACE 
+eds, PROPN 
+Comprehensive, PROPN 
+Orgunometuilic, PROPN 
+Chemistry, PROPN 
+Vol, PROPN 
+1, NUM 
+Perg-, PROPN 
+
+, SPACE 
+amon, PROPN 
+Press, PROPN 
+Oxford, PROPN 
+1982, NUM 
+Chapter, NOUN 
+4, NUM 
+C.H., PROPN 
+Heathcock, PROPN 
+B.M., PROPN 
+
+, SPACE 
+Trost, PROPN 
+I., PROPN 
+Flemming, PROPN 
+eds, NOUN 
+Comprehensiue, PROPN 
+Orgunic, PROPN 
+Chem-, PROPN 
+
+, SPACE 
+istry, NOUN 
+Vol, PROPN 
+2, NUM 
+Pergamon, PROPN 
+Press, PROPN 
+Oxford, PROPN 
+1991, NUM 
+Chapter, NOUN 
+.6, NUM 
+
+, SPACE 
+3, X 
+J.J., PROPN 
+Eisch, PROPN 
+R., PROPN 
+Sanchez, PROPN 
+J., PROPN 
+Organomet, PROPN 
+Chem, PROPN 
+296, NUM 
+1985, NUM 
+
+, SPACE 
+C27, PROPN 
+P.R., PROPN 
+Markies, PROPN 
+G., PROPN 
+Schat, PROPN 
+O.S., PROPN 
+Akkerman, PROPN 
+F., PROPN 
+Bickelhaupt, PROPN 
+
+, SPACE 
+W.J.J., PROPN 
+Smeets, PROPN 
+P., PROPN 
+Van, PROPN 
+Der, PROPN 
+Sluis, PROPN 
+A.L., PROPN 
+Spek, PROPN 
+1, NUM 
+Orgunomet, PROPN 
+
+, SPACE 
+Chem, PROPN 
+393, NUM 
+1990, NUM 
+315, NUM 
+
+, SPACE 
+4, X 
+N.N., PROPN 
+Greenwood, PROPN 
+A., PROPN 
+Eamshaw, PROPN 
+Chemistry, PROPN 
+Elements, PROPN 
+
+, SPACE 
+Pergamon, PROPN 
+Press, PROPN 
+Oxford, PROPN 
+1984, NUM 
+A.G., PROPN 
+Massey, PROPN 
+Muin, PROPN 
+Group, PROPN 
+
+, SPACE 
+Chemistry, PROPN 
+Ellis, PROPN 
+Horwood, PROPN 
+Chichester, PROPN 
+1990, NUM 
+
+, SPACE 
+5, X 
+B.J., PROPN 
+Wakefield, PROPN 
+Orgunolithium, PROPN 
+Methods, PROPN 
+Academic, PROPN 
+Press, PROPN 
+Lon-, PROPN 
+
+, SPACE 
+don, PROPN 
+1988, NUM 
+
+, SPACE 
+6, NUM 
+D.A., PROPN 
+Whiting, PROPN 
+Aldrichim, PROPN 
+Actu, PROPN 
+19, NUM 
+1986, NUM 
+31, NUM 
+N.D.R., PROPN 
+Bamett, PROPN 
+
+, SPACE 
+R.E., PROPN 
+Mulvey, PROPN 
+W., PROPN 
+Clegg, PROPN 
+P.A., PROPN 
+O’Neil, PROPN 
+J., PROPN 
+Chem, PROPN 
+SM, PROPN 
+
+, SPACE 
+I13, PROPN 
+1991, NUM 
+8187, NUM 
+
+, SPACE 
+7, X 
+R.D., PROPN 
+Rodgers, PROPN 
+J.L., PROPN 
+Atwood, PROPN 
+R., PROPN 
+Griming, PROPN 
+J., PROPN 
+Orgunomet, PROPN 
+
+, SPACE 
+Chem, PROPN 
+157, NUM 
+1978, NUM 
+229, NUM 
+
+, SPACE 
+8, X 
+D.A., PROPN 
+Evans, PROPN 
+J.D., PROPN 
+Morrison, PROPN 
+ed, PROPN 
+Asymmetric, PROPN 
+Synthesis, PROPN 
+
+, SPACE 
+Vol, PROPN 
+3, NUM 
+Academic, PROPN 
+Press, PROPN 
+New, PROPN 
+York, PROPN 
+1984, NUM 
+p., NOUN 
+1, NUM 
+
+, SPACE 
+9, X 
+R.E., PROPN 
+Mulvey, PROPN 
+Chem, PROPN 
+Sot, PROPN 
+Rev., PROPN 
+20, NUM 
+1991, NUM 
+167, NUM 
+K., PROPN 
+Gregory, PROPN 
+
+, SPACE 
+P.v, PROPN 
+R., PROPN 
+Schleyer, PROPN 
+R., PROPN 
+Snaith, PROPN 
+Adu, PROPN 
+Inorg, PROPN 
+Chem, PROPN 
+31, NUM 
+1991, NUM 
+
+, SPACE 
+47, NUM 
+E., PROPN 
+Weiss, PROPN 
+Angew, PROPN 
+Chem, PROPN 
+105, NUM 
+1993, NUM 
+1565, NUM 
+Anger, NOUN 
+Chem, PROPN 
+
+, SPACE 
+Int, PROPN 
+Ed, PROPN 
+EngI., PROPN 
+32, NUM 
+1993, NUM 
+1501, NUM 
+P.G., PROPN 
+Williard, PROPN 
+B.M., PROPN 
+Frost, PROPN 
+
+, SPACE 
+I., PROPN 
+Flemming, PROPN 
+feds, NOUN 
+Comprehensive, PROPN 
+Organic, PROPN 
+Synthesis, PROPN 
+Vol, PROPN 
+1, NUM 
+
+, SPACE 
+Pergamon, PROPN 
+Press, PROPN 
+Oxford, PROPN 
+1991, NUM 
+Chapter, NOUN 
+1, NUM 
+
+, SPACE 
+lo, X 
+P.E., PROPN 
+Eaton, PROPN 
+C.H., PROPN 
+Lee, PROPN 
+Y., PROPN 
+Xiong, PROPN 
+J., PROPN 
+Chem, PROPN 
+SM, PROPN 
+111, NUM 
+
+, SPACE 
+1989, NUM 
+8016, NUM 
+P.E., PROPN 
+Eaton, PROPN 
+Y., PROPN 
+Xiong, PROPN 
+J.P., PROPN 
+Zhou, PROPN 
+Org, PROPN 
+
+, SPACE 
+Chem, PROPN 
+57, NUM 
+1992, NUM 
+4277, NUM 
+N.A., PROPN 
+Van, PROPN 
+Draanen, PROPN 
+S., PROPN 
+Arseniyadis, PROPN 
+
+, SPACE 
+M.T., PROPN 
+Crimmins, PROPN 
+C.H., PROPN 
+Heathcock, PROPN 
+J., PROPN 
+Org, PROPN 
+Chem, PROPN 
+56, NUM 
+1991, NUM 
+
+, SPACE 
+2499, NUM 
+
+, SPACE 
+G., PROPN 
+Dozzi, PROPN 
+G., PROPN 
+Del, PROPN 
+Piero, PROPN 
+M., PROPN 
+Cesari, PROPN 
+S., PROPN 
+Cucinella, PROPN 
+J., PROPN 
+
+, SPACE 
+Orgunomet, PROPN 
+Chem, PROPN 
+190, NUM 
+1980, NUM 
+229, NUM 
+
+, SPACE 
+12, NUM 
+K.W., PROPN 
+Henderson, PROPN 
+R.E., PROPN 
+Mulvey, PROPN 
+P.A., PROPN 
+O’Neil, PROPN 
+W., PROPN 
+Clegg, PROPN 
+J., PROPN 
+
+, SPACE 
+Orgunomet, PROPN 
+Chem, PROPN 
+439, NUM 
+1992, NUM 
+237, NUM 
+
+, SPACE 
+13, NUM 
+K.W., PROPN 
+Henderson, PROPN 
+R.E., PROPN 
+Mulvey, PROPN 
+P.A., PROPN 
+O’Neil, PROPN 
+W., PROPN 
+Clegg, PROPN 
+
+, SPACE 
+Polyhedron, PROPN 
+20, NUM 
+1993, NUM 
+2535, NUM 
+
+, SPACE 
+14, NUM 
+L.M., PROPN 
+Engelhardt, PROPN 
+B.S., PROPN 
+Jolly, PROPN 
+P.C., PROPN 
+Junk, PROPN 
+C.L., PROPN 
+Raston, PROPN 
+B.W., PROPN 
+
+, SPACE 
+Skelton, PROPN 
+A.H., PROPN 
+White, PROPN 
+Aust, PROPN 
+J., PROPN 
+Chem, PROPN 
+39, NUM 
+1986, NUM 
+1337, NUM 
+151, NUM 
+V.R., PROPN 
+Magnuson, PROPN 
+G.D., PROPN 
+Stucky, PROPN 
+Inorg, PROPN 
+Chem, PROPN 
+8, NUM 
+1969, NUM 
+1427, NUM 
+
+, SPACE 
+16, NUM 
+H.F., PROPN 
+Klein, PROPN 
+H., PROPN 
+Konig, PROPN 
+S., PROPN 
+Koppert, PROPN 
+K., PROPN 
+Ellrich, PROPN 
+J., PROPN 
+Riede, PROPN 
+
+, SPACE 
+Orgunometullics, PROPN 
+6, NUM 
+987, NUM 
+1341, NUM 
+
+, SPACE 
+l7, PROPN 
+N., PROPN 
+Kuhn, PROPN 
+M., PROPN 
+Schulten, PROPN 
+R., PROPN 
+Boese, PROPN 
+D., PROPN 
+Blaser, PROPN 
+J., PROPN 
+Orgunomet, PROPN 
+
+, SPACE 
+Chem, PROPN 
+I(1991, PROPN 
+421, NUM 
+
+, SPACE 
+181, NUM 
+E.C., PROPN 
+Ashby, PROPN 
+Li, PROPN 
+Chung, PROPN 
+Chao, PROPN 
+H.M., PROPN 
+Neumann, PROPN 
+J., PROPN 
+Chem, NOUN 
+
+, SPACE 
+Sot, PROPN 
+95, NUM 
+1973, NUM 
+5186, NUM 
+
+, SPACE 
+191, NUM 
+G.E., PROPN 
+Coats, PROPN 
+D., PROPN 
+Ridley, PROPN 
+J., PROPN 
+Chem, PROPN 
+Sot, PROPN 
+1967, NUM 
+56, NUM 
+
+, SPACE 
+20, NUM 
+M.A., PROPN 
+Nichols, PROPN 
+P.G., PROPN 
+Williard, PROPN 
+J., PROPN 
+Chem, NOUN 
+Sot, PROPN 
+115, NUM 
+1993, NUM 
+
+, SPACE 
+1568, NUM 
+N.D.R., PROPN 
+Bamett, PROPN 
+R.E., PROPN 
+Mulvey, PROPN 
+W., PROPN 
+Clegg, PROPN 
+P.A., PROPN 
+O’Neil, PROPN 
+
+, SPACE 
+J., PROPN 
+Chem, PROPN 
+115, NUM 
+1993, NUM 
+1573, NUM 
+
+, SPACE 
+21, NUM 
+P.C., PROPN 
+Andrews, PROPN 
+R.E., PROPN 
+Mulvey, PROPN 
+W., PROPN 
+Clegg, PROPN 
+D., PROPN 
+Reed, PROPN 
+J., PROPN 
+
+, SPACE 
+Orgunomet, PROPN 
+Chem, PROPN 
+368, NUM 
+1990, NUM 
+287, NUM 
+
+, SPACE 
+22, NUM 
+L.M., PROPN 
+Jackman, PROPN 
+L.M., PROPN 
+Scarmoutzous, PROPN 
+B.D., PROPN 
+Smith, PROPN 
+P.G., PROPN 
+
+, SPACE 
+Williard, PROPN 
+J., PROPN 
+Chem, PROPN 
+110, NUM 
+1988, NUM 
+6058, NUM 
+J.S., PROPN 
+DePue, PROPN 
+
+, SPACE 
+D.B., PROPN 
+Collum, PROPN 
+J., PROPN 
+Chem, PROPN 
+Srjc, PROPN 
+110, NUM 
+1988, NUM 
+5518, NUM 
+
+, SPACE 
+Galiano, PROPN 
+Roth, PROPN 
+E.M., PROPN 
+Michaelides, PROPN 
+D.B., PROPN 
+Collum, PROPN 
+J., PROPN 
+
+, SPACE 
+Chem, PROPN 
+Sot, PROPN 
+110, NUM 
+1988, NUM 
+2658, NUM 
+N., PROPN 
+Kallman, PROPN 
+D.B., PROPN 
+Collum, PROPN 
+J., PROPN 
+
+, SPACE 
+Chem, PROPN 
+S, NOUN 
+~, NOUN 
+IC, PROPN 
+109, NUM 
+1987, NUM 
+7466, NUM 
+
+, SPACE 
+23, NUM 
+P.C., PROPN 
+Andrews, PROPN 
+R.E., PROPN 
+Mulvey, PROPN 
+W., PROPN 
+Clegg, PROPN 
+Angew, PROPN 
+Chem, PROPN 
+102, NUM 
+
+, SPACE 
+1990, NUM 
+1480, NUM 
+Anger, PROPN 
+Chem, PROPN 
+Int, PROPN 
+Ed, PROPN 
+Engl, PROPN 
+29, NUM 
+1990, NUM 
+1440, NUM 
+
+, SPACE 
+24, NUM 
+P.R., PROPN 
+Markies, PROPN 
+O.S., PROPN 
+Akkerman, PROPN 
+F., PROPN 
+Bickelhaupt, PROPN 
+W.J.J., PROPN 
+Smeets, PROPN 
+
+, SPACE 
+A.L., PROPN 
+Spek, PROPN 
+Adu, PROPN 
+Orgunomet, NOUN 
+Chem, PROPN 
+32, NUM 
+1991, NUM 
+147, NUM 
+
+, SPACE 
+25, NUM 
+C.E., PROPN 
+Holloway, PROPN 
+M., PROPN 
+Melink, PROPN 
+J., PROPN 
+Orgunomet, PROPN 
+Chem, PROPN 
+465, NUM 
+
+, SPACE 
+1994, NUM 
+1, NUM 
+
+, SPACE 
+26, NUM 
+M.J., PROPN 
+Frisch, PROPN 
+G.W., PROPN 
+Trucks, PROPN 
+H.B., PROPN 
+Schlegel, PROPN 
+P.M.W., PROPN 
+Gill, PROPN 
+B.C., PROPN 
+
+, SPACE 
+Johnson, PROPN 
+M.A., PROPN 
+Robb, PROPN 
+J.R., PROPN 
+Cheeseman, PROPN 
+T.A., PROPN 
+Keith, PROPN 
+GA, PROPN 
+Peters-, PROPN 
+
+, SPACE 
+son, NOUN 
+J.A., PROPN 
+Montgomery, PROPN 
+K., PROPN 
+Raghavachari, PROPN 
+M.A., PROPN 
+Al, PROPN 
+Laham, PROPN 
+V.G., PROPN 
+
+, SPACE 
+Zakrzewski, PROPN 
+J.V., PROPN 
+Ortiz, PROPN 
+J.B., PROPN 
+Foresman, PROPN 
+J., PROPN 
+Cioslowski, PROPN 
+B.B., PROPN 
+
+, SPACE 
+Stefanov, PROPN 
+A., PROPN 
+Nanayakkara, PROPN 
+M., PROPN 
+Challacombe, PROPN 
+C.Y., PROPN 
+Peng, PROPN 
+P.Y., PROPN 
+
+, SPACE 
+Ayala, PROPN 
+W., PROPN 
+Chen, PROPN 
+M.W., PROPN 
+Wong, PROPN 
+J.L., PROPN 
+Andres, PROPN 
+ES, PROPN 
+Repogle, PROPN 
+R., PROPN 
+
+, SPACE 
+Gomperts, PROPN 
+R.L., PROPN 
+Martin, PROPN 
+D.J., PROPN 
+Fox, PROPN 
+J.S., PROPN 
+Binkely, PROPN 
+D.J., PROPN 
+Defrees, PROPN 
+J., PROPN 
+
+, SPACE 
+Baker, PROPN 
+J.P., PROPN 
+Stewart, PROPN 
+M., PROPN 
+Head, PROPN 
+Gordon, PROPN 
+C., PROPN 
+Gonzalez, PROPN 
+J.A., PROPN 
+
+, SPACE 
+Pople, PROPN 
+Gaussian, PROPN 
+94, NUM 
+Reuision, PROPN 
+A., PROPN 
+Gaussian, PROPN 
+Inc., PROPN 
+Pittsburgh, PROPN 
+
+, SPACE 
+PA, PROPN 
+1995, NUM 
+
+, SPACE 
+27, NUM 
+G.E., PROPN 
+Parris, PROPN 
+E.C., PROPN 
+Ashby, PROPN 
+J., PROPN 
+Chem, NOUN 
+Sot, PROPN 
+93, NUM 
+1971, NUM 
+
+, SPACE 
+1206, NUM 
+E.C., PROPN 
+Ashby, PROPN 
+F.W., PROPN 
+Walker, PROPN 
+H.M., PROPN 
+Neumann, PROPN 
+Chem, PROPN 
+
+, SPACE 
+Commun, PROPN 
+1970, NUM 
+330, NUM 
+
+, SPACE 
+28, NUM 
+Absolute, ADJ 
+energies, NOUN 
+Hartrees, PROPN 
+optimized, VERB 
+structures, NOUN 
+
+, SPACE 
+-775.5671, PROPN 
+1, NUM 
+Hz0, NOUN 
+76.01075, NUM 
+II, NUM 
+-648.77935, PUNCT 
+III, NUM 
+
+, SPACE 
+430.8655, NUM 
+1, NUM 
+
+, SPACE 
+29, NUM 
+M., PROPN 
+Veith, PROPN 
+W., PROPN 
+Frank, PROPN 
+F., PROPN 
+Tollner, PROPN 
+H., PROPN 
+Lange, PROPN 
+J., PROPN 
+Orgunomet, PROPN 
+
+, SPACE 
+Chem, PROPN 
+326, NUM 
+1987, NUM 
+315, NUM 
+
+, SPACE 
+30, NUM 
+D., PROPN 
+Thoennes, PROPN 
+E., PROPN 
+Weiss, PROPN 
+Chem, PROPN 
+Ber, PROPN 
+III, PROPN 
+1978, NUM 
+3381, NUM 
+T., PROPN 
+
+, SPACE 
+Greiser, PROPN 
+J., PROPN 
+Kopf, PROPN 
+D., PROPN 
+Thoennes, PROPN 
+E., PROPN 
+Weiss, PROPN 
+J., PROPN 
+Orgunomet, PROPN 
+
+, SPACE 
+Chem, PROPN 
+19/, PROPN 
+1980, NUM 
+1, NUM 
+H., PROPN 
+Viebrock, PROPN 
+E., PROPN 
+Weiss, PROPN 
+J., PROPN 
+Orgunomet, PROPN 
+
+, SPACE 
+Chem, PROPN 
+464, NUM 
+1994, NUM 
+121, NUM 
+J., PROPN 
+Toney, PROPN 
+G.D., PROPN 
+Stucky, PROPN 
+J., PROPN 
+
+, SPACE 
+Orgunomet, PROPN 
+Chem, PROPN 
+22, NUM 
+1970, NUM 
+241, NUM 
+P.R., PROPN 
+Markies, PROPN 
+G., PROPN 
+Schat, PROPN 
+
+, SPACE 
+O.S., PROPN 
+Akkerman, PROPN 
+F., PROPN 
+Bickelhaupt, PROPN 
+W.J.J., PROPN 
+Smeets, PROPN 
+P., PROPN 
+van, PROPN 
+der, NOUN 
+Sluis, PROPN 
+
+, SPACE 
+A.L., PROPN 
+Spek, PROPN 
+J., PROPN 
+Orgunomet, PROPN 
+Chem, PROPN 
+393, NUM 
+1990, NUM 
+315, NUM 
+
+, SPACE 

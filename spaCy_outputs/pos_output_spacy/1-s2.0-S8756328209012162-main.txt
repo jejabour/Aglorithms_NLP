@@ -1,0 +1,5542 @@
+Determining, VERB 
+elastic, ADJ 
+modulus, NOUN 
+mouse, NOUN 
+cortical, ADJ 
+bone, NOUN 
+electronic, ADJ 
+speckle, NOUN 
+
+, SPACE 
+pattern, NOUN 
+interferometry, NOUN 
+ESPI, PROPN 
+micro, PROPN 
+computed, VERB 
+tomography, NOUN 
+new, ADJ 
+approach, NOUN 
+characterizing, VERB 
+small, ADJ 
+bone, NOUN 
+material, NOUN 
+properties, NOUN 
+☆, VERB 
+
+, SPACE 
+Netta, PROPN 
+Lev, PROPN 
+Tov, NOUN 
+Chattaha,⁎, NOUN 
+Amnon, PROPN 
+Sharirb, PROPN 
+Steve, PROPN 
+Weinera, PROPN 
+Ron, PROPN 
+Shaharb, PROPN 
+
+, SPACE 
+aDepartment, PROPN 
+Structural, PROPN 
+Biology, PROPN 
+Weizmann, PROPN 
+Institute, PROPN 
+Science, PROPN 
+76100, NUM 
+Rehovot, PROPN 
+Israel, PROPN 
+
+, SPACE 
+bKoret, PROPN 
+School, PROPN 
+Veterinary, PROPN 
+Medicine, PROPN 
+Hebrew, PROPN 
+University, PROPN 
+Jerusalem, PROPN 
+Rehovot, PROPN 
+Israel, PROPN 
+
+, SPACE 
+abstract, ADJ 
+article, NOUN 
+info, NOUN 
+
+, SPACE 
+Article, NOUN 
+history, NOUN 
+
+, SPACE 
+Received, VERB 
+27, NUM 
+January, PROPN 
+2009Revised, NUM 
+9, NUM 
+March, PROPN 
+2009Accepted, NUM 
+11, NUM 
+March, PROPN 
+2009Available, NUM 
+online, ADJ 
+28, NUM 
+March, PROPN 
+2009, NUM 
+
+, SPACE 
+Edited, VERB 
+T., PROPN 
+Einhorn, PROPN 
+
+, SPACE 
+Keywords, PROPN 
+
+, SPACE 
+Elastic, ADJ 
+modulusBiomechanical, ADJ 
+testingElectronic, ADJ 
+speckle, NOUN 
+pattern, NOUN 
+interferometry, NOUN 
+
+, SPACE 
+Mouse, PROPN 
+
+, SPACE 
+FemurMice, PROPN 
+phenotypes, NOUN 
+invaluable, ADJ 
+understanding, VERB 
+bone, NOUN 
+formation, NOUN 
+function, NOUN 
+bone, NOUN 
+disease, NOUN 
+
+, SPACE 
+elastic, ADJ 
+modulus, NOUN 
+important, ADJ 
+property, NOUN 
+bones, NOUN 
+provide, VERB 
+insights, NOUN 
+bone, NOUN 
+quality, NOUN 
+
+, SPACE 
+determination, NOUN 
+elastic, ADJ 
+modulus, NOUN 
+mouse, PROPN 
+cortical, ADJ 
+bone, NOUN 
+complicated, VERB 
+small, ADJ 
+dimensions, NOUN 
+thebones, NOUN 
+bone, NOUN 
+bending, VERB 
+tests, NOUN 
+known, VERB 
+estimate, VERB 
+elastic, ADJ 
+modulus, NOUN 
+compared, VERB 
+
+, SPACE 
+nanoindentation, NOUN 
+tests, NOUN 
+provides, VERB 
+information, NOUN 
+extremely, ADV 
+localized, VERB 
+areas, NOUN 
+
+, SPACE 
+necessarily, ADV 
+correspond, VERB 
+bulk, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+compression, NOUN 
+
+, SPACE 
+study, NOUN 
+presents, VERB 
+novel, ADJ 
+method, NOUN 
+determining, VERB 
+bulk, NOUN 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+mouse, PROPN 
+cortical, ADJ 
+
+, SPACE 
+bone, NOUN 
+femur, NOUN 
+use, VERB 
+Electronic, PROPN 
+Speckle, PROPN 
+Pattern, PROPN 
+Interferometry, PROPN 
+ESPI, PROPN 
+optical, ADJ 
+method, NOUN 
+enablesthe, PRON 
+measurement, NOUN 
+displacements, NOUN 
+bone, NOUN 
+surface, NOUN 
+compressed, VERB 
+water, NOUN 
+data, NOUN 
+iscombined, VERB 
+geometric, ADJ 
+information, NOUN 
+obtained, VERB 
+micro, ADJ 
+CT, PROPN 
+calculate, VERB 
+elastic, ADJ 
+modulus, NOUN 
+Roughlytubular, ADJ 
+cortical, ADJ 
+bone, NOUN 
+segments, NOUN 
+2, NUM 
+mm, NOUN 
+cut, VERB 
+diaphyses, NOUN 
+femora, NOUN 
+week, NOUN 
+old, ADJ 
+C57BL/6, PROPN 
+B6, PROPN 
+
+, SPACE 
+female, ADJ 
+mice, NOUN 
+compressed, VERB 
+axially, ADV 
+mechanical, ADJ 
+tension, NOUN 
+compression, NOUN 
+device, NOUN 
+Displacements, NOUN 
+
+, SPACE 
+loading, NOUN 
+direction, NOUN 
+mapped, VERB 
+bone, NOUN 
+surface, NOUN 
+loading, VERB 
+specimen, NOUN 
+linear, ADJ 
+regression, NOUN 
+
+, SPACE 
+displacement, NOUN 
+vs., ADP 
+axial, ADJ 
+position, NOUN 
+enabled, VERB 
+calculation, NOUN 
+effective, ADJ 
+strain, NOUN 
+Effective, ADJ 
+stress, NOUN 
+calculated, VERB 
+
+, SPACE 
+force, NOUN 
+N, PROPN 
+data, NOUN 
+system, NOUN 
+load, NOUN 
+cell, NOUN 
+mean, ADJ 
+cross, ADJ 
+sectional, ADJ 
+area, NOUN 
+sample, NOUN 
+determined, VERB 
+
+, SPACE 
+micro, NOUN 
+CT, NOUN 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+E, NOUN 
+calculated, VERB 
+stress, NOUN 
+strain, VERB 
+ratio, NOUN 
+method, NOUN 
+
+, SPACE 
+shown, VERB 
+accurate, ADJ 
+precise, ADJ 
+standard, ADJ 
+material, NOUN 
+machined, VERB 
+similar, ADJ 
+dimensions, NOUN 
+themouse, ADJ 
+femoral, ADJ 
+segments, NOUN 
+
+, SPACE 
+Diaphyses, PROPN 
+mouse, PROPN 
+femora, PROPN 
+shown, VERB 
+mean, VERB 
+elastic, ADJ 
+moduli, NOUN 
+10.4±0.9, NUM 
+GPa, PROPN 
+femora, PROPN 
+
+, SPACE 
+frozen, ADJ 
+months, NOUN 
+8.6±1.4, NUM 
+GPa, NOUN 
+femora, NOUN 
+frozen, VERB 
+weeks, NOUN 
+8.9±1.1, NUM 
+GPa, NOUN 
+fresh, ADJ 
+
+, SPACE 
+femora, NOUN 
+values, NOUN 
+higher, ADJ 
+measured, VERB 
+point, NOUN 
+bending, NOUN 
+lower, ADJ 
+
+, SPACE 
+values, NOUN 
+reported, VERB 
+literature, NOUN 
+based, VERB 
+nanoindentation, NOUN 
+tests, NOUN 
+mice, ADJ 
+bones, NOUN 
+age, NOUN 
+
+, SPACE 
+method, NOUN 
+accurately, ADV 
+precisely, ADV 
+measure, VERB 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+ofmouse, NOUN 
+cortical, ADJ 
+bone, NOUN 
+
+, SPACE 
+©, ADJ 
+2009, NUM 
+Elsevier, ADJ 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+Introduction, PROPN 
+
+, SPACE 
+Mice, NOUN 
+invaluable, ADJ 
+animal, NOUN 
+models, NOUN 
+understanding, VERB 
+genetic, ADJ 
+
+, SPACE 
+mechanisms, NOUN 
+controlling, VERB 
+processes, NOUN 
+bone, NOUN 
+formation, NOUN 
+growth, NOUN 
+
+, SPACE 
+physiology, NOUN 
+disease, NOUN 
+evaluating, VERB 
+novel, ADJ 
+therapies, NOUN 
+
+, SPACE 
+1,2,12,13,16, PROPN 
+20,22,28, NUM 
+Detailed, ADJ 
+characterization, NOUN 
+bone, NOUN 
+pheno, ADJ 
+type, NOUN 
+entails, VERB 
+multilevel, ADJ 
+description, NOUN 
+bone, NOUN 
+geometry, NOUN 
+architecture, NOUN 
+material, NOUN 
+makeup, NOUN 
+mechanical, ADJ 
+behavior, NOUN 
+material, NOUN 
+properties, NOUN 
+
+, SPACE 
+Stiffness, PROPN 
+important, ADJ 
+mechanical, ADJ 
+property, NOUN 
+bone, NOUN 
+material, NOUN 
+
+, SPACE 
+greatly, ADV 
+depends, VERB 
+mineralization, NOUN 
+porosity, NOUN 
+9,11, NUM 
+in-, ADJ 
+
+, SPACE 
+trinsic, ADJ 
+stiffness, NOUN 
+bone, NOUN 
+quantiﬁ, NOUN 
+ed, NOUN 
+elastic, ADJ 
+Young, PROPN 
+
+, SPACE 
+modulus, NOUN 
+inherent, ADJ 
+property, NOUN 
+bone, NOUN 
+material, NOUN 
+40, NUM 
+elastic, ADJ 
+
+, SPACE 
+modulus, NOUN 
+fundamental, ADJ 
+determinant, NOUN 
+bone, NOUN 
+mechanicalbehavior, NOUN 
+small, ADJ 
+size, NOUN 
+mice, NOUN 
+bones, NOUN 
+complicates, VERB 
+
+, SPACE 
+task, NOUN 
+determining, VERB 
+elastic, ADJ 
+moduli, NOUN 
+importance, NOUN 
+
+, SPACE 
+complexity, NOUN 
+issue, NOUN 
+manifested, VERB 
+large, ADJ 
+number, NOUN 
+papers, NOUN 
+
+, SPACE 
+describing, VERB 
+methods, NOUN 
+proposed, VERB 
+quantitatively, ADV 
+measure, VERB 
+
+, SPACE 
+elastic, ADJ 
+modulus, NOUN 
+mice, NOUN 
+bones, NOUN 
+29,32,36, NUM 
+39,42, NUM 
+43, NUM 
+present, VERB 
+
+, SPACE 
+new, ADJ 
+approach, NOUN 
+determining, VERB 
+effective, ADJ 
+bulk, ADJ 
+elastic, ADJ 
+modulusBone, NOUN 
+45, NUM 
+2009, NUM 
+84, NUM 
+90, NUM 
+
+, SPACE 
+☆, VERB 
+research, NOUN 
+funded, VERB 
+Kekst, PROPN 
+Family, PROPN 
+Center, PROPN 
+Medical, PROPN 
+Genetics, PROPN 
+
+, SPACE 
+Weizmann, PROPN 
+Institute, PROPN 
+Science, PROPN 
+S., PROPN 
+W., PROPN 
+incumbent, NOUN 
+Dr., PROPN 
+Walter, PROPN 
+Dr., PROPN 
+Trude, PROPN 
+
+, SPACE 
+Burchardt, PROPN 
+Professorial, PROPN 
+Chair, PROPN 
+Structural, PROPN 
+Biology, PROPN 
+
+, SPACE 
+⁎Corresponding, PROPN 
+author, NOUN 
+Fax, NOUN 
++972, NOUN 
+8, NUM 
+9344136, NUM 
+
+, SPACE 
+E, ADJ 
+mail, NOUN 
+address, NOUN 
+Netta.Lev-tov-chattah@weizmann.ac.il, PROPN 
+N.L.-T., PROPN 
+Chattah, PROPN 
+
+, SPACE 
+8756, NUM 
+3282/$, NUM 
+matter, NOUN 
+©, ADJ 
+2009, NUM 
+Elsevier, ADJ 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+doi:10.1016, PROPN 
+j.bone.2009.03.664, PROPN 
+
+, SPACE 
+Contents, PROPN 
+lists, NOUN 
+available, ADJ 
+ScienceDirect, PROPN 
+
+, SPACE 
+Bone, PROPN 
+
+, SPACE 
+journal, NOUN 
+homepage, NOUN 
+www.elsevier.com/locate/bone, NOUN 
+
+, SPACE 
+mouse, PROPN 
+cortical, ADJ 
+bone, NOUN 
+femur, NOUN 
+method, NOUN 
+mechanical, ADJ 
+
+, SPACE 
+testing, NOUN 
+preformed, VERB 
+manner, NOUN 
+similar, ADJ 
+principle, NOUN 
+way, NOUN 
+
+, SPACE 
+bone, NOUN 
+cube, NOUN 
+obtained, VERB 
+larger, ADJ 
+animal, NOUN 
+tested, VERB 
+standard, ADJ 
+
+, SPACE 
+mechanical, ADJ 
+compression, NOUN 
+
+, SPACE 
+Bone, PROPN 
+graded, VERB 
+hierarchical, ADJ 
+anisotropic, ADJ 
+material, NOUN 
+elastic, ADJ 
+
+, SPACE 
+modulus, NOUN 
+varies, VERB 
+different, ADJ 
+length, NOUN 
+scales, NOUN 
+depending, VERB 
+
+, SPACE 
+direction, NOUN 
+force, NOUN 
+applied, VERB 
+9, NUM 
+Mechanical, ADJ 
+tests, NOUN 
+employed, VERB 
+
+, SPACE 
+determine, VERB 
+bulk, ADJ 
+mechanical, ADJ 
+properties, NOUN 
+bone, NOUN 
+use, VERB 
+relatively, ADV 
+large, ADJ 
+
+, SPACE 
+machined, VERB 
+bone, NOUN 
+samples, NOUN 
+measure, VERB 
+elastic, ADJ 
+modulus, NOUN 
+directly, ADV 
+
+, SPACE 
+standard, ADJ 
+compression, NOUN 
+tension, NOUN 
+testing, NOUN 
+Mice, ADJ 
+bones, NOUN 
+minute, ADJ 
+
+, SPACE 
+usually, ADV 
+tested, VERB 
+entities, NOUN 
+main, ADJ 
+types, NOUN 
+
+, SPACE 
+bending, VERB 
+tests, NOUN 
+point, NOUN 
+bending, NOUN 
+point, NOUN 
+bending, NOUN 
+
+, SPACE 
+determine, VERB 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+mouse, NOUN 
+
+, SPACE 
+long, ADJ 
+bones, NOUN 
+7,12,14, NOUN 
+16,22,27,32,43, PROPN 
+far, ADV 
+common, ADJ 
+test, NOUN 
+
+, SPACE 
+point, NOUN 
+bending, NOUN 
+6,34, X 
+Calculation, NOUN 
+elastic, ADJ 
+modulus, NOUN 
+
+, SPACE 
+bending, VERB 
+tests, NOUN 
+based, VERB 
+Euler, PROPN 
+Bernoulli, PROPN 
+beam, NOUN 
+theory, NOUN 
+derived, VERB 
+
+, SPACE 
+linear, ADJ 
+theory, NOUN 
+elasticity, NOUN 
+34, NUM 
+main, ADJ 
+underlying, VERB 
+
+, SPACE 
+assumptions, NOUN 
+approach, NOUN 
+tested, VERB 
+sample, NOUN 
+isotropic, ADJ 
+
+, SPACE 
+uniform, ADJ 
+cylindrical, ADJ 
+geometry, NOUN 
+undergo, VERB 
+shear, NOUN 
+
+, SPACE 
+stresses, NOUN 
+loading, NOUN 
+Bone, NOUN 
+isotropic, ADJ 
+geometry, NOUN 
+
+, SPACE 
+irregular, ADJ 
+Furthermore, ADV 
+bending, VERB 
+tests, NOUN 
+associated, VERB 
+
+, SPACE 
+degree, NOUN 
+shear, NOUN 
+local, ADJ 
+ring, NOUN 
+type, NOUN 
+deformations, NOUN 
+occur, VERB 
+
+, SPACE 
+supports, NOUN 
+loading, NOUN 
+prong, ADJ 
+contact, NOUN 
+bone, NOUN 
+especially, ADV 
+bones, NOUN 
+
+, SPACE 
+thin, ADJ 
+cortex, NOUN 
+32,39,41, NUM 
+Signi, NOUN 
+ﬁcant, ADJ 
+errors, NOUN 
+introduced, VERB 
+
+, SPACE 
+measuring, VERB 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+bending, VERB 
+tests, NOUN 
+ofwhole, ADJ 
+bones, NOUN 
+result, NOUN 
+modulus, NOUN 
+usually, ADV 
+markedly, ADV 
+
+, SPACE 
+underestimated, VERB 
+36,39,41, NUM 
+Recently, ADV 
+ﬁnite, VERB 
+element, NOUN 
+models, NOUN 
+FEMs, PROPN 
+
+, SPACE 
+provide, VERB 
+correction, NOUN 
+factors, NOUN 
+order, NOUN 
+moreaccurately, ADV 
+predict, VERB 
+elastic, ADJ 
+modulus, NOUN 
+mice, NOUN 
+bones, NOUN 
+measured, VERB 
+
+, SPACE 
+point, NOUN 
+bending, NOUN 
+41, NUM 
+models, NOUN 
+based, VERB 
+
+, SPACE 
+approximations, NOUN 
+corrections, NOUN 
+sub, ADJ 
+optimal, ADJ 
+
+, SPACE 
+widely, ADV 
+approach, NOUN 
+nanoindentation, NOUN 
+
+, SPACE 
+method, NOUN 
+measures, NOUN 
+elastic, ADJ 
+modulus, NOUN 
+nanoscale, NOUN 
+istherefore, VERB 
+sensitive, ADJ 
+local, ADJ 
+microstructure, NOUN 
+3,8,17,20,26,36,38, NOUN 
+
+, SPACE 
+measurements, NOUN 
+involve, VERB 
+plastic, ADJ 
+deformation, NOUN 
+addition, NOUN 
+toelastic, ADJ 
+deformation, NOUN 
+testing, NOUN 
+usually, ADV 
+preformed, VERB 
+dry, ADJ 
+3,17,38, PROPN 
+
+, SPACE 
+semi, ADJ 
+hydrated, ADJ 
+samples, NOUN 
+26, NUM 
+increasing, VERB 
+stiffness, NOUN 
+bone, NOUN 
+
+, SPACE 
+material, NOUN 
+30, NUM 
+Measurements, NOUN 
+elastic, ADJ 
+modulus, NOUN 
+mouse, PROPN 
+cortical, ADJ 
+
+, SPACE 
+bone, NOUN 
+nanoindentation, NOUN 
+produce, NOUN 
+values, NOUN 
+26, NUM 
+31, NUM 
+GPa, NOUN 
+
+, SPACE 
+3,8,26,36, PROPN 
+Silva, PROPN 
+et, PROPN 
+al, PROPN 
+36, NUM 
+Chen, PROPN 
+et, PROPN 
+al, PROPN 
+8]noted, INTJ 
+marked, VERB 
+
+, SPACE 
+discrepancy, NOUN 
+elastic, ADJ 
+moduli, NOUN 
+obtained, VERB 
+bending, VERB 
+tests, NOUN 
+
+, SPACE 
+nanoindentation, NOUN 
+tests, NOUN 
+results, NOUN 
+bending, VERB 
+tests, NOUN 
+
+, SPACE 
+signiﬁcantly, ADV 
+lower, ADJ 
+obtained, VERB 
+nanoindentation, NOUN 
+
+, SPACE 
+Ultrasonic, ADJ 
+techniques, NOUN 
+provide, VERB 
+data, NOUN 
+
+, SPACE 
+mechanical, ADJ 
+properties, NOUN 
+bulk, ADJ 
+bone, NOUN 
+material, NOUN 
+indirect, ADJ 
+
+, SPACE 
+measurement, NOUN 
+elastic, ADJ 
+modulus, NOUN 
+Somerville, PROPN 
+et, PROPN 
+al, PROPN 
+37, NUM 
+
+, SPACE 
+estimated, VERB 
+elastic, ADJ 
+modulus, NOUN 
+mature, ADJ 
+B6, NOUN 
+mice, NOUN 
+tibia, NOUN 
+22.3±2.6GPa, PROPN 
+males, NOUN 
+23.2±2.8, NUM 
+GPa, NOUN 
+females, NOUN 
+Recently, ADV 
+Raum, PROPN 
+et, PROPN 
+al, PROPN 
+29, X 
+
+, SPACE 
+method, NOUN 
+combines, VERB 
+scanning, VERB 
+acoustic, ADJ 
+microscopy, ADJ 
+andsynchrotron, PROPN 
+radiation, PROPN 
+micro, NOUN 
+CT, PROPN 
+determine, VERB 
+transverse, ADJ 
+bulk, ADJ 
+
+, SPACE 
+elastic, ADJ 
+modulus, NOUN 
+5.5, NUM 
+month, NOUN 
+old, ADJ 
+mice, NOUN 
+femora, NOUN 
+B6, NOUN 
+C3H, PROPN 
+
+, SPACE 
+results, NOUN 
+16.1±1.8, NUM 
+GPa, NOUN 
+22.4±1.9, NUM 
+GPa, NOUN 
+respectively, ADV 
+roughly, ADV 
+
+, SPACE 
+comparable, ADJ 
+nanoindentation, NOUN 
+
+, SPACE 
+Electronic, ADJ 
+speckle, NOUN 
+pattern, NOUN 
+interferometry, NOUN 
+ESPI, PROPN 
+non, ADJ 
+contact, ADJ 
+
+, SPACE 
+optical, ADJ 
+metrology, NOUN 
+method, NOUN 
+enables, VERB 
+direct, ADJ 
+measurements, NOUN 
+
+, SPACE 
+displacements, NOUN 
+surface, NOUN 
+mineralized, ADJ 
+tissues, NOUN 
+mechan-, NOUN 
+
+, SPACE 
+ical, ADJ 
+loading, NOUN 
+4,5,21,33,45, NOUN 
+47, NUM 
+
+, SPACE 
+precise, ADJ 
+accurate, ADJ 
+
+, SPACE 
+determining, VERB 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+cortical, ADJ 
+bone, NOUN 
+cubessubmerged, VERB 
+water, NOUN 
+33, NUM 
+method, NOUN 
+extremely, ADV 
+sensitive, ADJ 
+
+, SPACE 
+allows, VERB 
+detection, NOUN 
+displacements, NOUN 
+nanometer, NOUN 
+level, NOUN 
+inmillimeter, NOUN 
+sized, ADJ 
+specimens, NOUN 
+33,45,46, NUM 
+paper, NOUN 
+advan-, NOUN 
+
+, SPACE 
+tage, NOUN 
+tubular, ADV 
+shaped, VERB 
+midshaft, VERB 
+diaphysis, NOUN 
+mouse, NOUN 
+femur, PROPN 
+ina, PROPN 
+section, NOUN 
+cortical, ADJ 
+cross, ADJ 
+sectional, ADJ 
+area, NOUN 
+nearly, ADV 
+uniform, ADJ 
+
+, SPACE 
+axial, ADJ 
+direction, NOUN 
+ESPI, PROPN 
+accurately, ADV 
+
+, SPACE 
+precisely, ADV 
+determining, VERB 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+millimeter-, NOUN 
+
+, SPACE 
+sized, ADJ 
+cortical, ADJ 
+bone, NOUN 
+segment, NOUN 
+Materials, NOUN 
+methods, NOUN 
+
+, SPACE 
+Mid, ADJ 
+diaphyseal, ADJ 
+segments, NOUN 
+mice, PROPN 
+femora, PROPN 
+mm, NOUN 
+long, ADV 
+
+, SPACE 
+incrementally, ADV 
+loaded, VERB 
+compression, NOUN 
+water, NOUN 
+Surface, PROPN 
+displace-, NOUN 
+
+, SPACE 
+ments, NOUN 
+measured, VERB 
+direction, NOUN 
+compression, NOUN 
+axial, NOUN 
+
+, SPACE 
+ESPI, PROPN 
+resulting, VERB 
+effective, ADJ 
+strain, NOUN 
+loading, NOUN 
+direction, NOUN 
+deter-, ADJ 
+
+, SPACE 
+mined, VERB 
+displacements, NOUN 
+allowing, VERB 
+calculation, NOUN 
+effectiveelastic, ADJ 
+modulus, NOUN 
+
+, SPACE 
+Bone, NOUN 
+sample, NOUN 
+preparation, NOUN 
+
+, SPACE 
+Sixteen, NUM 
+week, NOUN 
+old, ADJ 
+C57, PROPN 
+BL/6, PROPN 
+B6, PROPN 
+female, ADJ 
+mice, NOUN 
+purchased, VERB 
+
+, SPACE 
+Harlan, PROPN 
+Biotech, PROPN 
+Israel, PROPN 
+Ltd., PROPN 
+anesthetized, VERB 
+iso, PROPN 
+ﬂurane, NOUN 
+soaked, VERB 
+
+, SPACE 
+gauze, NOUN 
+sealed, ADJ 
+chamber, NOUN 
+sacri, PROPN 
+ﬁced, VERB 
+cervical, ADJ 
+dislocation, NOUN 
+
+, SPACE 
+study, NOUN 
+approved, VERB 
+institutional, ADJ 
+animal, NOUN 
+care, NOUN 
+use, VERB 
+
+, SPACE 
+committee, NOUN 
+
+, SPACE 
+average, ADJ 
+weight, NOUN 
+mice, NOUN 
+12.03±0.77, NUM 
+g., NOUN 
+left, ADJ 
+
+, SPACE 
+right, ADJ 
+femora, NOUN 
+carefully, ADV 
+excised, VERB 
+manually, ADV 
+cleaned, VERB 
+soft, ADJ 
+
+, SPACE 
+tissues, NOUN 
+cortical, ADJ 
+mid, ADJ 
+diaphyseal, ADJ 
+section, NOUN 
+starting, VERB 
+distal, ADJ 
+
+, SPACE 
+trochanter, ADV 
+extending, VERB 
+2, NUM 
+mm, NOUN 
+distally, ADV 
+cut, VERB 
+water-, NOUN 
+
+, SPACE 
+cooled, VERB 
+slow, ADJ 
+diamond, NOUN 
+saw, VERB 
+Buehler, PROPN 
+segments, NOUN 
+damaged, VERB 
+
+, SPACE 
+cutting, NOUN 
+process, NOUN 
+tested, VERB 
+prepared, ADJ 
+
+, SPACE 
+segments, NOUN 
+scanned, VERB 
+micro, NOUN 
+CT, NOUN 
+eXplore, PROPN 
+locus, NOUN 
+SP, PROPN 
+General, PROPN 
+
+, SPACE 
+Electric, PROPN 
+USA, PROPN 
+wrapped, VERB 
+saline, NOUN 
+soaked, VERB 
+gauze, NOUN 
+
+, SPACE 
+mechanical, ADJ 
+testing, NOUN 
+performed, VERB 
+total, NOUN 
+23, NUM 
+femoral, ADJ 
+segments, NOUN 
+
+, SPACE 
+arbitrarily, ADV 
+separated, VERB 
+groups, NOUN 
+stored, VERB 
+different, ADJ 
+man-, ADJ 
+
+, SPACE 
+ners, NOUN 
+prior, ADV 
+testing, NOUN 
+group, NOUN 
+consisted, VERB 
+femora, NOUN 
+frozen, VERB 
+
+, SPACE 
+−20, PROPN 
+°, NOUN 
+C, NOUN 
+months, NOUN 
+second, ADJ 
+group, NOUN 
+consisted, VERB 
+ﬁve, PROPN 
+femora, PROPN 
+
+, SPACE 
+frozen, ADJ 
+−20, PROPN 
+°, NUM 
+C, NOUN 
+weeks, NOUN 
+group, NOUN 
+femora, NOUN 
+
+, SPACE 
+tested, VERB 
+immediately, ADV 
+harvesting, NOUN 
+
+, SPACE 
+right, ADJ 
+femora, NOUN 
+ﬁve, NOUN 
+additional, ADJ 
+week, NOUN 
+old, ADJ 
+B6, NOUN 
+female, ADJ 
+mice, NOUN 
+
+, SPACE 
+harvested, VERB 
+bone, NOUN 
+point, NOUN 
+bending, VERB 
+tests, NOUN 
+
+, SPACE 
+frozen, VERB 
+months, NOUN 
+−20, PROPN 
+°, NUM 
+C, PROPN 
+prior, ADV 
+testing, NOUN 
+femora, NOUN 
+
+, SPACE 
+group, NOUN 
+scanned, VERB 
+micro, PROPN 
+CT, PROPN 
+wrapped, VERB 
+saline, NOUN 
+soakedgauze, NOUN 
+stored, VERB 
+4, NUM 
+°, NUM 
+C, NOUN 
+testing, NOUN 
+
+, SPACE 
+Prior, ADV 
+testing, NOUN 
+frozen, ADJ 
+femora, PROPN 
+and/or, CCONJ 
+femoral, ADJ 
+segments, NOUN 
+
+, SPACE 
+slowly, ADV 
+thawed, VERB 
+room, NOUN 
+temperature, NOUN 
+different, ADJ 
+stages, NOUN 
+
+, SPACE 
+sample, NOUN 
+preparation, NOUN 
+bones, NOUN 
+kept, VERB 
+moist, NOUN 
+refrigerated, VERB 
+
+, SPACE 
+4, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+Micro, PROPN 
+CT, PROPN 
+structural, ADJ 
+analysis, NOUN 
+
+, SPACE 
+femora, NOUN 
+23, NUM 
+femoral, ADJ 
+segments, NOUN 
+scanned, VERB 
+
+, SPACE 
+micro, ADJ 
+CT, ADJ 
+device, NOUN 
+eXplore, PROPN 
+locus, NOUN 
+SP, PROPN 
+General, PROPN 
+Electric, PROPN 
+USA, PROPN 
+Sixteen, NUM 
+
+, SPACE 
+micrometer, NOUN 
+voxel, ADJ 
+size, NOUN 
+scans, NOUN 
+acquired, VERB 
+X, NOUN 
+ray, NOUN 
+source, NOUN 
+set, VERB 
+
+, SPACE 
+80, NUM 
+kV, NUM 
+80, NUM 
+μA., NUM 
+720, NUM 
+projections, NOUN 
+acquired, VERB 
+angular, ADJ 
+
+, SPACE 
+range, NOUN 
+360, NUM 
+°, NUM 
+image, NOUN 
+slices, NOUN 
+reconstructed, VERB 
+customsoftware, NOUN 
+Microview, PROPN 
+reconstruction, NOUN 
+software, NOUN 
+version, NOUN 
+5.2.2, NUM 
+
+, SPACE 
+analysis, NOUN 
+scans, NOUN 
+reoriented, VERB 
+order, NOUN 
+uniformly, ADV 
+align, VERB 
+scan, ADJ 
+
+, SPACE 
+axes, NOUN 
+anatomical, ADJ 
+position, NOUN 
+i.e., ADV 
+proximal, ADJ 
+distal, ADJ 
+dorsal, NOUN 
+ventral, ADJ 
+
+, SPACE 
+medial, ADJ 
+lateral, ADJ 
+
+, SPACE 
+femora, NOUN 
+Analysis, NOUN 
+cortical, ADJ 
+bone, NOUN 
+performed, VERB 
+
+, SPACE 
+0.5, NUM 
+mm, NOUN 
+long, ADJ 
+transverse, ADJ 
+section, NOUN 
+diaphysis, NOUN 
+femur(approximately, ADV 
+30, NUM 
+slices, NOUN 
+adjacent, ADJ 
+distal, ADJ 
+trochanter, ADV 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+cross, ADJ 
+sectional, ADJ 
+moment, NOUN 
+inertia, NOUN 
+CSMI, PROPN 
+
+, SPACE 
+determined, VERB 
+
+, SPACE 
+Femoral, PROPN 
+segments, NOUN 
+Analysis, NOUN 
+cortical, ADJ 
+bone, NOUN 
+performed, VERB 
+
+, SPACE 
+16μm, NOUN 
+segment, NOUN 
+height, NOUN 
+∼2, PROPN 
+mm, PROPN 
+scan, NOUN 
+provided, VERB 
+
+, SPACE 
+mean, VERB 
+cross, ADJ 
+sectional, ADJ 
+area, NOUN 
+segment, NOUN 
+length, NOUN 
+
+, SPACE 
+Mechanical, ADJ 
+testing, NOUN 
+setup, NOUN 
+loading, NOUN 
+scheme, NOUN 
+
+, SPACE 
+thin, ADJ 
+coat, NOUN 
+white, PROPN 
+waterproof, PROPN 
+paint, NOUN 
+applied, VERB 
+diaphyseal, ADJ 
+
+, SPACE 
+bone, NOUN 
+segments, NOUN 
+spraying, VERB 
+order, NOUN 
+increase, VERB 
+intensity, NOUN 
+light, NOUN 
+
+, SPACE 
+reﬂected, VERB 
+samples, NOUN 
+4, NUM 
+
+ , SPACE 
+4,45, NUM 
+thin, ADJ 
+layer, NOUN 
+∼0.5, VERB 
+mm, PROPN 
+dental, ADJ 
+
+, SPACE 
+composite, ADJ 
+Z100, PROPN 
+3, NUM 
+M, PROPN 
+ESPE, PROPN 
+placed, VERB 
+lower, ADJ 
+stationary)85, PROPN 
+N.L.-T., PROPN 
+Chattah, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+45, NUM 
+2009, NUM 
+84, NUM 
+90, NUM 
+
+, SPACE 
+anvil, NOUN 
+segment, NOUN 
+mounted, VERB 
+distal, ADJ 
+cross-, NUM 
+
+, SPACE 
+section, NOUN 
+rested, VERB 
+composite, NOUN 
+medial, ADJ 
+surface, NOUN 
+facing, VERB 
+
+, SPACE 
+CCD, PROPN 
+camera, NOUN 
+ESPI, PROPN 
+Fig, PROPN 
+1, NUM 
+B, PROPN 
+composite, NOUN 
+cured, VERB 
+
+, SPACE 
+exposure, NOUN 
+blue, ADJ 
+light, NOUN 
+60, NUM 
+s, NOUN 
+LITEX, PROPN 
+682, NUM 
+Dentamerica, PROPN 
+USA, PROPN 
+Asecond, PROPN 
+layer, NOUN 
+dental, ADJ 
+composite, NOUN 
+placed, VERB 
+upper, ADJ 
+anvil, NOUN 
+
+, SPACE 
+lowered, VERB 
+proximal, ADJ 
+cross, NOUN 
+section, NOUN 
+segment, NOUN 
+
+, SPACE 
+brought, VERB 
+contact, NOUN 
+uncured, ADJ 
+composite, NOUN 
+dental, ADJ 
+
+, SPACE 
+composite, NOUN 
+enveloped, VERB 
+edge, NOUN 
+trochanter, ADV 
+
+, SPACE 
+cured, VERB 
+60, NUM 
+s., NOUN 
+composite, NOUN 
+cured, VERB 
+upper, ADJ 
+mobile, ADJ 
+
+, SPACE 
+upper, ADJ 
+anvil, NOUN 
+lowered, VERB 
+pre, ADJ 
+load, ADJ 
+compression, NOUN 
+
+, SPACE 
+∼3.5–4.5, NOUN 
+N, PROPN 
+reached, VERB 
+Finally, ADV 
+test, NOUN 
+chamber, PROPN 
+ﬁtted, VERB 
+
+, SPACE 
+high, ADJ 
+grade, NOUN 
+glass, NOUN 
+window, NOUN 
+BK-7, PRON 
+λ/10, ADJ 
+grade, NOUN 
+ﬁlled, VERB 
+water, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+B, PROPN 
+Water, NOUN 
+major, ADJ 
+component, NOUN 
+mineralized, VERB 
+tissues, NOUN 
+
+, SPACE 
+bones, NOUN 
+testing, VERB 
+bone, NOUN 
+samples, NOUN 
+submerged, VERB 
+water, NOUN 
+maintainsthe, NOUN 
+biomechanical, ADJ 
+properties, NOUN 
+bone, NOUN 
+material, NOUN 
+known, VERB 
+
+, SPACE 
+compromised, VERB 
+drying, VERB 
+subsequent, ADJ 
+microcracking, NOUN 
+30,45, NUM 
+
+, SPACE 
+segment, NOUN 
+loaded, VERB 
+axially, ADV 
+incrementally, ADV 
+compression, NOUN 
+
+, SPACE 
+custom, ADV 
+designed, VERB 
+mechanical, ADJ 
+tension, NOUN 
+compression, NOUN 
+device, NOUN 
+
+, SPACE 
+33, NUM 
+upper, ADJ 
+mobile, ADJ 
+anvil, NOUN 
+stainless, ADJ 
+steel, NOUN 
+rod, NOUN 
+attached, VERB 
+
+, SPACE 
+immersible, ADJ 
+load, NOUN 
+cell, NOUN 
+AL311BN, PROPN 
+I6, PROPN 
+Honeywell, PROPN 
+Sensotec, PROPN 
+OH, PROPN 
+USA, PROPN 
+
+, SPACE 
+capable, ADJ 
+measuring, VERB 
+loads, NOUN 
+120, NUM 
+N, PROPN 
+tension, NOUN 
+compression, NOUN 
+
+, SPACE 
+rod, NOUN 
+moved, VERB 
+sub, ADJ 
+micrometer, ADJ 
+high, ADJ 
+precision, NOUN 
+DC, PROPN 
+motor, NOUN 
+
+, SPACE 
+controller, NOUN 
+PI, PROPN 
+M-235.5DG, PROPN 
+Physik, PROPN 
+Instrumente, PROPN 
+PI, PROPN 
+GmbH, PROPN 
+Germany, PROPN 
+
+, SPACE 
+order, NOUN 
+compress, VERB 
+femoral, ADJ 
+segment, NOUN 
+lower, ADJ 
+stationary, ADJ 
+
+, SPACE 
+anvil, NOUN 
+segments, NOUN 
+compressed, VERB 
+non, ADJ 
+destructively, ADV 
+
+, SPACE 
+elastic, ADJ 
+region, NOUN 
+allowing, VERB 
+repeated, VERB 
+measurements, NOUN 
+expe-, ADJ 
+
+, SPACE 
+riment, NOUN 
+consisted, VERB 
+sets, NOUN 
+loading, NOUN 
+cycles, NOUN 
+samples, NOUN 
+
+, SPACE 
+loaded, VERB 
+compression, NOUN 
+50, NUM 
+successive, ADJ 
+steps, NOUN 
+0.5, NUM 
+micrometer, NOUN 
+
+, SPACE 
+increments, NOUN 
+upper, ADJ 
+anvil, NOUN 
+25, NUM 
+micrometer, NOUN 
+movement, NOUN 
+total, NOUN 
+
+, SPACE 
+1.5, NUM 
+second, ADJ 
+pause, NOUN 
+required, VERB 
+successive, ADJ 
+loading, NOUN 
+
+, SPACE 
+increments, NOUN 
+allow, VERB 
+ESPI, PROPN 
+measurements, NOUN 
+
+, SPACE 
+Force, PROPN 
+measurements, NOUN 
+collected, VERB 
+stored, VERB 
+computer, NOUN 
+
+, SPACE 
+D, ADJ 
+converter, NOUN 
+Omega, NOUN 
+DAQP-308, NOUN 
+PCMCIA, NOUN 
+16, NUM 
+bit, NOUN 
+Analogue, PROPN 
+O, PROPN 
+analyzed, VERB 
+custom, ADV 
+written, VERB 
+software, NOUN 
+National, PROPN 
+Instru, PROPN 
+ments, NOUN 
+Labview, PROPN 
+v, ADP 
+7.0, NUM 
+Matlab, PROPN 
+v, ADP 
+6.0, NUM 
+end, NOUN 
+compression, NOUN 
+
+, SPACE 
+set, VERB 
+upper, ADJ 
+anvil, NOUN 
+automatically, ADV 
+returned, VERB 
+original, ADJ 
+pre, NOUN 
+load, ADJ 
+
+, SPACE 
+position, NOUN 
+repeating, VERB 
+entire, ADJ 
+loading, NOUN 
+sequence, NOUN 
+times, NOUN 
+robust, ADJ 
+
+, SPACE 
+repeatable, ADJ 
+data, NOUN 
+set, NOUN 
+obtained, VERB 
+loading, NOUN 
+
+, SPACE 
+sequence, NOUN 
+composed, VERB 
+50, NUM 
+individual, ADJ 
+steps, NOUN 
+
+, SPACE 
+evaluated, VERB 
+independently, ADV 
+statistical, ADJ 
+robustness, NOUN 
+
+, SPACE 
+strengthened, VERB 
+
+, SPACE 
+completion, NOUN 
+sets, NOUN 
+sample, NOUN 
+completely, ADV 
+
+, SPACE 
+unloaded, VERB 
+water, NOUN 
+drained, VERB 
+test, NOUN 
+chamber, NOUN 
+opened, VERB 
+
+, SPACE 
+upper, ADJ 
+anvil, NOUN 
+composite, NOUN 
+attached, VERB 
+lifted, VERB 
+
+, SPACE 
+sample, NOUN 
+
+, SPACE 
+ESPI, ADJ 
+optical, ADJ 
+measurements, NOUN 
+
+, SPACE 
+commercially, ADV 
+available, ADJ 
+ESPI, PROPN 
+device, NOUN 
+Q300, NOUN 
+Dantec-, PROPN 
+
+, SPACE 
+Ettemeyer, PROPN 
+Ulm, PROPN 
+Germany, PROPN 
+custom, ADV 
+written, VERB 
+software, NOUN 
+Matlab, PROPN 
+v, NOUN 
+
+, SPACE 
+6.0, NUM 
+surface, NOUN 
+displacements, NOUN 
+recorded, VERB 
+
+, SPACE 
+loading, NOUN 
+steps, NOUN 
+medial, ADJ 
+surface, NOUN 
+tested, VERB 
+segments, NOUN 
+axial, NOUN 
+
+, SPACE 
+Y, PROPN 
+direction, NOUN 
+method, NOUN 
+described, VERB 
+previously, ADV 
+detail, NOUN 
+45, NUM 
+
+, SPACE 
+rough, ADJ 
+surface, NOUN 
+bone, NOUN 
+illuminated, VERB 
+coherent, ADJ 
+laser, NOUN 
+light, NOUN 
+source(780, PROPN 
+nm, PROPN 
+wave, NOUN 
+length, NOUN 
+dual, ADJ 
+illumination, NOUN 
+scheme, NOUN 
+33,45,46, NUM 
+
+, SPACE 
+optically, ADV 
+rough, ADJ 
+surface, NOUN 
+required, VERB 
+application, NOUN 
+speckleinterferometry, NOUN 
+techniques, NOUN 
+45, NUM 
+coherent, ADJ 
+laser, NOUN 
+light, NOUN 
+scatters, NOUN 
+
+, SPACE 
+optically, ADV 
+rough, ADJ 
+surface, NOUN 
+bone, NOUN 
+speckles, NOUN 
+formed, VERB 
+localinterference, NOUN 
+Interference, VERB 
+reference, NOUN 
+beam, NOUN 
+imaged, VERB 
+CCD, NOUN 
+
+, SPACE 
+detector, NOUN 
+array, NOUN 
+differences, NOUN 
+patterns, NOUN 
+consecutive, ADJ 
+
+, SPACE 
+speckle, NOUN 
+images, NOUN 
+taken, VERB 
+applying, VERB 
+load, NOUN 
+
+, SPACE 
+detect, VERB 
+shifts, NOUN 
+phases, NOUN 
+speckles, NOUN 
+phase, NOUN 
+shifts, NOUN 
+
+, SPACE 
+correspond, VERB 
+displacements, NOUN 
+surface, NOUN 
+relative, ADJ 
+reference, NOUN 
+
+, SPACE 
+point, NOUN 
+selected, VERB 
+region, NOUN 
+interest, NOUN 
+extent, NOUN 
+
+, SPACE 
+determined, VERB 
+phase, NOUN 
+shifting, VERB 
+algorithm, PROPN 
+combined, VERB 
+phase, NOUN 
+
+, SPACE 
+unwrapping, NOUN 
+technique, NOUN 
+extremely, ADV 
+sensitive, ADJ 
+possible, ADJ 
+tomeasure, NOUN 
+displacements, NOUN 
+small, ADJ 
+25, NUM 
+nm, NOUN 
+generate, VERB 
+full-, NOUN 
+ﬁeld, ADJ 
+
+, SPACE 
+displacement, NOUN 
+maps, NOUN 
+Fig, PROPN 
+2, NUM 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Micro, PROPN 
+CT, PROPN 
+images, NOUN 
+femur, NOUN 
+cranial, ADJ 
+view, NOUN 
+2, NUM 
+mm, NOUN 
+diaphyseal, ADJ 
+section, NOUN 
+interest, NOUN 
+marked, VERB 
+yellow, ADJ 
+left, ADJ 
+right, NOUN 
+botto, PROPN 
+m, VERB 
+different, ADJ 
+
+, SPACE 
+views, NOUN 
+2, NUM 
+mm, NOUN 
+segment, NOUN 
+cranial, ADJ 
+view, NOUN 
+lateral, ADJ 
+view, NOUN 
+longitudinal, ADJ 
+cross, NOUN 
+section, NOUN 
+transverse, ADJ 
+cross, NOUN 
+section, NOUN 
+B, NOUN 
+ESPI, PROPN 
+Experimental, ADJ 
+setup, NOUN 
+showing, VERB 
+location, NOUN 
+tested, VERB 
+
+, SPACE 
+segment, NOUN 
+3D, ADJ 
+image, NOUN 
+Dr., PROPN 
+M.M., PROPN 
+Barak, PROPN 
+Google, PROPN 
+Skechup, PROPN 
+7)].86, PROPN 
+N.L.-T., PROPN 
+Chattah, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+45, NUM 
+2009, NUM 
+84, NUM 
+90, NUM 
+
+, SPACE 
+Elastic, ADJ 
+modulus, NOUN 
+ESPI, ADJ 
+optical, ADJ 
+data, NOUN 
+analysis, NOUN 
+
+, SPACE 
+Cumulative, PROPN 
+Y, PROPN 
+direction, NOUN 
+displacement, NOUN 
+matrices, NOUN 
+created, VERB 
+
+, SPACE 
+experimental, ADJ 
+sets, NOUN 
+conducted, VERB 
+segment, NOUN 
+summation, NOUN 
+
+, SPACE 
+displacement, ADJ 
+matrices, NOUN 
+measured, VERB 
+50, NUM 
+loading, NOUN 
+steps, NOUN 
+
+, SPACE 
+cumulative, ADJ 
+matrix, NOUN 
+provides, VERB 
+total, ADJ 
+displacement, NOUN 
+
+, SPACE 
+micrometers, NOUN 
+pixel, NOUN 
+region, NOUN 
+interest, NOUN 
+5000, NUM 
+
+, SPACE 
+data, NOUN 
+points, NOUN 
+located, VERB 
+surface, NOUN 
+sample, NOUN 
+end, NOUN 
+cycle, NOUN 
+
+, SPACE 
+50, NUM 
+loading, NOUN 
+steps, NOUN 
+row, NOUN 
+matrix, NOUN 
+provides, VERB 
+Y-, PROPN 
+
+, SPACE 
+displacements, NOUN 
+pixels, NOUN 
+located, VERB 
+Y, PROPN 
+position, NOUN 
+
+, SPACE 
+lower, ADJ 
+anvil, NOUN 
+measured, ADJ 
+displacements, NOUN 
+nearly, ADV 
+uniform, ADJ 
+
+, SPACE 
+Y, PROPN 
+position, NOUN 
+experiments, NOUN 
+samples, NOUN 
+tested, VERB 
+
+, SPACE 
+represent, VERB 
+displacements, NOUN 
+row, NOUN 
+Y, PROPN 
+position, NOUN 
+
+, SPACE 
+mean, NOUN 
+resulting, VERB 
+vector, NOUN 
+displacements, NOUN 
+Y, PROPN 
+direction, NOUN 
+
+, SPACE 
+sample, NOUN 
+displacement, NOUN 
+vs., ADP 
+Y, NOUN 
+position, NOUN 
+relationship, NOUN 
+plotted, VERB 
+
+, SPACE 
+linear, ADJ 
+regression, NOUN 
+calculated, VERB 
+high, ADJ 
+R2values, NOUN 
+obtained, VERB 
+
+, SPACE 
+experiments, NOUN 
+R2values, NOUN 
+0.99, NUM 
+
+, SPACE 
+displacements, NOUN 
+consistently, ADV 
+varied, VERB 
+linearly, ADV 
+Y, PROPN 
+position, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+slope, NOUN 
+linear, ADJ 
+regression, NOUN 
+represents, VERB 
+effective, ADJ 
+
+, SPACE 
+strain, NOUN 
+sample, NOUN 
+Y, PROPN 
+direction, NOUN 
+noted, VERB 
+
+, SPACE 
+magnitude, NOUN 
+measured, ADJ 
+displacements, NOUN 
+determined, VERB 
+relativeto, ADJ 
+reference, NOUN 
+point, NOUN 
+gradient, NOUN 
+measured, VERB 
+Y, PROPN 
+component, NOUN 
+
+, SPACE 
+strain, NOUN 
+absolute, ADJ 
+delta, NOUN 
+force, NOUN 
+pre, NOUN 
+load, NOUN 
+load, NOUN 
+
+, SPACE 
+reached, VERB 
+end, NOUN 
+50, NUM 
+step, NOUN 
+set, NOUN 
+obtained, VERB 
+
+, SPACE 
+measurements, NOUN 
+provided, VERB 
+load, NOUN 
+cell, NOUN 
+force, NOUN 
+divided, VERB 
+bythe, ADP 
+mean, VERB 
+cross, ADJ 
+sectional, ADJ 
+area, NOUN 
+sample, NOUN 
+determined, VERB 
+micro-, NOUN 
+
+, SPACE 
+CT, PROPN 
+scanning, NOUN 
+resulting, VERB 
+value, NOUN 
+considered, VERB 
+effective, ADJ 
+
+, SPACE 
+stress, NOUN 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+E, NOUN 
+calculated, VERB 
+
+, SPACE 
+ratio, NOUN 
+effective, ADJ 
+stress, NOUN 
+effective, ADJ 
+strain, NOUN 
+
+, SPACE 
+Validation, PROPN 
+
+, SPACE 
+order, NOUN 
+validate, VERB 
+proposed, VERB 
+method, NOUN 
+ULTEM, NOUN 
+tube, NOUN 
+
+, SPACE 
+samples, NOUN 
+prepared, VERB 
+tubes, NOUN 
+resemble, VERB 
+bone, NOUN 
+
+, SPACE 
+segments, NOUN 
+2, NUM 
+mm, NOUN 
+length, NOUN 
+outer, ADJ 
+diameter, NOUN 
+1.26, NUM 
+mm, NUM 
+
+, SPACE 
+inner, ADJ 
+diameter, NOUN 
+1, NUM 
+mm, NUM 
+ULTEM, PROPN 
+1000, NUM 
+Acetal, PROPN 
+Polyether, PROPN 
+Imide, PROPN 
+
+, SPACE 
+isotropic, ADJ 
+material, NOUN 
+ULTEM, PROPN 
+1000, NUM 
+
+, SPACE 
+®, NOUN 
+General, PROPN 
+Electric, PROPN 
+Plastics, PROPN 
+
+, SPACE 
+known, VERB 
+elastic, ADJ 
+modulus, NOUN 
+reported, VERB 
+manufacturer, NOUN 
+∼3516, PROPN 
+Mpa, PROPN 
+
+, SPACE 
+tubes, NOUN 
+tested, VERB 
+according, VERB 
+protocol, NOUN 
+described, VERB 
+
+, SPACE 
+Elastic, ADJ 
+modulus, NOUN 
+point, NOUN 
+bending, VERB 
+
+, SPACE 
+femora, NOUN 
+tested, VERB 
+point, NOUN 
+bending, NOUN 
+Biomecha-, PROPN 
+
+, SPACE 
+nical, ADJ 
+testing, NOUN 
+performed, VERB 
+custom, NOUN 
+designed, VERB 
+mecha-, ADJ 
+
+, SPACE 
+nical, ADJ 
+tension, NOUN 
+compression, NOUN 
+device, NOUN 
+described, VERB 
+ﬁtted, VERB 
+
+, SPACE 
+custom, NOUN 
+built, VERB 
+point, NOUN 
+bending, VERB 
+testing, NOUN 
+device, NOUN 
+bones, NOUN 
+testedwhile, ADJ 
+fully, ADV 
+immersed, VERB 
+water, NOUN 
+femur, NOUN 
+placed, VERB 
+supports, NOUN 
+
+, SPACE 
+having, AUX 
+rounded, VERB 
+proﬁ, PROPN 
+les, X 
+0.5, NUM 
+mm, NOUN 
+diameter, NOUN 
+supports, NOUN 
+
+, SPACE 
+located, VERB 
+equidistant, ADJ 
+ends, NOUN 
+bone, NOUN 
+contactedthe, DET 
+anterior, ADJ 
+aspect, NOUN 
+diaphysis, NOUN 
+span, NOUN 
+supports, NOUN 
+
+, SPACE 
+5, NUM 
+mm, NUM 
+bone, NOUN 
+loaded, VERB 
+posterior, ADJ 
+aspect, NOUN 
+mid, NOUN 
+distance, NOUN 
+supports, NOUN 
+Loading, NOUN 
+conducted, VERB 
+aconstant, ADJ 
+rate, NOUN 
+200, NUM 
+μm, NOUN 
+min, NOUN 
+Force, NOUN 
+displacement, NOUN 
+data, NOUN 
+collected, VERB 
+
+, SPACE 
+custom, ADV 
+written, VERB 
+software, NOUN 
+Lab, NOUN 
+view, NOUN 
+7.0, NUM 
+50, NUM 
+Hz, PROPN 
+resultingload, NOUN 
+displacement, ADJ 
+curves, NOUN 
+analyzed, VERB 
+calculate, VERB 
+bone, NOUN 
+
+, SPACE 
+stiffness, NOUN 
+slope, NOUN 
+linear, ADJ 
+portion, NOUN 
+load, NOUN 
+displacement, NOUN 
+curve, NOUN 
+
+, SPACE 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+cortical, ADJ 
+bone, NOUN 
+material, NOUN 
+estima-, NOUN 
+
+, SPACE 
+ted, VERB 
+based, VERB 
+beam, NOUN 
+theory, NOUN 
+yields, VERB 
+following, VERB 
+relationship, NOUN 
+
+, SPACE 
+E=, NOUN 
+
+, SPACE 
+s, PROPN 
+C1L3, PROPN 
+
+, SPACE 
+48Ið1Þ, NUM 
+
+, SPACE 
+Eis, PROPN 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+N, PROPN 
+mm2),Sis, NOUN 
+slope, NOUN 
+
+, SPACE 
+linear, ADJ 
+portion, NOUN 
+load, NOUN 
+displacement, NOUN 
+curve, NOUN 
+N, PROPN 
+mm, PROPN 
+Lis, PROPN 
+support, NOUN 
+
+, SPACE 
+span, NOUN 
+mm, PROPN 
+Iis, PROPN 
+cross, ADJ 
+sectional, ADJ 
+moment, NOUN 
+inertia, NOUN 
+mm4)o, NOUN 
+ft, PROPN 
+h, PROPN 
+e, AUX 
+
+, SPACE 
+mid, NOUN 
+diaphysis, NOUN 
+tested, VERB 
+bone, NOUN 
+determined, VERB 
+micro, NOUN 
+CT, NOUN 
+
+, SPACE 
+Statistical, ADJ 
+analyses, NOUN 
+
+, SPACE 
+Statistical, ADJ 
+analyses, NOUN 
+preformed, VERB 
+Graphpad, PROPN 
+prism, NOUN 
+5.0, NUM 
+
+, SPACE 
+software, NOUN 
+GraphPad, PROPN 
+Inc., PROPN 
+Statistical, ADJ 
+signi, NOUN 
+ﬁcance, NOUN 
+set, VERB 
+Pb0.05, PROPN 
+
+, SPACE 
+way, NOUN 
+analysis, NOUN 
+variance, NOUN 
+ANOVA, PROPN 
+compare, VERB 
+
+, SPACE 
+effective, ADJ 
+elastic, ADJ 
+moduli, NOUN 
+tested, VERB 
+femoral, ADJ 
+segments, NOUN 
+
+, SPACE 
+different, ADJ 
+groups, NOUN 
+followed, VERB 
+Tukey, PROPN 
+posthoc, NOUN 
+test, NOUN 
+Elastic, ADJ 
+moduli, NOUN 
+
+, SPACE 
+paired, VERB 
+left, ADJ 
+right, ADJ 
+femoral, ADJ 
+segments, NOUN 
+compared, VERB 
+paired, VERB 
+
+, SPACE 
+Student, PROPN 
+t, NOUN 
+test, NOUN 
+Spearman, PROPN 
+rank, NOUN 
+correlation, NOUN 
+examine, VERB 
+
+, SPACE 
+correlation, NOUN 
+mouse, NOUN 
+weight, NOUN 
+elastic, ADJ 
+modulus, NOUN 
+
+, SPACE 
+ResultsMicro, PROPN 
+CT, PROPN 
+structural, ADJ 
+analysis, NOUN 
+
+, SPACE 
+Table, NOUN 
+1, NUM 
+provides, VERB 
+mean, ADJ 
+cortical, ADJ 
+area, NOUN 
+length, NOUN 
+seg-, PROPN 
+
+, SPACE 
+ments, NOUN 
+results, NOUN 
+cortical, ADJ 
+area, NOUN 
+uniform, ADJ 
+
+, SPACE 
+segment, NOUN 
+inferred, VERB 
+small, ADJ 
+standard, ADJ 
+deviations, NOUN 
+
+, SPACE 
+Elastic, ADJ 
+modulus, NOUN 
+based, VERB 
+ESPI, ADJ 
+optical, ADJ 
+data, NOUN 
+analysis, NOUN 
+
+, SPACE 
+Determination, NOUN 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+2, NUM 
+mm, NOUN 
+femoral, ADJ 
+
+, SPACE 
+segments, NOUN 
+week, NOUN 
+old, ADJ 
+B6, NOUN 
+mice, NOUN 
+ESPI, PROPN 
+Table, PROPN 
+1, NUM 
+shows, VERB 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Y, PROPN 
+displacement, NOUN 
+map, NOUN 
+based, VERB 
+mean, ADJ 
+displacements, NOUN 
+obtained, VERB 
+
+, SPACE 
+repeated, VERB 
+loading, NOUN 
+sequences, NOUN 
+black, ADJ 
+arrow, NOUN 
+points, NOUN 
+direction, NOUN 
+applied, VERB 
+force, NOUN 
+
+, SPACE 
+axes, NOUN 
+represent, VERB 
+number, NOUN 
+pixels, NOUN 
+region, NOUN 
+interest, NOUN 
+pixel, NOUN 
+size, NOUN 
+approx-, NUM 
+
+, SPACE 
+imately, ADV 
+12, NUM 
+μm, NOUN 
+
+, SPACE 
+Table, NOUN 
+1Geometric, ADJ 
+parameters, NOUN 
+bone, NOUN 
+segments, NOUN 
+ESPI, PROPN 
+derived, VERB 
+strain, NOUN 
+stress, NOUN 
+elasticmoduli, NOUN 
+E, NOUN 
+
+, SPACE 
+Storage, PROPN 
+Specimen, PROPN 
+Cortical, PROPN 
+
+, SPACE 
+cross, ADJ 
+sectionalarea, ADJ 
+mm, PROPN 
+
+, SPACE 
+2)Stress, NOUN 
+MPa, PROPN 
+Strain, PROPN 
+μs, PROPN 
+E(GPa, PROPN 
+
+, SPACE 
+Mean, PROPN 
+±SD, NOUN 
+Mean, PROPN 
+±SD, NOUN 
+Mean, PROPN 
+±SD, NOUN 
+Mean, PROPN 
+±SD, PROPN 
+
+, SPACE 
+Frozen:8, PROPN 
+months201R, NOUN 
+0.40, NUM 
+0.01, NUM 
+50.24, NUM 
+0.65, NUM 
+5480, NUM 
+130, NUM 
+9.18, NUM 
+0.11)201L, NUM 
+0.40, NUM 
+0.02, NUM 
+53.04, NUM 
+0.51, NUM 
+4900, NUM 
+0, NUM 
+10.82, NUM 
+0.10)202R, PROPN 
+0.40, NUM 
+0.01, NUM 
+50.80, NUM 
+0.79, NUM 
+4750, NUM 
+90, NUM 
+10.70, NUM 
+0.28)202L, NOUN 
+0.39, NUM 
+0.01, NUM 
+54.97, NUM 
+0.55, NUM 
+5430, NUM 
+40, NUM 
+10.01, NUM 
+0.07)203R, PROPN 
+0.43, NUM 
+0.01, NUM 
+48.81, NUM 
+0.62, NUM 
+4330, NUM 
+40, NUM 
+11.29, NUM 
+0.17, NUM 
+
+, SPACE 
+203L, PROPN 
+0.41, NUM 
+0.01, NUM 
+54.56, NUM 
+0.54, NUM 
+4680, NUM 
+80, NUM 
+11.68, NUM 
+0.29, NUM 
+
+, SPACE 
+204L, PROPN 
+0.40, NUM 
+0.01, NUM 
+49.01, NUM 
+0.52, NUM 
+5580, NUM 
+160, NUM 
+8.70, NUM 
+0.19)205L, NOUN 
+0.49, NUM 
+0.01, NUM 
+48.60, NUM 
+0.52, NUM 
+4400, NUM 
+70, NUM 
+11.05, NUM 
+0.16)206L, PROPN 
+0.47, NUM 
+0.01, NUM 
+47.64, NUM 
+0.25, NUM 
+4430, NUM 
+150, NUM 
+11.03, NUM 
+0.36)207L, PROPN 
+0.47, NUM 
+0.01, NUM 
+49.97, NUM 
+0.66, NUM 
+4950, NUM 
+110, NUM 
+10.10, NUM 
+0.14)209L, PROPN 
+0.48, NUM 
+0.02, NUM 
+45.74, NUM 
+0.43, NUM 
+4280, NUM 
+110, NUM 
+10.71, NUM 
+0.25)210L, NOUN 
+0.49, NUM 
+0.01, NUM 
+50.74, NUM 
+0.35, NUM 
+5200, NUM 
+120, NUM 
+9.76, NUM 
+0.29, NUM 
+
+, SPACE 
+Frozen, PROPN 
+
+, SPACE 
+2, NUM 
+weeks301R, X 
+0.46, NUM 
+0.01, NUM 
+49.54, NUM 
+0.59, NUM 
+5780, NUM 
+190, NUM 
+8.59, NUM 
+0.21)302R, PROPN 
+0.47, NUM 
+0.01, NUM 
+51.66, NUM 
+0.14, NUM 
+5480, NUM 
+150, NUM 
+9.44, NUM 
+0.25, NUM 
+
+, SPACE 
+303R, PROPN 
+0.45, NUM 
+0.02, NUM 
+50.96, NUM 
+0.22, NUM 
+4980, NUM 
+80, NUM 
+10.25, NUM 
+0.15)305R, PROPN 
+0.40, NUM 
+0.01, NUM 
+52.38, NUM 
+0.36, NUM 
+6080, NUM 
+220, NUM 
+8.63, NUM 
+0.26)306R, PROPN 
+0.48, NUM 
+0.01, NUM 
+41.54, NUM 
+0.24, NUM 
+6930, NUM 
+130, NUM 
+6.00, NUM 
+0.08, NUM 
+
+, SPACE 
+Fresh, PROPN 
+302L, PROPN 
+0.47, NUM 
+0.01, NUM 
+45.60, NUM 
+0.18, NUM 
+5750, NUM 
+180, NUM 
+7.94, NUM 
+0.28, NUM 
+
+, SPACE 
+303L, PROPN 
+0.42, NUM 
+0.01, NUM 
+54.34, NUM 
+0.52, NUM 
+6480, NUM 
+180, NUM 
+8.40, NUM 
+0.17)304L, PROPN 
+0.42, NUM 
+0.01, NUM 
+49.11, NUM 
+0.21, NUM 
+6330, NUM 
+40, NUM 
+7.77, NUM 
+0.05)305L, PROPN 
+0.47, NUM 
+0.02, NUM 
+42.46, NUM 
+0.44, NUM 
+5130, NUM 
+40, NUM 
+8.29, NUM 
+0.09, NUM 
+
+, SPACE 
+306L, PROPN 
+0.36, NUM 
+0.01, NUM 
+62.09, NUM 
+0.34, NUM 
+5900, NUM 
+70, NUM 
+10.52, NUM 
+0.13, NUM 
+
+, SPACE 
+307L, PROPN 
+0.40, NUM 
+0.01, NUM 
+56.64, NUM 
+0.88, NUM 
+5430, NUM 
+110, NUM 
+10.44, NUM 
+0.20, NUM 
+
+, SPACE 
+L, PROPN 
+=, VERB 
+left, VERB 
+femur, NOUN 
+R, NOUN 
+=, NOUN 
+right, ADJ 
+femur.87, NOUN 
+N.L.-T., PROPN 
+Chattah, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+45, NUM 
+2009, NUM 
+84, NUM 
+90, NUM 
+
+, SPACE 
+mean, ADJ 
+moduli, NOUN 
+calculated, VERB 
+different, ADJ 
+groups, NOUN 
+10.4±, PROPN 
+
+, SPACE 
+0.9, NUM 
+GPa, NOUN 
+femora, NOUN 
+frozen, VERB 
+months, NOUN 
+8.6±1.4, NUM 
+GPa, NOUN 
+
+, SPACE 
+femora, NOUN 
+frozen, VERB 
+weeks, NOUN 
+8.9±1.1, NUM 
+GPa, NOUN 
+fresh, ADJ 
+femora, NOUN 
+
+, SPACE 
+way, NOUN 
+ANOVA, PROPN 
+Pb0.0086, PROPN 
+followed, VERB 
+Tukey, PROPN 
+posthoc, NOUN 
+test, NOUN 
+showed, VERB 
+
+, SPACE 
+samples, NOUN 
+group, NOUN 
+frozen, VERB 
+months, NOUN 
+asigniﬁcantly, ADV 
+higher, ADJ 
+mean, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+compared, VERB 
+fresh, ADJ 
+
+, SPACE 
+segments, NOUN 
+frozen, ADJ 
+weeks, NOUN 
+Pb0.05, NOUN 
+elastic, ADJ 
+
+, SPACE 
+moduli, NOUN 
+paired, VERB 
+left, NOUN 
+right, ADJ 
+femoral, ADJ 
+segments, NOUN 
+indi, PROPN 
+vidual, ADJ 
+differ, VERB 
+frozen, ADJ 
+group, NOUN 
+n=3, PROPN 
+pooled, ADJ 
+fresh, ADJ 
+
+, SPACE 
+recent, ADJ 
+frozen, ADJ 
+group, NOUN 
+N=4, PROPN 
+Paired, VERB 
+Student, PROPN 
+t, NOUN 
+test, NOUN 
+corre-, ADJ 
+
+, SPACE 
+lation, NOUN 
+found, VERB 
+body, NOUN 
+weight, NOUN 
+calculated, VERB 
+elastic, ADJ 
+
+, SPACE 
+modulus, NOUN 
+Spearman, PROPN 
+Rank, PROPN 
+correlation, NOUN 
+
+, SPACE 
+Validation, PROPN 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+shows, VERB 
+mean, VERB 
+elastic, ADJ 
+moduli, NOUN 
+calculated, VERB 
+ULTEM, PROPN 
+
+, SPACE 
+tubes, NOUN 
+determined, VERB 
+method, NOUN 
+described, VERB 
+table, NOUN 
+
+, SPACE 
+provides, VERB 
+comparison, NOUN 
+values, NOUN 
+supplied, VERB 
+manufacturer, NOUN 
+
+, SPACE 
+based, VERB 
+point, NOUN 
+bending, VERB 
+tests, NOUN 
+determined, VERB 
+
+, SPACE 
+compression, NOUN 
+ULTEM, PROPN 
+2×2×2, NUM 
+mm, NOUN 
+cubes, NOUN 
+ESPI, PROPN 
+method, NOUN 
+33, NUM 
+
+, SPACE 
+measured, ADJ 
+moduli, NOUN 
+ULTEM, PROPN 
+tubes, NOUN 
+8.5, NUM 
+thevalue, NOUN 
+reported, VERB 
+manufacturer, NOUN 
+close, ADJ 
+values, NOUN 
+
+, SPACE 
+previously, ADV 
+reported, VERB 
+Shahar, PROPN 
+et, PROPN 
+al, PROPN 
+33, NUM 
+results, NOUN 
+indicate, VERB 
+
+, SPACE 
+ESPI, PROPN 
+method, NOUN 
+accurate, ADJ 
+determining, VERB 
+elastic, ADJ 
+modulus, NOUN 
+ofmillimeter, NOUN 
+sized, ADJ 
+tubular, ADJ 
+shaped, VERB 
+geometrical, ADJ 
+specimens, NOUN 
+
+, SPACE 
+Precision, PROPN 
+
+, SPACE 
+mean, ADJ 
+elastic, ADJ 
+moduli, NOUN 
+bone, NOUN 
+segments, NOUN 
+ULTEM, PROPN 
+tubes, NOUN 
+
+, SPACE 
+based, VERB 
+averaging, VERB 
+elastic, ADJ 
+moduli, NOUN 
+obtained, VERB 
+separate, ADJ 
+
+, SPACE 
+incremental, ADJ 
+loading, NOUN 
+experiments, NOUN 
+specimen, NOUN 
+Tables, NOUN 
+1, NUM 
+2, NUM 
+
+, SPACE 
+standard, ADJ 
+deviation, NOUN 
+sets, NOUN 
+low, ADJ 
+rangingbetween, ADJ 
+0.64, NUM 
+3.53, NUM 
+bone, NOUN 
+segments, NOUN 
+1.14, NUM 
+1.99, NUM 
+
+, SPACE 
+ULTEM, PROPN 
+tubes, NOUN 
+bone, NOUN 
+segments, NOUN 
+Table, NOUN 
+1, NUM 
+effective, ADJ 
+stress, NOUN 
+
+, SPACE 
+strain, NOUN 
+low, ADJ 
+standard, ADJ 
+deviations, NOUN 
+ranging, VERB 
+0.57, NUM 
+and1.56, NOUN 
+0, NUM 
+3.62, NUM 
+respectively, ADV 
+results, NOUN 
+indicate, VERB 
+ESPI, PROPN 
+
+, SPACE 
+method, NOUN 
+precise, ADJ 
+
+, SPACE 
+point, NOUN 
+bending, VERB 
+
+, SPACE 
+elastic, ADJ 
+moduli, NOUN 
+obtained, VERB 
+point, NOUN 
+bending, VERB 
+tests, NOUN 
+
+, SPACE 
+low, ADJ 
+compared, VERB 
+results, NOUN 
+ESPI, PROPN 
+Fig, PROPN 
+3, NUM 
+Table, PROPN 
+3, NUM 
+mean, ADJ 
+
+, SPACE 
+modulus, NOUN 
+bones, NOUN 
+n=5, PROPN 
+0.88±0.18, PROPN 
+GPa, NOUN 
+
+, SPACE 
+Discussion, PROPN 
+
+, SPACE 
+study, NOUN 
+introduce, VERB 
+novel, ADJ 
+method, NOUN 
+determining, VERB 
+
+, SPACE 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+mice, NOUN 
+cortical, ADJ 
+bone, NOUN 
+millimeter, NOUN 
+sized, ADJ 
+
+, SPACE 
+femoral, ADJ 
+midshaft, NOUN 
+diaphyses, NOUN 
+segments, NOUN 
+tested, VERB 
+compression, NOUN 
+
+, SPACE 
+elastic, ADJ 
+modulus, NOUN 
+determined, VERB 
+ESPI, PROPN 
+optical, ADJ 
+metrology, NOUN 
+
+, SPACE 
+method, NOUN 
+based, VERB 
+averaging, VERB 
+elastic, ADJ 
+moduli, NOUN 
+obtained, VERB 
+
+, SPACE 
+independent, ADJ 
+experiments, NOUN 
+segment, NOUN 
+theESPI, PROPN 
+method, NOUN 
+accurately, ADV 
+precisely, ADV 
+determine, VERB 
+
+, SPACE 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+cortical, ADJ 
+bone, NOUN 
+segments, NOUN 
+direct, ADJ 
+
+, SPACE 
+measurement, NOUN 
+surface, NOUN 
+displacements, NOUN 
+compression, NOUN 
+
+, SPACE 
+axial, ADJ 
+direction, NOUN 
+method, NOUN 
+tested, VERB 
+week, NOUN 
+old, ADJ 
+mice, NOUN 
+
+, SPACE 
+moduli, NOUN 
+observed, VERB 
+greater, ADJ 
+reported, VERB 
+
+, SPACE 
+literature, NOUN 
+mice, NOUN 
+femora, NOUN 
+age, NOUN 
+elastic, ADJ 
+moduli, NOUN 
+
+, SPACE 
+determined, VERB 
+bending, VERB 
+tests, NOUN 
+Fig, PROPN 
+3, NUM 
+
+, SPACE 
+Studies, NOUN 
+shown, VERB 
+bone, NOUN 
+bending, VERB 
+tests, NOUN 
+
+, SPACE 
+determining, VERB 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+mouse, NOUN 
+cortical, ADJ 
+bone, NOUN 
+
+, SPACE 
+suffer, VERB 
+major, ADJ 
+methodological, ADJ 
+drawbacks, NOUN 
+disparity, NOUN 
+
+, SPACE 
+testing, NOUN 
+setups, NOUN 
+results, NOUN 
+41, NUM 
+drawbacks, NOUN 
+enhanced, VERB 
+
+, SPACE 
+dealing, VERB 
+long, ADJ 
+bones, NOUN 
+young, ADJ 
+mice, NOUN 
+relatively, ADJ 
+thincortices, NOUN 
+surprising, ADJ 
+studies, NOUN 
+
+, SPACE 
+reported, VERB 
+elastic, ADJ 
+modulus, NOUN 
+mice, NOUN 
+young, ADJ 
+age, NOUN 
+
+, SPACE 
+bending, VERB 
+tests, NOUN 
+Studies, NOUN 
+conducted, VERB 
+van, PROPN 
+Lenthe, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+41, NUM 
+shown, VERB 
+moduli, NOUN 
+determined, VERB 
+mice, PROPN 
+femora, PROPN 
+based, VERB 
+
+, SPACE 
+beam, NOUN 
+theory, NOUN 
+greatly, ADV 
+underestimate, VERB 
+tissue, NOUN 
+modulus, NOUN 
+especiallyin, NOUN 
+mice, NOUN 
+relatively, ADV 
+thin, ADJ 
+cortices, NOUN 
+large, ADJ 
+midshaft, NOUN 
+diameter, NOUN 
+
+, SPACE 
+B6, NOUN 
+strain, NOUN 
+researchers, NOUN 
+micro-, NOUN 
+ﬁnite, NOUN 
+element, NOUN 
+analysis, NOUN 
+
+, SPACE 
+correct, VERB 
+bias, NOUN 
+obtained, VERB 
+values, NOUN 
+12.0±1.3, PROPN 
+GPa, NOUN 
+15, NUM 
+weekold, ADJ 
+B6, NOUN 
+mice, NOUN 
+
+, SPACE 
+elastic, ADJ 
+moduli, NOUN 
+mouse, PROPN 
+cortical, ADJ 
+bone, NOUN 
+determined, VERB 
+nano-, ADJ 
+
+, SPACE 
+indentation, NOUN 
+higher, ADJ 
+age, NOUN 
+groups, NOUN 
+obtained, VERB 
+
+, SPACE 
+fro, NOUN 
+
+, SPACE 
+m, AUX 
+bending, VERB 
+tests, NOUN 
+3,8,17,20,26,36,38, NOUN 
+Miller, PROPN 
+et, PROPN 
+al, PROPN 
+26, NUM 
+reported, VERB 
+
+, SPACE 
+Table, PROPN 
+2, NUM 
+
+, SPACE 
+Elastic, ADJ 
+modulus, NOUN 
+ULTEM, PROPN 
+1000, NUM 
+®, NOUN 
+GPa, NOUN 
+
+, SPACE 
+ManufactureraESPI, NUM 
+ULTEM, PROPN 
+tubes, NOUN 
+ESPI, ADJ 
+ULTEM, PROPN 
+cubesb, NOUN 
+
+, SPACE 
+n=1, PROPN 
+0, NUM 
+
+, SPACE 
+Data, PROPN 
+3.52, NUM 
+GPa, NOUN 
+3.22±0.06, PROPN 
+GPa, PROPN 
+n=1, PROPN 
+3.42±0.10, PROPN 
+GPa, NOUN 
+
+, SPACE 
+3.26±0.05, PROPN 
+GPa, NOUN 
+n=1, PROPN 
+3.43±0.10, PROPN 
+GPa, NOUN 
+
+, SPACE 
+3.53±0.06, PROPN 
+GPa, NOUN 
+n=1, PROPN 
+
+, SPACE 
+Mean±SD, X 
+3.52, NUM 
+GPa, NOUN 
+3.34±0.14, PROPN 
+GPa, NOUN 
+3.43±0.005, PROPN 
+GPa, NOUN 
+
+, SPACE 
+aGE, NOUN 
+Plastics, PROPN 
+ULTEM, PROPN 
+1000, NUM 
+®, NOUN 
+Data, PROPN 
+Sheet, PROPN 
+based, VERB 
+point, NOUN 
+bending, VERB 
+tests, NOUN 
+SD, NOUN 
+
+, SPACE 
+provided, VERB 
+
+, SPACE 
+bShahar, PROPN 
+et, PROPN 
+al, PROPN 
+33, NUM 
+based, VERB 
+compression, NOUN 
+tests, NOUN 
+determined, VERB 
+different, ADJ 
+
+, SPACE 
+calculation, NOUN 
+methods, NOUN 
+Table, NOUN 
+3, NUM 
+
+, SPACE 
+Elastic, ADJ 
+modulus, NOUN 
+E, NOUN 
+point, NOUN 
+bending, VERB 
+tests, NOUN 
+5, NUM 
+mm, NOUN 
+support, NOUN 
+span, NOUN 
+
+, SPACE 
+Specimen, PROPN 
+S(N, PROPN 
+mm, PROPN 
+I(mm4)aE(GPa, PROPN 
+
+, SPACE 
+301, NUM 
+34, NUM 
+0.109, NUM 
+0.812302, NUM 
+23, NUM 
+0.093, NUM 
+0.644303, NUM 
+27, NUM 
+0.091, NUM 
+0.772304, NUM 
+40, NUM 
+0.096, NUM 
+1.080305, NUM 
+47, NUM 
+0.110, NUM 
+1.112, NUM 
+
+, SPACE 
+SSlope, PROPN 
+linear, ADJ 
+portion, NOUN 
+load, NOUN 
+displacement, NOUN 
+curve, NOUN 
+
+, SPACE 
+ICross, ADJ 
+sectional, ADJ 
+moment, NOUN 
+inertia, NOUN 
+
+, SPACE 
+aBased, VERB 
+Micro, PROPN 
+CT, PROPN 
+data, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Mean, ADJ 
+elastic, ADJ 
+moduli, NOUN 
+SD, NOUN 
+provided, VERB 
+ﬁve, NOUN 
+week, NOUN 
+old, ADJ 
+mice, NOUN 
+femora, PROPN 
+
+, SPACE 
+tibia, PROPN 
+different, ADJ 
+testing, NOUN 
+methods, NOUN 
+3, X 
+PB, PROPN 
+point, NOUN 
+bending, NOUN 
+4, NUM 
+PB, PROPN 
+point, NOUN 
+
+, SPACE 
+bending, NOUN 
+ESPI, PROPN 
+electronic, ADJ 
+speckle, NOUN 
+pattern, NOUN 
+interferometry, NOUN 
+NI, PROPN 
+nanoindentation, NOUN 
+
+, SPACE 
+unpublished, ADJ 
+point, NOUN 
+bending, VERB 
+study, NOUN 
+conducted, VERB 
+Laboratory, PROPN 
+Biome, PROPN 
+chanics, NOUN 
+School, PROPN 
+Veterinary, PROPN 
+Medicine, PROPN 
+Faculty, PROPN 
+Agriculture, PROPN 
+Hebrew, PROPN 
+University, PROPN 
+Jerusalem, PROPN 
+Israel.88, VERB 
+N.L.-T., PROPN 
+Chattah, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+45, NUM 
+2009, NUM 
+84, NUM 
+90, NUM 
+
+, SPACE 
+values, NOUN 
+ranging, VERB 
+21, NUM 
+28, NUM 
+GPa, NOUN 
+30, NUM 
+day, NOUN 
+old, ADJ 
+BALB, PROPN 
+cByJ, NOUN 
+
+, SPACE 
+female, ADJ 
+mice, NOUN 
+tibia, PROPN 
+Jiao, PROPN 
+et, PROPN 
+al, PROPN 
+17]report, NUM 
+values, NOUN 
+20.9±1.6, NUM 
+GPa, NOUN 
+
+, SPACE 
+4, NUM 
+week, NOUN 
+old, ADJ 
+C3H, PROPN 
+female, ADJ 
+tibia, NOUN 
+bones, NOUN 
+hydrated, VERB 
+butnot, NOUN 
+long, ADJ 
+process, NOUN 
+testing, NOUN 
+Somerville, PROPN 
+et, PROPN 
+al, PROPN 
+37, NUM 
+
+, SPACE 
+ultrasound, NOUN 
+determine, VERB 
+longitudinal, ADJ 
+bulk, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+onemonth, ADJ 
+old, ADJ 
+B6, NOUN 
+mice, NOUN 
+tibia, NOUN 
+report, VERB 
+15.5, NUM 
+GPa, NOUN 
+females, NOUN 
+17.9, NUM 
+GPa, NOUN 
+
+, SPACE 
+males, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+shows, VERB 
+nanoindentation, NOUN 
+point, NOUN 
+bending, NOUN 
+ESPI, PROPN 
+
+, SPACE 
+produce, VERB 
+different, ADJ 
+elastic, ADJ 
+moduli, NOUN 
+bones, NOUN 
+age, NOUN 
+matched, VERB 
+mice, NOUN 
+bending, VERB 
+tests, NOUN 
+ESPI, PROPN 
+provide, VERB 
+information, NOUN 
+
+, SPACE 
+different, ADJ 
+length, NOUN 
+scale, NOUN 
+compared, VERB 
+nanoindentation, NOUN 
+
+, SPACE 
+means, NOUN 
+evaluating, VERB 
+method, NOUN 
+produces, VERB 
+accu-, ADJ 
+
+, SPACE 
+rate, NOUN 
+results, NOUN 
+advantage, NOUN 
+correlation, NOUN 
+mineral, NOUN 
+
+, SPACE 
+content, NOUN 
+elastic, ADJ 
+modulus, NOUN 
+bones, NOUN 
+diverse, ADJ 
+sources, NOUN 
+9–11].W, NUM 
+e, NOUN 
+
+, SPACE 
+determined, VERB 
+ash, NOUN 
+mass, NOUN 
+ash, NOUN 
+weight, NOUN 
+dry, ADJ 
+weight, NOUN 
+⁎100, PROPN 
+3, NUM 
+
+, SPACE 
+femoral, ADJ 
+segments, NOUN 
+frozen, VERB 
+months, NOUN 
+obtained, VERB 
+value, NOUN 
+63, NUM 
+
+, SPACE 
+±0.9, ADJ 
+converting, VERB 
+ash, NOUN 
+mass, NOUN 
+mg, PROPN 
+g, PROPN 
+bone, NOUN 
+
+, SPACE 
+inserting, VERB 
+mean, ADJ 
+value, NOUN 
+regression, NOUN 
+equation, NOUN 
+suggested, VERB 
+
+, SPACE 
+Currey, PROPN 
+11, NUM 
+elastic, ADJ 
+modulus, NOUN 
+obtained, VERB 
+13.8, NUM 
+GPa, NOUN 
+values, NOUN 
+
+, SPACE 
+measured, VERB 
+frozen, ADJ 
+samples, NOUN 
+close, ADJ 
+value, NOUN 
+indicating, VERB 
+thatESPI, PROPN 
+measurements, NOUN 
+accurate, ADJ 
+conversion, NOUN 
+based, VERB 
+
+, SPACE 
+atomic, ADJ 
+weight, NOUN 
+calcium, NOUN 
+chemical, ADJ 
+formulas, NOUN 
+carbonate, PROPN 
+
+, SPACE 
+hydroxylapitite, NOUN 
+proportion, NOUN 
+carbonated, VERB 
+hydroxylapatite, NOUN 
+
+, SPACE 
+39.8, NUM 
+63, NUM 
+ash, NOUN 
+mass, NOUN 
+63, NUM 
+g/100, PROPN 
+g, NOUN 
+bone, NOUN 
+corresponds, VERB 
+
+, SPACE 
+63⁎0.398−25.1, NOUN 
+g/100, PROPN 
+g, PROPN 
+bone, NOUN 
+turn, NOUN 
+corresponds, VERB 
+
+, SPACE 
+251, NUM 
+mg, PROPN 
+g, PROPN 
+bone, NOUN 
+
+, SPACE 
+study, NOUN 
+noted, VERB 
+elastic, ADJ 
+moduli, NOUN 
+bone, NOUN 
+segments, NOUN 
+
+, SPACE 
+frozen, VERB 
+−20, PROPN 
+°, NUM 
+C, PROPN 
+period, NOUN 
+months, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+
+, SPACE 
+higher, ADJ 
+compared, VERB 
+frozen, VERB 
+brief, ADJ 
+week, NOUN 
+period, NOUN 
+tested, VERB 
+
+, SPACE 
+fresh, ADJ 
+Table, NOUN 
+1, NUM 
+Despite, SCONJ 
+general, ADJ 
+agreement, NOUN 
+freezing, VERB 
+−20, PROPN 
+°, NUM 
+C, PROPN 
+
+, SPACE 
+little, ADJ 
+effect, NOUN 
+elastic, ADJ 
+modulus, NOUN 
+bones, NOUN 
+different, ADJ 
+species[23, NOUN 
+effects, NOUN 
+freezing, VERB 
+young, ADJ 
+murine, NOUN 
+bones, NOUN 
+
+, SPACE 
+studied, VERB 
+Recently, ADV 
+Nazarian, PROPN 
+et, PROPN 
+al, PROPN 
+27]compared, NUM 
+effects, NOUN 
+freezing, NOUN 
+
+, SPACE 
+formalin, NOUN 
+ﬁxation, NOUN 
+16, NUM 
+week, NOUN 
+old, ADJ 
+B6, NOUN 
+mice, NOUN 
+vertebrae, NOUN 
+long, ADJ 
+
+, SPACE 
+bones, NOUN 
+authors, NOUN 
+found, VERB 
+difference, NOUN 
+elastic, ADJ 
+moduli, NOUN 
+offresh, NOUN 
+vs., ADP 
+frozen/, NOUN 
+ﬁxed, VERB 
+samples, NOUN 
+point, NOUN 
+bending, VERB 
+method, NOUN 
+
+, SPACE 
+study, NOUN 
+examined, VERB 
+bones, NOUN 
+older, ADJ 
+mice, NOUN 
+frozenfor, ADP 
+week, NOUN 
+period, NOUN 
+compared, VERB 
+months, NOUN 
+study, NOUN 
+
+, SPACE 
+separate, ADJ 
+detailed, ADJ 
+investigation, NOUN 
+warranted, VERB 
+
+, SPACE 
+results, NOUN 
+point, VERB 
+possible, ADJ 
+effects, NOUN 
+long, ADJ 
+term, NOUN 
+freezing, NOUN 
+elasticmodulus, NOUN 
+bone, NOUN 
+underline, VERB 
+high, ADJ 
+sensitivity, NOUN 
+ESPI, PROPN 
+
+, SPACE 
+method, NOUN 
+
+, SPACE 
+conclude, VERB 
+ESPI, PROPN 
+based, VERB 
+method, NOUN 
+described, VERB 
+
+, SPACE 
+accurately, ADV 
+precisely, ADV 
+measure, VERB 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+
+, SPACE 
+mouse, NOUN 
+cortical, ADJ 
+bone, NOUN 
+compression, NOUN 
+submerged, VERB 
+water, NOUN 
+
+, SPACE 
+measurements, NOUN 
+physiologically, ADV 
+relevant, ADJ 
+
+, SPACE 
+conditions, NOUN 
+technique, NOUN 
+mechanically, ADV 
+test, VERB 
+
+, SPACE 
+millimeter, NOUN 
+sized, ADJ 
+cortical, ADJ 
+bone, NOUN 
+segments, NOUN 
+standard, ADJ 
+compression, NOUN 
+
+, SPACE 
+test, NOUN 
+providing, VERB 
+alternative, NOUN 
+bone, NOUN 
+bending, VERB 
+tests, NOUN 
+
+, SPACE 
+underestimate, VERB 
+effective, ADJ 
+elastic, ADJ 
+modulus, NOUN 
+mice, NOUN 
+long, ADJ 
+bones, NOUN 
+
+, SPACE 
+Finally, ADV 
+high, ADJ 
+resolution, NOUN 
+mapping, NOUN 
+mouse, NOUN 
+genome, NOUN 
+35]and, CCONJ 
+
+, SPACE 
+availability, NOUN 
+multitude, NOUN 
+genetically, ADV 
+altered, VERB 
+mouse, NOUN 
+models, NOUN 
+haverendered, VERB 
+mouse, NOUN 
+studied, VERB 
+skeletal, ADJ 
+systems, NOUN 
+bone, NOUN 
+
+, SPACE 
+research, NOUN 
+invaluable, ADJ 
+tool, NOUN 
+understanding, NOUN 
+major, ADJ 
+bone, NOUN 
+
+, SPACE 
+disease, NOUN 
+osteoporosis, NOUN 
+24,25,31, NUM 
+ESPI, PROPN 
+
+, SPACE 
+future, ADJ 
+studies, NOUN 
+gain, VERB 
+better, ADJ 
+insights, NOUN 
+speci, NOUN 
+ﬁc, VERB 
+mutations, NOUN 
+
+, SPACE 
+treatments, NOUN 
+affect, VERB 
+quality, NOUN 
+bone, NOUN 
+tissue, NOUN 
+mice, NOUN 
+models, NOUN 
+
+, SPACE 
+Acknowledgments, NOUN 
+
+, SPACE 
+thank, VERB 
+Dr., PROPN 
+Meir, PROPN 
+M., PROPN 
+Barak, PROPN 
+Prof., PROPN 
+John, PROPN 
+Currey, PROPN 
+helpful, ADJ 
+
+, SPACE 
+input, NOUN 
+Dr., PROPN 
+Josh, PROPN 
+Milgram, PROPN 
+technical, ADJ 
+support, NOUN 
+Support, NOUN 
+
+, SPACE 
+research, NOUN 
+provided, VERB 
+Kekst, PROPN 
+Family, PROPN 
+Center, PROPN 
+Medical, PROPN 
+
+, SPACE 
+Genetics, PROPN 
+Weizmann, PROPN 
+Institute, PROPN 
+S., PROPN 
+W., PROPN 
+incumbent, NOUN 
+
+, SPACE 
+Dr., PROPN 
+Walter, PROPN 
+Dr., PROPN 
+Trude, PROPN 
+Burchardt, PROPN 
+Professorial, PROPN 
+Chair, PROPN 
+Structural, PROPN 
+
+, SPACE 
+Biology, PROPN 
+References, NOUN 
+
+, SPACE 
+1, NUM 
+Akhter, PROPN 
+MP, PROPN 
+Cullen, PROPN 
+DM, PROPN 
+Gong, PROPN 
+G, PROPN 
+Recker, PROPN 
+RR, PROPN 
+Bone, NOUN 
+biomechanical, ADJ 
+properties, NOUN 
+
+, SPACE 
+prostaglandin, NOUN 
+EP1, PROPN 
+EP2, PROPN 
+knockout, NOUN 
+mice, NOUN 
+Bone, NOUN 
+2001;29:121, NOUN 
+5, NUM 
+
+, SPACE 
+2, X 
+Akhter, PROPN 
+MP, PROPN 
+Cullen, PROPN 
+DM, PROPN 
+Pan, PROPN 
+LC, PROPN 
+Bone, NOUN 
+biomechanical, ADJ 
+properties, NOUN 
+EP4, PROPN 
+knockout, NOUN 
+
+, SPACE 
+mice, NOUN 
+Calcif, PROPN 
+Tissue, PROPN 
+Int, PROPN 
+2006;78:357, NOUN 
+62, NUM 
+
+, SPACE 
+3, X 
+Akhter, PROPN 
+MP, PROPN 
+Fan, PROPN 
+Z, PROPN 
+Rho, PROPN 
+JY, PROPN 
+Bone, NOUN 
+intrinsic, ADJ 
+material, NOUN 
+properties, NOUN 
+inbred, VERB 
+mouse, NOUN 
+
+, SPACE 
+strains, VERB 
+Calcif, PROPN 
+Tissue, PROPN 
+Int, PROPN 
+2004;75:416, NOUN 
+20, NUM 
+
+, SPACE 
+4, X 
+Barak, PROPN 
+MM, PROPN 
+Weiner, PROPN 
+S, PROPN 
+Shahar, PROPN 
+R., PROPN 
+Importance, PROPN 
+integrity, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+relationship, NOUN 
+load, NOUN 
+deformation, NOUN 
+rat, PROPN 
+femora, PROPN 
+optical, ADJ 
+metrology, NOUN 
+
+, SPACE 
+study, NOUN 
+J, PROPN 
+Mater, PROPN 
+Chem, PROPN 
+2008;18:3855, NOUN 
+64, NUM 
+
+, SPACE 
+5, X 
+Barak, PROPN 
+MM, PROPN 
+Sharir, PROPN 
+Shahar, PROPN 
+R., PROPN 
+Optical, PROPN 
+metrology, NOUN 
+methods, NOUN 
+mechanical, ADJ 
+testing, NOUN 
+
+, SPACE 
+bones, NOUN 
+Vet, PROPN 
+J, PROPN 
+2008, NUM 
+
+, SPACE 
+6, X 
+Beaupied, PROPN 
+H, PROPN 
+Lespessailles, PROPN 
+E, PROPN 
+Benhamou, PROPN 
+CL, PROPN 
+Evaluation, NOUN 
+macrostructural, ADJ 
+bone, NOUN 
+
+, SPACE 
+biomechanics, NOUN 
+Jt, PROPN 
+Bone, PROPN 
+Spine, PROPN 
+2007;74:233, PROPN 
+9, NUM 
+
+, SPACE 
+7, X 
+Brodt, PROPN 
+MD, PROPN 
+Ellis, PROPN 
+CB, PROPN 
+Silva, PROPN 
+MJ, PROPN 
+Growing, VERB 
+C57Bl/6, NOUN 
+mice, NOUN 
+increase, VERB 
+bone, NOUN 
+
+, SPACE 
+mechanical, ADJ 
+properties, NOUN 
+increasing, VERB 
+geometric, ADJ 
+material, NOUN 
+properties, NOUN 
+J, PROPN 
+BoneMiner, PROPN 
+Res, PROPN 
+1999;14:2159, NOUN 
+66, NUM 
+
+, SPACE 
+8, X 
+Chen, PROPN 
+Q, PROPN 
+Rho, PROPN 
+JY, PROPN 
+Fan, PROPN 
+Z, PROPN 
+Laulederkind, PROPN 
+SJ, PROPN 
+Raghow, PROPN 
+R., PROPN 
+Congenital, PROPN 
+lack, NOUN 
+COX-2, PROPN 
+affects, VERB 
+
+, SPACE 
+mechanical, ADJ 
+geometric, ADJ 
+properties, NOUN 
+bone, NOUN 
+mice, NOUN 
+Calcif, PROPN 
+Tissue, PROPN 
+Int, PROPN 
+2003;73, NUM 
+
+, SPACE 
+387, NUM 
+92, NUM 
+
+, SPACE 
+9, X 
+Currey, ADJ 
+JD, PROPN 
+design, NOUN 
+mineralised, VERB 
+hard, ADJ 
+tissues, NOUN 
+mechanical, ADJ 
+functions, NOUN 
+J, PROPN 
+
+, SPACE 
+Exp, PROPN 
+Biol, PROPN 
+1999;202:3285, NUM 
+94, NUM 
+
+, SPACE 
+10, NUM 
+Currey, ADJ 
+JD, PROPN 
+Effects, NOUN 
+differences, NOUN 
+mineralization, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+
+, SPACE 
+bone, NOUN 
+Philos, PROPN 
+Trans, PROPN 
+R, PROPN 
+Soc, PROPN 
+Lond, PROPN 
+B, PROPN 
+Biol, PROPN 
+Sci, PROPN 
+1984;304:509, NUM 
+18, NUM 
+
+, SPACE 
+11, NUM 
+Currey, ADJ 
+JD, PROPN 
+determines, VERB 
+bending, NOUN 
+strength, NOUN 
+compact, ADJ 
+bone, NOUN 
+J, PROPN 
+Exp, PROPN 
+Biol, PROPN 
+
+, SPACE 
+1999;202:2495, NUM 
+503, NUM 
+
+, SPACE 
+12, NUM 
+Ferguson, PROPN 
+VL, PROPN 
+Ayers, PROPN 
+RA, PROPN 
+Bateman, PROPN 
+TA, PROPN 
+Simske, PROPN 
+SJ, PROPN 
+Bone, NOUN 
+development, NOUN 
+age, NOUN 
+related, VERB 
+
+, SPACE 
+bone, NOUN 
+loss, NOUN 
+male, ADJ 
+C57BL/6J, PROPN 
+mice, NOUN 
+Bone, NOUN 
+2003;33:387, NOUN 
+98, NUM 
+
+, SPACE 
+13, NUM 
+Horton, PROPN 
+WA, PROPN 
+Skeletal, ADJ 
+development, NOUN 
+insights, NOUN 
+targeting, VERB 
+mouse, NOUN 
+genome, NOUN 
+
+, SPACE 
+Lancet, PROPN 
+2003;362:560, PROPN 
+9, NUM 
+
+, SPACE 
+14, NUM 
+Jamsa, PROPN 
+T, PROPN 
+Jalovaara, PROPN 
+P, PROPN 
+Peng, PROPN 
+Z, PROPN 
+Vaananen, PROPN 
+HK, PROPN 
+Tuukkanen, PROPN 
+J., PROPN 
+Comparison, PROPN 
+point, NOUN 
+
+, SPACE 
+bending, VERB 
+test, NOUN 
+peripheral, ADJ 
+quantitative, ADJ 
+computed, VERB 
+tomography, NOUN 
+analysis, NOUN 
+theevaluation, NOUN 
+strength, NOUN 
+mouse, NOUN 
+femur, NOUN 
+tibia, PROPN 
+Bone, NOUN 
+1998;23:155, NOUN 
+61, NUM 
+
+, SPACE 
+15, X 
+Jepsen, PROPN 
+KJ, PROPN 
+Akkus, PROPN 
+OJ, PROPN 
+Majeska, PROPN 
+RJ, PROPN 
+Nadeau, PROPN 
+JH, PROPN 
+Hierarchical, ADJ 
+relationship, NOUN 
+
+, SPACE 
+bone, NOUN 
+traits, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+inbred, VERB 
+mice, NOUN 
+Mamm, PROPN 
+Genome, PROPN 
+2003;14, NUM 
+
+, SPACE 
+97–104, PROPN 
+
+, SPACE 
+16, NUM 
+Jepsen, PROPN 
+KJ, PROPN 
+Pennington, PROPN 
+DE, PROPN 
+Lee, PROPN 
+YL, PROPN 
+Warman, PROPN 
+M, PROPN 
+Nadeau, PROPN 
+J., PROPN 
+Bone, PROPN 
+brittleness, NOUN 
+varies, VERB 
+
+, SPACE 
+genetic, ADJ 
+background, NOUN 
+J, PROPN 
+C57BL/6J, PROPN 
+inbred, VERB 
+mice, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res2001;16:1854, NOUN 
+62, NUM 
+
+, SPACE 
+17, NUM 
+Jiao, PROPN 
+Y, PROPN 
+Chiu, PROPN 
+H, PROPN 
+Fan, PROPN 
+Z, PROPN 
+Jiao, PROPN 
+F, PROPN 
+Eckstein, PROPN 
+EC, PROPN 
+Beamer, PROPN 
+WG, PROPN 
+et, PROPN 
+al, PROPN 
+Quantitative, ADJ 
+trait, NOUN 
+loci, NOUN 
+
+, SPACE 
+determine, VERB 
+mouse, NOUN 
+tibial, ADJ 
+nanoindentation, NOUN 
+properties, NOUN 
+F2, NOUN 
+population, NOUN 
+
+, SPACE 
+derived, VERB 
+C57BL/6J×C3H, PROPN 
+HeJ., NOUN 
+Calcif, PROPN 
+Tissue, PROPN 
+Int, PROPN 
+2007;80:383, NOUN 
+90, NUM 
+
+, SPACE 
+18, NUM 
+Karsenty, PROPN 
+G., PROPN 
+Convergence, PROPN 
+bone, NOUN 
+energy, NOUN 
+homeostases, NOUN 
+leptin, PROPN 
+regu-, PROPN 
+
+, SPACE 
+lation, NOUN 
+bone, NOUN 
+mass, NOUN 
+Cell, PROPN 
+Metab, PROPN 
+2006;4(5):341, NUM 
+8, NUM 
+
+, SPACE 
+19, NUM 
+Karsenty, ADJ 
+G, PROPN 
+Wagner, PROPN 
+EF, PROPN 
+Reaching, VERB 
+genetic, ADJ 
+molecular, ADJ 
+understanding, NOUN 
+
+, SPACE 
+skeletal, ADJ 
+development, NOUN 
+Dev, PROPN 
+Cell, PROPN 
+2002;2:389, NUM 
+406, NUM 
+
+, SPACE 
+20, NUM 
+Kavukcuoglu, PROPN 
+NB, PROPN 
+Denhardt, PROPN 
+DT, PROPN 
+Guzelsu, PROPN 
+N, PROPN 
+Mann, PROPN 
+AB, PROPN 
+Osteopontin, PROPN 
+de, X 
+ﬁciency, NOUN 
+
+, SPACE 
+aging, VERB 
+nanomechanics, NOUN 
+mouse, NOUN 
+bone, NOUN 
+J, PROPN 
+Biomed, PROPN 
+Mater, PROPN 
+Res, PROPN 
+2007;83:136, NOUN 
+44, NUM 
+
+, SPACE 
+21, NUM 
+Lev, NOUN 
+Tov, PROPN 
+Chattah, PROPN 
+N, PROPN 
+Shahar, PROPN 
+R, PROPN 
+Weiner, PROPN 
+S., PROPN 
+Design, PROPN 
+strategy, NOUN 
+minipig, PROPN 
+molars, NOUN 
+
+, SPACE 
+electronic, ADJ 
+speckle, NOUN 
+pattern, NOUN 
+interferometry, NOUN 
+comparison, NOUN 
+deformation, NOUN 
+load, NOUN 
+
+, SPACE 
+tooth, NOUN 
+mandible, ADJ 
+complex, NOUN 
+isolated, ADJ 
+tooth, NOUN 
+Adv, PROPN 
+Mat, PROPN 
+2008;20, PROPN 
+
+, SPACE 
+22, X 
+Liu, PROPN 
+J, PROPN 
+Xu, PROPN 
+K, PROPN 
+Wen, PROPN 
+G, PROPN 
+Guo, PROPN 
+H, PROPN 
+Li, PROPN 
+S, PROPN 
+Wu, PROPN 
+X, PROPN 
+et, PROPN 
+al, PROPN 
+Comparison, PROPN 
+effects, NOUN 
+genistein, NOUN 
+
+, SPACE 
+zoledronic, ADJ 
+acid, NOUN 
+bone, NOUN 
+loss, NOUN 
+OPG, PROPN 
+de, ADP 
+ﬁcient, NOUN 
+mice, NOUN 
+Bone, NOUN 
+2008;42:950, NOUN 
+9, NUM 
+
+, SPACE 
+23, NUM 
+Martin, PROPN 
+RB, PROPN 
+Sharkey, PROPN 
+NA, PROPN 
+Mechanical, ADJ 
+effects, NOUN 
+postmortem, NOUN 
+changes, NOUN 
+preservation, NOUN 
+
+, SPACE 
+allograft, NOUN 
+bone, NOUN 
+treatments, NOUN 
+Cowin, PROPN 
+SC, PROPN 
+editor, NOUN 
+Bone, NOUN 
+mechanics, NOUN 
+handbook, NOUN 
+New, PROPN 
+York, PROPN 
+CRC, PROPN 
+Press, PROPN 
+2001, NUM 
+
+, SPACE 
+24, NUM 
+McCauley, PROPN 
+LK, PROPN 
+Transgenic, ADJ 
+mouse, NOUN 
+models, NOUN 
+metabolic, NOUN 
+bone, NOUN 
+disease, NOUN 
+Curr, PROPN 
+Opin, PROPN 
+
+, SPACE 
+Rheumatol, PROPN 
+2001;13:316, PROPN 
+25, NUM 
+
+, SPACE 
+25, NUM 
+
+, SPACE 
+McLean, PROPN 
+W, PROPN 
+Olsen, PROPN 
+BR, NOUN 
+Mouse, NOUN 
+models, NOUN 
+abnormal, ADJ 
+skeletal, ADJ 
+development, NOUN 
+andhomeostasis, NOUN 
+Trends, NOUN 
+Genet, PROPN 
+2001;17, PROPN 
+S38, PROPN 
+43, NUM 
+
+, SPACE 
+26, NUM 
+Miller, PROPN 
+LM, PROPN 
+Little, PROPN 
+W, PROPN 
+Schirmer, PROPN 
+Sheik, PROPN 
+F, PROPN 
+Busa, PROPN 
+B, PROPN 
+Judex, PROPN 
+S., PROPN 
+Accretion, PROPN 
+bone, NOUN 
+quantity, NOUN 
+
+, SPACE 
+quality, NOUN 
+developing, VERB 
+mouse, NOUN 
+skeleton, PROPN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+2007;22:1037, PROPN 
+45, NUM 
+
+, SPACE 
+27, NUM 
+Nazarian, PROPN 
+Hermannsson, PROPN 
+BJ, PROPN 
+Muller, PROPN 
+J, PROPN 
+Zurakowski, PROPN 
+D, PROPN 
+Snyder, PROPN 
+BD, PROPN 
+Effects, NOUN 
+tissue, NOUN 
+
+, SPACE 
+preservation, NOUN 
+murine, PROPN 
+bone, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+J, PROPN 
+Biomech, PROPN 
+2008, NUM 
+
+, SPACE 
+28, NUM 
+Price, NOUN 
+C, PROPN 
+Herman, PROPN 
+BC, PROPN 
+Lufkin, PROPN 
+T, PROPN 
+Goldman, PROPN 
+HM, PROPN 
+Jepsen, PROPN 
+KJ, PROPN 
+Genetic, ADJ 
+variation, NOUN 
+bone, NOUN 
+
+, SPACE 
+growth, NOUN 
+patterns, NOUN 
+de, ADP 
+ﬁnes, PROPN 
+adult, NOUN 
+mouse, PROPN 
+bone, NOUN 
+fragility, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+2005;20, PROPN 
+
+, SPACE 
+1983, NUM 
+91, NUM 
+
+, SPACE 
+29, NUM 
+Raum, PROPN 
+K, PROPN 
+Hofmann, PROPN 
+T, PROPN 
+Leguerney, PROPN 
+Saied, PROPN 
+Peyrin, PROPN 
+F, PROPN 
+Vico, PROPN 
+L, PROPN 
+et, PROPN 
+al, PROPN 
+Variations, NOUN 
+
+, SPACE 
+microstructure, NOUN 
+mineral, NOUN 
+density, NOUN 
+tissue, NOUN 
+elasticity, NOUN 
+B6, PROPN 
+C3H, PROPN 
+mice, NOUN 
+Bone2007;41:1017, NOUN 
+24, NUM 
+
+, SPACE 
+30, NUM 
+Rho, NOUN 
+JY, PROPN 
+Pharr, PROPN 
+GM, PROPN 
+Effects, NOUN 
+drying, VERB 
+mechanical, ADJ 
+properties, NOUN 
+bovine, ADJ 
+femur, NOUN 
+
+, SPACE 
+measured, VERB 
+nanoindentation, NOUN 
+J, PROPN 
+Mater, PROPN 
+Sci, PROPN 
+Mater, PROPN 
+Med, PROPN 
+1999;10:485, NOUN 
+8, NUM 
+
+, SPACE 
+31, NUM 
+Rosen, PROPN 
+CJ, PROPN 
+Beamer, PROPN 
+WG, PROPN 
+Donahue, PROPN 
+LR, PROPN 
+De, PROPN 
+ﬁning, VERB 
+genetics, NOUN 
+osteoporosis, NOUN 
+
+, SPACE 
+mouse, NOUN 
+understand, VERB 
+man, NOUN 
+Osteoporos, PROPN 
+Int, PROPN 
+2001;12:803, NOUN 
+10, NUM 
+
+, SPACE 
+32, NUM 
+Schriefer, PROPN 
+JL, PROPN 
+Robling, PROPN 
+AG, PROPN 
+Warden, PROPN 
+SJ, PROPN 
+Fournier, PROPN 
+AJ, PROPN 
+Mason, PROPN 
+JJ, PROPN 
+Turner, PROPN 
+CH, PROPN 
+comparison, NOUN 
+
+, SPACE 
+mechanical, ADJ 
+properties, NOUN 
+derived, VERB 
+multiple, ADJ 
+skeletal, ADJ 
+sites, NOUN 
+mice, NOUN 
+J, PROPN 
+Biomech2005;38:467, PROPN 
+75, NUM 
+
+, SPACE 
+33, NUM 
+Shahar, PROPN 
+R, PROPN 
+Zaslansky, PROPN 
+P, PROPN 
+Barak, PROPN 
+MM, PROPN 
+Friesem, PROPN 
+AA, PROPN 
+Currey, PROPN 
+JD, PROPN 
+Weiner, PROPN 
+S., PROPN 
+Anisotropic, PROPN 
+
+, SPACE 
+Poisson, PROPN 
+ratio, NOUN 
+compression, NOUN 
+modulus, NOUN 
+cortical, ADJ 
+bone, NOUN 
+determined, VERB 
+speckleinterferometry, NOUN 
+J, PROPN 
+Biomech, PROPN 
+2007;40:252, PROPN 
+64, NUM 
+
+, SPACE 
+34, NUM 
+Sharir, PROPN 
+Barak, PROPN 
+MM, PROPN 
+Shahar, PROPN 
+R., PROPN 
+bone, NOUN 
+mechanics, NOUN 
+mechanical, ADJ 
+testing, NOUN 
+Vet, PROPN 
+
+, SPACE 
+J, PROPN 
+2008;177:8, PROPN 
+17, NUM 
+
+, SPACE 
+35, NUM 
+Shifman, PROPN 
+S, PROPN 
+Bell, PROPN 
+JT, PROPN 
+Copley, PROPN 
+RR, PROPN 
+Taylor, PROPN 
+MS, PROPN 
+Williams, PROPN 
+RW, PROPN 
+Mott, PROPN 
+R, PROPN 
+et, PROPN 
+al, PROPN 
+High-, PROPN 
+
+, SPACE 
+resolution, NOUN 
+single, ADJ 
+nucleotide, NOUN 
+polymorphism, NOUN 
+genetic, ADJ 
+map, NOUN 
+mouse, NOUN 
+genome, NOUN 
+
+, SPACE 
+PLoS, PROPN 
+Biol, PROPN 
+2006;4, PROPN 
+e395.89, NUM 
+N.L.-T., PROPN 
+Chattah, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+45, NUM 
+2009, NUM 
+84, NUM 
+90, NUM 
+
+, SPACE 
+36, NUM 
+Silva, PROPN 
+MJ, PROPN 
+Brodt, PROPN 
+MD, PROPN 
+Fan, PROPN 
+Z, PROPN 
+Rho, PROPN 
+JY, PROPN 
+Nanoindentation, NOUN 
+bone, NOUN 
+bending, NOUN 
+
+, SPACE 
+estimates, NOUN 
+material, NOUN 
+properties, NOUN 
+bones, NOUN 
+senescence, NOUN 
+accelerated, VERB 
+mouse, PROPN 
+
+, SPACE 
+SAMP6, PROPN 
+J, PROPN 
+Biomech, PROPN 
+2004;37:1639, PROPN 
+46, NUM 
+
+, SPACE 
+37, NUM 
+Somerville, PROPN 
+JM, PROPN 
+Aspden, PROPN 
+RM, PROPN 
+Armour, PROPN 
+KE, PROPN 
+Armour, PROPN 
+KJ, PROPN 
+Reid, PROPN 
+DM, PROPN 
+Growth, NOUN 
+C57BL/6, PROPN 
+
+, SPACE 
+mice, NOUN 
+material, NOUN 
+mechanical, ADJ 
+properties, NOUN 
+cortical, ADJ 
+bone, NOUN 
+tibia, NOUN 
+
+, SPACE 
+Calcif, PROPN 
+Tissue, PROPN 
+Int, PROPN 
+2004;74:469, ADV 
+75, NUM 
+
+, SPACE 
+38, NUM 
+Tang, PROPN 
+B, PROPN 
+Ngan, PROPN 
+AH, PROPN 
+Lu, PROPN 
+WW, PROPN 
+improved, ADJ 
+method, NOUN 
+measurement, NOUN 
+mechanical, ADJ 
+
+, SPACE 
+properties, NOUN 
+bone, NOUN 
+nanoindentation, NOUN 
+J, PROPN 
+Mater, PROPN 
+Sci, PROPN 
+Mater, PROPN 
+Med, PROPN 
+2007;18:1875, PROPN 
+81, NUM 
+
+, SPACE 
+39, NUM 
+Torcasio, PROPN 
+van, PROPN 
+Oosterwyck, PROPN 
+H, PROPN 
+van, PROPN 
+Lenthe, PROPN 
+GH, PROPN 
+systematic, ADJ 
+errors, NOUN 
+tissue, NOUN 
+
+, SPACE 
+modulus, NOUN 
+murine, NOUN 
+bones, NOUN 
+estimated, VERB 
+point, NOUN 
+bending, NOUN 
+J, PROPN 
+Biomech2008;41(S1):S14, PROPN 
+
+, SPACE 
+40, NUM 
+Turner, PROPN 
+CH, PROPN 
+Burr, PROPN 
+DB, PROPN 
+Basic, ADJ 
+biomechanical, ADJ 
+measurements, NOUN 
+bone, NOUN 
+tutorial, NOUN 
+Bone, NOUN 
+
+, SPACE 
+1993;14:595, NUM 
+608, NUM 
+
+, SPACE 
+41, NUM 
+van, PROPN 
+Lenthe, PROPN 
+GH, PROPN 
+Voide, PROPN 
+R, PROPN 
+Boyd, PROPN 
+SK, PROPN 
+Muller, PROPN 
+R., PROPN 
+Tissue, PROPN 
+modulus, NOUN 
+calculated, VERB 
+beam, NOUN 
+
+, SPACE 
+theory, NOUN 
+biased, VERB 
+bone, NOUN 
+size, NOUN 
+geometry, NOUN 
+implications, NOUN 
+use, NOUN 
+pointbending, VERB 
+tests, NOUN 
+determine, VERB 
+bone, NOUN 
+tissue, NOUN 
+modulus, NOUN 
+Bone, NOUN 
+2008;43:717, NOUN 
+23, NUM 
+
+, SPACE 
+42, NUM 
+Vashishth, PROPN 
+D., PROPN 
+Small, ADJ 
+animal, NOUN 
+bone, NOUN 
+biomechanics, NOUN 
+Bone, NOUN 
+2008;43:794, NOUN 
+7.[43, NUM 
+Wergedal, ADJ 
+JE, PROPN 
+Sheng, PROPN 
+MH, PROPN 
+Ackert, PROPN 
+Bicknell, PROPN 
+CL, PROPN 
+Beamer, PROPN 
+WG, PROPN 
+Baylink, PROPN 
+DJ, PROPN 
+Genetic, ADJ 
+
+, SPACE 
+variation, NOUN 
+femur, ADJ 
+extrinsic, ADJ 
+strength, NOUN 
+29, NUM 
+different, ADJ 
+inbred, VERB 
+strains, NOUN 
+mice, NOUN 
+
+, SPACE 
+dependent, ADJ 
+variations, NOUN 
+femur, ADJ 
+cross, ADJ 
+sectional, ADJ 
+geometry, NOUN 
+bone, NOUN 
+density, NOUN 
+
+, SPACE 
+Bone, NOUN 
+2005;36:111, NOUN 
+22, NUM 
+
+, SPACE 
+44, NUM 
+Yang, PROPN 
+L, PROPN 
+Zhang, PROPN 
+P, PROPN 
+Liu, PROPN 
+S, PROPN 
+Samala, PROPN 
+PR, PROPN 
+Su, PROPN 
+M, PROPN 
+Yokota, PROPN 
+H., PROPN 
+Measurement, PROPN 
+strain, NOUN 
+
+, SPACE 
+distributions, NOUN 
+mouse, PROPN 
+femora, PROPN 
+3D, ADJ 
+digital, ADJ 
+speckle, NOUN 
+pattern, NOUN 
+interferometry, NOUN 
+Opt, PROPN 
+
+, SPACE 
+Lasers, PROPN 
+Eng, PROPN 
+2007;45:843, NOUN 
+51, NUM 
+
+, SPACE 
+45, NUM 
+Zaslansky, PROPN 
+P, PROPN 
+Currey, PROPN 
+JD, PROPN 
+Friesem, PROPN 
+AA, PROPN 
+Weiner, PROPN 
+S., PROPN 
+Phase, PROPN 
+shifting, VERB 
+speckle, NOUN 
+interfero-, NUM 
+
+, SPACE 
+metry, NOUN 
+determination, NOUN 
+strain, NOUN 
+Young, PROPN 
+modulus, NOUN 
+mineralized, ADJ 
+biologicalmaterials, NOUN 
+study, NOUN 
+tooth, NOUN 
+dentin, ADJ 
+compression, NOUN 
+water, NOUN 
+J, PROPN 
+Biomed, PROPN 
+Opt, PROPN 
+2005;10, PROPN 
+
+, SPACE 
+024020, NUM 
+
+, SPACE 
+46, NUM 
+Zaslansky, PROPN 
+P, PROPN 
+Friesem, PROPN 
+AA, PROPN 
+Weiner, PROPN 
+S., PROPN 
+Structure, PROPN 
+mechanical, ADJ 
+properties, NOUN 
+soft, ADJ 
+
+, SPACE 
+zone, NOUN 
+separating, VERB 
+bulk, ADJ 
+dentin, NOUN 
+enamel, VERB 
+crowns, NOUN 
+human, ADJ 
+teeth, NOUN 
+insight, NOUN 
+intotooth, NOUN 
+function, NOUN 
+J, PROPN 
+Struct, PROPN 
+Biol, PROPN 
+2006;153:188, NUM 
+99, NUM 
+
+, SPACE 
+47, NUM 
+Zaslansky, PROPN 
+P, PROPN 
+Shahar, PROPN 
+R, PROPN 
+Friesem, PROPN 
+AA, PROPN 
+Weiner, PROPN 
+S., PROPN 
+Relations, PROPN 
+shape, NOUN 
+materials, NOUN 
+
+, SPACE 
+properties, NOUN 
+function, NOUN 
+biological, ADJ 
+materials, NOUN 
+laser, NOUN 
+speckle, NOUN 
+interferometry, NOUN 
+
+, SPACE 
+situ, NOUN 
+tooth, NOUN 
+deformation, NOUN 
+Adv, PROPN 
+Funct, PROPN 
+Mat, PROPN 
+2006;16:1925, PROPN 
+36.90, NUM 
+N.L.-T., PROPN 
+Chattah, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+45, NUM 
+2009, NUM 
+84, NUM 
+90, NUM 
+
+, SPACE 

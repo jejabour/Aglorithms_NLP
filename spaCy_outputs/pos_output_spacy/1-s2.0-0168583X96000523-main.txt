@@ -1,0 +1,3375 @@
+s, X 
+EB, PROPN 
+Nuclear, PROPN 
+Instruments, PROPN 
+Methods, PROPN 
+Physics, PROPN 
+Research, PROPN 
+B, PROPN 
+114, NUM 
+1996, NUM 
+252, NUM 
+258, NUM 
+
+, SPACE 
+ELSEVIER, NOUN 
+NIOMI, PROPN 
+B, PROPN 
+Beam, PROPN 
+Interactions, PROPN 
+
+, SPACE 
+Materials&Atoms, NOUN 
+
+, SPACE 
+Multiple, ADJ 
+beam, NOUN 
+ion, NOUN 
+channeling, VERB 
+patterns, NOUN 
+
+, SPACE 
+M.B.H., PROPN 
+Breese, PROPN 
+
+, SPACE 
+SPM, PROPN 
+Unit, PROPN 
+Nuclear, PROPN 
+Physics, PROPN 
+Laboratory, PROPN 
+University, PROPN 
+Oxford, PROPN 
+Keble, PROPN 
+Road, PROPN 
+Oxford, PROPN 
+OX1, PROPN 
+3RH, PROPN 
+UK, PROPN 
+
+, SPACE 
+Received, VERB 
+5, NUM 
+December, PROPN 
+1995, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+paper, NOUN 
+describes, VERB 
+production, NOUN 
+uses, NOUN 
+multiple, ADJ 
+beam, NOUN 
+ion, NOUN 
+channeling, VERB 
+patterns, NOUN 
+generated, VERB 
+nuclear, ADJ 
+
+, SPACE 
+microprobe, NOUN 
+Multiple, ADJ 
+beams, NOUN 
+produced, VERB 
+splitting, VERB 
+single, ADJ 
+3, NUM 
+MeV, PROPN 
+proton, NOUN 
+beam, NOUN 
+diverging, VERB 
+object, NOUN 
+aperture, ADV 
+
+, SPACE 
+beams, NOUN 
+different, ADJ 
+trajectories, NOUN 
+beams, NOUN 
+incident, NOUN 
+surface, NOUN 
+0.3, NUM 
+km, NOUN 
+thick, ADJ 
+lOO, NOUN 
+silicon, NOUN 
+
+, SPACE 
+crystal, NOUN 
+produce, VERB 
+superposed, VERB 
+channeling, VERB 
+patterns, NOUN 
+Multiple, ADJ 
+beam, NOUN 
+patterns, NOUN 
+produced, VERB 
+quadrupole, NOUN 
+lenses, NOUN 
+
+, SPACE 
+nuclear, ADJ 
+microprobe, NOUN 
+switched, VERB 
+shown, VERB 
+relationship, NOUN 
+different, ADJ 
+contrast, NOUN 
+observed, VERB 
+
+, SPACE 
+conditions, NOUN 
+described, VERB 
+Multiple, ADJ 
+beam, NOUN 
+patterns, NOUN 
+understand, VERB 
+recent, ADJ 
+results, NOUN 
+showing, VERB 
+channeling, VERB 
+patterns, NOUN 
+
+, SPACE 
+produced, VERB 
+thin, ADJ 
+rotated, VERB 
+crystal, NOUN 
+bilayers, NOUN 
+strained, ADJ 
+layers, NOUN 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+confirmations, NOUN 
+effect, NOUN 
+crystal, NOUN 
+
+, SPACE 
+structure, NOUN 
+ion, NOUN 
+trajectories, NOUN 
+matter, NOUN 
+produc-, ADJ 
+
+, SPACE 
+tion, NOUN 
+blocking, VERB 
+star, NOUN 
+patterns, NOUN 
+collimated, VERB 
+
+, SPACE 
+unfocused, ADJ 
+MeV, PROPN 
+ion, NOUN 
+beams, NOUN 
+considerable, ADJ 
+
+, SPACE 
+subsequent, ADJ 
+development, NOUN 
+use, NOUN 
+ion, NOUN 
+channeling, VERB 
+
+, SPACE 
+patterns, NOUN 
+identify, VERB 
+different, ADJ 
+types, NOUN 
+crystal, NOUN 
+structures, NOUN 
+
+, SPACE 
+described, VERB 
+Ref, PROPN 
+chapter, NOUN 
+11, NUM 
+Ref, PROPN 
+Z, X 
+
+, SPACE 
+work, NOUN 
+measuring, VERB 
+interpreting, VERB 
+channeling, VERB 
+patterns, NOUN 
+
+, SPACE 
+reviewed, VERB 
+Ref, PROPN 
+3, X 
+
+, SPACE 
+channeling, VERB 
+patterns, NOUN 
+recorded, VERB 
+transmission, NOUN 
+
+, SPACE 
+thin, ADJ 
+crystals, NOUN 
+increased, VERB 
+intensity, NOUN 
+transmitted, VERB 
+ions, NOUN 
+
+, SPACE 
+produced, VERB 
+incident, NOUN 
+beam, NOUN 
+aligned, VERB 
+chan-, ADJ 
+
+, SPACE 
+neling, NOUN 
+direction, NOUN 
+4, NUM 
+Channels, NOUN 
+away, ADV 
+beam, NOUN 
+direc-, PART 
+
+, SPACE 
+tion, NOUN 
+reduced, VERB 
+intensity, NOUN 
+owing, VERB 
+blocking, VERB 
+5, NUM 
+
+, SPACE 
+recent, ADJ 
+renewed, VERB 
+interest, NOUN 
+produc-, ADJ 
+
+, SPACE 
+tion, NOUN 
+interpretation, NOUN 
+applications, NOUN 
+ion, NOUN 
+channeling, VERB 
+pat-, X 
+
+, SPACE 
+terns, VERB 
+thin, ADJ 
+crystals, NOUN 
+nuclear, ADJ 
+microprobe, NOUN 
+
+, SPACE 
+3,6,7, NUM 
+use, NOUN 
+focused, ADJ 
+convergent, NOUN 
+proton, NOUN 
+beam, NOUN 
+
+, SPACE 
+allowed, VERB 
+production, NOUN 
+selected, VERB 
+area, NOUN 
+conver-, NOUN 
+
+, SPACE 
+gent, NOUN 
+beam, NOUN 
+patterns, NOUN 
+3, NUM 
+enabled, VERB 
+coherent, ADJ 
+planar, NOUN 
+
+, SPACE 
+oscillations, NOUN 
+thin, ADJ 
+silicon, NOUN 
+crystals, NOUN 
+directly, ADV 
+
+, SPACE 
+observed, VERB 
+paper, NOUN 
+described, VERB 
+nuclear, ADJ 
+
+, SPACE 
+microprobe, NOUN 
+beam, NOUN 
+crystal, NOUN 
+alignment, NOUN 
+
+, SPACE 
+changing, VERB 
+incident, NOUN 
+angle, NOUN 
+focused, ADJ 
+beam, NOUN 
+instead, ADV 
+
+, SPACE 
+tilting, VERB 
+crystal, NOUN 
+usual, ADJ 
+manner, NOUN 
+
+, SPACE 
+Tel, PROPN 
++, SYM 
+44, NUM 
+1865, NUM 
+273439, NUM 
+fax, NOUN 
+44, NUM 
+1865, NUM 
+273418, NUM 
+e, NOUN 
+mail, NOUN 
+
+, SPACE 
+breese@physics.ox.ac.uk, NOUN 
+Ion, NOUN 
+channeling, VERB 
+patterns, NOUN 
+recently, ADV 
+
+, SPACE 
+observe, VERB 
+quantify, VERB 
+strain, NOUN 
+present, ADJ 
+Si, PROPN 
+1, NUM 
+.Ge,/Si, PUNCT 
+
+, SPACE 
+strained, ADJ 
+layers, NOUN 
+7, NUM 
+modelled, VERB 
+experimentally, ADV 
+
+, SPACE 
+recording, VERB 
+channeling, VERB 
+patterns, NOUN 
+produced, VERB 
+3, NUM 
+MeV, PROPN 
+
+, SPACE 
+protons, NOUN 
+transmitted, VERB 
+thin, ADJ 
+1001, NUM 
+crystals, NOUN 
+
+, SPACE 
+small, ADJ 
+rotation, NOUN 
+angle, NOUN 
+sample, NOUN 
+
+, SPACE 
+Si,,s, PROPN 
+Ge,,,/Si, PROPN 
+rotation, NOUN 
+angle, NOUN 
+
+, SPACE 
+bilayer, NOUN 
+interface, NOUN 
+normal, ADJ 
+directions, NOUN 
+
+, SPACE 
+strain, NOUN 
+induced, VERB 
+tetragonal, ADJ 
+lattice, NOUN 
+distortion, NOUN 
+sample, NOUN 
+
+, SPACE 
+thinned, VERB 
+1, NUM 
+km, NOUN 
+produce, VERB 
+
+, SPACE 
+channeling, VERB 
+patterns, NOUN 
+beam, NOUN 
+aligned, VERB 
+close, ADV 
+
+, SPACE 
+11, NUM 
+l, NOUN 
+axes, NOUN 
+different, ADJ 
+layers, NOUN 
+present, ADJ 
+patterns, NOUN 
+
+, SPACE 
+enabled, VERB 
+strain, NOUN 
+present, ADJ 
+Si, PROPN 
+s, PROPN 
+Ge, PROPN 
+
+, SPACE 
+layer, NOUN 
+measured, VERB 
+
+, SPACE 
+aim, NOUN 
+present, ADJ 
+paper, NOUN 
+relate, VERB 
+
+, SPACE 
+focusing, VERB 
+action, NOUN 
+nuclear, ADJ 
+microprobe, NOUN 
+new, ADJ 
+types, NOUN 
+
+, SPACE 
+channeling, VERB 
+patterns, NOUN 
+produced, VERB 
+second, ADJ 
+aim, NOUN 
+
+, SPACE 
+add, VERB 
+interpretation, NOUN 
+previous, ADJ 
+work, NOUN 
+channel-, PROPN 
+
+, SPACE 
+ing, PROPN 
+patterns, NOUN 
+generated, VERB 
+rotated, VERB 
+bilayers, NOUN 
+strained, ADJ 
+
+, SPACE 
+layers, NOUN 
+comparison, NOUN 
+multiple, ADJ 
+beam, NOUN 
+patterns, NOUN 
+pro-, PROPN 
+
+, SPACE 
+duced, VERB 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+
+, SPACE 
+channeling, VERB 
+patterns, NOUN 
+shown, VERB 
+paper, NOUN 
+utilise, VERB 
+
+, SPACE 
+doughnut, NOUN 
+distribution, NOUN 
+produced, VERB 
+3, NUM 
+MeV, NOUN 
+
+, SPACE 
+proton, PROPN 
+beam, NOUN 
+tilted, VERB 
+slightly, ADV 
+away, ADV 
+silicon, NOUN 
+lo01, PROPN 
+
+, SPACE 
+l, PROPN 
+lo, PROPN 
+axes, NOUN 
+thin, ADJ 
+crystal, NOUN 
+doughnuts, NOUN 
+
+, SPACE 
+previously, ADV 
+investigated, VERB 
+Rosner, PROPN 
+et, PROPN 
+al, PROPN 
+8, NUM 
+
+, SPACE 
+studied, VERB 
+intensity, NOUN 
+distribution, NOUN 
+3.2, NUM 
+MeV, NOUN 
+protons, NOUN 
+trans-, AUX 
+
+, SPACE 
+mitted, VERB 
+silicon, NOUN 
+crystals, NOUN 
+1, NUM 
+km, NOUN 
+thick, ADJ 
+
+, SPACE 
+noted, VERB 
+angular, ADJ 
+extent, NOUN 
+doughnuts, NOUN 
+
+, SPACE 
+proportional, ADJ 
+tilt, NOUN 
+angle, NOUN 
+1, NUM 
+lo, X 
+axis, NOUN 
+away, ADV 
+
+, SPACE 
+beam, NOUN 
+axis, NOUN 
+tilt, NOUN 
+angles, VERB 
+axial, ADJ 
+channeling, VERB 
+
+, SPACE 
+critical, ADJ 
+angle, NOUN 
+azimuthal, ADJ 
+intensity, NOUN 
+distribution, NOUN 
+
+, SPACE 
+0168, NUM 
+583X/96/$15.00, NUM 
+Copyright, PROPN 
+Q, PROPN 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+SD2, PROPN 
+0168, PROPN 
+583X(96)00052, NUM 
+3, NUM 
+
+, SPACE 
+M.B.H., PROPN 
+Breese, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+I14, PROPN 
+1996, NUM 
+252, NUM 
+258, NUM 
+253, NUM 
+
+, SPACE 
+doughnuts, NOUN 
+non, ADJ 
+uniform, ADJ 
+reflected, VERB 
+crystal, NOUN 
+sym-, NOUN 
+
+, SPACE 
+metry, NOUN 
+caused, VERB 
+major, ADJ 
+channeling, VERB 
+planes, NOUN 
+crossing, VERB 
+
+, SPACE 
+crystal, NOUN 
+axis, NOUN 
+
+, SPACE 
+2, X 
+Production, NOUN 
+multiple, ADJ 
+beam, NOUN 
+channeling, VERB 
+patterns, NOUN 
+
+, SPACE 
+crystal, NOUN 
+work, NOUN 
+0.3, NUM 
+pm, NOUN 
+thick, ADJ 
+
+, SPACE 
+self, NOUN 
+supporting, VERB 
+IOO, PROPN 
+silicon, NOUN 
+membrane, NOUN 
+thin, ADJ 
+region, NOUN 
+
+, SPACE 
+approximately, ADV 
+8, NUM 
+mm, NOUN 
+diameter, NOUN 
+prepared, VERB 
+
+, SPACE 
+University, PROPN 
+Florida, PROPN 
+according, VERB 
+method, NOUN 
+developed, VERB 
+
+, SPACE 
+Cheung, PROPN 
+9, NUM 
+Boron, PROPN 
+diffused, VERB 
+blank, ADJ 
+
+, SPACE 
+silicon, NOUN 
+wafer, NOUN 
+lOOO”C, NOUN 
+masked, VERB 
+area, NOUN 
+
+, SPACE 
+selectively, ADV 
+etched, VERB 
+produce, VERB 
+dislocation, NOUN 
+free, ADJ 
+thin, ADJ 
+layer, NOUN 
+
+, SPACE 
+detectable, ADJ 
+variation, NOUN 
+crystallographic, ADJ 
+
+, SPACE 
+orientation, NOUN 
+crystal, NOUN 
+procedure, NOUN 
+
+, SPACE 
+crystal, NOUN 
+measured, ADJ 
+thickness, NOUN 
+typically, ADV 
+varies, VERB 
++, PROPN 
+100, NUM 
+
+, SPACE 
+nm, NOUN 
+variation, NOUN 
+large, ADJ 
+detect, VERB 
+coherent, ADJ 
+
+, SPACE 
+planar, NOUN 
+oscillations, NOUN 
+channeling, VERB 
+patterns, NOUN 
+3, X 
+crystal, NOUN 
+
+, SPACE 
+thick, ADJ 
+coherent, ADJ 
+axial, ADJ 
+channeling, VERB 
+oscillations, NOUN 
+
+, SPACE 
+affect, VERB 
+observed, VERB 
+patterns, NOUN 
+lo, X 
+
+, SPACE 
+ion, NOUN 
+optics, NOUN 
+nuclear, ADJ 
+microprobes, NOUN 
+fully, ADV 
+de-, ADJ 
+
+, SPACE 
+scribed, VERB 
+Ref, PROPN 
+Ill, PROPN 
+suffices, VERB 
+nuclear, ADJ 
+
+, SPACE 
+microprobe, NOUN 
+uses, VERB 
+magnetic, ADJ 
+quadrupole, NOUN 
+lenses, NOUN 
+
+, SPACE 
+focus, VERB 
+low, ADJ 
+divergence, NOUN 
+MeV, PROPN 
+light, NOUN 
+ion, NOUN 
+beam, NOUN 
+passing, VERB 
+
+, SPACE 
+object, NOUN 
+aperture, ADV 
+small, ADJ 
+spot, NOUN 
+higher, ADJ 
+
+, SPACE 
+convergence, NOUN 
+angle, NOUN 
+crystal, NOUN 
+surface, NOUN 
+shown, VERB 
+
+, SPACE 
+lower, ADJ 
+half, NOUN 
+Fig, PROPN 
+1, NUM 
+beam, NOUN 
+divergence, NOUN 
+half, ADJ 
+angle, NOUN 
+
+, SPACE 
+object, NOUN 
+aperture, NOUN 
+0, NUM 
+horizontal, ADJ 
+x, NOUN 
+direction, NOUN 
+
+, SPACE 
+$, SYM 
+c, NOUN 
+vertical, ADJ 
+y, PROPN 
+direction, NOUN 
+
+, SPACE 
+beam, NOUN 
+axis, NOUN 
+m, PROPN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Schematic, ADJ 
+diagram, NOUN 
+showing, VERB 
+production, NOUN 
+multiple, ADJ 
+
+, SPACE 
+beams, NOUN 
+nuclear, ADJ 
+microprobe, NOUN 
+horizontal, ADJ 
+direction, NOUN 
+
+, SPACE 
+shown, VERB 
+beam, NOUN 
+angle, NOUN 
+axis, NOUN 
+0, NUM 
+vertical, ADJ 
+
+, SPACE 
+direction, NOUN 
+beam, NOUN 
+angle, NOUN 
+beam, NOUN 
+axis, NOUN 
+4, NUM 
+gives, VERB 
+
+, SPACE 
+similar, ADJ 
+effect, NOUN 
+upper, ADJ 
+half, NOUN 
+quadrupole, NOUN 
+lenses, VERB 
+arc, PROPN 
+switched, VERB 
+
+, SPACE 
+lower, ADJ 
+half, NOUN 
+switched, VERB 
+cases, NOUN 
+
+, SPACE 
+separate, ADJ 
+beams, NOUN 
+hit, VERB 
+crystal, NOUN 
+surface, NOUN 
+resultant, NOUN 
+channeling, VERB 
+
+, SPACE 
+pattern, NOUN 
+observed, VERB 
+viewing, VERB 
+screen, NOUN 
+located, VERB 
+680, NUM 
+mm, NOUN 
+
+, SPACE 
+downstream, ADJ 
+stated, VERB 
+vertical, ADJ 
+size, NOUN 
+
+, SPACE 
+aperture, NOUN 
+lenses, NOUN 
+crystal, NOUN 
+viewing, VERB 
+screen, NOUN 
+scale, VERB 
+production, NOUN 
+of.multiple, NOUN 
+beams, NOUN 
+nuclear, ADJ 
+micro-, NOUN 
+
+, SPACE 
+probe, NOUN 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+shown, VERB 
+
+, SPACE 
+schematically, ADV 
+upper, ADJ 
+half, NOUN 
+Fig, PROPN 
+1, NUM 
+
+, SPACE 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+lower, ADJ 
+half, NOUN 
+
+, SPACE 
+cases, NOUN 
+beam, NOUN 
+diverges, VERB 
+object, NOUN 
+aperture, NOUN 
+
+, SPACE 
+uniformly, ADV 
+illuminates, VERB 
+collimator, NOUN 
+aperture, ADV 
+5, NUM 
+m, NOUN 
+
+, SPACE 
+downstream, ADJ 
+defines, VERB 
+beam, ADJ 
+divergence, NOUN 
+
+, SPACE 
+quadrupole, NOUN 
+lenses, NOUN 
+production, NOUN 
+multiple, ADJ 
+beams, NOUN 
+
+, SPACE 
+coarse, ADJ 
+mesh, NOUN 
+grid, NOUN 
+series, NOUN 
+drilled, ADJ 
+holes, NOUN 
+metal, NOUN 
+
+, SPACE 
+plate, NOUN 
+strands, NOUN 
+wire, NOUN 
+placed, VERB 
+collimator, NOUN 
+
+, SPACE 
+aperture, NOUN 
+beam, NOUN 
+portions, NOUN 
+intercepted, VERB 
+
+, SPACE 
+grid, NOUN 
+bars, NOUN 
+strands, NOUN 
+wire, NOUN 
+stopped, VERB 
+heavily, ADV 
+
+, SPACE 
+scattered, VERB 
+absent, ADJ 
+remaining, VERB 
+beam, NOUN 
+hits, VERB 
+
+, SPACE 
+crystal, NOUN 
+surface, NOUN 
+separate, ADJ 
+beams, NOUN 
+pass, VERB 
+
+, SPACE 
+collimator, NOUN 
+aperture, NOUN 
+slightly, ADV 
+different, ADJ 
+trajec-, NOUN 
+
+, SPACE 
+tories, NOUN 
+crystal, NOUN 
+surface, NOUN 
+
+, SPACE 
+example, NOUN 
+consider, VERB 
+3, NUM 
+MeV, NOUN 
+proton, NOUN 
+beam, NOUN 
+passing, VERB 
+
+, SPACE 
+half, NOUN 
+millimetre, NOUN 
+diameter, NOUN 
+holes, NOUN 
+separated, VERB 
+2, NUM 
+
+, SPACE 
+mm, NOUN 
+collimator, NOUN 
+aperture, ADV 
+separate, ADJ 
+beams, NOUN 
+
+, SPACE 
+pass, VERB 
+aperture, NOUN 
+differ, VERB 
+divergence, NOUN 
+angle, NOUN 
+
+, SPACE 
+0.025, NUM 
+0.4, NUM 
+mrad, NOUN 
+small, ADJ 
+compared, VERB 
+
+, SPACE 
+lOOI, PROPN 
+l, NOUN 
+lo, X 
+characteristic, ADJ 
+axial, ADJ 
+channeling, NOUN 
+angles, NOUN 
+
+, SPACE 
+silicon, NOUN 
+$, SYM 
+=, NOUN 
+0.28, NUM 
+0.34, NUM 
+respectively, ADV 
+3, NUM 
+MeV, NOUN 
+
+, SPACE 
+protons, NOUN 
+quadnrpole, ADJ 
+lenses, NOUN 
+switched, VERB 
+
+, SPACE 
+separate, ADJ 
+beams, NOUN 
+incident, NOUN 
+different, ADJ 
+parts, NOUN 
+
+, SPACE 
+crystal, NOUN 
+surface, NOUN 
+approximately, ADV 
+beam-, NOUN 
+
+, SPACE 
+crystal, NOUN 
+alignment, NOUN 
+shown, VERB 
+upper, ADJ 
+half, NOUN 
+Fig, PROPN 
+1, NUM 
+
+, SPACE 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+focusing, VERB 
+
+, SPACE 
+action, NOUN 
+quadrupole, PROPN 
+multiplet, NOUN 
+results, NOUN 
+beam, NOUN 
+
+, SPACE 
+crystal, NOUN 
+surface, NOUN 
+demagnified, ADJ 
+image, NOUN 
+object, NOUN 
+
+, SPACE 
+aperture, NOUN 
+convergence, NOUN 
+half, ADJ 
+angle, NOUN 
+t+, NOUN 
+=, PRON 
+D,0, X 
+
+, SPACE 
+x, NOUN 
+direction, NOUN 
+=, PROPN 
+D,$, PROPN 
+y, PROPN 
+direction, NOUN 
+
+, SPACE 
+D, PROPN 
+D, PROPN 
+demagnifications, NOUN 
+x, PROPN 
+y, PROPN 
+directions, NOUN 
+
+, SPACE 
+respectively, ADV 
+Oxford, PROPN 
+nuclear, ADJ 
+microprobe, NOUN 
+uses, VERB 
+triplet, NOUN 
+
+, SPACE 
+configuration, NOUN 
+quadrupole, PROPN 
+lenses, NOUN 
+12, NUM 
+demagnifica-, PROPN 
+
+, SPACE 
+tions, NOUN 
+D, PROPN 
+80, NUM 
+D, NOUN 
+23, NUM 
+Protons, NOUN 
+different, ADJ 
+
+, SPACE 
+divergence, NOUN 
+angles, VERB 
+quadrupole, NOUN 
+triplet, NOUN 
+
+, SPACE 
+focused, VERB 
+point, NOUN 
+crystal, NOUN 
+surface, NOUN 
+
+, SPACE 
+greater, ADJ 
+difference, NOUN 
+divergence, NOUN 
+angle, NOUN 
+shown, VERB 
+
+, SPACE 
+lower, ADJ 
+half, NOUN 
+Fig, PROPN 
+1, NUM 
+beams, NOUN 
+separated, VERB 
+
+, SPACE 
+0.025, NUM 
+collimator, NOUN 
+aperture, NOUN 
+demagnifying, VERB 
+
+, SPACE 
+effect, NOUN 
+lenses, NOUN 
+means, VERB 
+beams, NOUN 
+sepa-, AUX 
+
+, SPACE 
+rated, VERB 
+2, NUM 
+horizontal, ADJ 
+direction, NOUN 
+crystal, NOUN 
+
+, SPACE 
+surface, NOUN 
+0.6, NUM 
+vertical, ADJ 
+direction, NOUN 
+angles, NOUN 
+
+, SPACE 
+larger, ADJ 
+axial, ADJ 
+channeling, NOUN 
+angles, NOUN 
+3, NUM 
+
+, SPACE 
+MeV, PROPN 
+protons, NOUN 
+unsuitable, ADJ 
+types, NOUN 
+
+, SPACE 
+patterns, NOUN 
+described, VERB 
+Instead, ADV 
+strands, NOUN 
+wire, NOUN 
+
+, SPACE 
+diameter, NOUN 
+150, NUM 
+pm, NOUN 
+collimator, NOUN 
+aperture, NOUN 
+
+, SPACE 
+produce, VERB 
+multiple, ADJ 
+beam, NOUN 
+channeling, VERB 
+patterns, NOUN 
+
+, SPACE 
+produced, VERB 
+lenses, NOUN 
+switched, VERB 
+produced, VERB 
+
+, SPACE 
+focused, VERB 
+beams, NOUN 
+separated, VERB 
+0.15, NUM 
+horizontal, ADJ 
+
+, SPACE 
+beam, NOUN 
+direction, NOUN 
+crystal, NOUN 
+surface, NOUN 
+
+, SPACE 
+1001, NUM 
+1, NUM 
+lo, PROPN 
+axial, ADJ 
+channeling, NOUN 
+angles, NOUN 
+neces-, NOUN 
+
+, SPACE 
+sary, ADJ 
+condition, NOUN 
+producing, VERB 
+multiple, ADJ 
+beam, NOUN 
+patterns, NOUN 
+
+, SPACE 
+described, VERB 
+Section, NOUN 
+3.2, NUM 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+summarises, NOUN 
+spatial, ADJ 
+angular, ADJ 
+relationship, NOUN 
+
+, SPACE 
+254, NUM 
+M.B.H., PROPN 
+Breese, PROPN 
+NucI., PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+114, NUM 
+I996, PROPN 
+252, NUM 
+258, NUM 
+
+, SPACE 
+t, PROPN 
+iio, PROPN 
+
+, SPACE 
+g4, PROPN 
+L, NOUN 
+llO>-, PROPN 
+
+, SPACE 
+-0, NOUN 
+-to, ADP 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Examples, NOUN 
+spatial, ADJ 
+b, X 
+angular, ADJ 
+representations, NOUN 
+separate, ADJ 
+beams, NOUN 
+incident, NOUN 
+surface, NOUN 
+IOOJ, PROPN 
+silicon, NOUN 
+crystal, NOUN 
+
+, SPACE 
+IO, PROPN 
+planes, NOUN 
+shown, VERB 
+example, NOUN 
+beams, NOUN 
+channeled, VERB 
+horizontally, ADV 
+running, VERB 
+110, NUM 
+planes, NOUN 
+
+, SPACE 
+vertically, ADJ 
+rumtiug, ADJ 
+li0, ADJ 
+planes, NOUN 
+coordinates, NOUN 
+separate, ADJ 
+beams, NOUN 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+shown, VERB 
+hollow, ADJ 
+
+, SPACE 
+squares, NOUN 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+smaller, ADJ 
+solid, ADJ 
+squares, NOUN 
+
+, SPACE 
+separate, ADJ 
+beams, NOUN 
+crystal, NOUN 
+surface, NOUN 
+
+, SPACE 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+multiple, ADJ 
+beams, NOUN 
+
+, SPACE 
+approximately, ADV 
+divergence, NOUN 
+angle, NOUN 
+
+, SPACE 
+crystal, NOUN 
+surface, NOUN 
+Fig, PROPN 
+2b, PROPN 
+incident, NOUN 
+different, ADJ 
+posi-, ADJ 
+
+, SPACE 
+tions, NOUN 
+Fig, PROPN 
+2a, PROPN 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+
+, SPACE 
+multiple, ADJ 
+beams, NOUN 
+widely, ADV 
+different, ADJ 
+divergence, NOUN 
+an-, CCONJ 
+
+, SPACE 
+gles, NOUN 
+Fig, PROPN 
+2b, PROPN 
+hit, VERB 
+crystal, NOUN 
+position, NOUN 
+Fig, PROPN 
+
+, SPACE 
+2a, PROPN 
+proton, NOUN 
+beam, NOUN 
+current, NOUN 
+lo-100, PROPN 
+pA, PROPN 
+
+, SPACE 
+produce, VERB 
+channeling, VERB 
+patterns, NOUN 
+channeling, NOUN 
+pat-, X 
+
+, SPACE 
+terns, NOUN 
+produced, VERB 
+fluorescent, ADJ 
+viewing, VERB 
+screen, NOUN 
+con-, VERB 
+
+, SPACE 
+sisting, NOUN 
+willemite, NOUN 
+ZnSiO, NOUN 
+Mn, PROPN 
+located, VERB 
+680, NUM 
+mm, NUM 
+down-, NUM 
+
+, SPACE 
+stream, NOUN 
+crystal, NOUN 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+patterns, NOUN 
+
+, SPACE 
+photographed, VERB 
+25, NUM 
+ASA, PROPN 
+technical, PROPN 
+pan, PROPN 
+black, ADJ 
+
+, SPACE 
+white, ADJ 
+film, NOUN 
+30, NUM 
+s, PART 
+exposure, NOUN 
++4, NOUN 
+diopter, NOUN 
+lenses, NOUN 
+
+, SPACE 
+enlarge, VERB 
+patterns, NOUN 
+camera, NOUN 
+film, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Patterns, NOUN 
+recorded, VERB 
+single, ADJ 
+0.3, NUM 
+pm, NOUN 
+thick, ADJ 
+silicon, NOUN 
+crystal, NOUN 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+Fig, PROPN 
+3f, X 
+>, X 
+
+, SPACE 
+separate, ADJ 
+beams, NOUN 
+hitting, VERB 
+viewing, VERB 
+screen, NOUN 
+b, X 
+Showing, VERB 
+planar, NOUN 
+oscillations, NOUN 
+beams, NOUN 
+horizontally, ADV 
+running, VERB 
+1, NUM 
+IO, PROPN 
+planes, NOUN 
+
+, SPACE 
+c, NOUN 
+interlocking, VERB 
+rings, NOUN 
+produced, VERB 
+aligning, VERB 
+crystal, NOUN 
+IOO, PROPN 
+axis, VERB 
+0.15, NUM 
+away, ADV 
+beam, NOUN 
+axis, NOUN 
+IO, PROPN 
+planes, NOUN 
+Cd, PROPN 
+
+, SPACE 
+separate, ADJ 
+beams, NOUN 
+hitting, VERB 
+viewing, VERB 
+screen, NOUN 
+e, NOUN 
+Olympic, ADJ 
+symbol, NOUN 
+produced, VERB 
+tive, NOUN 
+beams, NOUN 
+aligned, VERB 
+close, ADV 
+IO, PROPN 
+axis, NOUN 
+f, X 
+Pattern, PROPN 
+
+, SPACE 
+produced, VERB 
+beams, NOUN 
+aligned, VERB 
+close, ADV 
+loo, PROPN 
+axes, NOUN 
+quadrupole, NOUN 
+Ienses, NOUN 
+partially, ADV 
+switched, VERB 
+pattern, NOUN 
+
+, SPACE 
+discussed, VERB 
+Section, NOUN 
+3.3, NUM 
+
+, SPACE 
+3, X 
+Multiple, ADJ 
+beam, NOUN 
+channeling, VERB 
+patterns, NOUN 
+
+, SPACE 
+3.1, NUM 
+Lenses, NOUN 
+switched, VERB 
+
+, SPACE 
+Fig, PROPN 
+3a, PROPN 
+shows, VERB 
+separate, ADJ 
+proton, NOUN 
+beams, NOUN 
+hitting, VERB 
+
+, SPACE 
+viewing, VERB 
+screen, NOUN 
+crystal, NOUN 
+removed, VERB 
+beam, NOUN 
+
+, SPACE 
+axis, NOUN 
+metal, NOUN 
+plate, NOUN 
+located, VERB 
+collimator, NOUN 
+aperture, ADV 
+
+, SPACE 
+half, NOUN 
+millimeter, NOUN 
+diameter, NOUN 
+holes, NOUN 
+drilled, VERB 
+2, NUM 
+mm, NOUN 
+apart, ADV 
+
+, SPACE 
+produce, VERB 
+separate, ADJ 
+beams, NOUN 
+lenses, NOUN 
+
+, SPACE 
+switched, VERB 
+beams, NOUN 
+differ, VERB 
+angle, NOUN 
+0.025, NUM 
+
+, SPACE 
+angular, ADJ 
+width, NOUN 
+0.006, NUM 
+Fig, PROPN 
+3b, NOUN 
+
+, SPACE 
+horizontally, ADV 
+running, VERB 
+110, NUM 
+planes, NOUN 
+aligned, VERB 
+
+, SPACE 
+beam, NOUN 
+axis, NOUN 
+separate, ADJ 
+beams, NOUN 
+hit, VERB 
+different, ADJ 
+re-, ADP 
+
+, SPACE 
+gions, NOUN 
+crystal, NOUN 
+travel, VERB 
+slightly, ADV 
+different, ADJ 
+
+, SPACE 
+thicknesses, NOUN 
+emerge, VERB 
+different, ADJ 
+angles, NOUN 
+
+, SPACE 
+110, NUM 
+planes, NOUN 
+owing, VERB 
+coherent, ADJ 
+oscillatory, ADJ 
+motion, NOUN 
+
+, SPACE 
+described, VERB 
+detail, NOUN 
+Ref, PROPN 
+3, X 
+pattern, NOUN 
+Fig, PROPN 
+3c, PROPN 
+
+, SPACE 
+recorded, VERB 
+conditions, NOUN 
+Fig, PROPN 
+3b, NUM 
+
+, SPACE 
+crystal, NOUN 
+lOO, NOUN 
+axis, NOUN 
+aligned, VERB 
+0.15, NUM 
+away, ADV 
+beam, NOUN 
+
+, SPACE 
+axis, NOUN 
+separate, ADJ 
+beam, NOUN 
+produced, VERB 
+doughnut, NOUN 
+
+, SPACE 
+distribution, NOUN 
+doughnuts, NOUN 
+produced, VERB 
+
+, SPACE 
+different, ADJ 
+locations, NOUN 
+crystal, NOUN 
+surface, NOUN 
+
+, SPACE 
+appear, VERB 
+overlapping, NOUN 
+rings, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3d, NOUN 
+shows, VERB 
+separate, ADJ 
+proton, NOUN 
+beams, NOUN 
+hitting, VERB 
+
+, SPACE 
+viewing, VERB 
+screen, NOUN 
+crystal, NOUN 
+removed, VERB 
+beam, NOUN 
+
+, SPACE 
+axis, NOUN 
+lenses, NOUN 
+switched, VERB 
+hole, NOUN 
+spacing, VERB 
+
+, SPACE 
+2, NUM 
+mm, NOUN 
+hole, NOUN 
+sizes, NOUN 
+0.5, NUM 
+mm, NUM 
+Fig, PROPN 
+3e, NOUN 
+shows, VERB 
+
+, SPACE 
+channeling, NOUN 
+pattern, NOUN 
+produced, VERB 
+beams, NOUN 
+aligned, VERB 
+
+, SPACE 
+0.2, NUM 
+away, ADV 
+crystal, NOUN 
+1, NUM 
+lo, X 
+axis, NOUN 
+beam, NOUN 
+produces, VERB 
+
+, SPACE 
+doughnut, PROPN 
+distribution, NOUN 
+resulting, VERB 
+observed, ADJ 
+Olympic, ADJ 
+symbol, NOUN 
+comprising, VERB 
+interlocking, NOUN 
+rings, NOUN 
+
+, SPACE 
+Figs, PROPN 
+3d, NOUN 
+3e, NOUN 
+recorded, VERB 
+distance, NOUN 
+200, NUM 
+mm, NOUN 
+
+, SPACE 
+crystal, NOUN 
+viewing, VERB 
+screen, NOUN 
+
+, SPACE 
+considerably, ADV 
+shorter, ADJ 
+distance, NOUN 
+patterns, NOUN 
+
+, SPACE 
+paper, NOUN 
+distance, NOUN 
+680, NUM 
+mm, NOUN 
+
+, SPACE 
+separate, ADJ 
+rings, NOUN 
+merge, VERB 
+resolved, VERB 
+
+, SPACE 
+3.2, X 
+Lenses, NOUN 
+switched, VERB 
+
+, SPACE 
+Multiple, ADJ 
+beam, NOUN 
+channeling, VERB 
+patterns, NOUN 
+produced, VERB 
+
+, SPACE 
+quadrupole, NOUN 
+lenses, NOUN 
+nuclear, ADJ 
+microprobe, NOUN 
+switched, VERB 
+
+, SPACE 
+separate, ADJ 
+proton, NOUN 
+beams, NOUN 
+focused, VERB 
+
+, SPACE 
+point, NOUN 
+crystal, NOUN 
+surface, NOUN 
+described, VERB 
+
+, SPACE 
+beam, NOUN 
+separated, VERB 
+0.15, NUM 
+horizontal, ADJ 
+beam, NOUN 
+
+, SPACE 
+direction, NOUN 
+angular, ADJ 
+width, NOUN 
+beam, NOUN 
+0.04, NUM 
+
+, SPACE 
+Fig, PROPN 
+4a, PROPN 
+shows, VERB 
+separate, ADJ 
+proton, NOUN 
+beams, NOUN 
+hitting, VERB 
+
+, SPACE 
+viewing, VERB 
+screen, NOUN 
+crystaf, NOUN 
+removed, VERB 
+beam, NOUN 
+
+, SPACE 
+axis, NOUN 
+lenses, NOUN 
+switched, VERB 
+110, NUM 
+planes, NOUN 
+
+, SPACE 
+aligned, VERB 
+beam, NOUN 
+axis, NOUN 
+nest, NOUN 
+Fig, PROPN 
+4, NUM 
+
+, SPACE 
+shows, VERB 
+channeling, VERB 
+patterns, NOUN 
+produced, VERB 
+tilting, VERB 
+crystal, NOUN 
+
+, SPACE 
+loo, AUX 
+axis, VERB 
+small, ADJ 
+angles, NOUN 
+
+, SPACE 
+alignment, NOUN 
+beam, NOUN 
+axis, NOUN 
+Fig, PROPN 
+4b, PROPN 
+beams, NOUN 
+
+, SPACE 
+aligned, VERB 
+far, ADV 
+away, ADV 
+lo01, PROPN 
+axis, NOUN 
+project, VERB 
+dough-, X 
+
+, SPACE 
+nut, NOUN 
+distributions, NOUN 
+Fig, PROPN 
+4c, NOUN 
+right, ADJ 
+hand, NOUN 
+beam, NOUN 
+
+, SPACE 
+projects, VERB 
+faint, ADJ 
+doughnut, NOUN 
+distribution, NOUN 
+large, ADJ 
+angular, ADJ 
+
+, SPACE 
+diameter, NOUN 
+doughnut, NOUN 
+stronger, ADJ 
+pro-, NOUN 
+
+, SPACE 
+gressively, ADV 
+smaller, ADJ 
+diameter, NOUN 
+Figs, PROPN 
+4d, PROPN 
+4e, PROPN 
+right, ADJ 
+
+, SPACE 
+hand, NOUN 
+beam, NOUN 
+aligned, VERB 
+IOO, PROPN 
+axis, VERB 
+
+, SPACE 
+Fig, PROPN 
+4e, PROPN 
+tbe, NOUN 
+left, VERB 
+hand, NOUN 
+beam, NOUN 
+projects, VERB 
+doughnut, NOUN 
+
+, SPACE 
+distribution, NOUN 
+larger, ADJ 
+diameter, NOUN 
+corresponding, VERB 
+h4.B.H., PUNCT 
+Breese, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+I14, PROPN 
+1996, NUM 
+252, NUM 
+258, NUM 
+255, NUM 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Patterns, NOUN 
+recorded, VERB 
+single, ADJ 
+0.3, NUM 
+Frn, PROPN 
+thick, ADJ 
+silicon, NOUN 
+crystal, NOUN 
+function, NOUN 
+tilt, NOUN 
+angle, NOUN 
+beam, NOUN 
+axis, NOUN 
+110, NUM 
+planes, NOUN 
+
+, SPACE 
+proton, NOUN 
+beams, NOUN 
+shown, VERB 
+Fig, PROPN 
+4a, PROPN 
+separated, VERB 
++0.075, PROPN 
+beam, NOUN 
+axis, NOUN 
+focused, VERB 
+crystal, NOUN 
+surface, NOUN 
+lenses, NOUN 
+
+, SPACE 
+switched, VERB 
+crystal, NOUN 
+IO01, PROPN 
+tilt, NOUN 
+angle, NOUN 
+beam, NOUN 
+axis, NOUN 
+b, X 
+-O&Y, NOUN 
+c, NOUN 
+-O.ZO, PUNCT 
+d, X 
+-0.17, NUM 
+e, PROPN 
+-O.I3, VERB 
+f, PROPN 
+-O.OS, PUNCT 
+g, X 
+>, X 
+-l-0.02, PROPN 
+h, PROPN 
+
+, SPACE 
++0.2T., PROPN 
+
+, SPACE 
+256, NUM 
+M.B.H., PROPN 
+Breese, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+114, NUM 
+1996, NUM 
+252, NUM 
+258, NUM 
+
+, SPACE 
+right, ADJ 
+hand, NOUN 
+beam, NOUN 
+creating, VERB 
+alternate, ADJ 
+bright, ADJ 
+dark, ADJ 
+rings, NOUN 
+
+, SPACE 
+centred, VERB 
+1001, NUM 
+axis, NOUN 
+Fig, PROPN 
+4f, NUM 
+right, ADJ 
+hand, NOUN 
+beam, NOUN 
+
+, SPACE 
+aligned, VERB 
+lo01, PROPN 
+axis, NOUN 
+producing, VERB 
+bright, ADJ 
+spot, NOUN 
+
+, SPACE 
+left, ADJ 
+hand, NOUN 
+beam, NOUN 
+projects, VERB 
+bright, ADJ 
+doughnut, NOUN 
+distribution, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+g, NOUN 
+beams, NOUN 
+aligned, VERB 
+
+, SPACE 
+opposite, ADJ 
+sides, NOUN 
+lOOI, NOUN 
+axis, NOUN 
+rings, NOUN 
+observed, VERB 
+
+, SPACE 
+intensity, NOUN 
+distributions, NOUN 
+produced, VERB 
+beams, NOUN 
+
+, SPACE 
+overlap, NOUN 
+Fig, PROPN 
+4h, NUM 
+right, ADJ 
+hand, NOUN 
+beam, NOUN 
+far, ADV 
+away, ADV 
+
+, SPACE 
+lOOI, NOUN 
+axis, NOUN 
+produce, VERB 
+doughnut, NOUN 
+distribution, NOUN 
+
+, SPACE 
+left, ADJ 
+hand, NOUN 
+beam, NOUN 
+produce, VERB 
+tilt, NOUN 
+
+, SPACE 
+angles, NOUN 
+direction, NOUN 
+beams, NOUN 
+channeled, VERB 
+
+, SPACE 
+110, NUM 
+planes, NOUN 
+produce, VERB 
+doughnut, NOUN 
+distributions, NOUN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+shows, VERB 
+similar, ADJ 
+sequence, NOUN 
+channeling, VERB 
+patterns, NOUN 
+
+, SPACE 
+produced, VERB 
+aligning, VERB 
+l, NOUN 
+lo, X 
+axis, NOUN 
+crystal, NOUN 
+
+, SPACE 
+close, ADJ 
+beam, NOUN 
+axis, NOUN 
+tilting, VERB 
+horizontally-, NOUN 
+
+, SPACE 
+running, VERB 
+100, NUM 
+planes, NOUN 
+1, NUM 
+lo, NOUN 
+axis, NOUN 
+wider, ADJ 
+
+, SPACE 
+lo01, PROPN 
+axis, NOUN 
+beams, NOUN 
+separated, VERB 
+0.15, NUM 
+
+, SPACE 
+produce, VERB 
+patterns, NOUN 
+instead, ADV 
+lOOI, NOUN 
+axis, NOUN 
+
+, SPACE 
+similar, ADJ 
+series, NOUN 
+bright, ADJ 
+dark, ADJ 
+rings, NOUN 
+centred, VERB 
+1, NUM 
+lo, X 
+
+, SPACE 
+axis, NOUN 
+observed, VERB 
+sequence, NOUN 
+patterns, NOUN 
+
+, SPACE 
+3.3, X 
+Discussion, NOUN 
+
+, SPACE 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+series, NOUN 
+
+, SPACE 
+bright, ADJ 
+rings, NOUN 
+similar, ADJ 
+diameters, NOUN 
+offset, VERB 
+
+, SPACE 
+observed, VERB 
+multiple, ADJ 
+beam, NOUN 
+channeling, NOUN 
+pat-, X 
+
+, SPACE 
+terns, NOUN 
+shown, VERB 
+Fig, PROPN 
+3, NUM 
+rings, NOUN 
+offset, VERB 
+
+, SPACE 
+patterns, NOUN 
+generated, VERB 
+separate, ADJ 
+beams, NOUN 
+produced, VERB 
+
+, SPACE 
+different, ADJ 
+parts, NOUN 
+crystal, NOUN 
+similar, ADJ 
+
+, SPACE 
+diameter, NOUN 
+separate, ADJ 
+beams, NOUN 
+nearly, ADV 
+
+, SPACE 
+beam, NOUN 
+crystal, NOUN 
+alignment, NOUN 
+lenses, NOUN 
+switched, VERB 
+series, NOUN 
+bright, ADJ 
+dark, ADJ 
+
+, SPACE 
+rings, NOUN 
+different, ADJ 
+diameters, NOUN 
+centred, VERB 
+
+, SPACE 
+point, NOUN 
+screen, NOUN 
+observed, VERB 
+multiple, ADJ 
+beam, NOUN 
+
+, SPACE 
+channeling, VERB 
+patterns, NOUN 
+Figs, PROPN 
+4, NUM 
+5, NUM 
+centred, VERB 
+
+, SPACE 
+point, NOUN 
+patterns, NOUN 
+generated, VERB 
+
+, SPACE 
+separate, ADJ 
+beams, NOUN 
+produced, VERB 
+
+, SPACE 
+crystal, NOUN 
+rings, NOUN 
+different, ADJ 
+diameter, NOUN 
+
+, SPACE 
+separate, ADJ 
+beams, NOUN 
+widely, ADV 
+differing, VERB 
+angles, NOUN 
+1001, NUM 
+
+, SPACE 
+llO, NOUN 
+axes, NOUN 
+
+, SPACE 
+example, NOUN 
+intermediate, ADJ 
+condition, NOUN 
+
+, SPACE 
+discussed, VERB 
+far, ADV 
+lenses, NOUN 
+
+, SPACE 
+switched, VERB 
+focus, VERB 
+multiple, ADJ 
+beams, NOUN 
+
+, SPACE 
+point, NOUN 
+crystal, NOUN 
+surface, NOUN 
+shown, VERB 
+Fig, PROPN 
+3f, NOUN 
+
+, SPACE 
+shows, VERB 
+multiple, ADJ 
+beam, NOUN 
+pattern, NOUN 
+produced, VERB 
+
+, SPACE 
+beams, NOUN 
+Figs, PROPN 
+3d, NOUN 
+3e, NOUN 
+case, NOUN 
+lenses, NOUN 
+
+, SPACE 
+switched, VERB 
+strengths, NOUN 
+required, VERB 
+focus, VERB 
+
+, SPACE 
+separate, ADJ 
+beams, NOUN 
+crystal, NOUN 
+surface, NOUN 
+different, ADJ 
+
+, SPACE 
+beams, NOUN 
+hit, VERB 
+different, ADJ 
+parts, NOUN 
+crystal, NOUN 
+surface, NOUN 
+
+, SPACE 
+different, ADJ 
+angles, NOUN 
+resultant, NOUN 
+pattern, NOUN 
+superposition, NOUN 
+
+, SPACE 
+different, ADJ 
+patterns, NOUN 
+similarity, NOUN 
+
+, SPACE 
+common, ADJ 
+centre, NOUN 
+
+, SPACE 
+4, X 
+Interpretation, NOUN 
+channeling, VERB 
+patterns, NOUN 
+ro-, X 
+
+, SPACE 
+tated, VERB 
+bilayers, NOUN 
+
+, SPACE 
+addition, NOUN 
+interesting, ADJ 
+example, NOUN 
+use, NOUN 
+
+, SPACE 
+nuclear, ADJ 
+microprobe, NOUN 
+produce, VERB 
+previously, ADV 
+unobserved, VERB 
+
+, SPACE 
+patterns, NOUN 
+use, NOUN 
+multiple, ADJ 
+beams, NOUN 
+produced, VERB 
+
+, SPACE 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+helps, VERB 
+under-, NOUN 
+
+, SPACE 
+standing, NOUN 
+previous, ADJ 
+work, NOUN 
+7, NUM 
+characterising, VERB 
+effects, NOUN 
+
+, SPACE 
+Fig, PROPN 
+
+, SPACE 
+ho, X 
+5, X 
+Patterns, NOUN 
+recorded, VERB 
+single, ADJ 
+0.3, NUM 
+@rn, NOUN 
+thick, ADJ 
+silicon, NOUN 
+crystal, NOUN 
+function, NOUN 
+tilt, NOUN 
+angle, NOUN 
+beam, NOUN 
+axis, NOUN 
+
+, SPACE 
+izontally, ADV 
+running, VERB 
+100, NUM 
+planes, NOUN 
+proton, NOUN 
+beams, NOUN 
+separated, VERB 
+O.lS, PROPN 
+central, ADJ 
+beam, NOUN 
+beam, NOUN 
+axis, NOUN 
+focused, VERB 
+
+, SPACE 
+crystal, NOUN 
+surface, NOUN 
+crystal, NOUN 
+l, NOUN 
+101, NUM 
+tilt, NOUN 
+angle, NOUN 
+beam, NOUN 
+axis, NOUN 
+>, X 
+OH, NOUN 
+b, X 
+0.50, NUM 
+c, NOUN 
+0.34, NUM 
+d, X 
+0.28, NUM 
+e, NOUN 
+0.22, NUM 
+f, X 
++, SYM 
+0, NUM 
+
+, SPACE 
++, CCONJ 
+0.14, NUM 
+h, PROPN 
++, NOUN 
+0.25, NUM 
+Ignore, VERB 
+far, ADV 
+left, ADJ 
+hand, NOUN 
+pattern, NOUN 
+chopped, VERB 
+limited, ADJ 
+extent, NOUN 
+viewing, VERB 
+screen, NOUN 
+
+, SPACE 
+M&H., PROPN 
+Breese, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+I14, PROPN 
+1996, NUM 
+252, NUM 
+258, NUM 
+257, NUM 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Pattern, PROPN 
+generated, VERB 
+bilayer, NOUN 
+comprising, VERB 
+
+, SPACE 
+individual, NOUN 
+0.3, NUM 
+pm, NOUN 
+thick, ADJ 
+lOOI, NOUN 
+silicon, NOUN 
+crystals, NOUN 
+rotation, NOUN 
+
+, SPACE 
+angle, NOUN 
+0.25, NUM 
+7, NUM 
+crystal, NOUN 
+lOC, X 
+
+, SPACE 
+axes, NOUN 
+respectively, ADV 
+aligned, VERB 
+0.15, NUM 
++, NUM 
+0.10, NUM 
+
+, SPACE 
+beam, NOUN 
+axis, NOUN 
+b, X 
+Fig, PROPN 
+4d, PROPN 
+rotated, VERB 
+anticlock-, INTJ 
+
+, SPACE 
+wise, ADJ 
+90, NUM 
+comparison, NOUN 
+Fig, PROPN 
+6a, NOUN 
+
+, SPACE 
+rotated, VERB 
+bilayers, NOUN 
+channeling, VERB 
+patterns, NOUN 
+rotated, VERB 
+bi-, NOUN 
+
+, SPACE 
+layer, NOUN 
+interface, NOUN 
+dechanneling, VERB 
+mechanism, NOUN 
+
+, SPACE 
+character&e, PROPN 
+strained, VERB 
+layers, NOUN 
+ion, NOUN 
+channeling, VERB 
+analysis, NOUN 
+
+, SPACE 
+described, VERB 
+Ref, PROPN 
+13, NUM 
+
+, SPACE 
+example, NOUN 
+type, NOUN 
+pattern, NOUN 
+shown, VERB 
+Fig, PROPN 
+6a, NOUN 
+
+, SPACE 
+recorded, VERB 
+bilayer, NOUN 
+comprising, VERB 
+indi-, NOUN 
+
+, SPACE 
+vidual, ADJ 
+0.3, NUM 
+pm, NOUN 
+thick, ADJ 
+lOO, NOUN 
+silicon, NOUN 
+crystals, NOUN 
+rotation, NOUN 
+
+, SPACE 
+angle, NOUN 
+0.25, NUM 
+crystal, NOUN 
+
+, SPACE 
+lOO, NOUN 
+axes, NOUN 
+respectively, ADV 
+aligned, VERB 
+-0.15, PROPN 
++, ADP 
+O.lOO, NUM 
+
+, SPACE 
+vertical, ADJ 
+beam, NOUN 
+axis, NOUN 
+loo, X 
+
+, SPACE 
+axes, NOUN 
+crystals, NOUN 
+opposite, ADJ 
+sides, NOUN 
+
+, SPACE 
+beam, NOUN 
+axis, NOUN 
+doughnut, NOUN 
+distribution, NOUN 
+projected, VERB 
+
+, SPACE 
+crystal, NOUN 
+crystal, NOUN 
+giving, VERB 
+beam, NOUN 
+
+, SPACE 
+portions, NOUN 
+th.e, NOUN 
+vertically, ADV 
+running, ADJ 
+iio, NOUN 
+planes, NOUN 
+
+, SPACE 
+crystal, NOUN 
+lower, ADV 
+bright, ADJ 
+regions, NOUN 
+
+, SPACE 
+170, NUM 
+planes, NOUN 
+Fig, PROPN 
+6a, NOUN 
+lower, ADJ 
+extent, NOUN 
+
+, SPACE 
+doughnut, PROPN 
+distribution, NOUN 
+lies, VERB 
+beam, NOUN 
+axis, NOUN 
+
+, SPACE 
+portion, NOUN 
+beam, NOUN 
+axis, NOUN 
+projects, NOUN 
+doughnut, NOUN 
+distri-, VERB 
+
+, SPACE 
+bution, NOUN 
+crystal, NOUN 
+lo01, ADJ 
+axis, NOUN 
+visible, ADJ 
+
+, SPACE 
+upper, ADJ 
+region, NOUN 
+pattern, NOUN 
+resultant, NOUN 
+channeling, VERB 
+
+, SPACE 
+pattern, NOUN 
+produced, VERB 
+layers, NOUN 
+superposi-, ADJ 
+
+, SPACE 
+tion, NOUN 
+different, ADJ 
+patterns, NOUN 
+produced, VERB 
+separate, ADJ 
+
+, SPACE 
+beam, NOUN 
+fractions, NOUN 
+170, NUM 
+planes, NOUN 
+crystal, NOUN 
+
+, SPACE 
+beam, NOUN 
+enters, VERB 
+170, NUM 
+planes, NOUN 
+
+, SPACE 
+crystal, NOUN 
+Fig, PROPN 
+6a, NOUN 
+separated, VERB 
+portions, NOUN 
+
+, SPACE 
+travelling, VERB 
+position, NOUN 
+different, ADJ 
+
+, SPACE 
+angles, NOUN 
+respect, NOUN 
+beam, NOUN 
+axis, NOUN 
+mechanism, NOUN 
+
+, SPACE 
+pattern, NOUN 
+formation, NOUN 
+similar, ADJ 
+multiple, ADJ 
+
+, SPACE 
+beam, NOUN 
+channeling, VERB 
+patterns, NOUN 
+Fig, PROPN 
+4, NUM 
+example, NOUN 
+Fig, PROPN 
+4d, PROPN 
+
+, SPACE 
+produced, VERB 
+separate, ADJ 
+beams, NOUN 
+entering, VERB 
+110, NUM 
+
+, SPACE 
+planes, NOUN 
+crystal, NOUN 
+layer, NOUN 
+emerging, VERB 
+
+, SPACE 
+point, NOUN 
+gives, VERB 
+similar, ADJ 
+behaviour, NOUN 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+6b, NUM 
+rotated, VERB 
+90, NUM 
+easier, ADJ 
+comparison, NOUN 
+Fig, PROPN 
+
+, SPACE 
+6a, NOUN 
+Fig, PROPN 
+6a, NOUN 
+upper, ADJ 
+beam, NOUN 
+portions, NOUN 
+
+, SPACE 
+doughnut, NOUN 
+projected, VERB 
+crystai, NOUN 
+ITO, PROPN 
+
+, SPACE 
+planes, NOUN 
+crystal, NOUN 
+aligned, VERB 
+approximately, ADV 
+0.10, NUM 
+crystal, NOUN 
+IOO, PROPN 
+axis, VERB 
+Similarly, ADV 
+Fig, PROPN 
+6b, NUM 
+
+, SPACE 
+upper, ADJ 
+multiple, ADJ 
+beam, NOUN 
+portions, NOUN 
+projected, VERB 
+
+, SPACE 
+110, NUM 
+planes, NOUN 
+single, ADJ 
+crystal, NOUN 
+aligned, VERB 
+approximately, ADV 
+
+, SPACE 
+0.10, NUM 
+loo, X 
+axis, NOUN 
+Figs, PROPN 
+6a, NOUN 
+6b, NUM 
+
+, SPACE 
+beam, NOUN 
+portion, NOUN 
+similar, ADJ 
+alignment, NOUN 
+crystal, NOUN 
+
+, SPACE 
+axis, NOUN 
+similar, ADJ 
+size, NOUN 
+doughnut, NOUN 
+distributions, NOUN 
+pro-, PROPN 
+
+, SPACE 
+duced, VERB 
+crystal, NOUN 
+patterns, NOUN 
+
+, SPACE 
+multiple, ADJ 
+beam, NOUN 
+patterns, NOUN 
+Figs, PROPN 
+4, NUM 
+5, NUM 
+Fig, PROPN 
+
+, SPACE 
+6b, NUM 
+considered, VERB 
+limiting, VERB 
+cases, NOUN 
+produc-, ADJ 
+
+, SPACE 
+ing, PROPN 
+channeling, VERB 
+patterns, NOUN 
+rotated, VERB 
+bilayers, NOUN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+6a, NOUN 
+multiple, ADJ 
+beam, NOUN 
+
+, SPACE 
+patterns, NOUN 
+dechanneling, NOUN 
+caused, VERB 
+proportion, NOUN 
+
+, SPACE 
+doughnut, PROPN 
+intensity, NOUN 
+distribution, NOUN 
+outside, ADP 
+170, NUM 
+
+, SPACE 
+channeling, VERB 
+angle, NOUN 
+layer, NOUN 
+makes, VERB 
+multi-, NOUN 
+
+, SPACE 
+ple, PROPN 
+beam, NOUN 
+patterns, NOUN 
+Figs, PROPN 
+4, NUM 
+5, NUM 
+Fig, PROPN 
+6b, NUM 
+
+, SPACE 
+blurred, VERB 
+strained, ADJ 
+layer, NOUN 
+patterns, NOUN 
+Fig, PROPN 
+6a, NOUN 
+
+, SPACE 
+Ref, PROPN 
+7, X 
+crystal, NOUN 
+thickness, NOUN 
+example, NOUN 
+
+, SPACE 
+centre, NOUN 
+1001, NUM 
+axis, NOUN 
+uniformly, ADV 
+dark, ADJ 
+Fig, PROPN 
+
+, SPACE 
+6b, NOUN 
+blurred, ADJ 
+Fig, PROPN 
+6a, NOUN 
+owing, VERB 
+higher, ADJ 
+scattered, VERB 
+
+, SPACE 
+beam, NOUN 
+fraction, NOUN 
+reason, NOUN 
+defined, VERB 
+
+, SPACE 
+proton, NOUN 
+trajectories, NOUN 
+beam, NOUN 
+portions, NOUN 
+
+, SPACE 
+crystal, NOUN 
+liO, NOUN 
+>, X 
+planes, NOUN 
+rotated, VERB 
+bilayer, NOUN 
+pattern, NOUN 
+
+, SPACE 
+Fig, PROPN 
+6a, NOUN 
+owing, VERB 
+scattering, VERB 
+crystal, NOUN 
+
+, SPACE 
+compared, VERB 
+sharply, ADV 
+defined, VERB 
+trajectories, NOUN 
+Fig, PROPN 
+6b, NUM 
+
+, SPACE 
+5, X 
+Conclusions, NOUN 
+
+, SPACE 
+Multiple, ADJ 
+beam, NOUN 
+ion, NOUN 
+channeling, VERB 
+patterns, NOUN 
+generated, VERB 
+
+, SPACE 
+quadrupole, NOUN 
+lenses, NOUN 
+nuclear, ADJ 
+microprobe, NOUN 
+switched, VERB 
+
+, SPACE 
+described, VERB 
+relationship, NOUN 
+
+, SPACE 
+explained, VERB 
+demonstrated, VERB 
+
+, SPACE 
+separate, ADJ 
+beam, NOUN 
+portions, NOUN 
+travelling, VERB 
+
+, SPACE 
+spatial, ADJ 
+location, NOUN 
+channeling, VERB 
+planes, NOUN 
+crystal, NOUN 
+layer, NOUN 
+
+, SPACE 
+gives, VERB 
+rise, NOUN 
+channeling, VERB 
+patterns, NOUN 
+considered, VERB 
+
+, SPACE 
+superposition, NOUN 
+patterns, NOUN 
+produced, VERB 
+indi-, NOUN 
+
+, SPACE 
+vidual, ADJ 
+beams, NOUN 
+Multiple, ADJ 
+beam, NOUN 
+channeling, VERB 
+patterns, NOUN 
+produced, VERB 
+
+, SPACE 
+quadrupole, NOUN 
+lenses, NOUN 
+switched, VERB 
+able, ADJ 
+help, VERB 
+
+, SPACE 
+interpretation, NOUN 
+channeling, VERB 
+patterns, NOUN 
+recorded, VERB 
+
+, SPACE 
+rotated, VERB 
+bilayers, NOUN 
+
+, SPACE 
+Acknowledgement, PROPN 
+
+, SPACE 
+Prof., PROPN 
+L.E., PROPN 
+Seiberling, PROPN 
+Physics, PROPN 
+Department, PROPN 
+
+, SPACE 
+University, PROPN 
+Florida, PROPN 
+gratefully, ADV 
+acknowledged, VERB 
+sup-, NOUN 
+
+, SPACE 
+plying, VERB 
+thin, ADJ 
+silicon, NOUN 
+membranes, NOUN 
+work, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+l, X 
+C.S., PROPN 
+Barrett, PROPN 
+R.M., PROPN 
+Mueller, PROPN 
+W., PROPN 
+White, PROPN 
+J., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+39, NUM 
+
+, SPACE 
+1968, NUM 
+4695, NUM 
+
+, SPACE 
+2, X 
+D.V., PROPN 
+Morgan, PROPN 
+ed, PROPN 
+Channeling, PROPN 
+Theory, PROPN 
+Observation, PROPN 
+
+, SPACE 
+Applications, PROPN 
+Wiley, PROPN 
+London, PROPN 
+1973, NUM 
+
+, SPACE 
+258, NUM 
+M.B.H., PROPN 
+Breese, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+114, NUM 
+1996, NUM 
+252, NUM 
+258, NUM 
+
+, SPACE 
+3, X 
+M.B.H., PROPN 
+Breese, PROPN 
+P.J.C., PROPN 
+King, PROPN 
+G.W., PROPN 
+Grime, PROPN 
+P.J.M., PROPN 
+Smulders, PROPN 
+
+, SPACE 
+L.E., PROPN 
+Seiberling, VERB 
+M.A., PROPN 
+Boshart, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+B, PROPN 
+53, NUM 
+1996, NUM 
+
+, SPACE 
+8267, NUM 
+
+, SPACE 
+4, X 
+G., PROPN 
+Deamaley, PROPN 
+I.V., PROPN 
+Mitchell, PROPN 
+R.S., PROPN 
+Nelson, PROPN 
+B.W., PROPN 
+Farmery, PROPN 
+
+, SPACE 
+M.W., PROPN 
+Thompson, PROPN 
+Philos, PROPN 
+Mag, PROPN 
+18, NUM 
+1968, NUM 
+985, NUM 
+
+, SPACE 
+5, X 
+D.S., PROPN 
+Gemmell, PROPN 
+R.E., PROPN 
+Holland, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+Led, PROPN 
+14, NUM 
+1965, NUM 
+
+, SPACE 
+945, NUM 
+8, X 
+J.S., PROPN 
+Rosner, PROPN 
+W.M., PROPN 
+Gibson, PROPN 
+J.A., PROPN 
+Golovchenko, PROPN 
+A.N., PROPN 
+Goland, PROPN 
+
+, SPACE 
+H.E., PROPN 
+Wegner, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+B, PROPN 
+18, NUM 
+1978, NUM 
+1066, NUM 
+
+, SPACE 
+9, X 
+N.W., PROPN 
+Cheung, PROPN 
+Rev., PROPN 
+Sci, PROPN 
+Instr, PROPN 
+51, NUM 
+1980, NUM 
+1212, NUM 
+
+, SPACE 
+lo, X 
+J.F., PROPN 
+Barrett, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+B, PROPN 
+3, NUM 
+1971, NUM 
+1527, NUM 
+
+, SPACE 
+ll, X 
+M.B.H., PROPN 
+Breese, PROPN 
+D.N., PROPN 
+Jamieson, PROPN 
+P.J.C., PROPN 
+King, PROPN 
+Materials, PROPN 
+
+, SPACE 
+Analysis, PROPN 
+Nuclear, PROPN 
+Microprobe, PROPN 
+Wiley, PROPN 
+New, PROPN 
+York, PROPN 
+
+, SPACE 
+1995, NUM 
+
+, SPACE 
+6, NUM 
+M.B.H., PROPN 
+Breese, PROPN 
+P.J.C., PROPN 
+King, PROPN 
+G.W., PROPN 
+Grime, PROPN 
+L.E., PROPN 
+Seiberling, VERB 
+12, NUM 
+G.W., PROPN 
+Grime, PROPN 
+M., PROPN 
+Dawson, PROPN 
+M., PROPN 
+Marsh, PROPN 
+I.C., PROPN 
+McArthur, PROPN 
+F., PROPN 
+
+, SPACE 
+M.A., PROPN 
+Boshart, PROPN 
+Appl, PROPN 
+Phys, NOUN 
+Lett, PROPN 
+67, NUM 
+1995, NUM 
+2132, NUM 
+Watt, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+54, NUM 
+1991, NUM 
+52, NUM 
+
+, SPACE 
+7, X 
+M.B.H., PROPN 
+Breese, PROPN 
+P.J.C., PROPN 
+King, PROPN 
+P.J.M., PROPN 
+Smulders, PROPN 
+unpub-, NOUN 
+13, NUM 
+S.T., PROPN 
+Picraux, PROPN 
+B.L., PROPN 
+Doyle, PROPN 
+J.Y., PROPN 
+Tsao, PROPN 
+Semiconductors, PROPN 
+
+, SPACE 
+lished, VERB 
+Metals, NOUN 
+vol, NOUN 
+33, NUM 
+T, PROPN 
+Bell, PROPN 
+Labs, PROPN 
+1991, NUM 
+chap, NOUN 
+3, X 
+
+, SPACE 

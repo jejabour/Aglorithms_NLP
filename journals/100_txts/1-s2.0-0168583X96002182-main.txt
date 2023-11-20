@@ -1,0 +1,445 @@
+CQs Nuclear Instruments and Methods in Physics Research B 117 (1996) 15 1 - 155 
+. _- EB g$ NIOMI B 
+ELSEVIER Beam Interactions 
+with Materials&Atoms 
+Investigation of beryllium diffusion in the supercooled liquid 
+and glassy states of the amorphous alloy Zr,, ,Ti,,.,Cu,,.,Ni,,Be,, 5 
+by high energy helium elastic backscattering . 
+Yuanxun Qiu a,1, U. Geyer b, S. Schneider b, M.-P. Macht ‘, W.L. Johnson b, 
+T.A. Tombrello a, * 
+a Division of Physics, Mathematics and Astrorwmy, California Institute of Technology, Pasadena, CA 91125, USA 
+b Keck Laboratory of Engineering Materials, California Institute of Technology, Pasadena, CA 91125, USA 
+’ Hahn-Meitner-Institut Beriin, Abt. Strukturforschung, 14109 Berlin, Germany 
+Received 9 October 1995; revised form received 12 February 1996 
+Abstract 
+The elastic scattering cross section for 9Be( cY,rr)‘Be has been measured in a strongly resonant region from 6.00 to 6.50 
+MeV at a laboratory angle of 177”. This reaction has been used to investigate Be diffusion in the bulk metallic amorphous 
+alloy Zr,,.2Ti,3.8Cu12.5Ni10Be22.5 in the solid state (SS) as well as in the supercooled liquid state (SLS). Above the glass 
+transition, i.e., in the SLS, a remarkable increase in the diffusivity of Be (about two orders of magnitude over a 40 K 
+temperature interval) was observed, which can be explained with a modified Arrhenius fit, which takes into account the 
+change in configurational entropy due to the glass transition. 
+1. Introduction 
+With their unique mechanical, electrical, magnetic and 
+corrosion properties over conventional metals or alloys, 
+amorphous metallic alloys have shown a significant poten- 
+tial for technological applications in various industries and 
+have also provided a strong motivation for studying the 
+basic physics involved in these me&table materials frozen 
+in their liquid configuration [l]. Among the investigations 
+relevant to atomic transport, one of the fundamental and 
+interesting questions is: how do diffusion phenomena 
+change when an amorphous alloy changes its state from 
+the glassy solid state (SS) to the supercooled liquid state 
+(SLS)? However, due to the poor thermal stability of 
+conventional metallic glasses with respect to crystalliza- 
+tion, the diffusion measurements in amorphous alloys have 
+had to be restricted to the SS. 
+In this paper we show that a newly discovered multi- 
+component metallic glass-forming system with stability 
+over a large supercooled liquid region [2] has made it 
+possible to perform the diffusion measurements in the SLS 
+* Corresponding author. Tel. + 1 818-395-4585; Fax: -t 1 81% 
+683-9060; E-mail: tat@cco.caltech.edu. 
+’ Permanent address: Department of Nuclear Science, Fudan 
+University, Shanghai 200433, China. within reasonable temperature and time windows. We have 
+chosen Be to consider first as the diffusing component in 
+the novel alloy Zr,,,,Ti,,.,Cu,,,,Ni,,Be,,., [2], because it 
+is the smallest and possibly the fastest diffusing atom in 
+the alloy and because the glass transition temperature, Tg, 
+depends only slightly on the Be composition in the region 
+of 22.5% Be [3]. On the other hand, due to its small mass 
+and low atomic number the regular RBS technique, which 
+has been widely used for diffusion research in materials 
+science, is not suitable for detecting Be. Proton backscat- 
+tering was considered as a possible alternative for its better 
+kinetic factor for Be atoms (K = 0.64 near 180”) versus a 
+helium beam (K = 0.15 near 180”). MeV protons exhibit 
+many strong resonant features in the elastic scattering from 
+Be nuclei, which may be useful for enhancing the sensitiv- 
+ity for Be detection. But our experiments with 1.7 MeV 
+and 1.8 MeV proton beams indicated that the depth resolu- 
+tion was not good enough to see the Be signal broadening 
+of the diffused sample. Furthermore, there is a competitive 
+peak nearby due to the ‘Be(p,d)‘Be reaction, which makes 
+it difficult to profile beryllium in this way. The sharp 
+resonance near 650 keV in the 9Be(a, n)“C reaction [4,5] 
+offers good depth resolution (lo-50 nm) for profiling Be 
+in a heavy ma&x, but the relatively low sensitivity has 
+limited its use in our case. 
+We suspected that using 4He elastic backscattering at 
+higher energies in a relatively flat non-Rutherford reso- 
+0168-583X/96/$15.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+PII SOl68-583X(96)00218-2 
+152 Y. Qiu et al./Nucl. Instr. and Meth. in Phys. Res. B 117 (1996) 151-155 
+nance region should provide compensation for both the 
+small K factor and the low sensitivity for 4He on 9Be. 
+Preliminary experiments with a helium beam of energy 
+above 6 MeV on a 1 km Be film, which was coated on the 
+surface of the alloy as an infinite diffusion source, yielded 
+a strong Be backscattering peak with a flat top, and the 
+interface region that we were attempting to profile was just 
+above the noise of the spectrum. Since data available for 
+‘Be(cY,a)‘Be in the range of 1.7-6.2 MeV and 4-20 
+MeV [6] are not suitable for specific materials analysis, we 
+measured the 4He-9Be elastic scattering cross section at a 
+177” lab angle from 6.00 to 6.52 MeV with a thin Be/Au 
+bilayer target. The diffusion data in the temperature range 
+between 533 K and 663 K taken with 6.5 MeV 4He elastic 
+scattering revealed that the glass transition significantly 
+influences the temperature dependence of the diffusivity of 
+Be m the amorphous alloy Zr4,,z Ti,,.sCu;,.,Ni,,Be,,.~~ 
+and a model was proposed to explain the enhancement of 
+the Be diffusivity [7]. 
+2. Experimental 
+The experimental procedures are outlined in Ref. [7]; 
+more details about the cross section measurements and 
+diffusion data analysis will be given below. Both measure- 
+ments were performed in the central chamber of the Cal- 
+tech EN tandem accelerator with an ORTEC annular sili- 
+con detector at a 177” lab angle; the setup for geometry, 
+electronics and energy calibration are the same as before 
+181. 
+2.1. 4He-9Be cross section 
+A self-supporting bilayer film Be/Au was made by 
+sputtering Be (about 70 run) onto a 500 nm gold film 
+under UHV conditions at the Hahn-Meitner-Institut in 
+Berlin. Because the gold film is too thick, it is difficult to 
+observe Be signals in RBS with a 4He beam below 1.5 
+MeV, where the interaction between 4He and 9Be are still 
+Rutherford [9]. The ‘Be(p, p)‘Be resonance at E,, = 2.525 
+MeV at lab angle of 142.4” was employed to measure the 
+thickness of the Be layer with an ordinary Si detector. The 
+enhancement of the elastic scattering cross section at the 
+peak is about 40 times higher than the Rutherford value 
+[ 10,111. The area1 density of the Be layer can be obtained 
+from the backscattering spectrum, assuming the ‘H-Au 
+interaction is still pure Coulomb at 2.525 MeV [12]. The 
+total uncertainty of the Be area1 density is about +5% 
+mainly from cross section data (k 3%) and energy loss. To 
+check the thickness of Be an additional measurement of 
+the same resonance was also performed at a different 
+scattering angle (170.5”) where the cross section enhance- 
+ment is up to 60 times Rutherford [9]. The two results 
+agreed to within experimental error, and gave a Be area1 
+density of (Nt)B, = (8.22 + 0.41) X lOI at./cm’ for the target used to determine the 4He-9Be cross section at 
+higher energies. 
+The excitation function was taken from 6.00 to 6.52 
+MeV with energy steps of 20 to 50 keV. With the known 
+thickness of the thin Be layer and the yield in the scatter- 
+ing spectrum the 4He-9Be cross section a,,(E) can be 
+calculated [ 121: 
+(1) 
+where A,, is integrated Be peak counts and H(“’ is 
+surface height for scattering from the gold film (neglecting 
+the energy loss in the thin Be layer); a,,(E) is the 
+Rutherford cross section for Au at the same energy E; 5 is 
+the energy scale of the spectrum (keV/channel) and [&Ii,” 
+is the stopping cross section factor for 4He scattered from 
+Au in the Au film. (Nt)ue is the area1 density of the Be 
+layer, obtained as described above. 
+2.2. Beryllium diffusion measurements 
+Diffusion couples of the infinite source type were 
+formed by coating a 1 pm thick Be layer onto the amor- 
+phous alloys. The surfaces of bulk Zr,,.,Ti 13.2Cu,2.5Ni10- 
+Be 22.5 samples with a diameter 5 mm and thickness of 1 
+mm were polished mechanically and electrochemically. 
+The surface roughness, as shown by atomic force mi- 
+croscopy and Norma&i interferometry, was ultimately 
+less than 10 nm (RMS). To eliminate any possible diffu- 
+sion barrier on the surface of the sample and prevent 
+re-oxidation of the sample surface and interface, the pro- 
+cess for sputter cleaning the sample surface and sputtering 
+Be onto the surface were all performed under UHV condi- 
+tions. Each sample was cut into two pieces, one of them 
+was treated for different times at the same temperature, the 
+other served as a reference sample. The annealing was 
+performed in a differential scanning calorimeter or a rapid 
+thermal annealing furnace (for short time treatments, at a 
+higher temperature). After the heat treatment the amor- 
+phous structure of the alloys was checked with X-ray 
+diffraction analysis and transmission electron microscopy. 
+To profile the Be concentration the 6.5 Mev 4He2+ 
+elastic backscattering measurements were carried out with 
+the same detection setup as in the 4He-9Be cross section 
+measurements; the typical beam density was 10 nA/mm*. 
+For data analysis, the low-energy electronic noise of the 
+spectra and the contribution of the Zr,,,,Ti ,s,sC~~~,~Ni~~- 
+Be 22,5 bulk to the signal were removed by subtracting a 
+spectrum of a bare Zr,,,2Ti,,sCu,,,,Ni ,J3e22.s sample 
+without the Be layer. Signal broadening from the interface 
+due to finite energy resolution of the detector, electronic 
+noise, interface roughness, and energy straggling were 
+determined for each heat-treated sample by measuring a 
+corresponding reference sample to normalize the back- 
+ground and subtract the contributions from effects other 
+Y. Qiu et al./Nucl. Instr. and Meth. in Phys. Res. B 117 (1996) 151-155 153 
+than the real Be diffusion. The diffusivities were calculated 
+from the low energy tail of the Be backscattering signals 
+coming from regions with a Be content near 22.5 at%. By 
+fitting the concentration profile of the infinite source type 
+[131, 
+77.5 at% 
+C*,(x) = 2 x - xa 
+-erfc - 
+( 1 2&G * 
+to the low energy tail of the Be signal and considering the 
+experimentally determined signal broadening (see below), 
+the diffusivity D,, can be determined. In this expression, 
+erfc is the complementary error function, x0 is the location 
+of the interface, and t is the duration of heat treatment at 
+the particular temperature.. A Matano analysis [13] of the 
+diffusion profiles reveals the same concentration indepen- 
+dent diffusivity for Be contents less than 40 at% and thus 
+justifies performance of this simple analysis. 
+3. Results and discussion 
+Fig. 1 shows a typical 2.525 MeV proton backscatter- 
+ing spectrum from the Be/Au bilayer at a lab angle 142.4” 
+with an ordinary silicon surface barrier detector. Both Be 
+and Au exhibit isolated peaks well separated from the 
+peaks corresponding to elastic scattering from ‘*C and I60 
+on the surface and interface and from the peaks produced 
+in the ‘Be(p, d)*Be and ‘Be(p, cu16Li reactions. A similar 
+backscattering spectrum of isolated peaks for both Be and 
+Au was also obtained as shown in Fig. 2 for 6.36 MeV 
+Energy (MeV) 
+1.0 2500 1.5 2.0 2.5 
+1 / I , 
+AU 
+2000 2.525 Ye" proton beam on Be/Au - 
+2 at lab angle 142.7 jl 1500 - 
+-d 
+2 .3 
+cd 
+E 1000 - 
+(I : 
+2 z 500 c *Be 
+00 200 300 400 500 600 700 600 900 
+Channel 
+Fig. 1. A 2.525 MeV proton backscattering spectrum from a 
+self-supporting bilayer Be/Au measured at lab angle 142.4” with 
+an ordinary Si surface-barrier detector. The elastic scattering 
+peaks from surface ‘*C and I60 and peaks from products of 
+proton induced reactions are all well separated at this geometry. 
+The cross section data from Refs. [lo,1 11 have been used to 
+determine the area1 density of the Be layer for the cross section 
+measurement in 4He high energy backscattering. Energy (MeV) 
+1 2 3 4 5 6 
+1200, ( I I I t 1 I 
+460 660 
+Channel 800 1000 
+Fig. 2. A typical 6.36 MeV high energy 4He backscattering 
+spectrum of a self-supporting bilayer Be/Au taken at lab angle 
+177” for the cross section measurement. The elastic scattering 
+peaks from surface and interface r*C and I60 are well separated 
+from the 9Be peak. 
+4He backscattered from the same bilayer at a lab angle of 
+177” using an annular Si detector. With the known area1 
+density of the Be layer and using Eq. (I), one can deter- 
+mine the non-Rutherford 4He-gBe cross section at 177” as 
+a function of incident laboratory energy from 6.00 to 6.52 
+MeV. 
+4He-gBe cross sections expressed in terms of the 
+Rutherford cross section at the same energy, a,(E), are 
+plotted in Fig. 3, showing a relatively smooth resonance 
+region with a cross section enhancement of about 40 times 
+over the Rutherford values. The total uncertainty for the 
+4He-gBe cross section data is f 6%. 
+40 + + + + + + 
++++++++++++ 
++ 
+20 
+,I 6.0 6.1 6.2 6.3 6.4 6.5 6.6 
+ENERGY (MeV) 
+Fig. 3. The 4He-gBe elastic scattering cross sections measured at 
+lab angle 177’ for 4He laboratory energies between 6.00 and 6.52 
+MeV, expressed in terms of the Rutherford cross section, a,, at 
+the same energy, with typical uncertainties +6%. 
+154 Y. Qiu et al./Nucl. Instr. and Meth. in Phys. Res. B 117 (1996) 151-155 
+Energy (MeV) 
+at lab angle 1770 
+15 
+10 
+5 
+0 
+100 200 300 400 500 
+Channel 
+Fig. 4. A typical 6.5 MeV 4He backscattering spectrum from a 1.2 
+urn Be layer on Zr,,.,Ti,,.sCu,,,,Ni,,Be,,,s, detected with an 
+annular silicon detector at lab angle 177”. Contributions from 
+electronic noise have been removed from the low energy part of 
+the spectrum. The RUMP computer simulation is also shown. 
+A typical 6.5 MeV 4He backscattering spectrum from 
+the diffusion couple ‘Be/Zr,,,,Ti ,a&u ,2.5Ni ,dOBe,,,, is 
+presented in Fig. 4. As the spectrum shows, the strong Be 
+peak above the scattering plateau due to the alloy and the 
+Rutherford-like energy dependence of the cross section 
+data make it possible to profile the diffusing Be atoms 
+quantitatively as the regular RBS technique does, except, 
+here we have a much larger value of the cross section. The 
+(a) 0 reference sample 
+-tit: o=lSkeV 
+(h) 0 135min @I 628K 
+------fit: o=lBkeV, 
+si D=lSxlCk’9m*/ 
+g 
+v 
+a-Zr4,,zTi,3.8Cu Ni Be 12.5 10 22.5 
+I 
+Ch2$nel I 
+250 
+Fig. 5. (a) Backscattering data at the interface region from a 
+reference sample of Be/Zr,,.,Ti,,,sCu,,,,Ni,,Be,2.s (open cir- 
+cles). All signal broadening effects can be taken into account by a 
+simple Gaussian broadening function with standard deviation o = 
+18 keV (solid line); (b) backscattering data of the interface 
+corresponding to (a), after 135 min heat treatment at 628 K (open 
+squares). The Be concentration profile can be fitted for low Be 
+content assuming the above signal broadening and Due = 1.5X 
+1O-‘9 ma/s (dashed line). enhanced elastic scattering peaks produced by surface ‘*C 
+and I60 are also seen in the spectrum and they are more 
+pronounced for the heat treated samples. After removal of 
+electronic noise contributions to the measured spectrum 
+(which affect the low energy part near the Be signal), 
+computer simulation can fit the spectrum well using the 
+RUMP [14] code with the measured cross section data for 
+4He on 9Be discussed above. The leading edge of the Be 
+peak shows a slightly lower surface height (about 5%) than 
+the height in the simulation. This is presumably caused by 
+surface oxidation of the Be layer but does not affect the 
+analysis of the interface region. For the computer simula- 
+tion we had to use Ti(4He, 4He)Ti cross section data in the 
+vicinity of 6.5 MeV that was lower than the Rutherford 
+value by about 10% [1.5]. 
+In Fig. 5 (which is not an enlarged part of Fig. 4) only 
+the interface regions of the spectra from a reference and 
+the corresponding diffused sample are shown. Fig. Sa is 
+the backscattering data of a reference sample as prepared. 
+In order to quantify the signal broadening effects, the 
+concentration versus backscattering energy function of this 
+non-diffused sample was assumed to be step-like and 
+weight-averaged with a Gaussian broadening function, 
+i?(E) = &&enp - (_ y-J0)1) 
+with the Be concentration evaluated at E, and the average 
+computed over a sufficiently large range of energy E. This 
+expression was fitted to the data, with the standard devia- 
+tion cr as a fitting parameter. As demonstrated by the solid 
+line in Fig. 5a, all signal broadening effects can be taken 
+into account by (T= 18 keV. Fig. 5b gives the interface 
+data from a diffusion sample corresponding to (a) after a 
+135 min heat treatment at 628 K. The Be concentration 
+profile can be fitted well for low Be content, assuming the 
+above signal broadening and D,, = 1.5 X lo-l9 m*/s. 
+However, as can be seen in Fig. 5b, the fitting shows some 
+deviation for high Be content, presumably this is due to a 
+concentration-dependent diffusivity. An Arrhenius plot of 
+the D,, data in the temperature region from 533 to 663 K 
+is given in Fig. 6; diffusion data above 663 K were not 
+accessible due to crystallization. The data can apparently 
+be divided into two subsets, both fitted with Arrhenius 
+laws D&‘) = Do exp(- Q/kaT). The first subset for 
+temperature from 533 to 613 K with D, = 1.8 X lo-” 
+m2/s and Q = 1.05 eV atom- ‘. The second subset for 
+temperature from 623 to 663 K shows remarkably different 
+values, Do = 1.1 X lO+ r7 m*/s and Q = 4.41 eV atom-‘. 
+The cross point of the two subsets is located just at the 
+temperature that corresponds to the glass transition of the 
+alloy. As the data indicate, in the supercooled liquid state 
+of Zr,,.2Tii&uiz.sNi loBe22.5 the pre-exponential factor 
+Do increases over 28 orders of magnitude, and the Q 
+value is unreasonably high - if one interprets the data in 
+terms of Arrhenius behavior. A model which takes into 
+Y. Qiu et al./Nucl. Instr. and Meth. in Phys. Res. 3 117 (19961 151-155 155 
+T W) 
+723 613 623 573 523 
+Q = 1 .OSeV 
+. . 0 ,l.l.10+‘7& 
+Q"= 4.47eV 
+.” 
+1.4 1.5 1.6 1.7 1.8 1.9 
+1000/T (K“) 
+Fig. 6. Arrhenius plot of the self diffusivity of Be in 
+Zr,,.zTi,3.8CU,,,,Ni,0Be22.5 (solid circles) and two Arrhenius fits 
+to the data (lines). 
+account the change in configuration entropy due to the 
+glass transition yields a modified Arrhenius law [7]: 
+DS”(T) = 0;” exp( -5) exp( NAsy(T)). 
+where Dps is the pre-exponential factor combining all 
+temperature independent quantities, AHsLs is the migra- 
+tion enthalpy in the SLS, AssLs(T) is the communal 
+entropy per atom of the SLS, and N is the number of 
+nearest and possibly next-nearest neighbor atoms that can 
+influence the diffusing atom. By fitting the experimental 
+diffusion data for D,, in the SLS using the above equation 
+one obtains values of DiLs = 1.4 X lo-” m’/s, N = 22 
+and A HiLs = 1.020 eV atom- ’ for the three fitting pa- 
+rameters. Both Dps and AHE’ are almost identical to 
+those found for the Arrhenius law below Ta in the SS. The 
+results suggest that the enhanced temperature dependence 
+of the diffusivity of Be above Ts in the new alloy is not in 
+fact due to a higher activation energy, but rather to the 
+increasing contribution of the liquid communal entropy 
+with temperature in the SLS. Interesting subjects to further 
+study are: (1) Whether these features are generally valid 
+for diffusion in the SLS of other amorphous metallic 
+systems; and (2) the comparison of the proposed model 
+with diffusivity measurements at still higher temperatures 
+in the SLS. 
+4. Summary 
+The 4He-9Be elastic scattering cross section at a lab 
+angle of 177” in the energy region 6.00 to 6.52 MeV has 
+been measured with a total uncertainty of +6%. This 
+broad range of enhanced 9Be((Y, a)‘Be cross section, 
+about 40 times higher than the Rutherford, has been suc- cessfully used to profile beryllium diffusion in the super- 
+cooled liquid state of the bulk amorphous metallic alloy 
+Zr,,.,Ti13.sCu12.5N110Be22.5. A remarkable increase in the 
+temperature dependence of the Be self diffusivity in the 
+SLS was revealed. Beryllium, one of the lightest metal 
+elements, is playing an increasingly important role in many 
+fields. Thus, this strongly resonant region will be quite 
+useful for probing Be in the presence of a heavy substrate 
+with reasonable depth resolution (- 100 ;i>. 
+Acknowledgements 
+This work was supported in part by the National Sci- 
+ence Foundation Grant DMR 93-18931, by the U.S. De- 
+partment of Energy Grant No. DE-FG03-86ER45242, and 
+by the U.S. Army Research Office Grant DAAH04-95-l- 
+0233. We gratefully acknowledge valuable assistance by 
+A. Rice, S. Stryker and I. Dencks. 
+References 
+El] F.E. Luborsky, ed., in: Amorphous Metallic Alloy, Buner- 
+worths Monographs in Materials, (Butterworths, London/ 
+Boston, 1983). 
+[Z] A. Peker and W.L. Johnson, Appl. Phys. Lett. 63 (1993) 
+2342. 
+131 W.L. Johnson and A. Peker, in: M.A. Otooni, ed., in: Science 
+and Technology of Rapid Solidification and Processing 
+(Kluwer Academic, 1995) 25. 
+141 J.F. Harmon, J.M. Knox and G. Vizkelelhy, Nucl. Instr. and 
+Meth. B 85 (1994) 33. 
+[51 J.W. McMillan, P.H. Hirst, F.C.W. Pummery, J. Huddeeston 
+and T.B. Pierce, Nucl. Instr. and Meth. 149 (1978) 83. 
+[61 J.D. Goss, S.L. Blatt, D.R. Parsignault, CD. Porterfield and 
+F.L. Riffle, Phys. Rev. C 7 (1973) 1873; 
+R.B. Taylor, N.R. Fletcher and R.H. Davis, Nucl. Phys. 65 
+(1965) 318. 
+[71 U. Geyer, S. Schneider, W.L. Johnson, Y. Qiu, T.A. 
+Tombrello and M.-P. Macht, Phys. Rev. Lett. 75 (1995) 
+2364. 
+181 Y. Qiu, A.P. Rice and T.A. Tombrello, Nucl. Instr. and 
+Meth. B 71 (1992) 324. 
+[91 J.A. Leavitt, L.C. McIntyre Jr., R.S. Champlin, J.O. Stoner 
+Jr., Z. Lin, M.D. Askbough, R.P. Cox and J.D. Frank, Nucl. 
+Ins% and Meth. B 85 (1994) 37. 
+[lOI F.S. Mozer, Phys. Rev. 104 (1956) 1386. 
+[ill P.R. Wrean, C.R. Brune and R.W. Kavanagh, Phys. Rev. C 
+49 (1994) 1205. 
+[121 W.K. Chu, J.W. Mayer and M.-A. Nicolet, Backscattering 
+Spectrometry (Academic Press, New York, 1978). 
+[I31 J. Crank, The Mathematics of Diffusion (Clarendon Press, 
+Oxford, 1975). 
+[14] L.K. Doolittle, Nucl. Instr. and Meth. B 9 (1985) 344. 
+[151 K.M. Hubbard, J.A. Martin, R.E. Muenchausen, J.R. Tesmer 
+and N. Nastasi, in: High Energy and Heavy Ion Beams in 
+Materials Analysis, eds. J.R. Tesmer, J. Maggiore, M. Nas- 
+tasi, J.C. Barbour and J.W. Mayer (MRS, Pittsburgh, 1990) 
+p. 171. 

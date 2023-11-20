@@ -1,0 +1,5589 @@
+cm, PROPN 
+Nuclear, PROPN 
+Instruments, PROPN 
+Methods, PROPN 
+Physics, PROPN 
+Research, PROPN 
+B, PROPN 
+119, NUM 
+1996, NUM 
+30, NUM 
+41, NUM 
+
+, SPACE 
+ELSEVlER, PROPN 
+Beam, PROPN 
+Inteactloes, VERB 
+
+, SPACE 
+Materials, NOUN 
+Atoms, NOUN 
+
+, SPACE 
+role, NOUN 
+classical, ADJ 
+quantum, NOUN 
+notions, NOUN 
+channeling, VERB 
+
+, SPACE 
+development, NOUN 
+fast, ADJ 
+positrons, NOUN 
+solid, ADJ 
+state, NOUN 
+probe, NOUN 
+
+, SPACE 
+valence, NOUN 
+electron, NOUN 
+spin, NOUN 
+densities, NOUN 
+
+, SPACE 
+Lene, PROPN 
+Vestergaard, PROPN 
+Hau, PROPN 
+a7c, PROPN 
+J.A., PROPN 
+Golovchenko, PROPN 
+a*c, PROPN 
+R., PROPN 
+Haakenaasen, PROPN 
+b*d, NOUN 
+A.W., PROPN 
+Hunt, PROPN 
+
+, SPACE 
+J.P., PROPN 
+Peng, PROPN 
+d, PROPN 
+P., PROPN 
+Asoka-&mar, PROPN 
+d, PROPN 
+KG, PROPN 
+Lynn, PROPN 
+d, PROPN 
+M., PROPN 
+Weinert, PROPN 
+d, PROPN 
+J.C., PROPN 
+Palathingal, PROPN 
+e, NOUN 
+
+, SPACE 
+Rowland, PROPN 
+Institute, PROPN 
+Science, PROPN 
+Edwin, PROPN 
+H., PROPN 
+Lund, PROPN 
+Boulevard, PROPN 
+Cambridge, PROPN 
+MA, PROPN 
+OZI42, PROPN 
+USA, PROPN 
+
+, SPACE 
+b, PROPN 
+Department, PROPN 
+Physics, PROPN 
+Universiry, PROPN 
+Oslo, PROPN 
+Oslo, PROPN 
+Norway, PROPN 
+
+, SPACE 
+Department, PROPN 
+Physics, PROPN 
+Harvard, PROPN 
+University, PROPN 
+Cambridge, PROPN 
+MA, PROPN 
+02138, NUM 
+USA, PROPN 
+
+, SPACE 
+d, PROPN 
+Department, PROPN 
+Physics, PROPN 
+Brookhaven, PROPN 
+Nutional, PROPN 
+Laboratory, PROPN 
+Upton, PROPN 
+NY, PROPN 
+11973, NUM 
+USA, PROPN 
+
+, SPACE 
+Department, PROPN 
+Physics, PROPN 
+University, PROPN 
+Puerto, PROPN 
+Rico, PROPN 
+Mayogue, PROPN 
+Puerto, PROPN 
+Rico, PROPN 
+00680, NUM 
+
+, SPACE 
+Received, VERB 
+24, NUM 
+November, PROPN 
+199.5, NUM 
+revised, VERB 
+form, NOUN 
+received, VERB 
+3, NUM 
+April, PROPN 
+1996, NUM 
+
+, SPACE 
+Abstract, ADJ 
+
+, SPACE 
+subtleties, NOUN 
+interplay, NOUN 
+classical, ADJ 
+quantum, NOUN 
+pictures, NOUN 
+revealed, VERB 
+particularly, ADV 
+clearly, ADV 
+connection, NOUN 
+
+, SPACE 
+effect, NOUN 
+channeling, VERB 
+role, NOUN 
+interplay, NOUN 
+described, VERB 
+related, VERB 
+new, ADJ 
+probe, NOUN 
+valence, NOUN 
+electron, NOUN 
+spin, VERB 
+
+, SPACE 
+magnetic, ADJ 
+densities, NOUN 
+thin, ADJ 
+films, NOUN 
+based, VERB 
+photon, NOUN 
+annihilation, NOUN 
+flight, NOUN 
+channeled, ADJ 
+MeV, PROPN 
+positrons, NOUN 
+
+, SPACE 
+channeling, VERB 
+effect, NOUN 
+steer, VERB 
+positrons, NOUN 
+interstices, NOUN 
+crystal, NOUN 
+valence, NOUN 
+electron, NOUN 
+density, NOUN 
+high, ADJ 
+
+, SPACE 
+Transmission, NOUN 
+measurements, NOUN 
+performed, VERB 
+test, VERB 
+quantitative, ADJ 
+understanding, NOUN 
+spatial, NOUN 
+momentum, NOUN 
+
+, SPACE 
+distribution, NOUN 
+channeled, VERB 
+positrons, NOUN 
+calculate, VERB 
+annihilation, NOUN 
+rates, NOUN 
+gold, NOUN 
+crystal, NOUN 
+probe, NOUN 
+highly, ADV 
+
+, SPACE 
+sensitive, ADJ 
+valence, NOUN 
+electrons, NOUN 
+Channeling, VERB 
+states, NOUN 
+iron, NOUN 
+shown, VERB 
+sensitive, ADJ 
+different, ADJ 
+regions, NOUN 
+spin, NOUN 
+magnetic, ADJ 
+
+, SPACE 
+density, NOUN 
+polarized, VERB 
+beam, NOUN 
+MeV, PROPN 
+positrons, NOUN 
+possibility, NOUN 
+selective, ADJ 
+state, NOUN 
+population, NOUN 
+spatial, ADJ 
+
+, SPACE 
+distribution, NOUN 
+magnetization, NOUN 
+density, NOUN 
+probed, VERB 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+channeling, VERB 
+
+, SPACE 
+recent, ADJ 
+years, NOUN 
+significant, ADJ 
+interest, NOUN 
+studies, NOUN 
+
+, SPACE 
+fundamental, ADJ 
+quantum, NOUN 
+effects, NOUN 
+created, VERB 
+desire, NOUN 
+con-, NOUN 
+
+, SPACE 
+structing, VERB 
+wave, NOUN 
+guides, NOUN 
+de, X 
+Broglie, PROPN 
+matter, NOUN 
+waves, NOUN 
+l-4, PROPN 
+
+, SPACE 
+guides, NOUN 
+act, VERB 
+transport, NOUN 
+systems, NOUN 
+result, VERB 
+trans-, VERB 
+
+, SPACE 
+verse, NOUN 
+motion, NOUN 
+stably, ADV 
+bound, VERB 
+confining, ADJ 
+di-, NOUN 
+
+, SPACE 
+mensional, ADJ 
+potential, NOUN 
+free, ADJ 
+longitudinal, ADJ 
+motion, NOUN 
+
+, SPACE 
+length, NOUN 
+structure, NOUN 
+bound, ADJ 
+states, NOUN 
+
+, SPACE 
+guide, NOUN 
+offer, VERB 
+direct, ADJ 
+evidence, NOUN 
+quantum, NOUN 
+interference, NOUN 
+
+, SPACE 
+de, X 
+Broglie, PROPN 
+waves, NOUN 
+sharpness, NOUN 
+energy, NOUN 
+levels, NOUN 
+
+, SPACE 
+associated, VERB 
+states, NOUN 
+result, NOUN 
+wave, NOUN 
+interference, NOUN 
+
+, SPACE 
+similar, ADJ 
+frequency, ADJ 
+selection, NOUN 
+high, ADJ 
+quality, NOUN 
+interfer-, ADJ 
+
+, SPACE 
+ometer, NOUN 
+propagate, VERB 
+microwaves, NOUN 
+example, NOUN 
+special, ADJ 
+
+, SPACE 
+wave, NOUN 
+guide, NOUN 
+required, VERB 
+similarly, ADV 
+de, PROPN 
+Broglie, PROPN 
+waves, NOUN 
+
+, SPACE 
+associated, VERB 
+atoms, NOUN 
+cooled, VERB 
+temperatures, NOUN 
+
+, SPACE 
+microkelvin, NOUN 
+new, ADJ 
+techniques, NOUN 
+laser, NOUN 
+cooling, NOUN 
+51, NUM 
+
+, SPACE 
+need, VERB 
+special, ADJ 
+guiding, VERB 
+structures, NOUN 
+
+, SPACE 
+Corresponding, VERB 
+author, NOUN 
+E, NOUN 
+mail, NOUN 
+hau@risvax.rowland.org, PROPN 
+Fax, NOUN 
+
+, SPACE 
++, SYM 
+1, NUM 
+617, NUM 
+4974627, NUM 
+de, PROPN 
+Broglie, PROPN 
+waves, NOUN 
+associated, VERB 
+electrons, NOUN 
+
+, SPACE 
+positrons, NOUN 
+MeV, NOUN 
+wave, NOUN 
+guide, NOUN 
+created, VERB 
+
+, SPACE 
+strong, ADJ 
+electric, ADJ 
+field, NOUN 
+proximity, NOUN 
+atomic, ADJ 
+strings, NOUN 
+
+, SPACE 
+single, ADJ 
+crystals, NOUN 
+motion, NOUN 
+high, ADJ 
+energy, NOUN 
+charged, VERB 
+parti-, NOUN 
+
+, SPACE 
+cles, NOUN 
+penetrating, VERB 
+crystal, NOUN 
+small, ADJ 
+angles, NOUN 
+atomic, ADJ 
+
+, SPACE 
+axis, NOUN 
+governed, VERB 
+continuum, ADJ 
+potential, NOUN 
+obtained, VERB 
+
+, SPACE 
+average, NOUN 
+crystal, NOUN 
+potential, NOUN 
+atomic, ADJ 
+string, NOUN 
+z, PROPN 
+
+, SPACE 
+direction, NOUN 
+
+, SPACE 
+d, NOUN 
+interatomic, ADJ 
+spacing, NOUN 
+atoms, NOUN 
+
+, SPACE 
+string, NOUN 
+examples, NOUN 
+wave, NOUN 
+structures, NOUN 
+represent, VERB 
+
+, SPACE 
+large, ADJ 
+span, NOUN 
+scales, NOUN 
+wavelengths, NOUN 
+microwaves, NOUN 
+
+, SPACE 
+cm, NOUN 
+wavelengths, NOUN 
+propagate, VERB 
+macroscopic, ADJ 
+structures, NOUN 
+
+, SPACE 
+microkelvin, ADJ 
+cold, ADJ 
+atoms, NOUN 
+wavelengths, NOUN 
+
+, SPACE 
+order, NOUN 
+1000, NUM 
+require, VERB 
+mesoscopic, ADJ 
+structures, NOUN 
+based, VERB 
+
+, SPACE 
+micron, NOUN 
+sized, ADJ 
+wires, NOUN 
+propagation, NOUN 
+MeV, PROPN 
+electrons, NOUN 
+
+, SPACE 
+positrons, NOUN 
+wavelengths, NOUN 
+connected, VERB 
+transverse, ADJ 
+
+, SPACE 
+motion, NOUN 
+order, NOUN 
+matches, VERB 
+size, NOUN 
+
+, SPACE 
+crystalline, NOUN 
+wave, NOUN 
+guides, NOUN 
+
+, SPACE 
+0168, NUM 
+583X/96/$15.00, PROPN 
+Copyright, NOUN 
+0, NUM 
+1996, NUM 
+Elsevier, ADJ 
+Science, NOUN 
+J3.V., NOUN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+PII, PROPN 
+SO168, PROPN 
+583X(96)00307, NUM 
+2, NUM 
+
+, SPACE 
+L.V., PROPN 
+Hau, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Insrr, PROPN 
+Merh, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+I19, PROPN 
+1996, NUM 
+30, NUM 
+41, NUM 
+31, NUM 
+
+, SPACE 
+theoretical, ADJ 
+foundation, NOUN 
+crystalline, NOUN 
+guiding, NOUN 
+
+, SPACE 
+channeling, VERB 
+contained, VERB 
+papers, NOUN 
+Lindhard, PROPN 
+
+, SPACE 
+6.7, NUM 
+channeling, VERB 
+corresponding, VERB 
+bound, VERB 
+motion, NOUN 
+
+, SPACE 
+continuum, VERB 
+potential, NOUN 
+incidence, ADJ 
+angles, NOUN 
+charged, VERB 
+parti-, NOUN 
+
+, SPACE 
+cles, NOUN 
+smaller, ADJ 
+angle, NOUN 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+U, PROPN 
+height, NOUN 
+continuum, ADJ 
+potential, NOUN 
+
+, SPACE 
+p, NOUN 
+u, NOUN 
+particle, NOUN 
+momentum, NOUN 
+velocity, NOUN 
+critical, ADJ 
+
+, SPACE 
+angle, NOUN 
+channeling, NOUN 
+valid, ADJ 
+positively, ADV 
+nega-, NOUN 
+
+, SPACE 
+tively, ADV 
+charged, VERB 
+particles, NOUN 
+6, NUM 
+alternative, ADJ 
+angle, NOUN 
+8, NUM 
+
+, SPACE 
+introduced, VERB 
+result, NOUN 
+investigation, NOUN 
+
+, SPACE 
+validity, NOUN 
+continuum, ADJ 
+potential, NOUN 
+requirement, NOUN 
+
+, SPACE 
+atoms, NOUN 
+string, NOUN 
+contribute, NOUN 
+scattering, NOUN 
+
+, SPACE 
+incident, NOUN 
+particle, NOUN 
+distance, NOUN 
+closest, ADJ 
+approach, NOUN 
+
+, SPACE 
+leads, VERB 
+requirement, NOUN 
+incidence, NOUN 
+angles, NOUN 
+smaller, ADJ 
+
+, SPACE 
+
+, SPACE 
+Z, PROPN 
+e, NOUN 
+charge, NOUN 
+incoming, ADJ 
+particle, NOUN 
+
+, SPACE 
+Z, PROPN 
+atomic, ADJ 
+number, NOUN 
+target, NOUN 
+atoms, NOUN 
+analysis, NOUN 
+ap-, VERB 
+
+, SPACE 
+plies, NOUN 
+positively, ADV 
+charged, VERB 
+channeled, VERB 
+particles, NOUN 
+
+, SPACE 
+critical, ADJ 
+angles, NOUN 
+typically, ADV 
+order, NOUN 
+
+, SPACE 
+magnitude, NOUN 
+
+, SPACE 
+guiding, VERB 
+effect, NOUN 
+heavy, ADJ 
+ions, NOUN 
+MeV, NOUN 
+
+, SPACE 
+turned, VERB 
+standard, ADJ 
+tool, NOUN 
+investigation, NOUN 
+crystal, NOUN 
+
+, SPACE 
+quality, NOUN 
+defect, VERB 
+locations, NOUN 
+8, NUM 
+intellectually, ADV 
+
+, SPACE 
+intriguing, ADJ 
+aspect, NOUN 
+channeling, VERB 
+effect, NOUN 
+illus-, NOUN 
+
+, SPACE 
+tration, NOUN 
+subtle, ADJ 
+interplay, NOUN 
+classical, ADJ 
+orbital, ADJ 
+
+, SPACE 
+quantum, ADJ 
+mechanical, ADJ 
+pictures, NOUN 
+example, NOUN 
+inter-, ADJ 
+
+, SPACE 
+play, NOUN 
+consider, VERB 
+scattering, VERB 
+charged, VERB 
+particle, NOUN 
+
+, SPACE 
+atomic, ADJ 
+string, NOUN 
+6,9, X 
+results, VERB 
+combined, VERB 
+scat-, NOUN 
+
+, SPACE 
+tering, VERB 
+atoms, NOUN 
+scattering, VERB 
+
+, SPACE 
+atoms, NOUN 
+classical, ADJ 
+description, NOUN 
+breaks, VERB 
+limit, NOUN 
+
+, SPACE 
+large, ADJ 
+velocities, NOUN 
+known, VERB 
+fact, NOUN 
+
+, SPACE 
+surprising, ADJ 
+de, PROPN 
+Broglie, PROPN 
+wavelength, NOUN 
+h, PROPN 
+
+, SPACE 
+inversely, ADV 
+proportional, ADJ 
+velocity, NOUN 
+large, ADJ 
+
+, SPACE 
+velocities, NOUN 
+correspond, VERB 
+small, ADJ 
+de, X 
+Broglie, PROPN 
+wavelengths, VERB 
+
+, SPACE 
+wavelength, NOUN 
+compared, VERB 
+charac-, ADJ 
+
+, SPACE 
+teristic, ADJ 
+length, NOUN 
+scattering, VERB 
+problem, NOUN 
+natural, ADJ 
+length, NOUN 
+
+, SPACE 
+collisional, ADJ 
+diameter, NOUN 
+b, PROPN 
+inversely, ADV 
+proportional, ADJ 
+
+, SPACE 
+inverse, ADJ 
+square, NOUN 
+velocity, NOUN 
+classical, ADJ 
+
+, SPACE 
+orbital, ADJ 
+picture, NOUN 
+requires, VERB 
+
+, SPACE 
+b, NOUN 
+2Z, NOUN 
+Z, PROPN 
+e2, PROPN 
+
+, SPACE 
+K=-==>>l, PROPN 
+
+, SPACE 
+x, SYM 
+hV, X 
+
+, SPACE 
+parameter, NOUN 
+K, PROPN 
+introduced, VERB 
+Bohr, PROPN 
+lo, X 
+
+, SPACE 
+collisional, ADJ 
+diameter, NOUN 
+corresponding, VERB 
+un-, AUX 
+
+, SPACE 
+screened, VERB 
+Coulomb, PROPN 
+scattering, VERB 
+charges, NOUN 
+Z, PROPN 
+e, NOUN 
+
+, SPACE 
+Z, PROPN 
+e., PROPN 
+seen, VERB 
+Eq, PROPN 
+4, NUM 
+impact, NOUN 
+parameter, NOUN 
+descrip-, NUM 
+
+, SPACE 
+tion, NOUN 
+breaks, VERB 
+large, ADJ 
+velocities, NOUN 
+scattering, VERB 
+atomic, ADJ 
+string, NOUN 
+classi-, NUM 
+
+, SPACE 
+cal, ADJ 
+orbital, ADJ 
+picture, NOUN 
+valid, ADJ 
+large, ADJ 
+velocity, NOUN 
+limit, NOUN 
+
+, SPACE 
+statement, NOUN 
+represent, VERB 
+inconsistency, NOUN 
+
+, SPACE 
+argument, NOUN 
+scattering, NOUN 
+string, NOUN 
+
+, SPACE 
+series, NOUN 
+correlated, VERB 
+scattering, VERB 
+events, NOUN 
+
+, SPACE 
+scattering, VERB 
+angle, NOUN 
+defined, VERB 
+large, ADJ 
+distances, NOUN 
+
+, SPACE 
+single, ADJ 
+scattering, VERB 
+event, NOUN 
+immaterial, ADJ 
+relevant, ADJ 
+issue, NOUN 
+
+, SPACE 
+spreading, VERB 
+transverse, ADJ 
+wave, NOUN 
+packet, NOUN 
+
+, SPACE 
+interatomic, ADJ 
+spacing, NOUN 
+atomic, ADJ 
+swing, NOUN 
+
+, SPACE 
+wave, NOUN 
+packet, NOUN 
+centered, VERB 
+momentum, NOUN 
+corresponding, VERB 
+
+, SPACE 
+reduced, VERB 
+wavelength, NOUN 
+X, PROPN 
+spreading, VERB 
+G., PROPN 
+
+, SPACE 
+conclude, VERB 
+classical, ADJ 
+orbital, ADJ 
+picture, NOUN 
+
+, SPACE 
+approached, VERB 
+large, ADJ 
+velocities, NOUN 
+
+, SPACE 
+case, NOUN 
+single, ADJ 
+atom, NOUN 
+scattering, VERB 
+intro-, X 
+
+, SPACE 
+duce, VERB 
+kappa, PROPN 
+parameter, NOUN 
+scattering, VERB 
+atomic, ADJ 
+string, NOUN 
+
+, SPACE 
+described, VERB 
+continuum, ADJ 
+potential, NOUN 
+potential, NOUN 
+corre-, NOUN 
+
+, SPACE 
+sponding, VERB 
+smearing, NOUN 
+charge, NOUN 
+distribution, NOUN 
+
+, SPACE 
+string, NOUN 
+direction, NOUN 
+exact, ADJ 
+limit, NOUN 
+large, ADJ 
+velocities, NOUN 
+
+, SPACE 
+seen, VERB 
+simple, ADJ 
+argument, NOUN 
+cutting, VERB 
+
+, SPACE 
+atom, NOUN 
+string, NOUN 
+halves, NOUN 
+placing, VERB 
+pieces, NOUN 
+
+, SPACE 
+half, DET 
+interatomic, ADJ 
+distance, NOUN 
+equivalent, ADJ 
+increasing, VERB 
+
+, SPACE 
+velocity, NOUN 
+factor, NOUN 
+6, NUM 
+string, NOUN 
+scattering, NOUN 
+
+, SPACE 
+kappa, PROPN 
+parameter, NOUN 
+inversely, ADV 
+proportional, ADJ 
+transverse, ADJ 
+
+, SPACE 
+velocity, NOUN 
+~0, NOUN 
+0, NUM 
+angle, NOUN 
+incidence, NOUN 
+respect, NOUN 
+
+, SPACE 
+atomic, ADJ 
+axis, NOUN 
+requirement, NOUN 
+validity, NOUN 
+
+, SPACE 
+classical, ADJ 
+orbital, ADJ 
+picture, NOUN 
+transverse, ADJ 
+motion, NOUN 
+
+, SPACE 
+channeled, VERB 
+particle, NOUN 
+
+, SPACE 
+2Z, NOUN 
+Z, PROPN 
+e, NOUN 
+
+, SPACE 
+KtGIII, NOUN 
+=, NOUN 
+1, NUM 
+
+, SPACE 
+d, NOUN 
+
+, SPACE 
+u, PRON 
+screening, NOUN 
+length, NOUN 
+simple, ADJ 
+Thomas-, PROPN 
+
+, SPACE 
+Fermi, PROPN 
+estimate, NOUN 
+continuum, ADJ 
+string, NOUN 
+potential, NOUN 
+
+, SPACE 
+inserting, VERB 
+critical, ADJ 
+angle, NOUN 
+6, NUM 
+Eq, PROPN 
+5, NUM 
+conclude, VERB 
+
+, SPACE 
+requirement, NOUN 
+fulfilled, VERB 
+particles, NOUN 
+
+, SPACE 
+masses, NOUN 
+large, ADJ 
+compared, VERB 
+electron, NOUN 
+rest, NOUN 
+mass, PROPN 
+
+, SPACE 
+highly, ADV 
+relativistic, ADJ 
+electrons, NOUN 
+positrons, NOUN 
+energies, NOUN 
+
+, SPACE 
+GeV, NOUN 
+classical, ADJ 
+description, NOUN 
+apply, VERB 
+quan-, ADJ 
+
+, SPACE 
+tum, NOUN 
+mechanical, ADJ 
+treatment, NOUN 
+string, NOUN 
+scattering, NOUN 
+required, VERB 
+
+, SPACE 
+electrons, NOUN 
+positrons, NOUN 
+MeV, NOUN 
+considered, VERB 
+
+, SPACE 
+paper, NOUN 
+
+, SPACE 
+point, NOUN 
+stressed, VERB 
+statements, NOUN 
+
+, SPACE 
+applicability, NOUN 
+classical, ADJ 
+mechanics, NOUN 
+absolute, ADJ 
+
+, SPACE 
+statements, NOUN 
+depend, VERB 
+quantity, NOUN 
+consideration, NOUN 
+
+, SPACE 
+Eqs, PROPN 
+4, NUM 
+5, X 
+govern, VERB 
+applicability, NOUN 
+classical, ADJ 
+me-, NOUN 
+
+, SPACE 
+chanics, NOUN 
+determination, NOUN 
+scattering, VERB 
+angles, NOUN 
+large, ADJ 
+
+, SPACE 
+distances, NOUN 
+single, ADJ 
+atom, NOUN 
+single, ADJ 
+string, NOUN 
+scattering, NOUN 
+
+, SPACE 
+scattering, VERB 
+array, NOUN 
+strings, NOUN 
+number, NOUN 
+
+, SPACE 
+classical, ADJ 
+paths, NOUN 
+rise, NOUN 
+scattering, VERB 
+angle, NOUN 
+
+, SPACE 
+prediction, NOUN 
+final, ADJ 
+result, NOUN 
+scattering, VERB 
+process, NOUN 
+
+, SPACE 
+involves, VERB 
+addition, NOUN 
+amplitudes, NOUN 
+associated, VERB 
+
+, SPACE 
+different, ADJ 
+paths, NOUN 
+gives, VERB 
+rise, NOUN 
+interference, NOUN 
+diffrac-, ADJ 
+
+, SPACE 
+tion, NOUN 
+effects, NOUN 
+cases, NOUN 
+scattering, VERB 
+single, ADJ 
+
+, SPACE 
+string, NOUN 
+classical, ADJ 
+Diffraction, NOUN 
+associated, VERB 
+events, NOUN 
+
+, SPACE 
+recoil, NOUN 
+momentum, NOUN 
+scattering, VERB 
+process, NOUN 
+
+, SPACE 
+taken, VERB 
+crystal, NOUN 
+non, ADJ 
+local, ADJ 
+phonon, NOUN 
+
+, SPACE 
+32, NUM 
+L.V., PROPN 
+Hau, PROPN 
+et, PROPN 
+al./NucI., PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Rex, PROPN 
+B, PROPN 
+II9, PROPN 
+1996130, NUM 
+41, NUM 
+
+, SPACE 
+excitation, NOUN 
+local, ADJ 
+excitation, NOUN 
+involved, VERB 
+close, ADJ 
+
+, SPACE 
+encounter, NOUN 
+processes, NOUN 
+associated, VERB 
+large, ADJ 
+angle, NOUN 
+scattering, NOUN 
+
+, SPACE 
+interference, NOUN 
+effects, NOUN 
+disappear, VERB 
+scattering, VERB 
+different, ADJ 
+
+, SPACE 
+atoms, NOUN 
+leads, VERB 
+distinctly, ADV 
+different, ADJ 
+final, ADJ 
+states, NOUN 
+con-, NOUN 
+
+, SPACE 
+siderations, NOUN 
+relevant, ADJ 
+transmission, NOUN 
+scattering, VERB 
+
+, SPACE 
+experiments, NOUN 
+reported, VERB 
+described, VERB 
+paper, NOUN 
+
+, SPACE 
+spin, NOUN 
+density, NOUN 
+probing, VERB 
+iron, NOUN 
+d, NOUN 
+electrons, NOUN 
+rise, NOUN 
+
+, SPACE 
+net, ADJ 
+magnetization, NOUN 
+Quantum, PROPN 
+tunneling, VERB 
+classically, ADV 
+
+, SPACE 
+forbidden, VERB 
+regions, NOUN 
+non, ADJ 
+localized, VERB 
+d, NOUN 
+orbitals, NOUN 
+
+, SPACE 
+main, ADJ 
+contribution, NOUN 
+annihilation, NOUN 
+signals, NOUN 
+
+, SPACE 
+probed, VERB 
+cases, NOUN 
+kappa, PROPN 
+parameter, NOUN 
+single, ADJ 
+
+, SPACE 
+string, NOUN 
+scattering, NOUN 
+large, ADJ 
+
+, SPACE 
+Scattering, VERB 
+strings, NOUN 
+atoms, NOUN 
+study, VERB 
+
+, SPACE 
+impact, NOUN 
+parameter, NOUN 
+dependence, NOUN 
+atomic, ADJ 
+ionization, NOUN 
+pro-, PROPN 
+
+, SPACE 
+cesses, NOUN 
+situations, NOUN 
+classical, ADJ 
+impact, NOUN 
+parameter, NOUN 
+
+, SPACE 
+description, NOUN 
+impossible, ADJ 
+scattering, VERB 
+single, ADJ 
+
+, SPACE 
+atom, NOUN 
+11,12, X 
+
+, SPACE 
+quantized, VERB 
+nature, NOUN 
+motion, NOUN 
+channeled, VERB 
+elec-, PRON 
+
+, SPACE 
+trons, NOUN 
+MeV, NOUN 
+beautifully, ADV 
+revealed, VERB 
+
+, SPACE 
+channeling, VERB 
+radiation, NOUN 
+spectroscopy, NOUN 
+13,141, NUM 
+case, NOUN 
+
+, SPACE 
+quantized, VERB 
+nature, NOUN 
+problem, NOUN 
+revealed, VERB 
+
+, SPACE 
+number, NOUN 
+bound, VERB 
+states, NOUN 
+phase, NOUN 
+space, NOUN 
+
+, SPACE 
+values, NOUN 
+kappa, PROPN 
+parameter, NOUN 
+bound, ADJ 
+states, NOUN 
+
+, SPACE 
+DISTANCE, NOUN 
+STRING, PROPN 
+r(i, PROPN 
+transverse, ADJ 
+motion, NOUN 
+found, VERB 
+eigenstates, NOUN 
+transverse, ADJ 
+
+, SPACE 
+Hamiltonian, ADJ 
+
+, SPACE 
+-2, PUNCT 
+
+, SPACE 
+H,=, X 
+PI, PROPN 
+
+, SPACE 
++, NOUN 
+U(F, PROPN 
+
+, SPACE 
+2v, NOUN 
+6, NUM 
+
+, SPACE 
+y, PROPN 
+relativistic, ADJ 
+gamma, NOUN 
+factor, NOUN 
+
+, SPACE 
+continuum, ADJ 
+potential, NOUN 
+channeling, VERB 
+electrons, NOUN 
+
+, SPACE 
+<, X 
+111, NUM 
+>, X 
+axis, NOUN 
+silicon, NOUN 
+shown, VERB 
+Fig, PROPN 
+la, PROPN 
+
+, SPACE 
+quantized, VERB 
+levels, NOUN 
+corresponding, VERB 
+
+, SPACE 
+electron, NOUN 
+energy, NOUN 
+3.5, NUM 
+MeV, NOUN 
+1151, NUM 
+Channeled, VERB 
+electrons, NOUN 
+
+, SPACE 
+tightly, ADV 
+confined, VERB 
+atomic, ADJ 
+strings, NOUN 
+low, ADJ 
+lying, VERB 
+
+, SPACE 
+levels, NOUN 
+continuum, ADJ 
+potential, NOUN 
+approximated, VERB 
+
+, SPACE 
+single, ADJ 
+string, NOUN 
+potential, NOUN 
+rotational, ADJ 
+symmetry, NOUN 
+
+, SPACE 
+label, VERB 
+states, NOUN 
+2s, PROPN 
+2p, NOUN 
+etc, X 
+according, VERB 
+
+, SPACE 
+quantum, NOUN 
+number, NOUN 
+orbital, ADJ 
+angular, ADJ 
+momentum, NOUN 
+projected, VERB 
+
+, SPACE 
+string, NOUN 
+direction, NOUN 
+Fig, PROPN 
+lb, PROPN 
+contains, VERB 
+experimental, ADJ 
+
+, SPACE 
+radiation, NOUN 
+spectrum, NOUN 
+emitted, VERB 
+3.5, NUM 
+MeV, NOUN 
+electrons, NOUN 
+chan-, NUM 
+
+, SPACE 
+neled, VERB 
+<, X 
+111, NUM 
+>, X 
+axis, NOUN 
+silicon, NOUN 
+spec-, ADJ 
+
+, SPACE 
+trum, NOUN 
+obtained, VERB 
+placing, VERB 
+solid, ADJ 
+state, NOUN 
+detector, NOUN 
+
+, SPACE 
+forward, ADJ 
+beam, NOUN 
+direction, NOUN 
+Clearly, ADV 
+superimposed, VERB 
+W, PROPN 
+
+, SPACE 
+incoherent, ADJ 
+bremsstrahlung, PROPN 
+spectrum, NOUN 
+line, NOUN 
+spectrum, NOUN 
+
+, SPACE 
+corresponds, VERB 
+transitions, NOUN 
+quantized, VERB 
+
+, SPACE 
+W, PROPN 
+3000, NUM 
+IO, PROPN 
+m, VERB 
+
+, SPACE 
+ENERGY, PROPN 
+keV, PROPN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Continuum, ADJ 
+potential, NOUN 
+<, X 
+111, NUM 
+>, X 
+-axial, ADJ 
+wave, NOUN 
+guide, NOUN 
+silicon, NOUN 
+potential, NOUN 
+thermally, ADV 
+averaged, VERB 
+lattice, NOUN 
+
+, SPACE 
+vibrations, NOUN 
+different, ADJ 
+crystal, NOUN 
+temperatures, NOUN 
+quantized, VERB 
+states, NOUN 
+corresponding, VERB 
+electron, NOUN 
+energy, NOUN 
+3.5, NUM 
+MeV., NOUN 
+
+, SPACE 
+single, ADJ 
+string, NOUN 
+potential, NOUN 
+rotationally, ADV 
+symmetric, ADJ 
+label, VERB 
+deeply, ADV 
+bound, VERB 
+channeling, VERB 
+states, NOUN 
+according, VERB 
+angular, ADJ 
+momentum, NOUN 
+
+, SPACE 
+quantum, NOUN 
+number, NOUN 
+b, X 
+Radiation, PROPN 
+spectra, NOUN 
+3.5, NUM 
+MeV, NOUN 
+electrons, NOUN 
+channeled, VERB 
+<, X 
+111, NUM 
+>, X 
+axis, NOUN 
+5600, NUM 
+thick, ADJ 
+silicon, NOUN 
+crystal, NOUN 
+
+, SPACE 
+spectra, NOUN 
+obtained, VERB 
+lithium, NOUN 
+doped, VERB 
+silicon, NOUN 
+detector, NOUN 
+placed, VERB 
+forward, ADJ 
+beam, NOUN 
+direction, NOUN 
+quantized, VERB 
+structure, NOUN 
+
+, SPACE 
+dimensional, ADJ 
+bound, VERB 
+motion, NOUN 
+crystalline, NOUN 
+wave, NOUN 
+guide, NOUN 
+clearly, ADV 
+revealed, VERB 
+line, NOUN 
+spectrum, NOUN 
+superimposed, VERB 
+l, NOUN 
+o, PROPN 
+
+, SPACE 
+incoherent, ADJ 
+bremsstrahlung, ADJ 
+background, NOUN 
+
+, SPACE 
+L.V., PROPN 
+Hau, PROPN 
+er, INTJ 
+al./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+119, NUM 
+11996, NUM 
+30, NUM 
+41, NUM 
+
+, SPACE 
+levels, NOUN 
+Fig, PROPN 
+la, X 
+Typical, ADJ 
+level, NOUN 
+spacings, NOUN 
+order, NOUN 
+
+, SPACE 
+10, NUM 
+eV, NUM 
+Lorentz, PROPN 
+boost, NOUN 
+radiation, NOUN 
+energies, NOUN 
+
+, SPACE 
+keV, NOUN 
+region, NOUN 
+recoil, NOUN 
+effect, NOUN 
+radiating, NOUN 
+
+, SPACE 
+relativistic, ADJ 
+electron, NOUN 
+energy, NOUN 
+emitted, VERB 
+photon, NOUN 
+
+, SPACE 
+supplied, VERB 
+mainly, ADV 
+energy, NOUN 
+reservoir, NOUN 
+associated, VERB 
+
+, SPACE 
+longitudinal, ADJ 
+relativistic, ADJ 
+motion, NOUN 
+
+, SPACE 
+Channeling, VERB 
+radiation, NOUN 
+spectroscopy, NOUN 
+developed, VERB 
+
+, SPACE 
+16,171, NUM 
+successfully, ADV 
+applied, VERB 
+obtain, VERB 
+precise, ADJ 
+
+, SPACE 
+values, NOUN 
+solid, ADJ 
+state, NOUN 
+parameters, NOUN 
+thermal, ADJ 
+vibra-, ADJ 
+
+, SPACE 
+tional, ADJ 
+amplitudes, NOUN 
+18, NUM 
+possible, ADJ 
+obtain, VERB 
+vibra-, ADJ 
+
+, SPACE 
+tional, ADJ 
+correlation, NOUN 
+coefficients, NOUN 
+linewidths, NOUN 
+planar, NOUN 
+
+, SPACE 
+channeling, VERB 
+lines, NOUN 
+16, NUM 
+Planar, PROPN 
+channeling, VERB 
+refers, VERB 
+di-, NOUN 
+
+, SPACE 
+mensional, ADJ 
+bound, VERB 
+motion, NOUN 
+planar, NOUN 
+continuum, VERB 
+potential, NOUN 
+
+, SPACE 
+obtained, VERB 
+crystal, NOUN 
+potential, NOUN 
+averaging, VERB 
+
+, SPACE 
+planar, ADJ 
+directions, NOUN 
+description, NOUN 
+applicable, ADJ 
+charged, VERB 
+
+, SPACE 
+particles, NOUN 
+incident, NOUN 
+small, ADJ 
+angles, NOUN 
+atomic, ADJ 
+planes, NOUN 
+
+, SPACE 
+crystal, NOUN 
+far, ADV 
+atomic, ADJ 
+string, NOUN 
+directions, NOUN 
+
+, SPACE 
+aim, NOUN 
+measure, VERB 
+valence, NOUN 
+electron, NOUN 
+spin, VERB 
+
+, SPACE 
+magnetic, ADJ 
+densities, NOUN 
+thin, ADJ 
+magnetic, ADJ 
+films, NOUN 
+channeled, VERB 
+
+, SPACE 
+MeV, PROPN 
+positrons, NOUN 
+positively, ADV 
+charged, VERB 
+particles, NOUN 
+
+, SPACE 
+guided, VERB 
+interstices, NOUN 
+crystal, NOUN 
+
+, SPACE 
+particularly, ADV 
+sensitive, ADJ 
+presence, NOUN 
+valence, NOUN 
+electrons, NOUN 
+
+, SPACE 
+density, NOUN 
+studies, NOUN 
+shall, AUX 
+combine, VERB 
+channeling, ADJ 
+
+, SPACE 
+effect, NOUN 
+process, NOUN 
+photon, NOUN 
+annihilation, NOUN 
+flight, NOUN 
+
+, SPACE 
+positrons, NOUN 
+acts, VERB 
+localized, VERB 
+probe, NOUN 
+electron, NOUN 
+
+, SPACE 
+density, NOUN 
+
+, SPACE 
+2, X 
+Transmission, NOUN 
+channeling, VERB 
+experiments, NOUN 
+
+, SPACE 
+performed, VERB 
+preliminary, ADJ 
+experiments, NOUN 
+1, NUM 
+
+, SPACE 
+MeV, PROPN 
+positrons, NOUN 
+single, ADJ 
+crystals, NOUN 
+silicon, NOUN 
+
+, SPACE 
+transmission, NOUN 
+channeled, VERB 
+particles, NOUN 
+measured, VERB 
+
+, SPACE 
+forward, ADJ 
+beam, NOUN 
+direction, NOUN 
+function, NOUN 
+incidence, NOUN 
+angle, NOUN 
+
+, SPACE 
+atomic, ADJ 
+planes, NOUN 
+19, NUM 
+experiments, NOUN 
+test, VERB 
+
+, SPACE 
+quantitative, ADJ 
+understanding, NOUN 
+transverse, ADJ 
+spatial, ADJ 
+
+, SPACE 
+momentum, NOUN 
+distribution, NOUN 
+channeled, VERB 
+positrons, NOUN 
+func-, ADJ 
+
+, SPACE 
+tion, NOUN 
+penetration, NOUN 
+depth, NOUN 
+crystal, NOUN 
+
+, SPACE 
+decisive, ADJ 
+importance, NOUN 
+extracting, VERB 
+information, NOUN 
+valence, NOUN 
+
+, SPACE 
+electron, NOUN 
+spin, NOUN 
+densities, NOUN 
+planned, VERB 
+annihilation, NOUN 
+
+, SPACE 
+flight, NOUN 
+measurements, NOUN 
+experiments, NOUN 
+performed, VERB 
+
+, SPACE 
+newly, ADV 
+developed, VERB 
+intense, ADJ 
+energy, NOUN 
+tunable, NOUN 
+positron, NOUN 
+
+, SPACE 
+source, NOUN 
+Brookhaven, PROPN 
+National, PROPN 
+Laboratory, PROPN 
+
+, SPACE 
+constructed, VERB 
+search, NOUN 
+illusive, ADJ 
+X0, ADJ 
+particle, NOUN 
+20, NUM 
+
+, SPACE 
+source, NOUN 
+sodium, NOUN 
+22, NUM 
+beta+, NOUN 
+emitter, NOUN 
+
+, SPACE 
+endpoint, NOUN 
+energy, NOUN 
+546, NUM 
+keV, NOUN 
+placed, VERB 
+high, ADJ 
+
+, SPACE 
+voltage, NOUN 
+terminal, NOUN 
+dynamitron, NOUN 
+accelerator, NOUN 
+energy, NOUN 
+
+, SPACE 
+tuned, VERB 
+1, NUM 
+2.5, NUM 
+MeV, PROPN 
+resolution, NOUN 
+1, NUM 
+keV, NOUN 
+
+, SPACE 
+flux, NOUN 
+lo5, NOUN 
+positrons, NOUN 
+second, ADV 
+obtained, VERB 
+
+, SPACE 
+angular, ADJ 
+cone, NOUN 
+degree, NOUN 
+
+, SPACE 
+measure, VERB 
+transmitted, VERB 
+flux, NOUN 
+2700, NUM 
+
+, SPACE 
+silicon, NOUN 
+crystal, NOUN 
+germanium, NOUN 
+detector, NOUN 
+placed, VERB 
+
+, SPACE 
+forward, ADJ 
+beam, NOUN 
+direction, NOUN 
+detector, NOUN 
+opening, NOUN 
+angle, NOUN 
+0.2, NUM 
+
+, SPACE 
+ensures, VERB 
+direct, ADJ 
+zeroth, ADJ 
+order, NOUN 
+Bragg, PROPN 
+
+, SPACE 
+beam, NOUN 
+recorded, VERB 
+Furthermore, ADV 
+detector, NOUN 
+opening, NOUN 
+angle, NOUN 
+
+, SPACE 
+smaller, ADJ 
+critical, ADJ 
+angles, NOUN 
+associated, VERB 
+bl, NOUN 
+zec-, PRON 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Forward, PROPN 
+transmitted, VERB 
+yield, NOUN 
+channeled, VERB 
+MeV, PROPN 
+positrons, NOUN 
+
+, SPACE 
+function, NOUN 
+incidence, NOUN 
+angle, NOUN 
+lOO, PROPN 
+1, NUM 
+IO, PROPN 
+Ill, PROPN 
+
+, SPACE 
+planes, NOUN 
+2700, NUM 
+thick, ADJ 
+single, ADJ 
+crystal, NOUN 
+silicon, NOUN 
+stippled, ADJ 
+
+, SPACE 
+lines, NOUN 
+connect, VERB 
+experimental, ADJ 
+data, NOUN 
+points, NOUN 
+obtained, VERB 
+germa-, ADJ 
+
+, SPACE 
+nium, NOUN 
+detector, NOUN 
+opening, NOUN 
+angle, NOUN 
+0.2, NUM 
+angle, NOUN 
+small, ADJ 
+
+, SPACE 
+Bragg, PROPN 
+diffraction, NOUN 
+spots, NOUN 
+zero, NUM 
+order, NOUN 
+
+, SPACE 
+escape, VERB 
+detector, NOUN 
+solid, ADJ 
+lines, NOUN 
+theoretical, ADJ 
+predictions, NOUN 
+
+, SPACE 
+based, VERB 
+beam, NOUN 
+method, NOUN 
+description, NOUN 
+includes, VERB 
+
+, SPACE 
+dynamical, ADJ 
+diffraction, NOUN 
+effects, NOUN 
+subsequently, ADV 
+averaged, VERB 
+
+, SPACE 
+variations, NOUN 
+crystal, NOUN 
+thickness, NOUN 
+Ihe, PROPN 
+beam, NOUN 
+spot, NOUN 
+
+, SPACE 
+atomic, ADJ 
+planes, NOUN 
+channeling, VERB 
+experiments, NOUN 
+Eq, PROPN 
+2, X 
+
+, SPACE 
+gives, VERB 
+critical, ADJ 
+angles, NOUN 
+0, NUM 
+=, PROPN 
+0.22, NUM 
+100, NUM 
+plane, NOUN 
+0.30, NUM 
+
+, SPACE 
+1, NUM 
+IO, PROPN 
+0.3, NUM 
+1, NUM 
+111, NUM 
+plane, NOUN 
+measured, ADJ 
+
+, SPACE 
+transmission, NOUN 
+function, NOUN 
+angle, NOUN 
+shown, VERB 
+Fig, PROPN 
+2, NUM 
+
+, SPACE 
+angles, NOUN 
+units, NOUN 
+Bragg, PROPN 
+angles, VERB 
+Ba, PROPN 
+=, NUM 
+0.184, NUM 
+
+, SPACE 
+0.130, NUM 
+0.080, NUM 
+respectively, ADV 
+shown, VERB 
+figure, NOUN 
+
+, SPACE 
+theoretical, ADJ 
+curve, NOUN 
+obtained, VERB 
+beam, NOUN 
+
+, SPACE 
+method, NOUN 
+described, VERB 
+overall, ADJ 
+yield, NOUN 
+enve-, X 
+
+, SPACE 
+lope, NOUN 
+fine, ADJ 
+structure, NOUN 
+including, VERB 
+pronounced, VERB 
+dips, NOUN 
+
+, SPACE 
+Bragg, PROPN 
+conditions, NOUN 
+accounted, VERB 
+
+, SPACE 
+calculations, NOUN 
+positions, NOUN 
+Bragg, PROPN 
+dips, NOUN 
+
+, SPACE 
+obtained, VERB 
+diffraction, NOUN 
+kinematics, NOUN 
+dynamical, ADJ 
+
+, SPACE 
+diffraction, NOUN 
+theory, NOUN 
+necessary, ADJ 
+evaluation, NOUN 
+magni-, PROPN 
+
+, SPACE 
+34, NUM 
+L.V., PROPN 
+Hau, PROPN 
+et, NOUN 
+al./, ADV 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Rex, PROPN 
+B, PROPN 
+I19, PROPN 
+1996130, NUM 
+41, NUM 
+
+, SPACE 
+tude, NOUN 
+yield, NOUN 
+fine, ADJ 
+structure, NOUN 
+beating, NOUN 
+
+, SPACE 
+eigenstates, NOUN 
+different, ADJ 
+energies, NOUN 
+populated, VERB 
+
+, SPACE 
+entrance, NOUN 
+surface, NOUN 
+crystal, NOUN 
+Pendellosung, PROPN 
+beating-, NOUN 
+
+, SPACE 
+lengths, NOUN 
+order, NOUN 
+loo0, PROPN 
+fine, ADJ 
+structure, NOUN 
+
+, SPACE 
+sensitive, ADJ 
+crystal, NOUN 
+thickness, ADJ 
+changes, NOUN 
+IO-100, PROPN 
+A., NOUN 
+
+, SPACE 
+theoretical, ADJ 
+curves, NOUN 
+averaged, VERB 
+variation, NOUN 
+
+, SPACE 
+crystal, NOUN 
+thickness, NOUN 
+beam, NOUN 
+spot, NOUN 
+crystal, NOUN 
+
+, SPACE 
+amounts, VERB 
+500, NUM 
+beam, NOUN 
+diameter, NOUN 
+1.4, NUM 
+
+, SPACE 
+mm, NOUN 
+agreement, NOUN 
+theoretical, ADJ 
+predictions, NOUN 
+
+, SPACE 
+experimental, ADJ 
+data, NOUN 
+gives, VERB 
+confidence, NOUN 
+quanti-, VERB 
+
+, SPACE 
+tatively, ADV 
+describe, VERB 
+transverse, ADJ 
+flux, NOUN 
+distribution, NOUN 
+chan-, NOUN 
+
+, SPACE 
+neled, VERB 
+positrons, NOUN 
+penetrate, VERB 
+crystal, NOUN 
+
+, SPACE 
+presence, NOUN 
+Bragg, PROPN 
+dips, NOUN 
+clearly, ADV 
+quantum, NOUN 
+
+, SPACE 
+mechanical, ADJ 
+effect, NOUN 
+expect, VERB 
+overall, ADJ 
+enve-, NUM 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+0.9, NUM 
+
+, SPACE 
+0.8, NUM 
+
+, SPACE 
+0.7, NUM 
+
+, SPACE 
+E, PROPN 
+
+, SPACE 
+F, PROPN 
+0.6, NUM 
+
+, SPACE 
+0.5, NUM 
+
+, SPACE 
+0.4, NUM 
+
+, SPACE 
+0.3, NUM 
+
+, SPACE 
+0.2, NUM 
+lope, NOUN 
+function, NOUN 
+obtained, VERB 
+classical, ADJ 
+considera-, ADJ 
+
+, SPACE 
+tions, NOUN 
+investigated, VERB 
+found, VERB 
+experi-, NUM 
+
+, SPACE 
+mental, ADJ 
+envelope, NOUN 
+approximated, VERB 
+classical, ADJ 
+
+, SPACE 
+envelope, NOUN 
+function, NOUN 
+obtained, VERB 
+detector, NOUN 
+opening, NOUN 
+angle, NOUN 
+
+, SPACE 
+equal, ADJ 
+twice, DET 
+Bragg, PROPN 
+angle, NOUN 
+quantum, PROPN 
+me-, NOUN 
+
+, SPACE 
+chanically, ADV 
+transmission, NOUN 
+yield, NOUN 
+change, VERB 
+
+, SPACE 
+change, NOUN 
+detector, NOUN 
+opening, NOUN 
+angle, NOUN 
+
+, SPACE 
+twice, DET 
+Bragg, PROPN 
+angle, NOUN 
+classically, ADV 
+continuous, ADJ 
+
+, SPACE 
+dependence, NOUN 
+opening, NOUN 
+angle, NOUN 
+obtained, VERB 
+
+, SPACE 
+calculated, VERB 
+classical, ADJ 
+envelope, NOUN 
+cases, NOUN 
+
+, SPACE 
+detector, NOUN 
+opening, VERB 
+angle, NOUN 
+equal, ADJ 
+twice, DET 
+
+, SPACE 
+Bragg, PROPN 
+angle, NOUN 
+opening, NOUN 
+angle, NOUN 
+equals, VERB 
+
+, SPACE 
+fifth, NOUN 
+Bragg, PROPN 
+angle, NOUN 
+curves, NOUN 
+shown, VERB 
+Fig, PROPN 
+3, NUM 
+
+, SPACE 
+seen, VERB 
+yield, NOUN 
+different, ADJ 
+cases, NOUN 
+
+, SPACE 
+0, NUM 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+5, NUM 
+6, NUM 
+7, NUM 
+8, NUM 
+
+, SPACE 
+Incidence, PROPN 
+Angle, PROPN 
+O, PROPN 
+O, PROPN 
+>, X 
+
+, SPACE 
+3, NUM 
+Classical, ADJ 
+functions, NOUN 
+forward, ADV 
+transmitted, VERB 
+1, NUM 
+positrons, NOUN 
+channeled, VERB 
+11, NUM 
+plane, NOUN 
+
+, SPACE 
+detector, NOUN 
+angles, NOUN 
+=, NOUN 
+0.16, NUM 
+0,/5, NUM 
+0.016, NUM 
+b, X 
+agrees, VERB 
+obtained, VERB 
+envelope, NOUN 
+Fig, PROPN 
+
+, SPACE 
+2c, PROPN 
+
+, SPACE 
+L.V., PROPN 
+Hau, PROPN 
+et, PROPN 
+aI./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+I19, PROPN 
+1996, NUM 
+30, NUM 
+41, NUM 
+35, NUM 
+
+, SPACE 
+order, NOUN 
+magnitude, NOUN 
+correct, ADJ 
+envelope, NOUN 
+function, NOUN 
+
+, SPACE 
+obtained, VERB 
+classical, ADJ 
+calculation, NOUN 
+introducing, VERB 
+
+, SPACE 
+distinct, ADJ 
+quantum, NOUN 
+mechanical, ADJ 
+quantity, NOUN 
+Bragg, PROPN 
+angle, NOUN 
+
+, SPACE 
+theory, NOUN 
+present, ADJ 
+experiment, NOUN 
+
+, SPACE 
+detector, NOUN 
+opening, NOUN 
+angle, NOUN 
+order, NOUN 
+Bragg, PROPN 
+angle, NOUN 
+
+, SPACE 
+conclusion, NOUN 
+experimental, ADJ 
+envelope, NOUN 
+function, NOUN 
+
+, SPACE 
+obtained, VERB 
+purely, ADV 
+classical, ADJ 
+theory, NOUN 
+How-, X 
+
+, SPACE 
+large, ADJ 
+detector, NOUN 
+angles, NOUN 
+spanning, VERB 
+Bragg, PROPN 
+
+, SPACE 
+angles, NOUN 
+classical, ADJ 
+theory, NOUN 
+applicable, ADJ 
+
+, SPACE 
+classical, ADJ 
+envelope, NOUN 
+functions, NOUN 
+shown, VERB 
+Fig, PROPN 
+3, NUM 
+
+, SPACE 
+obtained, VERB 
+approximating, VERB 
+continuum, ADJ 
+potential, NOUN 
+
+, SPACE 
+harmonic, ADJ 
+potential, NOUN 
+transmission, NOUN 
+detector, NOUN 
+
+, SPACE 
+calculated, VERB 
+integrating, VERB 
+probability, NOUN 
+distribution, NOUN 
+exit, NOUN 
+
+, SPACE 
+angles, VERB 
+given, VERB 
+incidence, NOUN 
+angle, NOUN 
+P(6,,,1@, PROPN 
+
+, SPACE 
+detector, NOUN 
+opening, VERB 
+angle, NOUN 
+
+, SPACE 
+Yield, NOUN 
+=, NOUN 
+JdB-,,ilP, PROPN 
+O,,i, PROPN 
+lOi, NOUN 
+7, NUM 
+
+, SPACE 
+probability, NOUN 
+distribution, NOUN 
+given, VERB 
+product, NOUN 
+
+, SPACE 
+I%, X 
+=, VERB 
+/dE_P(H,,,,lEI)P(E, PROPN 
+le, PROPN 
+8), NUM 
+
+, SPACE 
+P, NOUN 
+E, PROPN 
+le, X 
+probability, NOUN 
+distribution, NOUN 
+
+, SPACE 
+transverse, ADJ 
+energies, NOUN 
+given, VERB 
+incidence, NOUN 
+angle, NOUN 
+obtained, VERB 
+assuming, VERB 
+uniform, ADJ 
+spatial, ADJ 
+distribution, NOUN 
+positrons, NOUN 
+
+, SPACE 
+reach, VERB 
+crystal, PROPN 
+surface, NOUN 
+
+, SPACE 
+9, NUM 
+
+, SPACE 
+Furthermore, ADV 
+P(O,,,\, PROPN 
+E, PROPN 
+distribution, NOUN 
+function, NOUN 
+
+, SPACE 
+exit, NOUN 
+angles, NOUN 
+given, VERB 
+transverse, ADJ 
+energy, NOUN 
+
+, SPACE 
+obtained, VERB 
+microcanonical, ADJ 
+ensemble, NOUN 
+as-, ADJ 
+
+, SPACE 
+sumption, NOUN 
+statistical, ADJ 
+equilibrium, NOUN 
+available, ADJ 
+phase, NOUN 
+
+, SPACE 
+space, NOUN 
+
+, SPACE 
+PC, PROPN 
+LJE, PROPN 
+10, NUM 
+
+, SPACE 
+Note, VERB 
+factor, NOUN 
+proportionality, NOUN 
+ECq, PROPN 
+IO, PROPN 
+
+, SPACE 
+depends, VERB 
+transverse, ADJ 
+energy, NOUN 
+
+, SPACE 
+3, X 
+Valence, NOUN 
+electron, NOUN 
+densities, VERB 
+
+, SPACE 
+probe, VERB 
+valence, NOUN 
+electron, NOUN 
+densities, NOUN 
+utilize, VERB 
+
+, SPACE 
+guiding, VERB 
+effect, NOUN 
+channeling, VERB 
+steer, VERB 
+positrons, NOUN 
+regions, NOUN 
+
+, SPACE 
+crystal, NOUN 
+high, ADJ 
+concentration, NOUN 
+valence, NOUN 
+elec-, PART 
+
+, SPACE 
+trons, NOUN 
+combine, VERB 
+effect, NOUN 
+process, NOUN 
+pho-, NOUN 
+
+, SPACE 
+357, NUM 
+Annihilation, PROPN 
+Rate, PROPN 
+vs., ADP 
+Incidence, PROPN 
+Angle, PROPN 
+
+, SPACE 
+Random, PROPN 
+Even1, PROPN 
+Rate, NOUN 
+
+, SPACE 
+0, NUM 
+~~~l~~~l~~~l~,~t~~~l’~~I~“I~, PROPN 
+
+, SPACE 
+0, NUM 
+0.4, NUM 
+0.8, NUM 
+1.2, NUM 
+1.6, NUM 
+2, NUM 
+2.4, NUM 
+2.0, NUM 
+
+, SPACE 
+Incidence, PROPN 
+Angle, PROPN 
+degrees, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+photon, NOUN 
+annihilation, NOUN 
+flight, NOUN 
+rate, NOUN 
+calculated, VERB 
+function, NOUN 
+incidence, NOUN 
+angle, NOUN 
+MeV, PROPN 
+positrons, NOUN 
+channeled, VERB 
+<, PROPN 
+110, NUM 
+>, X 
+
+, SPACE 
+axis, NOUN 
+6000, NUM 
+gold, NOUN 
+crystal, NOUN 
+angle, NOUN 
+100, NUM 
+plane, NOUN 
+IO, PROPN 
+indicated, VERB 
+figure, NOUN 
+random, ADJ 
+rate, NOUN 
+obtained, VERB 
+uniform, ADJ 
+
+, SPACE 
+positron, PROPN 
+flux, NOUN 
+distribution, NOUN 
+
+, SPACE 
+36, NUM 
+L.V., PROPN 
+Hau, PROPN 
+et, PROPN 
+al, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, NOUN 
+I9, PROPN 
+1996, NUM 
+30, NUM 
+41, NUM 
+
+, SPACE 
+Electron, PROPN 
+Density, PROPN 
+Transverse, PROPN 
+Unit, PROPN 
+Cell, NOUN 
+
+, SPACE 
+4, NUM 
+
+, SPACE 
+3.5, NUM 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+2.5, NUM 
+
+, SPACE 
+2, NUM 
+y, PROPN 
+
+, SPACE 
+1.5, NUM 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+0.5, NUM 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+0, NUM 
+0.5, NUM 
+1, NUM 
+1.5, NUM 
+2, NUM 
+2.5, NUM 
+
+, SPACE 
+x, SYM 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Contour, ADJ 
+plot, NOUN 
+electron, NOUN 
+distribution, NOUN 
+gold, NOUN 
+shown, VERB 
+plane, NOUN 
+perpendicular, ADJ 
+<, X 
+IO, PROPN 
+>, X 
+axis, NOUN 
+density, NOUN 
+obtained, VERB 
+
+, SPACE 
+density, NOUN 
+functional, ADJ 
+methods, NOUN 
+averaged, VERB 
+<, PROPN 
+110, NUM 
+>, PUNCT 
+direction, NOUN 
+
+, SPACE 
+ton, NOUN 
+annihilation, NOUN 
+flight, NOUN 
+acts, VERB 
+probe, NOUN 
+local, ADJ 
+
+, SPACE 
+electron, NOUN 
+density, NOUN 
+calculated, ADJ 
+annihilation, NOUN 
+rate, NOUN 
+1, NUM 
+
+, SPACE 
+MeV, PROPN 
+psitrons, NOUN 
+channeled, VERB 
+<, PROPN 
+110, NUM 
+>, X 
+axis, NOUN 
+
+, SPACE 
+6000, NUM 
+gold, NOUN 
+crystal, NOUN 
+function, NOUN 
+incidence, NOUN 
+angle, NOUN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+4, NUM 
+annihilation, NOUN 
+rate, NOUN 
+given, VERB 
+
+, SPACE 
+product, NOUN 
+
+, SPACE 
+Annihilation, NOUN 
+rate, NOUN 
+=, ADJ 
+@a, X 
+d, X 
+z, NOUN 
+overlap, NOUN 
+11, NUM 
+0, NUM 
+
+, SPACE 
+positron, NOUN 
+flux, NOUN 
+@=, PROPN 
+IO5, PROPN 
+second, ADV 
+annihilation, NOUN 
+
+, SPACE 
+cross, NOUN 
+section, NOUN 
+u=, CCONJ 
+e2, PROPN 
+m~2)2, PROPN 
+MeV, PROPN 
+positrons, NOUN 
+annihilat-, X 
+
+, SPACE 
+ing, PROPN 
+electrons, NOUN 
+rest, NOUN 
+transverse, ADJ 
+overlap, NOUN 
+
+, SPACE 
+integral, ADJ 
+integrated, VERB 
+crystal, PROPN 
+thickness, PROPN 
+T, PROPN 
+
+, SPACE 
+Overlap, PROPN 
+=, PROPN 
+/I, PROPN 
+q, PROPN 
+r, NOUN 
+z)l’n, PROPN 
+7, NUM 
+z)dr, PROPN 
+2, X 
+
+, SPACE 
+I$/, PROPN 
+z, PROPN 
+>, X 
+positron, NOUN 
+probability, NOUN 
+density, NOUN 
+
+, SPACE 
+penetration, NOUN 
+depth, NOUN 
+z, NOUN 
+crystal, NOUN 
+n,(r, NUM 
+z, PROPN 
+>, X 
+
+, SPACE 
+electron, NOUN 
+density, NOUN 
+crystal, NOUN 
+obtained, VERB 
+
+, SPACE 
+density, NOUN 
+functional, ADJ 
+methods, NOUN 
+based, VERB 
+augmented, VERB 
+plane, NOUN 
+
+, SPACE 
+wave, NOUN 
+expansions, NOUN 
+21, NUM 
+contour, ADJ 
+plot, NOUN 
+electron, NOUN 
+
+, SPACE 
+density, NOUN 
+shown, VERB 
+Fig, PROPN 
+5, NUM 
+
+, SPACE 
+transverse, ADJ 
+positron, NOUN 
+wavefunction, NOUN 
+$, SYM 
+expanded, VERB 
+
+, SPACE 
+eigenstates, NOUN 
+transverse, ADJ 
+Hamiltonian, ADJ 
+6, NUM 
+
+, SPACE 
+continuum, VERB 
+potential, PROPN 
+U(r, PROPN 
+periodic, ADJ 
+eigen-, ADJ 
+
+, SPACE 
+states, NOUN 
+chosen, VERB 
+dimensional, ADJ 
+Bloch, PROPN 
+states, NOUN 
+
+, SPACE 
+subsequently, ADV 
+expanded, VERB 
+plane, NOUN 
+waves, NOUN 
+
+, SPACE 
+beam, NOUN 
+method, NOUN 
+transverse, ADJ 
+h&linger, PROPN 
+equation, NOUN 
+
+, SPACE 
+transformed, VERB 
+algebraic, ADJ 
+eigenvalue, ADJ 
+equation, NOUN 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Bloch, PROPN 
+bands, NOUN 
+extended, ADJ 
+zone, NOUN 
+
+, SPACE 
+scheme, NOUN 
+line, NOUN 
+angle, NOUN 
+IO, PROPN 
+
+, SPACE 
+100, NUM 
+plane, NOUN 
+Fig, PROPN 
+4, NUM 
+annihilation, NOUN 
+rate, NOUN 
+seen, VERB 
+increase, VERB 
+
+, SPACE 
+increasing, VERB 
+angle, NOUN 
+atomic, ADJ 
+string, NOUN 
+fact, NOUN 
+
+, SPACE 
+larger, ADJ 
+angles, NOUN 
+positron, NOUN 
+penetrates, VERB 
+
+, SPACE 
+Energy, PROPN 
+Bands, PROPN 
+1, NUM 
+MeV, PROPN 
+Positrons, PROPN 
+Gold, PROPN 
+<, X 
+l, PROPN 
+lO, PROPN 
+>, X 
+
+, SPACE 
+26, NUM 
+
+, SPACE 
+24, NUM 
+
+, SPACE 
+22, NUM 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+18, NUM 
+
+, SPACE 
+16, NUM 
+
+, SPACE 
+14, NUM 
+
+, SPACE 
+12, NUM 
+-I, PROPN 
+
+, SPACE 
+10, NUM 
+
+, SPACE 
+8, NUM 
+
+, SPACE 
+-1.5, NOUN 
+-1, X 
+-0.5, ADJ 
+0, NUM 
+0.5, NUM 
+1, NUM 
+1.5, NUM 
+
+, SPACE 
+Reciprocal, PROPN 
+Lattice, PROPN 
+Vector, PROPN 
+>, X 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Bloch, PROPN 
+bands, NOUN 
+1, NUM 
+MeV, PROPN 
+positrons, NOUN 
+channeled, VERB 
+
+, SPACE 
+<, X 
+110, NUM 
+>, X 
+axis, NOUN 
+gold, NOUN 
+bands, NOUN 
+shown, VERB 
+dimensional, ADJ 
+
+, SPACE 
+extended, VERB 
+zone, NOUN 
+scheme, NOUN 
+direction, NOUN 
+forms, VERB 
+angle, NOUN 
+10, NUM 
+
+, SPACE 
+100, NUM 
+plane, NOUN 
+
+, SPACE 
+L.V., PROPN 
+Huu, INTJ 
+et, NOUN 
+ul./, NOUN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Rex, PROPN 
+B, PROPN 
+19, NUM 
+f, X 
+1996, NUM 
+30, NUM 
+41, NUM 
+37, NUM 
+
+, SPACE 
+atomic, ADJ 
+cores, NOUN 
+total, ADJ 
+electron, NOUN 
+density, NOUN 
+high, ADJ 
+
+, SPACE 
+rate, NOUN 
+large, ADJ 
+angles, NOUN 
+approaches, VERB 
+random, ADJ 
+value, NOUN 
+24, NUM 
+s, PROPN 
+
+, SPACE 
+indicated, VERB 
+solid, ADJ 
+line, NOUN 
+figure, NOUN 
+obtained, VERB 
+
+, SPACE 
+uniform, ADJ 
+transverse, NOUN 
+positron, NOUN 
+flux, NOUN 
+small, ADJ 
+increase, NOUN 
+
+, SPACE 
+zero, NUM 
+angle, NOUN 
+axis, NOUN 
+symmetry, NOUN 
+effect, NOUN 
+causes, VERB 
+
+, SPACE 
+lowest, ADJ 
+excited, ADJ 
+states, NOUN 
+exactly, ADV 
+vanishing, ADJ 
+
+, SPACE 
+overlap, NOUN 
+atomic, ADJ 
+stings, NOUN 
+incidence, NOUN 
+angle, NOUN 
+
+, SPACE 
+ground, NOUN 
+state, NOUN 
+states, NOUN 
+popu-, X 
+
+, SPACE 
+lated, VERB 
+axis, NOUN 
+small, ADJ 
+nonvanishing, ADJ 
+overlap, NOUN 
+
+, SPACE 
+atomic, ADJ 
+strings, NOUN 
+
+, SPACE 
+illustrate, VERB 
+ability, NOUN 
+selectively, ADV 
+probe, VERB 
+valence, NOUN 
+
+, SPACE 
+electrons, NOUN 
+use, NOUN 
+channeling, VERB 
+effect, NOUN 
+note, VERB 
+
+, SPACE 
+contribution, NOUN 
+valence, NOUN 
+electrons, NOUN 
+zero, NUM 
+angle, NOUN 
+
+, SPACE 
+annihilation, NOUN 
+rate, NOUN 
+Fig, PROPN 
+4, NUM 
+greater, ADJ 
+30, NUM 
+
+, SPACE 
+obtained, VERB 
+electron, NOUN 
+density, NOUN 
+0.17, NUM 
+e, NOUN 
+A3, NOUN 
+
+, SPACE 
+center, NOUN 
+<, X 
+I10, PROPN 
+>, X 
+channel, PROPN 
+shown, VERB 
+Fig, PROPN 
+5, NUM 
+
+, SPACE 
+constitutes, VERB 
+larger, ADJ 
+relative, ADJ 
+contribution, NOUN 
+
+, SPACE 
+obtained, VERB 
+low, ADJ 
+order, NOUN 
+Fourier, PROPN 
+components, NOUN 
+X, NOUN 
+ray, NOUN 
+
+, SPACE 
+electron, NOUN 
+diffraction, NOUN 
+experiments, NOUN 
+demonstrated, VERB 
+spatial, ADJ 
+
+, SPACE 
+selectivity, NOUN 
+important, ADJ 
+aspect, NOUN 
+ultimate, ADJ 
+utility, NOUN 
+
+, SPACE 
+channeling, VERB 
+annihilation, NOUN 
+experiments, NOUN 
+
+, SPACE 
+estimated, VERB 
+dechanneling, VERB 
+effects, NOUN 
+elec-, NUM 
+
+, SPACE 
+tronic, ADJ 
+multiple, ADJ 
+scattering, NOUN 
+results, NOUN 
+indicate, VERB 
+
+, SPACE 
+increase, VERB 
+counting, NOUN 
+rates, NOUN 
+order, NOUN 
+magnitude, NOUN 
+
+, SPACE 
+thicker, ADJ 
+crystals, NOUN 
+microns, NOUN 
+Taking, VERB 
+
+, SPACE 
+account, NOUN 
+enhanced, VERB 
+background, NOUN 
+problems, NOUN 
+
+, SPACE 
+nuclear, ADJ 
+multiple, ADJ 
+scattering, VERB 
+und, NOUN 
+r, NOUN 
+non, ADJ 
+channeling, ADJ 
+
+, SPACE 
+conditions, NOUN 
+conclude, VERB 
+6000, NUM 
+crystal, NOUN 
+thickness, NOUN 
+
+, SPACE 
+good, ADJ 
+choice, NOUN 
+initial, ADJ 
+demonstration, NOUN 
+channeling, VERB 
+
+, SPACE 
+annihilation, NOUN 
+effects, NOUN 
+
+, SPACE 
+design, NOUN 
+detector, NOUN 
+geometry, NOUN 
+annihila-, ADJ 
+
+, SPACE 
+tion, NOUN 
+photons, NOUN 
+use, NOUN 
+fact, NOUN 
+relativistic, ADJ 
+motion, NOUN 
+incoming, ADJ 
+positrons, NOUN 
+causes, VERB 
+forward, ADJ 
+peaking, NOUN 
+
+, SPACE 
+gamma, NOUN 
+rays, NOUN 
+relatively, ADV 
+simple, ADJ 
+detector, NOUN 
+ge-, NOUN 
+
+, SPACE 
+ometry, NOUN 
+consisting, VERB 
+16, NUM 
+sodium, NOUN 
+iodide, NOUN 
+bismuth, NOUN 
+ger-, NOUN 
+
+, SPACE 
+manate, NOUN 
+scintillators, NOUN 
+detect, VERB 
+annihilation, NOUN 
+gammas, NOUN 
+
+, SPACE 
+efficiency, NOUN 
+60, NUM 
+22, NUM 
+
+, SPACE 
+4, X 
+Spin, NOUN 
+magnetic, ADJ 
+densities, NOUN 
+
+, SPACE 
+ultimate, ADJ 
+goal, NOUN 
+use, VERB 
+combination, NOUN 
+channel-, PROPN 
+
+, SPACE 
+ing, PROPN 
+photon, NOUN 
+annihilation, NOUN 
+flight, NOUN 
+study, VERB 
+spin, NOUN 
+
+, SPACE 
+magnetic, ADJ 
+densities, NOUN 
+thin, ADJ 
+magnetic, ADJ 
+films, NOUN 
+success, NOUN 
+
+, SPACE 
+endeavor, NOUN 
+depends, VERB 
+major, ADJ 
+facts, NOUN 
+high, ADJ 
+sensitiv-, NOUN 
+
+, SPACE 
+ity, NOUN 
+annihilation, NOUN 
+cross, NOUN 
+section, NOUN 
+relative, ADJ 
+spin, NOUN 
+
+, SPACE 
+directions, NOUN 
+annihilating, VERB 
+electron, NOUN 
+positron, NOUN 
+pair, NOUN 
+
+, SPACE 
+possibility, NOUN 
+creating, VERB 
+spin, NOUN 
+polarized, VERB 
+positron, NOUN 
+sources, NOUN 
+
+, SPACE 
+differential, ADJ 
+cross, NOUN 
+sections, NOUN 
+parallel, ADJ 
+anti, ADJ 
+parallel, ADJ 
+
+, SPACE 
+spins, NOUN 
+shown, VERB 
+Fig, PROPN 
+7, NUM 
+function, NOUN 
+angle, NOUN 
+
+, SPACE 
+annihilation, NOUN 
+gammas, NOUN 
+respect, NOUN 
+incoming, ADJ 
+
+, SPACE 
+positron, NOUN 
+direction, NOUN 
+23, NUM 
+1, NUM 
+MeV, PROPN 
+positrons, NOUN 
+differen-, NOUN 
+
+, SPACE 
+tial, ADJ 
+cross, NOUN 
+section, NOUN 
+anti, ADJ 
+parallel, ADJ 
+spins, NOUN 
+significantly, ADV 
+
+, SPACE 
+higher, ADJ 
+cross, NOUN 
+section, NOUN 
+parallel, ADJ 
+spins, NOUN 
+particularly, ADV 
+
+, SPACE 
+smallest, ADJ 
+angles, NOUN 
+4, NUM 
+MeV, NOUN 
+cross, NOUN 
+sections, NOUN 
+
+, SPACE 
+equal, ADJ 
+higher, ADJ 
+energies, NOUN 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+parallel, ADJ 
+spins, NOUN 
+dominates, NOUN 
+integration, NOUN 
+
+, SPACE 
+angles, NOUN 
+Fig, PROPN 
+7, NUM 
+total, ADJ 
+annihilation, NOUN 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+anti, ADJ 
+parallel, ADJ 
+spins, NOUN 
+2.5, NUM 
+times, NOUN 
+larger, ADJ 
+parallel, ADJ 
+
+, SPACE 
+spins, NOUN 
+
+, SPACE 
+Furthermore, ADV 
+positron, NOUN 
+source, NOUN 
+Brookhaven, PROPN 
+
+, SPACE 
+modified, VERB 
+produce, VERB 
+beam, NOUN 
+longitudinally, ADV 
+polarized, VERB 
+
+, SPACE 
+positrons, NOUN 
+24,25, NUM 
+utilize, VERB 
+parity, NOUN 
+conserved, VERB 
+
+, SPACE 
+beta, NOUN 
+decay, NOUN 
+source, NOUN 
+positrons, NOUN 
+de-, PROPN 
+
+, SPACE 
+Differential, PROPN 
+Cross, PROPN 
+Section, PROPN 
+
+, SPACE 
+Annihilation, PROPN 
+Flight, PROPN 
+
+, SPACE 
+1MeV, NUM 
+Positrons, NOUN 
+
+, SPACE 
+0.0, NUM 
+0.5, NUM 
+1.0, NUM 
+1.5, NUM 
+2.0, NUM 
+2.5, NUM 
+3.0, NUM 
+
+, SPACE 
+e, NOUN 
+Rad, PROPN 
+
+, SPACE 
+Fig, PROPN 
+7, X 
+Differential, ADJ 
+cross, NOUN 
+sections, NOUN 
+photon, NOUN 
+annihilation, NOUN 
+MeV, PROPN 
+positrons, NOUN 
+electrons, NOUN 
+rest, NOUN 
+cross, NOUN 
+sections, NOUN 
+
+, SPACE 
+possible, ADJ 
+relative, ADJ 
+spin, NOUN 
+orientations, NOUN 
+annihilating, VERB 
+pair, NOUN 
+function, NOUN 
+angle, NOUN 
+bchveen, VERB 
+photons, NOUN 
+direction, NOUN 
+
+, SPACE 
+incoming, ADJ 
+positron, NOUN 
+
+, SPACE 
+38, NUM 
+L.V., PROPN 
+Hau, PROPN 
+et, PROPN 
+al, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+119, NUM 
+1996, NUM 
+30, NUM 
+41, NUM 
+
+, SPACE 
+Continuum, PROPN 
+Potential, PROPN 
+Iron, PROPN 
+<, X 
+lOO, NOUN 
+>, X 
+shall, AUX 
+consider, VERB 
+channeling, VERB 
+1, NUM 
+MeV, PROPN 
+positrons, NOUN 
+
+, SPACE 
+single, ADJ 
+crystal, NOUN 
+iron, NOUN 
+example, NOUN 
+Iron, PROPN 
+ferromag-, ADJ 
+
+, SPACE 
+netic, ADJ 
+material, NOUN 
+Curie, PROPN 
+temperature, NOUN 
+1043, NUM 
+K, NOUN 
+
+, SPACE 
+easy, ADJ 
+magnetization, NOUN 
+direction, NOUN 
+<, X 
+100, NUM 
+>, X 
+
+, SPACE 
+direction, NOUN 
+positrons, NOUN 
+longitudinally, ADV 
+polarized, VERB 
+
+, SPACE 
+consider, VERB 
+channeling, VERB 
+<, X 
+100, NUM 
+>, PUNCT 
+direction, NOUN 
+
+, SPACE 
+continuum, VERB 
+potential, NOUN 
+axis, NOUN 
+shown, VERB 
+Fig, PROPN 
+8, NUM 
+
+, SPACE 
+spin, NOUN 
+magnetic, ADJ 
+density, NOUN 
+iron, NOUN 
+obtained, VERB 
+spin, NOUN 
+
+, SPACE 
+density, NOUN 
+functional, ADJ 
+methods, NOUN 
+21,26, NUM 
+shown, VERB 
+Fig, PROPN 
+9, NUM 
+
+, SPACE 
+difference, NOUN 
+spin, NOUN 
+spin, NOUN 
+densities, NOUN 
+
+, SPACE 
+relative, ADJ 
+total, ADJ 
+electron, NOUN 
+density, NOUN 
+expected, VERB 
+net, ADJ 
+
+, SPACE 
+spin, NOUN 
+density, NOUN 
+obtained, VERB 
+inside, ADP 
+atomic, ADJ 
+cores, NOUN 
+
+, SPACE 
+interstices, NOUN 
+regions, NOUN 
+predominant, ADJ 
+spin, NOUN 
+
+, SPACE 
+density, NOUN 
+regions, NOUN 
+mainly, ADV 
+spin, NOUN 
+density, NOUN 
+
+, SPACE 
+average, ADJ 
+magnetization, NOUN 
+iron, NOUN 
+2.2, NUM 
+Bohr, PROPN 
+magnetons, NOUN 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+Continuum, ADJ 
+potential, NOUN 
+positrons, NOUN 
+channeled, VERB 
+
+, SPACE 
+<, X 
+100, NUM 
+>, X 
+easy, ADJ 
+magnetization, NOUN 
+axis, VERB 
+iron, NOUN 
+
+, SPACE 
+scribed, VERB 
+highest, ADJ 
+degree, NOUN 
+polarization, NOUN 
+ob-, PRON 
+
+, SPACE 
+tained, VERB 
+positrons, NOUN 
+close, ADV 
+endpoint, NOUN 
+energy, NOUN 
+
+, SPACE 
+beta, NOUN 
+spectrum, NOUN 
+velocity, NOUN 
+selection, NOUN 
+spin, NOUN 
+polar-, NOUN 
+
+, SPACE 
+ized, VERB 
+positron, NOUN 
+beam, NOUN 
+obtained, VERB 
+loss, NOUN 
+flux, NOUN 
+
+, SPACE 
+factor, NOUN 
+obtain, VERB 
+spin, NOUN 
+polarization, NOUN 
+
+, SPACE 
+=, SYM 
+80, NUM 
+
+, SPACE 
+Relative, PROPN 
+Spin, PROPN 
+Density, PROPN 
+Iron, PROPN 
+<, PROPN 
+loo, PROPN 
+>, X 
+Overlap, PROPN 
+Positron, PROPN 
+Eigen, PROPN 
+Functions, PROPN 
+
+, SPACE 
+Relative, PROPN 
+Spin, PROPN 
+Density, PROPN 
+
+, SPACE 
+0.15, NUM 
+Podan, PROPN 
+1, NUM 
+OO, PROPN 
+>, X 
+axes, NOUN 
+
+, SPACE 
+.i, PROPN 
+0.1, NUM 
+
+, SPACE 
+B, PROPN 
+0.05, NUM 
+
+, SPACE 
+.B, PUNCT 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+.z, NOUN 
+-0.05, NUM 
+
+, SPACE 
+z, PROPN 
+-0.1, PROPN 
+
+, SPACE 
+Fig, PROPN 
+9, NUM 
+net, ADJ 
+spin, NOUN 
+density, NOUN 
+relative, ADJ 
+total, ADJ 
+electron, NOUN 
+density, NOUN 
+
+, SPACE 
+iron, NOUN 
+shown, VERB 
+plane, NOUN 
+perpendicular, ADJ 
+<, PROPN 
+100, NUM 
+>, X 
+axis, ADJ 
+
+, SPACE 
+density, NOUN 
+averaged, VERB 
+<, X 
+100, NUM 
+>, PUNCT 
+direction, NOUN 
+posi-, NOUN 
+
+, SPACE 
+tions, NOUN 
+<, X 
+100, NUM 
+>, X 
+axes, NOUN 
+transverse, ADJ 
+plane, NOUN 
+shown, VERB 
+
+, SPACE 
+insert, NOUN 
+Ihe, SCONJ 
+magnetization, NOUN 
+iron, NOUN 
+caused, VERB 
+unpaired, ADJ 
+d, NOUN 
+electrons, NOUN 
+
+, SPACE 
+.ihe, PROPN 
+presence, NOUN 
+spin, NOUN 
+parts, NOUN 
+spin, NOUN 
+density, NOUN 
+distribu-, NOUN 
+
+, SPACE 
+tion, NOUN 
+crystalline, ADJ 
+effect, NOUN 
+accounts, VERB 
+fact, NOUN 
+average, ADJ 
+
+, SPACE 
+magnetization, NOUN 
+crystalline, ADJ 
+iron, NOUN 
+2.2, NUM 
+Bohr, PROPN 
+magnetons, NOUN 
+
+, SPACE 
+compared, VERB 
+4, NUM 
+Bohr, PROPN 
+magnetons, NOUN 
+atomic, ADJ 
+iron, NOUN 
+Fig, PROPN 
+10, NUM 
+Relative, ADJ 
+spin, NOUN 
+density, NOUN 
+Fig, PROPN 
+9, NUM 
+shown, VERB 
+
+, SPACE 
+transverse, ADJ 
+ground, NOUN 
+state, NOUN 
+>, X 
+excited, ADJ 
+state, NOUN 
+
+, SPACE 
+1, NUM 
+MeV, PROPN 
+positrons, NOUN 
+channeled, VERB 
+<, X 
+100, NUM 
+>, X 
+axis, NOUN 
+iron, NOUN 
+
+, SPACE 
+ground, NOUN 
+state, NOUN 
+probes, VERB 
+spatial, ADJ 
+region, NOUN 
+net, ADJ 
+spin, NOUN 
+
+, SPACE 
+density, NOUN 
+excited, ADJ 
+state, NOUN 
+digs, VERB 
+spin, NOUN 
+
+, SPACE 
+distribution, NOUN 
+
+, SPACE 
+L.V., PROPN 
+Hau, PROPN 
+ef, VERB 
+~1, ADV 
+Nucl, PROPN 
+Instr, PROPN 
+Merh, PROPN 
+Plry.ys, PROPN 
+Res, PROPN 
+B, PROPN 
+I19, PROPN 
+1996, NUM 
+30, NUM 
+41, NUM 
+39, NUM 
+
+, SPACE 
+0.6, NUM 
+
+, SPACE 
+0.2, NUM 
+
+, SPACE 
+0.1, NUM 
+
+, SPACE 
+0, PUNCT 
+Population, PROPN 
+Ground, PROPN 
+Excited, PROPN 
+States, PROPN 
+
+, SPACE 
+Ground, PROPN 
+State, PROPN 
++, CCONJ 
+
+, SPACE 
+Excited, PROPN 
+State, PROPN 
+-+---, PROPN 
+
+, SPACE 
+0, NUM 
+0.05, NUM 
+0.1, NUM 
+0.15, NUM 
+0.2, NUM 
+0.25, NUM 
+0.3, NUM 
+0.35, NUM 
+0.4, NUM 
+0.45, NUM 
+0.5, NUM 
+
+, SPACE 
+Incidence, PROPN 
+Angle, PROPN 
+degrees, NOUN 
+
+, SPACE 
+Fig, PROPN 
+I., PROPN 
+Population, PROPN 
+ground, NOUN 
+excited, ADJ 
+states, NOUN 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+IO, PROPN 
+function, NOUN 
+incidence, NOUN 
+angle, NOUN 
+<, X 
+100, NUM 
+>, X 
+axis, ADJ 
+
+, SPACE 
+unit, NOUN 
+cell, NOUN 
+spin, NOUN 
+parts, NOUN 
+spin, NOUN 
+density, NOUN 
+distribu-, NOUN 
+
+, SPACE 
+tion, NOUN 
+Fig, PROPN 
+9, NUM 
+account, NOUN 
+decrease, NOUN 
+magnetization, NOUN 
+
+, SPACE 
+4, NUM 
+Bohr, PROPN 
+magnetons, NOUN 
+atomic, ADJ 
+iron, NOUN 
+
+, SPACE 
+Polamation, PROPN 
+Ratlo, PROPN 
+vs., ADP 
+Inudence, PROPN 
+Angle, PROPN 
+Ctystallme, PROPN 
+Iron, PROPN 
+<, PROPN 
+loo, PROPN 
+>, X 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+0.025, NUM 
+
+, SPACE 
+-I, PROPN 
+
+, SPACE 
+0, NUM 
+0.5, NUM 
+1, NUM 
+1.5, NUM 
+2, NUM 
+2.5, NUM 
+
+, SPACE 
+Incidence, PROPN 
+Angie, PROPN 
+degrees, NOUN 
+
+, SPACE 
+Fig, PROPN 
+12, NUM 
+polarization, NOUN 
+ratio, NOUN 
+defined, VERB 
+difference, NOUN 
+
+, SPACE 
+annihilation, NOUN 
+rates, NOUN 
+possible, ADJ 
+relative, ADJ 
+spin, NOUN 
+
+, SPACE 
+orientations, NOUN 
+annihilating, VERB 
+pair, NOUN 
+relative, ADJ 
+total, ADJ 
+annihila-, ADJ 
+
+, SPACE 
+tion, NOUN 
+rate, NOUN 
+polarization, NOUN 
+ratio, NOUN 
+given, VERB 
+function, NOUN 
+incidence, NOUN 
+
+, SPACE 
+angle, NOUN 
+MeV, PROPN 
+positrons, NOUN 
+channeled, VERB 
+<, X 
+lOO, PROPN 
+>, X 
+axis, NOUN 
+
+, SPACE 
+iron, NOUN 
+angle, NOUN 
+100, NUM 
+plane, NOUN 
+10, NUM 
+indicated, VERB 
+
+, SPACE 
+random, ADJ 
+polarization, NOUN 
+ratio, NOUN 
+obtained, VERB 
+uniform, ADJ 
+positron, NOUN 
+
+, SPACE 
+flux, NOUN 
+Fig, PROPN 
+10, NUM 
+deepest, ADJ 
+bound, VERB 
+transverse, AUX 
+
+, SPACE 
+positron, NOUN 
+channeling, VERB 
+states, NOUN 
+spin, NOUN 
+magnetic, ADJ 
+
+, SPACE 
+density, NOUN 
+Fig, PROPN 
+9, NUM 
+lowest, ADJ 
+lying, VERB 
+state, NOUN 
+predominantly, ADV 
+
+, SPACE 
+probes, VERB 
+spin, NOUN 
+density, NOUN 
+distribution, NOUN 
+
+, SPACE 
+excited, ADJ 
+state, NOUN 
+probes, VERB 
+spin, NOUN 
+
+, SPACE 
+selectively, ADV 
+populate, VERB 
+states, NOUN 
+changing, VERB 
+inci-, PRON 
+
+, SPACE 
+dence, NOUN 
+angle, NOUN 
+channeled, VERB 
+positrons, NOUN 
+respect, NOUN 
+
+, SPACE 
+Annihilation, PROPN 
+Rate, PROPN 
+vs., ADP 
+Incidence, PROPN 
+Angle, PROPN 
+
+, SPACE 
+Incidence, PROPN 
+Angle, PROPN 
+degrees, NOUN 
+
+, SPACE 
+Energy, PROPN 
+Bands, PROPN 
+1, NUM 
+MeV, PROPN 
+Positrons, PROPN 
+Iron, PROPN 
+<, X 
+lOO, PROPN 
+>, X 
+
+, SPACE 
+45, NUM 
+
+, SPACE 
+Angle, PROPN 
+Population, PROPN 
+Change, PROPN 
+
+, SPACE 
+40, NUM 
+
+, SPACE 
+k, NOUN 
+
+, SPACE 
+35, NUM 
+j\, NUM 
+
+, SPACE 
+rl-, ADJ 
+v, ADP 
+L, PROPN 
+
+, SPACE 
+30, NUM 
+
+, SPACE 
+WY-‘\, PROPN 
+
+, SPACE 
+25, NUM 
+
+, SPACE 
+-“L, X 
+
+, SPACE 
+-i, PUNCT 
+J, PROPN 
+
+, SPACE 
+15, NUM 
+I:1, INTJ 
+t, NOUN 
+
+, SPACE 
+0, NUM 
+0.05, NUM 
+0.1, NUM 
+0.15, NUM 
+0.2, NUM 
+0.25, NUM 
+0.3, NUM 
+0.35, NUM 
+0.4, NUM 
+0.45, NUM 
+0.5, NUM 
+
+, SPACE 
+Incidence, PROPN 
+Angle, PROPN 
+degrees, NOUN 
+
+, SPACE 
+Fig, PROPN 
+13, NUM 
+Annihilation, NOUN 
+rate, NOUN 
+function, NOUN 
+incidence, NOUN 
+angle, NOUN 
+
+, SPACE 
+MeV, PROPN 
+positrons, NOUN 
+channeled, VERB 
+<, X 
+100, NUM 
+>, X 
+iron, NOUN 
+plot, NOUN 
+corre-, X 
+
+, SPACE 
+sponds, NOUN 
+narrow, ADJ 
+range, NOUN 
+angles, NOUN 
+shows, VERB 
+example, NOUN 
+
+, SPACE 
+abrupt, ADJ 
+dip, NOUN 
+annihilation, NOUN 
+rate, NOUN 
+incidence, ADJ 
+angle, NOUN 
+0.225, NUM 
+
+, SPACE 
+dip, NOUN 
+coincides, VERB 
+near, ADJ 
+degeneracy, NOUN 
+fourth, ADJ 
+fifth, ADJ 
+
+, SPACE 
+Bloch, PROPN 
+bands, NOUN 
+seen, VERB 
+b, NOUN 
+angle, NOUN 
+Bragg, PROPN 
+condition, NOUN 
+
+, SPACE 
+satisfied, ADJ 
+character, NOUN 
+populated, ADJ 
+eigenstates, NOUN 
+change, VERB 
+
+, SPACE 
+rapidly, ADV 
+Bragg, PROPN 
+angle, NOUN 
+explains, VERB 
+abrupt, ADJ 
+change, NOUN 
+
+, SPACE 
+annihilation, NOUN 
+rate, NOUN 
+
+, SPACE 
+40, NUM 
+L.V., PROPN 
+Hau, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, NOUN 
+I9, PROPN 
+1996, NUM 
+30, NUM 
+41, NUM 
+
+, SPACE 
+atomic, ADJ 
+string, NOUN 
+seen, VERB 
+Fig, PROPN 
+11, NUM 
+population, NOUN 
+
+, SPACE 
+lowest, ADJ 
+states, NOUN 
+shown, VERB 
+function, NOUN 
+incidence, NOUN 
+
+, SPACE 
+angle, NOUN 
+population, NOUN 
+amplitudes, NOUN 
+states, NOUN 
+obtained, VERB 
+
+, SPACE 
+overlap, NOUN 
+integrals, NOUN 
+incident, NOUN 
+transverse, NOUN 
+plane, NOUN 
+
+, SPACE 
+wave, NOUN 
+eigenstates, NOUN 
+resulting, VERB 
+annihilation, NOUN 
+rate, NOUN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+12, NUM 
+function, NOUN 
+incidence, NOUN 
+angle, NOUN 
+
+, SPACE 
+polarization, NOUN 
+ratio, NOUN 
+defined, VERB 
+difference, NOUN 
+be-, X 
+
+, SPACE 
+tween, VERB 
+annihilation, NOUN 
+rates, NOUN 
+possible, ADJ 
+spin, NOUN 
+
+, SPACE 
+polarizations, NOUN 
+positron, NOUN 
+beam, NOUN 
+respect, NOUN 
+
+, SPACE 
+magnetization, NOUN 
+direction, NOUN 
+iron, NOUN 
+relative, ADJ 
+total, ADJ 
+anni-, NOUN 
+
+, SPACE 
+hilation, NOUN 
+rate, NOUN 
+minimum, NOUN 
+smallest, ADJ 
+angles, NOUN 
+
+, SPACE 
+increase, NOUN 
+angles, NOUN 
+larger, ADJ 
+0.15, NUM 
+
+, SPACE 
+reflection, NOUN 
+fact, NOUN 
+angles, NOUN 
+smaller, ADJ 
+0.15, NUM 
+
+, SPACE 
+deepest, ADJ 
+bound, VERB 
+channeling, VERB 
+state, NOUN 
+predominantly, ADV 
+populated, VERB 
+
+, SPACE 
+spin, NOUN 
+spin, NOUN 
+density, NOUN 
+distribu-, NOUN 
+
+, SPACE 
+tion, NOUN 
+probed, VERB 
+larger, ADJ 
+angles, NOUN 
+mainly, ADV 
+excited, ADJ 
+
+, SPACE 
+state, NOUN 
+probes, VERB 
+spin, NOUN 
+populated, ADJ 
+
+, SPACE 
+larger, ADJ 
+angles, NOUN 
+positron, NOUN 
+wavefunction, NOUN 
+penetrates, VERB 
+
+, SPACE 
+cores, NOUN 
+net, ADJ 
+spin, NOUN 
+polarization, NOUN 
+causes, VERB 
+de-, PROPN 
+
+, SPACE 
+crease, NOUN 
+largest, ADJ 
+angles, NOUN 
+Fig, PROPN 
+12, NUM 
+annihila-, ADJ 
+
+, SPACE 
+tion, NOUN 
+rate, NOUN 
+approaches, VERB 
+random, ADJ 
+value, NOUN 
+0.037, NUM 
+
+, SPACE 
+random, ADJ 
+value, NOUN 
+obtained, VERB 
+uniform, ADJ 
+positron, NOUN 
+flux, NOUN 
+
+, SPACE 
+annihilating, VERB 
+valence, NOUN 
+electrons, NOUN 
+net, ADJ 
+spin, NOUN 
+density, NOUN 
+
+, SPACE 
+2.2, NUM 
+Bohr, PROPN 
+magnetons, NOUN 
+unit, NOUN 
+cell, NOUN 
+
+, SPACE 
+explored, VERB 
+origin, NOUN 
+spikes, NOUN 
+occurring, VERB 
+
+, SPACE 
+figures, NOUN 
+4, NUM 
+12, NUM 
+annihilation, NOUN 
+rates, NOUN 
+function, NOUN 
+
+, SPACE 
+incidence, NOUN 
+angle, NOUN 
+annihilation, NOUN 
+rate, NOUN 
+iron, NOUN 
+unpo-, ADJ 
+
+, SPACE 
+larized, VERB 
+positron, NOUN 
+beam, NOUN 
+shown, VERB 
+Fig, PROPN 
+13a, NOUN 
+small, ADJ 
+
+, SPACE 
+angular, ADJ 
+region, NOUN 
+abrupt, ADJ 
+dip, NOUN 
+0.225, NUM 
+related, VERB 
+
+, SPACE 
+avoided, VERB 
+crossing, NOUN 
+angle, NOUN 
+fourth, ADJ 
+fifth, ADJ 
+
+, SPACE 
+energy, NOUN 
+bands, NOUN 
+shown, VERB 
+Fig, PROPN 
+13b, NOUN 
+narrow, ADJ 
+angular, ADJ 
+
+, SPACE 
+Polarization, PROPN 
+Ratios, PROPN 
+vs., ADP 
+lnudence, NOUN 
+Angle, PROPN 
+Crystalline, PROPN 
+Atomic, PROPN 
+Iron, PROPN 
+<, PROPN 
+loo, PROPN 
+>, X 
+
+, SPACE 
+lnadence, PROPN 
+Angie, PROPN 
+degrees, NOUN 
+
+, SPACE 
+Fig, PROPN 
+14, NUM 
+Polarization, NOUN 
+ratio, NOUN 
+function, NOUN 
+incidence, NOUN 
+angle, NOUN 
+1, NUM 
+
+, SPACE 
+MeV, PROPN 
+positrons, NOUN 
+channeled, VERB 
+<, X 
+100, NUM 
+>, X 
+axis, PROPN 
+crystalline, ADJ 
+
+, SPACE 
+iron, NOUN 
+Fig, PROPN 
+12, NUM 
+BCC, PROPN 
+crystal, NOUN 
+overlapping, VERB 
+
+, SPACE 
+iron, NOUN 
+atoms, NOUN 
+Note, VERB 
+different, ADJ 
+scale, NOUN 
+cmves, NOUN 
+range, NOUN 
+population, NOUN 
+amplitudes, NOUN 
+corresponding, ADJ 
+Bloch, PROPN 
+
+, SPACE 
+states, NOUN 
+change, VERB 
+rapidly, ADV 
+
+, SPACE 
+sensitivity, NOUN 
+channeling, NOUN 
+annihilation, NOUN 
+
+, SPACE 
+probe, NOUN 
+crystalline, ADJ 
+effects, NOUN 
+compare, VERB 
+Fig, PROPN 
+14, NUM 
+
+, SPACE 
+polarization, NOUN 
+ratio, NOUN 
+crystalline, ADJ 
+iron, NOUN 
+Fig, PROPN 
+12, NUM 
+
+, SPACE 
+ratio, NOUN 
+crystal, NOUN 
+overlapping, VERB 
+atomic, ADJ 
+iron, NOUN 
+
+, SPACE 
+case, NOUN 
+4, NUM 
+Bohr, PROPN 
+magnetons, NOUN 
+unit, NOUN 
+cell, NOUN 
+
+, SPACE 
+random, ADJ 
+value, NOUN 
+correspondingly, ADV 
+higher, ADJ 
+clear, ADJ 
+
+, SPACE 
+difference, NOUN 
+curves, NOUN 
+small, ADJ 
+angles, NOUN 
+
+, SPACE 
+missing, VERB 
+spin, NOUN 
+contribution, NOUN 
+atomic, ADJ 
+iron, NOUN 
+con-, VERB 
+
+, SPACE 
+clude, NOUN 
+method, NOUN 
+highly, ADV 
+sensitive, ADJ 
+crystalline, VERB 
+
+, SPACE 
+effects, NOUN 
+spin, NOUN 
+magnetic, ADJ 
+density, NOUN 
+
+, SPACE 
+5, X 
+Conclusion, NOUN 
+
+, SPACE 
+shown, VERB 
+potential, ADJ 
+new, ADJ 
+use, NOUN 
+channeling, VERB 
+
+, SPACE 
+materials, NOUN 
+research, NOUN 
+combining, VERB 
+channeling, VERB 
+effect, NOUN 
+
+, SPACE 
+positrons, NOUN 
+photon, NOUN 
+annihilation, NOUN 
+flight, NOUN 
+acting, VERB 
+
+, SPACE 
+localized, VERB 
+probe, NOUN 
+hand, NOUN 
+sensitive, ADJ 
+tool, NOUN 
+
+, SPACE 
+studying, VERB 
+valence, NOUN 
+electron, NOUN 
+spin, VERB 
+magnetic, ADJ 
+densities, NOUN 
+
+, SPACE 
+Channeled, VERB 
+positrons, NOUN 
+guided, VERB 
+interstitial, ADJ 
+
+, SPACE 
+regions, NOUN 
+crystal, NOUN 
+high, ADJ 
+concentrations, NOUN 
+valence, NOUN 
+
+, SPACE 
+electrons, NOUN 
+furthermore, ADV 
+select, VERB 
+different, ADJ 
+parts, NOUN 
+
+, SPACE 
+valence, NOUN 
+electron, NOUN 
+density, NOUN 
+distribution, NOUN 
+utilizing, VERB 
+dif-, NOUN 
+
+, SPACE 
+ferent, NOUN 
+channeling, VERB 
+states, NOUN 
+probe, VERB 
+different, ADJ 
+parts, NOUN 
+crystal, NOUN 
+
+, SPACE 
+states, NOUN 
+selectively, ADV 
+populated, VERB 
+
+, SPACE 
+changing, VERB 
+incidence, NOUN 
+angle, NOUN 
+channeled, VERB 
+positrons, NOUN 
+
+, SPACE 
+respect, NOUN 
+atomic, ADJ 
+string, NOUN 
+direction, NOUN 
+Particularly, ADV 
+
+, SPACE 
+intriguing, ADJ 
+possibility, NOUN 
+new, ADJ 
+tool, NOUN 
+
+, SPACE 
+studies, NOUN 
+spin, NOUN 
+magnetic, ADJ 
+densities, NOUN 
+thin, ADJ 
+magnetic, ADJ 
+films, NOUN 
+
+, SPACE 
+Spin, PROPN 
+densities, NOUN 
+far, ADV 
+studied, VERB 
+neutron, PROPN 
+diffrac-, NOUN 
+
+, SPACE 
+tion, NOUN 
+27, NUM 
+requires, VERB 
+large, ADJ 
+samples, NOUN 
+reactor, NOUN 
+
+, SPACE 
+possibility, NOUN 
+studying, VERB 
+thin, ADJ 
+films, NOUN 
+major, ADJ 
+tech-, NOUN 
+
+, SPACE 
+nological, ADJ 
+importance, NOUN 
+connection, NOUN 
+development, NOUN 
+
+, SPACE 
+efficient, ADJ 
+data, NOUN 
+storage, NOUN 
+media, NOUN 
+Planned, ADJ 
+upgrades, NOUN 
+
+, SPACE 
+positron, NOUN 
+source, NOUN 
+Brookhaven, PROPN 
+National, PROPN 
+Laboratory, PROPN 
+in-, ADP 
+
+, SPACE 
+volving, VERB 
+projected, VERB 
+increase, NOUN 
+positron, NOUN 
+flux, NOUN 
+
+, SPACE 
+orders, NOUN 
+magnitude, NOUN 
+spin, NOUN 
+magnetic, ADJ 
+density, NOUN 
+stud-, NOUN 
+
+, SPACE 
+ies, VERB 
+feasible, ADJ 
+
+, SPACE 
+use, NOUN 
+channeling, VERB 
+effect, NOUN 
+involves, VERB 
+develop-, ADV 
+
+, SPACE 
+ment, NOUN 
+positron, NOUN 
+microscope, NOUN 
+major, ADJ 
+draw-, NOUN 
+
+, SPACE 
+backs, NOUN 
+transmission, NOUN 
+electron, NOUN 
+microscopes, NOUN 
+limited, ADJ 
+
+, SPACE 
+range, NOUN 
+=, PROPN 
+1000, NUM 
+>, X 
+electrons, NOUN 
+samples, NOUN 
+inves-, ADJ 
+
+, SPACE 
+tigation, NOUN 
+use, NOUN 
+channeling, VERB 
+effect, NOUN 
+positrons, NOUN 
+
+, SPACE 
+guided, VERB 
+interstices, NOUN 
+crystal, NOUN 
+
+, SPACE 
+minimum, ADJ 
+scattering, NOUN 
+nuclei, NOUN 
+microscopy, ADJ 
+
+, SPACE 
+performed, VERB 
+samples, NOUN 
+thicknesses, NOUN 
+mi-, ADJ 
+
+, SPACE 
+crons, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+111, NUM 
+L.V., PROPN 
+Hau, PROPN 
+M.M., PROPN 
+Bums, PROPN 
+J.A., PROPN 
+Golovchenko, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+
+, SPACE 
+45, NUM 
+1992, NUM 
+6468, NUM 
+
+, SPACE 
+2, X 
+L.V., PROPN 
+Hau, PROPN 
+J.A., PROPN 
+Golovchenko, PROPN 
+M.M., PROPN 
+Bums, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+
+, SPACE 
+Lett, PROPN 
+74, NUM 
+1995, NUM 
+3, NUM 
+138, NUM 
+
+, SPACE 
+L.V., PROPN 
+Hau, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+119, NUM 
+1996, NUM 
+30, NUM 
+41, NUM 
+41, NUM 
+
+, SPACE 
+3, X 
+J., PROPN 
+Schmiedmayer, PROPN 
+Appl, PROPN 
+Phys, NOUN 
+B, NOUN 
+60, NUM 
+l?!I5, PROPN 
+169, NUM 
+
+, SPACE 
+4, X 
+M.J., PROPN 
+Renn, PROPN 
+D., PROPN 
+Montgomery, PROPN 
+0, NUM 
+Vdovin, PROPN 
+D.Z., PROPN 
+Anderson, PROPN 
+C.E., PROPN 
+
+, SPACE 
+Wieman, PROPN 
+E.A., PROPN 
+Cornell, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+Lett, PROPN 
+75, NUM 
+1995, NUM 
+3253, NUM 
+
+, SPACE 
+5, X 
+J., PROPN 
+Opt, PROPN 
+Sot, PROPN 
+B, NOUN 
+6, NUM 
+1989, NUM 
+topical, ADJ 
+issue, NOUN 
+
+, SPACE 
+6, X 
+J., PROPN 
+Lindhard, PROPN 
+K., PROPN 
+Dan, PROPN 
+Vid, PROPN 
+Selsk, PROPN 
+Mat, PROPN 
+Fys, PROPN 
+Medd, PROPN 
+34, NUM 
+14, NUM 
+
+, SPACE 
+1965, NUM 
+
+, SPACE 
+7, X 
+P., PROPN 
+Lervig, PROPN 
+J., PROPN 
+Lindhard, PROPN 
+V., PROPN 
+Nielsen, PROPN 
+Nucl, PROPN 
+Phys, NOUN 
+96, NUM 
+
+, SPACE 
+1967, NUM 
+481, NUM 
+
+, SPACE 
+8, X 
+L.C., PROPN 
+Feldman, PROPN 
+J.W., PROPN 
+Mayer, PROPN 
+ST, PROPN 
+Picraux, PROPN 
+Materials, PROPN 
+Anal-, PROPN 
+
+, SPACE 
+ysis, NOUN 
+ion, NOUN 
+Channeling, PROPN 
+Academic, PROPN 
+Press, PROPN 
+New, PROPN 
+York, PROPN 
+19821, NUM 
+
+, SPACE 
+9, X 
+J.U., PROPN 
+Andersen, PROPN 
+Semiclassical, ADJ 
+Descriptions, NOUN 
+Atomic, PROPN 
+
+, SPACE 
+Nuclear, PROPN 
+Collisions, PROPN 
+eds, VERB 
+J., PROPN 
+Bang, PROPN 
+J., PROPN 
+de, PROPN 
+Boer, PROPN 
+North-, PROPN 
+
+, SPACE 
+Holland, PROPN 
+1985, NUM 
+~463, PROPN 
+
+, SPACE 
+l, NOUN 
+J.U., PROPN 
+Andersen, PROPN 
+J.A., PROPN 
+Davies, PROPN 
+Nucl, PROPN 
+Ins, PROPN 
+Meth, PROPN 
+132, NUM 
+
+, SPACE 
+1976, NUM 
+179, NUM 
+IO, X 
+N., PROPN 
+Bohr, PROPN 
+K., PROPN 
+Dan, PROPN 
+Vid, PROPN 
+Selsk, PROPN 
+Mat, PROPN 
+Fys, PROPN 
+Medd, PROPN 
+18, NUM 
+8, NUM 
+
+, SPACE 
+1948, NUM 
+
+, SPACE 
+12, NUM 
+J.F., PROPN 
+Bak, PROPN 
+et, PROPN 
+al, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+25, NUM 
+1982, NUM 
+1334, NUM 
+
+, SPACE 
+131, NUM 
+R.L., PROPN 
+Swent, PROPN 
+R.H., PROPN 
+Pantell, PROPN 
+M.J., PROPN 
+Alguard, PROPN 
+B.L., PROPN 
+Berman, PROPN 
+S.D., PROPN 
+
+, SPACE 
+Bloom, PROPN 
+S., PROPN 
+Datz, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+Lett, PROPN 
+43, NUM 
+1979, NUM 
+1723, NUM 
+
+, SPACE 
+14, NUM 
+J.U., PROPN 
+Andersen, PROPN 
+E., PROPN 
+Laegsgaard, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+Lett, PROPN 
+44, NUM 
+1980, NUM 
+
+, SPACE 
+1079, NUM 
+
+, SPACE 
+151, NUM 
+J.U., PROPN 
+Andersen, PROPN 
+E., PROPN 
+Lzgsgaard, PROPN 
+A.H., PROPN 
+Sorensen, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+
+, SPACE 
+Meth, PROPN 
+B, NOUN 
+2, NUM 
+1984, NUM 
+63, NUM 
+16, NUM 
+J.U., PROPN 
+Andersen, PROPN 
+E., PROPN 
+Bonderup, PROPN 
+E., PROPN 
+Lregsgaard, PROPN 
+A.H., PROPN 
+Sore-, PROPN 
+
+, SPACE 
+nsen, PROPN 
+Phys, PROPN 
+Scripta, PROPN 
+28, NUM 
+1983, NUM 
+308, NUM 
+
+, SPACE 
+171, NUM 
+L.V., PROPN 
+Hau, PROPN 
+J.U., PROPN 
+Andersen, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+47, NUM 
+1993, NUM 
+4007, NUM 
+
+, SPACE 
+L.V., PROPN 
+Hau, PROPN 
+E., PROPN 
+Laegsgaard, PROPN 
+J.U., PROPN 
+Andersen, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+
+, SPACE 
+Meth, PROPN 
+B, NOUN 
+48, NUM 
+1990, NUM 
+244, NUM 
+
+, SPACE 
+19, NUM 
+R., PROPN 
+Haakenaasen, PROPN 
+L.V., PROPN 
+Hau, PROPN 
+J.A., PROPN 
+Golovchenko, PROPN 
+J.C., PROPN 
+
+, SPACE 
+Palathinghal, PROPN 
+J.P., PROPN 
+Peng, PROPN 
+P., PROPN 
+Asoka, PROPN 
+Kumar, PROPN 
+K.G., PROPN 
+Lynn, PROPN 
+
+, SPACE 
+Phys, PROPN 
+Rev., PROPN 
+Lett, PROPN 
+75, NUM 
+1995, NUM 
+1650, NUM 
+
+, SPACE 
+20, NUM 
+P., PROPN 
+Asoka, PROPN 
+Kumar, PROPN 
+et, PROPN 
+al, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+337, NUM 
+1993, NUM 
+
+, SPACE 
+3, X 
+
+, SPACE 
+1241, NUM 
+J., PROPN 
+Van, PROPN 
+House, PROPN 
+P.W., PROPN 
+Zitzewitz, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+29, NUM 
+1984, NUM 
+
+, SPACE 
+96, NUM 
+21, X 
+calculations, NOUN 
+performed, VERB 
+M., PROPN 
+Weincrt, PROPN 
+
+, SPACE 
+Brookhaven, PROPN 
+National, PROPN 
+Laboratory, PROPN 
+
+, SPACE 
+22, NUM 
+R., PROPN 
+Haakenaasen, PROPN 
+Ph.D., NOUN 
+diss, NOUN 
+Harvard, PROPN 
+University, PROPN 
+1995, NUM 
+
+, SPACE 
+23, NUM 
+J.J., PROPN 
+Sakurai, PROPN 
+Advanced, PROPN 
+Quantum, PROPN 
+Mechanics, PROPN 
+Addison-, PROPN 
+
+, SPACE 
+Wesley, PROPN 
+Reading, PROPN 
+MA, PROPN 
+1967, NUM 
+
+, SPACE 
+25, NUM 
+D.W., PROPN 
+Gidley, PROPN 
+A.R., PROPN 
+Koymen, PROPN 
+T., PROPN 
+Weston, PROPN 
+Capehart, PROPN 
+Phys, NOUN 
+
+, SPACE 
+Rev., PROPN 
+Lett, PROPN 
+49, NUM 
+1982, NUM 
+1779, NUM 
+
+, SPACE 
+26, NUM 
+A.K., PROPN 
+RajagopaJ, PROPN 
+Advances, NOUN 
+Chemical, PROPN 
+Physics, PROPN 
+Vol, PROPN 
+41, NUM 
+
+, SPACE 
+eds, NOUN 
+Progogine, PROPN 
+S.A., PROPN 
+Rice, PROPN 
+Wiley, PROPN 
+New, PROPN 
+York, PROPN 
+1980, NUM 
+
+, SPACE 
+27, NUM 
+C.G., PROPN 
+Shull, PROPN 
+Early, PROPN 
+Development, PROPN 
+Neutron, PROPN 
+Scattering, PROPN 
+Nobel, PROPN 
+
+, SPACE 
+Prize, PROPN 
+Lecture, PROPN 
+Rev., PROPN 
+Mod, PROPN 
+Phys, PROPN 
+67, NUM 
+4, NUM 
+1995, NUM 
+press, NOUN 
+
+, SPACE 

@@ -1,0 +1,5272 @@
+biodegradable, ADJ 
+porous, ADJ 
+composite, ADJ 
+scaffold, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, VERB 
+bone, NOUN 
+tissue, NOUN 
+engineering, NOUN 
+
+, SPACE 
+Hong, PROPN 
+Caoa, PROPN 
+b,⁎, NOUN 
+Noboru, PROPN 
+Kuboyamac, PROPN 
+
+, SPACE 
+aDepartment, PROPN 
+Pediatric, PROPN 
+Dentistry, PROPN 
+Nihon, PROPN 
+University, PROPN 
+School, PROPN 
+Dentistry, PROPN 
+Matsudo, PROPN 
+Japan, PROPN 
+
+, SPACE 
+bTianjin, PROPN 
+Stomatological, PROPN 
+Hospital, PROPN 
+Tianjin, PROPN 
+China, PROPN 
+
+, SPACE 
+cDepartment, PROPN 
+Oral, PROPN 
+Molecular, PROPN 
+Pharmacology, PROPN 
+Nihon, PROPN 
+University, PROPN 
+School, PROPN 
+Dentistry, PROPN 
+Matsudo, PROPN 
+Japan, PROPN 
+
+, SPACE 
+abstract, ADJ 
+article, NOUN 
+info, NOUN 
+
+, SPACE 
+Article, NOUN 
+history, NOUN 
+
+, SPACE 
+Received, VERB 
+30, NUM 
+June, PROPN 
+2009Revised, NUM 
+24, NUM 
+September, PROPN 
+2009Accepted, NUM 
+24, NUM 
+September, PROPN 
+2009, NUM 
+
+, SPACE 
+Available, ADJ 
+online, ADJ 
+30, NUM 
+September, PROPN 
+2009, NUM 
+
+, SPACE 
+Edited, VERB 
+D., PROPN 
+Fyhrie, PROPN 
+
+, SPACE 
+Keywords, PROPN 
+
+, SPACE 
+PGA, PROPN 
+β, ADJ 
+TCP, ADJ 
+composite, ADJ 
+
+, SPACE 
+Osteogenesis, PROPN 
+
+, SPACE 
+Biodegradation, PROPN 
+
+, SPACE 
+Micro, PROPN 
+CTOsteoclastPolyglycolic, ADJ 
+acid, NOUN 
+PGA, PROPN 
+beta, NOUN 
+tricalcium, NOUN 
+phosphate, NOUN 
+β, PROPN 
+TCP, PROPN 
+applications, NOUN 
+tissue, NOUN 
+repair, NOUN 
+
+, SPACE 
+materials, NOUN 
+study, NOUN 
+dimensional, ADJ 
+3D, NOUN 
+porous, ADJ 
+composite, ADJ 
+scaffolds, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+1:1, NUM 
+1:3, NUM 
+
+, SPACE 
+weight, NOUN 
+ratios, NOUN 
+fabricated, VERB 
+solvent, NOUN 
+casting, NOUN 
+particulate, NOUN 
+leaching, VERB 
+method, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+
+, SPACE 
+scaffolds, NOUN 
+high, ADJ 
+porosity, NOUN 
+interconnected, VERB 
+3D, NOUN 
+pores, NOUN 
+rough, ADJ 
+surfaces, NOUN 
+obtained, VERB 
+observed, VERB 
+
+, SPACE 
+scanning, VERB 
+electron, PROPN 
+microscopy, NOUN 
+SEM, PROPN 
+micro, ADJ 
+computed, ADJ 
+tomography, NOUN 
+micro, NOUN 
+CT, PROPN 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+
+, SPACE 
+scaffolds, NOUN 
+investigated, VERB 
+repair, NOUN 
+critical, ADJ 
+bone, NOUN 
+defects, NOUN 
+3, NUM 
+mm, NOUN 
+diameter, NOUN 
+2, NUM 
+mm, NOUN 
+depth, NOUN 
+rat, ADJ 
+
+, SPACE 
+femoral, ADJ 
+medial, ADJ 
+epicondyles, NOUN 
+compared, VERB 
+hydroxylapatite, NOUN 
+HAP, PROPN 
+implant, ADJ 
+controls, NOUN 
+Quantitativeimageology, NOUN 
+analysis, NOUN 
+volume, NOUN 
+density, NOUN 
+new, ADJ 
+bone, NOUN 
+qualitative, VERB 
+histological, ADJ 
+evaluations, NOUN 
+hematoxylin, NOUN 
+
+, SPACE 
+eosin, NOUN 
+staining, VERB 
+tartrate, NOUN 
+resistant, ADJ 
+acid, NOUN 
+phosphatase, NOUN 
+hematoxylin, NOUN 
+counterstaining, NOUN 
+characterized, VERB 
+
+, SPACE 
+vivo, PROPN 
+micro, ADJ 
+CT, ADJ 
+images, NOUN 
+histological, ADJ 
+sections, NOUN 
+0, NUM 
+14, NUM 
+30, NUM 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+Signi, NOUN 
+ﬁcant, NOUN 
+
+, SPACE 
+differences, NOUN 
+variables, NOUN 
+tested, VERB 
+multivariate, NOUN 
+analysis, NOUN 
+pb0.05, NOUN 
+results, NOUN 
+showed, VERB 
+bone, NOUN 
+
+, SPACE 
+reformation, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffolds, NOUN 
+began, VERB 
+14, NUM 
+days, NOUN 
+surgery, NOUN 
+healing, VERB 
+
+, SPACE 
+30, NUM 
+days, NOUN 
+surgery, NOUN 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+bone, NOUN 
+replacement, NOUN 
+completed, VERB 
+presented, VERB 
+ahealthy, ADJ 
+bone, NOUN 
+appearance, NOUN 
+new, ADJ 
+bone, NOUN 
+mineral, NOUN 
+densities, NOUN 
+mg, PROPN 
+cm, PROPN 
+
+, SPACE 
+3, NUM 
+HAP, PROPN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+PGA/, NOUN 
+
+, SPACE 
+β, X 
+TCP, PROPN 
+1:3, NUM 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+390.4±18.1, ADJ 
+563.8±26.9, ADJ 
+606.3±26.9, PROPN 
+respectively, ADV 
+new, ADJ 
+
+, SPACE 
+bone, NOUN 
+mineral, NOUN 
+density, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffold, NOUN 
+higher, ADJ 
+HAP, PROPN 
+pb0.001, PROPN 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+scaffold, NOUN 
+higher, ADJ 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+scaffold, NOUN 
+time, NOUN 
+examined, VERB 
+
+, SPACE 
+pb0.05, NOUN 
+biodegradation, NOUN 
+percents, NOUN 
+HAP, PROPN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+90, NUM 
+days, NOUN 
+
+, SPACE 
+surgery, NOUN 
+35.1±5.5, NUM 
+99.0±1.0, PROPN 
+96.2±3.3, PROPN 
+respectively, ADV 
+biodegradation, NOUN 
+percents, NOUN 
+PGA, PROPN 
+β, PROPN 
+
+, SPACE 
+TCP, PROPN 
+scaffolds, NOUN 
+higher, ADJ 
+HAP, PROPN 
+time, NOUN 
+examined, VERB 
+pb0.01, PROPN 
+matched, VERB 
+osteogenesis, NOUN 
+rates, NOUN 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffolds, NOUN 
+replaced, VERB 
+new, ADJ 
+growing, VERB 
+bone, NOUN 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+composite, ADJ 
+scaffold, NOUN 
+especially, ADV 
+weight, NOUN 
+ratio, NOUN 
+1:3, NUM 
+exhibited, VERB 
+strong, ADJ 
+ability, NOUN 
+osteogenesis, NOUN 
+
+, SPACE 
+mineralization, NOUN 
+biodegradation, NOUN 
+bone, NOUN 
+replacement, NOUN 
+
+, SPACE 
+©, ADJ 
+2009, NUM 
+Elsevier, ADJ 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+Introduction, PROPN 
+
+, SPACE 
+Bone, PROPN 
+tissue, NOUN 
+engineering, NOUN 
+involves, VERB 
+methods, NOUN 
+materials, NOUN 
+engi-, VERB 
+
+, SPACE 
+neering, VERB 
+life, NOUN 
+sciences, NOUN 
+create, VERB 
+arti, NOUN 
+ﬁcial, ADJ 
+constructs, NOUN 
+
+, SPACE 
+regeneration, NOUN 
+new, ADJ 
+bone, NOUN 
+approach, NOUN 
+implant, ADJ 
+scaffolds, NOUN 
+bone, NOUN 
+
+, SPACE 
+growth, NOUN 
+directly, ADV 
+vivo, NOUN 
+purpose, NOUN 
+stimulating, VERB 
+directing, VERB 
+
+, SPACE 
+bone, NOUN 
+formation, NOUN 
+advantage, NOUN 
+approach, NOUN 
+reduced, ADJ 
+numberof, PROPN 
+operations, NOUN 
+needed, VERB 
+results, VERB 
+shorter, ADJ 
+recovery, NOUN 
+time, NOUN 
+
+, SPACE 
+patient, NOUN 
+compared, VERB 
+treatment, NOUN 
+autograft, NOUN 
+1, NUM 
+
+, SPACE 
+Currently, ADV 
+composites, NOUN 
+polymers, NOUN 
+ceramics, NOUN 
+
+, SPACE 
+developed, VERB 
+goals, NOUN 
+increasing, VERB 
+scaffold, NOUN 
+mechanical, ADJ 
+
+, SPACE 
+stability, NOUN 
+improving, VERB 
+tissue, NOUN 
+interactions, NOUN 
+1, NUM 
+Calcium, NOUN 
+phosphate, NOUN 
+
+, SPACE 
+ceramics, NOUN 
+considered, VERB 
+use, NOUN 
+synthetic, ADJ 
+bone, NOUN 
+graftsubstitutes, NOUN 
+30, NUM 
+years, NOUN 
+Furthermore, ADV 
+commercial, ADJ 
+hydroxy, ADJ 
+apatite, ADJ 
+HAP, PROPN 
+β, X 
+tricalcium, NOUN 
+phosphate, NOUN 
+β, PROPN 
+TCP, PROPN 
+
+, SPACE 
+examined, VERB 
+terms, NOUN 
+suitability, NOUN 
+bone, NOUN 
+substitute, NOUN 
+clinical, ADJ 
+
+, SPACE 
+setting, NOUN 
+Numerous, ADJ 
+vivo, NOUN 
+vitro, X 
+assessments, NOUN 
+reported, VERB 
+
+, SPACE 
+β, X 
+TCP, PROPN 
+excellent, ADJ 
+biocompatibility, NOUN 
+osteoconductivity, NOUN 
+
+, SPACE 
+supports, VERB 
+attachment, NOUN 
+differentiation, NOUN 
+proliferation, NOUN 
+
+, SPACE 
+relevant, ADJ 
+cells, NOUN 
+osteoblasts, NOUN 
+mesenchymal, NOUN 
+cells, NOUN 
+2–6].A, PROPN 
+n, CCONJ 
+
+, SPACE 
+added, VERB 
+advantage, NOUN 
+β, X 
+TCP, PROPN 
+exhibits, VERB 
+faster, ADJ 
+degradation, NOUN 
+rate, NOUN 
+
+, SPACE 
+crystalline, NOUN 
+HAP, PROPN 
+7, NUM 
+porous, ADJ 
+pure, ADJ 
+calcium, NOUN 
+bioceramics, NOUN 
+
+, SPACE 
+brittle, ADJ 
+exhibit, VERB 
+slow, ADJ 
+degradation, NOUN 
+rates, NOUN 
+match, VERB 
+thegrowth, NOUN 
+rate, NOUN 
+new, ADJ 
+bone, NOUN 
+tissues, NOUN 
+
+, SPACE 
+hand, NOUN 
+biodegradable, ADJ 
+synthetic, ADJ 
+polyesters, NOUN 
+
+, SPACE 
+poly(lactic, PROPN 
+acid)(PLA, NUM 
+poly(glycolic, PROPN 
+acid)(PGA, PROPN 
+copolymer, NOUN 
+
+, SPACE 
+poly(lactide, PROPN 
+co, NOUN 
+glycolide, ADJ 
+PLGA, PROPN 
+relatively, ADV 
+long, ADJ 
+history, NOUN 
+
+, SPACE 
+use, NOUN 
+number, NOUN 
+clinical, ADJ 
+applications, NOUN 
+8, NUM 
+PGA, PROPN 
+hydrophilic, ADJ 
+
+, SPACE 
+biodegradable, ADJ 
+polymer, NOUN 
+polymers, NOUN 
+9, NUM 
+possesses, VERB 
+
+, SPACE 
+suitable, ADJ 
+mechanical, ADJ 
+properties, NOUN 
+non, NOUN 
+toxicity, NOUN 
+biodegradation, NOUN 
+having, VERB 
+fastest, ADJ 
+degradation, NOUN 
+rate, NOUN 
+polymers, NOUN 
+1,10, NUM 
+
+, SPACE 
+PGA, PROPN 
+present, VERB 
+favorable, ADJ 
+surface, NOUN 
+cell, NOUN 
+attachmentBone, NOUN 
+46, NUM 
+2010, NUM 
+386, NUM 
+395, NUM 
+
+, SPACE 
+⁎Corresponding, PROPN 
+author, NOUN 
+Department, PROPN 
+Pediatric, PROPN 
+Dentistry, PROPN 
+Nihon, PROPN 
+University, PROPN 
+School, PROPN 
+
+, SPACE 
+Dentistry, PROPN 
+Matsudo, PROPN 
+Japan, PROPN 
+
+, SPACE 
+E, ADJ 
+mail, NOUN 
+address, NOUN 
+laura-hong@hotmail.co.jp, X 
+H., PROPN 
+Cao, PROPN 
+
+, SPACE 
+8756, NUM 
+3282/$, NUM 
+matter, NOUN 
+©, ADJ 
+2009, NUM 
+Elsevier, ADJ 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+doi:10.1016, PROPN 
+j.bone.2009.09.031, PROPN 
+
+, SPACE 
+Contents, PROPN 
+lists, NOUN 
+available, ADJ 
+ScienceDirect, PROPN 
+
+, SPACE 
+Bone, PROPN 
+
+, SPACE 
+journal, NOUN 
+homepage, NOUN 
+www.elsevier.com/locate/bone, NOUN 
+
+, SPACE 
+proliferation, NOUN 
+lack, NOUN 
+speci, NOUN 
+ﬁc, PROPN 
+cell, NOUN 
+recognition, NOUN 
+
+, SPACE 
+signals, NOUN 
+ﬂammatory, ADJ 
+reactions, NOUN 
+occur, VERB 
+biodegradation, NOUN 
+
+, SPACE 
+glycolic, ADJ 
+acid, NOUN 
+degradation, NOUN 
+product, NOUN 
+10,11, NUM 
+
+, SPACE 
+necessary, ADJ 
+add, VERB 
+bioactive, ADJ 
+materials, NOUN 
+improve, VERB 
+biological, ADJ 
+
+, SPACE 
+performance, NOUN 
+scaffold, NOUN 
+
+, SPACE 
+taking, VERB 
+advantage, NOUN 
+formability, NOUN 
+PGA, PROPN 
+included, VERB 
+
+, SPACE 
+controlled, VERB 
+volume, NOUN 
+fractions, NOUN 
+bioactive, ADJ 
+ceramic, ADJ 
+phase, NOUN 
+mechanicalreinforcement, ADJ 
+fabricated, ADJ 
+scaffold, NOUN 
+achieved, VERB 
+12,13, NUM 
+
+, SPACE 
+addition, NOUN 
+β, X 
+TCP, NOUN 
+stabilize, VERB 
+physiological, ADJ 
+pH, NOUN 
+vicinity, NOUN 
+
+, SPACE 
+bone, NOUN 
+defect, NOUN 
+increases, VERB 
+biocompatibility, NOUN 
+
+, SPACE 
+scaffold, NOUN 
+admixtures, NOUN 
+β, NOUN 
+TCP, PROPN 
+PGA, PROPN 
+manipulation, NOUN 
+
+, SPACE 
+porous, ADJ 
+structure, NOUN 
+plastic, ADJ 
+scaffold, NOUN 
+designed, VERB 
+ﬁt, VERB 
+
+, SPACE 
+bone, NOUN 
+defect, NOUN 
+exactly, ADV 
+improve, VERB 
+biodegradation, NOUN 
+rate, NOUN 
+
+, SPACE 
+scaffold, NOUN 
+match, VERB 
+growth, NOUN 
+rate, NOUN 
+new, ADJ 
+bone, NOUN 
+tissues, NOUN 
+
+, SPACE 
+required, VERB 
+bone, NOUN 
+tissue, NOUN 
+restitution, NOUN 
+
+, SPACE 
+study, NOUN 
+solvent, NOUN 
+casting, NOUN 
+particle, NOUN 
+leaching, VERB 
+
+, SPACE 
+SC, PROPN 
+PL, PROPN 
+method, NOUN 
+14, NUM 
+fabricate, VERB 
+highly, ADV 
+porous, ADJ 
+dimensional, ADJ 
+
+, SPACE 
+3D, PROPN 
+biodegradable, ADJ 
+composite, ADJ 
+scaffolds, NOUN 
+β, X 
+TCP, PROPN 
+PGA, PROPN 
+
+, SPACE 
+characterized, VERB 
+microscopic, ADJ 
+macroscopic, ADJ 
+structures, NOUN 
+vitro, X 
+
+, SPACE 
+biocompatibility, NOUN 
+osteogenesis, NOUN 
+biodegradation, NOUN 
+vivo, NOUN 
+
+, SPACE 
+Materials, NOUN 
+methods, NOUN 
+
+, SPACE 
+Materials, NOUN 
+
+, SPACE 
+β, X 
+TCP, ADJ 
+powder, NOUN 
+ρ=3.14, PROPN 
+g, PROPN 
+cm, PROPN 
+
+, SPACE 
+3, NUM 
+kindly, ADV 
+supplied, VERB 
+
+, SPACE 
+Dental, ADJ 
+biomaterials, NOUN 
+laboratory, NOUN 
+Nihon, PROPN 
+University, PROPN 
+School, PROPN 
+Dentistry, PROPN 
+
+, SPACE 
+Matsudo, PROPN 
+PGA, PROPN 
+MW=100,000, PROPN 
+units, NOUN 
+ρ=1.53, PROPN 
+g, PROPN 
+cm3)w, PROPN 
+s, NOUN 
+
+, SPACE 
+purchased, VERB 
+Polysciences, PROPN 
+Tokyo, PROPN 
+Japan, PROPN 
+1,1,1,3,3,3, NUM 
+hexa, NOUN 
+ﬂuoro-, PROPN 
+
+, SPACE 
+2, NUM 
+propanone, NOUN 
+HFIP, PROPN 
+purchased, VERB 
+Kanto, PROPN 
+Chemical, PROPN 
+Tokyo, PROPN 
+
+, SPACE 
+Japan, PROPN 
+Sodium, NOUN 
+chloride, NOUN 
+crystals, NOUN 
+NaCl, PROPN 
+purchased, VERB 
+Sigma, PROPN 
+
+, SPACE 
+425, NUM 
+500μm, ADJ 
+particle, NOUN 
+size, NOUN 
+NaCl, PROPN 
+obtained, VERB 
+sieves, NOUN 
+
+, SPACE 
+mesh, NOUN 
+425, NUM 
+μm, NOUN 
+500, NUM 
+μm, NOUN 
+
+, SPACE 
+Scaffold, PROPN 
+fabrication, NOUN 
+
+, SPACE 
+Porous, ADJ 
+hybrid, NOUN 
+scaffolds, NOUN 
+prepared, VERB 
+technology, NOUN 
+
+, SPACE 
+solvent, NOUN 
+casting, NOUN 
+particle, NOUN 
+leaching, VERB 
+SC, PROPN 
+PL, PROPN 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+PGA, PROPN 
+
+, SPACE 
+soluble, ADJ 
+highly, ADV 
+ﬂuorinated, VERB 
+organic, ADJ 
+solvents, NOUN 
+HFIP, PROPN 
+high, ADJ 
+
+, SPACE 
+crystallinity, NOUN 
+15, NUM 
+corrosive, ADJ 
+volatile, ADJ 
+nature, NOUN 
+HFIP, PROPN 
+
+, SPACE 
+entire, ADJ 
+preparation, NOUN 
+process, NOUN 
+performed, VERB 
+draft, NOUN 
+equipment, NOUN 
+
+, SPACE 
+Dalton, PROPN 
+®, NOUN 
+Tokyo, PROPN 
+Japan, PROPN 
+process, NOUN 
+based, VERB 
+HFIP, PROPN 
+
+, SPACE 
+solvent, NOUN 
+NaCl, PROPN 
+crystals, NOUN 
+porogen, NOUN 
+Brie, PROPN 
+ﬂy, PROPN 
+PGA, PROPN 
+completely, ADV 
+
+, SPACE 
+dissolved, VERB 
+HFIP, PROPN 
+CO=0.2, PROPN 
+g, PROPN 
+ml, PROPN 
+room, NOUN 
+temperature, NOUN 
+β, X 
+TCP, ADJ 
+
+, SPACE 
+powder, NOUN 
+uniformly, ADV 
+mixed, VERB 
+solution, NOUN 
+weight, NOUN 
+ratiosof, VERB 
+PGA, PROPN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+1:3, NUM 
+suspensions, NOUN 
+dropped, VERB 
+
+, SPACE 
+glass, NOUN 
+moulds, NOUN 
+3, NUM 
+mm, NOUN 
+inside, ADP 
+diameter, NOUN 
+2, NUM 
+mm, NOUN 
+height, NOUN 
+1, NUM 
+mm, NUM 
+high, ADJ 
+shaking, VERB 
+mould, NOUN 
+added, VERB 
+0.02, NUM 
+g, NOUN 
+NaCl, PROPN 
+crystals, NOUN 
+particle, NOUN 
+size, NOUN 
+
+, SPACE 
+425–500μm, PROPN 
+mould, NOUN 
+rapidly, ADV 
+suspension, NOUN 
+
+, SPACE 
+stiff, ADJ 
+Subsequently, ADV 
+solvent, NOUN 
+evaporated, VERB 
+draft, NOUN 
+equipment, NOUN 
+atroom, NOUN 
+temperature, NOUN 
+2, NUM 
+days, NOUN 
+matrices, NOUN 
+immersed, VERB 
+
+, SPACE 
+distilled, VERB 
+water, NOUN 
+changed, VERB 
+12, NUM 
+h, NOUN 
+3, NUM 
+days, NOUN 
+remove, VERB 
+NaCl, PROPN 
+
+, SPACE 
+Eventually, ADV 
+porous, ADJ 
+β, X 
+TCP, PROPN 
+PGA, PROPN 
+scaffolds, NOUN 
+air, NOUN 
+dried, VERB 
+stored, VERB 
+
+, SPACE 
+airtight, NOUN 
+container, NOUN 
+Evaluation, NOUN 
+scaffold, NOUN 
+characteristics, NOUN 
+
+, SPACE 
+porosity, NOUN 
+values, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffolds, NOUN 
+measured, VERB 
+
+, SPACE 
+liquid, ADJ 
+displacement, NOUN 
+according, VERB 
+published, VERB 
+method, NOUN 
+16,17, NUM 
+na, ADP 
+
+, SPACE 
+20, NUM 
+°, NUM 
+C, NOUN 
+constant, ADJ 
+temperature, NOUN 
+room, NOUN 
+method, NOUN 
+open, ADJ 
+
+, SPACE 
+porosity, NOUN 
+sample, NOUN 
+calculated, VERB 
+Porosity, NOUN 
+=, NOUN 
+V, PROPN 
+
+, SPACE 
+2/(V, NOUN 
+1+V, PROPN 
+2, NUM 
+
+, SPACE 
+V1is, VERB 
+volume, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+composite, ADJ 
+skeleton, NOUN 
+
+, SPACE 
+scaffold, NOUN 
+V2is, PUNCT 
+volume, NOUN 
+pores, NOUN 
+inside, ADP 
+scaffold, NOUN 
+
+, SPACE 
+Samples, NOUN 
+coated, VERB 
+Au, PROPN 
+Pd, PROPN 
+Ion, PROPN 
+Coater, PROPN 
+IB.5, PROPN 
+Eiko, PROPN 
+
+, SPACE 
+Tokyo, PROPN 
+Japan, PROPN 
+pore, ADJ 
+structures, NOUN 
+scaffolds, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:1, NUM 
+
+, SPACE 
+1:3, NUM 
+ratios, NOUN 
+obtained, VERB 
+scanning, VERB 
+electron, NOUN 
+microscope, NOUN 
+
+, SPACE 
+SEM, PROPN 
+Hitachi, PROPN 
+S-2700, PROPN 
+Tokyo, PROPN 
+Japan, PROPN 
+20, NUM 
+kV., PROPN 
+
+, SPACE 
+Samples, NOUN 
+soaked, VERB 
+0.2, NUM 
+agarose, NOUN 
+solution, NOUN 
+65, NUM 
+°, NOUN 
+C, NOUN 
+air, NOUN 
+
+, SPACE 
+bubbles, NOUN 
+ﬂoated, VERB 
+naturally, ADV 
+cooled, VERB 
+solid, ADJ 
+gel, NOUN 
+room, NOUN 
+
+, SPACE 
+temperature, NOUN 
+Gel, PROPN 
+sample, NOUN 
+pieces, NOUN 
+observed, VERB 
+micro, NOUN 
+CT, ADJ 
+T, PROPN 
+mCT, PROPN 
+Toscaner-30000, PROPN 
+Toshiba, PROPN 
+Tokyo, PROPN 
+Japan, PROPN 
+X, NOUN 
+ray, NOUN 
+source, NOUN 
+
+, SPACE 
+74, NUM 
+kV/110, NOUN 
+μA., PROPN 
+
+, SPACE 
+Implantation, NOUN 
+repairing, VERB 
+femoral, ADJ 
+defects, NOUN 
+
+, SPACE 
+Sprague, PROPN 
+Dawley, PROPN 
+male, ADJ 
+rats, NOUN 
+10, NUM 
+weeks, NOUN 
+old, ADJ 
+body, NOUN 
+weight, NOUN 
+330±10, PROPN 
+g, X 
+
+, SPACE 
+total, NOUN 
+40, NUM 
+rats, NOUN 
+purchased, VERB 
+Japan, PROPN 
+SLC, PROPN 
+Shizuoka, PROPN 
+Japan, PROPN 
+Therats, NOUN 
+allowed, VERB 
+free, ADJ 
+access, NOUN 
+food, NOUN 
+water, NOUN 
+ad, NOUN 
+libitum, NOUN 
+times, NOUN 
+
+, SPACE 
+maintained, VERB 
+12, NUM 
+h, NOUN 
+light, ADJ 
+dark, ADJ 
+cycle, NOUN 
+lights, NOUN 
+8:00, NUM 
+to20:00, NOUN 
+23±1, PROPN 
+°, NUM 
+C, PROPN 
+humidity, NOUN 
+60±10, NUM 
+environment, NOUN 
+period, NOUN 
+
+, SPACE 
+1, NUM 
+week, NOUN 
+use, NOUN 
+rats, NOUN 
+maintained, VERB 
+accordance, NOUN 
+
+, SPACE 
+guidelines, NOUN 
+Care, PROPN 
+Use, PROPN 
+Laboratory, PROPN 
+Animals, PROPN 
+
+, SPACE 
+Nihon, PROPN 
+University, PROPN 
+School, PROPN 
+Dentistry, PROPN 
+Matsudo, PROPN 
+08, NUM 
+0010, NUM 
+
+, SPACE 
+4, NUM 
+material, NOUN 
+groups, NOUN 
+tested, VERB 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+scaffold, NOUN 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+scaffold, NOUN 
+clinically, ADV 
+100, NUM 
+HAP, PROPN 
+Bone-, NOUN 
+
+, SPACE 
+Ject, PROPN 
+
+, SPACE 
+®, NOUN 
+Koken, PROPN 
+Tokyo, PROPN 
+Japan, PROPN 
+control, NOUN 
+implant, ADJ 
+control, NOUN 
+
+, SPACE 
+left, ADJ 
+right, ADJ 
+femora, NOUN 
+rats, NOUN 
+divided, VERB 
+randomly, ADV 
+4, NUM 
+time, NOUN 
+groups, NOUN 
+
+, SPACE 
+according, VERB 
+presumptive, ADJ 
+time, NOUN 
+sacri, ADV 
+ﬁced, VERB 
+
+, SPACE 
+total, NOUN 
+5, NUM 
+samples, NOUN 
+time, NOUN 
+group, NOUN 
+material, NOUN 
+group, NOUN 
+
+, SPACE 
+rats, NOUN 
+injected, VERB 
+intraperitoneally, ADV 
+sodium, NOUN 
+pentobarbital, NOUN 
+
+, SPACE 
+Somnopentyl, NOUN 
+®, NOUN 
+Kyoritsu, PROPN 
+Seiyaku, PROPN 
+Tokyo, PROPN 
+Japan, PROPN 
+dose, NOUN 
+30, NUM 
+mg/, PROPN 
+
+, SPACE 
+kg, NOUN 
+anesthesia, NOUN 
+bone, NOUN 
+defects, NOUN 
+3, NUM 
+mm, NOUN 
+diameter, NOUN 
+2, NUM 
+mm, NOUN 
+depth, NOUN 
+
+, SPACE 
+cortical, ADJ 
+bone, NOUN 
+surface, NOUN 
+cancellous, ADJ 
+bone, NOUN 
+
+, SPACE 
+medial, ADJ 
+epicondyles, NOUN 
+bilateral, ADJ 
+femora, NOUN 
+implant, ADJ 
+drill, NOUN 
+
+, SPACE 
+physiologic, ADJ 
+saline, NOUN 
+cooling, NOUN 
+Fig, PROPN 
+2, NUM 
+implant, ADJ 
+materials, NOUN 
+
+, SPACE 
+ﬁlled, VERB 
+randomly, ADV 
+5, NUM 
+left, ADJ 
+right, ADJ 
+femora, NOUN 
+defects, NOUN 
+surgery, NOUN 
+
+, SPACE 
+rat, NOUN 
+received, VERB 
+intramuscular, ADJ 
+injection, NOUN 
+sodium, PROPN 
+ampicillin, PROPN 
+Viccil, PROPN 
+lin, PROPN 
+
+, SPACE 
+®, NOUN 
+Meiji, PROPN 
+Tokyo, PROPN 
+Japan, PROPN 
+dose, NOUN 
+60, NUM 
+mg, NOUN 
+100, NUM 
+g, NOUN 
+
+, SPACE 
+returned, VERB 
+cage, NOUN 
+allowed, VERB 
+freely, ADV 
+wounds, NOUN 
+healedgradually, ADV 
+rats, NOUN 
+active, ADJ 
+complications, NOUN 
+
+, SPACE 
+surgery, NOUN 
+rats, NOUN 
+examined, VERB 
+0, NUM 
+14, NUM 
+30, NUM 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+
+, SPACE 
+Micro, PROPN 
+CT, PROPN 
+examination, NOUN 
+
+, SPACE 
+quantitative, ADJ 
+imageology, NOUN 
+analysis, NOUN 
+newly, ADV 
+grown, VERB 
+bone, NOUN 
+
+, SPACE 
+performed, VERB 
+vivo, PROPN 
+micro, ADJ 
+CT, ADJ 
+system, NOUN 
+Rigaku, PROPN 
+-mCT, PROPN 
+
+, SPACE 
+®, NOUN 
+Tokyo, PROPN 
+
+, SPACE 
+Japan, PROPN 
+Rat, PROPN 
+femoras, NOUN 
+scanned, VERB 
+micro, NOUN 
+CT, PROPN 
+X, NOUN 
+ray, NOUN 
+
+, SPACE 
+source, NOUN 
+80, NUM 
+kV/120, NOUN 
+μA, PROPN 
+0, NUM 
+14, NUM 
+30, NUM 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+
+, SPACE 
+anesthesia, NOUN 
+sodium, NOUN 
+pentobarbital, NOUN 
+rat, NOUN 
+set, VERB 
+object, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Flow, VERB 
+chart, NOUN 
+SC, PROPN 
+PL, PROPN 
+method, NOUN 
+fabricate, VERB 
+PGA, PROPN 
+b, PROPN 
+TCP, ADJ 
+scaffold.387, NOUN 
+H., PROPN 
+Cao, PROPN 
+N., PROPN 
+Kuboyama, PROPN 
+Bone, PROPN 
+46, NUM 
+2010, NUM 
+386, NUM 
+395, NUM 
+
+, SPACE 
+stage, NOUN 
+imaging, NOUN 
+performed, VERB 
+sample, NOUN 
+360, NUM 
+°, NUM 
+
+, SPACE 
+rotation, NOUN 
+exposure, NOUN 
+time, NOUN 
+2, NUM 
+min, NOUN 
+isotropic, ADJ 
+resolution, NOUN 
+
+, SPACE 
+100×100×100, NUM 
+μm, PROPN 
+voxel, PROPN 
+size, NOUN 
+selected, VERB 
+displayed, VERB 
+micro, NOUN 
+
+, SPACE 
+structure, NOUN 
+rat, PROPN 
+femora, PROPN 
+distal, PROPN 
+cortical, ADJ 
+bone, NOUN 
+cancellous, ADJ 
+bone, NOUN 
+Theoriginal, ADJ 
+3D, NOUN 
+images, NOUN 
+displayed, VERB 
+analyzed, VERB 
+View, PROPN 
+
+, SPACE 
+®, NOUN 
+
+, SPACE 
+software, NOUN 
+J., PROPN 
+Morita, PROPN 
+Kyoto, PROPN 
+Japan, PROPN 
+
+, SPACE 
+3D, PROPN 
+Bone, NOUN 
+analysis, NOUN 
+bone, NOUN 
+mineral, NOUN 
+density, NOUN 
+BMD, PROPN 
+bone, NOUN 
+quantity, NOUN 
+
+, SPACE 
+BV, PROPN 
+TV, PROPN 
+
+, SPACE 
+3D, ADJ 
+bone, NOUN 
+architecture, NOUN 
+femoral, ADJ 
+metaphysis, NOUN 
+measured, VERB 
+
+, SPACE 
+structural, ADJ 
+indices, NOUN 
+femoral, ADJ 
+implant, ADJ 
+areas, NOUN 
+calculatedusing, VERB 
+morphometric, ADJ 
+program, NOUN 
+TRI/3D, PROPN 
+BON, PROPN 
+Ratoc, PROPN 
+System, PROPN 
+Engi-, PROPN 
+
+, SPACE 
+neering, VERB 
+Tokyo, PROPN 
+Japan, PROPN 
+3D, ADJ 
+analysis, NOUN 
+total, ADJ 
+volume, NOUN 
+TV, NOUN 
+cm, PROPN 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+bone, NOUN 
+volume, NOUN 
+BV, PROPN 
+cm3, NOUN 
+bone, NOUN 
+mineral, NOUN 
+content, NOUN 
+BMC, PROPN 
+mg, PROPN 
+
+, SPACE 
+measured, VERB 
+directly, ADV 
+Volumetric, PROPN 
+density, NOUN 
+BV, PROPN 
+TV, PROPN 
+calculated, VERB 
+
+, SPACE 
+BV, PROPN 
+TV, PROPN 
+bone, NOUN 
+mineral, NOUN 
+density, NOUN 
+BMD, PROPN 
+=, SYM 
+BMC, PROPN 
+BV, PROPN 
+mg, PROPN 
+cm3, NOUN 
+
+, SPACE 
+calculated, VERB 
+BV, PROPN 
+BMC, PROPN 
+
+, SPACE 
+indices, NOUN 
+bone, NOUN 
+volume, NOUN 
+total, ADJ 
+volume, NOUN 
+ratio, NOUN 
+BV/, PROPN 
+
+, SPACE 
+TV, PROPN 
+evaluates, VERB 
+quantity, NOUN 
+new, ADJ 
+bone, NOUN 
+density, NOUN 
+newbone, NOUN 
+calculated, VERB 
+BMD, PROPN 
+measured, VERB 
+total, ADJ 
+BMD, PROPN 
+new, ADJ 
+
+, SPACE 
+bone, NOUN 
+implanted, VERB 
+material, NOUN 
+equal, ADJ 
+defect, NOUN 
+area, NOUN 
+different, ADJ 
+
+, SPACE 
+times, NOUN 
+surgery, NOUN 
+measured, VERB 
+recorded, VERB 
+D, PROPN 
+
+, SPACE 
+1, NUM 
+BMD, PROPN 
+theimplanted, VERB 
+material, NOUN 
+measured, VERB 
+micro, ADJ 
+CT, PROPN 
+images, NOUN 
+0, NUM 
+dayafter, NOUN 
+surgery, NOUN 
+recorded, VERB 
+D, PROPN 
+
+, SPACE 
+2, NUM 
+percent, NOUN 
+material, NOUN 
+
+, SPACE 
+biodegradation, NOUN 
+different, ADJ 
+times, NOUN 
+surgery, NOUN 
+recorded, VERB 
+P, NOUN 
+obtained, VERB 
+method, NOUN 
+described, VERB 
+Evaluation, NOUN 
+
+, SPACE 
+implant, ADJ 
+materials, NOUN 
+biodegradation, NOUN 
+section, NOUN 
+BMD, PROPN 
+new, ADJ 
+
+, SPACE 
+bone, NOUN 
+different, ADJ 
+times, NOUN 
+obtained, VERB 
+D, PROPN 
+=D, PROPN 
+
+, SPACE 
+1−D2×, PROPN 
+1−P, PROPN 
+
+, SPACE 
+Histological, ADJ 
+analysis, NOUN 
+
+, SPACE 
+Rats, NOUN 
+sacri, ADV 
+ﬁced, VERB 
+anesthesia, NOUN 
+heart, NOUN 
+perfusion, NOUN 
+
+, SPACE 
+physiologic, ADJ 
+saline, NOUN 
+10, NUM 
+neutral, ADJ 
+formalin, NOUN 
+buffer, NOUN 
+solution, NOUN 
+pH=7.4, PROPN 
+
+, SPACE 
+Wako, PROPN 
+Tokyo, PROPN 
+Japan, PROPN 
+0, NUM 
+14, NUM 
+30, NUM 
+90, NUM 
+days, NOUN 
+5, NUM 
+rats, NOUN 
+time, NOUN 
+point, NOUN 
+
+, SPACE 
+group, NOUN 
+surgery, NOUN 
+Specimens, NOUN 
+ﬁxed, VERB 
+10, NUM 
+formalin, NOUN 
+
+, SPACE 
+48, NUM 
+h, NOUN 
+decalci, NOUN 
+ﬁed, PROPN 
+10, NUM 
+EDTA, INTJ 
+0.1, NUM 
+M, PROPN 
+phosphate, NOUN 
+buffer, PROPN 
+pH, NUM 
+7.4, NUM 
+
+, SPACE 
+4, NUM 
+weeks, NOUN 
+embedded, VERB 
+paraf, NOUN 
+ﬁn, NOUN 
+cut, VERB 
+5, NUM 
+μm, NOUN 
+thick, ADJ 
+sections, NOUN 
+
+, SPACE 
+sections, NOUN 
+stained, VERB 
+hematoxylin, NOUN 
+eosin, NOUN 
+H, NOUN 
+E, NOUN 
+photo-, ADJ 
+
+, SPACE 
+graphs, NOUN 
+taken, VERB 
+evaluated, VERB 
+light, ADJ 
+microscopy, NOUN 
+
+, SPACE 
+Evaluation, PROPN 
+implant, ADJ 
+material, NOUN 
+biodegradation, NOUN 
+
+, SPACE 
+Images, PROPN 
+areas, NOUN 
+implanted, VERB 
+materials, NOUN 
+histological, ADJ 
+sections, NOUN 
+
+, SPACE 
+H&E, PROPN 
+stained, VERB 
+different, ADJ 
+times, NOUN 
+surgery, NOUN 
+measured, VERB 
+
+, SPACE 
+Canvas, PROPN 
+™, X 
+×software, NOUN 
+ACD, PROPN 
+Systems, PROPN 
+America, PROPN 
+Miami, PROPN 
+Florida, PROPN 
+USA, PROPN 
+
+, SPACE 
+area, NOUN 
+data, NOUN 
+meant, VERB 
+total, ADJ 
+area, NOUN 
+material, NOUN 
+defect, ADJ 
+area, NOUN 
+Areaat, PROPN 
+0, NUM 
+day, NOUN 
+surgery, NOUN 
+recorded, VERB 
+
+, SPACE 
+1, NUM 
+Area, NOUN 
+times, NOUN 
+A2, PROPN 
+
+, SPACE 
+percent, NOUN 
+material, NOUN 
+biodegradation, NOUN 
+different, ADJ 
+times, NOUN 
+aftersurgery, NOUN 
+P, PROPN 
+obtained, VERB 
+P=(A, PROPN 
+
+, SPACE 
+1−A2)/A1, PROPN 
+
+, SPACE 
+Osteoclasts, NOUN 
+stained, VERB 
+TRAP, PROPN 
+hematoxylin, PROPN 
+counterstain-, PROPN 
+
+, SPACE 
+ing, NOUN 
+sections, NOUN 
+TRAP, PROPN 
+Tartrate, NOUN 
+Resistant, ADJ 
+Acid, PROPN 
+Phosphatase, PROPN 
+
+, SPACE 
+stained, VERB 
+TRAP, PROPN 
+Staining, ADJ 
+kit, NOUN 
+®, NOUN 
+(Primary, PUNCT 
+Cell, PROPN 
+Hokkaido, PROPN 
+Japan, PROPN 
+
+, SPACE 
+Brieﬂy, PROPN 
+sections, NOUN 
+deparaf, NOUN 
+ﬁnized, VERB 
+xylene, NOUN 
+alcohol, PROPN 
+
+, SPACE 
+rinsed, VERB 
+running, VERB 
+distilled, ADJ 
+water, NOUN 
+5, NUM 
+min, NOUN 
+50, NUM 
+μl, ADJ 
+
+, SPACE 
+staining, VERB 
+solution, NOUN 
+3, NUM 
+mg, ADP 
+tartaric, PROPN 
+acid, NOUN 
+50, NUM 
+ml, NOUN 
+tartaric, PROPN 
+acid, PROPN 
+buffersolution, NOUN 
+pH, NUM 
+5.0, NUM 
+dropped, VERB 
+section, NOUN 
+sections, NOUN 
+
+, SPACE 
+incubated, VERB 
+37, NUM 
+°, NUM 
+C, NOUN 
+45, NUM 
+min, NOUN 
+osteoclasts, NOUN 
+bright, ADJ 
+red, ADJ 
+
+, SPACE 
+rinsed, VERB 
+times, NOUN 
+distilled, ADJ 
+water, NOUN 
+Following, VERB 
+counter-, NOUN 
+
+, SPACE 
+staining, VERB 
+hematoxylin, NOUN 
+2, NUM 
+s, NOUN 
+washed, VERB 
+running, VERB 
+water, NOUN 
+
+, SPACE 
+5, NUM 
+min, NOUN 
+mounted, VERB 
+aqueous, ADJ 
+permanent, ADJ 
+mounting, VERB 
+
+, SPACE 
+medium, NOUN 
+CC, PROPN 
+Mount, PROPN 
+™, NUM 
+DBS, PROPN 
+Pleasanton, PROPN 
+USA, PROPN 
+
+, SPACE 
+Statistical, ADJ 
+analysis, NOUN 
+
+, SPACE 
+results, NOUN 
+expressed, VERB 
+means±SD, X 
+Data, NOUN 
+analyzed, VERB 
+
+, SPACE 
+way, NOUN 
+ANOVA, PROPN 
+followed, VERB 
+post, X 
+hoc, X 
+tests, NOUN 
+pairwise, NOUN 
+
+, SPACE 
+comparisons, NOUN 
+Tukey, PROPN 
+test, NOUN 
+Differences, NOUN 
+considered, VERB 
+besigniﬁcant, VERB 
+pb0.05, PROPN 
+
+, SPACE 
+Results, NOUN 
+
+, SPACE 
+Scaffold, PROPN 
+characterization, NOUN 
+
+, SPACE 
+microstructures, NOUN 
+3D, ADJ 
+porous, ADJ 
+scaffolds, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+
+, SPACE 
+1:3, NUM 
+fabricated, VERB 
+SC, PROPN 
+PL, PROPN 
+method, NOUN 
+analyzed, VERB 
+SEM, PROPN 
+Fig, PROPN 
+
+, SPACE 
+3).Fig, PROPN 
+3, NUM 
+b, NUM 
+scaffolds, NOUN 
+irregular, ADJ 
+macro, NOUN 
+pores, NOUN 
+
+, SPACE 
+cubical, ADJ 
+like, ADJ 
+pores, NOUN 
+average, ADJ 
+pore, ADJ 
+sizes, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+
+, SPACE 
+scaffolds, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+scaffolds, NOUN 
+504.2±93.5, ADJ 
+μm, NOUN 
+
+, SPACE 
+483.3±113.6, PROPN 
+μm, VERB 
+respectively, ADV 
+difference, NOUN 
+
+, SPACE 
+statistically, ADV 
+signi, NOUN 
+ﬁcant, NOUN 
+
+, SPACE 
+opening, NOUN 
+porosities, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+scaffolds, NOUN 
+PGA/, NOUN 
+β-, ADP 
+
+, SPACE 
+TCP, PROPN 
+1:3, NUM 
+scaffolds, NOUN 
+93.6±2.0, NUM 
+88.4±0.7, NUM 
+respectively, ADV 
+
+, SPACE 
+statistically, ADV 
+signi, NOUN 
+ﬁcant, NOUN 
+difference, NOUN 
+pb0.001, PROPN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+c, NOUN 
+d, NOUN 
+surface, NOUN 
+topography, NOUN 
+pore, ADJ 
+walls, NOUN 
+
+, SPACE 
+scaffolds, NOUN 
+β, X 
+TCP, ADJ 
+particles, NOUN 
+uniformly, ADV 
+dispersed, VERB 
+
+, SPACE 
+PGA, PROPN 
+matrix, NOUN 
+visualization, NOUN 
+micropores, NOUN 
+
+, SPACE 
+evaporation, NOUN 
+solvent, NOUN 
+reveals, VERB 
+pore, ADJ 
+walls, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+
+, SPACE 
+composites, NOUN 
+rough, ADJ 
+distinct, ADJ 
+difference, NOUN 
+types, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+X-,Y-, PROPN 
+Z, PROPN 
+axes, NOUN 
+images, NOUN 
+micro, ADJ 
+CT, ADJ 
+slices, NOUN 
+80, NUM 
+kV/120, NUM 
+mA, NUM 
+30, NUM 
+μm, NOUN 
+slice, NOUN 
+
+, SPACE 
+thickness, NOUN 
+3D, ADJ 
+images, NOUN 
+bone, NOUN 
+defect, NOUN 
+3, NUM 
+mm, NOUN 
+diameter, NOUN 
+2, NUM 
+mm, NOUN 
+depth, NOUN 
+
+, SPACE 
+cortical, ADJ 
+bone, NOUN 
+surface, NOUN 
+cancellous, ADJ 
+bone, NOUN 
+medial, ADJ 
+epicondyles, NOUN 
+bilateral, ADJ 
+
+, SPACE 
+femora, NOUN 
+rats.388, PROPN 
+H., PROPN 
+Cao, PROPN 
+N., PROPN 
+Kuboyama, PROPN 
+Bone, PROPN 
+46, NUM 
+2010, NUM 
+386, NUM 
+395, NUM 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffolds, NOUN 
+β, X 
+TCP, ADJ 
+granules, NOUN 
+present, ADJ 
+
+, SPACE 
+pore, PROPN 
+wall, PROPN 
+surface, PROPN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+compared, VERB 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+
+, SPACE 
+1:1, NUM 
+compared, VERB 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+scaffold, NOUN 
+Fig, PROPN 
+3, NUM 
+c, NOUN 
+
+, SPACE 
+gnarled, ADJ 
+pore, ADJ 
+wall, NOUN 
+found, VERB 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+scaffold, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+d, NUM 
+Furthermore, ADV 
+weight, NOUN 
+ratio, NOUN 
+β, ADJ 
+TCP, PROPN 
+determines, VERB 
+
+, SPACE 
+surface, NOUN 
+roughness, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffold, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+shows, VERB 
+T, PROPN 
+mCT, NOUN 
+image, NOUN 
+soaking, VERB 
+scaffold, NOUN 
+agar, NOUN 
+
+, SPACE 
+high, ADJ 
+brightness, NOUN 
+regions, NOUN 
+represent, VERB 
+pore, ADJ 
+walls, NOUN 
+containing, VERB 
+β, NOUN 
+TCP, NOUN 
+Thepores, NOUN 
+scaffold, NOUN 
+ﬁlled, VERB 
+gel, PROPN 
+griscent, NOUN 
+region, NOUN 
+indicated, VERB 
+
+, SPACE 
+white, ADJ 
+arrows, NOUN 
+proves, VERB 
+pores, NOUN 
+interconnected, VERB 
+
+, SPACE 
+leaching, NOUN 
+NaCl, PROPN 
+particles, NOUN 
+evaporation, NOUN 
+solvent, NOUN 
+
+, SPACE 
+Bone, NOUN 
+reformation, NOUN 
+femoral, ADJ 
+defect, NOUN 
+
+, SPACE 
+Bone, NOUN 
+repair, NOUN 
+experiments, NOUN 
+carried, VERB 
+femoral, ADJ 
+
+, SPACE 
+medial, ADJ 
+epicondyle, NOUN 
+defects, NOUN 
+3, NUM 
+mm, NOUN 
+diameter, NOUN 
+2, NUM 
+mm, NOUN 
+depth, NOUN 
+replaced, VERB 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffolds, NOUN 
+HAP, PROPN 
+rats, NOUN 
+survived, VERB 
+
+, SPACE 
+surgery, NOUN 
+signi, NOUN 
+ﬁcant, ADJ 
+events, NOUN 
+surgery, NOUN 
+adverse, ADJ 
+
+, SPACE 
+reactions, NOUN 
+treatment, NOUN 
+animals, NOUN 
+examined, VERB 
+vivo, PROPN 
+
+, SPACE 
+micro, NOUN 
+CT, PROPN 
+different, ADJ 
+time, NOUN 
+intervals, NOUN 
+sacri, ADV 
+ﬁced, VERB 
+histolog-, ADJ 
+
+, SPACE 
+ical, ADJ 
+analysis, NOUN 
+0, NUM 
+14, NUM 
+30, NUM 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+
+, SPACE 
+Micro, PROPN 
+CT, PROPN 
+examination, NOUN 
+3D, NOUN 
+images, NOUN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+depicts, VERB 
+typical, ADJ 
+micro, ADJ 
+CT, ADJ 
+images, NOUN 
+defects, NOUN 
+repair, NOUN 
+
+, SPACE 
+process, NOUN 
+groups, NOUN 
+different, ADJ 
+times, NOUN 
+14, NUM 
+90, NUM 
+days, NOUN 
+
+, SPACE 
+surgery, NOUN 
+brightness, NOUN 
+defect, ADJ 
+areas, NOUN 
+groups, NOUN 
+increased, VERB 
+
+, SPACE 
+gradually, ADV 
+degrees, NOUN 
+mean, VERB 
+mineralization, NOUN 
+
+, SPACE 
+osteogenesis, NOUN 
+progress, NOUN 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+Fig, PROPN 
+5, NUM 
+c, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+Fig, PROPN 
+5, NUM 
+d, NUM 
+
+, SPACE 
+groups, NOUN 
+mineralization, NOUN 
+osteogenesis, NOUN 
+began, VERB 
+defect, NOUN 
+
+, SPACE 
+area, NOUN 
+14, NUM 
+days, NOUN 
+surgery, NOUN 
+advanced, VERB 
+rapidly, ADV 
+90, NUM 
+days, NOUN 
+
+, SPACE 
+surgery, NOUN 
+defect, NOUN 
+areas, NOUN 
+showed, VERB 
+appearance, NOUN 
+natural, ADJ 
+bone, NOUN 
+
+, SPACE 
+smooth, ADJ 
+bone, NOUN 
+surface, NOUN 
+shape, NOUN 
+progress, NOUN 
+bone, NOUN 
+
+, SPACE 
+remodeling, NOUN 
+mineralization, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+group, NOUN 
+higher, ADJ 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+group, NOUN 
+
+, SPACE 
+implant, ADJ 
+control, NOUN 
+group, NOUN 
+Fig, PROPN 
+5, NUM 
+mineralization, NOUN 
+
+, SPACE 
+osteogenesis, NOUN 
+began, VERB 
+basal, NOUN 
+defect, NOUN 
+grewgradually, ADV 
+upward, ADV 
+defect, VERB 
+surface, NOUN 
+layer, NOUN 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+
+, SPACE 
+remained, VERB 
+conspicuous, ADJ 
+introcession, NOUN 
+HAP, PROPN 
+control, NOUN 
+group, NOUN 
+Fig, PROPN 
+
+, SPACE 
+5b, PROPN 
+brightness, NOUN 
+variation, NOUN 
+HAP, PROPN 
+control, NOUN 
+group, NOUN 
+
+, SPACE 
+obvious, ADJ 
+large, ADJ 
+remaining, NOUN 
+HAP, NOUN 
+observedinFig, PROPN 
+6, NUM 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+surface, NOUN 
+shape, NOUN 
+irregular, ADJ 
+
+, SPACE 
+Fig, PROPN 
+3, X 
+SEM, PROPN 
+images, NOUN 
+20, NUM 
+kV, NUM 
+scaffolds, NOUN 
+prepared, VERB 
+PGA, PROPN 
+b, PROPN 
+TCP, ADJ 
+weight, NOUN 
+ratios, NOUN 
+1:1, NUM 
+1:3, NUM 
+c, PROPN 
+PGA, PROPN 
+β, X 
+-TCP, PROPN 
+1:1, NUM 
+b, PROPN 
+d, PROPN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+b, PRON 
+×100, NOUN 
+scaffolds, NOUN 
+
+, SPACE 
+irregular, ADJ 
+macro, NOUN 
+pores, NOUN 
+cubical, ADJ 
+like, ADJ 
+pores, NOUN 
+c, PROPN 
+d, PROPN 
+×2000, NOUN 
+rough, ADJ 
+surface, NOUN 
+PGA, PROPN 
+β, PROPN 
+-TCP, PUNCT 
+scaffold, NOUN 
+β, X 
+TCP, ADJ 
+particles, NOUN 
+shown, VERB 
+black, ADJ 
+arrows, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+T, PROPN 
+mCT, PROPN 
+image, NOUN 
+74, NUM 
+kV/110, NOUN 
+μA, NUM 
+25, NUM 
+μm, NOUN 
+slice, NOUN 
+thickness, NOUN 
+near, ADP 
+center, NOUN 
+PGA/, NOUN 
+
+, SPACE 
+β, X 
+TCP, ADJ 
+scaffold, NOUN 
+agar, NOUN 
+inside, ADP 
+pores, NOUN 
+high, ADJ 
+brightness, NOUN 
+regions, NOUN 
+pore, ADJ 
+walls, NOUN 
+
+, SPACE 
+containing, VERB 
+β, NOUN 
+TCP, NOUN 
+black, ADJ 
+arrows, NOUN 
+pores, NOUN 
+scaffold, NOUN 
+ﬁlled, VERB 
+gel, PROPN 
+
+, SPACE 
+griscent, NOUN 
+region, NOUN 
+white, ADJ 
+arrows, NOUN 
+proves, VERB 
+pores, NOUN 
+
+, SPACE 
+interconnected.389, NOUN 
+H., PROPN 
+Cao, PROPN 
+N., PROPN 
+Kuboyama, PROPN 
+Bone, PROPN 
+46, NUM 
+2010, NUM 
+386, NUM 
+395, NUM 
+
+, SPACE 
+micro, ADJ 
+CT, ADJ 
+observations, NOUN 
+indicate, VERB 
+composite, NOUN 
+PGA/, NOUN 
+
+, SPACE 
+β, X 
+TCP, PROPN 
+allows, VERB 
+rapid, ADJ 
+mineralization, NOUN 
+osteogenesis, NOUN 
+
+, SPACE 
+HAP, PROPN 
+control, NOUN 
+group, NOUN 
+implant, ADJ 
+control, NOUN 
+group, NOUN 
+
+, SPACE 
+BMD, PROPN 
+BV, PROPN 
+TV, NOUN 
+analyses, VERB 
+
+, SPACE 
+new, ADJ 
+bone, NOUN 
+quantity, NOUN 
+BV, PROPN 
+TV, PROPN 
+group, NOUN 
+time, NOUN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+7, NUM 
+14, NUM 
+days, NOUN 
+distinction, NOUN 
+new, ADJ 
+bone, NOUN 
+
+, SPACE 
+quantity, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+group, NOUN 
+HAP, PROPN 
+group, NOUN 
+
+, SPACE 
+pb0.05, NOUN 
+Compared, VERB 
+groups, NOUN 
+markedly, ADV 
+
+, SPACE 
+greater, ADJ 
+quantity, NOUN 
+new, ADJ 
+bone, NOUN 
+formation, NOUN 
+groups, NOUN 
+PGA/, NOUN 
+
+, SPACE 
+β, X 
+TCP, ADJ 
+scaffolds, NOUN 
+control, NOUN 
+groups, NOUN 
+pb0.05, NOUN 
+30and, NOUN 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+BV, PROPN 
+TV, PROPN 
+implant, ADJ 
+theHAP, PROPN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+groups, NOUN 
+
+, SPACE 
+76.5±3.0, PROPN 
+37.3±3.0, NUM 
+91.7±5.0, NOUN 
+96.4±2.0, NUM 
+respectively, ADV 
+at90, PROPN 
+days, NOUN 
+surgery, NOUN 
+evident, ADJ 
+distinction, NOUN 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+group, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+group, NOUN 
+
+, SPACE 
+new, ADJ 
+bone, NOUN 
+quantity, NOUN 
+time, NOUN 
+period, NOUN 
+observed, VERB 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+shows, VERB 
+new, ADJ 
+bone, NOUN 
+BMD, PROPN 
+group, NOUN 
+ﬂects, VERB 
+new, ADJ 
+
+, SPACE 
+bone, NOUN 
+strength, NOUN 
+mineralization, NOUN 
+time, NOUN 
+point, NOUN 
+BMD, PROPN 
+inmg, PROPN 
+cm, PROPN 
+
+, SPACE 
+3, NUM 
+implant, ADJ 
+HAP, PROPN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+
+, SPACE 
+1:3, NUM 
+385.1±19.9, ADJ 
+390.4±18.1, ADJ 
+563.8±26.9, PROPN 
+606.3±26.9,respectively, NUM 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+evident, ADJ 
+
+, SPACE 
+distinction, NOUN 
+BMD, PROPN 
+control, NOUN 
+groups, NOUN 
+14, NUM 
+days, NOUN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Micro, PROPN 
+CT, PROPN 
+images, NOUN 
+80, NUM 
+kV/120, NUM 
+mA, NUM 
+100, NUM 
+μm, NOUN 
+slice, NOUN 
+thickness, NOUN 
+showing, VERB 
+mineralization, NOUN 
+osteogenesis, NOUN 
+rat, PROPN 
+femoral, ADJ 
+distal, ADJ 
+end, NOUN 
+implants, NOUN 
+group, NOUN 
+0, NUM 
+14, NUM 
+30, NUM 
+
+, SPACE 
+90, NUM 
+days, NOUN 
+post, NOUN 
+surgery, NOUN 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+good, ADJ 
+bone, NOUN 
+appearance, NOUN 
+PGA, PROPN 
+β, PROPN 
+-TCP, NOUN 
+groups, NOUN 
+c-90, ADV 
+d-90, VERB 
+irregular, ADJ 
+surface, NOUN 
+HAP, PROPN 
+group, NOUN 
+b-90, PROPN 
+
+, SPACE 
+conspicuous, ADJ 
+introcession, NOUN 
+remained, VERB 
+implant, ADJ 
+group, NOUN 
+a-90, PROPN 
+shown, VERB 
+arrows, NOUN 
+implant, ADJ 
+group, NOUN 
+b, PROPN 
+HAP, PROPN 
+group, NOUN 
+c, PROPN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+d, X 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+dashed, VERB 
+
+, SPACE 
+line, NOUN 
+frame, NOUN 
+implant, ADJ 
+area.390, ADJ 
+H., PROPN 
+Cao, PROPN 
+N., PROPN 
+Kuboyama, PROPN 
+Bone, PROPN 
+46, NUM 
+2010, NUM 
+386, NUM 
+395, NUM 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Histological, ADJ 
+micrographs, NOUN 
+H, NOUN 
+E, PROPN 
+×40, PROPN 
+specimens, NOUN 
+group, NOUN 
+0, NUM 
+14, NUM 
+30, NUM 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+biodegradation, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+groups, NOUN 
+match, VERB 
+new, ADJ 
+bone, NOUN 
+
+, SPACE 
+regeneration, NOUN 
+rate, NOUN 
+c, NOUN 
+d, NUM 
+HAP, PROPN 
+remain, VERB 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+implant, ADJ 
+group, NOUN 
+b, PROPN 
+HAP, PROPN 
+group, NOUN 
+c, PROPN 
+PGA, PROPN 
+β, X 
+-TCP, PROPN 
+1:1, NUM 
+d, X 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+Black, ADJ 
+arrows, NOUN 
+materials, NOUN 
+
+, SPACE 
+green, ADJ 
+arrows, NOUN 
+new, ADJ 
+bone, NOUN 
+dashed, VERB 
+line, NOUN 
+frame, NOUN 
+implant, ADJ 
+area, NOUN 
+scale, NOUN 
+bar, NOUN 
+1, NUM 
+mm, NUM 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+New, ADJ 
+bone, NOUN 
+volume, NOUN 
+total, ADJ 
+volume, NOUN 
+ratio, NOUN 
+BV, PROPN 
+TV, PROPN 
+group, NOUN 
+evaluating, VERB 
+quantity, NOUN 
+new, ADJ 
+bone, NOUN 
+BV, PROPN 
+TV, PROPN 
+PGA, PROPN 
+b, PROPN 
+TCP, ADJ 
+scaffolds, NOUN 
+greater, ADJ 
+pure, ADJ 
+HAP, PROPN 
+
+, SPACE 
+group, NOUN 
+30, NUM 
+90, NUM 
+days, NOUN 
+pb0.001, PROPN 
+⁎pb0.05, PROPN 
+⁎⁎pb0.01, PROPN 
+⁎⁎⁎pb0.001, NOUN 
+n=5).391, PROPN 
+H., PROPN 
+Cao, PROPN 
+N., PROPN 
+Kuboyama, PROPN 
+Bone, PROPN 
+46, NUM 
+2010, NUM 
+386, NUM 
+395, NUM 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+group, NOUN 
+implant, ADJ 
+control, NOUN 
+
+, SPACE 
+group, NOUN 
+30, NUM 
+days, NOUN 
+
+, SPACE 
+InFigs, PROPN 
+7, NUM 
+Fig, PROPN 
+8, NUM 
+BV, PROPN 
+TV, PROPN 
+BMD, PROPN 
+new, ADJ 
+bone, NOUN 
+HAP, PROPN 
+
+, SPACE 
+group, NOUN 
+lowest, ADJ 
+groups, NOUN 
+
+, SPACE 
+consistent, ADJ 
+Fig, PROPN 
+5, NUM 
+reason, NOUN 
+reported, VERB 
+BMD, PROPN 
+data, NOUN 
+
+, SPACE 
+described, VERB 
+new, ADJ 
+bone, NOUN 
+mineralization, NOUN 
+subtract, VERB 
+BMD, PROPN 
+thematerials, NOUN 
+density, NOUN 
+HAP, PROPN 
+highest, ADJ 
+implanted, VERB 
+
+, SPACE 
+materials, NOUN 
+large, ADJ 
+remaining, NOUN 
+HAP, NOUN 
+different, ADJ 
+times, NOUN 
+
+, SPACE 
+observed, VERB 
+Fig, PROPN 
+6, NUM 
+brightness, NOUN 
+HAP, NOUN 
+different, ADJ 
+
+, SPACE 
+times, NOUN 
+highest, ADJ 
+groups, NOUN 
+variation, NOUN 
+notobvious, ADJ 
+micro, ADJ 
+CT, PROPN 
+images, NOUN 
+Fig, PROPN 
+5, NUM 
+
+, SPACE 
+results, NOUN 
+indicate, VERB 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+composite, NOUN 
+allows, VERB 
+
+, SPACE 
+rapid, ADJ 
+mineralization, NOUN 
+osteogenesis, NOUN 
+pure, ADJ 
+HAP, PROPN 
+
+, SPACE 
+consistent, ADJ 
+vivo, PROPN 
+micro, ADJ 
+CT, PROPN 
+images, NOUN 
+described, VERB 
+
+, SPACE 
+
+, SPACE 
+Histological, ADJ 
+analysis, NOUN 
+H, NOUN 
+E, NOUN 
+staining, NOUN 
+
+, SPACE 
+Photomicrographs, PROPN 
+cross, NOUN 
+sections, NOUN 
+H, NOUN 
+E, NOUN 
+staining, NOUN 
+
+, SPACE 
+femoral, ADJ 
+medial, ADJ 
+epicondyle, NOUN 
+bone, NOUN 
+defect, NOUN 
+sites, NOUN 
+groups, NOUN 
+different, ADJ 
+
+, SPACE 
+times, NOUN 
+surgery, NOUN 
+presented, VERB 
+Fig, PROPN 
+6, NUM 
+
+, SPACE 
+day, NOUN 
+0, NUM 
+90, NUM 
+days, NOUN 
+defect, NOUN 
+sites, NOUN 
+implanted, VERB 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+
+, SPACE 
+1:1, NUM 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+similar, ADJ 
+histological, ADJ 
+appearance(Fig, NOUN 
+6, NUM 
+c, NOUN 
+d, NUM 
+90, NUM 
+days, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffolds, NOUN 
+substituted, VERB 
+
+, SPACE 
+completely, ADV 
+newly, ADV 
+formed, VERB 
+bone, NOUN 
+newly, ADV 
+formed, VERB 
+
+, SPACE 
+bones, NOUN 
+possessed, VERB 
+intact, ADJ 
+structures, NOUN 
+femora, PROPN 
+metaphysis, PROPN 
+including, VERB 
+
+, SPACE 
+continuous, ADJ 
+cortical, ADJ 
+bone, NOUN 
+surface, NOUN 
+cancellous, ADJ 
+tissue, NOUN 
+
+, SPACE 
+marrow, NOUN 
+cavity, NOUN 
+ﬁlled, VERB 
+bone, NOUN 
+marrow, NOUN 
+spread, VERB 
+
+, SPACE 
+cancellous, ADJ 
+bone, NOUN 
+
+, SPACE 
+biodegradation, NOUN 
+HAP, PROPN 
+slow, ADJ 
+remained, VERB 
+
+, SPACE 
+90, NUM 
+days, NOUN 
+Fig, PROPN 
+6, NUM 
+b-90, NOUN 
+implant, ADJ 
+control, NOUN 
+support, NOUN 
+
+, SPACE 
+materials, NOUN 
+new, ADJ 
+bone, NOUN 
+grew, VERB 
+basal, NOUN 
+rate, NOUN 
+bone, NOUN 
+
+, SPACE 
+formation, NOUN 
+slow, ADJ 
+90, NUM 
+days, NOUN 
+small, ADJ 
+defect, NOUN 
+
+, SPACE 
+bone, NOUN 
+repair, NOUN 
+Fig, PROPN 
+6, NUM 
+a-90, NOUN 
+
+, SPACE 
+Biodegradation, PROPN 
+implanted, VERB 
+materials, NOUN 
+
+, SPACE 
+percent, NOUN 
+material, NOUN 
+biodegradation, NOUN 
+different, ADJ 
+times, NOUN 
+
+, SPACE 
+surgery, NOUN 
+shown, VERB 
+Fig, PROPN 
+9, NUM 
+90, NUM 
+days, NOUN 
+biodegradation, NOUN 
+percents, NOUN 
+
+, SPACE 
+HAP, PROPN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:3, NUM 
+35.1±5.5, NUM 
+
+, SPACE 
+99.0±1.0, PROPN 
+96.2±3.3, PROPN 
+respectively, ADV 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+groups, NOUN 
+
+, SPACE 
+markedly, ADV 
+faster, ADV 
+HAP, PROPN 
+group, NOUN 
+pb0.05, NOUN 
+
+, SPACE 
+completed, VERB 
+biodegradation, NOUN 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+
+, SPACE 
+results, NOUN 
+indicate, VERB 
+biodegradation, NOUN 
+rate, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+
+, SPACE 
+scaffolds, NOUN 
+allowed, VERB 
+rapid, ADJ 
+replacement, NOUN 
+osteogenesis, NOUN 
+
+, SPACE 
+HAP, PROPN 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+New, PROPN 
+Bone, PROPN 
+BMD, PROPN 
+mg, ADP 
+cm3, NOUN 
+group, NOUN 
+evaluate, VERB 
+strength, NOUN 
+new, ADJ 
+bone, NOUN 
+BMD, PROPN 
+order, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:3, NUM 
+NPGA/, PROPN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+NHAP, PROPN 
+⁎pb0.05, PROPN 
+⁎⁎pb0.01, PROPN 
+⁎⁎⁎pb0.001, NOUN 
+
+, SPACE 
+n=5, PROPN 
+
+, SPACE 
+Fig, PROPN 
+9, NUM 
+Percent, NOUN 
+materials, NOUN 
+Biodegraded, VERB 
+different, ADJ 
+times, NOUN 
+surgery, NOUN 
+biodegradation, NOUN 
+percents, NOUN 
+PGA/, NOUN 
+b, ADV 
+TCP, ADJ 
+scaffolds, NOUN 
+1:1, NUM 
+1:3, NUM 
+higher, ADJ 
+pure, ADJ 
+HAP, NOUN 
+30, NUM 
+
+, SPACE 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+⁎pb0.01, PROPN 
+n=5).392, PROPN 
+H., PROPN 
+Cao, PROPN 
+N., PROPN 
+Kuboyama, PROPN 
+Bone, PROPN 
+46, NUM 
+2010, NUM 
+386, NUM 
+395, NUM 
+
+, SPACE 
+TRAP, PROPN 
+hematoxylin, PROPN 
+counterstaining, NOUN 
+
+, SPACE 
+InFig, PROPN 
+10, NUM 
+TRAP, PROPN 
+hematoxylin, NOUN 
+counterstaining, NOUN 
+revealed, VERB 
+
+, SPACE 
+osteoclasts, NOUN 
+appeared, VERB 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+surface, NOUN 
+14, NUM 
+days, NOUN 
+
+, SPACE 
+surgery, NOUN 
+30, NUM 
+days, NOUN 
+surgery, NOUN 
+osteoclasts, NOUN 
+
+, SPACE 
+observed, VERB 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+surface, NOUN 
+suggests, VERB 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+bio, NOUN 
+resorbed, VERB 
+rapidly, ADV 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+
+, SPACE 
+osteoclasts, NOUN 
+remaining, VERB 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+new, ADJ 
+
+, SPACE 
+growing, VERB 
+bone, NOUN 
+complete, VERB 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+bioresorption, NOUN 
+bone, NOUN 
+
+, SPACE 
+remodeling, NOUN 
+HAP, NOUN 
+implant, NOUN 
+osteoclasts, NOUN 
+increasedweakly, ADV 
+14, NUM 
+days, NOUN 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+
+, SPACE 
+Discussion, PROPN 
+
+, SPACE 
+Tissue, PROPN 
+engineering, NOUN 
+provides, VERB 
+new, ADJ 
+approach, NOUN 
+therapy, NOUN 
+
+, SPACE 
+damaged, VERB 
+tissues, NOUN 
+failed, VERB 
+organs, NOUN 
+development, NOUN 
+bone, NOUN 
+tissue, NOUN 
+
+, SPACE 
+engineering, NOUN 
+directly, ADV 
+related, VERB 
+changes, NOUN 
+materials, NOUN 
+technology, NOUN 
+
+, SPACE 
+especially, ADV 
+development, NOUN 
+biomaterials, NOUN 
+
+, SPACE 
+reconstruction, NOUN 
+large, ADJ 
+orthopedic, ADJ 
+defects, NOUN 
+mechanically, ADV 
+
+, SPACE 
+suitable, ADJ 
+biological, ADJ 
+environments, NOUN 
+18, NUM 
+prepared, VERB 
+
+, SPACE 
+3D, NOUN 
+porous, ADJ 
+scaffolds, NOUN 
+composites, NOUN 
+PGA, PROPN 
+β, NOUN 
+TCP, VERB 
+use, NOUN 
+bone, NOUN 
+
+, SPACE 
+repair, NOUN 
+substitutes, NOUN 
+Scaffolds, NOUN 
+synthesized, VERB 
+osteogenesis, NOUN 
+mimic, VERB 
+bone, NOUN 
+mor-, PRON 
+
+, SPACE 
+phology, NOUN 
+structure, NOUN 
+function, NOUN 
+optimize, VERB 
+integration, NOUN 
+thesurrounding, VERB 
+tissue, NOUN 
+known, VERB 
+bone, NOUN 
+structure, NOUN 
+composed, VERB 
+
+, SPACE 
+hydroxyapatite, NOUN 
+
+, SPACE 
+10(PO, NUM 
+4)6(OH, NUM 
+2, NUM 
+crystals, NOUN 
+deposited, VERB 
+
+, SPACE 
+organic, ADJ 
+matrix, NOUN 
+95, NUM 
+type, NOUN 
+collagen, NOUN 
+19, NUM 
+Ozawa, PROPN 
+et, PROPN 
+al, PROPN 
+20]reported, NUM 
+
+, SPACE 
+clinical, ADJ 
+results, NOUN 
+87, NUM 
+bone, NOUN 
+tumor, NOUN 
+patients, NOUN 
+received, VERB 
+highly, ADV 
+
+, SPACE 
+puriﬁedβ, NOUN 
+TCP, ADJ 
+implants, NOUN 
+repairing, VERB 
+bone, NOUN 
+defect, NOUN 
+
+, SPACE 
+developed, VERB 
+fractures, NOUN 
+deformities, NOUN 
+radiograms, NOUN 
+showed, VERB 
+
+, SPACE 
+marked, VERB 
+radiological, ADJ 
+remodeling, NOUN 
+β, NOUN 
+TCP, NOUN 
+
+, SPACE 
+excellent, ADJ 
+absorbability, NOUN 
+osteoconduction, NOUN 
+particles, NOUN 
+provideanchorage, NOUN 
+osteoblastic, ADJ 
+cells, NOUN 
+provide, VERB 
+favorable, ADJ 
+surface, NOUN 
+
+, SPACE 
+cell, NOUN 
+attachment, NOUN 
+determines, VERB 
+ability, NOUN 
+material, NOUN 
+
+, SPACE 
+support, VERB 
+bone, NOUN 
+ingrowth, NOUN 
+act, VERB 
+biological, ADJ 
+template, NOUN 
+21].A, NUM 
+sa, PROPN 
+n, CCONJ 
+
+, SPACE 
+apatite, NOUN 
+organic, ADJ 
+polymer, NOUN 
+composite, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+prepared, VERB 
+
+, SPACE 
+mimics, VERB 
+components, NOUN 
+natural, ADJ 
+bones, NOUN 
+β, X 
+TCP, PROPN 
+distributed, VERB 
+
+, SPACE 
+uniformly, ADV 
+PGA, PROPN 
+matrix, NOUN 
+polymer, NOUN 
+PGA, PROPN 
+scaffoldfunctions, NOUN 
+collagen, NOUN 
+matrix, NOUN 
+bone, NOUN 
+providing, VERB 
+structural, ADJ 
+
+, SPACE 
+support, NOUN 
+osteogenesis, NOUN 
+taking, VERB 
+advantage, NOUN 
+solubility, NOUN 
+re-, ADP 
+
+, SPACE 
+formability, NOUN 
+PGA, PROPN 
+obtained, VERB 
+shapes, NOUN 
+closely, ADV 
+ﬁt, VERB 
+bone, NOUN 
+
+, SPACE 
+defects, NOUN 
+prevent, VERB 
+growth, NOUN 
+ﬁbrous, ADJ 
+tissue, NOUN 
+
+, SPACE 
+defect, NOUN 
+advances, VERB 
+bone, NOUN 
+formation, NOUN 
+rate, NOUN 
+defect, NOUN 
+
+, SPACE 
+repaired, VERB 
+normal, ADJ 
+tissue, NOUN 
+appearance, NOUN 
+results, NOUN 
+
+, SPACE 
+Fig, PROPN 
+10, NUM 
+TRAP, PROPN 
+hematoxylin, NOUN 
+counterstaining, NOUN 
+micrographs, NOUN 
+×200, PROPN 
+group, NOUN 
+0, NUM 
+14, NUM 
+30, NUM 
+90, NUM 
+days, NOUN 
+surgery, NOUN 
+high, ADJ 
+magniﬁ, ADJ 
+cations, NOUN 
+×600, PROPN 
+shown, VERB 
+insets, NOUN 
+HAP, PROPN 
+
+, SPACE 
+group, NOUN 
+b, X 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+group, NOUN 
+c, PROPN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+group, NOUN 
+Red, ADJ 
+color, NOUN 
+osteoclast, ADJ 
+blue, ADJ 
+color, NOUN 
+cell, PROPN 
+nucleus, PROPN 
+NB, PROPN 
+new, ADJ 
+bone, NOUN 
+M, PROPN 
+material, NOUN 
+black, ADJ 
+scale, NOUN 
+bar, NOUN 
+200, NUM 
+μm, ADJ 
+red, ADJ 
+scale, NOUN 
+bar, NOUN 
+
+, SPACE 
+50μm.393, PROPN 
+H., PROPN 
+Cao, PROPN 
+N., PROPN 
+Kuboyama, PROPN 
+Bone, PROPN 
+46, NUM 
+2010, NUM 
+386, NUM 
+395, NUM 
+
+, SPACE 
+porous, ADJ 
+scaffold, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+exhibits, VERB 
+better, ADJ 
+biocompatibility, NOUN 
+
+, SPACE 
+substrate, NOUN 
+cell, NOUN 
+growth, NOUN 
+migration, NOUN 
+vivo, NOUN 
+bone, NOUN 
+
+, SPACE 
+repair, NOUN 
+substitutes, NOUN 
+
+, SPACE 
+Surface, PROPN 
+topography, NOUN 
+important, ADJ 
+cell, NOUN 
+attachment, NOUN 
+21, NUM 
+pore, NOUN 
+
+, SPACE 
+wall, NOUN 
+roughness, NOUN 
+plays, VERB 
+important, ADJ 
+role, NOUN 
+osteogenic, ADJ 
+outcome, NOUN 
+
+, SPACE 
+macroporosity, NOUN 
+pore, NOUN 
+size, NOUN 
+N50μm)[22, X 
+Surface, NOUN 
+roughness, NOUN 
+
+, SPACE 
+thought, VERB 
+enhance, VERB 
+attachment, NOUN 
+proliferation, NOUN 
+differentiation, NOUN 
+
+, SPACE 
+anchorage, NOUN 
+dependent, ADJ 
+bone, NOUN 
+forming, VERB 
+cells, NOUN 
+23, NUM 
+surface, NOUN 
+energy, NOUN 
+
+, SPACE 
+play, VERB 
+role, NOUN 
+attracting, VERB 
+particular, ADJ 
+proteins, NOUN 
+surface, NOUN 
+thematerial, NOUN 
+turn, NOUN 
+affect, VERB 
+af, ADJ 
+ﬁnity, NOUN 
+cells, NOUN 
+material, NOUN 
+
+, SPACE 
+18, NUM 
+overcome, VERB 
+problem, NOUN 
+homogeneity, NOUN 
+polymer, NOUN 
+
+, SPACE 
+phase, NOUN 
+inorganic, ADJ 
+bioactive, NOUN 
+phase, NOUN 
+reported, VERB 
+previously, ADV 
+
+, SPACE 
+SC, PROPN 
+PL, PROPN 
+method, NOUN 
+incorporated, VERB 
+uniformly, ADJ 
+inorganic, ADJ 
+bioactive, NOUN 
+phase, NOUN 
+
+, SPACE 
+β, ADJ 
+TCP, ADJ 
+powder, NOUN 
+solution, NOUN 
+adding, VERB 
+solution, NOUN 
+
+, SPACE 
+model, NOUN 
+Fig, PROPN 
+1, NUM 
+Compared, VERB 
+PGA, PROPN 
+porous, ADJ 
+scaffold, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+
+, SPACE 
+produces, VERB 
+rougher, ADJ 
+pore, ADJ 
+walls, NOUN 
+particles, NOUN 
+attached, VERB 
+inlayed, VERB 
+
+, SPACE 
+surface, NOUN 
+wall, NOUN 
+surface, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+
+, SPACE 
+1:3, NUM 
+scaffold, NOUN 
+rougher, ADJ 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+scaffold, NOUN 
+
+, SPACE 
+processes, NOUN 
+vivo, ADJ 
+mineralization, NOUN 
+biodegradation, NOUN 
+
+, SPACE 
+complex, ADJ 
+porous, ADJ 
+composite, ADJ 
+scaffolds, NOUN 
+β, X 
+TCP, ADJ 
+particles, NOUN 
+
+, SPACE 
+15μm, NOUN 
+diameter, NOUN 
+Fig, PROPN 
+3, NUM 
+c, NOUN 
+d, X 
+inset, NOUN 
+protruding, VERB 
+surface, NOUN 
+
+, SPACE 
+PGA, PROPN 
+matrix, NOUN 
+balance, NOUN 
+mineral, NOUN 
+deposition, NOUN 
+biodegradationand, CCONJ 
+tissue, NOUN 
+regeneration, NOUN 
+changes, NOUN 
+greatly, ADV 
+different, ADJ 
+times, NOUN 
+
+, SPACE 
+surgery, NOUN 
+bone, NOUN 
+repair, NOUN 
+studies, NOUN 
+rats, NOUN 
+demonstrate, VERB 
+PGA/, NOUN 
+
+, SPACE 
+β, X 
+TCP, ADJ 
+scaffold, NOUN 
+affords, VERB 
+early, ADJ 
+bioresorption, NOUN 
+replacement, NOUN 
+
+, SPACE 
+newly, ADV 
+formed, VERB 
+bone, NOUN 
+Fig, PROPN 
+6, NUM 
+.Figs, PROPN 
+6, NUM 
+7, NUM 
+9, NUM 
+showed, VERB 
+
+, SPACE 
+degradation, NOUN 
+rates, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffolds, NOUN 
+1:1, NUM 
+1:3, NUM 
+adjusted, VERB 
+
+, SPACE 
+match, VERB 
+rate, NOUN 
+bone, NOUN 
+tissue, NOUN 
+regeneration, NOUN 
+slowdegradation, NOUN 
+HAP, PROPN 
+offer, VERB 
+new, ADJ 
+bone, NOUN 
+space, NOUN 
+grow, VERB 
+
+, SPACE 
+measured, VERB 
+time, NOUN 
+periods, NOUN 
+hold, VERB 
+new, ADJ 
+bone, NOUN 
+growth, NOUN 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffolds, NOUN 
+suitable, ADJ 
+bone, NOUN 
+replacement, NOUN 
+
+, SPACE 
+material, NOUN 
+
+, SPACE 
+presume, VERB 
+chemical, ADJ 
+formula, NOUN 
+biodegradation, NOUN 
+
+, SPACE 
+reaction, NOUN 
+follows, VERB 
+nCa, PROPN 
+
+, SPACE 
+9(HPO, NUM 
+4)(PO, NUM 
+4)5(OH)+, NUM 
+OCH, PROPN 
+2CO–)n+, NUM 
+
+, SPACE 
+nH2O→3nCa, PROPN 
+3(PO, NUM 
+4)2+(HOCH, NUM 
+2COOH)n+nH, NUM 
+2O., NUM 
+hydrolysis, NOUN 
+
+, SPACE 
+long, ADJ 
+PGA, PROPN 
+ﬁbers, NOUN 
+degraded, VERB 
+shorter, ADJ 
+ﬁbers, NOUN 
+eventually, ADV 
+
+, SPACE 
+decompose, VERB 
+polymer, NOUN 
+powders, NOUN 
+ﬁnally, ADV 
+glycolic, ADJ 
+acid, NOUN 
+18, NUM 
+
+, SPACE 
+degradation, NOUN 
+product, NOUN 
+glycolic, ADJ 
+acid, NOUN 
+non, ADJ 
+toxic, ADJ 
+enter, VERB 
+thetricarboxylic, ADJ 
+acid, NOUN 
+cycle, NOUN 
+excreted, VERB 
+water, NOUN 
+
+, SPACE 
+carbon, NOUN 
+dioxide, NOUN 
+glycolic, ADJ 
+acid, NOUN 
+urine, NOUN 
+glycolicacid, NOUN 
+turn, VERB 
+glycine, NOUN 
+metabolized, VERB 
+
+, SPACE 
+tricarboxylic, ADJ 
+acid, NOUN 
+cycle, NOUN 
+24, NUM 
+tri, ADJ 
+calcium, ADJ 
+phosphate, NOUN 
+degraded, VERB 
+
+, SPACE 
+β, PROPN 
+TCP, PROPN 
+stabilize, VERB 
+physiological, ADJ 
+pH, NOUN 
+disrupted, VERB 
+
+, SPACE 
+degradation, NOUN 
+product, NOUN 
+glycolic, ADJ 
+acid, NOUN 
+PGA, PROPN 
+increases, VERB 
+
+, SPACE 
+biocompatibility, NOUN 
+scaffold, NOUN 
+completes, VERB 
+avirulent, NOUN 
+metabolic, NOUN 
+
+, SPACE 
+process, NOUN 
+study, NOUN 
+Kondo, PROPN 
+et, PROPN 
+al, PROPN 
+4]showed, VERB 
+osteoclasts, NOUN 
+
+, SPACE 
+adhere, VERB 
+β, X 
+TCP, NOUN 
+resorb, NOUN 
+β, ADJ 
+TCP, ADJ 
+implants, NOUN 
+continuously, ADV 
+4, NUM 
+56, NUM 
+
+, SPACE 
+days, NOUN 
+surgery, NOUN 
+study, NOUN 
+osteoclasts, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+
+, SPACE 
+observed, VERB 
+stages, NOUN 
+TRAP, PROPN 
+hematoxylin, NOUN 
+counterstaining, NOUN 
+andtheir, ADJ 
+quantity, NOUN 
+markedly, ADV 
+increased, VERB 
+30, NUM 
+days, NOUN 
+surgery, NOUN 
+Fig, PROPN 
+10, NUM 
+
+, SPACE 
+addition, NOUN 
+content, NOUN 
+β, X 
+TCP, NOUN 
+composite, NOUN 
+
+, SPACE 
+important, ADJ 
+factor, NOUN 
+mineralization, NOUN 
+osteogenesis, NOUN 
+BMD, PROPN 
+
+, SPACE 
+analyses, VERB 
+con, PROPN 
+ﬁrm, NOUN 
+quantity, NOUN 
+new, ADJ 
+BMD, PROPN 
+PGA/, NOUN 
+
+, SPACE 
+β, X 
+TCP, PROPN 
+1:3, NUM 
+scaffold, NOUN 
+higher, ADJ 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+scaffold, NOUN 
+
+, SPACE 
+Fig, PROPN 
+8), NUM 
+conclude, VERB 
+main, ADJ 
+reason, NOUN 
+content, NOUN 
+
+, SPACE 
+ofβ, NOUN 
+TCP, PROPN 
+level, NOUN 
+P, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+higher, ADJ 
+
+, SPACE 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:1, NUM 
+subsequent, ADJ 
+research, NOUN 
+weight, NOUN 
+ratio, NOUN 
+
+, SPACE 
+ofβ, PROPN 
+TCP, PROPN 
+increased, VERB 
+initial, ADJ 
+levels, NOUN 
+P, NOUN 
+
+, SPACE 
+materials, NOUN 
+designed, VERB 
+assess, VERB 
+composites, NOUN 
+apatite, PROPN 
+
+, SPACE 
+polymers, NOUN 
+bone, NOUN 
+repair, NOUN 
+substitutes, NOUN 
+
+, SPACE 
+Conclusion, PROPN 
+
+, SPACE 
+3D, NOUN 
+porous, ADJ 
+scaffolds, NOUN 
+composites, NOUN 
+PGA, PROPN 
+β, PROPN 
+TCP, PROPN 
+
+, SPACE 
+prepared, VERB 
+SC, PROPN 
+PL, PROPN 
+method, NOUN 
+suitable, ADJ 
+shapes, NOUN 
+
+, SPACE 
+bone, NOUN 
+defects, NOUN 
+rough, ADJ 
+surface, NOUN 
+high, ADJ 
+open, ADJ 
+porosity, NOUN 
+interconnectedpores, NOUN 
+bone, NOUN 
+replacement, NOUN 
+study, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffolds, NOUN 
+
+, SPACE 
+rats, NOUN 
+showed, VERB 
+scaffolds, NOUN 
+osteoconductivity, NOUN 
+early, ADV 
+
+, SPACE 
+encourage, VERB 
+rapid, ADJ 
+bone, NOUN 
+formation, NOUN 
+result, VERB 
+appearance, NOUN 
+
+, SPACE 
+natural, ADJ 
+bone, NOUN 
+replaced, VERB 
+areas, NOUN 
+Furthermore, ADV 
+degradation, NOUN 
+rates, NOUN 
+
+, SPACE 
+scaffolds, NOUN 
+adjust, VERB 
+match, VERB 
+rate, NOUN 
+tissue, NOUN 
+regeneration, NOUN 
+
+, SPACE 
+expected, VERB 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+scaffolds, NOUN 
+disappear, VERB 
+completely, ADV 
+
+, SPACE 
+tissue, NOUN 
+repaired, VERB 
+
+, SPACE 
+bone, NOUN 
+repair, NOUN 
+substitutes, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, ADJ 
+1:3, NUM 
+scaffold, NOUN 
+
+, SPACE 
+rapid, ADJ 
+stronger, ADJ 
+osteoconductivity, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, PROPN 
+1:1, NUM 
+
+, SPACE 
+scaffold, NOUN 
+repairing, VERB 
+femoral, ADJ 
+defects, NOUN 
+conclude, VERB 
+compositescaffold, NOUN 
+PGA/, NOUN 
+β, X 
+TCP, NOUN 
+especially, ADV 
+weight, NOUN 
+ratio, NOUN 
+1:3, NUM 
+exhibits, VERB 
+
+, SPACE 
+strong, ADJ 
+ability, NOUN 
+mineralization, NOUN 
+osteogenesis, NOUN 
+biodegradationduring, ADJ 
+bone, NOUN 
+replacement, NOUN 
+process, NOUN 
+
+, SPACE 
+Acknowledgments, NOUN 
+
+, SPACE 
+like, VERB 
+thank, VERB 
+Prof., PROPN 
+T., PROPN 
+Maeda, PROPN 
+Prof., PROPN 
+N., PROPN 
+Nishiyama, PROPN 
+Prof., PROPN 
+K., PROPN 
+
+, SPACE 
+Nemoto, PROPN 
+Dr., PROPN 
+H., PROPN 
+Yamamoto, PROPN 
+Dr., PROPN 
+T., PROPN 
+Niimi, PROPN 
+Nihon, PROPN 
+University, PROPN 
+School, PROPN 
+
+, SPACE 
+Dentistry, PROPN 
+Matsudo, PROPN 
+excellent, ADJ 
+technology, NOUN 
+support, NOUN 
+
+, SPACE 
+study, NOUN 
+funded, VERB 
+Grant, PROPN 
+supporting, VERB 
+project, NOUN 
+strategicresearch, NOUN 
+2008, NUM 
+2012, NUM 
+Ministry, PROPN 
+education, NOUN 
+culture, NOUN 
+sports, NOUN 
+
+, SPACE 
+science, NOUN 
+technology, NOUN 
+Japan, PROPN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+1, NUM 
+Rezwan, PROPN 
+K, PROPN 
+Chen, PROPN 
+QZ, PROPN 
+Blaker, PROPN 
+JJ, PROPN 
+Boccaccini, PROPN 
+AR, PROPN 
+Biodegradable, ADJ 
+bioactive, ADJ 
+porous, ADJ 
+
+, SPACE 
+polymer, NOUN 
+inorganic, ADJ 
+composite, ADJ 
+scaffolds, NOUN 
+bone, NOUN 
+tissue, NOUN 
+engineering, NOUN 
+Biomaterials, NOUN 
+
+, SPACE 
+2006;27:3413, NUM 
+31, NUM 
+
+, SPACE 
+2, X 
+Jarcho, PROPN 
+M., PROPN 
+Calcium, PROPN 
+phosphate, VERB 
+ceramics, NOUN 
+hard, ADJ 
+tissue, NOUN 
+prosthetics, NOUN 
+Clin, PROPN 
+Orthop, PROPN 
+Relat, PROPN 
+
+, SPACE 
+Res, PROPN 
+1981;157:259, NOUN 
+78, NUM 
+
+, SPACE 
+3, X 
+Hench, PROPN 
+LL, PROPN 
+Wilson, PROPN 
+J., PROPN 
+Surface, PROPN 
+active, ADJ 
+biomaterials, NOUN 
+Science, PROPN 
+1984;226:630, PROPN 
+6, NUM 
+
+, SPACE 
+4, X 
+Kondo, PROPN 
+N, PROPN 
+Ogose, PROPN 
+Tokunaga, PROPN 
+K, PROPN 
+Ito, PROPN 
+T, PROPN 
+Arai, PROPN 
+K, PROPN 
+Kudo, PROPN 
+N, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+formation, NOUN 
+
+, SPACE 
+resorption, NOUN 
+highly, ADV 
+puri, PROPN 
+ﬁedβ, NOUN 
+tricalcium, NOUN 
+phosphate, NOUN 
+rat, NOUN 
+femoral, ADJ 
+condyle, NOUN 
+
+, SPACE 
+Biomaterials, PROPN 
+2005;26:5600, PROPN 
+8, NUM 
+
+, SPACE 
+5, X 
+Uemura, PROPN 
+T, PROPN 
+Dong, PROPN 
+J, PROPN 
+Yoshikawa, PROPN 
+T, PROPN 
+Hakamatsuka, PROPN 
+Y, PROPN 
+Irie, PROPN 
+H, PROPN 
+Inoue, PROPN 
+H, PROPN 
+et, PROPN 
+al, PROPN 
+Allogenic, ADJ 
+
+, SPACE 
+transplantation, NOUN 
+cultured, ADJ 
+bone, NOUN 
+porous, ADJ 
+β, ADJ 
+TCP, ADJ 
+materials, NOUN 
+construct, VERB 
+Key, PROPN 
+Eng, PROPN 
+Mater, PROPN 
+
+, SPACE 
+2001;218, NUM 
+220:253, NUM 
+6, NUM 
+
+, SPACE 
+6, X 
+Mahmood, PROPN 
+TA, PROPN 
+Riesle, PROPN 
+J, PROPN 
+Li, PROPN 
+SH, PROPN 
+Lee, PROPN 
+WC, PROPN 
+Blitterswijk, PROPN 
+Langer, PROPN 
+R., PROPN 
+Dynamic, PROPN 
+culture, NOUN 
+
+, SPACE 
+primary, ADJ 
+chondrocytes, NOUN 
+porous, ADJ 
+β, X 
+TCP, PROPN 
+HA, NOUN 
+scaffolds, NOUN 
+spinner, NOUN 
+ﬂasks, NOUN 
+effects, NOUN 
+
+, SPACE 
+pore, ADJ 
+size, NOUN 
+cell, NOUN 
+seeding, NOUN 
+density, NOUN 
+Key, PROPN 
+Eng, PROPN 
+Mater, PROPN 
+2001;218, PROPN 
+220:257, NOUN 
+60, NUM 
+
+, SPACE 
+7, X 
+Oonishi, PROPN 
+H, PROPN 
+Kushitani, PROPN 
+S, PROPN 
+Iwaki, PROPN 
+H, PROPN 
+Saka, PROPN 
+K, PROPN 
+Ono, PROPN 
+H, PROPN 
+Tamura, PROPN 
+et, PROPN 
+al, PROPN 
+Comparative, ADJ 
+bone, NOUN 
+
+, SPACE 
+formation, NOUN 
+kinds, NOUN 
+bioceramic, ADJ 
+granules, NOUN 
+Bioceramics, NOUN 
+1995;8:137, NUM 
+44, NUM 
+
+, SPACE 
+8, X 
+Gunatillake, PROPN 
+PA, PROPN 
+Adhikari, PROPN 
+R., PROPN 
+Biodegradable, ADJ 
+synthetic, ADJ 
+polymers, NOUN 
+tissue, NOUN 
+engineer-, X 
+
+, SPACE 
+ing, PROPN 
+Eur, PROPN 
+Cell, PROPN 
+Mater, PROPN 
+2003;5:1, NUM 
+16, NUM 
+
+, SPACE 
+9, X 
+Li, PROPN 
+WJ, PROPN 
+Cooper, PROPN 
+Jr, PROPN 
+JA, PROPN 
+Mauck, PROPN 
+RL, PROPN 
+Tuan, PROPN 
+RS, PROPN 
+Fabrication, NOUN 
+characterization, NOUN 
+
+, SPACE 
+electrospun, NOUN 
+poly, ADJ 
+α, ADV 
+hydroxy, ADJ 
+ester)-based, ADJ 
+ﬁbrous, ADJ 
+scaffolds, NOUN 
+tissue, NOUN 
+engineering, NOUN 
+
+, SPACE 
+applications, NOUN 
+Acta, PROPN 
+biomaterialia, ADV 
+2006;2:377, NUM 
+85, NUM 
+
+, SPACE 
+10, NUM 
+Wang, PROPN 
+Y, PROPN 
+Sun, PROPN 
+X, PROPN 
+Zhang, PROPN 
+J, PROPN 
+Rong, PROPN 
+G., PROPN 
+adaptive, ADJ 
+denoising, NOUN 
+method, NOUN 
+based, VERB 
+local, ADJ 
+
+, SPACE 
+mode, NOUN 
+estimation, NOUN 
+Conf, PROPN 
+Proc, PROPN 
+IEEE, PROPN 
+Eng, PROPN 
+Med, PROPN 
+Biol, PROPN 
+Soc, PROPN 
+2005:6555, NUM 
+8, NUM 
+
+, SPACE 
+11, NUM 
+Kinoshita, PROPN 
+Y, PROPN 
+Matsuo, PROPN 
+M, PROPN 
+Todoki, PROPN 
+K, PROPN 
+Ozono, PROPN 
+S, PROPN 
+Fukuoka, PROPN 
+S, PROPN 
+Tsuzuki, PROPN 
+H, PROPN 
+et, PROPN 
+al, PROPN 
+Alveolar, PROPN 
+
+, SPACE 
+bone, NOUN 
+regeneration, NOUN 
+absorbable, ADJ 
+poly(L, ADJ 
+lactide, NOUN 
+co-, NOUN 
+/C15, PROPN 
+caprolactone)/, NUM 
+β, PROPN 
+trical-, NUM 
+
+, SPACE 
+cium, NOUN 
+phosphate, NOUN 
+membrane, NOUN 
+gelatin, NOUN 
+sponge, NOUN 
+incorporating, VERB 
+basic, ADJ 
+ﬁbroblast, NOUN 
+
+, SPACE 
+growth, NOUN 
+factor, NOUN 
+Int, PROPN 
+J, PROPN 
+Oral, PROPN 
+Maxillofac, PROPN 
+Surg, PROPN 
+2008;37:275, NOUN 
+81, NUM 
+
+, SPACE 
+12, NUM 
+Boccaccini, PROPN 
+AR, PROPN 
+Notingher, PROPN 
+Maquet, PROPN 
+V, PROPN 
+Jérôme, PROPN 
+R., PROPN 
+Bioresorbable, PROPN 
+bioactive, ADJ 
+
+, SPACE 
+composite, ADJ 
+materials, NOUN 
+based, VERB 
+polylactide, NOUN 
+foams, NOUN 
+ﬁlled, VERB 
+coated, VERB 
+Bioglass, NOUN 
+
+, SPACE 
+particles, NOUN 
+tissue, NOUN 
+engineering, NOUN 
+applications, NOUN 
+J, PROPN 
+Mater, PROPN 
+Sci, PROPN 
+Mater, PROPN 
+Med, PROPN 
+2003;14:443, PROPN 
+50, NUM 
+
+, SPACE 
+13, NUM 
+Mohan, PROPN 
+SV, PROPN 
+Prakasham, PROPN 
+RS, PROPN 
+Satyavathi, PROPN 
+B, PROPN 
+Annapurna, PROPN 
+J, PROPN 
+Ramakrishna, PROPN 
+SV, PROPN 
+Biotreat-, ADJ 
+
+, SPACE 
+ability, NOUN 
+studies, NOUN 
+pharmaceutical, ADJ 
+wastewater, NOUN 
+anaerobic, ADJ 
+suspended, VERB 
+ﬁlm, NOUN 
+
+, SPACE 
+contact, NOUN 
+reactor, NOUN 
+Water, PROPN 
+Sci, PROPN 
+Technol, PROPN 
+2001;43:271, NOUN 
+6, NUM 
+
+, SPACE 
+14, X 
+Mikos, PROPN 
+AG, PROPN 
+Lyman, PROPN 
+MD, PROPN 
+Freed, PROPN 
+LE, PROPN 
+Langer, PROPN 
+R., PROPN 
+Wetting, PROPN 
+poly(L, ADJ 
+lactic, ADJ 
+acid, NOUN 
+poly, ADJ 
+
+, SPACE 
+DL, PROPN 
+lactic, ADJ 
+co, ADJ 
+glycolic, ADJ 
+acid, NOUN 
+foams, NOUN 
+tissue, NOUN 
+culture, NOUN 
+Biomaterials, NOUN 
+1994;15:55, NUM 
+8, NUM 
+
+, SPACE 
+15, X 
+Middleton, PROPN 
+JC, PROPN 
+Tipton, PROPN 
+AJ, PROPN 
+Synthetic, ADJ 
+biodegradable, ADJ 
+polymers, NOUN 
+orthopedic, ADJ 
+devices, NOUN 
+
+, SPACE 
+Biomaterials, PROPN 
+2000;21:2335, PROPN 
+46, NUM 
+
+, SPACE 
+16, NUM 
+Zhang, PROPN 
+P, PROPN 
+Hong, PROPN 
+Z, PROPN 
+Yu, PROPN 
+T, PROPN 
+Chen, PROPN 
+X, PROPN 
+Jing, PROPN 
+X., PROPN 
+vivo, ADJ 
+mineralization, NOUN 
+osteogenesis, NOUN 
+
+, SPACE 
+nanocomposite, ADJ 
+scaffold, NOUN 
+poly(lactide, PROPN 
+co, NOUN 
+glycolide, ADJ 
+hydroxyapatite, VERB 
+surface, NOUN 
+grafted, VERB 
+poly(L, ADJ 
+lactide, NOUN 
+Biomaterials, NOUN 
+2009;30:58, NUM 
+70, NUM 
+
+, SPACE 
+17, NUM 
+Zhang, PROPN 
+R, PROPN 
+Ma, PROPN 
+PX, PROPN 
+Poly, PROPN 
+α, PROPN 
+hydroxyl, PROPN 
+acids)/hydroxyapatite, PROPN 
+porous, ADJ 
+composites, NOUN 
+
+, SPACE 
+bone, NOUN 
+tissue, NOUN 
+engineering, NOUN 
+I., PROPN 
+Preparation, PROPN 
+morphology, NOUN 
+J, PROPN 
+Biomed, PROPN 
+Mater, PROPN 
+Res, PROPN 
+
+, SPACE 
+1999;44:446, NOUN 
+55, NUM 
+
+, SPACE 
+
+, SPACE 
+18, NUM 
+Burg, PROPN 
+KJL, PROPN 
+Porter, PROPN 
+S, PROPN 
+Kellam, PROPN 
+JF, PROPN 
+Biom, NOUN 
+aterial, ADJ 
+developments, NOUN 
+bone, NOUN 
+tissue, NOUN 
+
+, SPACE 
+engineering, NOUN 
+Biomaterials, NOUN 
+2000;21:2347, ADJ 
+59, NUM 
+
+, SPACE 
+19, NUM 
+Marks, PROPN 
+Jr, PROPN 
+SC, PROPN 
+Odgren, PROPN 
+PR, PROPN 
+Structure, NOUN 
+development, NOUN 
+skeleton, NOUN 
+Bilezikian, PROPN 
+
+, SPACE 
+JP, PROPN 
+Raisz, PROPN 
+LG, PROPN 
+Rodan, PROPN 
+GA, PROPN 
+editors, NOUN 
+Principles, NOUN 
+bone, NOUN 
+biology, NOUN 
+2nd, PROPN 
+ed, NOUN 
+San, PROPN 
+Diego, PROPN 
+Academic, PROPN 
+Press, PROPN 
+2002, NUM 
+p., NOUN 
+3, NUM 
+15, NUM 
+
+, SPACE 
+20, NUM 
+Ozawa, PROPN 
+M, PROPN 
+Tanaka, PROPN 
+T, PROPN 
+Morikawa, PROPN 
+S, PROPN 
+Chazono, PROPN 
+M, PROPN 
+Fujii, PROPN 
+K., PROPN 
+Clinical, PROPN 
+study, NOUN 
+pure, ADJ 
+β-, X 
+
+, SPACE 
+tricalcium, NOUN 
+phosphate, NOUN 
+reports, NOUN 
+167, NUM 
+cases, NOUN 
+J, PROPN 
+East, PROPN 
+Jpn, PROPN 
+Orthop, PROPN 
+Traumatol, PROPN 
+2000;12, NUM 
+
+, SPACE 
+409, NUM 
+13.394, NUM 
+H., PROPN 
+Cao, PROPN 
+N., PROPN 
+Kuboyama, PROPN 
+Bone, PROPN 
+46, NUM 
+2010, NUM 
+386, NUM 
+395, NUM 
+
+, SPACE 
+21, NUM 
+Ciapetti, PROPN 
+G, PROPN 
+Ambrosio, PROPN 
+L, PROPN 
+Savarino, PROPN 
+L, PROPN 
+Granchi, PROPN 
+D, PROPN 
+Cenni, PROPN 
+E, PROPN 
+Baldini, PROPN 
+N, PROPN 
+et, PROPN 
+al, PROPN 
+Osteoblast, PROPN 
+
+, SPACE 
+growth, NOUN 
+function, NOUN 
+porous, ADJ 
+poly, ADJ 
+caprolactone, NOUN 
+matrices, NOUN 
+bone, NOUN 
+repair, NOUN 
+
+, SPACE 
+preliminary, ADJ 
+study, NOUN 
+Biomaterials, NOUN 
+2003;24:3815, NOUN 
+24, NUM 
+
+, SPACE 
+22, NUM 
+Karageorgiou, PROPN 
+V, PROPN 
+Kaplan, PROPN 
+D., PROPN 
+Porosity, PROPN 
+3D, ADJ 
+biomaterial, ADJ 
+scaffolds, NOUN 
+osteogenesis, NOUN 
+
+, SPACE 
+Biomaterials, PROPN 
+2005;26:5474, PROPN 
+91.[23, PROPN 
+Yuan, NOUN 
+H, PROPN 
+Kurashina, PROPN 
+K, PROPN 
+Bruijn, PROPN 
+JD, PROPN 
+Li, PROPN 
+Y, PROPN 
+Groot, PROPN 
+K, PROPN 
+Zhang, PROPN 
+X., PROPN 
+preliminary, ADJ 
+study, NOUN 
+
+, SPACE 
+osteoinduction, NOUN 
+kinds, NOUN 
+calcium, NOUN 
+phosphate, NOUN 
+ceramics, NOUN 
+Biomaterials1999;20:1799, PROPN 
+806, NUM 
+
+, SPACE 
+24, NUM 
+Milhorat, PROPN 
+Toscani, PROPN 
+V., PROPN 
+metabolism, NOUN 
+glycolic, ADJ 
+acid, NOUN 
+progressive, ADJ 
+muscular, ADJ 
+
+, SPACE 
+dystrophy, NOUN 
+J, PROPN 
+Biol, PROPN 
+Chem, PROPN 
+1936;114:461, NUM 
+6.395, NUM 
+H., PROPN 
+Cao, PROPN 
+N., PROPN 
+Kuboyama, PROPN 
+Bone, PROPN 
+46, NUM 
+2010, NUM 
+386, NUM 
+395, NUM 
+
+, SPACE 

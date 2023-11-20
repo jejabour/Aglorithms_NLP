@@ -1,0 +1,319 @@
+s __ -_ BB ELSEYIER August 1996 
+Materials Letters 27 (1996) 307-3 11 
+Pulsed laser deposition of ZnTe thin films 
+S. Bhumia, P. Bhattacharya, D.N. Bose * 
+Semiconductor Dioision, Materials Science Centre, Indian Institute of Technology Kharagpur 721302, India 
+Received 13 November 1995; accepted 28 November 1995 
+Abstract 
+Thin films of ZnTe were deposited on glass and Si by pulsed laser ablation at substrate temperatures of 26°C and 286°C. 
+X-ray diffraction studies showed that films deposited at 26°C were amorphous and those deposited at 286°C were 
+polycrystalline. X-ray photoelectron spectroscopy @F’S) showed the Zn : Te ratio to be 49.1 : 50.9 for both types of films. 
+The band gap of the films deposited at 286°C was 2.2 eV. The conductivity of the films was 1.09 X 10-j 0-l cm”’ and 
+2.59 X 10e6 R-’ cm-’ respectively at 300 K. The variation of conductivity with temperature and the properties of 
+ZnTe/Si heterojunctions were also studied. 
+Kewordsr Thin film; Semiconductor; Laser; Substrate temperature; Heterojunction; Silicon; Glass substrates 
+1. Introduction 
+ZnTe is a wide-band gap II-VI semiconductor 
+with a band gap of 2.26 eV at 300 K. High quality 
+ZnTe films along with its alloys such as Cd,Zn, _,Te 
+and ZnSe,Te, _-x have considerable potential in opto- 
+electronics and integrated optics [l-3]. Recently, 
+ZnTe is being used in making graded contacts to 
+p-ZnSe for blue laser fabrication [4]. ZnTe and its 
+alloys may effectively be used in CdTe based solar 
+cells, in which stable contact formation is always a 
+problem. Use of ZnTe as a contact layer in an n-i-p 
+structure is very effective in producing high effi- 
+ciency devices [5]. Polycrystalline ZnTe films were 
+also used in a tandem solar cell structure which 
+utilizes Cd,Zn, _,Te as the absorber material with a 
+tailored band gap of 1.7 eV [61. ZnTe has also been 
+* Corresponding author. used recently for the fabrication of Cd,Zn , _-x 
+Te/ZnTe quantum well structures. This has created 
+renewed interest in the studies of ZnTe films for 
+device applications. 
+Among the various techniques reported so far for 
+the deposition of ZnTe, molecular beam epitaxy 
+(MBE), liquid phase epitaxy (LPE), sequential elec- 
+trodeposition, RF sputtering [7], thermal evaporation 
+[8] and hot wall evaporation [9] are important. Laser 
+evaporation has emerged as a viable thin film deposi- 
+tion technique in recent years. The interaction of 
+high-power laser radiation with matter results in 
+emission of particles with high kinetic energy result- 
+ing in films with good structural and chemical prop- 
+erties. Congruent rapid evaporation, very small depo- 
+sition time and precise control of deposition rate are 
+the important advantages of this technique. Encour- 
+aging results include deposition of dielectrics [IO], 
+semiconductor superlattices [ 11 I and high tempera- 
+ture superconductors [ 121. Bhattacharya et al. [ 131 
+00167~577X/96/$12.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+PII SO I67-577X(96300009-2 
+308 S. Bhumia et al./Materials Letters 27 (1996) 307-311 
+have reported laser deposition of CdTe films on Si 
+for heterojunction studies. They found that pulsed 
+laser ablation gave films with better properties at a 
+given substrate temperature than thermal evapora- 
+tion. (1111 
+The present work describes the deposition of ZnTe 
+thin films on glass and Si by pulsed laser evapora- 
+tion at two substrate temperatures viz. 26°C and 
+286°C followed by characterization of the deposited 
+films. The composition of the films was checked by 
+X-ray photoelectron spectroscopy (XPS). The crystal 
+structure was determined by X-ray diffraction (XRD) 
+studies. The band gap was estimated from optical 
+absorption of films deposited on glass substrates. 
+Heterojunctions of p-ZnTe/n-Si were fabricated and 
+characterized by current-voltage (Z-V) and capaci- 
+tance-voltage (C-V) (1 MHz) techniques, from 
+which the ideality factor and the band discontinuity 
+were deduced. (220) 
+,_u 56 46 40 32 2L 1 
+29 (degree 1 
+Fig. 1. X-ray diffraction spectra of ZnTe films deposited at 
+26°C and (b) 286°C. (a) 
+The thickness of the films was of the order of 
+2. Experimental method and results 
+Laser evaporation was carried out at a background 
+pressure of 4 X 1O-6 Tot-r. The target used was a 
+ZnTe pellet made from ZnTe powder (Zn and Te 
+were of 6Ns purity) synthesized in our laboratory. 
+This was done by first reacting the elements at 
+750°C for 12 h in an evacuated fused silica ampoule. 
+The material was then heated to the melting point of 
+1300°C in an RF furnace followed by directional 
+solidification. A pulsed Ruby laser (A = 694 nm> 
+with a pulse duration of 30 ns, energy density of 2.5 
+J cm-* and beam diameter 0.8 cm. was used for 
+ablation. The films were deposited on a (100) ori- 
+ented n+--n Si substrate (n = 1.5 X 1015 cmp3) and 
+on Corning 7059 glass at 26°C and 286°C. The latter 
+temperature is the theoretical optimum according to 
+Vincett et al. [14] being T,,/3, where T,, is the 
+boiling point of ZnTe in K. 1.2- 1.4 pm as determined by a surfometer giving a 
+deposition rate of 108 A per pulse. This compares 
+with a deposition rate of 500 A per pulse obtained 
+for CdTe [13]. This is mainly due to lower band gap 
+of CdTe (1.5 eV> which gives much higher optical 
+absorption coefficient OL at 694 nm. 
+X-ray diffraction spectra given in Fig. 1 showed 
+that the films were amorphous when deposited at 
+26°C and polycrystalline at 286°C substrate tempera- 
+ture. In the latter case the films had preferential 
+orientation along (111) and (220) withOzincblende 
+structure and lattice parameter = 6.104 A in agree- 
+ment with the literature. From the full width at half 
+maximum of the XRD spectra, the grain size was 
+determined to be 323-363 .& for the films deposited 
+at 286°C. The stoichiometry of the deposited films 
+was determined by XPS using the 2p,,, peak for Zn 
+and 3d 5,2 peak for Te which were the most intense 
+peaks. This showed that the films were slightly rich 
+in Te (Zn : Te = 49.1 : 50.9) for both substrate tem- 
+peratures. 
+The glass substrates were first cleaned in acetone Optical absorption was carried out in a Shimadzu 
+and then dipped in chromic acid for 24 h and then (UV 365) spectrometer for films deposited on glass 
+washed thoroughly several times in deionized water, substrates and is shown in Fig. 2. An absorption 
+whereas Si wafers were etched in buffered HF acid edge with direct band gap of 2.2 eV at 300 K in 
+prior to film deposition. The ZnTe target and the agreement with the reported value of 2.26 eV was 
+substrates were rotated slowly between pulses in obtained for the films deposited at 286°C but no 
+order to ensure homogeneous films. The distance sharp absorption edge was found for the films de- 
+between the target and substrate was kept at 4 cm. posited at 26°C. 
+S. Bhumia et al. /Materials Letters 27 (1996) 307-311 309 
+f(b) 
+Ii 
+‘: me n 30 
+f - 
+40 L 20 
+(a) 
+10 
+2.0 2.1 2.2 2.3 2.4 2.5 2.6 
+ha IcV) 
+Fig. 2. Optical absorption spectra of ZnTe films deposited at (a) 
+26°C and (b) 286°C substrate temperature. 
+Resistivity measurements showed that the ZnTe 
+films had low conductivity at 300 K with u = 2.59 
+X 10e6 a-’ cm-’ and 1.09 X low3 R-’ cm-’ for 
+26°C and 286°C deposited films respectively. The 
+latter films had higher conductivity because of crys- 
+tallinity resulting in higher mobility and larger free 
+carrier concentration. Fig. 3 shows the variation of 
+lna with l/T for the two types of films. The plots 
+indicated an activated type of conduction with two 
+activation energies EoH and EcL at high and low 
+temperatures respectively. These were determined 
+from the above plots and were found to be 0.85 eV 
+and 0.007 eV respectively for the films deposited at 
+10 - 
+l- 
+10-l - 
+1o-2 - 
+7 
+$ lo-" - 
+$ ,o-4 _ 
+b 
+1o-5 - 
+10-6 - A-- (b) 
+L (al 
+10-T - 
+0.00 2.00 4.00 6.00 8.00 
+1000/T (K-'1 
+Fig. 3. Variation of conductivity (a) of the films with tempera- 
+ture. Films deposited at (a) 26°C and (b) 286°C. < zt 100 
+10 
+1 
+0.1 
+1000 
+(b) 
+1 A 
+_c: 0 
+0 0.2 0.4 0.6 0.1 1.0 1. 
+v (volt) 
+0 0.4 0.1 1.2 1.6 
+v (volt) 
+Fig. 4. I-V characteristics of ZnTe/Si heterojunctions. ZnTe 
+films deposited on Si at (a) 26°C and (b) 286°C. 
+26°C substrate temperature. These energies were 0.65 
+eV and 0.005 eV respectively for the films deposited 
+at 286°C. 
+For heterojunction studies, ZnTe dots were de- 
+posited on n+-n Si through metal masks. Ohmic 
+contact was made by thermal evaporation of gold 
+followed by annealing at 180°C for 4 mm in argon 
+atmosphere. Typical Z-V characteristics of laser de- 
+posited junctions at substrate temperatures of 26°C 
+and 286°C are shown in Fig. 4. Both junctions 
+showed rectifying behavior. The rectification ratio at 
+V = 1 V was 65 for films deposited at 26°C while it 
+was 170 for the films deposited at 286°C. The ideal- 
+ity factors were calculated from the slope of the In I 
+vs V curves and were found to be 8.4 and 4.1 for the 
+films deposited at 26°C and 286°C respectively. Bet- 
+ter ideality factor for the films of 286°C substrate 
+temperature implied that the interface was of better 
+quality with lower generation-recombination cur- 
+rent. This is an advantage of laser deposited films 
+310 S. Bhumia et al. /Materials Letters 27 (1996) 307-311 
+3.0 
+(4 
+2.5 - 
+‘: 
+y 5 2.0 - 
+S 
+” 1.5 - 
+CI ‘0 
+u l.O- 
+Fig. 5. C-V characteristics of ZnTe/Si heterojunctions. ZnTe 
+films deposited on Si at (a) 26°C and (b) 286°C. 
+compared with thermally deposited or hot wall de- 
+posited films which become non-stoichiometric and 
+highly resistive at higher substrate temperatures. 
+The C-V characteristics of the junctions were 
+measured using a Keithly 590 C-V analyzer (Fig. 
+5). The barrier height was determined by use of the 
+following relation: 
+1 2( N*e* + N,%) 
+c:,= qN,N2e,e* (Vn-v>~ 
+where suffix 1 stands for ZnTe and 2 stands for Si. 
+Here V, is the diffusion potential, Co is the capaci- 
+tance per unit area due to the heterojunction dipolar 
+charge layer, ei and l 2 are the dielectric constants 
+and Ni and N2 are the carrier concentrations. From 
+the intercept on the V-axis of the Cn2 vs V plot, V, 
+was found to be 1.2 eV and 1.6 eV for the 26°C and 
+286°C films respectively. From the slopes of these 
+curves, the carrier concentrations (N, > of ZnTe films were determined to be 7.7 X 10” cm-j and 8.3 X 
+1013 cme3 for the films deposited at 26°C and 286°C 
+respectively. The low free carrier concentration in 
+the first film indicates the presence of deep traps in 
+the amorphous film. 
+Using the expression 
+AE,=E,,-(q&,+6,+6,), 
+where Eg, is the band gap of ZnTe, 6, is the Fermi 
+level position of ZnTe from the top of the valence 
+band and 6, is the Fermi level position from the 
+bottom of the conduction band of Si, the conduction 
+band discontinuity was found to be A E, = 0.56 eV 
+for the films of 26°C. From this, the valence band 
+discontinuity A E, was obtained using the relation 
+A E, = A Eg - A E, and was found to be 0.58 eV. 
+For the films deposited at 286°C AE, and AE, 
+were found to be 0.16 eV and 0.98 eV respectively. 
+The value of A E, has been reported to be 0.85 eV 
+from photoemission measurements [ 151 which is rea- 
+sonably close to our experimental value. 
+3. Discussion 
+For thermally deposited ZnTe films, it was found 
+by Maity et al. [16] that the conductivity decreased 
+with increase in substrate temperature, but in our 
+laser deposited films it was higher for higher sub- 
+strate temperature. The effect of substrate tempera- 
+ture was explained on the basis of the temperature 
+dependence of sticking coefficient of Zn which is 
+positive. Hence, the concentration of zinc vacancies 
+is reduced at higher substrate temperatures resulting 
+in films with lower conductivity. The crystalline 
+quality of the films deposited at higher substrate 
+temperature was however not considered. In the 
+present case for laser deposited films, the energy of 
+the deposited ions is higher leading to greater surface 
+mobility and better stoichiometry. Thus, the Zn va- 
+cancy concentration remained the same for both 
+substrate temperatures. The conductivity in this case 
+was mainly determined by the crystalline quality of 
+the films. Films deposited at 286°C substrate temper- 
+ature were crystalline while those deposited at 26°C 
+were amorphous. Thus the former films had larger 
+free carrier (hole) concentration and mobility result- 
+ing in higher conductivity. 
+S. Bhumia et al./Materials Letters 27 (19%) 307-31 I 311 
+4. Conclusion 
+ZnTe films with band gap of 2.2 eV and good 
+electrical properties have been obtained by pulsed 
+laser ablation at a substrate temperature of 286°C. 
+The advantages of laser deposition viz. better stoi- 
+chiometry and crystallinity at optimum substrate 
+temperature have been demonstrated in this study. 
+ZnTe/Si heterojunctions have been studied using 
+I-V and C-V characteristics and used to determine 
+ideality factor and valence band offset A E,, which 
+was in reasonable agreement with earlier values. 
+References 
+[I] I. Kimmerle et al., Proc. 6th Europ. Photovoltaic Solar 
+Energy Conf. (Reidel, Dordrecht, 1985) p. 199. 
+[2] F. Buch et al., Appl. Phys. Letters 28 (1976) 593. [31 
+[41 
+61 
+t61 
+[71 
+k31 
+[91 
+[JOI 
+ill1 
+t121 
+[131 
+I141 
+[151 
+[I61 F. Buch et al., J. Appl. Phys. 48 (1977) 1596. 
+N. Nakayama et al., Elect. Letters 29 (1993) 2194. 
+P.V. Meyers, Polycrystalline thin film CdTe n-i-p solar 
+cells, Final Subcontract Rep. September 1988 - August 
+1989, Contract DE-AC02-83CH10093, US Department of 
+Energy, Washington, DC. 
+A. Rohatgi et al., Sol. Cells 27 (1989) 219. 
+Y. Tokumitsu et al., Jpn. J. Appl. Phys. 29 (1990) 1039. 
+N.G. Patel, J. Mater. Sci. 21 (1986) 2099. 
+A. Mondal et al., Thin Solid Films 176 (1989) L183. 
+P. Bhattacharya and D.N. Bose, Elect. Letters 25 (1989) 
+1602. 
+H. Sakura and T.J. Cheng, J. Appl. Phys. 47 (1988) 284. 
+X.D. Wu et al., Appl. Phys. Letters 56 (1990) 400. 
+P. Bhattacharya and D.N. Bose, Semicond. Sci. Technol. 6 
+(1991) 384. 
+S. Vincett, W.A. Barlow and G.G. Roberts, J. Appl. Phys. 48 
+(1977) 3800. 
+A.D. Katnani and G. Margaritondo, Phys. Rev. B 24 (1983) 
+1944. 
+B. Maiti et al., Thin Solid Films 239 (1994) 104. 

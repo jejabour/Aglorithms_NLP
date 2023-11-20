@@ -1,0 +1,1088 @@
+EPSL 
+Earth and Planetary Science Letters 142 (1996) 175-189 
+Ridge-hotspot interaction along the Mid-Atlantic Ridge between 
+37’30’ and 40’30’N: the U-Th disequilibrium evidence 
+B. Bourdon *, C.H. Langmuir I, A. Zindler 2 
+L.amont-Doherty Earth Observatory, Palisades, NY 10964, USA 
+Received 20 October 1995; accepted 26 April 1996 
+Abstract 
+This study reports U-Th disequilibrium data obtained by mass spectrometry for basaltic glasses collected along the 
+Azores platform portion of the Mid-Atlantic Ridge (37”30’-40”30’N), a region characterized by both a geochemical and 
+bathymetric gradient. High Th and U concentrations, as well as Th/U ratios, document an enriched geochemical signature. 
+cz3’Th/ 238U) activity ratios range from 1.20 to 1.35 and are thus systematically larger than most EPR MORBs reported in 
+the literature. (2WTh/ 232Th) activity ratios show remarkable homogeneity for multiple samples taken from single dredge 
+hauls. Additionally, samples with the highest Th concentrations (2.4 ppm) have among the highest Th isotope ratios. Taken 
+together, these observations rule out assimilation of *?h-rich sediment as an explanation for the 230Th-238U systematics. 
+The relatively large 230Th excesses in the erupted lavas may be related to the influence of the enriched Azores mantle plume 
+source. The lack of observed correlations between 230 Tb excess and trace element and isotopic indices of source enrichment, 
+however, rules out source composition as an explanation for the variations in (230Th/ 238U). 
+Excess ~3’ Th is correlated with the axial depth of the ridge in the study area, with the shallowest portions showing the 
+largest extents of disequilibrium. This may reflect more melting in the presence of garnet for the shallow segments, and 
+suggests that melting begins well within the garnet peridotite stability field (- 35 kbar) in the mantle beneath the Azores 
+segment of the MAR. 
+At the ridge segment scale, 230Th excesses tend to be smaller near segment boundaries. This could reflect differences in 
+the melting process or less frequent magmatism in these zones. These results demonstrate the potential for U-Th systematics 
+to constrain the depth and degree of melting as well as the rate of mantle upwelling, even in the presence of source chemical 
+heterogeneity. 
+Keywords: Mid-Atlantic Ridge; hot spots; mid-ocean ridges; U-238/Th-230; equilibrium 
+1. Introduction 
+l Corresponding author. Now at Laboratoire de Gochimie et 
+Cosmochimie, CNRS, IPGP T14-24.4 Place Jussieu, 75252 Paris 
+CCdex 05 France. Fax: +33 1 44 27 37 52. E-mail: 
+bourdon@ipgpjussieu.fr 
+’ Fax: + 1 914 359 8155. E-mail: langmuir@ldeo.columbia.edu 
+* Now at National High Magnetic Field Laboratory and Depart- 
+ment of Geology, Florida State University, 32306, USA. Fax: + 1 
+904 644 0827. E-mail: zindler@magnet.fsu.edu Hotspots are usually associated with large geo- 
+physical and geochemical anomalies. Ridges affected 
+by hotspots offer a particularly interesting view of 
+hotspot geochemistry because they display a cross 
+section through the mantle flow associated with the 
+0012-821X/%/$12.00 Copyright 8 19% Elsevier Science B.V. All rights reserved. 
+PII SOOl2-821X(96)00092-1 
+176 B. Bourdon et al. / Earth and Planetary Science Letters 14.2 (1996) 175-189 
+plume. The extent of the geochemical anomaly pro- 
+vides an indication of the scale and nature of ridge- 
+hotspot interaction. In this paper, we report the first 
+study of ridge-hotspot interaction using U-Th dise- 
+quilibria. 
+Unlike most other isotope systems, U-Th disequi- 
+librium is not simply related to source geochemistry. 
+Instead, the extent of U-Th disequilibrium is primar- 
+ily a function of the melting process [1,2]. The time 
+dependence of U-lb disequilibrium can also provide 
+constraints on the rate of melt generation [2,3]. We 
+have thus measured U-Th systematics in a series of 
+young MORB samples collected along the Mid- 
+Atlantic Ridge near the Azores during the cruise 
+AII-129 of the RV Aflunris II (FAZAR expedition). 
+The region we have selected for this study is the 
+northern limb of a geochemical gradient on the 
+Azores plateau over a distance of approximately 300 
+km. We examine this data in conjunction with major 
+and trace elements to investigate melt generation and 
+its relationship to source variations, ridge-plume 
+interaction and ridge segmentation. 
+2. Evidence for ridge-hotspot interaction on the 
+Azores plateau 
+Numerous geophysical studies have documented 
+anomalies on the Mid-Atlantic Ridge (MAR) near 
+the Azores. This region of the North Atlantic is 
+characterized by a funnel-shaped bathymetric swell. 
+The lateral extent of this swell is widest at the 
+MAR-Azores intersection. The ridge axis itself also 
+shows a long-wavelength bathymetric high between 
+37”N and 41”N. Seismic refraction [4] studies as well 
+as detailed modelling of the gravity field [51 have 
+shown that crustal thickness in this region could be 
+60% greater than normal. The morphology of the 
+ridge axis is itself anomalous in the region where the 
+bathymetty is shallowest; the axial valley is less 
+marked and the segments are swollen. This is analo- 
+gous to the Reykjanes Ridge where segments closer 
+to Iceland have no rift valley [6,7]. Similar anomalies 
+are visible on large-scale gravity maps [8] with resid- 
+ual gravity anomalies as great as - 30 mgal on the 
+Azores platform. Modelling of these features has 
+shown that they can be explained by a large mass of 
+anomalously hot mantle (AT - 75°C) located at a depth of a few hundred kilometers [8]. This hot 
+upper mantle may be related to thermal (or chemical) 
+anomalies in the mantle beneath the Azores platform. 
+The geophysical anomalies have also been modeled 
+by Sleep [9], who estimated a buoyancy flux of 1.1 
+Mg . se1 for the Azores plume. 
+Evidence for the interaction of plume-derived ma- 
+terial with the MAR plumbing system derives from 
+geochemical studies. Long-wavelength sampling ( > 
+1000 km) has shown that variations in La/Sm and 
+other trace element and isotopic parameters along the 
+MAR near the Azores reflect the interaction of nor- 
+mal-ridge source material with plume-derived en- 
+riched material [lo]. This enriched mantle is charac- 
+terized by radiogenic Pb and Sr isotope ratios, and 
+low 3He/4He [lo-181. The origin of this enrich- 
+ment has variously been attributed to recycled oceanic 
+crust, sediments, and/or mantle metasomatism 
+[11,16,17,19]. Major elements were also shown to be 
+anomalous in MORB from the Azores platform [20], 
+the trace element enrichment in the Azores mantle 
+source being associated with an apparent depletion in 
+Fe. This major element anomaly affects the crystal- 
+lization path for the Azores E-MORB, leading to the 
+earlier appearance of clinopyroxene than for N- 
+MORB [11,13]. 
+3. Description of the sampling area 
+We present data for five ridge segments located 
+on the Azores platform between 37”30’N and 
+40”30’N (Fig. 1). The morphology, bathymetry and 
+gravity anomalies for this region have been de- 
+scribed by Needham et al. [21]. One segment located 
+north of the region mapped by Needham et al. [Zll 
+was also sampled and its bathymetry was established 
+by SEABEAM during the FAZAR cruise 1221 (Fig. 
+2). 
+The northern boundary of the study region is the 
+Kurchatov fracture zone at 40”30’N. The ridge shal- 
+lows rapidly to the south, and the rift valley gradu- 
+ally diminishes. At the summit of the Azores plat- 
+form, there is no marked rift valley and little change 
+in axial depth along the ridge segment. More pro- 
+nounced bathymetry variation at segment boundaries 
+occur around the southernmost segments (KP-4 and 
+KP-5, Fig. 2). 
+3. Bourdan et al. /Earrh and Planetary Science L.etters I42 (1996117St89 177 
+Large mantle Bouguer anomalies (MBA) found in 
+this region [8] could reflect both mantle temperature 
+and crustal thickness variations. On a gravity profile, 
+the largest calculated crustal thicknesses are found in 
+segment KP-2 and KP-3 where the crust could be 
+3-4 km thicker. The variations in MBA and 
+bathymetry near segment boundaries have been in- terpreted as thinner crust resulting from focused 
+upwelling at segment midpoints [5,23]. 
+4. Sample collection and preparation 
+Samples were collected both by dredging and by 
+rock coring using a technique described in [22,24]. 
+Fig. 1. Regional map of the section of the Mid-Atlantic Ridge sampled for this study. Seven dredges and eight rock cores from this transect 
+were selected for U-Th analysis. 
+
+178 B. Bourdon et al. / Earth and Planetary Science Letters 142 (19%) 175-189 
+Table 1 
+Major and trace element DCP data for FAZAR basatts 
+Sample No. Lat. Long. Depth SiO, AW, Fe0 ’ MgO CaO Na,O TiO, Ba Sr 
+Sejynent KP-5 
+R&07 37.312 
+RC108 37.316 
+RCllO 37.359 
+DR35- 1 37.42 1 
+DR16-1 37.452 
+DR16-1 37.452 
+RC-46 37.711 
+RC9g 37.822 
+DR17-1 37.835 
+DR17-3 37.838 
+DR17-5 37.838 
+RC48 37.889 
+RC-49 37.952 
+Segment KP-4 
+DR l9-1A 38.119 
+Segment KP-3 
+DR2l-1 38.489 
+DR2l-3 38.490 
+DR21-5 38.490 
+RC-58 38.541 
+RC93 38.575 
+RC-59 38.608 
+RC63 38.828 32.267 1800 51.43 14.51 10.17 7.54 11.67 2.43 1.26 65 113 
+32.279 1816 50.55 14.85 8.97 8.82 12.89 2.19 0.89 44 98 
+32.263 2210 50.89 14.77 10.39 7.73 11.60 2.35 1.26 80 113 
+32.270 2730 52.08 14.03 9.66 7.84 11.92 2.21 1.27 67 111 
+32.290 2950 50.07 14.63 10.89 7.90 11.86 2.28 1.21 73 117 
+32.229 2950 50.61 14.65 10.74 7.63 11.86 2.28 1.22 70 115 
+31.558 1420 51.72 14.58 10.79 6.91 11.28 2.41 1.31 74 136 
+31.530 1041 51.19 14.47 9.28 9.36 11.76 I .96 0.98 46 90 
+31.519 950 49.59 16.26 7.60 8.70 13.68 2.22 1.26 248 288 
+31.518 950 49.04 16.10 7.66 8.46 14.04 2.42 1.28 250 302 
+31.518 950 49.53 15.57 7.85 8.92 13.81 2.10 1.23 210 268 
+31.503 1359 48.97 15.71 7.92 8.90 13.93 2.13 1.31 221 282 
+31 SO0 1575 52.37 13.95 11.68 6.37 10.39 2.76 1.66 119 159 
+30.728 1900 50.05 15.57 8.41 8.26 12.91 2.28 1.46 245 305 
+30.268 2000 51.96 15.54 8.98 6.42 10.97 3.21 1.92 243 361 
+30.267 2ooo 51.30 15.88 9.55 5.77 11.00 3.53 2.14 283 404 
+30.267 2OcQ 51.22 15.91 9.64 5.72 10.98 3.61 2.15 279 405 
+30.248 1944 53.67 15.20 10.98 4.91 8.57 3.43 2.29 264 267 
+30.226 1792 49.94 15.75 8.50 8.20 12.67 2.31 1.63 189 299 
+30.224 1507 49.16 15.38 7.72 10.05 13.96 1.80 0.93 82 193 
+30.088 1240 49.53 14.55 9.18 9.66 11.69 2.52 1.72 200 313 
+Segment KP-2 
+RC64 38.887 
+RC-65 38.945 
+DR22-5 39.038 
+DR22-6 39.039 
+DR22-7 39.039 
+RC66 39.059 
+RC90 39.103 
+RC89 39.168 
+KC?%-2 39.255 
+RC87 39.307 
+RC86 39.363 
+DR29-2 39.432 
+DR29-1 39.432 
+DR27-3 39.505 
+DR27-4 39.505 
+DR27-5 39.505 
+DR27-6 39.505 
+Segment KP-I 
+RC85 39.577 
+RC84 39.659 
+RC83 39.730 
+RC82 39.802 
+DR26-2 39.908 
+DR26-5 39.908 
+DR26- 1 39.908 
+RC81 39.974 
+RC79 40.041 
+RC78 40.079 
+RC77 40.113 30.072 1200 51.16 15.57 9.00 7.34 11.97 2.40 I.44 184 281 
+30.059 1311 51.63 15.45 9.12 6.93 11.69 2.49 1.53 197 262 
+30.025 1380 52.26 IS.31 IO.26 5.98 10.81 2.73 1.83 253 282 
+30.025 1380 52.28 15.18 9.36 6.66 11.19 2.58 1.66 234 272 
+30.025 1380 52.26 15.19 9.55 6.60 11.04 2.59 1.67 233 262 
+30.027 1280 51.84 15.28 9.96 6.39 10.62 2.87 1.91 232 279 
+30.020 1208 52.59 15.47 9.92 5.92 10.43 2.82 1.86 229 266 
+29.980 1538 51.43 15.46 8.69 7.17 12.11 2.53 1.61 204 308 
+29.963 1665 52.01 15.47 9.30 6.54 11.27 2.67 1.74 217 287 
+29.949 1680 52.68 15.06 10.15 6.19 10.37 2.80 1.75 22s 236 
+29.938 1780 52.48 14.95 10.47 6.56 10.17 2.61 1.76 194 213 
+29.845 1850 49.49 15.92 8.46 8.31 13.13 2.11 1.59 191 295 
+29.846 1850 51.84 15.91 9.28 6.76 10.80 2.82 1.59 204 259 
+29.738 2200 51.12 14.83 9.13 8.65 12.08 2.09 1.10 63 118 
+29.738 2200 51.15 14.86 9.30 8.51 11.85 2.16 1.17 86 133 
+29.738 2200 50.95 14.98 9.24 8.59 11.85 1.16 88 134 
+29.738 2200 50.58 14.63 9.46 9.31 Il.70 2.17 1.14 86 134 
+29.750 1995 51.51 15.13 9.85 7.18 11.66 2.30 1.37 149 190 
+29.737 1845 so.91 15.35 8.08 8.95 12.89 1.82 1.00 103 155 
+29.720 1965 51.21 15.24 8.97 8.07 12.28 2.06 1.18 126 173 
+29.702 2210 51.13 14.96 10.16 7.85 11.74 2.12 1.03 46 97 
+29.683 2100 50.34 14.56 ll.L4 8.01 11.27 2.27 1.32 50 9s 
+29.683 2100 51.06 14.34 10.97 7.80 11.28 2.21 1.33 55 94 
+29.680 2100 50.57 14.96 10.92 7.60 Il.60 2.08 1.27 51 93 
+29.677 2170 50.82 14.65 10.94 7.70 11.44 2.15 1.30 51 94 
+29.672 2400 51.75 14.76 10.13 7.40 t 1.37 2.26 1.31 103 138 
+29.662 2540 50.82 15.39 8.92 8.64 11.77 2.18 1.28 114 159 
+29.647 2495 51.39 15.28 8.74 8.45 12.21 1.86 1.07 57 109 
+B. Bourdon et al./ Earth and Planetary Science Letters 142 (1996) 175-189 179 
+Table 1 (continued) 
+Sample No. Lat. Long. Depth SiO 2 A1203 Fe0 * MgO CaO Na,O TiO, Ba Sr 
+Segment KP-0 
+RC74 40.204 29.610 
+RC73 40.239 29.574 
+RC72 40.290 29.583 
+RC70 40.318 29.553 
+RC69 40.383 29.553 
+RC67 40.481 29.544 
+DR24-2 40.523 29.537 
+DR24- 1 40.523 29.535 2920 51.11 15.33 8.83 8.54 11.99 2.02 1.18 85 134 
+2535 50.89 14.61 9.32 8.67 12.91 1.87 0.74 10 62 
+2404 50.70 15.12 9.41 8.80 12.10 1.83 1.04 48 93 
+2480 51.67 14.03 10.16 7.90 12.41 1.87 0.95 14 66 
+2634 51.45 14.61 9.66 8.10 12.40 1.79 0.99 16 62 
+2834 51.19 13.82 Il.42 7.90 11.82 2.14 1.16 19 65 
+3000 51.29 15.00 9.62 8.35 11.53 2.01 1.13 72 111 
+3OXIO 51.05 14.50 9.85 8.61 11.64 2.11 1.12 70 112 
+10 
+0 
+cd 
+I? 8 
+6 0 2.6 
+cd 
+s 
+2.4 
+37.5 38 38.5 39 39.5 40 40.5 
+Latitude (“N) 
+Fig. 2. (a) Axial depth profile for the ridge segments sampled for this study. Segment ends are characterized by dipping bathymctry. 
+Sampling locations and numbers are indicated by vertical arrows. (b) Along-axis variations in Na s,o. (c) Along-axis variations in Fe,,,. 
+0 = segment averages for Fe,., and Na,,,. 
+180 B. Bourdon et al./ Earth and Planetary Science Letters 142 (19%) 175-189 
+U-series studies require collection of ‘zero age’ sam- 
+ples, which was made possible by a high resolution 
+SIMRAD map [21], made available to us by D. 
+Needham at IFREMER, and by the use of GPS and 
+SEABEAM during the rock sampling. A mislocation 
+of about 1 km represents 100,000 yr, on a slow- 
+spreading ridge (half-rate 10 mm . yr - ’ ), which is 
+very significant compared to the half-life of 230Th 
+(- 75,000 yr). A much younger age for the samples 
+is, however, indicated by the absence of sediment 
+occurring with the glass in the rock core samples. 
+(Studies in the EPR have shown that samples of 
+crust as young as 20,000 yr old return sediments in 
+the rock core samples.) Furthermore, in the study 
+region, the ridge axis is well defined and narrow and 
+shipboard estimates of the distance between sample 
+locations and the ridge axis are less than a few 
+hundred meters, consistent with the absence of sedi- 
+ment. Almost no visible alteration is present on the 
+glass chips used in this study. However, there could 
+some tens of thousands of years uncertainty in the 
+postulated age; the effect of this on the data distribu- 
+tion is discussed later. Dredge and rock core loca- 
+tions are given in Table 1 and shown in Fig. 2. 
+Glass fragments were broken off pillow lavas and 
+then chipped in a steel mortar to make small frag- 
+ments that were washed in an ultrasonic bath with 
+ethanol. Glass chips (< 750 pm) were carefully 
+picked under the microscope, avoiding all oxides or 
+alteration coatings and then ground by hand in an 
+agate mortar. For U-Th disequilibrium mass spec- 
+trometric measurements, 50-100 mg of glass was 
+leached in a mixture of hydrogen peroxide and 2.5 N 
+HCl for 10 min at room temperature. This technique 
+efficiently dissolves Mn-oxides without significantly 
+leaching U and Th out of the glass [25]. The dissolu- 
+tion and chemical extraction of U and Th is de- 
+scribed in [25]. The samples were analyzed on the 
+Lamont Isolab 54 by SIMS (Th) and TIMS @I> [251. 
+The accuracy of (230Th/238U) measurements is 
+about 1% (2 u). Two or three samples from six 
+dredges were analyzed to test for within-dredge het- 
+erogeneity. Because of the relatively small amount of 
+glass available in rock cores, only one sample from 
+each was analyzed. 
+Major and trace elements were analyzed on board 
+by direct current plasma emission spectrometty on 
+50 mg aliquots of hand picked and ultrasonically cleaned glass. The uncertainty on Ba and Sr concen- 
+trations is 5 ppm. Major elements were re-analyzed 
+at Lamont by electron microprobe. 
+5. Results 
+5.1. Regional variations in major and trace elements 
+Table 1 reports major element concentrations for 
+the samples that were collected during the FAZAR 
+cruise. Na,., and Fe,,, as defined by Klein and 
+Langmuir [26] have been plotted as a function of 
+latitude on Fig. 2. Both curves are characterized by 
+extreme values around 38”30’N. However, Fe and 
+Na cannot be interpreted directly in terms of pressure 
+and degree of melting, as in 126,271, because it has 
+been shown that Na and Fe along the MAR are 
+significantly affected by the Azores mantle plume 
+[ 11,131. High Ba/TiO, ratios near the Azores docu- 
+ment the maximum extent of plume-ridge interac- 
+tion (Fig. 3); this region, however, is characterized 
+by low Fe,,,. Were Fe,,, simply to reflect the pres- 
+sure and degree of melting, one would expect that 
+the hotspot material with high Ba/TiO, ratios would 
+have high Fe,,, indicating relatively deep melting, 
+the opposite of what is observed (Fig. 4). Thus, 
+several lines of evidence show that the major ele- 
+ment variations are at least partially controlled by the 
+Fig. 3. Along axis Ba/TiOz variations between 33” and 40”30’N. 
+The largest Ba/TiO, ratios are found in the Azores region (this 
+study) and at the Oceanographer fracture zone (OFZ). The maxi- 
+mum of the La/Sm, anomaly found by Schilling [26] is indicated 
+by the arrow. The box indicates the sampling region for our U-Th 
+disequilibrium study. The southernmost segment in this box (KP-5) 
+has been more extensively sampled during the FAZAK cruise than 
+previously; this may explain the difference between the locations 
+of the maxima in enrichment found here and by Schilling [26]. 
+B. Bourdon et al. /Earth and Planetary Science Letters 142 (19%) 17.5-189 181 
+5 /,,(‘,,,,‘,,,,‘,,,( j 
+0 50 100 150 200 
+BalTiO, 
+Fig. 4. Negative correlation between Ba/TiO, and Fe,,,. Ba/TiO, 
+can be taken as an indicator of source enrichment, the most 
+enriched mantle source being iron-depleted. 0 = samples col- 
+lected during the FAZAR cruise (33-40”3O’N); 0 = samples 
+analyzed for U-Th disequilibrium. 
+presence of the Azores hotspot, and that a direct 
+interpretation of the major elements in terms of 
+melting parameters is not possible. 5.2. U-Th disequilibria in FAZAR glasses 
+U-Th data for FAZAR glasses are reported in 
+Table 2. Th concentrations range between 0.14 and 
+2.4 ppm. This is a remarkably large range for a 
+single sample suite. All of the samples are enriched 
+relative to normal EPR MORB (Th - 0.1 ppm) and 
+the highest concentrations are comparable to some 
+OIB. The U concentrations are also relatively high, 
+ranging from 0.04 to 0.78 ppm. Th/U ratios are 
+fairly constant (3.09-3.55) and, as a whole, are 
+substantially higher than most N-MORB (2-2.7) and 
+slightly higher than FAMOUS MORB [28]. Th/U 
+ratios in FAZAR glasses do not correlate simply 
+with Ba/TiO, ratios or Th concentrations. 
+cz3’Th/ 232Th) ratios reported in Table 2 show 
+that the samples contain large 230Th excesses ranging 
+from N 20% to 35% (Fig. 5). These values are 
+broadly similar to the FAMOUS data of Condomines 
+et al. [28], and to basalts from Faial, Azores [29]. 
+Table 2 
+U-Th mass spectrometry data for FAZAR MORB glasses 
+Sample No. Th U (230Th/232Th)a f2o (238U/232Th) f2a (234U/238U) f2u (230Th/238U) 
+(ppm) (ppm) 
+Dredges 
+DR17-3 
+DRl7-5 
+DR21-3 
+DR21-5 
+DR22-5 
+DR22-6 
+DR24-2 
+DR26- 1 
+DR26-5 
+DR27-3 
+DR27-4 
+DR27-5 
+DR29- 1 
+DR29-2 1.97 0.554 1.151 0.0067 0.8536 0.0014 - 1.348 
+1.78 0.511 I.146 0.010 0.8711 0.0017 0.998 0.0044 1.316 
+2.45 0.776 1.185 0.0057 0.9625 0.0068 1.016 0.0061 1.231 
+2.34 0.744 1.217 0.0095 0.9638 0.0033 1.012 0.0044 1.263 
+2.20 0.632 I.085 0.0068 0.8708 0.0027 1.013 0.0042 1.246 
+2.00 0.565 1.088 0.0066 0.8572 0.0019 0.999 0.0047 1.269 
+0.677 0.191 1.034 0.0049 0.8574 0.0035 1.02 0.0069 I .205 
+0.467 0.138 1.107 0.0046 0.8968 0.0037 - _ 1.234 
+0.461 0.139 I.118 0.009 I 0.9147 0.0054 1.003 0.0054 1.222 
+0.571 0.166 1.060 0.0085 0.8814 0.0079 - I .202 
+0.787 0.224 1.057 0.010 0.8640 0.0076 1.013 0.0059 I .223 
+0.797 0.225 1.047 0.0045 0.8578 0.003 1 0.996 0.0003 1.220 
+1.79 0.539 1.143 0.0067 0.9142 0.0026 1 ,011 0.0036 1.250 
+1.76 0.525 1.136 0.0040 0.9045 0.0015 0.998 0.0040 1.256 
+Rock cores 
+RC46 0.807 0.261 1.306 
+RC63 1.79 0.541 1.097 
+RC66 2.09 0.593 1.090 
+RC70 0.137 0.0404 1.103 
+RC77 0.515 0.151 1.074 
+RC89 1.89 0.551 1.117 
+RC90 2.16 0.623 1.112 
+RC98 0.839 0.264 1.277 
+a Ratios in parenthesis are activity ratios. 0.012 0.9827 0.012 - 1.329 
+0.0059 0.9169 0.0027 1.016 0.0068 1.196 
+0.0058 0.8596 0.0019 1.015 0.0072 1.268 
+0.013 0.8977 0.0064 1.007 0.02 1 1.229 
+0.0060 0.8888 0.0046 1.018 0.012 I .208 
+0.014 0.8858 0.0040 1.015 0.0048 1.261 
+0.0069 0.8732 0.0051 - 1.273 
+0.0055 0.9556 0.0071 1.015 0.0099 1.336 
+182 B. Bourdon et al. / Earth and Planetary Science Letters I42 (19%) 175-189 
+4.0 3.6 3.2 2.8 2.4 ThlU 
+0.70 0.80 0.90 1.0 1.1 1.2 1.3 1.4 
+(238lJl232Th) 
+Fig. 5. (230Th/232Th) vs. (238U/232Th) diagram for FAZAR 
+glasses (0). 0 = a-counting data from the literature [27,28]; 
+O= MAR samples (29-30”N) from [36]. All the FAZAR glasses 
+range between 20% and 35% excess 230Th. 
+P30Th/ 232Th) ratios for multiple samples from five 
+dredges are identical to each other within 1% at the 
+2a level. (234U/ 238U) activity ratios for these sam- 
+ples range from 0.996 to 1.02. Although a number of 
+samples have ( 234U/ 238U) ratios that are higher than 
+1.00, based on in-run counting statistics, there is no 
+s stematic relationship between 230Th excess and 
+Y 2 4U excess, and we consider that the deviations of 
+(234U/ 238U) from unity are probably not significant. 
+Seawater alteration of the glasses is not considered, 
+therefore, to have perturbed the Th-U systematics. 
+6. Discussion 
+6.1. The case against assimilation of Z30Th-rich sedi- 
+ment as a cause of 230Th excesses at ridges 
+Deep-sea sediments and Mn-oxides contain large 
+excesses of 230Th that could contaminate MORB 
+magmas as they make their way to the surface [30]. 
+Recent mass spectrometric measurements of EPR 
+MORBs by Goldstein et al. [3 l-331 have shown that 
+the process creating the U-Th disequilibrium in 
+MORJ3s is happening at the ridge axis because the 
+excesses are, in general, not present in basalts 
+dredged far off-axis. The 230Th excesses could, in 
+theory, however, result from assimilation of Mn- 
+oxides by the magma on its way to the surface 
+through a kilometer thick pile of altered pillows, or 
+through incorporation of sediment into the flow dur- 2.00 ~_. _,.--l .~_ 1 T 
+1.80 
+1.60 
+I- 
+1.40 [ 
+1.20 
+Ii& ):i_ ; _,____~ .* 
+Co 
+o.S,~_~‘___::__ 
+0.x____ ---c_-__zx 
+1 .oo _- _j 
+xl 
+0 0.2 0.4 0.6 0.8 1 
+U concentration in basalt @pm) 
+Fig. 6. The effect of assimilation of 230Th-rich sediments on the 
+(230Th/ “*U) ratio in FAZAR glasses as a function of U concen- 
+tration in the glass. The hyperbolic curves represent bulk assimila- 
+tion of sediment (with cz3’Th/ “sU) = 3 and U = 4 ppm) by a 
+basalt with no initial 230Th-23*U disequilibrium. The percentage 
+of assimilated sediment is indicated on each curve. The trend 
+shown by the data cannot be accounted for by this model. 
+ing eruption. This contamination would have to be a 
+shallow process because Th is not efficiently carried 
+by hydrothermal solutions, unless they are fluoride- 
+rich, and the precipitation of Mn oxides, which 
+scavenge 230Th from seawater, occurs only at low 
+temperature, in a more oxidizing environment. 
+There are several tests that can be applied to 
+determine whether contamination is a plausible ex- 
+planation for the data. First, the curves in Fig. 6 
+show the effects of bulk assimilation of sediment for 
+a series of glasses with different U concentrations 
+that are initially in secular equilibrium. For a given 
+1.40L....I... .,....I...., “<‘,“..,....,...., 
+secular equilibrium 
+0.90 0 \ , , . , . . I,, , , I.. . 1.. . , I,. , I,. , , I, , , , 
+500 1500 2500 3500 4500 
+axial depth (m) 
+Fig. 7. (230Th/238U) vs. axial depth for North Atlantic basalts. 
+0 = FAZAR data from this study; 0 = from other locations. The 
+basalts from 29”08’N and 29”59’N are from 1361. Other data rue 
+from 1281. The solid line is a model curve for 230Th excesses-axial 
+depth correlations. See Section 6.4 for details. 
+8. Bourdon et al./Earth and Planetary Science Letters 142 (19%) 175-189 183 
+amount of assimilation, the low U concentration 
+samples would exhibit larger 230Th excesses. Such a 
+trend is not shown by the FAZAR data (Fig. 6). The 
+amount of assimilation required to explain the dise- 
+quilibrium in the enriched samples would also be 
+unreasonably large (> 2%). The within-dredge ho- 
+mogeneity of (230Th/232Th) also argues strongly 
+against random locally variable assimilation during 
+eruption. Finally, (230Th/ 23*U) correlates with axial 
+depth (see Fig. 7), and there is no reason why this 
+should occur if all of the disequilibrium were to be 
+explained by assimilation of Mn-rich sediments. 
+Therefore, there is no evidence that assimilation of 
+230Th-rich material has influenced the Th-U system- 
+atics in the glass samples that we analyzed. 
+6.2. Source heterogeneity and U-Th disequilibrium 
+230Th and 238 
+U are presumed to be in secular 
+equilibrium in the mantle source prior to melting. 
+During melting, the extent of disequilibrium will 
+depend only on D,/D, in the residue. However, 
+the modal mineralogy, volatile content, or fertility of 
+the source could affect the bulk U-Th partition 
+coefficient and, hence, the U-Th systematics in the 
+melt [3,34,35]. An enriched source with more abun- 
+dant garnet would, for example, have higher 
+D”/D,ll. 
+Along-axis surveys of the MAR by Schilling et al. 
+[ 111 have shown that trace elements document source 
+heterogeneities that correlate with axial depth in the 
+Azores region. Thus, the relationship between 
+(230Th/ 238U) and source chemical and isotopic vari- 
+ations needs to be carefully examined. Bourdon et al. 
+[36] have shown that there is a general global corre- 
+lation between (230Th/ 238U) and Th/U. The 
+FAZAR samples occupy the shallow end of this 
+array and also have high Th/U relative to other 
+MORBs and, thus, we need to consider whether the 
+higher than average (230 Th/ 238U) ratios for these 
+samples may be explained as a source effect. 
+Measured (230Th/ 238U) ratios for the FAZAR 
+region, however, do not correlate with trace element 
+ratios such as Ba/Th or Ba/TiO,, which are good 
+indicators of plume involvement in the source. Simi- 
+larly, simple relationships between (230Th/ 23*U) and 
+*‘Sr/ 86 Sr, ‘43Nd/ ‘44Nd and ‘06Pb/ 204Pb are not 
+observed (L. Dosso, pers. commun.). For example, samples RC46 and RC98, which come from the 
+shallowest ridge segment studied (KP-5), have rela- 
+tively depleted geochemical signatures (low Ba/Th 
+and relatively low Ba/TiO,), but high 
+(230Th/ 238U), similar to nearby geochemically en- 
+riched samples (e.g., DR17). 
+Due to the influence of the Azores plume on the 
+MAR in the FAZAR region, systematic relationships 
+between melting depth, melting process, and source 
+heterogeneity are to be expected. Therefore, some 
+degree of correlation between 230Th excess and 
+source composition would be expected, even if there 
+were no direct causal link between these parameters. 
+No such relationship, however, is evident in our 
+data. We conclude, therefore, that while it is con- 
+ceivable that source enrichment may contribute to 
+the generally large excesses of 230Th which charac- 
+terize the FAZAR samples, local variations in 
+(230Th/ 238U), at the scale of this study, are not 
+related to source heterogeneity. 
+6.3. The relationship between 230Th-23RU disequilib- 
+rium and melting processes 
+Since neither assimilation nor source heterogene- 
+ity can account for the internal FAZAR 230Th-238U 
+systematics, the observed variations are likely to be 
+caused by melting processes. In this section, we 
+qualitatively evaluate melting parameters, including 
+the degree of melting, upwelling velocity, matrix 
+porosity and pressure of melting, that may affect 
+(230Th/ 238U). In this context, a key observation is 
+the correlation between the axial de th of the ridge, a 
+geophysical observable, and the P 2 oTh/238U ratios 
+(Fig. 7). 
+In general, larger degrees of melting, whether 
+batch or fractional, will lead to smaller fractionations 
+between 230n and 238 
+U. As a shallower ridge axis 
+should be indicative of hotter mantle and higher 
+degrees of melting, one might predict a positive 
+correlation of 230 Th excess and axial ridge depth. 
+This is the opposite of what we observe at FAZAR 
+and, therefore, the degree of melting does not seem 
+to exert a primary influence on the degree of Th-U 
+disequilibria. 
+As shown by McKenzie [2] and others [3,37], 
+slow upwelling of source material beneath the ridge 
+can lead to large excesses of 230Th, provided that the 
+184 B. Bourdon et 01. /Earth and Planetary Science Letters 142 (19%) 175-189 
+1.25 
+1.05 
+Mid-Atlantic Ridge i 
+0.0 0.020 0.040 0.060 0.060 0.10 0.12 
+Matrix upwelling velocity (m/yr) 
+Pressure (kbar) 
+1.15 t,.,,.,.,,,'.1,,,,1...,1..,.',,l,,,,i 
+65 70 75 60 65 90 95 100 105 
+Solidus depth (km) 
+Fig. 8. (a) Model curve for (z30Th/23aU) as a function matrix 
+upwelling velocity. Increased buoyancy near the hotspot should 
+increase the matrix upwelling velocity. Decrease in upwelling near 
+segment boundaries could explain the local systematics. In this 
+calculation, the initial depth of melting is constant at - 25 kbar, 
+and the mantle porosity is 0.3%. (b) Model curve for (“‘Th/ 23sU) 
+as a function of solidus depth. The matrix upwelling velocity is 
+0.02 m/yr and the porosity is again 0.3%. A - 30-40 km 
+variation in solidus depth can possibly explain along-axis varia- 
+tions in (230Th/ 23aU) For both model curves, the melting rate is 
+- l%/kbar. Bulk partition coefficients for U and Th are 1.9X 
+lo-’ and 5.3X 1O-4 for garnet lheaolite, and are taken to 
+1 X 10e5 for U and Th in the spine1 lherzolite field to simulate 
+melt depletion. The garnet-spine1 lherzolite transition is fixed at 
+20 kbar. 
+melr velocity is sufficiently rapid. Thus, hotter, more 
+active ridge segments would be expected to exhibit 
+the smallest (230Th/238U) ratios (see Fig. 8a and 
+[2,3,37]) if the magma upwelling rate was indeed a 
+controlling factor at FAZAR. This is again the re- 
+verse of what we observe and, hence, we may dis- 
+count upwelling velocity as being a major factor in 
+determining 230Th excesses at FAZAR. 
+Another important parameter which arises in vari- ous melting models is the matrix porosity. High 
+mantle porosity should be associated with hot re- 
+gions characterized by shallow ridge depth and higher 
+rates of crustal production. Higher porosity, how- 
+ever, would tend to decrease (230Th/ 238U) in the 
+melt, which again is the opposite of what we ob- 
+serve. Hence, porosity is unlikely to be the main 
+controlling factor for (230Th/ 238U) at FAZAR. 
+Finally, we need to consider the effect of the 
+pressure of intersection of the solidus. When the 
+solidus is intersected at greater pressure, the up- 
+welling material will begin to melt deeper in the 
+mantle. Deeper initiation of melting within the garnet 
+peridotite stability field (P > 20 kbar), leads to the 
+availability of more time for in-growth of 230Th, 
+while 238U is retained relative to Th in the garnet- 
+bearing residue 1371. These conditions should also 
+ultimately lead to greater melt production, thicker 
+crust, shallower ridge depth, and larger extents of 
+Th-U disequilibrium. This prediction is consistent 
+with the FAZAR data and, thus, provides a qualita- 
+tive explanation for correlation between 
+(230Th/ 238U) and axial depth. 
+Variation in the solidus pressure could also ex- 
+plain the U-Th data for Faial and the 30”N MAR 
+basalts (Fig. 7), which may be considered as end- 
+members for the melting process. Beneath the center 
+of the Azores hotspot (Faial), the pressure of inter- 
+section of the solidus may be very high, leading to a 
+longer residence time in the garnet field, and thus 
+producing even larger 230Th excesses than at the 
+shallowest ridge (depending on the variation in up- 
+welling rates between the hotspot and the ridge). The 
+mantle at Faial is overlain by a N 40 km thick 
+lithospheric lid, and melt transport through this re- 
+gion would have to be fast enough to preserve the 
+U-Th disequilibrium. At 30”N, the axial depth is of 
+the order of 3000-4000 m and, accordingly, the 
+mantle temperature is cooler, and upwelling mantle 
+reaches the solidus at a relatively shallow depth. In 
+the solidus-pressure model, this should lead to low 
+230Th excess and, in fact, this is what we observe 
+(Fig. 7). One sample, D12-9 (29”N), even contains 
+excess 238U, indicating that melting could have 
+started above the garnet/spine1 transition where 
+clinopyroxene is the main phase controlling U-Th 
+fractionation [38,39]. In this case, D,, > DY and 
+melting should lead to excess 238U relative to 3oTh. 
+8. Bourdon et af. / Earth and Pfanetmy Science Letters I42 (19%) I75-189 185 
+This observation strongly supports the solidus-pres- 
+sure model, as no other melting parameter can in- 
+duce a reversal in U-Th fractionation. 
+In summary, the correlation of U-Th disequilib- 
+rium and axial depth at FAZAR is best explained by 
+a variation in the solidus pressure along the MAR. 
+This variation could be related to an anomalously 
+high volatile content of the Azores plume material 
+[ 11,40,41], hotter mantle temperature, or a combina- 
+tion of the two. An increased presence of fertile 
+eclogite in the plume source material could also 
+simultaneously increase the solidus depth and the 
+interval over which garnet is on the liquidus. In this 
+case, however, the eclogite cannot be the main car- 
+rier of the plume geochemical signature, because of 
+the absence of observed correlations between 
+(230Th/ 238U) and other trace element and isotopic 
+indices of enrichment. Furthermore, the low Fe con- 
+tent of the MORB from near the Azores has been 
+used to argue against a more fertile source in this 
+region in terms of major elements. Our data does not 
+discriminate well between these hypotheses because 
+U-Th disequilibrium only reflects the depth at which 
+melting begins. We consider it likely that mantle 
+temperature and increased volatile content are impor- 
+tant and that an enhanced presence of mafic material 
+in the source might also reflect, in principle, the 
+Th-U data. 
+6.4. Quantitative investigation of the model for U-Th 
+disequilibrium 
+The plausibility of the model proposed above was 
+tested by calculating (230Th/238U) as a function of 
+the pressure of intersection of the solidus. To do so, 
+we used a two-stage, one-dimensional transport 
+model [37]. The first stage is in the garnet lherzolite 
+field (Dr,,/D,, = 0.28), and the second stage is in 
+the spine1 lherzolite field (D,, and D, are both 
+small because of melt depletion of the solid). In this 
+calculation, the only variable is PO, and all the other 
+parameters are held constant (see caption of Fig. 8). 
+The matrix porosity is essentially a free parameter, 
+and a value of 0.3% gives a range in (230Th/ 238U) 
+that closely matches the range obtained for the 
+FAZAR samples. The increase in solidus pressure 
+necessary to obtain the observed range in 
+(230Th/238U) is about 10 kbar, which places the highest pressure for the onset of melting at - 30-35 
+kbar (Fig. 8b). This would correspond to an increase 
+in temperature, relative to the ambient mantle, of 
+about - 100°C. The mantle temperature derived from 
+our model is in reasonable agreement with the esti- 
+mate based on gravity data (75”C, Cochran and 
+Talwani [8]) and is also consistent with the range of 
+regional depth of 1500 m for the Azores, if the total 
+range in ridge axial depth (o-5000 m) reflects a 
+250°C change in mantle temperature. This estimate is 
+lower than the estimate (AT = 200°C) given by 
+Schilling [42], which would lead to a crustal thick- 
+ness greatly in excess of that deduced from seismic 
+observations ( - 11 km). 
+Assuming, then, a melt productivity of = 
+l%/kbar, the axial depth of the ridge can be mod- 
+elled for different pressures of intersection of the 
+solidus. We have used the isostatic model of Klein 
+and Langmuir [26] with a compensation depth of 200 
+km. The crustal thicknesses obtained with this model 
+are consistent with the maximum crustal thickness 
+determined seismically for the Azores plateau. The 
+curve shown in Fig. 7 is the result of this parameteri- 
+zation of axial depth and (230Th/ 238U) as a function 
+of P,,, and is consistent with the trend shown by the 
+data. 
+There is, however, a discrepancy in detail be- 
+tween the crustal thickness estimated by Detrick et 
+al. [5] and that inferred from the Th-U disequihb- 
+rium data. The interpretation of gravity data suggests 
+that the crust is thicker beneath segment KP-2 and 
+KP-3, while Th-U would be consistent with thicker 
+crust at segment KP-5. There might be several rea- 
+sons for this discrepancy. Segments KP-4 and KP-5 
+are more inflated and may be in a constructional 
+phase. The U-series data reflects the instantaneous 
+state of the melting region, while gravity is averaged 
+over a long length scale. The determination of crustal 
+thickness by gravity tacitly assumes that the mantle 
+densities are constant. As mentioned earlier, the 
+Azores region is characterized by an iron depletion. 
+As shown in Fig. 2, segments KP-2 and KP-3 have 
+lower Fe,, content than adjacent segments. If these 
+segments were truly characterized by thicker crust, 
+one would expect them to have a higher mean 
+pressure of melting and, hence, higher Fe,.,. This 
+apparent contradiction can be resolved if these seg- 
+ments are depleted in Fe, which would produce a 
+186 3. Bourdon et al. /Earth and Planetary Science Letters 142 (1996) 175- I89 
+lower density in the underlying mantle. This would 
+result in an overestimation of the crustal thickness 
+using the gravity method and may help explain the 
+discrepancy between the U-Th disequilibria and the 
+gravity data modelling. 
+6.5. Segment-scale systematics 
+There is a significant dispersion in the 230Th 
+excess versus axial depth correlation (Fig. 7). 
+(230Th/23*U) and axial depth are shown as a func- 
+tion of latitude in Fig. 9. Here it can be seen that 
+230Th excesses diminish at segment boundaries, 
+where the bathymetry is also deeper. We consider 
+four possible explanations for this observation: 
+(1) Samples recovered from segment boundaries 
+were not as fresh as those collected within segments. 
+It has been suggested, based on the morphology and 
+tectonics of slow-spreading ridges, that the magma 
+supply near segment boundaries is less robust. Thus, 
+a simple explanation for the lower (230Th/ 238U) 
+ratios near segment boundaries is that samples are 
+1.35 
+s 
+,” 1.30 
+N 
+z 1.25 
+2 w 
+- 1.20 
+1.15 
+37.50 38.50 39.50 40.50 
+Latitude (ON) 
+Fig. 9. Comparison between axial depth and (230Th/ “‘U) show- 
+ing the similarity between the two curves. Plotted data points 
+represent averages of two or three s :-nples from a single dredge. 
+Vertical lines represent segment boundaries. on average older by about 20 kyr, as a consequence 
+of the lower frequency of magma injections. 
+(2) It has been proposed that the central regions of 
+segments are characterized by more buoyant up- 
+welling and hotter mantle temperatures [23,43]. This 
+would lead to a higher pressure of intersection of the 
+solidus within segments than at segment boundaries. 
+This is possible only if significant horizontal thermal 
+gradients ( > 7”K/ 10 km) can be maintained during 
+upwelling of the mantle, which may be difficult due 
+to relatively high rates of thermal diffusion. A greater 
+volatile content that would lead to deeper initiation 
+of melting is another possibility for explaining the 
+within segment variability. 
+(3) Upwelling velocity may vary near segment 
+offsets (20-50 km) as a consequence of near-surface 
+cooling due to adjacent older plates [23,43-47) The 
+model of Sparks et al. [45] predicts, for example, 
+variations in upwelling rates of up to 60% near a 
+transform zone. A reduction in matrix velocity can 
+produce either larger or smaller 230Th excesses de- 
+pending on the absolute value of the matrix velocity 
+(Fig. 8a) [37]. If th e matrix upwelling velocity were 
+less than 0.01 m/yr, then a further reduction of 
+30-40% could explain the variations in excess 230Th 
+observed at segment boundaries. This hypothesis is 
+consistent with diapiric models for slow spreading 
+ridge segments [23,43,47]. 
+(4) Melt at segment boundaries may have a longer 
+residence time in the shallow upper mantle; transport 
+through the lithosphere could also be slower. In this ^ 
+case, decay of “‘Th would 
+disequilibrium to be smaller. cause the extent of 
+7. Summary and conclusions 
+U-Th data for basaltic glasses from 40”30’N to 
+37”30’N are characterized by large (230Th/238U) 
+ratios (1.20- 1.35) that cannot be attributed to assimi- 
+lation of sediment or Mn-oxide coated surfaces. 
+Major elements, trace elements and Sr, Nd and Pb 
+isotopes suggest large variations in mantle source 
+composition for this portion of the Mid-Atlantic 
+Ridge. While from this data set alone we cannot rule 
+out the possibility the high mean level of 230Th 
+excess may be responding to more garnet in the 
+mantle source of this region, the internal variations 
+
+3. Bourdon et al./ Earth and Planetary Science Letters 142 (19%) 175-189 187 
+for this sample suite seem independent of these 
+compositional variations. 
+(230Th/ 238U) ratios in FAZAR glasses correlate 
+with the axial depth of the ridge, with the greatest 
+excesses of 230Th observed at the shallowest ridge 
+segments. These data can be explained qualitatively 
+and quantitatively by variations in solidus pressure 
+resulting from hotter mantle temperatures and/or 
+higher source volatile content near the Azores plume. 
+Our model-dependent estimate for the variation in 
+solidus pressure is - 10 kbar over about 300 km of 
+ridge. This would place the initial pressure of melt- 
+ing beneath the shallowest portion of ridge at 30-35 
+kbar, consistent with an inferred crustal thickness of 
+10-11 km. 
+The solidus-pressure model is consistent with the 
+association of thick crust with lighter (hotter) mantle 
+and bathymetric highs, as has been proposed based 
+on major element systematics along normal ridge 
+segments [27]. We note, however, that, in the context 
+of the major element approach, the Azores region is 
+considered to be anomalous because of the evidence 
+for major and trace element heterogeneity. The Th-U 
+disequilibrium approach, however, is less sensitive to 
+major element source heterogeneity, and thus permits 
+an investigation of melting systematics even in this 
+anomalous region. 
+In the FAZAR region, 230Th excesses are rela- 
+tively smaller at segment ends. A reduction in mantle 
+upwelling velocity or slow melt transport near the 
+boundaries may account for these observations. Al- 
+ternatively, the smaller (230Th/ 238U) could reflect 
+an older age of the lavas at segment boundaries. 
+More data will be needed to confirm the frame- 
+work for interpretation that our data provides. Exten- 
+sion of U-Th studies to other ridges, where spread- 
+ing rates, degrees of melting, and axia1 depths are 
+different, will help us to understand more clearly the 
+relationship between variation in melting parameters 
+and 230Th excesses. 
+Acknowledgements 
+Samples for this study were collected with the 
+help of Captain Howland and the crew of Research 
+Vessel Atlantis II, which is much appreciated. This 
+paper has greatly benefited from discussions with Tim Elliott, Franc0 Marcantonio, Marc Spiegelman, 
+Jennifer Reynolds, Dave Sparks and Vincent Salters. 
+Laure Dosso is thanked for sharing her unpublished 
+FAZAR Sr, Nd, and Pb isotope data. This work was 
+supported by NSF grants to AZ and CHL. Construc- 
+tive comments by J.-G. Schilling, Bill White and an 
+anonymous reviewer have helped to clarify and im- 
+prove the manuscript. [FAI 
+References 
+[I] C.J. All&z and M. Condomines, Basalt genesis and mantle 
+structure studied through Th-isotopic geochemistry, Nature 
+299, 21-24, 1982. 
+[2] D. McKenzie, 230Th-238U disequilibrium and the melting 
+processes beneath ridge, Earth Planet. Sci. Lett. 72, 149-157, 
+1985. 
+[3] R.W. Williams and J.B. Gill, Effects of partial melting on the 
+uranium decay series, Geochim. Cosmochim. Acta 53, 1607- 
+1619, 1989. 
+[4] R. Searle, Tectonic pattern of the Azores spreading centre 
+and triple junction, Barth Planet. Sci. Lett. 51, 415-434, 
+1980. 
+(51 R.S. Detrick, H.D. Needham and V. Renard, Gravity anoma- 
+lies and crustal thickness variations along the Mid-Atlantic 
+Ridge between 33”N and 4O”N, J. Geophys. Res. 100, 3767- 
+3787, 1995. 
+161 R.E. Bell and W.R. Buck, Crustal control of ridge segmenta- 
+tion inferred from observations of the Reykjanes Ridge, 
+Nature 357, 583-586, 1993. 
+[7] L.M. Parsons, et al., En echelon axial volcanic ridges at the 
+Reykjanes Ridge: a life cycle of volcanism and tectonics, 
+Barth Planet. Sci. Lea. 117, 73-87, 1993. 
+[81 J.R. Co&ran and M. Talwani, Gravity anomalies, regional 
+elevation, and the deep structure of the North Atlantic, J. 
+Geophys. Res. 83, 4907-4924, 1978. 
+[91 N.H. Sleep, Hotspots and mantle plumes: some phenomenol- 
+ogy, 1. Geophys. Res. 95, 6175-6736, 1990. 
+[IO] J.-G. Schilling, Azores mantle blob: the rare earth evidence, 
+Barth Planet. Sci. Lett. 25, 103-105, 1975. 
+1111 J.-G. Schilling, M. Zajac, R. Evans, T. Johnston, W. White, 
+J.D. Devine and R. Kingsley, Petrologic and geochemical 
+variations along the Mid-Atlantic Ridge from 29”N to 73”N, 
+Am. J. Sci. 283, 510-586, 1983. 
+[121 W.G. Melson and T. CYHearn, “Zero-age” variations in the 
+composition of abyssal volcanic rocks along the axial zone of 
+the Mid-Atlantic Ridge, in: The Geology of North America, 
+pp. 117-136. Geol. Sot. Am., Boulder, CO, 1986. 
+[13] H. Sigurdsson, Fit-order major element variation in basalt 
+glasses from the Mid-Atlantic Ridge: 29’N to 73”N, J. Geo- 
+phys. Res. 86,9483-9502, 1981. 
+1141 W.M. White and J.-G. Schilling, The nature and origin of 
+geochemical variation in Mid-Atlantic ridge basahs from the 
+188 B. Bourdon et al./ Earth and Planetary Science Letters 112 (19%) 175-189 
+Central North Atlantic, Geochim. Cosmochim. Acta 42, 
+1501-1516, 1978. 
+]15] B. Dupt+ and C.J. Alltgre, Pb-Sr-Nd isotopic correlation 
+and the chemistry of the North Atlantic mantle, Nature 286, 
+17-22, 1980. 
+[I61 G.R. Davies, M.J. Norry, D.C. Gerlach and R.A. Cliff, A 
+combined chemical and Pb-Sr-Nd isotope study of the 
+Azores and Cape Verde hot-spots: the geodynamic implica- 
+tions, in: Magmatism in the Ocean Basins, A.D. Saunders 
+and M.J. Norry eds., Geol. Sot. London Spec. Publ. 42, 
+23 l-255, 1989. 
+(171 C.J. Hawkesworth, M.J. Norry, J.C. Roddick and R. Vollmer, 
+‘43Nd/ 144 Nd and “Sr/ 86Sr ratios from the Azores and 
+their significance in LIL-element enriched mantle, Nature 
+286, 28-31, 1979. 
+1181 M.D. Kurz, W.J. Jenkins, J.-G. Schilling and S.R. Hart, 
+Helium isotopic variations in the mantle beneath the central 
+North Atlantic Ocean, Earth Planet. Sci. Len. 58, 1-14, 
+1982. 
+[19] J.-G. Schilling, M.B. Bergeron and R. Evans, Halogens in 
+the mantle beneath the North Atlantic, Philos. Trans. R. Sot. 
+London 297, 147-178, 1980. 
+[20] C.H. Langmuir and G.N. Hanson, An evaluation of major 
+element heterogeneity in the mantle sources of basal& Phi- 
+10s. Trans. R. Sot. London A 297, 383-407, 1980. 
+(211 H.D. Needham, M. Voisset, V. Renard, H. Bougault, 0. 
+Dauteuil, R. Detrick and C. Langmuir, Structural and vol- 
+canic features of the Mid-Atlantic Rift zone between 40”N 
+and 33”N. EOS Trans. AGU 73, 552, 1992. 
+[22] C.H. Langmuir, et al., FAZAR Cruise Technical Rep. 
+LDGO-92-3, 1992. 
+[23] J. Lin, G.M. Purdy, H. Schouten, J.-C. Sempere and C. 
+Zervas, Evidence from gravity data for focused magmatic 
+accretion along the Mid-Atlantic Ridge, Nature 344,627-632, 
+1990. 
+[25] A. Zindler, B. Bourdon, J. England, B. Hamelin, J. Ruben- 
+stone, V. Salters and L. Reisberg, Measurement of 
+230Th/ 232Th using secondary ion mass spectrometry, Anal. 
+Chem., submitted. [24] J.R. Reynolds, C.H. Langmuir, J.F. Bender, K.A. Kastens 
+and W.R. Ryan, Spatial and temporal variability in the 
+geochemistry of basalts from the East Pacific Rise, Nature 
+359, 493-499, 1992. 
+[26] E.M. Klein and C.H. Langmuir, Global correlations of ocean 
+ridge basalt chemistry with axial depth and crustal thickness, 
+J. Geophys. Res. 92, 8089-8115, 1987. 
+[27] C.H. Langmuir, E.M. Klein and T. Plank, Petrological sys- 
+tematics of mid-ocean ridge basalts: constraints on melt 
+generation beneath ocean ridges, in: Mantle Flow and Melt 
+Generation at Mid-ocean Ridges, J. Phipps Morgan, D.K. 
+Blackman and J.M. Sinton, eds., pp. 183-280, Am. Geo- 
+phys. Union, 1992. 
+[28] M. Condomines, P. Morand and C.J. Allegre, 230Th-238U 
+radioactive disequilibria in tholeiites from the FAMOUS 
+zone (Mid-Atlantic Ridge, 36”5O’N): Th and Sr isotopic 
+geochemistry, Earth Planet. Sci. Lett. 55, 247-256. 1981. [29] V.M. Oversby and P.W. Gast, Lead isotope compositions 
+and uranium decay series disequilibrium in recent volcanic 
+rocks, Earth Planet. Sci. Len. 5, 199-206, 1968. 
+[SO] I. Reinitz and K.K. Turekian, 230Th/ 23*U and 226Ra/ *“Th 
+fractionation in young basaltic glasses from the East Pacific 
+Rise, Earth Planet. Sci. Lett. 94, 199-207, 1989. 
+[31] S.J. Goldstein, M.T. Murtell, D.R. Janecky, J.R. Delaney and 
+D.A. Clague, Geochronology and petrogenesis of MORB 
+from the Juan de Fuca and Gorda ridges by 23sU-230Th 
+disequilibrium, Earth Planet. Sci. Lett. 107, 25-41, 1991. 
+[32] S.J. Goldstein, M.T. Murrell and R.W. Williams, 23’Pa and 
+230Th chronology of mid-ocean ridge basal& Earth Planet. 
+Sci. Lett. 11.5, 151-159, 1993. 
+1331 S.J. Goldstein, M.R. Per& R. Batiza, D.J. Fomari and M.T. 
+Murrell, Off-axis volcanism at the East Pacific Rise detected 
+by uranium-series dating of basalts, Nature 367, 157-159, 
+1994. 
+[34] D. Ben Othman, W.M. White and P.J. Patchett, The geo- 
+chemistry of marine sediments, island arc magma genesis, 
+and crust-mantle recycling, Earth Planet. Sci. Lett. 94, 1-21, 
+1989. 
+[35] A. Prinzhofer. E. Lewin and C.J. Allbgre, Stochastic melting 
+of the marble cake mantle: evidence from local study of the 
+East Pacific Rise at 12”50’N, Earth Planet. Sci. L.&t. 92, 
+189-206, 1989. 
+[36] B. Bourdon, A. Zindler, T. Elliott and C.H. Langmuir, 
+230Th-23sU systematics in MORB: a global perspective, 
+Nature, submitted. 
+[37] M. Spiegelman and T. Elliott, Consequences of melt trans- 
+port for uranium series disequilibrium in young lavas, Earth 
+Planet. Sci. Lett. 118, l-20, 1993. 
+[38] P.D. Beattie, Uranium-thorium disequilibria and partitioning 
+on melting of garnet peridotite, Nature 363, 63-65, 1993. 
+[39] T.Z. LaTourrette, A.K. Kennedy and G.J. Wasserburg, Tho- 
+rium-uranium fractionation by garnet: evidence for a deep 
+source and rapid rise of oceanic basalts, Science 261, 739- 
+742, 1993. 
+[40] E. Bonatti, Not so hot “Hot Spots” in the oceanic mantle, 
+Science 250, 107-l 11, 1990. 
+[41] R.H. Kingsley and J.-G. Schilling, Carbon in Mid-Atlantic 
+Ridge basalt glasses from 28”N to 63”N: evidence for a 
+carbon-enriched Azores mantle plume, Earth Planet. Sci. 
+Len. 129, 31-53, 1995. 
+[42] J.-G. Schilling, Fluxes and excess temperatures of mantle 
+plumes inferred from their interaction with migrating mid-oc- 
+ean ridges, Nature 352, 397-403, 1991. 
+[43] M. Tolstoy, A.J. Harding and J.A. Orcutt, Crustal thickness 
+on the Mid-Atlantic ridge: bull’s_eye anomalies and focused 
+accretion, Science 262, 726-729, 1993. 
+[44] Y. Shen and D.W. Forsyth, The effects of temperature- and 
+pressure-dependent viscosity on three-dimensional passive 
+flow of the mantle beneath a ridge-transform system, J. 
+Geophys. Res. 97, 19,717-19,728, 1992. 
+[45] D.W. Sparks, E.M. Parmentier and J. Phipps Morgan, 
+Three-dimensional mantle convection beneath a segmented 
+spreading center: implications for along-axis variations in 
+B. Bourdon et al. / Earth and Planetary Science Letters 142 (19%) 175-189 189 
+crustal thickness and gravity, J. Geophys. Res. 98, 21,977- 
+21,995, 1993. 
+[46] J. Phipps Morgan and D.W. Forsyth, Three-dimensional flow 
+and temperature perturbations due to a transform offset: 
+effects on oceanic crustal and upper mantle structure, J. 
+Geophys. Res. 93, 2955-2966, 1988. [47] B.-Y. Kuo and D.W. Foqth, Gravity anomalies of the 
+ridge-transform system in the South Atlantic between 31 and 
+34.5’S: upwelling centers and variations in crustal thickness, 
+Mar. Geophys. Res. 10, 205-232, 1988. 

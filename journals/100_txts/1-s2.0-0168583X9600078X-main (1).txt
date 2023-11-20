@@ -1,0 +1,467 @@
+\T.U Nuclear Instruments and Methods in Physics Research B 116 (1996) 404-409 
+a . _- 
+@ _- 
+EISEVIER NOM-B Beam Interactions 
+with Materials&Atoms 
+Pulsed laser deposition of thin films for optical applications 
+C.N. Afonso * , J. Gonzalo 
+Znstituto de Optica, CSZC, Serrano 121.28006 Madrid, Spain 
+Abstract 
+Pulsed laser deposition is a recently developed technique which is producing very good results for the growth of complex 
+compound films. This work reviews some results obtained so far in the application of this technique to grow oxide films for 
+optical applications. The high density of PLD films and the role of a gas environment on the film homogeneity, composition 
+and optical properties are illustrated with various examples. 
+1. Introduction 
+Pulsed laser deposition (PLD) is a recently developed 
+technique which became very fashionable after its success 
+in producing high critical temperature superconducting 
+thin films in the late 80s [1,2]. The simplicity and versatil- 
+ity of the technique make it very attractive when compared 
+to more conventional deposition techniques. As seen in 
+Fig. 1, a pulsed laser beam is focused onto the surface of a 
+target (usually at 45”) located into a vacuum chamber. A 
+visible plasma is produced which is mainly formed by 
+electrons, ions and neutrals with energies in the range 
+l-100 eV [3,4]. Although the presence of this high ener- 
+getic species makes PLD comparable to some extent to 
+sputtering or ion assisted deposition techniques, its ability 
+to produce epitaxial films is much higher [3]. The process 
+is considered as “stoichiometric” since it transfers the 
+composition of the target to the deposited film thus making 
+it very suitable for the deposition of complex structures, 
+such as oxides. When ablation takes place in the presence 
+of a foreign gas, the plasma expansion follows a complex 
+kinetics 15-81, and most of the plasma expansion models 
+suggest that the optimum distance to set the substrate is 
+similar to the length of the plasma [9] (typically 30-40 
+mm when working in the presence of a gas environment). 
+PLD can be carried out either in ultra high vacuum 
+conditions or in high pressure environments, both inert and 
+reactive [3]. The target has no specific electrical, cooling 
+or geometrical constraints as it usually happens in more 
+conventional techniques like sputtering [ 101. Nevertheless, 
+the way the target is prepared has a great influence on the 
+particulate content of the final film, the use of very dense 
+and/or bulk targets (as opposed to sintered targets) lead- 
+* Corresponding author. Tel. +34 1 5616800, fax: + 34 1 
+5645557, e-mail: cnafonso@plnar 1 .csie.es ing to the best results. Particulates of 3-4 pm diameter are 
+often observed in PLD films thus limiting their widespread 
+application [ 1 I]. Several schemes have been proposed for 
+reducing their density in the films, the use of a shutter 
+triggered by the laser to stop the slow particles being 
+among the earliest and most efficient proposed solutions 
+[12]. The fundamental and practical aspects of PLD to- 
+gether with its application to some important technological 
+materials and an updated materials survey have been re- 
+cently reviewed elsewhere [ 131. 
+2. Oxide films for optical applications 
+Optical applications require high density films with a 
+very good adhesion, both requirements have been better 
+achieved in the past by sputtering and ion assisted tech- 
+niques. Depending on the particular application, other 
+properties as low absorption (waveguides) and epitaxial/ 
+well oriented films (ferroelectric films for non-linear opti- 
+cal applications) are also needed. Some reviews have been 
+published on the application of PLD to optics [ 14- 161. The 
+oxide materials prepared so far by PLD which may be 
+relevant for optical applications have been divided into 
+three groups [16]: binary oxides, complex oxides and 
+composite glasses. 
+The first group includes not only those oxides which 
+have been used as optical coatings since very long, but 
+also some transparent and conducting materials which can 
+be suitable layers for contacts in electro-optical applica- 
+tions or some oxides which are interesting as buffer layers 
+for the growth of more complex structures. The materials 
+grown so far by PLD include among others CeO,, GeO,, 
+HfO,, ITO, MgO, SiO,, SnO,, Y203, ZnO, ZrO, . . . . In 
+most of the cases, the refractive index is reported in 
+addition to the characterization of the structural and com- 
+positional properties of the films. The results show that 
+0168-583X/96/$15.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+PZZ SO168-583X(96)00078-X 
+C.N. Afonso, J. Gonzalo/Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 404-409 
+pump unit 
+Gas Inlet 
+Fig. 1. Usual configuration for the growth of PLD films where the 
+gas inlet and the substrate heater are optional. 
+dense films with refractive index close to that of the bulk 
+materials are usualiy obtained at room temperature. 
+The complex oxide group includes materials which are 
+usually available as bulk single-crystals that show interest- 
+ing non-linear optical (NLO) properties. Although several 
+materials have been studied in terms of the growth condi- 
+tions to produce epitaxial films, their NLO properties have 
+been only studied in the case of Bi,Ti,O,, [ 171, KTN [ 181, 
+KTP [19], LiNbO, [20], and (Pb,La)@r,Ti)O, films [21]. 
+Nevertheless, a complete layered system for a longitudinal 
+electro-optic modulator was identified and successfully 
+prepared by PLD [18], that includes a SrRuO, bottom 
+electrode layer, a KTN electro-optic layer and a transpar- 
+ent IT0 top electrode layer. These promising results should 
+strengthen the investigation of the optical and NLO proper- 
+ties of this interesting group of materials prepared by PLD. 
+Finally, the composite glasses group is an emergent 
+field of research with a high potential for the development 
+of both active and passive planar waveguides for photonic 
+applications. CdTe microcrystallites embedded in a SiO, 
+matrix were produced by alternative laser ablation of CdTe 
+and SiO targets in argon and oxygen environments. The 
+resulting films had a very high NLO figure of merit and a 
+decay time (< 10 ps) much faster than that ever reported 
+for semiconductor-doped glasses 1221. More recently, 
+rare-earth (Er-Yb) doped phosphate glass waveguides have 
+been successfully prepared by PLD [23], and show lumi- 
+nescence at 1.5 pm [24]. 
+The aim of this work is to show that PLD is an 
+attractive technique for optical applications. The high den- 
+sity of PLD films is shown through several examples and 
+results obtained during ablation of a single element target 
+in an oxygen pressure will be used to illustrate the use of 
+PLD as a reactive technique. The presence of a gas 
+environment has a crucial role on the plasma expansion 
+kinetics and therefore, on the film growth mechanisms, 
+thus affecting the film homogeneity, stoichiometry and 
+optical properties. Some examples will be discussed in 
+order to evidence that the experimental conditions have to 
+be thoroughly studied for each particular material in order 
+to achieve the desired properties. 3. Experimental details 405 
+The’ results presented were obtained using an ArF laser, 
+which delivers 12 ns p&es at 193 nm. The laser beam was 
+focused at 4.5” onto a rotating target, the average energy 
+density at the target site being in the range l-4 J/cm*. 
+The films are deposited onto silicon or glass substrates 
+hold at room temperature either in vacuum (4 X lo-* or 
+8 X low6 mbar) or in a gas environment up to pressures of 
+lo- ’ mbar. A He-Ne laser beam (633 nm) is used to 
+record in real time the evolution of the reflectivity and/or 
+the transmission of the substrate as the film grows. The 
+simulation of the experimental data leads to the determina- 
+tion of the refractive index and the film thickness [25]. In 
+some cases, the refractive index was also determined by 
+spectroscopic ellipsometry [26,27]. The film composition 
+was determined by combining rutherford backscattering 
+(RBS) and nuclear reaction (NRA) techniques [28-3 11. 
+4. PLD as a technique to produce high density films 
+Fig. 2 shows the void fraction of electron-beam, DC- 
+sputtered and PLD Ge films as a function of the film 
+thickness and determined from ellipsometric measurements 
+using a thick DC-sputtered film as a reference 1261. It is 
+clearly seen that PLD and DC-sputtered films are very 
+similar, the former being slightly denser than the latter. 
+The figure also shows the void fraction of an electron-beam 
+deposited film with and without ion bombardment from an 
+independent experiment [32]. The data included correspond 
+to the best improvement of the void fraction reported 
+which was achieved for an Ar+ ion energy of 70 eV. 
+When!comparing the two sets of data, one has to take into 
+account that the references used are different and therefore 
+12 A 
+-44 I . , I I 1 
+0 50 100 150 200 
+Film thiincss (nm) 
+Fig. 2. Void fraction of Ge films as a function of film thickness 
+determined from ellipsometric measurements in films grown by 
+(0) PLD, (0) DC sputtering and (A) electron beam evaporation 
+[26]. The void fraction obtained in an independent experiment in 
+Ge films grown by electron beam evaporation (0) without and 
+(+> with ion bombardment are also included [32]. 
+406 CN. Afonso, J. Gonzalo/Nucl. Insrr. and Meth. in Phys. Res. B 116 (1996) 404-409 
+only the relative decrease in the void fraction can be 
+compared. These results evidence that those techniques 
+involving species bombardment (PLD, DC sputtering and 
+ion assisted) in the range lo-100 eV lead to lower void 
+fractions (higher density), PLD films being always slightly 
+denser. 
+When ablation of Ge is performed in the presence of a 
+reactive atmosphere as oxygen, incorporation of oxygen 
+atoms to the film during growth occurs and therefore GeO, 
+films can be easily produced. Fig. 3 shows the oxygen to 
+germanium ratio of PLD films grown by ablation of a Ge 
+target as a function of the oxygen pressure applied during 
+deposition [27]. The amount of oxygen incorporated in- 
+creases very rapidly for pressures in the range 10m4 - lo-’ 
+mbar, films grown for pressures higher than 5 X lop3 
+mbar having the composition of the stoichiometric oxide 
+(X = 2). The real and imaginary parts of the refractive 
+index of the films determined from spectral ellipsometry 
+measurements were found to decrease as the oxygen pres- 
+sure applied during deposition increases [27]. The imagi- 
+nary part (k) of the refractive index, which is related to the 
+film absorption, is also plotted in Fig. 3. It is clearly seen 
+that the films become transparent (k = 0.03) when the film 
+composition approaches that of GeO,. The density of these 
+films was evaluated using the data earlier reported for 
+amorphous GeO, as a reference [33], and the results 
+showed that the GeO, films prepared by PLD are 8-15% 
+denser than the reference. These results evidence that PLD 
+films are also very dense when the technique is used in a 
+reactive mode. 
+The selection of the target composition can be very 
+critical on the optical quality and homogeneity of PLD 
+films. GeO, films have been also prepared by laser abla- 
+tion of a GeO, target [34]. The films were found to have a 
+slightly lower refractive index and a larger fraction of 
+voids than those of films grown from a Ge target [27]. 
+Furthermore, the optical properties of the films were found 
+to vary as moving away from the center of the deposit and 
+these changes were related to inhomogeneities in composi- 
+Fig. 3. (0) Oxygen to Ge ratio ([O]/[Ge]) and (+> imaginary 
+part (k) of the refractive index measured at 633 mn in PLD films 
+grown by ablating a Ge target as a function of the oxygen pressure 
+applied during deposition 1271. Om v-m (mbar) 
+Fig. 4. (A> Oxygen ([Ol/[Nbl) and (0) Li ([Lil/[Nbl) to Nb 
+ratios and ( + ) imaginary part (k) of the refractive index measured 
+at 633 nm in PLD films grown by ablating a LiNbO, single-crystal 
+target as a function of the oxygen pressure applied during deposi- 
+tion 1281. 
+tion. The films grown from a Ge target were instead found 
+to be homogeneous in the film plane [29]. 
+5. The role of an oxygen pressure 
+When growing oxide films, the use of a partial oxygen 
+pressure is usually required in order to produce films with 
+the desired properties even when targets containing oxygen 
+are used. Nevertheless, the role of this environment is not 
+yet clear since it is often found to depend on the specific 
+material to be ablated or in the target composition as 
+described above for the case of GeO, films. The problem 
+becomes even more complex when compound targets are 
+used. In order to illustrate further this point, Fig. 4 shows 
+the composition of films grown by ablation of a single 
+crystal LiNbO, target together with the imaginary part (k) 
+of their refractive index as a function of the oxygen 
+pressure applied during deposition [28]. When comparing 
+Figs. 3 and 4, the main difference lies on the fact that 
+whereas the oxygen content of the films increases as the 
+oxygen pressure increases in the case of ablation of Ge, 
+similar oxygen and lithium to niobium ratios are obtained 
+for pressures up to = 6 x lop2 mbar in the case of 
+ablation of LiNbO,. The sharp decrease of the imaginary 
+part of the refractive index (k) as the oxygen pressure 
+increases cannot be thus related to a composition change in 
+the case of LiNbO,. The high value of k for films grown 
+in vacuum has been most likely related to the formation of 
+oxygen vacancies, the concentration of which is reduced as 
+an oxygen pressure is applied 1281. This interpretation was 
+based on the fact that the presence of defects and oxygen 
+vacancies in LiNbO, crystals are known to lead to strong 
+absorption in the visible. A similar absorption was ob- 
+served in PLD films deposited in vacuum which was 
+notably reduced once the films were annealed in an oxy- 
+gen environment [25]. 
+The presence of an oxygen atmosphere has been 
+demonstrated so far necessary to produce low absorbing 
+C.N. Afonso, J. Gonzalo /Nucl. Insir. and Meth. in Phys. Res. B I16 (1996) 404-409 407 
+PI / Pi1 cl 
+Bi,Sr,Ca,Cu,O, LiNbO, 
+Fig. 5. Relative oxygen content: (a) [Ol/[N,,,l UN,,,] = [Bil+ [Sri 
++ [Ca] + [Cu]), (b) [O]/[Ca] and (c) [O]/[Bi] ratios in films grown 
+by laser ablation of a Bi,Sr,Ca,Cu,Os target in vacuum and in 
+argon and oxygen pressures (10-r mbar) [30]. Relative oxygen 
+content: (d) [Ol/[N,,,l (IN,,] = [Li]+ [Nb]), (e) [Ol/[Lil and (f) 
+[O]/[Nb] ratios in films grown by laser ablation of a single crystal 
+LiNbO, target in vacuum and in an oxygen pressure (6X IO-’ 
+mbar) [28]. 
+oxide films, but the question which arises is whether the 
+atmosphere has to he necessarily oxygen or it can he other 
+gas. Fig. 5a shows the oxygen to cations ratio measured in 
+films grown in vacuum and in the presence of inert (argon) 
+and reactive (oxygen) gas environments, during ablation of 
+a Bi,Sr,Ca,Cu,O, target [301. The oxygen content of 
+these films is observed to increase in the presence of a gas 
+environment no matter of its inert or reactive character 
+thus producing composition changes. Since in the case of 
+an argon pressure no oxygen can be incorporated from the 
+atmosphere, these results suggest that the processes occur- 
+ring in the gas phase before deposition are crucial in 
+determining the film composition. Besides, reactions be- 
+tween the foreign gas and the ablated species can be ruled 
+out in the case of an inert (argon) environment. Therefore, 
+the scattering of the ablated species by the gas species 
+prior to deposition, i.e. collisional processes, has to be 
+responsible of the increase of the oxygen content observed 
+in Fig. 5a for films grown in the presence of a gas 
+pressure. Furthermore, the scattering effects are found to 
+depend critically on the mass and collisional cross section 
+of the different elements forming the target as discussed 
+elsewhere [30,31]. To illustrate this, Figs. 5b and 5c show 
+the oxygen to Ca and Bi ratios, which are the lightest and 
+heaviest elements in the target. It is clearly seen that, although both ratios follow similar trends, the increase of 
+the oxygen content in respect to the light element is much 
+higher than that in respect to the heavy element when 
+ablation is performed in a gas pressure. Light species with 
+a high collisional cross section like Ca suffer significant 
+deviations during the plasma expansion whereas heavy 
+species like Bi suffer little deviation. The increase ob- 
+served in the oxygen to Ca ratio in a gas environment has 
+thus to be mainly related to a decrease of the number of Ca 
+species reaching the target due to scattering processes. 
+Figs. .5d-5f show the same ratios measured in PLD films 
+grown in vacuum and oxygen during ablation of a LiNbO, 
+target [28]. The same result is again obtained, riamely the 
+oxygen to light element (Li) ratio increases sharply when 
+ablation occurs in an oxygen pressure whereas the oxygen 
+to heavy element @lb) ratio in this case tends even to 
+decrease. 
+Several mechanisms have been proposed in the litera- 
+ture to explain the composition deviations observed during 
+PLD in the presence of a foreign gas: the preferential 
+evaporation of the most volatile component from the sub- 
+strate [35], the re-sputtering of some of the components 
+from the substrate [36,37] or the scattering processes tak- 
+ing place prior to deposition as described above. Since the 
+two first mechanisms involve ejection of species from the 
+growing film, they will be referred to hereafter as re-emis- 
+sion processes. In order to analyze whether re-emission or 
+S SR SG 
+Fig. 6. Substrate configuration to study the role of (a), re-emission 
+and (b) scattering processes in tbe film composition: S is the 
+substrate in tbe standard configuration facing tbe target (T) and 
+SR and SG are the non-facing substrates. Total number of atoms 
+deposited on the facing (S) and non-facing (SR,SG) substrates 
+during ablation of a Bi,Sr,Ca,C+O, target in (c) vacuum, (d) 
+10-l mbar of oxygen and (e) 10-l mbar of argon [31,38]. 
+408 CiV. Afonso, .I. Gonzalo/Nucl. Instr. ana’ Meth. in Phys. Res. B 116 (1996) 404-409 
+scattering processes are the dominant mechanism, an ex- 
+periment with a second substrate (SR) located in the 
+chamber facing the growing film (substrate S) was per- 
+formed (Fig. 6a). The material reaching substrate SR can 
+be produced either by re-emission from substrate S or as a 
+result of scattering processes produced by the gas species. 
+If the facing substrate (S) is removed, the material de- 
+posited on the non-facing substrate (SG, Fig. 6b) can be 
+only produced by the latter process. The number of de- 
+posited atoms on the substrate facing the target (S) and the 
+non-facing substrate at the re-emission (SR) and scattering 
+(SG) configurations are shown in Figs. 6c-6e for films 
+deposited in vacuum and oxygen or argon pressures [3 1,381. 
+It is clearly seen that very little deposition occurs in 
+vacuum in the non-facing substrates thus proving that both 
+re-emission and scattering effects are nearly negligible. 
+The results show that re-emission effects may affect up to 
+3% of the total number of atoms in the deposited material 
+at the most. When a gas is present, a dramatic increase of 
+the amount of material deposited on the non-facing sub- 
+strates occurs, this increase being even higher when the 
+facing substrate (S) is removed (SG configuration) and the 
+gas is argon. These results show clearly that the dominant 
+composition altering mechanism is the scattering of the 
+ablated species by the foreign gas species, this mechanism 
+being more important for the lighter species [31,38]. 
+6. Summary 
+Pulsed laser deposition produces films with high den- 
+sity and it is therefore a very promising technique to 
+produce oxide films for both linear and non-linear optical 
+applications. A gas environment is usually required to 
+produce low absorbing films but it may introduce some 
+undesired deviations in the composition and/or homo- 
+geneity of the films mainly due to the scattering of the 
+ablated species by the foreign gas species prior to deposi- 
+tion. Therefore, the experimental conditions have to be 
+carefully determined for each particular material in order 
+to achieve the desired properties. 
+Acknowledgements 
+This work has been partially supported by CICYT 
+(Spain) under the TIC93-0125 project and by the EC 
+under a Science project. 
+References 
+[ll D. Dijkkamp, T. Venkatessan, X.D. Wu, S.A. Shasheen, N. 
+Jisrawi, Y.H. Min lee, W.L. McLean and M. Croft, Appl. 
+Phys. Lett. 51 (1987) 619. 
+[2] X.D. Wu, D. Dijkkamp, S.B. Ogale, A. Inam, E.W. Chase, 131 
+141 
+[51 
+Kl 
+[71 
+[81 
+[91 
+t101 
+1111 
+[121 
+[131 
+[141 
+[151 
+b61 
+[171 
+[ISI P.F. Miceli, CC. Chang, J.M. Tarascon and T. Venkatessan, 
+Appl. Phys. Lett. 51 (1987) 861. 
+G.K. Hubler, in: Pulsed Laser Deposition of Thin Films eds. 
+D.B. Chrisey and G.K. Hubler (Wiley, New York, 1994) 
+Chap. 13. 
+K.L. Saenger, Proc. Adv. Materials 2 (1993) 1. 
+D.B. Geohegan, Thin Solid Films 220 (1992) 138. 
+Y.B. Zel’dovich and Y.P. Raizer, in: Physics of Shock 
+Waves and High Temperature Hydrodynamic Phenomena, 
+Vol. 1 (Academic Press, New York, 1966) p. 94. 
+P.E. Dyer, A. Issa and P.H. Key, Appl. Phys. Lett. 57 (1990) 
+186. 
+W.K.A. Kumuduni, Y. Nakayama, Y. Nakata, T. Okada and 
+M. Maeda, J. Appl. Phys. 74 (1993) 75 10. 
+P.E. Dyer, A. Issa and P.H. Key, Appl. Surf. Sci. 46 (1990) 
+89. 
+L.I. Maissel and R. Glang (eds.), Handbook of Thin Film 
+Technology (McGraw Hill, New York, 1983). 
+L.C. Chen, in: Pulsed Laser Deposition of Thin Films, eds. 
+D.B. Chrisey and G.K. Hubler (Wiley, New York, 1994) 
+Chap. 6. 
+D. Lubben, S.A. Barnett, K. Suzuki, S. Gorbatkin and J.E. 
+Greene, J. Vat. Sci. Technol. B 3 (1985) 968. 
+D.B. Chrisey and G.K. Hubler (eds.), Pulsed Laser Deposi- 
+tion of Thin Films (Wiley, New York, 1994). 
+J.T. Cheung, H. Sankur and T. Chang, Optics & Photonics 
+News 3 (1992) 24. 
+H. Sankur, Thin Solid Films 218 (1992) 161. 
+C.N. Afonso, in Insulating Materials for Optoelectronics: 
+New Developments, ed. F. Agull&L6pez (Weld Scientific, 
+1995) Chap. 1. 
+W. Jo, H.-J. Cho, T.W. Noh, B.I. Kim, D.Y. Kim,Z.G. Kim 
+and S.-Y. Kwun, Appl. Phys. Lett. 63 (1993) 2198; 
+W. Jo, G.-C. Yi, T.W. Noh, D.-K. Ko, Y.S. Cho and S.-I. 
+Kwun, Appl. Phys. Lett. 61 (1992) 1516. 
+S. Yihnaz, R. Gerhard-Multhaupt, W.A. Bomrer, D.M. 
+Hwang, A. Inam, J.A. Martinez, T.S. Ravi, T. Sands, B.J. 
+Wilkens, X.D. Wu and T. Venkatesan, J. Mater. Res. 9 
+(1994) 1272. 
+[19] F. Xiong, M. Hagerman, H. Zhou, V. Kozhevnikov, G.K. 
+Wong, K. Poeppelmeier, J.B. Ketterson, R.P.H. Chang and 
+C.W. White, J. Vat. Sci. Technol. A 12 (1994) 1446. 
+[201 M. Haruna, J. Tsutsumi, Y. Segawa and H. Nishihara, Proc. 
+SPIE 2045 (1994) 133. 
+[211 D.H. Reitze, E. Haton, R. Ramexh, S. Etemad, D.E. Leaini, 
+T. Sands, 2. Karim and A.R. Tanguay, Jr., Appl. Phys. Lett. 
+63 (1993) 596. 
+[22] S. Ohtsuka, K. Tsunemoto, H. Nagata and S. Tanaka, Appl. 
+Phys. Lett. 61 (1992) 2953; 
+S. Ohtsuka, K. Tsunemoto, T. Koyama and S. Tanaka, Opt. 
+Materials 2 (1993) 209. 
+1231 C.N. Afonso, J.M. Ballesteros, J. Gonzalo, G.C. Righini and 
+S. Pelli, Appl. Surf. Sci., in press. 
+1241 R. Sema, J.M. Ballesteros, C.N. Afonso and A. Zschocke, to 
+be published. 
+[25] C.N. Afonso, F. Vega, J. Gonzalo and C. Zaldo, Appl. Surf. 
+Sci. 69 (1993) 149. 
+[26] J.C.G. de Sande, C.N. Afonso, J.L. Escudero, R. Sema, F. 
+Catalina and E. Bemabeu, Appl. Optics 31 (1992) 6133. 
+[27] F. Vega, J.C.G. de Sande, C.N. Afonso, C. Ortega and J. 
+Siejka, Appl. Optics 33 (1994) 1203. 
+C.N. Afonso, .I. Gonzalo/Nucl. Instr. and Meth. in Phys. Res. B I I6 (1996) 404-409 409 
+[28] C.N. Afonso, J. Gonzalo, F. Vega, E. Dieguez, J.C. Cheang- 
+Wong, C. Ortega, J. Siejka and G. Amsel, Appl. Phys. Lett. 
+66 (1995) 1452. 
+[29] C.N. Afonso, F. Vega, J. Solis, F. Catalina, C. Ortega and J. 
+Siejka, Appl. Surf. Sci. 54 (1992) 175. 
+[30] J. Gonzalo, C.N. Afonso, F. Vega, D. Martinez Garcia and J. 
+Peniere., Appl. Surf. Sci. 86 (1995) 40. 
+[31] J. Gonzalo, C.N. Afonso and J. Perriere, Appl. Phys. Lett. 67 
+(1995) 1325. 
+[32] J.E. Yehoda, B. Yang, K. Vedam and R. Messier, J. Vat. 
+Sci. Technol. A 6 (1988) 1631. [33] L. Pasajova, Czech. J. Phys. B 19 (1969) 1265. 
+[34] P.J. Wolf, T.M. Christensen, N.G. Coit and R.W. Swinford, 
+J. Vat. Sci. Teclmol. A 11 (1993) 2725. 
+[35] D. Roy and S.B. Krupanidhi, J. Mater. Res. 7 (1992) 2521. 
+1361 E. van de Riet, J.C.S. Kools and J. Dieleman, J. Appt. Phys. 
+73 (1993) 8290. 
+[37] S.K. Hau, K.H. Wong, P.W. Chan and C.L. Choy, Appl. 
+Phys. Lett. 66 (1995) 245. 
+[38] J. Gonzalo, C.N. Afonso, J. Pen&e and R. Gbmez San 
+Roman, Appl. Surf. Sci. in press. 

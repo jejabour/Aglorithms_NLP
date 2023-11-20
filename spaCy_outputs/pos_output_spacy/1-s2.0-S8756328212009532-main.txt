@@ -1,0 +1,7097 @@
+Original, ADJ 
+Length, PROPN 
+Article, NOUN 
+
+, SPACE 
+Effect, PROPN 
+proton, NOUN 
+irradiation, NOUN 
+followed, VERB 
+hindlimb, NOUN 
+unloading, VERB 
+bone, NOUN 
+mature, ADJ 
+mice, NOUN 
+
+, SPACE 
+model, NOUN 
+long, ADJ 
+duration, NOUN 
+space, NOUN 
+ﬂight, VERB 
+
+, SPACE 
+Shane, PROPN 
+A., NOUN 
+Lloyda,1, PROPN 
+Eric, PROPN 
+R., PROPN 
+Bandstrab,1, PROPN 
+Jeffrey, PROPN 
+S., PROPN 
+Willeyc, PROPN 
+Stephanie, PROPN 
+E., PROPN 
+Rif, PROPN 
+ﬂeb, NOUN 
+Leidamarie, PROPN 
+Tirado, PROPN 
+Leeb, PROPN 
+
+, SPACE 
+Gregory, PROPN 
+A., PROPN 
+Nelsond, PROPN 
+Michael, PROPN 
+J., PROPN 
+Pecautd, PROPN 
+Ted, PROPN 
+A., NOUN 
+Batemane, PROPN 
+f,⁎, PROPN 
+
+, SPACE 
+aDivision, PROPN 
+Musculoskeletal, PROPN 
+Sciences, PROPN 
+Department, PROPN 
+Orthopaedics, PROPN 
+Rehabilitation, PROPN 
+Penn, PROPN 
+State, PROPN 
+College, PROPN 
+Medicine, PROPN 
+500, NUM 
+University, PROPN 
+Drive, PROPN 
+Hersh, PROPN 
+ey, PROPN 
+PA, PROPN 
+17033, NUM 
+USA, PROPN 
+
+, SPACE 
+bDepartment, PROPN 
+Bioengineering, PROPN 
+Clemson, PROPN 
+University, PROPN 
+501, NUM 
+Rhodes, PROPN 
+Research, PROPN 
+Center, PROPN 
+Clemson, PROPN 
+SC, PROPN 
+29634, NUM 
+USA, PROPN 
+
+, SPACE 
+cSection, PROPN 
+Molecular, PROPN 
+Medicine, PROPN 
+Department, PROPN 
+Radiation, PROPN 
+Oncology, PROPN 
+Comprehensive, PROPN 
+Cancer, PROPN 
+Center, PROPN 
+Wake, PROPN 
+Forest, PROPN 
+School, PROPN 
+Medicine, PROPN 
+Medical, PROPN 
+Center, PROPN 
+Bo, PROPN 
+ulevard, ADJ 
+
+, SPACE 
+Winston, PROPN 
+Salem, PROPN 
+NC, PROPN 
+27157, NUM 
+USA, PROPN 
+
+, SPACE 
+dDepartment, PROPN 
+Radiation, PROPN 
+Medicine, PROPN 
+Loma, PROPN 
+Linda, PROPN 
+University, PROPN 
+Medical, PROPN 
+Center, PROPN 
+11234, NUM 
+Anderson, PROPN 
+Street, PROPN 
+Loma, PROPN 
+Linda, PROPN 
+92354, NUM 
+USA, PROPN 
+
+, SPACE 
+eDepartment, PROPN 
+Biomedical, PROPN 
+Engineering, PROPN 
+University, PROPN 
+North, PROPN 
+Carolina, PROPN 
+Chapel, PROPN 
+Hill, PROPN 
+152, NUM 
+MacNider, PROPN 
+Hall, PROPN 
+Chapel, PROPN 
+Hill, PROPN 
+NC, PROPN 
+27599, NUM 
+USA, PROPN 
+
+, SPACE 
+fDepartment, PROPN 
+Radiation, PROPN 
+Oncology, PROPN 
+University, PROPN 
+North, PROPN 
+Carolina, PROPN 
+Chapel, PROPN 
+Hill, PROPN 
+152, NUM 
+MacNider, PROPN 
+Hall, PROPN 
+Chapel, PROPN 
+Hill, PROPN 
+NC, PROPN 
+27599, NUM 
+USA, PROPN 
+
+, SPACE 
+abstract, ADJ 
+article, NOUN 
+info, NOUN 
+
+, SPACE 
+Article, NOUN 
+history, NOUN 
+
+, SPACE 
+Received, VERB 
+3, NUM 
+2012Revised, NUM 
+29, NUM 
+June, PROPN 
+2012Accepted, NUM 
+2, NUM 
+July, PROPN 
+2012, NUM 
+
+, SPACE 
+Available, ADJ 
+online, ADJ 
+10, NUM 
+July, PROPN 
+2012, NUM 
+
+, SPACE 
+Edited, VERB 
+David, PROPN 
+Burr, PROPN 
+
+, SPACE 
+Keywords, PROPN 
+
+, SPACE 
+BoneRadiation, PROPN 
+
+, SPACE 
+Unloading, PROPN 
+
+, SPACE 
+Hindlimb, PROPN 
+suspensionSpace, NOUN 
+ﬂightBone, NUM 
+loss, NOUN 
+associated, VERB 
+microgravity, NOUN 
+unloading, NOUN 
+documented, VERB 
+effects, NOUN 
+space, NOUN 
+ﬂight, NOUN 
+relevant, ADJ 
+
+, SPACE 
+types, NOUN 
+doses, NOUN 
+radiation, NOUN 
+skeletal, ADJ 
+system, NOUN 
+de, ADV 
+ﬁned, VERB 
+addition, NOUN 
+combined, VERB 
+effect, NOUN 
+
+, SPACE 
+unloading, NOUN 
+radiation, NOUN 
+received, VERB 
+attention, NOUN 
+n, VERB 
+present, ADJ 
+study, NOUN 
+investigated, VERB 
+effect, NOUN 
+proton, NOUN 
+
+, SPACE 
+irradiation, NOUN 
+followed, VERB 
+mechanical, ADJ 
+unloading, NOUN 
+hindlimb, NOUN 
+suspension, NOUN 
+HLS, PROPN 
+mice, NOUN 
+Sixteen, ADJ 
+week, NOUN 
+old, ADJ 
+female, NOUN 
+
+, SPACE 
+C57BL/6, PROPN 
+mice, NOUN 
+exposed, VERB 
+1, NUM 
+Gy, PROPN 
+protons, NOUN 
+sham, ADJ 
+irradiation, NOUN 
+procedure, NOUN 
+n=30, PROPN 
+group, NOUN 
+day, NOUN 
+
+, SPACE 
+later, ADV 
+half, NOUN 
+mice, NOUN 
+group, NOUN 
+subjected, VERB 
+weeks, NOUN 
+HLS, PROPN 
+normal, ADJ 
+loading, NOUN 
+conditions, NOUN 
+Radiationtreatment, NOUN 
+IRR, PROPN 
+resulted, VERB 
+approximately, ADV 
+20, NUM 
+loss, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+BV, PROPN 
+TV, PROPN 
+tibiaand, PROPN 
+femur, NOUN 
+effect, NOUN 
+cortical, ADJ 
+bone, NOUN 
+compartment, NOUN 
+Conversely, ADV 
+unloading, VERB 
+induced, VERB 
+substantially, ADV 
+greater, ADJ 
+
+, SPACE 
+loss, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+60, NUM 
+70, NUM 
+loss, NOUN 
+BV, PROPN 
+TV, PROPN 
+cortical, ADJ 
+bone, NOUN 
+approximately, ADV 
+20, NUM 
+loss, NOUN 
+cortical, ADJ 
+bone, NOUN 
+
+, SPACE 
+volume, NOUN 
+tibia, NOUN 
+femur, ADJ 
+corresponding, ADJ 
+decreases, NOUN 
+cortical, ADJ 
+bone, NOUN 
+strength, NOUN 
+Histological, ADJ 
+analysesand, NOUN 
+serum, NOUN 
+chemistry, NOUN 
+data, NOUN 
+demonstrated, VERB 
+increased, VERB 
+levels, NOUN 
+osteoclast, ADV 
+mediated, VERB 
+bone, NOUN 
+resorption, NOUN 
+unloaded, VERB 
+
+, SPACE 
+mice, NOUN 
+IRR, PROPN 
+HLS+IRR, PROPN 
+mice, PROPN 
+generally, ADV 
+experienced, VERB 
+greater, ADJ 
+loss, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+connec-, NOUN 
+
+, SPACE 
+tivity, NOUN 
+density, NOUN 
+trabecular, ADJ 
+number, NOUN 
+unl, NOUN 
+oading, VERB 
+irradiation, NOUN 
+duration, NOUN 
+
+, SPACE 
+unloading, NOUN 
+masked, VERB 
+certain, ADJ 
+effects, NOUN 
+skeletal, ADJ 
+response, NOUN 
+irradiation, NOUN 
+unloading, NOUN 
+appears, VERB 
+addi-, ADJ 
+
+, SPACE 
+tive, NOUN 
+certain, ADJ 
+parameters, NOUN 
+Appropriate, ADJ 
+modeling, NOUN 
+environmental, ADJ 
+challenges, NOUN 
+long, ADJ 
+duration, NOUN 
+space, NOUN 
+ﬂight, NOUN 
+
+, SPACE 
+allow, VERB 
+better, ADJ 
+understanding, NOUN 
+underlying, VERB 
+mechanisms, NOUN 
+mediating, VERB 
+space, NOUN 
+ﬂight, NOUN 
+associated, VERB 
+bone, NOUN 
+loss, NOUN 
+
+, SPACE 
+development, NOUN 
+effective, ADJ 
+countermeasures, NOUN 
+
+, SPACE 
+©, ADJ 
+2012, NUM 
+Elsevier, PROPN 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+Astronauts, PROPN 
+missions, NOUN 
+Earth, PROPN 
+orbit, NOUN 
+required, VERB 
+
+, SPACE 
+live, VERB 
+work, VERB 
+microgravity, NOUN 
+environment, NOUN 
+long, ADJ 
+periods, NOUN 
+
+, SPACE 
+time, NOUN 
+response, NOUN 
+skeletal, ADJ 
+system, NOUN 
+mechanical, ADJ 
+unloading, NOUN 
+
+, SPACE 
+studied, VERB 
+astronauts, NOUN 
+month, NOUN 
+missions, NOUN 
+
+, SPACE 
+International, PROPN 
+Space, PROPN 
+Station, PROPN 
+ISS, PROPN 
+1, X 
+Skeletal, ADJ 
+deterioration, NOUN 
+
+, SPACE 
+documented, VERB 
+individuals, NOUN 
+areas, NOUN 
+prone, ADJ 
+
+, SPACE 
+fracture, NOUN 
+including, VERB 
+vertebrae, NOUN 
+hip, NOUN 
+Bone, NOUN 
+loss, NOUN 
+observed, VERB 
+thispopulation, NOUN 
+translated, VERB 
+reductions, NOUN 
+estimated, VERB 
+bone, NOUN 
+strength, NOUN 
+in-, ADP 
+
+, SPACE 
+dices, NOUN 
+1, NUM 
+suggesting, VERB 
+astronauts, NOUN 
+higher, ADJ 
+risk, NOUN 
+frac-, ADJ 
+
+, SPACE 
+ture, NOUN 
+extended, ADJ 
+missions, NOUN 
+ground, NOUN 
+based, VERB 
+modeling, NOUN 
+hindlimb, NOUN 
+suspension, NOUN 
+HLS, PROPN 
+widely, ADV 
+accepted, VERB 
+rodent, ADJ 
+model, NOUN 
+
+, SPACE 
+able, ADJ 
+simulate, VERB 
+mechanical, ADJ 
+unloading, NOUN 
+cephalic-, ADJ 
+ﬂuid, ADJ 
+shifts, NOUN 
+
+, SPACE 
+encountered, VERB 
+microgravity, NOUN 
+2, NUM 
+weeks, NOUN 
+HLS, PROPN 
+
+, SPACE 
+skeletally, ADV 
+mature, VERB 
+mice, NOUN 
+experience, NOUN 
+reductions, NOUN 
+bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+
+, SPACE 
+distal, ADJ 
+femur, NOUN 
+order, NOUN 
+human, NOUN 
+expect, VERB 
+lose, VERB 
+
+, SPACE 
+following, VERB 
+months, NOUN 
+space, NOUN 
+ﬂight[3,4, NOUN 
+
+, SPACE 
+extended, ADJ 
+missions, NOUN 
+astronauts, NOUN 
+exposed, VERB 
+
+, SPACE 
+solar, ADJ 
+cosmic, ADJ 
+radiation, NOUN 
+shielding, NOUN 
+effect, NOUN 
+Earth, PROPN 
+
+, SPACE 
+magnetosphere, ADV 
+type, NOUN 
+dose, NOUN 
+radiation, NOUN 
+encountered, VERB 
+besigniﬁcantly, ADV 
+different, ADJ 
+experienced, VERB 
+ISS, PROPN 
+
+, SPACE 
+located, VERB 
+low, ADJ 
+Earth, PROPN 
+orbit, NOUN 
+5, NUM 
+Multiple, ADJ 
+space, NOUN 
+ﬂight, NOUN 
+relevant, ADJ 
+types, NOUN 
+
+, SPACE 
+radiation, NOUN 
+documented, VERB 
+having, VERB 
+negative, ADJ 
+effects, NOUN 
+trabec-, DET 
+
+, SPACE 
+ular, ADJ 
+bone, NOUN 
+6, NUM 
+Mars, PROPN 
+missions, NOUN 
+cosmic, ADJ 
+rays, NOUN 
+containing, VERB 
+heavy, ADJ 
+ions, NOUN 
+
+, SPACE 
+protons, NOUN 
+solar, ADJ 
+particle, NOUN 
+events, NOUN 
+SPEs, PROPN 
+composed, VERB 
+mainly, ADV 
+
+, SPACE 
+protons, NOUN 
+primary, ADJ 
+concern, NOUN 
+radiation, NOUN 
+exposure, NOUN 
+7–9, X 
+SPEs, NOUN 
+
+, SPACE 
+occur, VERB 
+randomly, ADV 
+deliver, VERB 
+relatively, ADV 
+high, ADJ 
+dose, NOUN 
+2, NUM 
+Gy, PROPN 
+
+, SPACE 
+short, ADJ 
+period, NOUN 
+time, NOUN 
+8,10,11, NUM 
+basis, NOUN 
+comparison, NOUN 
+Bone, PROPN 
+51, NUM 
+2012, NUM 
+756, NUM 
+764, NUM 
+
+, SPACE 
+⁎Corresponding, PROPN 
+author, NOUN 
+Department, PROPN 
+Biomedical, PROPN 
+Engineering, PROPN 
+University, PROPN 
+
+, SPACE 
+North, PROPN 
+Carolina, PROPN 
+140, NUM 
+MacNider, PROPN 
+Hall, PROPN 
+Chapel, PROPN 
+Hill, PROPN 
+NC, PROPN 
+27599, NUM 
+USA, PROPN 
+
+, SPACE 
+E, ADJ 
+mail, NOUN 
+address, NOUN 
+bateman@unc.edu, PROPN 
+T.A., PROPN 
+Bateman, PROPN 
+
+, SPACE 
+1These, ADJ 
+authors, NOUN 
+contributed, VERB 
+equally, ADV 
+work, NOUN 
+
+, SPACE 
+8756, NUM 
+3282/$, NUM 
+matter, NOUN 
+©, ADJ 
+2012, NUM 
+Elsevier, PROPN 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+doi:10.1016, PROPN 
+j.bone.2012.07.001, PROPN 
+
+, SPACE 
+Contents, PROPN 
+lists, NOUN 
+available, ADJ 
+SciVerse, PROPN 
+ScienceDirect, PROPN 
+
+, SPACE 
+Bone, PROPN 
+
+, SPACE 
+journal, NOUN 
+homepage, NOUN 
+www.elsevier.com/locate/bone, NUM 
+
+, SPACE 
+2, NUM 
+Gy, PROPN 
+equal, ADJ 
+single, ADJ 
+radiation, NOUN 
+fraction, NOUN 
+commonly, ADV 
+administered, VERB 
+
+, SPACE 
+patient, NOUN 
+undergoing, VERB 
+radiotherapy, NOUN 
+solid, ADJ 
+tumor, NOUN 
+12, NUM 
+
+, SPACE 
+spacecraft, NOUN 
+shielding, NOUN 
+effectively, ADV 
+reduce, VERB 
+radiation, NOUN 
+exposure, NOUN 
+
+, SPACE 
+warning, NOUN 
+provided, VERB 
+current, ADJ 
+surveillance, NOUN 
+mechanisms, NOUN 
+
+, SPACE 
+allow, VERB 
+complete, ADJ 
+protection, NOUN 
+extravehicular, ADJ 
+activities, NOUN 
+13, NUM 
+
+, SPACE 
+astronauts, NOUN 
+sheltered, VERB 
+mass, NOUN 
+5, NUM 
+g, NOUN 
+cm2(e.g, NOUN 
+
+, SPACE 
+1.9, NUM 
+cm, NOUN 
+aluminum, NOUN 
+5, NUM 
+cm, NOUN 
+water, NOUN 
+severe, ADJ 
+SPEs, NOUN 
+ob, NOUN 
+served, VERB 
+August, PROPN 
+1972, NUM 
+October, PROPN 
+1989, NUM 
+deliver, VERB 
+body, NOUN 
+
+, SPACE 
+radiation, NOUN 
+doses, NOUN 
+approaching, VERB 
+2, NUM 
+Gy, PROPN 
+14, NUM 
+Given, VERB 
+duration, NOUN 
+future, ADJ 
+
+, SPACE 
+missions, NOUN 
+planned, VERB 
+NASA, PROPN 
+nearby, ADJ 
+asteroids, NOUN 
+Mars, PROPN 
+15],a, NUM 
+
+, SPACE 
+dose, NOUN 
+approximately, ADV 
+1, NUM 
+Gy, NOUN 
+proton, NOUN 
+radiation, NOUN 
+realistic, ADJ 
+possibility, NOUN 
+
+, SPACE 
+develop, VERB 
+mission, NOUN 
+safety, NOUN 
+protocols, NOUN 
+16–18, NUM 
+
+, SPACE 
+Previous, ADJ 
+studies, NOUN 
+laboratory, NOUN 
+demonstrated, VERB 
+signi, NOUN 
+ﬁcant, NOUN 
+
+, SPACE 
+long, ADJ 
+term, NOUN 
+loss, NOUN 
+trabecular, ADJ 
+microstructure, NOUN 
+multiple, ADJ 
+sites, NOUN 
+following, VERB 
+
+, SPACE 
+doses, NOUN 
+low, ADJ 
+1, NUM 
+Gy, NOUN 
+protons, NOUN 
+19, NUM 
+2, NUM 
+Gy, PROPN 
+X, NOUN 
+rays, NOUN 
+20, NUM 
+
+, SPACE 
+bone, NOUN 
+loss, NOUN 
+associated, VERB 
+unloading, NOUN 
+character-, ADJ 
+
+, SPACE 
+ized, VERB 
+effects, NOUN 
+radiation, NOUN 
+skeletal, ADJ 
+system, NOUN 
+
+, SPACE 
+deﬁned, VERB 
+Furthermore, ADV 
+published, VERB 
+reports, NOUN 
+detailing, VERB 
+
+, SPACE 
+effects, NOUN 
+radiation, NOUN 
+exposure, NOUN 
+unloading, NOUN 
+bone, NOUN 
+
+, SPACE 
+emerging, VERB 
+evidence, NOUN 
+suggests, VERB 
+factors, NOUN 
+interact, VERB 
+re-, ADV 
+
+, SPACE 
+sult, NOUN 
+increased, VERB 
+bone, NOUN 
+loss, NOUN 
+study, NOUN 
+Yumoto, PROPN 
+colleagues, NOUN 
+irradi-, PROPN 
+
+, SPACE 
+ation, NOUN 
+skeletally, ADV 
+mature, ADJ 
+mice, NOUN 
+following, VERB 
+short, ADJ 
+period, NOUN 
+HLS, PROPN 
+
+, SPACE 
+shown, VERB 
+result, VERB 
+greater, ADJ 
+suppression, NOUN 
+osteoblast, NOUN 
+mediated, VERB 
+bone, NOUN 
+for-, NOUN 
+
+, SPACE 
+mation, NOUN 
+treatment, NOUN 
+21, NUM 
+Finite, ADJ 
+element, NOUN 
+computer, NOUN 
+
+, SPACE 
+modeling, NOUN 
+predicted, VERB 
+increased, VERB 
+loss, NOUN 
+skeletal, ADJ 
+integrity, NOUN 
+strength, NOUN 
+
+, SPACE 
+lumbar, ADJ 
+vertebrae, NOUN 
+irradiated, VERB 
+animals, NOUN 
+subjected, VERB 
+musculoskeletal, ADJ 
+
+, SPACE 
+disuse, NOUN 
+22, NUM 
+understanding, NOUN 
+combination, NOUN 
+factors, NOUN 
+
+, SPACE 
+affects, VERB 
+skeletal, ADJ 
+system, NOUN 
+necessary, ADJ 
+facilitate, VERB 
+appropriate, ADJ 
+planning, NOUN 
+
+, SPACE 
+long, ADJ 
+duration, NOUN 
+missions, NOUN 
+addition, NOUN 
+development, NOUN 
+effective, ADJ 
+
+, SPACE 
+countermeasures, NOUN 
+require, VERB 
+understanding, NOUN 
+factors, NOUN 
+
+, SPACE 
+meaningful, ADJ 
+contributions, NOUN 
+skeletal, ADJ 
+deterioration, NOUN 
+space, NOUN 
+pursuit, NOUN 
+
+, SPACE 
+end, NOUN 
+present, ADJ 
+study, NOUN 
+aims, VERB 
+utilize, VERB 
+proton, NOUN 
+irradiation, NOUN 
+followed, VERB 
+
+, SPACE 
+unloading, VERB 
+HLS, PROPN 
+investigate, VERB 
+combined, VERB 
+effects, NOUN 
+
+, SPACE 
+modeled, VERB 
+aspects, NOUN 
+space, NOUN 
+ﬂight, PROPN 
+environment, NOUN 
+Protons, NOUN 
+low, ADJ 
+
+, SPACE 
+linear, ADJ 
+energy, NOUN 
+transfer, NOUN 
+LET, PROPN 
+type, NOUN 
+radiation, NOUN 
+meaning, VERB 
+tend, VERB 
+
+, SPACE 
+penetrate, VERB 
+deeper, ADV 
+tissue, VERB 
+deposit, VERB 
+energy, NOUN 
+compared, VERB 
+
+, SPACE 
+high, ADJ 
+LET, PROPN 
+types, NOUN 
+radiation, NOUN 
+larger, ADJ 
+carbon, NOUN 
+iron, NOUN 
+particles, NOUN 
+
+, SPACE 
+12,23, X 
+Previous, ADJ 
+studies, NOUN 
+investigated, VERB 
+effect, NOUN 
+low, ADJ 
+LET, PROPN 
+
+, SPACE 
+radiation, NOUN 
+unloading, NOUN 
+22, NUM 
+hypothesized, VERB 
+combination, NOUN 
+
+, SPACE 
+radiation, NOUN 
+unloading, NOUN 
+lead, VERB 
+greater, ADJ 
+bone, NOUN 
+loss, NOUN 
+eitherchallenge, VERB 
+separately, ADV 
+
+, SPACE 
+2, X 
+Materials, NOUN 
+methods, NOUN 
+
+, SPACE 
+2.1, NUM 
+Animals, NOUN 
+
+, SPACE 
+Female, PROPN 
+C57BL/6, PROPN 
+mice, NOUN 
+Taconic, NOUN 
+Farms, PROPN 
+Germantown, PROPN 
+NY, PROPN 
+
+, SPACE 
+shipped, VERB 
+Loma, PROPN 
+Linda, PROPN 
+University, PROPN 
+Medical, PROPN 
+Center, PROPN 
+Loma, PROPN 
+Linda, PROPN 
+
+, SPACE 
+ﬁfteen, PROPN 
+weeks, NOUN 
+age, NOUN 
+acclimatized, VERB 
+1, NUM 
+week, NOUN 
+stan-, ADJ 
+
+, SPACE 
+dard, ADJ 
+vivarium, NOUN 
+conditions, NOUN 
+Animals, NOUN 
+grouped, VERB 
+mass, NOUN 
+5, NUM 
+groups, NOUN 
+
+, SPACE 
+n=15, PROPN 
+17, NUM 
+group, NOUN 
+detailed, ADJ 
+description, NOUN 
+treatment, NOUN 
+groups, NOUN 
+
+, SPACE 
+presented, VERB 
+Table, PROPN 
+1, NUM 
+mice, NOUN 
+provided, VERB 
+standard, ADJ 
+laborato-, PROPN 
+
+, SPACE 
+ry, ADP 
+rodent, ADJ 
+chow, NOUN 
+water, NOUN 
+ad, NOUN 
+libitum, NOUN 
+animal, NOUN 
+procedures, NOUN 
+ap-, ADV 
+
+, SPACE 
+proved, VERB 
+Institutional, PROPN 
+Animal, PROPN 
+Care, PROPN 
+Use, PROPN 
+Committee, PROPN 
+
+, SPACE 
+Loma, PROPN 
+Linda, PROPN 
+University, PROPN 
+Clemson, PROPN 
+University, PROPN 
+Clemson, PROPN 
+SC).2.2, NOUN 
+Irradiation, NOUN 
+
+, SPACE 
+groups, NOUN 
+animals, NOUN 
+irradiated, VERB 
+IRR, PROPN 
+remaining, VERB 
+
+, SPACE 
+experimental, ADJ 
+animals, NOUN 
+subjected, VERB 
+sham, ADJ 
+irradiation, NOUN 
+procedure, NOUN 
+
+, SPACE 
+i.e., X 
+non, ADJ 
+irradiated, ADJ 
+controls, NOUN 
+NR, PROPN 
+separate, ADJ 
+group, NOUN 
+baseline, ADJ 
+mice, NOUN 
+
+, SPACE 
+killed, VERB 
+start, NOUN 
+study, NOUN 
+subjected, VERB 
+
+, SPACE 
+procedures, NOUN 
+Immediately, ADV 
+prior, ADV 
+irradiation, NOUN 
+mouse(test, PROPN 
+sham, PROPN 
+irradiated, VERB 
+placed, VERB 
+individually, ADV 
+rectangular, ADJ 
+
+, SPACE 
+plastic, NOUN 
+box, NOUN 
+30×30×85, NUM 
+mm, NOUN 
+air, NOUN 
+holes, NOUN 
+described, VERB 
+previously, ADV 
+
+, SPACE 
+24, NUM 
+maximum, NOUN 
+6, NUM 
+mice, NOUN 
+irradiated, VERB 
+simultaneously, ADV 
+
+, SPACE 
+20×20, NOUN 
+cm, NOUN 
+ﬁeld, ADJ 
+body, NOUN 
+irradiation, NOUN 
+performed, VERB 
+
+, SPACE 
+250, NUM 
+MeV, PROPN 
+protons, NOUN 
+synchrotron, NOUN 
+accelerator, NOUN 
+housed, VERB 
+
+, SPACE 
+Loma, PROPN 
+Linda, PROPN 
+University, PROPN 
+Medical, PROPN 
+Center, PROPN 
+described, VERB 
+previously, ADV 
+
+, SPACE 
+24,25, NUM 
+Mice, NOUN 
+irradiated, VERB 
+entrance, NOUN 
+region, NOUN 
+Bragg, PROPN 
+
+, SPACE 
+curve, NOUN 
+receiving, VERB 
+total, ADJ 
+dose, NOUN 
+1, NUM 
+Gy, PROPN 
+approximately, ADV 
+100, NUM 
+s., PROPN 
+Mini-, PROPN 
+
+, SPACE 
+mizing, VERB 
+time, NOUN 
+radiation, NOUN 
+unloading, NOUN 
+consideration, NOUN 
+
+, SPACE 
+selecting, VERB 
+dose, NOUN 
+rate, NOUN 
+access, NOUN 
+synchrotron, NOUN 
+facility, NOUN 
+
+, SPACE 
+100, NUM 
+s, NOUN 
+compromise, NOUN 
+allowing, VERB 
+ef, PROPN 
+ﬁcient, NOUN 
+delivery, NOUN 
+radiation, NOUN 
+
+, SPACE 
+mice, NOUN 
+reasonable, ADJ 
+period, NOUN 
+time, NOUN 
+Mice, NOUN 
+irradiated, VERB 
+
+, SPACE 
+400×400, NUM 
+mm, NOUN 
+
+, SPACE 
+2polystyrene, NUM 
+phantom, NOUN 
+order, NOUN 
+harden, VERB 
+
+, SPACE 
+proton, PROPN 
+beam, NOUN 
+i.e., X 
+remove, VERB 
+low, ADJ 
+energy, NOUN 
+particles, NOUN 
+allow, VERB 
+uniform, NOUN 
+
+, SPACE 
+dose, NOUN 
+administered, VERB 
+entire, ADJ 
+mouse, NOUN 
+Dose, ADJ 
+calibration, NOUN 
+
+, SPACE 
+performed, VERB 
+Markus, PROPN 
+parallel, ADJ 
+plate, NOUN 
+ionization, NOUN 
+chamber, NOUN 
+
+, SPACE 
+National, PROPN 
+Institute, PROPN 
+Standards, PROPN 
+Technology, PROPN 
+traceable, ADJ 
+calibra-, ADJ 
+
+, SPACE 
+tion, NOUN 
+method, NOUN 
+International, PROPN 
+Commission, PROPN 
+Radiation, PROPN 
+Units, PROPN 
+
+, SPACE 
+Measurements, PROPN 
+Report, PROPN 
+59, NUM 
+26]was, NOUN 
+convert, VERB 
+ionization, NOUN 
+signal, NOUN 
+
+, SPACE 
+dose, VERB 
+water, NOUN 
+sham, NOUN 
+treatment, NOUN 
+involved, VERB 
+identical, ADJ 
+handling, NOUN 
+pro-, NOUN 
+
+, SPACE 
+cedures, NOUN 
+timing, VERB 
+irradiation, NOUN 
+group, NOUN 
+beam, NOUN 
+
+, SPACE 
+turned, VERB 
+mice, NOUN 
+subjected, VERB 
+irradiation, NOUN 
+sham, PROPN 
+pro-, PROPN 
+
+, SPACE 
+cedure, NOUN 
+observed, VERB 
+resumed, VERB 
+normal, ADJ 
+posture, NOUN 
+
+, SPACE 
+behavior, NOUN 
+mice, NOUN 
+shipped, VERB 
+overnight, ADV 
+Clemson, PROPN 
+University, PROPN 
+
+, SPACE 
+immediately, ADV 
+subjected, VERB 
+hindlimb, NOUN 
+unloading, NOUN 
+described, VERB 
+
+, SPACE 
+approximately, ADV 
+30, NUM 
+33, NUM 
+h, NOUN 
+irradiation, NOUN 
+day, NOUN 
+arrival, NOUN 
+
+, SPACE 
+baseline, NOUN 
+control, PROPN 
+group, PROPN 
+BSL, PROPN 
+killed, VERB 
+tissues, NOUN 
+collected, VERB 
+
+, SPACE 
+Study, NOUN 
+endpoint, NOUN 
+section, NOUN 
+details, NOUN 
+
+, SPACE 
+2.3, X 
+Hindlimb, NOUN 
+suspension, NOUN 
+
+, SPACE 
+day, NOUN 
+irradiation, NOUN 
+sham, ADJ 
+procedure, NOUN 
+half, NOUN 
+
+, SPACE 
+IRR, PROPN 
+mice, NOUN 
+half, NOUN 
+NR, PROPN 
+mice, NOUN 
+subject, ADJ 
+hindlimb, NOUN 
+sus-, ADJ 
+
+, SPACE 
+pension, NOUN 
+HLS, PROPN 
+remaining, VERB 
+mice, NOUN 
+kept, VERB 
+normally, ADV 
+loaded, VERB 
+
+, SPACE 
+controls, NOUN 
+LC, PROPN 
+allocation, NOUN 
+produced, VERB 
+following, ADJ 
+ﬁve, NOUN 
+groups, NOUN 
+
+, SPACE 
+baseline, NOUN 
+BSL, PROPN 
+non, ADJ 
+irradiated, ADJ 
+normally, ADV 
+loaded, VERB 
+NR+LC, PROPN 
+irradiated, VERB 
+
+, SPACE 
+normally, ADV 
+loaded, VERB 
+IRR+LC, PROPN 
+non, ADJ 
+irradiated, ADJ 
+hindlimb, NOUN 
+suspen-, ADJ 
+
+, SPACE 
+sion, NOUN 
+NR+HLS, NUM 
+irradiated, VERB 
+hindlimb, VERB 
+suspension, NOUN 
+IRR+HLS, PROPN 
+
+, SPACE 
+Table, NOUN 
+1, NUM 
+
+, SPACE 
+HLS, PROPN 
+performed, VERB 
+modi, ADJ 
+ﬁcation, NOUN 
+Morey, PROPN 
+Holton, PROPN 
+
+, SPACE 
+method, NOUN 
+described, VERB 
+previously, ADV 
+2, NUM 
+Mice, NOUN 
+suspended, VERB 
+ap-, NOUN 
+
+, SPACE 
+proximately, ADV 
+30, NUM 
+°, NUM 
+angle, NOUN 
+custom, ADV 
+built, VERB 
+tail, NOUN 
+harness, NOUN 
+consisting, VERB 
+
+, SPACE 
+3×25×30, NUM 
+mm, PROPN 
+section, NOUN 
+Akton, PROPN 
+®, NOUN 
+viscoelastic, ADJ 
+polymer, NOUN 
+padding, NOUN 
+
+, SPACE 
+Action, PROPN 
+Products, PROPN 
+Hagerstown, PROPN 
+MD, PROPN 
+surrounded, VERB 
+30, NUM 
+mm, NOUN 
+section, NOUN 
+
+, SPACE 
+Tygon, PROPN 
+R-3603, NOUN 
+plastic, NOUN 
+tubing, NOUN 
+8, NUM 
+mm, NUM 
+internal, ADJ 
+diameter, NOUN 
+
+, SPACE 
+Saint, PROPN 
+Gobain, PROPN 
+Performance, PROPN 
+Plastics, PROPN 
+Northboro, PROPN 
+Massachusetts, PROPN 
+
+, SPACE 
+tail, NOUN 
+harness, NOUN 
+attached, VERB 
+steel, NOUN 
+wire, NOUN 
+swivel, NOUN 
+clip, NOUN 
+mounted, VERB 
+
+, SPACE 
+guide, NOUN 
+wire, NOUN 
+running, VERB 
+length, NOUN 
+cage, NOUN 
+setup, NOUN 
+mice, NOUN 
+
+, SPACE 
+able, ADJ 
+access, VERB 
+areas, NOUN 
+cage, NOUN 
+
+, SPACE 
+2.4, X 
+Study, NOUN 
+endpoint, NOUN 
+
+, SPACE 
+end, NOUN 
+week, NOUN 
+experimental, ADJ 
+period, NOUN 
+mice, NOUN 
+anes-, ADV 
+
+, SPACE 
+thetized, VERB 
+inhalation, NOUN 
+iso, PROPN 
+ﬂurane, PROPN 
+2, NUM 
+killed, VERB 
+exsanguination, NOUN 
+
+, SPACE 
+cardiac, ADJ 
+puncture, NOUN 
+followed, VERB 
+cervical, ADJ 
+dislocation, NOUN 
+Hindlimbs, NOUN 
+re-, ADV 
+
+, SPACE 
+moved, VERB 
+tibias, NOUN 
+femurs, NOUN 
+cleaned, VERB 
+nonosseous, ADJ 
+tissue, NOUN 
+
+, SPACE 
+left, ADJ 
+femur, NOUN 
+animal, NOUN 
+required, VERB 
+mechanical, ADJ 
+testing, NOUN 
+com-, NOUN 
+
+, SPACE 
+positional, ADJ 
+analysis, NOUN 
+allowed, VERB 
+air, NOUN 
+dry, ADJ 
+48, NUM 
+h, NOUN 
+27].T, NUM 
+h, NOUN 
+er, INTJ 
+g, PROPN 
+h, INTJ 
+tf, INTJ 
+e, PROPN 
+m, PROPN 
+u, PROPN 
+rTable, PROPN 
+1, NUM 
+
+, SPACE 
+Study, PROPN 
+design, NOUN 
+combining, VERB 
+irradiation, NOUN 
+hindlimb, NOUN 
+suspension, NOUN 
+
+, SPACE 
+Non, PROPN 
+irradiated, ADJ 
+NR, PROPN 
+Irradiated, PROPN 
+IRR, PROPN 
+
+, SPACE 
+Baseline, PROPN 
+BSL, PROPN 
+BSL, PROPN 
+n=16, PROPN 
+
+, SPACE 
+Normally, ADV 
+loaded, VERB 
+LC, PROPN 
+NR+LC, PROPN 
+n=17, PROPN 
+IRR+LC, PROPN 
+n=17)Hindlimb, PROPN 
+suspended, VERB 
+HLS, PROPN 
+NR+HLS, NUM 
+n=17, PROPN 
+IRR+HLS, PROPN 
+n=15)757, PROPN 
+S.A., PROPN 
+Lloyd, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+756, NUM 
+764, NUM 
+
+, SPACE 
+tibia, PROPN 
+ﬁxed, VERB 
+10, NUM 
+neutral, ADJ 
+buffered, VERB 
+formalin, NOUN 
+solution, NOUN 
+48, NUM 
+h, NOUN 
+
+, SPACE 
+rinsed, VERB 
+distilled, ADJ 
+water, NOUN 
+stored, VERB 
+70, NUM 
+ethanol, NOUN 
+
+, SPACE 
+2.5, X 
+Serum, PROPN 
+analyses, VERB 
+
+, SPACE 
+sacri, ADJ 
+ﬁce, PROPN 
+samples, NOUN 
+blood, NOUN 
+collected, VERB 
+cardiac, ADJ 
+
+, SPACE 
+puncture, NOUN 
+Blood, NOUN 
+allowed, VERB 
+clot, VERB 
+30, NUM 
+min, NOUN 
+Serum, PROPN 
+sep-, SYM 
+
+, SPACE 
+arated, VERB 
+centrifugation, NOUN 
+1500, NUM 
+gfor, ADP 
+10, NUM 
+min, NOUN 
+Markers, PROPN 
+bone, NOUN 
+turn-, NUM 
+
+, SPACE 
+present, ADJ 
+serum, NOUN 
+measured, VERB 
+enzyme, NOUN 
+linked, VERB 
+
+, SPACE 
+immunosorbent, NOUN 
+assay, NOUN 
+ELISA, PROPN 
+kits, NOUN 
+bone, NOUN 
+formation, NOUN 
+marker, NOUN 
+
+, SPACE 
+osteocalcin, PROPN 
+BT-470, PROPN 
+Biomedical, PROPN 
+Technologies, PROPN 
+Inc., PROPN 
+Stoughton, PROPN 
+MA, PROPN 
+
+, SPACE 
+bone, NOUN 
+resorption, NOUN 
+marker, NOUN 
+tartrate, NOUN 
+resistant, ADJ 
+acid, NOUN 
+phosphatase, NOUN 
+
+, SPACE 
+5b, PROPN 
+TRAP5b, NUM 
+SB, PROPN 
+TR103, PROPN 
+Immunodiagnostic, PROPN 
+Systems, PROPN 
+Inc., PROPN 
+Fountain, PROPN 
+
+, SPACE 
+Hills, PROPN 
+AZ, PROPN 
+ELISA, PROPN 
+procedures, NOUN 
+performed, VERB 
+according, VERB 
+
+, SPACE 
+manufacturers, NOUN 
+protocols, NOUN 
+
+, SPACE 
+2.6, X 
+Bone, NOUN 
+microarchitectural, ADJ 
+analyses, NOUN 
+
+, SPACE 
+Cortical, ADJ 
+trabecular, ADJ 
+bone, NOUN 
+architecture, NOUN 
+analyzed, VERB 
+
+, SPACE 
+microcomputed, VERB 
+tomography, NOUN 
+μCT80, PROPN 
+Scanco, PROPN 
+Medical, PROPN 
+Brüttisellen, PROPN 
+
+, SPACE 
+Switzerland, PROPN 
+isotropic, ADJ 
+voxel, NOUN 
+size, NOUN 
+10, NUM 
+μm, NOUN 
+Trabecular, ADJ 
+
+, SPACE 
+microarchitecture, NOUN 
+scanned, VERB 
+immediately, ADV 
+distal, ADJ 
+growth, NOUN 
+
+, SPACE 
+plate, NOUN 
+proximal, ADJ 
+tibia, NOUN 
+immediately, ADV 
+proximal, ADJ 
+
+, SPACE 
+growth, NOUN 
+plate, NOUN 
+distal, ADJ 
+femur, NOUN 
+Analysis, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+performed, VERB 
+100, NUM 
+slices, NOUN 
+1.0, NUM 
+mm, NOUN 
+total, NOUN 
+producing, VERB 
+images, NOUN 
+analy-, NOUN 
+
+, SPACE 
+sis, NOUN 
+Bone, NOUN 
+morphometric, ADJ 
+parameters, NOUN 
+quanti, PROPN 
+ﬁed, PROPN 
+
+, SPACE 
+Scanco, PROPN 
+software, NOUN 
+Trabecular, ADJ 
+bone, NOUN 
+parameters, NOUN 
+included, VERB 
+trabecular, ADJ 
+
+, SPACE 
+bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+BV, PROPN 
+TV, PROPN 
+connectivity, NOUN 
+density, NOUN 
+Conn., PROPN 
+D, PROPN 
+trabec-, PRON 
+
+, SPACE 
+ular, ADJ 
+number, NOUN 
+Tb, PROPN 
+N, PROPN 
+trabecular, ADJ 
+separation, NOUN 
+Tb, PROPN 
+Sp, PROPN 
+structural, ADJ 
+
+, SPACE 
+model, NOUN 
+index, NOUN 
+SMI, PROPN 
+Cortical, ADJ 
+analysis, NOUN 
+performed, VERB 
+immediately, ADV 
+dis-, ADJ 
+
+, SPACE 
+tal, NOUN 
+region, NOUN 
+trabecular, ADJ 
+analysis, NOUN 
+tibia, NOUN 
+immediately, ADV 
+
+, SPACE 
+proximal, ADJ 
+region, NOUN 
+trabecular, ADJ 
+analysis, NOUN 
+femur, NOUN 
+30, NUM 
+
+, SPACE 
+slices, NOUN 
+0.3, NUM 
+mm, NUM 
+selected, VERB 
+site, NOUN 
+Cortical, ADJ 
+bone, NOUN 
+volume, NOUN 
+Ct, PROPN 
+BV, PROPN 
+
+, SPACE 
+cortical, ADJ 
+total, ADJ 
+volume, NOUN 
+Ct, PROPN 
+TV, NOUN 
+cortical, ADJ 
+porosity, NOUN 
+Ct, PROPN 
+Po, PROPN 
+polar, ADJ 
+
+, SPACE 
+moment, NOUN 
+inertia, NOUN 
+pMOI, PROPN 
+calculated, VERB 
+sections, NOUN 
+
+, SPACE 
+2.7, NUM 
+Mechanical, ADJ 
+testing, NOUN 
+
+, SPACE 
+order, NOUN 
+simulate, NOUN 
+vivo, ADJ 
+properties, NOUN 
+air, NOUN 
+dried, VERB 
+left, ADJ 
+femurs, NOUN 
+
+, SPACE 
+rehydrated, VERB 
+phosphate, NOUN 
+buffered, VERB 
+saline, NOUN 
+90, NUM 
+min, NOUN 
+prior, ADV 
+evalua-, PROPN 
+
+, SPACE 
+tion[27, PROPN 
+point, NOUN 
+bending, VERB 
+tests, NOUN 
+performed, VERB 
+Instron, PROPN 
+
+, SPACE 
+5582, NUM 
+BlueHill, PROPN 
+2, NUM 
+software, NOUN 
+Instron, PROPN 
+Corp., PROPN 
+Norwood, PROPN 
+MA, PROPN 
+Femurs, NOUN 
+
+, SPACE 
+tested, VERB 
+failure, NOUN 
+9, NUM 
+mm, NOUN 
+span, NOUN 
+length, NOUN 
+de, X 
+ﬂection, NOUN 
+rate, NOUN 
+
+, SPACE 
+5, NUM 
+mm, PROPN 
+min, NOUN 
+bones, NOUN 
+tested, VERB 
+orientation, NOUN 
+
+, SPACE 
+single, ADJ 
+point, NOUN 
+load, NOUN 
+applied, VERB 
+mid, NOUN 
+diaphysis, NOUN 
+posterior, ADJ 
+surface, NOUN 
+
+, SPACE 
+maximal, ADJ 
+force, NOUN 
+N, PROPN 
+de, PROPN 
+ﬂection, NOUN 
+mm, PROPN 
+measured, VERB 
+
+, SPACE 
+mechanically, ADV 
+tested, VERB 
+bones, NOUN 
+properties, NOUN 
+deter-, X 
+
+, SPACE 
+mined, VERB 
+elastic, ADJ 
+limit, NOUN 
+P, NOUN 
+e, NOUN 
+δe, PROPN 
+failure, NOUN 
+point, NOUN 
+0.2, NUM 
+offset, NOUN 
+
+, SPACE 
+method, NOUN 
+quantify, VERB 
+yield, NOUN 
+properties, NOUN 
+ability, NOUN 
+femur, NOUN 
+
+, SPACE 
+resist, VERB 
+displacement, NOUN 
+i.e., X 
+stiffness, NOUN 
+N, PROPN 
+mm, PROPN 
+calculated, VERB 
+
+, SPACE 
+elastic, ADJ 
+force, NOUN 
+elastic, ADJ 
+de, NOUN 
+ﬂection, NOUN 
+P, NOUN 
+e, NOUN 
+δe, PROPN 
+
+, SPACE 
+2.8, X 
+Bone, NOUN 
+mineral, NOUN 
+composition, NOUN 
+
+, SPACE 
+Mineral, NOUN 
+content, NOUN 
+analysis, NOUN 
+performed, VERB 
+femurs, NOUN 
+fractured, VERB 
+
+, SPACE 
+mechanical, ADJ 
+testing, NOUN 
+Prior, ADV 
+analysis, NOUN 
+enlarged, ADJ 
+ends, VERB 
+
+, SPACE 
+femurs, NOUN 
+epiphysis+metaphysis, PROPN 
+separated, VERB 
+distal, ADJ 
+
+, SPACE 
+proximal, ADJ 
+metaphyses, NOUN 
+join, VERB 
+diaphysis, NOUN 
+Mineral, NOUN 
+content, NOUN 
+data, NOUN 
+
+, SPACE 
+obtained, VERB 
+combined, VERB 
+bone, NOUN 
+ends, NOUN 
+separately, ADV 
+
+, SPACE 
+diaphysis, NOUN 
+properly, ADV 
+calibrated, VERB 
+analytical, ADJ 
+scale, NOUN 
+Mettler, PROPN 
+Toledo, PROPN 
+
+, SPACE 
+UMT2, PROPN 
+Columbus, PROPN 
+OH, PROPN 
+measurements, NOUN 
+Dry, ADJ 
+mass, PROPN 
+
+, SPACE 
+DryM, PROPN 
+measured, VERB 
+heating, VERB 
+bones, NOUN 
+105, NUM 
+°, NOUN 
+C, NOUN 
+24, NUM 
+h., NOUN 
+Min-, PROPN 
+
+, SPACE 
+eral, ADJ 
+mass, PROPN 
+MinM, PROPN 
+measured, VERB 
+bones, NOUN 
+heated, VERB 
+
+, SPACE 
+800, NUM 
+°, NUM 
+C, NOUN 
+additional, ADJ 
+24, NUM 
+h., NOUN 
+Percent, PROPN 
+mineralization, NOUN 
+calculated, VERB 
+
+, SPACE 
+Min=(MinM)/(DryM, NOUN 
+100.2.9, NUM 
+Histology, NOUN 
+
+, SPACE 
+order, NOUN 
+examine, VERB 
+post, ADJ 
+irradiation, ADJ 
+activity, NOUN 
+bone, NOUN 
+resorbing, VERB 
+
+, SPACE 
+osteoclasts, NOUN 
+right, ADJ 
+tibias, VERB 
+subset, NOUN 
+mice, NOUN 
+n=6, PROPN 
+group, NOUN 
+se-, ADV 
+
+, SPACE 
+lected, VERB 
+histological, ADJ 
+analyses, NOUN 
+ﬁxation, NOUN 
+tibias, NOUN 
+decalci, NOUN 
+ﬁed, PROPN 
+
+, SPACE 
+weak, ADJ 
+formic, ADJ 
+acid, NOUN 
+solution, NOUN 
+Immunocal, ADJ 
+™, NOUN 
+Decal, PROPN 
+Chemical, PROPN 
+Corpo-, PROPN 
+
+, SPACE 
+ration, NOUN 
+Tallman, PROPN 
+NY, PROPN 
+2, NUM 
+days, NOUN 
+Radiographs, NOUN 
+assessed, VERB 
+earliesttime, ADJ 
+point, NOUN 
+complete, ADJ 
+decalci, NOUN 
+ﬁcation, NOUN 
+Following, VERB 
+tibias, PROPN 
+em-, NOUN 
+
+, SPACE 
+bedded, VERB 
+glycol, NOUN 
+methacrylate, NOUN 
+resin, NOUN 
+Immunobed, PROPN 
+™, NOUN 
+Polysciences, PROPN 
+
+, SPACE 
+Warrington, PROPN 
+PA, PROPN 
+cut, VERB 
+sagittal, ADJ 
+sections, NOUN 
+thickness, NOUN 
+
+, SPACE 
+1.5μm, PROPN 
+Osteoclast, ADJ 
+presence, NOUN 
+determined, VERB 
+TRAP, PROPN 
+staining, NOUN 
+
+, SPACE 
+slides, NOUN 
+commercially, ADV 
+available, ADJ 
+kit, NOUN 
+Sigma, PROPN 
+St., PROPN 
+Louis, PROPN 
+MO, PROPN 
+
+, SPACE 
+counterstaining, VERB 
+hematoxylin, NOUN 
+Sigma, PROPN 
+TRAP, PROPN 
+positive, ADJ 
+
+, SPACE 
+cells, NOUN 
+nuclei, NOUN 
+counted, VERB 
+osteoclasts, NOUN 
+sec-, NOUN 
+
+, SPACE 
+tions, NOUN 
+bone, NOUN 
+analyzed, VERB 
+
+, SPACE 
+Analyses, NOUN 
+performed, VERB 
+SigmaScan, PROPN 
+Pro, PROPN 
+Software, PROPN 
+Systat, PROPN 
+
+, SPACE 
+Software, PROPN 
+Inc., PROPN 
+Richmond, PROPN 
+evaluator, NOUN 
+blinded, VERB 
+specimen, NOUN 
+
+, SPACE 
+origin, NOUN 
+group, NOUN 
+assignment, NOUN 
+evaluation, NOUN 
+analysis, NOUN 
+
+, SPACE 
+complete, ADJ 
+Histomorphometric, ADJ 
+evaluation, NOUN 
+performed, VERB 
+captured, VERB 
+
+, SPACE 
+micrographs, NOUN 
+400×, NOUN 
+metaphysis, NOUN 
+starting, VERB 
+approximately, ADV 
+
+, SPACE 
+0.25, NUM 
+mm, NOUN 
+distal, NOUN 
+growth, NOUN 
+plate, NOUN 
+order, NOUN 
+exclude, VERB 
+primary, ADJ 
+
+, SPACE 
+spongiosa, NOUN 
+extending, VERB 
+0.5, NUM 
+mm, NOUN 
+Bone, NOUN 
+histomorphometric, ADJ 
+
+, SPACE 
+parameters, NOUN 
+proximal, ADJ 
+metaphysis, NOUN 
+tibia, NOUN 
+measured, VERB 
+
+, SPACE 
+n, NOUN 
+dr, PROPN 
+e, PROPN 
+p, PROPN 
+o, PROPN 
+r, NOUN 
+t, PROPN 
+e, NOUN 
+di, PROPN 
+nu, PROPN 
+n, CCONJ 
+t, VERB 
+ss, NOUN 
+p, PROPN 
+e, PROPN 
+c, PROPN 
+ﬁed, PROPN 
+American, PROPN 
+Society, PROPN 
+Bone, PROPN 
+
+, SPACE 
+Mineral, PROPN 
+Research, PROPN 
+Histomophometry, PROPN 
+Nomenclature, PROPN 
+Committee, PROPN 
+
+, SPACE 
+28, NUM 
+surface, NOUN 
+measurements, NOUN 
+quanti, PROPN 
+ﬁed, PROPN 
+relative, NOUN 
+total, ADJ 
+bone, NOUN 
+
+, SPACE 
+surface, NOUN 
+BS, PROPN 
+Histological, ADJ 
+measurem, ADJ 
+ents, NOUN 
+included, VERB 
+osteoclast, ADJ 
+surface, NOUN 
+
+, SPACE 
+Oc, PROPN 
+S, PROPN 
+BS, PROPN 
+eroded, VERB 
+surface, NOUN 
+inclusion, NOUN 
+osteoclast, ADJ 
+surface, NOUN 
+
+, SPACE 
+surface, NOUN 
+covered, VERB 
+Howship, PROPN 
+lacuna, PROPN 
+e, NOUN 
+plus, CCONJ 
+osteoclasts, NOUN 
+ES(Oc+)/BS, X 
+
+, SPACE 
+eroded, VERB 
+surface, NOUN 
+exclusion, NOUN 
+osteoclast, ADJ 
+surface, NOUN 
+surface, NOUN 
+
+, SPACE 
+covered, VERB 
+Howship, PROPN 
+lacunae, NOUN 
+ES(Oc, NOUN 
+−)/BS, PROPN 
+number, NOUN 
+osteo-, ADJ 
+
+, SPACE 
+clasts, NOUN 
+N.Oc, PROPN 
+region, NOUN 
+interest, NOUN 
+trabeculae, NOUN 
+second-, NOUN 
+
+, SPACE 
+ary, ADJ 
+spongiosa, NOUN 
+determined, ADJ 
+N.Oc, PROPN 
+BS, PROPN 
+mm, PROPN 
+
+, SPACE 
+−1, NOUN 
+
+, SPACE 
+2.10, NUM 
+Statistics, NOUN 
+
+, SPACE 
+Statistical, ADJ 
+analysis, NOUN 
+experimental, ADJ 
+results, NOUN 
+completed, VERB 
+
+, SPACE 
+SigmaStat, PROPN 
+software, NOUN 
+v3.5, NOUN 
+Systat, PROPN 
+Software, PROPN 
+Inc., PROPN 
+San, PROPN 
+Jose, PROPN 
+
+, SPACE 
+Comparisons, NOUN 
+way, NOUN 
+analysis, NOUN 
+variance, NOUN 
+
+, SPACE 
+ANOVA, PROPN 
+noted, VERB 
+statistical, ADJ 
+interaction, NOUN 
+pres-, NOUN 
+
+, SPACE 
+ent, NOUN 
+signi, NOUN 
+ﬁcance, NOUN 
+present, ADJ 
+overall, ADV 
+treatment, NOUN 
+condition, NOUN 
+
+, SPACE 
+Student, PROPN 
+Newman, PROPN 
+Keuls, PROPN 
+test, NOUN 
+performed, VERB 
+reveal, VERB 
+signi, NOUN 
+ﬁcance, NOUN 
+
+, SPACE 
+speci, PROPN 
+ﬁc, INTJ 
+groups, NOUN 
+e.g., ADV 
+radiation, NOUN 
+HLS, PROPN 
+radiation, NOUN 
+
+, SPACE 
+LC, PROPN 
+loading, NOUN 
+condition, NOUN 
+NR, PROPN 
+Statistical, ADJ 
+signi, NOUN 
+ﬁcance, NOUN 
+set, VERB 
+
+, SPACE 
+Pb0.05, NOUN 
+comparisons, NOUN 
+Data, NOUN 
+shown, VERB 
+mean±standard, NOUN 
+
+, SPACE 
+error, NOUN 
+SE, PROPN 
+indicated, VERB 
+
+, SPACE 
+3, X 
+Results, NOUN 
+
+, SPACE 
+3.1, NUM 
+Animal, NOUN 
+mass, NOUN 
+
+, SPACE 
+Mean, PROPN 
+animal, NOUN 
+mass, NOUN 
+sacri, PROPN 
+ﬁce, PROPN 
+group, NOUN 
+follows, VERB 
+BSL=, PROPN 
+
+, SPACE 
+22.4±0.27, PROPN 
+g, PROPN 
+NR+LC=23.2±0.32, PROPN 
+g, PROPN 
+IRR+LC=23.3±0.38, PROPN 
+g, PROPN 
+NR+, NOUN 
+
+, SPACE 
+HLS=22.6±0.30, VERB 
+g, PROPN 
+IRR+HLS=22.4±0.30, PRON 
+g., NOUN 
+sig-, NOUN 
+
+, SPACE 
+niﬁcant, NOUN 
+effect, NOUN 
+irradiation, NOUN 
+animal, NOUN 
+mass, NOUN 
+Overall, ADV 
+HLS, PROPN 
+mice, NOUN 
+
+, SPACE 
+3–4, NUM 
+lighter, ADJ 
+LC, NOUN 
+mice, NOUN 
+differences, NOUN 
+signi, NOUN 
+ﬁ-, X 
+
+, SPACE 
+nt, PART 
+comparing, VERB 
+individual, ADJ 
+groups, NOUN 
+i.e., X 
+NR+HLS, PROPN 
+versus, ADP 
+NR+LC, PROPN 
+
+, SPACE 
+IRR+HLS, PROPN 
+versus, ADP 
+IRR+LC, PROPN 
+
+, SPACE 
+3.2, X 
+Baseline, ADJ 
+microarchitectural, ADJ 
+parameters, NOUN 
+
+, SPACE 
+Compared, VERB 
+20, NUM 
+week, NOUN 
+old, ADJ 
+NR+LC, PROPN 
+16, NUM 
+week, NOUN 
+old, ADJ 
+baseline, NOUN 
+mice, NOUN 
+
+, SPACE 
+BSL, PROPN 
+higher, ADJ 
+trabecular, ADJ 
+BV, PROPN 
+TV, PROPN 
+higher, ADJ 
+overall, ADJ 
+trabecular, ADJ 
+
+, SPACE 
+bone, NOUN 
+quality, NOUN 
+proximal, ADJ 
+tibia, PROPN 
+Fig, PROPN 
+1, NUM 
+distal, ADJ 
+femur, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+represented, VERB 
+higher, ADJ 
+trabecular, ADJ 
+bone, NOUN 
+parameters, NOUN 
+includ-, VERB 
+
+, SPACE 
+ing, PROPN 
+Conn., PROPN 
+D, PROPN 
+Tb, PROPN 
+N, PROPN 
+Tb, PROPN 
+Sp, PROPN 
+SMI.758, PROPN 
+S.A., PROPN 
+Lloyd, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+756, NUM 
+764, NUM 
+
+, SPACE 
+3.3, NUM 
+Effects, NOUN 
+irradiation, NOUN 
+normally, ADV 
+loaded, VERB 
+mice, NOUN 
+
+, SPACE 
+Compared, VERB 
+NR+LC, PROPN 
+IRR+LC, PROPN 
+mice, NOUN 
+experienced, VERB 
+signi, NOUN 
+ﬁcant, NOUN 
+dete-, NOUN 
+
+, SPACE 
+rioration, NOUN 
+trabecular, ADJ 
+microarchitectural, ADJ 
+parameters, NOUN 
+proximal, ADJ 
+
+, SPACE 
+tibia, PROPN 
+IRR+LC, PROPN 
+mice, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+lower, ADJ 
+BV, PROPN 
+TV, PROPN 
+−16, PROPN 
+Conn., PROPN 
+D, PROPN 
+
+, SPACE 
+−28, NUM 
+Tb, PROPN 
+N, PROPN 
+−7.7, PROPN 
+signi, VERB 
+ﬁcantly, ADV 
+higher, ADJ 
+Tb, PROPN 
+Sp, PROPN 
++9.0, ADJ 
+
+, SPACE 
+SMI, PROPN 
++11, PROPN 
+Fig, PROPN 
+1, NUM 
+distal, ADJ 
+femur, NOUN 
+IRR+LC, PROPN 
+signi, NOUN 
+ﬁcant-, NOUN 
+
+, SPACE 
+ly, NOUN 
+lower, ADJ 
+BV, PROPN 
+TV, PROPN 
+−22, NOUN 
+Conn., PROPN 
+D, PROPN 
+−37, NOUN 
+higher, ADJ 
+SMI, PROPN 
++8.0, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Tb, ADP 
+N, PROPN 
+Tb, PROPN 
+Sp, PROPN 
+unchanged, ADJ 
+
+, SPACE 
+tibia, NOUN 
+femur, ADJ 
+cortical, ADJ 
+bone, NOUN 
+parameters, NOUN 
+including, VERB 
+
+, SPACE 
+Ct, PROPN 
+TV, PROPN 
+Ct, PROPN 
+BV, PROPN 
+Ct, PROPN 
+Po, PROPN 
+pMOI, PROPN 
+different, ADJ 
+IRR+LC, PROPN 
+
+, SPACE 
+NR+LC, PROPN 
+Table, PROPN 
+2, NUM 
+Similarly, ADV 
+femurs, NOUN 
+IRR+LC, PROPN 
+mice, NOUN 
+
+, SPACE 
+signi, NOUN 
+ﬁcantly, ADV 
+different, ADJ 
+mechanical, ADJ 
+strength, NOUN 
+mechanical, ADJ 
+
+, SPACE 
+parameters, NOUN 
+assessed, VERB 
+compared, VERB 
+NR+LC, PROPN 
+Fig, PROPN 
+3, NUM 
+
+, SPACE 
+Percent, PROPN 
+mineralization, NOUN 
+femur, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+different, ADJ 
+
+, SPACE 
+IRR+LC, PROPN 
+NR+LC, PROPN 
+Fig, PROPN 
+4, NUM 
+Serum, PROPN 
+markers, NOUN 
+bone, NOUN 
+
+, SPACE 
+turnover, NOUN 
+including, VERB 
+osteocalcin, PROPN 
+TRAP5b, NUM 
+different, ADJ 
+
+, SPACE 
+IRR+LC, PROPN 
+NR+LC, PROPN 
+Table, NOUN 
+3, NUM 
+addition, NOUN 
+histological, ADJ 
+pa-, PROPN 
+
+, SPACE 
+rameters, NOUN 
+including, VERB 
+ES(Oc+)/BS, PROPN 
+ES(Oc, NOUN 
+−)/BS, PROPN 
+Oc, PROPN 
+S, PROPN 
+BS, PROPN 
+N.Oc, PROPN 
+BS, PROPN 
+
+, SPACE 
+signi, NOUN 
+ﬁcantly, ADV 
+different, ADJ 
+IRR+LC, PROPN 
+NR+LC, PROPN 
+mice, NOUN 
+
+, SPACE 
+Table, NOUN 
+3, NUM 
+
+, SPACE 
+3.4, X 
+Effect, NOUN 
+unloading, VERB 
+non, ADJ 
+irradiated, ADJ 
+mice, NOUN 
+
+, SPACE 
+Compared, VERB 
+NR+LC, PROPN 
+NR+HLS, NUM 
+mice, NOUN 
+experienced, VERB 
+substantial, ADJ 
+de-, PROPN 
+
+, SPACE 
+terioration, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+proximal, ADJ 
+tibia, PROPN 
+NR+HLS, NUM 
+mice, NOUN 
+
+, SPACE 
+found, VERB 
+signi, NOUN 
+ﬁcantly, ADV 
+lower, ADJ 
+trabecular, ADJ 
+BV, PROPN 
+TV, PROPN 
+−74, NUM 
+
+, SPACE 
+Conn., PROPN 
+D, PROPN 
+−86, NOUN 
+Tb, PROPN 
+N, PROPN 
+−22, PROPN 
+higher, ADJ 
+Tb, PROPN 
+Sp, PROPN 
++29, NOUN 
+SMI, PROPN 
+
+, SPACE 
++45, NOUN 
+Fig, PROPN 
+1, NUM 
+similar, ADJ 
+ﬁndings, NOUN 
+trabecular, NOUN 
+boneof, X 
+distal, ADJ 
+femur, NOUN 
+NR+HLS, NUM 
+mice, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+lower, ADJ 
+
+, SPACE 
+BV, PROPN 
+TV, PROPN 
+−60, NUM 
+Conn., PROPN 
+D, PROPN 
+−75, PROPN 
+Tb, PROPN 
+N, PROPN 
+−12, NUM 
+higher, ADJ 
+Tb, PROPN 
+Sp, PROPN 
+
+, SPACE 
++14, PROPN 
+SMI, PROPN 
++7.3, NOUN 
+compared, VERB 
+NR+LC, PROPN 
+Fig, PROPN 
+2, NUM 
+
+, SPACE 
+opposed, VERB 
+irradiated, VERB 
+mice, NOUN 
+NR+HLS, NUM 
+mice, NOUN 
+experienced, VERB 
+signif-, PROPN 
+
+, SPACE 
+icant, ADJ 
+loss, NOUN 
+cortical, ADJ 
+microstructure, NOUN 
+compared, VERB 
+NR+LC, PROPN 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+proximal, ADJ 
+tibia, NOUN 
+mice, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+lower, ADJ 
+
+, SPACE 
+Ct, PROPN 
+TV, NOUN 
+−19, NUM 
+Ct, PROPN 
+BV, PROPN 
+−23, PROPN 
+pMOI, PROPN 
+−18, NUM 
+higher, ADJ 
+Ct, PROPN 
+Po, PROPN 
+
+, SPACE 
++34, NOUN 
+distal, ADJ 
+femur, NOUN 
+NR+HLS, NUM 
+mice, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+lower, ADJ 
+
+, SPACE 
+Ct, PROPN 
+TV, PROPN 
+−21, NUM 
+Ct, PROPN 
+BV, PROPN 
+−24, NUM 
+pMOI, PROPN 
+−21, NUM 
+higher, ADJ 
+Ct, PROPN 
+Po, PROPN 
+
+, SPACE 
++33, NOUN 
+versus, ADP 
+NR+LC, PROPN 
+NR+HLS, NUM 
+mice, NOUN 
+reduced, VERB 
+mechanical, ADJ 
+
+, SPACE 
+competency, NOUN 
+compared, VERB 
+NR+LC, PROPN 
+signi, NOUN 
+ﬁcantly, ADV 
+reductions, NOUN 
+
+, SPACE 
+stiffness, NOUN 
+maximum, ADJ 
+force, NOUN 
+elastic, ADJ 
+force, NOUN 
+Fig, PROPN 
+3, NUM 
+Percent, NOUN 
+minerali-, X 
+
+, SPACE 
+zation, NOUN 
+lower, ADJ 
+epiphysis, NOUN 
+diaphysis, NOUN 
+NR+HLS, PROPN 
+ver-, NUM 
+
+, SPACE 
+sus, NOUN 
+NR+LC, PROPN 
+mice, NOUN 
+Fig, PROPN 
+4, NUM 
+
+, SPACE 
+NR+HLS, NUM 
+mice, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+different, ADJ 
+levels, NOUN 
+
+, SPACE 
+bone, NOUN 
+formation, NOUN 
+marker, NOUN 
+osteocalcin, NOUN 
+compared, VERB 
+levels, NOUN 
+
+, SPACE 
+NR+LC, PROPN 
+Table, NOUN 
+3, NUM 
+NR+HLS, NUM 
+mice, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+
+, SPACE 
+higher, ADJ 
+levels, NOUN 
+bone, NOUN 
+resorption, NOUN 
+marker, NOUN 
+TRAP5b, NUM 
+compared, VERB 
+
+, SPACE 
+NR+LC, PROPN 
+Histological, ADJ 
+examination, NOUN 
+proximal, ADJ 
+tibia, PROPN 
+
+, SPACE 
+reveal, VERB 
+signi, NOUN 
+ﬁcant, NOUN 
+differences, NOUN 
+NR+HLS, NUM 
+NR+LC, PROPN 
+
+, SPACE 
+mice, NOUN 
+terms, NOUN 
+Oc, PROPN 
+S, PROPN 
+BS, PROPN 
+N.Oc, PROPN 
+BS, PROPN 
+Overall, ADV 
+HLS, PROPN 
+mice, NOUN 
+higher, ADJ 
+
+, SPACE 
+ES(Oc+)/BS, NOUN 
+ES(Oc, NOUN 
+−)/BS, PROPN 
+differences, NOUN 
+
+, SPACE 
+signiﬁcant, ADJ 
+individual, ADJ 
+groups, NOUN 
+compared, VERB 
+i.e., X 
+NR+HLS, PROPN 
+
+, SPACE 
+versus, ADP 
+NR+LC, PROPN 
+mice, NOUN 
+
+, SPACE 
+3.5, X 
+Effect, NOUN 
+irradiation, NOUN 
+unloaded, VERB 
+mice, NOUN 
+
+, SPACE 
+Compared, VERB 
+NR+HLS, PROPN 
+IRR+HLS, PROPN 
+mice, NOUN 
+deteriorated, VERB 
+trabecular, NOUN 
+
+, SPACE 
+microarchitecture, NOUN 
+tibia, NOUN 
+IRR+HLS, PROPN 
+mice, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+lower, ADJ 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Trabecular, ADJ 
+bone, NOUN 
+parameters, NOUN 
+obtained, VERB 
+MicroCT, PROPN 
+proximal, ADJ 
+tibia, NOUN 
+following, VERB 
+1, NUM 
+Gy, PROPN 
+proton, NOUN 
+irradiation, NOUN 
+month, NOUN 
+unloading, VERB 
+hindlimb, PROPN 
+suspe, PROPN 
+nsion, NOUN 
+Trabecular, ADJ 
+
+, SPACE 
+bone, NOUN 
+parameters, NOUN 
+assessed, VERB 
+included, VERB 
+bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+BV, PROPN 
+TV, PROPN 
+B, NOUN 
+connectivity, NOUN 
+density, NOUN 
+Conn., PROPN 
+D, PROPN 
+C, NOUN 
+trabecular, NOUN 
+number, NOUN 
+Tb, PROPN 
+N, PROPN 
+D, NOUN 
+trabecu, VERB 
+lar, ADJ 
+separation, NOUN 
+Tb, PROPN 
+Sp, PROPN 
+
+, SPACE 
+E, NOUN 
+structure, NOUN 
+model, NOUN 
+index, NOUN 
+SMI, PROPN 
+BSL, PROPN 
+=, PROPN 
+baseline, NOUN 
+LC, PROPN 
+=, PRON 
+normally, ADV 
+loaded, VERB 
+control, NOUN 
+HLS, PROPN 
+=, PUNCT 
+hindlimb, NOUN 
+suspension, NOUN 
+NR, PROPN 
+=, PUNCT 
+non, ADJ 
+irradiated, ADJ 
+IRR, PROPN 
+=, PRON 
+irradiated, VERB 
+Data, NOUN 
+r, NOUN 
+eported, VERB 
+mean±SE, ADJ 
+
+, SPACE 
+Signiﬁcance, PROPN 
+P, NOUN 
+b0.05, PROPN 
+denoted, VERB 
+IRR+LC, PROPN 
+versus, ADP 
+NR+LC, PROPN 
+NR+HLS, PROPN 
+versus, ADP 
+NR+LC, PROPN 
+IRR+HLS, PROPN 
+versus, ADP 
+IRR+LC, PROPN 
+IRR+HLS, PROPN 
+versus, ADP 
+NR+HLS.759, PROPN 
+S.A., PROPN 
+Lloyd, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+756, NUM 
+764, NUM 
+
+, SPACE 
+Conn., NOUN 
+D, PROPN 
+−38.9, NOUN 
+Tb, PROPN 
+N, PROPN 
+−8.0, PROPN 
+signi, VERB 
+ﬁcantly, ADV 
+higher, ADJ 
+Tb, PROPN 
+Sp, PROPN 
+
+, SPACE 
++9.6, NOUN 
+SMI, PROPN 
++9.6, ADP 
+compared, VERB 
+NR+HLS, NUM 
+Fig, PROPN 
+1, NUM 
+
+, SPACE 
+trend, NOUN 
+decreased, VERB 
+BV, PROPN 
+TV, PROPN 
+−17.4, NUM 
+P=0.053, NUM 
+IRR+HLS, PROPN 
+
+, SPACE 
+mice, NOUN 
+compared, VERB 
+NR+HLS, NUM 
+Fig, PROPN 
+1, NUM 
+statistically, ADV 
+signi, NOUN 
+ﬁcant, NOUN 
+interac-, ADJ 
+
+, SPACE 
+tion, NOUN 
+radiation, NOUN 
+unloading, NOUN 
+present, ADJ 
+Conn., PROPN 
+D, PROPN 
+
+, SPACE 
+tibia, NOUN 
+femur, NOUN 
+IRR+HLS, PROPN 
+mice, NOUN 
+signi, NOUN 
+ﬁcantly, ADV 
+lower, ADJ 
+BV, PROPN 
+TV, PROPN 
+
+, SPACE 
+−26.4, NUM 
+Conn., PROPN 
+D, PROPN 
+−45.9, NUM 
+signi, VERB 
+ﬁcantly, ADV 
+greater, ADJ 
+SMI, PROPN 
++7.4, PROPN 
+
+, SPACE 
+versus, ADP 
+NR+HLS, PROPN 
+Fig, PROPN 
+2, NUM 
+femur, NOUN 
+Tb, PROPN 
+Sp, PROPN 
+Tb, PROPN 
+N, PROPN 
+signi, NOUN 
+ﬁ-, X 
+
+, SPACE 
+cantly, ADV 
+different, ADJ 
+IRR+HLS, PROPN 
+NR+HLS, NUM 
+mice, NOUN 
+percent, NOUN 
+
+, SPACE 
+differences, NOUN 
+irradiated, ADJ 
+non, ADJ 
+irradiated, ADJ 
+animals, NOUN 
+similarfor, ADP 
+LC, PROPN 
+HLS, PROPN 
+mice, NOUN 
+trabecular, ADJ 
+microarchitectural, ADJ 
+
+, SPACE 
+parameters, NOUN 
+tibia, NOUN 
+femur, NOUN 
+Table, NOUN 
+4, NUM 
+
+, SPACE 
+tibia, NOUN 
+femur, ADJ 
+cortical, ADJ 
+bone, NOUN 
+parameters, NOUN 
+including, VERB 
+
+, SPACE 
+Ct, PROPN 
+TV, PROPN 
+Ct, PROPN 
+BV, PROPN 
+Ct, PROPN 
+Po, PROPN 
+pMOI, PROPN 
+different, ADJ 
+IRR+HLS, PROPN 
+
+, SPACE 
+NR+HLS, NUM 
+mice, NOUN 
+Table, NOUN 
+2, NUM 
+Similarly, ADV 
+IRR+HLS, PROPN 
+signif-, X 
+
+, SPACE 
+icantly, ADV 
+different, ADJ 
+measures, NOUN 
+mechanical, ADJ 
+strength, NOUN 
+compared, VERB 
+
+, SPACE 
+NR+HLS, NUM 
+Fig, PROPN 
+3, NUM 
+
+, SPACE 
+mineral, NOUN 
+content, NOUN 
+diaphysis, NOUN 
+femur, NOUN 
+
+, SPACE 
+signiﬁcantly, ADV 
+different, ADJ 
+IRR+HLS, ADJ 
+mice, NOUN 
+lower, ADJ 
+mineral, NOUN 
+content, NOUN 
+
+, SPACE 
+epiphysis, NOUN 
+overall, ADJ 
+compared, VERB 
+NR+HLS, NUM 
+Fig, PROPN 
+4, NUM 
+statistically, ADV 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+Cortical, ADJ 
+bone, NOUN 
+microstructural, ADJ 
+parameters, NOUN 
+following, VERB 
+1, NUM 
+Gy, PROPN 
+proton, NOUN 
+irradiation, NOUN 
+month, NOUN 
+unloading, VERB 
+hindlimb, NOUN 
+suspension, NOUN 
+
+, SPACE 
+Measurement, PROPN 
+Baseline, PROPN 
+Loaded, PROPN 
+control, NOUN 
+Hindlimb, PROPN 
+suspended, VERB 
+way, NOUN 
+ANOVA, PROPN 
+
+, SPACE 
+Non, PROPN 
+irradiated, VERB 
+Irradiated, PROPN 
+Non, PROPN 
+irradiated, VERB 
+Irradiated, PROPN 
+
+, SPACE 
+Tibia, PROPN 
+microCT, PROPN 
+
+, SPACE 
+pMOI, PROPN 
+mm4, NOUN 
+0.570±0.012, ADP 
+0.571±0.012, PROPN 
+0.585±0.018, X 
+0.468±0.015†0.473±0.012‡LC, NOUN 
+>, X 
+HLS, PROPN 
+
+, SPACE 
+Ct, PROPN 
+TV, NOUN 
+mm3, PROPN 
+0.281±0.003, X 
+0.279±0.003, PUNCT 
+0.287±0.004, NOUN 
+0.226±0.004†0.225±0.003‡LC, X 
+>, X 
+HLS, PROPN 
+
+, SPACE 
+Ct, PROPN 
+BV, PROPN 
+mm3, PROPN 
+0.244±0.003, NOUN 
+0.244±0.003, NOUN 
+0.251±0.003, PROPN 
+0.187±0.004†0.189±0.004‡LC, PROPN 
+>, X 
+HLS, PROPN 
+
+, SPACE 
+Ct, PROPN 
+Po, PROPN 
+13.2±0.3, NUM 
+12.7±0.3, NUM 
+12.3±0.3, NUM 
+17.0±0.4†16.3±0.4‡LCbHLS, NUM 
+
+, SPACE 
+Femur, PROPN 
+microCT, PROPN 
+
+, SPACE 
+pMOI, PROPN 
+mm4, NOUN 
+0.684±0.012, NOUN 
+0.685±0.013, PROPN 
+0.686±0.014, PROPN 
+0.545±0.013†0.542±0.016‡LC, PROPN 
+>, X 
+HLS, PROPN 
+
+, SPACE 
+Ct, PROPN 
+TV, NOUN 
+mm3, PROPN 
+0.289±0.003, PROPN 
+0.284±0.003, X 
+0.286±0.003, NOUN 
+0.225±0.004†0.223±0.003‡LC, NOUN 
+>, X 
+HLS, PROPN 
+
+, SPACE 
+Ct, PROPN 
+BV, PROPN 
+mm3, PROPN 
+0.254±0.003, NOUN 
+0.252±0.003, NUM 
+0.256±0.003, ADP 
+0.192±0.004†0.189±0.003‡LC, PROPN 
+>, X 
+HLS, PROPN 
+
+, SPACE 
+Ct, PROPN 
+Po, PROPN 
+12.0±0.3, PROPN 
+11.1±0.2, NUM 
+10.7±0.2, PROPN 
+14.8±0.4†15.2±0.4‡LCbHLS, NUM 
+
+, SPACE 
+Notes, PROPN 
+BSL, PROPN 
+=, PROPN 
+Baseline, PROPN 
+LC, PROPN 
+=, PRON 
+normally, ADV 
+loaded, VERB 
+control, NOUN 
+HLS, PROPN 
+=, PUNCT 
+hindlimb, NOUN 
+suspension, NOUN 
+NR, PROPN 
+=, PUNCT 
+non, ADJ 
+irradiated, ADJ 
+IRR, PROPN 
+=, PRON 
+irradiated, VERB 
+Polar, ADJ 
+moment, NOUN 
+inertia, NOUN 
+pMOI, PROPN 
+cortic, ADJ 
+al, PROPN 
+total, ADJ 
+volume, NOUN 
+
+, SPACE 
+Ct, PROPN 
+TV, NOUN 
+cortical, ADJ 
+bone, NOUN 
+volume, NOUN 
+Ct, PROPN 
+BV, PROPN 
+cortical, ADJ 
+porosity, NOUN 
+Ct, PROPN 
+Po, PROPN 
+Data, NOUN 
+reported, VERB 
+mean±SE, ADJ 
+Signi, NOUN 
+ﬁcance, NOUN 
+P, NOUN 
+b0.05, PROPN 
+denoted, VERB 
+NR+HLS, PROPN 
+versus, ADP 
+NR+LC, PROPN 
+IRR+HLS, PROPN 
+
+, SPACE 
+versus, ADP 
+IRR+LC, PROPN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Trabecular, ADJ 
+bone, NOUN 
+parameters, NOUN 
+obtained, VERB 
+MicroCT, PROPN 
+distal, ADJ 
+femur, NOUN 
+following, VERB 
+1, NUM 
+Gy, PROPN 
+proton, NOUN 
+irradiation, NOUN 
+month, NOUN 
+unloading, VERB 
+hindlimb, NOUN 
+suspens, NOUN 
+ion, NOUN 
+Trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+parameters, NOUN 
+assessed, VERB 
+included, VERB 
+bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+BV, PROPN 
+TV, PROPN 
+B, NOUN 
+connectivity, NOUN 
+density, NOUN 
+Conn., PROPN 
+D, PROPN 
+C, NOUN 
+trabecular, NOUN 
+number, NOUN 
+Tb, PROPN 
+N, PROPN 
+D, NOUN 
+trabecular, NOUN 
+s, PART 
+eparation, NOUN 
+Tb, PROPN 
+Sp, PROPN 
+E, NOUN 
+structure, NOUN 
+
+, SPACE 
+model, NOUN 
+index, NOUN 
+SMI, PROPN 
+BSL, PROPN 
+=, PROPN 
+baseline, NOUN 
+LC, PROPN 
+=, PRON 
+normally, ADV 
+loaded, VERB 
+control, NOUN 
+HLS, PROPN 
+=, PUNCT 
+hindlimb, NOUN 
+suspension, NOUN 
+NR, PROPN 
+=, PUNCT 
+non, ADJ 
+irradiated, ADJ 
+IRR, PROPN 
+=, PRON 
+irradiated, VERB 
+Data, NOUN 
+reported, VERB 
+mea, PROPN 
+n±SE, PROPN 
+Signi, NOUN 
+ﬁcance, NOUN 
+
+, SPACE 
+Pb0.05, NOUN 
+denoted, VERB 
+IRR+LC, PROPN 
+versus, ADP 
+NR+LC, PROPN 
+NR+HLS, PROPN 
+versus, ADP 
+NR+LC, PROPN 
+IRR+HLS, PROPN 
+versus, ADP 
+IRR+LC, PROPN 
+IRR+HLS, PROPN 
+versus, ADP 
+NR+HLS.760, PROPN 
+S.A., PROPN 
+Lloyd, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+756, NUM 
+764, NUM 
+
+, SPACE 
+signiﬁcant, ADJ 
+interaction, NOUN 
+radiation, NOUN 
+unloading, NOUN 
+present, ADJ 
+
+, SPACE 
+mineral, NOUN 
+content, NOUN 
+epiphysis, NOUN 
+total, ADJ 
+femur, NOUN 
+Markers, NOUN 
+bone, NOUN 
+
+, SPACE 
+turnover, NOUN 
+including, VERB 
+osteocalcin, PROPN 
+TRAP5b, NUM 
+signi, NOUN 
+ﬁcantly, ADV 
+dif-, NOUN 
+
+, SPACE 
+ferent, NOUN 
+IRR+HLS, PROPN 
+NR+HLS, NUM 
+mice, NOUN 
+Table, NOUN 
+3, NUM 
+addition, NOUN 
+
+, SPACE 
+signi, NOUN 
+ﬁcant, NOUN 
+difference, NOUN 
+histological, ADJ 
+parameters, NOUN 
+including, VERB 
+
+, SPACE 
+ES(Oc+)/BS, NOUN 
+ES(Oc, NOUN 
+−)/BS, PROPN 
+Oc, PROPN 
+S, PROPN 
+BS, PROPN 
+N.Oc, PROPN 
+BS, PROPN 
+comparing, VERB 
+
+, SPACE 
+IRR+HLS, PROPN 
+NR+HLS, NUM 
+mice, NOUN 
+
+, SPACE 
+4, X 
+Discussion, NOUN 
+
+, SPACE 
+present, ADJ 
+study, NOUN 
+con, PROPN 
+ﬁrmed, VERB 
+1, NUM 
+Gy, PROPN 
+body, NOUN 
+
+, SPACE 
+proton, NOUN 
+irradiation, NOUN 
+results, NOUN 
+signi, NOUN 
+ﬁcant, NOUN 
+loss, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+proximal, ADJ 
+tibia, NOUN 
+broadened, VERB 
+scope, NOUN 
+bone, NOUN 
+loss, NOUN 
+associ-, NOUN 
+
+, SPACE 
+ated, VERB 
+irradiation, NOUN 
+demonstrating, VERB 
+similar, ADJ 
+signi, NOUN 
+ﬁcant, NOUN 
+delete-, VERB 
+
+, SPACE 
+rious, ADJ 
+effects, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+mass, NOUN 
+microarchitecture, NOUN 
+
+, SPACE 
+distal, ADJ 
+femur, NOUN 
+results, NOUN 
+suggest, VERB 
+effect, NOUN 
+radiation, NOUN 
+
+, SPACE 
+bone, NOUN 
+speci, VERB 
+ﬁc, INTJ 
+site, NOUN 
+Previous, ADJ 
+studies, NOUN 
+laboratory, NOUN 
+
+, SPACE 
+demonstrated, VERB 
+bone, NOUN 
+loss, NOUN 
+mice, NOUN 
+months, NOUN 
+proton, NOUN 
+radia-, ADJ 
+
+, SPACE 
+tion, NOUN 
+exposure, NOUN 
+19, NUM 
+report, VERB 
+similar, ADJ 
+bone, NOUN 
+loss, NOUN 
+
+, SPACE 
+tibia, PROPN 
+~15, PROPN 
+month, NOUN 
+irradiation, NOUN 
+similarity, NOUN 
+sug-, NUM 
+
+, SPACE 
+gests, NOUN 
+deterioration, NOUN 
+bone, NOUN 
+resultant, NOUN 
+1, NUM 
+Gy, PROPN 
+radiation, NOUN 
+
+, SPACE 
+persistent, ADJ 
+long, ADV 
+exposure, NOUN 
+
+, SPACE 
+ﬁndings, NOUN 
+signi, NOUN 
+ﬁcant, ADJ 
+implications, NOUN 
+recovery, NOUN 
+
+, SPACE 
+astronauts, NOUN 
+following, VERB 
+space, NOUN 
+ﬂight, VERB 
+radiation, NOUN 
+exposure, NOUN 
+prolonged, VERB 
+
+, SPACE 
+period, NOUN 
+compromised, VERB 
+bone, NOUN 
+structure, NOUN 
+increase, VERB 
+risk, NOUN 
+frac-, ADJ 
+
+, SPACE 
+ture, NOUN 
+mission, NOUN 
+following, VERB 
+return, NOUN 
+Earth, PROPN 
+Models, NOUN 
+predicting, VERB 
+
+, SPACE 
+recovery, NOUN 
+skeletal, ADJ 
+sites, NOUN 
+lumbar, NOUN 
+spine, NOUN 
+pelvis, PROPN 
+calca-, ADV 
+
+, SPACE 
+neus, NOUN 
+following, VERB 
+4, NUM 
+6, NUM 
+month, NOUN 
+missions, NOUN 
+ISS, NOUN 
+suggest, VERB 
+
+, SPACE 
+months, NOUN 
+regain, VERB 
+50, NUM 
+BMD, PROPN 
+lost, VERB 
+space, NOUN 
+ﬂight, NOUN 
+
+, SPACE 
+29, NUM 
+direct, ADJ 
+measurements, NOUN 
+astronauts, NOUN 
+following, VERB 
+long, ADJ 
+dura-, VERB 
+
+, SPACE 
+tion, NOUN 
+missions, NOUN 
+shown, VERB 
+proximal, ADJ 
+femur, ADJ 
+bone, NOUN 
+mineral, NOUN 
+density, NOUN 
+
+, SPACE 
+BMD, PROPN 
+calculated, VERB 
+bone, NOUN 
+strength, NOUN 
+partially, ADV 
+recovered, VERB 
+
+, SPACE 
+year, NOUN 
+return, NOUN 
+Earth, PROPN 
+30, NUM 
+clear, ADJ 
+recovery, NOUN 
+period, NOUN 
+
+, SPACE 
+longer, ADV 
+actual, ADJ 
+period, NOUN 
+space, NOUN 
+ﬂight, NOUN 
+exposure, NOUN 
+
+, SPACE 
+shown, VERB 
+exposure, NOUN 
+types, NOUN 
+doses, NOUN 
+radiation, NOUN 
+found, VERB 
+out-, X 
+
+, SPACE 
+low, ADJ 
+Earth, PROPN 
+orbit, NOUN 
+comprise, VERB 
+bone, NOUN 
+structure, NOUN 
+delay, NOUN 
+
+, SPACE 
+recovery, NOUN 
+important, ADJ 
+note, VERB 
+bone, NOUN 
+loss, NOUN 
+observed, VERB 
+present, ADJ 
+
+, SPACE 
+study, NOUN 
+occurred, VERB 
+skeletally, ADV 
+mature, ADJ 
+mice, NOUN 
+high, ADJ 
+linear, NOUN 
+energy, NOUN 
+
+, SPACE 
+transfer, NOUN 
+LET, PROPN 
+space, NOUN 
+ﬂight, NOUN 
+radiation, NOUN 
+demonstrated, VERB 
+lead, VERB 
+
+, SPACE 
+bone, NOUN 
+loss, NOUN 
+growing, VERB 
+mice, NOUN 
+31, NUM 
+effect, NOUN 
+low, ADJ 
+LET, NOUN 
+protons, NOUN 
+bone, NOUN 
+
+, SPACE 
+skeletally, ADV 
+mature, ADJ 
+animals, NOUN 
+previously, ADV 
+studied, VERB 
+
+, SPACE 
+astronauts, NOUN 
+skeletally, ADV 
+mature, ADJ 
+i.e., X 
+aged, ADJ 
+30, NUM 
+50, NUM 
+years, NOUN 
+
+, SPACE 
+critical, ADJ 
+ﬁnding, NOUN 
+Furthermore, ADV 
+results, NOUN 
+suggest, VERB 
+
+, SPACE 
+bone, NOUN 
+loss, NOUN 
+observed, VERB 
+likely, ADJ 
+changes, NOUN 
+growth, NOUN 
+pre-, NUM 
+
+, SPACE 
+vious, ADJ 
+studies, NOUN 
+laboratory, NOUN 
+investigated, VERB 
+effect, NOUN 
+low, ADJ 
+LET, NOUN 
+pro-, NOUN 
+
+, SPACE 
+ton, NOUN 
+irradiation, NOUN 
+relatively, ADV 
+young, ADJ 
+8, NUM 
+9, NUM 
+week, NOUN 
+old, ADJ 
+mice, NOUN 
+6,19,23, NOUN 
+
+, SPACE 
+Bone, NOUN 
+loss, NOUN 
+studies, NOUN 
+similar, ADJ 
+observed, VERB 
+presently, ADV 
+underlying, VERB 
+mechanisms, NOUN 
+mediating, VERB 
+radiation, NOUN 
+induced, VERB 
+
+, SPACE 
+bone, NOUN 
+loss, NOUN 
+different, ADJ 
+growing, VERB 
+mature, ADJ 
+animals, NOUN 
+
+, SPACE 
+fact, NOUN 
+similar, ADJ 
+bone, NOUN 
+loss, NOUN 
+occurred, VERB 
+studies, NOUN 
+suggests, VERB 
+
+, SPACE 
+Bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+measures, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+quality, NOUN 
+
+, SPACE 
+lower, ADJ 
+control, NOUN 
+animals, NOUN 
+sacri, ADV 
+ﬁced, VERB 
+end, NOUN 
+month, NOUN 
+
+, SPACE 
+study, NOUN 
+compared, VERB 
+baseline, NOUN 
+mice, NOUN 
+natural, ADJ 
+
+, SPACE 
+bone, NOUN 
+loss, NOUN 
+consistent, ADJ 
+
+, SPACE 
+previous, ADJ 
+investigations, NOUN 
+characterizing, VERB 
+decline, NOUN 
+trabecular-, PROPN 
+
+, SPACE 
+bone, NOUN 
+parameters, NOUN 
+age, NOUN 
+32–34, NUM 
+ﬁndings, NOUN 
+indicate, VERB 
+
+, SPACE 
+lower, ADJ 
+trabecular, ADJ 
+bone, NOUN 
+quality, NOUN 
+irradiated, VERB 
+hindlimb, NOUN 
+suspended, VERB 
+
+, SPACE 
+mice, NOUN 
+inhibition, NOUN 
+bone, NOUN 
+growth, NOUN 
+Histological, ADJ 
+examina-, ADJ 
+
+, SPACE 
+tion, NOUN 
+measurements, NOUN 
+serum, NOUN 
+bone, NOUN 
+turnover, NOUN 
+markers, NOUN 
+reveal, VERB 
+
+, SPACE 
+signi, NOUN 
+ﬁcant, NOUN 
+differences, NOUN 
+following, VERB 
+irradiation, NOUN 
+loaded, ADJ 
+
+, SPACE 
+control, NOUN 
+hindlimb, VERB 
+suspension, NOUN 
+groups, NOUN 
+radiation, NOUN 
+effects, NOUN 
+
+, SPACE 
+observed, VERB 
+weeks, NOUN 
+primarily, ADV 
+consisted, VERB 
+lower, ADJ 
+structural, ADJ 
+
+, SPACE 
+functional, ADJ 
+parameters, NOUN 
+effect, NOUN 
+osteoclast, ADJ 
+osteo-, ADJ 
+
+, SPACE 
+blast, NOUN 
+activity, NOUN 
+data, NOUN 
+combined, VERB 
+recent, ADJ 
+studies, NOUN 
+demon-, ADP 
+
+, SPACE 
+strating, VERB 
+skeletal, ADJ 
+effects, NOUN 
+radiation, NOUN 
+rapid, ADJ 
+initiated, VERB 
+
+, SPACE 
+activation, NOUN 
+osteoclasts, NOUN 
+20,35, NUM 
+indicate, VERB 
+bone, NOUN 
+turnover, NOUN 
+likely, ADV 
+
+, SPACE 
+stabilized, VERB 
+week, NOUN 
+post, NOUN 
+irradiation, NOUN 
+time, NOUN 
+point, NOUN 
+as-, VERB 
+
+, SPACE 
+says, VERB 
+conducted, VERB 
+Future, ADJ 
+studies, NOUN 
+implement, VERB 
+blood, NOUN 
+collection, NOUN 
+
+, SPACE 
+histological, ADJ 
+assays, NOUN 
+multiple, ADJ 
+early, ADJ 
+time, NOUN 
+points, NOUN 
+completely, ADV 
+
+, SPACE 
+characterize, VERB 
+effects, NOUN 
+bone, NOUN 
+turnover, NOUN 
+cellular, ADJ 
+mediators, NOUN 
+
+, SPACE 
+week, NOUN 
+period, NOUN 
+hindlimb, NOUN 
+suspension, NOUN 
+signi, NOUN 
+ﬁcant, NOUN 
+delete-, NOUN 
+
+, SPACE 
+rious, ADJ 
+effects, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+Unloaded, VERB 
+nonirradiated, ADJ 
+mice, NOUN 
+
+, SPACE 
+74, NUM 
+60, NUM 
+lower, ADJ 
+trabecular, ADJ 
+bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+normally, ADV 
+
+, SPACE 
+loaded, VERB 
+nonirradiated, ADJ 
+mice, NOUN 
+tibia, NOUN 
+femur, ADJ 
+respectively, ADV 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Mechanical, ADJ 
+strength, NOUN 
+femur, NOUN 
+obtained, VERB 
+point, NOUN 
+bending, NOUN 
+following, VERB 
+1, NUM 
+Gy, PROPN 
+proton, NOUN 
+irradiation, NOUN 
+month, NOUN 
+unloading, VERB 
+hindlimb, NOUN 
+suspensi, PROPN 
+Measured, VERB 
+
+, SPACE 
+parameters, NOUN 
+included, VERB 
+stiffness, NOUN 
+B, NOUN 
+elastic, ADJ 
+force, NOUN 
+C, NOUN 
+maximum, ADJ 
+force, NOUN 
+D, NOUN 
+fracture, ADJ 
+force, NOUN 
+BSL, PROPN 
+=, NUM 
+baseline, NOUN 
+LC, PROPN 
+=, PRON 
+normally, ADV 
+loaded, VERB 
+control, NOUN 
+HLS, PROPN 
+=, PRON 
+hind, VERB 
+limb, NOUN 
+suspension, NOUN 
+NR, PROPN 
+=, PROPN 
+
+, SPACE 
+non, ADJ 
+irradiated, ADJ 
+IRR, PROPN 
+=, PRON 
+irradiated, VERB 
+Data, NOUN 
+reported, VERB 
+mean±SE, ADJ 
+Signi, NOUN 
+ﬁcance, NOUN 
+P, NOUN 
+b0.05, PROPN 
+denoted, VERB 
+IRR+LC, PROPN 
+versus, ADP 
+NR+LC, PROPN 
+NR+HLS, PROPN 
+versus, ADP 
+NR+LC, PROPN 
+IRR+HLS, PROPN 
+
+, SPACE 
+versus, ADP 
+IRR+LC, PROPN 
+IRR+HLS, PROPN 
+versus, ADP 
+NR+HLS.761, NOUN 
+S.A., PROPN 
+Lloyd, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+756, NUM 
+764, NUM 
+
+, SPACE 
+consistent, ADJ 
+previous, ADJ 
+experience, NOUN 
+model, NOUN 
+
+, SPACE 
+36, NUM 
+Given, VERB 
+approximate, ADJ 
+1, NUM 
+loss, NOUN 
+bone, NOUN 
+mass, NOUN 
+month, NOUN 
+docu-, NOUN 
+
+, SPACE 
+mented, VERB 
+astronauts, NOUN 
+ISS, NOUN 
+1, NUM 
+likely, ADJ 
+astronauts, NOUN 
+
+, SPACE 
+encounter, VERB 
+degree, NOUN 
+bone, NOUN 
+loss, NOUN 
+long, ADJ 
+duration, NOUN 
+mission, NOUN 
+
+, SPACE 
+furthermore, ADV 
+degree, NOUN 
+bone, NOUN 
+loss, NOUN 
+dif, ADV 
+ﬁcult, VERB 
+mea-, ADJ 
+
+, SPACE 
+sure, ADJ 
+changes, NOUN 
+certain, ADJ 
+bone, NOUN 
+parameters, NOUN 
+addition, NOUN 
+
+, SPACE 
+irradiation, NOUN 
+extended, ADJ 
+period, NOUN 
+unloading, NOUN 
+ef-, VERB 
+
+, SPACE 
+fectively, ADV 
+pushed, VERB 
+bone, NOUN 
+loss, NOUN 
+physiological, ADJ 
+maximum, NOUN 
+
+, SPACE 
+preventing, VERB 
+observation, NOUN 
+additional, ADJ 
+loss, NOUN 
+irradiation, NOUN 
+
+, SPACE 
+clear, ADJ 
+HLS, PROPN 
+represents, VERB 
+accelerated, ADJ 
+model, NOUN 
+bone, NOUN 
+loss, NOUN 
+compared, VERB 
+
+, SPACE 
+space, NOUN 
+ﬂight, NOUN 
+validated, VERB 
+remains, VERB 
+
+, SPACE 
+standard, NOUN 
+ground, NOUN 
+based, VERB 
+modeling, NOUN 
+microgravity, NOUN 
+unloading, NOUN 
+
+, SPACE 
+2,37,38, NUM 
+Despite, SCONJ 
+reduced, ADJ 
+resolution, NOUN 
+combined, VERB 
+effects, NOUN 
+irradia-, ADJ 
+
+, SPACE 
+tion, NOUN 
+prior, ADV 
+unloading, NOUN 
+observed, VERB 
+tibia, NOUN 
+reductions, NOUN 
+inconnectivity, NOUN 
+density, NOUN 
+structural, ADJ 
+model, NOUN 
+index, NOUN 
+trabecular, ADJ 
+separation, NOUN 
+
+, SPACE 
+trabecular, ADJ 
+number, NOUN 
+exhibited, VERB 
+additive, ADJ 
+effect, NOUN 
+irradiation, NOUN 
+
+, SPACE 
+combined, VERB 
+unloading, NOUN 
+Furthermore, ADV 
+statistical, ADJ 
+
+, SPACE 
+trend, NOUN 
+indicating, VERB 
+additional, ADJ 
+loss, NOUN 
+bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+irradiated, VERB 
+
+, SPACE 
+mice, NOUN 
+subjected, VERB 
+unloading, VERB 
+P=0.053, PROPN 
+effects, NOUN 
+irradiation, NOUN 
+
+, SPACE 
+combined, VERB 
+unloading, NOUN 
+additive, ADJ 
+bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+
+, SPACE 
+connectivity, NOUN 
+density, NOUN 
+structural, ADJ 
+model, NOUN 
+index, NOUN 
+femur, NOUN 
+Per-, X 
+
+, SPACE 
+cent, NOUN 
+mineralization, NOUN 
+lower, ADJ 
+combination, NOUN 
+irradiation, NOUN 
+
+, SPACE 
+unloading, NOUN 
+compared, VERB 
+unloading, VERB 
+Taken, VERB 
+
+, SPACE 
+ﬁndings, NOUN 
+support, VERB 
+conclusion, NOUN 
+irradiation, NOUN 
+unloading, NOUN 
+leads, VERB 
+
+, SPACE 
+greater, ADJ 
+skeletal, ADJ 
+deterioration, NOUN 
+unloading, VERB 
+
+, SPACE 
+important, ADJ 
+caveats, NOUN 
+translation, NOUN 
+ﬁndings, NOUN 
+space-, ADJ 
+
+, SPACE 
+ﬂight, NOUN 
+applications, NOUN 
+astronauts, NOUN 
+exposed, VERB 
+relatively, ADV 
+high, ADJ 
+doses, NOUN 
+ra-, PROPN 
+
+, SPACE 
+diation, NOUN 
+missions, NOUN 
+low, ADJ 
+Earth, NOUN 
+orbit, NOUN 
+risk, NOUN 
+
+, SPACE 
+higher, ADJ 
+levels, NOUN 
+bone, NOUN 
+loss, NOUN 
+astronauts, NOUN 
+International, PROPN 
+Space, PROPN 
+
+, SPACE 
+Station, PROPN 
+Earth, PROPN 
+magnetic, ADJ 
+ﬁeld, NOUN 
+offers, VERB 
+greater, ADJ 
+natural, ADJ 
+pro-, NOUN 
+
+, SPACE 
+tection, NOUN 
+radiation, NOUN 
+exposure, NOUN 
+5, NUM 
+
+, SPACE 
+Relevant, ADJ 
+interpretation, NOUN 
+results, NOUN 
+presence, NOUN 
+
+, SPACE 
+interactions, NOUN 
+treatments, NOUN 
+statistical, ADJ 
+inter-, ADJ 
+
+, SPACE 
+actions, NOUN 
+detected, VERB 
+irradiation, NOUN 
+unloading, NOUN 
+
+, SPACE 
+parameter, NOUN 
+trabecular, ADJ 
+connectivity, NOUN 
+density, NOUN 
+tibia, NOUN 
+mineral, NOUN 
+
+, SPACE 
+content, NOUN 
+measured, ADJ 
+parameter, NOUN 
+effect, NOUN 
+ir-, NOUN 
+
+, SPACE 
+radiation, NOUN 
+depend, VERB 
+mouse, NOUN 
+unloaded, VERB 
+
+, SPACE 
+effect, NOUN 
+weeks, NOUN 
+unloading, NOUN 
+large, ADJ 
+
+, SPACE 
+effect, NOUN 
+irradiation, NOUN 
+statistically, ADV 
+unloaded, ADJ 
+
+, SPACE 
+normally, ADV 
+loaded, VERB 
+controls, NOUN 
+ﬁnding, NOUN 
+supported, VERB 
+comparison, NOUN 
+
+, SPACE 
+relative, ADJ 
+effects, NOUN 
+irradiation, NOUN 
+normally, ADV 
+loaded, VERB 
+unloaded, VERB 
+
+, SPACE 
+mice, NOUN 
+Table, NOUN 
+2, NUM 
+tibia, NOUN 
+femur, NOUN 
+irradiation, NOUN 
+similar, ADJ 
+
+, SPACE 
+effects, NOUN 
+trabecular, ADJ 
+parameters, NOUN 
+providing, VERB 
+additional, ADJ 
+
+, SPACE 
+evidence, NOUN 
+effect, NOUN 
+irradiation, NOUN 
+unloading, NOUN 
+bone, NOUN 
+
+, SPACE 
+additive, ADJ 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Mineral, NOUN 
+content, NOUN 
+femur, ADJ 
+following, VERB 
+1, NUM 
+Gy, PROPN 
+proton, NOUN 
+irradiation, NOUN 
+month, NOUN 
+
+, SPACE 
+unloading, VERB 
+hindlimb, NOUN 
+suspension, NOUN 
+Mineralization, PROPN 
+determined, VERB 
+epiphysis, NOUN 
+
+, SPACE 
+B, NOUN 
+diaphysis, NOUN 
+C, NOUN 
+total, ADJ 
+femur, NOUN 
+BSL, PROPN 
+=, PROPN 
+baseline, NOUN 
+LC, PROPN 
+=, PRON 
+normally, ADV 
+loaded, VERB 
+control, NOUN 
+HLS, PROPN 
+=, VERB 
+hindlimb, NOUN 
+suspension, NOUN 
+NR, PROPN 
+=, PUNCT 
+non, ADJ 
+irradiated, ADJ 
+IRR, PROPN 
+=, PRON 
+irradiated, VERB 
+Data, NOUN 
+reported, VERB 
+mean±SE, ADJ 
+Signi, NOUN 
+ﬁcance, NOUN 
+P, NOUN 
+b0.05, PROPN 
+denoted, VERB 
+NR+HLS, PROPN 
+versus, ADP 
+NR+LC, PROPN 
+IRR+HLS, PROPN 
+
+, SPACE 
+versus, ADP 
+IRR+LC, PROPN 
+IRR+HLS, PROPN 
+versus, ADP 
+NR+HLS, PROPN 
+
+, SPACE 
+Table, NOUN 
+3Serum, NOUN 
+chemistry, NOUN 
+histology, NOUN 
+following, VERB 
+1, NUM 
+Gy, PROPN 
+proton, NOUN 
+irradiation, NOUN 
+month, NOUN 
+ofunloading, NOUN 
+hindlimb, NOUN 
+suspension, NOUN 
+
+, SPACE 
+Measurement, PROPN 
+Loaded, PROPN 
+control, NOUN 
+Hindlimb, PROPN 
+suspended, VERB 
+way, NOUN 
+
+, SPACE 
+ANOVANon, PROPN 
+irradiated, VERB 
+Irradiated, PROPN 
+Non, PROPN 
+irradiated, VERB 
+Irradiated, PROPN 
+
+, SPACE 
+Serum, PROPN 
+markers, NOUN 
+
+, SPACE 
+TRAP5b, NUM 
+U, PROPN 
+L, NOUN 
+9.4±0.6, NUM 
+9.2±0.9, NUM 
+20.3±2.8, NUM 
+
+, SPACE 
+†25.0±1.6‡LCbHLS, VERB 
+
+, SPACE 
+Osteocalcin, PROPN 
+
+, SPACE 
+ng, PROPN 
+mL)143±14, PROPN 
+124±16, NUM 
+130±22, NOUN 
+99±15, NOUN 
+
+, SPACE 
+Histology, PROPN 
+
+, SPACE 
+ES(Oc+)/, NOUN 
+
+, SPACE 
+BS, PROPN 
+19.9±4.0, NUM 
+13.9±2.2, NUM 
+29.6±3.4, NUM 
+23.4±5.4, NUM 
+LC, NOUN 
+bHLS, NOUN 
+
+, SPACE 
+ES(Oc−)/, PROPN 
+
+, SPACE 
+BS, PROPN 
+6.8±1.7, NUM 
+4.6±1.2, NUM 
+12.2±2.4, NUM 
+8.2±2.3, NUM 
+LC, PROPN 
+bHLS, PROPN 
+
+, SPACE 
+Oc, PROPN 
+S, PROPN 
+BS, PROPN 
+13.0±2.8, NOUN 
+9.3±2.0, NUM 
+17.4±2.5, NUM 
+15.1±5.6, NUM 
+
+, SPACE 
+N.Oc, PROPN 
+BS, PROPN 
+
+, SPACE 
+1, NUM 
+mm)2.66±0.50, PROPN 
+1.73±0.35, PROPN 
+3.37±0.65, PROPN 
+3.14±0.88, PROPN 
+
+, SPACE 
+Notes, PROPN 
+Eroded, VERB 
+surface, NOUN 
+inclusion, NOUN 
+osteoclast, ADJ 
+surface, NOUN 
+ES(Oc+)/BS, X 
+eroded, VERB 
+
+, SPACE 
+surface, NOUN 
+exclusion, NOUN 
+osteoclast, ADJ 
+surface, NOUN 
+ES(Oc, NOUN 
+−)/BS, PROPN 
+osteoclast, ADJ 
+surface, NOUN 
+
+, SPACE 
+Oc, PROPN 
+S, PROPN 
+BS, PROPN 
+number, NOUN 
+osteoclasts, NOUN 
+region, NOUN 
+interest, NOUN 
+trabeculae, NOUN 
+thesecondary, PROPN 
+spongiosa, NOUN 
+N.Oc, PROPN 
+BS, PROPN 
+LC, NOUN 
+=, PRON 
+normally, ADV 
+loaded, VERB 
+control, NOUN 
+HLS, PROPN 
+=, PRON 
+hindlimb, VERB 
+sus, NOUN 
+pension, NOUN 
+NR, PROPN 
+=, PUNCT 
+non, ADJ 
+irradiated, ADJ 
+IRR, PROPN 
+=, PRON 
+irradiated, VERB 
+Data, NOUN 
+reported, VERB 
+mean±SE, PROPN 
+Signi, NOUN 
+ﬁ-, CCONJ 
+
+, SPACE 
+cance, NOUN 
+P, NOUN 
+b0.05, NOUN 
+denoted, VERB 
+
+, SPACE 
+NR+HLS, PROPN 
+versus, ADP 
+NR+LC, PROPN 
+IRR+HLS, PROPN 
+
+, SPACE 
+versus, ADP 
+IRR+LC.Table, ADJ 
+4Relative, ADJ 
+differences, NOUN 
+tibia, NOUN 
+femur, ADJ 
+following, VERB 
+1, NUM 
+Gy, PROPN 
+proton, NOUN 
+irradiation, NOUN 
+onemonth, NOUN 
+unloading, VERB 
+hindlimb, NOUN 
+suspension, NOUN 
+
+, SPACE 
+Tibia, PROPN 
+Femur, PROPN 
+
+, SPACE 
+Irradiation, NOUN 
+
+, SPACE 
+effect, NOUN 
+loadedcontrol, NOUN 
+Irradiation, NOUN 
+effect, NOUN 
+
+, SPACE 
+hindlimbsuspended, ADJ 
+Irradiation, NOUN 
+
+, SPACE 
+effect, NOUN 
+loadedcontrol, NOUN 
+Irradiation, NOUN 
+effect, NOUN 
+
+, SPACE 
+hindlimbsuspended, VERB 
+
+, SPACE 
+BV, PROPN 
+TV, PROPN 
+−14.8, NUM 
+−17.4, PROPN 
++, SYM 
+−21.9, NUM 
+−26.4, NUM 
+
+, SPACE 
+Conn., PROPN 
+D, PROPN 
+−28.3, PROPN 
+−38.9, PROPN 
+−37.0, PUNCT 
+−45.9, PUNCT 
+
+, SPACE 
+Tb, PROPN 
+N, PROPN 
+−7.7, PROPN 
+−8.0, PROPN 
+−1.9, PROPN 
+−3.9, PROPN 
+
+, SPACE 
+Tb, PROPN 
+Sp, NOUN 
+9.0, NUM 
+9.6, NUM 
+1.9, NUM 
+3.8SMI, PROPN 
+10.9, NUM 
+9.6, NUM 
+8.0, NUM 
+7.4, NUM 
+
+, SPACE 
+Notes, NOUN 
+Bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+BV, PROPN 
+TV, PROPN 
+connectivity, NOUN 
+density, NOUN 
+Conn., PROPN 
+D, PROPN 
+trabecular, ADJ 
+
+, SPACE 
+number, NOUN 
+Tb, PROPN 
+N, PROPN 
+trabecular, ADJ 
+separation, NOUN 
+Tb, PROPN 
+Sp, PROPN 
+structure, NOUN 
+model, NOUN 
+index, PROPN 
+SMI, PROPN 
+BSL, PROPN 
+=, PROPN 
+Baseline, PROPN 
+LC, PROPN 
+=, PRON 
+normally, ADV 
+loaded, VERB 
+control, NOUN 
+HLS, PROPN 
+=, PUNCT 
+hindlimb, NOUN 
+suspension, NOUN 
+NR, PROPN 
+=, NOUN 
+non, ADJ 
+irradiated, ADJ 
+IRR, PROPN 
+=, PUNCT 
+irradiated, VERB 
+Signi, NOUN 
+ﬁcant, NOUN 
+difference, NOUN 
+P, NOUN 
+b0.05, NOUN 
+corresponding, PROPN 
+
+, SPACE 
+non, ADJ 
+irradiated, ADJ 
+control, NOUN 
+denoted, VERB 
+determined, VERB 
+way, NOUN 
+ANOVA, PROPN 
+followed, VERB 
+
+, SPACE 
+t, NOUN 
+test, NOUN 
+comparing, VERB 
+individual, ADJ 
+groups, NOUN 
+IRR+LC, PROPN 
+vs, X 
+NR+LC, PROPN 
+IRR+HLS, PROPN 
+vs, ADP 
+NR+HLS).(+, PROPN 
+denotes, VERB 
+non, ADJ 
+signi, ADJ 
+ﬁcant, NOUN 
+difference, NOUN 
+P=0.053).762, PROPN 
+S.A., PROPN 
+Lloyd, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+756, NUM 
+764, NUM 
+
+, SPACE 
+data, NOUN 
+demonstrate, VERB 
+weeks, NOUN 
+unloading, VERB 
+results, NOUN 
+sub-, ADJ 
+
+, SPACE 
+stantial, ADJ 
+degradation, NOUN 
+loss, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+authors, NOUN 
+
+, SPACE 
+knowledge, NOUN 
+greatest, ADV 
+measured, VERB 
+bone, NOUN 
+loss, NOUN 
+hindlimb, PROPN 
+suspen-, PROPN 
+
+, SPACE 
+sion, NOUN 
+skeletally, ADV 
+mature, ADJ 
+mice, NOUN 
+59, NUM 
+BALB, PROPN 
+c, PROPN 
+mice, NOUN 
+following, VERB 
+
+, SPACE 
+weeks, NOUN 
+unloading, VERB 
+3, NUM 
+Depending, VERB 
+site, NOUN 
+strain, NOUN 
+mouse, NOUN 
+
+, SPACE 
+studies, NOUN 
+noted, VERB 
+bone, NOUN 
+loss, NOUN 
+order, NOUN 
+10, NUM 
+25, NUM 
+following, VERB 
+
+, SPACE 
+weeks, NOUN 
+unloading, VERB 
+4,39,40, NUM 
+greater, ADJ 
+bone, NOUN 
+
+, SPACE 
+loss, NOUN 
+observed, VERB 
+present, ADJ 
+study, NOUN 
+suggests, VERB 
+bone, NOUN 
+loss, NOUN 
+occurring, VERB 
+
+, SPACE 
+fourth, ADJ 
+week, NOUN 
+unloading, NOUN 
+appear, VERB 
+plateau, VERB 
+
+, SPACE 
+period, NOUN 
+shorter, ADJ 
+period, NOUN 
+HLS, PROPN 
+able, ADJ 
+
+, SPACE 
+better, ADJ 
+model, VERB 
+bone, NOUN 
+loss, NOUN 
+likely, ADJ 
+occur, VERB 
+astronaut, NOUN 
+
+, SPACE 
+month, NOUN 
+mission, NOUN 
+high, ADJ 
+degree, NOUN 
+loss, NOUN 
+longer, ADJ 
+
+, SPACE 
+period, NOUN 
+raise, VERB 
+notable, ADJ 
+questions, NOUN 
+possible, ADJ 
+degree, NOUN 
+
+, SPACE 
+bone, NOUN 
+loss, NOUN 
+astronauts, NOUN 
+year, NOUN 
+mission, NOUN 
+Modeling, NOUN 
+
+, SPACE 
+scenario, NOUN 
+complicated, VERB 
+period, NOUN 
+
+, SPACE 
+reloading, NOUN 
+occur, VERB 
+astronauts, NOUN 
+lived, VERB 
+worked, VERB 
+
+, SPACE 
+surface, NOUN 
+Mars, PROPN 
+example, NOUN 
+study, NOUN 
+needed, VERB 
+under-, VERB 
+
+, SPACE 
+stand, VERB 
+skeletal, ADJ 
+effects, NOUN 
+degrees, NOUN 
+unloading, NOUN 
+reloading, VERB 
+
+, SPACE 
+radiation, NOUN 
+exposure, NOUN 
+important, ADJ 
+consideration, NOUN 
+
+, SPACE 
+study, NOUN 
+design, NOUN 
+corresponds, VERB 
+actual, ADJ 
+space, NOUN 
+ﬂight, NOUN 
+situation, NOUN 
+
+, SPACE 
+use, NOUN 
+irradiation, NOUN 
+followed, VERB 
+unloading, VERB 
+logis-, ADJ 
+
+, SPACE 
+tically, ADV 
+feasible, ADJ 
+study, NOUN 
+design, NOUN 
+different, ADJ 
+scenario, NOUN 
+as-, ADJ 
+
+, SPACE 
+tronaut, NOUN 
+exposed, VERB 
+large, ADJ 
+proton, NOUN 
+radiation, NOUN 
+
+, SPACE 
+solar, ADJ 
+particle, NOUN 
+event, NOUN 
+case, NOUN 
+astronauts, NOUN 
+experience, VERB 
+po-, ADJ 
+
+, SPACE 
+tentially, ADV 
+lengthy, ADJ 
+period, NOUN 
+skeletal, ADJ 
+unloading, NOUN 
+prior, ADV 
+radiation, NOUN 
+expo-, PROPN 
+
+, SPACE 
+sure, ADJ 
+Currently, ADV 
+known, VERB 
+timing, NOUN 
+irradiation, NOUN 
+
+, SPACE 
+unloading, NOUN 
+affects, VERB 
+skeletal, ADJ 
+response, NOUN 
+degree, NOUN 
+bone, NOUN 
+loss, NOUN 
+
+, SPACE 
+area, NOUN 
+requires, VERB 
+investigation, NOUN 
+
+, SPACE 
+present, ADJ 
+study, NOUN 
+provides, VERB 
+additional, ADJ 
+evidence, NOUN 
+suggest, VERB 
+
+, SPACE 
+skeletal, ADJ 
+effects, NOUN 
+proton, NOUN 
+radiation, NOUN 
+speci, VERB 
+ﬁc, INTJ 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+compartment, NOUN 
+expected, VERB 
+observed, VERB 
+modest, ADJ 
+loss, NOUN 
+cortical, ADJ 
+bone, NOUN 
+
+, SPACE 
+following, VERB 
+unloading, NOUN 
+effect, NOUN 
+proton, NOUN 
+irradia-, PUNCT 
+
+, SPACE 
+tion, NOUN 
+cortical, ADJ 
+bone, NOUN 
+addition, NOUN 
+additional, ADJ 
+effect, NOUN 
+
+, SPACE 
+combined, VERB 
+irradiation, NOUN 
+unloading, NOUN 
+cortical, ADJ 
+microstructure, NOUN 
+
+, SPACE 
+Table, NOUN 
+3, NUM 
+ﬁndings, NOUN 
+corroborated, VERB 
+lack, NOUN 
+change, NOUN 
+
+, SPACE 
+assessed, VERB 
+mechanical, ADJ 
+strength, NOUN 
+parameters, NOUN 
+highly, ADV 
+depen-, ADJ 
+
+, SPACE 
+dent, NOUN 
+cortical, ADJ 
+bone, NOUN 
+point, NOUN 
+bending, VERB 
+test, NOUN 
+paradigm, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Previous, ADJ 
+work, NOUN 
+group, NOUN 
+demonstrated, VERB 
+effect, NOUN 
+
+, SPACE 
+proton, NOUN 
+radiation, NOUN 
+cortical, ADJ 
+bone, NOUN 
+6,19,23, NOUN 
+
+, SPACE 
+dif, ADV 
+ﬁcult, PROPN 
+design, VERB 
+experiment, NOUN 
+adequately, ADV 
+mimics, VERB 
+
+, SPACE 
+types, NOUN 
+doses, NOUN 
+radiation, NOUN 
+astronauts, NOUN 
+expect, VERB 
+encounter, VERB 
+
+, SPACE 
+space, NOUN 
+ﬂight, PROPN 
+environment, NOUN 
+example, NOUN 
+solar, ADJ 
+particle, NOUN 
+
+, SPACE 
+event, NOUN 
+high, ADJ 
+particle, NOUN 
+ﬂuence, NOUN 
+compared, VERB 
+galactic, ADJ 
+cosmic, ADJ 
+rays, NOUN 
+
+, SPACE 
+total, ADJ 
+dose, NOUN 
+event, NOUN 
+delivered, VERB 
+period, NOUN 
+
+, SPACE 
+hours, NOUN 
+days, NOUN 
+instead, ADV 
+minutes, NOUN 
+current, ADJ 
+study, NOUN 
+effect, NOUN 
+
+, SPACE 
+dose, ADJ 
+rate, NOUN 
+response, NOUN 
+bone, NOUN 
+unknown, ADJ 
+known, VERB 
+
+, SPACE 
+effects, NOUN 
+radiation, NOUN 
+nonosseous, ADJ 
+tissues, NOUN 
+dramatically, ADV 
+dependent, ADJ 
+
+, SPACE 
+dose, ADJ 
+rate, NOUN 
+ability, NOUN 
+cell, NOUN 
+initiate, VERB 
+repair, NOUN 
+mechanisms, NOUN 
+
+, SPACE 
+intimately, ADV 
+related, ADJ 
+ability, NOUN 
+recover, VERB 
+radiation, NOUN 
+induced, VERB 
+
+, SPACE 
+damage, NOUN 
+12, NUM 
+general, ADJ 
+dose, NOUN 
+radiation, NOUN 
+administered, VERB 
+
+, SPACE 
+1, NUM 
+minute, NOUN 
+period, NOUN 
+produce, VERB 
+far, ADV 
+damage, NOUN 
+
+, SPACE 
+dose, NOUN 
+kind, ADV 
+1, NUM 
+hour, NOUN 
+period, NOUN 
+concept, NOUN 
+cellular, ADJ 
+
+, SPACE 
+repair, NOUN 
+time, NOUN 
+includes, VERB 
+DNA, NOUN 
+repair, NOUN 
+free, ADJ 
+radical, ADJ 
+scavenging, NOUN 
+
+, SPACE 
+replacement, NOUN 
+damaged, VERB 
+macromolecules, NOUN 
+basis, NOUN 
+
+, SPACE 
+dose, ADJ 
+fractionation, NOUN 
+guides, VERB 
+use, NOUN 
+therapeutic, ADJ 
+radiation, NOUN 
+
+, SPACE 
+cancer, NOUN 
+12, NUM 
+astronauts, NOUN 
+subject, ADJ 
+continuous, ADJ 
+
+, SPACE 
+exposure, NOUN 
+low, ADJ 
+dose, NOUN 
+radiation, NOUN 
+galactic, ADJ 
+cosmic, ADJ 
+
+, SPACE 
+rays, NOUN 
+potentially, ADV 
+short, ADJ 
+bursts, NOUN 
+relatively, ADV 
+high, ADJ 
+dose, PROPN 
+proton, NOUN 
+radi-, PROPN 
+
+, SPACE 
+ation, NOUN 
+solar, ADJ 
+particle, NOUN 
+event, NOUN 
+seen, VERB 
+de-, PROPN 
+
+, SPACE 
+sign, NOUN 
+adequate, ADJ 
+Earth, NOUN 
+based, VERB 
+models, NOUN 
+represents, VERB 
+logistical, ADJ 
+challenge, NOUN 
+
+, SPACE 
+addition, NOUN 
+previous, ADJ 
+studies, NOUN 
+laboratory, NOUN 
+indicate, VERB 
+mixed, ADJ 
+
+, SPACE 
+radiation, NOUN 
+effect, NOUN 
+bone, NOUN 
+single, ADJ 
+type, NOUN 
+31, NUM 
+
+, SPACE 
+effects, NOUN 
+proton, NOUN 
+radiation, NOUN 
+bone, NOUN 
+greater, ADJ 
+
+, SPACE 
+presence, NOUN 
+radiation, NOUN 
+types, NOUN 
+
+, SPACE 
+results, NOUN 
+present, ADJ 
+study, NOUN 
+demonstrate, VERB 
+1, NUM 
+Gy, PROPN 
+dose, NOUN 
+
+, SPACE 
+proton, NOUN 
+radiation, NOUN 
+deleterious, ADJ 
+effects, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+thetibia, PROPN 
+femur, ADJ 
+skeletally, ADV 
+mature, ADJ 
+mice, NOUN 
+Mechanical, ADJ 
+unloading, NOUN 
+
+, SPACE 
+induced, VERB 
+signi, NOUN 
+ﬁcant, NOUN 
+loss, NOUN 
+trabecular, ADJ 
+cortical, ADJ 
+bone, NOUN 
+Investi-, PROPN 
+
+, SPACE 
+gation, NOUN 
+combined, VERB 
+effect, NOUN 
+proton, NOUN 
+irradiation, NOUN 
+followed, VERB 
+
+, SPACE 
+unloading, NOUN 
+suggests, VERB 
+additive, ADJ 
+effect, NOUN 
+certain, ADJ 
+parameters, NOUN 
+indices, NOUN 
+combination, NOUN 
+produced, VERB 
+signi, NOUN 
+ﬁcantly, ADV 
+greater, ADJ 
+de-, PROPN 
+
+, SPACE 
+clines, NOUN 
+bone, NOUN 
+structural, ADJ 
+properties, NOUN 
+Statistical, ADJ 
+analysis, NOUN 
+revealed, VERB 
+
+, SPACE 
+effects, NOUN 
+radiation, NOUN 
+largely, ADV 
+independent, ADJ 
+unloading, NOUN 
+suggesting, VERB 
+astronauts, NOUN 
+long, ADJ 
+duration, NOUN 
+missions, NOUN 
+
+, SPACE 
+protective, ADJ 
+radiation, NOUN 
+shielding, NOUN 
+low, ADJ 
+Earth, PROPN 
+orbit, NOUN 
+greater, ADJ 
+
+, SPACE 
+risk, NOUN 
+skeletal, ADJ 
+deterioration, NOUN 
+course, ADV 
+study, NOUN 
+needed, VERB 
+re-, ADV 
+
+, SPACE 
+ﬁne, NOUN 
+models, NOUN 
+space, NOUN 
+ﬂight, PROPN 
+environment, NOUN 
+including, VERB 
+variations, NOUN 
+
+, SPACE 
+timing, NOUN 
+radiation, NOUN 
+unloading, NOUN 
+period, NOUN 
+unloading, NOUN 
+
+, SPACE 
+dose, ADJ 
+rate, NOUN 
+type, NOUN 
+radiation, NOUN 
+order, NOUN 
+better, ADV 
+understand, VERB 
+
+, SPACE 
+risks, NOUN 
+skeletal, ADJ 
+health, NOUN 
+aid, NOUN 
+development, NOUN 
+effective, ADJ 
+
+, SPACE 
+countermeasures, NOUN 
+
+, SPACE 
+Acknowledgments, NOUN 
+
+, SPACE 
+author, NOUN 
+like, VERB 
+acknowledge, VERB 
+grant, NOUN 
+support, NOUN 
+
+, SPACE 
+National, PROPN 
+Space, PROPN 
+Biomedical, PROPN 
+Research, PROPN 
+Institute, PROPN 
+BL01302, PROPN 
+
+, SPACE 
+NASA, PROPN 
+NCC, PROPN 
+9, NUM 
+‐58, NOUN 
+NIH, PROPN 
+5, NUM 
+R01, PROPN 
+AR059221, PROPN 
+02, NUM 
+Special, ADJ 
+thanks, NOUN 
+
+, SPACE 
+Dr., PROPN 
+Henry, PROPN 
+J, PROPN 
+Donahue, PROPN 
+R01, PROPN 
+AG013087, PROPN 
+partial, ADJ 
+funding, NOUN 
+support, NOUN 
+
+, SPACE 
+SAL, PROPN 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+1, X 
+Lang, PROPN 
+T, PROPN 
+LeBlanc, PROPN 
+Evans, PROPN 
+H, PROPN 
+Lu, PROPN 
+Y, PROPN 
+Genant, PROPN 
+H, PROPN 
+Yu, PROPN 
+A., NOUN 
+Cortical, ADJ 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+mineral, NOUN 
+loss, NOUN 
+spine, NOUN 
+hip, NOUN 
+long, ADJ 
+duration, NOUN 
+space, NOUN 
+ﬂight, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+
+, SPACE 
+Res, PROPN 
+2004;19:1006, NOUN 
+12, NUM 
+
+, SPACE 
+2, X 
+Morey, PROPN 
+Holton, PROPN 
+ER, PROPN 
+Globus, PROPN 
+RK, NOUN 
+Hindlimb, NOUN 
+unloading, VERB 
+rodent, ADJ 
+model, NOUN 
+technical, ADJ 
+aspects, NOUN 
+
+, SPACE 
+J, PROPN 
+Appl, PROPN 
+Physiol, PROPN 
+2002;92:1367, NUM 
+77, NUM 
+
+, SPACE 
+3, X 
+Judex, PROPN 
+S, PROPN 
+Garman, PROPN 
+R, PROPN 
+Squire, PROPN 
+M, PROPN 
+Busa, PROPN 
+B, PROPN 
+Donahue, PROPN 
+LR, PROPN 
+Rubin, PROPN 
+C., PROPN 
+Genetically, ADV 
+linked, VERB 
+
+, SPACE 
+site, NOUN 
+speci, NOUN 
+ﬁcity, NOUN 
+disuse, NOUN 
+osteoporosis, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+2004;19:607, PROPN 
+13, NUM 
+
+, SPACE 
+4, X 
+Squire, PROPN 
+M, PROPN 
+Donahue, PROPN 
+LR, PROPN 
+Rubin, PROPN 
+C, PROPN 
+Judex, PROPN 
+S., PROPN 
+Genetic, ADJ 
+variations, NOUN 
+regulate, VERB 
+bone, NOUN 
+
+, SPACE 
+morphology, NOUN 
+male, PROPN 
+mouse, PROPN 
+skeleton, PROPN 
+de, ADV 
+ﬁne, VERB 
+susceptibility, NOUN 
+me-, NUM 
+
+, SPACE 
+chanical, ADJ 
+unloading, NOUN 
+Bone, NOUN 
+2004;35:1353, NOUN 
+60, NUM 
+
+, SPACE 
+5, X 
+Reitz, PROPN 
+G., PROPN 
+Characteristic, PROPN 
+radiation, NOUN 
+ﬁeld, NOUN 
+low, ADJ 
+Earth, PROPN 
+orbit, NOUN 
+deep, ADJ 
+space, NOUN 
+
+, SPACE 
+Z, PROPN 
+Med, PROPN 
+Phys, PROPN 
+2008;18:233, ADV 
+43, NUM 
+
+, SPACE 
+6, NUM 
+Hamilton, PROPN 
+SA, PROPN 
+Pecaut, PROPN 
+MJ, PROPN 
+Gridley, PROPN 
+DS, PROPN 
+Travis, PROPN 
+ND, PROPN 
+Bandstra, PROPN 
+ER, PROPN 
+Willey, PROPN 
+JS, PROPN 
+et, PROPN 
+al, PROPN 
+murine, NOUN 
+
+, SPACE 
+model, NOUN 
+bone, NOUN 
+loss, NOUN 
+therapeutic, ADJ 
+space, NOUN 
+relevant, ADJ 
+sources, NOUN 
+radiation, NOUN 
+J, PROPN 
+Appl, PROPN 
+
+, SPACE 
+Physiol, PROPN 
+2006;101:789, NUM 
+93, NUM 
+
+, SPACE 
+7, X 
+Benton, PROPN 
+ER, PROPN 
+Benton, PROPN 
+EV, PROPN 
+Space, NOUN 
+radiation, NOUN 
+dosimetry, NOUN 
+low, ADJ 
+Earth, NOUN 
+orbit, NOUN 
+
+, SPACE 
+Nucl, PROPN 
+Instrum, PROPN 
+Methods, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+2001;184:255, NUM 
+94, NUM 
+
+, SPACE 
+8, X 
+Blakely, ADV 
+EA, NOUN 
+Biological, ADJ 
+effects, NOUN 
+cosmic, ADJ 
+radiation, NOUN 
+deterministic, ADJ 
+stochastic, ADJ 
+
+, SPACE 
+Health, PROPN 
+Phys, PROPN 
+2000;79:495, NUM 
+506, NUM 
+
+, SPACE 
+9, X 
+Townsend, VERB 
+LW, PROPN 
+Implications, NOUN 
+space, NOUN 
+radiation, NOUN 
+environment, NOUN 
+human, ADJ 
+explo-, ADJ 
+
+, SPACE 
+ration, NOUN 
+deep, ADJ 
+space, NOUN 
+Radiat, PROPN 
+Prot, PROPN 
+Dosimetry, PROPN 
+2005;115:44, NUM 
+50, NUM 
+
+, SPACE 
+10, NUM 
+Benton, PROPN 
+ER, PROPN 
+Benton, PROPN 
+E., PROPN 
+Space, PROPN 
+radiation, NOUN 
+dosimetry, NOUN 
+low, ADJ 
+Earth, NOUN 
+orbit, NOUN 
+
+, SPACE 
+Nucl, PROPN 
+Instrum, PROPN 
+Methods, PROPN 
+Phys, PROPN 
+Res, PROPN 
+Sect, PROPN 
+B, PROPN 
+2001;184:255, NUM 
+94, NUM 
+
+, SPACE 
+11, NUM 
+Stephens, PROPN 
+Jr, PROPN 
+DL, PROPN 
+Townsend, PROPN 
+LW, PROPN 
+Hoff, PROPN 
+JL, PROPN 
+Interplanetary, PROPN 
+crew, NOUN 
+dose, NOUN 
+estimates, NOUN 
+
+, SPACE 
+worst, ADJ 
+case, NOUN 
+solar, ADJ 
+particle, NOUN 
+events, NOUN 
+based, VERB 
+historical, ADJ 
+data, NOUN 
+Carrington, PROPN 
+ﬂare, NOUN 
+
+, SPACE 
+1859, NUM 
+Acta, PROPN 
+Astronaut, PROPN 
+2005;56:969, NOUN 
+74, NUM 
+
+, SPACE 
+12, NUM 
+Hall, PROPN 
+EJ, PROPN 
+Giaccia, PROPN 
+AJ, PROPN 
+Time, NOUN 
+dose, PROPN 
+fractionation, NOUN 
+radiotherapy, NOUN 
+Barrett, PROPN 
+K, PROPN 
+editor, NOUN 
+
+, SPACE 
+Radiobiology, PROPN 
+radiologist, NOUN 
+6th, ADJ 
+edition, NOUN 
+Philadelphia, PROPN 
+USA, PROPN 
+Lippincott, PROPN 
+Williams, PROPN 
+
+, SPACE 
+Wilkins, PROPN 
+2006, NUM 
+p., NOUN 
+378, NUM 
+406, NUM 
+
+, SPACE 
+13, NUM 
+Setlow, NOUN 
+R, NOUN 
+Dicello, PROPN 
+JF, PROPN 
+Radiation, NOUN 
+hazards, NOUN 
+crews, NOUN 
+interplanetary, ADJ 
+missions, NOUN 
+biological, ADJ 
+
+, SPACE 
+issues, NOUN 
+research, NOUN 
+strategies, NOUN 
+Washington, PROPN 
+D.C., PROPN 
+Space, PROPN 
+Studies, PROPN 
+Board, PROPN 
+National, PROPN 
+
+, SPACE 
+Research, PROPN 
+Council, PROPN 
+National, PROPN 
+Academy, PROPN 
+Press, PROPN 
+1996, NUM 
+p., NOUN 
+13, NUM 
+34, NUM 
+
+, SPACE 
+14, NUM 
+Parsons, PROPN 
+JL, PROPN 
+Townsend, PROPN 
+LW, PROPN 
+Interplanetary, PROPN 
+crew, NOUN 
+dose, NOUN 
+rates, NOUN 
+August, PROPN 
+1972, NUM 
+
+, SPACE 
+solar, ADJ 
+particle, NOUN 
+event, NOUN 
+Radiat, PROPN 
+Res, PROPN 
+2000;153:729, NOUN 
+33, NUM 
+
+, SPACE 
+15, NUM 
+NASA, PROPN 
+2011, NUM 
+strategic, ADJ 
+plan, NOUN 
+2011, NUM 
+p., NOUN 
+10, NUM 
+Washington, PROPN 
+D.C., PROPN 
+
+, SPACE 
+16, NUM 
+Cucinotta, PROPN 
+FA, PROPN 
+Wu, PROPN 
+H, PROPN 
+Shavers, PROPN 
+MR, PROPN 
+George, PROPN 
+K., PROPN 
+Radiation, PROPN 
+dosimetry, NOUN 
+biophysical, ADJ 
+
+, SPACE 
+models, NOUN 
+space, NOUN 
+radiation, NOUN 
+effects, NOUN 
+Gravit, PROPN 
+Space, PROPN 
+Biol, PROPN 
+Bull, PROPN 
+2003;16:11, NUM 
+8, NUM 
+
+, SPACE 
+17, NUM 
+Ohnishi, PROPN 
+K, PROPN 
+Ohnishi, PROPN 
+T., PROPN 
+biological, ADJ 
+effects, NOUN 
+space, NOUN 
+radiation, NOUN 
+long, ADJ 
+stays, NOUN 
+
+, SPACE 
+space, NOUN 
+Biol, PROPN 
+Sci, PROPN 
+Space, PROPN 
+2004;18:201, NOUN 
+5, NUM 
+
+, SPACE 
+18, X 
+Cucinotta, PROPN 
+FA, PROPN 
+Acute, PROPN 
+radiation, NOUN 
+risk, NOUN 
+countermeasures, NOUN 
+space, NOUN 
+radiation, NOUN 
+
+, SPACE 
+Vazquez, PROPN 
+editor, NOUN 
+NSBRI, PROPN 
+Medical, PROPN 
+Radiation, PROPN 
+Countermeasures, PROPN 
+Workshop, PROPN 
+National, PROPN 
+
+, SPACE 
+Space, PROPN 
+Biomedical, PROPN 
+Research, PROPN 
+Institute, PROPN 
+2006, NUM 
+
+, SPACE 
+19, NUM 
+Bandstra, ADJ 
+ER, PROPN 
+Pecaut, PROPN 
+MJ, PROPN 
+Anderson, PROPN 
+ER, PROPN 
+W, PROPN 
+illey, NOUN 
+JS, PROPN 
+De, PROPN 
+Carlo, PROPN 
+F, PROPN 
+Stock, PROPN 
+SR, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Long, ADJ 
+term, NOUN 
+dose, NOUN 
+response, NOUN 
+trabecular, NOUN 
+b, X 
+mice, NOUN 
+proton, NOUN 
+radiation, NOUN 
+Radiat, PROPN 
+
+, SPACE 
+Res, PROPN 
+2008;169:607, NUM 
+14, NUM 
+
+, SPACE 
+20, NUM 
+Willey, PROPN 
+JS, PROPN 
+Livingston, PROPN 
+EW, PROPN 
+Robbins, PROPN 
+Bourland, PROPN 
+JD, PROPN 
+Tirado, PROPN 
+Lee, PROPN 
+L, PROPN 
+Smith, PROPN 
+Sielicki, PROPN 
+H, PROPN 
+
+, SPACE 
+et, PROPN 
+al, PROPN 
+Risedronate, PROPN 
+prevents, VERB 
+early, ADJ 
+radiation, NOUN 
+induced, VERB 
+osteoporosis, NOUN 
+mice, NOUN 
+multi-, ADJ 
+
+, SPACE 
+ple, NOUN 
+skeletal, ADJ 
+locations, NOUN 
+Bone, NOUN 
+2010;46:101, NOUN 
+11, NUM 
+
+, SPACE 
+21, NUM 
+Yumoto, PROPN 
+K, PROPN 
+Globus, PROPN 
+RK, PROPN 
+Mojarrab, PROPN 
+R, PROPN 
+Arakaki, PROPN 
+J, PROPN 
+Wang, PROPN 
+Searby, PROPN 
+ND, PROPN 
+et, PROPN 
+al, PROPN 
+Short, ADJ 
+term, NOUN 
+
+, SPACE 
+effects, NOUN 
+body, NOUN 
+exposure, NOUN 
+56)Fe, NUM 
+ions, NOUN 
+combination, NOUN 
+musculoskeletal, ADJ 
+
+, SPACE 
+disuse, NOUN 
+bone, NOUN 
+cells, NOUN 
+Radiat, PROPN 
+Res, PROPN 
+2010;173:494, PROPN 
+504.763, NUM 
+S.A., PROPN 
+Lloyd, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+756, NUM 
+764, NUM 
+
+, SPACE 
+22, NUM 
+Alwood, PROPN 
+JS, PROPN 
+Yumoto, PROPN 
+K, PROPN 
+Mojarrab, PROPN 
+R, PROPN 
+Limoli, PROPN 
+CL, PROPN 
+Almeida, PROPN 
+EA, PROPN 
+Searby, PROPN 
+ND, PROPN 
+et, PROPN 
+al, PROPN 
+Heavy, ADJ 
+ion, NOUN 
+
+, SPACE 
+irradiation, NOUN 
+unloading, NOUN 
+effects, NOUN 
+mouse, PROPN 
+lumbar, PROPN 
+vertebral, ADJ 
+microarchitecture, NOUN 
+
+, SPACE 
+mechanical, ADJ 
+properties, NOUN 
+tissue, NOUN 
+stresses, NOUN 
+Bone, NOUN 
+2010;47:248, NOUN 
+55, NUM 
+
+, SPACE 
+23, NUM 
+Lloyd, PROPN 
+SA, PROPN 
+Bandstra, PROPN 
+ER, PROPN 
+Travis, PROPN 
+ND, PROPN 
+Nelson, PROPN 
+GA, PROPN 
+Bourland, PROPN 
+JD, PROPN 
+Pecaut, PROPN 
+MJ, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Space, PROPN 
+ﬂight, NOUN 
+relevant, ADJ 
+types, NOUN 
+ionizing, VERB 
+radiation, NOUN 
+cortical, ADJ 
+bone, NOUN 
+potential, ADJ 
+LET, NOUN 
+
+, SPACE 
+effect, NOUN 
+Adv, PROPN 
+Space, PROPN 
+Res, PROPN 
+2008;42:1889, NOUN 
+97, NUM 
+
+, SPACE 
+24, NUM 
+Gridley, PROPN 
+DS, PROPN 
+Pecaut, PROPN 
+MJ, PROPN 
+Dutta, PROPN 
+Roy, PROPN 
+R, PROPN 
+Nelson, PROPN 
+GA, PROPN 
+Dose, VERB 
+dose, VERB 
+rate, NOUN 
+effects, NOUN 
+
+, SPACE 
+body, NOUN 
+proton, NOUN 
+irradiation, NOUN 
+leukocyte, ADJ 
+populations, NOUN 
+lymphoid, ADJ 
+organs, NOUN 
+I., PROPN 
+Immunol, PROPN 
+Lett, PROPN 
+2002;80:55, NUM 
+66, NUM 
+
+, SPACE 
+25, NUM 
+Gridley, PROPN 
+DS, PROPN 
+Pecaut, PROPN 
+MJ, PROPN 
+Miller, PROPN 
+GM, PROPN 
+Moyers, PROPN 
+MF, PROPN 
+Nelson, PROPN 
+GA, PROPN 
+Dose, PROPN 
+dose, NOUN 
+rate, NOUN 
+
+, SPACE 
+effects, NOUN 
+body, NOUN 
+gamma, NOUN 
+irradiation, NOUN 
+II, PROPN 
+Hematological, ADJ 
+variables, NOUN 
+cytokines, NOUN 
+
+, SPACE 
+Vivo, PROPN 
+2001;15:209, NOUN 
+16, NUM 
+
+, SPACE 
+26, NUM 
+International, PROPN 
+Commission, PROPN 
+Radiation, PROPN 
+Units, PROPN 
+Measurements, PROPN 
+Clinical, ADJ 
+proton, NOUN 
+
+, SPACE 
+dosimetry, NOUN 
+Bethesda, PROPN 
+MD, PROPN 
+International, PROPN 
+Commission, PROPN 
+Radiation, PROPN 
+Units, PROPN 
+
+, SPACE 
+Measurements, NOUN 
+1998, NUM 
+
+, SPACE 
+27, NUM 
+Broz, PROPN 
+JJ, PROPN 
+Simske, PROPN 
+SJ, PROPN 
+Greenberg, PROPN 
+AR, PROPN 
+Luttges, PROPN 
+MW, PROPN 
+Effects, NOUN 
+rehydration, NOUN 
+state, NOUN 
+
+, SPACE 
+theﬂexural, ADJ 
+properties, NOUN 
+mouse, NOUN 
+long, ADJ 
+bones, NOUN 
+J, PROPN 
+Biomech, PROPN 
+Eng, PROPN 
+1993;115, PROPN 
+
+, SPACE 
+447, NUM 
+9, NUM 
+
+, SPACE 
+28, NUM 
+Par, PROPN 
+ﬁtt, NOUN 
+Drezner, PROPN 
+MK, PROPN 
+Glorieux, PROPN 
+FH, PROPN 
+Kanis, PROPN 
+JA, PROPN 
+Malluche, PROPN 
+H, PROPN 
+Meunier, PROPN 
+PJ, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+
+, SPACE 
+histomorphometry, NOUN 
+standardization, NOUN 
+nomenclature, NOUN 
+symbols, NOUN 
+units, NOUN 
+Report, PROPN 
+
+, SPACE 
+ASBMR, PROPN 
+Histomorphometry, PROPN 
+Nomenclature, PROPN 
+Committee, PROPN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+
+, SPACE 
+1987;2:595, NUM 
+610, NUM 
+
+, SPACE 
+29, NUM 
+Sibonga, PROPN 
+JD, PROPN 
+Evans, PROPN 
+HJ, PROPN 
+Sung, PROPN 
+HG, PROPN 
+Spector, PROPN 
+ER, PROPN 
+Lang, PROPN 
+TF, PROPN 
+Oganov, PROPN 
+VS, PROPN 
+et, PROPN 
+al, PROPN 
+Recovery, PROPN 
+
+, SPACE 
+space, NOUN 
+ﬂight, NOUN 
+induced, VERB 
+bone, NOUN 
+loss, NOUN 
+bone, NOUN 
+mineral, NOUN 
+density, NOUN 
+long, ADJ 
+duration, NOUN 
+missions, NOUN 
+
+, SPACE 
+asﬁtted, VERB 
+exponential, ADJ 
+function, NOUN 
+Bone, NOUN 
+2007;41:973, NOUN 
+8, NUM 
+
+, SPACE 
+30, NUM 
+Lang, PROPN 
+TF, PROPN 
+Leblanc, PROPN 
+AD, PROPN 
+Evans, PROPN 
+HJ, PROPN 
+Lu, PROPN 
+Y., PROPN 
+Adaptation, PROPN 
+proximal, ADJ 
+femur, NOUN 
+skeletal, ADJ 
+
+, SPACE 
+reloading, NOUN 
+long, ADJ 
+duration, NOUN 
+space, NOUN 
+ﬂight, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+2006;21:1224, NOUN 
+30.[31, PROPN 
+Bandstra, ADJ 
+ER, PROPN 
+Thompson, PROPN 
+RW, PROPN 
+Nelson, PROPN 
+GA, PROPN 
+Willey, PROPN 
+JS, PROPN 
+Judex, PROPN 
+S, PROPN 
+Cairns, PROPN 
+MA, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Musculoskeletal, PROPN 
+changes, NOUN 
+mice, NOUN 
+20, NUM 
+50, NUM 
+cGy, NOUN 
+simulated, VERB 
+galactic, ADJ 
+cosmic, ADJ 
+
+, SPACE 
+rays, NOUN 
+Radiat, PROPN 
+Res, PROPN 
+2009;172:21, NUM 
+9, NUM 
+
+, SPACE 
+32, NUM 
+Halloran, PROPN 
+BP, NOUN 
+Ferguson, PROPN 
+VL, PROPN 
+Simske, PROPN 
+SJ, PROPN 
+Burghardt, PROPN 
+Venton, PROPN 
+LL, PROPN 
+Majumdar, PROPN 
+S., PROPN 
+
+, SPACE 
+Changes, NOUN 
+bone, NOUN 
+structure, NOUN 
+mass, NOUN 
+advancing, VERB 
+age, NOUN 
+male, ADJ 
+C57BL/6J, PROPN 
+
+, SPACE 
+mouse, PROPN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+2002;17:1044, NOUN 
+50, NUM 
+
+, SPACE 
+33, NUM 
+Glatt, PROPN 
+V, PROPN 
+Canalis, PROPN 
+E, PROPN 
+Stadmeyer, PROPN 
+L, PROPN 
+Bouxsein, PROPN 
+ML, PROPN 
+Age, NOUN 
+related, VERB 
+changes, NOUN 
+trabecular, ADJ 
+archi-, ADJ 
+
+, SPACE 
+tecture, NOUN 
+differ, VERB 
+female, ADJ 
+male, ADJ 
+C57BL/6J, PROPN 
+mice, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+2007;22:1197, PROPN 
+207, NUM 
+
+, SPACE 
+34, NUM 
+Ferguson, PROPN 
+VL, PROPN 
+Ayers, PROPN 
+RA, PROPN 
+Bateman, PROPN 
+TA, PROPN 
+Simske, PROPN 
+SJ, PROPN 
+Bone, NOUN 
+development, NOUN 
+age, NOUN 
+related, VERB 
+
+, SPACE 
+bone, NOUN 
+loss, NOUN 
+male, ADJ 
+C57BL/6J, PROPN 
+mice, NOUN 
+Bone, NOUN 
+2003;33:387, NOUN 
+98, NUM 
+
+, SPACE 
+35, NUM 
+Willey, PROPN 
+JS, PROPN 
+Lloyd, PROPN 
+SA, PROPN 
+Robbins, PROPN 
+Bourland, PROPN 
+JD, PROPN 
+Smith, PROPN 
+Sielicki, PROPN 
+H, PROPN 
+Bowman, PROPN 
+LC, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Early, ADJ 
+increase, NOUN 
+osteoclast, ADJ 
+number, NOUN 
+mice, NOUN 
+body, NOUN 
+irradiation, NOUN 
+
+, SPACE 
+2, NUM 
+Gy, PROPN 
+X, NOUN 
+rays, NOUN 
+Radiat, PROPN 
+Res, PROPN 
+2008;170:388, NUM 
+92, NUM 
+
+, SPACE 
+36, NUM 
+Lloyd, PROPN 
+SA, PROPN 
+Travis, PROPN 
+ND, PROPN 
+Lu, PROPN 
+T, PROPN 
+Bateman, PROPN 
+TA, PROPN 
+Development, NOUN 
+low, ADJ 
+dose, NOUN 
+anti, ADJ 
+resorptive, ADJ 
+
+, SPACE 
+drug, NOUN 
+regimen, NOUN 
+reveals, VERB 
+synergistic, ADJ 
+suppression, NOUN 
+bone, NOUN 
+formation, NOUN 
+coupled, VERB 
+
+, SPACE 
+disuse, NOUN 
+J, PROPN 
+Appl, PROPN 
+Physiol, PROPN 
+2008;104:729, VERB 
+38, NUM 
+
+, SPACE 
+37, NUM 
+Morey, PROPN 
+Holton, PROPN 
+ER, PROPN 
+Globus, PROPN 
+RK, NOUN 
+Hindlimb, NOUN 
+unloading, NOUN 
+growing, VERB 
+rats, NOUN 
+model, NOUN 
+
+, SPACE 
+predicting, VERB 
+skeletal, ADJ 
+changes, NOUN 
+space, NOUN 
+ﬂight, NOUN 
+Bone, NOUN 
+1998;22:83S, NOUN 
+8S., NOUN 
+
+, SPACE 
+38, NUM 
+Morey, PROPN 
+Holton, PROPN 
+E, PROPN 
+Globus, PROPN 
+RK, PROPN 
+Kaplansky, PROPN 
+Durnova, PROPN 
+G., PROPN 
+hindlimb, NOUN 
+unloading, VERB 
+rat, NOUN 
+
+, SPACE 
+model, NOUN 
+literature, NOUN 
+overview, NOUN 
+technique, NOUN 
+update, NOUN 
+comparison, NOUN 
+space, NOUN 
+ﬂight, NOUN 
+
+, SPACE 
+data, NOUN 
+Adv, PROPN 
+Space, PROPN 
+Biol, PROPN 
+Med, PROPN 
+2005;10:7, NOUN 
+40, NUM 
+
+, SPACE 
+39, NUM 
+Amblard, PROPN 
+D, PROPN 
+Lafage, PROPN 
+Proust, PROPN 
+MH, PROPN 
+Laib, PROPN 
+Thomas, PROPN 
+T, PROPN 
+Ruegsegger, PROPN 
+P, PROPN 
+Alexandre, PROPN 
+C, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Tail, PROPN 
+suspension, NOUN 
+induces, VERB 
+bone, NOUN 
+loss, NOUN 
+skeletally, ADV 
+mature, ADJ 
+mice, NOUN 
+C57BL/6J, PROPN 
+strain, NOUN 
+
+, SPACE 
+C3H, PROPN 
+HeJ, PROPN 
+strain, VERB 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+2003;18:561, NOUN 
+
+, SPACE 
+9, NUM 
+
+, SPACE 
+40, NUM 
+Squire, PROPN 
+M, PROPN 
+Brazin, PROPN 
+Keng, PROPN 
+Y, PROPN 
+Judex, PROPN 
+S., PROPN 
+Baseline, PROPN 
+bone, NOUN 
+morphometry, NOUN 
+cellular, ADJ 
+
+, SPACE 
+activity, NOUN 
+modulate, VERB 
+degree, NOUN 
+bone, NOUN 
+loss, NOUN 
+appendicular, ADJ 
+skeleton, NOUN 
+
+, SPACE 
+disuse, NOUN 
+Bone, NOUN 
+2008;42:341, NOUN 
+9.764, NUM 
+S.A., PROPN 
+Lloyd, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+756, NUM 
+764, NUM 
+
+, SPACE 

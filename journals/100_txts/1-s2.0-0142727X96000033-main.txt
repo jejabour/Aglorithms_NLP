@@ -1,0 +1,1030 @@
+~!~l I~ 
+A review of empirical flame impingement 
+heat transfer correlations 
+C. E. Baukal, Jr. and B. Gebhart 
+Department of Mechanical Engineering and Applied Mechanics, The University of Pennsylvania, 
+Philadelphia, PA, USA 
+Impinging flames are used in industrial heating and melting, safety research, and aerospace 
+applications. Multiple modes of heat transfer are commonly important in those processes. 
+However, the detailed heat transfer mechanisms are not well understood. The available 
+semianalytical heat transfer solutions have only limited applicability. Therefore, re- 
+searchers and designers have either made measurements or used empirical correlations to 
+determine the heat flux rates. Here, the empirical correlations are reviewed. The correla- 
+tions are first arranged by the flow geometry. Four geometries have been studied. These 
+include flames impinging: (1) normal to cylinders in cross-flow; (2) normal to hemispheri- 
+cally nosed cylinders; (3) normal to plane surfaces; and (4) along plane surfaces. The 
+correlations are then arranged by the size of the region on the target under consideration. 
+Correlations that apply to a small region on the target, such as the stagnation point, are 
+referred to as the local heat flux. Correlations that apply to a large region of the target, 
+such as the entire body of a cylindrical target, are referred to as the average heat flux. Next, 
+the correlations are arranged by the type of heat transfer. Correlations for natural and 
+forced convection, thermochemical heat release (TCHR), radiation, forced convection with 
+TCHR, and forced convection with radiation have been reported for some combinations of 
+geometry and operating conditions. Finally, the correlations are arranged by the flow type, 
+either laminar or turbulent. Correlations do not exist for many combinations of geometry 
+and operating conditions; therefore, recommendations are given for further research. 
+Keywords: flame impingement; heat transfer; empirical correlations; forced convection; 
+natural convection; radiation 
+Introduction 
+Flame impingement heating is important in many processes. 
+Low-intensity flames are used to heat metal bars prior to rolling 
+into sheets. They are also used in safety research. In one applica- 
+tion, they are used to quantify the heating rate caused by 
+buoyant fires impinging on walls and ceilings. In others, they are 
+used to simulate extensive fires, impinging on structural ele- 
+ments. Such high-velocity flames may be caused by ruptured fuel 
+pipes. High-intensity flame impingement arises in many applica- 
+tions. They are commonly used to melt scrap metal and to shape 
+glass. They have also been used in recent years to produce 
+synthetic diamond coatings by chemical vapor deposition. They 
+have been used in thermal spallation, where a supersonic velocity 
+flame bores holes through rock. The rock fragmentation is caused 
+by large, transient, thermal stresses. This is attributable to high 
+heat fluxes impinging on cold surfaces. High-intensity flame 
+Address reprint requests toDr. C. E. Baukal, Jr., St. Principal 
+Development Engineer, Advanced Technology Group, Air Prod- 
+ucts and Chemicals, Inc., 7201 Hamilton Blvd., Allentown, PA 
+18195-1501, USA. 
+Received 1 August 1995; accepted 24 January 1996 
+Int. J. Heat and Fluid Flow 17: 386-396, 1996 
+© 1996 by Elsevier Science Inc. 
+655 Avenue of the Americas, New York, NY 10010 impingement has also been used to study the extremely high heat 
+fluxes encountered by space vehicles, re-entering the Earth's 
+atmosphere. High fluxes are caused by the hypersonic impact gas 
+velocities, which ionize the highly shocked atmospheric gases. 
+The primary objective of this review is to provide designers 
+and researchers with available empirical heat transfer correla- 
+tions for flame impingement on target surfaces. Another objec- 
+tive is to provide a comprehensive reference for this subject and 
+to identify areas requiring further research. 
+Heat transfer mechanisms 
+Convection, thermochemical heat release, radiation, and conden- 
+sation are the heat transfer mechanisms identified in the flame 
+impingement studies reviewed here. The relative importance of 
+each heat transfer mechanisms depends on the experimental 
+conditions. For example, when targets have been located inside a 
+hot furnace, radiation from the environment; that is, the furnace 
+walls, has been very important. However, for targets not located 
+in any enclosure, radiation from the ambient environment is 
+negligible. In many circumstances, multiple mechanisms have 
+been combined into one heat transfer correlation. This has 
+commonly been done for forced convection coupled with thermo- 
+0142-727X/96/$15.00 
+PII S0142-727X(96)00003-1 
+
+Flame impingement heat transfer correlations." C. E. Baukal and B. Gebhart 
+chemical heat release (TCHR), primarily because of the difficulty 
+in experimentally separating these mechanisms. In some studies, 
+heat transfer mechanisms have been completely ignored, without 
+sufficient justification. These are discussed by Baukal et al. 
+(1996). The following section is a general discussion of these 
+mechanisms. A detailed presentation of specific correlations, the 
+main subject of this work, follows in a later section. 
+Convection 
+Forced convection. This is the predominant mechanism in 
+low-intensity flames, with negligible chemical dissociation. Lami- 
+nar flames were investigated in several studies (e.g., Jackson and 
+Kilham 1956). Turbulent flames were tested in many studies (e.g., 
+Giedt et al. 1960). There, the turbulence level directly enhances 
+the importance of forced convection. 
+Natural convection. You (1985) correlated the heat transfer 
+for a buoyant flame in terms of the Rayleigh number. The 
+correlations are given later in Equation 27. Buoyancy was impor- 
+tant in their study because of the low burner exit velocities. 
+Thermochemical heat release (TCHR) 
+This mechanism refers to the energy release caused by exother- 
+mic chemical reactions. Hot, dissociated combustion products 
+impinge on a cool surface. The radical species diffuse along 
+concentration gradients toward lower temperature regions. Then, 
+they exothermically recombine with other species to form more 
+stable molecules. The new molecular components are thermody- 
+namically preferred at the lower temperatures. For example, 
+there may be significant amounts of unburned fuel, in the form 
+of CO and H2, produced by O2/CH 4 flames. These flames usually have much higher temperatures than air/CH 4 flames. 
+This is caused by the removal of the N 2, which acts as a diluent 
+to moderate the flame temperatures. The unburned fuel compo- 
+nents are thermodynamically preferred at the high temperatures. 
+However, at temperatures below about 1600K, these radical 
+species cool and react to form CO 2 and H20. They simultane- 
+ously release energy. Thermochemical heat release is commonly 
+very important in high-temperature flames, because the level of 
+dissociation increases with temperature. Three types of TCHR 
+have been identified: equilibrium, catalytic, and mixed. These are 
+discussed in Baukal et al. (1996). 
+Radiation heat transfer 
+Three types of thermal radiation are involved in the flame 
+impingement studies reviewed here. They include nonluminous, 
+luminous, and emission from surfaces. 
+Nonluminous radiation. Gaseous combustion products, such 
+as carbon dioxide and water vapor, produce nonluminous radia- 
+tion. Radiation from CO 2 and H20 has been extensively stud- 
+ied because of its important in combustion. Such radiation 
+depends on the gas temperature, partial pressure, and concentra- 
+tion of each gas species and the optical path length through the 
+gas. In some studies, nonluminous radiation amounted to a 
+significant fraction of the total heat flux to the target. Kilham's 
+(1949) data indicated that flame radiation accounted for between 
+5 and 16% of the total heat flux. Jackson and Kilham (1956) 
+found that the measured flame radiation accounted for up to 5% 
+of the total heat flux. Ivernel and Vernotte (1979) calculated 
+nonluminous flame radiation effects. They accounted for up to 
+34% of the total heat flux. The measured CO 2 and H20 
+concentrations in the furnace, together with the Hottel curves 
+Notation x dimensionless axial distance from the burner toward 
+the stagnation point = x/d n 
+cp specific heat 
+d diameter Greek 
+g gravity 
+h c chemical enthalpy 13 
+h s sensible enthalpy = fCp dt 
+h r total enthalpy = h c + h s ix P k thermal conductivity tb 
+1 length 
+L dimensionless distance between burner and stagna- f~ 
+tion body = lj/d n 
+Le Lewis number 
+m mole fraction Subscripts 
+Ma Mach number 
+Nu Nusselt number b 
+Pr Prandtl number conv 
+q" heat flux e 
+qf burner firing rate, kW oo 
+QH H atom heat of recombination j 
+r radial distance from burner centerline max 
+R dimensionless radial distance from the burner cen- n 
+terline = r/d, r 
+Ra Rayleigh number rad 
+Re Reynolds number rec 
+t temperature ref 
+s 
+Tu turbulence intensity = -- TCHR 
+u velocity v 
+v' fluctuating velocity w 
+x axial distance from the burner toward the stagnation 
+point coefficient of thermal expansion 
+absolute or dynamic viscosity 
+density 
+equivalence ratio = (stoichiometric oxygen/fuel vol- 
+ume ratio)/(actual oxygen/fuel volume ratio) 
+oxygen enrichment ratio = (oxygen volume in the 
+oxidizer/total oxidizer volume) 
+body or target 
+convection 
+edge of boundary layer 
+ambient 
+jet 
+maximum at a given location 
+nozzle 
+based on the radial distance r 
+radiation 
+evaluated at the recovery temperature, Equation if 
+evaluated at the reference temperature, Equation le 
+stagnation point 
+thermochemical heat release 
+position in the jet where the flow is fully developed 
+wall 
+Int. J. Heat and Fluid Flow, Vol. 17, No. 4, August 1996 387 
+
+Flame impingement heat transfer correlations: C. E. Baukal and B. Gebhart 
+(Hottel and Sarofim 1967), were used to determine the flame 
+emissivity. 
+In some studies, nonluminous radiation was negligible. Giedt 
+et al. (1960) measured and calculated the nonluminous radiation 
+to be less than 2% of the total heat flux. Woodruff and Giedt 
+(1966) measured the nonluminous radiation using the same con- 
+figuration as Giedt et al. The effect was negligible. Shorin and 
+Pechurkin (1968) also experimentally determined that radiation 
+was negligible. Hoogendoorn et al. (1978) found that radiation 
+did not exceed 5% of the total heat flux. No measurements or 
+calculations were given. Davies (1979) calculated that nonlumi- 
+nous radiation account for only 2% of the total heat flux. 
+Luminous radiation. This occurs when soot particles are pro- 
+duced. These radiate approximately as a blackbody. This mecha- 
+nism is very important for such liquid and solid fuels as oil and 
+coal. It is not commonly significant for gaseous fuels such as 
+methane. You (1985) measured radiation from pure diffusion 
+(qb = ~) natural gas flames. Much of this radiation is expected to 
+have been luminous because of the nature of buoyant, pure 
+diffusion flames. Radiation accounted for 13-26% of the total 
+flux at the stagnation point. Hustad and co-workers (1991) calcu- 
+lated the radiation flux to the stagnation point of a cylinder in 
+cross-flow to be from 7-14% and 20-40% of the total flux for 
+CH 4 and C3H 8 pure diffusion flames, respectively. Luminous 
+radiation may have been important in other studies, where the 
+flames were very fuel rich (e.g., Buhr et al. 1973). However, no 
+measurements or calculations were reported. 
+Surface radiant emission. Be6r and Chigier (1968) studied 
+stoichiometric air/coke oven gas flames impinging on the hearth 
+of a furnace. The measured radiation was at least 10% of the 
+total heat flux. This radiation was actually the combination of the 
+furnace wall radiant emission and the radiation from the flame. 
+However, the radiation from that type of flame is usually negligi- 
+ble, as previously discussed. 
+Vizioz and Lowes (1971) and Smith and Lowes (1974) studied 
+flame impingement onto a cooled plane target located inside a 
+hot furnace. Radiation and convection were often determined to 
+be of comparable magnitude. Vizioz and Lowes measured radia- 
+tion as being 4-100% of the total heat flux. Smith and Lowes 
+calculated total radiation, using Hottel's zone method (Hottel 
+and Sarofim 1967). It accounted for 30-43% and 10-17% of the 
+total heat transfer to water-cooled and air-cooled flat plates, 
+respectively. 
+Matsuo et al. (1978) studies flame impingement on a metal 
+part, inside a hot furnace. Coke oven gas was combusted with air 
+that had been preheated to 200°C. The top of the part was 
+exposed to the impinging flame. The rest was exposed to the 
+radiation from the furnace walls. Furnace radiation was the 
+dominant heat transfer mechanism: (1) when the distance be- 
+tween the burner and the slab was large; (2) at high slab surface 
+temperatures; and (3) at large R. Ivernel and Vernotte (1979) 
+calculated that radiation from the furnace walls accounted for up 
+to 42% of the total heat flux. 
+You (1985) studied a buoyant unenclosed flame impinging on 
+a flat plate. The convective and total heat flux rates were 
+measured using gauges plated with gold and black foils, respec- 
+tively. By subtracting the convection effect from the total heat 
+flux, radiation was calculated to be as much as 35% of the 
+convective flux. Thermal radiation dropped off rapidly as R 
+increased, for a fixed L. 
+Water vapor condensation 
+For the studies reviewed here, that of Hargrave eta]. (1987) was 
+the only one that considered the effect of condensation. They 
+attempted to eliminate it by careful experimental design. Flowing ethylene glycol was used to cool the inside wall of a cylinder and 
+a heminosed cylinder target. Glycol has a higher boiling point 
+than that of water. Therefore, the target surface temperature 
+could be maintained at a high enough level to prevent water 
+vapor in the combustion products from condensing on the target. 
+Water-cooled targets have been used in many studies (e.g., 
+Anderson and Stresino 1963). The surface temperature was 
+maintained below the boiling point of the water. This prevented 
+cooling water boiling inside the target. However, the water vapor 
+in the combustion products may have condensed on the cool 
+target surface. For air/fuel flames, the water content in the 
+combustion products is relatively small. However, in O2/CH 4 
+flames, for example, these products are two-thirds water. Con- 
+densation may have been important in those studies. This effect 
+has not been quantified in any study. 
+Thermophysical properties 
+The transport and thermodynamic properties used in the correla- 
+tions to be presented below are discussed in this section. These 
+properties have been evaluated, using several rules. These prop- 
+erties include, for example, the specific heat, thermal conductiv- 
+ity, enthalpy, and the viscosity of the combustion products. The 
+nomenclature is shown in Figure 1. One common rule has been 
+to evaluate the properties, using the gas temperature at the edge 
+of the stagnation zone and the boundary layer, te: 
+Pe =p(t~) (la) 
+where p is the property being evaluated. Another common rule 
+has been to evaluate the properties at the wall temperature of 
+the target t w 
+Pw =P(tw) (lb) 
+Some properties have been evaluated at the film temperature. 
+This is the mean temperature between the edge of the stagnation 
+zone and the wall temperature. The property is evaluated using 
+t5 =p[(t e + tw)/2] (lc) 
+Some studies (e.g., Hargrave et al. 1987) have used a weighted 
+average, over the temperature range between the edge of the 
+stagnation zone and the wall temperatures, as 
+~= ft~pdt/(te-tw) tw / (ld) 
+BURNER f d 
+Figure I Nomenclature for flame impinging normal to a 
+plane surface 
+388 Int. J. Heat and Fluid Flow, Vol. 17, No. 4, August 1996 
+
+Flame impingement heat transfer correlations: C. E. Baukal and B. Gebhart 
+Hoogendoorn et al. (1978) and Popiel et al. (1980) used the 
+reference temperature method recommended by Eckert (1956): 
+Pref =p[te + 0"5(tw - re) + 0"22(trec -- te)] (le) 
+where 
+,2 0.5 tre c = t e + t: e Pr e /2cpe (lf) 
+For low-speed flows, the recovery temperature is about the same 
+as t e. Therefore, Pref is nearly the same as ~ in Equation lc. 
+Be6r and Chigier (1968) evaluated the properties at the maxi- 
+mum temperature measured at a given location in the flame jet: 
+Pmax =p(tmax ) (lg) 
+Definitions of dimensionless quantities to be introduced be- 
+low, such as Re, Nu, and Pr, will require specification of a 
+characteristic length scale and characteristic transport properties. 
+The transport properties will, in turn, require specification of the 
+rule by which they are evaluated; e.g., use of a specific character- 
+istic temperature of the material. When only transport proper- 
+ties; i.e., material temperature, are required, this is indicated by a 
+single subscript; e.g., Pr e (i.e., Pr evaluated at te). When both 
+characteristic length and property temperature are required, 
+these are indicated by the first and second of two subscripts, 
+respectively. For example, Re,,~ is shorthand notation for 
+Re,, e = PeUedn/la, e . For this example, the characteristic dimen- 
+sion is dn. That dimension is an important parameter in correlat- 
+ing the heat transfer. There are many possible lengths that may 
+be used. The most common one has been the burner nozzle 
+diameter d,. Another has been the axial distance from the 
+nozzle edge to the surface stagnation point lj. For cylindrical and 
+heminosed cylindrical targets (see Figures 2 and 3), the diameter 
+of the body d b, has been used. For plane targets, the distance 
+along the surface r has also been used. Smith and Lowes (1974) 
+used the width of the cooling channel in the target l c. Kataoka et 
+al. (1984) used the radius where the velocity was half the axial 
+(r = 0) velocity rl/2,,. 
+Empirical heat transfer correlations 
+These have been generally given in two forms. The first is the 
+Nusselt number, which is a dimensionless heat transfer coeffi- 
+cient. In the studies considered here, it has appeared as Nu = 
+aPrbRe c, where a, b, and c are constants. The second form has 
+been directly in terms of the heat flux, q". These two forms are 
+related as follows: q" = (k/d){Nu}At, where k is the thermal 
+conductivity of the fluid, and d is a characteristic dimension. 
+For consistency, most of the correlations given here are 
+written in terms of q". This makes it easier to directly compare 
+equations. Also, the driving force, or the potential for heat 
+transfer, is explicitly given in the second form. In some correla- Figure 2 ) BURNER 
+Flame impinging normal to a cylinder in cross-flow 
+tions, this potential is the temperature difference. In others, it is 
+the enthalpy difference. In the first form, the Nu formulation, 
+the potential is not given explicitly. For the correlations con- 
+verted from the first form to the second form (i.e., Nu to q"), the 
+Nu relationship is shown inside curved brackets { }. 
+This section is arranged to aid the designer or researcher to 
+find the appropriate correlation for a specific set of conditions. 
+The primary consideration is to ensure that the heat transfer 
+correlation applies to the chosen geometric configuration. The 
+next consideration is the location on the target where the desired 
+flux is to be calculated. This has typically been at a specific 
+location, such as the stagnation point. This is referred to as a 
+local heat flux. Correlations have also been determined for the 
+average heat flux over a given portion of the target. Next, the 
+correlations are arranged in terms of the heat transfer mecha- 
+nism(s). These include convection, TCHR, radiation, and combi- 
+nations of these. Finally, the correlations are arranged by the 
+flow type (laminar or turbulent). In some studies (e.g., Fair- 
+weather et al. 1984), correlations were given for both laminar and 
+turbulent flows. However, in other studies, the flow type was not 
+specified. 
+Flames impinging normal to a cylinder 
+This refers to flames impinging perpendicular to a cylinder, as in 
+Figure 2, a cylinder in cross-flow. The experimental conditions 
+for previous studies, using this geometry, are given in Table 1. 
+The table also shows which heat transfer mechanisms were 
+correlated in those studies. 
+Local convection heat transfer 
+Laminar and turbulent flows. Hustad and co-workers (1991) 
+measured the radiation and the total heat fluxes for both laminar 
+and turbulent flows. The radiation flux was also calculated. The 
+convection heat transfer was calculated by subtracting the calcu- 
+lated radiation from the measured heat flux. Several correlations 
+from the literature were tested for the convective portion of the 
+heat transfer. The best match with the experimental convection 
+at the stagnation point was the correlation from Zukauskas and 
+Figure 3 () BURNER (~ ~ARGET 
+f 
+Flame impinging normal to a hemi-nosed cylinder in parallel flow 0 
+Int. J. Heat and Fluid Flow, Vol. 17, No. 4, August 1996 389 
+
+Flame impingement heat transfer correlations: C. E. Baukal and B. Gebhart 
+Table 1 Experimental conditions for flames impinging normal to cylinders 
+Heat transfer mechanisms 
+Location Forced conv. TCHR Radiation Oxidizer Re n + Fuel(s) Reference 
+Local ~/ air 
+¢ ? ( air 
+Average ~/ air 
+~/ air 
+~/ air 
+~/ air 
+~/ ~/ air/O 2 
+¢ 02 
+¢ air 
+¢ ¢ 02 
+¢ ¢ 02 
+~/ ~/ air/O 2 
+¢ ¢ 02 
+Maximum ~/ ? ~/ air 2000-8000 0.8-1.2 CH 4 
+200-3600 co CH4, C3H8 
+not given 1.25 C3H 8 
+laminar a 1.0, 1.19 CO 
+200-3600 oo CH4, C3H8 
+not given 0.6-1.3 natural gas 
+0.5-1.3 
+0.5-1.16 
+laminar a 1.0 H 2 
+1.0 H 2 
+1.0, 2.0 CO 
+not given lean-rich a town gas 
+1.0 
+26,000 b ~ CH 4 
+54,000, 330,000 b C3H 8 
+66,000 b C4Hlo Hargrave et al. 1987 
+Hustad & co-workers 1991 
+Fells & Harker 1968 
+Kilham 1949 
+Hustad & co-workers 1991 
+Davies 1979 
+Jackson & Kilham 1956 
+Davies 1965 
+Hustad et al. 1992 
+aAccording to author (only qualitative). 
+bCalculated from data in reference. 
+Ziugzda (1985), assuming Tu = 0.02: 
+, = --ke/0.41ReO.6preO.35TuO.,5/ --Pre t°"25/ (t e -t w ) 
+q ...... db ~ . ~Prw ] ) (2) 
+For a pure fuel jet, there may have been significant quantities of 
+uncombusted species in the flame at the impingement point. 
+Therefore, TCHR may have been important, but was not dis- 
+cussed by Hustad and co-workers. If TCHR was present, it would 
+have been included, with forced convection, in Equation 2. 
+Turbulent flows. Hargrave et al. (1987) studied the effects of 
+turbulence. The following correlation was determined: 
+'/[ t q~' ..... = ~-b ~eb'5 1.071 + 4.669 100 ] 
+TuR-eb ~ // -7.388( ~---~--0.5 a]'~ (3) 
+This correlation underpredicted the data by up to 14%. 
+Average convection heat transfer 
+Laminar flows. In related studies, Kilham (1949) and Jackson 
+and Kilham (1956) measured the total and radiative heat fluxes. 
+The convective heat transfer was calculated by subtracting the 
+radiation from the total flux. Kilham studied air/CO flames. The 
+convection was correlated by: 
+7~ 3 q~ ..... = ~bb {l~°r (0.35 + 0.47~eb'52)}(te -- t w) (4a) 
+Jackson and Kilham studied air/H 2, O2/H 2, and Oa/CO flames. The convection was correlated by 
+------O3 q~ ..... = --;- {Pr " (0.35 + 0.50~ebSa)}(t e -- t w) 
+ab (4b) 
+Both equations were valid for 60 < Re b < 230. The constant 
+multiplying Re b varied slightly in the two studies. McAdams's 
+(1954) correlation for this geometry, but for nonreacting jet 
+impingement, had a multiplier of 0.56. In the Oa/H z and O2/CO 
+flames used in Jackson and Kilham's study, there may have been 
+significant quantities of dissociated species. Therefore, TCHR 
+may have been important, but was not discussed. If TCHR was 
+present, it would have been included in Equation 4b. However, a 
+larger difference in Equations 4a, b would have been expected if 
+TCHR was significant. 
+Laminar and turbulent flows. Hustad and co-workers (1991) 
+measured the total heat flux. The radiation heat flux was as- 
+sumed to be uniformly distributed around the cylinder. The 
+forced convection was calculated by subtracting the calculated 
+radiation from the measured total heat flux. At a turbulent 
+intensity of 2%, the best fit of the data was given by 
+q~ ..... = d~ ( 0"23Re°~6Pre°35Tu°'lS( Pre ~0.25~ 
+~-P~r) I (te-tw) (5) 
+Flow type unspecified. Fells and Harker (1968) empirically 
+determined: 
+= 
+d~( ~----------------0.5~ q; ..... = (0.573 - 0.0179 lj)l~ b )(t e - t~,) (6) 
+for C3H s flames. This correlated the experimental data within 
+10%. Davies (1979) calculated the forced convection heat trans- 
+fer using an equation developed by Conolly and Davies (1972), 
+390 Int. J. Heat and Fluid Flow, Vol. 17, No. 4, August 1996 
+
+Flame impingement heat transfer correlations: C. E. Baukal and B. Gebhart 
+for a water-cooled tube in cross-flow: 
+q~ ..... = (]¢/db){1.32~'°r '4i~eb'5 }(te -- t~) (7) 
+Average convection heat transfer with thermochemical 
+heat release Flames impinging normal to a hemi-nosed cylinder 
+This pertains to cylinders whose axis is parallel to the flame, as 
+shown in Figure 3. One end of the cylinder has a hemispherical 
+nose. The flame impinges on that nose. Experimental conditions 
+for these studies are given in Table 2. 
+Local convection heat transfer 
+Flow type unspecified. Davies (1965) correlated heat flux 
+data using an equation from McAdams (1954), assuming Pr = 0.7 
+= ¢ ~------------0.466 ~ q~ ..... +TCHR = (k/db)[O'615]~b I(t, - t~) (8) Laminar and turbulent flows. Fairweather et al. (1984) cor- 
+related experimental data for laminar and turbulent flames. The 
+correlations were modifications of empirical equations. These 
+were derived for heat transfer from the stagnation point of 
+heated spheres to turbulent air flows. Galloway and Sage (1968) 
+recommended the following equations for nonreacting flows: 
+Average radiation heat transfer 
+Laminar and turbulent flows. Hustad and co-workers (1991) 
+studies pure diffusion flames. The radiation from the CH 4 flames 
+was given as 
+q/~,rad = 5 + 3.9(1/ --Xiiftof f) (kW/m z) (9a) 
+The radiation for the C3H 8 flames was given as 
+q~,rad = 10 + 7.8(lj--Xlirtof f) (kW/m z) (9b) 
+These were based on an analytical model of the flame as a 
+radiating cylinder. The liftoff distance, Xliftoff, is the length be- 
+tween the nozzle and the start of the flame. The length lj -xliftof f 
+was termed the radiation height. For a conventional burner, 
+Xliftof f is zero, because the flame is attached to the nozzle exit. 
+The distances, used in Equations (9a, b), were in meters. In those 
+studies, the fuel gas velocities at the nozzle outlet were Ma >_ 0.3. 
+This equates to a minimum outlet velocity of 134 and 82 m/s for 
+CH 4 and C3H8, respectively. The burning velocity in air for CH 4 
+and C3H 8 is 0.37 and 0.41 m/s, respectively (lewis and von Elbe 
+1987). Therefore, the flames were not attached to the burner, 
+because the exit velocities were higher than the flame speed. 
+This produced a so-called unattached or lifted flame. The flame 
+starts where the local gas velocity is the same as the flame speed. 
+Maximum convection and radiation heat transfer 
+Turbulent flows. Hustad et al. (1992) correlated the experi- 
+mental data by 
+n d q ........ +ra = 20q~ )3 (kW/me) (10) 
+based on a thermal input of qf= 60-1600 kW. The location of 
+the maximum heat flux was at the center of the flame. For pure 
+fuel jets, there may have been significant quantities of unburned 
+fuel at the target impingement point. Therefore, TCHR may 
+have been important. It would have been included in the above 
+correlation. Nus, e = 1.255Re°~5~(Reb,eTu) °'°214 for 
+Nus, e = 1.128Re°iSe(Reb,eTu) °'2838 for Reb,eTu < 7000 
+(lla) 
+Reb,eTu > 7000 
+(11b) 
+Fairweather used modifications of these equations to get 
+q" ..... = 1.743(Reh eTu) 0"0214 PelgeCpe ~ t w) , ReO:5 ~te- (12) 
+Gostkowski and Costello (1970) recommended the following 
+equation, also for nonreacting flows: 
+( ]0.16 De Nus e = 2 + 1.849 -- + [0.2122Tu(Tu - 0.1072) 
+' Uw ] 
+1/2 1/6 / K~,=I/2 DvI/3 + 0.001317]Reb,e Pre f''~b,e''e (13) 
+Fairweather recommended the following modification of Equa- 
+tion 13, for laminar and turbulent flames 
+I ( 0.16 ] 2 1.1849 u e -- + / q~,conv = peUeCpe PreReb,e D,2/3~1/2 ti e lX~b, e U w ] 
++ [0.2122Tu(Tu - 0.1072) + 0.001317]Pr~ t/: 
+×(t e -t w) (14) 
+Both Equations 12 and 14 tended to overpredict the experimen- 
+tal data. 
+Table 2 Experimental conditions for flames impinging normal to hemi-nosed cylinders 
+Heat transfer mechanisms 
+Location Forced cony. TCHR Radiation Oxidizer Ren ~b Fuel Reference 
+Local ~/ air laminar & 0.943, 1.171 
+turbulent a 
+~/ air 2000-12,000 0.8-1.2 
+~/ ~/ 02 not given 0.95 CH4 
+CH4 
+natural gas Fairweather et al. 1984 
+Hargrave et al. 1987 
+Ivernel and Vernotte 1979 
+aAccording to author (only qualitative). 
+Int. J. Heat and Fluid Flow, Vol. 17, No. 4, August 1996 391 
+
+Flame impingement heat transfer correlations." C. E. Baukal and B. Gebhart 
+Turbulent flows. Hargrave et al. (1987) recommended the 
+following empirical correlation: 
+q~' ..... = ~-b t i~--~ 0.993 + 5.465 100 ] 
+~0.5 , 2"]'~ 
+(TuRe  -2.375 100 ] JJ (te--tw) (15) 
+This underpredicted the data by up to 15%, near the reaction 
+zone. Agreement was very good further downstream. 
+Local convection heat transfer with thermochemical 
+heat release 
+Turbulent flows. Ivernel and Vernotte (1979) determined: 
+k w t r~t0"853Re'b,~P--°4~ he r - h~ H 
+QS,COnV+ TCHR = 
+Cpw (16) 
+This was valid for 1000 < Re r w < 45000. Equation 16 correlated • . . b. 
+the experimental data within 10%. Although the flow conditions 
+were not given, they are believed to have been turbulent. This is 
+based on a comparison of the reported velocities with those of 
+other studies (see Baukal and Gebhart 1995). Radiation to the 
+target was calculated. It was specifically excluded from the above 
+correlation. 
+Flames impinging normal to a plane surface 
+This geometry is shown in Figure 1. The targets have included 
+both disks and rectangular plates. The experimental conditions 
+are given in Table 3. 
+Local convection heat transfer 
+Laminar flows. In related studies, Hoogendoorn et al. (1978) 
+and Popiel et al. (1980) determined two empirical correlations, for the heat transfer to the stagnation point. These were based 
+on the axial distance between the target and the burner. The 
+correlation for 2 < L < 5 was: 
+s s kref 05 04 he -- hw 
+q~ ..... = ~ ((0.65 + 0.084L)Ren~ ref Prre'f } -- 
+Cpref (17a) 
+The correlation for L > 12 was: 
+h s s 
+" = - 1.8L). 10 Re .... fPrre f } qs,co~v {(1.37 -3 0 75 0 4 e -- h~ 
+Cp ref (176) 
+Both correlations closely matched the data. For 5 < L < 12, the 
+data showed a peak for Nu,. No correlation was given. A 
+modified form of a semi-analytic solution was also determined. It 
+was a form of the equation recommended by Sibulkin (1952). 
+Sibulkin's equation, along with many variations of it, is discussed 
+by Baukal and Gebhart (1996). The modified correlation was: 
+kre f h s _ h s 
+" = -- • / l"en, re f lrref J q ...... d, {2.37(L+ lh-0"5]D 0.5 ]D 0.41, e (17c) 
+Cpref 
+valid for 8 < L < 20. This underpredicted the data by as much as 
+60%. This was believed to have been caused by the failure to 
+include the effects of free jet turbulence. Another correlation 
+was recommended, which included those effects: 
+ql; ..... = d n /[(L+l)°'  Z'Ze t 1-6-6' ) 
+(TuRe ,reft2 ] s , 0.5 0.4 he -hw - 2.76 100 Ren, ref Prref Cp~ef (17d) 
+valid for L > 8. This compared favorably with the data. For 
+L _> 4, the maximum heat flux occurred at the stagnation point. 
+Table 3 Experimental conditions for flames impinging normal to plane surfaces 
+Heat transfer mechanisms 
+Location Forced conv. TCHR Radiation Oxidizer Re n ~b Fuel(s) Reference 
+Local ~/ air 1050, 1860 1.0 
+~/ air/O 2 857-2000 0.61 
+~/ air 1500-19,000 0.67-0.95 
+~/ ? ? air 17,680-22,700 2.75 
+v / air turbulent a 1.0 
+~/ air turbulent a not given 
+~/ air turbulent a 0.95 
+~/ air/O2 
+~/ air laminar a 1.33, 1.67 
+~/ ~/ 0 2 1.0 
+~/ 0 2 1.0, 1.43 
+~/ ~/ ? 02 2.34 
+~/ ~/ 02 300-1200 0.83-1.0 
+~/ ~/ 0 2 turbulent a 1.0 
+Average ~/ air 70, 356 
+~/ air 1500-19,000 0.67-0.95 natural gas 
+CH4 
+town gas+ 
+CH4 
+natural gas 
+coke oven gas 
+natural gas 
+CH4 
+H2 
+C3H8 
+C2H2 
+C3Hs+C4Hlo 
+C3H8 
+natural gas 
+town gas + Hoogendoorn et al. 1978, 
+Popiel et al. 1980 
+Kataoka et al. 1984 
+Shorin & Pechurkin 1968 
+Buhr et al. 1973, 
+Kremet et al. 1974 
+Smith & Lowes 1974 
+Matsuo et al. 1978 
+Vizioz & Lewes 1971 
+Anderson & Stresino 1963 
+Shorin & Pechurkin 1968 
+Rauenzahn 1986 
+You 1985 
+Shorin & Pechurkin 1968 
+aCalculated from data in reference. 
+392 Int. J. Heat and Fluid Flow, VoI. 17, No. 4, August 1996 
+
+Flame impingement heat transfer correlations. C. E. Baukal and B. Gebhart 
+For L = 2 and 3, the maximum flux occurred at about R = 0.5 
+and 0.2, respectively. Kataoka et al. (1984) studied an 
+air/O2/CH 4 (1~ = 0.39) flame. The heat transfer to the stagna- 
+tion point was correlated by: 
+ke tt 
+qs,conv = -- 2rl/2v {1.44Re2°~/ ..... prO5( L -X~)°"2}(te - G) (18a) 
+rl/2v is the radius from burner axis, near the stagnation point, 
+where the velocity is 1/2 of the velocity along the axis of 
+symmetry. This correlation is valid only for L >X,. with X,, 
+correlated by: 
+X,, = 2.82(p,/p )°'29Ren°'°xT_0 (18b) 
+In a subsequent study, Kataoka (1985) found the maximum heat 
+flux for the same flame occurred at L = X,,. 
+Turbulent flows. Shorin and Pechurkin (1968) empirically de- 
+termined 
+ke 02 
+q~' ..... = --dT { a.O4R% ]~Pre}( t e - tw ) (19a) 
+This was valid for L < X~.. The correlation matched the experi- 
+mental data within 15%. Another correlation was given for the 
+heat flux for L > X,. 
+NUs,e(X v < L < 14) (L Xv) 2 
+0.8e 0.36 L (19b) 
+NUs,e(L <Xt,) 
+The local heat transfer, as a function of R, was correlated by: 
+ke {3.22ReO.apree-0.36 (L-x'')2 3 6 R G' ..... = Rd, ' L - " Zf(t~--t~) (19C) 
+for 0 <R/L < 0.9 and X r <L <_ 14. Vizioz and Lewes (1971) 
+investigated industrial-scale, air and oxygen-enriched air (I~ = 
+0.30) natural gas flames impinging on cooled flat plate targets, 
+located inside a furnace. Three different types of flames, with 
+various levels of swirl, were tested. The data were correlated by: 
+q/,conv = ( ke/r ){Nur,e}(te - tw) (20a) 
+In one set of tests, the surface temperature of a water-cooled 
+steel flat plate was maintained below 373K. The convective heat 
+flux, as a function of radius from the stagnation point, was: This was valid for 17680 < Re, _< 22700, 13 _< L _< 65. The experi- 
+mental data were correlated within 9%. The peak flux was 
+measured near the reaction zone. The heat flux showed a small 
+linear decline with probe surface temperature, over the range 
+320-1000K. Smith and Lewes (1974) determined the following 
+empirical correlation: 
+n 0.54 0.52 q ...... = (ke/lc){1.6Retc,~ PG }(t~ - t~) (22) 
+where l~ was the width of the cooling channels. The correlation 
+was valid for 0 < L _< 8.4. The fluid properties were taken as for 
+air, at the gas temperatures measured near the plate. The axial 
+velocity at 10 cm from the plate was used to calculate the velocity 
+in Re,. Matsuo et al. (1978) determined the following correla- 
+tion, for the heat flux to the stagnation point: 
+q]' ..... = O.O10353(q~.936/L1.032)(t,. _ t,. ) (23a) 
+Another correlation was given for the heat flux, as a function of 
+the distance r from the stagnation point: 
+. / [ 6.318 
+q~' ..... =tq~'939/K1K2L )('e--lw) (23b) 
+where 
+K 1 = -1.903.10-7r 2 + 3.89"10-3r + 0.985 
+K 2 = 8.42-10-7r 3 - 1.803.103r 2 + 1.37r + 5.00 (23c) 
+(23d) 
+Equations 23a, b were valid for 5 _<L _< 9 and 148 _< qf< 482. 
+Equation 23b was valid for 0 < r _< 500, where r was in ram. 
+Local convection heat transfer with thermochemical 
+heat release 
+Laminar flows. Anderson and Stresino (1963) found that the 
+heat flux decreased exponentially as R increased: 
+4r~e e ,, 34 
+q~' ...... TCHR = q" ..... +TCHR e- dj J (24) 
+where qsr, conv+TCHR was measured, and dj was the estimated 
+flame diameter prior to impingement. Shorin and Pechurkin 
+(1968) found for C3H 8 + C4H10 flames that: 
+T 7 k e h~ -h w 
+q~ ..... +TCHR = ~7 {7"8Re°;4ePre} b7 p (25) 
+for L < X~,. This correlated the data within 10%. 
+0-07Re°~Se < Nut, e < 0"22Rer, e (20b) 
+In another set of tests, the surface temperature of an air-cooled 
+refractory plate was maintained between 1280 and 1420K. The 
+convection correlation was: 
+0.035Rer°( 8 < Nut. e < 0.125Rer, e (20c) 
+The Prandt number effect was included in the coefficients. In 
+related studies, Buhr et al. (1973) and Kremer et al. (1974) 
+determined the following modification of Sibulkin's equation: 
+q~ ..... = O'0371Pr~°'6peve(hS - hS ) (21) Turbulent flows. Rauenzahn (1986) calculated the heat flux 
+at the surface, from the transient temperature field in a copper 
+block. The assumed form of the surface flux distribution, after 
+Anderson and Stresino (1963), was: 
+..... 
+qr,conv+TCHR = qs,conv+ TCHR e (26) 
+r o was termed the spreading radius for the heat flux distribution. 
+From the reduction of the data, a---1. A transient inverse 
+conduction analysis (Gebhart 1993) was used to calculate 
+q~.conv+TCHR and q],conv+TCnR" For qf=61 and 94 kW and 
+L = 6 and 8, q~' ..... +TCHR ranged from 645-1210 kW/m 2, and r 0 
+ranged from 7.3 to 9.8 cm. The spreading radius generally de- 
+creased as L decreased and as qf increased. Unfortunately, no 
+Int. J. Heat and Fluid Flow, Vol. 17, No. 4, August 1996 393 
+
+Flame impingement heat transfer correlations: C. E. Baukal and B. Gebhart 
+correlations were given for q"s ..... +THR and r 0 in terms of L 
+and qf. Therefore, the constants used in the above equation are 
+expected to be dependent on the specific experimental condi- 
+tions. 
+Average convection heat transfer 
+Laminar flows. You (1985) studied pure fuel jet flames im- 
+pinging on a plate. The fuel flow from the burner nozzle was 
+laminar. However, the buoyant plume impinging on the plate 
+was turbulent. It was found that the convective heat flux in the 
+stagnation zone was essentially constant: 
+q~ ..... = 31.2(qf/lZ)Rael/6pre 3.5 (27a) 
+for R < 0.16. The flux decreased with R in the wall jet region: 
+q~ ..... = 1.46R- 1.63(qf/l 2)Rae 1/6 pr e 3/5 (27b) 
+for R > 0.16. In both cases, 10 9 < Ra < 1014 and Pr ~ 0.7. The 
+Rayleigh number was defined as 
+Ra- " 2 3 - gf~eqflj/peCpeVe (27C) 
+NO correlations were given for the measured radiation heat flux. 
+This accounted for up to 26% of the total heat flux. The radiant 
+flux was specifically excluded from the above correlations. 
+Turbulent flows. Shorin and Pechurkin (1968) determined the 
+average heat transfer as a function of R: 
+" =-- 6.44Re°'4pre e°'36(L-xD2L qb, cony rb 
+×r 0.08l -0.081 e-36y - 
+X (t e -- t w) (28) 
+Flames parallel to a plane surface 
+This configuration is useful for studying the heat transfer to 
+high-speed airfoils, where very high temperatures occur at the 
+leading edge. It is also useful for studying the heat transfer from 
+flames to the walls of a furnace. The experimental conditions for 
+these studies are given in Table 4. 
+Local convection heat transfer with thermochemical 
+heat release 
+Laminar flows. Woodruff and Giedt (1966) studied the con- 
+figuration shown in Figure 4a. This simulated an air foil. The I BOR,ER I 
+(a) 
+I TARGET 
+(b) 
+Figure 4 Flames impinging along plane surfaces 
+best fit of the experimental data was obtained using 
+q~ ...... TCHR = ~ oPre 2/3 1 + (Le e H -- 1)heCH 
+, he ~ h~ 
+× (he r - h~) (29a) 
+The boundary-layer thickness ~ was measured with a Pitot tube. 
+An empirical curve fit of that data was given as 
+8 = 0.0139e -°'3~2r + 0.152((e °'7°3r - 1)/e°625r) °'5 (29b) 
+r is the distance along the plate, measured in inches, from the 
+leading edge. The best fit of the heat flux data was for Le = 3.0. 
+Turbulent flows. Giedt et al. (1960) tested an array of fuel-rich 
+C2H 2 flames in parallel flow over a flat plate, as shown in Figure 
+4a. The heat flux data were correlated, using a form of the 
+equation recommended by Eckert (1956) 
+q~ ..... + TCH R = ( I¢/r ) {0.02961~e~SP-~l/3 } (re __ t~ ) (30a) 
+r is the distance from the leading edge. This equation underpre- 
+dicted the experimental data by 25%. A derived correction factor 
+was then added, for the H atom recombination reaction: 
+7¢{ _---0 s 1,3 
+q~ ..... +TCHR = r / 0'0296Rer" p-~ / 
+×[1+ (QH(mH,e-mH,W) 
+where 
+M=(mH, w --mR, e) In 1 --mH, e 
+QH = 436 ld/kg-mole 
+Table 4 Experimental conditions for flames impinging parallel to plane surfaces 
+Heat transfer mechanisms 
+Location Forced conv. TCHR Radiation Oxidizer Re n Fuel Reference 
+Local v ~ ~/ ? 02 laminar a 
+x/ ~/ ? 02 turbulenta 
+x/ ~/ air 4800-270,000 2.5 C2H 2 Woodruff & Giedt 1966 
+2.5 C2H 2 Giedt et al. 1960 
+1.0 coke oven gas Be~r & Chigier 1968 
+aAccording to author (only qualitative). 
+394 Int. J. Heat and Fluid Flow, Vol. 17, No. 4, August 1996 
+
+Flame impingement heat transfer correlations." C. E. Baukal and B. Gebhart 
+QH is the H atom heat of recombination, and mu is the H atom 
+mole fraction. This correlated the data within 15%. 
+Local convection and radiation heat transfer 
+Turbulent flows. Be6r and Chigier (1968) studied flames im- 
+pinging at a 20 ° angle from the furnace hearth (see Figure 4b). 
+The correlation for the total heat flux was given as 
+. 0.8 
+q ...... +tad = (kmax/r){ O'13Re ..... }(/max -- tw) (31) 
+The velocity in the Reynolds number was the maximum velocity 
+measured at the axial distance from the point of impingement. 
+The temperature tma x was the maximum temperature measured 
+at the axial distance from the point of impingement. A Prandtl 
+number of 0.7 was assumed. 
+Recommendations 
+In some of the studies considered here, multiple heat transfer 
+mechanisms have been important. For example, radiation and 
+forced-convection heat transfer were both important in the study 
+by Be~r and Chigier (1968). Very little work has been done to try 
+to separate these mechanisms and to determine their relative 
+importance. This should be investigated, because it may help in 
+optimizing heating processes. For instance, if radiation is impor- 
+tant for a given set of conditions, it may be beneficial to optimize 
+the surface radiation properties of the target. Some heat transfer 
+mechanisms, such as natural convection and condensation, have 
+received little or no attention. Again, these may be important 
+under certain operating conditions. For example, condensation 
+may be a dominant mechanism when the target surface tempera- 
+ture is below the condensation point of water vapor. 
+There are many combinations of geometry and operating 
+conditions for which no empirical heat transfer correlations exist. 
+The intent here is not to give a detailed list of all the possible 
+experiments that could be done. Rather, general types of experi- 
+ments are suggested. 
+Flames impinging normal to a cylinder. For these flames, 
+only turbulent forced convection at the stagnation point has been 
+studied. No correlations have been determined for the local 
+convection heat transfer with TCHR. Only one correlation, 
+Equation 8, has been given for the average convection heat 
+transfer with TCHR. Unfortunately, the flow type was not speci- 
+fied. The radiation correlations, Equations 9a, b and 10, deter- 
+mined by Hustad and co-workers (1991) and Hustad et al. (1992), 
+are specific to the given operating conditions. These included 
+very-high-speed flows. The equations were not nondimensional- 
+ized. They should not be used outside the known experimental 
+conditions. 
+Flames impinging normal to a hemi-nosed cylinder. Only 
+the heat transfer at the stagnation point has been studied. The 
+heat flux at other locations has not been reported. No averaged 
+heat flux correlations have been given. No radiation or laminar 
+forced-convection correlations of any type have been reported. 
+However, many semianalytic heat transfer equations have been 
+used for this geometry (Baukal and Gebhart 1996). 
+Flames impinging normal to a plane surface. This has 
+been the most widely studied geometry. No correlations have 
+been reported for local turbulent convection heat transfer with 
+TCHR. The only correlations for average heat transfer have 
+been for forced convection. No correlations of any kind have 
+been specifically determined for radiation. Flames parallel to a plane surface. This has been the least 
+studied geometry. No pure forced-convection correlations have 
+been reported. No average correlations of any kind are given. 
+Only radiation, in combination with forced convection, has been 
+studied, for a limited set of conditions. 
+Many other types of geometries might be considered. One 
+example would be flames impinging normal to rectangular bars. 
+This shape simulates a typical industrial application, where metal 
+ingots are reheated prior to entering the rolling mill. There are 
+also many combinations of fuels, oxidizers, and equivalence ra- 
+tios that remain to be correlated. For example, very little work 
+has been done for oxidizers other than either air or pure oxygen. 
+Only a limited number of studies have investigated the effects of 
+a furnace enclosure. Flame impingement heating represents an 
+important technology that requires further experimental investi- 
+gation. 
+Acknowledgment 
+The authors thank Air Products and Chemicals, Inc. for their 
+support of this research. 
+References 
+Anderson, J. E. and Stresino, E. F. 1963. Heat transfer from flames 
+impinging on flat and cylindrical surface. J. Heat Trans., 85, 
+49-54 
+Baukal, C. E., Farmer, L. K., Gebhart, B. and Chan, I. 1996. Heat 
+transfer mechanisms in flame impingement heating. Proc. 1995 
+Int. Gas Research Conference, D. A. Dolenc (ed.), Government 
+Institutes, Inc., Rockville, MD, Vol. 2, 2277-2287 
+Baukal, C. E. and Gebhart, B. 1995. A review of flame impingement 
+heat transfer studies--Part 2: Measurements. Comb. Sci Tech., 
+104, 359-385 
+Baukal, C. E. and Gebhart, B. 1996. A review of semi-analytical 
+solutions for flame impingement heat transfer. Int. J. Heat Mass 
+Transfer, 39, 2989-3002 
+Be6r, J. M. and Chigier, N. A. 1968. Impinging Jet Flames. Comb. 
+Flame, 12,575-586 
+Buhr, E., Haupt, G. and Kremer, H. 1973. Heat transfer from 
+impinging turbulent jet flames to plane surfaces. In Combustion 
+Institute European Symposium 1973, F. J. Weinberg (ed.), Aca- 
+demic Press, New York, 607-612 
+Conolly, R. and Davies, R. M. 1972. A study of convective heat 
+transfer from flames. Int. J. Heat Mass Trans., 15, 2155-2172 
+Davies, R. M. 1965. Heat transfer measurements on electrically 
+boosted flames, lOth Symposium (International) on Combustion, 
+The Combustion Institute, Pittsburgh, PA, 755-766 
+Davies, D. R. 1979. Heat transfer from working flame burners. B.S. 
+thesis, University of Salford, Salford, UK 
+Eckert, E. R. G. 1956. Engineering relations for heat transfer and 
+friction in high-velocity laminar and turbulent boundary-layer 
+flow over surfaces with constant pressure and temperature. J. 
+Heat Trans. 78, 1273-1283 
+Fairweather, M., Kilham, J. K. and Mohebi-Ashtiani, A. 1984. Stag- 
+nation point heat transfer from turbulent methane--air flames. 
+Comb. Sci. Tech., 35, 225-238 
+Fells, I. and Harker, J. H. 1968. An investigation into heat transfer 
+from unseeded propane--air flames augmented with DC electri- 
+cal power. Comb. Flame, 12, 587-596 
+Galloway, T. R. and Sage, B. H. 1968. Thermal and material transfer 
+from spheres, prediction of local transport. Int. J. Heat Mass 
+Trans., 11, 539-549 
+Gebhart, B. 1993. Heat Conduction and Mass Diffusion. McGraw-Hill, 
+New York 
+Giedt, W. H., Cobb, L. L. and Russ, E. J. 1960. Effect of hydrogen 
+recombination on turbulent flow heat transfer. ASME Paper 
+60-WA-256 
+Gostowski, V. J. and Costello, F. A. 1970. The effect of free-stream 
+turbulence on the heat transfer from the stagnation point of a 
+sphere. Int. J. Heat Mass Trans. 13, 1382-1386 
+Int. J. Heat and Fluid Flow, Vol. 17, No. 4, August 1996 395 
+
+Flame impingement heat transfer correlations: C. E. Baukal and B. Gebhart 
+Hargrave, G. K., Fairweather, M. and Kilham, J. K. 1987. Forced 
+convective heat transfer from premixed flames--Part 2: Impinge- 
+ment heat transfer. Int. J. Heat Fluid Flow, 8, 132-138 
+Hoogendoorn, C. J., Popiel, C. O. and van der Meer, T. H. 1978. 
+Turbulent heat transfer on a plane surface inimpingement round 
+premixed flame jets. Proc. 6th Int. Heat Trans. Conf. (Toronto), 4, 
+107-112 
+Hottel, H. C. and Sarofim, A. F. 1967. Radiative Transfer. McGraw- 
+Hill, New York, Chapter 6 
+Hustad, J. E., R~kke, N. A. and S¢nju, O. K. 1991. Heat transfer to 
+pipes submerged in lifted buoyant diffusion flames. In Experimen- 
+tal Heat Transfer, Fluid Mechanics, and Thermodynamics, 1991, 
+J. F. Keffer, R. K. Shah and E. N. Ganic (eds.), Elsevier, New 
+York, 567-574 
+Hustad, J. E. and S¢nju, O. K. 1991, Heat transfer to pipe s sub- 
+merged in turbulent jet diffusion flames. In Heat Transfer in 
+Radiating and Combusting Systems, Springer-Verlag, Berlin, 
+474-490 
+Hustad, J. E., Jacobsen, M. and Scnju, O. K. 1992. Radiation and 
+heat transfer in oil/propane jet diffusion flames. Inst. Chem. 
+Eng. Symp. Series, 10, 657-663 
+Ivernel, A. and Vernotte, P. 1979. Etude exp6rimentale de 
+l'am61ioration des transferts convectis dans les fours par 
+suroxygEnation du comburant. Rdv. Gen. Therm., 210-211, 
+375-391, in French 
+Jackson, E. G. and Kilham, J. K. 1956. Heat transfer from combus- 
+tion products by forced convection. Ind. Eng. Chem., 48, 
+2077-2079 
+Kataoka, K., Shundoh, H. and Matsuo, H. 1984. Convective heat 
+transfer between a flat plate and a jet of hot gas impinging on it. 
+In Drying '84. A. S. Mujumdar (ed.), Hemisphere/Springer- 
+Verlag, New York, 218-227 
+Kataoka, K. 1985. Optimal nozzle-to-plate spacing for convective 
+heat transfer in nonisothermal, variable-density impinging jets. 
+Drying Tech., 3, 235-254 
+Kilham, J. K. 1949. Energy transfer from flame gases to solids. In 
+Third Symposium on Combustion and Flame and Explosion Phe- 
+nomena. Williams & Wilkins, Baltimore, MD, 733-740 
+Kremcr, H., Buhr, E. and Haupt, R. 1974. Heat transfer from turbu- 
+lent free-jet flames to plane surfaces. In Heat Transfer in Flames, N. H. Afgan, and J. M. Be6r, (eds.), Scripta, Washington, DC, 
+463-472 
+Lewis, B., and von Elbe, G. 1987. Combustion, Flames, and Explosions 
+of Gases, 3rd ed. Academic Press, New York, 403 
+Matsuo, M., Hattori, M., Ohta, T. and Kishimoto, S. 1978. The 
+experimental results of the heat transfer by flame impingement. 
+Int. Flame Research Foundation Report F 29/la/1. IJmuiden, 
+the Netherlands 
+McAdams, W. H. 1954. Heat Transmission. McGraw-Hill, New York, 
+268 
+Popiel, C. O., van der Meer, T. H. and Hoogendoorn, C. J. 1980. 
+Convective heat transfer on a plate in an impinging round hot gas 
+jet of low Reynolds Number. Int. J. Heat Mass Trans., 23, 
+1055-1068 
+Rauenzahn, R. M. 1986. Analysis of rock mechanics and gas dynam- 
+ics of flame-jet thermal spallation drilling. Ph.D. thesis. Mas- 
+sachusetts Institute of Technology, Cambridge, MA 
+Shorin, S. N. and Pechurkin, V. A. 1968. Effectivnost' teploperenosa 
+na poverkhnost' plity ot vysokotemperaturnoi strui produktov 
+sjoraniya razlichnykh gazov. Teoriya i Praktika Szhiganiya Gaza, 4, 
+134-143, in Russian 
+Sibulkin, M. 1952. Heat transfer near the forward stagnation point of 
+a body of revolution. J. Aero. Sci., 19, 570-571 
+Smith, R. B. and Lowes, T. M. 1974. Convective heat transfer from 
+impinging tunnel burner flames--A short report on the NG-4 
+trials. Int. Flame Research Foundation Report F 35/a/9. 
+IJmuiden, the Netherlands. 
+Vizioz, J. -P. and Lowes, T. M. 1971. Convective heat transfer from 
+impinging flame jets. Int. Flame Research Foundation Report F 
+35/a/6. IJmuiden, the Netherlands 
+Woodruff, L. W. and Giedt, W. H. 1966. Heat transfer measurements 
+from a partially dissociated gas with high Lewis number. J. Heat 
+Trans., 88, 415-420 
+You, H.-Z. 1985. Investigation of fire-plume impingement on a hori- 
+zontal ceiling. 2-Impingement and ceiling-jet regions. Fire & 
+Mater., 9, 46-56 
+Zukauskas, A. and Ziugzda, J. 1985. Heat Transfer of Crossflow. 
+Hemisphere, Bristol, PA, 88 
+396 Int. J. Heat and Fluid Flow, Vol. 17, No. 4, August 1996 
+

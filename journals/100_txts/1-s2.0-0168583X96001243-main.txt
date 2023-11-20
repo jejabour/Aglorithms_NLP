@@ -1,0 +1,410 @@
+TYT.U Nuclear Instruments and Methods in Physics Research B 116 (1996) 19% 199 
+w . -- __ Iii! ELSEVIER NCIM B Beam Interactions 
+with Materials 6 Atoms 
+Raman spectroscopy of ion irradiated amorphous carbons 
+G.A. Baratta ay* , M.M. Arena b, G. Strazzulla ‘, L. Colangeli d, V. Mennella d, 
+E. Bussoletti e 
+a Osservatorio Astrojisico di Catania, Citt& Uniuersitaria, I-95125 Catania, Italy 
+b Istituto Nazionale per la Microelettronica, CNR Catania, Catania, Italy 
+’ Istituto di Astronomia, Catania, Italy 
+a Osseruarorio Astronomico di Capodimonte, Napoli, Italy 
+e Istituto Vniuersitario NavaLe, Napoli, Italy 
+Abstract 
+We have’studied, by “in situ” Raman spectroscopy, the modifications induced by 3 keV He+ ions on thin amorphous 
+carbon grain deposits. Previous results obtained with our experimental apparatus show that in the case of carbon-containing 
+frozen targets (such as benzene and butane) for doses greater than about 100 eV/mol, ion irradiation induces the formation 
+of an hydrogenated amorphous carbon. In this paper, the bombarded material is already an amorphous carbon with a 
+relatively high order degree. In this case ion irradiation progressively decreases the order degree in the amorphous carbon. 
+This result is in agreement with analogous ion irradiation experiments carried out on highly ordered pyrolitic graphite 
+crystals. These studies are important to understand physical characteristics and evolution of refractory carbon grains in 
+astrophysical environments. 
+1. Introduction 
+The interaction between a fast colliding ion and solid 
+targets produces several effects, many of which have been 
+studied in recent years in view of their astrophysical 
+applications [l-6]. 
+Raman spectroscopy can provide valuable information 
+on the effects induced by ions impinging on solids. Indeed 
+this technique is used to distinguish among chemical 
+species and can provide valuable evidence of the structural 
+properties of materials and, in particular, of carbonaceous 
+materials. Raman spectroscopy has been used to gain 
+insight into the structural lattice damage of graphite result- 
+ing from ion bombardment [7-91. 
+Among the studied effects the formation of an organic 
+residue evolving at higher doses towards an ion-produced 
+HAC (Hydrogenated Amorphous Carbon) is particularly 
+interesting. The HAC formation has been observed in 
+several kinds of carbon-containing targets (polystyrene, 
+polypropylene, graphite, diamond etc.) and even on frozen 
+gases (C,H,, CH,, C,Hlo etc.). This occurs for a combi- 
+nation of bombarding ions (H, He, Ar, Kr etc.) and ion 
+energies (ranging between a few keV and MeV). Both fast 
+ions (low energy cosmic rays, galactic protons, solar pro- 
+* Corresponding author. Tel. +39 95 7332213, fax +39 95 
+330592, e-mail giuseppeb@astrct.ct.astro.it. tons, solar wind particles) and carbon-containing solid 
+targets, i.e. frozen (interstellar grains in dense regions, 
+comet mantles etc.) and refractory species (interstellar 
+grains in the diffuse medium, interplanetary dust particles 
+etc.), are supposed to be present in space. Thus materials 
+produced in the laboratory may simulate to some extent 
+those present in space. 
+IDPs (Interplanetary Dust Particles) collected in the 
+Earth atmosphere have sizes from 1 to 50 pm and provide 
+a unique opportunity to study extraterrestrial material in 
+the laboratory. In many IDPs, poorly graphitized carbona- 
+ceous compounds are arranged in a granular (fluffy) struc- 
+ture where single grains can be as small as 100 A [lo]; in 
+some cases amorphous carbonaceous material surrounds 
+tub micron mineral grains with a covering layer up to 300 
+A of thickness [ 1 I]. A Rarnan study of a representative set 
+of 20 IDPs [ 121 has shown that 6 different groups of 
+spectra can be identified. AlI particles, except those be- 
+longing to the last group, show the Raman feature charac- 
+teristic of amorphous carbon with different degree of 
+order. Since IDPs are exposed to the fast solar proton (100 
+keV) and solar wind particles (1 keV/amu) bombardment 
+before collection in the Earth atmosphere, it is interesting 
+to compare the Raman spectra of IDPs with those of 
+ion-irradiated fluffy aggregate of sub micron amorphous 
+carbon grains. 
+In this paper we present new experimental results ob- 
+tained by “in situ” Raman spectroscopy carried out on 
+0168-583X/96/$15.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+PII SOl68-583X(96)00124-3 
+1% GA. Baratta et al./Nucl. Ins@. andMeth. in Phys. Res. B 116 (1996) 195-199 
+amorphous carbon grains irradiated with 3 lceV He+ ions. 
+Some astrophysical implications are also discussed. 
+2. Characterisation of the AC samples 
+The amorphous carbon (AC) studied in this work has 
+been produced by arc discharge between two amorphous 
+carbon electrodes in an inert Ar atmosphere. The dust 
+deposit has been collected onto a LiF substrate. The AC 
+samples have been fully characterised in [ 131. TEM studies 
+carried out on AC samples ([13] and references therein) 
+showed that they are ctnstituted of spheroidal grains with 
+average radii of 50 A arranged in a fluffy structure. 
+Infrared spectroscopy of the AC samples shows the 
+aliphatic (sp’) C-H stretching structure in the 3.4 pm 
+region. Both -CH, and -CH,- symmetric and asymmet- 
+ric stretches are present. From Fig. 5 in Ref. [13] and by 
+using average areal peak cross-sections for the -CH, and 
+-CH,- groups [ 141 it is possible to estimate the fraction of 
+hydrogen atoms bound to sp3 hybridized carbon atoms. 
+The resulting ratio with respect to the total amount of 
+carbon atoms contained in the AC sample is H/C = 4%, 
+and the ratio between the number of -CH, and -CH,- 
+groups is: N(-CH,)/N(-CH,-) = 2.3. No C-H aromatic 
+stretching is present (within the noise) in the 3.3 pm 
+region, this points out that most of the hydrogen atoms are 
+bound to sp3 carbon atoms although some H atoms must 
+be bound also to sp’ aromatic C atoms since in the 1 l-14 
+pm region the C-H aromatic out of plane bending with 1, 
+2 and 3 adjacent H are observed. From Fig. 5 in Ref. [ 131 
+it is also evident the presence of a weak C-O stretching 
+feature due to oxygen contamination, the corresponding 
+estimated O/C atomic ratio is less than = 0.5%. 
+3. Experimental apparatus 
+Optical microscopy performed on the AC samples 
+showed that they are not uniform in the micron scale. 
+Since the Raman laser spot size is about 20 pm, we used 
+an apparatus to obtain “in situ” Raman spectra, to be sure 
+to analyse always the same portion of the sample during 
+ion bombardment. 
+The experimental apparatus used to perform “in situ” 
+Raman spectroscopy has been described in detail else- 
+where [15]. It consists of a vacuum chamber (P = 10e7 
+mbar) where the targets are mounted on a cold finger 
+(lo-300 K) and irradiated with 3 keV ions. The 514 nm 
+argon laser beam is focalized through a glass window on 
+the sample and the scattered light is collected by a colli- 
+mating lens on the entrance slit of the monochromator. We 
+used a 90” scattering geometry where the directions of the 
+laser beam, ion beam and the collected Raman scattered 
+light are mutualIy perpendicular. The sample holder is 
+inclined by 30” with respect to the incident laser light (vertical axis) and is azimutally rota&l by 45” with respect 
+to the ion beam direction. Hence before, during and after 
+irradiation, spectm can be obtained without tilting the 
+sample. 
+The Raman spectrometer is a SPEX 1877 triple 
+monochromator. The used detector is an OMA III (EG & 
+G Princeton Applied Research) intensified reticon. 
+4. Experimental results 
+The sample has been irradiated with 3 keV helium ions 
+at different doses. Raman spectra obtained “in situ” at 
+different doses are shown in Fig. 1. It is evident that the 
+shape of the Raman spectrum varies with the dose. In 
+order to analyse the variation quantitatively we adopted a 
+line shape fitting procedure. For both the G and D lines 
+(see the next section) we used a line profile given by the 
+relation [ 161: 
+(1) 
+where dI/do is proportional to the detector signal at o, 
+o0 is the undamped mode frequency, w is the frequency 
+shift from the laser line (Raman shift), r is a damping 
+constant and C is a constant of proportionality. Non-linear 
+least square routines have been used to fit the experimental 
+1000 1200 1400 1600 1800 
+Raman shifts [cm-‘] 
+Fig. 1. Raman spectra of amorphous carbon grains deposited on a 
+LiF subs&ate irradiated at different doses with 3 keV of He+ 
+ions. The contim~ous lines are theoretical fits to the data given by 
+the sum of two line profiIe (dashed lines) representing the G and 
+D lines (see the text). 
+GA. Baratta et al./Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 195-199 197 
+1600 _ 
+2 1590 G 
+s 
+g 1500 
+2 
+2 1570 
+3 I? 1560 
+o-4 A,,. 0 20 40 60 a0 400 600 
+Dose [eV/C-atom] 
+Fig. 2. Some fitting parameters of the Raman spectra in Fig. 1 are 
+reported versus the irradiation dose. From top to bottom: peak 
+position of the G line, FWHM of D and G lines, ratio between the 
+peak intensities of D and G lines. 
+spectra by minimising the x2 as a function of six free 
+parameters (C, w. and r for each of the lines). The 
+resulting theoretical curves are reported together with the 
+experimental spectra in Fig. 1. The estimated values for 
+the peak frequency of the G line, the PWHM of both G 
+and D lines and the ratios between their peak intensities 
+are reported versus the dose in Fig. 2. Here the error bars 
+correspond to an increase of x2 by 1 (one standard 
+deviation errors). Our analysis evidences: (1) the increas- 
+ing of both D and G line widths, (2) the downward shift of 
+the G line peak frequency, (3) the decrease (except for the 
+lowest irradiation dose) of the In/Z, intensity ratio with 
+the dose. As it will be explained in the next section, these 
+results are consistent with an increasing disorder induced 
+by ion-irradiation. 
+5. Discussion 
+Carbonaceous materials can widely vary in chemical 
+composition and structure (diamond, graphite, glassy car- 
+bon, hydrogenated amorphous carbon etc.>. Depending on 
+the order degree of graphitic (sp* hybridization) materials, 
+one or two fiit order Raman bands are observed. Accord- ing to the momentum conservation selection rule, only one 
+first order Raman band at about 1582 cm-’ is observed in 
+HOPG (Highly Ordered Pyrolitic Graphite) or natural 
+graphite with large (> 1 ,um) micro crystals [17]. This 
+band is known as the G (graphitic) line and is due to a 
+doubly degenerate deformation vibration of the hexagonal 
+ring corresponding to the E,, mode of graphite with D64, 
+crystal symmetry [18]. However, spectra of microcrys- 
+talline graphite and disordered carbons show an additional 
+1360 cm-’ line. This D (disordered) line is attributed to 
+phonons near the Brillouin zone boundary active in small 
+crystallites or on the boundaries of larger crystallites. It 
+was found [18] that the intensity ratio (fn/io) of the D 
+and G lines varies as the inverse of the crystal planar 
+domain size L, (In/& a l/L,). In amorphous carbons 
+and hydrogenated amorphous carbons, both G and D bands 
+are present. These bands are quite broader than those 
+observed in disordered graphite: the broader the bands, the 
+more disordered the amorphous carbon is. In amorphous 
+carbon obtained by sputtering deposition the two bands 
+cannot be distinguished, the G line is usually shifted at 
+lower Raman shifts ( 1560 cm-,’ ) and the D line becomes a 
+shoulder of the G line. 
+In particular the line width of both G and D bands is 
+related to the bond angle disorder, and to the relative 
+amount of crystallites versus the amorphous matrix. The 
+observed line width increase points out that the amorphous 
+carbon sample becomes more and more disordered during 
+ion irradiation. 
+Computer simulations [19] of the Raman spectra of 
+amorphous carbons, modelled by mixtures of threefold- 
+and fourfold-coordinated atoms, show that both coordina- 
+tion and bond angle disorder produce a G line shift at 
+lower frequencies. Following Ref. [19], the G line is 
+shifted to 1528 cm- ’ when the bond angle is changed 
+from the ideal 120” to a disordered average of 117.7”. This 
+seems to be the only mechanism capable of producing this 
+effect. The G line shift observed in our experiment from 
+1592 cm-’ down to 1554 cm-’ (see Fig. 2) is in agree- 
+ment with an enhanced bond-angle disorder induced by 
+ion-irradiation, and may indicate that the fourfold-coordi- 
+nated atoms increase in number with respect to the three- 
+fold-coordinated atoms. 
+Annealing experiments carried out on poor ordered 
+amorphous carbon films [20,21] show that the I,/& ratio 
+vs. the annealing temperature initially increases, then de- 
+velops a maximum at some temperature. between 800 and 
+9O@C, and finally decreases down to zero at high anneal- 
+ing temperature when graphitization has occurred [21]. The 
+initial increase of the I,,/& has been interpreted as evi- 
+dencing that the crystallites grow in size and/or in num- 
+ber. When effects of momentum conservation becomes 
+important (momentum is conserved in large crystals), the 
+In/Io ratio starts decreasing. In the hypothesis that anneal- 
+ing induces a monotone increase in the sp* average cluster 
+size, the initial increasing trend of the &,/lo ratio is in 
+198 GA. Baratta et aL/Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 195-199 
+agreement with other experiments carried out on amor- 
+phous carbon films with different order degree. In fact, 
+Yoshikawa et al. [22] found that the In/& ratio is related 
+to the size distribution of the sp’ cluster in poor ordered 
+amorphous carbon films, as in this case larger clusters 
+contribute preferentially to the D line. On the other hand, 
+the relation found by [ 181, Zn/Zo a l/L,, should be valid 
+in the decreasing part of the curve, when crystal-size 
+effects cause the decrease in the intensity ratio. 
+If the initial increase of the Zn/Zo ratio observed in our 
+irradiated samples is real, in analogy with Ref. [20] we can 
+apply the relation In/Z, a l/L, to the first point in Fig. 2 
+(lowest panel). This provides (through a comparison with 
+Fig. 3 of Ref. [la]) a micro crystal size of L, = 40 A,. If 
+the crystal size found by Raman spectroscopy is correct, 
+this should imply that the spheroidal grains are rather 
+ordered within their physical size of 50 A (in average) 
+given by TEM analysis. 
+“In situ” Raman spectroscopy of frozen films (T = 10 
+K) of benzene and butane irradiated with 3 keV of He+ 
+ions [6], showed that the irradiated targets were converted 
+into a a-H:C with a relatively low degree of order. Further 
+irradiation of those a-H:C at room temperature showed an 
+opposite behaviour with respect to that found for the AC 
+sample. In particular the In/Z, ratio was found to increase 
+with the dose up to a saturation value; while the optical 
+gap together with the H/C ratio, measured by ERDA, 
+decreased. These results were interpreted in terms of an 
+increasing average sp* cluster size attributed to the prefer- 
+ential hydrogen loss from sp2 sites with respect to sp3 sites 
+as evidenced by infrared spectroscopy [6]. Analogous re- 
+sults have been obtained bombarding a polystyrene film 
+with 240 keV of Ar+ ions at room temperature [23]. 
+The results obtained for the AC and a-H:C samples are 
+similar to those found by Compagnini et al. [24] on two set 
+of samples: a high temperature annealed (900°C) amor- 
+phous carbon called HGC (Hydrogenated Graphitic Car- 
+bon) and a conventionally ion produced a-H:C carbon. The 
+HGC possesses an optical energy gap below 0.1 eV, an 
+sp2/sp3 carbon fraction of about 80% (by EELS) and a H 
+content of about 15 at.%. The a-H:C is a highly hydro- 
+genated sample (40 at.%) with an energy gap of 1.5 eV 
+and a sp2/sp3 carbon fraction of about 30%. Ion beam 
+irradiation with 300 keV Ar+ showed that while in a-H:C 
+the optical energy gap decreases reaching about 0.5 eV, 
+the H content decreases to about 18% and the sp2/sp3 
+carbon fraction increase up to 65%. In HGC the process is 
+reversed, in particular the sp2/sp3 carbon fraction de- 
+creases down to a saturation value of about 70%. The final 
+result was an amorphous structure with the same physical 
+properties independently of the starting sample. This simi- 
+larity is also observed in our case, in fact the Raman 
+spectrum of the a-IX from frozen benzene irradiated at 
+the highest dose (1000 eV/C-atom) [6] is very similar to 
+the Raman spectrum of the AC sample at 660 eV/C-atom 
+(the most disordered). During ion-beam irradiation, two competitive processes 
+must be considered: graphitization and amorphization. The 
+first one can be related to the energy release in form of 
+heat (“thermal spikes”) inside the collision cascade (sp3 
+to sp2 conversion with or without H loss), while the latter 
+is caused by the displacement collisions and depends on 
+the size of the crystallites. It should be also considered that 
+the characteristic time for relaxation of the excitation 
+generated by an ion is of the order of one picosecond or 
+less; thus equilibrium processes (like annealing) are not 
+possible (see Ref. [25] for a comparison between laser 
+irradiation, ion and electron bombardment and thermal 
+annealing on a-H:C). According to Ref. [24] the saturation 
+effect is due to the competition between these two pro- 
+cesses, being the saturation reached when they are equal. 
+In analogy with Ref. [24], this should imply that ion 
+irradiation of the AC sample produces a strong decluster- 
+ing of the atomic configuration of the sp2 carbon compo- 
+nent: the amorphization process (also observed in ion 
+irradiated HOPG [9]) prevails on graphitization. This prob- 
+ably because the initial sp2 on sp3 carbon ratio is relatively 
+high in the AC sample as testified both by the low H 
+content and by the initial G line peak position. Ion irradia- 
+tion of conventional a-HC, in contrast, produces a cluster- 
+ing of the sp2 carbon fraction suggesting that graphitiza- 
+tion, accompanied by the H loss, is the driving process for 
+the structural transformation. Indeed in this case the initial 
+sp2 on sp3 carbon ratio is low [6] and the structure is 
+highly disordered (as testified by the corresponding Raman 
+spectra), so that graphitization prevails on amorphization. 
+6. Astrophysical applications 
+In the Raman study by Wopenka [ 121 (see Introduction) 
+the 20 IDPs have been classified in 6 different groups 
+where the order degree decreases from group 1 to group 6, 
+as testified by the increasing band width and by the 
+decreasing Z&Z, ratio. The Raman spectrum of the two 
+most ordered groups is very similar to those of AC grains 
+before irradiation. This result indicates that AC grains are 
+good analogues of the carbonaceous phase of the IDPs 
+belonging to the most ordered groups 1 and 2 (at least 
+from a structural point of view). 
+It was shown that IDPs are exposed to the penetrating 
+(E = 100 keV) solar proton flux up to a total dose of the 
+order of 10 to 100 eV/mol, during the 104-lo5 yr spent 
+in the interplanetary medium before collection on Earth 
+[3]. The flux of solar wind particles provides a much 
+greater dose (i04-lo5 eV/mol), but only to a depth of 
+= 0.02 j.4,m. In this scenario we are investigating the 
+possibility that the different order degree exhibited by 
+IDPs, could be explained (see Fig. 2) by a different 
+ion-irradiation dose corresponding to the time spent in the 
+interplanetary medium before collection in Earth atmo- 
+sphere. 
+GA. Baratta et al./NwA. Instr. and Meth. in Phys. Res. B II6 (1996) 195-199 199 
+References [141 
+[l] R.E. Johnson, Energetic Charged-Particle Interaction with 
+Atmospheres and Surfaces (Springer, Berlin, 1990). 
+[2] W.L. Brown, L.J. Lanzerotti, J.M. Poate and W.M. Augus- 
+tiniak, Phys. Rev. Lett. 40 (1978) 1027. 
+[3] G. Strazzulla and R.E. Johnson, in: Comets in the Post-Hal- 
+ley Era, eds. R. Newbum Jr., M. Neugebauer and J. Rahe 
+(Kluwer, Dordrecht, 1991) p. 243. 
+[4] G. Strazzulla, G.A. Baratta, R.E. Johnson and B. Donn, 
+Icarus 91 (1991) 101. 
+[5] G. Strazzulla, G.A. Baratta and A. Magazzh, in: Solid State 
+Astrophysics, eds. E. Bussoletti and G. Strazzulla (North- 
+Holland, Amsterdam, 1991) p. 403. 
+[6] G. Strazzulla and G.A. Baratta, Astron. Astrophys. 266 
+(1992) 434. [151 
+[161 
+[171 
+h31 
+[191 
+DO1 
+ml 
+[7] B.S. Elmau, M. Shayegan, M.S. Dresselhaus, H. Mazurek 
+and G. Dresselhaus, Phys. Rev. B 25 (1982) 4142. 
+[8] B.S. Elman, M.S. Dresselhaus, G. Dresselhaus, E.W. Maby 
+and H. Mazurek, Phys. Rev. B 24 (1981) 1027. 
+[9] G. Compagnini and G.A. Baratta, Appl. Phys. Lett. 61 
+(1992) 1796. ml 
+[lo] I.D.R. Mackimron and F.J.M. Rietmeijer, Rev. Geophys. 25 
+(1987) 1527. 1231 
+[ll] J.P. Bradley, D.E. Brownlee and D.R. Veblen, Science 223 
+(1984) 65. 1241 G. Compagnini, L. Calcagno and G. Foti, Phys. Rev. I&t. 69 
+(1992) 454. 
+[12] B. Wopenka, Earth. Planet Sci. 88 (1988) 221. 
+[13] L. Colangeli, V. Mennella, P. Palumbo, A. Rotundi and E. 
+Bussoletti, Astron. Astrophys. Suppl. 113 (199.5) 561. [25] R. Kalish and M.E. Adel, Mat. Sci. Forum 52 (1989) 427. S.A. Sandford, L.J. Allamaudola, A.G.G.M. Tielens, K. Sel- 
+gren, M. Tapia and Y. Pendleton, Astrophy. J. 371 (1991) 
+607. 
+F. Spinella, G.A. Baratta and G. Strazzulla, Rev. Sci. Instr. 
+62 (1991) 1743. 
+M. Di Domenico jr., S.H. Wemple and P.S. Porto, Phys. 
+Rev. 174 (1968) 522. 
+J. Robertson, Adv. Phys. 35 (1986) 317. 
+F. Tuinstra and J.L. Koenigh, J. Chem. Phys. 53 (1970) 
+1126. 
+D. Beeman, J. Silverman, R. Lynds and M.R. Anderson, 
+Phys. Rev. B 30 (1984) 876. 
+R.O. Dillon, J.A. Wollam and V. Katkanant, Phys. Rev. B 29 
+(1984) 3482. 
+R.P. Vidano and D.B. Fishbach, Extended Abstract of the 
+15th Biennial Conf. on Carbon, eds. F.L. Vogel and W.C. 
+Foresmau, (American Carbon Society, University Park, PA, 
+19811, p. 468; 
+R.P. Vidano, Ph.D. thesis, University of Washington (1980). 
+M. Yoshikawa, G. Katagiri, H. Ishida, A. Ishitani and T. 
+Akamatsu, J. Appl. Phys. 64 (1988) 6464. 
+G. Foti and R. Reitano, Nucl. Instr. and Meth. B 46 (1990) 
+306. 

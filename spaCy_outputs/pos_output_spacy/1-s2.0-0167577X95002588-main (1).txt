@@ -1,0 +1,1752 @@
+ELSEWIER, PROPN 
+June, PROPN 
+1996, NUM 
+
+, SPACE 
+Materials, PROPN 
+Letters, PROPN 
+27, NUM 
+1996, NUM 
+77, NUM 
+80, NUM 
+
+, SPACE 
+Diamond, PROPN 
+coating, NOUN 
+titanium, NOUN 
+alloys, NOUN 
+tempering, VERB 
+temperature, NOUN 
+
+, SPACE 
+L., PROPN 
+Vandenbulcke, PROPN 
+D., PROPN 
+Rats, PROPN 
+R., PROPN 
+Herbin, PROPN 
+
+, SPACE 
+Laboratoire, PROPN 
+de, PROPN 
+Combustion, PROPN 
+et, NOUN 
+Sysdmes, PROPN 
+R&actifs, PROPN 
+CNRS, PROPN 
+IC, PROPN 
+au, ADP 
+de, PROPN 
+la, PROPN 
+Recherche, PROPN 
+Scientijique, PROPN 
+F-45071, NOUN 
+O&ans, PROPN 
+Cedex, PROPN 
+2, NUM 
+France, PROPN 
+
+, SPACE 
+Received, VERB 
+11, NUM 
+July, PROPN 
+1995, NUM 
+accepted, VERB 
+30, NUM 
+October, PROPN 
+1995, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+Polycrystalline, PROPN 
+diamond, NOUN 
+films, NOUN 
+deposited, VERB 
+pure, ADJ 
+titanium, NOUN 
+Ti-6Al-4V, NOUN 
+microwave, NOUN 
+plasma, NOUN 
+reactor, NOUN 
+
+, SPACE 
+CH,-H, PROPN 
+CO, PROPN 
+H, PROPN 
+gas, NOUN 
+mixtures, NOUN 
+temperature, NOUN 
+range, NOUN 
+600, NUM 
+900, NUM 
+°, NUM 
+C, NOUN 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+scanning, VERB 
+electron, NOUN 
+
+, SPACE 
+microscopy, PROPN 
+Raman, PROPN 
+spectroscopy, NOUN 
+showed, VERB 
+l-10, NOUN 
+pm, PROPN 
+diamond, NOUN 
+layers, NOUN 
+produced, VERB 
+600, NUM 
+°, NOUN 
+C, NOUN 
+fairly, ADV 
+good, ADJ 
+
+, SPACE 
+crystallinity, NOUN 
+residual1, NOUN 
+stresses, NOUN 
+limited, VERB 
+5, NUM 
+GPa, NOUN 
+intrinsic, ADJ 
+properties, NOUN 
+heat, NOUN 
+treated, VERB 
+titanium, NOUN 
+alloys, NOUN 
+
+, SPACE 
+maintained, VERB 
+tempering, VERB 
+temperature, NOUN 
+spalling, NOUN 
+occurred, VERB 
+appropriate, ADJ 
+pretreatment, NOUN 
+carried, VERB 
+
+, SPACE 
+expect, VERB 
+diamond, NOUN 
+coated, VERB 
+titanium, NOUN 
+alloys, NOUN 
+general, ADJ 
+engineering, NOUN 
+applications, NOUN 
+low, ADJ 
+
+, SPACE 
+friction, NOUN 
+coefficient, NOUN 
+low, ADJ 
+wear, NOUN 
+rate, NOUN 
+load, NOUN 
+bearing, VERB 
+capacity, NOUN 
+necessary, ADJ 
+
+, SPACE 
+Kqvwords, NOUN 
+Diamond, NOUN 
+Titanium, NOUN 
+alloys, NOUN 
+Tempering, VERB 
+
+, SPACE 
+1, NUM 
+Introduction, NOUN 
+
+, SPACE 
+Titanium, PROPN 
+alloys, NOUN 
+attractive, ADJ 
+properties, NOUN 
+includ-, VERB 
+
+, SPACE 
+ing, ADJ 
+high, ADJ 
+specific, ADJ 
+strengths, NOUN 
+moduli, NOUN 
+coupled, VERB 
+
+, SPACE 
+relatively, ADV 
+low, ADJ 
+density, NOUN 
+properties, NOUN 
+led, VERB 
+
+, SPACE 
+use, NOUN 
+titanium, NOUN 
+alloys, NOUN 
+aerospace, NOUN 
+applications, NOUN 
+
+, SPACE 
+bioimplants, NOUN 
+poor, ADJ 
+wear, VERB 
+resis-, X 
+
+, SPACE 
+tance, NOUN 
+limited, VERB 
+engineering, NOUN 
+applications, NOUN 
+Vari-, NOUN 
+
+, SPACE 
+ous, ADJ 
+processes, NOUN 
+applied, VERB 
+titanium, NOUN 
+alloy, NOUN 
+
+, SPACE 
+substrates, NOUN 
+including, VERB 
+thermochemical, ADJ 
+treatments, NOUN 
+
+, SPACE 
+physical, ADJ 
+PVD, PROPN 
+chemical, NOUN 
+vapor, NOUN 
+deposition, NOUN 
+
+, SPACE 
+CVD, PROPN 
+ll, AUX 
+Diamond, NOUN 
+like, ADJ 
+carbon, NOUN 
+amorphic, NOUN 
+
+, SPACE 
+polycrystalline, ADJ 
+diamond, NOUN 
+films, NOUN 
+recently, ADV 
+
+, SPACE 
+deposited, VERB 
+improve, VERB 
+friction, NOUN 
+erosion, NOUN 
+proper-, NOUN 
+
+, SPACE 
+ties, NOUN 
+titanium, NOUN 
+alloy, NOUN 
+substrates, NOUN 
+2, NUM 
+51, NUM 
+previ-, NOUN 
+
+, SPACE 
+ous, ADJ 
+studies, NOUN 
+polycrynalline, NOUN 
+diamond, NOUN 
+films, NOUN 
+presented, VERB 
+
+, SPACE 
+high, ADJ 
+residual, ADJ 
+compressive, ADJ 
+stresses, NOUN 
+7, NUM 
+
+, SPACE 
+GPa, NOUN 
+deposition, NOUN 
+carried, VERB 
+800-, NUM 
+
+, SPACE 
+850, NUM 
+°, NUM 
+C, NOUN 
+3,6, NUM 
+mainly, ADV 
+large, ADJ 
+thermal, ADJ 
+
+, SPACE 
+expansion, NOUN 
+mismatch, NOUN 
+diamond, NOUN 
+titanium, NOUN 
+
+, SPACE 
+Spalling, VERB 
+generally, ADV 
+occurs, VERB 
+thin, ADJ 
+layers, NOUN 
+<, X 
+1, NUM 
+pm, NOUN 
+peel, VERB 
+cooling, VERB 
+samples, NOUN 
+
+, SPACE 
+deposition, NOUN 
+room, VERB 
+temperature, NOUN 
+
+, SPACE 
+intrinsic, ADJ 
+properties, NOUN 
+heat, NOUN 
+treated, VERB 
+titanium, NOUN 
+
+, SPACE 
+alloy, NOUN 
+substrates, NOUN 
+retained, VERB 
+temperatures, NOUN 
+
+, SPACE 
+higher, ADJ 
+600, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+lower, ADJ 
+deposition, NOUN 
+temperature, NOUN 
+employed, VERB 
+
+, SPACE 
+minimize, VERB 
+thermal, ADJ 
+stresses, NOUN 
+searched, VERB 
+
+, SPACE 
+high, ADJ 
+nucleation, NOUN 
+density, NOUN 
+increase, VERB 
+intrinsic, ADJ 
+
+, SPACE 
+stresses, NOUN 
+generally, ADV 
+tensile, ADJ 
+diamond, NOUN 
+
+, SPACE 
+layers, NOUN 
+7, NUM 
+order, NOUN 
+reduce, VERB 
+total, ADJ 
+residual, ADJ 
+stresses, NOUN 
+
+, SPACE 
+Information, NOUN 
+fiIm, PROPN 
+microstructure, NOUN 
+purity, NOUN 
+
+, SPACE 
+residual, ADJ 
+stresses, NOUN 
+provided, VERB 
+X, NOUN 
+ray, NOUN 
+
+, SPACE 
+diffraction, NOUN 
+XRD, PROPN 
+scanning, VERB 
+electron, NOUN 
+microscopy, ADJ 
+
+, SPACE 
+@EM, PROPN 
+Raman, PROPN 
+spectroscopy, NOUN 
+
+, SPACE 
+2, X 
+Experimental, PROPN 
+
+, SPACE 
+Diamond, PROPN 
+deposition, NOUN 
+carried, VERB 
+plasma, NOUN 
+
+, SPACE 
+tubular, ADJ 
+reactor, NOUN 
+crossed, VERB 
+wave, NOUN 
+guide, NOUN 
+connected, VERB 
+
+, SPACE 
+00167, NUM 
+577X/96/$12.00, NUM 
+4, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+SSDI, PROPN 
+0167, NUM 
+577X(95)00258, NUM 
+8, NUM 
+
+, SPACE 
+78, NUM 
+L., PROPN 
+Vandenbulcke, PROPN 
+et, PROPN 
+al, PROPN 
+/Materials, PROPN 
+Letters, NOUN 
+27, NUM 
+1996, NUM 
+77, NUM 
+80, NUM 
+
+, SPACE 
+1.2, NUM 
+kW, NOUN 
+microwave, NOUN 
+generator, NOUN 
+2.45, NUM 
+GHz, NOUN 
+Vari-, NOUN 
+
+, SPACE 
+ous, ADJ 
+CH,-H, NOUN 
+CO, PROPN 
+H, PROPN 
+gas, NOUN 
+mixtures, NOUN 
+
+, SPACE 
+diamond, NOUN 
+growth, NOUN 
+generally, ADV 
+carried, VERB 
+
+, SPACE 
+1, NUM 
+CH, NOUN 
+8, NUM 
+CO, PROPN 
+H, PROPN 
+total, ADJ 
+gas, NOUN 
+flow, NOUN 
+
+, SPACE 
+rate, NOUN 
+fixed, VERB 
+200, NUM 
+total, ADJ 
+pressure, NOUN 
+
+, SPACE 
+maintained, VERB 
+range, NOUN 
+5-, PROPN 
+10, NUM 
+Torr, PROPN 
+deposition, NOUN 
+
+, SPACE 
+temperature, NOUN 
+measured, VERB 
+axial, ADJ 
+thermocouple, NUM 
+
+, SPACE 
+set, VERB 
+0.5, NUM 
+mm, NOUN 
+deposition, NOUN 
+surface, NOUN 
+
+, SPACE 
+varied, ADJ 
+range, NOUN 
+600, NUM 
+900, NUM 
+°, NUM 
+C, NOUN 
+cylindrical, ADJ 
+sam-, NOUN 
+
+, SPACE 
+ples, NOUN 
+18, NUM 
+mm, NOUN 
+diameter, NOUN 
+7, NUM 
+mm, NOUN 
+thickness, NOUN 
+
+, SPACE 
+machined, VERB 
+commercial, ADJ 
+titanium, NOUN 
+an-, X 
+
+, SPACE 
+nealed, ADJ 
+Ti-6Al-4V, NOUN 
+alloy, NOUN 
+polished, ADJ 
+
+, SPACE 
+different, ADJ 
+diamond, NOUN 
+pastes, NOUN 
+cleaned, VERB 
+acetone, NOUN 
+
+, SPACE 
+ethanol, NOUN 
+nucleation, NOUN 
+density, NOUN 
+enhanced, VERB 
+
+, SPACE 
+seeding, VERB 
+surface, NOUN 
+1, NUM 
+pm, NOUN 
+diamond, NOUN 
+paste, NOUN 
+
+, SPACE 
+situ, NOUN 
+pretreatment, NOUN 
+applied, VERB 
+
+, SPACE 
+ensure, VERB 
+adherence, NOUN 
+films, NOUN 
+deposited, VERB 
+mod-, ADJ 
+
+, SPACE 
+erate, NOUN 
+temperatures, NOUN 
+8, NUM 
+
+, SPACE 
+Raman, PROPN 
+measurements, NOUN 
+performed, VERB 
+back-, NOUN 
+
+, SPACE 
+scattering, VERB 
+configuration, NOUN 
+514.5, NUM 
+nm, PROPN 
+Ar, PROPN 
+inci-, NOUN 
+
+, SPACE 
+dent, ADJ 
+laser, NOUN 
+beam, NOUN 
+100, NUM 
+mW, NUM 
+power, NOUN 
+
+, SPACE 
+3, X 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+XRD, PROPN 
+revealed, VERB 
+presence, NOUN 
+diamond, NOUN 
+non-, NOUN 
+
+, SPACE 
+stoichiometric, ADJ 
+titanium, NOUN 
+carbide, NOUN 
+oxycarbide, VERB 
+
+, SPACE 
+titanium, NOUN 
+Ti, ADJ 
+phase, NOUN 
+hexagonal, ADJ 
+structure, NOUN 
+
+, SPACE 
+present, ADJ 
+pure, ADJ 
+titanium, NOUN 
+/3, PROPN 
+Ti, PROPN 
+phase, NOUN 
+
+, SPACE 
+cubic, ADJ 
+structure, NOUN 
+appeared, VERB 
+Ti-6Al-4V, PROPN 
+ob-, X 
+
+, SPACE 
+viously, ADV 
+stabilized, VERB 
+vanadium, NOUN 
+incorporation, NOUN 
+
+, SPACE 
+structure, NOUN 
+composition, NOUN 
+interfacial, ADJ 
+
+, SPACE 
+region, NOUN 
+studied, VERB 
+thoroughly, ADV 
+func-, ADJ 
+
+, SPACE 
+tion, NOUN 
+pretreatment, NOUN 
+deposition, NOUN 
+conditions, NOUN 
+
+, SPACE 
+X, NOUN 
+ray, PROPN 
+photoelectron, PROPN 
+spectroscopy, PROPN 
+secondary, ADJ 
+ion, NOUN 
+
+, SPACE 
+mass, NOUN 
+spectrometry, NOUN 
+transmission, NOUN 
+electron, NOUN 
+mi-, X 
+
+, SPACE 
+croscopy, NOUN 
+coupled, VERB 
+electron, NOUN 
+energy, NOUN 
+loss, NOUN 
+spec-, PART 
+
+, SPACE 
+troscopy, NOUN 
+Fig, PROPN 
+la, PROPN 
+presents, VERB 
+8, NUM 
+km, NOUN 
+diamond, NOUN 
+film, NOUN 
+
+, SPACE 
+deposited, VERB 
+CO, PROPN 
+H, PROPN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+Ti-6Al-4V., ADJ 
+
+, SPACE 
+corresponding, VERB 
+Raman, PROPN 
+spectrum, NOUN 
+typical, ADJ 
+
+, SPACE 
+CVD, PROPN 
+diamond, NOUN 
+Fig, PROPN 
+2a, PROPN 
+broad, ADJ 
+bands, NOUN 
+reveal, VERB 
+
+, SPACE 
+small, ADJ 
+codeposition, NOUN 
+non, ADJ 
+diamond, ADJ 
+carbon, NOUN 
+sharp, ADJ 
+
+, SPACE 
+double, ADJ 
+peaks, NOUN 
+1345, NUM 
+cm-, PUNCT 
+1336, NUM 
+cm-, NOUN 
+
+, SPACE 
+assigned, VERB 
+polycrystalline, ADJ 
+diamond, NOUN 
+large, ADJ 
+shift, NOUN 
+
+, SPACE 
+compared, VERB 
+1332, NUM 
+cm-, NOUN 
+natural, ADJ 
+diamond, NOUN 
+
+, SPACE 
+partial, ADJ 
+splitting, NOUN 
+peak, NOUN 
+attributed, VERB 
+
+, SPACE 
+compressive, ADJ 
+residual, ADJ 
+stress, NOUN 
+161, NUM 
+Fig, PROPN 
+lb, PROPN 
+
+, SPACE 
+indicate, VERB 
+good, ADJ 
+adhesion, NOUN 
+diamond, NOUN 
+film, NOUN 
+de-, X 
+Fig, PROPN 
+1, NUM 
+SEM, PROPN 
+image, NOUN 
+diamond, NOUN 
+films, NOUN 
+deposited, VERB 
+600, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+Ti-6AI-4V, PROPN 
+8, NUM 
+CO, PROPN 
+H, PROPN 
+surface, NOUN 
+morphology, NOUN 
+cross, VERB 
+
+, SPACE 
+section, NOUN 
+b, X 
+1, NUM 
+CH, PROPN 
+-Hz, PROPN 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+1332, NUM 
+
+, SPACE 
+1000, NUM 
+1200, NUM 
+1400, NUM 
+1600, NUM 
+
+, SPACE 
+Wavenumber, PROPN 
+cm, PROPN 
+l, PROPN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Raman, PROPN 
+spectra, PROPN 
+diamond, NOUN 
+films, NOUN 
+deposited, VERB 
+600, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+Ti-6AI-4V, PROPN 
+8, NUM 
+CO, PROPN 
+H, PROPN 
+b, X 
+1, NUM 
+CH, PROPN 
+-H2, PROPN 
+
+, SPACE 
+L., PROPN 
+Vandenbulcke, PROPN 
+et, PROPN 
+al, PROPN 
+/Materials, PROPN 
+Letters, NOUN 
+27, NUM 
+1996, NUM 
+77, NUM 
+80, NUM 
+79, NUM 
+
+, SPACE 
+500, NUM 
+
+, SPACE 
+-5, PUNCT 
+
+, SPACE 
+F, NOUN 
+600, NUM 
+g, PROPN 
+
+, SPACE 
+s, NOUN 
+P, NOUN 
+
+, SPACE 
+wg, PROPN 
+3, NUM 
+
+, SPACE 
+t, NOUN 
+700, NUM 
+F, PROPN 
+
+, SPACE 
+R, NOUN 
+g, NOUN 
+
+, SPACE 
+E, NOUN 
+
+, SPACE 
+-7, PUNCT 
+C, NOUN 
+
+, SPACE 
+800, NUM 
+
+, SPACE 
+-6, PROPN 
+l, NOUN 
+900, NUM 
+
+, SPACE 
+10, NUM 
+12, NUM 
+14, NUM 
+16, NUM 
+18, NUM 
+20, NUM 
+22, NUM 
+24, NUM 
+
+, SPACE 
+Diamond, PROPN 
+peak, NOUN 
+shift, NOUN 
+cm, PROPN 
+l, PROPN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Temperature, NOUN 
+corresponding, VERB 
+calculated, VERB 
+thermal, ADJ 
+stress, NOUN 
+re-, ADP 
+
+, SPACE 
+ported, VERB 
+versus, ADP 
+expertmental, ADJ 
+shift, NOUN 
+principal, ADJ 
+Raman, PROPN 
+
+, SPACE 
+diamond, NOUN 
+peak, NOUN 
+corresponding, VERB 
+doublet, ADJ 
+phonon, NOUN 
+films, NOUN 
+
+, SPACE 
+deposited, VERB 
+C, PROPN 
+H, PROPN 
+C, PROPN 
+H, NOUN 
+O, PROPN 
+0, NUM 
+
+, SPACE 
+containing, VERB 
+gaseous, ADJ 
+mixtures, NOUN 
+Ager, PROPN 
+model, NOUN 
+gives, VERB 
+
+, SPACE 
+residual, ADJ 
+stress, NOUN 
+gage, NOUN 
+factor, NOUN 
+0.384, NUM 
+GPa, NOUN 
+cm-, PROPN 
+represented, VERB 
+
+, SPACE 
+continuous, ADJ 
+line, NOUN 
+stress, NOUN 
+scale, NOUN 
+
+, SPACE 
+posited, VERB 
+600, NUM 
+°, NOUN 
+C, NOUN 
+Ti-6Al-4V, NOUN 
+CH,-H, PROPN 
+
+, SPACE 
+mixture, NOUN 
+corresponding, VERB 
+Raman, PROPN 
+spectrum, NOUN 
+pre-, ADV 
+
+, SPACE 
+sented, VERB 
+Fig, PROPN 
+2b, NOUN 
+film, NOUN 
+quality, NOUN 
+appears, VERB 
+poorer, ADJ 
+
+, SPACE 
+CO, PROPN 
+H, PROPN 
+broadening, NOUN 
+asymmet-, ADJ 
+
+, SPACE 
+ric, PROPN 
+diamond, NOUN 
+feature, NOUN 
+peaks, NOUN 
+centered, VERB 
+1343.5, NUM 
+
+, SPACE 
+1333, NUM 
+cm-, NOUN 
+>, X 
+attributed, VERB 
+defective, ADJ 
+
+, SPACE 
+diamond, NOUN 
+higher, ADJ 
+dispersion, NOUN 
+crystal-, ADJ 
+
+, SPACE 
+lite, ADJ 
+subgrains, NOUN 
+size, NOUN 
+orientation, NOUN 
+9,10, X 
+
+, SPACE 
+hand, NOUN 
+broad, ADJ 
+bands, NOUN 
+1140, NUM 
+1450, NUM 
+1580, NUM 
+
+, SPACE 
+cm-, PROPN 
+reveal, VERB 
+greater, ADJ 
+codeposition, NOUN 
+amorphous, ADJ 
+
+, SPACE 
+disordered, VERB 
+sp, PROPN 
+carbon, NOUN 
+
+, SPACE 
+thermal, ADJ 
+stress, NOUN 
+component, NOUN 
+developed, VERB 
+
+, SPACE 
+cooling, VERB 
+room, VERB 
+temperature, NOUN 
+directly, ADV 
+
+, SPACE 
+calculated, VERB 
+Hoake, PROPN 
+law, NOUN 
+biaxial, ADJ 
+Young, PROPN 
+
+, SPACE 
+modulus, NOUN 
+polycrystalline, ADJ 
+diamond, NOUN 
+1230, NUM 
+GPa, NOUN 
+
+, SPACE 
+11, NUM 
+titanium, NOUN 
+Ti-6Al-4V, PROPN 
+temperature, NOUN 
+
+, SPACE 
+dependence, NOUN 
+thermal, ADJ 
+expansion, NOUN 
+
+, SPACE 
+known, VERB 
+121, NUM 
+thermal, ADJ 
+expansion, NOUN 
+CVD, PROPN 
+dia-, VERB 
+
+, SPACE 
+mond, NOUN 
+recently, ADV 
+determined, VERB 
+13, NUM 
+com-, NOUN 
+
+, SPACE 
+pressive, ADJ 
+thermal, ADJ 
+stress, NOUN 
+calculated, VERB 
+Fig, PROPN 
+3, NUM 
+
+, SPACE 
+presents, VERB 
+experimental, ADJ 
+variation, NOUN 
+Raman, PROPN 
+
+, SPACE 
+peak, NOUN 
+shift, NOUN 
+diamond, NOUN 
+function, NOUN 
+calculated, VERB 
+
+, SPACE 
+thermal, ADJ 
+stress, NOUN 
+600, NUM 
+900, NUM 
+°, NUM 
+C, NOUN 
+range, NOUN 
+
+, SPACE 
+hand, NOUN 
+Ager, PROPN 
+Drory, PROPN 
+61, NUM 
+recently, ADV 
+developed, VERB 
+
+, SPACE 
+model, NOUN 
+relates, VERB 
+observed, VERB 
+Raman, PROPN 
+spectra, PROPN 
+
+, SPACE 
+residual, ADJ 
+stresses, NOUN 
+diamond, NOUN 
+films, NOUN 
+derived, VERB 
+biaxial, ADJ 
+stresses, NOUN 
+corresponding, VERB 
+singlet, VERB 
+doublet, VERB 
+
+, SPACE 
+phonon, NOUN 
+frequencies, NOUN 
+diamond, NOUN 
+phonon, NOUN 
+
+, SPACE 
+deformation, NOUN 
+potentials, NOUN 
+compliance, NOUN 
+constants, NOUN 
+
+, SPACE 
+doublet, NOUN 
+following, VERB 
+equation, NOUN 
+obtained, VERB 
+
+, SPACE 
+61, NUM 
+
+, SPACE 
+T=, PROPN 
+-0.384Au, PROPN 
+GPa, PROPN 
+
+, SPACE 
+v, NOUN 
+peak, NOUN 
+shift, NOUN 
+cm-, PROPN 
+calculated, VERB 
+
+, SPACE 
+variation, NOUN 
+residual, ADJ 
+stress, NOUN 
+7, NUM 
+function, NOUN 
+
+, SPACE 
+diamond, NOUN 
+peak, NOUN 
+shift, NOUN 
+reported, VERB 
+Fig, PROPN 
+3, NUM 
+
+, SPACE 
+figure, NOUN 
+shows, VERB 
+fairly, ADV 
+good, ADJ 
+agreement, NOUN 
+
+, SPACE 
+results, NOUN 
+Ager, PROPN 
+Drory, PROPN 
+model, NOUN 
+
+, SPACE 
+allows, VERB 
+attribute, VERB 
+residual, ADJ 
+stresses, NOUN 
+mainly, ADV 
+
+, SPACE 
+thermal, ADJ 
+expansion, NOUN 
+mismatch, NOUN 
+difference, NOUN 
+
+, SPACE 
+noted, VERB 
+deposits, NOUN 
+obtained, VERB 
+
+, SPACE 
+C, PROPN 
+H, PROPN 
+C, PROPN 
+H, NOUN 
+O, NOUN 
+containing, VERB 
+gas, NOUN 
+mixtures, NOUN 
+
+, SPACE 
+different, ADJ 
+intrinsic, ADJ 
+stresses, NOUN 
+Raman, PROPN 
+
+, SPACE 
+study, NOUN 
+shows, VERB 
+higher, ADJ 
+non, ADJ 
+diamond, ADJ 
+carbon, NOUN 
+incorpora-, VERB 
+
+, SPACE 
+tion, NOUN 
+generally, ADV 
+thought, VERB 
+located, VERB 
+grain, NOUN 
+
+, SPACE 
+boundaries, NOUN 
+oxygen, NOUN 
+introduced, VERB 
+
+, SPACE 
+plasma, NOUN 
+case, NOUN 
+tensile, ADJ 
+intrinsic, ADJ 
+stress, NOUN 
+com-, NOUN 
+
+, SPACE 
+ponent, NOUN 
+generally, ADV 
+higher, ADJ 
+7, NUM 
+residual, ADJ 
+
+, SPACE 
+stresses, NOUN 
+accordingly, ADV 
+lower, ADJ 
+direct, ADJ 
+stress, NOUN 
+
+, SPACE 
+measurements, NOUN 
+curvature, NOUN 
+method, NOUN 
+XRD, PROPN 
+
+, SPACE 
+sin29, PROPN 
+method, NOUN 
+14, NUM 
+necessary, ADJ 
+
+, SPACE 
+confirm, VERB 
+hypothesis, NOUN 
+
+, SPACE 
+4, X 
+Conclusion, NOUN 
+
+, SPACE 
+strong, ADJ 
+interface, NOUN 
+bonding, NOUN 
+obtained, VERB 
+
+, SPACE 
+high, ADJ 
+temperature, NOUN 
+850, NUM 
+900, NUM 
+°, NUM 
+C, NOUN 
+spalling, NOUN 
+
+, SPACE 
+thin, ADJ 
+films, NOUN 
+<, X 
+1, NUM 
+pm, NOUN 
+occurs, VERB 
+spite, NOUN 
+high, ADJ 
+
+, SPACE 
+residual, ADJ 
+stresses, NOUN 
+8, NUM 
+GPa, NOUN 
+shown, VERB 
+
+, SPACE 
+diamond, NOUN 
+coating, NOUN 
+titanium, NOUN 
+alloys, NOUN 
+possi-, X 
+
+, SPACE 
+ble, ADJ 
+tempering, VERB 
+temperature, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+residual, ADJ 
+
+, SPACE 
+stresses, NOUN 
+5, NUM 
+GPa, NOUN 
+slightly, ADV 
+
+, SPACE 
+reduced, VERB 
+decreasing, VERB 
+temperature, NOUN 
+500, NUM 
+600, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+range, NOUN 
+increasing, VERB 
+intrinsic, ADJ 
+stresses, NOUN 
+contri-, VERB 
+
+, SPACE 
+bution, NOUN 
+tribological, ADJ 
+tests, NOUN 
+confirmed, VERB 
+
+, SPACE 
+good, ADJ 
+adhesion, NOUN 
+diamond, NOUN 
+films, NOUN 
+deposited, VERB 
+
+, SPACE 
+600, NUM 
+°, NUM 
+C, NOUN 
+Complete, ADJ 
+results, NOUN 
+mechanical, ADJ 
+tests, NOUN 
+
+, SPACE 
+coupled, VERB 
+thorough, ADJ 
+study, NOUN 
+structure, NOUN 
+
+, SPACE 
+composition, NOUN 
+interfacial, ADJ 
+region, NOUN 
+pub-, NOUN 
+
+, SPACE 
+lished, VERB 
+near, ADJ 
+future, NOUN 
+Finally, ADV 
+use, NOUN 
+diamond-, ADV 
+
+, SPACE 
+coated, ADJ 
+titanium, NOUN 
+alloys, NOUN 
+general, ADJ 
+engineering, NOUN 
+appli-, X 
+
+, SPACE 
+cations, NOUN 
+reasonably, ADV 
+expected, VERB 
+
+, SPACE 
+80, NUM 
+L., PROPN 
+Vandenbulcke, PROPN 
+et, PROPN 
+al, PROPN 
+/Materials, PROPN 
+Letters, NOUN 
+27, NUM 
+19, NUM 
+77, NUM 
+80, NUM 
+
+, SPACE 
+Acknowledgements, NOUN 
+151, NUM 
+
+, SPACE 
+61, NUM 
+
+, SPACE 
+authors, NOUN 
+like, VERB 
+thank, VERB 
+collabo-, PROPN 
+
+, SPACE 
+ration, NOUN 
+A., PROPN 
+Genty, PROPN 
+ESEM, PROPN 
+SEM, PROPN 
+observations, NOUN 
+
+, SPACE 
+J., PROPN 
+Coutures, PROPN 
+CRPHT, PROPN 
+XRD, PROPN 
+analysis, NOUN 
+C., PROPN 
+Beny, PROPN 
+
+, SPACE 
+BRGM, PROPN 
+Raman, PROPN 
+analysis, NOUN 
+work, NOUN 
+
+, SPACE 
+supported, VERB 
+DGA, PROPN 
+DRET, PROPN 
+171, NUM 
+
+, SPACE 
+181, NUM 
+
+, SPACE 
+91, NUM 
+
+, SPACE 
+lOI, PROPN 
+
+, SPACE 
+References, PROPN 
+11, NUM 
+
+, SPACE 
+II, PROPN 
+
+, SPACE 
+.I, PROPN 
+
+, SPACE 
+31, NUM 
+
+, SPACE 
+41, NUM 
+T., PROPN 
+Bell, PROPN 
+P.H., PROPN 
+Morton, PROPN 
+A., PROPN 
+Bloyce, PROPN 
+Mater, PROPN 
+SC, PROPN 
+Eng, PROPN 
+184, NUM 
+
+, SPACE 
+1994, NUM 
+73, NUM 
+
+, SPACE 
+C.B., PROPN 
+Collins, PROPN 
+F., PROPN 
+Davanloo, PROPN 
+T.J., PROPN 
+Lee, PROPN 
+D.R., PROPN 
+Jander, PROPN 
+J.H., PROPN 
+
+, SPACE 
+H., PROPN 
+Park, PROPN 
+J.C., PROPN 
+Collins, PROPN 
+J., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+71, NUM 
+1992, NUM 
+3260, NUM 
+
+, SPACE 
+S.C., PROPN 
+Perry, PROPN 
+J.W., PROPN 
+Ager, PROPN 
+III, PROPN 
+GA, PROPN 
+Somorjai, PROPN 
+J., PROPN 
+Appl, PROPN 
+Phys, NOUN 
+
+, SPACE 
+74, NUM 
+1993, NUM 
+7542, NUM 
+
+, SPACE 
+J., PROPN 
+Narayan, PROPN 
+W.D., PROPN 
+Fan, PROPN 
+R.J., PROPN 
+Narayan, PROPN 
+P., PROPN 
+Tiwari, PROPN 
+H.H., PROPN 
+
+, SPACE 
+Stadelmaier, PROPN 
+Mater, PROPN 
+Sci, PROPN 
+Eng, PROPN 
+B, PROPN 
+25, NUM 
+1994, NUM 
+5, NUM 
+I21, PROPN 
+
+, SPACE 
+l31, NOUN 
+
+, SPACE 
+1141, NUM 
+M.D., PROPN 
+Drory, PROPN 
+J.W., PROPN 
+Hutchinson, PROPN 
+Science, PROPN 
+263, NUM 
+1994, NUM 
+17.53, NUM 
+
+, SPACE 
+J.W., PROPN 
+Ager, PROPN 
+III, PROPN 
+M.D., PROPN 
+Drory, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+B, PROPN 
+48, NUM 
+1993, NUM 
+2601, NUM 
+
+, SPACE 
+H., PROPN 
+Windischmann, PROPN 
+G.F., PROPN 
+Epps, PROPN 
+J., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+69, NUM 
+1991, NUM 
+
+, SPACE 
+2231, NUM 
+
+, SPACE 
+L., PROPN 
+Vandenbulcke, PROPN 
+D., PROPN 
+Rats, PROPN 
+G., PROPN 
+Farges, PROPN 
+French, ADJ 
+patent, NOUN 
+
+, SPACE 
+95, NUM 
+04788, NUM 
+
+, SPACE 
+J.W., PROPN 
+Ager, PROPN 
+III, PROPN 
+D.K., PROPN 
+Veirs, PROPN 
+G.M., PROPN 
+Rosenblatt, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+B, PROPN 
+
+, SPACE 
+43, NUM 
+1991, NUM 
+6491, NUM 
+
+, SPACE 
+S., PROPN 
+Prawer, PROPN 
+K.W., PROPN 
+Nugent, PROPN 
+P.S., PROPN 
+Weiser, PROPN 
+Appl, PROPN 
+Phys, NOUN 
+Letters, NOUN 
+
+, SPACE 
+65, NUM 
+1994, NUM 
+2248, NUM 
+
+, SPACE 
+C.A., PROPN 
+Klein, PROPN 
+G.F., PROPN 
+Cardinale, PROPN 
+Diamond, PROPN 
+Relat, PROPN 
+Mater, PROPN 
+2, NUM 
+
+, SPACE 
+1993, NUM 
+918, NUM 
+
+, SPACE 
+Y.S., PROPN 
+Touloukian, PROPN 
+R.K., PROPN 
+Kirby, PROPN 
+R.E., PROPN 
+Taylor, PROPN 
+T.Y., PROPN 
+Lee, PROPN 
+
+, SPACE 
+Thermophysical, PROPN 
+Properties, PROPN 
+Matter, PROPN 
+Vol, PROPN 
+13, NUM 
+Thermal, PROPN 
+Ex-, PROPN 
+
+, SPACE 
+pansion, NOUN 
+Nonmetallic, PROPN 
+Solids, PROPN 
+Plenum, PROPN 
+Press, PROPN 
+New, PROPN 
+York, PROPN 
+
+, SPACE 
+1977, NUM 
+p., NOUN 
+347, NUM 
+
+, SPACE 
+D.J., PROPN 
+Pickrell, PROPN 
+K.A., PROPN 
+Kline, PROPN 
+R.E., PROPN 
+Taylor, PROPN 
+Appl, PROPN 
+Phys, NOUN 
+
+, SPACE 
+Letters, PROPN 
+64, NUM 
+1994, NUM 
+2353, NUM 
+
+, SPACE 
+D., PROPN 
+Rats, PROPN 
+L., PROPN 
+Bimbault, PROPN 
+L., PROPN 
+Vandenbulcke, PROPN 
+R., PROPN 
+Herbin, PROPN 
+K.F., PROPN 
+
+, SPACE 
+Badawi, PROPN 
+J., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+submitted, VERB 
+
+, SPACE 

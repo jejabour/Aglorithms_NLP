@@ -1,0 +1,510 @@
+Pergamon Vacuum/volume 47lnumber 5lpages 437 to 44311996 
+Copyright 0 1996 Elsevier Science Ltd 
+Printed in Great Britain. All rights reserved 
+0042-207x(95Mo258-8 0042-207X/96 $15.00+.00 
+Damage to Si substrates during SiO, etching: 
+Opportunities of subsequent removal by 
+optimized cleaning procedures 
+H H Richter, A Wolff, K Blum, K Hoeppner, D Kriiger and R Sorge, lnstitut fur Halbleiterphysik, 
+W-Korsing-Str 2, D- 15230 Frankfurt (Oder), Germany 
+received 1 October 7995 
+Surface residues present at the surface and in the near surface region of Si substrates after reactive ion 
+etching (R/E) of SiO, on Si with CHF&F, were investigated with Auger electron spectroscopy and atomic 
+force microscopy. A thin fluorocarbon film was found to develop on all etched samples. The efficiency of 
+different ex situ cleaning procedures was examined. A cleaning treatment without Si consumption was unable 
+to remove the residue layer in the required manner. In contrast, post-RIE treatments characterized by 
+oxidation/SiO, wet etch, respectively, by a Cl,-N, RIE step yield surfaces suitable for further device processing. 
+This was confirmed by capacitance-voltage (C-V) and breakdown field measurements (E,,) at metal-oxide- 
+semiconductor (MOS) capacitors. The results demonstrate, there is no universal post-RIE cleaning treatment 
+for damage elimination, but optimizedprocedures with regard to special technological demands are realizable. 
+Introduction 
+Reactive ion etching (RIE) is a key process step in microelectronic 
+integrated circuit fabrication. However, it has been known that 
+RIE can cause damage and contamination effects in exposed 
+semiconductor materials leading to degrade the performance and 
+yields of the final devices.’ 3 
+Damage is often inherent in these dry etch processes. The ion 
+bombardment can cause bonding damage in semiconductors and 
+insulators. The presence of UV radiation is an additional cause 
+of such damage in insulating materials. Contamination resulting 
+from the etch process is also thought of as damage, including 
+metallic impurities from the etch chamber and the presence of 
+residue layers formed by reactant species and reaction products. 
+A general model of silicon surfaces after a conventional RIE 
+process has been proposed by Fonash.4 It describes the damage 
+and contamination effects on silicon substrates during contact 
+hole etching in Si02. The damage produced can be considered to 
+lie in three layers: a residual layer on the top of the substrate, 
+followed by a heavy lattice-damage film, and a region of light 
+substrate damage. The near surface region can be permeated by 
+impurities such as carbon and hydrogen. The residue polymer 
+film has been studied by different diagnostic techniques such as 
+Auger electron spectroscopy (AES),’ secondary ion mass spec- 
+troscopy (SIMS),6 and X-ray photoelectron spectroscopy (XPS).’ 
+In general, there are three trends to get the problem “damage 
+and contamination” under control: first, there has been much 
+discussion of alternative plasma sources, such as electron cyclo- 
+tron resonance (ECR) plasma etchers or inductively coupled rf plasma (ICP) sources. These sources seem to reduce at least some 
+types of damage. On the other hand, the potential for charging 
+damage may increase with these new sources due to the higher 
+ion fluxes, UV photon and X-ray fluxes.’ 
+A second opportunity for damage reduction may be to choose 
+a cleaner, simpler etch chemistry. This means a renunciation of 
+passivating gases for profile control. The change from con- 
+ventional gas mixtures to new bromine or iodine etch chemistries 
+has the disadvantage that these gases are often extremely corros- 
+ive. At this time, it does not appear as if the SiOZ etch process 
+would benefit from the use of alternative gas chemistries. CHF3, 
+combined with 02, C2F, or CF4, is still the most common oxide 
+etchant because it provides high selectivity to silicon. However, 
+the search for suitable etch gases with a smaller ozone depleting 
+potential is continued. 
+The third approach to damage control is based on the fact that 
+dry etch damage may not necessarily cause device damage, i.e. a 
+degradation in performance of the final electronic device. It 
+depends not only on the device structure but also on the process 
+technology. Hence, the removal of dry etch damage in subsequent 
+annealing processing steps is a promising procedure in tech- 
+nological practice. 
+But the large number of dry processing steps in integrated 
+circuit manufacturing preclude the approach to follow each criti- 
+cal dry etching process with a damage healing step. This is not 
+compatible with the process complexity and increases the unde- 
+sirable thermal stress of future low thermal budget integrated 
+circuits drastically. Moreover, such annealing steps are only 
+437 
+H H Richter et a/: Damage to Si substrates 
+effective if the contamination layer has to be removed. Therefore, All of these samples (RIE exposed wafers and wet etched 
+surface cleaning plays an important role in semiconductor fab- reference wafers) were then submitted to a conventional plasma 
+rication and processing. ashing process (0,/N,) in a barrel reactor. 
+The investigations reported in this paper were focused on a 
+highly selective SiO,-to-Si (higher than 15: 1 etch rate ratio) reac- 
+tive ion etch process in a CHF,/C,F, plasma. By means of this 
+widely studied’,” contact hole etch process the efficiency of some 
+cleaning procedures for removal of contamination and damage 
+was examined. The aim of this study was threefold: Cleaning procedures. After the barrel reactor process step, the 
+wafers were subjected to one of different cleaning procedures and 
+subsequently given chemical, structural, and electrical charac- 
+terization. The post-RIE procedures evaluated for their ability 
+to yield device-quality surfaces were 
+To determine the state of a Si surface under overetch (Si02 
+removed) conditions by using a variety of surface analytical 
+techniques, including AES and atomic force microscopy 
+(AFM). 
+Investigations of different ex situ cleaning procedures (with 
+and without “Si consumption”) for removing of con- 
+tamination effects. 
+To analyse cleaning procedures that remove not only the con- 
+tamination, but also remove the damage, an electrical charac- 
+terization using capacitance-voltage (C-V) and breakdown 
+field measurements (.&,) was performed. 
+Especially, a prospective generalization of the latter results could 
+be of important significance. Thus, needless critical annealing 
+procedures entailing thermal stress can be replaced by effective 
+cleaning steps in the technological process of integrated circuit 
+fabrication. 
+Experimental 
+Samples. The Si wafers used were B-doped, with 6-S Qcm resis- 
+tivity and (100) orientation. A blanket wet oxide about 600 nm 
+thick was grown on all these 4 in. wafers at 1000°C after a 
+standard acid/base cleaning process. 
+Dry etching. After oxidation, the wafers were exposed to the 
+CHF&F6 (10: 1) RIE process, performed in a commercial reac- 
+tor (LAM 384T) operated in the rf diode mode. The applied rf 
+power (13.56 MHz) was 300 W (1.7 Wcm-‘) and the chamber 
+pressure was 20 Pa. The self-bias voltage was ~800 V. These 
+conditions yielded a Si02 etch rate of x470 nm min-‘. End-point 
+detection of the oxide film was monitored using an optical system, 
+consisting of six designated wavelength filters and one neutral 
+density filter. For all experiments, an overetch condition of 25% 
+was used corresponding to approximately 20 s of silicon etching 
+time. 
+In this study, the status of the Si surfaces produced by this 
+CHF,/C2F6 RIE exposure was already compared to the status of 
+the Si surfaces of reference wafers. For the controls, the oxide of 
+the reference wafers was removed by wet etching with buffered 
+oxide etchant (BOE) [H*O: NH,F: HF ( = 1: 85: 14)]. A procedure without Si removal, consisted of standard 
+“RCA” cleanup. 
+A procedure with Si removal, composed of standard “RCA” 
+cleanup/diluted HF solution dip/Si wet etch (TMAH). 
+A procedure with Si removal, composed of standard “RCA” 
+cleanup/oxidation/Si0, wet etch. 
+A procedure with Si removal, composed of standard “RCA” 
+cleanup/ Cl,/Nz RIE process. 
+The last variant, a dry cleaning technique using plasma is attract- 
+ive because of its compatibility with cluster tools and the ability 
+to precisely control of dimensions. Moreover, this procedure is 
+characterized by a small thermal stress. All procedures are defined 
+in Table 1. 
+Surface diagnostics. After every process step (initial cleaning, wet 
+oxidation, dry etching, plasma ashing, and post-RIE cleaning 
+treatment), a few of the wafers (reference wafers, respectively) 
+were reserved for analytical characterization. 
+Auger electron spectroscopy using a “PHI 670 Ndnoprobe” 
+with a field emission gun was employed to characterize these 
+samples. The analysis was carried out by means of a 10 keV, 
+10 nA electron beam scanned over a 100 x 100 pm2 area. For 
+sputtering a 1 keV argon ion beam scanned over 1 x 1 m2 at 55” 
+ion beam angle to sample normal was used. Auger spectra were 
+obtained by means of a cylindrical mirror analyser (CMA) whose 
+relative energy resolution AE/E is 0.4%. The intensities of the 
+Si-LVV, Si-KLL, O-KLL, Cl-LVV, F-KLL and C-KLL tran- 
+sitions were analysed. To reduce the possible influence of an air 
+contact of the samples after RIE, the time of the air contact was 
+reduced to several minutes. Nevertheless, this air contact hinders 
+an exact interpretation of the origin for C- and O-peaks. 
+The atomic force microscopy technique using “NanoScope III 
+(Dimension 5000)” was employed to characterize the mor- 
+phology with sufficient high lateral and vertical resolution. The 
+measurements were realized an the dynamic tapping mode using 
+silicon tips with radii < 100 A. 
+Electrical characterization. The characterization was further aug- 
+mented by an electrical evaluation of the near-surface region. In 
+Table 1. Post-RIE cleaning treatments 
+Name 
+“RCA” cleanup 
+“RCA” cleanup/HF dip/Si wet etch 
+“RCA” cleanup/oxidation/ 
+SiOl wet etch 
+“RCA” cleanup/CL/N, RIE process Procedure 
+Hot H2S0,/H20, piranha clean followed by SCljSC2 
+Hot H,SO,JH,O, clean followed by SCljSC2, 0.4% HF dip for 60 s 
+and then Si etch using tetramethylamoniumhydroxid (TMAH) 
+Hot H,S0,/H,02 clean followed by SCl/SCZ 
+High pressure oxidation (650 “C) and then SiO, wet etch with BOE 
+Hot H,SOJH,02 clean followed by SCljSC2, and then RIE 
+(0.5 Wcn-*, 10 Pa using CI,/N, (1:15) for 15 s) 
+438 
+/-I H Richter et a/: Damage to Si substrates 
+order to evaluate damage effects a 15 nm thick low temperature 
+oxide (LTO) was deposited at 600°C on the RIE exposed Si 
+surfaces. At some wafers this layer thickness was increased by 
+low pressure CVD (deposition temperature: x 420°C) to approxi- 
+mately 85 mn. These oxides were used as gate oxides for metal- 
+oxide-semiconductor (MOS) capacitors. The LTO process was 
+intended to preserve the damaged Si surface after RIE. The MOS 
+capacitors were fabricated by depositing 1 pm thick Al on front 
+and backside of the wafers. The area of the capacitors used for the 
+C-V measurements was 5.2. lO-3 cm2. C-V data and dielectric 
+breakdown measurements characterize the post-RIE cleaned sur- 
+faces in comparison to the reference wafers. 
+Chemical and structural evaluation 
+After CHF,/C,F, RIE. The etch gas CHF, in combination with 
+C2F, can remove Si02 at high rates provided the F:C ratio is 
+greater than two. A high value of the oxide-to-silicon etch rate 
+ratio is the key for any useful fluorocarbon oxide RIE process. 
+The mechanism for etching SiO, is dictated by the ability of CF, 
+radicals to reduce the oxide and form volatile products. On the 
+other hand, Si is mainly etched by fluorine atoms. Therefore, a 
+high oxide-to-silicon etch rate ratio is realizable by a high CF,- 
+to-F ratio. Increasing amounts of hydrogen-containing CHF, 
+scavenge the fluorine atoms resulting in the desired high selec- 
+tivity. After RIE, the surfaces are characterized by polymeric 
+deposits. For that reason, cleaning procedures are absolutely 
+necessary.” 
+The state of the silicon surface after etching was examined by 
+AES. Figure l(a) illustrates Auger spectra from a surface of a 
+25% overetched RIE-exposed (CHF,/C,F,) wafer in comparison 
+to a wet etched reference sample. As expected, the dry etched 
+surface is contaminated by F- and O-containing residues, identi- 
+fied by strong F-KLL and C-KLL peaks and a smaller 0-KLL 
+peak (curve (b)). The residue layer thickness, estimated from the 
+escape depth of the Auger electrons of different energies, amounts 
+to l-2 nm. For the given geometry of the analysis 95% of the 
+signal intensity results from a depth x of 21, where I is the mean 
+free electron pathway. Therefore, we obtain x values of about 
+1.5 nm for the C-KLL, O-KLL, F-KLL Auger transitions. The 
+(al 40,000 
+0-KLL 
+(a) 
+:: n- :: 
+,‘,: ; 
+,,” i_,.,,‘. ,A” ,&.” 
+i’ 
+C-KLL j 
+I I ’ I 1 
+. I I 
+0 200 400 600 800 
+KINETIC ENERGY ( eV ) AES depth profile of a wafer after dry etching (Figure l(b)) 
+indicates the existence of the C/F-surface layer. 
+In contrast, the AES scan obtained for the wet etched reference 
+sample (curve (a) in Figure l(a)) only yields a C-KLL peak and 
+an 0-KLL peak (a consequence of air contact after finishing the 
+RIE process and before loading into the AES equipment) and 
+not a trace of fluorine. 
+A comparison of the corresponding atomic force micrographs 
+(see Figure 2(a) and (b)) does not illustrate essential differences 
+between RIE exposed and wet etched surfaces. Relating to a 
+commercial untreated primary substrate (WACKER) the etch 
+steps (both dry and wet) do not raise the microroughness sig- 
+nificantly. 
+After plasma ashing. After 0,/N* ashing the surfaces of the etched 
+samples were examined by AES and AFM once more. It is seen 
+from the perspective of Auger analysis (Figure 3) that the extent 
+of the the carbonaceous layers (cf. Figure 1: dry etched surface) 
+is substantially reduced by the 02/N2 ashing, visible by the 
+reduction of the C-KLL peak and F-KLL peak (cf. curve (a) 
+with curve (b)). Nevertheless, especially marked F-containing 
+residues are recognizable. The increase of the 0-KLL peaks 
+indicates a stronger oxide covering of the surfaces in consequence 
+of the ashing process. For comparison, a spectrum of a wet etched 
+reference surface after ashing is also given in Figure 3 (curve (c)). 
+AFM investigations (not represented) after 0*/N, ashing show 
+a smoothing of the so treated surfaces, not only for the dry etched 
+wafer but also for the wet etched sample. 
+After post-RIE cleaning treatments. First, the AES scans after the 
+four different post-RIE cleaning procedures (cf. Table 1) were 
+analysed. A comparison of the AES spectra illustrates the follow- 
+ing differences. 
+The cleaning procedure without Si removal is only able to 
+remove the F-containing residues almost completely. Never- 
+theless, a weak F-peak is perceptible in the AES spectrum 
+after the “RCA’ cleanup. 
+Such F-peak is even more contrasted in the case of the second 
+(b) 
+0 100 200 300 400 500 600 700 
+SPUTTERTIME ( s ) -o- Si-LW 
+/ -o- 0-KLL 
+-A- Si-KLL 
+% 00 Ad -v-- F-KLL 
+P /’ / 0, 
+VW ?dA - C-KLL 
+0 
+Figure 1. (a) AES comparison of surfaces after SiO, wet etching (curve (a), reference wafer) and after SiO, dry etching with CHF&F, (curve (b)). 
+(b) AES depth profile of a wafer after Si02 dry etching with CHF3/C2F6 indicating the existence of a C/F-surface layer. 
+439 
+H H Richter et al: Damage to Si substrates 
+(a 
+Section Analysis 
+x _na Section Analysis 
+d 
+Figure 2. Atomic force mtcrographs of a Si substrate (a) after SiOz dry etching with CHF&F, and (b) after SiO, wet etching with H,O: NH,F: HF. 
+3. 
+4. post-RIE cleaning with the additional HF dip and following 
+wet etching (Figure 4, curve (a)). 
+The cleaning procedure with oxidation and wet etching yields 
+the best results. No F-containing residues are detectable by 
+AES. 
+Also the post-treatment with C&/N2 RIE process seems to 
+be an interesting method compared to the others. The AES spectrum of this surface indicates no F- and Cl-residues (Fig- 
+ure 4, curve (b)). 
+On grounds of air contact between technological step and AES 
+measurements detailed information about the C-containing resi- 
+dues at the treated surfaces are impossible. However, a com- 
+parison of the corresponding C-peaks appears to be of interest. 
+20,000 
+5 co 15,000 
+z 
+G ??I 10,000 
+5 
+5,000 
++ I - 1 . I I ’ I 
+0 200 400 600 800 
+KINETIC ENERGY ( eV ) 
+Figure 3. AES spectra of surfaces before (curve (a)) and after (curve 
+(b)) 0,/N? plasma ashing of a previously SiOz dry etched surface. For 
+comparison a spectrum of a SiO, wet etched control wafer after an 
+analogous ashing procedure (curve (c)) is given 14,000- 
+- 12.000- 
+5 
+m 
+- 10,000- 
+z 
+zi 
+5 8,000 - 
+2 - 
+6,000 - 
+4,000 ! ( . I . I I 
+0 200 400 600 8 
+KINETIC ENERGY ( eV ) 
+Figure 4. AES spectra of SiO, dry etched surfaces after different post- 
+RIE cleaning procedures. 
+440 
+H H Richter et al: Damage to Si substrates 
+Compared to the corresponding wet etched reference wafers 
+the AES scans of these samples present almost identical C-peaks. 
+These facts arrive at the conclusion that above all the C-con- 
+taining residues after the post-RIE cleaning procedure are caused 
+by air contact and not primarily by the SiOz dry etch process in 
+the fluorocarbon based plasma. Probably, the ashing process 
+following immediately after dry etching removes these residues 
+for the most part. 
+In all cases, the atomic force micrographs of the four samples 
+after cleaning treatment illustrate surfaces with small micro- 
+roughness (co.2 nm). Table 2 shows the results relative to an 
+untreated primary substrate. In summary, the AFM results repre- 
+sented prove that all cleaning procedures raise the microrough- 
+ness, but this increase is acceptable for technological applications. 
+Figure 5 illustrates a representative example of a surface after 
+CIJN, cleaning treatment. 
+Electrical evaluation 
+Although the electrical characterization by means of MOS 
+capacitors has several severe disadvantages, the RIE modified 
+layer is either subjected to a high temperature annealing during 
+growth of the thin oxide layer, or it is partly consumed during 
+the growth of thicker oxide layers, notable changes in the MOS 
+characteristics are detectable. In particular, for a relative com- 
+parison of different post-RIE procedures, MOS capacitors are 
+suitable electrical test vehicles. The results of essential electrical 
+parameters extracted from C-V characteristics are shown in 
+Table 3. The measured values of fixed charge densities Qn inter- 
+face state densities Di,, bulk generation lifetimes zg, and surface 
+generation velocities S, were compared with each other. 
+As expected, the bulk generation lifetime was found to be 
+degraded by RIE, implying introduction of generation-recom- 
+bination centres in the near-surface region of the Si substrate. 
+However, from the viewpoint of technological applications all 
+lifetime values greater than 10e5 are acceptable. That means, only 
+the cleaning procedure without Si removal entails unacceptably 
+small rl! values. 
+A comparison of surface generation velocities as a typical 
+interface parameter offers no differences between all post-RIE 
+treatments and the wet etched reference samples. S,, values less 
+than 1 .O ems- ’ are of technological acceptance. 
+In general, there is a clear correlation between the surface 
+generation velocity and the interface state density D,,. Differences 
+between the reference wafers and RIE exposed/post-cleaned sam- 
+ples are only evident for two cleaning procedures: the treatment lc’w 
+d Section Analysis 
+Figure 5. Atomic force micrograph of Si substrate after SiOz dry etching, 
+plasma ashing, and Q/N, cleaning procedure. 
+without Si removal and the combined oxidation/SiO, wet etch 
+procedure. 
+These D,, raises are found to be more than one order of mag- 
+nitude and show a large spread of values. The SiOJSi interface 
+of these samples is obviously damaged - also after the cleaning 
+treatments - as indicated by the large values of D,,. This damage 
+takes the form of interfacial charge traps that makes this SiO,/Si 
+system less ideal in device applications.” 
+Fixed charge densities Qr greater than 2.10” cm-’ are un- 
+acceptable. The obtained results for two cleaning procedures 
+(oxidation/SiO, wet etch and C&/N2 RIE) are below this limit 
+value. However, compared to the wet etched specimens the Qf 
+values have doubled to approximately 1 * 10” cm-*. On the other 
+Table 2. Relative maximum microroughness from AFM on Si surface subjected to different processes 
+Procedure 
+-____ 
+Untreated substrate 
+RIE + ashing + RCA 
+RIE + ashing + RCA + 
+HF + Si wet etch 
+RIE + ashing + RCA + 
+oxidation + SiO, wet etch 
+RIE + ashing + CITN2 RIE 
+compared to: 
+RIE 
+RIE + ashing Relative maximum Root mean square 
+microroughness RMS (nm) 
+= :l 0.05 
+1.59 0.09 
+1.78 0.10 
+4.44 0.24 
+2.94 0.16 
+1.78 0.10 
+1.44 0.07 Mean roughness 
+R, (nm) 
+0.04 
+0.07 
+0.08 
+0.19 
+0.13 
+0.07 
+0.06 
+441 
+H H Richter et a/: Damage to Si substrates 
+Table 3. C-V characteristics of MOS capacitors 
+Fixed charge density Qr (JO” cm-‘) 2.5-3.5 2.62.5 z 1.0 z 1.0 zo.5 
+Interface state densityI),, (IO” cm-‘) 5-30 x2 z.2 630 z 2 
+Bulk generation lifetime rg (s) lo-“2. 1o-6 10-4-10~ 2 5. 1om5-5’ 1om4 10~5-10~3 10~4-2.10-3 
+Surface generation velocity S, (ems- ‘) x0.5 20.5 ZO.5 ZO.5 ZO.5 
+Table 4. Breakdown voltage measurements of MOS capacitors 
+p.imgprT 
+RCA cleanup RCA cleanup 
++ HF dip + oxidation RCA cleanup Wet etched 
+Electrical parameter RCA cleanup + Si wet etch + SiOz wet etch + C&/N, RIE reference wafer 
+_ 
+Breakdown field EBD (MV cm-‘) 11.8812.1 12.Gl2.5 13.5-13.8 13.0-13.5 13.3-13.6 
+hand, the other two cleaning variants yield fixed charge densities 
+above the limit. That means the contaminated samples (cf. the 
+AES results after post-RIE cleaning treatments) produce the 
+highest Qr values. 
+Table 4 shows the result of the breakdown field determination 
+for the RIE exposed/post-cleaned samples in comparison to the 
+measurements at the wet etched reference wafers. The breakdown 
+field represented in Table 4, is defined as the field strength where 
+63% of all MOS capacitors failed. As seen, there is only an 
+approximative conformity between the breakdown field values 
+of capacitors prepared on the reference wafers with those of two 
+post-RIE cleaning variants: oxidation/SiO, wet etch and C&/N, 
+RIE, respectively. 
+In summary, the present results indicate that only completely 
+removed dry etch residues yield acceptable electrical parameters. 
+In all other cases these contaminations cause an essential degra- 
+dation of the electrical properties. 
+Conclusions 
+The effects of various post-RIE cleaning procedures on Si sur- 
+faces damaged by SiO, dry etching was examined. To recover a 
+device-quality surface after CHF,/C,F, dry etching, post-RIE 
+processing is necessary. 0,/N, ashing is found to be effective 
+but not sufficient for residual removal and demand additional 
+cleaning efforts. 
+In general, a cleaning procedure without Si removal seems to 
+be unable to remove the residue layer in the required manner. 
+Therefore, this treatment can only be chosen in a process tech- 
+nology in which the damaged near-surface region will be con- 
+sumed in the following process steps. The conductor pattern 
+system AlCu/TiW/PtSi is a practicable example for this thesis. 
+During the silicide forming reaction of Pt the consumption of the 
+disturbed surface region takes place.13 
+The other three procedures with Si removal yielded different 
+results. The disadvantage of the variant HF dip/Si wet etch con- 
+sists of an incomplete removal of polymer residuals by HF dip. 
+Therefore, the following wet chemical attack is inhibited. This 
+442 results in lower bulk generation lifetime values and breakdown 
+voltages. Moreover, the microroughness is slightly enhanced. 
+The procedure characterized by oxidation and SiO, wet etch is 
+an interesting cleaning process with Si removal. Prospective C- 
+containing residues will be removed by the isotropic wet etch 
+step. Moreover, this step seems to eliminate an enhanced micro- 
+roughness as a result of the previous oxidation. Also the dry 
+cleaning variant with C&/N, RIE yields clean surfaces reflected 
+in acceptable electrical parameters. 
+In summary, on the grounds of electrical evaluation results, the 
+last two procedures are preferred for incorporation into process 
+technology. One concludes that the electrical measurement data 
+are consistent with the picture of chemical/structural evaluation. 
+The results demonstrate the need for a Si surface cleanup treat- 
+ment following Si02 RIE prior to further device processing. How- 
+ever, there is no universal post-RIE cleaning treatment for 
+damage elimination, but only optimized solutions with regard to 
+the special technological demands and objectives are realizable. 
+Work is in progress to investigate correlations between post- 
+RIE surface cleaning and electrical effects using Schottky diodes. 
+The Schottky structure is very sensitive to the electrically active 
+defects and contaminants due to the barrier modification and the 
+exponential dependence of current on the effective barrier height. 
+Acknowledgements 
+It is a great pleasure to acknowledge the excellent technical assist- 
+ance of C Albrecht, S Jatzlau, S Orlowski and D Schinkel. 
+References 
+’ G S Oehrlein and Y H Lee, J Vat Sci Technol, AS, 1585 (1987). 
+‘G S Oehrlein, Mat Sci Eng, B4,441 (1989). 
+3 S J Fonash, J Electrochem Sot, 137,3885 (1990). 
+4 S J Fonash, Solid State Technol, t&20 1 (1985). 
+5X C Mu, S J Fonash, G S Oehrlein, S N Chakravarti, C Parks and J 
+Keller, J Appl Phys, 59, 2958 (1986). 
+‘T P Chow and C Hopple, J Electrochem Sot, 138, 1399 (1991). 
+H H Richter et al: Damage to Si substrates 
+’ G S Oehrlein, A A Bright and S W Robey, J Vuc Sci Technol, A6, 1989 
+(1988). 
+‘P K Gadgil, T D Mantei and X C Mu, J Vuc Sci Technol, B12, 102 
+(1994). 
+’ A Henry, 0 0 Awadelkarim, J L Lindstrom and G S Oehrlein, J Appl, 
+Ph,vs, 66, 5388 (1989). ” G S Oehrlein, Y Zhang, D Vender and 0 Joubert, J Vuc Sci Technol, 
+A12, 333 (1994). 
+12T Gu, 0 0 Awadelkarims, S J Fonash, J F Rembetski and Y D Chan, 
+J Electrochem Sot, 142,606 (1995). 
+I3 D Temmler, 9th Japan-Germany Forum on Information Technology, 
+lo M Ostling, C S Petersson, H Nordstrom, R Buchta and H-O Blom, J Oita, Japan (1994). 
+Vat Sci Technol, BS, 586 (1987). 
+443 

@@ -1,0 +1,660 @@
+Ultrasonics 34 (1996) 177-185 
+New methods of ultrasonic welding of metal and plastic materials 
+Jiromaru Tsujino *, Tetsugi Ueoka, Koichi Hasegawa, Yuki Fujita, Toshiyuki Shiraki, 
+Takaaki Okada and Toshiki Tamura 
+Kanagawa University, Faculty of Engineering, 3-27-l Rokkakubashi, Yokohama 221, Japan 
+Abstract 
+New ultrasonic welding methods of metal and plastic materials have been proposed by the author and have shown their 
+effectiveness. For welding of thick and large metal specimens, (1) an ultrasonic butt welding method of joining thick metal 
+specimens end to end is proposed. Large capacity vibration sources and solid-state power amplifiers of 50,100 kW have been 
+developed. (2) The welding method of using two vibration systems crossed at a right angle is effective, and 10 mm thick aluminum 
+plates have been joined successfully. For medium size metal welding specimens, (3) complex vibration welding tips have been 
+shown to be very effective, and one-dimensional complex vibration systems are developed to simplify the systems. For welding of 
+small metal specimens, (4) higher vibration frequency, and complex vibration wire bonding systems are proposed and it is shown 
+that they are significantly effective. Bonding systems of 60 to 600 kHz have been designed. For welding of plastic materials, (5) high 
+frequency and two-vibration-system welding methods are effective. 
+Keywords: Ultrasonic butt welding; Two-vibration-system ultrasonic welding; High frequency welding; Complex vibration ultrasonic 
+welding; Ultrasonic wire bonding; Ultrasonic plastic welding 
+1. Introduction 
+New ultrasonic welding methods of metal and plastic 
+materials have been proposed [l-3] and have shown 
+their effectiveness as follows. For welding of thick and 
+large metal specimens, (1) an ultrasonic butt welding 
+method of joining thick metal specimens end to end has 
+been proposed and has been shown to be very effective 
+in joining thick welding specimens end to end [2-71. 
+Using this method, large capacity vibration sources 
+and power amplifiers of 50, 100 kW, aluminum plate 
+specimens of 6 mm thickness and 400 mm width were 
+successfully welded by changing the welding tip driving 
+positions. 
+For welding of medium to large metal specimens, (2) 
+a welding method of using two vibration systems crossed 
+at a right angle, which drives the welding specimens 
+from their upper and lower sides simultaneously, enabled 
+10 mm thick aluminum plates to be joined successfully 
+and also 1.0 mm thick and 100 mm wide plates to be 
+* Corresponding author. Fax: +81-45-491-7915; 
+e-mail: tsujino@cc.kanagawa-u.ac.jp 
+0041-624X/96/%15.00 0 1996 Elsevier Science B.V. All rights reserved 
+SSDI 0041-624X(95)00069-0 joined continuously with uniform strength along the 
+specimen width [ l-3,8]. 
+For medium size metal welding specimens, (3) complex 
+vibration welding tips vibrating in (a) elliptical to circular 
+loci or (b) rectangular to square loci were shown to be 
+very effective. Bonding methods of thin wire specimens, 
+and thick and large specimens, and one-dimensional 
+complex vibration systems have been developed to 
+simplify the systems and have been shown to be effective 
+for successful welding [ 31. 
+For welding of small metal specimens, such as ultra- 
+sonic wire bonding of integrated circuits or electronic 
+devices, the following bonding equipment is effective. 
+(4) An ultrasonic wire bonding system, using a vibration 
+frequency higher than 60 kHz which is used in con- 
+ventional wire bonding systems, and using complex 
+vibration welding tips vibrating in (a) elliptical to circular 
+loci or (b) rectangular to square loci has been proposed 
+and has been shown to be significantly effective. Bonding 
+systems with complex vibration welding tips of 40 to 
+190 kHz, and high frequency linear vibration welding 
+tips of up to 330,600 kHz have been designed. Using 
+this equipment, the required vibration velocity becomes 
+178 J. Tsujino et al. 1 Ultrasonics 34 (1996) 177-185 
+smaller and the required welding time shorter compared 
+with conventional bonding systems. The frequency 
+characteristics of the required vibration amplitude and 
+vibration velocity are revealed from 40 to 600 kHz 
+[3,9-133. 
+For welding of plastic materials, (5) a high frequency 
+and two-vibration-system welding method is effective 
+[ 1,143. Two-vibration-system welding equipment of 
+90 kHz, with upper and lower vibration sources with six 
+ultrasonic transducers, is designed and it has been shown 
+that the required vibration velocity of 90 kHz is about 
+l/3 that of a 27 kHz welding system. The two-vibration- 
+system welding method with different frequencies and 
+vibration direction crossed at a right angle, using 90 kHz 
+upper longitudinal and 20 kHz lower torsional vibration 
+systems, is also effective. 
+2. Ultrasonic butt welding of various large metal plate 
+specimens 
+Ultrasonic butt welding is adequate for welding thick 
+specimens, such as over 10 mm thick, end to end. Using 
+a conventional ultrasonic lapped spot welding method 
+it is possible to weld up to 2 or 3 mm thick plate 
+specimens; however, large and thick specimens are 
+impossible to weld in this way because the driving surface 
+of the upper specimen cannot endure the increasing 
+driving force of the thick weldment and the increasing 
+shear displacement along the thickness of the specimen. 
+The ultrasonic butt welding system consists of one 
+powerful ultrasonic vibration source, an upper passive 
+vibration system and a welding frame with hydraulic 
+static pressure sources for clamping welding specimens 
+between the upper and lower vibration system and for 
+inducing static clamping pressure on a welding surface 
+(as shown in Fig. 1). The ultrasonic vibration source 
+consists of eight bolt-clamped Langevin-type PZT trans- 
+ducers (BLT) of 60 mm diameter and a radial-to-longitu- 
+dinal converter as a vibration power accumulator. The 
+dimensions of the welding tip are 20 mm thickness and 
+52 mm width. The 15 kHz vibration source with eight 
+transducers is 542 mm in diameter and 28.5 kg in weight. 
+The vibration amplitude is measured by ring-type mag- 
+netic vibration detectors installed in various positions 
+in the vibration systems. The vibration source is driven 
+by a 50 kW or 100 kW static induction thyristor power 
+amplifier. 
+The weld condition of aluminum plate specimens of 
+6 mm thickness and 400 mm width, joined end to end 
+by shifting the welding tip driving positions along the 
+specimen width, is shown in Fig. 2. Weld strength is 
+almost uniform and almost equal to the aluminum 
+specimen strength. 
+Figs. 3(a) and (b) show the cross-sections of different 
+metal specimens. Aluminum, anticorrosive aluminum Fig. 1. Arrangement of ultrasonic butt welding equipment with a 
+15 kHz vibration source using eight bolt-clamped Langevin type PZT 
+transducers of 60mm diameter, installed in the lower part of the 
+welding system. 
+Driving side specimen 
+400 mm width I 
+Fig. 2. Weld conditions of an aluminum plate specimen of 6 mm 
+thickness and 400mm width joined using a, 15 kHz butt welding 
+system by shifting the welding tip driving positions along the 
+specimen width. 
+alloy, copper and steel plate specimens were welded 
+successfully with almost equal weld strength of aluminum 
+or anticorrosive alloy specimens end to end. Burrs are 
+produced on the upper and lower welding parts of the 
+aluminum-plate side mainly due to the higher hardness 
+of the copper or steel specimens. The mechanical charac- 
+teristics of the welded specimens are about the same as 
+the base metal specimens, and the hardness adjacent to 
+the weldment decreases slightly according to welding 
+conditions. The temperature rise at the welding surface 
+in the aluminum specimen is estimated to be about 
+480°C at least from the hardness measured adjacent to 
+the welding surface. Using the usual vibration amplitude 
+J. Tsujino et al. 1 Ultrasonics 34 (1996) 177-185 179 
+(4 
+64 
+Fig. 3. Weld conditions of aluminum, anticorrosive aluminum, copper 
+and steel plate specimens of 6 mm thickness. (a) Cross-section of pure 
+aluminum and copper specimen. (b) Cross-section of anticorrosive 
+aluminum alloy and copper specimens welded using a large vibration 
+amplitude. 
+under 20 urn (peak-to-zero value), the welded surface is 
+usually flat and smooth but disordered and inclusions 
+are produced in the case of a large vibration amplitude 
+of 25 to 30 urn, as seen in Fig. 3(b). 
+The welding condition of pure aluminum and steel 
+plate specimens of 6 mm thickness is shown in Fig. 4. 
+The relationship between vibration amplitude, input 
+power and weld strength of the plate specimens is shown 
+in the figure. The maximum weld strength obtained is 
+almost equal to the aluminum specimen strength at a 
+vibration amplitude of about 15.5 to 17 urn for aluminum-- 
+steel specimens. The required vibration amplitude for 
+aluminumcopper specimens is higher than that of 
+aluminum-steel specimens due to the larger heat con- 
+ductivity of copper, which is about eight times that of 
+steel. Thin burrs are produced on either side of the 
+aluminum specimen due to the difference in hardness Vibration amplitude ( pm ) 
+Fig. 4. Welding conditions of aluminum and steel plate specimens of 
+6 mm thickness. 
+of the specimens used. In the case of anticorrosive 
+aluminum and copper specimens, burrs are produced 
+both sides of the specimens. The required input power 
+for joined aluminum, copper and steel plate specimens 
+is about 5 kW cm-’ and 4 kW cmm2. 
+3. Ultrasonic welding with two vibration systems 
+The welding equipment with two vibration systems 
+is significantly effective for joining thick and large 
+specimens and it is also very effective for joining wide 
+plate specimens with uniform weld strength successfully. 
+The configuration of a two-vibration-system welding 
+equipment is shown in Fig. 5. The ultrasonic welding 
+equipment consists of an upper 27 kHz and a lower 
+15 kHz longitudinal vibration systems crossed at a right 
+27 kHz upper vibration system using 6 BLT transducers 
+40 mm dia. 27 kHz 1 h length 
+longitudinal, d supporters 
+mm dia. 15 1 h length 
+longitudinal vibration rod. 
+15 kHz lower vibration system using a 70 mm 
+diameter bolt-clamped Langevin type transducer 
+Fig. 5. Ultrasonic lapped spot welding equipment using two longi- 
+tudinal vibration systems; ultrasonic welding equipment with 27 kHz 
+and 15 kHz vibration systems crossed at a right angle. 
+180 J. Tsujino et al. / Ultrasonics 34 (1996) 177-185 
+angle, and a welding frame with a hydraulic static 
+clamping pressure source. An upper 27 kHz vibration 
+system has a one-wavelength longitudinal vibration rod 
+with welding tips at its center, a stepped horn with a 
+vibration velocity transforming ratio of 4 and a vibration 
+source with six bolt-clamped Langevin type PZT trans- 
+ducers of 40 mm diameter. A lower 15 kHz vibration 
+system has a one-wavelength longitudinal vibration rod 
+with welding tips at its center, a stepped horn with 
+a vibration velocity transforming ratio of 4 and a 
+bolt-clamped Langevin-type PZT transducer of 70 mm 
+diameter. These vibration systems are driven by 4 and 
+5 kW power amplifiers independently. 
+Welding specimens are inserted between upper and 
+lower welding tips and driven parallel to welding surfaces 
+at crossed directions for inducing mutual ultrasonic 
+vibration velocity between upper and lower welding 
+surfaces by these welding tips under static clamping 
+pressure. The welding position is shifted along the 
+specimen width for continuous multi-spot welding. 
+Weld strength distributions along 100 mm wide pure 
+aluminum plate specimens welded at ten positions using 
+the two-vibration-system of 27 kHz and 15 kHz are 
+shown in Fig. 6. Bold marks show that the specimens 
+were broken at the specimen part; not at the weldment 
+under tensile strength test. Using welding times of 0.3 
+to 0.5 s, the specimens were joined successfully with 
+uniform weld strength of about 50 to 60 kgf along 
+the specimen width. Excessive welding time over 0.6 s 
+causes damages to the specimens and the weld strength 
+decreases. Uniform weld strength along the specimen 
+width could not be obtained using only one vibration 
+system. 
+The weld strength distributions along 100 mm wide 
+pure and anticorrosive aluminum plate specimens, 
+welded at ten positions with metal block clamping vices 
+at the free edges using the two-vibration-systems, are 
+shown in Fig. 7. Using the metal block clamping vices 
+to change the vibration mode at the welding tip driving 
+Specimen position ( mm ) The converter part of 21.5 mm diameter has 18 
+diagonal slits at its circumference of vibration node part, 
+and has near longitudinal and torsional resonance fre- 
+quencies. It is driven by a longitudinal driving vibration 
+system. These slits are cut by an electrosparking machine 
+to have 10 mm length, 0.5 mm width and 2.0 mm depth. 
+The converter vibrates in a coupled mode of longitudinal 
+and torsional vibrations. The free edge surface vibrates 
+in a linear or elliptical-to-circular manner according to 
+vibration amplitudes and the vibration phases of the 
+longitudinal and torsional vibration modes as the driving 
+frequency is altered. 
+Fig. 6. Weld strength along 1OOmm wide pure aluminum plate Fig. 9 shows the relationships between the driving 
+specimens welded at ten positions using 27 kHz and 15 kHz frequency and the longitudinal and torsional vibration 
+vibration systems. amplitudes at a free vibration edge of a longitudinal- 150 
+and anticorrosive aluminum plate specimen 
+27 kHz vib. amp. : 10.5 Km ! Welding . 
+9 100 _ 15 kHz vib. amp. 
+Clamping force : : 10.51.lm--. >r;s 
+110 kgf 
+10 dr ivi no ooslt ens ‘i Clamped at free 
+0 edges by vises 
+OM 
+Specimen position ( mm ) 10 
+Fig. 7. Weld strength along 100 mm wide pure and anticorrosive 
+aluminum plate specimens welded at ten positions clamped at the free 
+edges by vices using a 27 kHz and 15 kHz vibration system. 
+point, uniform weld strength distributions are obtained 
+at a welding time of 0.5 and 0.6 s, but are not obtained 
+without the vices. Excessive welding time causes damages 
+to the specimens and the weld strength decreases. All 
+specimens were broken at the specimen part; not at the 
+welding surfaces under tensile strength test. 
+4. One-dimensional complex vibration ultrasonic welding 
+system 
+The welding characteristics of metal plate specimens 
+are significantly improved by an ultrasonic lapped spot 
+welding system using a complex vibration welding tip. 
+To simplify the configuration of the complex vibration 
+welding system, one-dimensional complex vibration 
+welding systems of 27 kHz, which vibrate in an elliptical 
+or circular locus, are studied. A one-dimensional 
+converter can also be obtained using longitudinal- 
+to-transverse vibration converters. 
+An arrangement of a 27 kHz one-dimensional longi- 
+tudinal-to-torsional vibration converter with diagonal 
+slits at a longitudinal vibration node part, and with 
+complex vibration welding tips at the free vibration 
+edge, is shown in Fig. 8. 
+J. Tsujino et al. 1 Ultrasonics 34 ( 1996) 177-185 181 
+Longitudinal-torsional complex 
+vibration rod I steel SK4 I 
+llelding plate 
+S;n specimens 
+‘Anvil 
+Fig. 8. Arrangement of a 27 kHz longitudinal to torsional vibration converter with diagonal slits at a longitudinal vibration node part with 
+complex vibration welding tips at the free vibration edge. 
+Vibration frequency ( kHz ) 
+Fig. 9. Relationship between the driving frequency and longitudinal 
+and torsional vibration amplitudes at a free vibration edge of a 
+longitudinal-torsional vibration converter. 
+torsional vibration converter measured by a laser 
+Doppler vibrometer. Longitudinal vibration is measured 
+at the free edge surface and the torsional vibration is 
+measured at a small surface normal to the circumference 
+cut near to the edge. These vibration amplitudes become 
+maximum at the near-frequency range and the vibration 
+locus becomes circular between these maximum driving 
+frequencies. 
+The vibration locus shapes and the vibration phase 
+difference between longitudinal and torsional vibrations, 
+as the driving frequency is altered, are shown in Fig. 10. 
+Vibration locus shapes are observed by an optical micro- 
+scope. The vibration locus becomes circular near to the 
+driving frequency in the case where the phase difference 
+between the longitudinal and torsional vibration is near 
+to 90”, and linear at a lower frequency in the direction 
+of the longitudinal vibration, and linear also at a higher 
+frequency but in the direction of torsional vibration. 
+Fig. 11 shows the welded condition of aluminum plate 
+specimens of 0.5 mm thickness welded by welding tips 
+of linear and circular loci under the same vibration 
+amplitude of 6.0 pm. The obtained weld strengths by a 
+welding tip of circular locus are larger than those joined - 01 I I I 
+26.60 27.00 27.20 27.40 
+Vibration frequency ( kHz ) 
+Fig. 10. Relationship among driving frequency, vibration locus shapes 
+and vibration phase difference between longitudinal and torsional 
+vibrations. 
+(4 fb) 
+Fig. 11. Weld conditions of aluminum plate specimens of 1.0 mm 
+thickness joined by welding tips of linear (a) and circular (b) vibration 
+loci under the same vibration amplitude of 6.0 mm. 
+by a conventional welding system whose welding tip 
+vibration is linear. 
+5. Ultrasonic wire bonding using complex and 
+higher-frequency vibration welding tips 
+Ultrasonic wire bonding using the same frequency 
+complex vibration welding system of 190 kHz and a 
+high frequency linear vibration welding tip of up to 
+182 J. Tsujino et al. / Ultrasonics 34 (1996) 177-185 
+600 kHz are studied for improving the welding character- 
+istics. Complex vibration welding tip locus shapes are 
+controlled from linear-to-elliptical, and circular by regu- 
+lating the driving vibration systems. Welding specimens 
+of 0.1 mm diameter aluminum wire were welded success- 
+fully by this high frequency and complex vibration 
+welding equipment. The required vibration velocity of 
+the complex vibration system is about half to one-third 
+compared with linear vibration systems. The required 
+vibration velocity of the high-frequency bonding system 
+of 600 kHz decreases to about one-fifth that of the 
+60 kHz conventional bonding system. The required weld- 
+ing time of the 600 kHz system was shorter than that of 
+the 60 kHz system because of the large number of 
+repetitions of vibration stress of the higher-frequency 
+system. 
+Using high frequency and complex vibration systems, 
+the weld strength becomes independent of the direction 
+between welding tip vibration and wire length. The 
+deformation of the welded specimen (specimen height) 
+for a maximum weld strength was 40 to 20% of the wire 
+diameter and about same in these frequencies [3,13]. 
+Furthermore, using these high frequency and complex 
+vibration methods, the weld strength of wire bonding 
+becomes independent of the difference in direction 
+between welding tip vibration and wire length. The one- 
+dimensional complex vibration system may be con- 
+structed using a one-dimensional complex vibration 
+system such as a longitudinal-transverse of a longitudinal- 
+torsional vibration converter [ 33. 
+Complex vibration bonding systems consist of a com- 
+plex transverse vibration welding tip and two driving 
+systems crossed at a right angle, as shown in Fig. 12. 
+The 190 kHz vibration systems are 7 mm in diameter 
+and 1.5 in longitudinal vibration wavelength. A free-free 
+third-mode transverse complex vibration rod of 1.2 mm 
+in diameter, whose free edge is a welding tip, is driven 
+at a center vibration loop position in two directions 
+crossed at a right angle through quarter-wavelength 
+longitudinal vibration rods. These rods prevent mutual 
+interference between the two driving systems. These 
+Fig. 12. Arrangement of a 190 kHz ultrasonic wire bonding system 
+using a complex vibration welding tip driven by two driving 
+vibration systems. vibration systems are driven simultaneously by inde- 
+pendent controllers and amplifiers, and the welding tip 
+vibration locus shape and direction may be controlled 
+by regulating the vibration amplitudes and phase differ- 
+ence of the two driving systems. 
+The designed ultrasonic linear vibration bonding 
+systems of 600 kHz are shown in Fig. 13. The vibration 
+systems used piezoelectric-ceramic elements of 7.0 mm 
+diameter, vibration systems of 6.5 mm diameter, and 3.5 
+wavelengths of longitudinal vibration. The vibration 
+frequency of 600 kHz used is ten times 60 kHz of the 
+conventional bonding systems. 
+The relationship between welding time and the weld 
+strength of a 0.1 mm diameter aluminum wire specimen 
+welded by 190 kHz linear and circular vibration, and 
+120 kHz linear vibration welding tips, is shown in 
+Fig. 14. Welding time is altered and shown up to 100 ms. 
+The vibration velocity used is 0.45 m s-l (peak-to-zero 
+value) at 190 kHz and 0.75 m s-l at 120 kHz, and the 
+welding tip clamping force is 300 g. The required welding 
+time of 190 kHz of linear locus is shorter than that of 
+120 kHz. The required welding times by a circular and 
+Fig. 13. Arrangement of a 600 kHz linear vibration ultrasonic wire 
+bonding system. 
+er aluminum 
+nVib. velocity 0.45 m/s/l 
+?T)/ib. velocity 0.75 m/d 
+_,,,,’ -- --- 
+1 0 o 4 n ‘Broken at’wire part 1 
+0 20 40 60 80 100 
+Welding time ( ms ) 
+Fig. 14. Relationship between vibration velocity and the weld strength 
+of aluminum wire 0.1 mm in diameter by 120 kHz linear, and 190 kHz 
+linear and circular vibration welding systems, 
+J. Tsujino er al. / Ultrasonics 34 ( 1996) I77-185 183 
+80- 1.0 
+C 
+zl 5 
+z40 zo.s a 
+z .s 
+% a 
+3 20 -30.4 
+Welding time f 100 ms ( A ; &ken at 
+Clamping force : 300 g! 
+O- ‘& Vib. yelo.{ Vib. amp. ) : 0.36 m/s ( 0.60 pm ) 
+Oo 15 30 45 60 75 90 
+Specimen wire direction ( degree ) 
+Fig. 15. Relationship between specimen direction, output powers from 
+two 90 kHz driving systems and welding strength, by a 90 kHz 
+complex vibration wire bonding equipment with circular vibration 
+locus. 
+linear vibration welding tip for sufficient weld strength 
+are about 20 ms and 40 ms at a frequency of 190 kHz. 
+The required welding time of the circular locus is one- 
+half that of the linear one. 
+Output powers from the two-driving systems of com- 
+plex bonding equipment are measured directly from the 
+standing wave ratio measured using ring-type magnetic 
+vibration velocity detectors, which were installed at the 
+loop and near to the nodal vibration positions of the 
+driving longitudinal vibration systems. Fig. 15 shows 
+the relationships between the specimen direction, output 
+powers from two 90 kHz driving systems and the welding 
+strength by a 90 kHz complex vibration wire bonding 
+equipment with circular vibration locus. It is shown that 
+ouput power from one vibration system decreases as the 
+specimen direction approaches a crossed angle, but the 
+output power from the other system increases. The total 
+output power from the two systems is almost constant, 
+and uniform weld strengths are obtained by the welding 
+system independent of the direction difference between 
+the welding tip and specimen length. 
+Using a low frequency of 60 kHz, sufficient joining is 
+impossible in the case where the wire length direction 
+to the welding tip vibration approaches 90”. Usually, 
+the wire direction must be set parallel to the welding tip 
+vibration to obtain sufficient welding results. Fig. 16 
+shows the relationship between specimen direction and 
+weld strength by linear vibration velocities of 0.94 m s ’ 
+at 60 kHz and 0.30 m s-’ at 600 kHz. It is shown that 
+the weld strength becomes independent of the direction 
+using high vibration frequencies of 330 and 600 kHz. 
+6. Ultrasonic plastic welding using high frequency and 
+two vibration systems 
+The ultrasonic plastic welding method is applicable 
+for joining almost all thermoplastic materials, owing to 0 15 30 45 60 75 90 
+Specimen wire direction ( degree ) 
+Fig. 16. Relationship between specimen wire direction and weld 
+strength of aluminum wire specimens 0.1 mm in diameter, welded by 
+60 kHz and 600 kHz welding tips of linear vibration locus. 
+its short welding time without adhesive, and it is widely 
+used to join thermoplastic products that are difficult to 
+join by microwave joining due to their low dielectric loss. 
+The two-vibration-system welding was proposed by 
+the author to improve the welding characteristics, and 
+its effectiveness was shown in the cases of the same or 
+different vibration frequencies of 20 kHz and 27 kHz. 
+Welding characteristics are also improved by using a 
+frequency higher than 15 to 40 kHz in conventional 
+welding systems, because vibration absorption of plastics 
+becomes a maximum in the range of 300 to 400 kHz in 
+the case of polymethyl methacrylate (PMMA). 
+Using two vibration systems and driving the welding 
+specimens from their upper and lower sides simul- 
+taneously, the welding characteristics are also improved, 
+resulting in smaller required vibration amplitude and 
+less damage caused by vibration in the specimens com- 
+pared with those of conventional systems. In the case of 
+direct welding of thin plastic sheet specimens, it was 
+shown that the required welding tip vibration velocity 
+for bonding is determined by the sum of the upper and 
+lower welding tip velocity. The required velocity for a 
+90 kHz welding system is less than 30% that of a 27 kHz 
+system. Using two vibration systems whose vibra- 
+tion directions are crossed, welding characteristics are 
+also significantly improved as in the case of parallel 
+vibrations. 
+Fig. 17 shows the arrangement of ultrasonic welding 
+equipment using (a) two 90 kHz vibration systems in a 
+parallel vibration direction and (b) 90 kHz longitudinal 
+and 20 kHz torsional vibration systems whose vibration 
+directions are crossed at a right angle. The 90 kHz 
+ultrasonic vibration sources consist of a radial-to- 
+longitudinal vibration direction converter with six bolt- 
+clamped Langevin-type lead-zirconate-titanate (PZT) 
+transducers installed in the converter at its radial 
+184 J. Tsujino et al. / Ultrasonics 34 (1996) 177-185 
+(4 (W 
+Fig. 17. Arrangement of ultrasonic plastic welding equipment with 
+two-vibration systems whose vibration directions are parallel or 
+crossed at a right angle. (a) 90 kHz longitudinal vibration systems. 
+(b) 90 kHz longitudinal and 20 kHz torsional vibration systems. 
+vibration part, and a conical longitudinal vibration horn 
+with a welding tip at its free end. The 90 kHz Langevin- 
+type PZT transducer has 1.5 longitudinal vibration 
+wavelength and consists of two piezoelectric ceramic 
+disks of 5 mm thickness and 15 mm diameter, and two 
+aluminum rods. It is attached to the vibration source by 
+a clamping bolt. 
+Direct welding conditions of lapped sheets using 
+27 kHz and 90 kHz welding equipment is shown in 
+Fig. 18. Critical welding conditions are determined by 
+altering the vibration velocities of upper and lower 
+welding tips. The required weld conditions are deter- 
+mined as the sum of the upper and lower welding tips 
+because the obtained curves are linear. The required 
+welding tip total vibration velocity of 90 kHz is about 
+30% that of 27 kHz equipment. Excessive static pressure 
+and vibration velocity causes undesirable damage in the 
+welding specimens. 
+Fig. 19 shows the weld strength of 128 lapped 
+polyethylene thin sheets obtained under various vibra- 
+Upper vibration velocity (m/s) 
+Fig. 18. Direct welding conditions of five lapped polyvinyl chloride 
+sheets welded by 27 kHz and 90 kHz two-vibration-system plastic 
+welding equipment. Welding time (s) 
+Fig. 19. Direct welding conditions of 128 lapped polypropylene sheets 
+of 0.025 mm thickness with (1) upper, (2) lower and (3) upper and 
+lower 90 kHz longitudinal welding tips whose vibration directions are 
+parallel to each other. 
+tion conditions. In the case where upper and lower 
+welding tips are driven simultaneously, the required 
+welding time becomes significantly short compared with 
+the case where only one welding tip is driven, and all 
+lapped sheet specimens are welded successfully, but these 
+specimens are partially welded in the case of one weld- 
+ing tip. 
+Fig. 20 shows direct welding conditions of lapped 
+polypropylene sheets of 1.0 mm thickness with (1) lower, 
+and (2) upper 90 kHz longitudinal and lower 20 kHz 
+torsional welding tips, whose vibration directions are 
+crossed at a right angle. Using only one vibration system, 
+the weld strength obtained is rather small, but is large 
+with two vibration systems. 
+60 
+50 
+g 40 
+$ 
+c 30 
+v) 
+g 20 
+10 
+0 
+Vibration velocity (m/s) 
+Fig. 20. Direct welding conditions of lapped polypropylene sheets of 
+1.0 mm thickness with (1) lower and (2) upper 90 kHz longitudinal 
+and lower 20 kHz torsional welding tips whose vibration directions 
+are crossed at a right angle. 
+J. Tsujino et al. / Ultrasonics 34 (1996) 177-185 185 
+7. Conclusions 
+New ultrasonic welding methods of metal and plastic 
+materials [l-3] have been proposed by the author and 
+have shown their effectiveness. 
+For welding of thick and large metal specimens, (1) the 
+ultrasonic butt welding method of joining thick metal 
+specimens end to end was proposed and was shown to 
+be very effective for joining lapped welding specimens 
+or butt welding specimens end to end. Aluminum plate 
+specimens of 6 mm in thickness and 400 mm width were 
+successfully welded by changing the welding tip driving 
+positions. 
+For welding of medium to large metal specimens, (2) a 
+welding method using two vibration systems crossed at 
+a right angle, which drives the welding specimens from 
+their upper and lower sides simultaneously, was effective 
+for successful welding. 
+For medium-sized metal welding specimens, (3) com- 
+plex vibration welding tips were shown to be very 
+effective as bonding methods of thin wire specimens and 
+thick and large specimens, and one-dimensional complex 
+vibration systems were developed to simplify the systems 
+and have been shown to be effective for successful 
+welding. 
+For welding of small metal specimens, such as ultra- 
+sonic wire bonding of integrated circuits or electronic 
+devices, (4) an ultrasonic wire bonding system using a 
+vibration frequency higher than the 60 kHz used in 
+conventional wire bonding systems, and using complex 
+vibration welding tips vibrating in (a) elliptical to circular 
+loci or (b) rectangular to square loci, was proposed and 
+shown to be significantly effective. Bonding systems of 
+complex vibration welding tips of 40 to 190 kHz and 
+high frequency linear vibration welding tips of up to 
+600 kHz have been designed. Using this equipment, the 
+required vibration velocity becomes smaller and the 
+required welding time shorter compared with conven- 
+tional bonding systems. The frequency characteristics of 
+the required vibration amplitude and vibration velocity 
+were revealed from 40 to 600 kHz. 
+For welding of plastic materials, (5) the high frequency 
+and two-vibration-system welding method was effective. Two-vibration-system welding equipment of 90 kHz, 
+with upper and lower vibration sources with six ultra- 
+sonic transducers, was designed and it was shown that 
+the required vibration velocity of 90 kHz was about l/3 
+that of the 27 kHz welding system. The two-vibration- 
+system welding method with different frequencies crossed 
+at a right angle, using a 90 kHz upper longitudinal and 
+a 20 kHz lower torsional vibration system was also 
+effective. 
+References 
+Cl1 
+PI 
+c31 
+c41 
+[51 
+C61 
+c71 
+C81 
+c91 
+Cl01 
+Cl11 
+Cl21 
+Cl31 
+Cl41 J. Tsujino, T. Ueoka and K. Kenmotsu, Proc. IEEE 1985 
+Ultrasonics Symp. (IEEE, New York, 1986) 557. 
+J. Tsujino, Proc. Ultrasonics International 1989 (Butterworths, 
+Guildford, 1990) 346. 
+J. Tsujino, T. Ueoka, I. Watanabe, Y. Kimura, T. Mori, 
+K. Hasegawa, Y. Fujita, T. Shiraki and M. Motonaga, Proc. 
+IEEE 1993 Ultrasonics Symp. (IEEE, New York, 1994) 405. 
+J. Tsujino, T. Ueoka, Y. Susaki, K. Uchida, I. Watanabe and 
+A. Andoh, Proc. IEEE 1990 Ultrasonics Symp. (IEEE, New 
+York, 1991) 371. 
+J. Tsujino, T. Ueoka, Y. Suzaki, K. Uchida, I. Watanabe and 
+S. Andoh, Proc. 11th Symp. Ultrasonic Electronics, Kyoto, 1990; 
+Jpn. J. Appl. Phys. Suppl. 30-l (1991) 212. 
+J. Tsujino, T. Ueoka, Y. Susaki, M. Ogawa, Y. Hirasawa and 
+Y. Fujita, Jpn. J. Appl. Phys. 32 (Tokyo, 1993) 2441. 
+J. Tsujino, T. Ueoka, I. Watanabe, M. Ogawa and M. Hirasawa, 
+Proc. IEEE 1992 Ultrasonics Symp. (IEEE, New York, 1993) 859. 
+J. Tsujino, Proc. Ultrasonics International 1979 (IPC Sci. & 
+Tech. Press, Guildford, 1979) 628. 
+J. Tsujino, Proc. IEEE 1987 Ultrasonics Symp. (IEEE, New 
+York, 1988) 615. 
+J. Tsujino, H. Sugimoto, M. Horikoshi, M. Sakai, H. Andoh 
+and T. Negishi, Proc. 8th Symp. Ultrasonic Electronics, Tokyo, 
+1987; Jpn. J. Appl. Phys. Suppl. 27-l (1988) 186. 
+J. Tsujino, Y. Murayama and H. Furuya, Proc. 10th Symp. 
+Ultrasonics Electronics, Tokyo, 1989; Jpn. J. Appl. Phys. Suppl. 
+29-l (1990) 173. 
+J. Tsujino, T. Mori, T. Onozato and K. Hasegawa, Jpn. J. Appl. 
+Phys. 32 (Tokyo, 1993) 2435. 
+J. Tsujino, T. Mori and K. Hasegawa, Jpn. J. Appl. Phys. 33 
+(Tokyo, 1994) 3048. 
+J. Tsujino, Y. Ishii, T. Shiraki, T. Tamura and T. Ueoka, IEEE 
+1994 International Ultrasonics Symp. (IEEE, New York, 1995) 
+1353. 

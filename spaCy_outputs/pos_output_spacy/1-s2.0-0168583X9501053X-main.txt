@@ -1,0 +1,1990 @@
+~~, ADJ 
+
+, SPACE 
+~, PUNCT 
+
+, SPACE 
+ELSEVIERNuclearInstruments, PROPN 
+andMethodsinPhysicsResearchB108(1996, ADJ 
+223, NUM 
+226, NUM 
+
+, SPACE 
+Energyloss, PROPN 
+MeV, PROPN 
+heavy, ADJ 
+ions, NOUN 
+carbon*BeamInteractions, NOUN 
+
+, SPACE 
+withMaterials, NOUN 
+Atoms, PROPN 
+
+, SPACE 
+V., PROPN 
+Hari, PROPN 
+kumar, PROPN 
+A.P.Pathak, PROPN 
+a,*,S.K., PROPN 
+Sharma, PROPN 
+b, PROPN 
+Shyamkumar, PROPN 
+b, PROPN 
+N., PROPN 
+Nath, PROPN 
+b, PROPN 
+D., PROPN 
+Kabiraj, PROPN 
+c, PROPN 
+
+, SPACE 
+D.K.Avasthi, PROPN 
+c, PROPN 
+
+, SPACE 
+aSchoolofPhysics, PROPN 
+University, PROPN 
+ofHyderabad, PROPN 
+Hyderabad, PROPN 
+-500046, PROPN 
+India, PROPN 
+
+, SPACE 
+bPhysicsDepartment, NOUN 
+Kurukshetra, PROPN 
+University, PROPN 
+Kurukshetra, PROPN 
+-132119,India, NUM 
+
+, SPACE 
+CNuclearScienceCentre, PROPN 
+P.O., PROPN 
+Box, PROPN 
+10502, NUM 
+New, PROPN 
+Delhi-110067, PROPN 
+India, PROPN 
+
+, SPACE 
+Received, VERB 
+14March1995;revisedformreceived22August, NUM 
+1995, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+novel, NOUN 
+technique, NOUN 
+secondary, ADJ 
+forward, PROPN 
+recoil, NOUN 
+ions, NOUN 
+generated, VERB 
+thinstandard, NOUN 
+targets, NOUN 
+energetic, ADJ 
+heavy, ADJ 
+
+, SPACE 
+primary, ADJ 
+ion, NOUN 
+beam, NOUN 
+employed, VERB 
+measure, VERB 
+energy, NOUN 
+loss, NOUN 
+ion, NOUN 
+species, NOUN 
+21=8, NUM 
+29, NUM 
+covering, VERB 
+energies, NOUN 
+
+, SPACE 
+0.1, NUM 
+1.0, NUM 
+MeV, NOUN 
+/u, PUNCT 
+Energyvariation, NOUN 
+simply, ADV 
+affected, VERB 
+bychanging, VERB 
+thedetector, NOUN 
+anglebetween, NOUN 
+35, NUM 
+°, NUM 
+70, NUM 
+°, NUM 
+
+, SPACE 
+avoiding, VERB 
+thedominant, ADJ 
+elasticscattering, NOUN 
+primary, ADJ 
+beam, NOUN 
+twin, NOUN 
+detectorpermitted, VERB 
+simultaneous, ADJ 
+measurement, NOUN 
+
+, SPACE 
+unabsorbed, PROPN 
+andabsorbed, PROPN 
+spectra, PROPN 
+experimental, ADJ 
+data, NOUN 
+onstopping, VERB 
+powerarecompared, VERB 
+withevaluated, ADJ 
+values, NOUN 
+LSS, PROPN 
+
+, SPACE 
+theory, NOUN 
+TRIM, NOUN 
+betterunderstanding, NOUN 
+validity, NOUN 
+available, ADJ 
+theoretical, ADJ 
+evaluations, NOUN 
+hasbecomepossible, ADJ 
+
+, SPACE 
+need, NOUN 
+higher, ADJ 
+precision, NOUN 
+inexperimental, ADJ 
+data, NOUN 
+cases, NOUN 
+
+, SPACE 
+1.Introduction, PROPN 
+
+, SPACE 
+Heavy, ADJ 
+ion, NOUN 
+beams, NOUN 
+MeV, PROPN 
+range, NOUN 
+increasingly, ADV 
+
+, SPACE 
+near, ADJ 
+surface, NOUN 
+characterisation, NOUN 
+andmodifica­, PROPN 
+
+, SPACE 
+tion, NOUN 
+ofmaterials, NOUN 
+devices, NOUN 
+Precisevalues, NOUN 
+energy, NOUN 
+loss, NOUN 
+
+, SPACE 
+rates, NOUN 
+essential, ADJ 
+parameters, NOUN 
+studies, NOUN 
+
+, SPACE 
+beensystematically, ADV 
+carrying, VERB 
+outstopping, VERB 
+powerexperi­, NOUN 
+
+, SPACE 
+ments, NOUN 
+low, ADJ 
+energy, NOUN 
+region, NOUN 
+heavy, ADJ 
+ions, NOUN 
+21=8­, NUM 
+
+, SPACE 
+29, NUM 
+broaderperspective, ADJ 
+tosupplement, NOUN 
+theinsuffi­, NOUN 
+
+, SPACE 
+cientstopping, VERB 
+powerdataavailable, ADJ 
+region, NOUN 
+Itwas, PROPN 
+
+, SPACE 
+theoretically, ADV 
+predicted, VERB 
+the21oscillations, NOUN 
+elec­, ADJ 
+
+, SPACE 
+tronicstopping, NOUN 
+power[1, NOUN 
+dampout, VERB 
+in­, ADJ 
+
+, SPACE 
+creasestheprojectile, ADJ 
+velocity, NOUN 
+2;-3, NUM 
+a.u, NOUN 
+velocity, NOUN 
+
+, SPACE 
+2, NUM 
+far, ADV 
+prediction, NOUN 
+haseludedexperimental, NOUN 
+verifica­, PROPN 
+
+, SPACE 
+tion, NOUN 
+inadequate, ADJ 
+stopping, VERB 
+powerdata, NOUN 
+region, NOUN 
+
+, SPACE 
+Elastic, PROPN 
+Recoil, PROPN 
+Detection, PROPN 
+Analysis, PROPN 
+
+, SPACE 
+ERDA, PROPN 
+techniques, VERB 
+todeduceelectronic, ADJ 
+stopping, VERB 
+power, NOUN 
+
+, SPACE 
+values, NOUN 
+carbonfor, ADJ 
+heavy, ADJ 
+ions, NOUN 
+secondary, ADJ 
+ion, NOUN 
+
+, SPACE 
+beams, NOUN 
+projectile, NOUN 
+ions, NOUN 
+ERDAprovides, NOUN 
+
+, SPACE 
+-irPresented, VERB 
+brieflyat, NOUN 
+13th, NOUN 
+Int, PROPN 
+Conf, PROPN 
+Applications, PROPN 
+
+, SPACE 
+Accelerators, NOUN 
+inResearchandIndustry, NOUN 
+Denton(USA),7, PROPN 
+10Nov, NOUN 
+
+, SPACE 
+1994, NUM 
+
+, SPACE 
+•Corresponding, VERB 
+author, NOUN 
+Tel.+9140258500(direct:258227, PROPN 
+
+, SPACE 
+fax+9140258145and258120,e-mail:appsp@uohyd.emet.in.greaterflexibility, NOUN 
+tochooseprojectile, NOUN 
+heavy, ADJ 
+ions, NOUN 
+
+, SPACE 
+changing, VERB 
+beam, NOUN 
+source, NOUN 
+achieved, VERB 
+fo­, PROPN 
+
+, SPACE 
+cussingtheprimary, ADJ 
+beam, NOUN 
+appropriate, ADJ 
+thin, ADJ 
+target, NOUN 
+
+, SPACE 
+fixed, VERB 
+target, NOUN 
+ladder, NOUN 
+scattering, VERB 
+chamber, NOUN 
+
+, SPACE 
+species, NOUN 
+light, ADJ 
+medium, ADJ 
+secondary, ADJ 
+ions(projectiles, NOUN 
+
+, SPACE 
+obtained, VERB 
+bymerelychanging, VERB 
+target, NOUN 
+
+, SPACE 
+single, ADJ 
+loading, NOUN 
+ladder, NOUN 
+Different, ADJ 
+energies, NOUN 
+
+, SPACE 
+secondary, ADJ 
+ion, NOUN 
+beam, NOUN 
+selected, VERB 
+bychanging, VERB 
+
+, SPACE 
+detection, NOUN 
+angle, NOUN 
+facilities, NOUN 
+help, VERB 
+optimise, VERB 
+
+, SPACE 
+beam, NOUN 
+time, NOUN 
+utilization, NOUN 
+Simultaneous, ADJ 
+detection, NOUN 
+ab­, NOUN 
+
+, SPACE 
+sorbed, VERB 
+unabsorbed, ADJ 
+spectraatdifferent, NOUN 
+energieshelps, NOUN 
+avoid, VERB 
+
+, SPACE 
+repeated, VERB 
+openingandclosingoftheexperimental, ADJ 
+chamber, NOUN 
+
+, SPACE 
+Thetheoretical, ADJ 
+approach, NOUN 
+3,4, NUM 
+stopping, VERB 
+cross, NOUN 
+sec­, NOUN 
+
+, SPACE 
+tions, NOUN 
+heavy, ADJ 
+ions, NOUN 
+matterhas, PROPN 
+incorporated, VERB 
+
+, SPACE 
+semi, ADJ 
+empirical, ADJ 
+way, NOUN 
+5,6, X 
+existing, VERB 
+methods, NOUN 
+
+, SPACE 
+TRIMcodetabulations, PROPN 
+6,7, NUM 
+limited, VERB 
+avail­, PROPN 
+
+, SPACE 
+ability, NOUN 
+energyloss, NOUN 
+data, NOUN 
+MeV, PROPN 
+heavy, ADJ 
+ions, NOUN 
+
+, SPACE 
+deviations, NOUN 
+noted, VERB 
+8, NUM 
+respect, NOUN 
+TRIM, VERB 
+
+, SPACE 
+values, NOUN 
+
+, SPACE 
+Ourpreliminary, PROPN 
+study, NOUN 
+stopping, VERB 
+powers, NOUN 
+Mylar, PROPN 
+
+, SPACE 
+foils, NOUN 
+160and48Tiions, NOUN 
+9, X 
+mentioned, VERB 
+
+, SPACE 
+novelapproach, NOUN 
+approach, NOUN 
+ofemploying, VERB 
+sec­, NOUN 
+
+, SPACE 
+ondary, ADJ 
+recoil, NOUN 
+ion, NOUN 
+beams, NOUN 
+variable, ADJ 
+energies, NOUN 
+obtained, VERB 
+
+, SPACE 
+heavy, ADJ 
+primaryionspecies)and, NOUN 
+provision, NOUN 
+
+, SPACE 
+simultaneously, ADV 
+detecttheunabsorbed, VERB 
+absorbed, VERB 
+spec­, PROPN 
+
+, SPACE 
+tra, NOUN 
+extended, VERB 
+tootherion, NOUN 
+species, NOUN 
+
+, SPACE 
+carbonfoil, NOUN 
+asabsorber, NOUN 
+Asimilartechnique, PROPN 
+
+, SPACE 
+stopping, VERB 
+powermeasurements, NOUN 
+byanothergroup, NOUN 
+
+, SPACE 
+10, NUM 
+
+, SPACE 
+0168, NUM 
+583Xj96jSlS.OO, NOUN 
+©, PROPN 
+1996ElsevierScienceB.V., PROPN 
+Allrights, PROPN 
+reserved, VERB 
+
+, SPACE 
+SSDlOI68, ADJ 
+583X(9S)OI053, NUM 
+X, NOUN 
+
+, SPACE 
+224, NUM 
+V., PROPN 
+Hari, PROPN 
+kumar, PROPN 
+et, PROPN 
+at./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+inPhys, NOUN 
+Res, PROPN 
+B, PROPN 
+108, NUM 
+996)223, NUM 
+226, NUM 
+
+, SPACE 
+2.Experimental, ADJ 
+information, NOUN 
+New, PROPN 
+Delhi, PROPN 
+India, PROPN 
+collimated, VERB 
+primary, ADJ 
+ion, NOUN 
+beams, NOUN 
+
+, SPACE 
+89, NUM 
+MeV, PROPN 
+Iodine, PROPN 
+wasused, VERB 
+tocreate, NOUN 
+secondaryrecoil, NOUN 
+ionsof, NOUN 
+
+, SPACE 
+ThedE, PROPN 
+dxmeasurements, NOUN 
+carried, VERB 
+desired, VERB 
+species, NOUN 
+thin, ADJ 
+1000A)elernental, NUM 
+com-, NOUN 
+
+, SPACE 
+15, NUM 
+MV, PROPN 
+Pelletron, PROPN 
+facility, NOUN 
+Nuclear, PROPN 
+Science, PROPN 
+Centre, PROPN 
+pound, NOUN 
+targets, NOUN 
+Carbon, NOUN 
+foils, NOUN 
+prepared, VERB 
+vacuum, PROPN 
+
+, SPACE 
+Table1, NUM 
+
+, SPACE 
+Stoppingpowersfor0,AI, PROPN 
+Ti, PROPN 
+FeandCu, PROPN 
+ionsincarboninunitsofMeVcm2, PROPN 
+mgasafunctionoftheenergyinMeVlu, PROPN 
+
+, SPACE 
+VX, PROPN 
+108cmz, NUM 
+E(MeVlu, PROPN 
+Experimental, ADJ 
+stoppingpower, NOUN 
+Calculated, VERB 
+stoppingpowervalue, NOUN 
+
+, SPACE 
+Presentresults, PROPN 
+Refs.[10,12, PROPN 
+aTRIM-92, NOUN 
+LSS, PROPN 
+Bethe, PROPN 
+VB, PROPN 
+
+, SPACE 
+Oxygen, PROPN 
+ion, NOUN 
+
+, SPACE 
+9.83, NUM 
+0.50, NUM 
+9.7, NUM 
+9.8, NUM 
+14.8, NUM 
+21.92, NUM 
+8.85, NUM 
+
+, SPACE 
+10.03, NUM 
+0.52, NUM 
+9.3, NUM 
+9.9, NUM 
+15.1, NUM 
+21.5, NUM 
+8.9, NUM 
+
+, SPACE 
+11.55, NUM 
+0.69, NUM 
+8.3, NUM 
+9.6, NUM 
+17.4, NUM 
+18.3, NUM 
+8.9, NUM 
+
+, SPACE 
+11.88, NUM 
+0.73, NUM 
+9.3, NUM 
+9.6, NUM 
+17.9, NUM 
+17.8, NUM 
+8.9, NUM 
+
+, SPACE 
+13.05, NUM 
+0.88, NUM 
+8.3, NUM 
+9.2, NUM 
+19.7, NUM 
+16.3, NUM 
+8.9, NUM 
+
+, SPACE 
+14.18, NUM 
+1.04, NUM 
+8.5, NUM 
+8.8, NUM 
+21.4, NUM 
+14.5, NUM 
+8.6, NUM 
+
+, SPACE 
+14.39, NUM 
+1.07, NUM 
+8.3, NUM 
+8.7, NUM 
+21.7, NUM 
+14.3, NUM 
+8.6, NUM 
+
+, SPACE 
+Aluminium, PROPN 
+ion, NOUN 
+
+, SPACE 
+7.87, NUM 
+0.32, NUM 
+16.2, NUM 
+16.5, NUM 
+15.7, NUM 
+
+, SPACE 
+9.33, NUM 
+0.45, NUM 
+16.7, NUM 
+17.5, NUM 
+18.7, NUM 
+
+, SPACE 
+10.77, NUM 
+0.60, NUM 
+16.4, NUM 
+18.1, NUM 
+21.6, NUM 
+
+, SPACE 
+12.04, NUM 
+0.75, NUM 
+16.9, NUM 
+18.1, NUM 
+24.1, NUM 
+52.3, NUM 
+16.5, NUM 
+
+, SPACE 
+13.34, NUM 
+0.92, NUM 
+16.0, NUM 
+17.7, NUM 
+26.7, NUM 
+41.2, NUM 
+16.2, NUM 
+
+, SPACE 
+14.52, NUM 
+1.09, NUM 
+15.0, NUM 
+17.3, NUM 
+29.0, NUM 
+37.3, NUM 
+16.3, NUM 
+
+, SPACE 
+Titanium, PROPN 
+ion, NOUN 
+
+, SPACE 
+5.73, NUM 
+0.17, NUM 
+18.9, NUM 
+23.4, NUM 
+14.9, NUM 
+
+, SPACE 
+6.67, NUM 
+0.23, NUM 
+22.3, NUM 
+25.3, NUM 
+17.4, NUM 
+
+, SPACE 
+8.23, NUM 
+0.35, NUM 
+28.0, NUM 
+27.2, NUM 
+21.4, NUM 
+
+, SPACE 
+8.90, NUM 
+0.41, NUM 
+28.9, NUM 
+29.0, NUM 
+23.2, NUM 
+
+, SPACE 
+9.33, NUM 
+0.45, NUM 
+31.1, NUM 
+29.4, NUM 
+24.3, NUM 
+
+, SPACE 
+9.74, NUM 
+0.49, NUM 
+31.2, NUM 
+29.9, NUM 
+25.3, NUM 
+
+, SPACE 
+10.41, NUM 
+0.56, NUM 
+31.7, NUM 
+30.6, NUM 
+27.1, NUM 
+
+, SPACE 
+11.13, NUM 
+0.64, NUM 
+32.9, NUM 
+31.1, NUM 
+29.0, NUM 
+
+, SPACE 
+11.55, NUM 
+0.69, NUM 
+31.7, NUM 
+31.3, NUM 
+30.1, NUM 
+
+, SPACE 
+11.72, NUM 
+0.71, NUM 
+34.4, NUM 
+31.5, NUM 
+30.5, NUM 
+
+, SPACE 
+12.28, NUM 
+0.78, NUM 
+32.1, NUM 
+31.7, NUM 
+32.0, NUM 
+
+, SPACE 
+12.36, NUM 
+0.79, NUM 
+35.5, NUM 
+31.8, NUM 
+32.2, NUM 
+
+, SPACE 
+12.97, NUM 
+0.87, NUM 
+34.4, NUM 
+32.0, NUM 
+33.8, NUM 
+
+, SPACE 
+13.12, NUM 
+0.89, NUM 
+32.4, NUM 
+32.0, NUM 
+34.2, NUM 
+
+, SPACE 
+13.48, NUM 
+0.94, NUM 
+33.9, NUM 
+32.1, NUM 
+35.1, NUM 
+
+, SPACE 
+13.77, NUM 
+0.98, NUM 
+32.4, NUM 
+32.1, NUM 
+35.8, NUM 
+
+, SPACE 
+Iron, PROPN 
+ion, NOUN 
+
+, SPACE 
+6.52, NUM 
+0.22, NUM 
+25.1, NUM 
+27.2, NUM 
+18.3, NUM 
+
+, SPACE 
+7.87, NUM 
+0.32, NUM 
+29.9, NUM 
+29.9, NUM 
+22.1, NUM 
+
+, SPACE 
+9.0\, NUM 
+0.42, NUM 
+32.5, NUM 
+32.7, NUM 
+25.3, NUM 
+
+, SPACE 
+10.\2, NUM 
+0.53, NUM 
+33.8, NUM 
+34.7, NUM 
+28.4, NUM 
+
+, SPACE 
+\1.47, NOUN 
+0.68, NUM 
+35.4, NUM 
+36.3, NUM 
+32.2, NUM 
+
+, SPACE 
+12.36, NUM 
+0.79, NUM 
+35.6, NUM 
+37.1, NUM 
+34.7, NUM 
+
+, SPACE 
+Copper, NOUN 
+ion, NOUN 
+
+, SPACE 
+6.37, NUM 
+0.2\, NUM 
+26.0, NUM 
+28.4, NUM 
+18.8, NUM 
+
+, SPACE 
+7.49, NUM 
+0.29, NUM 
+28.7, NUM 
+31.7, NUM 
+22.0, NUM 
+
+, SPACE 
+8.69, NUM 
+0.39, NUM 
+33.3, NUM 
+34.2, NUM 
+25.5, NUM 
+
+, SPACE 
+9.74, NUM 
+0.49, NUM 
+37.0, NUM 
+36.8, NUM 
+28.7, NUM 
+
+, SPACE 
+10.31, NUM 
+0.55, NUM 
+37.6, NUM 
+37.8, NUM 
+30.4, NUM 
+
+, SPACE 
+10.77, NUM 
+0.60, NUM 
+37.9, NUM 
+38.7, NUM 
+31.7, NUM 
+
+, SPACE 
+11.80, NUM 
+0.72, NUM 
+40.9, NUM 
+39.9, NUM 
+34.7, NUM 
+
+, SPACE 
+aAbdesselam, PROPN 
+etaI., NUM 
+
+, SPACE 
+V.Hari, PROPN 
+kumar, PROPN 
+et, PROPN 
+al, PROPN 
+INucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+108, NUM 
+/996)223, NOUN 
+226, NUM 
+225, NUM 
+
+, SPACE 
+4.Resultsanddiscussionwheremis, PROPN 
+electron, NOUN 
+mass, NOUN 
+logarithmic, ADJ 
+term, NOUN 
+
+, SPACE 
+LeX)may, AUX 
+replaced, VERB 
+universal, ADJ 
+function, NOUN 
+
+, SPACE 
+parameter, NOUN 
+X, PROPN 
+=, NOUN 
+V2j, NOUN 
+Vo2Z2•For, PROPN 
+velocities, NOUN 
+X, PROPN 
+<, X 
+10,L(X, NUM 
+
+, SPACE 
+approximated, VERB 
+4, NUM 
+
+, SPACE 
+noted, VERB 
+Bethe, PROPN 
+formula, NOUN 
+
+, SPACE 
+apply, VERB 
+Varelas-, PROPN 
+Biersack, PROPN 
+interpolation, NOUN 
+elec­, ADJ 
+
+, SPACE 
+tronic, ADJ 
+stopping, NOUN 
+power, NOUN 
+intermediate, ADJ 
+energy, NOUN 
+region, NOUN 
+
+, SPACE 
+projectile, NOUN 
+energies, NOUN 
+grouped, VERB 
+
+, SPACE 
+high, ADJ 
+energy, NOUN 
+region, NOUN 
+electronic, ADJ 
+stopping, NOUN 
+power, NOUN 
+
+, SPACE 
+decreases, VERB 
+increase, NOUN 
+projectile, NOUN 
+energy.evaporation, NOUN 
+good, ADJ 
+vacuum, NOUN 
+-10, PROPN 
+7Torr, NUM 
+
+, SPACE 
+thickness, NOUN 
+foils, NOUN 
+measured, VERB 
+alpha, NOUN 
+energy, NOUN 
+
+, SPACE 
+loss, NOUN 
+method, NOUN 
+recoil, NOUN 
+angles, NOUN 
+varied, ADJ 
+achieve, VERB 
+
+, SPACE 
+range, NOUN 
+required, VERB 
+ion, NOUN 
+energies, NOUN 
+keeping, VERB 
+primary, ADJ 
+ion, NOUN 
+
+, SPACE 
+beam, NOUN 
+energy, NOUN 
+undisturbed, NOUN 
+helps, VERB 
+maintain, VERB 
+stable, ADJ 
+
+, SPACE 
+beam, NOUN 
+conditions, NOUN 
+save, VERB 
+loss, NOUN 
+accelerator, NOUN 
+time, NOUN 
+
+, SPACE 
+secondary, ADJ 
+ionenergies, NOUN 
+obtained, VERB 
+varied, ADJ 
+range, NOUN 
+
+, SPACE 
+0.17, NUM 
+1.09, NUM 
+MeV, NOUN 
+j, NOUN 
+udepending, VERB 
+recoil, NOUN 
+
+, SPACE 
+primary, ADJ 
+ion, NOUN 
+species, NOUN 
+combination, NOUN 
+details, NOUN 
+
+, SPACE 
+experimental, ADJ 
+setup, NOUN 
+reported, VERB 
+earlier, ADJ 
+
+, SPACE 
+preliminary, ADJ 
+study, NOUN 
+9, NUM 
+experimental, ADJ 
+data, NOUN 
+
+, SPACE 
+error, NOUN 
+6, NUM 
+error, NOUN 
+higher, ADJ 
+
+, SPACE 
+insome, ADJ 
+cases, NOUN 
+experimental, ADJ 
+conditions, NOUN 
+cause, VERB 
+
+, SPACE 
+relatively, ADV 
+poor, ADJ 
+statistics, NOUN 
+L(X, X 
+=, VERB 
+1.36, NUM 
+XI/2-, NOUN 
+0.016X3/2•, PUNCT 
+7, X 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+6)3.Theoreticalcalculations, NUM 
+
+, SPACE 
+experimental, ADJ 
+energy, NOUN 
+range, NOUN 
+LSS, PROPN 
+theory, NOUN 
+3,4]can, NUM 
+
+, SPACE 
+theoretical, ADJ 
+estimate, NOUN 
+electronic, ADJ 
+stopping, NOUN 
+
+, SPACE 
+power, NOUN 
+LSS, PROPN 
+formula, NOUN 
+written, VERB 
+
+, SPACE 
+8Toe2aoZlZ2V, NUM 
+
+, SPACE 
+SE.L=((Z?/3+Zi/3)3/2, PROPN 
+Vo, PROPN 
+
+, SPACE 
+whereZ1eandZ2eare, NOUN 
+charge, NOUN 
+numbers, NOUN 
+projectile, NOUN 
+
+, SPACE 
+ion, NOUN 
+target, VERB 
+atom, NOUN 
+respectively, ADV 
+constant, ADJ 
+approxi­, PROPN 
+
+, SPACE 
+mated, VERB 
+aszl/6,Voandaoare, PROPN 
+Bohr, PROPN 
+velocity, NOUN 
+Bohr, PROPN 
+
+, SPACE 
+radius, NOUN 
+respectively, ADV 
+Vis, ADP 
+projectile, NOUN 
+velocity, NOUN 
+
+, SPACE 
+electronic, ADJ 
+stopping, NOUN 
+power, NOUN 
+dEj, ADV 
+dx]eis, VERB 
+simply, ADV 
+
+, SPACE 
+product, NOUN 
+atomic, ADJ 
+density, NOUN 
+Nand, PROPN 
+SEL'Thus, PROPN 
+
+, SPACE 
+carbon, NOUN 
+write, VERB 
+
+, SPACE 
+~~L=, PROPN 
+0.96125, NUM 
+Zf/3, X 
+~, VERB 
+i/3)3/2(~, PROPN 
+
+, SPACE 
+electronic, ADJ 
+stopping, NOUN 
+power, NOUN 
+evaluated, VERB 
+
+, SPACE 
+MeV, PROPN 
+ern, PROPN 
+m, PROPN 
+g, PROPN 
+I)unit, NUM 
+Eq, PROPN 
+2, X 
+multiplied, VERB 
+
+, SPACE 
+Zf!3+Zi/3)3/2j(ZIZ2'we, PROPN 
+reduced, ADJ 
+stopping, NOUN 
+
+, SPACE 
+power(dEj, NOUN 
+dx)R'Both, PUNCT 
+energy, NOUN 
+loss, NOUN 
+velocity, NOUN 
+
+, SPACE 
+ions, NOUN 
+reduced, VERB 
+way, NOUN 
+LSS, PROPN 
+values, NOUN 
+fell, VERB 
+
+, SPACE 
+straight, ADJ 
+line, NOUN 
+intersecting, VERB 
+origin, NOUN 
+II, PROPN 
+shown, VERB 
+Fig, PROPN 
+
+, SPACE 
+
+, SPACE 
+Vred, VERB 
+=, X 
+Vj(VoZf!3, PROPN 
+3, NUM 
+
+, SPACE 
+dEjdx)R, PROPN 
+=(, PROPN 
+dEjdx)e(Z?/3+ZV, PROPN 
+3)3, PROPN 
+/2j?ZIZ2'(4, PUNCT 
+
+, SPACE 
+projectile, NOUN 
+energy, NOUN 
+falls, VERB 
+intermediate, ADJ 
+energy, NOUN 
+
+, SPACE 
+region, NOUN 
+Varelas-, PROPN 
+Biersack, PROPN 
+5, NUM 
+interpolation, NOUN 
+
+, SPACE 
+5, NUM 
+
+, SPACE 
+calculate, VERB 
+electronic, ADJ 
+stopping, NOUN 
+power, NOUN 
+
+, SPACE 
+HereSE.His, X 
+stopping, VERB 
+power, NOUN 
+calculated, VERB 
+Bethe, PROPN 
+
+, SPACE 
+formula, NOUN 
+
+, SPACE 
+4'lTZ, NUM 
+~, NOUN 
+e, NOUN 
+4, NUM 
+
+, SPACE 
+SE, PROPN 
+H=, VERB 
+2NZ2L(X, PROPN 
+mVElectronic, PUNCT 
+stopping, VERB 
+powers, NOUN 
+carbon, NOUN 
+foil, NOUN 
+thickness, NOUN 
+=, PROPN 
+
+, SPACE 
+72J.Lgj, PROPN 
+cm2)were, ADV 
+experimentally, ADV 
+measured, VERB 
+
+, SPACE 
+ERDA, PROPN 
+technique, NOUN 
+160,27AI,48Ti,56Feand64Cuions, NUM 
+
+, SPACE 
+experimentalresults, NOUN 
+compared, VERB 
+withexperimental, ADJ 
+
+, SPACE 
+data, NOUN 
+obtained, VERB 
+Abdesselam, PROPN 
+et, PROPN 
+al, PROPN 
+10,12, X 
+
+, SPACE 
+energy, NOUN 
+range, NOUN 
+obtained, VERB 
+theo­, NOUN 
+
+, SPACE 
+retical, ADJ 
+semiempirical, ADJ 
+models, NOUN 
+results, NOUN 
+
+, SPACE 
+shown, VERB 
+Table, PROPN 
+I., PROPN 
+Typical, ADJ 
+spectra, NOUN 
+obtained, VERB 
+method, NOUN 
+
+, SPACE 
+analysis, NOUN 
+indicated, VERB 
+earlier, ADV 
+9, NUM 
+
+, SPACE 
+notice, VERB 
+table, NOUN 
+LSS, PROPN 
+theory, NOUN 
+valid, ADJ 
+
+, SPACE 
+velocity, NOUN 
+limit, NOUN 
+VOZf/3and, PROPN 
+corresponding, VERB 
+critical, ADJ 
+en­, PROPN 
+
+, SPACE 
+ergy, NOUN 
+Ecis, PROPN 
+calculated, VERB 
+projectile, NOUN 
+ion, NOUN 
+160,27Al, NUM 
+
+, SPACE 
+48, NUM 
+50, NUM 
+64TI, NUM 
+Fe, PROPN 
+Cu, PROPN 
+s, NOUN 
+values, NOUN 
+6.4, NUM 
+20.5, NUM 
+73, NUM 
+107, NUM 
+
+, SPACE 
+141, NUM 
+MeV, NOUN 
+respectively, ADV 
+LSS, PROPN 
+values, NOUN 
+agree, VERB 
+better, ADJ 
+
+, SPACE 
+ion, NOUN 
+energies, NOUN 
+0.7, NUM 
+MeV, PROPN 
+ju, NOUN 
+lower, ADJ 
+ion, NOUN 
+
+, SPACE 
+energies, NOUN 
+values, NOUN 
+tend, VERB 
+lie, VERB 
+increasingly, ADV 
+lower, ADJ 
+
+, SPACE 
+experimental, ADJ 
+values, NOUN 
+goes, VERB 
+low, ADJ 
+ion, NOUN 
+
+, SPACE 
+energies, NOUN 
+lower, ADJ 
+energy, NOUN 
+values, NOUN 
+nucleon, NOUN 
+LSS, PROPN 
+
+, SPACE 
+theory, NOUN 
+underestimates, VERB 
+electronic, ADJ 
+stopping, NOUN 
+power, NOUN 
+
+, SPACE 
+higher, ADJ 
+energy, NOUN 
+values, NOUN 
+overestimates, VERB 
+stopping, NOUN 
+
+, SPACE 
+power, NOUN 
+behaviour, NOUN 
+shortcomings, NOUN 
+LSS, PROPN 
+
+, SPACE 
+theory, NOUN 
+explicitly, ADV 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+160case, PROPN 
+
+, SPACE 
+Varelas-, PROPN 
+Biersack, PROPN 
+interpolation, NOUN 
+5, X 
+gives, VERB 
+good, ADJ 
+esti­, ADJ 
+
+, SPACE 
+mate, NOUN 
+electronic, ADJ 
+stopping, NOUN 
+power, NOUN 
+LSS, NOUN 
+theory, NOUN 
+
+, SPACE 
+valid, ADJ 
+region, NOUN 
+O";-ed>1.0, PROPN 
+energies, NOUN 
+covered, VERB 
+fall, NOUN 
+
+, SPACE 
+intermediate, ADJ 
+energy, NOUN 
+region, NOUN 
+reason, NOUN 
+
+, SPACE 
+include, VERB 
+oxygen, NOUN 
+data, NOUN 
+Fig, PROPN 
+I., PROPN 
+
+, SPACE 
+reasonably, ADV 
+good, ADJ 
+agreement, NOUN 
+experimental, ADJ 
+data, NOUN 
+andvalues, NOUN 
+based, VERB 
+TRIM, PROPN 
+code, NOUN 
+
+, SPACE 
+tendency, NOUN 
+values, NOUN 
+remaining, VERB 
+somewhat, ADV 
+higher, ADJ 
+
+, SPACE 
+experimental, ADJ 
+values, NOUN 
+lower, ADJ 
+energies, NOUN 
+
+, SPACE 
+experimental, ADJ 
+data, NOUN 
+obtained, VERB 
+Abdesselam, PROPN 
+et, PROPN 
+al, PROPN 
+10,12, X 
+
+, SPACE 
+energy, NOUN 
+range, NOUN 
+good, ADJ 
+agreement, NOUN 
+
+, SPACE 
+results, NOUN 
+shown, VERB 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+5.Conclusions, NOUN 
+
+, SPACE 
+technique, NOUN 
+performing, VERB 
+energy, NOUN 
+loss, NOUN 
+measure­, ADP 
+
+, SPACE 
+ments, NOUN 
+simple, ADJ 
+convenient, ADJ 
+especially, ADV 
+
+, SPACE 
+226, NUM 
+V.Hari, PROPN 
+kumar, PROPN 
+et, PROPN 
+al, PROPN 
+INucl, PROPN 
+Lnstr, PROPN 
+Meth.in, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+108, NUM 
+J996, PROPN 
+223, NUM 
+226, NUM 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+I]A.P.Pathak, PROPN 
+RadiatEff.61(1982)I., PROPN 
+
+, SPACE 
+2]A.P.Pathak, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+B22, PROPN 
+1980)96, NUM 
+
+, SPACE 
+3]J.Lindhard, NUM 
+M.Scharffand, PROPN 
+H.E.Schiott, PROPN 
+K.Dan, PROPN 
+Vidensk, PROPN 
+
+, SPACE 
+Selsk, PROPN 
+Mat, PROPN 
+Fys, PROPN 
+Medd.33,No.14(1963, PROPN 
+
+, SPACE 
+4]J.Lindhard, PROPN 
+M.Scharff, PROPN 
+ibid.27,No.15(1953, PROPN 
+
+, SPACE 
+5]C.Varelasand, NUM 
+J.P.Biersack, NOUN 
+Nucl.lnstr, PROPN 
+Meth.79, PRON 
+
+, SPACE 
+1979)213, NUM 
+
+, SPACE 
+6]J.F.Ziegler, NOUN 
+J.P.BiersackandU.Littmark, NOUN 
+TheStoppingand, PROPN 
+
+, SPACE 
+RangeofIonsin, PROPN 
+Solids(Pergamon, PROPN 
+NewYork,1985, PROPN 
+
+, SPACE 
+7]J.F.Ziegler, NUM 
+TRIM-92, NOUN 
+ThetransportofIonsin, PROPN 
+Matter, PROPN 
+IBM, PROPN 
+
+, SPACE 
+Research, PROPN 
+28, NUM 
+0,Yorktown, NUM 
+Heights, PROPN 
+NY,105981,USA, X 
+
+, SPACE 
+8]R.Bimbot, PROPN 
+Nuel, PROPN 
+Instr, PROPN 
+andMeth, PROPN 
+B, NOUN 
+69(1992)1, NUM 
+
+, SPACE 
+9]N.Nath, NUM 
+D.P.Dahinwal, NOUN 
+Anuradha, PROPN 
+Bhagwat, PROPN 
+D.K.Avasthi, NOUN 
+
+, SPACE 
+V.HariKumarand, PROPN 
+AP, PROPN 
+Pathak, PROPN 
+SurfaceandCoatings, PROPN 
+
+, SPACE 
+Technology, PROPN 
+66(1994)231, NOUN 
+
+, SPACE 
+10]M.Abdesselam, NUM 
+J.P.Stoquert, PROPN 
+G.Guillaume, PROPN 
+M.Hage, PROPN 
+Ali, PROPN 
+
+, SPACE 
+J.1.GrobandP.Siffert, PROPN 
+Nuel, PROPN 
+Instr.andMeth, PROPN 
+B, NOUN 
+72(1992, PROPN 
+
+, SPACE 
+7, NUM 
+
+, SPACE 
+II, PROPN 
+H.Pape, PROPN 
+H.-G.ClercandK.-H.Schmidt, PROPN 
+Z.Phys, PROPN 
+286, NUM 
+
+, SPACE 
+1978)159, NUM 
+
+, SPACE 
+12]M.Abdesselam, NUM 
+J.P.Stoquert, PROPN 
+G.Guillaume, PROPN 
+M.Hage, PROPN 
+Ali, PROPN 
+
+, SPACE 
+J.1.GrobandP.Siffert, PROPN 
+Nuel, PROPN 
+Instr.andMeth, PROPN 
+B72(1992, ADJ 
+
+, SPACE 
+293, NUM 
+
+, SPACE 
+13]J.M.AnthonyandW.A.Lanford, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+25(1982, PROPN 
+
+, SPACE 
+1868.The, NUM 
+authors, NOUN 
+thank, VERB 
+staff, NOUN 
+Nuclear, PROPN 
+Science, PROPN 
+Centre, PROPN 
+
+, SPACE 
+associated, VERB 
+running, NOUN 
+pelletron, NOUN 
+associated, VERB 
+
+, SPACE 
+detector, NOUN 
+electronics, NOUN 
+data, NOUN 
+analysing, VERB 
+computer, NOUN 
+systems, NOUN 
+
+, SPACE 
+V.H.K., PROPN 
+N.N., PROPN 
+thank, VERB 
+CSIR, PROPN 
+UOC, PROPN 
+providing, VERB 
+
+, SPACE 
+assistance, NOUN 
+SRF, PROPN 
+Emeritus, PROPN 
+Fellowship, PROPN 
+awards, NOUN 
+
+, SPACE 
+respectively, ADV 
+Acknowledgementsties, NOUN 
+ZIoscillations, NOUN 
+electronic, ADJ 
+stopping, NOUN 
+power, NOUN 
+wash, NOUN 
+
+, SPACE 
+existing, VERB 
+data, NOUN 
+look, VERB 
+
+, SPACE 
+ZIoscillations, PROPN 
+possible, ADJ 
+charge, NOUN 
+state, NOUN 
+dependence, NOUN 
+
+, SPACE 
+heavy, ADJ 
+ion, NOUN 
+stopping, VERB 
+powers, NOUN 
+13].These, ADJ 
+limitations, NOUN 
+
+, SPACE 
+overcome, VERB 
+future, ADJ 
+programme, NOUN 
+study, NOUN 
+LSS, PROPN 
+
+, SPACE 
+
+, SPACE 
+0.4, NUM 
+0.8, NUM 
+
+, SPACE 
+Reduced, VERB 
+Velocity, PROPN 
+
+, SPACE 
+Fig.1.Thereducedenergyloss(dE, PROPN 
+dx)R, PROPN 
+inMeVern?mg, PROPN 
+
+, SPACE 
+asafunctionofreducedionvelocity(Vred, PROPN 
+.Solidlinerepresents, X 
+
+, SPACE 
+LSSvalues, NOUN 
+filledtrianglesrepresent, NOUN 
+energyloss, NOUN 
+27Alions, NOUN 
+
+, SPACE 
+opencirclesshowenergylossof, VERB 
+48Tiions, NOUN 
+filledsquaresrepresent, NOUN 
+
+, SPACE 
+energylossof56Feionsandopentrianglesshowtheenergyloss, X 
+
+, SPACE 
+of64CUions, NOUN 
+
+, SPACE 
+desired, VERB 
+cover, VERB 
+wide, ADJ 
+range, NOUN 
+ion, NOUN 
+energies, NOUN 
+
+, SPACE 
+ionspecies, NOUN 
+experimental, ADJ 
+datamay, PROPN 
+requirehigher, PROPN 
+
+, SPACE 
+precision, NOUN 
+order, NOUN 
+discern, VERB 
+oscillations, NOUN 
+stopping, VERB 
+power, NOUN 
+
+, SPACE 
+function, NOUN 
+Z, PROPN 
+constant, ADJ 
+velocity, NOUN 
+values, NOUN 
+given, VERB 
+
+, SPACE 
+absorber, NOUN 
+felt, VERB 
+absorber, PROPN 
+thickness, NOUN 
+
+, SPACE 
+needs, VERB 
+varied, ADJ 
+ion, NOUN 
+energies, NOUN 
+changed, VERB 
+
+, SPACE 
+wide, ADJ 
+range, NOUN 
+Itis, PROPN 
+planned, VERB 
+overcome, VERB 
+limitations, NOUN 
+
+, SPACE 
+modifying, VERB 
+experimental, ADJ 
+set, NOUN 
+i)permit, VERB 
+tilt, NOUN 
+
+, SPACE 
+absorber, NOUN 
+holder, NOUN 
+postion, NOUN 
+order, NOUN 
+vary, VERB 
+effective, ADJ 
+
+, SPACE 
+thickness, NOUN 
+ii)use, NOUN 
+adE, PROPN 
+Egas, ADJ 
+detector, NOUN 
+telescope, NOUN 
+
+, SPACE 
+focal, ADJ 
+plane, NOUN 
+detector, NOUN 
+placed, VERB 
+recoil, NOUN 
+mass, NOUN 
+spec­, NOUN 
+
+, SPACE 
+trometer, NOUN 
+extend, VERB 
+detection, NOUN 
+heavier, ADJ 
+recoil, NOUN 
+ions, NOUN 
+
+, SPACE 
+worry, NOUN 
+radiation, NOUN 
+damage, NOUN 
+power, NOUN 
+energy, NOUN 
+
+, SPACE 
+resolution, NOUN 
+RMS, NOUN 
+setups, NOUN 
+help, VERB 
+covering, VERB 
+
+, SPACE 
+lower, ADJ 
+forward, ADV 
+recoil, NOUN 
+angles, VERB 
+0, NUM 
+°, NUM 
+30, NUM 
+°, NUM 
+possi­, PROPN 
+
+, SPACE 
+ble, NOUN 
+present, ADJ 
+arrangement, NOUN 
+
+, SPACE 
+measured, VERB 
+electronic, ADJ 
+stopping, NOUN 
+power, NOUN 
+
+, SPACE 
+carbon, NOUN 
+specifically, ADV 
+projectile, NOUN 
+velocity, NOUN 
+region, NOUN 
+greater, ADJ 
+
+, SPACE 
+than2, NOUN 
+3Vo(whereVois, ADP 
+Bohr, PROPN 
+velocity, NOUN 
+shown, VERB 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+mentioned, VERB 
+earlier, ADV 
+theoretically, ADV 
+
+, SPACE 
+predicted, VERB 
+2]that, NOUN 
+2, NUM 
+3Vounits, NOUN 
+projectile, NOUN 
+veloci-, NOUN 
+
+, SPACE 

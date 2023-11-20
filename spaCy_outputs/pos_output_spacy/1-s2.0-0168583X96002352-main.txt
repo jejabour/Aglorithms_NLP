@@ -1,0 +1,2455 @@
+Nuclear, PROPN 
+Instruments, PROPN 
+Methods, PROPN 
+Physics, PROPN 
+Research, PROPN 
+B, PROPN 
+117, NUM 
+1996, NUM 
+21, NUM 
+25, NUM 
+
+, SPACE 
+ELSEVIER, NOUN 
+Beam, PROPN 
+Interactions, PROPN 
+
+, SPACE 
+Materials, PROPN 
+Et, PROPN 
+Atoms, PROPN 
+
+, SPACE 
+Boron, PROPN 
+detection, NOUN 
+nuclear, ADJ 
+reaction, NOUN 
+l1, PROPN 
+B, PROPN 
+p, PROPN 
+2, NUM 
+x, NOUN 
+
+, SPACE 
+M., PROPN 
+Vollmer, PROPN 
+J.D., PROPN 
+Meyer, PROPN 
+R.W., PROPN 
+Michelmann, PROPN 
+K., PROPN 
+Bethge, PROPN 
+
+, SPACE 
+Institutfir, PROPN 
+Kemphysik, PROPN 
+J.W., PROPN 
+Goethe, PROPN 
+Uniuersitiit, PROPN 
+August, PROPN 
+Euler&r, PROPN 
+6, NUM 
+60486, NUM 
+Frankfurt, PROPN 
+Main, PROPN 
+Germany, PROPN 
+
+, SPACE 
+Received, VERB 
+28, NUM 
+December, PROPN 
+1995, NUM 
+revised, VERB 
+form, NOUN 
+received, VERB 
+5, NUM 
+March, PROPN 
+1996, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+nuclear, ADJ 
+reaction, NOUN 
+rB(p, ADJ 
+o)2o, NOUN 
+determination, NOUN 
+boron, NOUN 
+impurities, NOUN 
+silicon, NOUN 
+particles, NOUN 
+
+, SPACE 
+continuous, ADJ 
+energy, NOUN 
+spectrum, NOUN 
+produced, VERB 
+body, NOUN 
+dynamics, NOUN 
+reaction, NOUN 
+differential, ADJ 
+cross, NOUN 
+
+, SPACE 
+section, NOUN 
+reaction, NOUN 
+specifically, ADV 
+defined, VERB 
+materials, NOUN 
+analysis, NOUN 
+measured, VERB 
+different, ADJ 
+laboratory, NOUN 
+
+, SPACE 
+angles, VERB 
+19, NUM 
+=, SYM 
+108, NUM 
+138, NUM 
+158, NUM 
+incident, NOUN 
+proton, NOUN 
+energies, NOUN 
+150, NUM 
+keV, NOUN 
+800, NUM 
+keV., NOUN 
+formalism, NOUN 
+concentration, NOUN 
+
+, SPACE 
+measurements, NOUN 
+developed, VERB 
+thin, ADJ 
+boron, NOUN 
+layer, NOUN 
+homogeneous, ADJ 
+boron, NOUN 
+distribution, NOUN 
+target, NOUN 
+
+, SPACE 
+concentration, NOUN 
+compared, VERB 
+results, NOUN 
+charged, VERB 
+particle, NOUN 
+activation, NOUN 
+analysis, NOUN 
+CPAA, NOUN 
+nuclear, ADJ 
+reaction, NOUN 
+
+, SPACE 
+B(d, PROPN 
+n)“C., PROPN 
+
+, SPACE 
+1, NUM 
+Introduction, PROPN 
+
+, SPACE 
+Boron, PROPN 
+dopant, ADJ 
+semiconductors, NOUN 
+
+, SPACE 
+commonly, ADV 
+detected, VERB 
+secondary, ADJ 
+ion, NOUN 
+mass, NOUN 
+spectrome-, PROPN 
+
+, SPACE 
+try, VERB 
+SIMS, PROPN 
+second, ADJ 
+non, ADJ 
+destructive, ADJ 
+nuclear, ADJ 
+
+, SPACE 
+technique, NOUN 
+CPAA, NOUN 
+11, NUM 
+nuclear, ADJ 
+reaction, NOUN 
+anal-, NUM 
+
+, SPACE 
+ysis, NOUN 
+NRA, PROPN 
+useful, ADJ 
+alternative, NOUN 
+detection, NOUN 
+
+, SPACE 
+boron, NOUN 
+2, NUM 
+extensive, ADJ 
+overview, NOUN 
+existing, VERB 
+nuclear, ADJ 
+
+, SPACE 
+reactions, NOUN 
+boron, NOUN 
+detection, NOUN 
+applications, NOUN 
+
+, SPACE 
+given, VERB 
+Moncoffre, PROPN 
+3, NUM 
+advantages, NOUN 
+nuclear, ADJ 
+
+, SPACE 
+reaction, NOUN 
+B(p, PROPN 
+~120~, ADJ 
+boron, NOUN 
+detection, NOUN 
+materials, NOUN 
+
+, SPACE 
+analysis, NOUN 
+sensitive, ADJ 
+abundant, ADJ 
+boron, NOUN 
+
+, SPACE 
+isotope, NOUN 
+B, NOUN 
+80.2, NUM 
+natural, ADJ 
+abundance, NOUN 
+b, X 
+large, ADJ 
+
+, SPACE 
+cross, NOUN 
+section, NOUN 
+300, NUM 
+mb, PART 
+4, NUM 
+>, X 
+cl, NOUN 
+
+, SPACE 
+interfering, VERB 
+nuclear, ADJ 
+reactions, NOUN 
+theory, NOUN 
+Unfortu-, PROPN 
+
+, SPACE 
+nately, ADV 
+differential, ADJ 
+cross, NOUN 
+section, NOUN 
+sharp, ADJ 
+
+, SPACE 
+resonance, NOUN 
+makes, VERB 
+detailed, ADJ 
+depth, NOUN 
+profiling, NOUN 
+impossi-, SYM 
+
+, SPACE 
+ble, NOUN 
+energies, NOUN 
+o, NOUN 
+ejectiles, NOUN 
+form, VERB 
+continuum, ADJ 
+
+, SPACE 
+extending, VERB 
+5, NUM 
+keV, NOUN 
+5, NUM 
+MeV., NOUN 
+
+, SPACE 
+energies, NOUN 
+backscattered, ADJ 
+protons, NOUN 
+cover, VERB 
+en-, NOUN 
+
+, SPACE 
+ergy, NOUN 
+range, NOUN 
+specific, ADJ 
+theory, NOUN 
+necessary, ADJ 
+evaluation, NOUN 
+
+, SPACE 
+experimental, ADJ 
+data, NOUN 
+paper, NOUN 
+discuss, VERB 
+
+, SPACE 
+example, NOUN 
+homogeneous, ADJ 
+boron, NOUN 
+doped, VERB 
+silicon, NOUN 
+sample, NOUN 
+
+, SPACE 
+yhere, VERB 
+advantages, NOUN 
+nuclear, ADJ 
+reaction, NOUN 
+B(p, PROPN 
+o)2a, NOUN 
+
+, SPACE 
+utilised, VERB 
+materials, NOUN 
+analysis, NOUN 
+
+, SPACE 
+21, NUM 
+Theory, NOUN 
+
+, SPACE 
+sensitivity, NOUN 
+nuclear, ADJ 
+reaction, NOUN 
+materials, NOUN 
+analy-, PART 
+
+, SPACE 
+sis, NOUN 
+mainly, ADV 
+limited, VERB 
+presence, NOUN 
+interfering, VERB 
+reac-, ADJ 
+
+, SPACE 
+Corresponding, PROPN 
+author, NOUN 
+tions, NOUN 
+substances, NOUN 
+sample, NOUN 
+boron, NOUN 
+
+, SPACE 
+light, ADJ 
+element, NOUN 
+incident, NOUN 
+energy, NOUN 
+EP, PROPN 
+<, X 
+1, NUM 
+MeV, PROPN 
+
+, SPACE 
+proton, NOUN 
+sufficient, ADJ 
+induce, VERB 
+nuclear, ADJ 
+reaction, NOUN 
+
+, SPACE 
+produces, VERB 
+o, NOUN 
+particles, NOUN 
+energy, NOUN 
+range, NOUN 
+cr, PROPN 
+par-, PROPN 
+
+, SPACE 
+titles, NOUN 
+15N(p, PROPN 
+.u)‘*C, PROPN 
+180(p, PROPN 
+a)‘*N, NOUN 
+reactions, NOUN 
+
+, SPACE 
+interfere, VERB 
+4, NUM 
+natural, ADJ 
+abundancies, NOUN 
+15N, NUM 
+
+, SPACE 
+0.37, NUM 
+180, NUM 
+0.2, NUM 
+cross, NOUN 
+sections, NOUN 
+small, ADJ 
+
+, SPACE 
+compared, VERB 
+boron, NOUN 
+cross, PROPN 
+section, PROPN 
+interference, NOUN 
+
+, SPACE 
+problem, NOUN 
+nitrogen, NOUN 
+oxygen, NOUN 
+concentrations, NOUN 
+
+, SPACE 
+exceed, VERB 
+boron, NOUN 
+factor, NOUN 
+lo3, ADJ 
+4, NUM 
+
+, SPACE 
+reaction, NOUN 
+proton, NOUN 
+B, NOUN 
+nucleus, NOUN 
+exit, NOUN 
+
+, SPACE 
+channels, NOUN 
+5, NUM 
+
+, SPACE 
+B+p+‘*C, X 
+-+8B, PUNCT 
++, PUNCT 
+oo-$, NUM 
+CL, PROPN 
++, ADJ 
+oo2, NOUN 
++, CCONJ 
+oo, ADV 
+
+, SPACE 
+B+pd*C, PROPN 
+-+‘B, PUNCT 
++, PUNCT 
+~,+(Y~~+(Y,~+(Y~, PROPN 
+II, PROPN 
+
+, SPACE 
+B+p, PROPN 
+t’*C, PROPN 
++02, PROPN 
++, NOUN 
+03+oq, NUM 
+III, PROPN 
+
+, SPACE 
+B+p+‘*C, X 
+-,‘*C+y, PROPN 
+IV, PROPN 
+
+, SPACE 
+reaction, NOUN 
+exit, NOUN 
+channel, NOUN 
+IV, PROPN 
+maximum, ADJ 
+cross, NOUN 
+
+, SPACE 
+section, NOUN 
+1.57, NUM 
+pb, NUM 
+3, NUM 
+EP, PROPN 
+<, X 
+1, NUM 
+MeV, PROPN 
+
+, SPACE 
+suitable, ADJ 
+trace, NOUN 
+element, NOUN 
+detection, NOUN 
+suffi-, NOUN 
+
+, SPACE 
+cient, NOUN 
+boron, NOUN 
+present, ADJ 
+sample, NOUN 
+reso-, X 
+
+, SPACE 
+nance, NOUN 
+EP, PROPN 
+=, SYM 
+163, NUM 
+keV, NOUN 
+width, NOUN 
+r=, NOUN 
+5.5, NUM 
+keV, NOUN 
+
+, SPACE 
+depth, NOUN 
+profiling, NOUN 
+6, NUM 
+
+, SPACE 
+consequence, NOUN 
+body, NOUN 
+dynamics, NOUN 
+
+, SPACE 
+reaction, NOUN 
+exit, NOUN 
+channels, NOUN 
+II, PROPN 
+III, PROPN 
+energies, NOUN 
+
+, SPACE 
+ol, PROPN 
+ejectiles, NOUN 
+projectile, NOUN 
+energy, NOUN 
+1, NUM 
+MeV, NOUN 
+
+, SPACE 
+continuum, ADJ 
+7, X 
+extending, VERB 
+5.5, NUM 
+MeV, NOUN 
+5, NUM 
+keV., NOUN 
+
+, SPACE 
+different, ADJ 
+groups, NOUN 
+cr, PROPN 
+ejectiles, NOUN 
+overlap, VERB 
+
+, SPACE 
+spectrum, NOUN 
+distinguishable, ADJ 
+spectrum, NOUN 
+
+, SPACE 
+nuclear, ADJ 
+reaction, NOUN 
+B(p, PROPN 
+~120, PROPN 
+thin, ADJ 
+boron, NOUN 
+film, NOUN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+spectrum, NOUN 
+measured, VERB 
+
+, SPACE 
+0/68, NUM 
+583X/96/$15.00, NUM 
+Copyright, NOUN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+PY1, PROPN 
+SOl68, PROPN 
+583X(96)00235, NUM 
+2, NUM 
+
+, SPACE 
+22, NUM 
+hf, NOUN 
+Votlmer, PROPN 
+et, PROPN 
+al./, ADV 
+NucE., PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+3, NUM 
+117, NUM 
+1996121, NUM 
+25, NUM 
+
+, SPACE 
+8, NUM 
+km, NOUN 
+thick, ADJ 
+mylarfoil, NOUN 
+detector, NOUN 
+stop, VERB 
+
+, SPACE 
+backscattered, VERB 
+protons, NOUN 
+cx,-ejectiles, NOUN 
+clearly, ADV 
+
+, SPACE 
+distinguishable, ADJ 
+rest, NOUN 
+spectrum, NOUN 
+
+, SPACE 
+ol, PROPN 
+ejectile, NOUN 
+groups, NOUN 
+energy, NOUN 
+range, NOUN 
+
+, SPACE 
+light, ADJ 
+elements, NOUN 
+8, NUM 
+pm, NOUN 
+thick, ADJ 
+mylarfoil, NOUN 
+sufficient, ADJ 
+
+, SPACE 
+stop, VERB 
+backscattered, ADJ 
+protons, NOUN 
+660, NUM 
+keV, NOUN 
+
+, SPACE 
+resonance, NOUN 
+4, NUM 
+materials, NOUN 
+analysis, NOUN 
+tabulated, VERB 
+stop-, NOUN 
+
+, SPACE 
+ping, NOUN 
+powers, NOUN 
+Ziegler, PROPN 
+et, PROPN 
+al, PROPN 
+8, X 
+calculate, VERB 
+energy, NOUN 
+loss, NOUN 
+
+, SPACE 
+mylarfoil, NOUN 
+disregarding, VERB 
+channels, NOUN 
+
+, SPACE 
+spectrum, NOUN 
+background, NOUN 
+noise, NOUN 
+
+, SPACE 
+detector, NOUN 
+disregard, VERB 
+54, NUM 
+keV, NOUN 
+spectrum, NOUN 
+
+, SPACE 
+cw, NOUN 
+ejectiles, NOUN 
+initial, ADJ 
+energy, NOUN 
+2.2, NUM 
+MeV, NOUN 
+
+, SPACE 
+detectable, ADJ 
+Consequently, ADV 
+paper, NOUN 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+nuclear, ADJ 
+reaction, NOUN 
+l’B(p, PROPN 
+CX)~LI, PRON 
+under-, ADJ 
+
+, SPACE 
+stood, VERB 
+include, VERB 
+ejectiles, NOUN 
+minimal, ADJ 
+
+, SPACE 
+initial, ADJ 
+energy, NOUN 
+differential, ADJ 
+cross, NOUN 
+section, NOUN 
+d, X 
+g, NOUN 
+d, NOUN 
+L, NOUN 
+E, NOUN 
+0, NUM 
+
+, SPACE 
+reaction, NOUN 
+determined, VERB 
+measurements, NOUN 
+
+, SPACE 
+thin, ADJ 
+target, NOUN 
+given, VERB 
+9, NUM 
+
+, SPACE 
+5.5, NUM 
+MevY(E, PROPN 
+E, PROPN 
+0, PUNCT 
+dE, X 
+
+, SPACE 
+g(E, PROPN 
+0, NUM 
+=, PUNCT 
+.*Me, PUNCT 
+
+, SPACE 
+QAf+'(z)dz, PROPN 
+1, NUM 
+
+, SPACE 
+0, NUM 
+detection, NOUN 
+angle, NOUN 
+AO, PROPN 
+detector, NOUN 
+solid, ADJ 
+
+, SPACE 
+angle, NOUN 
+Q, PROPN 
+total, ADJ 
+number, NOUN 
+incident, NOUN 
+ions, NOUN 
+E, NOUN 
+
+, SPACE 
+energy, NOUN 
+incident, NOUN 
+particle, NOUN 
+E, PROPN 
+energy, NOUN 
+detected, VERB 
+
+, SPACE 
+particle, NOUN 
+mylarfoil, NOUN 
+N(z, X 
+concentration, NOUN 
+
+, SPACE 
+distribution, NOUN 
+target, NOUN 
+nuclei, NOUN 
+atoms, NOUN 
+cm3, NOUN 
+Y(E, PROPN 
+E, NOUN 
+0, NUM 
+
+, SPACE 
+yield, NOUN 
+detected, VERB 
+particles, NOUN 
+energy, NOUN 
+E, PROPN 
+
+, SPACE 
+projectiles, NOUN 
+energy, NOUN 
+E., PROPN 
+
+, SPACE 
+cross, NOUN 
+section, NOUN 
+1, X 
+varies, VERB 
+function, NOUN 
+mini-, NOUN 
+
+, SPACE 
+mal, ADJ 
+initial, ADJ 
+energy, NOUN 
+ejectiles, NOUN 
+2.2, NUM 
+MeV, NOUN 
+
+, SPACE 
+determined, VERB 
+experimental, ADJ 
+set, NOUN 
+experiment, NOUN 
+
+, SPACE 
+example, NOUN 
+thicker, ADJ 
+mylarfoil, NOUN 
+i.e., X 
+stop, VERB 
+
+, SPACE 
+backscattered, VERB 
+protons, NOUN 
+high, ADJ 
+2, NUM 
+target, NOUN 
+material, NOUN 
+
+, SPACE 
+detectable, ADJ 
+initial, ADJ 
+energy, NOUN 
+increases, NOUN 
+cy, ADJ 
+ejectile, NOUN 
+
+, SPACE 
+yield, NOUN 
+reduced, VERB 
+higher, ADJ 
+initial, ADJ 
+energy, NOUN 
+
+, SPACE 
+Energy, NOUN 
+t&VI, X 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+B(p, PROPN 
+u)2a, NOUN 
+spectrum, AUX 
+measured, VERB 
+EP, PROPN 
+=, NUM 
+700, NUM 
+keV, NOUN 
+B, PROPN 
+=, NOUN 
+
+, SPACE 
+158, NUM 
+tbii, NOUN 
+d=, NOUN 
+150, NUM 
+unt, NOUN 
+target, NOUN 
+8, NUM 
+km, NOUN 
+mylarfoil, NOUN 
+
+, SPACE 
+mounted, VERB 
+iu, ADP 
+detector, NOUN 
+stop, VERB 
+backscattered, ADJ 
+protons, NOUN 
+
+, SPACE 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+
+, SPACE 
+B, NOUN 
+MeV, X 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Detected, VERB 
+fraction, PROPN 
+w(E, NOUN 
+yield, NOUN 
+energy, NOUN 
+loss, NOUN 
+
+, SPACE 
+particle, NOUN 
+lowest, ADJ 
+detectable, ADJ 
+energy, NOUN 
+given, VERB 
+2.2, NUM 
+
+, SPACE 
+MeVf, PROPN 
+E., PROPN 
+curve, NOUN 
+calculated, VERB 
+data, NOUN 
+Fig, PROPN 
+l, NOUN 
+
+, SPACE 
+8, NUM 
+=, NUM 
+1.58, NUM 
+
+, SPACE 
+ol, PROPN 
+ejectile, NOUN 
+yield, NOUN 
+measured, VERB 
+boron, NOUN 
+located, VERB 
+
+, SPACE 
+sample, NOUN 
+surface, NOUN 
+depth, NOUN 
+target, NOUN 
+
+, SPACE 
+particles, NOUN 
+loose, ADJ 
+kinetic, ADJ 
+energy, NOUN 
+way, NOUN 
+depth, NOUN 
+
+, SPACE 
+sample, NOUN 
+surface, NOUN 
+minimal, ADJ 
+initial, ADJ 
+energy, NOUN 
+2.2, NUM 
+
+, SPACE 
+MeV, PROPN 
++, CCONJ 
+E, NOUN 
+calculated, VERB 
+stopping, VERB 
+powers, NOUN 
+8, NUM 
+
+, SPACE 
+effective, ADJ 
+cross, NOUN 
+section, NOUN 
+calculated, VERB 
+
+, SPACE 
+surface, NOUN 
+cross, NOUN 
+section, NOUN 
+multiplied, VERB 
+factor, NOUN 
+W(E, NUM 
+
+, SPACE 
+defined, VERB 
+detected, VERB 
+yield, NOUN 
+divided, VERB 
+
+, SPACE 
+complete, ADJ 
+yield, NOUN 
+E, NOUN 
+=, NOUN 
+0, NUM 
+
+, SPACE 
+g(E, PROPN 
+8, NUM 
+z, NOUN 
+=, VERB 
+$, SYM 
++, NUM 
+6)w(c, NUM 
+2, NUM 
+
+, SPACE 
+W(E, PROPN 
+=, VERB 
+/=, PROPN 
+MeV, PROPN 
+Y(E, NOUN 
+0, NUM 
+dE, PROPN 
+
+, SPACE 
+2.2, NUM 
+MeVfc, PROPN 
+
+, SPACE 
+/~;;M~;Y(E, PROPN 
+0, PUNCT 
+dE, NUM 
+3, NUM 
+
+, SPACE 
+W(E, PROPN 
+calculated, VERB 
+reference, NOUN 
+spectrum, NOUN 
+thin, ADJ 
+
+, SPACE 
+boron, NOUN 
+target, NOUN 
+E, NOUN 
+=, NOUN 
+0, NUM 
+fraction, NOUN 
+detectable, ADJ 
+
+, SPACE 
+ejectiles, NOUN 
+W(E, NOUN 
+shown, VERB 
+Fig, PROPN 
+2, NUM 
+function, NOUN 
+
+, SPACE 
+energy, NOUN 
+E, NOUN 
+exceeds, VERB 
+2.2, NUM 
+MeV., NOUN 
+function, NOUN 
+W(E, NOUN 
+
+, SPACE 
+calculated, VERB 
+data, NOUN 
+spectrum, NOUN 
+Fig, PROPN 
+1, NUM 
+
+, SPACE 
+large, ADJ 
+differential, ADJ 
+cross, NOUN 
+section, NOUN 
+nuclear, ADJ 
+reac-, ADJ 
+
+, SPACE 
+tion, NOUN 
+B(p, PROPN 
+01)2a, NOUN 
+low, ADJ 
+interference, NOUN 
+
+, SPACE 
+reactions, NOUN 
+allows, VERB 
+detect, VERB 
+boron, NOUN 
+impurities, NOUN 
+30, NUM 
+
+, SPACE 
+ppb(a, PROPN 
+4, NUM 
+reaction, NOUN 
+kinematics, NOUN 
+causes, VERB 
+great, ADJ 
+
+, SPACE 
+difficulties, NOUN 
+calculation, NOUN 
+boron, NOUN 
+concentration, NOUN 
+
+, SPACE 
+yield, NOUN 
+special, ADJ 
+cases, NOUN 
+
+, SPACE 
+analytically, ADV 
+solvable, ADJ 
+boron, NOUN 
+homogeneously, ADV 
+dis-, ADJ 
+
+, SPACE 
+tributed, VERB 
+thin, ADJ 
+layer, NOUN 
+projectile, NOUN 
+energy, NOUN 
+
+, SPACE 
+cross, NOUN 
+section, NOUN 
+taken, VERB 
+constant, ADJ 
+
+, SPACE 
+entire, ADJ 
+depth, NOUN 
+boron, NOUN 
+layer, NOUN 
+b, X 
+boron, NOUN 
+
+, SPACE 
+homogeneously, ADV 
+distributed, VERB 
+entire, ADJ 
+depth, NOUN 
+z, NOUN 
+
+, SPACE 
+protons, NOUN 
+sufficient, ADJ 
+kinetic, ADJ 
+energy, NOUN 
+cause, VERB 
+
+, SPACE 
+nuclear, ADJ 
+reactions, NOUN 
+boron, NOUN 
+
+, SPACE 
+M., PROPN 
+Vollmer, PROPN 
+et, NOUN 
+al./, ADV 
+Nucl, PROPN 
+Ins-, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+II, PROPN 
+7, NUM 
+1996, NUM 
+21, NUM 
+25, NUM 
+23, NUM 
+
+, SPACE 
+case, NOUN 
+thin, ADJ 
+layer, NOUN 
+boron, NOUN 
+concentration, NOUN 
+
+, SPACE 
+calculated, VERB 
+rewriting, VERB 
+Eq, PROPN 
+1, NUM 
+
+, SPACE 
+QARg(E, PROPN 
+e)w(c(z))Az, PROPN 
+
+, SPACE 
+1, NUM 
+-1, NUM 
+
+, SPACE 
+4, X 
+
+, SPACE 
+thickness, NOUN 
+z, NOUN 
+boron, NOUN 
+layer, NOUN 
+simplify, VERB 
+
+, SPACE 
+integral, ADJ 
+modification, NOUN 
+differential, ADJ 
+cross, NOUN 
+
+, SPACE 
+section, NOUN 
+i.e., X 
+thickness, NOUN 
+mylarfoil, NOUN 
+8, NUM 
+pm, NOUN 
+boron, NOUN 
+
+, SPACE 
+target, NOUN 
+depth, NOUN 
+taken, VERB 
+account, NOUN 
+factor, NOUN 
+
+, SPACE 
+w, PROPN 
+E, PROPN 
+z, NOUN 
+>, X 
+l., X 
+
+, SPACE 
+boron, NOUN 
+homogeneously, ADV 
+distributed, VERB 
+o, NOUN 
+ejectiles, NOUN 
+
+, SPACE 
+target, NOUN 
+layer, NOUN 
+depth, NOUN 
+z, PROPN 
+measured, VERB 
+
+, SPACE 
+spectrum, NOUN 
+Eq, PROPN 
+1, X 
+integrated, VERB 
+depth, NOUN 
+z, NOUN 
+
+, SPACE 
+effective, ADJ 
+cross, NOUN 
+section, NOUN 
+N(z, X 
+constant, ADJ 
+
+, SPACE 
+N(z, PROPN 
+=, NOUN 
+N, PROPN 
+Eq, PROPN 
+1, X 
+transformed, VERB 
+
+, SPACE 
+-1, PROPN 
+
+, SPACE 
+zmaxg(E, PROPN 
+O)w[.+z, PROPN 
+dz, X 
+
+, SPACE 
+5, X 
+
+, SPACE 
+double, ADJ 
+integral, NOUN 
+numerator, NOUN 
+consequence, NOUN 
+
+, SPACE 
+different, ADJ 
+spectra, NOUN 
+detected, VERB 
+o, NOUN 
+particles, NOUN 
+
+, SPACE 
+emitted, VERB 
+different, ADJ 
+target, NOUN 
+depth, NOUN 
+value, NOUN 
+
+, SPACE 
+integral, ADJ 
+total, ADJ 
+detected, VERB 
+yield, NOUN 
+Y, PROPN 
+determined, VERB 
+integrating, VERB 
+o, ADJ 
+particle, NOUN 
+yield, NOUN 
+exper-, ADJ 
+
+, SPACE 
+imental, NOUN 
+spectrum, NOUN 
+
+, SPACE 
+-ax$(E, PROPN 
+O)w(s(z, PROPN 
+dz, X 
+
+, SPACE 
+5, NUM 
+
+, SPACE 
+number, NOUN 
+projectiles, NOUN 
+protons, NOUN 
+ejectiles, NOUN 
+par-, NUM 
+
+, SPACE 
+ticles, NOUN 
+detector, NOUN 
+solid, ADJ 
+angle, NOUN 
+experimentally, ADV 
+
+, SPACE 
+accessible, ADJ 
+quantities, NOUN 
+integral, ADJ 
+denominator, NOUN 
+
+, SPACE 
+calculated, VERB 
+numerically, ADV 
+Consequently, ADV 
+homoge-, NOUN 
+
+, SPACE 
+neous, ADJ 
+boron, NOUN 
+concentration, NOUN 
+target, NOUN 
+determined, VERB 
+
+, SPACE 
+nuclear, ADJ 
+reaction, NOUN 
+B(p, PROPN 
+a)2a, PROPN 
+
+, SPACE 
+3, X 
+Experimental, ADJ 
+
+, SPACE 
+2.5, NUM 
+MV, PROPN 
+Van, PROPN 
+de, PROPN 
+Graaff, PROPN 
+accelerator, NOUN 
+Institut, PROPN 
+
+, SPACE 
+fti, PROPN 
+Kemphysik, PROPN 
+University, PROPN 
+Frankfurt, PROPN 
+
+, SPACE 
+experiments, NOUN 
+accuracy, NOUN 
+beam, NOUN 
+energy, NOUN 
+
+, SPACE 
+determined, VERB 
+accuracy, NOUN 
+analysing, VERB 
+magnet, NOUN 
+
+, SPACE 
+approximately, ADV 
++, NUM 
+1, NUM 
+keV., NOUN 
+irradiation, NOUN 
+chamber, NOUN 
+electri-, NOUN 
+
+, SPACE 
+cally, ADV 
+insulated, VERB 
+ground, NOUN 
+pumps, NOUN 
+
+, SPACE 
+set, VERB 
+functions, NOUN 
+Faraday, PROPN 
+cup, NOUN 
+entrance, NOUN 
+
+, SPACE 
+chamber, NOUN 
+4, NUM 
+mm, NOUN 
+diaphragm, NOUN 
+prevents, VERB 
+secondary, ADJ 
+electrons, NOUN 
+
+, SPACE 
+leaving, VERB 
+Faraday, PROPN 
+cup, NOUN 
+accuracy, NOUN 
+current, ADJ 
+
+, SPACE 
+measurement, NOUN 
+including, VERB 
+quality, NOUN 
+current, ADJ 
+integra-, PRON 
+
+, SPACE 
+tor, NOUN 
+3, NUM 
+o_-ejectiles, NOUN 
+detected, VERB 
+
+, SPACE 
+surface, NOUN 
+barrier, NOUN 
+detector, NOUN 
+solid, ADJ 
+angle, NOUN 
+7.5, NUM 
+msr, NUM 
+
+, SPACE 
+determined, ADJ 
+accuracy, NOUN 
+2, NUM 
+8, NUM 
+km, NOUN 
+thick, ADJ 
+
+, SPACE 
+Mylarfoil, PROPN 
+stop, VERB 
+backscattered, VERB 
+protons, NOUN 
+
+, SPACE 
+60, NUM 
+
+, SPACE 
+H+, NOUN 
+Energy, PROPN 
+keV, X 
+
+, SPACE 
+Fig, PROPN 
+3, X 
+Differential, ADJ 
+cross, NOUN 
+section, NOUN 
+nuclear, ADJ 
+reaction, NOUN 
+B(p, PROPN 
+a)2a, PROPN 
+yield, NOUN 
+measured, VERB 
+8, NUM 
+p, NOUN 
+m, PROPN 
+mylarfoil, PROPN 
+mounted, VERB 
+
+, SPACE 
+detector, NOUN 
+
+, SPACE 
+24, NUM 
+M., PROPN 
+Vollmer, PROPN 
+et, NOUN 
+al./Nucl, NOUN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, NOUN 
+117, NUM 
+1996, NUM 
+21, NUM 
+25, NUM 
+
+, SPACE 
+incident, NOUN 
+proton, PROPN 
+energy, NOUN 
+500, NUM 
+keV, NOUN 
+completely, ADV 
+
+, SPACE 
+range, NOUN 
+500, NUM 
+keV, NOUN 
+850, NUM 
+keV, NOUN 
+12, NUM 
+pm, NOUN 
+thick, ADJ 
+Mylarfoil, PROPN 
+
+, SPACE 
+necessary, ADJ 
+stop, VERB 
+backscattered, ADJ 
+protons, NOUN 
+resultant, ADJ 
+
+, SPACE 
+loss, NOUN 
+detectable, ADJ 
+o, NOUN 
+particles, NOUN 
+compensated, VERB 
+multiply-, PRON 
+
+, SPACE 
+ing, VERB 
+yield, NOUN 
+factor, NOUN 
+w, PROPN 
+E(Z, NUM 
+cross, NOUN 
+
+, SPACE 
+section, NOUN 
+determined, VERB 
+entire, ADJ 
+proton, NOUN 
+energy, NOUN 
+range, NOUN 
+
+, SPACE 
+measured, VERB 
+8, NUM 
+pm, NOUN 
+thick, ADJ 
+Mylarfoil, PROPN 
+120, NUM 
+
+, SPACE 
+keV, NOUN 
+region, NOUN 
+460, NUM 
+keV, NOUN 
+580, NUM 
+keV, NOUN 
+
+, SPACE 
+measured, VERB 
+mylarfoils, NOUN 
+overlapping, NOUN 
+results, NOUN 
+
+, SPACE 
+compare, VERB 
+test, VERB 
+accuracy, NOUN 
+
+, SPACE 
+factor, NOUN 
+w, PROPN 
+t, NOUN 
+z, PROPN 
+
+, SPACE 
+boron, NOUN 
+targets, NOUN 
+produced, VERB 
+evaporating, VERB 
+boron, NOUN 
+
+, SPACE 
+tantalum, NOUN 
+plate, NOUN 
+e, NOUN 
+gun, NOUN 
+subsequently, ADV 
+
+, SPACE 
+evaporating, VERB 
+gold, NOUN 
+thin, ADJ 
+boron, NOUN 
+film, NOUN 
+thickness, NOUN 
+
+, SPACE 
+films, NOUN 
+measured, VERB 
+Rutherford, PROPN 
+backscattering, VERB 
+
+, SPACE 
+spectrometry, NOUN 
+RBS, PROPN 
+determine, VERB 
+shift, NOUN 
+tantalum, NOUN 
+
+, SPACE 
+edge, NOUN 
+layers, NOUN 
+11, NUM 
+pfecision, NOUN 
+
+, SPACE 
+target, NOUN 
+thickness, NOUN 
+determined, VERB 
+accuracy, NOUN 
+
+, SPACE 
+stopping, VERB 
+power, NOUN 
+values, NOUN 
+5, NUM 
+8, NUM 
+Typical, ADJ 
+values, NOUN 
+
+, SPACE 
+target, NOUN 
+thicknesses, NOUN 
+210, NUM 
+kg, NOUN 
+cm, PROPN 
+gold, NOUN 
+35, NUM 
+
+, SPACE 
+pg, PROPN 
+cm2, NOUN 
+boron, NOUN 
+layer, NOUN 
+l, X 
+consequence, NOUN 
+
+, SPACE 
+depth, NOUN 
+boron, NOUN 
+layer, NOUN 
+yield, NOUN 
+subsequently, ADV 
+
+, SPACE 
+cross, NOUN 
+section, NOUN 
+1, NUM 
+
+, SPACE 
+measurement, NOUN 
+homogeneous, ADJ 
+boron, NOUN 
+concen-, X 
+
+, SPACE 
+tration, NOUN 
+silicon, NOUN 
+wafer, VERB 
+grown, VERB 
+boron, NOUN 
+impurity, NOUN 
+
+, SPACE 
+incident, NOUN 
+proton, NOUN 
+energy, NOUN 
+700, NUM 
+keV, NOUN 
+
+, SPACE 
+maximum, NOUN 
+cross, NOUN 
+section, NOUN 
+N, PROPN 
+300, NUM 
+mb, ADP 
+4, NUM 
+
+, SPACE 
+analysis, NOUN 
+experimental, ADJ 
+set, NOUN 
+
+, SPACE 
+cross, NOUN 
+section, NOUN 
+measurements, NOUN 
+
+, SPACE 
+determination, NOUN 
+boron, NOUN 
+concentration, NOUN 
+detector, NOUN 
+
+, SPACE 
+placed, VERB 
+angle, NOUN 
+0, NUM 
+=, SYM 
+158, NUM 
+8, NUM 
+pm, NOUN 
+mylar, NOUN 
+foil, NOUN 
+
+, SPACE 
+mounted, VERB 
+detector, NOUN 
+
+, SPACE 
+4, X 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+cross, NOUN 
+section, NOUN 
+nuclear, ADJ 
+reaction, NOUN 
+tlB(p, PROPN 
+r)2a, NOUN 
+
+, SPACE 
+determined, VERB 
+error, NOUN 
+8, NUM 
+l-3, NUM 
+statistical, ADJ 
+error, NOUN 
+
+, SPACE 
+yield, NOUN 
+dependent, ADJ 
+yield, NOUN 
+depth, NOUN 
+
+, SPACE 
+boron, NOUN 
+layer, NOUN 
+reultant, NOUN 
+energy, NOUN 
+loss, NOUN 
+energy, NOUN 
+
+, SPACE 
+straggling, VERB 
+target, NOUN 
+energy, NOUN 
+inaccuracy, NOUN 
+
+, SPACE 
+ion, NOUN 
+beam, NOUN 
+limit, NOUN 
+accuracy, NOUN 
+reaction, NOUN 
+energy, NOUN 
+f7, PROPN 
+
+, SPACE 
+keV., NOUN 
+differential, ADJ 
+cross, NOUN 
+section, NOUN 
+nuclear, ADJ 
+reaction, NOUN 
+
+, SPACE 
+lB(p, PROPN 
+a)2a, PROPN 
+measured, VERB 
+different, ADJ 
+labora-, ADJ 
+
+, SPACE 
+tory, ADJ 
+angles, NOUN 
+shown, VERB 
+Fig, PROPN 
+3, NUM 
+error, NOUN 
+bars, NOUN 
+shown, VERB 
+
+, SPACE 
+clarity, NOUN 
+0=, NUM 
+158, NUM 
+angle, NOUN 
+maximal, ADJ 
+
+, SPACE 
+6, NUM 
+=, SYM 
+108, NUM 
+minimal, ADJ 
+achievable, ADJ 
+angle, NOUN 
+experimen-, NOUN 
+
+, SPACE 
+tal, ADJ 
+set, NOUN 
+resonance, NOUN 
+E, PROPN 
+=, PROPN 
+655, NUM 
+rt, PROPN 
+10, NUM 
+keV, NOUN 
+
+, SPACE 
+width, NOUN 
+r=, NOUN 
+310, NUM 
++, SYM 
+10, NUM 
+keV, NOUN 
+compares, VERB 
+litera-, ADJ 
+
+, SPACE 
+ture, NOUN 
+values, NOUN 
+ER, PROPN 
+=, VERB 
+663, NUM 
+keV, NOUN 
+r, NOUN 
+=, NOUN 
+300, NUM 
+keV, NOUN 
+4,14,15, NUM 
+
+, SPACE 
+resonance, NOUN 
+163, NUM 
+keV, NOUN 
+barely, ADV 
+detectable, ADJ 
+
+, SPACE 
+energy, NOUN 
+loss, NOUN 
+projectile, NOUN 
+boron, NOUN 
+layer, NOUN 
+12, NUM 
+keV, NOUN 
+
+, SPACE 
+larger, ADJ 
+resonance, NOUN 
+width, VERB 
+r, NOUN 
+=, SYM 
+5.5, NUM 
+keV, NOUN 
+111, NUM 
+
+, SPACE 
+absolute, ADJ 
+values, NOUN 
+cross, NOUN 
+sections, NOUN 
+0=, NUM 
+158, NUM 
+agree, VERB 
+
+, SPACE 
+measurements, NOUN 
+Ligeon, PROPN 
+et, PROPN 
+al, PROPN 
+4, X 
+
+, SPACE 
+calculated, VERB 
+error, NOUN 
+margin, NOUN 
+Ligeon, PROPN 
+measured, VERB 
+cross, NOUN 
+section, NOUN 
+detector, NOUN 
+large, ADJ 
+angular, ADJ 
+opening, NOUN 
+
+, SPACE 
+=, PROPN 
+1, NUM 
+sr, PROPN 
+aperture, NOUN 
+extending, VERB 
+8, NUM 
+=, NUM 
+140, NUM 
+0, NUM 
+=, NUM 
+
+, SPACE 
+160, NUM 
+measure, VERB 
+angular, ADJ 
+depen-, NOUN 
+
+, SPACE 
+dence, NOUN 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+angular, ADJ 
+dependence, NOUN 
+nuclear, ADJ 
+reaction, NOUN 
+B(p, PROPN 
+
+, SPACE 
+01)2o, NOUN 
+determined, VERB 
+normalising, VERB 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+measurements, NOUN 
+systematical, ADJ 
+errors, NOUN 
+elimi-, VERB 
+
+, SPACE 
+nated, VERB 
+reducing, VERB 
+total, ADJ 
+error, NOUN 
+2.5, NUM 
+angular, ADJ 
+depen-, NOUN 
+
+, SPACE 
+dence, NOUN 
+order, NOUN 
+12, NUM 
++, SYM 
+2.5, NUM 
+ER, NOUN 
+=, VERB 
+663, NUM 
+keV, NOUN 
+
+, SPACE 
+resonance, NOUN 
+agreeing, VERB 
+remarkably, ADV 
+measure-, NOUN 
+
+, SPACE 
+ments, NOUN 
+Becker, PROPN 
+et, PROPN 
+al, PROPN 
+lo, X 
+estimated, VERB 
+10, NUM 
+
+, SPACE 
+mentioned, VERB 
+silicon, NOUN 
+wafer, NOUN 
+target, NOUN 
+analysed, VERB 
+
+, SPACE 
+CPAA, NOUN 
+nuclear, ADJ 
+reaction, NOUN 
+B(d, PROPN 
+n)“C, PROPN 
+l, NOUN 
+
+, SPACE 
+boron, NOUN 
+impurity, NOUN 
+concentration, NOUN 
+100, NUM 
++, SYM 
+12, NUM 
+ppm(a, NOUN 
+121, NUM 
+
+, SPACE 
+measured, VERB 
+B(p, PROPN 
+w)2a, PROPN 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+formalism, NOUN 
+described, VERB 
+boron, NOUN 
+impurity, NOUN 
+concentration, NOUN 
+
+, SPACE 
+112, NUM 
++, SYM 
+20, NUM 
+ppm(a, PROPN 
+found, VERB 
+results, NOUN 
+
+, SPACE 
+techniques, NOUN 
+
+, SPACE 
+5, X 
+Conclusions, NOUN 
+
+, SPACE 
+excitation, NOUN 
+function, NOUN 
+nuclear, ADJ 
+reaction, NOUN 
+B(p, PROPN 
+
+, SPACE 
+cr)2cc, PROPN 
+measured, VERB 
+different, ADJ 
+angles, NOUN 
+
+, SPACE 
+energy, NOUN 
+range, NOUN 
+150, NUM 
+keV, NOUN 
+800, NUM 
+keV., NOUN 
+location, NOUN 
+
+, SPACE 
+resonances, NOUN 
+width, NOUN 
+absolute, ADJ 
+values, NOUN 
+agree, VERB 
+
+, SPACE 
+literature, NOUN 
+values, NOUN 
+detailed, ADJ 
+presentation, NOUN 
+
+, SPACE 
+large, ADJ 
+differential, ADJ 
+cross, NOUN 
+section, NOUN 
+enables, VERB 
+application, NOUN 
+
+, SPACE 
+nuclear, ADJ 
+reaction, NOUN 
+materials, NOUN 
+analysis, NOUN 
+allowing, VERB 
+
+, SPACE 
+determination, NOUN 
+traces, NOUN 
+boron, NOUN 
+30, NUM 
+ppb(a, NOUN 
+
+, SPACE 
+atoms, NOUN 
+bulk, NOUN 
+matrix, NOUN 
+materials, NOUN 
+formalism, NOUN 
+
+, SPACE 
+given, VERB 
+enable, VERB 
+calculation, NOUN 
+boron, NOUN 
+concentration, NOUN 
+
+, SPACE 
+ejectile, NOUN 
+yield, NOUN 
+boron, NOUN 
+thin, ADJ 
+layer, NOUN 
+
+, SPACE 
+homogeneously, ADV 
+distributed, VERB 
+target, NOUN 
+
+, SPACE 
+large, ADJ 
+number, NOUN 
+data, NOUN 
+points, NOUN 
+cross, NOUN 
+section, NOUN 
+measure-, PUNCT 
+
+, SPACE 
+ments, NOUN 
+possible, ADJ 
+calculate, VERB 
+integral, NOUN 
+concen-, ADJ 
+
+, SPACE 
+tration, NOUN 
+determining, VERB 
+equation, NOUN 
+high, ADJ 
+precision, NOUN 
+
+, SPACE 
+nuclear, ADJ 
+reaction, NOUN 
+lB(p, NOUN 
+o)2cx, ADJ 
+developed, VERB 
+formal-, NOUN 
+
+, SPACE 
+ism, NOUN 
+boron, NOUN 
+concentration, NOUN 
+measured, VERB 
+
+, SPACE 
+comparison, NOUN 
+CPAA, NOUN 
+proving, VERB 
+validity, NOUN 
+
+, SPACE 
+Despite, SCONJ 
+favourite, ADJ 
+depth, NOUN 
+resolution, NOUN 
+nuclear, ADJ 
+
+, SPACE 
+reaction, NOUN 
+B(p, PROPN 
+o)2cx, NOUN 
+attractive, ADJ 
+alternative, NOUN 
+boron, NOUN 
+
+, SPACE 
+impurity, NOUN 
+detection, NOUN 
+CPAA, NOUN 
+method, NOUN 
+boron, NOUN 
+
+, SPACE 
+known, VERB 
+distributed, VERB 
+homogeneously, ADV 
+
+, SPACE 
+target, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+ll, AUX 
+
+, SPACE 
+El, PROPN 
+
+, SPACE 
+31, NUM 
+
+, SPACE 
+41, NUM 
+R.W., PROPN 
+Michelmann, PROPN 
+J., PROPN 
+Krauskopf, PROPN 
+J.D., PROPN 
+Meyer, PROPN 
+K., PROPN 
+Bethge, PROPN 
+
+, SPACE 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+51, NUM 
+1990, NUM 
+1, NUM 
+
+, SPACE 
+M., PROPN 
+Vollmer, PROPN 
+J.D., PROPN 
+Meyer, PROPN 
+R.W., PROPN 
+Michelmann, PROPN 
+K., PROPN 
+Bethge, PROPN 
+
+, SPACE 
+F’roc, NOUN 
+4th, ADJ 
+Europ, PROPN 
+Conf, PROPN 
+Accelerators, PROPN 
+Applied, PROPN 
+Research, PROPN 
+
+, SPACE 
+Technology, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+113, NUM 
+1996, NUM 
+403, NUM 
+
+, SPACE 
+N., PROPN 
+Moncoffre, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+66, NUM 
+1992, NUM 
+126, NUM 
+
+, SPACE 
+E., PROPN 
+Ligeon, PROPN 
+A., PROPN 
+Bontemps, PROPN 
+.I., PROPN 
+Radioanal, PROPN 
+Chem, PROPN 
+12, NUM 
+1972, NUM 
+
+, SPACE 
+335, NUM 
+
+, SPACE 
+M., PROPN 
+Vollmer, PROPN 
+et, PROPN 
+al./Nucl, NOUN 
+Instr, PROPN 
+Merit, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, NOUN 
+117, NUM 
+1996, NUM 
+21, NUM 
+2.5, NUM 
+25, NUM 
+
+, SPACE 
+5, NUM 
+F., PROPN 
+Ajzenberg, PROPN 
+Selove, PROPN 
+Nucl, PROPN 
+Phys, NOUN 
+506, NUM 
+1990, NUM 
+1, NUM 
+
+, SPACE 
+6, NUM 
+M., PROPN 
+Behar, PROPN 
+M., PROPN 
+Weiser, PROPN 
+S., PROPN 
+Kalbitzer, PROPN 
+D., PROPN 
+Fink, PROPN 
+F.L., PROPN 
+Grande, PROPN 
+
+, SPACE 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+34, NUM 
+1988, NUM 
+316, NUM 
+
+, SPACE 
+7, X 
+G.G., PROPN 
+Ohlsen, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+37, NUM 
+1965, NUM 
+240, NUM 
+
+, SPACE 
+8, X 
+J, PROPN 
+Ziegler, PROPN 
+J., PROPN 
+Biersack, PROPN 
+Stopping, PROPN 
+Range, PROPN 
+Ions, PROPN 
+
+, SPACE 
+Solids, PROPN 
+Pergamon, PROPN 
+Press, PROPN 
+New, PROPN 
+York, PROPN 
+1992, NUM 
+
+, SPACE 
+9, X 
+W., PROPN 
+Chu, PROPN 
+J.W., PROPN 
+Mayer, PROPN 
+M., PROPN 
+Nicolet, PROPN 
+Backscattering, VERB 
+Spec-, ADJ 
+
+, SPACE 
+trometry, NOUN 
+Academic, PROPN 
+Press, PROPN 
+New, PROPN 
+York, PROPN 
+1978, NUM 
+lo, X 
+H.W., PROPN 
+Becker, PROPN 
+C., PROPN 
+Rolfs, PROPN 
+H.P., PROPN 
+Trautvetter, PROPN 
+2, NUM 
+Phys, NOUN 
+327, NUM 
+
+, SPACE 
+1987, NUM 
+341, NUM 
+
+, SPACE 
+ll, X 
+J.M., PROPN 
+Davidson, PROPN 
+H.L., PROPN 
+Berg, PROPN 
+M.M., PROPN 
+Lowry, PROPN 
+M.R., PROPN 
+Dwarakanath, PROPN 
+
+, SPACE 
+A.J., PROPN 
+Sierk, PROPN 
+P., PROPN 
+Batay, PROPN 
+Csorba, PROPN 
+Nucl, PROPN 
+Phys, NOUN 
+315, NUM 
+1979, NUM 
+
+, SPACE 
+253, NUM 
+
+, SPACE 
+12, NUM 
+T., PROPN 
+Schenkel, PROPN 
+H., PROPN 
+Hebert, PROPN 
+J.D., PROPN 
+MeyFr, PROPN 
+R.W., PROPN 
+MicheImann, PROPN 
+
+, SPACE 
+K., PROPN 
+Bethge, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+89, NUM 
+1994, NUM 
+79, NUM 
+
+, SPACE 

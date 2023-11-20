@@ -1,0 +1,717 @@
+~llk'} ~ll,tl i i I 
+Effect of rotation on temperature response 
+of thermochromic liquid crystal 
+B. J. Syson, R. G. Pilbrow, and J. M. Owen 
+School of Mechanical Engineering, University of Bath, Bath, UK 
+Encapsulated thermochromic liquid crystal (TLC) can be used to determine the surface 
+temperature of stationary or rotating bodies. For narrow-band TLC, with a colour change 
+from red to blue over a bandwidth of 1°C, temperatures on stationary surfaces can be 
+measured with an uncertainty of around +0.1°C. For gas turbine applications, where 
+centripetal accelerations in excess of 104g are common, there is a belief held by many 
+research workers that TLC is significantly affected by rotation: "rotational shifts" have 
+been observed where temperature measurements made by thermocouples and TLC diverge 
+with increasing rotational speed; shifts up to 7°C at around 104g have been observed. In 
+this paper, the surface temperature of a rotating disc is measured simultaneously by an 
+infrared (IR) thermal imager and wide-band TLC with an effective temperature range from 
+48 to 58°C. Within the uncertainty of the measurements, which was around 0.5°C, it was 
+concluded that there was no significant rotational shift for accelerations up to 16,000g. 
+Keywords: thermochromic liquid crystal; temperature measurement; rotation 
+1. Introduction 
+The use of encapsulated thermochromic liquid crystal (TLC) in 
+heat transfer experiments is now a well-established practice. By 
+spraying a thin film of microcapsules of TLC onto a solid 
+material, the surface temperature can be measured accurately. 
+Unlike thermocouples or other intrusive devices, TLC creates no 
+local thermal disturbance errors and enables the temperature of 
+the entire surface to be measured. Unlike infrared (IR) detectors, 
+no special windows (such as germanium) are required for study- 
+ing the heat transfer in internal flows: windows made from glass, 
+acrylic, or polycarbonate provide adequate optical access. 
+Most research workers use narrow-band TLC that changes 
+colour from red to blue during a small change in temperature 
+(typically I°C). Using a single colour (say yellow) in this range, 
+the surface temperature can be measured with an uncertainty of 
+around +0.1°C. Narrow-band TLC has been used successfully 
+(see, for example, Jones and Hippensteele 1988; Camci et al. 
+1992; Wang et al. 1995) to determine the heat transfer coeffi- 
+cients for an acrylic model suddenly exposed to a step-change in 
+air temperature. If the initial temperature of the model at time 
+t = 0 is known, and the temperature at some later time is 
+determined from the TLC then the so-called one-dimensional 
+(l-D) semi-infinite slab solution can be used to determine the 
+heat transfer coefficient. 
+Metzger et al. (1991) have shown that the TLC technique can 
+also be applied to a rotating disc. In the experiments, an (initially 
+cold) acrylic disc coated with TLC was suddenly exposed to an 
+impinging jet of hot air. Using this technique, the authors were 
+Address reprint requests to Prof. J. M. Owen, School of Mechan- 
+ical Engineering, University of Bath, Bath BA27AY, UK. 
+Received 7 November 1995; accepted 10 April 1996 
+Int. J. Heat and Fluid Flow 17:491-499, 1996 
+© 1996 by Elsevier Science Inc. 
+655 Avenue of the Americas, New York, NY 10010 able to determine the axisymmetric heat transfer coefficients for 
+the rotating disc, albeit at relatively low rotational speeds. For 
+rotational speeds representative of those found in gas turbines, 
+however, the centripetal accelerations can be of the order of 
+104g, where g is the gravitational acceleration, and there is a 
+suspicion among many research workers that the characteristics 
+of TLC change when it is exposed to these very high accelera- 
+tions. 
+Recently, Camci and Glezer (1995), working in the United 
+States, found evidence of a rotational shift between temperatures 
+obtained using narrow-band TLC and thermocouples. The re- 
+suits, measured on a rotating disc, diverged as the speed in- 
+creased, and at around 10,000g the rotational shift could be as 
+high as 7°C. Subsequent results, presented by Camci and Glezer, 
+were obtained using an infrared detector: the IR and TLC 
+readings were in good agreement but both diverged from the 
+thermocouple measurements. The rotational shift was attributed 
+to a thermal disturbance error associated with the thermocouple. 
+Their work, which has a clear relationship with the research 
+presented here, will be published elsewhere. 
+While Camci and Glezer (1995) were investigating the rota- 
+tional shift with narrow-band TLC in the United States, indepen- 
+dent research on wide-band TLC was being carried out at the 
+University of Bath in the UK. Thermocouples, TLC, and an 
+infrared thermal imager were used to measure the surface tem- 
+perature of a rotating disc subject to accelerations in excess of 
+104g. It is this work that is presented here. 
+The experimental apparatus is outlined in Section 2 and the 
+thermochromic liquid crystals, image-processing, and calibration 
+apparatus are described in Section 3. The calibration of the TLC 
+and IR imager in a stationary frame, and the measurements on 
+the rotating disc, are presented and discussed in Section 4. The 
+principal conclusions are given in Section 5. 
+0142-727X/96/$15,00 
+PII S0142-727x(96)00053-8 
+
+Rotation effects on fiquid crystals." B. J, Syson et al. 
+2. Experimental apparatus 
+2.1. Rotating-disc rig 
+A sectional view of the rotating-disc rig is shown in Figure 1 and 
+the rotor instrumentation in Figure 2. The whole assembly can 
+be rotated up to 7000 rpm by a variable speed electric motor, and 
+the speed can be measured with an uncertainty of + 1 rpm by an 
+electromagnetic transducer and timer-counter. The steel disc 
+can be heated up to 150°C by thyristor-controlled radiant heaters, 
+and the surface temperature measured by copper-constantan 
+thermocouples embedded in the disc. (The rig is usually used for 
+preswirl rotor-stator tests, see Wilson et al. (1995), and the 
+fluxmeters and blade-cooling holes shown in Figure 2 were not 
+used in the tests described below.) 
+The rotor is of composite construction comprising a steel 
+front disc and an aluminum back disc separated by a layer of 
+Rohacell lightweight foam insulation. The front face of the steel 
+disc, which is 580-mm diameter, is covered with a 1-mm-thick 
+layer of glass-fibre epoxy-resin (k = 0.3 W/mK). This "glass-fibre 
+mat" is slotted to enable the thermocouples and fluxmeters to be 
+embedded in its surface without creating stress concentrations 
+and thermal disturbances in the steel disc. The wires from the 
+thermocouples and fluxmeters are brought out in slots in the mat 
+to the connector pins at the centre of the disc, as shown in 
+Figure 1. The pins act as an effective cold junction, and the 
+electrical signals are brought out through copper wires connected 
+to a 24-way slip ring assembly. The voltages are measured, with a 
+resolution of _+ 1 ixV, by a computer-controlled datalogger. 
+The glass-fibre mat was sprayed with black paint with an 
+emissivity of e = 0.96 (estimated using the infrared thermal im- 
+ager described below). An annular area, extending from 220 < 
+r < 290 ram, was coated with thermochromic liquid crystal, details 
+of which are given in Section 3. 2.2, Infrared thermal imager 
+A cutaway view of the Agema 870C infrared scanner used in the 
+tests is shown in Figure 3. Essentially, the scanner converts the 
+electromagnetic radiation from an object into electronic video 
+signals, and the scanner and its associated hardware and software 
+are referred to as the infrared thermal imager. The basic princi- 
+ple of operation is described below. 
+The radiation from an object is focused by an infrared lens 
+onto an oscillating mirror. The scanner may be used with a 
+variety of interchangeable lenses, but for the tests described 
+below, a 20 ° (38-mm) lens was fitted. This lens has germanium 
+broadband optics coated for enhanced response in the 2.0-4.0 
+t~m region of the infrared spectrum. The reflected radiation from 
+the oscillating mirror is focused by three fixed mirrors onto a 
+horizontal polygon mirror which rotates at 15,000 rpm. Both the 
+oscillating and rotating mirrors are microprocessor-controlled 
+and synchronised so that the whole of the object in view is 
+effectively scanned as a 70-line field at a rate of 25 fields/s. 
+These fields are phased so that four fields produce one fully 
+interlaced 280-line frame. The reflected beam from the horizon- 
+tal mirror is passed through a set of relay optics (containing a 
+selectable aperture and filter unit) and focused onto a point 
+detector by a concave mirror, as shown in Figure 3. For all tests 
+reported here, the scanner's aperture was left fully open, and no 
+filter was inserted. 
+The scanner uses a SPRITE single-point infrared detector 
+consisting of a strip of mercury cadmium telluride, which is 
+sensitive to radiation between 2 and 5 i~m, mounted on a 
+sapphire substrate. The detector is cooled by a three-stage ther- 
+moelectric Peltier element to a temperature of -70°C. The 
+output signal from the detector is sent to an external amplifica- 
+tion and control unit, and the video output signal from this unit 
+is processed on a PC by the Agema CATSE software. This 
+~OPI[C LIOUID CRYST 
+STEEL ROTO~ 
+CLASS FIBRE EPOXY RSSIPI 
+C~IlnEcTOR PI 
+Figure I Rotating-disc rig . "BLADE COOLIIIG' PASSAGE 
+DISC 
+~ FLUTED ROHAGELL OISC 
+/ / 
+, ;' I / oelv~ .stuFf 
+~./~ I 
+cEKrRAL TUBE 
+24-CHAttEL SLIP RIPIC ^SSEI'~Y 
+.1_ 
+492 Int. J. Heat and Fluid Flow, Vol. 17, No. 5, October 1996 
+
+Rotation effects on liquid crystals: B. J. Syson et al. 
+UL~UC ~tlULJll~ nOL= 
+ITHERNOCOUPLE 
+Figure 2 Instrumented rotating disc HEAT FLUXHETER 
+software generates a 140 × 140 pixel orthogonal image of the 
+object in view, and an image datafile is generated to transmit the 
+data from the PC to a Silicon Graphics workstation for postpro- 
+cessing. 
+The scanner is also capable of a line-scanning mode in which 
+the oscillating mirror is locked in one position, and horizontal 
+lines are scanned by the rotating mirror. The scanner can be 
+positioned relative to the rotating disc so that radial lines will be 
+scanned as the disc rotates, and the angular location of the lines 
+can be determined by the software, using a trigger on the drive 
+shaft of the rig. This mode enables the circumferential tempera- 
+ture distribution of the disc to be determined. Although the 
+line-scanning mode has been used, no significant angular varia- 
+tions in temperature or thermal disturbances were found. For the 
+tests described below, the standard orthogonal scanning mode 
+was used; this produces a circumferentially averaged value of 
+temperature. 
+The manufacturer's specified absolute accuracy for the scan- 
+ner is + 2% or + 2°C, whichever is the larger, and the stated 
+resolution at 60°C (which corresponds to the top of the range 
+covered by the wide-band TLC) is 0.07°C. To improve the accu- racy, an average of 20 consecutive frames was taken for each 
+test, and the scanner was calibrated using the copper-block 
+apparatus described in Section 3. 
+3. Thermochromic liquid crystals, image 
+processing, and calibration apparatus 
+3. I. Thermochromic liquid crystal 
+Thermochromic coatings used for surface thermography usually 
+exploit the properties of chiral nematic liquid crystal. This phase 
+is characterised by a helical molecular structure, the periodicity 
+of which governs the way in which it reflects light. When illumi- 
+nated with white light, the liquid crystal selectively reflects 
+monochromatic light whose wavelength is equal to the pitch of its 
+helical structure. The liquid crystal will exhibit thermochromic 
+properties if its pitch (and, hence, the wavelength of light it 
+reflects) is a function of temperature. Usually the wavelength of 
+light reflected decreases with increasing temperature: the colour 
+changes from red, through the visible spectrum, to blue/violet. 
+Int. J. Heat and Fluid Flow, Vol. 17, No. 5, October 1996 493 
+
+Rotation effects on liquid crystals." B. J. Syson et aL 
+Figure 3 Oscillating Mirror 3 Fixed Mirrors 
+Rotating Polygon Mirror 
+Cutaway view of Agema thermal scanner (reproduced by permission of Agema UK) 
+The liquid crystal is supplied in microcapsules: tiny droplets 
+of liquid crystal are encased in polymer shells. In this form, the 
+liquid crystal is easy to use and is isolated from the deleterious 
+effects of solvents and impurities, and to ensure good adhesion, 
+the microcapsules are mixed with a binder prior to application. 
+Saturated colours are achieved by initially spraying the surface 
+black so that most of the light which passes through the coating 
+is not reflected back. Despite this precaution, the light reflected 
+will not be purely monochromatic: some light will be reflected by 
+the black paint and non-liquid-crystal constituents of the coating. 
+The typical spectral content of the reflected light is shown in 
+Figure 4a. 
+While the instrumentation must resolve the light reflected by 
+the TLC coating, it must also provide sufficient spatial and 
+temporal resolution. Although a spectrometer would be ideal for 
+analysing the reflected light, colour CCD (charge coupled device) 
+imagers are used, because they satisfy the stringent spatial and 
+temporal requirements of most heat transfer work. A CCD, 
+however, is essentially a monochrome device: it is sensitive to a 
+range of wavelengths of light, but embodies no mechanism for 
+discriminating between wavelengths within that range. The spec- 
+tral resolution required for colour imaging is provided by the use 
+of coloured filters. A typical colour CCD consists of a matrix of 
+pixels sensitive to visible light, overlaid with a mosaic of red, 
+green, and blue filters. Each pixel is then sensitive to a particular 
+part of the visible spectrum, as dictated by the filter's response 
+and sensitivity. While the signals from three adjacent pixels (one 
+red, one green, and one blue) are sufficient to determine the 
+colour (that is, the effect on the human eye) of incident light, 
+detailed spectral information about the light is lost. 
+Fortunately, in the case of light reflected by a TLC coating, 
+the general form of the spectral content can be approximated by 
+a monochromatic spike plus background white light, as shown in 
+Figure 4b. This approximation reduces the number of degrees- 
+of-freedom to three: namely, hue (a measure of the wavelength 
+of the monochromatic spike), saturation (the relative amounts of 
+monochromatic and white light), and intensity (the total amount 
+of light). Because colour can be described using three indepen- 
+dent variables (usually the components red, green, and blue), the 
+spectral content of the reflected light, and in particular its hue, 
+can be estimated. Hue analysis of frames captured by colour spectral density 
+increasing tcrap~ratu~ 
+q 1 raormchromatl¢ slnk¢ 
+II ba~und 
+'white' fight 
+It wavelength blue red 
+(a)'lX/picalspectvam. 
+spectrld density 
+monochromatk intensity 
+'white' intensity 
+mon0d,aom~c 
+wa~hingth It wavelength 
+(b) Approximate spectrum. 
+Figure 4 Spectral content of light reflected by TLC coating 
+CCD imagers is best performed by computer, and because the 
+HSI (hue, saturation, and intensity) colour model is often used as 
+an alternative to the RGB (red, green, and blue) model, hard- 
+ware and software for RGB to HSI conversion are readily 
+available. 
+The same equipment was used to determine the reflective 
+properties of the TLC coating for the stationary calibration and 
+for all rotational tests. The TLC (Hallcrest R45C10W) changed 
+from red at 45°C to dark blue at 55°C. The coating was illumi- 
+494 Int. J. Heat and Fluid Flow, Vol. 17, No. 5, October 1996 
+
+nated by a tungsten-filament lamp and the reflected light moni- 
+tored by a Panasonic WV-CL700 colour CCD video camera 
+fitted with an 18-108 mm t2.5 zoom lens, and the illumination 
+and viewing angles are shown in Figure 5. The ensuing YC video 
+signal was recorded on SVHS videotape by a Panasonic AG-7355 
+video cassette recorder, and the video frames were analyzed by a 
+Silicon Graphics Indigo R3000 workstation fitted with a video 
+board. RGB to HSI conversion was performed using software 
+from the lmageVision image-processing library, and additional 
+image manipulation and data-processing routines were written 
+in-house. 
+3.2. Image processing 
+Despite the fundamental difference between infrared and liq- 
+uid-crystal temperature measurement, both techniques used were 
+imaging systems and as such required similar processing. Being 
+PC-based, images from the IR thermal imaging system were 
+easily transferred to the Silicon Graphics workstation so that the 
+same software could be used to process both the IR and TLC 
+images. Details of this processing, which is an extension of that 
+described by Wilson et al. (1993), are outlined below. 
+In the TLC calibration and the rotational tests, no data were 
+taken until a steady state had been reached. Because the temper- 
+ature distributions were not changing with time, simple frame 
+averaging could be used to reduce the effect of noise in the time 
+domain. An image suitable for further processing was created by 
+taking the average of 10 TLC frames or 20 IR frames. 
+Spatial averaging was used to increase confidence in the 
+measured values. This involves choosing an area of the image 
+and calculating the average value of its constituent pixels, but the 
+area chosen has to represent an isotherm. Choosing the isother- 
+mal area for the calibration apparatus was simple, because a 
+copper block was used, see Figure 6a. The temperature distribu- 
+tion on the rotating disc was axisymmetric, but because there 
+were radial variations, it was necessary to average the tempera- 
+tures as described below. 
+The TLC coating was applied to the disc's surface between 
+the radii r = 220 mm and r = 290 mm. The axisymmetric nature 
+of the experiment allowed the colour CCD camera and infrared 
+thermal imager to view just one part of this liquid-crystal ring, as 
+shown in Figure 6b. Because the centre of the disc lay outside 
+this field-of-view, two reference lines at r = 225 mm and r = 285 
+500mm 
+Figure 5 
+ment coated ~urface 
+/ 
+',', - / "-. 4oo,..,. / 30°' • 30 ° -.. 
+'~ l lamp 
+General arrangement of remote sensing equip- Rotation effects on liquid crystals. B. J. Syson et al. 
+(a) Field of view for calibration apparatus. 
+"'" ~2 "E~''s2x----'-'~"~2"Tzi'2 
+...... > 
+\ / 
+j centre of disc 
+(b) Field of view for rotating disc. 
+Figure 6 Field-of-view for thermal signal 
+mm were marked on the disc. These enabled the position of the 
+disc's centre (and hence the disc radius corresponding to each 
+pixel in an image) to be calculated. Eight pixels of known disc 
+radius (four on each reference line) were chosen from an image, 
+and the disc's centre was found by minimising the sum of the 
+square of the errors on these eight known radii. This regression 
+was performed by software written in-house based on the nonlin- 
+ear Newton-Raphson method. 
+The "local" temperature was calculated from a spatial aver- 
+age over a small segment of the disc. Because the temperature 
+varied with radius, the radial height Ar of the segment was set to 
+one millimeter. For the liquid-crystal analysis, the approximate 
+angular width A0 of the segment was 0.25 radians, and the 
+resulting number of pixels in the average was 5000; for the 
+infrared, the equivalent values were 0.6 radians and 100 pixels. 
+3.3. Calibration apparatus 
+Stationary calibration of the liquid crystal was performed using 
+the copper-block apparatus shown in Figure 7. It consists of a 
+copper block (67 mm × 67 mm x 5 mm) mounted in poly- 
+methacrylimide insulation foam (k = 0.04 W/mK). The block 
+was heated electrically by a thin-film heater attached to the back 
+face, and its temperature measured using a T-type thermocouple. 
+The diameter of the thermocouple wires was 0.13 mm, and the 
+bead was located in the centre of the block. The front face of the 
+block was sprayed black prior to application of the TLC coating 
+under test. 
+The thickness of the coating (black paint and liquid crystal) 
+was measured and found to be approximately 25 i~m. When the 
+copper block was heated to 60°C (the upper limit of the R45C10W 
+liquid crystal's temperature range), then, assuming a typical 
+thermal conductivity of 0.2 W/mK, the temperature drop across 
+Int. J. Heat and Fluid Flow, Vol. 17, No. 5, October 1996 495 
+
+Rotation effects on liquid crystals: B. ,J. Syson et al. 
+/- 67ran limide foam 
+ocouple 
+I coating 
+Figure 7 Schematic diagram of copper-block calibration 
+apparatus 
+the coating due to radiative and free convective heat transfer to 
+the ambient was estimated to be approximately 0.1°C. The tem- 
+perature drop across the copper block itself was an order of 
+magnitude smaller. 
+4. Experimental measurements 
+4.1. Calibration using copper-block apparatus 
+The copper-block apparatus described in the Calibration appara- 
+tus section was used to calibrate both the TLC coating and the IR thermal imager, employing the thermocouple as a secondary 
+standard. The T-type thermocouple used in the copper block was 
+one of a batch of three calibrated over the range 20 to 120°C in a 
+Haake oil bath. The temperature of the silicone oil was mea- 
+sured using NPL mercury-filled thermometers with a manufac- 
+turer's specified accuracy of 0.025°C. The thermocouple cold 
+junction, which was in an isothermal box at around 20°C, was 
+measured with a platinum resistance thermometer (PRT) with a 
+specified accuracy of +0.1°C at 0°C and _+0.2°C at 100°C. The 
+voltages from the PRT and thermocouples were measured using 
+a Solatron 3535D datalogger incorporating a digital voltmeter 
+with an uncertainty of + 1 IxV. Typically, 100 voltage readings 
+were taken at each temperature over increments of 5°C. The 
+average thermocouple voltages were fitted to the measured tem- 
+peratures using a least-squares cubic polynomial, and the maxi- 
+mum difference between the fitted and measured temperature 
+was 0.1°C in the range 20 to 70°C. The maximum difference 
+between the calibration curve and the British Standard 4937 
+(part 5) for T-type thermocouples was also 0.1°C in this range. 
+The copper block was heated to the required temperature, 
+measured by the thermocouple, and the power was adjusted to 
+maintain the equilibrium. With the illumination, video camera, 
+and IR scanner arranged as shown in Figure 5, the IR readings 
+and the video recordings were made simultaneously. Tests were 
+repeated at approximately I°C intervals from 45 to 58°C, and 
+the results from the IR and TLC calibrations are presented in 
+Table 1. 
+An emissivity setting of e = 0.96 on the IR imager was found 
+to give good agreement with the thermocouple measurements, as 
+shown in Table 1. The difference was within 0.1°C except for two 
+values where the error was 0.2°C and 0.3°C. (Surprisingly, the 
+emissivity of the TLC did not appear to change even when the 
+surface colours changed; the reason for this is not understood.) 
+For the TLC calibration, Table 1 shows the number of pixels 
+used to evaluate the hue, the average value of the hue, and the 
+standard deviation for each of the measured temperatures. Fig- 
+ure 8 shows the variation of the (average) hue with temperature, 
+measured by the thermocouple, together with the "uncertainty" 
+in the hue based on two standard deviations (2~). It should be 
+pointed out that, owing to the large number of data (> 104) used 
+in determining the average hue value at any temperature, the 
+95% confidence interval for this average is equivalent to less 
+than + 0.005°C. The "2tr uncertainty" is only meaningful when a 
+single hue value is used to determine the temperature, in which 
+case the uncertainty would be around _+0.4°C; in all practical 
+cases, averaging over a large number of data reduces this uncer- 
+tainty to a negligible quantity. 
+It should be remembered that the copper block provides an 
+isothermal surface which, in principle, is monochromatic. How- 
+Table 1 Calibration of IR thermal imager (s= 0.96) and TLC using copper-block apparatus 
+Thermocouple 
+temperature, °C IR temperature, °C TLC calibration 
+Number of pixels Average value Standard 
+of hue deviation ~r 
+47.5 47.4 42389 9.6 2.4 
+48.5 48.5 49263 59.3 3.6 
+49.5 49.6 36566 78.3 2.5 
+50.6 50.6 33538 90.7 2.2 
+51.5 51.5 39370 98.3 2.2 
+52.4 52.4 46706 107.2 2.2 
+53.5 53.8 51938 119.2 2.2 
+55.0 55.0 50897 135.3 1.8 
+56.7 56.7 36018 148.0 1.1 
+58.3 58.5 19604 156.1 0.8 
+496 Int. J. Heat and Fluid Flow, Vol. 17, No. 5, October 1996 
+
+160- 
+_...i. ~ ........ - .......... 140- 
+120- "'*"" "'" 
+80- ,/ Jr'" 
+60- 
+40- 
+20- 
+0 
+47 48 49 50 511 52 513 54 55 56 57 518 59 
+thcm~ocoup~ temperature ('C) 
+Figure 8 Variation of TLC hue with temperature (measured 
+by thermocouple) of copper block 
+ever, the temperature of the rotating disc varies with radius, and 
+so the complete spectrum of colours may appear in the field-of- 
+view. As discussed in Section 4.2, the colour balance circuits in 
+the video hardware can create a bias in the recorded colour 
+adding to the uncertainty in the measurement of temperature 
+using TLC. 
+4.2. Temperature measurement on rotating disc 
+The video camera, IR scanner, and lighting were set up as shown 
+in Figure 5, and measurements were made for rotational speeds 
+between 1000 and 7000 rpm in increments of 1000 rpm. For the 
+coated ring on the disc, which extended for 225 < r _< 285 mm, 
+these speeds gave rise to centripetal accelerations between 250 
+and 15,600g, where g is the acceleration due to gravity. In case 
+there were any time-dependent systematic errors, which could be 
+confused with the effects of rotational speed, high-speed and 
+low-speed tests were carried out alternately rather than in a 
+rising or falling sequence of speeds. 
+Figure 9 shows the variation of hue (obtained from the 
+video-recording of the TLC as described above) with the temper- 
+ature of the disc measured by the IR imager. Despite the scatter 
+160- 
+140- 
+120- 
+100- 
+i 
+40- 
+0 
+47 ..... .~.4," <:~>" 
+." z- 
+• " 4;" 
+/Z f -- 1000 rzv/miu 
+7.~ ...... 2000 ~tmia 
+~ ~,~'/ --- 40~0 rev/min 
+,:.',," - -- 50O0 rev/min 
+,' .~., 
+2, ,'9 ;o 5, 5~ ,'~ ;, ;5 ;, ;7 ,'~ ;9 temp~mne 07) 
+Figure 9 Variation of TLC hue with disc temperature (mea- 
+sured by IR imager) Rotation effects on liquid crystals: B. J. Syson et al. 
+in the experimental results, there appear to be no obvious effects 
+of rotational speed. For speeds between 1000 and 7000 rpm and 
+for a fixed value of hue in the range 80 to 120, the temperature 
+variation with speed may be around 0.5°C, but the temperature 
+variations for the results at the extremes of 1000 and 7000 rpm 
+are smaller than this. If there is an effect of rotational speed 
+then it is not progressive: the effect does not increase monotoni- 
+cally as the speed increases. 
+Figure 10 shows the variation of the temperature measured 
+by the TLC (obtained using the copper-block hue-temperature 
+calibration shown in Figure 8) with the temperature of the disc 
+measured by the IR imager. The calibration line, obtained from 
+the copper block for a stationary frame of reference, is also 
+shown in the figure. The measurements show both scatter and an 
+"oscillatory bias" around the calibration line: there appears to be 
+some effect of rotational speed, but the scatter is relatively small, 
+and the bias is not a monotonic function of speed. 
+The "oscillatory bias" was originally thought to be caused not 
+by moving from a stationary to a rotating frame per se, but by 
+moving from the surface of the copper block to that of the disc. 
+The two surfaces could have different emissivities and reflectivi- 
+ties, and this would affect the optical and IR signals in different 
+ways. To test this hypothesis, an in situ calibration was per- 
+formed on the disc when it was rotating at 1000 rpm. (Ideally the 
+calibration should have been performed on a stationary disc, but 
+this was impracticable owing to the nonaxisymmetric tempera- 
+ture variations that are created on a heated vertical surface in a 
+(single g) gravitational field.) For the in situ calibration, the hue 
+values for the TLC were calibrated using the IR measurements 
+obtained from the surface of the heated disc; the emissivity 
+setting of the IR imager was kept at e = 0.96, the value used for 
+the original copper-block calibration. 
+Figure 11 shows the variation of the temperature measured 
+by the TLC (using the in situ calibration) with the temperature 
+measured by the IR imager. There is still scatter in the measure- 
+ments, but the oscillatory bias has been reduced significantly. 
+The departure of the measurements made at 7000 rpm from the 
+calibration at 1000 rpm is typically less than 0.3°C, although the 
+departure of measurements at intermediate speeds (for example, 
+3000 rpm) is up to 0.5°C. While the departure from the calibra- 
+59- 
+58- 
+57- 
+56- 
+55- 
+~ 53- 
+~ 52- 
+51- 
+50- 
+49- 
+48- 
+47 
+47 . f* 
+• / //" 
+SAY" 
+IR mrap~t~t~ CO) 
+Figure 10 Variation of disc temperature measured by TLC 
+(using copper-block calibration) with temperature measured 
+by IR imager 
+Int. J. Heat and Fluid Flow, Vol. 17, No. 5, October 1996 497 
+
+Rotation effects on liquid crystals: B. J. Syson et aL 
+,7 
+56- 
+55- /../ ,-- //" 
+,,_ 
+/.(*.'/" 
+51- /J I ..... 3ooo.v~. 
+.c" --.--. 5000 rcvhlain 
+f/'f/ 49- l~,~ l 
+48 
+4, ,'9 5'0 ;, 5'6 IR tempe~atu~ CC) 
+Figure 11 Variation of disc temperature measured by TLC 
+(using in situ calibration) with temperature measured by IR 
+imager 
+tion line is relatively small, and it does not increase monotoni- 
+cally with speed, the effect does appear to be speed related. 
+The reason for this bias is believed to lie with the colour- 
+balance circuits in the video hardware (CCD camera, recorder, 
+and frame grabber) used for recording the TLC signal. As stated 
+above, in the copper-block calibration, the surface is isothermal, 
+and only one colour is visible at any instant: the variation in the 
+hue from pixel to pixel will, therefore, be relatively small. In the 
+disc experiments, the surface is nonisothermal, and the variations 
+in hue will be large. In principle, the radial distribution of 
+temperature over the disc should have been the same for all 
+tests, making any bias invariant with speed. In practice, however, 
+the temperature distribution varied from test to test, and, conse- 
+quently, any systematic error in the video hardware would pro- 
+duce what appears to be a "speed-related bias" in the TLC 
+temperature measurements. 
+Figure 12 shows the radial distribution of the disc tempera- 
+ture (measured by the IR imager) for the seven speeds. Although 
+the distributions are similar, their magnitudes are different. The 
+relationship between the maximum temperature and speed shown 
+in Figure 12 is similar to that between the hue and speed shown 
+in Figure 11. It would appear, therefore, that the "speed-related 
+bias" in hue is caused, indirectly, by the temperature distribution 
+on the disc and not by the speed per se. 
+The precise mechanism by which the hue values become 
+dependent on the distribution of temperature is not fully under- 
+stood by the authors, but investigations have begun to ascertain 
+if the problem can be solved using a digital video system rather 
+than the current analog one. However, despite this relatively 
+minor problem, it can be reasonably concluded that, for accelera- 
+tions up to 16,000g, rotational speed has no significant effect on 
+the temperature response of wide-band thermochromic liquid 
+crystal. 
+4.3. A comment on the "'rotational shift" 
+As stated in the introduction, the principal reason for studying 
+this phenomenon was to prove or disprove the "rotational shift" 
+observed by other experimenters. There has been speculation 
+that the TLC could be sheared by surface strain on a rotating 59= 
+56- .S:,. ~ j..--- 
+5~- /..< .... .- -- 
+.//.~,*'. ' .~ * -- 1000 tev/nfia 
+,,./// .~/ ......... 2ooo l~v/min 
+.,,'. // ....~" - - - 4coo rev/min 
+50- /:" " - - 50OOre~,~ 
+//: ..... ~.~- -- 6000 ~,~, 
+49- 
+48- 
+47 I I I I I I I I I I I I 
+225 230 235 2AO 245 250 255 260 265 270 275 280 285 
+radius (ram) 
+Figure 12 Radial distribution of disc temperature measured 
+by IR imager 
+body or could be centrifuged by the "g forces". Because we have 
+established beyond reasonable doubt that there is no "rotational 
+shift," then we might be permitted to speculate on why so many 
+experimenters were wrong. 
+Since submitting this paper for publication in October 1995, 
+we have joined forces with Cengiz Camci and Boris Glezer in the 
+United States, and the two groups have produced a short paper 
+on the separate experiments: theirs with narrow-band TLC and 
+ours with wide-band. In that paper (Camci et al. 1996), we 
+suggest a reason for the "rotational shift." For completeness 
+(and in deference to one of the reviewers of this paper), we 
+repeat that suggestion here. 
+A thermocoupte, which will be a different material from that 
+of the body in which it is embedded, will cause a local 
+disturbance of the temperature distribution in the body. This 
+creates a thermal-disturbance error in which there is a differ- 
+ence between the true (undisturbed) temperature and the 
+measured temperature. The magnitude of the error depends, 
+amongst other things, on the size of the thermocouple, on the 
+thermal properties of the materials, and on the local heat 
+flux. 
+For a rotating body at a constant temperature, the heat 
+transfer coefficient, and hence the surface heat flux, increases 
+as the rotational speed increases. Consequently, the thermal- 
+disturbance error created by an embedded thermocouple will 
+increase with rotational speed. If thermocouples and TLC are 
+used to measure the temperature of a rotating body then the 
+difference between the two measurements will also increase 
+with speed. 
+This phenomenon has been observed independently in 
+experiments carried out by the two groups of authors. It is 
+believed to be the reason why other research workers have 
+observed what they (wrongly) believed to be the "rotational 
+shift" in TLC output referred to in Section 1. 
+5. Conclusions 
+Wide-band TLC and an IR thermal imager have been used to 
+measure the surface temperature of a rotating disc. The hue 
+technique was employed to determine the temperature of the 
+TLC, which had an effective range of 48 to 58°C, with a resolu- 
+tion of around 0.1°C. The IR imager, which also had a resolution 
+498 Int. J. Heat and Fluid Flow, Vol. 1 7, No. 5, October 1996 
+
+of approximately 0.1°C, was used as a datum to determine the 
+effect of rotational speed on the temperature response of the 
+TLC. 
+Tests were conducted at rotational speeds between 1000 and 
+7000 rpm, corresponding to centripetal accelerations from 250 to 
+16,000 g. Although there was a scatter of around 0.5°C in the 
+measurements, the typical difference between the temperatures 
+measured by the TLC and the IR imager at the extremes of the 
+speed range (1000 and 7000 rpm) was less than 0.3°C. 
+What appeared to be a small speed-related bias in the mea- 
+sured temperatures was attributed to the characteristics of the 
+video hardware used to measure and record the images from the 
+TLC. The value of the hue obtained from the video recordings 
+was found to be weakly dependent on the distribution of temper- 
+ature on the rotating disc. Despite this equipment-related bias, it 
+is concluded that, for accelerations up to 16000 g and within the 
+uncertainty of the measurements, there is no significant effect of 
+rotational speed on the temperature response of wide-band TLC. 
+Acknowledgments 
+The authors wish to thank the UK Engineering and Physical 
+Sciences Research Council, the Defence Research Agency and 
+European Gas Turbines Ltd for supporting the research de- 
+scribed in this paper. Rotation effects on liquid crystals: B. J. Syson et al. 
+References 
+Camci, C. and Glezer, B. 1995. Private communication 
+Camci, C., Glezer, B., Owen, J. M., Pilbrow, R. G. and Syson, B. J. 
+1996. Application of thermochromic liquid crystal to rotating 
+surfaces. Paper 96-GT-138 ASME International Gas Turbine and 
+Aeroengine Congress, Birmingham, UK, June 10-13, 1996 
+Camci, C., Kim, K. and Hippensteele, S. A. 1992. A new hue captur- 
+ing technique for the quantitative interpretation of liquid-crystal 
+images used in convective heat-transfer studies. J. Turbomachin- 
+ery, 114, 765-775 
+Jones, T. V. and Hippensteele, S. A. 1988. High-resolution heat- 
+transfer-coefficient maps applicable to compound-curve surfaces 
+using liquid crystals in a transient wind tunnel. NASA TM 89855 
+Metzger, D. E., Bunker, R. S. and Bosch G. 1991. Transient liquid- 
+crystal measurement of local heat-transfer on a rotating-disk with 
+jet impingement. J. Turbomachinery, 113, 52-59 
+Wang, Z., Ireland, P. T. and Jones, T. V. 1995. An advanced method 
+of processing liquid-crystal video signals from transient heat- 
+transfer experiments. J. Turbomachinery, 117, 184-189 
+Wilson, M., Pilbrow, R. and Owen, J. M. 1995. Flow and heat transfer 
+in pre-swirl rotor-stator system. Paper 95-GT-239. ASME Interna- 
+tional Gas Turbine and Aeroengine Congress, Houston, TX, June 
+5-8, 1995 
+Wilson, M., Syson, B. J. and Owen, J. M. 1993. Image processing 
+techniques applied to wide-band thermochromic liquid crystals. 
+Proc. Eurotherm 32: Heat Transfer in Single Phase Flows, Oxford, 
+UK, July 1993 
+Int, J. Heat and Fluid Flow, Vol. 17, No. 5, October 1996 499 
+

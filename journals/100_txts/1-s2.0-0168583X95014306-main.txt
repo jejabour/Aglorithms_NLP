@@ -1,0 +1,245 @@
+CwJ __ Nuclear Instruments and Methods in Physics Research B 111 ( 1996) 259-262 
+__ 
+!!I!! k!lULiWU B 
+EISEVIER Beam Interaotions 
+with Materials 8 Atoms 
+Film thickness simulation for fabricating 6 in. diameter ErBCO films 
+by partially ionized beam deposition 
+A. Shuhara a* * , Y. Kawagoe a, S. Yamaji a, T. Kishida b, A. Ryohman b 
+a Ion Engineering Research Institute Corp., Hirakata, Osaka 573-01, Japan 
+b Kansai Electric Power Co., Inc.. Amagasaki, Hyogo 661, Japan 
+Received 26 July 1994; revised form received 7 November 199.5 
+Abstract 
+The configuration of a PIB source was studied to grow uniform large-area HTS (high-temperature superconducting) films 
+for application to coil or tape fabrication. The uniformity of thin films was simulated in cases where a PIB source was placed 
+with tilted (0) and off-axis (L) orientation on the assumption that the thickness distribution of PIB deposited films followed 
+the (cos my)” law. The tilted and off-axis orientation was found to improve the uniformity of the thin films. The calculated 
+uniformity at D = 430, 0 = 30” and L = 30 was greater than 90%, where D was the source-substrate distance. Fabrication 
+of HTS films at D = 430 reduced the source consumption and prolonged the source life significantly. As-deposited films 
+prepared on a 6 in. rotating sample holder at D = 430 have a composition variation of no more than + 5% and a zero 
+resistance temperature of 78-80 K. 
+0168-583X/96/$15.00 0 1996 Elsevier Science B.V. AI1 rights reserved 
+.S.SDI 0168-583X(95)01 430-6 1. Introduction 2. Assumption for calculation 
+We have investigated high-temperature superconduct- 
+ing (HTS) films prepared by partially ionized beam (PIB) 
+deposition in order to apply these films to tape or coil 
+fabrication. ErBa,Cu,O,_, films have already been pro- 
+duced on a sample holder 3 in. in diameter from three PIB 
+sources for Er, Ba and Cu deposition [l-3]. However, film 
+fabrication on a larger diameter (e.g. 6 in.) substrate is 
+necessary for our purposes. Formation on a larger substrate 
+can basically be performed by increasing the distance 
+between the PIB sources and the substrate. However, 
+because the films are produced at a relatively high pressure 
+(l-4 x 10m4 Torr), the collisions which take place be- 
+tween gas molecules (0, + 6 vol.% 0,) and metal atoms 
+present problems to the fabrication of good HTS thin 
+films, as will be explained. The problems are not particular 
+to the PIB deposition but common to all physical deposi- 
+tion methods. Therefore, we needed to focus our studies on 
+reducing the collisions previous to fabricating the tapes or 
+coils. The results on reducing the collisions by lowering 
+the pressure during deposition have already been reported 
+[4]. This paper presents the effects of tilted and off-axis 
+orientation of PIB sources on improving the deposition 
+efficiency and the film thickness distribution. 
+* Corresponding author. Tel. + 8 1 6 497 7035, fax + 8 1 6 497 
+7288, e-mail shuhara@adm.crl.melco.co.jp. The thickness distributions of PIB deposited films were 
+studied by evaluating the distributions of SIO, films pro- 
+duced with reactive PIB deposition at an oxygen pressure 
+of 3 X lo-’ Torr [5,6]. The data were very close to a 
+(cos (Y)* at l/d = 0.5 and tended to show a center-con- 
+centrated distribution as I/d increased, where (Y was the 
+ejection angle from the source nozzle, 1 a nozzle length of 
+1 mm, and d nozzle diameters of 1 and 2 mm. Taking 
+those data into consideration, we assume that the distribu- 
+tion of PIB deposited films is simply proportional to 
+(cos cr)“, where n is an experimental constant and not 
+more than 11 within our experiments. In the following 
+simulations, we used 11 as n to calculate the lowest 
+uniformity. The configuration of the PIB source and the 
+substrate is illustrated in Fig. 1. The deposition efficiency 
+is defined as the ratio of the metal quantity utilized for the 
+film formation on a substrate of 150 mm diameter to that 
+evaporated from the source and is obtained by calculating 
+the following integral, 
+// (cos cy)“sin /? sin y 0’ 
+s2 dA. 
+The uniformity of the film thickness is defined as 
+T(min)/T(max), where r(min> and T(max) are the mini- 
+mum and maximum thickness within the radial distance of 
+75 mm, respectively. The substrate is assumed to rotate at 
+A. Shuhara er al./Nucl. Instr. and Meth. in Phys. Res. B III (1996) 259-262 
+(I : Ejection angle 
+i y : Angle of CPE & Substrate 
+I : Tilt angle of PIB source 
+! dA:AreaofP 
+Fig. 1. Configuration of PIB source and substrate. 
+a constant velocity. Oxygenmetal collisions are not taken 
+into account in calculations. 
+3. Results and discussion 
+Fig. 2 shows the calculated uniformity of the film 
+thickness and the deposition efficiency as a function of D, 
+the distance from the source to the substrate. The uniform- 
+ity increased with an increase in D. In contrast to this, the 
+deposition efficiency decreased with D. For example, a 
+uniformity greater than 90% is obtained at D = 564 mm or 
+more, while only ca. 8% of the evaporated metals are 
+utilized for film formation. The real deposition efficiency 
+(and rate) is greatly lowered by oxygen-metal collisions 
+[3]. Therefore, the source temperature must be raised to 
+maintain a given film growth rate. If the deposition effi- 
+ciency is too low, the source is overheated to such an 
+extent that source materials (W or Ta) can not endure the 
+corrosion with the deposition metals (Cu, Ba and Er). The 
+Ba source became very fragile and some cracks were 
+Fig. 2. Calculated uniformity and efficiency for 6 in. diameter film 
+fabrication with a PIB source. Fig. 3. Relationship between calculated uniformity of film thick- 
+ness and configuration of a PIB source. 
+found on the Cu and Er sources, when fabrication was 
+performed at D = 680 with a film growth rate of 4 
+nm/min. In addition, the Ba source used up the metal 
+charged in the source (crucible) by depositing 100 nm 
+thick films only one or two times. 
+Fig. 3 shows the calculated uniformity of film thickness 
+in cases where a PIB source is placed with tilted (0) and 
+off-axis (L) orientation. The distance D was maintained at 
+430 mm. This figure shows that the tilted and off-axis 
+orientation is very effective in improving unifirmity. For 
+example, the uniformity at D = 430, 0 = 30” and L = 30 
+is 9 I % and almost identical to that at D = 564, 0 = 0” and 
+L = 0. 
+Fig. 4 shows the calculated deposition efficiency as a 
+function of 0 and L. The distance D was also maintained 
+at 430 mm. Data were normalized by the efficiency at 
+D = 430, 0 = 0” and L = 0. Comparing Fig. 4 with Fig. 3, 
+we found that while the uniformity increased with the 
+tilted and off-axis orientation, the efficienct decreased. 
+However the efficiency reduction induced by the tilted and 
+off-axis orientation is compensated by the efficiency im- 
+provement induced by the decrease of the distance, D. For 
+D-430 
+-50 40 -30 -20 .I0 0 +10 l 20 -24 +40 +50 
+L( mm 1 
+Fig. 4. Relationship between calculated efficiency for 6 in. diame- 
+ter film fabrication and configuration of a PIB source. 
+A. Shuhara et al./Nucl. Insrr. and Meth. in Phys. Rex B 111 (1996) 259-262 261 
+1.0 : : 
+3 : i 
+: : ::' 
+: 
+3 0.65 : .i f______'_ : 
+" 
+z : 
+: : 
+p 0.6 .i. ; .! ;.. j i___ .( 
+8 A 
+$ I--.=Y : : : : 
+g 0.65 '- .--- ; : : .; _____j 
+I : ., : : : 
+c : : : 0.6 
+: : : I Simu&aion 
+0 10 20 30 40 50 60 70 60 
+Position (mm) 
+Fig. 5. Calculated profile of film thickness performed at D = 430, 
+8=3O”aad L=30. 
+example, the efficiency at D = 430, @ = 30” and L = 30 
+is 133% of that at D = 564, @ = 0” and L = 0 (configura- 
+tion effect). In addition, the efficiency improvement is 
+enhanced with the reduction of oxygen-metal collisions. 
+The extent of enhancement depends on the elemental 
+species. The enhancement for a metal with a smaller mass 
+number is larger. We estimated the extent of enhancement 
+for barium deposition as an example. The mean free path 
+(M) for barium-oxygen collisions is 250 mm at 4 X low4 
+Torr and follows the equation 
+A’ = N,exp( -D/M), 
+where No is the number of metal atoms ejected fromt he 
+source and N the number of atoms reaching the substrate 
+141. Using this equation, we can estimate the efficiency 
+improvement by drcreasing the source-substrate distance 
+(distance effect). The efficiency at D = 430 is found to be 
+171% of that at D = 564. Combining the efficiency im- 
+provement of more than 2 times. 
+Fig. 5 shows the calculated profile of a film thickness 
+for D = 430, 0 = 30” and L = 30. The film thickness is 
+found to decrease with the radial position monotonously. 
+The dependence of n on the thickness uniformity for 6 in. 
+film fabrication is shown in Fig. 6. Considering the fact 
+that n is not more than 11, we can expect uniformity 
+greater than 90% at D = 430, @ = 30” and L = 30 with a 
+sufficient margin. Evaluation of ErBCO thin films fabri- 
+cated at D = 430, 0 = 30” and K = 30 on MgO(100) were 
+carried out to confirm these calculations. 
+1.05 : : : ! ., : : : / Slm~tion 
+g 0.95 ..... ...-'.... .. 
+;; :~~_ :......;. .. ..; j ................. ........ 
+Y : i I : 
+$ 0.65 -.-I- ;o* :: I 
+.i........j....._..~ ............... 
+L-30 : ; ........ 
+: 
+o-430 ; 1 i I ; 
+: : : 
+0.8 . c 
+0 2 4 6 6 10 12 14 
+n 
+Fig. 6. Dependence of calculated uniformity on exponent constant 
+(n) for fabrication of 6 in. diameter films. -20 0 20 40 60 80 -20 0 20 40 60 80 -20 0 20 40 60 80 
+Position (mm) 
+Fig. 7. Elemental composition profiles versus position for as-de- 
+posited ErBCO films grown at 650°C on a rotating sample holder 
+of 150 mm diameter (pressure: 1 X 10e4 Torr). 
+Fig. 7 shows the film composition profiles obtained 
+over a rotating 6 in. holder. Data were normalized by a 
+metal weight detected from a sample 10 X 10 mm) placed 
+on the center. The weight of the metal deposited on the 
+sample was determined by ICP (inductively coupled 
+plasma) measurements of the film. No orderly tendency 
+was found in these elemental profiles of Er, Ba and Cu and 
+the variation was no more than +5 wt.%. Therefore, 
+uniform HTS films of 6 inches in diameter can be ex- 
+pected from this configuration. 
+The critical temperatures (&I of the films were evalu- 
+ated by a standard fourprobe ac measurement. A zero 
+resistance temperature of 78-80 K was obtained from 
+samples placed on a rotating 6 in. holder. However, T, is 
+higher at the outer edge and this variation is caused by a 
+temperature gradient in the sample holder [4]. Further steps 
+to improve the uniformity of the substrate temperature will 
+decrease the variation in T,. The improved properties of 
+these films will be published elsewhere. 
+Finally, the improvement of deposition efficiency was 
+found to elongate the source life and reduce the source 
+consumption. No apparent cracks were found on all three 
+sources, even after fabricating dozens of films at D = 430. 
+The Ba source was capable of depostion 100 nm thick 
+films more than 10 times with a batch of barium chunks in 
+the source (crucible). 
+4. Conclusions 
+The configuration of PIB sources was studied from the 
+viewpoint of depositing large-area HTS films. Film thick- 
+ness was simulated on the assumption that the thickness 
+distribution of PIB deposited films followed the (cos a)” 
+law. The tilted and off-axis orientation of a PIB source was 
+found to improve the film uniformity. The calculated 
+uniformity at D = 430, 0 = 30” and L = 30 was almost 
+identical to that at D = 564, 0 = 0” and L = 0. Fabrica- 
+tion at D = 430 reduced the source consumption and 
+prolonged the source life significantly. As-deposted films 
+propared on a 6 in. diameter sample holder at D = 430, 
+262 A. Shuhara et al./Nucl. Instr. and Meth. in Phys. Res. B 111 (19961259-262 
+0 = 30” and L = 30 have a composition variation of no 
+more than &.5% and a zero resistance temperature of 
+78-80 K. [2] Y. Kawagoe, K. Yamanishi, M. Tanaka, K. Imada and K. 
+Sate, Nucl. Instr. and Meth. B 59/60 (1991) 1426. 
+[3] L.L. Levenson, M. Stan and K.B. Bhasin, J. Vat. Sci. Tech- 
+nol. A 9(1991) 405. 
+(41 A. Shuhara, N. Ritoh, T. Takagi, E. Haraguchi, S. Terai and 
+References 
+[l] K. Yamanishi. S. Yasunaga, Y. Kawagoe, K. Sate and K. 
+Imada. Nucl. Instr. and Meth. B 37/38 (1989) 930. A. Ryohman, Nucl. Instr. and Meth. B 80/81 (1993) 1313. 
+[5] K. Yamanishi, Y. Minowa, A. Shuhara, Proc. Int. Ion Engi- 
+neering Congress ISIAT’83&IPAT’83, Kyoto (1983) p. 1203. 
+161 Y. Minowa, K. Yamanishi and K. Tsukamoto, J. Vat. Sci. 
+Technol. B l/4 (1983) 1148. 

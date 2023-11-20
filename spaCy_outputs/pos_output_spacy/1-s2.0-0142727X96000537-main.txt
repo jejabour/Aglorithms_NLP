@@ -1,0 +1,5193 @@
+~llk, NOUN 
+~ll, PROPN 
+tl, PROPN 
+
+, SPACE 
+Effect, NOUN 
+rotation, NOUN 
+temperature, NOUN 
+response, NOUN 
+
+, SPACE 
+thermochromic, NOUN 
+liquid, NOUN 
+crystal, NOUN 
+
+, SPACE 
+B., PROPN 
+J., PROPN 
+Syson, PROPN 
+R., PROPN 
+G., PROPN 
+Pilbrow, PROPN 
+J., PROPN 
+M., PROPN 
+Owen, PROPN 
+
+, SPACE 
+School, PROPN 
+Mechanical, PROPN 
+Engineering, PROPN 
+University, PROPN 
+Bath, PROPN 
+Bath, PROPN 
+UK, PROPN 
+
+, SPACE 
+Encapsulated, VERB 
+thermochromic, NOUN 
+liquid, NOUN 
+crystal, NOUN 
+TLC, PROPN 
+determine, VERB 
+surface, NOUN 
+
+, SPACE 
+temperature, NOUN 
+stationary, ADJ 
+rotating, VERB 
+bodies, NOUN 
+narrow, ADJ 
+band, NOUN 
+TLC, PROPN 
+colour, ADJ 
+change, NOUN 
+
+, SPACE 
+red, ADJ 
+blue, VERB 
+bandwidth, NOUN 
+1, NUM 
+°, NUM 
+C, NOUN 
+temperatures, NOUN 
+stationary, ADJ 
+surfaces, NOUN 
+
+, SPACE 
+measured, VERB 
+uncertainty, NOUN 
++0.1, PROPN 
+°, NOUN 
+C, NOUN 
+gas, NOUN 
+turbine, NOUN 
+applications, NOUN 
+
+, SPACE 
+centripetal, ADJ 
+accelerations, NOUN 
+excess, NOUN 
+104, NUM 
+g, NOUN 
+common, ADJ 
+belief, NOUN 
+held, VERB 
+
+, SPACE 
+research, NOUN 
+workers, NOUN 
+TLC, PROPN 
+significantly, ADV 
+affected, VERB 
+rotation, NOUN 
+rotational, ADJ 
+shifts, NOUN 
+
+, SPACE 
+observed, VERB 
+temperature, NOUN 
+measurements, NOUN 
+thermocouples, NOUN 
+TLC, PROPN 
+diverge, VERB 
+
+, SPACE 
+increasing, VERB 
+rotational, ADJ 
+speed, NOUN 
+shifts, NOUN 
+7, NUM 
+°, NUM 
+C, NOUN 
+104, NUM 
+g, NOUN 
+observed, VERB 
+
+, SPACE 
+paper, NOUN 
+surface, NOUN 
+temperature, NOUN 
+rotating, VERB 
+disc, NOUN 
+measured, VERB 
+simultaneously, ADV 
+
+, SPACE 
+infrared, VERB 
+IR, PROPN 
+thermal, ADJ 
+imager, ADJ 
+wide, ADJ 
+band, NOUN 
+TLC, PROPN 
+effective, ADJ 
+temperature, NOUN 
+range, NOUN 
+
+, SPACE 
+48, NUM 
+58, NUM 
+°, NUM 
+C, NOUN 
+uncertainty, NOUN 
+measurements, NOUN 
+0.5, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+concluded, VERB 
+significant, ADJ 
+rotational, ADJ 
+shift, NOUN 
+accelerations, NOUN 
+16,000, NUM 
+g., NOUN 
+
+, SPACE 
+Keywords, PROPN 
+thermochromic, ADJ 
+liquid, NOUN 
+crystal, NOUN 
+temperature, NOUN 
+measurement, NOUN 
+rotation, NOUN 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+use, NOUN 
+encapsulated, VERB 
+thermochromic, NOUN 
+liquid, NOUN 
+crystal, NOUN 
+TLC, PROPN 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+experiments, NOUN 
+established, VERB 
+practice, NOUN 
+
+, SPACE 
+spraying, VERB 
+thin, ADJ 
+film, NOUN 
+microcapsules, NOUN 
+TLC, PROPN 
+solid, ADJ 
+
+, SPACE 
+material, NOUN 
+surface, NOUN 
+temperature, NOUN 
+measured, VERB 
+accurately, ADV 
+
+, SPACE 
+Unlike, ADP 
+thermocouples, NOUN 
+intrusive, ADJ 
+devices, NOUN 
+TLC, PROPN 
+creates, VERB 
+
+, SPACE 
+local, ADJ 
+thermal, ADJ 
+disturbance, NOUN 
+errors, NOUN 
+enables, VERB 
+temperature, NOUN 
+
+, SPACE 
+entire, ADJ 
+surface, NOUN 
+measured, VERB 
+Unlike, ADP 
+infrared, VERB 
+IR, PROPN 
+detectors, NOUN 
+
+, SPACE 
+special, ADJ 
+windows, NOUN 
+germanium, NOUN 
+required, VERB 
+study-, NOUN 
+
+, SPACE 
+ing, VERB 
+heat, NOUN 
+transfer, NOUN 
+internal, ADJ 
+flows, NOUN 
+windows, NOUN 
+glass, NOUN 
+
+, SPACE 
+acrylic, NOUN 
+polycarbonate, NOUN 
+provide, VERB 
+adequate, ADJ 
+optical, ADJ 
+access, NOUN 
+
+, SPACE 
+research, NOUN 
+workers, NOUN 
+use, VERB 
+narrow, ADJ 
+band, NOUN 
+TLC, NOUN 
+changes, VERB 
+
+, SPACE 
+colour, NOUN 
+red, ADJ 
+blue, ADJ 
+small, ADJ 
+change, NOUN 
+temperature, NOUN 
+
+, SPACE 
+typically, ADV 
+°, NOUN 
+C, NOUN 
+single, ADJ 
+colour, NOUN 
+yellow, ADJ 
+range, NOUN 
+
+, SPACE 
+surface, NOUN 
+temperature, NOUN 
+measured, VERB 
+uncertainty, NOUN 
+
+, SPACE 
++0.1, PROPN 
+°, NOUN 
+C, NOUN 
+Narrow, ADJ 
+band, NOUN 
+TLC, PROPN 
+successfully, ADV 
+
+, SPACE 
+example, NOUN 
+Jones, PROPN 
+Hippensteele, PROPN 
+1988, NUM 
+Camci, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+1992, NUM 
+Wang, PROPN 
+et, PROPN 
+al, PROPN 
+1995, NUM 
+determine, VERB 
+heat, NOUN 
+transfer, NOUN 
+coeffi-, NOUN 
+
+, SPACE 
+cients, NOUN 
+acrylic, ADJ 
+model, NOUN 
+suddenly, ADV 
+exposed, VERB 
+step, NOUN 
+change, NOUN 
+
+, SPACE 
+air, NOUN 
+temperature, NOUN 
+initial, ADJ 
+temperature, NOUN 
+model, NOUN 
+time, NOUN 
+
+, SPACE 
+t, NOUN 
+=, SYM 
+0, PROPN 
+known, VERB 
+temperature, NOUN 
+later, ADJ 
+time, NOUN 
+
+, SPACE 
+determined, ADJ 
+TLC, PROPN 
+called, VERB 
+dimensional, ADJ 
+
+, SPACE 
+l, NOUN 
+D, PROPN 
+semi, ADJ 
+infinite, ADJ 
+slab, NOUN 
+solution, NOUN 
+determine, VERB 
+
+, SPACE 
+heat, NOUN 
+transfer, NOUN 
+coefficient, NOUN 
+
+, SPACE 
+Metzger, PROPN 
+et, PROPN 
+al, PROPN 
+1991, NUM 
+shown, VERB 
+TLC, PROPN 
+technique, NOUN 
+
+, SPACE 
+applied, VERB 
+rotating, VERB 
+disc, NOUN 
+experiments, NOUN 
+initially, ADV 
+
+, SPACE 
+cold, ADJ 
+acrylic, PROPN 
+disc, NOUN 
+coated, VERB 
+TLC, PROPN 
+suddenly, ADV 
+exposed, VERB 
+
+, SPACE 
+impinging, VERB 
+jet, NOUN 
+hot, ADJ 
+air, NOUN 
+technique, NOUN 
+authors, NOUN 
+
+, SPACE 
+Address, PROPN 
+reprint, NOUN 
+requests, NOUN 
+Prof., PROPN 
+J., PROPN 
+M., PROPN 
+Owen, PROPN 
+School, PROPN 
+Mechan-, PROPN 
+
+, SPACE 
+ical, ADJ 
+Engineering, PROPN 
+University, PROPN 
+Bath, PROPN 
+Bath, PROPN 
+BA27AY, PROPN 
+UK, PROPN 
+
+, SPACE 
+Received, VERB 
+7, NUM 
+November, PROPN 
+1995, NUM 
+accepted, VERB 
+10, NUM 
+April, PROPN 
+1996, NUM 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+17:491, NUM 
+499, NUM 
+1996, NUM 
+
+, SPACE 
+©, NOUN 
+1996, NUM 
+Elsevier, ADJ 
+Science, PROPN 
+Inc., PROPN 
+
+, SPACE 
+655, NUM 
+Avenue, PROPN 
+Americas, PROPN 
+New, PROPN 
+York, PROPN 
+NY, PROPN 
+10010, NUM 
+able, ADJ 
+determine, VERB 
+axisymmetric, ADJ 
+heat, NOUN 
+transfer, NOUN 
+coefficients, NOUN 
+
+, SPACE 
+rotating, VERB 
+disc, NOUN 
+albeit, SCONJ 
+relatively, ADV 
+low, ADJ 
+rotational, ADJ 
+speeds, NOUN 
+
+, SPACE 
+rotational, ADJ 
+speeds, NOUN 
+representative, NOUN 
+found, VERB 
+gas, NOUN 
+turbines, NOUN 
+
+, SPACE 
+centripetal, ADJ 
+accelerations, NOUN 
+order, NOUN 
+
+, SPACE 
+104, NUM 
+g, NOUN 
+g, PROPN 
+gravitational, ADJ 
+acceleration, NOUN 
+
+, SPACE 
+suspicion, NOUN 
+research, NOUN 
+workers, NOUN 
+characteristics, NOUN 
+
+, SPACE 
+TLC, PROPN 
+change, NOUN 
+exposed, VERB 
+high, ADJ 
+accelera-, VERB 
+
+, SPACE 
+tions, NOUN 
+
+, SPACE 
+Recently, ADV 
+Camci, PROPN 
+Glezer, PROPN 
+1995, NUM 
+working, VERB 
+United, PROPN 
+
+, SPACE 
+States, PROPN 
+found, VERB 
+evidence, NOUN 
+rotational, ADJ 
+shift, NOUN 
+temperatures, NOUN 
+
+, SPACE 
+obtained, VERB 
+narrow, ADJ 
+band, NOUN 
+TLC, PROPN 
+thermocouples, NOUN 
+re-, ADJ 
+
+, SPACE 
+suits, NOUN 
+measured, VERB 
+rotating, VERB 
+disc, NOUN 
+diverged, VERB 
+speed, NOUN 
+in-, ADP 
+
+, SPACE 
+creased, ADJ 
+10,000, NUM 
+g, NOUN 
+rotational, ADJ 
+shift, NOUN 
+
+, SPACE 
+high, ADJ 
+7, NUM 
+°, NUM 
+C, NOUN 
+Subsequent, ADJ 
+results, NOUN 
+presented, VERB 
+Camci, PROPN 
+Glezer, PROPN 
+
+, SPACE 
+obtained, VERB 
+infrared, ADJ 
+detector, NOUN 
+IR, PROPN 
+TLC, PROPN 
+
+, SPACE 
+readings, NOUN 
+good, ADJ 
+agreement, NOUN 
+diverged, VERB 
+
+, SPACE 
+thermocouple, ADJ 
+measurements, NOUN 
+rotational, ADJ 
+shift, NOUN 
+attributed, VERB 
+
+, SPACE 
+thermal, ADJ 
+disturbance, NOUN 
+error, NOUN 
+associated, VERB 
+thermocouple, NUM 
+
+, SPACE 
+work, NOUN 
+clear, ADJ 
+relationship, NOUN 
+research, NOUN 
+
+, SPACE 
+presented, VERB 
+published, VERB 
+
+, SPACE 
+Camci, PROPN 
+Glezer, PROPN 
+1995, NUM 
+investigating, VERB 
+rota-, ADJ 
+
+, SPACE 
+tional, ADJ 
+shift, NOUN 
+narrow, ADJ 
+band, NOUN 
+TLC, PROPN 
+United, PROPN 
+States, PROPN 
+indepen-, NOUN 
+
+, SPACE 
+dent, ADJ 
+research, NOUN 
+wide, ADJ 
+band, NOUN 
+TLC, PROPN 
+carried, VERB 
+
+, SPACE 
+University, PROPN 
+Bath, PROPN 
+UK, PROPN 
+Thermocouples, PROPN 
+TLC, PROPN 
+
+, SPACE 
+infrared, ADJ 
+thermal, ADJ 
+imager, ADJ 
+measure, VERB 
+surface, NOUN 
+tem-, NOUN 
+
+, SPACE 
+perature, NOUN 
+rotating, VERB 
+disc, NOUN 
+subject, NOUN 
+accelerations, NOUN 
+excess, NOUN 
+
+, SPACE 
+104, NUM 
+g., NOUN 
+work, NOUN 
+presented, VERB 
+
+, SPACE 
+experimental, ADJ 
+apparatus, NOUN 
+outlined, VERB 
+Section, NOUN 
+2, NUM 
+
+, SPACE 
+thermochromic, NOUN 
+liquid, NOUN 
+crystals, NOUN 
+image, NOUN 
+processing, NOUN 
+calibration, NOUN 
+
+, SPACE 
+apparatus, NOUN 
+described, VERB 
+Section, PROPN 
+3, NUM 
+calibration, NOUN 
+TLC, PROPN 
+
+, SPACE 
+IR, PROPN 
+imager, ADV 
+stationary, ADJ 
+frame, NOUN 
+measurements, NOUN 
+
+, SPACE 
+rotating, VERB 
+disc, NOUN 
+presented, VERB 
+discussed, VERB 
+Section, NOUN 
+4, NUM 
+
+, SPACE 
+principal, ADJ 
+conclusions, NOUN 
+given, VERB 
+Section, NOUN 
+5, NUM 
+
+, SPACE 
+0142, NUM 
+727X/96/$15,00, NUM 
+
+, SPACE 
+PII, PROPN 
+S0142, PROPN 
+727x(96)00053, NUM 
+8, NUM 
+
+
+, SPACE 
+Rotation, PROPN 
+effects, NOUN 
+fiquid, NOUN 
+crystals, NOUN 
+B., PROPN 
+J, PROPN 
+Syson, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+2, X 
+Experimental, ADJ 
+apparatus, NOUN 
+
+, SPACE 
+2.1, NUM 
+Rotating, VERB 
+disc, NOUN 
+rig, NOUN 
+
+, SPACE 
+sectional, ADJ 
+view, NOUN 
+rotating, VERB 
+disc, NOUN 
+rig, NOUN 
+shown, VERB 
+Figure, PROPN 
+1, NUM 
+
+, SPACE 
+rotor, NOUN 
+instrumentation, NOUN 
+Figure, PROPN 
+2, NUM 
+assembly, NOUN 
+
+, SPACE 
+rotated, VERB 
+7000, NUM 
+rpm, NOUN 
+variable, ADJ 
+speed, NOUN 
+electric, ADJ 
+motor, NOUN 
+
+, SPACE 
+speed, NOUN 
+measured, VERB 
+uncertainty, NOUN 
++, ADJ 
+1, NUM 
+rpm, NOUN 
+
+, SPACE 
+electromagnetic, ADJ 
+transducer, NOUN 
+timer, NOUN 
+counter, NOUN 
+steel, NOUN 
+disc, NOUN 
+
+, SPACE 
+heated, VERB 
+150, NUM 
+°, NUM 
+C, NOUN 
+thyristor, NOUN 
+controlled, VERB 
+radiant, ADJ 
+heaters, NOUN 
+
+, SPACE 
+surface, NOUN 
+temperature, NOUN 
+measured, VERB 
+copper, NOUN 
+constantan, PROPN 
+
+, SPACE 
+thermocouples, NOUN 
+embedded, VERB 
+disc, NOUN 
+rig, NOUN 
+usually, ADV 
+
+, SPACE 
+preswirl, NOUN 
+rotor, NOUN 
+stator, NOUN 
+tests, NOUN 
+Wilson, PROPN 
+et, PROPN 
+al, PROPN 
+1995, NUM 
+
+, SPACE 
+fluxmeters, NOUN 
+blade, NOUN 
+cooling, VERB 
+holes, NOUN 
+shown, VERB 
+Figure, PROPN 
+2, NUM 
+
+, SPACE 
+tests, NOUN 
+described, VERB 
+
+, SPACE 
+rotor, NOUN 
+composite, ADJ 
+construction, NOUN 
+comprising, VERB 
+steel, NOUN 
+
+, SPACE 
+disc, NOUN 
+aluminum, NOUN 
+disc, NOUN 
+separated, VERB 
+layer, NOUN 
+
+, SPACE 
+Rohacell, PROPN 
+lightweight, ADJ 
+foam, NOUN 
+insulation, NOUN 
+face, NOUN 
+steel, NOUN 
+
+, SPACE 
+disc, NOUN 
+580, NUM 
+mm, NOUN 
+diameter, NOUN 
+covered, VERB 
+1, NUM 
+mm, ADJ 
+thick, ADJ 
+
+, SPACE 
+layer, NOUN 
+glass, NOUN 
+fibre, NOUN 
+epoxy, NOUN 
+resin, NOUN 
+k, PROPN 
+=, NOUN 
+0.3, NUM 
+W, NOUN 
+mK, NUM 
+glass, NOUN 
+fibre, NOUN 
+
+, SPACE 
+mat, NOUN 
+slotted, VERB 
+enable, VERB 
+thermocouples, NOUN 
+fluxmeters, NOUN 
+
+, SPACE 
+embedded, VERB 
+surface, NOUN 
+creating, VERB 
+stress, NOUN 
+concentrations, NOUN 
+
+, SPACE 
+thermal, ADJ 
+disturbances, NOUN 
+steel, NOUN 
+disc, NOUN 
+wires, NOUN 
+
+, SPACE 
+thermocouples, NOUN 
+fluxmeters, NOUN 
+brought, VERB 
+slots, NOUN 
+mat, NOUN 
+
+, SPACE 
+connector, NOUN 
+pins, NOUN 
+centre, NOUN 
+disc, NOUN 
+shown, VERB 
+
+, SPACE 
+Figure, PROPN 
+1, NUM 
+pins, NOUN 
+act, VERB 
+effective, ADJ 
+cold, ADJ 
+junction, NOUN 
+
+, SPACE 
+electrical, ADJ 
+signals, NOUN 
+brought, VERB 
+copper, NOUN 
+wires, NOUN 
+connected, VERB 
+
+, SPACE 
+24, NUM 
+way, NOUN 
+slip, NOUN 
+ring, NOUN 
+assembly, NOUN 
+voltages, NOUN 
+measured, VERB 
+
+, SPACE 
+resolution, NOUN 
++, SYM 
+1, NUM 
+ixV, NUM 
+computer, NOUN 
+controlled, VERB 
+datalogger, NOUN 
+
+, SPACE 
+glass, NOUN 
+fibre, NOUN 
+mat, NOUN 
+sprayed, VERB 
+black, ADJ 
+paint, NOUN 
+
+, SPACE 
+emissivity, NOUN 
+e, NOUN 
+=, NOUN 
+0.96, NUM 
+estimated, VERB 
+infrared, ADJ 
+thermal, ADJ 
+im-, X 
+
+, SPACE 
+ager, NOUN 
+described, VERB 
+annular, ADJ 
+area, NOUN 
+extending, VERB 
+220, NUM 
+<, X 
+
+, SPACE 
+r, NOUN 
+<, X 
+290, NUM 
+ram, NOUN 
+coated, VERB 
+thermochromic, NOUN 
+liquid, NOUN 
+crystal, NOUN 
+details, NOUN 
+
+, SPACE 
+given, VERB 
+Section, NOUN 
+3, NUM 
+2.2, NUM 
+Infrared, PROPN 
+thermal, ADJ 
+imager, ADJ 
+
+, SPACE 
+cutaway, NOUN 
+view, NOUN 
+Agema, PROPN 
+870C, PROPN 
+infrared, ADJ 
+scanner, NOUN 
+
+, SPACE 
+tests, NOUN 
+shown, VERB 
+Figure, PROPN 
+3, NUM 
+Essentially, ADV 
+scanner, NOUN 
+converts, VERB 
+
+, SPACE 
+electromagnetic, ADJ 
+radiation, NOUN 
+object, NOUN 
+electronic, ADJ 
+video, NOUN 
+
+, SPACE 
+signals, NOUN 
+scanner, NOUN 
+associated, VERB 
+hardware, NOUN 
+software, NOUN 
+
+, SPACE 
+referred, VERB 
+infrared, ADJ 
+thermal, ADJ 
+imager, ADJ 
+basic, ADJ 
+princi-, NOUN 
+
+, SPACE 
+ple, NOUN 
+operation, NOUN 
+described, VERB 
+
+, SPACE 
+radiation, NOUN 
+object, NOUN 
+focused, VERB 
+infrared, ADJ 
+lens, NOUN 
+
+, SPACE 
+oscillating, NOUN 
+mirror, NOUN 
+scanner, NOUN 
+
+, SPACE 
+variety, NOUN 
+interchangeable, ADJ 
+lenses, NOUN 
+tests, NOUN 
+described, VERB 
+
+, SPACE 
+20, NUM 
+°, NOUN 
+38, NUM 
+mm, NOUN 
+lens, NOUN 
+fitted, VERB 
+lens, NOUN 
+germanium, NOUN 
+
+, SPACE 
+broadband, PROPN 
+optics, NOUN 
+coated, VERB 
+enhanced, VERB 
+response, NOUN 
+2.0, NUM 
+4.0, NUM 
+
+, SPACE 
+t, PROPN 
+~, PUNCT 
+m, NOUN 
+region, NOUN 
+infrared, ADJ 
+spectrum, NOUN 
+reflected, ADJ 
+radiation, NOUN 
+
+, SPACE 
+oscillating, NOUN 
+mirror, NOUN 
+focused, VERB 
+fixed, VERB 
+mirrors, NOUN 
+
+, SPACE 
+horizontal, ADJ 
+polygon, NOUN 
+mirror, NOUN 
+rotates, VERB 
+15,000, NUM 
+rpm, NOUN 
+
+, SPACE 
+oscillating, NOUN 
+rotating, VERB 
+mirrors, NOUN 
+microprocessor, NOUN 
+controlled, VERB 
+
+, SPACE 
+synchronised, VERB 
+object, NOUN 
+view, NOUN 
+
+, SPACE 
+effectively, ADV 
+scanned, VERB 
+70, NUM 
+line, NOUN 
+field, NOUN 
+rate, NOUN 
+25, NUM 
+fields, NOUN 
+s., PROPN 
+
+, SPACE 
+fields, NOUN 
+phased, VERB 
+fields, NOUN 
+produce, VERB 
+fully, ADV 
+
+, SPACE 
+interlaced, VERB 
+280, NUM 
+line, NOUN 
+frame, NOUN 
+reflected, VERB 
+beam, NOUN 
+horizon-, NUM 
+
+, SPACE 
+tal, NOUN 
+mirror, NOUN 
+passed, VERB 
+set, NOUN 
+relay, NOUN 
+optics, NOUN 
+containing, VERB 
+
+, SPACE 
+selectable, ADJ 
+aperture, NOUN 
+filter, NOUN 
+unit, NOUN 
+focused, VERB 
+point, NOUN 
+
+, SPACE 
+detector, NOUN 
+concave, PROPN 
+mirror, NOUN 
+shown, VERB 
+Figure, PROPN 
+3, NUM 
+tests, NOUN 
+
+, SPACE 
+reported, VERB 
+scanner, NOUN 
+aperture, NOUN 
+left, VERB 
+fully, ADV 
+open, ADJ 
+
+, SPACE 
+filter, NOUN 
+inserted, VERB 
+
+, SPACE 
+scanner, NOUN 
+uses, VERB 
+SPRITE, PROPN 
+single, ADJ 
+point, NOUN 
+infrared, VERB 
+detector, NOUN 
+
+, SPACE 
+consisting, VERB 
+strip, NOUN 
+mercury, NOUN 
+cadmium, NOUN 
+telluride, NOUN 
+
+, SPACE 
+sensitive, ADJ 
+radiation, NOUN 
+2, NUM 
+5, NUM 
+~, VERB 
+m, VERB 
+mounted, VERB 
+
+, SPACE 
+sapphire, NOUN 
+substrate, NOUN 
+detector, NOUN 
+cooled, VERB 
+stage, NOUN 
+ther-, NOUN 
+
+, SPACE 
+moelectric, ADJ 
+Peltier, ADJ 
+element, NOUN 
+temperature, NOUN 
+-70, PROPN 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+output, NOUN 
+signal, NOUN 
+detector, NOUN 
+sent, VERB 
+external, ADJ 
+amplifica-, ADJ 
+
+, SPACE 
+tion, NOUN 
+control, NOUN 
+unit, NOUN 
+video, NOUN 
+output, NOUN 
+signal, NOUN 
+unit, NOUN 
+
+, SPACE 
+processed, VERB 
+PC, NOUN 
+Agema, PROPN 
+CATSE, PROPN 
+software, NOUN 
+
+, SPACE 
+~OPI[C, PUNCT 
+LIOUID, PROPN 
+CRYST, PROPN 
+
+, SPACE 
+STEEL, PROPN 
+ROTO~, PUNCT 
+
+, SPACE 
+CLASS, PROPN 
+FIBRE, PROPN 
+EPOXY, PROPN 
+RSSIPI, PROPN 
+
+, SPACE 
+C, PROPN 
+~, PUNCT 
+IlnEcTOR, PROPN 
+PI, PROPN 
+
+, SPACE 
+Figure, PROPN 
+Rotating, PROPN 
+disc, NOUN 
+rig, NOUN 
+BLADE, PROPN 
+COOLIIIG, PROPN 
+PASSAGE, NOUN 
+
+, SPACE 
+DISC, PROPN 
+
+, SPACE 
+~, PUNCT 
+FLUTED, VERB 
+ROHAGELL, PROPN 
+OISC, VERB 
+
+, SPACE 
+
+, SPACE 
+oelv~, NOUN 
+.stuFf, PUNCT 
+
+, SPACE 
+~./~, PROPN 
+
+, SPACE 
+cEKrRAL, VERB 
+TUBE, NOUN 
+
+, SPACE 
+24, NUM 
+CHAttEL, NOUN 
+SLIP, PROPN 
+RIPIC, PROPN 
+^SSEI'~Y, PROPN 
+
+, SPACE 
+.1, PROPN 
+
+, SPACE 
+492, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+5, NUM 
+October, PROPN 
+1996, NUM 
+
+
+, SPACE 
+Rotation, PROPN 
+effects, NOUN 
+liquid, ADJ 
+crystals, NOUN 
+B., PROPN 
+J., PROPN 
+Syson, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+UL, PROPN 
+~, PUNCT 
+UC, PROPN 
+~tlULJll~, PROPN 
+nOL=, PROPN 
+
+, SPACE 
+ITHERNOCOUPLE, PROPN 
+
+, SPACE 
+Figure, PROPN 
+2, NUM 
+Instrumented, PROPN 
+rotating, VERB 
+disc, NOUN 
+HEAT, PROPN 
+FLUXHETER, NOUN 
+
+, SPACE 
+software, NOUN 
+generates, VERB 
+140, NUM 
+×, PROPN 
+140, NUM 
+pixel, ADJ 
+orthogonal, ADJ 
+image, NOUN 
+
+, SPACE 
+object, NOUN 
+view, NOUN 
+image, NOUN 
+datafile, NOUN 
+generated, VERB 
+transmit, VERB 
+
+, SPACE 
+data, NOUN 
+PC, NOUN 
+Silicon, PROPN 
+Graphics, PROPN 
+workstation, NOUN 
+postpro-, NOUN 
+
+, SPACE 
+cessing, NOUN 
+
+, SPACE 
+scanner, NOUN 
+capable, ADJ 
+line, NOUN 
+scanning, VERB 
+mode, NOUN 
+
+, SPACE 
+oscillating, NOUN 
+mirror, NOUN 
+locked, VERB 
+position, NOUN 
+horizontal, ADJ 
+
+, SPACE 
+lines, NOUN 
+scanned, VERB 
+rotating, VERB 
+mirror, NOUN 
+scanner, NOUN 
+
+, SPACE 
+positioned, VERB 
+relative, NOUN 
+rotating, VERB 
+disc, NOUN 
+radial, ADJ 
+lines, NOUN 
+
+, SPACE 
+scanned, VERB 
+disc, NOUN 
+rotates, NOUN 
+angular, ADJ 
+location, NOUN 
+lines, NOUN 
+
+, SPACE 
+determined, VERB 
+software, NOUN 
+trigger, NOUN 
+drive, NOUN 
+
+, SPACE 
+shaft, NOUN 
+rig, NOUN 
+mode, NOUN 
+enables, VERB 
+circumferential, ADJ 
+tempera-, ADJ 
+
+, SPACE 
+ture, NOUN 
+distribution, NOUN 
+disc, NOUN 
+determined, VERB 
+
+, SPACE 
+line, NOUN 
+scanning, VERB 
+mode, NOUN 
+significant, ADJ 
+angular, ADJ 
+varia-, NOUN 
+
+, SPACE 
+tions, NOUN 
+temperature, NOUN 
+thermal, ADJ 
+disturbances, NOUN 
+found, VERB 
+
+, SPACE 
+tests, NOUN 
+described, VERB 
+standard, ADJ 
+orthogonal, ADJ 
+scanning, NOUN 
+mode, NOUN 
+
+, SPACE 
+produces, VERB 
+circumferentially, ADV 
+averaged, VERB 
+value, NOUN 
+
+, SPACE 
+temperature, NOUN 
+
+, SPACE 
+manufacturer, NOUN 
+specified, VERB 
+absolute, ADJ 
+accuracy, NOUN 
+scan-, ADJ 
+
+, SPACE 
+ner, NOUN 
++, NUM 
+2, NUM 
++, SYM 
+2, NUM 
+°, NUM 
+C, NOUN 
+whichever, PRON 
+larger, ADJ 
+stated, VERB 
+
+, SPACE 
+resolution, NOUN 
+60, NUM 
+°, NOUN 
+C, NOUN 
+corresponds, VERB 
+range, NOUN 
+
+, SPACE 
+covered, VERB 
+wide, ADJ 
+band, NOUN 
+TLC, PROPN 
+0.07, NUM 
+°, NUM 
+C, NOUN 
+improve, VERB 
+accu-, ADJ 
+racy, NOUN 
+average, NOUN 
+20, NUM 
+consecutive, ADJ 
+frames, NOUN 
+taken, VERB 
+
+, SPACE 
+test, NOUN 
+scanner, NOUN 
+calibrated, VERB 
+copper, NOUN 
+block, NOUN 
+
+, SPACE 
+apparatus, NOUN 
+described, VERB 
+Section, PROPN 
+3, NUM 
+
+, SPACE 
+3, X 
+Thermochromic, ADJ 
+liquid, NOUN 
+crystals, NOUN 
+image, NOUN 
+
+, SPACE 
+processing, NOUN 
+calibration, NOUN 
+apparatus, NOUN 
+
+, SPACE 
+3, X 
+I., PROPN 
+Thermochromic, PROPN 
+liquid, NOUN 
+crystal, NOUN 
+
+, SPACE 
+Thermochromic, PROPN 
+coatings, NOUN 
+surface, NOUN 
+thermography, NOUN 
+usually, ADV 
+
+, SPACE 
+exploit, VERB 
+properties, NOUN 
+chiral, ADJ 
+nematic, ADJ 
+liquid, NOUN 
+crystal, NOUN 
+phase, NOUN 
+
+, SPACE 
+characterised, VERB 
+helical, ADJ 
+molecular, ADJ 
+structure, NOUN 
+periodicity, NOUN 
+
+, SPACE 
+governs, VERB 
+way, NOUN 
+reflects, VERB 
+light, ADJ 
+illumi-, NOUN 
+
+, SPACE 
+nated, VERB 
+white, ADJ 
+light, NOUN 
+liquid, ADJ 
+crystal, NOUN 
+selectively, ADV 
+reflects, VERB 
+
+, SPACE 
+monochromatic, ADJ 
+light, NOUN 
+wavelength, NOUN 
+equal, ADJ 
+pitch, NOUN 
+
+, SPACE 
+helical, ADJ 
+structure, NOUN 
+liquid, ADJ 
+crystal, NOUN 
+exhibit, VERB 
+thermochromic, NOUN 
+
+, SPACE 
+properties, NOUN 
+pitch, NOUN 
+wavelength, NOUN 
+light, NOUN 
+
+, SPACE 
+reflects, VERB 
+function, NOUN 
+temperature, NOUN 
+Usually, ADV 
+wavelength, NOUN 
+
+, SPACE 
+light, NOUN 
+reflected, VERB 
+decreases, NOUN 
+increasing, VERB 
+temperature, NOUN 
+colour, NOUN 
+
+, SPACE 
+changes, NOUN 
+red, PROPN 
+visible, ADJ 
+spectrum, NOUN 
+blue, PROPN 
+violet, NOUN 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+5, NUM 
+October, PROPN 
+1996, NUM 
+493, NUM 
+
+
+, SPACE 
+Rotation, PROPN 
+effects, NOUN 
+liquid, ADJ 
+crystals, NOUN 
+B., PROPN 
+J., PROPN 
+Syson, PROPN 
+et, NOUN 
+aL, PROPN 
+
+, SPACE 
+Figure, PROPN 
+3, NUM 
+Oscillating, NOUN 
+Mirror, PROPN 
+3, NUM 
+Fixed, PROPN 
+Mirrors, PROPN 
+
+, SPACE 
+Rotating, VERB 
+Polygon, PROPN 
+Mirror, PROPN 
+
+, SPACE 
+Cutaway, PROPN 
+view, NOUN 
+Agema, PROPN 
+thermal, ADJ 
+scanner, NOUN 
+reproduced, VERB 
+permission, NOUN 
+Agema, PROPN 
+UK, PROPN 
+
+, SPACE 
+liquid, ADJ 
+crystal, NOUN 
+supplied, VERB 
+microcapsules, NOUN 
+tiny, ADJ 
+droplets, NOUN 
+
+, SPACE 
+liquid, ADJ 
+crystal, NOUN 
+encased, VERB 
+polymer, NOUN 
+shells, NOUN 
+form, NOUN 
+
+, SPACE 
+liquid, ADJ 
+crystal, NOUN 
+easy, ADJ 
+use, VERB 
+isolated, VERB 
+deleterious, ADJ 
+
+, SPACE 
+effects, NOUN 
+solvents, NOUN 
+impurities, NOUN 
+ensure, VERB 
+good, ADJ 
+adhesion, NOUN 
+
+, SPACE 
+microcapsules, NOUN 
+mixed, VERB 
+binder, NOUN 
+prior, ADV 
+application, NOUN 
+
+, SPACE 
+Saturated, VERB 
+colours, NOUN 
+achieved, VERB 
+initially, ADV 
+spraying, VERB 
+surface, NOUN 
+
+, SPACE 
+black, ADJ 
+light, NOUN 
+passes, VERB 
+coating, NOUN 
+
+, SPACE 
+reflected, VERB 
+Despite, SCONJ 
+precaution, NOUN 
+light, NOUN 
+reflected, VERB 
+
+, SPACE 
+purely, ADV 
+monochromatic, ADJ 
+light, NOUN 
+reflected, VERB 
+
+, SPACE 
+black, ADJ 
+paint, NOUN 
+non, ADJ 
+liquid, ADJ 
+crystal, NOUN 
+constituents, NOUN 
+coating, NOUN 
+
+, SPACE 
+typical, ADJ 
+spectral, ADJ 
+content, NOUN 
+reflected, VERB 
+light, NOUN 
+shown, VERB 
+
+, SPACE 
+Figure, PROPN 
+4a, NUM 
+
+, SPACE 
+instrumentation, NOUN 
+resolve, VERB 
+light, NOUN 
+reflected, VERB 
+
+, SPACE 
+TLC, PROPN 
+coating, NOUN 
+provide, VERB 
+sufficient, ADJ 
+spatial, ADJ 
+
+, SPACE 
+temporal, ADJ 
+resolution, NOUN 
+spectrometer, NOUN 
+ideal, ADJ 
+
+, SPACE 
+analysing, VERB 
+reflected, ADJ 
+light, NOUN 
+colour, ADJ 
+CCD, NOUN 
+charge, NOUN 
+coupled, VERB 
+device, NOUN 
+
+, SPACE 
+imagers, NOUN 
+satisfy, VERB 
+stringent, ADJ 
+spatial, NOUN 
+
+, SPACE 
+temporal, ADJ 
+requirements, NOUN 
+heat, NOUN 
+transfer, NOUN 
+work, NOUN 
+CCD, PROPN 
+
+, SPACE 
+essentially, ADV 
+monochrome, ADJ 
+device, NOUN 
+sensitive, ADJ 
+
+, SPACE 
+range, NOUN 
+wavelengths, NOUN 
+light, NOUN 
+embodies, VERB 
+mechanism, NOUN 
+
+, SPACE 
+discriminating, VERB 
+wavelengths, NOUN 
+range, NOUN 
+spec-, ADJ 
+
+, SPACE 
+tral, ADJ 
+resolution, NOUN 
+required, VERB 
+colour, ADJ 
+imaging, NOUN 
+provided, VERB 
+use, NOUN 
+
+, SPACE 
+coloured, ADJ 
+filters, NOUN 
+typical, ADJ 
+colour, NOUN 
+CCD, NOUN 
+consists, VERB 
+matrix, NOUN 
+
+, SPACE 
+pixels, VERB 
+sensitive, ADJ 
+visible, ADJ 
+light, NOUN 
+overlaid, VERB 
+mosaic, NOUN 
+red, ADJ 
+
+, SPACE 
+green, ADJ 
+blue, ADJ 
+filters, NOUN 
+pixel, NOUN 
+sensitive, ADJ 
+particular, ADJ 
+
+, SPACE 
+visible, ADJ 
+spectrum, NOUN 
+dictated, VERB 
+filter, NOUN 
+response, NOUN 
+
+, SPACE 
+sensitivity, NOUN 
+signals, NOUN 
+adjacent, ADJ 
+pixels, NOUN 
+
+, SPACE 
+red, NOUN 
+green, NOUN 
+blue, ADJ 
+sufficient, ADJ 
+determine, VERB 
+
+, SPACE 
+colour, NOUN 
+effect, NOUN 
+human, ADJ 
+eye, NOUN 
+incident, NOUN 
+light, NOUN 
+
+, SPACE 
+detailed, ADJ 
+spectral, ADJ 
+information, NOUN 
+light, NOUN 
+lost, VERB 
+
+, SPACE 
+Fortunately, ADV 
+case, NOUN 
+light, NOUN 
+reflected, VERB 
+TLC, PROPN 
+coating, NOUN 
+
+, SPACE 
+general, ADJ 
+form, NOUN 
+spectral, ADJ 
+content, NOUN 
+approximated, VERB 
+
+, SPACE 
+monochromatic, ADJ 
+spike, NOUN 
+plus, CCONJ 
+background, NOUN 
+white, ADJ 
+light, NOUN 
+shown, VERB 
+
+, SPACE 
+Figure, PROPN 
+4b, PROPN 
+approximation, NOUN 
+reduces, VERB 
+number, NOUN 
+degrees-, X 
+
+, SPACE 
+freedom, NOUN 
+hue, INTJ 
+measure, NOUN 
+wavelength, NOUN 
+
+, SPACE 
+monochromatic, ADJ 
+spike, NOUN 
+saturation, NOUN 
+relative, ADJ 
+amounts, NOUN 
+
+, SPACE 
+monochromatic, ADJ 
+white, ADJ 
+light, NOUN 
+intensity, NOUN 
+total, ADJ 
+
+, SPACE 
+light, NOUN 
+colour, NOUN 
+described, VERB 
+indepen-, NUM 
+
+, SPACE 
+dent, ADJ 
+variables, NOUN 
+usually, ADV 
+components, NOUN 
+red, ADJ 
+green, ADJ 
+blue, ADJ 
+
+, SPACE 
+spectral, ADJ 
+content, NOUN 
+reflected, ADJ 
+light, NOUN 
+particular, ADJ 
+hue, NOUN 
+
+, SPACE 
+estimated, VERB 
+Hue, NOUN 
+analysis, NOUN 
+frames, NOUN 
+captured, VERB 
+colour, ADJ 
+spectral, ADJ 
+density, NOUN 
+
+, SPACE 
+increasing, VERB 
+tcrap, NOUN 
+~, PUNCT 
+ratu~, PROPN 
+
+, SPACE 
+q, NOUN 
+1, NUM 
+raormchromatl¢, NOUN 
+slnk¢, NUM 
+
+, SPACE 
+II, PROPN 
+ba, NOUN 
+~, VERB 
+und, VERB 
+
+, SPACE 
+white, ADJ 
+fight, NOUN 
+
+, SPACE 
+wavelength, VERB 
+blue, ADJ 
+red, PROPN 
+
+, SPACE 
+a)'lX, PROPN 
+picalspectvam, ADJ 
+
+, SPACE 
+spectrld, PROPN 
+density, NOUN 
+
+, SPACE 
+monochromatk, NOUN 
+intensity, NOUN 
+
+, SPACE 
+white, ADJ 
+intensity, NOUN 
+
+, SPACE 
+mon0d, PROPN 
+aom, PROPN 
+~, NOUN 
+c, PROPN 
+
+, SPACE 
+wa, VERB 
+~, NOUN 
+hingth, NOUN 
+wavelength, VERB 
+
+, SPACE 
+b, PROPN 
+Approximate, ADJ 
+spectrum, NOUN 
+
+, SPACE 
+Figure, VERB 
+4, NUM 
+Spectral, ADJ 
+content, NOUN 
+light, NOUN 
+reflected, VERB 
+TLC, PROPN 
+coating, VERB 
+
+, SPACE 
+CCD, NOUN 
+imagers, NOUN 
+best, ADV 
+performed, VERB 
+computer, NOUN 
+
+, SPACE 
+HSI, PROPN 
+hue, NOUN 
+saturation, NOUN 
+intensity, NOUN 
+colour, ADJ 
+model, NOUN 
+
+, SPACE 
+alternative, NOUN 
+RGB, PROPN 
+red, ADJ 
+green, ADJ 
+blue, ADJ 
+model, NOUN 
+hard-, PROPN 
+
+, SPACE 
+ware, NOUN 
+software, NOUN 
+RGB, PROPN 
+HSI, PROPN 
+conversion, NOUN 
+readily, ADV 
+
+, SPACE 
+available, ADJ 
+
+, SPACE 
+equipment, NOUN 
+determine, VERB 
+reflective, ADJ 
+
+, SPACE 
+properties, NOUN 
+TLC, PROPN 
+coating, VERB 
+stationary, ADJ 
+calibration, NOUN 
+
+, SPACE 
+rotational, ADJ 
+tests, NOUN 
+TLC, PROPN 
+Hallcrest, PROPN 
+R45C10W, NOUN 
+changed, VERB 
+
+, SPACE 
+red, PROPN 
+45, NUM 
+°, NUM 
+C, NOUN 
+dark, ADJ 
+blue, NOUN 
+55, NUM 
+°, NUM 
+C, NOUN 
+coating, NOUN 
+illumi-, ADJ 
+
+, SPACE 
+494, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+5, NUM 
+October, PROPN 
+1996, NUM 
+
+
+, SPACE 
+nated, VERB 
+tungsten, VERB 
+filament, NOUN 
+lamp, NOUN 
+reflected, VERB 
+light, NOUN 
+moni-, X 
+
+, SPACE 
+tored, VERB 
+Panasonic, PROPN 
+WV, PROPN 
+CL700, PROPN 
+colour, NOUN 
+CCD, PROPN 
+video, NOUN 
+camera, NOUN 
+
+, SPACE 
+fitted, VERB 
+18, NUM 
+108, NUM 
+mm, NUM 
+t2.5, NOUN 
+zoom, NOUN 
+lens, NOUN 
+illumination, NOUN 
+
+, SPACE 
+viewing, VERB 
+angles, NOUN 
+shown, VERB 
+Figure, PROPN 
+5, NUM 
+ensuing, VERB 
+YC, PROPN 
+video, NOUN 
+
+, SPACE 
+signal, NOUN 
+recorded, VERB 
+SVHS, PROPN 
+videotape, NOUN 
+Panasonic, PROPN 
+AG-7355, ADJ 
+
+, SPACE 
+video, NOUN 
+cassette, NOUN 
+recorder, NOUN 
+video, NOUN 
+frames, NOUN 
+analyzed, VERB 
+
+, SPACE 
+Silicon, PROPN 
+Graphics, PROPN 
+Indigo, PROPN 
+R3000, PROPN 
+workstation, NOUN 
+fitted, VERB 
+video, NOUN 
+
+, SPACE 
+board, NOUN 
+RGB, PROPN 
+HSI, PROPN 
+conversion, NOUN 
+performed, VERB 
+software, NOUN 
+
+, SPACE 
+lmageVision, NOUN 
+image, NOUN 
+processing, VERB 
+library, NOUN 
+additional, ADJ 
+
+, SPACE 
+image, NOUN 
+manipulation, NOUN 
+data, NOUN 
+processing, VERB 
+routines, NOUN 
+written, VERB 
+
+, SPACE 
+house, NOUN 
+
+, SPACE 
+3.2, X 
+Image, NOUN 
+processing, NOUN 
+
+, SPACE 
+Despite, SCONJ 
+fundamental, ADJ 
+difference, NOUN 
+infrared, PROPN 
+liq-, ADJ 
+
+, SPACE 
+uid, ADJ 
+crystal, NOUN 
+temperature, NOUN 
+measurement, NOUN 
+techniques, NOUN 
+
+, SPACE 
+imaging, NOUN 
+systems, NOUN 
+required, VERB 
+similar, ADJ 
+processing, NOUN 
+
+, SPACE 
+PC, PROPN 
+based, VERB 
+images, NOUN 
+IR, PROPN 
+thermal, ADJ 
+imaging, NOUN 
+system, NOUN 
+
+, SPACE 
+easily, ADV 
+transferred, VERB 
+Silicon, PROPN 
+Graphics, PROPN 
+workstation, NOUN 
+
+, SPACE 
+software, NOUN 
+process, VERB 
+IR, PROPN 
+TLC, PROPN 
+
+, SPACE 
+images, NOUN 
+Details, NOUN 
+processing, NOUN 
+extension, NOUN 
+
+, SPACE 
+described, VERB 
+Wilson, PROPN 
+et, PROPN 
+al, PROPN 
+1993, NUM 
+outlined, VERB 
+
+, SPACE 
+TLC, PROPN 
+calibration, NOUN 
+rotational, ADJ 
+tests, NOUN 
+data, NOUN 
+
+, SPACE 
+taken, VERB 
+steady, ADJ 
+state, NOUN 
+reached, VERB 
+temper-, X 
+
+, SPACE 
+ature, NOUN 
+distributions, NOUN 
+changing, VERB 
+time, NOUN 
+simple, ADJ 
+frame, NOUN 
+
+, SPACE 
+averaging, NOUN 
+reduce, VERB 
+effect, NOUN 
+noise, NOUN 
+time, NOUN 
+
+, SPACE 
+domain, NOUN 
+image, NOUN 
+suitable, ADJ 
+processing, NOUN 
+created, VERB 
+
+, SPACE 
+taking, VERB 
+average, NOUN 
+10, NUM 
+TLC, PROPN 
+frames, NOUN 
+20, NUM 
+IR, PROPN 
+frames, NOUN 
+
+, SPACE 
+Spatial, ADJ 
+averaging, NOUN 
+increase, VERB 
+confidence, NOUN 
+
+, SPACE 
+measured, VERB 
+values, NOUN 
+involves, VERB 
+choosing, VERB 
+area, NOUN 
+image, NOUN 
+
+, SPACE 
+calculating, VERB 
+average, ADJ 
+value, NOUN 
+constituent, NOUN 
+pixels, VERB 
+
+, SPACE 
+area, NOUN 
+chosen, VERB 
+represent, VERB 
+isotherm, NOUN 
+Choosing, VERB 
+isother-, NOUN 
+
+, SPACE 
+mal, ADJ 
+area, NOUN 
+calibration, NOUN 
+apparatus, NOUN 
+simple, ADJ 
+
+, SPACE 
+copper, NOUN 
+block, NOUN 
+Figure, PROPN 
+6a, PROPN 
+temperature, NOUN 
+distribu-, NOUN 
+
+, SPACE 
+tion, NOUN 
+rotating, VERB 
+disc, NOUN 
+axisymmetric, ADJ 
+
+, SPACE 
+radial, ADJ 
+variations, NOUN 
+necessary, ADJ 
+average, VERB 
+tempera-, ADJ 
+
+, SPACE 
+tures, NOUN 
+described, VERB 
+
+, SPACE 
+TLC, PROPN 
+coating, NOUN 
+applied, VERB 
+disc, NOUN 
+surface, NOUN 
+
+, SPACE 
+radii, NOUN 
+r, NOUN 
+=, SYM 
+220, NUM 
+mm, NUM 
+r, NOUN 
+=, NOUN 
+290, NUM 
+mm, NOUN 
+axisymmetric, ADJ 
+nature, NOUN 
+
+, SPACE 
+experiment, NOUN 
+allowed, VERB 
+colour, ADJ 
+CCD, PROPN 
+camera, NOUN 
+infrared, VERB 
+
+, SPACE 
+thermal, ADJ 
+imager, ADJ 
+view, VERB 
+liquid, NOUN 
+crystal, NOUN 
+ring, NOUN 
+
+, SPACE 
+shown, VERB 
+Figure, PROPN 
+6b, NUM 
+centre, NOUN 
+disc, NOUN 
+lay, VERB 
+outside, ADP 
+
+, SPACE 
+field, NOUN 
+view, NOUN 
+reference, NOUN 
+lines, NOUN 
+r, NOUN 
+=, NOUN 
+225, NUM 
+mm, NOUN 
+r, NOUN 
+=, NOUN 
+285, NUM 
+
+, SPACE 
+500, NUM 
+mm, NOUN 
+
+, SPACE 
+Figure, PROPN 
+5, NUM 
+
+, SPACE 
+ment, NOUN 
+coated, VERB 
+~urface, X 
+
+, SPACE 
+
+, SPACE 
+4oo, NOUN 
+30, NUM 
+°, NUM 
+30, NUM 
+°, NOUN 
+
+, SPACE 
+~, PUNCT 
+l, PROPN 
+lamp, NOUN 
+
+, SPACE 
+General, PROPN 
+arrangement, NOUN 
+remote, ADJ 
+sensing, VERB 
+equip-, ADJ 
+Rotation, PROPN 
+effects, NOUN 
+liquid, ADJ 
+crystals, NOUN 
+B., PROPN 
+J., PROPN 
+Syson, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Field, NOUN 
+view, NOUN 
+calibration, NOUN 
+apparatus, NOUN 
+
+, SPACE 
+~2, PUNCT 
+E~''s2x----'-'~"~2"Tzi'2, PROPN 
+
+, SPACE 
+>, X 
+
+, SPACE 
+
+, SPACE 
+j, PROPN 
+centre, NOUN 
+disc, PROPN 
+
+, SPACE 
+b, PROPN 
+Field, NOUN 
+view, NOUN 
+rotating, VERB 
+disc, NOUN 
+
+, SPACE 
+Figure, PROPN 
+6, NUM 
+Field, NOUN 
+view, NOUN 
+thermal, ADJ 
+signal, NOUN 
+
+, SPACE 
+mm, PROPN 
+marked, VERB 
+disc, NOUN 
+enabled, VERB 
+position, NOUN 
+
+, SPACE 
+disc, NOUN 
+centre, NOUN 
+disc, NOUN 
+radius, NOUN 
+corresponding, VERB 
+
+, SPACE 
+pixel, NOUN 
+image, NOUN 
+calculated, VERB 
+pixels, NOUN 
+known, VERB 
+disc, NOUN 
+
+, SPACE 
+radius, NOUN 
+reference, NOUN 
+line, NOUN 
+chosen, VERB 
+image, NOUN 
+
+, SPACE 
+disc, NOUN 
+centre, NOUN 
+found, VERB 
+minimising, VERB 
+sum, NOUN 
+
+, SPACE 
+square, NOUN 
+errors, NOUN 
+known, VERB 
+radii, NOUN 
+regression, NOUN 
+
+, SPACE 
+performed, VERB 
+software, NOUN 
+written, VERB 
+house, NOUN 
+based, VERB 
+nonlin-, ADJ 
+
+, SPACE 
+ear, NOUN 
+Newton, PROPN 
+Raphson, PROPN 
+method, NOUN 
+
+, SPACE 
+local, ADJ 
+temperature, NOUN 
+calculated, VERB 
+spatial, ADJ 
+aver-, NOUN 
+
+, SPACE 
+age, NOUN 
+small, ADJ 
+segment, NOUN 
+disc, NOUN 
+temperature, NOUN 
+
+, SPACE 
+varied, VERB 
+radius, NOUN 
+radial, ADJ 
+height, NOUN 
+Ar, PROPN 
+segment, NOUN 
+set, VERB 
+
+, SPACE 
+millimeter, NOUN 
+liquid, ADJ 
+crystal, NOUN 
+analysis, NOUN 
+approximate, ADJ 
+
+, SPACE 
+angular, ADJ 
+width, NOUN 
+A0, NOUN 
+segment, NOUN 
+0.25, NUM 
+radians, NOUN 
+
+, SPACE 
+resulting, VERB 
+number, NOUN 
+pixels, NOUN 
+average, NOUN 
+5000, NUM 
+
+, SPACE 
+infrared, VERB 
+equivalent, ADJ 
+values, NOUN 
+0.6, NUM 
+radians, NOUN 
+100, NUM 
+pixels, NOUN 
+
+, SPACE 
+3.3, X 
+Calibration, NOUN 
+apparatus, NOUN 
+
+, SPACE 
+Stationary, ADJ 
+calibration, NOUN 
+liquid, ADJ 
+crystal, NOUN 
+performed, VERB 
+
+, SPACE 
+copper, NOUN 
+block, NOUN 
+apparatus, NOUN 
+shown, VERB 
+Figure, PROPN 
+7, NUM 
+consists, VERB 
+
+, SPACE 
+copper, NOUN 
+block, NOUN 
+67, NUM 
+mm, NUM 
+×, PROPN 
+67, NUM 
+mm, NOUN 
+x, SYM 
+5, NUM 
+mm, PROPN 
+mounted, VERB 
+poly-, NOUN 
+
+, SPACE 
+methacrylimide, NOUN 
+insulation, NOUN 
+foam, PROPN 
+k, PROPN 
+=, NOUN 
+0.04, NUM 
+W, PROPN 
+mK, NUM 
+block, NOUN 
+
+, SPACE 
+heated, VERB 
+electrically, ADV 
+thin, ADJ 
+film, NOUN 
+heater, NOUN 
+attached, VERB 
+
+, SPACE 
+face, NOUN 
+temperature, NOUN 
+measured, VERB 
+T, PROPN 
+type, NOUN 
+thermocouple, NUM 
+
+, SPACE 
+diameter, NOUN 
+thermocouple, ADJ 
+wires, NOUN 
+0.13, NUM 
+mm, PROPN 
+
+, SPACE 
+bead, NOUN 
+located, VERB 
+centre, NOUN 
+block, NOUN 
+face, NOUN 
+
+, SPACE 
+block, NOUN 
+sprayed, VERB 
+black, ADJ 
+prior, ADV 
+application, NOUN 
+TLC, PROPN 
+coating, VERB 
+
+, SPACE 
+test, NOUN 
+
+, SPACE 
+thickness, NOUN 
+coating, NOUN 
+black, ADJ 
+paint, NOUN 
+liquid, ADJ 
+crystal, NOUN 
+
+, SPACE 
+measured, VERB 
+found, VERB 
+approximately, ADV 
+25, NUM 
+~, VERB 
+m., VERB 
+
+, SPACE 
+copper, NOUN 
+block, NOUN 
+heated, VERB 
+60, NUM 
+°, NOUN 
+C, NOUN 
+upper, ADJ 
+limit, NOUN 
+R45C10W, PROPN 
+
+, SPACE 
+liquid, ADJ 
+crystal, NOUN 
+temperature, NOUN 
+range, NOUN 
+assuming, VERB 
+typical, ADJ 
+
+, SPACE 
+thermal, ADJ 
+conductivity, NOUN 
+0.2, NUM 
+W, PROPN 
+mK, PROPN 
+temperature, NOUN 
+drop, NOUN 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+5, NUM 
+October, PROPN 
+1996, NUM 
+495, NUM 
+
+
+, SPACE 
+Rotation, PROPN 
+effects, NOUN 
+liquid, ADJ 
+crystals, NOUN 
+B., PROPN 
+J., PROPN 
+Syson, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+67ran, PROPN 
+limide, PROPN 
+foam, PROPN 
+
+, SPACE 
+ocouple, NOUN 
+
+, SPACE 
+coating, VERB 
+
+, SPACE 
+Figure, NOUN 
+7, NUM 
+Schematic, ADJ 
+diagram, NOUN 
+copper, NOUN 
+block, NOUN 
+calibration, NOUN 
+
+, SPACE 
+apparatus, NOUN 
+
+, SPACE 
+coating, NOUN 
+radiative, VERB 
+free, ADJ 
+convective, ADJ 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+ambient, NOUN 
+estimated, VERB 
+approximately, ADV 
+0.1, NUM 
+°, NUM 
+C, NOUN 
+tem-, NOUN 
+
+, SPACE 
+perature, NOUN 
+drop, NOUN 
+copper, NOUN 
+block, NOUN 
+order, NOUN 
+
+, SPACE 
+magnitude, NOUN 
+smaller, ADJ 
+
+, SPACE 
+4, X 
+Experimental, ADJ 
+measurements, NOUN 
+
+, SPACE 
+4.1, NUM 
+Calibration, NOUN 
+copper, NOUN 
+block, NOUN 
+apparatus, NOUN 
+
+, SPACE 
+copper, NOUN 
+block, NOUN 
+apparatus, NOUN 
+described, VERB 
+Calibration, PROPN 
+appara-, ADJ 
+
+, SPACE 
+tus, PROPN 
+section, NOUN 
+calibrate, VERB 
+TLC, PROPN 
+coating, NOUN 
+IR, PROPN 
+thermal, NOUN 
+imager, ADV 
+employing, VERB 
+thermocouple, NOUN 
+secondary, ADJ 
+
+, SPACE 
+standard, NOUN 
+T, NOUN 
+type, NOUN 
+thermocouple, NOUN 
+copper, NOUN 
+block, NOUN 
+
+, SPACE 
+batch, NOUN 
+calibrated, VERB 
+range, NOUN 
+20, NUM 
+120, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+Haake, PROPN 
+oil, NOUN 
+bath, NOUN 
+temperature, NOUN 
+silicone, NOUN 
+oil, NOUN 
+mea-, ADJ 
+
+, SPACE 
+sured, ADJ 
+NPL, PROPN 
+mercury, NOUN 
+filled, VERB 
+thermometers, NOUN 
+manufac-, ADJ 
+
+, SPACE 
+turer, NOUN 
+specified, VERB 
+accuracy, NOUN 
+0.025, NUM 
+°, NUM 
+C, NOUN 
+thermocouple, ADJ 
+cold, ADJ 
+
+, SPACE 
+junction, NOUN 
+isothermal, PROPN 
+box, PROPN 
+20, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+measured, VERB 
+platinum, NOUN 
+resistance, NOUN 
+thermometer, NOUN 
+PRT, PROPN 
+
+, SPACE 
+specified, VERB 
+accuracy, NOUN 
++0.1, PROPN 
+°, NOUN 
+C, NOUN 
+0, NUM 
+°, NOUN 
+C, NOUN 
++0.2, NOUN 
+°, NOUN 
+C, NOUN 
+100, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+voltages, NOUN 
+PRT, PROPN 
+thermocouples, NOUN 
+measured, VERB 
+
+, SPACE 
+Solatron, PROPN 
+3535D, PROPN 
+datalogger, NOUN 
+incorporating, VERB 
+digital, ADJ 
+voltmeter, NOUN 
+
+, SPACE 
+uncertainty, NOUN 
++, NOUN 
+1, NUM 
+IxV., NOUN 
+Typically, PROPN 
+100, NUM 
+voltage, NOUN 
+readings, NOUN 
+
+, SPACE 
+taken, VERB 
+temperature, NOUN 
+increments, NOUN 
+5, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+average, ADJ 
+thermocouple, ADJ 
+voltages, NOUN 
+fitted, VERB 
+measured, ADJ 
+tem-, NOUN 
+
+, SPACE 
+peratures, NOUN 
+squares, NOUN 
+cubic, ADJ 
+polynomial, NOUN 
+maxi-, X 
+
+, SPACE 
+mum, NOUN 
+difference, NOUN 
+fitted, VERB 
+measured, ADJ 
+temperature, NOUN 
+
+, SPACE 
+0.1, NUM 
+°, NUM 
+C, NOUN 
+range, NOUN 
+20, NUM 
+70, NUM 
+°, NUM 
+C, NOUN 
+maximum, ADJ 
+difference, NOUN 
+
+, SPACE 
+calibration, NOUN 
+curve, NOUN 
+British, PROPN 
+Standard, PROPN 
+4937, NUM 
+
+, SPACE 
+5, NUM 
+T, NOUN 
+type, NOUN 
+thermocouples, NOUN 
+0.1, NUM 
+°, NUM 
+C, NOUN 
+range, NOUN 
+
+, SPACE 
+copper, NOUN 
+block, NOUN 
+heated, VERB 
+required, VERB 
+temperature, NOUN 
+
+, SPACE 
+measured, VERB 
+thermocouple, NUM 
+power, NOUN 
+adjusted, VERB 
+
+, SPACE 
+maintain, VERB 
+equilibrium, NOUN 
+illumination, NOUN 
+video, NOUN 
+camera, NOUN 
+
+, SPACE 
+IR, PROPN 
+scanner, NOUN 
+arranged, VERB 
+shown, VERB 
+Figure, PROPN 
+5, NUM 
+IR, PROPN 
+readings, NOUN 
+
+, SPACE 
+video, NOUN 
+recordings, NOUN 
+simultaneously, ADV 
+Tests, NOUN 
+
+, SPACE 
+repeated, VERB 
+approximately, ADV 
+°, NOUN 
+C, NOUN 
+intervals, NOUN 
+45, NUM 
+58, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+results, NOUN 
+IR, PROPN 
+TLC, PROPN 
+calibrations, NOUN 
+presented, VERB 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+emissivity, NOUN 
+setting, NOUN 
+e, NOUN 
+=, NOUN 
+0.96, NUM 
+IR, PROPN 
+imager, PROPN 
+found, VERB 
+
+, SPACE 
+good, ADJ 
+agreement, NOUN 
+thermocouple, ADJ 
+measurements, NOUN 
+
+, SPACE 
+shown, VERB 
+Table, PROPN 
+1, NUM 
+difference, NOUN 
+0.1, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+values, NOUN 
+error, NOUN 
+0.2, NUM 
+°, NUM 
+C, NOUN 
+0.3, NUM 
+°, NUM 
+C, NOUN 
+Surprisingly, ADV 
+
+, SPACE 
+emissivity, NOUN 
+TLC, PROPN 
+appear, VERB 
+change, VERB 
+
+, SPACE 
+surface, NOUN 
+colours, NOUN 
+changed, VERB 
+reason, NOUN 
+understood, VERB 
+
+, SPACE 
+TLC, PROPN 
+calibration, NOUN 
+Table, NOUN 
+1, NUM 
+shows, VERB 
+number, NOUN 
+pixels, NOUN 
+
+, SPACE 
+evaluate, VERB 
+hue, NOUN 
+average, ADJ 
+value, NOUN 
+hue, NOUN 
+
+, SPACE 
+standard, ADJ 
+deviation, NOUN 
+measured, VERB 
+temperatures, NOUN 
+Fig-, PROPN 
+
+, SPACE 
+ure, ADJ 
+8, NUM 
+shows, VERB 
+variation, NOUN 
+average, ADJ 
+hue, NOUN 
+temperature, NOUN 
+
+, SPACE 
+measured, VERB 
+thermocouple, NUM 
+uncertainty, NOUN 
+
+, SPACE 
+hue, NOUN 
+based, VERB 
+standard, ADJ 
+deviations, NOUN 
+2~, PROPN 
+
+, SPACE 
+pointed, VERB 
+owing, VERB 
+large, ADJ 
+number, NOUN 
+data, NOUN 
+>, X 
+104, NUM 
+
+, SPACE 
+determining, VERB 
+average, ADJ 
+hue, NOUN 
+value, NOUN 
+temperature, NOUN 
+
+, SPACE 
+95, NUM 
+confidence, NOUN 
+interval, NOUN 
+average, NOUN 
+equivalent, ADJ 
+
+, SPACE 
++, NUM 
+0.005, NUM 
+°, NUM 
+C, NOUN 
+2tr, ADJ 
+uncertainty, NOUN 
+meaningful, ADJ 
+
+, SPACE 
+single, ADJ 
+hue, NOUN 
+value, NOUN 
+determine, VERB 
+temperature, NOUN 
+
+, SPACE 
+case, NOUN 
+uncertainty, NOUN 
++0.4, ADJ 
+°, NOUN 
+C, NOUN 
+practical, ADJ 
+
+, SPACE 
+cases, NOUN 
+averaging, VERB 
+large, ADJ 
+number, NOUN 
+data, NOUN 
+reduces, VERB 
+uncer-, NOUN 
+
+, SPACE 
+tainty, NOUN 
+negligible, ADJ 
+quantity, NOUN 
+
+, SPACE 
+remembered, VERB 
+copper, NOUN 
+block, NOUN 
+provides, VERB 
+
+, SPACE 
+isothermal, ADJ 
+surface, NOUN 
+principle, NOUN 
+monochromatic, ADJ 
+How-, X 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+Calibration, NOUN 
+IR, PROPN 
+thermal, ADJ 
+imager, ADJ 
+s=, PROPN 
+0.96, NUM 
+TLC, PROPN 
+copper, NOUN 
+block, NOUN 
+apparatus, NOUN 
+
+, SPACE 
+Thermocouple, PROPN 
+
+, SPACE 
+temperature, NOUN 
+°, NUM 
+C, NOUN 
+IR, PROPN 
+temperature, NOUN 
+°, NOUN 
+C, NOUN 
+TLC, PROPN 
+calibration, NOUN 
+
+, SPACE 
+Number, PROPN 
+pixels, VERB 
+Average, ADJ 
+value, NOUN 
+Standard, PROPN 
+
+, SPACE 
+hue, NOUN 
+deviation, NOUN 
+~r, PUNCT 
+
+, SPACE 
+47.5, NUM 
+47.4, NUM 
+42389, NUM 
+9.6, NUM 
+2.4, NUM 
+
+, SPACE 
+48.5, NUM 
+48.5, NUM 
+49263, NUM 
+59.3, NUM 
+3.6, NUM 
+
+, SPACE 
+49.5, NUM 
+49.6, NUM 
+36566, NUM 
+78.3, NUM 
+2.5, NUM 
+
+, SPACE 
+50.6, NUM 
+50.6, NUM 
+33538, NUM 
+90.7, NUM 
+2.2, NUM 
+
+, SPACE 
+51.5, NUM 
+51.5, NUM 
+39370, NUM 
+98.3, NUM 
+2.2, NUM 
+
+, SPACE 
+52.4, NUM 
+52.4, NUM 
+46706, NUM 
+107.2, NUM 
+2.2, NUM 
+
+, SPACE 
+53.5, NUM 
+53.8, NUM 
+51938, NUM 
+119.2, NUM 
+2.2, NUM 
+
+, SPACE 
+55.0, NUM 
+55.0, NUM 
+50897, NUM 
+135.3, NUM 
+1.8, NUM 
+
+, SPACE 
+56.7, NUM 
+56.7, NUM 
+36018, NUM 
+148.0, NUM 
+1.1, NUM 
+
+, SPACE 
+58.3, NUM 
+58.5, NUM 
+19604, NUM 
+156.1, NUM 
+0.8, NUM 
+
+, SPACE 
+496, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+5, NUM 
+October, PROPN 
+1996, NUM 
+
+
+, SPACE 
+160-, NUM 
+
+, SPACE 
+i., PROPN 
+~, PUNCT 
+140-, NUM 
+
+, SPACE 
+120-, NUM 
+
+, SPACE 
+80-, NUM 
+Jr, PROPN 
+
+, SPACE 
+60-, X 
+
+, SPACE 
+40-, X 
+
+, SPACE 
+20-, NUM 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+47, NUM 
+48, NUM 
+49, NUM 
+50, NUM 
+511, NUM 
+52, NUM 
+513, NUM 
+54, NUM 
+55, NUM 
+56, NUM 
+57, NUM 
+518, NUM 
+59, NUM 
+
+, SPACE 
+thcm, NOUN 
+~, PUNCT 
+ocoup~, PROPN 
+temperature, NOUN 
+C, NOUN 
+
+, SPACE 
+Figure, PROPN 
+8, NUM 
+Variation, PROPN 
+TLC, PROPN 
+hue, NOUN 
+temperature, NOUN 
+measured, VERB 
+
+, SPACE 
+thermocouple, PRON 
+copper, NOUN 
+block, NOUN 
+
+, SPACE 
+temperature, NOUN 
+rotating, VERB 
+disc, NOUN 
+varies, VERB 
+radius, NOUN 
+
+, SPACE 
+complete, ADJ 
+spectrum, NOUN 
+colours, NOUN 
+appear, VERB 
+field, NOUN 
+of-, NOUN 
+
+, SPACE 
+view, NOUN 
+discussed, VERB 
+Section, NOUN 
+4.2, NUM 
+colour, ADJ 
+balance, NOUN 
+circuits, NOUN 
+
+, SPACE 
+video, NOUN 
+hardware, NOUN 
+create, VERB 
+bias, NOUN 
+recorded, ADJ 
+colour, NOUN 
+
+, SPACE 
+adding, VERB 
+uncertainty, NOUN 
+measurement, NOUN 
+temperature, NOUN 
+
+, SPACE 
+TLC, PROPN 
+
+, SPACE 
+4.2, NUM 
+Temperature, NOUN 
+measurement, NOUN 
+rotating, VERB 
+disc, NOUN 
+
+, SPACE 
+video, NOUN 
+camera, NOUN 
+IR, PROPN 
+scanner, NOUN 
+lighting, NOUN 
+set, VERB 
+shown, VERB 
+
+, SPACE 
+Figure, NOUN 
+5, NUM 
+measurements, NOUN 
+rotational, ADJ 
+speeds, NOUN 
+
+, SPACE 
+1000, NUM 
+7000, NUM 
+rpm, NOUN 
+increments, NOUN 
+1000, NUM 
+rpm, NOUN 
+
+, SPACE 
+coated, ADJ 
+ring, NOUN 
+disc, NOUN 
+extended, VERB 
+225, NUM 
+<, X 
+r, NOUN 
+<, X 
+285, NUM 
+mm, PROPN 
+
+, SPACE 
+speeds, NOUN 
+gave, VERB 
+rise, NOUN 
+centripetal, ADJ 
+accelerations, NOUN 
+250, NUM 
+
+, SPACE 
+15,600, NUM 
+g, NOUN 
+g, PROPN 
+acceleration, NOUN 
+gravity, NOUN 
+case, NOUN 
+
+, SPACE 
+time, NOUN 
+dependent, ADJ 
+systematic, ADJ 
+errors, NOUN 
+
+, SPACE 
+confused, ADJ 
+effects, NOUN 
+rotational, ADJ 
+speed, NOUN 
+high, ADJ 
+speed, NOUN 
+
+, SPACE 
+low, ADJ 
+speed, NOUN 
+tests, NOUN 
+carried, VERB 
+alternately, ADV 
+
+, SPACE 
+rising, VERB 
+falling, VERB 
+sequence, NOUN 
+speeds, NOUN 
+
+, SPACE 
+Figure, NOUN 
+9, NUM 
+shows, VERB 
+variation, NOUN 
+hue, NOUN 
+obtained, VERB 
+
+, SPACE 
+video, NOUN 
+recording, NOUN 
+TLC, PROPN 
+described, VERB 
+temper-, X 
+
+, SPACE 
+ature, NOUN 
+disc, NOUN 
+measured, VERB 
+IR, PROPN 
+imager, ADJ 
+Despite, SCONJ 
+scatter, NOUN 
+
+, SPACE 
+160-, NUM 
+
+, SPACE 
+140-, NUM 
+
+, SPACE 
+120-, NUM 
+
+, SPACE 
+100-, NUM 
+
+, SPACE 
+
+, SPACE 
+40-, PROPN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+47, NUM 
+.~.4, PROPN 
+<, X 
+~, PUNCT 
+>, X 
+
+, SPACE 
+z-, X 
+
+, SPACE 
+4, NUM 
+
+, SPACE 
+/Z, PUNCT 
+f, PROPN 
+1000, NUM 
+rzv, NOUN 
+miu, PROPN 
+
+, SPACE 
+7.~, NOUN 
+2000, NUM 
+~tmia, PUNCT 
+
+, SPACE 
+~, PUNCT 
+~,~'/, PUNCT 
+40~0, NUM 
+rev, PROPN 
+min, PROPN 
+
+, SPACE 
+50O0, NUM 
+rev, PROPN 
+min, PROPN 
+
+, SPACE 
+.~., PROPN 
+
+, SPACE 
+2, NUM 
+9, NUM 
+o, NOUN 
+5, NUM 
+5~, NOUN 
+~, PUNCT 
+5, NUM 
+7, NUM 
+~, PUNCT 
+9, NUM 
+temp, NOUN 
+~, NOUN 
+mne, PROPN 
+07, NUM 
+
+, SPACE 
+Figure, PROPN 
+9, NUM 
+Variation, PROPN 
+TLC, PROPN 
+hue, NOUN 
+disc, NOUN 
+temperature, NOUN 
+mea-, ADJ 
+
+, SPACE 
+sured, VERB 
+IR, PROPN 
+imager, ADJ 
+Rotation, ADJ 
+effects, NOUN 
+liquid, ADJ 
+crystals, NOUN 
+B., PROPN 
+J., PROPN 
+Syson, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+experimental, ADJ 
+results, NOUN 
+appear, VERB 
+obvious, ADJ 
+effects, NOUN 
+
+, SPACE 
+rotational, ADJ 
+speed, NOUN 
+speeds, NOUN 
+1000, NUM 
+7000, NUM 
+rpm, NOUN 
+
+, SPACE 
+fixed, VERB 
+value, NOUN 
+hue, NOUN 
+range, NOUN 
+80, NUM 
+120, NUM 
+temperature, NOUN 
+
+, SPACE 
+variation, NOUN 
+speed, NOUN 
+0.5, NUM 
+°, NUM 
+C, NOUN 
+temperature, NOUN 
+
+, SPACE 
+variations, NOUN 
+results, NOUN 
+extremes, NOUN 
+1000, NUM 
+7000, NUM 
+rpm, NOUN 
+
+, SPACE 
+smaller, ADJ 
+effect, NOUN 
+rotational, ADJ 
+speed, NOUN 
+
+, SPACE 
+progressive, ADJ 
+effect, NOUN 
+increase, VERB 
+monotoni-, NOUN 
+
+, SPACE 
+cally, ADV 
+speed, NOUN 
+increases, NOUN 
+
+, SPACE 
+Figure, NOUN 
+10, NUM 
+shows, VERB 
+variation, NOUN 
+temperature, NOUN 
+measured, VERB 
+
+, SPACE 
+TLC, PROPN 
+obtained, VERB 
+copper, NOUN 
+block, NOUN 
+hue, NOUN 
+temperature, NOUN 
+
+, SPACE 
+calibration, NOUN 
+shown, VERB 
+Figure, PROPN 
+8), PROPN 
+temperature, NOUN 
+disc, NOUN 
+
+, SPACE 
+measured, VERB 
+IR, PROPN 
+imager, ADJ 
+calibration, NOUN 
+line, NOUN 
+obtained, VERB 
+
+, SPACE 
+copper, NOUN 
+block, NOUN 
+stationary, ADJ 
+frame, NOUN 
+reference, NOUN 
+
+, SPACE 
+shown, VERB 
+figure, NOUN 
+measurements, NOUN 
+scatter, NOUN 
+
+, SPACE 
+oscillatory, ADJ 
+bias, NOUN 
+calibration, NOUN 
+line, NOUN 
+appears, VERB 
+
+, SPACE 
+effect, NOUN 
+rotational, ADJ 
+speed, NOUN 
+scatter, NOUN 
+relatively, ADV 
+small, ADJ 
+
+, SPACE 
+bias, NOUN 
+monotonic, ADJ 
+function, NOUN 
+speed, NOUN 
+
+, SPACE 
+oscillatory, ADJ 
+bias, NOUN 
+originally, ADV 
+thought, VERB 
+caused, VERB 
+
+, SPACE 
+moving, VERB 
+stationary, NOUN 
+rotating, VERB 
+frame, NOUN 
+se, X 
+
+, SPACE 
+moving, VERB 
+surface, NOUN 
+copper, NOUN 
+block, NOUN 
+disc, NOUN 
+
+, SPACE 
+surfaces, NOUN 
+different, ADJ 
+emissivities, NOUN 
+reflectivi-, NOUN 
+
+, SPACE 
+ties, NOUN 
+affect, VERB 
+optical, ADJ 
+IR, ADJ 
+signals, NOUN 
+different, ADJ 
+
+, SPACE 
+ways, NOUN 
+test, VERB 
+hypothesis, NOUN 
+situ, NOUN 
+calibration, NOUN 
+per-, X 
+
+, SPACE 
+formed, VERB 
+disc, NOUN 
+rotating, VERB 
+1000, NUM 
+rpm, NOUN 
+Ideally, ADV 
+
+, SPACE 
+calibration, NOUN 
+performed, VERB 
+stationary, ADJ 
+disc, NOUN 
+
+, SPACE 
+impracticable, ADJ 
+owing, VERB 
+nonaxisymmetric, ADJ 
+tempera-, ADJ 
+
+, SPACE 
+ture, NOUN 
+variations, NOUN 
+created, VERB 
+heated, ADJ 
+vertical, ADJ 
+surface, NOUN 
+
+, SPACE 
+single, ADJ 
+g, PROPN 
+gravitational, ADJ 
+field, NOUN 
+situ, NOUN 
+calibration, NOUN 
+hue, NOUN 
+
+, SPACE 
+values, NOUN 
+TLC, PROPN 
+calibrated, VERB 
+IR, PROPN 
+measurements, NOUN 
+
+, SPACE 
+obtained, VERB 
+surface, NOUN 
+heated, ADJ 
+disc, NOUN 
+emissivity, NOUN 
+
+, SPACE 
+setting, NOUN 
+IR, PROPN 
+imager, PROPN 
+kept, VERB 
+e, NOUN 
+=, NOUN 
+0.96, NUM 
+value, NOUN 
+
+, SPACE 
+original, ADJ 
+copper, NOUN 
+block, NOUN 
+calibration, NOUN 
+
+, SPACE 
+Figure, NOUN 
+11, NUM 
+shows, VERB 
+variation, NOUN 
+temperature, NOUN 
+measured, VERB 
+
+, SPACE 
+TLC, PROPN 
+situ, NOUN 
+calibration, NOUN 
+temperature, NOUN 
+
+, SPACE 
+measured, VERB 
+IR, PROPN 
+imager, ADJ 
+scatter, ADJ 
+measure-, ADJ 
+
+, SPACE 
+ments, NOUN 
+oscillatory, ADJ 
+bias, NOUN 
+reduced, VERB 
+significantly, ADV 
+
+, SPACE 
+departure, NOUN 
+measurements, NOUN 
+7000, NUM 
+rpm, NOUN 
+
+, SPACE 
+calibration, NOUN 
+1000, NUM 
+rpm, NOUN 
+typically, ADV 
+0.3, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+departure, NOUN 
+measurements, NOUN 
+intermediate, ADJ 
+speeds, NOUN 
+example, NOUN 
+
+, SPACE 
+3000, NUM 
+rpm, NOUN 
+0.5, NUM 
+°, NUM 
+C, NOUN 
+departure, NOUN 
+calibra-, ADJ 
+
+, SPACE 
+59-, NUM 
+
+, SPACE 
+58-, NUM 
+
+, SPACE 
+57-, NUM 
+
+, SPACE 
+56-, NUM 
+
+, SPACE 
+55-, NUM 
+
+, SPACE 
+~, PUNCT 
+53-, NUM 
+
+, SPACE 
+~, PUNCT 
+52-, NUM 
+
+, SPACE 
+51-, X 
+
+, SPACE 
+50-, NOUN 
+
+, SPACE 
+49-, NUM 
+
+, SPACE 
+48-, NUM 
+
+, SPACE 
+47, NUM 
+
+, SPACE 
+47, NUM 
+f, X 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+IR, PROPN 
+mrap, PROPN 
+~, PROPN 
+t, NOUN 
+~, PUNCT 
+t~, PROPN 
+CO, PROPN 
+
+, SPACE 
+Figure, PROPN 
+10, NUM 
+Variation, PROPN 
+disc, NOUN 
+temperature, NOUN 
+measured, VERB 
+TLC, PROPN 
+
+, SPACE 
+copper, NOUN 
+block, NOUN 
+calibration, NOUN 
+temperature, NOUN 
+measured, VERB 
+
+, SPACE 
+IR, PROPN 
+imager, PROPN 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+5, NUM 
+October, PROPN 
+1996, NUM 
+497, NUM 
+
+
+, SPACE 
+Rotation, PROPN 
+effects, NOUN 
+liquid, ADJ 
+crystals, NOUN 
+B., PROPN 
+J., PROPN 
+Syson, PROPN 
+et, NOUN 
+aL, PROPN 
+
+, SPACE 
+7, NUM 
+
+, SPACE 
+56-, NUM 
+
+, SPACE 
+55-, NUM 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+51-, X 
+/J, PUNCT 
+3ooo.v~., NOUN 
+
+, SPACE 
+.c, PUNCT 
+5000, NUM 
+rcvhlain, NOUN 
+
+, SPACE 
+f/'f/, PROPN 
+49-, NUM 
+l~,~, NUM 
+l, NOUN 
+
+, SPACE 
+48, NUM 
+
+, SPACE 
+4, NUM 
+9, NUM 
+5'0, NUM 
+5'6, NUM 
+IR, PROPN 
+tempe, ADP 
+~, PUNCT 
+atu~, PROPN 
+CC, PROPN 
+
+, SPACE 
+Figure, PROPN 
+11, NUM 
+Variation, PROPN 
+disc, NOUN 
+temperature, NOUN 
+measured, VERB 
+TLC, PROPN 
+
+, SPACE 
+situ, NOUN 
+calibration, NOUN 
+temperature, NOUN 
+measured, VERB 
+IR, PROPN 
+
+, SPACE 
+imager, ADJ 
+
+, SPACE 
+tion, NOUN 
+line, NOUN 
+relatively, ADV 
+small, ADJ 
+increase, VERB 
+monotoni-, NOUN 
+
+, SPACE 
+cally, ADV 
+speed, NOUN 
+effect, NOUN 
+appear, VERB 
+speed, NOUN 
+related, VERB 
+
+, SPACE 
+reason, NOUN 
+bias, NOUN 
+believed, VERB 
+lie, VERB 
+colour-, ADJ 
+
+, SPACE 
+balance, NOUN 
+circuits, NOUN 
+video, NOUN 
+hardware, NOUN 
+CCD, PROPN 
+camera, NOUN 
+recorder, NOUN 
+
+, SPACE 
+frame, NOUN 
+grabber, NOUN 
+recording, VERB 
+TLC, PROPN 
+signal, NOUN 
+stated, VERB 
+
+, SPACE 
+copper, NOUN 
+block, NOUN 
+calibration, NOUN 
+surface, NOUN 
+isothermal, ADJ 
+
+, SPACE 
+colour, NOUN 
+visible, ADJ 
+instant, NOUN 
+variation, NOUN 
+
+, SPACE 
+hue, NOUN 
+pixel, PROPN 
+pixel, PROPN 
+relatively, ADV 
+small, ADJ 
+
+, SPACE 
+disc, NOUN 
+experiments, NOUN 
+surface, NOUN 
+nonisothermal, ADJ 
+variations, NOUN 
+
+, SPACE 
+hue, NOUN 
+large, ADJ 
+principle, NOUN 
+radial, ADJ 
+distribution, NOUN 
+
+, SPACE 
+temperature, NOUN 
+disc, NOUN 
+
+, SPACE 
+tests, NOUN 
+making, VERB 
+bias, NOUN 
+invariant, ADJ 
+speed, NOUN 
+practice, NOUN 
+
+, SPACE 
+temperature, NOUN 
+distribution, NOUN 
+varied, VERB 
+test, NOUN 
+test, VERB 
+conse-, NUM 
+
+, SPACE 
+quently, ADV 
+systematic, ADJ 
+error, NOUN 
+video, NOUN 
+hardware, NOUN 
+pro-, VERB 
+
+, SPACE 
+duce, VERB 
+appears, VERB 
+speed, NOUN 
+related, VERB 
+bias, NOUN 
+TLC, PROPN 
+
+, SPACE 
+temperature, NOUN 
+measurements, NOUN 
+
+, SPACE 
+Figure, NOUN 
+12, NUM 
+shows, VERB 
+radial, ADJ 
+distribution, NOUN 
+disc, NOUN 
+tempera-, X 
+
+, SPACE 
+ture, NOUN 
+measured, VERB 
+IR, PROPN 
+imager, ADJ 
+seven, NUM 
+speeds, NOUN 
+
+, SPACE 
+distributions, NOUN 
+similar, ADJ 
+magnitudes, NOUN 
+different, ADJ 
+
+, SPACE 
+relationship, NOUN 
+maximum, ADJ 
+temperature, NOUN 
+speed, NOUN 
+shown, VERB 
+
+, SPACE 
+Figure, NOUN 
+12, NUM 
+similar, ADJ 
+hue, NOUN 
+speed, NOUN 
+shown, VERB 
+
+, SPACE 
+Figure, NOUN 
+11, NUM 
+appear, VERB 
+speed, NOUN 
+related, VERB 
+
+, SPACE 
+bias, NOUN 
+hue, NOUN 
+caused, VERB 
+indirectly, ADV 
+temperature, NOUN 
+distribution, NOUN 
+
+, SPACE 
+disc, NOUN 
+speed, NOUN 
+se, X 
+
+, SPACE 
+precise, ADJ 
+mechanism, NOUN 
+hue, NOUN 
+values, NOUN 
+
+, SPACE 
+dependent, ADJ 
+distribution, NOUN 
+temperature, NOUN 
+fully, ADV 
+under-, ADJ 
+
+, SPACE 
+stood, VERB 
+authors, NOUN 
+investigations, NOUN 
+begun, VERB 
+ascertain, VERB 
+
+, SPACE 
+problem, NOUN 
+solved, VERB 
+digital, ADJ 
+video, NOUN 
+system, NOUN 
+
+, SPACE 
+current, ADJ 
+analog, NOUN 
+despite, SCONJ 
+relatively, ADV 
+
+, SPACE 
+minor, ADJ 
+problem, NOUN 
+reasonably, ADV 
+concluded, VERB 
+accelera-, VERB 
+
+, SPACE 
+tions, NOUN 
+16,000, NUM 
+g, NOUN 
+rotational, ADJ 
+speed, NOUN 
+significant, ADJ 
+effect, NOUN 
+
+, SPACE 
+temperature, NOUN 
+response, NOUN 
+wide, ADJ 
+band, NOUN 
+thermochromic, NOUN 
+liquid, NOUN 
+
+, SPACE 
+crystal, NOUN 
+
+, SPACE 
+4.3, X 
+comment, NOUN 
+rotational, ADJ 
+shift, NOUN 
+
+, SPACE 
+stated, VERB 
+introduction, NOUN 
+principal, ADJ 
+reason, NOUN 
+studying, VERB 
+
+, SPACE 
+phenomenon, NOUN 
+prove, VERB 
+disprove, VERB 
+rotational, ADJ 
+shift, NOUN 
+
+, SPACE 
+observed, VERB 
+experimenters, NOUN 
+speculation, NOUN 
+
+, SPACE 
+TLC, PROPN 
+sheared, VERB 
+surface, NOUN 
+strain, NOUN 
+rotating, VERB 
+59=, NOUN 
+
+, SPACE 
+56-, NUM 
+.S, NOUN 
+~, PUNCT 
+j, PROPN 
+
+, SPACE 
+5~-, NUM 
+<, X 
+
+, SPACE 
+.//.~, PROPN 
+.~, NOUN 
+1000, NUM 
+tev, NOUN 
+nfia, PROPN 
+
+, SPACE 
+.~/, PROPN 
+2ooo, INTJ 
+l, NOUN 
+~, PROPN 
+v, PROPN 
+min, NOUN 
+
+, SPACE 
+~, PUNCT 
+4coo, PROPN 
+rev, PROPN 
+min, PROPN 
+
+, SPACE 
+50-, NOUN 
+50OOre~,~, NUM 
+
+, SPACE 
+~.~-, PUNCT 
+6000, NUM 
+~,~, NUM 
+
+, SPACE 
+49-, NUM 
+
+, SPACE 
+48-, NUM 
+
+, SPACE 
+47, NUM 
+
+, SPACE 
+225, NUM 
+230, NUM 
+235, NUM 
+2AO, NUM 
+245, NUM 
+250, NUM 
+255, NUM 
+260, NUM 
+265, NUM 
+270, NUM 
+275, NUM 
+280, NUM 
+285, NUM 
+
+, SPACE 
+radius, NOUN 
+ram, PROPN 
+
+, SPACE 
+Figure, VERB 
+12, NUM 
+Radial, ADJ 
+distribution, NOUN 
+disc, NOUN 
+temperature, NOUN 
+measured, VERB 
+
+, SPACE 
+IR, PROPN 
+imager, ADJ 
+
+, SPACE 
+body, NOUN 
+centrifuged, VERB 
+g, PROPN 
+forces, NOUN 
+
+, SPACE 
+established, VERB 
+reasonable, ADJ 
+doubt, NOUN 
+rotational, ADJ 
+
+, SPACE 
+shift, NOUN 
+permitted, VERB 
+speculate, VERB 
+
+, SPACE 
+experimenters, NOUN 
+wrong, ADJ 
+
+, SPACE 
+submitting, VERB 
+paper, NOUN 
+publication, NOUN 
+October, PROPN 
+1995, NUM 
+
+, SPACE 
+joined, VERB 
+forces, NOUN 
+Cengiz, PROPN 
+Camci, PROPN 
+Boris, PROPN 
+Glezer, PROPN 
+
+, SPACE 
+United, PROPN 
+States, PROPN 
+groups, NOUN 
+produced, VERB 
+short, ADJ 
+paper, NOUN 
+
+, SPACE 
+separate, ADJ 
+experiments, NOUN 
+theirs, PRON 
+narrow, ADJ 
+band, NOUN 
+TLC, NOUN 
+
+, SPACE 
+wide, ADJ 
+band, NOUN 
+paper, NOUN 
+Camci, PROPN 
+et, PROPN 
+al, PROPN 
+1996, NUM 
+
+, SPACE 
+suggest, VERB 
+reason, NOUN 
+rotational, ADJ 
+shift, NOUN 
+completeness, NOUN 
+
+, SPACE 
+deference, NOUN 
+reviewers, NOUN 
+paper, NOUN 
+
+, SPACE 
+repeat, VERB 
+suggestion, NOUN 
+
+, SPACE 
+thermocoupte, NOUN 
+different, ADJ 
+material, NOUN 
+
+, SPACE 
+body, NOUN 
+embedded, VERB 
+cause, VERB 
+local, ADJ 
+
+, SPACE 
+disturbance, NOUN 
+temperature, NOUN 
+distribution, NOUN 
+body, NOUN 
+
+, SPACE 
+creates, VERB 
+thermal, ADJ 
+disturbance, NOUN 
+error, NOUN 
+differ-, ADJ 
+
+, SPACE 
+ence, NOUN 
+true, ADJ 
+undisturbed, ADJ 
+temperature, NOUN 
+
+, SPACE 
+measured, VERB 
+temperature, NOUN 
+magnitude, NOUN 
+error, NOUN 
+depends, VERB 
+
+, SPACE 
+things, NOUN 
+size, NOUN 
+thermocouple, NUM 
+
+, SPACE 
+thermal, ADJ 
+properties, NOUN 
+materials, NOUN 
+local, ADJ 
+heat, NOUN 
+
+, SPACE 
+flux, NOUN 
+
+, SPACE 
+rotating, VERB 
+body, NOUN 
+constant, ADJ 
+temperature, NOUN 
+heat, NOUN 
+
+, SPACE 
+transfer, NOUN 
+coefficient, NOUN 
+surface, NOUN 
+heat, NOUN 
+flux, NOUN 
+increases, VERB 
+
+, SPACE 
+rotational, ADJ 
+speed, NOUN 
+increases, NOUN 
+Consequently, ADV 
+thermal-, NOUN 
+
+, SPACE 
+disturbance, NOUN 
+error, NOUN 
+created, VERB 
+embedded, ADJ 
+thermocouple, NOUN 
+
+, SPACE 
+increase, VERB 
+rotational, ADJ 
+speed, NOUN 
+thermocouples, NOUN 
+TLC, PROPN 
+
+, SPACE 
+measure, VERB 
+temperature, NOUN 
+rotating, VERB 
+body, NOUN 
+
+, SPACE 
+difference, NOUN 
+measurements, NOUN 
+increase, VERB 
+
+, SPACE 
+speed, NOUN 
+
+, SPACE 
+phenomenon, NOUN 
+observed, VERB 
+independently, ADV 
+
+, SPACE 
+experiments, NOUN 
+carried, VERB 
+groups, NOUN 
+authors, NOUN 
+
+, SPACE 
+believed, VERB 
+reason, NOUN 
+research, NOUN 
+workers, NOUN 
+
+, SPACE 
+observed, VERB 
+wrongly, ADV 
+believed, VERB 
+rotational, ADJ 
+
+, SPACE 
+shift, NOUN 
+TLC, PROPN 
+output, NOUN 
+referred, VERB 
+Section, NOUN 
+1, NUM 
+
+, SPACE 
+5, X 
+Conclusions, NOUN 
+
+, SPACE 
+Wide, ADJ 
+band, NOUN 
+TLC, PROPN 
+IR, PROPN 
+thermal, NOUN 
+imager, ADJ 
+
+, SPACE 
+measure, VERB 
+surface, NOUN 
+temperature, NOUN 
+rotating, VERB 
+disc, NOUN 
+hue, NOUN 
+
+, SPACE 
+technique, NOUN 
+employed, VERB 
+determine, VERB 
+temperature, NOUN 
+
+, SPACE 
+TLC, PROPN 
+effective, ADJ 
+range, NOUN 
+48, NUM 
+58, NUM 
+°, NOUN 
+C, NOUN 
+resolu-, X 
+
+, SPACE 
+tion, NOUN 
+0.1, NUM 
+°, NUM 
+C, NOUN 
+IR, PROPN 
+imager, ADJ 
+resolution, NOUN 
+
+, SPACE 
+498, NUM 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+1, NUM 
+7, NUM 
+5, NUM 
+October, PROPN 
+1996, NUM 
+
+
+, SPACE 
+approximately, ADV 
+0.1, NUM 
+°, NUM 
+C, NOUN 
+datum, NOUN 
+determine, VERB 
+
+, SPACE 
+effect, NOUN 
+rotational, ADJ 
+speed, NOUN 
+temperature, NOUN 
+response, NOUN 
+
+, SPACE 
+TLC, PROPN 
+
+, SPACE 
+Tests, NOUN 
+conducted, VERB 
+rotational, ADJ 
+speeds, NOUN 
+1000, NUM 
+
+, SPACE 
+7000, NUM 
+rpm, NOUN 
+corresponding, VERB 
+centripetal, ADJ 
+accelerations, NOUN 
+250, NUM 
+
+, SPACE 
+16,000, NUM 
+g., NOUN 
+scatter, NOUN 
+0.5, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+measurements, NOUN 
+typical, ADJ 
+difference, NOUN 
+temperatures, NOUN 
+
+, SPACE 
+measured, VERB 
+TLC, PROPN 
+IR, PROPN 
+imager, ADJ 
+extremes, NOUN 
+
+, SPACE 
+speed, NOUN 
+range, NOUN 
+1000, NUM 
+7000, NUM 
+rpm, NOUN 
+0.3, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+appeared, VERB 
+small, ADJ 
+speed, NOUN 
+related, VERB 
+bias, NOUN 
+mea-, ADJ 
+
+, SPACE 
+sured, VERB 
+temperatures, NOUN 
+attributed, VERB 
+characteristics, NOUN 
+
+, SPACE 
+video, NOUN 
+hardware, NOUN 
+measure, VERB 
+record, VERB 
+images, NOUN 
+
+, SPACE 
+TLC, PROPN 
+value, NOUN 
+hue, NOUN 
+obtained, VERB 
+video, NOUN 
+recordings, NOUN 
+
+, SPACE 
+found, VERB 
+weakly, ADV 
+dependent, ADJ 
+distribution, NOUN 
+temper-, X 
+
+, SPACE 
+ature, NOUN 
+rotating, VERB 
+disc, NOUN 
+Despite, SCONJ 
+equipment, NOUN 
+related, VERB 
+bias, NOUN 
+
+, SPACE 
+concluded, VERB 
+accelerations, NOUN 
+16000, NUM 
+g, NOUN 
+
+, SPACE 
+uncertainty, NOUN 
+measurements, NOUN 
+significant, ADJ 
+effect, NOUN 
+
+, SPACE 
+rotational, ADJ 
+speed, NOUN 
+temperature, NOUN 
+response, NOUN 
+wide, ADJ 
+band, NOUN 
+TLC, PROPN 
+
+, SPACE 
+Acknowledgments, PROPN 
+
+, SPACE 
+authors, NOUN 
+wish, VERB 
+thank, VERB 
+UK, PROPN 
+Engineering, PROPN 
+Physical, PROPN 
+
+, SPACE 
+Sciences, PROPN 
+Research, PROPN 
+Council, PROPN 
+Defence, PROPN 
+Research, PROPN 
+Agency, PROPN 
+
+, SPACE 
+European, PROPN 
+Gas, PROPN 
+Turbines, PROPN 
+Ltd, PROPN 
+supporting, VERB 
+research, NOUN 
+de-, NOUN 
+
+, SPACE 
+scribed, VERB 
+paper, NOUN 
+Rotation, ADJ 
+effects, NOUN 
+liquid, ADJ 
+crystals, NOUN 
+B., PROPN 
+J., PROPN 
+Syson, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+Camci, PROPN 
+C., PROPN 
+Glezer, PROPN 
+B., PROPN 
+1995, NUM 
+Private, ADJ 
+communication, NOUN 
+
+, SPACE 
+Camci, PROPN 
+C., PROPN 
+Glezer, PROPN 
+B., PROPN 
+Owen, PROPN 
+J., PROPN 
+M., PROPN 
+Pilbrow, PROPN 
+R., PROPN 
+G., PROPN 
+Syson, PROPN 
+B., PROPN 
+J., PROPN 
+
+, SPACE 
+1996, NUM 
+Application, NOUN 
+thermochromic, NOUN 
+liquid, NOUN 
+crystal, NOUN 
+rotating, VERB 
+
+, SPACE 
+surfaces, NOUN 
+Paper, NOUN 
+96, NUM 
+GT-138, PROPN 
+ASME, PROPN 
+International, PROPN 
+Gas, PROPN 
+Turbine, PROPN 
+
+, SPACE 
+Aeroengine, PROPN 
+Congress, PROPN 
+Birmingham, PROPN 
+UK, PROPN 
+June, PROPN 
+10, NUM 
+13, NUM 
+1996, NUM 
+
+, SPACE 
+Camci, PROPN 
+C., PROPN 
+Kim, PROPN 
+K., PROPN 
+Hippensteele, PROPN 
+S., PROPN 
+A., NOUN 
+1992, NUM 
+new, ADJ 
+hue, NOUN 
+captur-, PRON 
+
+, SPACE 
+ing, ADJ 
+technique, NOUN 
+quantitative, ADJ 
+interpretation, NOUN 
+liquid, NOUN 
+crystal, NOUN 
+
+, SPACE 
+images, NOUN 
+convective, ADJ 
+heat, NOUN 
+transfer, NOUN 
+studies, NOUN 
+J., PROPN 
+Turbomachin-, PROPN 
+
+, SPACE 
+ery, NOUN 
+114, NUM 
+765, NUM 
+775, NUM 
+
+, SPACE 
+Jones, PROPN 
+T., PROPN 
+V., PROPN 
+Hippensteele, PROPN 
+S., PROPN 
+A., NOUN 
+1988, NUM 
+High, ADJ 
+resolution, NOUN 
+heat-, ADJ 
+
+, SPACE 
+transfer, NOUN 
+coefficient, ADJ 
+maps, NOUN 
+applicable, ADJ 
+compound, NOUN 
+curve, NOUN 
+surfaces, NOUN 
+
+, SPACE 
+liquid, ADJ 
+crystals, NOUN 
+transient, ADJ 
+wind, NOUN 
+tunnel, NOUN 
+NASA, PROPN 
+TM, PROPN 
+89855, NUM 
+
+, SPACE 
+Metzger, PROPN 
+D., PROPN 
+E., PROPN 
+Bunker, PROPN 
+R., PROPN 
+S., PROPN 
+Bosch, PROPN 
+G., PROPN 
+1991, NUM 
+Transient, ADJ 
+liquid-, VERB 
+
+, SPACE 
+crystal, NOUN 
+measurement, NOUN 
+local, ADJ 
+heat, NOUN 
+transfer, NOUN 
+rotating, VERB 
+disk, NOUN 
+
+, SPACE 
+jet, NOUN 
+impingement, ADJ 
+J., PROPN 
+Turbomachinery, PROPN 
+113, NUM 
+52, NUM 
+59, NUM 
+
+, SPACE 
+Wang, PROPN 
+Z., PROPN 
+Ireland, PROPN 
+P., PROPN 
+T., PROPN 
+Jones, PROPN 
+T., PROPN 
+V., PROPN 
+1995, NUM 
+advanced, ADJ 
+method, NOUN 
+
+, SPACE 
+processing, VERB 
+liquid, NOUN 
+crystal, NOUN 
+video, NOUN 
+signals, NOUN 
+transient, ADJ 
+heat-, ADJ 
+
+, SPACE 
+transfer, NOUN 
+experiments, NOUN 
+J., PROPN 
+Turbomachinery, PROPN 
+117, NUM 
+184, NUM 
+189, NUM 
+
+, SPACE 
+Wilson, PROPN 
+M., PROPN 
+Pilbrow, PROPN 
+R., PROPN 
+Owen, PROPN 
+J., PROPN 
+M., PROPN 
+1995, NUM 
+Flow, VERB 
+heat, NOUN 
+transfer, NOUN 
+
+, SPACE 
+pre, ADJ 
+swirl, ADJ 
+rotor, NOUN 
+stator, NOUN 
+system, NOUN 
+Paper, NOUN 
+95, NUM 
+GT-239, PROPN 
+ASME, PROPN 
+Interna-, PROPN 
+
+, SPACE 
+tional, ADJ 
+Gas, PROPN 
+Turbine, PROPN 
+Aeroengine, PROPN 
+Congress, PROPN 
+Houston, PROPN 
+TX, PROPN 
+June, PROPN 
+
+, SPACE 
+5, NUM 
+8, NUM 
+1995, NUM 
+
+, SPACE 
+Wilson, PROPN 
+M., PROPN 
+Syson, PROPN 
+B., PROPN 
+J., PROPN 
+Owen, PROPN 
+J., PROPN 
+M., PROPN 
+1993, NUM 
+Image, NOUN 
+processing, NOUN 
+
+, SPACE 
+techniques, NOUN 
+applied, VERB 
+wide, ADJ 
+band, NOUN 
+thermochromic, NOUN 
+liquid, NOUN 
+crystals, NOUN 
+
+, SPACE 
+Proc, PROPN 
+Eurotherm, PROPN 
+32, NUM 
+Heat, NOUN 
+Transfer, NOUN 
+Single, PROPN 
+Phase, PROPN 
+Flows, PROPN 
+Oxford, PROPN 
+
+, SPACE 
+UK, PROPN 
+July, PROPN 
+1993, NUM 
+
+, SPACE 
+Int, PROPN 
+J., PROPN 
+Heat, PROPN 
+Fluid, PROPN 
+Flow, PROPN 
+Vol, PROPN 
+17, NUM 
+5, NUM 
+October, PROPN 
+1996, NUM 
+499, NUM 
+
+
+, SPACE 

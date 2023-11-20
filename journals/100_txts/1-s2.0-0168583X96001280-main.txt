@@ -1,0 +1,308 @@
+Nuclear Instruments and Methods in Physics Research B 116 (1996) 338-341 
+cm . me 
+IEB __ 
+EISEVIER RIIIM B Beam Interactions 
+with Materials&Atoms 
+Spectrophotometry of ion implanted silicon carbide thin films 
+A.D. Lake, A.M. Mezzasalma, S. Rizzo, G. Mondio * 
+Uniuersith di Messina, Dipartimento di Fisica delta Materia, Geojisica e Fisica deU’Ambiente, Salita Sperone 31, 
+I-98166 Sant’Agata-Messina, Italy 
+Abstract 
+The optical properties of thin films of silicon carbide prepared by the implantation of C,Hz ions into silicon evaporated 
+onto a sapphire substrate and subsequently annealed at three different temperatures, 500, 600 and 800°C have been studied 
+using spectrophotometry. The real and imaginary parts of the dielectric constant show systematic variations which can be 
+attributed to the degree of amorphisation which is in turn related to the annealing temperature. 
+1. Introduction 
+There exist numerous forms of silicon carbide, crys- 
+talline, polycrystalline, amorphous and hydrogenated, all 
+of which have current and potential applications, particu- 
+larly in the fields of optoelectronics, high power and high 
+frequency electronics and environments where thermal sta- 
+bility and radiation resistance are important. It is in almost 
+exclusive use as the window layer of amorphous silicon 
+solar cells and is a good candidate for use in fusion 
+devices. Control of the growth conditions allows continu- 
+ous variation of stoichiometry, hydrogenation and amor- 
+phisation, all of which effect the optical characteristics 
+such as optical gap and dielectric function. 
+Techniques for the synthesis of silicon carbide include 
+rf glow discharge decomposition, reactive sputtering, 
+chemical vapour deposition and ion implantation. Compar- 
+ison of the results of experiments grown by different 
+methods can be very difficult because the results are often 
+expressed in terms of machine dependent experimental 
+parameters (e.g. silane to methane ratio in glow discharge 
+prepared specimens) and interpreted in terms of calcula- 
+tions with which the measurements are not directly compa- 
+rable. Even when the stoichiometry is well known, it is not 
+easy to measure or even define such structural characteris- 
+tics as amorphousness and clustering in the non-crystalline 
+specimens. 
+Experimental techniques such as ellipsometty and spec- 
+trophotometry can easily be used to measure the visible 
+and ultraviolet optical characteristics of silicon carbide and 
+the resulting values of dielectric constant and reflectivity 
+can be directly compared with modem electronic structure 
+calculations. As calculations of these functions require, in 
+* Corresponding author. addition to good wavefunctions for the band structures, 
+good optical matrix elements, these comparisons are par- 
+ticularly sensitive tests of their accuracy. Only compara- 
+tively recently have electronic structure calculations been 
+extended to the calcualation of optical properties as op- 
+posed to band structures and densities of states. Assuming 
+constant optica matrix elements, the joint density of states 
+can be qualitatively compared to the imaginary part of the 
+dielectric function. Incorporation of these matrix elements 
+quantifies this comparison; as yet, however, only direct 
+optical transitions have been included. This may help to 
+explain the comparative lack of published measurements 
+of reflectivity and the dielectric function in the visible and 
+ultraviolet despite their fundamental importance and the 
+overall size of the silicon carbide literature. 
+Thirty years ago, Wheeler published the first reflectiv- 
+ity results on cubic silicon carbide [l] which were repeated 
+shortly afterwards by Belle et al. [2] and latterly by 
+Lambrecht et al. [3,4] who also measured the reflectivity of 
+2H, 4H and 6H single crystals. Bartning [s] obtained the 
+real and imaginary parts of the dielectric function of cubic 
+and hexagonal samples from transmission electron energy 
+loss measurements and Gavrilenko et al. have measured 
+the elecroreflectance spectrum of cubic [6] and also of 4H 
+and 6H samples [7]. Logothetidis et al. [8] have applied 
+ellipsometry to cubic crystals. The only studies of the 
+optical constants of amorphous silicon carbide have been 
+carried out by Mui et al. [9] who studied the optical gap 
+and real and imaginary parts of the dielectric function of 
+amorphous hydrogenated silicon carbide prepared by rf 
+glow discharge decomposition, Akimoto et al. [lo] who 
+measured the optical gap and complex refractive index of, 
+nominally, the same material prepared by tetrode rf sput- 
+tering and Kalomiros et al. [ 1 l] who studied the variation 
+of the dielectric function and optical gap as a function of 
+hydrogenation and substrate temperature during growth. 
+0168-583X/96/$15.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+PIZ SO168-583X(96)00128-0 
+A.D. Laine et al./Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 338-341 339 
+Of those who have calculated the electronic structure of 
+silicon carbide, only Hemstreet and Fong [12,13], Herman 
+et al. [14], Lubinsky et al. {lS], Gavrilenko et al. 173 and 
+Lambrecht et al. [3,4] have gone on to calculate any optical 
+properties. They have all presented reflectivity and or 
+dielectric constant data for cubic silicon carbide. Lam- 
+brecht et al. [3,4] have also calculated the reflectivity of 
+2H, 4H, 6H, and 15R crystals. The optical properties of 
+amorphous hydrogenated silicon carbide have been calcu- 
+lated by Mui and Smith [ 161 who used a tetrahedron model 
+to evaluate the real and imaginary parts of the dielectric 
+function as a function of composition and for different 
+types of chemical order. Their model is, in principle, 
+applicable to hydrogen free silicon carbide. 
+In this work, we present experimental reflectivity data 
+for three stoichiometric amorphous silicon carbide thin 
+films synthesized by ion implantation and subsequently 
+annealed at three different temperatures. The reflectivity 
+data yield the dielectric function which is qualitatively 
+compared to existing optical data and interpreted in terms 
+of various kinds of disorder/amorphousness. 
+2. Experimental 
+Samples were grown by the implantation of 100 keV 
+C,Hz ions into a 100 nm thick crystalline silicon film 
+evaporated onto an optically transparent sapphire substrate 
+at fluences of 1.4 X 10” ions/cm2. The samples were 
+then annealed at three different temperatures, SOOT, 600°C 
+and 800°C for one hour. After annealing the specimens 
+were of stoichiometric composition and hydrogen free; any 
+differences in the optical characteristics are therefore re- 
+lated to annealing and hence structure alone. Optical mea- 
+surements, specular reflectivity, were carried out in the 
+photon energy range 1.1 to 6.2 eV using a Perkin-Elmer 
+Lambda2 near IR-VIS-UV spectrophotometer 
+with a specular reflectance accessory. equipped 
+3. Results 
+Raw reflectivity data curves are shown in Fig. 1. 
+Oscillatory behaviour is observed in all of the spectra due 
+to interference as a consequence of the film thickness, 100 
+nm, being of the same order of magnitude as the wave- 
+length of the probing radiation, 200 to 1100 nm. When this 
+is corrected for [17], the reflectivity curves of Fig. 2 are 
+obtained. The specimens annealed at SOOT, 600°C and 
+800°C show monotonic increases in reflectivity from 0.3, 
+0.265 and 0.28 to 0.375, 0.43 and 0.495 respectively as the 
+photon energy is increased. Kramers-Kronig transforma- 
+tion of this data yields the real and imaginary parts of the 
+dielectric constant, e1 and Ed shown in Fig. 3 for all three 
+temperatures. At 5OOT, 600°C and 8OO”C, the E? values 090’ ’ . ’ ’ . ’ ’ 1 2 3 4 5 6 
+photon energy (eV) 
+Fig. 1. Raw reflectivity curves for the Sic specimens annealed at 
+the three temperatures shown. 
+I,” 
+;; 
+092 1 2 3 4 5 6 
+photon energy (ev) 
+Fig. 2. Reflectivity data corrected for the interference in the raw 
+data of Fig. 1 due to the thii film nature of the specimens. 
+vary f;om 9.7 to 2.5, 11.6 to 11.2 and 10.6 to 1.3 with 
+maxima of 13.2 at 3.4 eV, 14.1 at 3.5 eV and 15.75 at 3.85 
+eV respectively. All the l 2 values are zero at about 1.3 eV 
+20. 500 “C - ,6 _ 
+E 600 . . . . . . . . . 
+,6 i 800 “c - “c 
+1 2 3 4 5 6 
+photon energy (eV) 
+Fig. 3. Real, E, , and imaginary, Ed, parts of the dielectric function 
+extracted from the reflectivity data of Fig. 2. 
+340 A.D. Laine et al./Nucl. Instr. and Meth. in Phys. Res. B 1 I6 (1996) 338-341 
+and rise to 9.6, 12.2 and 16.8, the latter two having 
+maxima of 12.9 at 5.5 eV and 17.8 at 5.75 eV respectively. 
+4. Discussion 
+Maximum values for the real part of the dielectric 
+constant for non-hydrogenated silicon carbide range from 
+11.0 for rf sputtered material [l l] to 15.5 for single 
+crystals [5]. These values decrease with hydrogenation 
+[l 11, a finding consistent with the results of Mui et al. [9]. 
+For the imaginary part, maxima of 12.0 and 17.7 are found 
+for the samples mentioned. Our values for the sample 
+annealed at 800°C of 15.8 and 17.8 for the real and 
+imaginary parts are very close to those for single crystals 
+[5] and all lie well above the values of Kalamiros et al. [ 1 l] 
+who were unable to explain their low values although they 
+went to some trouble to take into account the possible 
+presence of overlayers and voids. 
+Published values for the energy at which the real part 
+of the dielectric function is a maximum range from 2.5 eV 
+for a-S&,,&,,, prepared by rf sputtering [l 11 to 6 eV for 
+cubic Sic [8,5] and 6.5 eV for 6H-SiC [5] for non-hydro- 
+genated samples. For hydrogenated samples, this maxi- 
+mum increases [ll] consistent with the work on a- 
+S&&c.,,. .H films [9]. Corresponding values for the imag- 
+inary part of the dielectric function are 5.3 eV [ 111, 7 eV 
+[8,5] and 7.7 eV [5], which decrease with hydrogenation 
+[ 111. Our values for the dielectric function lie between 
+those of the rf sputtered samples and those of single 
+crystals, a little closer to the former. They also increase 
+with the temperature at which they were annealed. 
+Very little data is available concerning the value of the 
+optical gap of non-hydrogenated samples and it is not 
+profitable to make comparisons with the measurements of 
+hydrogenated samples because incorporation of hydrogen 
+increases these values abruptly [ 111. For rf sputtered sam- 
+ples, the gap has been measured as 0.8 eV [l l] while for 
+stoichiometric samples synthesised by ion implantation, it 
+has been shown to increase from 1.4 eV as made, to 1.45 
+eV after annealing at 800°C for one hour at which temper- 
+ature the presence of C=C double bonds is manifested in 
+the Raman spectrum, indicting incipient clustering 1181. 
+Much larger variations in both the optical gap, which 
+increases to 1.8 eV and the C=C Raman spectrum take 
+place in the temperature range 800°C to 1000°C in which 
+range crystallisation begins. 
+It is known from the absence of CH and SiH stretching 
+frequencies in the infrared spectra of similarly heat treated 
+samples [18] and can be inferred from the high values of 
+dielectric constant which are found to decrease with hydro- 
+genation [l l] that the samples under consideration are 
+essentially hydrogen free. It is also known that annealing 
+at temperatures of 800°C or less, as was the case for our 
+specimens, fails to induce crystallisation. The shift in the 
+maxima of the real and imaginary parts of the dielectric 
+function towards higher energy on annealing, particularly the real part, therefore seems to be a good index of 
+changes in structure taking place at temperatures below 
+which large changes in the optical gap and the infrared and 
+Raman spectra take place. This is consistent with the fact 
+that the lowest published maximum value for dielectric 
+constant [ 111 is found for an rf sputtered sample prepared 
+at a substrate temperature of 30°C. The absolute value of 
+the dielectric function does not seem to be so important as 
+disparate values exist for SC-Sic [8,5] and our values are 
+very close to those of both 3C-Sic and 6H-SiC as 
+measured by Bartning [5]. 
+Mui and Smith [9] proposed a tetrahedron model in 
+which they showed that the position of the maximum of 
+both parts of the dielectric function shift to higher energy 
+on going from specimens without to specimens with chem- 
+ical order. In this model, ten different possible tetrahedra 
+consisting of five carbon and or silicon atoms exist, each 
+with its own optical response, scaled from the experimen- 
+tal values of a-SiC:H, so the effect of hydrogenation is 
+automatically included. The probability of the presence of 
+each type of tetrahedron depends on the type of chemical 
+ordering and is finite for each tetrahedron in the absence of 
+chemical order but favours increasing numbers of Si-C 
+bonds as the order increases. For complete chemical order- 
+ing, the component which is in excess for a given stoi- 
+chiometry completely surrounds the other component while 
+it itself can be surrounded by any combination of atoms, in 
+the case of homogeneous dispersion, or only by atoms of 
+its own type, in the case of phase separation. The weighted 
+sums of the optical responses for each of the three cases 
+lead to different predictions for the material as a whole. In 
+applying the model to a-SiC:H thin films they also took 
+into account the possible presence of amporphous graphitic 
+and amorphous polymeric (CH,) parts and of voids. For 
+stoichiometric compounds, they estimated a low (- 4%) 
+graphitic component and as our samples are hydrogen free, 
+there is no polymeric part. The total optical response 
+would therefore be governed predominantly be tetrahedra 
+of various kinds. The transition from disorder to order is 
+accompanied by an increased probability of heteronuclear 
+Si-C bonds. 
+It thus appears, on the basis of this model, that in the 
+part of our specimens occupied by tetrahedra, homonuclear 
+bonds are being broken and heteronuclear ones created as 
+the temperature is increased, although not over a suffi- 
+ciently correlated region of space to allow the formation of 
+crystallites and thus of a strong transverse optical phonon 
+signal in the infrared spectrum [ 181. In the remaining 
+space, the formation of C=C double bonds can take place 
+as shown by the Raman spectrum of a stoichiometric 
+sample annealed to 800°C [ 181. 
+5. Conclusions 
+The dielectric function of thin films of stoichiometric 
+amorphous silicon carbide synthesised by ion implantation 
+AD. Laine et al./Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 338-341 341 
+has been shown to be a good index of chemical order. The 
+results are consistent with existing experimental data on 
+silicon carbide and with a tetrahedron model for the dielec- 
+tric function in this material, and are also compatible with 
+the details of the infrared and Raman spectra. 
+Acknowledgements 
+We would like to thank Prof. G. Foti for providing the 
+specimens used in this work. One of the authors (A.D.L.) 
+would like to acknowledge the financial support of the 
+Human Capital and Mobility Programme of the European 
+Community under contract number ERBCHRXCT940563. 
+References 
+[l] B.E. Wheeler, Solid State Commun. 4 (1966) 173. 
+[2] M.L. Belle, N.K. Prokofeva and M.B. Reifman, Sov. Phys. 
+Semicond. 1 (1967) 315. 
+[3] W.R..L. Lambrccht, B. Segall, W. Suttrop, M. Yogonathm, 
+R.P. Devaty, W.J. Choyke, J.A. Edmond, J.A. Powell and M. 
+Alouani, Appl. Phys. Lett. 63 (1993) 2747. 
+[4] W.R.L. Lambrecht, B. Segall, M. Yogonathau, W. Suttrop, R.P. Devaty, W.J. Choyke, J.A. Edmond, J.A. Powell and M. 
+Alouani, Phys. Rev. B 50 (1994) 10722. 
+[5] B. Bartuing, Opt. Commun. 50 (1971) 78. 
+[6] V.I. Gavrilenko, A.V. Posmikov, N.I. Kluyi and V.G. 
+Litovchenko, Phys. Status Solidi B 162 (1990) 477. 
+[7] V.I. Gavrilenko, S.I. Frolov and N.I. Kluyi, Physica B 185 
+(1993) 394. 
+[8] S. Logothetidis, H.M. Polatoglon, J. Petalas, D. Fuchs and 
+R.L. Johnson, Physica B 185 (1993) 389. 
+[9] K. Mui, D.K. Basa, F.W. Smith and R. Corderman, Phys. 
+Rev. B 35 (1987) 8089. 
+[lo] M. Akimoto, Y. Akaida and Y. Gekka, Jpn. J. Appl. Phys. 29 
+(1990) L1049. 
+[l l] J.A. Kalomiros, A. Papadopoulos, S. Logothetidis, L. Maga- 
+fas, N. Georgoulas and A. Thauailakis, Phys. Rev. B 49 
+(1994) 8191. 
+[12] L.A. Hemstreet and C.Y. Fong, Solid State Commun. 9 
+(1971) 643. 
+[13] L.A. Hemstreet and C.Y. Fong, Phys. Rev. B 6 (1971) 1464. 
+[14] F. Herman, J.F. Van Dyke and R.L. Kortum, Mat. Res. Bull. 
+4 (1969) 167. 
+[15] A.R. Lubmsky, D.E. Ellis and G.S. Painter, Phys. Rev. B 11 
+(1975) 1537. 
+[16] K. Mui and N.F. Smith, Phys. Rev. B 35 (1987) 8080. 
+[ 171 O.S. Heavens, Optical Properties in Thin Solid Films 
+(Academic, New York, 1959) Chap. 4. 
+[18] G. Compagnini, L. Calcagno, G. Foti and G. Baratta, J. Mat. 
+Res, to be published. 

@@ -1,0 +1,183 @@
+Nuclear Instruments and Methods in Physics Research B 111 (1996) 187- 189 
+cm . __ __ l!!B ELSEVIER NOM B Beam Interactions 
+with Materials &Atoms 
+New plasma source ion-implantation technique for inner surface 
+modification of materials 
+MuSun *, S.Z. Yang, B. Li 
+Group 101, Institute of Physics, Chinese Academy of Sciences, Beijing 100080, China 
+Received 14 September 1995 
+Abstract 
+Plasma source ion-implantation (PSII) is a non-line-of-sight ion implantation technique for surface modification of 
+materials, but the present technique is only suitable for outer surface modification of targets, not for inner surface 
+modification of targets. In this paper we present a new technique which applies to inner surface implantation. Preliminary 
+experiment results show that this new technique: (1) increases plasma density and uniformity obviously inside the target 
+inner surface; (2) generates a plasma sheath between the inner surface of the target and plasma so as to implant the inner 
+surface of the target effectively; (3) achieves a dose uniformity acceptable for industrial application. 
+!Plasma source ion-implantation (PSII) is a new ion 
+implantation technique [l-5] for surface modification of 
+materials. Compared with conventional ion implantation, 
+PSI1 has the following advantages [6]: (1) there is no need 
+for target manipulation and target masking because of its 
+non-line-of-sight nature; (2) it has greater production 
+*ughput, especially for large targets; (3) it is readily 
+SC led to large and/or heavy targets; (4) the facility is 
+si $ ple, cost effective and less expensive. The PSI1 tech- 
+ni ue has thus been optimized for surface modification of 
+4, a ~ ide range of materials for industrial application [7-lo]. 
+In ~ spite of these advantages, however, the present PSI1 
+te 
+C hnique is only suitable to implantation of outer surface 
+or ,exposed areas of the target. It is quite limited or even 
+im P ossible for inner surface implantation of the target. 
+In this paper we present a new PSI1 technique applied 
+to the inner surface implantation of the target, followed by 
+so 
+m e preliminary experiment results and a description of 
+its sheath model. 
+~ This new PSI1 device is shown schematically in Fig. 1. 
+The main construction is similar to the existing PSI1 
+device. Plasma is generated in a cylindrical vacuum cham- 
+ber by a conventional filament discharge, the device is 
+operated with nitrogen at a pressure of 2 X 10m3 Torr, and 
+a lasma density of lo’-10” cme3, the negative high 
+I: vo tage applied to the target is in the range of IO-50 kV 
+with a very small pulse width of 5-10 /.LS and a typical 
+* Corresponding author. frequency of 100 Hz. The main characteristics which differ 
+from the present PSI1 are that the targets we selected are a 
+series of aluminum cylindrical tubes of different sizes, and 
+a metal anode connected with vacuum chamber wall is 
+fixed in the center of the cylindrical target. 
+In PSII, plasma is generated in a vacuum chamber 
+through working gas ionization caused by primary elec- 
+trons. It is hard for primary electrons to get into the . cylindrical target under filament dtscharge bias applied 
+between filament and vacuum chamber wall, so plasma 
+density inside the target must be much less than that 
+outside the target, and is not uniform. With the decrease of 
+ratio D/L, where D is the diameter of the target and L is 
+the length of the target, this difference becomes greater. 
+Beside, when a negative high voltage is applied to the 
+target there is almost no electric field inside the target with 
+the exception of the regions near target sides (see Fig. 2a). 
+Therefore, it is impossible to form a plasma sheath propa- 
+gating along the normal line of the inner surface of the 
+target when the target is immersed in plasma. In our new 
+PSI1 device, a metal anode connected with the chamber 
+wall is set up inside the cylindrical target. This helps to 
+draw primary electrons into the target to ionize the work- 
+ing gas so that the plasma density and uniformity inside 
+the target are considerably increased. On the other hand, a 
+uniform electric field can be formed between the inner 
+surface and the metal anode when a negative high voltage 
+is applied to the target (see Fig. 2b), which results in a 
+plasma sheath propagating towards the metal anode when 
+the target is immersed in plasma so as to make inner 
+surface implantation possible. 
+0168-583X/%/$15.00 0 1996 Elsevier Science B.V. All rights reserved 
+SSDZ 0168-583X(95)01293-1 
+188 M. Sun et al./Nucl. Instr. and Meth. in Phys. Rex B 111 (1996) 187-189 
+P HV pulse 
+metal 
+anode \ 
+vacuum 
+chamber’ 
+Fig. 1. Schematic diagram of PSI1 device for inner surface 
+implantation. 
+In order to quantify plasma density and uniformity 
+inside the target with different size factor of D/L and 
+compare the influence of the metal anode on them, a series 
+of targets were immersed in plasma with a density of 
+1 X 10” cmm3 and electron temperature of 2 eV, and axial 
+distributions of plasma density inside the targets were 
+measured using a Langmuir probe. The results show that 
+the axial distribution of plasma density inside the target is 
+not uniform; plasma density in the region near the two 
+sides is close to that outside the target. With increasing 
+distance from the sides, the plasma density becomes less 
+and less, and is least in the middle of the target. If we use 
+the ratio TZJTZ,~ (ni, is the plasma density in the middle 
+of the target, nout is the plasma density outside the target) 
+as a measure of plasma density uniformity inside the 
+target, it is shown in Fig. 3 that with the decrease of D/L, 
+the ratio nin/nOUt decreases and uniformity decreases. 
+After a metal anode is applied, the ratio nin/noUt clearly 
+increases. For example, when D/L = 0.6 it is close to 1.0, 
+when D/L = 0.4 it increases by three times, and by four 
+times when D/L = 0.2. This means that when a metal 
+anode is set up inside the target, the plasma density and 
+uniformity inside the target can be improved well enough 
+for inner surface implantation. At the same time, the 
+implantation dose uniformity inside the target will be also 
+within an acceptable range for the industrial application of 
+ion implantation. 
+‘b 
+Fig. 2. Electric field distribution inside the cylindrical target. (a) 
+There is almost no electric field, (b) a uniform electric field is 
+formed when a metal anode is set up inside the target. 0.3 - 
+0.2 - . with anode 
+0 without anode 
+0.0 I I I I I 1 
+0.0 0.2 0.4 0.6 0.8 1.0 1.2 
+D/L 
+Fig. 3. Influence of metal anode and target size factor D/L on 
+plasma uniformity inside the target. 
+As for the sheath model, it can be described as. follow- 
+ing three time scales. At time t = 0 the target is at zero 
+potential. As a large negative high voltage pulse is applied 
+to the target on a time scale of the inverse electron plasma 
+frequency w;‘, electrons near the target inner surface are 
+expelled from this region and ion motion is negligible so 
+that an ion matrix sheath is formed (see Fig. 4). Next, on a 
+slower time scale of the inverse ion plasma frequency 
+wpi’, ions are accelerated towards the inner surface of the 
+target as they fall through the ion matrix sheath. Finally, 
+on a still longer time scale the decreasing ion density 
+inside the sheath region causes a corresponding decrease in 
+the electron density and the sheath edge expands at about 
+the ion acoustic velocity. If the expanding sheath is as- 
+sumed to obey the Child-Langmuir law [l l] at each 
+instant of the propagation and the current is supplied by 
+the ions uncovered by the expanding sheath, the sheath 
+edge velocity in this case can be described as 
+z _ 4.70 2 us/= 
+/-- _-- -- 
+dt 9n em rr,P” 
+where I is the radius of the sheath edge, rt is the inner 
+radius of cylindrical target, n is the plasma density, v is 
+the target negative bias, m is the ion mass, and /3 = fi T/I~). 
+The negative sign means that the sheath expands toward 
+the center. 
+In summary, we present a new technique for inner 
+surface implantation of cylindrical target and describe a 
+Fig. 4. Ion matrix sheath model for inner surface implantation. 
+M. Sun et al./Nucl. Ins@. and Meth. in Phys. Res. B II1 (1996) 187-189 189 
+sheath model in this case. Experiment results show that 
+this method can: ( 1) obviouslv increase Dlasma densitv and and Plasma-Assisted Processes for Industrial Applications, 
+May 22-25, 1988, Atlanta, GA. . 
+uniformity inside the target at the inner surface; (2) gener- 
+ate a plasma sheath between inner surface of the target and 
+plasma so as to implant the inner surface of the target 
+effectively; (3) achieve a dose uniformity acceptable for 
+industrial application. [5] G.P. Meeker, S. Baumann, J.R. Conrad and R.S. Post, in: 
+Proceedings of the International Conference on Ion Beam 
+Modification of Materials, Tokyo,.June 12-17, 1988. 
+[6] J.R. Conrad and C. Forest, in: IEEE International Conference 
+of Plasma Science, Saskatoon, Canada. Mav 19-21. 1986. D. 
+28. 
+[7] J.R. Conrad and T. Castagna, in: Proceedings of the 39th 
+Annual Gaseous Electronics Conference, Madison, WI, Octo- 
+References ber 7-10, 1986, p. 75. 
+[8] J.R. Conrad and T. Castagna, Bull. Am. Phys. Sot. 31 (1986) 
+1479. 
+[l] J.R. Conrad, J. Appl. Phys. 62 (1987) 777. 
+[2] J.R. Conrad, R.A. Dodd, F.J. Worzala and N.C. Tran, J. 
+Appl. Phys. 62 (1987) 4591. 
+[3] J.R. Conrad, R.A. Dodd, F.J. Worzala and X. Qiu, Surf. 
+Coatings Technol. 36 (1988) 927. 
+[4] J.R. Conrad, R.A. Dodd, F.J. Worzala, X. Qiu and R.S. Post, 
+in: Proceedings of the ASM Conference on Ion Implantation [9] F.J. Worzala, R.A. Dodd, J.R. Conrad and J.L. Radtke, in: 
+Proceedings of the International Conference on Tool Materi- 
+als, Chicago, IL, September 28-October 1, 1987. 
+[lo] J.R. Conrad and J.I. Radtke, Conference Record, 1987 IEEE 
+International Conference on Plasma Science, Arlington, VA, 
+June l-3, 1987, paper 6Y7, p. 124. 
+[l l] I. Langmuir and K. Blodgett, Phys. Rev. 22 (,1923) 347. 

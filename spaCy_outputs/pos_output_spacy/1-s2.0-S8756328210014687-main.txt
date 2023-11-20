@@ -1,0 +1,8408 @@
+Selective, ADJ 
+isolation, NOUN 
+differentiation, NOUN 
+stromal, ADJ 
+population, NOUN 
+human, PROPN 
+embryonic, ADJ 
+
+, SPACE 
+stem, NOUN 
+cells, NOUN 
+osteogenic, ADJ 
+potential, NOUN 
+
+, SPACE 
+Linda, PROPN 
+Harknessa, PROPN 
+Amer, PROPN 
+Mahmooda, PROPN 
+c, PROPN 
+Nicholas, PROPN 
+Ditzela, PROPN 
+Basem, PROPN 
+M., PROPN 
+Abdallaha, PROPN 
+
+, SPACE 
+Jens, PROPN 
+V., PROPN 
+Nygaardb, PROPN 
+Moustapha, PROPN 
+Kassema, PROPN 
+c,⁎, NOUN 
+
+, SPACE 
+aDepartment, PROPN 
+Endocrinology, PROPN 
+Metabolism, PROPN 
+Laboratory, PROPN 
+Molecular, PROPN 
+Endocrinology, PROPN 
+KMEB, PROPN 
+Medical, PROPN 
+Biotechnology, PROPN 
+Centre, PROPN 
+MBC, PROPN 
+Winsløwparken, PROPN 
+25, NUM 
+University, PROPN 
+Southern, PROPN 
+Denmark, PROPN 
+
+, SPACE 
+5000, NUM 
+Odense, PROPN 
+C, PROPN 
+Denmark, PROPN 
+
+, SPACE 
+bInterdisciplinary, PROPN 
+Nanoscience, PROPN 
+Centre, PROPN 
+Faculty, PROPN 
+Science, PROPN 
+University, PROPN 
+Aarhus, PROPN 
+Ny, PROPN 
+Munkegade, PROPN 
+building, VERB 
+1521, NUM 
+8000, NUM 
+Aarhus, PROPN 
+Denmark, PROPN 
+
+, SPACE 
+cStem, PROPN 
+Cell, PROPN 
+Unit, PROPN 
+Department, PROPN 
+Anatomy, PROPN 
+King, PROPN 
+Saud, PROPN 
+University, PROPN 
+Riyadh, PROPN 
+Saudi, PROPN 
+Arabia, PROPN 
+
+, SPACE 
+abstract, ADJ 
+article, NOUN 
+info, NOUN 
+
+, SPACE 
+Article, NOUN 
+history, NOUN 
+
+, SPACE 
+Received, VERB 
+18, NUM 
+April, PROPN 
+2010Revised, NUM 
+9, NUM 
+September, PROPN 
+2010Accepted, NUM 
+15, NUM 
+September, PROPN 
+2010Available, NUM 
+online, ADJ 
+30, NUM 
+September, PROPN 
+2010, NUM 
+
+, SPACE 
+Edited, VERB 
+R., PROPN 
+Baron, PROPN 
+
+, SPACE 
+Keywords, PROPN 
+
+, SPACE 
+Human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cellsOsteogenic, ADJ 
+differentiationHyaluronic, NUM 
+acidIn, NOUN 
+vivo, NOUN 
+bone, NOUN 
+formationThe, ADP 
+derivation, NOUN 
+osteogenic, ADJ 
+cells, NOUN 
+human, PROPN 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+hESC, PROPN 
+hampered, VERB 
+absence, NOUN 
+
+, SPACE 
+easy, ADJ 
+reproducible, ADJ 
+protocols, NOUN 
+hESC, PROPN 
+grown, VERB 
+feeder, NOUN 
+free, ADJ 
+conditions, NOUN 
+sub, NOUN 
+population, NOUN 
+ofﬁbroblast, NOUN 
+like, ADJ 
+stromal, ADJ 
+cells, NOUN 
+growing, VERB 
+colonies, NOUN 
+examined, VERB 
+possibility, NOUN 
+cells, NOUN 
+
+, SPACE 
+represent, VERB 
+population, NOUN 
+stromal, ADJ 
+mesenchymal, NOUN 
+stem, NOUN 
+cells, NOUN 
+hESC, PROPN 
+stromal, PROPN 
+house, NOUN 
+derived, VERB 
+hES, NOUN 
+cell, NOUN 
+lines, NOUN 
+
+, SPACE 
+Odense3, PROPN 
+KMEB3, PROPN 
+externally, ADV 
+derived, VERB 
+cell, NOUN 
+line, NOUN 
+Hues8, NOUN 
+transitioned, VERB 
+feeder, NOUN 
+freeconditions, NOUN 
+sub, NOUN 
+population, NOUN 
+ﬁbroblast, ADJ 
+like, ADJ 
+cells, NOUN 
+established, VERB 
+hESC, PROPN 
+colonies, NOUN 
+isolated, VERB 
+
+, SPACE 
+selective, ADJ 
+adherence, NOUN 
+hyaluronic, ADJ 
+acid, NOUN 
+coated, VERB 
+plates, NOUN 
+100, NUM 
+μg, PROPN 
+ml, PROPN 
+characterized, VERB 
+combination, NOUN 
+
+, SPACE 
+FACS, PROPN 
+analysis, NOUN 
+staining, NOUN 
+cells, NOUN 
+CD44, PROPN 
+
+, SPACE 
++, PROPN 
+CD29+,C, PROPN 
+D, NOUN 
+7, NUM 
+3+,C, NUM 
+D, NOUN 
+1, NUM 
+6, NUM 
+6+,C, NUM 
+D, NOUN 
+1, NUM 
+4, NUM 
+6, NUM 
++, NUM 
+CD105+;a, PROPN 
+n, PROPN 
+d, PROPN 
+O, INTJ 
+c, NOUN 
+t, NOUN 
+4−, NUM 
+
+, SPACE 
+CD34−, PROPN 
+CD45−and, NOUN 
+CXCR4−., NOUN 
+cultured, VERB 
+osteogenic, ADJ 
+differentiation, NOUN 
+media, NOUN 
+regulation, NOUN 
+osteoblastic, ADJ 
+
+, SPACE 
+lineage, NOUN 
+markers, NOUN 
+DLX5, PROPN 
+MSX2, PROPN 
+RUNX2, PROPN 
+SPARC, PROPN 
+ALP, PROPN 
+COL1a1, PROPN 
+BGLAP, PROPN 
+IBSP, PROPN 
+DCN, PROPN 
+LOX, PROPN 
+L4, PROPN 
+production, NOUN 
+vitro, X 
+
+, SPACE 
+mineralized, ADJ 
+matrix, NOUN 
+detected, VERB 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+loaded, VERB 
+carrier, NOUN 
+implanted, VERB 
+subcutaneously, ADV 
+
+, SPACE 
+critical, ADJ 
+size, NOUN 
+calvarial, ADJ 
+defect, NOUN 
+immune, ADJ 
+de, X 
+ﬁcient, NOUN 
+mice, NOUN 
+10, NUM 
+weeks, NOUN 
+resulted, VERB 
+new, ADJ 
+bone, NOUN 
+formation, NOUN 
+
+, SPACE 
+partial, ADJ 
+repair, NOUN 
+calvarial, ADJ 
+defect, NOUN 
+conclusion, NOUN 
+hESC, PROPN 
+stromal, NOUN 
+isolated, VERB 
+hESC, PROPN 
+cultures, NOUN 
+represent, VERB 
+
+, SPACE 
+good, ADJ 
+source, NOUN 
+obtaining, VERB 
+cells, NOUN 
+osteogenic, ADJ 
+differentiation, NOUN 
+potential, NOUN 
+suitable, ADJ 
+regenerative, ADJ 
+medicine, NOUN 
+
+, SPACE 
+protocols, NOUN 
+
+, SPACE 
+©, ADJ 
+2010, NUM 
+Elsevier, PROPN 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+Introduction, PROPN 
+
+, SPACE 
+Human, ADJ 
+bone, NOUN 
+marrow, NOUN 
+stromal, ADJ 
+stem, NOUN 
+cells, NOUN 
+hBMSC, NOUN 
+known, VERB 
+
+, SPACE 
+bone, NOUN 
+marrow, NOUN 
+mesenchymal, NOUN 
+cells, NOUN 
+multipotent, NOUN 
+mesenchymal, NOUN 
+stem, NOUN 
+
+, SPACE 
+cells, NOUN 
+skeletal, ADJ 
+stem, NOUN 
+cells, NOUN 
+considered, VERB 
+accessible, ADJ 
+source, NOUN 
+cells, NOUN 
+
+, SPACE 
+differentiate, VERB 
+osteogenic, ADJ 
+cells, NOUN 
+vitro, X 
+
+, SPACE 
+proliferation, NOUN 
+ability, NOUN 
+ﬁnite, ADJ 
+number, NOUN 
+cells, NOUN 
+retrievable, ADJ 
+
+, SPACE 
+patients, NOUN 
+limited, ADJ 
+1, NUM 
+contrast, NOUN 
+hBMSC, NOUN 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+
+, SPACE 
+cells, NOUN 
+hESC, PROPN 
+pluripotent, NOUN 
+cells, NOUN 
+differentiate, VERB 
+cells, NOUN 
+
+, SPACE 
+germ, NOUN 
+layers, NOUN 
+endoderm, PROPN 
+mesoderm, NOUN 
+ectoderm, NOUN 
+2, X 
+hESC, PROPN 
+
+, SPACE 
+advantages, NOUN 
+relevant, ADJ 
+studies, NOUN 
+bone, NOUN 
+biology, NOUN 
+hESC, PROPN 
+asuitable, ADJ 
+model, NOUN 
+studying, VERB 
+molecular, ADJ 
+mechanisms, NOUN 
+stem, NOUN 
+cell, NOUN 
+
+, SPACE 
+differentiation, NOUN 
+mesoderm, NOUN 
+osteo, ADJ 
+progenitor, NOUN 
+cells, NOUN 
+infor-, ADJ 
+
+, SPACE 
+mation, NOUN 
+highly, ADV 
+relevant, ADJ 
+pathways, NOUN 
+important, ADJ 
+osteoblast, NOUN 
+
+, SPACE 
+generation, NOUN 
+development, NOUN 
+similar, ADJ 
+osteoblast, VERB 
+regenera-, VERB 
+
+, SPACE 
+tion, NOUN 
+following, VERB 
+injury, NOUN 
+disease, NOUN 
+adult, NOUN 
+life, NOUN 
+3, NUM 
+addition, NOUN 
+hESC, PROPN 
+
+, SPACE 
+potentially, ADV 
+provide, VERB 
+large, ADJ 
+number, NOUN 
+cells, NOUN 
+speci, PROPN 
+ﬁc, PROPN 
+character-, PROPN 
+
+, SPACE 
+istics, NOUN 
+needed, VERB 
+regenerative, ADJ 
+medicine, NOUN 
+protocols, NOUN 
+e.g., ADV 
+treatment, NOUN 
+
+, SPACE 
+bone, NOUN 
+defects, NOUN 
+non, ADJ 
+healed, VERB 
+fractures, NOUN 
+
+, SPACE 
+methods, NOUN 
+described, VERB 
+differentiate, VERB 
+hESC, PROPN 
+
+, SPACE 
+osteogenic, ADJ 
+phenotype, NOUN 
+intermediate, ADJ 
+stage, NOUN 
+embryoid, NOUN 
+
+, SPACE 
+body, NOUN 
+EB, PROPN 
+formation, NOUN 
+4–9, NUM 
+induction, NOUN 
+outgrowth, NOUN 
+culture, NOUN 
+
+, SPACE 
+10–17, NUM 
+co, NOUN 
+culture, NOUN 
+differentiated, ADJ 
+cell, NOUN 
+type, NOUN 
+
+, SPACE 
+18–21, NUM 
+ability, NOUN 
+culture, NOUN 
+methods, NOUN 
+provide, VERB 
+
+, SPACE 
+homogeneous, ADJ 
+ef, NOUN 
+ﬁcient, NOUN 
+reproducible, ADJ 
+differentiation, NOUN 
+hESC, PROPN 
+cells, NOUN 
+
+, SPACE 
+osteogenic, ADJ 
+cells, NOUN 
+limited, VERB 
+ef, PROPN 
+ﬁciency, NOUN 
+differentiation, NOUN 
+
+, SPACE 
+usually, ADV 
+unreported, ADJ 
+resultant, ADJ 
+cell, NOUN 
+cultures, NOUN 
+morphologically, ADV 
+
+, SPACE 
+functionally, ADV 
+heterogeneous, ADJ 
+concern, NOUN 
+
+, SPACE 
+cells, NOUN 
+form, VERB 
+teratoma, NOUN 
+clinical, ADJ 
+applications, NOUN 
+22, NUM 
+
+, SPACE 
+Furthermore, ADV 
+initiation, NOUN 
+differentiation, NOUN 
+EB, PROPN 
+leads, VERB 
+
+, SPACE 
+heterogeneous, ADJ 
+cell, NOUN 
+population, NOUN 
+co, NOUN 
+culture, NOUN 
+cells, NOUN 
+
+, SPACE 
+different, ADJ 
+species, NOUN 
+lead, VERB 
+potential, ADJ 
+contamination, NOUN 
+animalBone, NOUN 
+48, NUM 
+2011, NUM 
+231, NUM 
+241, NUM 
+
+, SPACE 
+⁎Corresponding, PROPN 
+author, NOUN 
+Department, PROPN 
+Endocrinology, PROPN 
+Metabolism, PROPN 
+KMEB, PROPN 
+
+, SPACE 
+Medical, PROPN 
+Biotechnology, PROPN 
+Centre, PROPN 
+MBC, PROPN 
+Winsløwparken, PROPN 
+25, NUM 
+University, PROPN 
+Southern, PROPN 
+
+, SPACE 
+Denmark, PROPN 
+5000, NUM 
+Odense, PROPN 
+C, PROPN 
+Denmark, PROPN 
+Fax, NOUN 
++45, NOUN 
+6550, NUM 
+3950, NUM 
+
+, SPACE 
+E, ADJ 
+mail, NOUN 
+addresses, NOUN 
+lharkness@health.sdu.dk, PROPN 
+L., PROPN 
+Harkness, PROPN 
+
+, SPACE 
+amahmood@health.sdu.dk, NOUN 
+A., PROPN 
+Mahmood, PROPN 
+nditzel@health.sdu.dk, PROPN 
+N., PROPN 
+Ditzel, PROPN 
+
+, SPACE 
+babdallah@health.sdu.dk, ADJ 
+B.M., PROPN 
+Abdallah, PROPN 
+jvn@inano.dk, PROPN 
+J.V., PROPN 
+Nygaard, PROPN 
+
+, SPACE 
+mkassem@health.sdu.dk, NOUN 
+M., PROPN 
+Kassem, PROPN 
+
+, SPACE 
+8756, NUM 
+3282/$, NUM 
+matter, NOUN 
+©, ADJ 
+2010, NUM 
+Elsevier, PROPN 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+doi:10.1016, PROPN 
+j.bone.2010.09.023, PROPN 
+
+, SPACE 
+Contents, PROPN 
+lists, NOUN 
+available, ADJ 
+ScienceDirect, PROPN 
+
+, SPACE 
+Bone, PROPN 
+
+, SPACE 
+journal, NOUN 
+homepage, NOUN 
+www.elsevier.com/locate/bone, NUM 
+
+, SPACE 
+products, NOUN 
+23, NUM 
+Finally, ADV 
+osteogenic, ADJ 
+potential, NOUN 
+cells, NOUN 
+
+, SPACE 
+generally, ADV 
+based, VERB 
+vitro, ADJ 
+criteria, NOUN 
+reports, NOUN 
+
+, SPACE 
+bone, NOUN 
+forming, VERB 
+capacity, NOUN 
+demonstrated, VERB 
+vivo, NOUN 
+
+, SPACE 
+heterotopic, ADJ 
+subcutaneous, ADJ 
+bone, NOUN 
+formation, NOUN 
+following, VERB 
+implantation, NOUN 
+
+, SPACE 
+immune, ADJ 
+de, X 
+ﬁcient, NOUN 
+mice, NOUN 
+4,7,21, NUM 
+diffusion, NOUN 
+chambers, NOUN 
+implanted, VERB 
+
+, SPACE 
+peritoneal, ADJ 
+cavity, NOUN 
+nude, ADJ 
+mice, NOUN 
+9, NUM 
+studies, NOUN 
+
+, SPACE 
+demonstrated, VERB 
+bone, NOUN 
+observed, NOUN 
+formed, VERB 
+theimplanted, VERB 
+human, ADJ 
+cells, NOUN 
+dystrophic, ADJ 
+calci, NOUN 
+ﬁcation, NOUN 
+
+, SPACE 
+reaction, NOUN 
+recipient, NOUN 
+murine, NOUN 
+cells, NOUN 
+
+, SPACE 
+Hyaluronan, PROPN 
+called, VERB 
+hyaluronic, ADJ 
+acid, NOUN 
+HA, PROPN 
+hyaluronate, ADJ 
+
+, SPACE 
+non, ADJ 
+sulfated, ADJ 
+glycosaminoglycan, NOUN 
+GAG, PROPN 
+high, ADJ 
+molecular, ADJ 
+weight, NOUN 
+
+, SPACE 
+widely, ADV 
+distributed, VERB 
+connective, ADJ 
+epithelial, ADJ 
+skin, NOUN 
+
+, SPACE 
+neural, ADJ 
+tissues, NOUN 
+chief, ADJ 
+components, NOUN 
+
+, SPACE 
+extracellular, ADJ 
+matrix, NOUN 
+bind, VERB 
+aggrecan, PROPN 
+type, NOUN 
+II, PROPN 
+
+, SPACE 
+collagen, NOUN 
+form, VERB 
+major, ADJ 
+structural, ADJ 
+component, NOUN 
+
+, SPACE 
+cartilage, NOUN 
+24, NUM 
+HA, PROPN 
+reported, VERB 
+play, VERB 
+role, NOUN 
+early, ADJ 
+human, ADJ 
+
+, SPACE 
+preimplantation, NOUN 
+embryogenesis, NOUN 
+25].Within, PROPN 
+skeletal, ADJ 
+biology, NOUN 
+HA, PROPN 
+
+, SPACE 
+multiple, ADJ 
+functions, NOUN 
+including, VERB 
+migration, NOUN 
+condensation, NOUN 
+BMSC, PROPN 
+
+, SPACE 
+26, NUM 
+joint, ADJ 
+cavity, NOUN 
+formation, NOUN 
+long, ADJ 
+bone, NOUN 
+growth, NOUN 
+24].H, NUM 
+Ai, PROPN 
+s, NOUN 
+
+, SPACE 
+expressed, VERB 
+osteoblastic, ADJ 
+cells, NOUN 
+osteocytes, NOUN 
+osteoclasts, NOUN 
+major, ADJ 
+
+, SPACE 
+component, NOUN 
+bone, NOUN 
+marrow, NOUN 
+suggesting, VERB 
+role, NOUN 
+bone, NOUN 
+remodelling, NOUN 
+
+, SPACE 
+24,27, PROPN 
+HA, PROPN 
+receptor, NOUN 
+CD44, PROPN 
+21, NUM 
+variant, ADJ 
+isoforms, NOUN 
+
+, SPACE 
+extensive, ADJ 
+alternative, ADJ 
+splicing, NOUN 
+isoforms, NOUN 
+CD44, PROPN 
+contain, VERB 
+
+, SPACE 
+HA, NOUN 
+binding, VERB 
+site, NOUN 
+extracellular, ADJ 
+domain, NOUN 
+24,28, NUM 
+binding, VERB 
+HA, NOUN 
+
+, SPACE 
+CD44, PROPN 
+implicated, VERB 
+migration, NOUN 
+proliferation, NOUN 
+cell, NOUN 
+adhesion, NOUN 
+
+, SPACE 
+extra, ADJ 
+cellular, ADJ 
+matrices, NOUN 
+29, NUM 
+
+, SPACE 
+aim, NOUN 
+study, NOUN 
+isolate, VERB 
+characterise, VERB 
+
+, SPACE 
+osteoprogenitor, NOUN 
+cell, NOUN 
+population, NOUN 
+hESC, PROPN 
+report, VERB 
+
+, SPACE 
+possibility, NOUN 
+employing, VERB 
+HA, NOUN 
+substrate, NOUN 
+enrich, VERB 
+stromal, ADJ 
+cell, NOUN 
+
+, SPACE 
+population, NOUN 
+called, VERB 
+hESC, PROPN 
+stromal, PROPN 
+osteogenic, ADJ 
+differentiation, NOUN 
+
+, SPACE 
+potential, NOUN 
+based, VERB 
+comparison, NOUN 
+bone, NOUN 
+marrow-, NOUN 
+
+, SPACE 
+derived, VERB 
+human, ADJ 
+stromal, ADJ 
+stem, NOUN 
+cells, NOUN 
+hBMSC, NOUN 
+phenotypic, ADJ 
+charac-, ADJ 
+
+, SPACE 
+terization, NOUN 
+vitro, X 
+vivo, NOUN 
+demonstrated, VERB 
+
+, SPACE 
+functional, ADJ 
+ability, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+participating, VERB 
+bone, NOUN 
+
+, SPACE 
+healing, NOUN 
+critical, ADJ 
+calvarial, ADJ 
+defect, NOUN 
+mice, NOUN 
+
+, SPACE 
+Methods, PROPN 
+materials, NOUN 
+
+, SPACE 
+Cell, NOUN 
+culture, NOUN 
+
+, SPACE 
+house, NOUN 
+hESC, PROPN 
+lines, NOUN 
+Odense3, PROPN 
+KMEB3, PROPN 
+derived, VERB 
+
+, SPACE 
+accordance, NOUN 
+Danish, ADJ 
+stem, NOUN 
+cell, NOUN 
+guide, NOUN 
+lines, NOUN 
+approval, NOUN 
+
+, SPACE 
+local, ADJ 
+Scienti, PROPN 
+ﬁc, ADJ 
+Ethical, PROPN 
+committee, NOUN 
+characterisation, NOUN 
+
+, SPACE 
+Odense3, PROPN 
+KMEB3, PROPN 
+previously, ADV 
+reported, VERB 
+30,31, X 
+
+, SPACE 
+Hues8, NOUN 
+cell, NOUN 
+line, NOUN 
+kindly, ADV 
+provided, VERB 
+D., PROPN 
+Melton, PROPN 
+Howard, PROPN 
+Hughes, PROPN 
+
+, SPACE 
+Medical, PROPN 
+Institute, PROPN 
+Harvard, PROPN 
+University, PROPN 
+Boston, PROPN 
+Mass, PROPN 
+2, NUM 
+cell, NOUN 
+lines, NOUN 
+
+, SPACE 
+transitioned, VERB 
+routine, ADJ 
+culture, NOUN 
+inactivated, ADJ 
+MEF, PROPN 
+feeders, NOUN 
+
+, SPACE 
+standardised, VERB 
+vitro, X 
+feeder, NOUN 
+free, ADJ 
+conditions, NOUN 
+30, NUM 
+Brie, PROPN 
+ﬂy, PROPN 
+hESC, PROPN 
+
+, SPACE 
+cultured, ADJ 
+MEF, PROPN 
+conditioned, VERB 
+Melton, PROPN 
+media, NOUN 
+Knockout, PROPN 
+DMEM, PROPN 
+15, NUM 
+
+, SPACE 
+KOSR, PROPN 
+1, NUM 
+NEAA, PROPN 
+1, NUM 
+mM, NUM 
+Glutamax, PROPN 
+0.1, NUM 
+mM, NUM 
+β, X 
+mercaptoethanol, NOUN 
+
+, SPACE 
+Invitrogen, PROPN 
+Taastrup, PROPN 
+Denmark, PROPN 
+0.5, NUM 
+human, ADJ 
+serum, NOUN 
+albumin, NOUN 
+
+, SPACE 
+HSA, PROPN 
+CSL, PROPN 
+Behring, PROPN 
+GmbH, PROPN 
+Marburg, PROPN 
+Germany, PROPN 
+supplemented, VERB 
+
+, SPACE 
+5, NUM 
+ng, PROPN 
+ml, NOUN 
+hbFGF, X 
+Invitrogen, PROPN 
+Taastrup, PROPN 
+Denmark, PROPN 
+Reduced, VERB 
+
+, SPACE 
+growth, NOUN 
+factor, NOUN 
+Matrigel, PROPN 
+
+, SPACE 
+®, NOUN 
+Becton, PROPN 
+Dickinson, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+
+, SPACE 
+according, VERB 
+manufacturer, NOUN 
+instructions, NOUN 
+
+, SPACE 
+passages, NOUN 
+transition, NOUN 
+sub, NOUN 
+population, NOUN 
+ﬁbroblast, NOUN 
+like, ADJ 
+
+, SPACE 
+stromal, ADJ 
+cells, NOUN 
+developed, VERB 
+hESC, NOUN 
+colonies, NOUN 
+cells, NOUN 
+
+, SPACE 
+referred, VERB 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+isolated, VERB 
+plating, VERB 
+colony, NOUN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+plates, NOUN 
+pre, VERB 
+coated, ADJ 
+100, NUM 
+μg, NOUN 
+ml, PROPN 
+hyaluronic, ADJ 
+acid, NOUN 
+Calbiochem/, PROPN 
+
+, SPACE 
+Merck, PROPN 
+Darmstadt, PROPN 
+Germany, PROPN 
+DMEM, PROPN 
+Invitrogen, PROPN 
+Taastrup, PROPN 
+
+, SPACE 
+Denmark, PROPN 
+supplemented, VERB 
+10, NUM 
+FBS, PROPN 
+PAA, PROPN 
+Pasching, PROPN 
+Austria, PROPN 
+
+, SPACE 
+colony, NOUN 
+cells, NOUN 
+attached, VERB 
+hyaluronic, ADJ 
+acid, NOUN 
+
+, SPACE 
+passages, NOUN 
+culture, NOUN 
+hyaluronic, ADJ 
+acid, NOUN 
+residual, ADJ 
+colony, NOUN 
+cells, NOUN 
+
+, SPACE 
+found, VERB 
+Flow, VERB 
+cytometry, NOUN 
+
+, SPACE 
+Flow, NOUN 
+cytometry, NOUN 
+carried, VERB 
+establish, VERB 
+phenotypic, ADJ 
+pro, ADJ 
+ﬁle, NOUN 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+compare, VERB 
+pro, ADJ 
+ﬁle, PROPN 
+
+, SPACE 
+characterized, VERB 
+hBMSC, NOUN 
+line, NOUN 
+established, VERB 
+expression, NOUN 
+
+, SPACE 
+human, ADJ 
+telomerase, NOUN 
+gene, NOUN 
+TERT, PROPN 
+called, VERB 
+hMSC, NOUN 
+TERT, NOUN 
+32, NUM 
+OD3-, PROPN 
+
+, SPACE 
+Hues8-, PROPN 
+KMEB3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+hMSC, NOUN 
+TERT, NOUN 
+cells, NOUN 
+stainedfor, ADP 
+pre, ADJ 
+conjugated, VERB 
+markers, NOUN 
+CD29, PROPN 
+FITC, PROPN 
+AbCam, PROPN 
+Cambridge, PROPN 
+UK, PROPN 
+
+, SPACE 
+CD34, PROPN 
+PE, PROPN 
+Dako, PROPN 
+Glostrup, PROPN 
+Denmark, PROPN 
+CD44, PROPN 
+PE, PROPN 
+CD45, PROPN 
+PE, PROPN 
+CD73, PROPN 
+PE, PROPN 
+
+, SPACE 
+CD146, PROPN 
+PE, PROPN 
+CD166, PROPN 
+PE, PROPN 
+BD, PROPN 
+Pharmingen, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+
+, SPACE 
+CXCR4, PROPN 
+PE, PROPN 
+Oct3/4, PROPN 
+FITC, PROPN 
+R&D, PROPN 
+Systems, PROPN 
+Abingdon, PROPN 
+UK, PROPN 
+Tra1-, PROPN 
+
+, SPACE 
+81, NUM 
+PE, NOUN 
+CD105, PROPN 
+APC, PROPN 
+eBioscience, PROPN 
+Hat, PROPN 
+ﬁeld, NOUN 
+UK, PROPN 
+Cells, NOUN 
+
+, SPACE 
+trypsinised, VERB 
+single, ADJ 
+cell, NOUN 
+suspension, NOUN 
+blocked, VERB 
+2, NUM 
+BSA, NOUN 
+
+, SPACE 
+incubation, NOUN 
+mentioned, VERB 
+pre, ADJ 
+conjugated, VERB 
+antibodies, NOUN 
+
+, SPACE 
+matched, VERB 
+isotype, NOUN 
+controls, NOUN 
+45, NUM 
+min, NOUN 
+ice, NOUN 
+samples, NOUN 
+
+, SPACE 
+analysed, VERB 
+FACScan, PROPN 
+BD, PROPN 
+Biosciences, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+data, NOUN 
+
+, SPACE 
+evaluated, VERB 
+WinMdi, PROPN 
+http://www.cyto.purdue.edu/, PROPN 
+ﬂowcyt, PROPN 
+soft-, PROPN 
+
+, SPACE 
+ware, NOUN 
+Winmdi.htm, PROPN 
+
+, SPACE 
+Differentiation, PROPN 
+osteoblast, VERB 
+adipocyte, NOUN 
+chondrocyte, PROPN 
+cells, NOUN 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+plated, VERB 
+tissue, NOUN 
+coated, ADJ 
+plastics, NOUN 
+pre, VERB 
+coated, ADJ 
+
+, SPACE 
+30, NUM 
+min, NOUN 
+RT, PROPN 
+100, NUM 
+μg, NOUN 
+ml, PROPN 
+hyaluronic, ADJ 
+acid, NOUN 
+PBS, PROPN 
+high, ADJ 
+glucose, NOUN 
+
+, SPACE 
+DMEM, PROPN 
+supplemented, VERB 
+10, NUM 
+FBS, PROPN 
+PAA, PROPN 
+Pasching, PROPN 
+Austria, PROPN 
+80, NUM 
+
+, SPACE 
+conﬂuence, NOUN 
+achieved, VERB 
+cells, NOUN 
+cultured, VERB 
+osteoblastic, ADJ 
+
+, SPACE 
+induction, NOUN 
+mixture, NOUN 
+containing, VERB 
+100, NUM 
+nM, NUM 
+dexamethasone, NOUN 
+Sigma-, PROPN 
+
+, SPACE 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+50, NUM 
+μg, NOUN 
+ml, PROPN 
+
+, SPACE 
+L, NOUN 
+ascorbic, NOUN 
+acid-2, NOUN 
+phosphate, NOUN 
+
+, SPACE 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+10, NUM 
+mM, NUM 
+β, X 
+glycerophosphate, NOUN 
+
+, SPACE 
+Calbiochem, PROPN 
+Merck, PROPN 
+Darmstadt, PROPN 
+Germany, PROPN 
+adipocyte, NOUN 
+differentia-, PART 
+
+, SPACE 
+tion, NOUN 
+cells, NOUN 
+incubated, VERB 
+100, NUM 
+con, NOUN 
+ﬂuency, NOUN 
+adipocyte, ADJ 
+induction, NOUN 
+
+, SPACE 
+mixture, NOUN 
+DMEM, PROPN 
+plus, CCONJ 
+10, NUM 
+FBS, PROPN 
+media, NOUN 
+supplemented, VERB 
+10, NUM 
+horse, NOUN 
+
+, SPACE 
+serum, NOUN 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+100, NUM 
+nM, NUM 
+dexamethasone, NOUN 
+
+, SPACE 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+450, NUM 
+μM, NUM 
+1, NUM 
+methyl-3, NUM 
+isobutyl-, NOUN 
+
+, SPACE 
+xanthine, PROPN 
+IBMX, PROPN 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+1, NUM 
+μM, NUM 
+Rosiglitazone, NOUN 
+
+, SPACE 
+BRL49653, PROPN 
+Cayman, PROPN 
+Chemical, PROPN 
+Ann, PROPN 
+Arbor, PROPN 
+Michigan, PROPN 
+5, NUM 
+μg, NOUN 
+ml, PROPN 
+insulin, NOUN 
+
+, SPACE 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+chondrocyte, ADJ 
+lineage, NOUN 
+
+, SPACE 
+2×105cells, NOUN 
+pelleted, VERB 
+900, NUM 
+g, NOUN 
+5, NUM 
+min, NOUN 
+left, VERB 
+overnight, ADV 
+
+, SPACE 
+CDM, PROPN 
+chemically, ADV 
+de, ADP 
+ﬁned, VERB 
+media, NOUN 
+DMEM, PROPN 
+F12, PROPN 
+Invitrogen, PROPN 
+Taastrup, PROPN 
+
+, SPACE 
+Denmark, PROPN 
+0.5, NUM 
+fraction, NOUN 
+V, NOUN 
+BSA, PROPN 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+1, NUM 
+
+, SPACE 
+lipid, NOUN 
+concentrate, NOUN 
+Invitrogen, PROPN 
+Taastrup, PROPN 
+Denmark, PROPN 
+1, NUM 
+mM, NUM 
+glutamax, NOUN 
+
+, SPACE 
+Invitrogen, PROPN 
+Taastrup, PROPN 
+Denmark, PROPN 
+supplemented, VERB 
+10, NUM 
+nM, NUM 
+dexameth-, NOUN 
+
+, SPACE 
+asone, NOUN 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+50, NUM 
+μg, NOUN 
+ml, PROPN 
+L, NOUN 
+ascorbic, NOUN 
+acid-2-, PROPN 
+
+, SPACE 
+phosphate, NOUN 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+40, NUM 
+μg, NOUN 
+ml, PROPN 
+L, NOUN 
+proline, NOUN 
+
+, SPACE 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+0.91, NUM 
+mM, NUM 
+sodium, NOUN 
+pyruvate, NOUN 
+Invi-, PROPN 
+
+, SPACE 
+trogen, NOUN 
+Taastrup, PROPN 
+Denmark, PROPN 
+1, NUM 
+insulin, NOUN 
+transferrin, NOUN 
+selenium, NOUN 
++1, NOUN 
+
+, SPACE 
+ITS+, NOUN 
+BD, PROPN 
+Biosciences, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+Cells, NOUN 
+incubated, VERB 
+
+, SPACE 
+overnight, ADV 
+form, VERB 
+pellet, NOUN 
+prior, ADV 
+addition, NOUN 
+10, NUM 
+ng, PROPN 
+ml, PROPN 
+TGF, PROPN 
+β1, PROPN 
+
+, SPACE 
+Peprotech, PROPN 
+London, PROPN 
+UK, PROPN 
+
+, SPACE 
+Quantitative, ADJ 
+real, ADJ 
+time, NOUN 
+PCR, PROPN 
+qRT, ADJ 
+PCR, PROPN 
+analysis, NOUN 
+
+, SPACE 
+collected, VERB 
+samples, NOUN 
+underwent, VERB 
+total, ADJ 
+RNA, PROPN 
+extraction, NOUN 
+TRIzol, PROPN 
+
+, SPACE 
+Invitrogen, PROPN 
+Taastrup, PROPN 
+Denmark, PROPN 
+according, VERB 
+manufacturer, NOUN 
+instruc-, ADJ 
+
+, SPACE 
+tions, NOUN 
+phase, NOUN 
+separation, NOUN 
+carried, VERB 
+chloroform, NOUN 
+
+, SPACE 
+resultant, ADJ 
+pellets, NOUN 
+washed, VERB 
+isopropanol, NOUN 
+70, NUM 
+ETOH, PROPN 
+air, NOUN 
+
+, SPACE 
+drying, NOUN 
+resuspension, NOUN 
+DEPC, PROPN 
+water, NOUN 
+cDNA, NOUN 
+constructed, VERB 
+
+, SPACE 
+revertAid, PROPN 
+H, PROPN 
+minus, CCONJ 
+ﬁrst, PROPN 
+strand, PROPN 
+cDNA, PROPN 
+synthesis, NOUN 
+kit, NOUN 
+Fermentas, PROPN 
+St, PROPN 
+
+, SPACE 
+Leon, PROPN 
+Rot, PROPN 
+Germany, PROPN 
+according, VERB 
+manufacturer, NOUN 
+instructions, NOUN 
+
+, SPACE 
+qRT, PROPN 
+PCR, PROPN 
+accomplished, VERB 
+MyIQ, PROPN 
+detection, NOUN 
+system, NOUN 
+Bio, PROPN 
+Rad, PROPN 
+
+, SPACE 
+Copenhagen, PROPN 
+Denmark, PROPN 
+20, NUM 
+μl, ADJ 
+volume, NOUN 
+20, NUM 
+pmol, NOUN 
+
+, SPACE 
+primer, NOUN 
+2×, PROPN 
+SYBERgreen, PROPN 
+Bio, PROPN 
+Rad, PROPN 
+Copenhagen, PROPN 
+Denmark, PROPN 
+15, NUM 
+μg, NOUN 
+
+, SPACE 
+cDNA, PROPN 
+ICycler, PROPN 
+optical, ADJ 
+system, NOUN 
+software, NOUN 
+Bio, PROPN 
+Rad, PROPN 
+v3.1, PROPN 
+
+, SPACE 
+Microsoft, PROPN 
+Excel, PROPN 
+relative, ADJ 
+gene, NOUN 
+e, PROPN 
+xpression, PROPN 
+data, PROPN 
+calculated, VERB 
+
+, SPACE 
+Following, VERB 
+normalisation, NOUN 
+reference, NOUN 
+gene, NOUN 
+β, AUX 
+actin, NOUN 
+quanti, PROPN 
+ﬁcation, PROPN 
+
+, SPACE 
+gene, NOUN 
+expression, NOUN 
+carried, VERB 
+comparative, ADJ 
+Ct, PROPN 
+method232, PROPN 
+L., PROPN 
+Harkness, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+48, NUM 
+2011, NUM 
+231, NUM 
+241, NUM 
+
+, SPACE 
+ΔCT, PROPN 
+difference, NOUN 
+CT, PROPN 
+values, NOUN 
+target, NOUN 
+
+, SPACE 
+reference, NOUN 
+gene, NOUN 
+
+, SPACE 
+days, NOUN 
+0, NUM 
+5, NUM 
+10, NUM 
+15, NUM 
+osteoblast, ADJ 
+OB, PROPN 
+adipocyte, NOUN 
+AD, NOUN 
+
+, SPACE 
+induction, NOUN 
+cells, NOUN 
+taken, VERB 
+qRT, ADJ 
+PCR, PROPN 
+OB, PROPN 
+alkaline, NOUN 
+phosphatase, NOUN 
+
+, SPACE 
+ALP),D, PROPN 
+L, PROPN 
+X, PROPN 
+5, NUM 
+R, NOUN 
+U, PROPN 
+N, PROPN 
+X, PROPN 
+2, NUM 
+M, PROPN 
+S, PROPN 
+X, PROPN 
+2, NUM 
+c, PROPN 
+o, PROPN 
+l, X 
+l, X 
+g, NOUN 
+e, NOUN 
+n1, ADJ 
+α1(COL1a1, NOUN 
+osteocalcin, PROPN 
+
+, SPACE 
+BGLAP, PROPN 
+osteonectin, NOUN 
+SPARC, PROPN 
+decorin, PROPN 
+DCN, PROPN 
+lysyl, NOUN 
+oxidase, NOUN 
+4, NUM 
+LOX-, NUM 
+
+, SPACE 
+L4, PROPN 
+bone, NOUN 
+sialoprotein, PROPN 
+IBSP, PROPN 
+AD, NOUN 
+adipocyte, NOUN 
+speci, NOUN 
+ﬁc, INTJ 
+lipid, ADJ 
+binding, VERB 
+
+, SPACE 
+protein, NOUN 
+2, NUM 
+aP2),PPARγ2and, NOUN 
+C, PROPN 
+CEBP, PROPN 
+α, NUM 
+days, NOUN 
+0, NUM 
+7, NUM 
+14, NUM 
+21, NUM 
+
+, SPACE 
+chondrocytic, ADJ 
+differentiation, NOUN 
+cell, NOUN 
+pellets, NOUN 
+taken, VERB 
+qRT, PROPN 
+PCR, PROPN 
+
+, SPACE 
+SOX9, PROPN 
+collagen, NOUN 
+2, NUM 
+α1(COL2a1, NOUN 
+aggrecan, PROPN 
+ACAN, PROPN 
+ALP, PROPN 
+RUNX2, PROPN 
+
+, SPACE 
+COL1a1, PUNCT 
+primers, NOUN 
+obtained, VERB 
+DNA, PROPN 
+Technology, PROPN 
+S, PROPN 
+
+, SPACE 
+Risskov, PROPN 
+Denmark, PROPN 
+
+, SPACE 
+Cytochemical, ADJ 
+immunohistochemical, ADJ 
+stainingCytochemical, ADJ 
+
+, SPACE 
+Alizarin, PROPN 
+red, NOUN 
+AZR, PROPN 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+alkaline, NOUN 
+
+, SPACE 
+phosphatase, NOUN 
+ALP, PROPN 
+staining, VERB 
+OB, PROPN 
+differentiation, NOUN 
+carried, VERB 
+
+, SPACE 
+following, VERB 
+ﬁxation, NOUN 
+ice, NOUN 
+cold, ADJ 
+70, NUM 
+ETOH, PROPN 
+1, NUM 
+h, NOUN 
+AZR, PROPN 
+
+, SPACE 
+0.10, NUM 
+mM, NUM 
+citrate, NOUN 
+buffer, NOUN 
+pH, NUM 
+4.2, NUM 
+acetone, NOUN 
+ﬁx, PROPN 
+ratio, NOUN 
+3:2, NUM 
+5, NUM 
+min, NOUN 
+RT, PROPN 
+
+, SPACE 
+ALP, PROPN 
+Cells, NOUN 
+incubated, VERB 
+40, NUM 
+mM, NUM 
+AZR, PROPN 
+pH, NUM 
+4.2, NUM 
+10, NUM 
+min, NOUN 
+RT, PROPN 
+
+, SPACE 
+examination, NOUN 
+presence, NOUN 
+mineralised, VERB 
+matrix, NOUN 
+ALP, PROPN 
+
+, SPACE 
+staining, NOUN 
+carried, VERB 
+solution, NOUN 
+0.2, NUM 
+mg, NOUN 
+ml, PROPN 
+Napthol, PROPN 
+TR, ADJ 
+
+, SPACE 
+phosphate, ADJ 
+substrate, NOUN 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+water, NOUN 
+
+, SPACE 
+combined, VERB 
+0.417, NUM 
+mg, NOUN 
+ml, PROPN 
+Fast, ADJ 
+red, ADJ 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+
+, SPACE 
+Denmark, PROPN 
+0.1, NUM 
+M, PROPN 
+Tris, PROPN 
+pH, NUM 
+9.5, NUM 
+1, NUM 
+h, NOUN 
+RT, PROPN 
+Following, VERB 
+ﬁxation, NOUN 
+4, NUM 
+
+, SPACE 
+PFA, PROPN 
+10, NUM 
+min, NOUN 
+Oil, NOUN 
+red, NOUN 
+Sigma, PROPN 
+Aldrich, PROPN 
+Brøndby, PROPN 
+Denmark, PROPN 
+0.5, NUM 
+g, NOUN 
+
+, SPACE 
+60, NUM 
+isopropanol, NOUN 
+staining, VERB 
+lipid, ADJ 
+deposition, NOUN 
+carried, VERB 
+RTfor, PROPN 
+1, NUM 
+h, NOUN 
+counterstaining, VERB 
+haematoxylin, NOUN 
+Pellets, NOUN 
+cells, NOUN 
+
+, SPACE 
+undergoing, VERB 
+chondrocytic, ADJ 
+differentiation, NOUN 
+ﬁxed, VERB 
+10, NUM 
+min, NOUN 
+4, NUM 
+
+, SPACE 
+PFA, PROPN 
+washed, VERB 
+PBS, PROPN 
+processed, VERB 
+embedded, VERB 
+paraf, NOUN 
+ﬁn, NOUN 
+
+, SPACE 
+sectioning, VERB 
+staining, VERB 
+
+, SPACE 
+Immunohistochemical, ADJ 
+
+, SPACE 
+Routine, PROPN 
+protocols, NOUN 
+31, NUM 
+stain, VERB 
+SOX9, PROPN 
+1:200, NUM 
+R&D, PROPN 
+
+, SPACE 
+Systems, PROPN 
+Abingdon, PROPN 
+UK, PROPN 
+collagen, NOUN 
+type, NOUN 
+1, NUM 
+1:200, NUM 
+AbCam, PROPN 
+Cambridge, PROPN 
+
+, SPACE 
+UK, PROPN 
+human, NOUN 
+Vimentin, PROPN 
+1:400, PROPN 
+Dako, PROPN 
+Glostrup, PROPN 
+Denmark, PROPN 
+Tra1, NUM 
+85, NUM 
+
+, SPACE 
+1:100, PROPN 
+Chemicon, PROPN 
+Millipore, PROPN 
+Copenhagen, PROPN 
+Denmark, PROPN 
+Brie, PROPN 
+ﬂy, PROPN 
+immu-, X 
+
+, SPACE 
+nocyto-, PROPN 
+histo, ADJ 
+chemical, NOUN 
+staining, NOUN 
+performed, VERB 
+DAKO, PROPN 
+En, PROPN 
+
+, SPACE 
+Vision+, PROPN 
+PowerVision, PROPN 
+according, VERB 
+manufacturer, NOUN 
+instructions, NOUN 
+
+, SPACE 
+Primary, PROPN 
+antibodies, NOUN 
+diluted, VERB 
+ChemMate, PROPN 
+Antibody, PROPN 
+diluent, NOUN 
+
+, SPACE 
+S2022, PROPN 
+Dako, PROPN 
+Glostrup, PROPN 
+Denmark, PROPN 
+processed, VERB 
+automatic, ADJ 
+
+, SPACE 
+slide, NOUN 
+processor, NOUN 
+Techmate500, PROPN 
+Dako, PROPN 
+Glostrup, PROPN 
+Denmark, PROPN 
+
+, SPACE 
+dilutions, NOUN 
+stated, VERB 
+
+, SPACE 
+Analysis, PROPN 
+carried, VERB 
+IX50, PROPN 
+Olympus, PROPN 
+microscope, NOUN 
+
+, SPACE 
+OlympusDP, PROPN 
+Software, PROPN 
+v3.1, ADP 
+Olympus, PROPN 
+Essex, PROPN 
+UK, PROPN 
+Leica, PROPN 
+DM4500, PROPN 
+
+, SPACE 
+Leica, PROPN 
+Wetzlar, PROPN 
+Germany, PROPN 
+Surveyor, PROPN 
+Turboscan, PROPN 
+Mosaic, PROPN 
+
+, SPACE 
+acquisition, NOUN 
+imaging, NOUN 
+analysis, NOUN 
+system, NOUN 
+v5.04.01, NOUN 
+Objective, PROPN 
+Imaging, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Cambridge, PROPN 
+UK, PROPN 
+
+, SPACE 
+vivo, ADJ 
+implantation, NOUN 
+studiesTeratoma, X 
+formation, NOUN 
+
+, SPACE 
+Undifferentiated, PROPN 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+implanted, VERB 
+1:2, NUM 
+
+, SPACE 
+dilution, NOUN 
+Matrigel, PROPN 
+®, NOUN 
+basement, NOUN 
+membrane, NOUN 
+matrix, NOUN 
+BD, PROPN 
+Biosciences, PROPN 
+
+, SPACE 
+Brøndby, PROPN 
+Denmark, PROPN 
+Knockout, PROPN 
+DMEM, PROPN 
+subcutaneously, ADV 
+
+, SPACE 
+dorsal, NOUN 
+surface, NOUN 
+4, NUM 
+NOD, PROPN 
+MrkBomTac, PROPN 
+PrkdcSCIDmice, PROPN 
+period, NOUN 
+
+, SPACE 
+8, NUM 
+10, NUM 
+weeks, NOUN 
+33, NUM 
+mouse, NOUN 
+n=4, PROPN 
+received, VERB 
+2×106cells, NUM 
+
+, SPACE 
+2, NUM 
+implantation, NOUN 
+sites, NOUN 
+teratoma, NOUN 
+formed, VERB 
+implantation, NOUN 
+
+, SPACE 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+identi, VERB 
+ﬁcation, NOUN 
+injection, NOUN 
+sites, NOUN 
+cells, NOUN 
+
+, SPACE 
+placed, VERB 
+dif, PROPN 
+ﬁcult, PROPN 
+87, NUM 
+7/8, NUM 
+implantation, NOUN 
+sites, NOUN 
+
+, SPACE 
+identi, NOUN 
+ﬁed, PROPN 
+residual, ADJ 
+Matrigel, PROPN 
+®, NOUN 
+plug, NOUN 
+small, ADJ 
+
+, SPACE 
+tissue, NOUN 
+recovered, VERB 
+Implantation, NOUN 
+sites, NOUN 
+ﬁxed, VERB 
+4, NUM 
+PFA, NOUN 
+embedded, VERB 
+
+, SPACE 
+sectioned, VERB 
+stained, VERB 
+H&E, PROPN 
+Tra1, NOUN 
+85, NUM 
+1:100, NUM 
+Chemicon/, PROPN 
+
+, SPACE 
+Millipore, PROPN 
+S, PROPN 
+Copenhagen, PROPN 
+Denmark, PROPN 
+establish, VERB 
+human, ADJ 
+cell, NOUN 
+
+, SPACE 
+identi, NOUN 
+ﬁcation, NOUN 
+Additionally, ADV 
+3, NUM 
+4×106hESC, NUM 
+KMEB3, PROPN 
+cells, NOUN 
+wereimplanted, VERB 
+4, NUM 
+injection, NOUN 
+sites, NOUN 
+dorsal, ADJ 
+surface, NOUN 
+1, NUM 
+NOD-, NUM 
+
+, SPACE 
+SCID, PROPN 
+mouse, NOUN 
+1:2, NUM 
+dilution, NOUN 
+Matrigel, PROPN 
+®, NOUN 
+establish, VERB 
+teratoma, NOUN 
+
+, SPACE 
+formation, NOUN 
+Teratomas, PROPN 
+removed, VERB 
+4, NUM 
+5, NUM 
+weeks, NOUN 
+vacuolation, NOUN 
+
+, SPACE 
+hESC, PROPN 
+induced, VERB 
+teratoma, NOUN 
+tissue, NOUN 
+hESC, PROPN 
+KMEB3, PROPN 
+formed, VERB 
+teratoma, NOUN 
+
+, SPACE 
+containing, VERB 
+tissues, NOUN 
+derived, VERB 
+germ, NOUN 
+layers, NOUN 
+previously, ADV 
+
+, SPACE 
+reported, VERB 
+31, NUM 
+
+, SPACE 
+vivo, ADJ 
+bone, NOUN 
+formation, NOUN 
+assay, VERB 
+
+, SPACE 
+million, NUM 
+OD3, PROPN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+undergoing, VERB 
+osteoblast, ADJ 
+differ-, ADJ 
+
+, SPACE 
+entiation, NOUN 
+5, NUM 
+days, NOUN 
+non, ADJ 
+induced, VERB 
+cells, NOUN 
+implanted, VERB 
+NOD/, PROPN 
+
+, SPACE 
+MrkBomTac, PROPN 
+PrkdcSCIDmice, PROPN 
+combination, NOUN 
+40, NUM 
+mg, ADP 
+hydroxyap-, X 
+
+, SPACE 
+atite, ADJ 
+tricalcium, NOUN 
+phosphate, NOUN 
+HA, PROPN 
+TCP, PROPN 
+Triosite, PROPN 
+0.5, NUM 
+1, NUM 
+mm, NOUN 
+granules, NOUN 
+
+, SPACE 
+Biomatlante, PROPN 
+Zimmer, PROPN 
+Vigneux, PROPN 
+de, X 
+Bretagne, PROPN 
+France, PROPN 
+weeks, NOUN 
+
+, SPACE 
+implantation, NOUN 
+scaffold, NOUN 
+removed, VERB 
+ﬁxed, VERB 
+4, NUM 
+PFA, NOUN 
+
+, SPACE 
+embedding, VERB 
+paraf, NOUN 
+ﬁn, NOUN 
+Sections, NOUN 
+stained, VERB 
+haematoxylin, NOUN 
+
+, SPACE 
+eosin, NOUN 
+H&E, PROPN 
+collagen, NOUN 
+type, NOUN 
+1, NUM 
+1:200, NUM 
+AbCam, PROPN 
+Cambridge, PROPN 
+UK, PROPN 
+Tra1, NOUN 
+85, NUM 
+
+, SPACE 
+1:100, PROPN 
+Chemicon, PROPN 
+Millipore, PROPN 
+Copenhagen, PROPN 
+Denmark, PROPN 
+human, PROPN 
+Vimen-, PROPN 
+
+, SPACE 
+tin, NOUN 
+1:400, PROPN 
+Dako, PROPN 
+Glostrup, PROPN 
+Denmark, PROPN 
+Sirius, PROPN 
+red, PROPN 
+KMEB3, PROPN 
+hESC, VERB 
+
+, SPACE 
+cells, NOUN 
+3, NUM 
+4×106, NUM 
+addition, NOUN 
+seeded, VERB 
+HA, PROPN 
+TCP, PROPN 
+implanted, VERB 
+
+, SPACE 
+NOD, PROPN 
+SCID, PROPN 
+mice, NOUN 
+establish, VERB 
+cells, NOUN 
+adherent, NOUN 
+scaffold, NOUN 
+
+, SPACE 
+formed, VERB 
+teratomas, NOUN 
+presence, NOUN 
+scaffold, NOUN 
+impeded, VERB 
+teratoma, NOUN 
+
+, SPACE 
+formation, NOUN 
+Scaffolds, NOUN 
+removed, VERB 
+8, NUM 
+weeks, NOUN 
+processed, VERB 
+asabove, NOUN 
+
+, SPACE 
+Critical, ADJ 
+sized, ADJ 
+calvarial, ADJ 
+defect, NOUN 
+
+, SPACE 
+critical, ADJ 
+size, NOUN 
+calvarial, ADJ 
+defect, NOUN 
+model, NOUN 
+established, VERB 
+described, VERB 
+
+, SPACE 
+Gupta, PROPN 
+et, PROPN 
+al, PROPN 
+34, NUM 
+brief, NOUN 
+3, NUM 
+mm, NOUN 
+circular, ADJ 
+calvarial, ADJ 
+defects, NOUN 
+
+, SPACE 
+created, VERB 
+right, NOUN 
+left, VERB 
+parietal, ADJ 
+bones, NOUN 
+month, NOUN 
+old, ADJ 
+
+, SPACE 
+NOD, PROPN 
+MrkBomTac, PROPN 
+Prkdc, PROPN 
+
+, SPACE 
+SCIDmice, PROPN 
+biopsy, NOUN 
+punch, NOUN 
+Kai, PROPN 
+Medical, PROPN 
+
+, SPACE 
+Solingen, PROPN 
+Germany, PROPN 
+dura, ADJ 
+mater, NOUN 
+carefully, ADV 
+removed, VERB 
+
+, SPACE 
+prevent, VERB 
+regeneration, NOUN 
+bone, NOUN 
+source, NOUN 
+order, NOUN 
+allow, VERB 
+
+, SPACE 
+visualization, NOUN 
+bone, NOUN 
+healing, NOUN 
+μCT, NOUN 
+scanning, NOUN 
+cells, NOUN 
+
+, SPACE 
+concentration, NOUN 
+10, NUM 
+15,000, NUM 
+cm2, NOUN 
+seeded, VERB 
+PCL, PROPN 
+ﬁlm, NOUN 
+
+, SPACE 
+Healos, PROPN 
+®, NOUN 
+Bone, PROPN 
+Graft, PROPN 
+Replacement, PROPN 
+gifted, VERB 
+Protesekompagniet, PROPN 
+
+, SPACE 
+Albertslund, PROPN 
+Denmark, PROPN 
+currently, ADV 
+Clinic, PROPN 
+
+, SPACE 
+treating, VERB 
+bone, NOUN 
+defects, NOUN 
+http://www.depuyacromed.com/products/, PROPN 
+
+, SPACE 
+biologicssolutions, NOUN 
+healos.asp, X 
+Cells, NOUN 
+seeded, VERB 
+scaffolds, NOUN 
+
+, SPACE 
+incubated, VERB 
+2, NUM 
+h, NOUN 
+allow, VERB 
+cells, NOUN 
+adhere, VERB 
+scaffold, NOUN 
+prior, ADV 
+
+, SPACE 
+additional, ADJ 
+media, NOUN 
+added, VERB 
+PCL, PROPN 
+ﬁlm, NOUN 
+fabricated, VERB 
+Solvay, PROPN 
+
+, SPACE 
+polycaprolactone, NOUN 
+grade, NOUN 
+6405, NUM 
+ﬁlm, NOUN 
+dissolving, VERB 
+HPC, PROPN 
+grade, NOUN 
+1,4-, NUM 
+
+, SPACE 
+dioxane, NOUN 
+dissolved, VERB 
+ﬁlm, NOUN 
+distributed, VERB 
+glass, NOUN 
+surface, NOUN 
+
+, SPACE 
+dioxane, NOUN 
+evaporated, VERB 
+fume, NOUN 
+hood, NOUN 
+Finally, ADV 
+ﬁlm, NOUN 
+placed, VERB 
+
+, SPACE 
+vacuum, NOUN 
+oven, VERB 
+eliminate, VERB 
+rest, NOUN 
+dioxane, NOUN 
+3, NUM 
+mm, NOUN 
+implant, NOUN 
+
+, SPACE 
+resultant, ADJ 
+PCL, PROPN 
+ﬁlm, NOUN 
+Healos, PROPN 
+®, NOUN 
+inserted, VERB 
+defect, NOUN 
+
+, SPACE 
+animal, NOUN 
+defect, NOUN 
+assigned, VERB 
+PCL, PROPN 
+ﬁlm, NOUN 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+
+, SPACE 
+cells, NOUN 
+defect, NOUN 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+seeded, VERB 
+
+, SPACE 
+PCL, PROPN 
+ﬁlm, NOUN 
+cells, NOUN 
+seeded, VERB 
+underside, NOUN 
+scaffold, NOUN 
+
+, SPACE 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+permeable, ADJ 
+cells, NOUN 
+seeded, VERB 
+
+, SPACE 
+scaffold, NOUN 
+mice, NOUN 
+PCL, PROPN 
+ﬁlm, NOUN 
+mice, NOUN 
+Healos, PROPN 
+®, NOUN 
+received, VERB 
+
+, SPACE 
+cells, NOUN 
+undergone, VERB 
+5, NUM 
+days, NOUN 
+vitro, X 
+osteogenic, ADJ 
+induction, NOUN 
+
+, SPACE 
+seeding, NOUN 
+scaffold, NOUN 
+mice, NOUN 
+PCL, PROPN 
+ﬁlm, NOUN 
+mice, NOUN 
+Healos, ADJ 
+®, NOUN 
+
+, SPACE 
+received, VERB 
+cells, NOUN 
+grown, VERB 
+5, NUM 
+days, NOUN 
+received, VERB 
+
+, SPACE 
+osteogenic, ADJ 
+induction, NOUN 
+HA, PROPN 
+TCP, PROPN 
+employed, VERB 
+calvarial, ADJ 
+
+, SPACE 
+defect, ADJ 
+model, NOUN 
+μCT, NOUN 
+scanning, VERB 
+studies, NOUN 
+carried, VERB 
+
+, SPACE 
+radiodensity, NOUN 
+HA, PROPN 
+TCP, PROPN 
+equivalent, ADJ 
+bone, NOUN 
+
+, SPACE 
+Samples, NOUN 
+harvested, VERB 
+14, NUM 
+weeks, NOUN 
+implantation, NOUN 
+calvaria, NOUN 
+
+, SPACE 
+ﬁxed, VERB 
+4, NUM 
+formalin, NOUN 
+3, NUM 
+days, NOUN 
+decalci, NOUN 
+ﬁcation, NOUN 
+0.38, NUM 
+M, PROPN 
+
+, SPACE 
+EDTA, PROPN 
+di, PROPN 
+sodium, NOUN 
+salt, NOUN 
+pH, NUM 
+7.2, NUM 
+5, NUM 
+days, NOUN 
+defects, NOUN 
+embedded, VERB 
+
+, SPACE 
+sectioned, ADJ 
+5, NUM 
+μm, NOUN 
+stained, VERB 
+human, ADJ 
+Vimentin, PROPN 
+1:400, PROPN 
+Dako, PROPN 
+
+, SPACE 
+Glostrup, PROPN 
+Denmark, PROPN 
+Tra1, NOUN 
+85, NUM 
+1:100, NUM 
+Chemicon, PROPN 
+Millipore, PROPN 
+Copenha-, PROPN 
+
+, SPACE 
+gen, PROPN 
+Denmark, PROPN 
+Sirius, PROPN 
+red, NOUN 
+H&E., NOUN 
+detect, VERB 
+healing, NOUN 
+microcomputed, VERB 
+
+, SPACE 
+tomographical, ADJ 
+μCT, NOUN 
+scanning, VERB 
+images, NOUN 
+obtained, VERB 
+mice, NOUN 
+
+, SPACE 
+critical, ADJ 
+sized, ADJ 
+calvarial, ADJ 
+defect, NOUN 
+study, NOUN 
+weeks, NOUN 
+3, NUM 
+14, NUM 
+weeks, NOUN 
+
+, SPACE 
+PCL, PROPN 
+ﬁlm, NOUN 
+2, NUM 
+14, NUM 
+weeks, NOUN 
+Healos, PROPN 
+®, NOUN 
+VivaCT40, ADJ 
+scanner, NOUN 
+
+, SPACE 
+Scanco, PROPN 
+Medical, PROPN 
+AG, PROPN 
+Bassersdorf, PROPN 
+Switzerland, PROPN 
+dimensional233, NOUN 
+L., PROPN 
+Harkness, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+48, NUM 
+2011, NUM 
+231, NUM 
+241, NUM 
+
+, SPACE 
+images, NOUN 
+acquired, VERB 
+calvarial, ADJ 
+defect, NOUN 
+area, NOUN 
+3-, NUM 
+
+, SPACE 
+dimensional, ADJ 
+reconstructions, NOUN 
+cubic, ADJ 
+voxel, NOUN 
+size, NOUN 
+38, NUM 
+μm, NOUN 
+
+, SPACE 
+generated, VERB 
+Images, NOUN 
+analysed, VERB 
+built, VERB 
+software, NOUN 
+
+, SPACE 
+Results, NOUN 
+
+, SPACE 
+Isolation, NOUN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+selective, ADJ 
+adherence, NOUN 
+HA, PROPN 
+coated, VERB 
+
+, SPACE 
+plates, NOUN 
+
+, SPACE 
+hESC, NOUN 
+lines, NOUN 
+transitioned, VERB 
+culture, NOUN 
+inactivated, ADJ 
+MEF, PROPN 
+feeders, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+feeder, VERB 
+free, ADJ 
+culture, NOUN 
+conditions, NOUN 
+presence, NOUN 
+Matrigel, PROPN 
+®, NOUN 
+
+, SPACE 
+MEF, PROPN 
+conditioned, VERB 
+media, NOUN 
+contained, VERB 
+distinct, ADJ 
+
+, SPACE 
+populations, NOUN 
+cells, NOUN 
+hESC, VERB 
+colonies, NOUN 
+Fig, PROPN 
+1, NUM 
+sub, NOUN 
+population, NOUN 
+
+, SPACE 
+ﬁbroblast, NOUN 
+like, ADJ 
+stromal, ADJ 
+cells, NOUN 
+Fig, PROPN 
+1, NUM 
+C, NOUN 
+termed, VERB 
+hESC, PROPN 
+stromal, ADJ 
+
+, SPACE 
+cells, NOUN 
+Changes, NOUN 
+localisation, NOUN 
+expression, NOUN 
+CD44, PROPN 
+HA, NOUN 
+receptor, NOUN 
+
+, SPACE 
+noted, VERB 
+colony, NOUN 
+cells, NOUN 
+transferred, VERB 
+feeders, NOUN 
+feeder, VERB 
+free, ADJ 
+
+, SPACE 
+conditions, NOUN 
+CD44, PROPN 
+found, VERB 
+highly, ADV 
+expressed, VERB 
+colony, NOUN 
+cells, NOUN 
+
+, SPACE 
+grown, VERB 
+feeders, NOUN 
+Fig, PROPN 
+1, NUM 
+absent, ADJ 
+colony, NOUN 
+cells, NOUN 
+grown, VERB 
+
+, SPACE 
+Matrigel, PROPN 
+®, NOUN 
+(Fig, X 
+1, NUM 
+B, PROPN 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+appeared, VERB 
+
+, SPACE 
+colonies, NOUN 
+grown, VERB 
+Matrigel, PROPN 
+®, NOUN 
+CD44, PROPN 
++, NOUN 
+Culturing, VERB 
+cells, NOUN 
+HA, PROPN 
+
+, SPACE 
+coated, ADJ 
+wells, NOUN 
+enriched, VERB 
+CD44+hESC, ADJ 
+stromal, ADJ 
+cells, NOUN 
+colony, NOUN 
+
+, SPACE 
+cells, NOUN 
+CD44−, NOUN 
+adhere, VERB 
+Fig, PROPN 
+1, NUM 
+C, NOUN 
+Transferring, VERB 
+hESC, NOUN 
+
+, SPACE 
+directly, ADV 
+feeder, NOUN 
+cultures, NOUN 
+HA, NOUN 
+coated, VERB 
+wells, NOUN 
+select, VERB 
+
+, SPACE 
+stromal, ADJ 
+cell, NOUN 
+population, NOUN 
+majority, NOUN 
+colony, NOUN 
+cells, NOUN 
+CD44, PROPN 
++, PROPN 
+
+, SPACE 
+adhered, VERB 
+matrix, NOUN 
+seen, VERB 
+Fig, PROPN 
+1, NUM 
+D, PROPN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+proliferated, VERB 
+readily, ADV 
+culture, NOUN 
+population, NOUN 
+doubling, VERB 
+time, NOUN 
+
+, SPACE 
+PDT, PROPN 
+24, NUM 
+h, NOUN 
+continued, VERB 
+growth, NOUN 
+rate, NOUN 
+15, NUM 
+passages, NOUN 
+
+, SPACE 
+evidence, NOUN 
+vitro, X 
+replicative, ADJ 
+senescence, NOUN 
+Fig, PROPN 
+1, NUM 
+E, NOUN 
+demon-, ADJ 
+
+, SPACE 
+strates, NOUN 
+hESC, PROPN 
+OD3, PROPN 
+grown, VERB 
+Matrigel, PROPN 
+®, NOUN 
+absence, NOUN 
+stromalcells, NOUN 
+100, NUM 
+CD44−and, NOUN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+isolated, VERB 
+hESC, PROPN 
+
+, SPACE 
+cultured, VERB 
+Matrigel, PROPN 
+®, NOUN 
+100, NUM 
+CD44, PROPN 
++, PROPN 
+test, VERB 
+hESC, PROPN 
+stromal, ADJ 
+
+, SPACE 
+cells, NOUN 
+revert, VERB 
+pluripotential, ADJ 
+colony, NOUN 
+cells, NOUN 
+cells, NOUN 
+re-, ADV 
+
+, SPACE 
+cultured, ADJ 
+5, NUM 
+passages, NOUN 
+HA, PROPN 
+Matrigel, PROPN 
+®, NOUN 
+presence, NOUN 
+MEF, PROPN 
+
+, SPACE 
+conditioned, VERB 
+media, NOUN 
+supplemented, VERB 
+hbFGF, NOUN 
+colony, NOUN 
+formation, NOUN 
+
+, SPACE 
+observed, VERB 
+suggesting, VERB 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+established, VERB 
+differentiated, VERB 
+cell, NOUN 
+line, NOUN 
+cells, NOUN 
+negative, ADJ 
+pluripotency, NOUN 
+marker, NOUN 
+Oct3/4, PUNCT 
+Fig, PROPN 
+2, NUM 
+supplementary, ADJ 
+
+, SPACE 
+data, NOUN 
+Additionally, ADV 
+karyotypic, ADJ 
+analysis, NOUN 
+performed, VERB 
+
+, SPACE 
+parental, ADJ 
+hESC, PROPN 
+hESC, PROPN 
+derived, VERB 
+stromal, ADJ 
+cells, NOUN 
+normal, ADJ 
+
+, SPACE 
+data, NOUN 
+shown, VERB 
+
+, SPACE 
+vitro, ADJ 
+expansion, NOUN 
+differentiation, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+performed, VERB 
+absence, NOUN 
+HA, PROPN 
+
+, SPACE 
+order, NOUN 
+establish, VERB 
+presence, NOUN 
+HA, PROPN 
+needed, VERB 
+
+, SPACE 
+maintenance, NOUN 
+growth, NOUN 
+differentiation, NOUN 
+status, NOUN 
+hESC, PROPN 
+stromal, ADJ 
+
+, SPACE 
+cells, NOUN 
+cells, NOUN 
+passage, NOUN 
+3, NUM 
+10, NUM 
+transferred, VERB 
+wells, NOUN 
+
+, SPACE 
+precoating, VERB 
+HA, NOUN 
+change, NOUN 
+observed, VERB 
+cell, NOUN 
+morphology, NOUN 
+
+, SPACE 
+surface, NOUN 
+marker, NOUN 
+expression, NOUN 
+passage, NOUN 
+3, NUM 
+data, NOUN 
+CD44, PROPN 
+CD73, PROPN 
+CD105, PROPN 
+CD146, PROPN 
+
+, SPACE 
+CD166, PROPN 
+Fig, PROPN 
+1A, PROPN 
+supplementary, ADJ 
+data, NOUN 
+proliferation, NOUN 
+capacity, NOUN 
+Fig, PROPN 
+1, NUM 
+C, PROPN 
+
+, SPACE 
+cells, NOUN 
+Similarly, ADV 
+signi, NOUN 
+ﬁcant, NOUN 
+differences, NOUN 
+gene, NOUN 
+expression, NOUN 
+RUNX2, PROPN 
+
+, SPACE 
+ALP, PROPN 
+BGLAP, PROPN 
+COL1a1, NOUN 
+seen, VERB 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+undergoing, VERB 
+
+, SPACE 
+osteoblast, ADJ 
+differentiation, NOUN 
+grown, VERB 
+HA, PROPN 
+matrix, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1B, PROPN 
+E, NOUN 
+supplementary, ADJ 
+data, NOUN 
+n=3, DET 
+independent, ADJ 
+experiments, NOUN 
+
+, SPACE 
+Additionally, ADV 
+observe, VERB 
+spontaneous, ADJ 
+regulation, NOUN 
+
+, SPACE 
+osteoblastic, ADJ 
+gene, NOUN 
+expression, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+examined, VERB 
+days, NOUN 
+
+, SPACE 
+1, NUM 
+5, NUM 
+10, NUM 
+14, NUM 
+culture, NOUN 
+Fig, PROPN 
+1B, PROPN 
+E, NOUN 
+supplementary, ADJ 
+data, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Localisation, NOUN 
+CD44, PROPN 
+hESC, PROPN 
+OD3, PROPN 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+Staining, VERB 
+results, NOUN 
+hESC, PROPN 
+OD3, PROPN 
+line, NOUN 
+showing, VERB 
+change, NOUN 
+localisation, NOUN 
+CD44, PROPN 
+cells, NOUN 
+grown, VERB 
+
+, SPACE 
+inactivated, VERB 
+feeder, NOUN 
+layer, NOUN 
+20, NUM 
+μm, NOUN 
+B, NOUN 
+transitioned, VERB 
+Matrigel, PROPN 
+®, NOUN 
+conditioned, VERB 
+media, NOUN 
+100, NUM 
+μm, NOUN 
+CD44, PROPN 
+found, VERB 
+expressed, VERB 
+pluripotent, NOUN 
+colony, NOUN 
+cells, NOUN 
+grown, VERB 
+
+, SPACE 
+feeders, NOUN 
+regulated, VERB 
+colony, NOUN 
+cells, NOUN 
+subsequently, ADV 
+expressed, VERB 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+grown, VERB 
+Matrigel, PROPN 
+®, NOUN 
+C, PROPN 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+grown, VERB 
+hyaluronic, ADJ 
+acid, NOUN 
+
+, SPACE 
+100x, PROPN 
+magni, NOUN 
+ﬁcation, NOUN 
+D, NOUN 
+growth, NOUN 
+curves, NOUN 
+6, NUM 
+passages, NOUN 
+OD3, PROPN 
+stromal, NOUN 
+grown, VERB 
+hyaluronic, ADJ 
+acid, NOUN 
+matrix, NOUN 
+difference, NOUN 
+seen, VERB 
+plating, PROPN 
+ef, PROPN 
+ﬁciency, NOUN 
+
+, SPACE 
+proliferation, NOUN 
+rate, NOUN 
+population, NOUN 
+doubling, VERB 
+growth, NOUN 
+conditions, NOUN 
+E, NOUN 
+upper, ADJ 
+panel, NOUN 
+Flow, VERB 
+cytometric, ADJ 
+analysis, NOUN 
+hESC, PROPN 
+OD3, PROPN 
+grown, VERB 
+Matrige, PROPN 
+l, NOUN 
+®, NOUN 
+MEFCM, PROPN 
+absence, NOUN 
+
+, SPACE 
+stromal, ADJ 
+cells, NOUN 
+showing, VERB 
+hESC, PROPN 
+negative, ADJ 
+CD44, PROPN 
+lower, ADJ 
+panel, NOUN 
+isolated, VERB 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+showing, VERB 
+cells, NOUN 
+positive, ADJ 
+CD44.234, NOUN 
+L., PROPN 
+Harkness, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+48, NUM 
+2011, NUM 
+231, NUM 
+241, NUM 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+exhibit, VERB 
+surface, NOUN 
+markers, NOUN 
+human, ADJ 
+bone, NOUN 
+marrow, NOUN 
+
+, SPACE 
+stromal, ADJ 
+stem, NOUN 
+cells, NOUN 
+hBMSC, NOUN 
+
+, SPACE 
+Flow, NOUN 
+cytometry, NOUN 
+carried, VERB 
+hESC, NOUN 
+stromal, ADJ 
+cell, NOUN 
+lines, NOUN 
+
+, SPACE 
+cell, NOUN 
+surface, NOUN 
+markers, NOUN 
+employed, VERB 
+de, ADP 
+ﬁne, NOUN 
+hBMSC, VERB 
+35, NUM 
+
+, SPACE 
+compared, VERB 
+described, VERB 
+hMSC, NOUN 
+TERT, NOUN 
+line, NOUN 
+32,36, X 
+hESC, PROPN 
+stromal, ADJ 
+
+, SPACE 
+cells, NOUN 
+CD44+,C, PROPN 
+D, NOUN 
+7, NUM 
+3, NUM 
++, NUM 
+CD105, PROPN 
++, PROPN 
+CD146, PROPN 
++, PROPN 
+CD166+and, CCONJ 
+
+, SPACE 
+percentage, NOUN 
+positive, ADJ 
+cells, NOUN 
+comparable, ADJ 
+hMSC, NOUN 
+TERT, NOUN 
+
+, SPACE 
+CD44, PROPN 
+CD73, PROPN 
+CD105, PROPN 
+Fig, PROPN 
+2, NUM 
+Fewer, ADJ 
+positive, ADJ 
+cells, NOUN 
+found, VERB 
+
+, SPACE 
+CD146, PROPN 
+CD166, PROPN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+compared, VERB 
+hMSC-, PROPN 
+
+, SPACE 
+TERT, NOUN 
+70, NUM 
+90, NUM 
+positive, ADJ 
+hESC, NOUN 
+stromal, NOUN 
+compared, VERB 
+100, NUM 
+positive, ADJ 
+
+, SPACE 
+hMSC, PROPN 
+TERT, PROPN 
+Fig, PROPN 
+2, NUM 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+lost, VERB 
+pluripotency, NOUN 
+
+, SPACE 
+markers, NOUN 
+Oct3/4, PROPN 
+Tra1, PROPN 
+81, NUM 
+CD45−, ADJ 
+CD34−and, PROPN 
+CD184−, NOUN 
+
+, SPACE 
+CXCR4, PROPN 
+Fig, PROPN 
+2, NUM 
+supplementary, ADJ 
+data, NOUN 
+data, NOUN 
+demonstrates, VERB 
+hESC-, PROPN 
+
+, SPACE 
+stromal, ADJ 
+cells, NOUN 
+exhibit, VERB 
+hMSC, NOUN 
+like, ADJ 
+phenotype, NOUN 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+differentiate, VERB 
+osteoblastic, ADJ 
+OB, NOUN 
+cells, NOUN 
+
+, SPACE 
+presence, NOUN 
+osteogenic, ADJ 
+induction, NOUN 
+mixture, NOUN 
+hESC, PROPN 
+stromal, ADJ 
+
+, SPACE 
+cells, NOUN 
+underwent, VERB 
+osteoblastic, ADJ 
+differentiation, NOUN 
+evidenced, VERB 
+
+, SPACE 
+regulation, NOUN 
+osteoblast, NOUN 
+speci, VERB 
+ﬁc, INTJ 
+genes, NOUN 
+15, NUM 
+day, NOUN 
+
+, SPACE 
+vitro, X 
+differentiation, NOUN 
+period, NOUN 
+relative, ADJ 
+expression, NOUN 
+levels, NOUN 
+canonicalosteogenic, ADJ 
+markers, NOUN 
+DLX5, PROPN 
+MSX2, PROPN 
+RUNX2, PROPN 
+ALP, PROPN 
+COL1a1, PROPN 
+SPARC, PROPN 
+BGLAP, PROPN 
+
+, SPACE 
+IBSP, PROPN 
+reached, VERB 
+maximal, ADJ 
+regulation, NOUN 
+days, NOUN 
+4, NUM 
+11, NUM 
+
+, SPACE 
+osteoblast, ADJ 
+differentiation, NOUN 
+Fig, PROPN 
+3, NUM 
+G, NOUN 
+n=3, DET 
+independent, ADJ 
+experiments, NOUN 
+
+, SPACE 
+addition, NOUN 
+recently, ADV 
+identi, PROPN 
+ﬁed, PROPN 
+markers, PROPN 
+predictive, ADJ 
+vivo, ADJ 
+bone, NOUN 
+
+, SPACE 
+formation, NOUN 
+DCN, PROPN 
+LOX, PROPN 
+L4, PROPN 
+regulated, VERB 
+osteogenic, ADJ 
+
+, SPACE 
+induction, NOUN 
+37, NUM 
+addition, NOUN 
+cells, NOUN 
+formed, VERB 
+mineralized, ADJ 
+matrix, NOUN 
+
+, SPACE 
+stained, VERB 
+positive, ADJ 
+alizarin, NOUN 
+red, NOUN 
+15, NUM 
+days, NOUN 
+osteogenic, ADJ 
+induction(Figs, NOUN 
+3, NUM 
+F, NOUN 
+comparison, NOUN 
+hMSC, NOUN 
+TERT, NOUN 
+cells, NOUN 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+exhibited, VERB 
+similar, ADJ 
+responses, NOUN 
+osteoblastic, ADJ 
+
+, SPACE 
+induction, NOUN 
+similar, ADJ 
+levels, NOUN 
+enhanced, VERB 
+gene, NOUN 
+expression, NOUN 
+MSX2, PROPN 
+
+, SPACE 
+ALP, PROPN 
+SPP1,LOX, PROPN 
+L4, PROPN 
+DCN, PROPN 
+andTWIST1, INTJ 
+differences, NOUN 
+existed, VERB 
+
+, SPACE 
+lower, ADJ 
+levels, NOUN 
+gene, NOUN 
+expression, NOUN 
+DLX5, PROPN 
+regulator, NOUN 
+RUNX2, PROPN 
+
+, SPACE 
+RUNX2, PROPN 
+BGLAP, NOUN 
+increased, VERB 
+gene, NOUN 
+expression, NOUN 
+COL1a1, PROPN 
+hESC-, PROPN 
+
+, SPACE 
+stromal, NOUN 
+compared, VERB 
+hMSC, NOUN 
+TERT, NOUN 
+Fig, PROPN 
+3, NUM 
+Supplementary, PROPN 
+data, NOUN 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+differentiate, VERB 
+adipocytic, ADJ 
+AD, NOUN 
+cells, NOUN 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+able, ADJ 
+differentiate, VERB 
+adipocytic, ADJ 
+cells, NOUN 
+
+, SPACE 
+presence, NOUN 
+adipogenic, ADJ 
+induction, NOUN 
+mixture, NOUN 
+5, NUM 
+days, NOUN 
+
+, SPACE 
+induction, NOUN 
+small, ADJ 
+lipid, NOUN 
+droplets, NOUN 
+visible, ADJ 
+cells, NOUN 
+
+, SPACE 
+day, NOUN 
+15, NUM 
+cells, NOUN 
+ﬁlled, VERB 
+lipid, ADJ 
+droplets, NOUN 
+stained, VERB 
+positive, ADJ 
+oil, NOUN 
+red, NOUN 
+
+, SPACE 
+readily, ADV 
+demonstrable, ADJ 
+Fig, PROPN 
+4, NUM 
+Accumulation, NOUN 
+intracellular, ADJ 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Flow, VERB 
+cytometric, ADJ 
+analysis, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cell, NOUN 
+lines, NOUN 
+FACS, PROPN 
+analysis, NOUN 
+comparing, VERB 
+hESC, NOUN 
+stromal, ADJ 
+cell, NOUN 
+lines, NOUN 
+hMSC, PROPN 
+TERT, NOUN 
+cell, NOUN 
+lines, NOUN 
+analogous, ADJ 
+numbers, NOUN 
+
+, SPACE 
+positive, ADJ 
+cells, NOUN 
+cell, NOUN 
+lines, NOUN 
+CD44, PROPN 
+CD73, PROPN 
+CD105, PROPN 
+Small, ADJ 
+differences, NOUN 
+number, NOUN 
+positive, ADJ 
+cells, NOUN 
+seen, VERB 
+CD146, PROPN 
+hMSC, PROPN 
+TERT, NOUN 
+90, NUM 
+positive, ADJ 
+hESC, PROPN 
+stromal, PROPN 
+70, NUM 
+90, NUM 
+
+, SPACE 
+positive, ADJ 
+CD166, PROPN 
+hMSC, PROPN 
+TERT, PROPN 
+100, NUM 
+positive, ADJ 
+hESC, PROPN 
+stromal, ADJ 
+80, NUM 
+positive).235, NOUN 
+L., PROPN 
+Harkness, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+48, NUM 
+2011, NUM 
+231, NUM 
+241, NUM 
+
+, SPACE 
+lipids, NOUN 
+associated, VERB 
+regulation, NOUN 
+expression, NOUN 
+
+, SPACE 
+adipocytic, ADJ 
+markers, NOUN 
+adipocyte, PROPN 
+speci, PROPN 
+ﬁcPPARγ2,aP2, PROPN 
+C, PROPN 
+EBP, PROPN 
+α, PROPN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+shown, VERB 
+accumulation, NOUN 
+lipid, ADJ 
+droplets, NOUN 
+stained, VERB 
+Oil, PROPN 
+
+, SPACE 
+Red, PROPN 
+O, PROPN 
+adipocytic, ADJ 
+differentiation, NOUN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+compara-, VERB 
+
+, SPACE 
+ble, ADJ 
+observed, VERB 
+hMSC, NOUN 
+TERT, NOUN 
+line, NOUN 
+Fig, PROPN 
+4, NUM 
+
+, SPACE 
+comparison, NOUN 
+gene, NOUN 
+expression, NOUN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+hMSC, NOUN 
+TERT, NOUN 
+cells, NOUN 
+showed, VERB 
+expression, NOUN 
+level, NOUN 
+PPARγ2was, NOUN 
+
+, SPACE 
+enhanced, ADJ 
+d5, NOUN 
+differentiation, NOUN 
+hMSC, PROPN 
+TERT, NOUN 
+
+, SPACE 
+C, PROPN 
+EBP, PROPN 
+αmuch, NOUN 
+enhanced, ADJ 
+hESC, PROPN 
+stromal, NOUN 
+cells, NOUN 
+Fig, PROPN 
+4, NUM 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+exhibit, VERB 
+vitro, ADJ 
+differentiation, NOUN 
+chondrocytic, VERB 
+
+, SPACE 
+cells, NOUN 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+cultured, VERB 
+maximum, NOUN 
+21, NUM 
+days, NOUN 
+
+, SPACE 
+cell, NOUN 
+pellet, NOUN 
+presence, NOUN 
+chondrocytic, ADJ 
+differentiation, NOUN 
+factors, NOUN 
+
+, SPACE 
+Gene, PROPN 
+expression, NOUN 
+chondrogenic, ADJ 
+markers, NOUN 
+COL2a1, NOUN 
+ACAN, PROPN 
+
+, SPACE 
+notSOX9, NOUN 
+found, VERB 
+regulated, VERB 
+d21, NOUN 
+Fig, PROPN 
+4, NUM 
+Supplementary, PROPN 
+
+, SPACE 
+data).SOX9, NOUN 
+gene, NOUN 
+expression, NOUN 
+showed, VERB 
+regulation, NOUN 
+
+, SPACE 
+differentiation, NOUN 
+compared, VERB 
+cell, NOUN 
+pellet, NOUN 
+staining, VERB 
+positive, ADJ 
+
+, SPACE 
+SOX9, PROPN 
+time, NOUN 
+points, NOUN 
+d0, PROPN 
+d7, PROPN 
+d14, NOUN 
+d21, NOUN 
+showed, VERB 
+
+, SPACE 
+decreasing, VERB 
+numbers, NOUN 
+positive, ADJ 
+cells, NOUN 
+time, NOUN 
+Alcian, ADJ 
+blue, ADJ 
+staining, NOUN 
+
+, SPACE 
+observed, VERB 
+time, NOUN 
+point, NOUN 
+Interestingly, ADV 
+collagen, NOUN 
+1, NUM 
+exhibiteda, ADJ 
+high, ADJ 
+degree, NOUN 
+positive, ADJ 
+staining, NOUN 
+time, NOUN 
+points, NOUN 
+Sirius, PROPN 
+red, ADJ 
+
+, SPACE 
+addition, NOUN 
+gene, NOUN 
+expression, NOUN 
+number, NOUN 
+osteoblastic, ADJ 
+markers, NOUN 
+
+, SPACE 
+RUNX2, PROPN 
+ALP, PROPN 
+COL1a1, PROPN 
+regulated, VERB 
+differentiation, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+G, NOUN 
+Supplementary, PROPN 
+data, NOUN 
+gene, NOUN 
+expression, NOUN 
+levels, NOUN 
+
+, SPACE 
+comparable, ADJ 
+established, VERB 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+undergoing, VERB 
+
+, SPACE 
+osteogenic, ADJ 
+differentiation, NOUN 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+form, VERB 
+teratoma, NOUN 
+vivo, NOUN 
+
+, SPACE 
+order, NOUN 
+study, VERB 
+degree, NOUN 
+differentiation, NOUN 
+heterogeneity, NOUN 
+
+, SPACE 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+examined, VERB 
+ability, NOUN 
+form, VERB 
+teratoma, NOUN 
+vivo, NOUN 
+
+, SPACE 
+sin, NOUN 
+qua, CCONJ 
+non, X 
+undifferentiated, ADJ 
+pluripotent, NOUN 
+hESC, PROPN 
+parental, ADJ 
+
+, SPACE 
+hESC, PROPN 
+employed, VERB 
+derive, VERB 
+hESC, ADJ 
+stromal, ADJ 
+cells, NOUN 
+pluripotent, ADJ 
+
+, SPACE 
+formed, VERB 
+teratoma, NOUN 
+previously, ADV 
+reported, VERB 
+31, NUM 
+Conversely, ADV 
+hESC-, NOUN 
+
+, SPACE 
+stromal, ADJ 
+cells, NOUN 
+form, VERB 
+teratoma, NOUN 
+implanted, VERB 
+HA/, PROPN 
+
+, SPACE 
+TCP, PROPN 
+n=13, NOUN 
+presence, NOUN 
+Matrigel, PROPN 
+®, NOUN 
+(n=8, PUNCT 
+implants, NOUN 
+cell, NOUN 
+
+, SPACE 
+survival, NOUN 
+con, PROPN 
+ﬁrmed, VERB 
+presence, NOUN 
+small, ADJ 
+islands, NOUN 
+human, ADJ 
+
+, SPACE 
+cells, NOUN 
+stained, VERB 
+positive, ADJ 
+human, NOUN 
+speci, NOUN 
+ﬁc, VERB 
+Tra1, NOUN 
+85, NUM 
+antibody, NOUN 
+
+, SPACE 
+8, NUM 
+weeks, NOUN 
+implantation, NOUN 
+Fig, PROPN 
+5A, PROPN 
+Supplementary, PROPN 
+data, NOUN 
+
+, SPACE 
+positive, ADJ 
+control, NOUN 
+hESC, VERB 
+readily, ADV 
+formed, VERB 
+teratoma, NOUN 
+implanted, VERB 
+
+, SPACE 
+NOD, PROPN 
+MrkBomTac, PROPN 
+PrkdcSCIDin, ADJ 
+combination, NOUN 
+Matrigel, PROPN 
+®, NOUN 
+[33, X 
+
+, SPACE 
+Fig, PROPN 
+3, X 
+Osteogenic, ADJ 
+induction, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+Osteogenic, ADJ 
+induction, NOUN 
+performed, VERB 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+15, NUM 
+day, NOUN 
+period, NOUN 
+AZR, NOUN 
+staining, NOUN 
+shows, VERB 
+high, ADJ 
+l, NOUN 
+evels, NOUN 
+matrix, NOUN 
+
+, SPACE 
+deposition, NOUN 
+day, NOUN 
+15, NUM 
+B, NOUN 
+D, PROPN 
+F, PROPN 
+compared, VERB 
+non, ADJ 
+induced, VERB 
+control, NOUN 
+staining, VERB 
+C, PROPN 
+E, PROPN 
+B, PROPN 
+Hues8, NOUN 
+stromal, ADJ 
+C, PROPN 
+D, PROPN 
+KMEB3, PROPN 
+stromal, ADJ 
+E, PROPN 
+F, PROPN 
+OD3, PROPN 
+stromal, PROPN 
+photographs, NOUN 
+shown, VERB 
+
+, SPACE 
+500μm, NOUN 
+G, PROPN 
+RT, PROPN 
+PCR, PROPN 
+relative, ADJ 
+expression, NOUN 
+levels, NOUN 
+normalised, VERB 
+β, X 
+Actin, PROPN 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+days, NOUN 
+0, NUM 
+13, NUM 
+osteogenic, ADJ 
+induction, NOUN 
+n=3, DET 
+independent, ADJ 
+experiments, NOUN 
+Data, NOUN 
+
+, SPACE 
+shows, VERB 
+regulation, NOUN 
+canonical, ADJ 
+osteogenic, ADJ 
+gene, NOUN 
+markers, NOUN 
+ALP, PROPN 
+DLX5, PROPN 
+RUNX2, PROPN 
+MSX2, PROPN 
+COL1a1, NOUN 
+SPARC, PROPN 
+BGLAP, PROPN 
+andIBSP, PROPN 
+predictive, NOUN 
+vivo, ADJ 
+bone, NOUN 
+formation, NOUN 
+markers, NOUN 
+LOXL4, PROPN 
+
+, SPACE 
+DCN, PROPN 
+days, NOUN 
+4, NUM 
+11, NUM 
+induction, NOUN 
+gene, NOUN 
+expression, NOUN 
+regulated, VERB 
+15, NUM 
+day, NOUN 
+period, NOUN 
+measurement.236, NOUN 
+L., PROPN 
+Harkness, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+48, NUM 
+2011, NUM 
+231, NUM 
+241, NUM 
+
+, SPACE 
+teratoma, NOUN 
+formed, VERB 
+hESC, PROPN 
+implanted, VERB 
+presence, NOUN 
+
+, SPACE 
+HA, PROPN 
+TCP, PROPN 
+data, NOUN 
+shown, VERB 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+form, VERB 
+ectopic, NOUN 
+bone, NOUN 
+vivo, NOUN 
+
+, SPACE 
+Seven, PROPN 
+10, NUM 
+implants, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+non, ADJ 
+induced, ADJ 
+
+, SPACE 
+n=5, PROPN 
+osteogenic, ADJ 
+induction, NOUN 
+n=5, PROPN 
+formed, VERB 
+ectopic, ADJ 
+bone, NOUN 
+
+, SPACE 
+mixed, VERB 
+implanted, VERB 
+HA, PROPN 
+TCP, PROPN 
+Fig, PROPN 
+5, NUM 
+bone, NOUN 
+formation, NOUN 
+
+, SPACE 
+observed, VERB 
+HA, PROPN 
+TCP, PROPN 
+implanted, VERB 
+hESC, NOUN 
+stromal, ADJ 
+
+, SPACE 
+cells, NOUN 
+stromal, ADJ 
+cells, NOUN 
+shown, VERB 
+cell, NOUN 
+survival, NOUN 
+10, NUM 
+weeks, NOUN 
+
+, SPACE 
+implantation, NOUN 
+HA, PROPN 
+TCP, PROPN 
+Fig, PROPN 
+5, NUM 
+Ac, PROPN 
+human, ADJ 
+speci, NOUN 
+ﬁc, VERB 
+Tra1, NOUN 
+85, NUM 
+
+, SPACE 
+staining, NOUN 
+implants, NOUN 
+contained, VERB 
+bone, NOUN 
+adjacent, ADJ 
+HA, PROPN 
+TCP, NOUN 
+
+, SPACE 
+surfaces, NOUN 
+stromal, ADJ 
+elements, NOUN 
+co, VERB 
+ntaining, VERB 
+adipocytes, NOUN 
+Limited, ADJ 
+
+, SPACE 
+hematopoietic, ADJ 
+cell, NOUN 
+ﬁltration, NOUN 
+observed, VERB 
+Figs, PROPN 
+5, NUM 
+Aa, PROPN 
+b, PRON 
+400×, PROPN 
+
+, SPACE 
+mag, PROPN 
+difference, NOUN 
+observed, VERB 
+quantity, NOUN 
+bone, NOUN 
+formed, VERB 
+
+, SPACE 
+implants, NOUN 
+osteoblastic, ADJ 
+differentiated, VERB 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+n=4, PROPN 
+
+, SPACE 
+compared, VERB 
+non, PROPN 
+induced, VERB 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+n=3, PROPN 
+found, VERB 
+
+, SPACE 
+evidence, NOUN 
+cartilage, NOUN 
+formation, NOUN 
+implants.hESC, ADV 
+stromal, ADJ 
+cells, NOUN 
+participate, VERB 
+healing, NOUN 
+critical, ADJ 
+sized, ADJ 
+calvarial, ADJ 
+defect, NOUN 
+
+, SPACE 
+order, NOUN 
+study, VERB 
+functional, ADJ 
+capacity, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+vivo, NOUN 
+implanted, VERB 
+cells, NOUN 
+bone, NOUN 
+regeneration, NOUN 
+model, NOUN 
+critical-, ADJ 
+
+, SPACE 
+size, NOUN 
+calvarial, ADJ 
+defect, NOUN 
+mice, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+control, NOUN 
+
+, SPACE 
+osteoblastic, ADJ 
+induced, VERB 
+cells, NOUN 
+implanted, VERB 
+14, NUM 
+15, NUM 
+weeks, NOUN 
+μCT, NOUN 
+
+, SPACE 
+scanning, NOUN 
+performed, VERB 
+3, NUM 
+PCL, PROPN 
+ﬁlm, NOUN 
+Fig, PROPN 
+5, NUM 
+B, NOUN 
+2, NUM 
+Healos, PROPN 
+®, NOUN 
+,Fig, PUNCT 
+5, NUM 
+D, PROPN 
+
+, SPACE 
+14, NUM 
+weeks, NOUN 
+PCL, PROPN 
+ﬁle, PROPN 
+Healos, PROPN 
+®, NOUN 
+;Figs, PUNCT 
+5, NUM 
+B, NOUN 
+D, PROPN 
+showed, VERB 
+
+, SPACE 
+enhanced, VERB 
+bone, NOUN 
+growth, NOUN 
+defects, NOUN 
+implanted, VERB 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+bone, NOUN 
+growth, NOUN 
+independent, ADJ 
+prior, ADJ 
+OB, PROPN 
+induction, NOUN 
+OB, PROPN 
+
+, SPACE 
+induced, VERB 
+implants=4, NOUN 
+PCL, PROPN 
+ﬁlm, NOUN 
+2, NUM 
+Healos, ADJ 
+®, NOUN 
+non, ADJ 
+induced, ADJ 
+hESC-, PROPN 
+
+, SPACE 
+stromal, ADJ 
+cell, NOUN 
+implants=4, NOUN 
+PCL, PROPN 
+ﬁlm, NOUN 
+3, X 
+Healos, PROPN 
+®, NOUN 
+Histological, ADJ 
+
+, SPACE 
+examination, NOUN 
+defect, ADJ 
+repair, NOUN 
+tissue, NOUN 
+showed, VERB 
+bone, NOUN 
+growth, NOUN 
+
+, SPACE 
+underside, NOUN 
+PCL, PROPN 
+ﬁlm, NOUN 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+
+, SPACE 
+Figs, PROPN 
+5, NUM 
+C, PROPN 
+E, NOUN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+seeded, VERB 
+PCL, PROPN 
+
+, SPACE 
+ﬁlm, NOUN 
+osteocytes, NOUN 
+observed, VERB 
+trapped, VERB 
+new, ADJ 
+bone, NOUN 
+
+, SPACE 
+matrix, NOUN 
+Figs, PROPN 
+5, NUM 
+c, NOUN 
+lamellar, ADJ 
+bone, NOUN 
+formed, VERB 
+Control, PROPN 
+PCL, PROPN 
+
+, SPACE 
+ﬁlm, NOUN 
+cells, NOUN 
+inserted, VERB 
+defect, NOUN 
+showed, VERB 
+sign, NOUN 
+regenerative, ADJ 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Adipocyte, ADJ 
+differentiation, NOUN 
+comparing, VERB 
+staining, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+lines, NOUN 
+hMSC, PROPN 
+RT, PROPN 
+PCR, PROPN 
+data, NOUN 
+comparing, VERB 
+hESC, VERB 
+stromal, ADJ 
+cell, NOUN 
+line, NOUN 
+hMSC, PROPN 
+Ind, PROPN 
+uction, NOUN 
+adipocyte, NOUN 
+
+, SPACE 
+differentiation, NOUN 
+OD3, PROPN 
+stromal, NOUN 
+B, NOUN 
+Hues8, NOUN 
+stromal, ADJ 
+C, NOUN 
+D, PROPN 
+KMEB3, PROPN 
+stromal, ADJ 
+E, NOUN 
+F, PROPN 
+hMSC, NOUN 
+TERT, PROPN 
+G, PROPN 
+H, PROPN 
+cell, NOUN 
+lines, NOUN 
+shows, VERB 
+similar, ADJ 
+pattern, NOUN 
+oil, NOUN 
+red, ADJ 
+staining, NOUN 
+d15, NOUN 
+C, PROPN 
+E, PROPN 
+G, PROPN 
+=, NOUN 
+
+, SPACE 
+control, NOUN 
+B, PROPN 
+D, PROPN 
+F, PROPN 
+H, PROPN 
+=, PUNCT 
+induced, VERB 
+photographs, NOUN 
+scale, NOUN 
+bar, NOUN 
+20, NUM 
+μm, NOUN 
+comparison, NOUN 
+relative, ADJ 
+gene, NOUN 
+expression, NOUN 
+data, NOUN 
+following, VERB 
+normalisation, NOUN 
+β, PROPN 
+Actin, PROPN 
+n=3, PRON 
+independent, ADJ 
+
+, SPACE 
+experiments, NOUN 
+OD3, PROPN 
+stromal, ADJ 
+cell, NOUN 
+line, NOUN 
+■, NOUN 
+hMSC, PROPN 
+TERT, PROPN 
+□, NOUN 
+Expression, NOUN 
+levels, NOUN 
+aP2look, PROPN 
+similar, ADJ 
+hMSC, NOUN 
+TERT, NOUN 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+day, NOUN 
+10, NUM 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+d15, NOUN 
+
+, SPACE 
+expression, NOUN 
+levels, NOUN 
+regulated, VERB 
+PPARγ2data, PROPN 
+shows, VERB 
+higher, ADJ 
+level, NOUN 
+hMSC, NOUN 
+TERT, NOUN 
+cells, NOUN 
+compared, VERB 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+expression, NOUN 
+levels, NOUN 
+C, PROPN 
+EBP, PROPN 
+αare, NOUN 
+higher, ADJ 
+
+, SPACE 
+expressed, VERB 
+time, NOUN 
+points, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cells.237, PROPN 
+L., PROPN 
+Harkness, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+48, NUM 
+2011, NUM 
+231, NUM 
+241, NUM 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Subcutaneous, ADJ 
+implantation, NOUN 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+vivo, ADJ 
+bone, NOUN 
+formation, NOUN 
+calvarial, ADJ 
+defect, NOUN 
+model, NOUN 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+implanted, VERB 
+subcuta, ADV 
+neously, ADV 
+combination, NOUN 
+
+, SPACE 
+HA, PROPN 
+TCP, ADJ 
+scaffold, NOUN 
+NOD, PROPN 
+SCID, PROPN 
+mice, NOUN 
+10, NUM 
+weeks, NOUN 
+Image, NOUN 
+b, X 
+H&E, NOUN 
+demonstrating, NOUN 
+ectopic, ADJ 
+bone, NOUN 
+adipocyte, NOUN 
+formation, NOUN 
+200x, NUM 
+400x, PROPN 
+mag, ADJ 
+respectively, ADV 
+
+, SPACE 
+c, PROPN 
+human, PROPN 
+speci, NOUN 
+ﬁc, VERB 
+Tra1, NOUN 
+85, NUM 
+staining, NOUN 
+indicating, VERB 
+hESC, PROPN 
+stromal, ADJ 
+cell, NOUN 
+survival, NOUN 
+following, VERB 
+implantation, NOUN 
+HA, PROPN 
+TCP, PROPN 
+d, X 
+collagen, NOUN 
+type, NOUN 
+1, NUM 
+staining, VERB 
+showing, VERB 
+ectopic, ADJ 
+bone, NOUN 
+formation, NOUN 
+
+, SPACE 
+photographs, NOUN 
+200x, NUM 
+magni, NOUN 
+ﬁcation, NOUN 
+speci, PROPN 
+ﬁed, PROPN 
+B, NOUN 
+μCT, NOUN 
+images, NOUN 
+3, NUM 
+14, NUM 
+weeks, NOUN 
+implantation, NOUN 
+PCL, PROPN 
+ﬁlm, NOUN 
+cells, NOUN 
+seeded, VERB 
+underside, NOUN 
+Bone, NOUN 
+seen, VERB 
+
+, SPACE 
+formed, VERB 
+right, ADJ 
+defect, NOUN 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+seeded, VERB 
+PLC, PROPN 
+ﬁlm, NOUN 
+blank, ADJ 
+ﬁlm, NOUN 
+left, ADJ 
+shows, VERB 
+interference, NOUN 
+μCT, NOUN 
+scanning, NOUN 
+C, NOUN 
+Mosaic, PROPN 
+scan, VERB 
+
+, SPACE 
+image, NOUN 
+H&E, PROPN 
+staining, NOUN 
+calvarial, ADJ 
+defect, ADJ 
+repair, NOUN 
+14, NUM 
+weeks, NOUN 
+Control, PROPN 
+PCL, PROPN 
+ﬁlm, NOUN 
+cells, NOUN 
+shows, VERB 
+bone, NOUN 
+generation, NOUN 
+new, ADJ 
+bone, NOUN 
+seen, VERB 
+underlying, VERB 
+PCL, PROPN 
+scaffold, NOUN 
+Images, VERB 
+
+, SPACE 
+b, PROPN 
+c, PROPN 
+new, ADJ 
+lamellar, ADJ 
+bone, NOUN 
+200×, NOUN 
+magni, NOUN 
+ﬁcation, NOUN 
+D, NOUN 
+μCT, NOUN 
+images, NOUN 
+2, NUM 
+14, NUM 
+weeks, NOUN 
+implantation, NOUN 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+Newly, ADV 
+formed, VERB 
+bone, NOUN 
+seen, VERB 
+formed, VERB 
+
+, SPACE 
+defect, NOUN 
+OD3, PROPN 
+stromal, ADJ 
+cells, NOUN 
+seeded, VERB 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+blank, ADJ 
+scaffold, NOUN 
+left, ADJ 
+shows, VERB 
+interference, NOUN 
+μCT, NOUN 
+scanning, NOUN 
+E, NOUN 
+Mosaic, ADJ 
+image, NOUN 
+scan, PROPN 
+
+, SPACE 
+demonstrating, VERB 
+human, ADJ 
+vimentin, NOUN 
+staining, NOUN 
+calvarial, ADJ 
+defect, ADJ 
+repair, NOUN 
+utilising, VERB 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+14, NUM 
+weeks, NOUN 
+Images, NOUN 
+H&E, NOUN 
+staining, VERB 
+defect, ADJ 
+repair, NOUN 
+100×, PROPN 
+b, X 
+human, ADJ 
+vimentin, NOUN 
+
+, SPACE 
+staining, VERB 
+demonstrating, NOUN 
+survival, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+defect, ADJ 
+repair, NOUN 
+100×, PROPN 
+c, X 
+H&E, NOUN 
+staining, NOUN 
+bone, NOUN 
+formation, NOUN 
+defect, ADJ 
+repair, NOUN 
+200×, PROPN 
+d, X 
+human, ADJ 
+vimentin, NOUN 
+staining, NOUN 
+
+, SPACE 
+demonstrating, VERB 
+new, ADJ 
+bone, NOUN 
+growth, NOUN 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+200×).238, NUM 
+L., PROPN 
+Harkness, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+48, NUM 
+2011, NUM 
+231, NUM 
+241, NUM 
+
+, SPACE 
+bone, NOUN 
+growth, NOUN 
+con, NOUN 
+ﬁrming, VERB 
+absence, NOUN 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+PCLﬁlm, PROPN 
+contribute, VERB 
+bone, NOUN 
+repair, NOUN 
+3, NUM 
+mm, NOUN 
+circular, ADJ 
+
+, SPACE 
+sections, NOUN 
+cut, VERB 
+PCL, PROPN 
+scaffold, NOUN 
+prior, ADV 
+insertion, NOUN 
+
+, SPACE 
+calvarial, ADJ 
+defects, NOUN 
+remaining, VERB 
+portion, NOUN 
+PCL, PROPN 
+ﬁlm, NOUN 
+continued, VERB 
+
+, SPACE 
+culture, NOUN 
+stained, VERB 
+AZR, PROPN 
+d15, NOUN 
+induction, NOUN 
+Fig, PROPN 
+5B, ADJ 
+
+, SPACE 
+supplementary, ADJ 
+data, NOUN 
+Staining, NOUN 
+showed, VERB 
+ﬁlm, NOUN 
+osteo-, ADJ 
+
+, SPACE 
+conductive, ADJ 
+vitro, X 
+evidenced, VERB 
+AZR, PROPN 
+staining, VERB 
+showing, VERB 
+calcium, NOUN 
+
+, SPACE 
+deposition, NOUN 
+cells, NOUN 
+PCL, PROPN 
+scaffold, NOUN 
+undergoing, VERB 
+osteogenic, ADJ 
+
+, SPACE 
+induction, NOUN 
+Cells, NOUN 
+seeded, VERB 
+PCL, PROPN 
+scaffold, NOUN 
+undergo, VERB 
+
+, SPACE 
+osteogenic, ADJ 
+induction, NOUN 
+showed, VERB 
+calcium, NOUN 
+deposition, NOUN 
+negative, ADJ 
+stain-, ADJ 
+
+, SPACE 
+ing, ADJ 
+Fig, PROPN 
+5B, ADJ 
+supplementary, ADJ 
+data, NOUN 
+non, PROPN 
+induced, VERB 
+ﬁlm, NOUN 
+shows, VERB 
+cells, NOUN 
+
+, SPACE 
+seeded, VERB 
+grown, VERB 
+DMEM, PROPN 
+10, NUM 
+FBS, PROPN 
+analysis, NOUN 
+bone, NOUN 
+
+, SPACE 
+regeneration, NOUN 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+μCT, NOUN 
+scanning, NOUN 
+showed, VERB 
+
+, SPACE 
+enhanced, VERB 
+bone, NOUN 
+growth, NOUN 
+scaffold, NOUN 
+seeded, VERB 
+cells, NOUN 
+
+, SPACE 
+2, NUM 
+14, NUM 
+weeks, NOUN 
+implantation, NOUN 
+ﬁve, NOUN 
+scaffolds, NOUN 
+
+, SPACE 
+implanted, VERB 
+difference, NOUN 
+observed, VERB 
+cells, NOUN 
+under-, X 
+
+, SPACE 
+going, VERB 
+OB, PROPN 
+differentiation, NOUN 
+prior, ADV 
+implantation, NOUN 
+receiving, VERB 
+
+, SPACE 
+OB, NOUN 
+induction, NOUN 
+little, ADJ 
+bone, NOUN 
+regeneration, NOUN 
+noted, VERB 
+
+, SPACE 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+cells, NOUN 
+implanted, VERB 
+degree, NOUN 
+
+, SPACE 
+regeneration, NOUN 
+comparison, NOUN 
+Healos, PROPN 
+®, NOUN 
+hESC-, PROPN 
+
+, SPACE 
+stromal, ADJ 
+cells, NOUN 
+added, VERB 
+presence, NOUN 
+veri, PROPN 
+ﬁed, PROPN 
+staining, VERB 
+
+, SPACE 
+human, PROPN 
+speci, NOUN 
+ﬁc, INTJ 
+vimentin, NOUN 
+staining, NOUN 
+Fig, PROPN 
+5, NUM 
+E, NOUN 
+
+, SPACE 
+osteocytes, NOUN 
+determined, VERB 
+new, ADJ 
+bone, NOUN 
+osteocytic, ADJ 
+cell, NOUN 
+
+, SPACE 
+staining, VERB 
+human, PROPN 
+speci, NOUN 
+ﬁc, INTJ 
+vimentin, PROPN 
+determined, VERB 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+E, NOUN 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+effective, ADJ 
+promoting, VERB 
+bone, NOUN 
+
+, SPACE 
+formation, NOUN 
+compared, VERB 
+PCL, PROPN 
+scaffold, NOUN 
+cells, NOUN 
+seen, VERB 
+
+, SPACE 
+bone, NOUN 
+implants, NOUN 
+unable, ADJ 
+unequivocal, ADJ 
+
+, SPACE 
+determination, NOUN 
+human, PROPN 
+vs., X 
+murine, PROPN 
+origins, NOUN 
+newly, ADV 
+formed, VERB 
+
+, SPACE 
+bone, NOUN 
+
+, SPACE 
+Discussion, PROPN 
+
+, SPACE 
+present, ADJ 
+study, NOUN 
+provide, VERB 
+evidence, NOUN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+obtained, VERB 
+hESC, PROPN 
+cultures, NOUN 
+based, VERB 
+selective, ADJ 
+adherence, NOUN 
+HA, NOUN 
+
+, SPACE 
+exhibit, VERB 
+known, ADJ 
+characteristics, NOUN 
+hBMSC, ADJ 
+phenotype, NOUN 
+includingknown, ADJ 
+surface, NOUN 
+markers, NOUN 
+ability, NOUN 
+differentiate, VERB 
+osteoblasts, NOUN 
+
+, SPACE 
+adipocyte, NOUN 
+formation, NOUN 
+ectopic, ADJ 
+bone, NOUN 
+implanted, VERB 
+HA, PROPN 
+TCP, NOUN 
+
+, SPACE 
+subcutaneously, ADV 
+immune, ADJ 
+de, X 
+ﬁcient, NOUN 
+mice, NOUN 
+provide, VERB 
+preliminary, ADJ 
+
+, SPACE 
+data, NOUN 
+cells, NOUN 
+functional, ADJ 
+vivo, NOUN 
+participate, VERB 
+bone, NOUN 
+
+, SPACE 
+regeneration, NOUN 
+mouse, NOUN 
+calvarial, ADJ 
+defect, NOUN 
+model, NOUN 
+
+, SPACE 
+demonstrated, VERB 
+stromal, ADJ 
+cells, NOUN 
+originate, VERB 
+hESC, PROPN 
+
+, SPACE 
+murine, NOUN 
+MEFs, PROPN 
+MEFs, PROPN 
+employed, VERB 
+hESC, PROPN 
+cultures, NOUN 
+inactivated, VERB 
+
+, SPACE 
+replicate, VERB 
+contribute, VERB 
+stromal, ADJ 
+cell, NOUN 
+population, NOUN 
+Addition-, PROPN 
+
+, SPACE 
+ally, NOUN 
+hESC, PROPN 
+cultured, ADJ 
+Matrigel, PROPN 
+
+, SPACE 
+®, NOUN 
+absence, NOUN 
+MEFs, PROPN 
+
+, SPACE 
+hESC, NOUN 
+colonies, NOUN 
+visible, ADJ 
+initially, ADV 
+hESC, PROPN 
+derived, VERB 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+apparent, ADJ 
+2, NUM 
+3, NUM 
+passages, NOUN 
+cell, NOUN 
+culture, NOUN 
+Finally, ADV 
+implanted, VERB 
+
+, SPACE 
+hESC, PROPN 
+derived, VERB 
+stromal, ADJ 
+cells, NOUN 
+calvarial, ADJ 
+defect, NOUN 
+model, NOUN 
+stained, VERB 
+positive, ADJ 
+
+, SPACE 
+human, PROPN 
+speci, PROPN 
+ﬁcv, PROPN 
+m, VERB 
+e, PROPN 
+n, PROPN 
+t, PROPN 
+n, ADV 
+
+, SPACE 
+employed, VERB 
+HA, PROPN 
+isolate, VERB 
+homogenous, ADJ 
+population, NOUN 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+produced, VERB 
+hESC, PROPN 
+cultured, VERB 
+feeder, NOUN 
+free, ADJ 
+
+, SPACE 
+conditions, NOUN 
+presence, NOUN 
+Matrigel, PROPN 
+®, NOUN 
+Culturing, VERB 
+hESC, PROPN 
+feeder-, NOUN 
+
+, SPACE 
+free, ADJ 
+culture, NOUN 
+conditions, NOUN 
+Matrigel, PROPN 
+®, NOUN 
+demonstrated, VERB 
+
+, SPACE 
+induce, VERB 
+sub, NOUN 
+population, NOUN 
+differentiated, ADJ 
+ﬁbroblast, NOUN 
+like, ADJ 
+cells, NOUN 
+
+, SPACE 
+38,39, NOUN 
+Stojkovic, PROPN 
+et, PROPN 
+al, PROPN 
+showed, VERB 
+cells, NOUN 
+function, VERB 
+
+, SPACE 
+autogenic, ADJ 
+feeders, NOUN 
+capable, ADJ 
+maintaining, VERB 
+hESC, PROPN 
+pluripotency, NOUN 
+39, NUM 
+
+, SPACE 
+previous, ADJ 
+investigators, NOUN 
+tried, VERB 
+establish, VERB 
+homogenous, ADJ 
+
+, SPACE 
+culture, NOUN 
+stromal, ADJ 
+cells, NOUN 
+13,16, X 
+non, ADJ 
+speci, ADJ 
+ﬁc, INTJ 
+culture, NOUN 
+methods, NOUN 
+
+, SPACE 
+cell, NOUN 
+sorting, VERB 
+13, NUM 
+CD105+/CD24, NUM 
+−, PROPN 
+isolation, NOUN 
+morpho-, ADJ 
+
+, SPACE 
+logical, ADJ 
+identi, NOUN 
+ﬁcation, NOUN 
+epithelial, ADJ 
+like, ADJ 
+cells, NOUN 
+16, NUM 
+
+, SPACE 
+methods, NOUN 
+cumbersome, ADJ 
+time, NOUN 
+consuming, VERB 
+result, VERB 
+cultures, NOUN 
+
+, SPACE 
+heterogeneous, ADJ 
+cell, NOUN 
+populations, NOUN 
+contrast, NOUN 
+enrichment, NOUN 
+hESC-, PROPN 
+
+, SPACE 
+stromal, ADJ 
+cells, NOUN 
+hyaluronic, ADJ 
+acid, NOUN 
+matrix, NOUN 
+easy, ADJ 
+perform, VERB 
+
+, SPACE 
+exhibits, VERB 
+high, ADJ 
+degree, NOUN 
+reproducibility, NOUN 
+homogeneity, NOUN 
+
+, SPACE 
+resultant, NOUN 
+cells, NOUN 
+
+, SPACE 
+ability, NOUN 
+HA, NOUN 
+enrich, VERB 
+stromal, ADJ 
+cells, NOUN 
+dependent, ADJ 
+
+, SPACE 
+changes, NOUN 
+CD44, PROPN 
+expression, NOUN 
+transition, NOUN 
+hESC, PROPN 
+Matrigel, PROPN 
+®, PROPN 
+aswe, PROPN 
+observed, VERB 
+hESC, PROPN 
+CD44−and, NOUN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+positive, ADJ 
+CD44, PROPN 
+hESC, PROPN 
+directly, ADV 
+transferred, VERB 
+HA, NOUN 
+
+, SPACE 
+intermediate, ADJ 
+step, NOUN 
+growth, NOUN 
+Matrigel, PROPN 
+®, NOUN 
+cells, NOUN 
+plated, VERB 
+
+, SPACE 
+Interestingly, PROPN 
+HA, PROPN 
+allow, VERB 
+maintenance, NOUN 
+pluripotent, NOUN 
+hESC, PROPN 
+
+, SPACE 
+unpublished, ADJ 
+observations, NOUN 
+intermediate, ADJ 
+step, NOUN 
+
+, SPACE 
+colonies, NOUN 
+grown, VERB 
+Matrigel, PROPN 
+®, NOUN 
+directly, ADV 
+transferred, VERB 
+
+, SPACE 
+feeders, NOUN 
+HA, VERB 
+possible, ADJ 
+emergence, NOUN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+CD44, PROPN 
+receptor, NOUN 
+shedding, VERB 
+changes, NOUN 
+CD44, PROPN 
+localisation, NOUN 
+
+, SPACE 
+occur, VERB 
+response, NOUN 
+stimulation, NOUN 
+cytokines, NOUN 
+present, ADJ 
+
+, SPACE 
+conditioned, VERB 
+culture, NOUN 
+media, NOUN 
+40, NUM 
+
+, SPACE 
+HA, PROPN 
+found, VERB 
+contribute, VERB 
+hESC, VERB 
+stromal, ADJ 
+cells, NOUN 
+proliferative, VERB 
+
+, SPACE 
+abilities, NOUN 
+morphology, NOUN 
+phenotype, NOUN 
+enhance, VERB 
+differentiation, NOUN 
+
+, SPACE 
+potential, NOUN 
+required, VERB 
+initial, ADJ 
+enrichment, NOUN 
+step, NOUN 
+
+, SPACE 
+suggesting, VERB 
+role, NOUN 
+osteoblastic, ADJ 
+cell, NOUN 
+commitment, NOUN 
+differenti-, NOUN 
+
+, SPACE 
+ation, NOUN 
+contrast, NOUN 
+recent, ADJ 
+paper, NOUN 
+Zou, PROPN 
+et, PROPN 
+al, PROPN 
+41]demonstrated, VERB 
+
+, SPACE 
+addition, NOUN 
+HA, PROPN 
+bone, NOUN 
+marrow, NOUN 
+derived, VERB 
+porcine, NOUN 
+MSC, PROPN 
+
+, SPACE 
+presence, NOUN 
+osteogenic, ADJ 
+induction, NOUN 
+medium, ADJ 
+enhanced, VERB 
+osteoblastic, ADJ 
+
+, SPACE 
+differentiation, NOUN 
+
+, SPACE 
+Current, ADJ 
+protocols, NOUN 
+osteogenic, ADJ 
+adipogenic, ADJ 
+chondrogenic, ADJ 
+
+, SPACE 
+differentiation, NOUN 
+predominantly, ADV 
+based, VERB 
+methods, NOUN 
+
+, SPACE 
+differentiation, NOUN 
+MSC, PROPN 
+known, VERB 
+methods, NOUN 
+
+, SPACE 
+optimal, ADJ 
+differentiation, NOUN 
+MSC, PROPN 
+derived, VERB 
+hESC, PROPN 
+differential, ADJ 
+
+, SPACE 
+response, NOUN 
+different, ADJ 
+stem, NOUN 
+cell, NOUN 
+populations, NOUN 
+differentiation, NOUN 
+induc-, ADJ 
+
+, SPACE 
+tion, NOUN 
+media, NOUN 
+illustrated, VERB 
+results, NOUN 
+Hildebrandt, PROPN 
+et, PROPN 
+al, PROPN 
+42, NUM 
+
+, SPACE 
+authors, NOUN 
+investigated, VERB 
+osteogenic, ADJ 
+differentiation, NOUN 
+cord, NOUN 
+blood, NOUN 
+derived, VERB 
+
+, SPACE 
+MSC, PROPN 
+reported, VERB 
+use, NOUN 
+dexamethasone, NOUN 
+10, NUM 
+
+, SPACE 
+−7, NOUN 
+instead, ADV 
+
+, SPACE 
+usual, ADJ 
+concentration, NOUN 
+10−8, PROPN 
+presence, NOUN 
+MSG, PROPN 
+CM, PROPN 
+
+, SPACE 
+SingleQuot, PROPN 
+commercially, ADV 
+available, ADJ 
+media, NOUN 
+growth, NOUN 
+supplement, NOUN 
+
+, SPACE 
+increased, VERB 
+expression, NOUN 
+collagen, NOUN 
+type, NOUN 
+1, NUM 
+deposition, NOUN 
+
+, SPACE 
+mineralised, VERB 
+matrix, NOUN 
+absence, NOUN 
+BMP2, PROPN 
+ﬁnding, NOUN 
+parallels, VERB 
+
+, SPACE 
+use, NOUN 
+dexamethasone, NOUN 
+10−7that, NUM 
+resulted, VERB 
+high, ADJ 
+collagen, NOUN 
+type, NOUN 
+1, NUM 
+
+, SPACE 
+production, NOUN 
+enhanced, ADJ 
+matrix, NOUN 
+deposition, NOUN 
+majority, NOUN 
+reports, NOUN 
+
+, SPACE 
+osteogenic, ADJ 
+adipogenic, ADJ 
+induction, NOUN 
+hESC, NOUN 
+derived, VERB 
+MSC, PROPN 
+like, ADP 
+
+, SPACE 
+cells, NOUN 
+employed, VERB 
+standard, ADJ 
+differentiation, NOUN 
+protocols, NOUN 
+osteogenic, ADJ 
+
+, SPACE 
+10, NUM 
+serum, NOUN 
+10, NUM 
+mM, NUM 
+β, X 
+Glycerophosphate, PROPN 
+50, NUM 
+μM, NUM 
+ascorbic, NOUN 
+acid, NOUN 
+
+, SPACE 
+100, NUM 
+nM, NUM 
+dexamethasone, NOUN 
+adipogenic, ADJ 
+10, NUM 
+serum, NOUN 
+10, NUM 
+μg, NOUN 
+ml, PROPN 
+insulin, NOUN 
+
+, SPACE 
+1μMd, PROPN 
+e, PROPN 
+x, PROPN 
+m, PROPN 
+e, PROPN 
+t, PROPN 
+h, NOUN 
+s, PROPN 
+o, NOUN 
+n, NOUN 
+e, NOUN 
+0, NUM 
+5, NUM 
+μMI, PROPN 
+B, PROPN 
+M, PROPN 
+Xa, PROPN 
+n, PROPN 
+d2, PROPN 
+0, NUM 
+0, NUM 
+μM, NUM 
+indomethacin, NOUN 
+
+, SPACE 
+varying, VERB 
+results, NOUN 
+16, NUM 
+publications, NOUN 
+examined, VERB 
+9, NUM 
+
+, SPACE 
+attempted, VERB 
+adipogenic, ADJ 
+induction, NOUN 
+failed, VERB 
+differentiate, VERB 
+cells, NOUN 
+
+, SPACE 
+10,14, X 
+adipocytes, NOUN 
+2, NUM 
+reported, VERB 
+cells, NOUN 
+adipogenic, ADJ 
+potential, NOUN 
+
+, SPACE 
+based, VERB 
+oil, NOUN 
+red, ADJ 
+O, NOUN 
+staining, NOUN 
+15,17, NUM 
+need, NOUN 
+
+, SPACE 
+optimized, VERB 
+protocols, NOUN 
+osteogenic, ADJ 
+adipogenic, ADJ 
+differentiation, NOUN 
+
+, SPACE 
+cells, NOUN 
+derived, VERB 
+hESC, PROPN 
+Overall, ADV 
+vitro, X 
+osteoblastic, ADJ 
+
+, SPACE 
+adipocytic, ADJ 
+cell, NOUN 
+differentiation, NOUN 
+protocols, NOUN 
+currently, ADV 
+use, NOUN 
+
+, SPACE 
+optimal, ADJ 
+need, VERB 
+complemented, VERB 
+vivo, ADJ 
+functional, ADJ 
+assays, NOUN 
+
+, SPACE 
+number, NOUN 
+different, ADJ 
+chondrogenic, ADJ 
+differentiation, NOUN 
+protocols, NOUN 
+
+, SPACE 
+reported, VERB 
+hESC, PROPN 
+derived, VERB 
+cells, NOUN 
+included, VERB 
+incubating, VERB 
+
+, SPACE 
+cells, NOUN 
+conditioned, VERB 
+media, NOUN 
+hydrogels, NOUN 
+culturing, VERB 
+cells, NOUN 
+pellets, NOUN 
+
+, SPACE 
+micromass, NOUN 
+cultures, NOUN 
+addition, NOUN 
+number, NOUN 
+different, ADJ 
+
+, SPACE 
+differentiation, NOUN 
+factors, NOUN 
+standard, ADJ 
+protocol, NOUN 
+chondrogenic, ADJ 
+
+, SPACE 
+differentiation, NOUN 
+hBMSC, NOUN 
+able, ADJ 
+obtain, VERB 
+chondrogenic, ADJ 
+cells, NOUN 
+
+, SPACE 
+hESC, NOUN 
+stromal, ADJ 
+cells, NOUN 
+studies, NOUN 
+examined, VERB 
+ability, NOUN 
+
+, SPACE 
+hESC, NOUN 
+derived, VERB 
+osteogenic, ADJ 
+cells, NOUN 
+chondrogenic, ADJ 
+differentiation, NOUN 
+
+, SPACE 
+results, NOUN 
+variable, ADJ 
+Table, NOUN 
+1, NUM 
+Supplementary, PROPN 
+data, NOUN 
+studies, NOUN 
+
+, SPACE 
+demonstrated, VERB 
+chondrogenic, ADJ 
+differentiation, NOUN 
+7,13,19, NUM 
+
+, SPACE 
+attempts, NOUN 
+successful, ADJ 
+10,14, X 
+current, ADJ 
+
+, SPACE 
+protocol, NOUN 
+inducing, VERB 
+chondrogenesis, NOUN 
+hESC, PROPN 
+osteogenic, ADJ 
+cells, NOUN 
+needs, VERB 
+
+, SPACE 
+improvement, NOUN 
+Alternatively, ADV 
+observed, VERB 
+regulation, NOUN 
+
+, SPACE 
+gene, NOUN 
+expression, NOUN 
+DLX5, PROPN 
+43, NUM 
+MSX2, PROPN 
+44],b, NUM 
+o, NOUN 
+t, NOUN 
+hk, PROPN 
+n, PROPN 
+o, PROPN 
+w, PROPN 
+nt, NOUN 
+ob, ADP 
+e, PROPN 
+
+, SPACE 
+expressed, VERB 
+intramembranous, ADJ 
+ossi, ADJ 
+ﬁcation, NOUN 
+suggesting, VERB 
+
+, SPACE 
+hESC, NOUN 
+derived, VERB 
+stromal, ADJ 
+cells, NOUN 
+recapitulate, VERB 
+intramembranous, ADJ 
+
+, SPACE 
+endochondral, ADJ 
+ossi, ADJ 
+ﬁcation, NOUN 
+addition, NOUN 
+chondrogenic, ADJ 
+cells, NOUN 
+
+, SPACE 
+identi, NOUN 
+ﬁed, PROPN 
+implants, NOUN 
+subcutaneous, ADJ 
+calvarial, ADJ 
+defect, NOUN 
+
+, SPACE 
+hypothesis, NOUN 
+needs, VERB 
+veri, ADJ 
+ﬁcation, NOUN 
+future, ADJ 
+studies, NOUN 
+
+, SPACE 
+Derivation, PROPN 
+MSC, PROPN 
+like, ADJ 
+cells, NOUN 
+hESC, PROPN 
+previously, ADV 
+reported, VERB 
+
+, SPACE 
+number, NOUN 
+different, ADJ 
+approaches, NOUN 
+Table, NOUN 
+1, NUM 
+Supplementary, PROPN 
+data)239, NUM 
+L., PROPN 
+Harkness, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+48, NUM 
+2011, NUM 
+231, NUM 
+241, NUM 
+
+, SPACE 
+shows, VERB 
+compilation, NOUN 
+different, ADJ 
+methods, NOUN 
+results, NOUN 
+obtained, VERB 
+
+, SPACE 
+methods, NOUN 
+include, VERB 
+direct, ADJ 
+differentiation, NOUN 
+employing, VERB 
+withdrawal, NOUN 
+
+, SPACE 
+feeders, NOUN 
+addition, NOUN 
+PDGF, PROPN 
+isolation, NOUN 
+culture, NOUN 
+spontaneous, ADJ 
+
+, SPACE 
+differentiation, NOUN 
+10–12,14,17, NUM 
+intermediate, ADJ 
+EB, NOUN 
+formation, NOUN 
+
+, SPACE 
+4–9, NUM 
+co, ADJ 
+culturing, VERB 
+hESC, PROPN 
+primary, ADJ 
+bone, NOUN 
+derived, VERB 
+cells, NOUN 
+18,21, NUM 
+
+, SPACE 
+OP9, PROPN 
+cells, NOUN 
+19, NUM 
+periodontal, ADJ 
+ligament, NOUN 
+ﬁbroblasts, NOUN 
+20, NUM 
+addition, NOUN 
+
+, SPACE 
+methods, NOUN 
+utilised, VERB 
+isolation, NOUN 
+mesenchymal, NOUN 
+like, ADJ 
+populationsbased, NOUN 
+cell, NOUN 
+sorting, VERB 
+employing, VERB 
+number, NOUN 
+CD, NOUN 
+marker, NOUN 
+combinations, NOUN 
+
+, SPACE 
+CD13+/, PROPN 
+−, PROPN 
+CD71, PROPN 
++, PROPN 
+CD105, PROPN 
++, CCONJ 
+15, NUM 
+CD105, PROPN 
++, PROPN 
+CD24, PROPN 
+−[13, PROPN 
+Finally, ADV 
+
+, SPACE 
+culturing, VERB 
+hESC, PROPN 
+gelatin, NOUN 
+coated, VERB 
+plates, NOUN 
+presence, NOUN 
+fetal, ADJ 
+calf, NOUN 
+serum, NOUN 
+
+, SPACE 
+FCS, PROPN 
+extensive, ADJ 
+periods, NOUN 
+reported, VERB 
+enrich, VERB 
+
+, SPACE 
+homogeneous, ADJ 
+population, NOUN 
+cells, NOUN 
+osteogenic, ADJ 
+characteristics, NOUN 
+14, NUM 
+
+, SPACE 
+reported, VERB 
+studies, NOUN 
+limitations, NOUN 
+
+, SPACE 
+publications, NOUN 
+relied, VERB 
+speci, PROPN 
+ﬁcin, PROPN 
+vitro, X 
+criteria, NOUN 
+osteoblastic, ADJ 
+
+, SPACE 
+phenotype, NOUN 
+e.g., ADV 
+staining, VERB 
+mineralized, ADJ 
+matrix, NOUN 
+Von, PROPN 
+Kossa, PROPN 
+Alizarin, PROPN 
+
+, SPACE 
+Red, PROPN 
+homogeneity, NOUN 
+cells, NOUN 
+examined, VERB 
+detail, NOUN 
+
+, SPACE 
+addition, NOUN 
+comparison, NOUN 
+phenotype, NOUN 
+established, VERB 
+
+, SPACE 
+osteoblastic, ADJ 
+cells, NOUN 
+performed, VERB 
+think, VERB 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+described, VERB 
+represent, VERB 
+good, ADJ 
+alternative, NOUN 
+
+, SPACE 
+described, VERB 
+methods, NOUN 
+allowing, VERB 
+generation, NOUN 
+large, ADJ 
+
+, SPACE 
+number, NOUN 
+functional, ADJ 
+osteoblastic, ADJ 
+cells, NOUN 
+based, VERB 
+vitro, X 
+vivo, ADJ 
+
+, SPACE 
+criteria, NOUN 
+
+, SPACE 
+studies, NOUN 
+demonstrated, VERB 
+ability, NOUN 
+hESC, NOUN 
+derived, VERB 
+
+, SPACE 
+osteogenic, ADJ 
+cells, NOUN 
+form, VERB 
+bone, NOUN 
+vivo, NOUN 
+4,9,45, NUM 
+HA, NOUN 
+enriched, VERB 
+
+, SPACE 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+formed, VERB 
+normal, ADJ 
+bone, NOUN 
+mixed, VERB 
+implanted, VERB 
+
+, SPACE 
+HA, PROPN 
+TCP, PROPN 
+osteoconductive, ADJ 
+scaffold, NOUN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+
+, SPACE 
+implanted, VERB 
+Matrigel, PROPN 
+
+, SPACE 
+®, NOUN 
+HA, PROPN 
+TCP, PROPN 
+form, VERB 
+teratomas, NOUN 
+
+, SPACE 
+suggesting, VERB 
+differentiation, NOUN 
+homogeneity, NOUN 
+resultant, NOUN 
+cells, NOUN 
+
+, SPACE 
+Furthermore, ADV 
+evidence, NOUN 
+hESC, PROPN 
+stromal, ADJ 
+cells, NOUN 
+functional, ADJ 
+ability, NOUN 
+
+, SPACE 
+shown, VERB 
+demonstrating, VERB 
+bone, NOUN 
+repair, NOUN 
+critical, ADJ 
+size, NOUN 
+calvarial, ADJ 
+
+, SPACE 
+defect, ADJ 
+model, NOUN 
+classical, ADJ 
+model, NOUN 
+bone, NOUN 
+regeneration, NOUN 
+34, NUM 
+
+, SPACE 
+μCT, NOUN 
+imaging, NOUN 
+showed, VERB 
+good, ADJ 
+defect, ADJ 
+repair, NOUN 
+cells, NOUN 
+implanted, VERB 
+
+, SPACE 
+osteoconductive, ADJ 
+scaffold, NOUN 
+Healos, PROPN 
+®, NOUN 
+PCL, PROPN 
+ﬁlm, NOUN 
+
+, SPACE 
+differences, NOUN 
+observed, VERB 
+pattern, NOUN 
+
+, SPACE 
+formed, VERB 
+bone, NOUN 
+scaffolds, NOUN 
+Bone, NOUN 
+formed, VERB 
+covered, VERB 
+maximum, NOUN 
+
+, SPACE 
+25, NUM 
+total, ADJ 
+bone, NOUN 
+defect, NOUN 
+area, NOUN 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+vs., ADP 
+76, NUM 
+PCL, PROPN 
+ﬁlm, NOUN 
+
+, SPACE 
+bone, NOUN 
+formed, VERB 
+PCL, PROPN 
+ﬁlm, NOUN 
+extension, NOUN 
+
+, SPACE 
+perimeter, NOUN 
+ﬁlm, NOUN 
+Healos, PROPN 
+®, NOUN 
+scaffold, NOUN 
+new, ADJ 
+bone, NOUN 
+formed, VERB 
+
+, SPACE 
+perimeter, NOUN 
+calvarial, ADJ 
+defect, NOUN 
+integrated, VERB 
+
+, SPACE 
+existing, VERB 
+mouse, NOUN 
+bone, NOUN 
+limitation, NOUN 
+results, NOUN 
+inability, NOUN 
+todemonstrate, NOUN 
+newly, ADV 
+formed, VERB 
+bone, NOUN 
+human, ADJ 
+origin, NOUN 
+Staining, VERB 
+
+, SPACE 
+human, PROPN 
+speci, PROPN 
+ﬁc, PROPN 
+antibodies, VERB 
+situ, NOUN 
+hybridization, NOUN 
+human, ADJ 
+
+, SPACE 
+Alu, PROPN 
+sensitive, ADJ 
+detect, VERB 
+limited, ADJ 
+number, NOUN 
+osteocytic, ADJ 
+cells, NOUN 
+
+, SPACE 
+present, ADJ 
+newly, ADV 
+formed, VERB 
+bone, NOUN 
+circumstantial, ADJ 
+
+, SPACE 
+evidence, NOUN 
+makes, VERB 
+improbable, ADJ 
+bone, NOUN 
+mouse, NOUN 
+origin, NOUN 
+Bone, NOUN 
+
+, SPACE 
+formed, VERB 
+surface, NOUN 
+PCL, PROPN 
+ﬁlm, NOUN 
+away, ADV 
+edges, NOUN 
+
+, SPACE 
+defects, NOUN 
+positive, ADJ 
+staining, NOUN 
+human, ADJ 
+cells, NOUN 
+observed, VERB 
+cells, NOUN 
+
+, SPACE 
+surrounding, VERB 
+newly, ADV 
+formed, VERB 
+bone, NOUN 
+Healos, PROPN 
+
+, SPACE 
+®, NOUN 
+scaffold, NOUN 
+
+, SPACE 
+Conversely, ADV 
+theoretical, ADJ 
+concern, NOUN 
+newly, ADV 
+formed, VERB 
+bone, NOUN 
+
+, SPACE 
+mouse, NOUN 
+origin, NOUN 
+induced, VERB 
+paracrine, ADJ 
+factors, NOUN 
+
+, SPACE 
+secreted, VERB 
+implanted, VERB 
+cells, NOUN 
+46, NUM 
+lack, NOUN 
+enhanced, VERB 
+effect, NOUN 
+
+, SPACE 
+bone, NOUN 
+regeneration, NOUN 
+osteogenic, ADJ 
+induction, NOUN 
+cells, NOUN 
+prior, ADV 
+
+, SPACE 
+implantation, NOUN 
+supports, VERB 
+hypothesis, NOUN 
+hypothesis, NOUN 
+
+, SPACE 
+needs, VERB 
+examination, NOUN 
+
+, SPACE 
+use, NOUN 
+hESC, PROPN 
+source, NOUN 
+clinical, ADJ 
+grade, NOUN 
+cells, NOUN 
+regenerative, ADJ 
+
+, SPACE 
+medicine, NOUN 
+protocols, NOUN 
+widely, ADV 
+discussed, VERB 
+addition, NOUN 
+
+, SPACE 
+mentioned, VERB 
+ability, NOUN 
+cell, NOUN 
+proliferation, NOUN 
+cell, NOUN 
+differentiation, NOUN 
+
+, SPACE 
+cells, NOUN 
+hypoimmunogenic, ADJ 
+Drukker, PROPN 
+et, PROPN 
+al, PROPN 
+47]reported, NOUN 
+
+, SPACE 
+low, ADJ 
+expression, NOUN 
+levels, NOUN 
+MHC, PROPN 
+class, NOUN 
+absence, NOUN 
+
+, SPACE 
+MHC, PROPN 
+class, NOUN 
+II, PROPN 
+molecules, NOUN 
+immunostimulatory, NOUN 
+response, NOUN 
+hESC, PROPN 
+
+, SPACE 
+differentiated, ADJ 
+derivatives, NOUN 
+low, ADJ 
+suggesting, VERB 
+lesser, ADJ 
+degree, NOUN 
+
+, SPACE 
+immune, ADJ 
+suppression, NOUN 
+required, VERB 
+cell, NOUN 
+therapy, NOUN 
+protocols, NOUN 
+
+, SPACE 
+initiated, VERB 
+Recent, ADJ 
+development, NOUN 
+generation, NOUN 
+patient, PROPN 
+speci, PROPN 
+ﬁc, PROPN 
+
+, SPACE 
+induced, VERB 
+pluripotent, NOUN 
+stem, NOUN 
+cells, NOUN 
+iPSC, PROPN 
+provide, VERB 
+viable, ADJ 
+alternative, NOUN 
+
+, SPACE 
+hESC, VERB 
+generating, VERB 
+patient, ADJ 
+compatible, ADJ 
+clinical, ADJ 
+grade, NOUN 
+cell, NOUN 
+
+, SPACE 
+iPS, ADP 
+cells, NOUN 
+current, ADJ 
+forms, NOUN 
+suitable, ADJ 
+therapydue, ADJ 
+concerns, NOUN 
+related, VERB 
+safety, NOUN 
+transformation, NOUN 
+potential, NOUN 
+
+, SPACE 
+48, NUM 
+
+, SPACE 
+conclusion, NOUN 
+described, VERB 
+easy, ADJ 
+reproducible, ADJ 
+method, NOUN 
+
+, SPACE 
+isolating, VERB 
+expanding, VERB 
+highly, ADV 
+homogenous, ADJ 
+population, NOUN 
+cells, NOUN 
+
+, SPACE 
+naturally, ADV 
+produced, VERB 
+response, NOUN 
+growth, NOUN 
+hESC, PROPN 
+feeder-, NOUN 
+
+, SPACE 
+free, ADJ 
+conditions, NOUN 
+cells, NOUN 
+shown, VERB 
+mesenchymal-, ADJ 
+
+, SPACE 
+like, INTJ 
+phenotype, NOUN 
+proven, VERB 
+robust, NOUN 
+vitro, X 
+
+, SPACE 
+osteoblastic, ADJ 
+differentiation, NOUN 
+capacity, NOUN 
+equal, ADJ 
+
+, SPACE 
+differentiation, NOUN 
+potential, NOUN 
+known, VERB 
+osteogenic, ADJ 
+cell, NOUN 
+lines, NOUN 
+
+, SPACE 
+cells, NOUN 
+form, VERB 
+teratoma, NOUN 
+implanted, VERB 
+vivo, NOUN 
+cells, NOUN 
+present, VERB 
+
+, SPACE 
+important, ADJ 
+alternative, NOUN 
+human, ADJ 
+MSC, PROPN 
+studies, NOUN 
+osteoblast, ADJ 
+
+, SPACE 
+differentiation, NOUN 
+important, ADJ 
+tool, NOUN 
+progression, NOUN 
+
+, SPACE 
+cell, NOUN 
+based, VERB 
+therapy, NOUN 
+bone, NOUN 
+diseases, NOUN 
+requiring, VERB 
+bone, NOUN 
+regeneration, NOUN 
+
+, SPACE 
+Supplementary, PROPN 
+materials, NOUN 
+related, VERB 
+article, NOUN 
+found, VERB 
+online, NOUN 
+
+, SPACE 
+atdoi:10.1016, PROPN 
+j.bone.2010.09.023, PROPN 
+
+, SPACE 
+Disclaimer, PROPN 
+
+, SPACE 
+authors, NOUN 
+potential, ADJ 
+con, NOUN 
+ﬂict, NOUN 
+interest, NOUN 
+
+, SPACE 
+Acknowledgments, NOUN 
+
+, SPACE 
+authors, NOUN 
+wish, VERB 
+thank, VERB 
+Ms., PROPN 
+Lone, PROPN 
+Christiansen, PROPN 
+Ms, PROPN 
+Bianca, PROPN 
+
+, SPACE 
+Jørgensen, PROPN 
+Mrs, PROPN 
+Stephanie, PROPN 
+Shouse, PROPN 
+excellent, ADJ 
+technical, ADJ 
+assis-, ADJ 
+
+, SPACE 
+tance, NOUN 
+work, NOUN 
+supported, VERB 
+grants, NOUN 
+Lundbeck, PROPN 
+
+, SPACE 
+Foundation, PROPN 
+Novo, PROPN 
+Nordisk, PROPN 
+Foundation, PROPN 
+local, ADJ 
+grant, NOUN 
+
+, SPACE 
+supplied, VERB 
+University, PROPN 
+Hospital, PROPN 
+Odense, PROPN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+1, NUM 
+Kassem, PROPN 
+M, PROPN 
+Abdallah, PROPN 
+B., PROPN 
+Human, PROPN 
+bone, NOUN 
+marrow, NOUN 
+derived, VERB 
+mesenchymal, NOUN 
+stem, NOUN 
+cells, NOUN 
+
+, SPACE 
+biological, ADJ 
+characteristics, NOUN 
+potential, ADJ 
+role, NOUN 
+therapy, NOUN 
+degenerative, ADJ 
+diseases, NOUN 
+
+, SPACE 
+Cell, PROPN 
+Tissue, PROPN 
+Res, PROPN 
+2008;331:157, PROPN 
+63, NUM 
+
+, SPACE 
+2, X 
+Cowan, PROPN 
+Klimanskaya, PROPN 
+McMahon, PROPN 
+J, PROPN 
+Atienza, PROPN 
+J, PROPN 
+Witmyer, PROPN 
+J, PROPN 
+Zucker, PROPN 
+JP, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Derivation, PROPN 
+embryonic, ADJ 
+stem, NOUN 
+cell, NOUN 
+lines, NOUN 
+human, ADJ 
+blastocysts, NOUN 
+N, PROPN 
+Engl, PROPN 
+J, PROPN 
+Med2004;350:1353, PROPN 
+6, NUM 
+
+, SPACE 
+3, X 
+Karsenty, PROPN 
+G., PROPN 
+Minireview, PROPN 
+transcriptional, ADJ 
+control, NOUN 
+osteoblast, ADJ 
+differentiation, NOUN 
+
+, SPACE 
+Endocrinology, NOUN 
+2001;142:2731, NUM 
+3, NUM 
+
+, SPACE 
+4, X 
+Arpornmaeklong, PROPN 
+P, NOUN 
+Brown, PROPN 
+SE, PROPN 
+Wang, PROPN 
+Z, PROPN 
+Krebsbach, PROPN 
+PH, PROPN 
+Phenotypic, ADJ 
+characteriza-, ADJ 
+
+, SPACE 
+tion, NOUN 
+osteoblastic, ADJ 
+differentiation, NOUN 
+bone, NOUN 
+regeneration, NOUN 
+capacity, NOUN 
+human, ADJ 
+
+, SPACE 
+embryonic, ADJ 
+stem, NOUN 
+cell, NOUN 
+derived, VERB 
+mesenchymal, NOUN 
+stem, NOUN 
+cells, NOUN 
+Stem, PROPN 
+Cells, PROPN 
+Dev, PROPN 
+2009;18, PROPN 
+
+, SPACE 
+1–14, PROPN 
+
+, SPACE 
+5, X 
+Bielby, PROPN 
+RC, PROPN 
+Boccaccini, PROPN 
+AR, PROPN 
+Polak, PROPN 
+JM, PROPN 
+Buttery, PROPN 
+LDK, PROPN 
+vitro, ADJ 
+differentiation, NOUN 
+vivo, NOUN 
+
+, SPACE 
+mineralization, NOUN 
+osteogenic, ADJ 
+cells, NOUN 
+derived, VERB 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+
+, SPACE 
+Tissue, PROPN 
+Eng, PROPN 
+2004;10:1518, PROPN 
+25, NUM 
+
+, SPACE 
+6, X 
+Brown, ADJ 
+SE, PROPN 
+Tong, PROPN 
+W, PROPN 
+Krebsbach, PROPN 
+PH, PROPN 
+derivation, NOUN 
+mesenchymal, ADJ 
+stem, NOUN 
+cells, NOUN 
+
+, SPACE 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+Cells, PROPN 
+Tissues, PROPN 
+Organs, PROPN 
+2009;189:256, NUM 
+60, NUM 
+
+, SPACE 
+7, X 
+Hwang, PROPN 
+NS, PROPN 
+Varghese, PROPN 
+S, PROPN 
+Zhang, PROPN 
+Z, PROPN 
+Ye, PROPN 
+Z, PROPN 
+Cheng, PROPN 
+L, PROPN 
+Elisseeff, PROPN 
+J., PROPN 
+vivo, ADJ 
+commitment, NOUN 
+
+, SPACE 
+functional, ADJ 
+tissue, NOUN 
+regeneration, NOUN 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cell, NOUN 
+derived, VERB 
+
+, SPACE 
+mesenchymal, NOUN 
+cells, NOUN 
+PNAS, PROPN 
+2008;105:20641, NUM 
+6, NUM 
+
+, SPACE 
+8, X 
+Sottile, PROPN 
+V, PROPN 
+Thomson, PROPN 
+McWhir, PROPN 
+J., PROPN 
+vitro, X 
+osteogenic, ADJ 
+differentiation, NOUN 
+human, ADJ 
+ES, PROPN 
+
+, SPACE 
+cells, NOUN 
+Cloning, VERB 
+Stem, PROPN 
+Cells, PROPN 
+2003;5:149, NUM 
+55, NUM 
+
+, SPACE 
+9, X 
+Tremoleda, PROPN 
+JL, PROPN 
+Forsyth, PROPN 
+NR, PROPN 
+Khan, PROPN 
+NS, PROPN 
+Wojtacha, PROPN 
+D, PROPN 
+Christodoulou, PROPN 
+Tye, PROPN 
+BJ, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+
+, SPACE 
+tissue, NOUN 
+formation, NOUN 
+human, PROPN 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+vivo, NOUN 
+Cloning, VERB 
+Stem, PROPN 
+Cells, PROPN 
+
+, SPACE 
+2008;10:119, NOUN 
+32, NUM 
+
+, SPACE 
+10, NUM 
+Boyd, PROPN 
+NL, PROPN 
+Robbins, PROPN 
+KR, PROPN 
+Dhara, PROPN 
+SK, PROPN 
+West, PROPN 
+FD, PROPN 
+Stice, PROPN 
+SL, PROPN 
+Human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cell, NOUN 
+
+, SPACE 
+derived, VERB 
+mesoderm, NOUN 
+like, ADJ 
+epithelium, NOUN 
+transitions, NOUN 
+mesenchymal, ADJ 
+progenitor, NOUN 
+cells, NOUN 
+
+, SPACE 
+Tissue, PROPN 
+Eng, PROPN 
+2009;15:1897, ADJ 
+907, NUM 
+
+, SPACE 
+11, NUM 
+Heng, PROPN 
+BC, PROPN 
+Toh, PROPN 
+WS, PROPN 
+Pereira, PROPN 
+BP, PROPN 
+Tan, PROPN 
+BL, PROPN 
+Fu, PROPN 
+X, PROPN 
+Liu, PROPN 
+H, PROPN 
+et, PROPN 
+al, PROPN 
+autologous, ADJ 
+cell, NOUN 
+lysate, NOUN 
+
+, SPACE 
+extract, NOUN 
+human, PROPN 
+embryonic, ADJ 
+stem, NOUN 
+cell, NOUN 
+hESC, PROPN 
+derived, VERB 
+osteoblasts, NOUN 
+enhance, VERB 
+
+, SPACE 
+osteogenesis, NOUN 
+hESC, PROPN 
+Tissue, PROPN 
+Cell, PROPN 
+2008;40:219, NOUN 
+28, NUM 
+
+, SPACE 
+12, NUM 
+Karlsson, PROPN 
+C, PROPN 
+Emanuelsson, PROPN 
+K, PROPN 
+Wessberg, PROPN 
+F, PROPN 
+Kajic, PROPN 
+K, PROPN 
+Axell, PROPN 
+MZM, PROPN 
+Eriksson, PROPN 
+PS, PROPN 
+Lindahl, PROPN 
+
+, SPACE 
+Hyllner, PROPN 
+J, PROPN 
+Strehl, PROPN 
+R., PROPN 
+Human, PROPN 
+embryonic, ADJ 
+stem, NOUN 
+cell, NOUN 
+derived, VERB 
+mesenchymal, NOUN 
+progenitors, NOUN 
+
+, SPACE 
+potential, NOUN 
+regenerative, ADJ 
+medicine, NOUN 
+Stem, PROPN 
+Cell, PROPN 
+Res, PROPN 
+2009;3:39, NOUN 
+50, NUM 
+
+, SPACE 
+13, NUM 
+Lian, PROPN 
+Q, PROPN 
+Lye, PROPN 
+E, PROPN 
+Suan, PROPN 
+Yeo, PROPN 
+K, PROPN 
+Khia, PROPN 
+Way, PROPN 
+Tan, PROPN 
+E, PROPN 
+Salto, PROPN 
+Tellez, PROPN 
+M, PROPN 
+Liu, PROPN 
+TM, PROPN 
+et, PROPN 
+al, PROPN 
+Derivation, PROPN 
+
+, SPACE 
+clinically, ADV 
+compliant, ADJ 
+MSCs, NOUN 
+CD105, PROPN 
++, PROPN 
+CD24, PROPN 
+−differentiated, VERB 
+human, ADJ 
+ESCs, NOUN 
+
+, SPACE 
+Stem, PROPN 
+Cells, PROPN 
+2007;25:425, NOUN 
+36, NUM 
+
+, SPACE 
+14, NUM 
+Mateizel, PROPN 
+De, PROPN 
+Becker, PROPN 
+Van, PROPN 
+de, PROPN 
+Velde, PROPN 
+H, NOUN 
+De, PROPN 
+Rycke, PROPN 
+M, PROPN 
+Van, PROPN 
+Steirteghem, PROPN 
+
+, SPACE 
+Cornelissen, PROPN 
+R, PROPN 
+et, PROPN 
+al, PROPN 
+Ef, PROPN 
+ﬁcient, NOUN 
+differentiation, NOUN 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+
+, SPACE 
+homogeneous, ADJ 
+population, NOUN 
+osteoprogenitor, NOUN 
+like, ADJ 
+cells, NOUN 
+Reprod, PROPN 
+Biomed, PROPN 
+Online, PROPN 
+
+, SPACE 
+2008;16:741, NUM 
+53, NUM 
+
+, SPACE 
+15, NUM 
+Olivier, PROPN 
+EN, PROPN 
+Rybicki, PROPN 
+AC, PROPN 
+Bouhassira, PROPN 
+EE, PROPN 
+Differentiation, NOUN 
+human, PROPN 
+embryonic, ADJ 
+stem, NOUN 
+
+, SPACE 
+cells, NOUN 
+bipotent, ADJ 
+mesenchymal, NOUN 
+stem, NOUN 
+cells, NOUN 
+Stem, PROPN 
+Cells, PROPN 
+2006;24:1914, NOUN 
+22, NUM 
+
+, SPACE 
+16, NUM 
+Ullmann, PROPN 
+U, PROPN 
+In't, NOUN 
+Veld, PROPN 
+P, PROPN 
+Gilles, PROPN 
+C, PROPN 
+Sermon, PROPN 
+K, PROPN 
+De, PROPN 
+Rycke, PROPN 
+M, PROPN 
+Van, PROPN 
+de, PROPN 
+Velde, PROPN 
+H, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Epithelial, ADJ 
+mesenchymal, NOUN 
+transition, NOUN 
+process, NOUN 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+
+, SPACE 
+cultured, VERB 
+feeder, NOUN 
+free, ADJ 
+conditions, NOUN 
+Mol, PROPN 
+Hum, PROPN 
+Reprod, PROPN 
+2007;13:21, NUM 
+32.240, NUM 
+L., PROPN 
+Harkness, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+48, NUM 
+2011, NUM 
+231, NUM 
+241, NUM 
+
+, SPACE 
+17, NUM 
+Trivedi, PROPN 
+P, PROPN 
+Hematti, PROPN 
+P., PROPN 
+Derivation, PROPN 
+immunological, ADJ 
+characterization, NOUN 
+mesen-, ADJ 
+
+, SPACE 
+chymal, VERB 
+stromal, ADJ 
+cells, NOUN 
+human, PROPN 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+Exp, PROPN 
+Hematol, PROPN 
+2008;36, NUM 
+
+, SPACE 
+350–9, NUM 
+
+, SPACE 
+18, NUM 
+Ahn, PROPN 
+SE, PROPN 
+Kim, PROPN 
+S, PROPN 
+Park, PROPN 
+KH, PROPN 
+Moon, PROPN 
+SH, PROPN 
+Lee, PROPN 
+HJ, PROPN 
+Kim, PROPN 
+GJ, PROPN 
+et, PROPN 
+al, PROPN 
+Primary, ADJ 
+bone, NOUN 
+derived, VERB 
+cells, NOUN 
+
+, SPACE 
+induce, VERB 
+osteogenic, ADJ 
+differentiation, NOUN 
+exogenous, ADJ 
+factors, NOUN 
+human, PROPN 
+embryonic, ADJ 
+
+, SPACE 
+stem, NOUN 
+cells, NOUN 
+Biochem, PROPN 
+Biophys, PROPN 
+Res, PROPN 
+Commun, PROPN 
+2006;340:403, NOUN 
+8, NUM 
+
+, SPACE 
+19, NUM 
+Barberi, PROPN 
+T, PROPN 
+Willis, PROPN 
+LM, PROPN 
+Socci, PROPN 
+ND, PROPN 
+Studer, PROPN 
+L., PROPN 
+Derivation, PROPN 
+multipotent, NOUN 
+mesenchymal, NOUN 
+
+, SPACE 
+precursors, NOUN 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+PLoS, PROPN 
+Med, PROPN 
+2005;2:554, NOUN 
+60, NUM 
+
+, SPACE 
+20, NUM 
+Inanç, PROPN 
+B, PROPN 
+Elçin, PROPN 
+AE, PROPN 
+Elçin, PROPN 
+YM, PROPN 
+Effect, NOUN 
+osteogenic, ADJ 
+induction, NOUN 
+vitro, X 
+
+, SPACE 
+differentiation, NOUN 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+cocultured, VERB 
+periodontal, ADJ 
+
+, SPACE 
+ligament, NOUN 
+ﬁbroblasts, NOUN 
+Artif, PROPN 
+Organs, PROPN 
+2007;31:792, NOUN 
+800, NUM 
+
+, SPACE 
+21, NUM 
+Kim, PROPN 
+S, PROPN 
+Kim, PROPN 
+SS, PROPN 
+Lee, PROPN 
+SH, PROPN 
+Eun, PROPN 
+Ahn, PROPN 
+S, PROPN 
+Gwak, PROPN 
+SJ, PROPN 
+Song, PROPN 
+JH, PROPN 
+et, PROPN 
+al, PROPN 
+vivo, ADJ 
+bone, NOUN 
+formation, NOUN 
+
+, SPACE 
+human, PROPN 
+embryonic, ADJ 
+stem, NOUN 
+cell, NOUN 
+derived, VERB 
+osteogenic, ADJ 
+cells, NOUN 
+poly, ADJ 
+D, PROPN 
+L, NOUN 
+lactic, ADJ 
+co-, NOUN 
+
+, SPACE 
+glycolic, ADJ 
+acid)/hydroxyapatite, ADJ 
+composite, ADJ 
+scaffolds, NOUN 
+Biomaterials, NOUN 
+2008;29, PROPN 
+
+, SPACE 
+1043, NUM 
+53, NUM 
+
+, SPACE 
+22, X 
+Dressel, PROPN 
+R, PROPN 
+Schindehutte, PROPN 
+J, PROPN 
+Kuhlmann, PROPN 
+T, PROPN 
+Elsner, PROPN 
+L, PROPN 
+Novota, PROPN 
+P, PROPN 
+Baier, PROPN 
+PC, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+tumorigenicity, NOUN 
+mouse, PROPN 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+vitro, X 
+differentiated, VERB 
+neuronal, ADJ 
+
+, SPACE 
+cells, NOUN 
+controlled, VERB 
+recipients, NOUN 
+immune, ADJ 
+response, NOUN 
+PLoS, PROPN 
+2008;3:1, NOUN 
+14, NUM 
+
+, SPACE 
+23, NUM 
+Miyabayashi, PROPN 
+T, PROPN 
+Teo, PROPN 
+JL, PROPN 
+Yamamoto, PROPN 
+M, PROPN 
+McMillan, PROPN 
+M, PROPN 
+Nguyen, PROPN 
+C, PROPN 
+Kahn, PROPN 
+M., PROPN 
+Wnt, PROPN 
+ß-, PROPN 
+
+, SPACE 
+catenin, PROPN 
+CBP, PROPN 
+signaling, VERB 
+maintains, VERB 
+long, ADJ 
+term, NOUN 
+murine, PROPN 
+embryonic, PROPN 
+stem, NOUN 
+cell, NOUN 
+plur-, NOUN 
+
+, SPACE 
+ipotency, NOUN 
+PNAS, PROPN 
+2007;104:5668, NUM 
+73, NUM 
+
+, SPACE 
+24, NUM 
+Bastow, PROPN 
+E, PROPN 
+Byers, PROPN 
+S, PROPN 
+Golub, PROPN 
+S, PROPN 
+Clarkin, PROPN 
+C, PROPN 
+Pitsillides, PROPN 
+Fosang, PROPN 
+A., NOUN 
+Hyaluronan, PROPN 
+synthesis, NOUN 
+
+, SPACE 
+degradation, NOUN 
+cartilage, NOUN 
+bone, NOUN 
+Cell, PROPN 
+Mol, PROPN 
+Life, PROPN 
+Sci, PROPN 
+CMLS, PROPN 
+2008;65:395, PROPN 
+413, NUM 
+
+, SPACE 
+25, NUM 
+Choudhary, PROPN 
+M, PROPN 
+Zhang, PROPN 
+X, PROPN 
+Stojkovic, PROPN 
+P, PROPN 
+Hyslop, PROPN 
+L, PROPN 
+Anyfantis, PROPN 
+G, PROPN 
+Herbert, PROPN 
+M, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Putative, ADJ 
+role, NOUN 
+hyaluronan, PROPN 
+related, ADJ 
+genes, NOUN 
+HAS2, PROPN 
+RHAMM, PROPN 
+humanearly, ADJ 
+preimplantation, NOUN 
+embryogenesis, NOUN 
+embryonic, ADJ 
+stem, NOUN 
+cell, NOUN 
+characterization, NOUN 
+
+, SPACE 
+Stem, PROPN 
+Cells, PROPN 
+2007;25:3045, NOUN 
+57, NUM 
+
+, SPACE 
+26, NUM 
+Calabro, PROPN 
+Oken, PROPN 
+MM, PROPN 
+Hascall, PROPN 
+VC, PROPN 
+Masellis, PROPN 
+Characterization, NOUN 
+hyaluronan, PROPN 
+
+, SPACE 
+synthase, NOUN 
+expression, NOUN 
+hyaluronan, PROPN 
+synthesis, NOUN 
+bone, NOUN 
+marrow, NOUN 
+mesenchymal, NOUN 
+
+, SPACE 
+progenitor, NOUN 
+cells, NOUN 
+predominant, ADJ 
+expression, NOUN 
+HAS1, PROPN 
+mRNA, PROPN 
+regulatedhyaluronan, ADJ 
+synthesis, NOUN 
+bone, NOUN 
+marrow, NOUN 
+cells, NOUN 
+derived, VERB 
+multiple, ADJ 
+myeloma, NOUN 
+
+, SPACE 
+patients, NOUN 
+Blood, NOUN 
+2002;100:2578, NUM 
+85, NUM 
+
+, SPACE 
+27, NUM 
+Noonan, PROPN 
+KJ, PROPN 
+Stevens, PROPN 
+JW, PROPN 
+Tammi, PROPN 
+R, PROPN 
+Tammi, PROPN 
+M, PROPN 
+Hernandez, PROPN 
+JA, PROPN 
+Midura, PROPN 
+RJ, PROPN 
+Spatial, ADJ 
+
+, SPACE 
+distribution, NOUN 
+CD44, PROPN 
+hyaluronan, PROPN 
+proximal, ADJ 
+tibia, NOUN 
+growing, VERB 
+rat, NOUN 
+
+, SPACE 
+J, PROPN 
+Orthop, PROPN 
+Res, PROPN 
+1996;14:573, NUM 
+81, NUM 
+
+, SPACE 
+28, NUM 
+Day, PROPN 
+AJ, PROPN 
+Prestwich, PROPN 
+GD, PROPN 
+Hyaluronan, PROPN 
+binding, VERB 
+proteins, NOUN 
+tying, VERB 
+giant, NOUN 
+J, PROPN 
+Biol, PROPN 
+
+, SPACE 
+Chem, PROPN 
+2002;277:4585, NUM 
+8, NUM 
+
+, SPACE 
+29, NUM 
+Turley, PROPN 
+EA, NOUN 
+Noble, PROPN 
+PW, PROPN 
+Bourguignon, PROPN 
+LYW, PROPN 
+Signaling, VERB 
+properties, NOUN 
+hyaluronan, PROPN 
+
+, SPACE 
+receptors, NOUN 
+J, PROPN 
+Biol, PROPN 
+Chem, PROPN 
+2002;277:4589, NUM 
+92, NUM 
+
+, SPACE 
+30, NUM 
+Harkness, PROPN 
+L, PROPN 
+Christiansen, PROPN 
+H, PROPN 
+Nehlin, PROPN 
+J, PROPN 
+Barington, PROPN 
+T, PROPN 
+Andersen, PROPN 
+JS, PROPN 
+Kassem, PROPN 
+M., PROPN 
+
+, SPACE 
+Identi, PROPN 
+ﬁcation, NOUN 
+membrane, NOUN 
+proteomic, NOUN 
+signature, NOUN 
+human, PROPN 
+embryonic, ADJ 
+stem, NOUN 
+
+, SPACE 
+cells, NOUN 
+independent, ADJ 
+culture, NOUN 
+conditions, NOUN 
+Stem, PROPN 
+Cell, PROPN 
+Res, PROPN 
+2008;1:219, NUM 
+27, NUM 
+
+, SPACE 
+31, NUM 
+Harkness, PROPN 
+L, PROPN 
+Rasmussen, PROPN 
+Erb, PROPN 
+K, PROPN 
+Kassem, PROPN 
+M., PROPN 
+Derivation, PROPN 
+characterisation, NOUN 
+hESC, PROPN 
+
+, SPACE 
+lines, NOUN 
+supernumerary, NOUN 
+embryos, NOUN 
+experience, NOUN 
+Odense, PROPN 
+Denmark, PROPN 
+Vitro, PROPN 
+
+, SPACE 
+Cell, PROPN 
+Dev, PROPN 
+Biol, PROPN 
+Anim, PROPN 
+2010;46:259, NOUN 
+68, NUM 
+
+, SPACE 
+32, NUM 
+Simonsen, PROPN 
+JL, PROPN 
+Rosada, PROPN 
+C, PROPN 
+Serakinci, PROPN 
+N, PROPN 
+Justesen, PROPN 
+J, PROPN 
+Stenderup, PROPN 
+K, PROPN 
+Rattan, PROPN 
+SIS, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Telomerase, PROPN 
+expression, NOUN 
+extends, VERB 
+proliferative, ADJ 
+life, NOUN 
+span, NOUN 
+maintains, VERB 
+theosteogenic, ADJ 
+potential, NOUN 
+human, ADJ 
+bone, NOUN 
+marrow, NOUN 
+stromal, ADJ 
+cells, NOUN 
+Nat, PROPN 
+Biotechnol, PROPN 
+
+, SPACE 
+2002;20:592, NOUN 
+6, NUM 
+
+, SPACE 
+33, NUM 
+Prokhorova, PROPN 
+TA, PROPN 
+Harkness, PROPN 
+LM, PROPN 
+Frandsen, PROPN 
+U, PROPN 
+Ditzel, PROPN 
+N, PROPN 
+Schrøder, PROPN 
+HD, PROPN 
+Burns, PROPN 
+JS, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Teratoma, PROPN 
+formation, NOUN 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+site, NOUN 
+dependent, ADJ 
+
+, SPACE 
+enhanced, VERB 
+presence, NOUN 
+matrigel, NOUN 
+Stem, PROPN 
+Cells, PROPN 
+Dev, PROPN 
+2009;18:47, NUM 
+54, NUM 
+
+, SPACE 
+34, NUM 
+Gupta, PROPN 
+DM, PROPN 
+Kwan, PROPN 
+MD, PROPN 
+Slater, PROPN 
+BJ, PROPN 
+Wan, PROPN 
+DC, PROPN 
+Longaker, PROPN 
+MT, PROPN 
+Applications, NOUN 
+athymic, ADJ 
+
+, SPACE 
+nude, ADJ 
+mouse, NOUN 
+model, NOUN 
+nonhealing, VERB 
+critical, ADJ 
+sized, ADJ 
+calvarial, ADJ 
+defects, NOUN 
+J, PROPN 
+Craniofac, PROPN 
+Surg, PROPN 
+
+, SPACE 
+2008;19:192, NOUN 
+7, NUM 
+
+, SPACE 
+35, NUM 
+Dominici, PROPN 
+M, PROPN 
+Blanc, PROPN 
+KL, PROPN 
+Mueller, PROPN 
+Slaper, PROPN 
+Cortenbach, PROPN 
+Marini, PROPN 
+F, PROPN 
+Krause, PROPN 
+D, PROPN 
+et, PROPN 
+al, PROPN 
+Minimal, PROPN 
+
+, SPACE 
+criteria, NOUN 
+de, PROPN 
+ﬁning, NOUN 
+multipotent, NOUN 
+mesenchymal, NOUN 
+stromal, ADJ 
+cells, NOUN 
+International, PROPN 
+Society, PROPN 
+
+, SPACE 
+Cellular, PROPN 
+Therapy, PROPN 
+position, NOUN 
+statement, NOUN 
+Cytotherapy, NOUN 
+2006;8:315, NUM 
+7, NUM 
+
+, SPACE 
+36, NUM 
+Abdallah, PROPN 
+BM, PROPN 
+Haack, PROPN 
+S, PROPN 
+°, PROPN 
+rensen, PROPN 
+M, PROPN 
+Burns, PROPN 
+JS, PROPN 
+Elsnab, PROPN 
+B, PROPN 
+Jakob, PROPN 
+F, PROPN 
+Hokland, PROPN 
+P, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Maintenance, PROPN 
+differentiation, NOUN 
+potential, NOUN 
+human, ADJ 
+bone, NOUN 
+marrow, NOUN 
+mesenchymalstem, NOUN 
+cells, NOUN 
+immortalized, VERB 
+human, ADJ 
+telomerase, NOUN 
+reverse, VERB 
+transcriptase, NOUN 
+gene, NOUN 
+despite, SCONJ 
+
+, SPACE 
+extensive, ADJ 
+proliferation, NOUN 
+Biochem, PROPN 
+Biophys, PROPN 
+Res, PROPN 
+Commun, PROPN 
+2005;326:527, NOUN 
+38, NUM 
+
+, SPACE 
+37, NUM 
+Larsen, PROPN 
+KH, PROPN 
+Frederiksen, PROPN 
+CM, PROPN 
+Burns, PROPN 
+JS, PROPN 
+Abdallah, PROPN 
+BM, PROPN 
+Kassem, PROPN 
+M., PROPN 
+Identifying, VERB 
+
+, SPACE 
+molecular, ADJ 
+phenotype, NOUN 
+bone, NOUN 
+marrow, NOUN 
+stromal, ADJ 
+cells, NOUN 
+vivo, ADJ 
+bone, NOUN 
+forming, VERB 
+
+, SPACE 
+capacity, NOUN 
+JBMR, PROPN 
+2010;25:796, NOUN 
+808, NUM 
+
+, SPACE 
+38, NUM 
+Ludwig, PROPN 
+TE, PROPN 
+Bergendahl, PROPN 
+V, PROPN 
+Levenstein, PROPN 
+Yu, PROPN 
+J, PROPN 
+Probasco, PROPN 
+MD, PROPN 
+Thomson, PROPN 
+JA, PROPN 
+Feeder-, NOUN 
+
+, SPACE 
+independent, ADJ 
+culture, NOUN 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+Nat, PROPN 
+Meth, PROPN 
+2006;3:637, NUM 
+46, NUM 
+
+, SPACE 
+39, NUM 
+Stojkovic, PROPN 
+P, NOUN 
+Lako, PROPN 
+M, PROPN 
+Stewart, PROPN 
+R, PROPN 
+Przyborski, PROPN 
+S, PROPN 
+Armstrong, PROPN 
+L, PROPN 
+Evans, PROPN 
+J, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+autogeneic, ADJ 
+feeder, NOUN 
+cell, NOUN 
+system, NOUN 
+ef, PROPN 
+ﬁciently, ADV 
+supports, VERB 
+growth, NOUN 
+undifferentiated, ADJ 
+
+, SPACE 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+Stem, PROPN 
+Cells, PROPN 
+2005;23:306, NOUN 
+14, NUM 
+
+, SPACE 
+40, NUM 
+Isacke, PROPN 
+CM, PROPN 
+Yarwood, PROPN 
+H., PROPN 
+hyaluronan, PROPN 
+receptor, NOUN 
+CD44, PROPN 
+Int, PROPN 
+J, PROPN 
+Biochem, PROPN 
+Cell, PROPN 
+Biol, PROPN 
+
+, SPACE 
+2002;34:718, PROPN 
+
+, SPACE 
+21, NUM 
+
+, SPACE 
+41, NUM 
+Zou, PROPN 
+L, PROPN 
+Zou, PROPN 
+X, PROPN 
+Chen, PROPN 
+L, PROPN 
+Li, PROPN 
+H, PROPN 
+Mygind, PROPN 
+T, PROPN 
+Kassem, PROPN 
+M, PROPN 
+et, PROPN 
+al, PROPN 
+Effect, PROPN 
+hyaluronan, PROPN 
+
+, SPACE 
+osteogenic, ADJ 
+differentiation, NOUN 
+porcine, NOUN 
+bone, NOUN 
+marrow, NOUN 
+stromal, ADJ 
+cells, NOUN 
+vitro, X 
+J, PROPN 
+Orthop, PROPN 
+
+, SPACE 
+Res, PROPN 
+2008;26:713, NOUN 
+20, NUM 
+
+, SPACE 
+42, NUM 
+Hildebrandt, PROPN 
+C, PROPN 
+Buth, PROPN 
+H, PROPN 
+Thielecke, PROPN 
+H., PROPN 
+ﬂuence, NOUN 
+cell, NOUN 
+culture, NOUN 
+media, NOUN 
+conditions, NOUN 
+
+, SPACE 
+osteogenic, ADJ 
+differentiation, NOUN 
+cord, NOUN 
+blood, NOUN 
+derived, VERB 
+mesenchymal, NOUN 
+stem, NOUN 
+cells, NOUN 
+AnnAnat, PROPN 
+Anat, PROPN 
+Anz, PROPN 
+2009;191:23, NUM 
+32, NUM 
+
+, SPACE 
+43, NUM 
+Holleville, PROPN 
+N, PROPN 
+Mateos, PROPN 
+S, PROPN 
+Bontoux, PROPN 
+M, PROPN 
+Bollerot, PROPN 
+K, PROPN 
+Monsoro, PROPN 
+Burq, PROPN 
+AH, PROPN 
+Dlx5, PROPN 
+drives, VERB 
+
+, SPACE 
+Runx2, NOUN 
+expression, NOUN 
+osteogenic, ADJ 
+differentiation, NOUN 
+developing, VERB 
+cranial, ADJ 
+suture, NOUN 
+
+, SPACE 
+mesenchyme, NOUN 
+Dev, PROPN 
+Biol, PROPN 
+2007;304:860, NUM 
+74, NUM 
+
+, SPACE 
+44, NUM 
+Satokata, PROPN 
+Ma, PROPN 
+L, PROPN 
+Ohshima, PROPN 
+H, PROPN 
+Bei, PROPN 
+M, PROPN 
+Woo, PROPN 
+Nishizawa, PROPN 
+K, PROPN 
+et, PROPN 
+al, PROPN 
+Msx2, PROPN 
+de, NOUN 
+ﬁciency, NOUN 
+
+, SPACE 
+mice, NOUN 
+causes, VERB 
+pleiotropic, ADJ 
+defects, NOUN 
+bone, NOUN 
+growth, NOUN 
+ectodermal, ADJ 
+organ, NOUN 
+formation, NOUN 
+
+, SPACE 
+Nat, PROPN 
+Genet, PROPN 
+2000;24:391, NOUN 
+5, NUM 
+
+, SPACE 
+45, NUM 
+Kim, PROPN 
+SE, PROPN 
+Kim, PROPN 
+BK, PROPN 
+Gil, PROPN 
+JE, PROPN 
+Kim, PROPN 
+SK, PROPN 
+Kim, PROPN 
+JH, PROPN 
+Comparative, ADJ 
+analysis, NOUN 
+developmental, ADJ 
+
+, SPACE 
+competence, NOUN 
+human, ADJ 
+embryonic, ADJ 
+stem, NOUN 
+cell, NOUN 
+lines, NOUN 
+vitro, X 
+Mol, PROPN 
+Cells, PROPN 
+2007;23, PROPN 
+
+, SPACE 
+49–56, NUM 
+
+, SPACE 
+46, NUM 
+Crisostomo, NOUN 
+PR, NOUN 
+Markel, PROPN 
+TA, PROPN 
+Wang, PROPN 
+Y, PROPN 
+Meldrum, PROPN 
+DR, PROPN 
+Surgically, ADV 
+relevant, ADJ 
+aspects, NOUN 
+
+, SPACE 
+stem, NOUN 
+cell, NOUN 
+paracrine, ADJ 
+effects, NOUN 
+Surgery, NOUN 
+2008;143:577, NUM 
+81, NUM 
+
+, SPACE 
+47, NUM 
+Drukker, PROPN 
+M, PROPN 
+Katchman, PROPN 
+H, PROPN 
+Katz, PROPN 
+G, PROPN 
+Tov, PROPN 
+Friedman, PROPN 
+S, PROPN 
+Shezen, PROPN 
+E, PROPN 
+Hornstein, PROPN 
+E, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Human, PROPN 
+embryonic, ADJ 
+stem, NOUN 
+cells, NOUN 
+differentiated, ADJ 
+derivatives, NOUN 
+
+, SPACE 
+susceptible, ADJ 
+immune, ADJ 
+rejection, NOUN 
+adult, NOUN 
+cells, NOUN 
+Stem, PROPN 
+Cells, PROPN 
+2006;24:221, NOUN 
+9, NUM 
+
+, SPACE 
+48, NUM 
+Deng, PROPN 
+W., PROPN 
+Induced, PROPN 
+pluripotent, NOUN 
+stem, NOUN 
+cells, NOUN 
+paths, NOUN 
+new, ADJ 
+medicines, NOUN 
+EMBO, PROPN 
+Rep, PROPN 
+
+, SPACE 
+2010;11:161, NOUN 
+5.241, NUM 
+L., PROPN 
+Harkness, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+48, NUM 
+2011, NUM 
+231, NUM 
+241, NUM 
+
+, SPACE 

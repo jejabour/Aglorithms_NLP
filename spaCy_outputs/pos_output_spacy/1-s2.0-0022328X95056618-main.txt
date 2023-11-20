@@ -1,0 +1,3831 @@
+Journal, PROPN 
+
+, SPACE 
+°, NUM 
+lL, X 
+~, VERB 
+~, PROPN 
+tl, NOUN 
+~, PROPN 
+c, VERB 
+Chemistry, PROPN 
+
+, SPACE 
+ELSEVIER, PROPN 
+Journal, PROPN 
+Organometallic, PROPN 
+Chemistry, PROPN 
+506, NUM 
+1996, NUM 
+253, NUM 
+258, NUM 
+
+, SPACE 
+Thiazole, PROPN 
+complexes, NOUN 
+diorganotin(IV, NOUN 
+dihalides, VERB 
+crystal, NOUN 
+structure, NOUN 
+
+, SPACE 
+dichlorodiphenylbis(thiazole, PROPN 
+tin(IV, PROPN 
+
+, SPACE 
+P., PROPN 
+Alvarez, PROPN 
+Boo, PROPN 
+Mafia, PROPN 
+D., PROPN 
+Couce, PROPN 
+E., PROPN 
+Freijanes, PROPN 
+J.S., PROPN 
+Casas, PROPN 
+b, PROPN 
+A., PROPN 
+Castifieiras, PROPN 
+b, NOUN 
+
+, SPACE 
+A., PROPN 
+SS.nchez, PROPN 
+Gonzfilez, PROPN 
+b, PROPN 
+j., PROPN 
+Sordo, PROPN 
+b., PROPN 
+U., PROPN 
+Russo, PROPN 
+c, AUX 
+
+, SPACE 
+Facultade, PROPN 
+de, X 
+Ciencias, PROPN 
+Universidade, PROPN 
+de, X 
+Vigo, PROPN 
+Vigo, PROPN 
+Galicia, PROPN 
+Spain, PROPN 
+
+, SPACE 
+b, PROPN 
+Departamento, PROPN 
+de, PROPN 
+Qulmica, PROPN 
+Inorgrnica, PROPN 
+Universidade, PROPN 
+de, X 
+Santiago, PROPN 
+de, PROPN 
+Compostela, PROPN 
+15706, NUM 
+Santiago, PROPN 
+de, PROPN 
+Compostela, PROPN 
+Galicia, PROPN 
+Spain, PROPN 
+
+, SPACE 
+c, NOUN 
+Dipartimento, PROPN 
+di, X 
+Chimica, PROPN 
+lnorganica, PROPN 
+Metallorganica, PROPN 
+ed, PROPN 
+Analitica, PROPN 
+Universith, PROPN 
+di, X 
+Padova, PROPN 
+Marzolo, PROPN 
+1, NUM 
+35100, NUM 
+Padova, PROPN 
+Italy, PROPN 
+
+, SPACE 
+Received, VERB 
+3, NUM 
+April, PROPN 
+1995, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+reaction, NOUN 
+thiazole, NOUN 
+Tz, PROPN 
+diorganotin(IV, PROPN 
+dihalides, NOUN 
+yielded, VERB 
+compounds, NOUN 
+type, NOUN 
+SnR2X2(Tz)2, NOUN 
+R, NOUN 
+=, SYM 
+Et, PROPN 
+Ph, PROPN 
+X, PROPN 
+=, PUNCT 
+C1, PROPN 
+Br, PROPN 
+
+, SPACE 
+structure, NOUN 
+dichlorodiphenylbis(thiazole)tin(IV, PROPN 
+determined, VERB 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+crystals, NOUN 
+monoclinic, ADJ 
+space, NOUN 
+group, NOUN 
+
+, SPACE 
+P21, PROPN 
+c, PROPN 
+consist, VERB 
+discrete, ADJ 
+trans, NOUN 
+SnPhECl2(Tz, PROPN 
+2, NUM 
+units, NOUN 
+metal, NOUN 
+atom, NOUN 
+coordinated, VERB 
+C1, PROPN 
+atoms, NOUN 
+phenyl, NOUN 
+carbons, NOUN 
+
+, SPACE 
+N, PROPN 
+atoms, NOUN 
+thiazole, NOUN 
+rings, NOUN 
+MSssbauer, PROPN 
+IR, PROPN 
+spectra, NOUN 
+suggest, VERB 
+similar, ADJ 
+trans, NOUN 
+stereochemistry, NOUN 
+complexes, NOUN 
+prepared, VERB 
+
+, SPACE 
+behavior, NOUN 
+compounds, NOUN 
+solution, NOUN 
+studied, VERB 
+conductimetry, NOUN 
+NMR, PROPN 
+techniques, NOUN 
+
+, SPACE 
+Keywords, NOUN 
+Tin, PROPN 
+Thiazole, PROPN 
+Mbssbauer, PROPN 
+spectroscopy, NOUN 
+Nuclear, ADJ 
+magnetic, ADJ 
+resonance, NOUN 
+Crystal, PROPN 
+structure, NOUN 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+previous, ADJ 
+work, NOUN 
+1, X 
+prepared, VERB 
+cases, NOUN 
+
+, SPACE 
+studied, VERB 
+crystallography, NOUN 
+dialkyltin(IV, NOUN 
+
+, SPACE 
+complexes, NOUN 
+type, NOUN 
+SnR2X2L, NOUN 
+2, NUM 
+R, NOUN 
+=, NOUN 
+Et, PROPN 
+Bu, PROPN 
+X, PROPN 
+=, PROPN 
+
+, SPACE 
+C1, PROPN 
+Br, PROPN 
+L, PROPN 
+imidazole, NOUN 
+pyrazole, NOUN 
+order, NOUN 
+investi-, VERB 
+
+, SPACE 
+gate, NOUN 
+steric, ADJ 
+influence, NOUN 
+different, ADJ 
+substituents, NOUN 
+
+, SPACE 
+structure, NOUN 
+compounds, NOUN 
+study, NOUN 
+recently, ADV 
+
+, SPACE 
+extended, VERB 
+diaryltin(IV, PROPN 
+derivatives, NOUN 
+preparation, NOUN 
+
+, SPACE 
+dichlorodiphenylbis(pyrazole)tin(IV, PROPN 
+2, NUM 
+
+, SPACE 
+compounds, VERB 
+ligands, NOUN 
+L, PROPN 
+N, PROPN 
+H, PROPN 
+group, NOUN 
+
+, SPACE 
+hydrogen, NOUN 
+bonding, NOUN 
+hydrogen, NOUN 
+bonds, NOUN 
+
+, SPACE 
+fact, NOUN 
+detected, VERB 
+compounds, NOUN 
+studied, VERB 
+crystal-, ADJ 
+
+, SPACE 
+lographically, ADV 
+investigate, VERB 
+influence, NOUN 
+ab-, ADJ 
+
+, SPACE 
+sence, NOUN 
+bonds, NOUN 
+orientation, NOUN 
+azole, NOUN 
+ring, NOUN 
+
+, SPACE 
+overall, ADJ 
+structure, NOUN 
+prepared, VERB 
+complexes, NOUN 
+
+, SPACE 
+SnR2X2(Tz, X 
+2, NUM 
+R, NOUN 
+Et, PROPN 
+Ph, PROPN 
+X, PROPN 
+=, NOUN 
+C1, PROPN 
+Br, PROPN 
+Tz=, PROPN 
+
+, SPACE 
+thiazole, NOUN 
+paper, NOUN 
+describes, VERB 
+preparation, NOUN 
+
+, SPACE 
+characterization, NOUN 
+crystal, NOUN 
+structure, NOUN 
+
+, SPACE 
+dichlorodiphenyl, ADJ 
+compound, NOUN 
+
+, SPACE 
+Corresponding, VERB 
+author, NOUN 
+
+, SPACE 
+0022, NUM 
+328X/96/$15.00, NUM 
+©, NOUN 
+1996, NUM 
+Elsevier, ADJ 
+Science, PROPN 
+S.A., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+SSDI, PROPN 
+0022, NUM 
+328X(95)05661, NUM 
+0, NUM 
+2, NUM 
+Experimental, ADJ 
+section, NOUN 
+
+, SPACE 
+2.1, NUM 
+Materials, NOUN 
+
+, SPACE 
+Dimethyltin, PROPN 
+dichloride, NOUN 
+Ventron, PROPN 
+dimethyltin, NOUN 
+dibro-, X 
+
+, SPACE 
+mide, NOUN 
+Ventron, PROPN 
+diethyltin, NOUN 
+dichloride, NOUN 
+Ventron, PROPN 
+dieth-, NOUN 
+
+, SPACE 
+yltin, NOUN 
+dibromide, NOUN 
+Ventron, PROPN 
+diphenyltin, NOUN 
+dichloride, NOUN 
+Al-, ADP 
+
+, SPACE 
+drich, PROPN 
+thiazole, NOUN 
+Aldrich, PROPN 
+supplied, VERB 
+
+, SPACE 
+Diphenyltin, PROPN 
+dibromide, NOUN 
+prepared, VERB 
+treating, VERB 
+
+, SPACE 
+diphenyltin, NOUN 
+dichloride, NOUN 
+sodium, NOUN 
+bromide, NOUN 
+Solvents, NOUN 
+
+, SPACE 
+purified, VERB 
+usual, ADJ 
+methods, NOUN 
+
+, SPACE 
+2.2, X 
+Preparation, NOUN 
+compounds, NOUN 
+
+, SPACE 
+SnMe2CI2(Tz)2, X 
+solution, NOUN 
+SnMe2C12, PROPN 
+4.4, NUM 
+mmol, NOUN 
+
+, SPACE 
+15, NUM 
+ml, NOUN 
+CHEC12, NOUN 
+added, VERB 
+dropwise, ADV 
+stirred, ADJ 
+
+, SPACE 
+solution, NOUN 
+thiazole, NOUN 
+8.8, NUM 
+mmol, NOUN 
+15, NUM 
+ml, NOUN 
+
+, SPACE 
+solvent, NOUN 
+mixture, NOUN 
+stirred, VERB 
+short, ADJ 
+time, NOUN 
+
+, SPACE 
+white, ADJ 
+solid, ADJ 
+formed, VERB 
+filtered, VERB 
+dried, VERB 
+vacuo, PROPN 
+
+, SPACE 
+Analysis, PROPN 
+found, VERB 
+C, PROPN 
+23.5, NUM 
+H, PROPN 
+2.8, NUM 
+N, NUM 
+6.3, NUM 
+Calculated, VERB 
+
+, SPACE 
+C8HIEC12NESESn, PROPN 
+C, PROPN 
+24.6, NUM 
+H, PROPN 
+3.1, NUM 
+N, NUM 
+7.2, NUM 
+M.p, NUM 
+134, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+M, PROPN 
+MeCN, PROPN 
+10, NUM 
+-3, SYM 
+M, PROPN 
+9.0, NUM 
+S, PROPN 
+cm, NOUN 
+2, NUM 
+mol-1, NUM 
+
+
+, SPACE 
+254, PROPN 
+P.A., PROPN 
+Boo, PROPN 
+et, NOUN 
+aL, PROPN 
+Journal, PROPN 
+Organometallic, PROPN 
+Chemistry, PROPN 
+506, NUM 
+1996, NUM 
+253, NUM 
+258, NUM 
+
+, SPACE 
+SnMe2Br2(Tz)2, X 
+white, ADJ 
+solid, ADJ 
+prepared, VERB 
+
+, SPACE 
+SnMe2Br, PROPN 
+2, NUM 
+3.3, NUM 
+mmol, NOUN 
+thiazole, NOUN 
+6.6, NUM 
+mmol, NOUN 
+
+, SPACE 
+procedure, NOUN 
+SnMeEC12(Tz)2, X 
+Analysis, NOUN 
+found, VERB 
+
+, SPACE 
+C, PROPN 
+20.1, NUM 
+H, PROPN 
+2.7, NUM 
+N, NUM 
+5.6, NUM 
+Calculated, VERB 
+C8HlE-, PROPN 
+
+, SPACE 
+Br2N2SESn, PROPN 
+C, PROPN 
+20.1, NUM 
+H, PROPN 
+2.5, NUM 
+N, NUM 
+5.8, NUM 
+M.p, NUM 
+156, NUM 
+°, NUM 
+C, NOUN 
+M, PROPN 
+
+, SPACE 
+MeCN, PROPN 
+10, NUM 
+-3, SYM 
+M, PROPN 
+57.0, NUM 
+S, PROPN 
+cm, NOUN 
+2, NUM 
+mol-1, NOUN 
+
+, SPACE 
+SnEt2CI2(Tz)2, X 
+solution, NOUN 
+SnEt2CI, PROPN 
+2, NUM 
+2.2, NUM 
+mmol, NOUN 
+
+, SPACE 
+15, NUM 
+ml, NOUN 
+CH2C12, PROPN 
+added, VERB 
+dropwise, ADV 
+stirred, ADJ 
+solution, NOUN 
+
+, SPACE 
+thiazole, NOUN 
+4.4, NUM 
+mmol, NOUN 
+15, NUM 
+ml, NOUN 
+solvent, NOUN 
+
+, SPACE 
+mixture, NOUN 
+stirred, VERB 
+short, ADJ 
+time, NOUN 
+solvent, NOUN 
+
+, SPACE 
+partly, ADV 
+evaporated, VERB 
+white, PROPN 
+solid, ADJ 
+formed, VERB 
+
+, SPACE 
+filtered, VERB 
+dried, VERB 
+vacuo, PROPN 
+Analysis, NOUN 
+found, VERB 
+C, PROPN 
+28.7, NUM 
+
+, SPACE 
+H, PROPN 
+4.1, NUM 
+N, NUM 
+6.2, NUM 
+Calculated, VERB 
+C10H16C12N2S2Sn, NOUN 
+C, PROPN 
+
+, SPACE 
+28.7, NUM 
+H, NOUN 
+3.9, NUM 
+N, NUM 
+6.7, NUM 
+M.p, NUM 
+109, NUM 
+°, NUM 
+C, NOUN 
+M, PROPN 
+MeCN, PROPN 
+l0, PROPN 
+-3, PUNCT 
+
+, SPACE 
+M, PROPN 
+8.5, NUM 
+S, PROPN 
+cm, NOUN 
+2, NUM 
+mol-1, NUM 
+2.4, NUM 
+Determination, NOUN 
+crystal, NOUN 
+structure, NOUN 
+
+, SPACE 
+SnPh2, ADJ 
+Cl2, X 
+Tz)2, NOUN 
+
+, SPACE 
+X, NOUN 
+ray, NOUN 
+data, NOUN 
+collection, NOUN 
+reduction, NOUN 
+colourless, ADJ 
+pris-, NOUN 
+
+, SPACE 
+matic, ADJ 
+crystal, NOUN 
+mounted, VERB 
+glass, NOUN 
+fibre, NOUN 
+data, NOUN 
+
+, SPACE 
+collection, NOUN 
+Enraf, PROPN 
+Nonius, PROPN 
+CAD4, PROPN 
+automatic, ADJ 
+diffrac-, NOUN 
+
+, SPACE 
+tometer, NOUN 
+3, NUM 
+Cell, NOUN 
+constants, NOUN 
+orientation, NOUN 
+matrix, NOUN 
+
+, SPACE 
+data, NOUN 
+collection, NOUN 
+obtained, VERB 
+squares, NOUN 
+refine-, NUM 
+
+, SPACE 
+ment, NOUN 
+diffraction, NOUN 
+data, NOUN 
+25, NUM 
+reflections, NOUN 
+
+, SPACE 
+range, NOUN 
+6.8, NUM 
+°, NUM 
+<, X 
+0, NUM 
+<, X 
+13.6, NUM 
+°, NOUN 
+Data, NOUN 
+collected, VERB 
+293, NUM 
+K, PROPN 
+
+, SPACE 
+Mo, PROPN 
+K, PROPN 
+radiation, NOUN 
+=, SYM 
+0.71073, NUM 
+~, PUNCT 
+to/20, PROPN 
+
+, SPACE 
+scan, ADJ 
+technique, NOUN 
+corrected, VERB 
+Lorentz, PROPN 
+
+, SPACE 
+polarization, NOUN 
+effects, NOUN 
+empirical, ADJ 
+absorption, NOUN 
+correction, NOUN 
+
+, SPACE 
+4, NUM 
+Table, NOUN 
+1, NUM 
+summarizes, VERB 
+crystal, NOUN 
+data, NOUN 
+
+, SPACE 
+experimental, ADJ 
+details, NOUN 
+refinement, ADJ 
+results, NOUN 
+
+, SPACE 
+SnEt2Br2(Tz)2, X 
+white, ADJ 
+solid, ADJ 
+prepared, VERB 
+
+, SPACE 
+SnEt2Br, PROPN 
+2, NUM 
+3.6, NUM 
+mmol, NOUN 
+thiazole, NOUN 
+7.2, NUM 
+mmol, NOUN 
+
+, SPACE 
+procedure, NOUN 
+SnEt2C12(Tz, PROPN 
+2, NUM 
+Analysis, NOUN 
+found, VERB 
+C, PROPN 
+
+, SPACE 
+24.0, NUM 
+H, PROPN 
+3.2, NUM 
+N, NUM 
+5.3, NUM 
+calculated, VERB 
+CIoH16BrENESESn, PROPN 
+
+, SPACE 
+C, PROPN 
+23.7, NUM 
+H, PROPN 
+3.2, NUM 
+N, NUM 
+5.5, NUM 
+M.p, NUM 
+120, NUM 
+°, NUM 
+C, NOUN 
+M, PROPN 
+MeCn, PROPN 
+l0, PROPN 
+-3, PUNCT 
+
+, SPACE 
+M, PROPN 
+8.6, NUM 
+S, PROPN 
+cm, NOUN 
+z, PROPN 
+mol-1, NOUN 
+
+, SPACE 
+SnPh2Cl2(Tz)2, PROPN 
+solution, NOUN 
+SnPh2C12, PROPN 
+2.7, NUM 
+mmol, NOUN 
+
+, SPACE 
+10, NUM 
+ml, NOUN 
+CH2C12, PROPN 
+added, VERB 
+dropwise, ADV 
+stirred, ADJ 
+solution, NOUN 
+
+, SPACE 
+thiazole, NOUN 
+5.5, NUM 
+mmol, NOUN 
+10, NUM 
+ml, NOUN 
+solvent, NOUN 
+
+, SPACE 
+mixture, NOUN 
+stirred, VERB 
+short, ADJ 
+time, NOUN 
+solvent, NOUN 
+
+, SPACE 
+partly, ADV 
+evaporated, VERB 
+white, ADJ 
+solid, ADJ 
+formed, VERB 
+
+, SPACE 
+filtered, VERB 
+dried, VERB 
+vacuo, PROPN 
+Crystals, NOUN 
+suitable, ADJ 
+
+, SPACE 
+X, NOUN 
+ray, NOUN 
+analysis, NOUN 
+obtained, VERB 
+filtrate, NOUN 
+Analysis, NOUN 
+
+, SPACE 
+found, VERB 
+C, PROPN 
+42.1, NUM 
+H, PROPN 
+3.0, NUM 
+N, NUM 
+5.4, NUM 
+Calculated, VERB 
+
+, SPACE 
+CIsHI6C12N2S2Sn, PROPN 
+C, PROPN 
+42.1, NUM 
+H, PROPN 
+3.1, NUM 
+N, NUM 
+5.4, NUM 
+M.p, NUM 
+159, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+M, PROPN 
+MeCN, PROPN 
+10, NUM 
+-3, SYM 
+M, PROPN 
+10.0, NUM 
+S, PROPN 
+cm, NOUN 
+2, NUM 
+mol-1, NUM 
+
+, SPACE 
+SnPh2Br2(Tz)2, NOUN 
+white, ADJ 
+solid, ADJ 
+prepared, VERB 
+
+, SPACE 
+SnPh2Br, PROPN 
+2, NUM 
+1.4, NUM 
+mmol, NOUN 
+thiazole, NOUN 
+2.9, NUM 
+mmol, NOUN 
+
+, SPACE 
+procedure, NOUN 
+SnPh2C1E(TZ, PROPN 
+2, NUM 
+Analysis, NOUN 
+found, VERB 
+C, PROPN 
+
+, SPACE 
+35.9, NUM 
+H, NOUN 
+2.1, NUM 
+N, NUM 
+4.1, NUM 
+Calculated, VERB 
+CI8H16BrENES2Sn, NOUN 
+
+, SPACE 
+C, PROPN 
+35.9, NUM 
+H, PROPN 
+2.7, NUM 
+N, NUM 
+4.6, NUM 
+M.p, NUM 
+138, NUM 
+°, NUM 
+C, PROPN 
+M, PROPN 
+MeCN, PROPN 
+10, NUM 
+-3, SYM 
+
+, SPACE 
+M, PROPN 
+32.0, NUM 
+S, PROPN 
+cm, NOUN 
+2, NUM 
+mol-1, NOUN 
+
+, SPACE 
+2.3, X 
+Physical, ADJ 
+measurements, NOUN 
+
+, SPACE 
+Elemental, PROPN 
+analyses, NOUN 
+performed, VERB 
+Carlo, PROPN 
+Erba, PROPN 
+
+, SPACE 
+1108, NUM 
+apparatus, NOUN 
+Melting, NOUN 
+points, NOUN 
+determined, VERB 
+
+, SPACE 
+Biichi, PROPN 
+apparatus, NOUN 
+IR, PROPN 
+spectra, PROPN 
+recorded, VERB 
+Nujol, PROPN 
+
+, SPACE 
+mulls, NOUN 
+KBr, ADJ 
+discs, NOUN 
+Nicolet, PROPN 
+FT, PROPN 
+IR, PROPN 
+55XC20F, NUM 
+spec-, NOUN 
+
+, SPACE 
+trometer, NOUN 
+Conductivities, NOUN 
+determined, VERB 
+WTW-, ADV 
+
+, SPACE 
+LF3, PROPN 
+conductivity, NOUN 
+meter, NOUN 
+M, PROPN 
+~, PROPN 
+Sssbauer, PROPN 
+spectra, PROPN 
+deter-, X 
+
+, SPACE 
+mined, VERB 
+80.0, NUM 
+K, NOUN 
+constant, ADJ 
+acceleration, NOUN 
+apparatus, NOUN 
+
+, SPACE 
+Cal19mSnO3, PROPN 
+source, NOUN 
+6, NUM 
+referred, VERB 
+SnO, PROPN 
+2, NUM 
+1H, PROPN 
+
+, SPACE 
+250.13, NUM 
+MHz, NOUN 
+13C, NUM 
+62.83, NUM 
+MHz, NOUN 
+NMR, PROPN 
+spectra, NOUN 
+
+, SPACE 
+recorded, VERB 
+CDC13, PROPN 
+room, NOUN 
+temperature, NOUN 
+Bruker, PROPN 
+
+, SPACE 
+WM-250, PROPN 
+referred, VERB 
+TMS, PROPN 
+Table, NOUN 
+1, NUM 
+
+, SPACE 
+Crystal, PROPN 
+data, NOUN 
+data, NOUN 
+collection, NOUN 
+structure, NOUN 
+refinement, NOUN 
+parameters, NOUN 
+
+, SPACE 
+SnPh2C12(Tz, PROPN 
+2, NUM 
+
+, SPACE 
+Crystal, PROPN 
+shape, NOUN 
+Prismatic, PROPN 
+
+, SPACE 
+Size, PROPN 
+mm, PROPN 
+0.30, NUM 
+×, X 
+0.25, NUM 
+×, PROPN 
+0.30, NUM 
+
+, SPACE 
+Chemical, PROPN 
+formula, NOUN 
+ClaH16CI2N2S2Sn, NOUN 
+
+, SPACE 
+Formula, PROPN 
+weight, NOUN 
+514.07, NUM 
+
+, SPACE 
+Crystal, PROPN 
+system, NOUN 
+Monoclinic, PROPN 
+
+, SPACE 
+Space, PROPN 
+group, NOUN 
+P21, PROPN 
+c, PROPN 
+
+, SPACE 
+Unit, NOUN 
+cell, NOUN 
+dimensions, NOUN 
+
+, SPACE 
+~, PUNCT 
+9.263(2, NUM 
+
+, SPACE 
+b, X 
+14.146(2, NOUN 
+
+, SPACE 
+c, NOUN 
+~, PUNCT 
+16.032(4, PROPN 
+
+, SPACE 
+/3, PROPN 
+deg, PROPN 
+105.77(1, NUM 
+
+, SPACE 
+Volume, NOUN 
+unit, NOUN 
+cell, NOUN 
+.~3, PROPN 
+2021.6(7, PROPN 
+
+, SPACE 
+Z, PROPN 
+4, NUM 
+
+, SPACE 
+D, NOUN 
+g, PROPN 
+cm-, PROPN 
+3, NUM 
+1.689, NUM 
+
+, SPACE 
+F(000, NUM 
+1016, NUM 
+
+, SPACE 
+Linear, PROPN 
+absorption, NOUN 
+coefficient, NOUN 
+cm-1, PROPN 
+17.371, NUM 
+
+, SPACE 
+Minimum, PROPN 
+maximum, ADJ 
+average, ADJ 
+0.664, NUM 
+1.159, NUM 
+1.002, NUM 
+
+, SPACE 
+absorption, NOUN 
+correction, NOUN 
+
+, SPACE 
+Maximum, ADJ 
+value, NOUN 
+of(sin, PROPN 
+0)/A, PROPN 
+reached, VERB 
+0.617, NUM 
+
+, SPACE 
+intensity, NOUN 
+measurement, NOUN 
+~-, PROPN 
+~, PUNCT 
+
+, SPACE 
+Range, PROPN 
+h, PROPN 
+k, PROPN 
+l, PROPN 
+0, NUM 
+11, NUM 
+
+, SPACE 
+0, NUM 
+-.17, PROPN 
+
+, SPACE 
+-19~19, PROPN 
+
+, SPACE 
+4,0,2, NUM 
+-2, PROPN 
+-2,7, PUNCT 
+
+, SPACE 
+7200s, X 
+
+, SPACE 
+4161, NUM 
+3, NUM 
+26, NUM 
+Standard, PROPN 
+reflections, NOUN 
+
+, SPACE 
+Interval, PROPN 
+standard, ADJ 
+reflections, NOUN 
+measured, VERB 
+
+, SPACE 
+Total, ADJ 
+number, NOUN 
+reflections, NOUN 
+measured, VERB 
+
+, SPACE 
+0, NUM 
+range, NOUN 
+deg, PROPN 
+
+, SPACE 
+Number, NOUN 
+unique, ADJ 
+reflections, NOUN 
+Rim, PROPN 
+
+, SPACE 
+Number, PROPN 
+observed, VERB 
+reflections, NOUN 
+
+, SPACE 
+Criterion, PROPN 
+observed, ADJ 
+reflections, NOUN 
+
+, SPACE 
+Weighting, PROPN 
+scheme, NOUN 
+
+, SPACE 
+Parameters, PROPN 
+refined, VERB 
+
+, SPACE 
+Value, PROPN 
+R, PROPN 
+
+, SPACE 
+Value, PROPN 
+R, PROPN 
+W, PROPN 
+
+, SPACE 
+Ratio, PROPN 
+maximum, ADJ 
+LS, PROPN 
+shift, NOUN 
+
+, SPACE 
+e.s.d, VERB 
+tr, VERB 
+
+, SPACE 
+Maximum, PROPN 
+Ap, PROPN 
+final, ADJ 
+difference, NOUN 
+
+, SPACE 
+electron, NOUN 
+density, NOUN 
+map, NOUN 
+e, NOUN 
+.~-3, PROPN 
+
+, SPACE 
+Error, NOUN 
+observation, NOUN 
+unit, NOUN 
+weight, NOUN 
+
+, SPACE 
+Secondary, ADJ 
+extintion, NOUN 
+coefficient, NOUN 
+3710, NUM 
+0.040, NUM 
+
+, SPACE 
+2252, NUM 
+
+, SPACE 
+>, X 
+3, NUM 
+~, NOUN 
+r(1, PROPN 
+
+, SPACE 
+1, NUM 
+trZ(F, PROPN 
+
+, SPACE 
+227, NUM 
+
+, SPACE 
+0.051, NUM 
+
+, SPACE 
+0.053, NUM 
+
+, SPACE 
+0.001, NUM 
+
+, SPACE 
+1.255, NUM 
+Sn, PROPN 
+
+, SPACE 
+2.848, NUM 
+
+, SPACE 
+3.731, NUM 
+×, PROPN 
+10, NUM 
+-8, NOUN 
+
+
+, SPACE 
+P.A., PROPN 
+Boo, PROPN 
+et, PROPN 
+al, PROPN 
+Journal, PROPN 
+Organometallic, PROPN 
+Chemistry, PROPN 
+506, NUM 
+1996, NUM 
+253, NUM 
+258, NUM 
+255, NUM 
+
+, SPACE 
+Structure, NOUN 
+solution, NOUN 
+refinement, NOUN 
+structure, NOUN 
+
+, SPACE 
+solved, VERB 
+direct, ADJ 
+methods, NOUN 
+5, NUM 
+revealed, VERB 
+posi-, ADJ 
+
+, SPACE 
+tions, NOUN 
+non, ADJ 
+hydrogen, ADJ 
+atoms, NOUN 
+refined, VERB 
+F, PROPN 
+
+, SPACE 
+matrix, NOUN 
+squares, NOUN 
+procedure, NOUN 
+anisotropic, NOUN 
+
+, SPACE 
+displacement, ADJ 
+parameters, NOUN 
+non, ADJ 
+hydrogen, ADJ 
+atoms, NOUN 
+
+, SPACE 
+hydrogen, NOUN 
+atoms, NOUN 
+located, VERB 
+Fourier, PROPN 
+differ-, ADJ 
+
+, SPACE 
+ence, NOUN 
+maps, NOUN 
+included, VERB 
+structure, NOUN 
+factor, NOUN 
+calcula-, VERB 
+
+, SPACE 
+tions, NOUN 
+fixed, VERB 
+contributions, NOUN 
+Bis, PROPN 
+o, NOUN 
+=, SYM 
+4.0, NUM 
+~x, SYM 
+2, NUM 
+
+, SPACE 
+positional, ADJ 
+parameters, NOUN 
+refined, VERB 
+secondary, ADJ 
+
+, SPACE 
+extinction, NOUN 
+correction, NOUN 
+applied, VERB 
+6, NUM 
+
+, SPACE 
+shift, NOUN 
+e.s.d, ADJ 
+ratios, NOUN 
+0.001, NUM 
+agreement, NOUN 
+
+, SPACE 
+factors, NOUN 
+listed, VERB 
+Table, PROPN 
+1, NUM 
+Atomic, ADJ 
+scattering, VERB 
+
+, SPACE 
+factors, NOUN 
+taken, VERB 
+Ref, PROPN 
+7, X 
+Molecular, ADJ 
+graphics, NOUN 
+
+, SPACE 
+obtained, VERB 
+SCHA, PROPN 
+~, NOUN 
+CAL, PROPN 
+8, NUM 
+Final, ADJ 
+atomic, ADJ 
+parame-, NOUN 
+
+, SPACE 
+ters, NOUN 
+bond, NOUN 
+distances, NOUN 
+angles, NOUN 
+listed, VERB 
+Tables, PROPN 
+2, NUM 
+
+, SPACE 
+3, NUM 
+respectively, ADV 
+Table, NOUN 
+3, NUM 
+
+, SPACE 
+Selected, VERB 
+bond, NOUN 
+distances, NOUN 
+angles, NOUN 
+deg, PROPN 
+SnPh2CI2(Tz)2, X 
+
+, SPACE 
+estimated, VERB 
+standard, ADJ 
+deviations, NOUN 
+parentheses, NOUN 
+
+, SPACE 
+Sn, PROPN 
+CI1, PROPN 
+2.508(3, NUM 
+
+, SPACE 
+Sn, PROPN 
+CI2, PROPN 
+2.569(3, PROPN 
+
+, SPACE 
+Sn, PROPN 
+N11, PROPN 
+2.368(8, PROPN 
+
+, SPACE 
+Sn, PROPN 
+N21, PROPN 
+2.370(8, NUM 
+
+, SPACE 
+Sn, PROPN 
+C11, PROPN 
+2.154(8, NUM 
+
+, SPACE 
+Sn, PROPN 
+C21, PROPN 
+2.158(8, NUM 
+
+, SPACE 
+SI, PROPN 
+1, NUM 
+C17, PROPN 
+1.68(2, NUM 
+
+, SPACE 
+Sll, PROPN 
+C19, PROPN 
+1.67(1, NUM 
+
+, SPACE 
+$, SYM 
+21, NUM 
+C27, NOUN 
+1.66(1, PROPN 
+
+, SPACE 
+$, SYM 
+21, NUM 
+C29, NOUN 
+1.60(1, NUM 
+
+, SPACE 
+Nll, PROPN 
+C17, PROPN 
+1.30(1, NUM 
+
+, SPACE 
+N11, PROPN 
+CI, PROPN 
+8, NUM 
+1.38(2, NUM 
+
+, SPACE 
+N21, PROPN 
+-C27, PUNCT 
+1.30(2, NUM 
+
+, SPACE 
+N21, PROPN 
+C28, PROPN 
+1.34(1, NUM 
+
+, SPACE 
+C18, PROPN 
+C19, PROPN 
+1.38(2, PROPN 
+
+, SPACE 
+C28, PROPN 
+C29, PROPN 
+1.51(2, PROPN 
+
+, SPACE 
+3, X 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+3.1, NUM 
+Description, NOUN 
+structure, NOUN 
+SnPh, PROPN 
+2, NUM 
+CI2(Tz, PROPN 
+2, NUM 
+
+, SPACE 
+molecular, ADJ 
+structure, NOUN 
+SnPh2C12(Tz, PROPN 
+2, NUM 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+numbering, NOUN 
+scheme, NOUN 
+Sn, PROPN 
+
+, SPACE 
+atom, NOUN 
+octahedrally, ADV 
+coordinated, ADJ 
+C1, PROPN 
+atoms, NOUN 
+
+, SPACE 
+phenyl, NOUN 
+C, PROPN 
+atoms, NOUN 
+N, PROPN 
+atoms, NOUN 
+thiazole, NOUN 
+
+, SPACE 
+ligands, NOUN 
+trans, NOUN 
+configuration, NOUN 
+deviation, NOUN 
+
+, SPACE 
+ideal, ADJ 
+octahedral, ADJ 
+angles, NOUN 
+small, ADJ 
+Table, NOUN 
+3, NUM 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+Positional, ADJ 
+parameters, NOUN 
+SnPh2CI2(Tz)2, X 
+estimated, VERB 
+stan-, NOUN 
+
+, SPACE 
+dard, NOUN 
+deviations, NOUN 
+
+, SPACE 
+Atom, PROPN 
+x, PROPN 
+y, PROPN 
+z, NOUN 
+B(,~, PROPN 
+2, NUM 
+
+, SPACE 
+Sn, PROPN 
+0.26067(7, PROPN 
+0.13965(5, X 
+0.75150(5, X 
+3.15(1, NUM 
+
+, SPACE 
+Cll, PROPN 
+0.3771(3, PROPN 
+0.0959(2, NUM 
+0.6327(2, PROPN 
+4.10(5, NUM 
+
+, SPACE 
+C12, PROPN 
+0.1444(3, PROPN 
+0.1842(2, PROPN 
+0.8745(2, PUNCT 
+4.53(6, NUM 
+
+, SPACE 
+S11, PROPN 
+0.1073(5, PROPN 
+0.4082(3, NUM 
+0.5630(2, PROPN 
+7.13(9, NUM 
+
+, SPACE 
+$, SYM 
+21, NUM 
+0.4179(7, NUM 
+0.1734(3, NUM 
+0.8508(4, PROPN 
+11.6(2, PROPN 
+
+, SPACE 
+N11, PROPN 
+0.1783(9, PROPN 
+0.2847(6, PROPN 
+0.6808(5, PROPN 
+3.9(2, PROPN 
+
+, SPACE 
+N21, PROPN 
+0.3369(9, PROPN 
+0.0067(6, PROPN 
+0.8214(5, PROPN 
+3.6(2, PROPN 
+
+, SPACE 
+C11, PROPN 
+0.0490(9, PROPN 
+0.0804(7, PROPN 
+0.6801(6, PROPN 
+3.5(2, PROPN 
+
+, SPACE 
+C12, PROPN 
+-0.083(1, PROPN 
+0.1226(8, PROPN 
+0.6847(7, PROPN 
+4.5(2, PROPN 
+
+, SPACE 
+C13, PROPN 
+-0.220(1, PUNCT 
+0.0837(9, PROPN 
+0.6376(7, PROPN 
+5.1(3, PROPN 
+
+, SPACE 
+C14, PROPN 
+-0.223(1, PROPN 
+0.0040(9, PUNCT 
+0.5882(7, PUNCT 
+5.4(3, NUM 
+
+, SPACE 
+C, PROPN 
+15, NUM 
+0.093(1, NUM 
+0.0377(8, PROPN 
+0.5834(7, PROPN 
+4.9(3, NUM 
+
+, SPACE 
+Cl6, SYM 
+0.044(1, PROPN 
+0.0001(7, PROPN 
+0.6302(7, PROPN 
+4.2(2, NUM 
+
+, SPACE 
+C17, PROPN 
+0.175(1, NUM 
+0.3013(8, X 
+0.6007(7, PROPN 
+4.5(2, PROPN 
+
+, SPACE 
+C18, PROPN 
+0.124(1, PROPN 
+0.3628(9, PROPN 
+0.7140(7, X 
+5.5(3, NUM 
+
+, SPACE 
+C19, PROPN 
+0.079(1, PROPN 
+0.4372(7, PROPN 
+0.6582(6, PUNCT 
+5.2(3, NUM 
+
+, SPACE 
+C21, PROPN 
+0.469(1, PROPN 
+0.2013(7, PROPN 
+0.8264(6, PROPN 
+3.6(2, PROPN 
+
+, SPACE 
+C22, PROPN 
+0.604(1, PROPN 
+0.1587(8, PROPN 
+0.8283(7, X 
+4.4(2, PROPN 
+
+, SPACE 
+C23, PROPN 
+0.738(1, NUM 
+0.197(1, X 
+0.8755(7, PROPN 
+5.8(3, NUM 
+
+, SPACE 
+C24, PROPN 
+0.738(1, PROPN 
+0.279(1, PROPN 
+0.9223(8, PUNCT 
+6.1(3, PROPN 
+
+, SPACE 
+C25, PROPN 
+0.605(1, PROPN 
+0.3220(8, PROPN 
+0.9209(8, X 
+6.0(3, NUM 
+
+, SPACE 
+C26, PROPN 
+0.470(1, NUM 
+0.2836(8, NUM 
+0.8733(7, PROPN 
+4.8(3, NUM 
+
+, SPACE 
+C27, PROPN 
+0.381(2, PROPN 
+0.0799(9, PROPN 
+0.7860(7, PROPN 
+6.2(3, PROPN 
+
+, SPACE 
+C28, PROPN 
+0.342(1, PROPN 
+-0.027(1, PROPN 
+0.9039(7, PROPN 
+6.6(3, PROPN 
+
+, SPACE 
+C29, PROPN 
+0.388(1, PROPN 
+-0.1262(6, X 
+0.9353(5, PROPN 
+4.0(2, PROPN 
+CI1, PROPN 
+Sn, PROPN 
+CI2, PROPN 
+179.33(7, NUM 
+
+, SPACE 
+CI1, PROPN 
+Sn, PROPN 
+NI, PROPN 
+1, NUM 
+90.0(2, PROPN 
+
+, SPACE 
+Cll, PROPN 
+Sn, PROPN 
+N21, PROPN 
+90.5(2, NOUN 
+
+, SPACE 
+CI1, PROPN 
+Sn, PROPN 
+C11, PROPN 
+91.0(3, NOUN 
+
+, SPACE 
+CI, PROPN 
+1, NUM 
+-Sn, PROPN 
+C21, PROPN 
+91.2(3, NOUN 
+
+, SPACE 
+Ci2, ADJ 
+Sn, PROPN 
+N, PROPN 
+11, NUM 
+90.4(2, PROPN 
+
+, SPACE 
+CI2, PROPN 
+Sn, PROPN 
+N21, PROPN 
+89.1(2, PROPN 
+
+, SPACE 
+CI2, PROPN 
+Sn, PROPN 
+C, PROPN 
+11, NUM 
+89.6(3, NOUN 
+
+, SPACE 
+CI2, PROPN 
+Sn, PROPN 
+C21, PROPN 
+88.3(3, PROPN 
+
+, SPACE 
+N, PROPN 
+11, NUM 
+-Sn, NOUN 
+N21, PROPN 
+178.7(3, PROPN 
+
+, SPACE 
+N11, PROPN 
+Sn, PROPN 
+C11, PROPN 
+87.4(3, PROPN 
+
+, SPACE 
+N, PROPN 
+11, NUM 
+-Sn, PROPN 
+C21, PROPN 
+92.2(4, PROPN 
+
+, SPACE 
+N21, PROPN 
+Sn, PROPN 
+CI, PROPN 
+1, PROPN 
+91.3(3, PROPN 
+
+, SPACE 
+N21, PROPN 
+Sn, PROPN 
+C21, PROPN 
+89.1(4, PROPN 
+
+, SPACE 
+C, PROPN 
+11, NUM 
+-Sn, NOUN 
+C21, NOUN 
+177.9(4, NUM 
+
+, SPACE 
+C17-$1, PROPN 
+l, NOUN 
+C19, PROPN 
+91.6(5, PROPN 
+
+, SPACE 
+C27-$21, PROPN 
+C29, PROPN 
+98.2(7, NOUN 
+
+, SPACE 
+C17, PROPN 
+N11, PROPN 
+C18, PROPN 
+108.8(9, NUM 
+
+, SPACE 
+C27, PROPN 
+N21, PROPN 
+C28, PROPN 
+110(1, NUM 
+
+, SPACE 
+S11, PROPN 
+C17, PROPN 
+N11, PROPN 
+115.3(8, PROPN 
+
+, SPACE 
+N11, PROPN 
+C18, PROPN 
+C19, PROPN 
+116(2, NUM 
+
+, SPACE 
+$, SYM 
+11, NUM 
+C19, PROPN 
+C18, PROPN 
+108.1(9, NUM 
+
+, SPACE 
+$, SYM 
+21, NUM 
+C27, NOUN 
+N21, PROPN 
+113.4(9, NUM 
+
+, SPACE 
+N21, PROPN 
+C28, PROPN 
+C29, PROPN 
+118(2, PROPN 
+
+, SPACE 
+$, SYM 
+21, NUM 
+C29, NOUN 
+C28, PROPN 
+191.7(7, PROPN 
+
+, SPACE 
+Sn, PROPN 
+C1, PROPN 
+Sn, PROPN 
+C, PROPN 
+bond, NOUN 
+lengths, NOUN 
+similar, ADJ 
+
+, SPACE 
+octahedral, ADJ 
+dichlorodiphenyltin(IV, PROPN 
+com-, NOUN 
+
+, SPACE 
+pounds, NOUN 
+2,9, NUM 
+octahedral, ADJ 
+dichlorodiorganotin(IV, PROPN 
+
+, SPACE 
+complexes, NOUN 
+general, ADJ 
+1, NUM 
+Sn, PROPN 
+N, PROPN 
+bonds, NOUN 
+average, ADJ 
+
+, SPACE 
+2.369(8, NUM 
+.~, NOUN 
+close, ADJ 
+length, NOUN 
+
+, SPACE 
+SnR2X2L, NOUN 
+2, NUM 
+systems, NOUN 
+N, PROPN 
+coordinated, VERB 
+L, PROPN 
+1, NUM 
+
+, SPACE 
+slightly, ADV 
+longer, ADJ 
+average, ADJ 
+value, NOUN 
+2.328, NUM 
+~, PUNCT 
+
+, SPACE 
+SnPhEClE(HPz, PROPN 
+2, NUM 
+2, NUM 
+
+, SPACE 
+phenyl, NOUN 
+rings, NOUN 
+practically, ADV 
+coplanar, ADJ 
+forming, VERB 
+
+, SPACE 
+dihedral, NOUN 
+angles, NOUN 
+35.7, NUM 
+°, NOUN 
+ring, NOUN 
+1, NUM 
+38.8, NUM 
+°, NOUN 
+ring, NOUN 
+2, NUM 
+
+, SPACE 
+CI(1)C(ll)CI(2)C(21, PROPN 
+plane, NOUN 
+thiazole, NOUN 
+rings, NOUN 
+
+, SPACE 
+essentially, ADV 
+planar, ADJ 
+negligible, ADJ 
+deviation, NOUN 
+
+, SPACE 
+best, ADJ 
+squares, NOUN 
+plane, NOUN 
+undergo, VERB 
+significant, ADJ 
+
+, SPACE 
+structural, ADJ 
+modifications, NOUN 
+coordination, NOUN 
+10, NUM 
+dihe-, ADJ 
+
+, SPACE 
+dral, ADJ 
+angles, NOUN 
+rings, NOUN 
+CI(1)N(11)C1(2)N(21, PROPN 
+
+, SPACE 
+plane, NOUN 
+14.2, NUM 
+°, NOUN 
+ring, NOUN 
+1, NUM 
+16.1, NUM 
+°, NOUN 
+ring, NOUN 
+2, NUM 
+
+
+, SPACE 
+256, NUM 
+P.A., PROPN 
+Boo, PROPN 
+et, NOUN 
+al, PROPN 
+Journal, PROPN 
+Organometallic, PROPN 
+Chemistry, PROPN 
+506, NUM 
+1996, NUM 
+253, NUM 
+258, NUM 
+
+, SPACE 
+Table, PROPN 
+4, NUM 
+
+, SPACE 
+M, PROPN 
+~, PROPN 
+ssbauer, NOUN 
+effect, NOUN 
+parameters, NOUN 
+80.0, NUM 
+
+, SPACE 
+plexes, NOUN 
+K, PROPN 
+SnR2X2(Tz)2, NOUN 
+com-, NOUN 
+
+, SPACE 
+Compound, PROPN 
+3, NUM 
+EQ, PROPN 
+F, PROPN 
+F2, PROPN 
+
+, SPACE 
+mms, NOUN 
+l, NOUN 
+mms-, X 
+mms, NOUN 
+l, NOUN 
+
+, SPACE 
+SnMe2CI2(Tz, PROPN 
+2, NUM 
+1.52, NUM 
+3.75, NUM 
+0.94, NUM 
+0.94, NUM 
+
+, SPACE 
+SnMe2Br2(Tz)2, X 
+1.60, NUM 
+3.89, NUM 
+1.11, NUM 
+1.04, NUM 
+
+, SPACE 
+SnEt2C12(Tz, PROPN 
+2, NUM 
+1.70, NUM 
+3.87, NUM 
+0.92, NUM 
+1.01, NUM 
+
+, SPACE 
+SnEt, PROPN 
+2, NUM 
+Br2(Tz, PROPN 
+2, NUM 
+1.77, NUM 
+3.89, NUM 
+1.08, NUM 
+1.09, NUM 
+
+, SPACE 
+SnPh2CIE(TZ)2, PROPN 
+1.48, NUM 
+3.49, NUM 
+0.91, NUM 
+1.02, NUM 
+
+, SPACE 
+SnPh2, X 
+Br2(Tz)2, NOUN 
+1.52, NUM 
+3.50, NUM 
+0.82, NUM 
+0.94, NUM 
+
+, SPACE 
+Relative, NOUN 
+room, VERB 
+temperature, NOUN 
+SnO, PROPN 
+2, NUM 
+Table, NOUN 
+5, NUM 
+
+, SPACE 
+Significant, ADJ 
+IR, PROPN 
+bands, NOUN 
+600, NUM 
+100, NUM 
+cm-, NOUN 
+SnR2X2(Tz)2, NOUN 
+complexes, VERB 
+
+, SPACE 
+Compound, PROPN 
+u~(Sn, PROPN 
+C, NOUN 
+/-'sym(Sn, PROPN 
+C, PROPN 
+uas(Sn, PROPN 
+X, NOUN 
+
+, SPACE 
+SnMe2C12(Tz, PROPN 
+2, NUM 
+567, NUM 
+s, NOUN 
+242, NUM 
+m, PROPN 
+b, X 
+
+, SPACE 
+SnMe, PROPN 
+2, NUM 
+Br2(Tz, PROPN 
+2, NUM 
+563, NUM 
+s, NOUN 
+165, NUM 
+m, PROPN 
+b, X 
+
+, SPACE 
+SnEt2ClE(TZ, NOUN 
+2, NUM 
+530, NUM 
+s, NOUN 
+227, NUM 
+m, NOUN 
+
+, SPACE 
+SnEt2Br2(Tz)2, X 
+525, NUM 
+s, NOUN 
+171, NUM 
+m, NOUN 
+
+, SPACE 
+SnPh2Cl2(Tz, PROPN 
+2, NUM 
+288, NUM 
+s, VERB 
+245, NUM 
+s, NOUN 
+232, NUM 
+s, PART 
+
+, SPACE 
+SnPhEBr2(Tz, NOUN 
+2, NUM 
+288, NUM 
+s, NOUN 
+239, NUM 
+s, NOUN 
+172, NUM 
+m, NOUN 
+
+, SPACE 
+b, X 
+broad, ADJ 
+s, VERB 
+strong, ADJ 
+m, VERB 
+medium, ADJ 
+
+, SPACE 
+SnCl2(Tz, PROPN 
+2, NUM 
+moiety, NOUN 
+closer, ADJ 
+planar, NOUN 
+trans-, X 
+
+, SPACE 
+PtC12(Tz, PROPN 
+2, NUM 
+11, NUM 
+probably, ADV 
+owing, VERB 
+steric, ADJ 
+influence, NOUN 
+
+, SPACE 
+phenyl, NOUN 
+ring, NOUN 
+tin, NOUN 
+compound, NOUN 
+
+, SPACE 
+Comparison, PROPN 
+structure, NOUN 
+
+, SPACE 
+SnPh2C12(HPz, X 
+2, NUM 
+shows, VERB 
+opposite, ADJ 
+rings, NOUN 
+
+, SPACE 
+coplanar, NOUN 
+SnPh2C12(Tz)2, X 
+suggests, VERB 
+in-, ADP 
+
+, SPACE 
+tramolecular, ADJ 
+intermolecular, ADJ 
+hydrogen, NOUN 
+bonds, NOUN 
+
+, SPACE 
+significant, ADJ 
+structural, ADJ 
+influence, NOUN 
+present, ADJ 
+type, NOUN 
+
+, SPACE 
+complex, NOUN 
+
+, SPACE 
+3.2, NUM 
+Mi, NOUN 
+~, PROPN 
+ssbauer, PROPN 
+spectra, PROPN 
+
+, SPACE 
+Table, PROPN 
+4, NUM 
+shows, VERB 
+MSssbauer, PROPN 
+parameters, NOUN 
+
+, SPACE 
+adducts, NOUN 
+variation, NOUN 
+isomer, ADJ 
+shift, NOUN 
+typical, ADJ 
+
+, SPACE 
+organometallic, ADJ 
+tin(IV, NOUN 
+derivatives, NOUN 
+6, NUM 
+values, NOUN 
+increas-, PRON 
+
+, SPACE 
+ing, NOUN 
+going, VERB 
+phenyl, NOUN 
+complexes, NOUN 
+average, ADJ 
+value, NOUN 
+
+, SPACE 
+1.50, NUM 
+mm, PROPN 
+s, NOUN 
+-1, X 
+methyl, NOUN 
+complexes, NOUN 
+average, ADJ 
+value, NOUN 
+
+, SPACE 
+1.56, NUM 
+mm, PROPN 
+s, X 
+-1, INTJ 
+finally, ADV 
+ethyl, PROPN 
+compounds, NOUN 
+aver-, ADJ 
+age, NOUN 
+value, NOUN 
+1.74, NUM 
+mm, NUM 
+s-, NUM 
+1, NUM 
+bromide, NOUN 
+adducts, NOUN 
+
+, SPACE 
+values, NOUN 
+0.06, NUM 
+mm, PROPN 
+s-~, NOUN 
+higher, ADJ 
+chlorides, NOUN 
+
+, SPACE 
+expected, VERB 
+electronegativity, NOUN 
+grounds, NOUN 
+
+, SPACE 
+AEQ, PROPN 
+values, NOUN 
+typical, ADJ 
+trans, ADJ 
+octahedral, ADJ 
+com-, NOUN 
+
+, SPACE 
+plexes, NOUN 
+expected, VERB 
+alkyl, PROPN 
+derivatives, NOUN 
+
+, SPACE 
+higher, ADJ 
+aryl, NOUN 
+derivatives, NOUN 
+
+, SPACE 
+AEQ, PROPN 
+aryl, PROPN 
+species, NOUN 
+identical, ADJ 
+
+, SPACE 
+alkyl, PROPN 
+species, PROPN 
+suggesting, VERB 
+
+, SPACE 
+compounds, NOUN 
+structure, NOUN 
+check, VERB 
+
+, SPACE 
+conclusion, NOUN 
+bond, NOUN 
+angles, NOUN 
+obtained, VERB 
+X, NOUN 
+ray, NOUN 
+
+, SPACE 
+analysis, NOUN 
+SnPhEC1E(TZ)2, X 
+corre-, ADJ 
+
+, SPACE 
+sponding, VERB 
+experimental, ADJ 
+value, NOUN 
+AEQ, PROPN 
+calculate, VERB 
+
+, SPACE 
+p.q.s, NOUN 
+value, NOUN 
+N, PROPN 
+bonded, VERB 
+thiazole, NOUN 
+molecule, NOUN 
+accord-, X 
+
+, SPACE 
+ing, ADJ 
+point, NOUN 
+charge, NOUN 
+model, NOUN 
+value, NOUN 
+obtained, VERB 
+
+, SPACE 
+-0.20, NUM 
+mm, PROPN 
+s-1, PROPN 
+alkyl, ADJ 
+derivatives, NOUN 
+
+, SPACE 
+calculate, VERB 
+AEQ, PROPN 
+3.78, NUM 
+mm, PROPN 
+s, PROPN 
+good, ADJ 
+agreement, NOUN 
+
+, SPACE 
+experimental, ADJ 
+value, NOUN 
+average, ADJ 
+3.85, NUM 
+mm, PROPN 
+s, PROPN 
+l, NOUN 
+
+, SPACE 
+supports, VERB 
+view, NOUN 
+adducts, NOUN 
+
+, SPACE 
+similar, ADJ 
+structure, NOUN 
+
+, SPACE 
+H15, PROPN 
+S21, PROPN 
+
+, SPACE 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Perspective, NOUN 
+view, NOUN 
+SnPh2C12(Tz)2, X 
+showing, VERB 
+atom, NOUN 
+numbering, NOUN 
+scheme, NOUN 
+coordination, NOUN 
+geometry, NOUN 
+tin, NOUN 
+atom, NOUN 
+rings, NOUN 
+
+, SPACE 
+referred, VERB 
+1, NUM 
+text, NOUN 
+atom, NOUN 
+numbers, NOUN 
+beginning, VERB 
+1, NUM 
+referred, VERB 
+2, NUM 
+atom, NOUN 
+numbers, NOUN 
+beginning, VERB 
+2, NUM 
+
+
+, SPACE 
+P.A., PROPN 
+Boo, PROPN 
+et, NOUN 
+al./, ADV 
+Journal, PROPN 
+Organometallic, PROPN 
+Chemistry, PROPN 
+506, NUM 
+1996, NUM 
+253, NUM 
+258, NUM 
+257, NUM 
+
+, SPACE 
+Table, PROPN 
+6, NUM 
+
+, SPACE 
+1H, PROPN 
+NMR, PROPN 
+parameters, NOUN 
+6, NUM 
+ppm, PROPN 
+J, PROPN 
+Hz, PROPN 
+SnR2X2(Tz)2, NOUN 
+complexes, NOUN 
+CDCI, PROPN 
+3, NUM 
+
+, SPACE 
+Compound, PROPN 
+6, NUM 
+CH, PROPN 
+3, NUM 
+6, NUM 
+CH, PROPN 
+2, NUM 
+2j(119, NUM 
+Sn-, PROPN 
+1, NUM 
+H, PROPN 
+3j(ll9Sn_lH, PROPN 
+6(Ligand, NOUN 
+
+, SPACE 
+Tz, PROPN 
+
+, SPACE 
+SnMe2CI2(Tz, PROPN 
+2, NUM 
+1.22(s, PROPN 
+73.8, NUM 
+
+, SPACE 
+SnMe, PROPN 
+2, NUM 
+Br2(Tz, PROPN 
+2, NUM 
+1.39(s, PROPN 
+69.7, NUM 
+
+, SPACE 
+SnEt2CI, NOUN 
+2(Tz, PROPN 
+2, NUM 
+1.36(t, PROPN 
+1.77(q, PROPN 
+57.8, NUM 
+
+, SPACE 
+SnEt, PROPN 
+2, NUM 
+Br2(Tz, PROPN 
+2, NUM 
+1.35(t, PROPN 
+1.86(q, PROPN 
+52.5, NUM 
+
+, SPACE 
+3H(3,4,5, PROPN 
+6H(2,6, NUM 
+
+, SPACE 
+SnPh2C12(Tz)2, X 
+7.50(m, PROPN 
+7.71(m, PROPN 
+
+, SPACE 
+SnPh, PROPN 
+2, NUM 
+Br2(Tz)2, NOUN 
+7.51, NUM 
+m, PROPN 
+7.70(m, NOUN 
+145.8, NUM 
+
+, SPACE 
+145.7, NUM 
+
+, SPACE 
+83.2, NUM 
+
+, SPACE 
+76.7, NUM 
+7.41(H5,q, NUM 
+
+, SPACE 
+7.97(H4,d, NUM 
+
+, SPACE 
+8.87(H2,d, NUM 
+
+, SPACE 
+7.46(H5,s, NUM 
+b, X 
+
+, SPACE 
+7.99(H4,s, PROPN 
+b, X 
+
+, SPACE 
+8.95(H2,s, PROPN 
+b, X 
+
+, SPACE 
+7.44(H5,q, PROPN 
+
+, SPACE 
+8.00(n4,d, NUM 
+
+, SPACE 
+8.93(H2,d, NUM 
+
+, SPACE 
+7.47(H5,q, NUM 
+
+, SPACE 
+8.03(H4,d, PROPN 
+
+, SPACE 
+9.02(H2,d, NUM 
+
+, SPACE 
+7.44(n5,q, NUM 
+
+, SPACE 
+8.03(n4,d, NUM 
+
+, SPACE 
+8.98(H2,d, NUM 
+
+, SPACE 
+7.42(H5,q, NUM 
+
+, SPACE 
+7.93(H4,d, NUM 
+
+, SPACE 
+8.87(H2,s, PROPN 
+b, PROPN 
+
+, SPACE 
+7.41(H5,q, NUM 
+
+, SPACE 
+7.94(H4,d, NUM 
+
+, SPACE 
+8.86(H2,d, PROPN 
+
+, SPACE 
+Numbering, PROPN 
+scheme, NOUN 
+H, NOUN 
+
+, SPACE 
+3.3, NUM 
+Vibrational, ADJ 
+spectra, NOUN 
+
+, SPACE 
+shifts, NOUN 
+thiazole, NOUN 
+bands, NOUN 
+12, NUM 
+coordination, NOUN 
+
+, SPACE 
+similar, ADJ 
+found, VERB 
+complexes, NOUN 
+
+, SPACE 
+N, PROPN 
+bonded, VERB 
+ligands, NOUN 
+13, NUM 
+Significant, ADJ 
+IR, PROPN 
+bands, NOUN 
+
+, SPACE 
+SnR2X, NOUN 
+2, NUM 
+fragment, NOUN 
+600, NUM 
+100, NUM 
+cm, NOUN 
+-1, PROPN 
+listed, VERB 
+Table, PROPN 
+
+, SPACE 
+5, NUM 
+positions, NOUN 
+intensities, NOUN 
+high, ADJ 
+intensity, NOUN 
+
+, SPACE 
+band, NOUN 
+identified, VERB 
+Vsym(Sn, NOUN 
+C, PROPN 
+phenyl, NOUN 
+deriva-, VERB 
+
+, SPACE 
+tives, NOUN 
+probably, ADV 
+contribution, NOUN 
+ligand, NOUN 
+
+, SPACE 
+vibration, NOUN 
+similar, ADJ 
+found, VERB 
+systems, NOUN 
+
+, SPACE 
+trans, NOUN 
+octahedral, ADJ 
+SnR2X2L, NOUN 
+2, NUM 
+stereochem-, NOUN 
+istry, NOUN 
+confirmed, VERB 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+studies, NOUN 
+1, NUM 
+
+, SPACE 
+2, NUM 
+9, NUM 
+references, NOUN 
+14, NUM 
+
+, SPACE 
+3.4, X 
+Characteristics, NOUN 
+solution, NOUN 
+
+, SPACE 
+molar, ADJ 
+conductivities, NOUN 
+10, NUM 
+-3, NOUN 
+M, NOUN 
+solutions, NOUN 
+
+, SPACE 
+complexes, NOUN 
+MeCN, PROPN 
+non, ADJ 
+ionogenic, ADJ 
+
+, SPACE 
+solvent, NOUN 
+15, NUM 
+
+, SPACE 
+Tables, PROPN 
+6, NUM 
+7, NUM 
+list, NOUN 
+salient, NOUN 
+results, NOUN 
+tH, X 
+13C, NUM 
+
+, SPACE 
+NMR, PROPN 
+studies, NOUN 
+CDC13, PROPN 
+slight, ADJ 
+differences, NOUN 
+
+, SPACE 
+Tz, PROPN 
+signals, NOUN 
+free, ADJ 
+ligand, NOUN 
+complexes, NOUN 
+
+, SPACE 
+Table, PROPN 
+7, NUM 
+
+, SPACE 
+13C, NUM 
+NMR, PROPN 
+parameters, NOUN 
+6, NUM 
+ppm, PROPN 
+J, PROPN 
+Hz, PROPN 
+SnR2X2(Tz, X 
+2, NUM 
+complexes, NOUN 
+CDC, PROPN 
+3, NUM 
+
+, SPACE 
+Compound, PROPN 
+6(CH, PROPN 
+3, NUM 
+8(CH, NUM 
+2, NUM 
+6(Ph, PROPN 
+nj(ll9Sn-13C, PROPN 
+
+, SPACE 
+n, CCONJ 
+=, NOUN 
+l, PROPN 
+n=2, NOUN 
+n=3, PROPN 
+n=4, PROPN 
+6(Ligand, PROPN 
+
+, SPACE 
+Tz, PROPN 
+
+, SPACE 
+SnMe2C12(Tz)2, X 
+12.3, NUM 
+646.9, NUM 
+
+, SPACE 
+SnMe, PROPN 
+2, NUM 
+Br2(Tz, PROPN 
+2, NUM 
+9.6, NUM 
+500.2, NUM 
+
+, SPACE 
+SnEt2Cl2(Tz, PROPN 
+2, NUM 
+9.7, NUM 
+21.3, NUM 
+525.8, NUM 
+
+, SPACE 
+SnEt2Br2(Tz)2, NOUN 
+10.7, NUM 
+25.5, NUM 
+570.5, NUM 
+44.7, NUM 
+
+, SPACE 
+SnPh2Cl2(Tz)2, X 
+139.5(Ci, PROPN 
+63.7, NUM 
+
+, SPACE 
+135.3(Co, PROPN 
+
+, SPACE 
+131.5(Cp, PROPN 
+
+, SPACE 
+129.7(Cm, PROPN 
+
+, SPACE 
+SnPh2, X 
+BrE(TZ)2, PROPN 
+138.0(Ci, NUM 
+
+, SPACE 
+135.2(Co, PROPN 
+
+, SPACE 
+131.7(Cp, PROPN 
+
+, SPACE 
+129.7(Cm, PROPN 
+18.1, NUM 
+
+, SPACE 
+90.5, NUM 
+
+, SPACE 
+118.9(C5, NOUN 
+143.4(C4, NUM 
+152.9(C2, PROPN 
+
+, SPACE 
+120.0(C5, PROPN 
+142.8(C4, NUM 
+154.2(C2, PROPN 
+
+, SPACE 
+119.1, NUM 
+C5, PROPN 
+143.3(C4, PROPN 
+153.3(C2, PROPN 
+
+, SPACE 
+119.4(C5),143.3(C4),153.7(C2, PROPN 
+
+, SPACE 
+119.6(C5, PROPN 
+143.3(C4, PROPN 
+154.4(C2, PROPN 
+
+, SPACE 
+119.3(C5, PROPN 
+143.5(C4, PROPN 
+153.7(C2, PROPN 
+
+, SPACE 
+119.0(C5, PROPN 
+143.6(C4, PROPN 
+153.4(C2, PROPN 
+
+, SPACE 
+observed, VERB 
+
+
+, SPACE 
+258, NUM 
+P.A., PROPN 
+Boo, PROPN 
+et, NOUN 
+al./, ADV 
+Journal, PROPN 
+Organometallic, PROPN 
+Chemistry, PROPN 
+506, NUM 
+1996, NUM 
+253, NUM 
+258, NUM 
+
+, SPACE 
+suggest, VERB 
+donor, NOUN 
+acceptor, NOUN 
+interaction, NOUN 
+
+, SPACE 
+SnR2X, PROPN 
+2, NUM 
+thiazole, NOUN 
+partially, ADV 
+persists, VERB 
+solution, NOUN 
+
+, SPACE 
+2J(Sn, PROPN 
+H, PROPN 
+values, NOUN 
+methyl, NOUN 
+deriva-, VERB 
+
+, SPACE 
+tives, NOUN 
+slightly, ADV 
+greater, ADJ 
+free, ADJ 
+
+, SPACE 
+acceptors, NOUN 
+solvent, NOUN 
+66.82/69.82, NUM 
+SnMe2C12, PROPN 
+
+, SPACE 
+65.70/68.92, NUM 
+SnMe2Br, PROPN 
+2, NUM 
+16, NUM 
+suggesting, VERB 
+
+, SPACE 
+extensive, ADJ 
+dissociation, NOUN 
+thiazole, NOUN 
+ligand, NOUN 
+occurs, VERB 
+
+, SPACE 
+SnMe2X2(HPz, PROPN 
+2, NUM 
+found, VERB 
+la, X 
+dissociative, ADJ 
+
+, SPACE 
+process, NOUN 
+SnMe2X2(HPz)2, X 
+~, PUNCT 
+SnMe2X2(HPz, PROPN 
++, CCONJ 
+HPz, PROPN 
+
+, SPACE 
+led, VERB 
+pentacoordinated, VERB 
+SnMe2X2(HPz, PROPN 
+species, NOUN 
+
+, SPACE 
+predominating, VERB 
+solution, NOUN 
+lower, ADJ 
+2j(Sn, PROPN 
+H, PROPN 
+values, NOUN 
+
+, SPACE 
+obtained, VERB 
+Tz, PROPN 
+compounds, NOUN 
+suggest, VERB 
+17, NUM 
+
+, SPACE 
+SnMe, PROPN 
+2, NUM 
+X2(Tz, PROPN 
+2, NUM 
+SnMe, PROPN 
+2, NUM 
+X2(Tz, PROPN 
+undergo, VERB 
+dissocia-, NOUN 
+
+, SPACE 
+tion, NOUN 
+increasing, VERB 
+concentration, NOUN 
+free, ADJ 
+SnMe2X, NOUN 
+2, NUM 
+
+, SPACE 
+solution, NOUN 
+conclusion, NOUN 
+supported, VERB 
+
+, SPACE 
+values, NOUN 
+lj(ll9Sn-13C, NOUN 
+coupling, VERB 
+constants, NOUN 
+18, NUM 
+
+, SPACE 
+Similar, ADJ 
+behaviour, NOUN 
+exhibited, VERB 
+ethyl, PROPN 
+deriva-, ADJ 
+
+, SPACE 
+tives, NOUN 
+J(Sn, NOUN 
+H, PROPN 
+coupling, NOUN 
+constants, NOUN 
+
+, SPACE 
+slightly, ADV 
+greater, ADJ 
+free, ADJ 
+acceptors, NOUN 
+16, NUM 
+
+, SPACE 
+suggesting, VERB 
+dissociation, NOUN 
+extensive, ADJ 
+
+, SPACE 
+analogous, ADJ 
+pyrazole, NOUN 
+complexes, NOUN 
+lb, X 
+
+, SPACE 
+confirmed, VERB 
+values, NOUN 
+lJ(119Sn-13C, NOUN 
+coupling, VERB 
+
+, SPACE 
+constants, NOUN 
+19, NUM 
+
+, SPACE 
+l, NOUN 
+H, PROPN 
+NMR, PROPN 
+spectra, NOUN 
+phenyl, NOUN 
+derivatives, NOUN 
+
+, SPACE 
+multiplets, NOUN 
+attributable, ADJ 
+H(2, NUM 
+6, NUM 
+H(3, PUNCT 
+4, NUM 
+5, NUM 
+
+, SPACE 
+protons, NOUN 
+Comparison, NOUN 
+positions, NOUN 
+signals, NOUN 
+
+, SPACE 
+SnPh2C12(Tz, PROPN 
+2, NUM 
+SnPh2CI, PROPN 
+2, NUM 
+20, NUM 
+shows, VERB 
+
+, SPACE 
+slight, ADJ 
+shielding, NOUN 
+H(2, NUM 
+6, NUM 
+coordination, NOUN 
+
+, SPACE 
+analogous, ADJ 
+complex, NOUN 
+N, PROPN 
+donor, NOUN 
+ligand, NOUN 
+
+, SPACE 
+bipyrimidine, NOUN 
+20, NUM 
+dichlorodiphenyltin(IV, PROPN 
+
+, SPACE 
+complexes, NOUN 
+9,20,21, NUM 
+resonance, NOUN 
+ipso, ADJ 
+carbon, NOUN 
+
+, SPACE 
+phenyl, NOUN 
+groups, NOUN 
+shifts, NOUN 
+higher, ADJ 
+frequencies, NOUN 
+
+, SPACE 
+coordination, NOUN 
+small, ADJ 
+magnitude, NOUN 
+shift, NOUN 
+1.2, NUM 
+
+, SPACE 
+ppm, PROPN 
+suggestive, ADJ 
+21, NUM 
+extensive, ADJ 
+dissociation, NOUN 
+
+, SPACE 
+conclusion, NOUN 
+chloroform, NOUN 
+solution, VERB 
+dialkyl-, ADJ 
+
+, SPACE 
+diaryltin(IV, PROPN 
+complexes, NOUN 
+thiazole, NOUN 
+prepared, VERB 
+
+, SPACE 
+work, NOUN 
+lose, VERB 
+coordination, NOUN 
+observed, VERB 
+solid, ADJ 
+
+, SPACE 
+state, NOUN 
+an,~, X 
+pentacoordinated, VERB 
+species, NOUN 
+SnR2X2(Tz, X 
+
+, SPACE 
+imtially, ADV 
+formed, VERB 
+undergo, VERB 
+extensive, ADJ 
+dissocia-, NOUN 
+
+, SPACE 
+tion, NOUN 
+presence, NOUN 
+set, NOUN 
+signals, NOUN 
+
+, SPACE 
+Tz, PROPN 
+ligand, NOUN 
+lH, PROPN 
+~3C, PROPN 
+NMR, PROPN 
+spectra, NOUN 
+
+, SPACE 
+shows, VERB 
+free, ADJ 
+coordinated, ADJ 
+ligand, NOUN 
+involved, VERB 
+
+, SPACE 
+fast, ADJ 
+interchange, NOUN 
+
+, SPACE 
+Acknowledgements, NOUN 
+
+, SPACE 
+thank, VERB 
+Xunta, PROPN 
+de, PROPN 
+Galicia, PROPN 
+XUGA, PROPN 
+20314, NUM 
+B91, PROPN 
+
+, SPACE 
+financial, ADJ 
+support, NOUN 
+work, NOUN 
+References, NOUN 
+
+, SPACE 
+1, NUM 
+B., PROPN 
+Alberte, PROPN 
+A., NOUN 
+Sanchez, PROPN 
+Gonz, PROPN 
+~, PUNCT 
+ilez, PROPN 
+E., PROPN 
+Garcfa, PROPN 
+J.S., PROPN 
+Casas, PROPN 
+J., PROPN 
+
+, SPACE 
+Sordo, PROPN 
+E.E., PROPN 
+Castellano, PROPN 
+J., PROPN 
+Organomet, PROPN 
+Chem, PROPN 
+338, NUM 
+1988, NUM 
+
+, SPACE 
+187, NUM 
+
+, SPACE 
+b, PROPN 
+A., PROPN 
+Sfinchez, PROPN 
+Gonzfilez, PROPN 
+B., PROPN 
+Alberte, PROPN 
+J.S., PROPN 
+Casas, PROPN 
+J., PROPN 
+Sordo, PROPN 
+A., PROPN 
+
+, SPACE 
+Castifieiras, PROPN 
+W., PROPN 
+Hiller, PROPN 
+J., PROPN 
+Str, PROPN 
+~, PROPN 
+ihle, PROPN 
+J., PROPN 
+Organomet, PROPN 
+Chem, PROPN 
+353, NUM 
+
+, SPACE 
+1988, NUM 
+169, NUM 
+
+, SPACE 
+c, PROPN 
+E., PROPN 
+Garcla, PROPN 
+Martlnez, PROPN 
+A., NOUN 
+SAnchez, PROPN 
+Gonzfilez, PROPN 
+A., PROPN 
+Macfas, PROPN 
+M.V., PROPN 
+
+, SPACE 
+Castafio, PROPN 
+J.S., PROPN 
+Casas, PROPN 
+J., PROPN 
+Sordo, PROPN 
+J., PROPN 
+Organomet, PROPN 
+Chem, PROPN 
+385, NUM 
+
+, SPACE 
+1990, NUM 
+329, NUM 
+
+, SPACE 
+d, X 
+A., PROPN 
+Sfinchez, PROPN 
+Gonzfilez, PROPN 
+J.S., PROPN 
+Casas, PROPN 
+J., PROPN 
+Sordo, PROPN 
+G., PROPN 
+Valle, PROPN 
+J., PROPN 
+
+, SPACE 
+Organomet, PROPN 
+Chem, PROPN 
+435, NUM 
+1992, NUM 
+29, NUM 
+
+, SPACE 
+2, X 
+J.J., PROPN 
+Garcla, PROPN 
+Barros, PROPN 
+E.E., PROPN 
+Casteilano, PROPN 
+J., PROPN 
+Zukerman, PROPN 
+Schpector, PROPN 
+A., NOUN 
+
+, SPACE 
+SAnchez, PROPN 
+Gonz, PROPN 
+~, PUNCT 
+ilez, PROPN 
+J.S., PROPN 
+Casas, PROPN 
+J., PROPN 
+Sordo, PROPN 
+Latin, ADJ 
+American, PROPN 
+
+, SPACE 
+Inorganic, PROPN 
+Chemistry, PROPN 
+Meet, PROPN 
+Santiago, PROPN 
+de, PROPN 
+Compostela, PROPN 
+1993, NUM 
+
+, SPACE 
+Abstracts, NOUN 
+p., NOUN 
+224, NUM 
+
+, SPACE 
+3, X 
+B.A., PROPN 
+Frenz, PROPN 
+Associates, PROPN 
+Inc., PROPN 
+Structure, NOUN 
+Determination, PROPN 
+Pack-, PROPN 
+
+, SPACE 
+age, NOUN 
+SDP, PROPN 
+VAX, PROPN 
+V., PROPN 
+2.2, NUM 
+College, PROPN 
+Station, PROPN 
+TX, PROPN 
+Enraf, PROPN 
+Nonius, PROPN 
+
+, SPACE 
+Delft, PROPN 
+1985, NUM 
+
+, SPACE 
+4, X 
+N., PROPN 
+Walker, PROPN 
+D., PROPN 
+Stuart, PROPN 
+Acta, PROPN 
+Crystallogr, PROPN 
+39, NUM 
+1983, NUM 
+158, NUM 
+
+, SPACE 
+5, X 
+G.M., PROPN 
+Sheldrick, PROPN 
+SHELX, PROPN 
+86, NUM 
+Program, PROPN 
+solution, NOUN 
+crystal, NOUN 
+
+, SPACE 
+structures, NOUN 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+data, NOUN 
+University, PROPN 
+GiSttingen, PROPN 
+
+, SPACE 
+1986, NUM 
+
+, SPACE 
+6, NUM 
+W.H., PROPN 
+Zachariasen, PROPN 
+Acta, PROPN 
+Crystallogr, PROPN 
+16, NUM 
+1963, NUM 
+1139, NUM 
+
+, SPACE 
+7, X 
+International, PROPN 
+Tables, PROPN 
+X, NOUN 
+ray, NOUN 
+Crystallography, PROPN 
+Vol, PROPN 
+IV, PROPN 
+Kynoch, PROPN 
+
+, SPACE 
+Press, PROPN 
+Birmingham, PROPN 
+1974, NUM 
+Present, ADJ 
+distributor, NOUN 
+Kluwer, PROPN 
+Dor-, PROPN 
+
+, SPACE 
+drecht, NOUN 
+
+, SPACE 
+8, X 
+E., PROPN 
+Keller, PROPN 
+SCHAKAL, PROPN 
+Program, PROPN 
+plotting, VERB 
+molecular, ADJ 
+
+, SPACE 
+crystal, NOUN 
+structures, NOUN 
+University, PROPN 
+Freiburg, PROPN 
+1988, NUM 
+
+, SPACE 
+9, X 
+E., PROPN 
+Garcla, PROPN 
+Martlnez, PROPN 
+A., NOUN 
+S, PROPN 
+~, NOUN 
+nchez, PROPN 
+Gonz, PROPN 
+~, PROPN 
+ilez, PROPN 
+J.S., PROPN 
+Casas, PROPN 
+J., PROPN 
+Sordo, PROPN 
+
+, SPACE 
+U., PROPN 
+Casellato, PROPN 
+R., PROPN 
+Graziani, PROPN 
+U., PROPN 
+Russo, PROPN 
+J., PROPN 
+Organomet, PROPN 
+Chem, PROPN 
+
+, SPACE 
+463, NUM 
+1993, NUM 
+91, NUM 
+
+, SPACE 
+10, NUM 
+N., PROPN 
+Nygaard, PROPN 
+E., PROPN 
+Asmussen, PROPN 
+J.H., PROPN 
+Hog, PROPN 
+R.C., PROPN 
+Maheshwari, PROPN 
+C.H., PROPN 
+
+, SPACE 
+Nielsen, PROPN 
+I.B., PROPN 
+Petersen, PROPN 
+J., PROPN 
+Rastrup, PROPN 
+Andersen, PROPN 
+C.O., PROPN 
+Soerensen, PROPN 
+
+, SPACE 
+J., PROPN 
+Mol, PROPN 
+Struct, PROPN 
+9, NUM 
+1971, NUM 
+222, NUM 
+
+, SPACE 
+11, NUM 
+M., PROPN 
+Van, PROPN 
+Bensichem, PROPN 
+N., PROPN 
+Farrell, PROPN 
+Inorg, PROPN 
+Chem, PROPN 
+31, NUM 
+1992, NUM 
+
+, SPACE 
+634, NUM 
+
+, SPACE 
+12, NUM 
+G., PROPN 
+Davidovics, PROPN 
+Ch, PROPN 
+Garrigou, PROPN 
+Lagrange, PROPN 
+J., PROPN 
+Chouteau, PROPN 
+J., PROPN 
+
+, SPACE 
+Metzger, PROPN 
+Spectrochim, PROPN 
+Acta, PROPN 
+23, NUM 
+1967, NUM 
+1477, NUM 
+
+, SPACE 
+b, PROPN 
+G., PROPN 
+Sbrana, PROPN 
+E., PROPN 
+Castellucci, PROPN 
+M., PROPN 
+Ginanneschi, PROPN 
+Spectrochim, PROPN 
+
+, SPACE 
+Acta, PROPN 
+23, NUM 
+1967, NUM 
+751, NUM 
+
+, SPACE 
+13, NUM 
+W.J., PROPN 
+Eilbeck, PROPN 
+F., PROPN 
+Holmes, PROPN 
+A.E., PROPN 
+UnderhiU, PROPN 
+J., PROPN 
+Chem, PROPN 
+Soc, NOUN 
+
+, SPACE 
+1967, NUM 
+757, PROPN 
+
+, SPACE 
+14, NUM 
+E., PROPN 
+Garcla, PROPN 
+Martlnez, PROPN 
+A., PROPN 
+Sfmchez, PROPN 
+Gonzfilez, PROPN 
+J.S., PROPN 
+Casas, PROPN 
+J., PROPN 
+Sordo, PROPN 
+
+, SPACE 
+G., PROPN 
+Valle, PROPN 
+U., PROPN 
+Russo, PROPN 
+J., PROPN 
+Organomet, PROPN 
+Chem, PROPN 
+453, NUM 
+1993, NUM 
+47, NUM 
+
+, SPACE 
+15, NUM 
+W.J., PROPN 
+Geary, PROPN 
+Coord, PROPN 
+Chem, PROPN 
+Rev., PROPN 
+7, NUM 
+1971, NUM 
+81, NUM 
+
+, SPACE 
+16, NUM 
+G., PROPN 
+Barbieri, PROPN 
+F., PROPN 
+Taddei, PROPN 
+J., PROPN 
+Chem, PROPN 
+Soc, PROPN 
+Perkin, PROPN 
+Trans, PROPN 
+II, PROPN 
+
+, SPACE 
+1972, NUM 
+1327, NUM 
+
+, SPACE 
+17, NUM 
+T.P., PROPN 
+Lockart, PROPN 
+W.F., PROPN 
+Manders, PROPN 
+Inorg, PROPN 
+Chem, PROPN 
+25, NUM 
+1986, NUM 
+892, NUM 
+
+, SPACE 
+18, X 
+T.P., PROPN 
+Lockart, PROPN 
+W.F., PROPN 
+Manders, PROPN 
+J.J., PROPN 
+Zuckerman, PROPN 
+J., PROPN 
+Chem, NOUN 
+
+, SPACE 
+Soc, PROPN 
+107, NUM 
+1985, NUM 
+4546, NUM 
+
+, SPACE 
+19, NUM 
+W.F., PROPN 
+Howard, PROPN 
+Jr., PROPN 
+R.W., PROPN 
+Crecely, PROPN 
+W.H., PROPN 
+Nelson, PROPN 
+lnorg, PROPN 
+
+, SPACE 
+Chem, PROPN 
+24, NUM 
+1985, NUM 
+2204, NUM 
+
+, SPACE 
+20, NUM 
+F., PROPN 
+Caruso, PROPN 
+M., PROPN 
+Giomini, PROPN 
+A.M., PROPN 
+Giuliani, PROPN 
+E., PROPN 
+Rivarola, PROPN 
+J., PROPN 
+
+, SPACE 
+Organomet, PROPN 
+Chem, PROPN 
+466, NUM 
+1994, NUM 
+69, NUM 
+
+, SPACE 
+21, NUM 
+T.A.K., PROPN 
+AI, PROPN 
+Allaf, PROPN 
+M.A.M., PROPN 
+AI, PROPN 
+Tavy, PROPN 
+J., PROPN 
+Organomet, PROPN 
+Chem, PROPN 
+
+, SPACE 
+391, NUM 
+1990, NUM 
+37, NUM 
+
+
+, SPACE 

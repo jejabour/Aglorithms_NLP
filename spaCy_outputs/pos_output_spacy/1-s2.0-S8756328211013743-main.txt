@@ -1,0 +1,5665 @@
+Original, ADJ 
+Length, PROPN 
+Article, NOUN 
+
+, SPACE 
+Elevated, VERB 
+cross, NOUN 
+talk, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+cartilage, NOUN 
+osteoarthritic, ADJ 
+joints, NOUN 
+
+, SPACE 
+Jun, PROPN 
+Pana, PROPN 
+b,⁎⁎, PROPN 
+Bin, PROPN 
+Wanga, PROPN 
+b, PROPN 
+Wen, PROPN 
+Lib, PROPN 
+Xiaozhou, PROPN 
+Zhoub, PROPN 
+Thomas, PROPN 
+Scherrb, PROPN 
+Yunyi, PROPN 
+Yangb, PROPN 
+
+, SPACE 
+Christopher, PROPN 
+Priceb, PROPN 
+Liyun, PROPN 
+Wangb,⁎, PROPN 
+
+, SPACE 
+aKey, PROPN 
+Laboratory, PROPN 
+Biorheological, PROPN 
+Science, PROPN 
+Technology, PROPN 
+Ministry, PROPN 
+Education, PROPN 
+Bioengineering, PROPN 
+College, PROPN 
+Chongqing, PROPN 
+University, PROPN 
+Chongqing, PROPN 
+4000, NUM 
+44, NUM 
+PR, PROPN 
+China, PROPN 
+
+, SPACE 
+bCenter, PROPN 
+Biomedical, PROPN 
+Engineering, PROPN 
+Research, PROPN 
+Department, PROPN 
+Mechanical, PROPN 
+Engineering, PROPN 
+University, PROPN 
+Delaware, PROPN 
+Newark, PROPN 
+DE, PROPN 
+19716, NUM 
+USA, PROPN 
+
+, SPACE 
+abstract, ADJ 
+article, NOUN 
+info, NOUN 
+
+, SPACE 
+Article, NOUN 
+history, NOUN 
+
+, SPACE 
+Received, VERB 
+9, NUM 
+September, PROPN 
+2011, NUM 
+
+, SPACE 
+Revised, VERB 
+20, NUM 
+November, PROPN 
+2011Accepted, NUM 
+29, NUM 
+November, PROPN 
+2011Available, NUM 
+online, ADJ 
+16, NUM 
+December, PROPN 
+2011, NUM 
+
+, SPACE 
+Keyword, PROPN 
+Calciﬁed, PROPN 
+cartilage, NOUN 
+
+, SPACE 
+Osteochondral, PROPN 
+interface, NOUN 
+
+, SPACE 
+Permeability, PROPN 
+
+, SPACE 
+AgeingDestabilized, PROPN 
+medial, ADJ 
+meniscusOsteoarthritis, PROPN 
+OA, PROPN 
+degenerative, ADJ 
+joint, ADJ 
+disease, NOUN 
+leading, VERB 
+causes, NOUN 
+disability, NOUN 
+United, PROPN 
+
+, SPACE 
+States, PROPN 
+world, NOUN 
+disease, NOUN 
+joint, NOUN 
+OA, PROPN 
+exhibits, VERB 
+complicated, ADJ 
+etiology, NOUN 
+risk, NOUN 
+fac-, ADJ 
+
+, SPACE 
+tors, NOUN 
+including, VERB 
+limited, VERB 
+ageing, NOUN 
+altered, VERB 
+joint, ADJ 
+loading, NOUN 
+injury, NOUN 
+Subchondral, ADJ 
+bone, NOUN 
+hypothesized, VERB 
+
+, SPACE 
+involved, VERB 
+OA, PROPN 
+development, NOUN 
+direct, ADJ 
+evidence, NOUN 
+supporting, VERB 
+lacking, VERB 
+previouslydetected, VERB 
+measurable, ADJ 
+transport, NOUN 
+solute, NOUN 
+mineralized, ADJ 
+calci, NOUN 
+ﬁed, NOUN 
+cartilage, NOUN 
+normal, ADJ 
+joints, NOUN 
+suggesting, VERB 
+
+, SPACE 
+potential, ADJ 
+cross, NOUN 
+talk, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+cartilage, NOUN 
+cross, ADJ 
+talk, ADJ 
+exists, NOUN 
+OA, PROPN 
+
+, SPACE 
+established, VERB 
+models, NOUN 
+induced, VERB 
+OA, NOUN 
+ageing, NOUN 
+surgery, NOUN 
+destabilization, NOUN 
+dial, NOUN 
+meniscus, NOUN 
+DMM, PROPN 
+tested, VERB 
+hypothesis, NOUN 
+increased, VERB 
+cross, ADJ 
+talk, ADJ 
+occurs, NOUN 
+OA, PROPN 
+quanti, PROPN 
+ﬁed, PROPN 
+dif-, NUM 
+
+, SPACE 
+fusivity, NOUN 
+sodium, PROPN 
+ﬂuorescein, PROPN 
+mol, PROPN 
+wt, PROPN 
+376, NUM 
+Da, PROPN 
+marker, NOUN 
+small, ADJ 
+sized, ADJ 
+signaling, ADJ 
+molecules, NOUN 
+calci, PROPN 
+ﬁed, PROPN 
+
+, SPACE 
+joint, ADJ 
+matrix, NOUN 
+newly, ADV 
+developed, VERB 
+ﬂuorescence, NOUN 
+loss, NOUN 
+induced, VERB 
+photobleaching, VERB 
+FLIP, PROPN 
+method, NOUN 
+Tracer, NOUN 
+
+, SPACE 
+diffusivity, NOUN 
+found, VERB 
+0.30±0.17, PROPN 
+0.33±0.20, PROPN 
+μm, NUM 
+
+, SPACE 
+2, NUM 
+s, PROPN 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+0.12±0.04, PROPN 
+
+, SPACE 
+0.07±0.03, PROPN 
+μm2, NOUN 
+s, PROPN 
+osteochondral, ADJ 
+interface, NOUN 
+aged, ADJ 
+20, NUM 
+24, NUM 
+month, NOUN 
+old, ADJ 
+n=4, PROPN 
+DMM, PROPN 
+
+, SPACE 
+OA, PROPN 
+joints, NOUN 
+5, NUM 
+month, NOUN 
+old, ADJ 
+n=5, PROPN 
+respectively, ADV 
+comparable, ADJ 
+control, NOUN 
+values, NOUN 
+contralat-, ADJ 
+
+, SPACE 
+eral, ADJ 
+non, ADJ 
+operated, VERB 
+joints, NOUN 
+DMM, PROPN 
+mice, NOUN 
+0.48±0.13, PROPN 
+0.12±0.06, PROPN 
+μm2, PROPN 
+s, PROPN 
+detect, VERB 
+
+, SPACE 
+signiﬁcant, ADJ 
+changes, NOUN 
+tissue, NOUN 
+matrix, NOUN 
+permeability, NOUN 
+OA, PROPN 
+joints, NOUN 
+found, VERB 
+increased, VERB 
+number, NOUN 
+vessels, NOUN 
+in-, ADP 
+
+, SPACE 
+vading, VERB 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+approaching, VERB 
+tidemark, NOUN 
+aged, ADJ 
++100, NOUN 
+DMM, PROPN 
+
+, SPACE 
++50, PROPN 
+joints, NOUN 
+relative, ADJ 
+normal, ADJ 
+age, NOUN 
+controls, NOUN 
+ii, PROPN 
+60, NUM 
+thinning, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+calci-ﬁed, ADJ 
+cartilage, NOUN 
+layers, NOUN 
+aged, ADJ 
+joints, NOUN 
+signi, NOUN 
+ﬁcant, NOUN 
+changes, NOUN 
+detected, VERB 
+DMM, PROPN 
+joints, NOUN 
+results, NOUN 
+
+, SPACE 
+suggested, VERB 
+capacity, NOUN 
+cross, NOUN 
+talk, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+articular, ADJ 
+cartilage, NOUN 
+elevated, VERB 
+
+, SPACE 
+OA, PROPN 
+studies, NOUN 
+needed, VERB 
+identify, VERB 
+direction, NOUN 
+cross, NOUN 
+talk, VERB 
+signaling, VERB 
+molecules, NOUN 
+involved, VERB 
+
+, SPACE 
+test, VERB 
+subchondral, ADJ 
+bone, NOUN 
+initiates, NOUN 
+OA, PROPN 
+development, NOUN 
+serve, VERB 
+pharmaceutical, ADJ 
+targetfor, NOUN 
+OA, PROPN 
+treatment, NOUN 
+
+, SPACE 
+article, NOUN 
+Special, PROPN 
+Issue, PROPN 
+entitled, VERB 
+Osteoarthritis, PROPN 
+
+, SPACE 
+©, ADJ 
+2011, NUM 
+Elsevier, PROPN 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+Introduction, PROPN 
+
+, SPACE 
+Osteoarthritis, PROPN 
+OA, PROPN 
+leading, VERB 
+causes, NOUN 
+chronic, ADJ 
+disability, NOUN 
+
+, SPACE 
+United, PROPN 
+States, PROPN 
+world, NOUN 
+1, NUM 
+degenerative, ADJ 
+joint, ADJ 
+
+, SPACE 
+disease, NOUN 
+characterized, VERB 
+loss, NOUN 
+articular, ADJ 
+cartilage, NOUN 
+abnormal, ADJ 
+
+, SPACE 
+changes, NOUN 
+surrounding, VERB 
+soft, ADJ 
+hard, ADJ 
+tissues, NOUN 
+joint, ADJ 
+includ-, ADJ 
+
+, SPACE 
+ing, ADJ 
+bone, NOUN 
+Currently, ADV 
+effective, ADJ 
+treatment, NOUN 
+available, ADJ 
+cure, VERB 
+OA, PROPN 
+
+, SPACE 
+complex, ADJ 
+etiology, NOUN 
+lack, NOUN 
+effective, ADJ 
+pharmaceutical, ADJ 
+targets, NOUN 
+
+, SPACE 
+1, NUM 
+risk, NOUN 
+factors, NOUN 
+genetics, NOUN 
+age, NOUN 
+obesity, NOUN 
+al-, NOUN 
+
+, SPACE 
+tered, VERB 
+joint, ADJ 
+loading, NOUN 
+identi, NOUN 
+ﬁed, PROPN 
+OA, PROPN 
+patients, NOUN 
+1, X 
+themechanisms, NOUN 
+initiation, NOUN 
+progression, NOUN 
+OA, PROPN 
+un-, ADJ 
+
+, SPACE 
+derstood, NOUN 
+growing, VERB 
+consensus, NOUN 
+OA, PROPN 
+joint, NOUN 
+dis-, ADJ 
+
+, SPACE 
+ease, NOUN 
+2,3, NUM 
+particular, ADJ 
+increased, VERB 
+turnover, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+
+, SPACE 
+OA, PROPN 
+patients, NOUN 
+animal, NOUN 
+models, NOUN 
+4,5, NUM 
+led, VERB 
+hypothesis, NOUN 
+
+, SPACE 
+cytokines, NOUN 
+growth, NOUN 
+factors, NOUN 
+released, VERB 
+sub-, PROPN 
+
+, SPACE 
+chondral, ADJ 
+bone, NOUN 
+turnover, NOUN 
+reach, VERB 
+overlying, ADJ 
+articular, ADJ 
+cartilage, NOUN 
+
+, SPACE 
+initiate, VERB 
+positive, ADJ 
+feedback, NOUN 
+loop, NOUN 
+attempted, VERB 
+cartilage, NOUN 
+
+, SPACE 
+bone, NOUN 
+repair, NOUN 
+processes, NOUN 
+eventually, ADV 
+leads, VERB 
+OA, PROPN 
+progression, NOUN 
+6, NUM 
+
+, SPACE 
+recent, ADJ 
+experimental, ADJ 
+data, NOUN 
+support, VERB 
+hypothesis, NOUN 
+example, NOUN 
+administration, NOUN 
+osteoprotegerin, NOUN 
+prevented, VERB 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+loss, NOUN 
+cartilage, NOUN 
+degradation, NOUN 
+surgically, ADV 
+induced, VERB 
+OA, PROPN 
+model, NOUN 
+
+, SPACE 
+7, NUM 
+aggrecanase-2, PROPN 
+de, X 
+ﬁcient, NOUN 
+ADAMTS5, PROPN 
+
+, SPACE 
+−/−, PROPN 
+mice, NOUN 
+
+, SPACE 
+found, VERB 
+protected, VERB 
+cartilage, NOUN 
+degeneration, NOUN 
+joint, ADJ 
+instabil-, NOUN 
+
+, SPACE 
+ity, NOUN 
+showed, VERB 
+severe, ADJ 
+subchondral, ADJ 
+bone, NOUN 
+changes, NOUN 
+compared, VERB 
+wild, ADJ 
+
+, SPACE 
+type, NOUN 
+controls, NOUN 
+8, NUM 
+cellular, ADJ 
+level, NOUN 
+osteoblasts, VERB 
+OA, PROPN 
+patients, NOUN 
+in-, ADP 
+
+, SPACE 
+duced, VERB 
+hypertrophic, ADJ 
+differentiation, NOUN 
+matrix, NOUN 
+mineralization, NOUN 
+nor-, PROPN 
+
+, SPACE 
+mal, ADJ 
+chondrocytes, VERB 
+vitro, X 
+9, NUM 
+Despite, SCONJ 
+indirect, ADJ 
+evidence, NOUN 
+directBone, PRON 
+51, NUM 
+2012, NUM 
+212, NUM 
+217, NUM 
+
+, SPACE 
+⁎Correspondence, NOUN 
+L., PROPN 
+Wang, PROPN 
+Department, PROPN 
+Mechanical, PROPN 
+Engineering, PROPN 
+University, PROPN 
+
+, SPACE 
+Delaware, PROPN 
+Newark, PROPN 
+DE, PROPN 
+19716, NUM 
+USA, PROPN 
+Fax, NOUN 
++1, PROPN 
+302, NUM 
+831, NUM 
+3619, NUM 
+
+, SPACE 
+⁎⁎Correspondence, PUNCT 
+J., PROPN 
+Pan, PROPN 
+Key, PROPN 
+Laboratory, PROPN 
+Biorheological, PROPN 
+Science, PROPN 
+Technology, PROPN 
+
+, SPACE 
+Ministry, PROPN 
+Education, PROPN 
+Bioengineering, PROPN 
+College, PROPN 
+Chongqing, PROPN 
+University, PROPN 
+Chongqing400044, PROPN 
+PR, PROPN 
+China, PROPN 
+Fax, NOUN 
++86, NOUN 
+23, NUM 
+65460031, NUM 
+
+, SPACE 
+E, ADJ 
+mail, NOUN 
+addresses, NOUN 
+lywang@udel.edu, PROPN 
+L., PROPN 
+Wang, PROPN 
+panj@cqu.edu.cn, NOUN 
+J., PROPN 
+Pan, PROPN 
+
+, SPACE 
+8756, NUM 
+3282/$, NUM 
+matter, NOUN 
+©, ADJ 
+2011, NUM 
+Elsevier, PROPN 
+Inc., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+doi:10.1016, PROPN 
+j.bone.2011.11.030, PROPN 
+
+, SPACE 
+Contents, PROPN 
+lists, NOUN 
+available, ADJ 
+SciVerse, PROPN 
+ScienceDirect, PROPN 
+
+, SPACE 
+Bone, PROPN 
+
+, SPACE 
+journal, NOUN 
+homepage, NOUN 
+www.elsevier.com/locate/bone, NOUN 
+
+, SPACE 
+cross, NOUN 
+talk, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+articular, ADJ 
+cartilage, NOUN 
+
+, SPACE 
+established, VERB 
+OA, PROPN 
+joints, NOUN 
+
+, SPACE 
+Recently, ADV 
+demonstrated, VERB 
+potential, NOUN 
+cross, NOUN 
+talk, NOUN 
+
+, SPACE 
+subchondral, ADJ 
+bone, NOUN 
+articular, ADJ 
+cartilage, NOUN 
+normal, ADJ 
+mature, ADJ 
+joints, NOUN 
+
+, SPACE 
+10, NUM 
+advanced, ADJ 
+imaging, NOUN 
+approach, NOUN 
+based, VERB 
+ﬂuorescence, NOUN 
+
+, SPACE 
+loss, NOUN 
+induced, VERB 
+photobleaching, VERB 
+FLIP, PROPN 
+quanti, PROPN 
+ﬁed, PROPN 
+permeabili-, ADJ 
+
+, SPACE 
+ty, PRON 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+osteochondral, ADJ 
+interface, NOUN 
+small, ADJ 
+
+, SPACE 
+molecular, ADJ 
+weight, NOUN 
+tracer, NOUN 
+sodium, NOUN 
+ﬂuorescein, PROPN 
+mol, PROPN 
+wt, PROPN 
+376, NUM 
+Da, PROPN 
+
+, SPACE 
+knee, NOUN 
+joints, NOUN 
+adult, NOUN 
+mice, NOUN 
+results, NOUN 
+measurable, ADJ 
+solute, NOUN 
+trans-, NOUN 
+
+, SPACE 
+port, NOUN 
+joints, NOUN 
+challenged, VERB 
+long, ADV 
+held, ADJ 
+view, NOUN 
+imper-, ADJ 
+
+, SPACE 
+meable, ADJ 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+separates, VERB 
+subchondral, ADJ 
+bone, NOUN 
+
+, SPACE 
+articular, ADJ 
+cartilage, NOUN 
+adult, NOUN 
+joints, NOUN 
+11–13, X 
+OA, PROPN 
+alterations, NOUN 
+
+, SPACE 
+structural, ADJ 
+material, ADJ 
+properties, NOUN 
+joint, ADJ 
+tissues, NOUN 
+reported, VERB 
+
+, SPACE 
+8,14, NUM 
+17, NUM 
+addition, NOUN 
+vascular, ADJ 
+channels, NOUN 
+18,19, NUM 
+microcracks, NOUN 
+
+, SPACE 
+20,21, NUM 
+act, VERB 
+transport, NOUN 
+conduits, NOUN 
+reported, VERB 
+
+, SPACE 
+OA, PROPN 
+joints, NOUN 
+matrix, NOUN 
+property, NOUN 
+structural, ADJ 
+alterations, NOUN 
+
+, SPACE 
+OA, PROPN 
+joints, NOUN 
+translate, VERB 
+functional, ADJ 
+changes, NOUN 
+bone, NOUN 
+cartilage, NOUN 
+
+, SPACE 
+cross, NOUN 
+talk, NOUN 
+clear, ADJ 
+
+, SPACE 
+present, ADJ 
+study, NOUN 
+quanti, PROPN 
+ﬁed, PROPN 
+matrix, PROPN 
+permeability, NOUN 
+vessel, NOUN 
+inva-, ADJ 
+
+, SPACE 
+sion, NOUN 
+overall, ADJ 
+joint, ADJ 
+morphology, NOUN 
+established, VERB 
+OA, NOUN 
+models, NOUN 
+
+, SPACE 
+age, NOUN 
+related, VERB 
+spontaneous, ADJ 
+OA, NOUN 
+22, NUM 
+altered, VERB 
+loading, NOUN 
+surgery, NOUN 
+induced, VERB 
+
+, SPACE 
+OA[23, NOUN 
+hypothesis, NOUN 
+communication, NOUN 
+potential, NOUN 
+
+, SPACE 
+subchondral, ADJ 
+bone, NOUN 
+articular, ADJ 
+cartilage, NOUN 
+increases, NOUN 
+OA, PROPN 
+study, NOUN 
+
+, SPACE 
+weﬁrst, ADJ 
+FLIP, NOUN 
+quantify, VERB 
+permeability, NOUN 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+
+, SPACE 
+osteochondral, ADJ 
+interface, NOUN 
+main, ADJ 
+barrier, NOUN 
+transport, NOUN 
+mo-, PROPN 
+
+, SPACE 
+lecular, ADJ 
+signals, NOUN 
+joint, ADJ 
+tissues, NOUN 
+permeability, NOUN 
+order, NOUN 
+
+, SPACE 
+0.1–0.5μm2, PROPN 
+s[10, PROPN 
+orders, NOUN 
+magnitude, NOUN 
+smaller, ADJ 
+
+, SPACE 
+bone, NOUN 
+articular, ADJ 
+cartilage, NOUN 
+24,25, NUM 
+measured, VERB 
+
+, SPACE 
+overall, ADJ 
+joint, ADJ 
+morphology, NOUN 
+number, NOUN 
+density, NOUN 
+invading, VERB 
+vessels, NOUN 
+
+, SPACE 
+confocal, ADJ 
+microscopy, NOUN 
+compared, VERB 
+controls, NOUN 
+observed, VERB 
+
+, SPACE 
+OA, PROPN 
+associated, VERB 
+signi, NOUN 
+ﬁcant, NOUN 
+changes, NOUN 
+tissue, NOUN 
+matrix, NOUN 
+
+, SPACE 
+permeability, NOUN 
+OA, PROPN 
+model, NOUN 
+OA, PROPN 
+result, VERB 
+increase, NOUN 
+
+, SPACE 
+blood, NOUN 
+vessels, NOUN 
+invaded, VERB 
+perforated, VERB 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+
+, SPACE 
+models, NOUN 
+led, VERB 
+thinning, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+
+, SPACE 
+calciﬁed, NOUN 
+cartilage, NOUN 
+layers, NOUN 
+aged, ADJ 
+joints, NOUN 
+results, NOUN 
+sug-, NOUN 
+
+, SPACE 
+gested, VERB 
+capacity, NOUN 
+cross, NOUN 
+talk, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+
+, SPACE 
+articular, ADJ 
+cartilage, NOUN 
+elevated, VERB 
+OA, PROPN 
+morphological, ADJ 
+alter-, ADJ 
+
+, SPACE 
+ations, NOUN 
+joint, NOUN 
+
+, SPACE 
+Materials, NOUN 
+methods, NOUN 
+
+, SPACE 
+Experimental, ADJ 
+groups, NOUN 
+
+, SPACE 
+murine, NOUN 
+OA, PROPN 
+models, NOUN 
+utilized, VERB 
+study, NOUN 
+ﬁrst, ADJ 
+
+, SPACE 
+age, NOUN 
+related, VERB 
+spontaneous, ADJ 
+OA, NOUN 
+model, NOUN 
+C57BL/6J, PROPN 
+mice, NOUN 
+
+, SPACE 
+n=13, PROPN 
+aged, VERB 
+20, NUM 
+24, NUM 
+months, NOUN 
+age, NOUN 
+time, NOUN 
+
+, SPACE 
+mild, ADJ 
+moderate, ADJ 
+bi, ADJ 
+lateral, ADJ 
+knee, NOUN 
+OA, PROPN 
+observed, VERB 
+previously, ADV 
+de-, PROPN 
+
+, SPACE 
+scribed, VERB 
+literature, NOUN 
+22, NUM 
+second, ADJ 
+model, NOUN 
+surgical, ADJ 
+de-, PROPN 
+
+, SPACE 
+stabilization, NOUN 
+medical, ADJ 
+meniscus, NOUN 
+DMM, PROPN 
+OA, PROPN 
+model, NOUN 
+23, NUM 
+
+, SPACE 
+portion, NOUN 
+study, NOUN 
+male, ADJ 
+C57BL/6J, PROPN 
+mice, NOUN 
+n=14, PROPN 
+subjected, VERB 
+
+, SPACE 
+DMM, PROPN 
+surgery, NOUN 
+age, NOUN 
+months, NOUN 
+described, VERB 
+previously, ADV 
+
+, SPACE 
+23, NUM 
+Brie, PROPN 
+ﬂy, PROPN 
+aseptic, ADJ 
+conditions, NOUN 
+right, ADJ 
+knee, NOUN 
+joint, PROPN 
+capsule, PROPN 
+
+, SPACE 
+opened, VERB 
+ligament, NOUN 
+attaching, VERB 
+medial, ADJ 
+meniscus, NOUN 
+
+, SPACE 
+tibia, NOUN 
+transected, VERB 
+impair, VERB 
+stability, NOUN 
+joint, ADJ 
+structure, NOUN 
+
+, SPACE 
+23, NUM 
+left, ADJ 
+joints, NOUN 
+operated, VERB 
+served, VERB 
+internal, ADJ 
+
+, SPACE 
+controls, NOUN 
+mice, NOUN 
+sacri, ADV 
+ﬁced, VERB 
+weeks, NOUN 
+post, NOUN 
+surgery, NOUN 
+
+, SPACE 
+age, NOUN 
+ﬁve, NOUN 
+months, NOUN 
+subjected, VERB 
+cartilage, NOUN 
+integrity, NOUN 
+Safranin-, PROPN 
+
+, SPACE 
+O, INTJ 
+fast, ADJ 
+green, ADJ 
+staining, NOUN 
+transport, NOUN 
+examinations, NOUN 
+FLIP, PROPN 
+measure-, ADJ 
+
+, SPACE 
+ments, NOUN 
+basic, ADJ 
+fuchsin, NOUN 
+staining, NOUN 
+detailed, VERB 
+addition, NOUN 
+
+, SPACE 
+separate, ADJ 
+ﬁve, NOUN 
+month, NOUN 
+old, ADJ 
+male, ADJ 
+C57BL/6J, PROPN 
+mice, NOUN 
+controls, NOUN 
+
+, SPACE 
+histological, ADJ 
+examination, NOUN 
+cartilage, NOUN 
+damage, NOUN 
+vessel, NOUN 
+invasions, NOUN 
+
+, SPACE 
+baseline, NOUN 
+control, NOUN 
+measurements, NOUN 
+compared, VERB 
+
+, SPACE 
+aged, ADJ 
+mice, NOUN 
+5, NUM 
+months, NOUN 
+vs., ADP 
+20, NUM 
+24, NUM 
+months, NOUN 
+mice, NOUN 
+altered, ADJ 
+knee, NOUN 
+
+, SPACE 
+loading, NOUN 
+conditions, NOUN 
+intact, ADJ 
+vs., X 
+DMM, PROPN 
+joints, NOUN 
+mice, NOUN 
+purchased, VERB 
+
+, SPACE 
+Jackson, PROPN 
+Laboratory, PROPN 
+Jackson, PROPN 
+Laboratory, PROPN 
+Bar, PROPN 
+Harbor, PROPN 
+study, NOUN 
+approved, VERB 
+Institutional, PROPN 
+Animal, PROPN 
+Care, PROPN 
+
+, SPACE 
+Use, PROPN 
+Committee, PROPN 
+University, PROPN 
+Delaware, PROPN 
+
+, SPACE 
+Toﬁrst, PROPN 
+validate, VERB 
+OA, PROPN 
+models, NOUN 
+joint, ADJ 
+samples, NOUN 
+subset, NOUN 
+
+, SPACE 
+aged, ADJ 
+DMM, PROPN 
+control, NOUN 
+mice, NOUN 
+examined, VERB 
+standard, ADJ 
+histolo-, NOUN 
+
+, SPACE 
+gy, NOUN 
+evaluate, VERB 
+cartilage, NOUN 
+damage, NOUN 
+following, VERB 
+previously, ADV 
+published, VERB 
+pro-, PROPN 
+
+, SPACE 
+cedures, NOUN 
+23, NUM 
+Brie, PROPN 
+ﬂy, PROPN 
+joints, NOUN 
+aged, ADJ 
+mice, NOUN 
+right, ADJ 
+joints, NOUN 
+n=5, PROPN 
+
+, SPACE 
+DMM, PROPN 
+mice, NOUN 
+operated, VERB 
+right, ADJ 
+joints, NOUN 
+left, ADJ 
+contralateraljoints, NOUN 
+n=6, NOUN 
+control, NOUN 
+mice, NOUN 
+right, ADJ 
+joints, NOUN 
+n=6, NOUN 
+harvested, VERB 
+
+, SPACE 
+ﬁxed, VERB 
+10, NUM 
+neutral, ADJ 
+buffed, VERB 
+formalin, NOUN 
+decalci, VERB 
+ﬁed, PROPN 
+formic, PROPN 
+
+, SPACE 
+acid, NOUN 
+embedded, VERB 
+paraf, NOUN 
+ﬁn, NOUN 
+Sequential, ADJ 
+frontal, ADJ 
+sections, NOUN 
+
+, SPACE 
+5μm, ADV 
+thick, ADJ 
+obtained, VERB 
+microtome, NOUN 
+collected, VERB 
+
+, SPACE 
+positively, ADV 
+charged, VERB 
+glass, NOUN 
+slides, NOUN 
+2, NUM 
+3, NUM 
+sections, NOUN 
+slide, NOUN 
+assess, VERB 
+dam-, DET 
+
+, SPACE 
+age, NOUN 
+entire, ADJ 
+joint, NOUN 
+12, NUM 
+15, NUM 
+slides, NOUN 
+covering, VERB 
+thickness, NOUN 
+
+, SPACE 
+joint, NOUN 
+chosen, VERB 
+stained, VERB 
+0.1, NUM 
+Safranin, PROPN 
+O, INTJ 
+Fast, PROPN 
+
+, SPACE 
+Green, PROPN 
+sections, NOUN 
+blindly, ADV 
+scored, VERB 
+light, ADJ 
+microscopy, NOUN 
+
+, SPACE 
+observers, NOUN 
+JP, PROPN 
+TS, PROPN 
+quadrants, NOUN 
+medial, ADJ 
+lateral, ADJ 
+fem-, NOUN 
+
+, SPACE 
+oral, ADJ 
+condyles, NOUN 
+medial, ADJ 
+lateral, ADJ 
+tibial, ADJ 
+plateaus, NOUN 
+following, VERB 
+semi-, ADJ 
+
+, SPACE 
+quantitative, ADJ 
+grading, VERB 
+scale, NOUN 
+23, NUM 
+0, NUM 
+=, ADJ 
+normal, ADJ 
+cartilage, NOUN 
+
+, SPACE 
+0.5, NUM 
+=, NOUN 
+loss, NOUN 
+Safranin, PROPN 
+O, NOUN 
+staining, NOUN 
+structural, ADJ 
+lesions, NOUN 
+
+, SPACE 
+1, X 
+=, VERB 
+roughened, VERB 
+articular, ADJ 
+surface, NOUN 
+small, ADJ 
+ﬁbrillations, NOUN 
+2=, NUM 
+ﬁbrillation, NOUN 
+
+, SPACE 
+super, ADJ 
+ﬁcial, ADJ 
+layer, NOUN 
+loss, NOUN 
+lamina, NOUN 
+3=, NUM 
+ﬁbrillations, NOUN 
+
+, SPACE 
+extending, VERB 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+25, NUM 
+carti-, NOUN 
+
+, SPACE 
+lage, NOUN 
+width, NOUN 
+4=, NUM 
+ﬁbrillations, NOUN 
+extending, VERB 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+
+, SPACE 
+25–50, NUM 
+cartilage, NOUN 
+width, NOUN 
+5=, NUM 
+ﬁbrillation, NOUN 
+erosions, NOUN 
+extending, VERB 
+
+, SPACE 
+50, NUM 
+75, NUM 
+cartilage, NOUN 
+width, NOUN 
+6, NUM 
+=, NOUN 
+cartilage, NOUN 
+erosion, NOUN 
+extending, VERB 
+
+, SPACE 
+75, NUM 
+cartilage, NOUN 
+width, NOUN 
+average, ADJ 
+score, NOUN 
+sec-, NOUN 
+
+, SPACE 
+tions, NOUN 
+reported, VERB 
+knee, NOUN 
+scores, NOUN 
+con, PROPN 
+ﬁrmed, ADJ 
+signi, NOUN 
+ﬁcant, NOUN 
+
+, SPACE 
+mild, ADJ 
+cartilage, NOUN 
+damage, NOUN 
+aged, ADJ 
+DMM, PROPN 
+groups, NOUN 
+compared, VERB 
+
+, SPACE 
+normal, ADJ 
+controls, NOUN 
+detailed, VERB 
+Results, PROPN 
+section, NOUN 
+Based, VERB 
+
+, SPACE 
+validation, NOUN 
+study, NOUN 
+OA, PROPN 
+models, NOUN 
+utilized, VERB 
+fol-, NOUN 
+
+, SPACE 
+lowing, NOUN 
+quantitative, ADJ 
+studies, NOUN 
+
+, SPACE 
+Matrix, PROPN 
+permeability, NOUN 
+measurements, NOUN 
+FLIP, NOUN 
+
+, SPACE 
+quantify, VERB 
+permeability, NOUN 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+
+, SPACE 
+osteochondral, ADJ 
+interface, NOUN 
+subset, NOUN 
+DMM, PROPN 
+mice, NOUN 
+n=5, X 
+aged, ADJ 
+mice, NOUN 
+
+, SPACE 
+n=4, PROPN 
+subjected, VERB 
+FLIP, PROPN 
+tests, NOUN 
+previously, ADV 
+published, VERB 
+pro-, PROPN 
+
+, SPACE 
+cedures, NOUN 
+10, NUM 
+operated, VERB 
+contralateral, ADJ 
+joints, NOUN 
+DMM, PROPN 
+
+, SPACE 
+mice, NOUN 
+right, ADJ 
+joints, NOUN 
+aged, ADJ 
+mice, NOUN 
+utilized, VERB 
+Be-, NOUN 
+
+, SPACE 
+cause, VERB 
+difference, NOUN 
+found, VERB 
+cartilage, NOUN 
+damage, NOUN 
+score, NOUN 
+
+, SPACE 
+DMM, PROPN 
+contralateral, ADJ 
+joints, NOUN 
+normal, ADJ 
+5, NUM 
+month, NOUN 
+old, ADJ 
+B6, NOUN 
+joints, NOUN 
+
+, SPACE 
+contralateral, ADJ 
+joints, NOUN 
+served, VERB 
+undamaged, ADJ 
+internal, ADJ 
+controls, NOUN 
+
+, SPACE 
+DMM, PROPN 
+operated, VERB 
+joints, NOUN 
+Brie, PROPN 
+ﬂy, PROPN 
+mice, NOUN 
+injected, VERB 
+bolus, NOUN 
+so-, PROPN 
+
+, SPACE 
+dium, PROPN 
+ﬂuorescein, PROPN 
+solution, NOUN 
+2, NUM 
+mg, NOUN 
+0.5, NUM 
+mL, NUM 
+tail, PROPN 
+vein, ADJ 
+injection, NOUN 
+
+, SPACE 
+~0.5, X 
+h, NOUN 
+mice, NOUN 
+sacri, ADV 
+ﬁced, VERB 
+distal, ADJ 
+femurs, NOUN 
+harvested, VERB 
+im-, ADP 
+
+, SPACE 
+mediately, ADV 
+sagittally, ADV 
+split, VERB 
+notch, NOUN 
+con-, NOUN 
+
+, SPACE 
+dyles, NOUN 
+trimming, VERB 
+cut, ADJ 
+surface, NOUN 
+diamond, NOUN 
+knife, NOUN 
+
+, SPACE 
+cryostat, NOUN 
+halved, VERB 
+samples, NOUN 
+mounted, VERB 
+cover, NOUN 
+glass, NOUN 
+im-, NOUN 
+
+, SPACE 
+aged, ADJ 
+inverted, VERB 
+confocal, ADJ 
+laser, NOUN 
+scanning, NOUN 
+microscope, NOUN 
+Zeiss, PROPN 
+LSM, PROPN 
+
+, SPACE 
+510, NUM 
+Standort, PROPN 
+G, PROPN 
+őttingen, NOUN 
+Germany, PROPN 
+equipped, VERB 
+40×, NOUN 
+oil, NOUN 
+immersion, NOUN 
+
+, SPACE 
+objective, NOUN 
+excitation, NOUN 
+emission, NOUN 
+488/520, PROPN 
+nm, PROPN 
+Individual, ADJ 
+
+, SPACE 
+chondrons, NOUN 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+osteocyte, NOUN 
+lacunae, NOUN 
+near, ADP 
+
+, SPACE 
+osteochondral, ADJ 
+interface, NOUN 
+5, NUM 
+20μm, NOUN 
+cutting, VERB 
+surface, NOUN 
+
+, SPACE 
+readily, ADV 
+identi, PROPN 
+ﬁed, PROPN 
+based, VERB 
+shapes, NOUN 
+spherical, ADJ 
+vs., X 
+ellipsoidal, ADJ 
+
+, SPACE 
+size, NOUN 
+20, NUM 
+vs., ADP 
+10, NUM 
+μm, NOUN 
+single, ADJ 
+chondron, NOUN 
+transport, NOUN 
+sink, NOUN 
+sub-, ADV 
+
+, SPACE 
+jected, VERB 
+continuous, ADJ 
+photobleaching, NOUN 
+surrounding, VERB 
+chondrons, NOUN 
+
+, SPACE 
+and/or, CCONJ 
+osteocyte, PROPN 
+lacunae, PROPN 
+transport, NOUN 
+sources, NOUN 
+monitored, VERB 
+
+, SPACE 
+time, NOUN 
+series, NOUN 
+confocal, ADJ 
+images, NOUN 
+describe, VERB 
+previously, ADV 
+10].S, NUM 
+o, NOUN 
+u, NOUN 
+r, NOUN 
+c, NOUN 
+e, NOUN 
+s, PROPN 
+
+, SPACE 
+sinks, NOUN 
+chosen, VERB 
+based, VERB 
+3D, ADJ 
+examination, NOUN 
+region, NOUN 
+inter-, NOUN 
+
+, SPACE 
+est, NOUN 
+following, ADJ 
+criteria, NOUN 
+1, X 
+clearly, ADV 
+observed, VERB 
+
+, SPACE 
+confocal, ADJ 
+imaging, NOUN 
+drifting, VERB 
+movement, NOUN 
+artifacts, NOUN 
+2, X 
+
+, SPACE 
+cells, NOUN 
+located, VERB 
+source, NOUN 
+sink, NOUN 
+
+, SPACE 
+interfere, VERB 
+tracer, NOUN 
+transport, NOUN 
+multiple, ADJ 
+sources, NOUN 
+chosen, VERB 
+
+, SPACE 
+sink, NOUN 
+3, X 
+edge, NOUN 
+edge, NOUN 
+spacing, VERB 
+source, NOUN 
+sink, NOUN 
+
+, SPACE 
+range, NOUN 
+0.5, NUM 
+7, NUM 
+fold, NOUN 
+source, NOUN 
+radius, NOUN 
+sink, NOUN 
+source, NOUN 
+
+, SPACE 
+size, NOUN 
+ratio, NOUN 
+chosen, VERB 
+0.5, NUM 
+3, NUM 
+correction, NOUN 
+factors213, VERB 
+J., PROPN 
+Pan, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+212, NUM 
+217, NUM 
+
+, SPACE 
+accounting, NOUN 
+ranges, NOUN 
+source, NOUN 
+sink, NOUN 
+spacing, NOUN 
+size, NOUN 
+ratio, NOUN 
+
+, SPACE 
+numerically, ADV 
+obtained, VERB 
+previous, ADJ 
+study, NOUN 
+10].U, NUM 
+s, NOUN 
+n, CCONJ 
+u, PRON 
+rb, INTJ 
+s, VERB 
+p, NOUN 
+h, NOUN 
+e, NOUN 
+
+, SPACE 
+rical, ADJ 
+transport, NOUN 
+model, NOUN 
+10, NUM 
+effective, ADJ 
+diffusivity, NOUN 
+D, PROPN 
+tracer, NOUN 
+
+, SPACE 
+source, NOUN 
+sink, NOUN 
+chondrons, NOUN 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+
+, SPACE 
+termed, VERB 
+C, PROPN 
+C, PROPN 
+source, NOUN 
+osteocytes, VERB 
+sink, NOUN 
+
+, SPACE 
+chondron, PROPN 
+osteochondral, ADJ 
+interface, NOUN 
+termed, VERB 
+O, INTJ 
+C, NOUN 
+
+, SPACE 
+d, NOUN 
+e, NOUN 
+r, NOUN 
+v, ADP 
+e, NOUN 
+db, VERB 
+yc, INTJ 
+u, PROPN 
+r, NOUN 
+v, ADP 
+n, CCONJ 
+g, PROPN 
+ﬁtting, VERB 
+experimental, ADJ 
+intensity, NOUN 
+data, NOUN 
+
+, SPACE 
+model, NOUN 
+Typically, ADV 
+FLIP, ADJ 
+experiments, NOUN 
+performed, VERB 
+
+, SPACE 
+joint, NOUN 
+pairs, NOUN 
+source, NOUN 
+sink, NOUN 
+FLIP, PROPN 
+experiment, NOUN 
+
+, SPACE 
+ﬁt, ADJ 
+model, NOUN 
+diffusivities, NOUN 
+reasonable, ADJ 
+good, ADJ 
+
+, SPACE 
+curve, NOUN 
+ﬁtting, NOUN 
+R2≥0.80, NOUN 
+average, ADJ 
+values, NOUN 
+C, PROPN 
+C, NOUN 
+
+, SPACE 
+O, PROPN 
+C, NOUN 
+permeability, NOUN 
+obtained, VERB 
+repeated, VERB 
+measures, NOUN 
+
+, SPACE 
+joint, ADJ 
+multiple, ADJ 
+comparisons, NOUN 
+testing, NOUN 
+regions, NOUN 
+
+, SPACE 
+C, PROPN 
+C, PROPN 
+vs., ADP 
+O, NOUN 
+C, PROPN 
+DMM, PROPN 
+vs., ADP 
+contralateral, ADJ 
+joints, NOUN 
+young, ADJ 
+vs., X 
+aged, ADJ 
+
+, SPACE 
+joints, NOUN 
+
+, SPACE 
+Joint, ADJ 
+morphology, NOUN 
+vessel, NOUN 
+invasions, NOUN 
+
+, SPACE 
+overall, ADJ 
+transport, NOUN 
+joint, NOUN 
+dependent, ADJ 
+
+, SPACE 
+local, ADJ 
+ECM, PROPN 
+permeability, NOUN 
+examined, VERB 
+structural, ADJ 
+
+, SPACE 
+features, NOUN 
+thickness, NOUN 
+tissue, NOUN 
+layer, NOUN 
+number, NOUN 
+den-, NOUN 
+
+, SPACE 
+sity, NOUN 
+large, ADJ 
+vascular, ADJ 
+channels, NOUN 
+perforating, VERB 
+ECM, PROPN 
+Joint, ADJ 
+tissue, NOUN 
+
+, SPACE 
+thickness, NOUN 
+vessel, NOUN 
+invasions, NOUN 
+measured, VERB 
+dimensional, ADJ 
+
+, SPACE 
+confocal, ADJ 
+imaging, NOUN 
+right, ADJ 
+distal, ADJ 
+femurs, NOUN 
+normal, ADJ 
+age, NOUN 
+control, NOUN 
+
+, SPACE 
+DMM, PROPN 
+aged, ADJ 
+groups, NOUN 
+n=4, DET 
+joints, NOUN 
+group, NOUN 
+bulk, ADJ 
+stainedwith, NOUN 
+basic, ADJ 
+fuchsin, NOUN 
+embedded, VERB 
+plastics, NOUN 
+following, VERB 
+previously, ADV 
+
+, SPACE 
+published, VERB 
+protocol, NOUN 
+26, NUM 
+Sagittal, ADJ 
+sections, NOUN 
+200, NUM 
+μm, NOUN 
+thickness, NOUN 
+6, NUM 
+7, NUM 
+
+, SPACE 
+sections, NOUN 
+joint, NOUN 
+obtained, VERB 
+diamond, NOUN 
+saw, VERB 
+
+, SPACE 
+surface, NOUN 
+polished, ADJ 
+mounted, VERB 
+glass, NOUN 
+slides, NOUN 
+sections, NOUN 
+
+, SPACE 
+observed, VERB 
+Zeiss, PROPN 
+LSM, PROPN 
+510, NUM 
+confocal, ADJ 
+microscope, NOUN 
+
+, SPACE 
+40×, NOUN 
+oil, NOUN 
+immersion, NOUN 
+objective, NOUN 
+excitation, NOUN 
+emission, NOUN 
+wave-, VERB 
+
+, SPACE 
+lengths, NOUN 
+561/640, PROPN 
+nm, ADJ 
+respectively, ADV 
+Multiple, ADJ 
+z, NOUN 
+stack, NOUN 
+images, NOUN 
+consisting, VERB 
+
+, SPACE 
+6, NUM 
+slices, NOUN 
+2, NUM 
+μm, NOUN 
+interval, NOUN 
+taken, VERB 
+stitched, VERB 
+map, VERB 
+
+, SPACE 
+entire, ADJ 
+epiphysis, NOUN 
+distal, ADJ 
+femur, NOUN 
+distinct, ADJ 
+cellular, ADJ 
+mor-, NOUN 
+
+, SPACE 
+phology, NOUN 
+ECM, PROPN 
+staining, VERB 
+patterns, NOUN 
+different, ADJ 
+tissues, NOUN 
+readily, ADV 
+iden-, ADJ 
+
+, SPACE 
+tiﬁed, VERB 
+Fig, PROPN 
+1, NUM 
+seen, VERB 
+strong, ADJ 
+staining, NOUN 
+intensity, NOUN 
+amorphous, ADJ 
+
+, SPACE 
+pattern, NOUN 
+marrow, ADJ 
+cavities, NOUN 
+numerous, ADJ 
+canalicular, ADJ 
+channels, NOUN 
+
+, SPACE 
+spindle, NOUN 
+shaped, VERB 
+osteocyte, NOUN 
+lacunae, NOUN 
+unstained, ADJ 
+matrix, NOUN 
+background, NOUN 
+
+, SPACE 
+subchondral, ADJ 
+bone, NOUN 
+SB, PROPN 
+large, ADJ 
+rounded, ADJ 
+hypertrophic, ADJ 
+chondrons, NOUN 
+
+, SPACE 
+calci, PROPN 
+ﬁed, PROPN 
+cartilage, NOUN 
+CC, PROPN 
+continuous, ADJ 
+strong, ADJ 
+staining, NOUN 
+
+, SPACE 
+tidemark, NOUN 
+TM, PROPN 
+interface, NOUN 
+calci, PROPN 
+ﬁed, PROPN 
+cartilage, NOUN 
+articular, ADJ 
+
+, SPACE 
+cartilage, NOUN 
+AC, PROPN 
+Fig, PROPN 
+1, NUM 
+imaging, NOUN 
+stacks, NOUN 
+relatively, ADV 
+
+, SPACE 
+easy, ADJ 
+trace, VERB 
+identify, VERB 
+blood, NOUN 
+vessels, NOUN 
+marrow, NOUN 
+cavities, NOUN 
+di-, NUM 
+
+, SPACE 
+mensions, NOUN 
+de, ADV 
+ﬁned, VERB 
+linear, ADJ 
+continuous, ADJ 
+features, NOUN 
+≥10μmi, PROPN 
+nd, PROPN 
+m, NOUN 
+
+, SPACE 
+eter, NOUN 
+width, PROPN 
+distinguishable, ADJ 
+cellularfeatures, NOUN 
+2D, PROPN 
+histological, ADJ 
+sections, NOUN 
+numbers, NOUN 
+blood, NOUN 
+vessels, NOUN 
+
+, SPACE 
+ended, VERB 
+SB, PROPN 
+CC, NOUN 
+TM, PROPN 
+layers, NOUN 
+counted, VERB 
+load-, ADJ 
+
+, SPACE 
+bearing, NOUN 
+portion, NOUN 
+femoral, ADJ 
+condyle, NOUN 
+Zeiss, PROPN 
+LSM, PROPN 
+software, NOUN 
+
+, SPACE 
+number, NOUN 
+density, NOUN 
+invading, NOUN 
+vessels, NOUN 
+ended, VERB 
+layer, NOUN 
+
+, SPACE 
+calculated, VERB 
+reference, NOUN 
+articular, PROPN 
+surface, PROPN 
+area, NOUN 
+esti-, ADJ 
+
+, SPACE 
+mated, VERB 
+multiplying, VERB 
+tidemark, NOUN 
+length, NOUN 
+depth, NOUN 
+z, NOUN 
+stack, NOUN 
+
+, SPACE 
+thickness, NOUN 
+12, NUM 
+μm, NOUN 
+z, NOUN 
+stack, NOUN 
+images, NOUN 
+exported, VERB 
+TIFF, PROPN 
+ﬁles, NOUN 
+
+, SPACE 
+outlines, NOUN 
+AC, PROPN 
+TM, PROPN 
+CC, PROPN 
+SB, PROPN 
+manually, ADV 
+traced, VERB 
+
+, SPACE 
+Adobe, PROPN 
+Photoshop, PROPN 
+software, NOUN 
+digitizing, VERB 
+interactive, ADJ 
+pen, NOUN 
+display, NOUN 
+
+, SPACE 
+average, ADJ 
+thickness, ADJ 
+values, NOUN 
+tissue, NOUN 
+layers, NOUN 
+SB, PROPN 
+CC, PROPN 
+AC, PROPN 
+obtained, VERB 
+
+, SPACE 
+outlined, ADJ 
+regions, NOUN 
+interest, NOUN 
+custom, NOUN 
+MatLab, PROPN 
+code, NOUN 
+
+, SPACE 
+reported, VERB 
+total, ADJ 
+joint, ADJ 
+thickness, NOUN 
+summation, NOUN 
+thicknesses, NOUN 
+
+, SPACE 
+layers, NOUN 
+
+, SPACE 
+Statistical, ADJ 
+analysis, NOUN 
+
+, SPACE 
+Descriptive, ADJ 
+data, NOUN 
+presented, VERB 
+means, NOUN 
+standard, ADJ 
+devia-, ADJ 
+
+, SPACE 
+tions, NOUN 
+Statistical, ADJ 
+signi, NOUN 
+ﬁcance, NOUN 
+determined, VERB 
+Student, NOUN 
+ttests, NOUN 
+
+, SPACE 
+paired, VERB 
+unpaired, ADJ 
+way, NOUN 
+ANOVA, PROPN 
+Bonferroni, PROPN 
+post, NOUN 
+hoc, ADJ 
+
+, SPACE 
+tests, NOUN 
+Origin, PROPN 
+software, NOUN 
+package, NOUN 
+Statistical, ADJ 
+signi, NOUN 
+ﬁcance, NOUN 
+de-, PROPN 
+
+, SPACE 
+ﬁned, VERB 
+p, NOUN 
+b0.05, NOUN 
+
+, SPACE 
+Results, NOUN 
+
+, SPACE 
+Validation, NOUN 
+OA, PROPN 
+models, NOUN 
+
+, SPACE 
+Compared, VERB 
+normal, ADJ 
+age, NOUN 
+controls, NOUN 
+n=6, NOUN 
+higher, ADJ 
+scores, NOUN 
+
+, SPACE 
+seen, VERB 
+quadrants, NOUN 
+aged, ADJ 
+joints, NOUN 
+lateral, ADJ 
+
+, SPACE 
+tibia, PROPN 
+n=5, PROPN 
+quadrants, NOUN 
+DMM, PROPN 
+joints, NOUN 
+n=6, NOUN 
+in-, ADP 
+
+, SPACE 
+dicates, VERB 
+p, NOUN 
+b0.05, NOUN 
+Fig, PROPN 
+2, NUM 
+Overall, ADV 
+damage, NOUN 
+mild, ADJ 
+OA, PROPN 
+score, NOUN 
+
+, SPACE 
+1.2, NUM 
+range, NOUN 
+6, NUM 
+aged, ADJ 
+
+, SPACE 
+DMM, PROPN 
+joints, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+left, ADJ 
+unoperated, ADJ 
+joints, NOUN 
+DMM, PROPN 
+mice, NOUN 
+dis-, NOUN 
+
+, SPACE 
+played, VERB 
+negligible, ADJ 
+cartilage, NOUN 
+damage, NOUN 
+similar, ADJ 
+normal, ADJ 
+age, NOUN 
+controls, VERB 
+
+, SPACE 
+data, NOUN 
+shown, VERB 
+control, NOUN 
+joints, NOUN 
+FLIP, PROPN 
+
+, SPACE 
+study, NOUN 
+sections, NOUN 
+5, NUM 
+month, NOUN 
+old, ADJ 
+control, NOUN 
+mouse, PROPN 
+Fig, PROPN 
+3, NUM 
+repre-, ADJ 
+
+, SPACE 
+sentative, ADJ 
+image, NOUN 
+shown, VERB 
+Safranin, PROPN 
+O, NOUN 
+Fast, ADJ 
+Green, PROPN 
+staining, VERB 
+demonstrat-, ADJ 
+
+, SPACE 
+ed, PROPN 
+smooth, ADJ 
+undamaged, ADJ 
+articular, PROPN 
+surface, NOUN 
+medial, ADJ 
+femoral, ADJ 
+
+, SPACE 
+condyle, NOUN 
+MF, PROPN 
+medial, ADJ 
+tibial, ADJ 
+plateau, NOUN 
+MT, PROPN 
+sections, NOUN 
+DMM, PROPN 
+
+, SPACE 
+joints, NOUN 
+Fig, PROPN 
+3, NUM 
+B, PROPN 
+representative, ADJ 
+image, NOUN 
+shown, VERB 
+areas, NOUN 
+indicated, VERB 
+
+, SPACE 
+black, ADJ 
+arrow, NOUN 
+heads, NOUN 
+damage, NOUN 
+score, NOUN 
+3, NUM 
+damage, NOUN 
+extending, VERB 
+
+, SPACE 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+25, NUM 
+cartilage, NOUN 
+width, NOUN 
+
+, SPACE 
+damage, NOUN 
+score, NOUN 
+1, NUM 
+roughened, VERB 
+articular, PROPN 
+surface, NOUN 
+small, ADJ 
+ﬁbril-, NUM 
+
+, SPACE 
+lations, NOUN 
+readily, ADV 
+observed, VERB 
+MF, PROPN 
+MT, PROPN 
+respectively, ADV 
+aged, ADJ 
+
+, SPACE 
+joints, NOUN 
+Fig, PROPN 
+3, NUM 
+C, NOUN 
+representative, ADJ 
+image, NOUN 
+shown, VERB 
+regions, NOUN 
+
+, SPACE 
+demonstrated, VERB 
+areas, NOUN 
+damage, NOUN 
+scores, NOUN 
+1, NUM 
+2, NUM 
+ﬁbrillation, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Invading, NOUN 
+vessels, NOUN 
+tissue, VERB 
+layers, NOUN 
+murine, PROPN 
+distal, ADJ 
+femurs, NOUN 
+normal, ADJ 
+5, NUM 
+month, NOUN 
+old, ADJ 
+mice, NOUN 
+control, NOUN 
+B, PROPN 
+DMM, PROPN 
+mice, NOUN 
+5, NUM 
+month, NOUN 
+old, ADJ 
+8, NUM 
+week, NOUN 
+post, NOUN 
+surgery, NOUN 
+C, NOUN 
+aged, VERB 
+
+, SPACE 
+20–24, PROPN 
+month, NOUN 
+old, ADJ 
+mice, NOUN 
+slices, NOUN 
+captured, VERB 
+z, NOUN 
+stack, ADJ 
+confocal, ADJ 
+imaging, NOUN 
+plastic, NOUN 
+embedded, VERB 
+femoral, ADJ 
+epiphysis, NOUN 
+bulk, NOUN 
+stained, VERB 
+basic, ADJ 
+fuchsin, NOUN 
+Visualized, VERB 
+3D, NOUN 
+con-, NOUN 
+
+, SPACE 
+focal, ADJ 
+z, NOUN 
+stacks, NOUN 
+articular, ADJ 
+cartilage, NOUN 
+AC, PROPN 
+calci, PROPN 
+ﬁed, PROPN 
+cartilage, PROPN 
+CC, PROPN 
+tidemark, NOUN 
+TM, PROPN 
+subchondral, ADJ 
+bone, NOUN 
+SB, PROPN 
+readily, ADV 
+identi, PROPN 
+ﬁed, PROPN 
+distinct, ADJ 
+cell, NOUN 
+morphology, NOUN 
+tissue, NOUN 
+
+, SPACE 
+staining, VERB 
+patterns, NOUN 
+shown, VERB 
+Invading, NOUN 
+vessels, NOUN 
+v, X 
+marrow, NOUN 
+cavities, NOUN 
+clearly, ADV 
+visualized, VERB 
+traced, VERB 
+3D, ADJ 
+image, NOUN 
+stacks, NOUN 
+Compared, VERB 
+wit, NOUN 
+h, VERB 
+younger, ADJ 
+normal, ADJ 
+con-, NOUN 
+
+, SPACE 
+trol, NOUN 
+joint, ADJ 
+invading, NOUN 
+vessels, NOUN 
+located, VERB 
+SB, PROPN 
+panel, NOUN 
+increasing, VERB 
+incidence, NOUN 
+vascular, ADJ 
+channel, NOUN 
+penetrating, VERB 
+CC, NOUN 
+contactin, VERB 
+g, PROPN 
+TM, PROPN 
+seen, VERB 
+DMM, PROPN 
+
+, SPACE 
+aged, ADJ 
+joints, NOUN 
+panels, NOUN 
+B, PROPN 
+C, PROPN 
+respectively, ADV 
+Articular, ADJ 
+cartilage, NOUN 
+erosions, NOUN 
+indicated, VERB 
+arrow, NOUN 
+heads, NOUN 
+found, VERB 
+DMM, PROPN 
+sample, NOUN 
+shown, VERB 
+Panel, PROPN 
+B, PROPN 
+thinning, NOUN 
+AC, PROPN 
+CC, PROPN 
+
+, SPACE 
+SB, PROPN 
+layers, NOUN 
+obvious, ADJ 
+aged, ADJ 
+sample, NOUN 
+shown, VERB 
+Panel, PROPN 
+C.214, PROPN 
+J., PROPN 
+Pan, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+212, NUM 
+217, NUM 
+
+, SPACE 
+super, ADJ 
+ﬁcial, ADJ 
+layer, NOUN 
+loss, NOUN 
+lamina, NOUN 
+note, VERB 
+
+, SPACE 
+values, NOUN 
+shown, VERB 
+quadrants, NOUN 
+medial, ADJ 
+lateral, ADJ 
+femoral/, NUM 
+
+, SPACE 
+tibial, ADJ 
+condyles, NOUN 
+Fig, PROPN 
+2, NUM 
+averaged, VERB 
+sections, NOUN 
+
+, SPACE 
+spanning, VERB 
+entire, ADJ 
+joint, NOUN 
+knee, NOUN 
+medial, ADJ 
+compartments, NOUN 
+
+, SPACE 
+DMM, PROPN 
+joints, NOUN 
+reported, VERB 
+severe, ADJ 
+damage, NOUN 
+
+, SPACE 
+lateral, ADJ 
+compartments, NOUN 
+examined, VERB 
+longer, ADJ 
+time, NOUN 
+points, NOUN 
+post, ADJ 
+
+, SPACE 
+surgery, NOUN 
+literature, NOUN 
+23, NUM 
+compartmental, ADJ 
+difference, NOUN 
+
+, SPACE 
+seen, VERB 
+DMM, PROPN 
+mice, NOUN 
+8, NUM 
+weeks, NOUN 
+post, NOUN 
+surgery, NOUN 
+
+, SPACE 
+Matrix, PROPN 
+permeability, NOUN 
+measurements, NOUN 
+FLIP, NOUN 
+
+, SPACE 
+total, NOUN 
+42, NUM 
+28, NUM 
+43, NUM 
+source, NOUN 
+sink, NOUN 
+pairs, NOUN 
+C, NOUN 
+C, NOUN 
+measurements, NOUN 
+
+, SPACE 
+23, NUM 
+25, NUM 
+25, NUM 
+source, NOUN 
+sink, NOUN 
+pairs, NOUN 
+O, NOUN 
+C, NOUN 
+measurements, NOUN 
+
+, SPACE 
+ﬁt, VERB 
+model, NOUN 
+R2≥0.8, X 
+collected, VERB 
+analyzed, VERB 
+
+, SPACE 
+DMM, PROPN 
+knees, NOUN 
+n=5, PROPN 
+contralateral, ADJ 
+unoperated, ADJ 
+control, NOUN 
+knees, NOUN 
+
+, SPACE 
+n=5, PROPN 
+aged, ADJ 
+knees, NOUN 
+n=4, PROPN 
+respectively, ADV 
+groups, NOUN 
+
+, SPACE 
+examined, VERB 
+control, NOUN 
+knees, NOUN 
+DMM, PROPN 
+mice, NOUN 
+age, NOUN 
+5, NUM 
+months, NOUN 
+
+, SPACE 
+showed, VERB 
+fold, ADJ 
+increase, NOUN 
+mean, ADJ 
+diffusivity, NOUN 
+sodium, NOUN 
+ﬂuores-, X 
+
+, SPACE 
+cein, NOUN 
+measured, VERB 
+chondrons, NOUN 
+calci, PROPN 
+ﬁed, PROPN 
+cartilage, NOUN 
+C, PROPN 
+C, PROPN 
+
+, SPACE 
+measured, VERB 
+osteocytes, NOUN 
+chondron, PROPN 
+O, PROPN 
+C, NOUN 
+
+, SPACE 
+joints, NOUN 
+p, NOUN 
+b0.05, NOUN 
+Table, PROPN 
+1, NUM 
+similar, ADJ 
+degree, NOUN 
+permeability, NOUN 
+in-, ADP 
+
+, SPACE 
+crease, NOUN 
+C, NOUN 
+C, PROPN 
+O, NOUN 
+C, NOUN 
+found, VERB 
+DMM, PROPN 
+operated, VERB 
+joints, NOUN 
+
+, SPACE 
+mice, NOUN 
+2.5, NUM 
+fold, NOUN 
+joints, NOUN 
+older, ADJ 
+mice, NOUN 
+age, NOUN 
+
+, SPACE 
+20, NUM 
+24, NUM 
+months, NOUN 
+4.7, NUM 
+fold, NOUN 
+changes, NOUN 
+reach, VERB 
+
+, SPACE 
+statistical, ADJ 
+signi, NOUN 
+ﬁcance, NOUN 
+possibly, ADV 
+small, ADJ 
+sample, NOUN 
+size, NOUN 
+
+, SPACE 
+weeks, NOUN 
+altered, ADJ 
+joint, ADJ 
+loading, NOUN 
+resulted, VERB 
+−37.5, NUM 
+decrease, NOUN 
+
+, SPACE 
+C, PROPN 
+C, NOUN 
+permeability, NOUN 
+change, NOUN 
+O, ADJ 
+C, NOUN 
+permeability, NOUN 
+DMMoperated, VERB 
+knees, NOUN 
+compared, VERB 
+control, NOUN 
+knees, NOUN 
+p>0.05, PROPN 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+aged, ADJ 
+knees, NOUN 
+age, NOUN 
+20, NUM 
+24, NUM 
+months, NOUN 
+showed, VERB 
+−31.2, PUNCT 
+
+, SPACE 
+and−41.7, ADJ 
+decrease, NOUN 
+C, PROPN 
+C, NOUN 
+O, NOUN 
+C, NOUN 
+permeability, NOUN 
+respectively, ADV 
+
+, SPACE 
+compared, VERB 
+younger, ADJ 
+control, NOUN 
+knees, NOUN 
+p>0.05, PROPN 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+Joint, ADJ 
+morphology, NOUN 
+vessel, NOUN 
+invasion, NOUN 
+
+, SPACE 
+Compared, VERB 
+normal, ADJ 
+age, NOUN 
+controls, NOUN 
+n=4, PROPN 
+average, ADJ 
+
+, SPACE 
+thicknesses, NOUN 
+SB, PROPN 
+CC, NOUN 
+layers, NOUN 
+total, ADJ 
+joint, ADJ 
+thickness, NOUN 
+
+, SPACE 
+signi, NOUN 
+ﬁcantly, ADV 
+reduced, VERB 
+−60, NUM 
+aged, ADJ 
+group, NOUN 
+signif-, NOUN 
+
+, SPACE 
+icant, ADJ 
+change, NOUN 
+detected, VERB 
+tissue, NOUN 
+layers, NOUN 
+DMM, PROPN 
+
+, SPACE 
+joints, NOUN 
+Fig, PROPN 
+4, NUM 
+number, NOUN 
+density, NOUN 
+vessels, NOUN 
+invading, VERB 
+CC, NOUN 
+
+, SPACE 
+layers, NOUN 
+showed, VERB 
+1, NUM 
+0.5, NUM 
+fold, ADJ 
+increase, NOUN 
+aged, ADJ 
+DMM, PROPN 
+groups, NOUN 
+
+, SPACE 
+respectively, ADV 
+Table, NOUN 
+2, NUM 
+vessels, NOUN 
+invading, VERB 
+tidemark, NOUN 
+
+, SPACE 
+normal, ADJ 
+joints, NOUN 
+vessels, NOUN 
+approached, VERB 
+tidemark, NOUN 
+aged, ADJ 
+
+, SPACE 
+DMM, PROPN 
+joints, NOUN 
+density, NOUN 
+51, NUM 
+18, NUM 
+mm2(Table, NOUN 
+2, NUM 
+Representa-, PROPN 
+
+, SPACE 
+tive, VERB 
+basic, ADJ 
+fuchsin, NOUN 
+images, NOUN 
+showed, VERB 
+blood, NOUN 
+vessels, NOUN 
+marrow, NOUN 
+
+, SPACE 
+spaces, NOUN 
+advanced, VERB 
+closer, ADV 
+articular, ADJ 
+cartilage, NOUN 
+joints, NOUN 
+subjected, VERB 
+al-, DET 
+
+, SPACE 
+tered, VERB 
+loading, NOUN 
+Fig, PROPN 
+1, NUM 
+B, PROPN 
+aged, ADJ 
+joints, NOUN 
+Fig, PROPN 
+1, NUM 
+C, PROPN 
+compared, VERB 
+
+, SPACE 
+normal, ADJ 
+aged, ADJ 
+joints, NOUN 
+altered, VERB 
+loading, NOUN 
+control, NOUN 
+Fig, PROPN 
+1, NUM 
+
+, SPACE 
+Discussion, PROPN 
+
+, SPACE 
+Recent, ADJ 
+evidence, NOUN 
+suggests, VERB 
+subchondral, ADJ 
+bone, NOUN 
+involved, VERB 
+
+, SPACE 
+OA, PROPN 
+development, NOUN 
+bone, NOUN 
+cartilage, NOUN 
+functionally, ADV 
+coupled, VERB 
+
+, SPACE 
+distribution, NOUN 
+joint, ADJ 
+loads, NOUN 
+exchanging, VERB 
+signaling, ADJ 
+
+, SPACE 
+molecules, NOUN 
+2,15,17,27, NUM 
+transport, NOUN 
+pathways, NOUN 
+cross-, ADJ 
+
+, SPACE 
+talk, NOUN 
+tissues, NOUN 
+fully, ADV 
+understood, VERB 
+Combining, VERB 
+an-, ADJ 
+
+, SPACE 
+imal, ADJ 
+models, NOUN 
+advanced, ADJ 
+imaging, NOUN 
+mathematical, ADJ 
+modeling, NOUN 
+pre-, NOUN 
+
+, SPACE 
+sent, VERB 
+work, NOUN 
+demonstrated, VERB 
+capacity, NOUN 
+communicating, VERB 
+
+, SPACE 
+biochemical, ADJ 
+signals, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+cartilage, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Validation, NOUN 
+OA, PROPN 
+models, NOUN 
+histological, ADJ 
+scores, NOUN 
+cartilage, NOUN 
+damage, NOUN 
+
+, SPACE 
+obtained, VERB 
+quadrants, NOUN 
+right, ADJ 
+knees, NOUN 
+aged, ADJ 
+20, NUM 
+24-, NUM 
+
+, SPACE 
+month, NOUN 
+old, ADJ 
+DMM, PROPN 
+5, NUM 
+month, NOUN 
+old, ADJ 
+control, NOUN 
+mice, NOUN 
+5, NUM 
+month, NOUN 
+old, ADJ 
+Compared, VERB 
+withthe, DET 
+normal, ADJ 
+age, NOUN 
+controls, NOUN 
+higher, ADJ 
+average, ADJ 
+scores, NOUN 
+seen, VERB 
+quadrants, NOUN 
+theaged, VERB 
+joints, NOUN 
+lateral, ADJ 
+tibia, PROPN 
+quadrants, NOUN 
+DMM, PROPN 
+joints8, NOUN 
+weeks, NOUN 
+post, VERB 
+surgery, NOUN 
+indicates, VERB 
+p, PROPN 
+b0.05vs, PROPN 
+controls, NOUN 
+Overall, ADV 
+damage, NOUN 
+mild, ADJ 
+
+, SPACE 
+average, ADJ 
+OA, NOUN 
+score, NOUN 
+1.2, NUM 
+range, NOUN 
+6, NUM 
+aged, ADJ 
+
+, SPACE 
+DMM, PROPN 
+joints, NOUN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Selected, PROPN 
+Safranin, PROPN 
+O, NOUN 
+Fast, ADJ 
+Green, PROPN 
+stained, VERB 
+sections, NOUN 
+shown, VERB 
+control, NOUN 
+B, PROPN 
+DMM, PROPN 
+C, NOUN 
+aged, ADJ 
+knee, NOUN 
+joints, NOUN 
+Smooth, ADJ 
+articular, PROPN 
+surface, NOUN 
+seen, VERB 
+medial, ADJ 
+femoral, ADJ 
+con-, NUM 
+
+, SPACE 
+dyle, NOUN 
+MF, PROPN 
+medial, ADJ 
+tibial, ADJ 
+plateau, NOUN 
+MT, PROPN 
+5, NUM 
+month, NOUN 
+old, ADJ 
+control, NOUN 
+mouse, PROPN 
+Panel, PROPN 
+damage, NOUN 
+areas, NOUN 
+indicated, VERB 
+arrowheads, NOUN 
+found, VERB 
+DMM, PROPN 
+Pane, PROPN 
+l, NOUN 
+B, PROPN 
+aged, ADJ 
+
+, SPACE 
+joint, NOUN 
+Panel, PROPN 
+C).Table, NOUN 
+1The, NUM 
+matrix, NOUN 
+permeability, NOUN 
+measured, VERB 
+sodium, NOUN 
+ﬂuorescein, NOUN 
+murine, PROPN 
+knee, NOUN 
+joints, NOUN 
+
+, SPACE 
+Group, PROPN 
+
+, SPACE 
+joint, ADJ 
+sample, NOUN 
+size)Age, PROPN 
+Diffusivity, PROPN 
+μm, VERB 
+
+, SPACE 
+2, NUM 
+s, NUM 
+
+, SPACE 
+C, PROPN 
+C, PROPN 
+mean±SD)Diffusivity, PROPN 
+μm2, PROPN 
+s, PROPN 
+
+, SPACE 
+O, PROPN 
+C, NOUN 
+mean±SD, PROPN 
+
+, SPACE 
+DMM, PROPN 
+
+, SPACE 
+right, ADJ 
+knees, NOUN 
+n=5)5, NOUN 
+months, NOUN 
+0.30±0.17, PROPN 
+0.12±0.04, PROPN 
+
+, SPACE 
+Control, PROPN 
+
+, SPACE 
+DMM, PROPN 
+left, VERB 
+knees, NOUN 
+n=5)5, PROPN 
+months, NOUN 
+0.48±0.13, PROPN 
+0.12±0.06, PROPN 
+
+, SPACE 
+Aged, VERB 
+
+, SPACE 
+right, ADJ 
+knees, NOUN 
+n=4)20–24, PROPN 
+months, NOUN 
+0.33±0.20, PROPN 
+0.07±0.03, PROPN 
+
+, SPACE 
+Keys, NOUN 
+
+, SPACE 
+SD, NOUN 
+standard, ADJ 
+deviation, NOUN 
+
+, SPACE 
+C, NOUN 
+C, NOUN 
+measurements, NOUN 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+chondrons, NOUN 
+
+, SPACE 
+O, PROPN 
+C, NOUN 
+measurements, NOUN 
+osteochondral, ADJ 
+interface, NOUN 
+osteocyte, ADJ 
+
+, SPACE 
+chondron, PROPN 
+
+, SPACE 
+n, NOUN 
+number, NOUN 
+joints, NOUN 
+group*p, NOUN 
+b0.05, PROPN 
+tailed, VERB 
+paired, VERB 
+Student, NOUN 
+ttest, NOUN 
+C, PROPN 
+C, NOUN 
+O, NOUN 
+C, NOUN 
+measures, NOUN 
+
+, SPACE 
+control, NOUN 
+group.215, VERB 
+J., PROPN 
+Pan, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+212, NUM 
+217, NUM 
+
+, SPACE 
+greatly, ADV 
+increased, VERB 
+altered, VERB 
+loading, NOUN 
+DMM, PROPN 
+ageing, VERB 
+induced, VERB 
+OA, PROPN 
+
+, SPACE 
+models, NOUN 
+apparently, ADV 
+different, ADJ 
+mechanisms, NOUN 
+DMM, PROPN 
+model, NOUN 
+mainly, ADV 
+
+, SPACE 
+involved, VERB 
+increasing, VERB 
+vessel, NOUN 
+invasion, NOUN 
+aged, ADJ 
+model, NOUN 
+involved, VERB 
+
+, SPACE 
+vessel, NOUN 
+invasion, NOUN 
+tissue, NOUN 
+thinning, NOUN 
+
+, SPACE 
+present, ADJ 
+study, NOUN 
+provides, VERB 
+information, NOUN 
+transport, NOUN 
+bar-, X 
+
+, SPACE 
+riers, NOUN 
+conduits, NOUN 
+molecular, ADJ 
+exchange, NOUN 
+normal, ADJ 
+OA, PROPN 
+joints, NOUN 
+
+, SPACE 
+Weﬁrst, PROPN 
+tested, VERB 
+permeability, NOUN 
+major, ADJ 
+structural, ADJ 
+barrier, NOUN 
+i.e., X 
+
+, SPACE 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+matrix, NOUN 
+osteochondral, ADJ 
+interface, NOUN 
+
+, SPACE 
+transport, NOUN 
+biochemical, ADJ 
+signals, NOUN 
+FLIP, PROPN 
+approach, NOUN 
+FLIP, PROPN 
+
+, SPACE 
+successfully, ADV 
+applied, VERB 
+transport, VERB 
+quanti, PROPN 
+ﬁcation, PROPN 
+normal, ADJ 
+
+, SPACE 
+joints, NOUN 
+10, NUM 
+FLIP, PROPN 
+technique, NOUN 
+providing, VERB 
+distinct, ADJ 
+advantage, NOUN 
+
+, SPACE 
+higher, ADJ 
+sensitivity, NOUN 
+low, ADJ 
+permeability, NOUN 
+situations, NOUN 
+compared, VERB 
+
+, SPACE 
+traditional, ADJ 
+tracer, NOUN 
+desorption, NOUN 
+ﬂuorescence, NOUN 
+recovery, NOUN 
+
+, SPACE 
+photobleaching, VERB 
+methods, NOUN 
+found, VERB 
+31, NUM 
+37, NUM 
+0, NUM 
+42, NUM 
+reduction, NOUN 
+
+, SPACE 
+statistically, ADV 
+signi, NOUN 
+ﬁcant, NOUN 
+permeability, NOUN 
+calci-, NOUN 
+
+, SPACE 
+ﬁed, PROPN 
+cartilage, NOUN 
+osteochondral, ADJ 
+interface, NOUN 
+C, PROPN 
+C, NOUN 
+O, NOUN 
+C, NOUN 
+measures, NOUN 
+
+, SPACE 
+resulted, VERB 
+8, NUM 
+weeks, NOUN 
+altered, ADJ 
+joint, ADJ 
+loading, NOUN 
+ageing, NOUN 
+respective-, VERB 
+
+, SPACE 
+ly, NOUN 
+ECM, PROPN 
+OA, PROPN 
+models, NOUN 
+restrictive, ADJ 
+dif-, NOUN 
+
+, SPACE 
+fusion, NOUN 
+small, ADJ 
+testing, NOUN 
+molecules, NOUN 
+376, NUM 
+Da, PROPN 
+ﬂuorescein, NOUN 
+possible, ADJ 
+
+, SPACE 
+hypermineralization, NOUN 
+ECM, PROPN 
+typically, ADV 
+seen, VERB 
+OA, PROPN 
+14–17, NUM 
+
+, SPACE 
+vivo, NOUN 
+signaling, VERB 
+molecules, NOUN 
+usually, ADV 
+proteins, NOUN 
+larger, ADJ 
+mo-, PROPN 
+
+, SPACE 
+lecular, ADJ 
+weights, NOUN 
+testing, NOUN 
+molecules, NOUN 
+passage, NOUN 
+
+, SPACE 
+ECM, PROPN 
+OA, PROPN 
+joints, NOUN 
+presumably, ADV 
+restricted, ADJ 
+
+, SPACE 
+Interestingly, PROPN 
+increasing, VERB 
+numbers, NOUN 
+large, ADJ 
+transport, NOUN 
+conduits, NOUN 
+
+, SPACE 
+vascular, ADJ 
+channels, NOUN 
+marrow, NOUN 
+cavities, NOUN 
+found, VERB 
+break, VERB 
+
+, SPACE 
+osteochondral, ADJ 
+interface, NOUN 
+advance, VERB 
+tidemark, NOUN 
+
+, SPACE 
+OA, PROPN 
+joints, NOUN 
+Fig, PROPN 
+1, NUM 
+andTable, NOUN 
+2, NUM 
+presence, NOUN 
+large, ADJ 
+perforating, NOUN 
+
+, SPACE 
+channels, NOUN 
+greatly, ADV 
+increases, VERB 
+overall, ADJ 
+transport, NOUN 
+capacity, NOUN 
+thejoint, NOUN 
+overcoming, VERB 
+transport, NOUN 
+barriers, NOUN 
+posed, VERB 
+denser, PROPN 
+ECM, PROPN 
+
+, SPACE 
+Unlike, ADP 
+small, ADJ 
+nanopores, NOUN 
+found, VERB 
+calci, NOUN 
+ﬁed, PROPN 
+matrix, NOUN 
+10, NUM 
+
+, SPACE 
+large, ADJ 
+conduits, NOUN 
+expected, VERB 
+facilitate, VERB 
+transport, NOUN 
+large, ADJ 
+signal-, ADJ 
+
+, SPACE 
+ing, ADJ 
+molecules, NOUN 
+large, ADJ 
+pore, ADJ 
+sizes, NOUN 
+order, NOUN 
+10-, NUM 
+
+, SPACE 
+microns, NOUN 
+Based, VERB 
+average, ADJ 
+number, NOUN 
+density, NOUN 
+invading, VERB 
+ves-, NOUN 
+
+, SPACE 
+sels, NOUN 
+readily, ADV 
+estimate, VERB 
+spacing, NOUN 
+vascular, ADJ 
+channels, NOUN 
+
+, SPACE 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+81, NUM 
+55, NUM 
+67, NUM 
+μm, NOUN 
+control, NOUN 
+
+, SPACE 
+aged, ADJ 
+DMM, PROPN 
+groups, NOUN 
+respectively, ADV 
+Assuming, VERB 
+diffusivity, NOUN 
+sodi-, PROPN 
+
+, SPACE 
+umﬂuorescein, NOUN 
+channels, NOUN 
+close, ADJ 
+free, ADJ 
+diffusion, NOUN 
+532, NUM 
+μm2, NOUN 
+s, PROPN 
+
+, SPACE 
+24, NUM 
+effective, ADJ 
+diffusivity, NOUN 
+tracer, NOUN 
+tissue, NOUN 
+cylinder, NOUN 
+sur-, NOUN 
+
+, SPACE 
+rounding, VERB 
+invading, NOUN 
+vessel, NOUN 
+expected, VERB 
+scale, VERB 
+square, NOUN 
+
+, SPACE 
+ratio, NOUN 
+vessel, NOUN 
+dimension, NOUN 
+~10, PUNCT 
+μm, NOUN 
+diameter, NOUN 
+
+, SPACE 
+tissue, NOUN 
+cylinder, NOUN 
+i.e., X 
+vessel, NOUN 
+spacing, NOUN 
+effective, ADJ 
+diffusivity, NOUN 
+
+, SPACE 
+estimated, VERB 
+8, NUM 
+μm2, NOUN 
+s, PROPN 
+normal, ADJ 
+joints, NOUN 
+increased, VERB 
+
+, SPACE 
+18, NUM 
+12, NUM 
+μm2, NOUN 
+s, NOUN 
+aged, ADJ 
+DMM, PROPN 
+joints, NOUN 
+respectively, ADV 
+Fur-, NOUN 
+
+, SPACE 
+thermore, PROPN 
+fraction, NOUN 
+vessels, NOUN 
+penetrated, VERB 
+way, NOUN 
+
+, SPACE 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+found, VERB 
+breach, VERB 
+tidemark, NOUN 
+160, NUM 
+
+, SPACE 
+236, NUM 
+μm, NOUN 
+aged, ADJ 
+DMM, PROPN 
+joints, NOUN 
+respectively, ADV 
+vessels, NOUN 
+
+, SPACE 
+provided, VERB 
+ef, PROPN 
+ﬁcient, PROPN 
+pathway, NOUN 
+direct, ADJ 
+molecular, ADJ 
+transport, NOUN 
+
+, SPACE 
+subchondral, ADJ 
+bone, NOUN 
+articular, ADJ 
+cartilage, NOUN 
+cross, ADJ 
+talk, ADJ 
+ca-, ADJ 
+
+, SPACE 
+pacity, NOUN 
+anticipated, VERB 
+elevated, ADJ 
+aged, ADJ 
+joints, NOUN 
+
+, SPACE 
+considering, VERB 
+signi, NOUN 
+ﬁcant, NOUN 
+thinning, NOUN 
+calci, PROPN 
+ﬁed, PROPN 
+tissue, NOUN 
+layers, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+present, ADJ 
+study, NOUN 
+reference, NOUN 
+28, NUM 
+results, NOUN 
+con-, PRON 
+
+, SPACE 
+sistent, ADJ 
+conductance, NOUN 
+measurements, NOUN 
+performed, VERB 
+OA, PROPN 
+osteo-, PUNCT 
+
+, SPACE 
+chondral, ADJ 
+samples, NOUN 
+29, NUM 
+
+, SPACE 
+present, ADJ 
+study, NOUN 
+tested, VERB 
+OA, NOUN 
+models, NOUN 
+induced, VERB 
+
+, SPACE 
+ageing, NOUN 
+altered, ADJ 
+joint, ADJ 
+loading, NOUN 
+major, ADJ 
+risk, NOUN 
+factors, NOUN 
+
+, SPACE 
+OA, PROPN 
+1, NUM 
+models, NOUN 
+exhibited, VERB 
+mild, ADJ 
+cartilage, NOUN 
+damage, NOUN 
+
+, SPACE 
+hands, NOUN 
+average, ADJ 
+score, NOUN 
+order, NOUN 
+1.2, NUM 
+range, NOUN 
+6, NUM 
+
+, SPACE 
+consistent, ADJ 
+previous, ADJ 
+studies, NOUN 
+23,30, X 
+mild, ADJ 
+OA, NOUN 
+
+, SPACE 
+models, NOUN 
+provided, VERB 
+opportunities, NOUN 
+study, VERB 
+tissue, NOUN 
+alterations, NOUN 
+associated, VERB 
+
+, SPACE 
+early, ADJ 
+stage(s, PROPN 
+OA, PROPN 
+statistically, ADV 
+signi, VERB 
+ﬁcant, NOUN 
+tissue, NOUN 
+
+, SPACE 
+permeabilities, NOUN 
+OA, PROPN 
+models, NOUN 
+reduced, VERB 
+compared, VERB 
+
+, SPACE 
+normal, ADJ 
+age, NOUN 
+control, NOUN 
+lack, NOUN 
+statistical, ADJ 
+signi, NOUN 
+ﬁcance, NOUN 
+
+, SPACE 
+groups, NOUN 
+small, ADJ 
+sample, NOUN 
+size, NOUN 
+study, NOUN 
+
+, SPACE 
+n=4, NUM 
+5, NUM 
+relatively, ADV 
+large, ADJ 
+variation, NOUN 
+data, NOUN 
+coef, PROPN 
+ﬁcient, NOUN 
+
+, SPACE 
+variation, NOUN 
+range, NOUN 
+20, NUM 
+50, NUM 
+Table, NOUN 
+1, NUM 
+Heterogeneous, ADJ 
+local, ADJ 
+tis-, ADJ 
+
+, SPACE 
+sue, NOUN 
+mineralization, NOUN 
+possible, ADJ 
+factor, NOUN 
+data, NOUN 
+scattering, VERB 
+
+, SPACE 
+14, NUM 
+errors, NOUN 
+associated, VERB 
+ﬂuorescence, NOUN 
+imaging, NOUN 
+
+, SPACE 
+curve, NOUN 
+ﬁtting, NOUN 
+Larger, ADJ 
+sample, NOUN 
+size, NOUN 
+needed, VERB 
+future, ADJ 
+studies, NOUN 
+Con-, NOUN 
+
+, SPACE 
+sistent, ADJ 
+previous, ADJ 
+reports, NOUN 
+18,19, NUM 
+increased, VERB 
+vessel, NOUN 
+invasion, NOUN 
+
+, SPACE 
+detected, VERB 
+OA, PROPN 
+models, NOUN 
+vessels, NOUN 
+approaching, VERB 
+oc-, NUM 
+
+, SPACE 
+casionally, ADV 
+breaching, VERB 
+tidemark, NOUN 
+molecular, ADJ 
+mechanisms, NOUN 
+
+, SPACE 
+directed, ADJ 
+vessel, NOUN 
+growth, NOUN 
+process, NOUN 
+remain, VERB 
+unclear, ADJ 
+speculate, VERB 
+
+, SPACE 
+pro, ADJ 
+angiogenic, ADJ 
+factors, NOUN 
+involved, VERB 
+OA, PROPN 
+models, NOUN 
+
+, SPACE 
+potential, ADJ 
+source, NOUN 
+factors, NOUN 
+hypertrophic, ADJ 
+chondrocytes, NOUN 
+
+, SPACE 
+31,32, X 
+angiogenesis, NOUN 
+directly, ADV 
+ﬂuences, NOUN 
+loss, NOUN 
+cartilage, NOUN 
+
+, SPACE 
+matrix, NOUN 
+vivo, NOUN 
+suggested, VERB 
+vitro, X 
+grafting, NOUN 
+study, NOUN 
+33, NUM 
+needs, VERB 
+
+, SPACE 
+tested, VERB 
+future, ADJ 
+studies, NOUN 
+know, VERB 
+present, ADJ 
+
+, SPACE 
+study, NOUN 
+communication, NOUN 
+capacity, NOUN 
+bone, NOUN 
+cartilage, NOUN 
+
+, SPACE 
+greatly, ADV 
+increased, VERB 
+OA, PROPN 
+models, NOUN 
+different, ADJ 
+mecha-, ADJ 
+
+, SPACE 
+nisms, NOUN 
+Increased, VERB 
+cross, ADJ 
+talk, NOUN 
+achieved, VERB 
+aged, ADJ 
+joints, NOUN 
+mainly, ADV 
+ves-, NOUN 
+
+, SPACE 
+sel, ADJ 
+invasion, NOUN 
+thinning, NOUN 
+transport, NOUN 
+barrier, NOUN 
+calci, PROPN 
+ﬁed, PROPN 
+tissues, NOUN 
+
+, SPACE 
+vessel, NOUN 
+invasion, NOUN 
+increased, VERB 
+altered, ADJ 
+loading, NOUN 
+OA, NOUN 
+
+, SPACE 
+model, NOUN 
+2, NUM 
+months, NOUN 
+post, NOUN 
+surgery, NOUN 
+tissue, NOUN 
+thinning, NOUN 
+occur, VERB 
+
+, SPACE 
+later, ADJ 
+time, NOUN 
+points, NOUN 
+DMM, PROPN 
+animals, NOUN 
+needs, VERB 
+tested, VERB 
+
+, SPACE 
+limitation, NOUN 
+study, NOUN 
+track, VERB 
+physiological, ADJ 
+
+, SPACE 
+signaling, VERB 
+molecules, NOUN 
+involved, VERB 
+OA, PROPN 
+development, NOUN 
+Instead, ADV 
+
+, SPACE 
+ﬂuorescent, NOUN 
+marker, NOUN 
+surrogate, NOUN 
+convenience, NOUN 
+imaging, NOUN 
+How-, X 
+
+, SPACE 
+diffusivity, NOUN 
+effective, ADJ 
+transport, NOUN 
+pathway, NOUN 
+data, NOUN 
+obtained, VERB 
+here-, ADV 
+
+, SPACE 
+readily, ADV 
+extrapolated, VERB 
+small, ADJ 
+nutrients, NOUN 
+small, ADJ 
+bioactive, ADJ 
+
+, SPACE 
+molecules, NOUN 
+Let, VERB 
+consider, VERB 
+scenario, NOUN 
+prostaglandin, PROPN 
+E2, PROPN 
+nitric, NOUN 
+
+, SPACE 
+oxide, NOUN 
+comparable, ADJ 
+molecular, ADJ 
+weight, NOUN 
+sodium, PROPN 
+ﬂuorescein, PROPN 
+
+, SPACE 
+released, VERB 
+subchondral, ADJ 
+bone, NOUN 
+regions, NOUN 
+bone, NOUN 
+turnover, NOUN 
+34].A, PROPN 
+s, AUX 
+
+, SPACE 
+suming, VERB 
+diffusivity, NOUN 
+ﬂuorescein, PROPN 
+readily, ADV 
+permeate, VERB 
+
+, SPACE 
+calciﬁed, NOUN 
+cartilage, NOUN 
+distance, NOUN 
+58, NUM 
+μm, NOUN 
+half, DET 
+hour, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Thickness, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+SB, PROPN 
+calci, PROPN 
+ﬁed, PROPN 
+cartilage, PROPN 
+CC, PROPN 
+articular, PROPN 
+carti-, NOUN 
+
+, SPACE 
+lage, NOUN 
+AC, PROPN 
+total, ADJ 
+thickness, NOUN 
+sum, NOUN 
+SB, PROPN 
+CC, PROPN 
+AC, PROPN 
+distal, ADJ 
+femoralepiphysis, NOUN 
+aged, ADJ 
+DMM, PROPN 
+OA, PROPN 
+joints, NOUN 
+data, NOUN 
+normalized, VERB 
+normalage, NOUN 
+controls, NOUN 
+indicates, VERB 
+p, PROPN 
+b0.05, PROPN 
+vs., ADP 
+controls, NOUN 
+Student's-, PROPN 
+ttest, ADJ 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+number, NOUN 
+density, NOUN 
+invading, NOUN 
+vessels, NOUN 
+right, ADJ 
+distal, ADJ 
+femoral, ADJ 
+epiphyses, NOUN 
+
+, SPACE 
+Group, PROPN 
+
+, SPACE 
+sample, NOUN 
+size)Age, PROPN 
+Number, PROPN 
+density, NOUN 
+invading, NOUN 
+vessels, NOUN 
+/mm2, NOUN 
+
+, SPACE 
+SB, PROPN 
+
+, SPACE 
+mean+SD)CC, PROPN 
+
+, SPACE 
+mean+SD)TM, PROPN 
+
+, SPACE 
+mean+SD, PROPN 
+
+, SPACE 
+DMM, PROPN 
+
+, SPACE 
+n=4)5, NOUN 
+months, NOUN 
+427.9±110.8, NUM 
+222.4±72.6, PROPN 
+18.1±15.8, NUM 
+
+, SPACE 
+Control, PROPN 
+
+, SPACE 
+n=4)5, NOUN 
+months, NOUN 
+327.1±178.0, NOUN 
+151.5±139.3, PROPN 
+0, NUM 
+
+, SPACE 
+Aged, VERB 
+
+, SPACE 
+n=4)20–24, PRON 
+months, NOUN 
+209.5±113.5, PROPN 
+332.2±86.4, PROPN 
+51.3±40.6, PROPN 
+
+, SPACE 
+Keys, NOUN 
+
+, SPACE 
+SD, NOUN 
+standard, ADJ 
+deviation, NOUN 
+
+, SPACE 
+SB, PROPN 
+subchondral, ADJ 
+bone;CC, NOUN 
+calci, NOUN 
+ﬁed, PROPN 
+cartilage, NOUN 
+
+, SPACE 
+TM, PROPN 
+tidemark;*p, PROPN 
+b0.05, PROPN 
+tailed, VERB 
+Student, PROPN 
+t, NOUN 
+test, NOUN 
+aged, VERB 
+vs., ADP 
+control).216, NOUN 
+J., PROPN 
+Pan, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+212, NUM 
+217, NUM 
+
+, SPACE 
+i.e., X 
+,√[4Dt]=58, PUNCT 
+μm, PROPN 
+D=0.48, NOUN 
+μm2, PROPN 
+s, NOUN 
+t=0.5, ADJ 
+h, NOUN 
+capillary, NOUN 
+
+, SPACE 
+penetrated, VERB 
+joints, NOUN 
+occurs, VERB 
+aged, ADJ 
+DMM, PROPN 
+joints, NOUN 
+signal-, ADJ 
+
+, SPACE 
+ing, ADJ 
+molecules, NOUN 
+cover, VERB 
+distance, NOUN 
+matter, NOUN 
+seconds, NOUN 
+
+, SPACE 
+surprisingly, ADV 
+fast, ADJ 
+transport, NOUN 
+processes, NOUN 
+contribute, VERB 
+ele-, NOUN 
+
+, SPACE 
+vated, VERB 
+concentrations, NOUN 
+OA, PROPN 
+joints, NOUN 
+providing, VERB 
+alternative, ADJ 
+explana-, ADJ 
+
+, SPACE 
+tion, NOUN 
+sources, NOUN 
+molecules, NOUN 
+vivo, ADJ 
+studies, NOUN 
+
+, SPACE 
+inhibition, NOUN 
+molecules, NOUN 
+provided, VERB 
+bene, ADJ 
+ﬁcial, ADJ 
+effects, NOUN 
+cartilage, NOUN 
+
+, SPACE 
+35,36, NUM 
+second, ADJ 
+limitation, NOUN 
+current, ADJ 
+study, NOUN 
+ad-, ADV 
+
+, SPACE 
+dress, VERB 
+mechanistic, ADJ 
+questions, NOUN 
+direction, NOUN 
+bone, NOUN 
+carti-, NOUN 
+
+, SPACE 
+lage, NOUN 
+cross, NOUN 
+talk, ADJ 
+signaling, NOUN 
+nature, NOUN 
+soluble, ADJ 
+signals, NOUN 
+
+, SPACE 
+large, ADJ 
+surface, NOUN 
+area, NOUN 
+cartilage, NOUN 
+presence, NOUN 
+transport, NOUN 
+barriers, NOUN 
+
+, SPACE 
+calci, PROPN 
+ﬁed, PROPN 
+cartilage, NOUN 
+osteochondral, ADJ 
+interface, NOUN 
+surface, NOUN 
+signal-, ADJ 
+
+, SPACE 
+ing, ADJ 
+mechanisms, NOUN 
+appealing, VERB 
+studying, VERB 
+OA, PROPN 
+pathology, NOUN 
+mecha-, ADJ 
+
+, SPACE 
+nisms, NOUN 
+accepted, VERB 
+related, ADJ 
+cartilage, NOUN 
+degenerative, ADJ 
+disease, NOUN 
+
+, SPACE 
+rheumatoid, ADJ 
+arthritis, NOUN 
+early, ADJ 
+changes, NOUN 
+observed, VERB 
+OA, PROPN 
+patients, NOUN 
+
+, SPACE 
+typically, ADV 
+involve, VERB 
+bone, NOUN 
+compartment, NOUN 
+4–6, NUM 
+inhibition, NOUN 
+bone, NOUN 
+
+, SPACE 
+remodeling, NOUN 
+arrested, VERB 
+progression, NOUN 
+OA, PROPN 
+animal, NOUN 
+studies, NOUN 
+7].T, PROPN 
+h, NOUN 
+e, PROPN 
+s, PROPN 
+e, NOUN 
+
+, SPACE 
+lines, NOUN 
+evidence, NOUN 
+lead, VERB 
+hypothesis, NOUN 
+signaling, VERB 
+bone, NOUN 
+car-, X 
+
+, SPACE 
+tilage, NOUN 
+mechanisms, NOUN 
+lead, VERB 
+OA, PROPN 
+development, NOUN 
+3].O, NUM 
+u, NOUN 
+r, NOUN 
+
+, SPACE 
+results, NOUN 
+demonstrated, VERB 
+increased, VERB 
+transport, NOUN 
+potential, NOUN 
+OA, PROPN 
+joints, NOUN 
+
+, SPACE 
+support, VERB 
+exclude, VERB 
+surface, NOUN 
+
+, SPACE 
+cross, ADJ 
+talk, VERB 
+speci, NOUN 
+ﬁcally, ADV 
+designed, VERB 
+experiments, NOUN 
+needed, VERB 
+re-, ADV 
+
+, SPACE 
+solve, VERB 
+question, NOUN 
+speculate, VERB 
+likely, ADJ 
+candidates, NOUN 
+
+, SPACE 
+bone, NOUN 
+cartilage, NOUN 
+cross, NOUN 
+talk, ADJ 
+signaling, VERB 
+molecules, NOUN 
+include, VERB 
+bone, NOUN 
+remo-, NOUN 
+
+, SPACE 
+deling, NOUN 
+byproducts, NOUN 
+transform, NOUN 
+growth, NOUN 
+factor, NOUN 
+beta, NOUN 
+insulin, NOUN 
+like, ADJ 
+
+, SPACE 
+growth, NOUN 
+factors, NOUN 
+ﬁbroblast, VERB 
+growth, NOUN 
+factors, NOUN 
+osteoclast, ADJ 
+oste-, ADJ 
+
+, SPACE 
+oblast, NOUN 
+activation, NOUN 
+factors, NOUN 
+nitric, NOUN 
+oxide, NOUN 
+prostaglandin, VERB 
+E2, PROPN 
+re-, ADP 
+
+, SPACE 
+ceptor, NOUN 
+activator, NOUN 
+nuclear, ADJ 
+factor, NOUN 
+kappa, PROPN 
+B, PROPN 
+ligand, NOUN 
+derived, VERB 
+cells, NOUN 
+
+, SPACE 
+marrow, NOUN 
+bone, NOUN 
+cartilage, NOUN 
+vitro, X 
+co, NOUN 
+culture, ADJ 
+targeted, VERB 
+blocking, NOUN 
+
+, SPACE 
+studies, NOUN 
+help, AUX 
+identify, VERB 
+signaling, VERB 
+molecules, NOUN 
+Lastly, ADV 
+current, ADJ 
+
+, SPACE 
+study, NOUN 
+answer, VERB 
+bone, NOUN 
+cartilage, NOUN 
+cross, NOUN 
+talk, NOUN 
+cause, NOUN 
+
+, SPACE 
+result, NOUN 
+OA, PROPN 
+development, NOUN 
+currently, ADV 
+investigating, VERB 
+
+, SPACE 
+inhibition, NOUN 
+bone, NOUN 
+turnover, NOUN 
+angiogenesis, NOUN 
+prevent, VERB 
+delay, VERB 
+
+, SPACE 
+OA, PROPN 
+development, NOUN 
+DMM, PROPN 
+surgery, NOUN 
+studies, NOUN 
+needed, VERB 
+fully, ADV 
+
+, SPACE 
+elucidate, VERB 
+role, NOUN 
+bone, NOUN 
+OA, PROPN 
+con, PROPN 
+ﬁrmed, VERB 
+bone, NOUN 
+provide, VERB 
+ef-, ADJ 
+
+, SPACE 
+fective, ADJ 
+pharmaceutical, ADJ 
+target, NOUN 
+OA, PROPN 
+treatment, NOUN 
+
+, SPACE 
+Conclusions, NOUN 
+
+, SPACE 
+investigation, NOUN 
+provided, VERB 
+quantitative, ADJ 
+measurements, NOUN 
+transport, NOUN 
+
+, SPACE 
+characteristics, NOUN 
+joints, NOUN 
+aged, ADJ 
+surgically, ADV 
+destabilized, VERB 
+
+, SPACE 
+normal, ADJ 
+age, NOUN 
+control, NOUN 
+mice, NOUN 
+Elevated, VERB 
+molecular, ADJ 
+transport, NOUN 
+found, VERB 
+
+, SPACE 
+OA, PROPN 
+joints, NOUN 
+mechanisms, NOUN 
+altered, VERB 
+local, ADJ 
+matrix, NOUN 
+permeabil-, PROPN 
+
+, SPACE 
+ity, NOUN 
+vessel, NOUN 
+invasion, NOUN 
+thinning, NOUN 
+transport, NOUN 
+resistant, ADJ 
+layers, NOUN 
+
+, SPACE 
+identi, PROPN 
+ﬁed, PROPN 
+data, NOUN 
+support, VERB 
+studies, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+
+, SPACE 
+role, NOUN 
+OA, PROPN 
+development, NOUN 
+potential, NOUN 
+OA, PROPN 
+treatments, NOUN 
+
+, SPACE 
+Acknowledgments, NOUN 
+
+, SPACE 
+thank, VERB 
+Dr., PROPN 
+Sonya, PROPN 
+Glasson, PROPN 
+demonstrating, VERB 
+DMM, PROPN 
+surgery, NOUN 
+
+, SPACE 
+Dr., PROPN 
+Weidong, PROPN 
+William, PROPN 
+Yang, PROPN 
+initiating, VERB 
+DMM, PROPN 
+operations, NOUN 
+
+, SPACE 
+Mr., PROPN 
+Frank, PROPN 
+Warren, PROPN 
+animal, NOUN 
+care, NOUN 
+Dr., PROPN 
+Chaoying, PROPN 
+Ni, PROPN 
+providing, VERB 
+
+, SPACE 
+cryostat, NOUN 
+Author, NOUN 
+contributions, NOUN 
+following, VERB 
+hypothesis, NOUN 
+for-, NOUN 
+
+, SPACE 
+mulation, NOUN 
+LW, PROPN 
+experimental, ADJ 
+design, NOUN 
+LW, PROPN 
+JP, PROPN 
+microsurgery, NOUN 
+WL, PROPN 
+
+, SPACE 
+data, NOUN 
+collection, NOUN 
+JP, PROPN 
+BW, PROPN 
+TS, PROPN 
+YY, PROPN 
+CP, PROPN 
+data, NOUN 
+analysis, NOUN 
+JP, PROPN 
+BW, PROPN 
+ZZ, PROPN 
+CP, PROPN 
+
+, SPACE 
+LW, PROPN 
+data, NOUN 
+interpretation, NOUN 
+LW, PROPN 
+JP, PROPN 
+CP, PROPN 
+manuscript, VERB 
+prepa-, PROPN 
+
+, SPACE 
+ration, NOUN 
+revision, NOUN 
+LW, PROPN 
+JP, PROPN 
+CP, PROPN 
+BW, PROPN 
+study, NOUN 
+supported, VERB 
+
+, SPACE 
+grants, NOUN 
+NIH, PROPN 
+P20RR016458, PROPN 
+R01AR054385, PROPN 
+LW, PROPN 
+
+, SPACE 
+China, PROPN 
+NSF, PROPN 
+10972243, NUM 
+JP, PROPN 
+China, PROPN 
+Council, PROPN 
+Fellowship, PROPN 
+BW, PROPN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+1, X 
+Buckwalter, PROPN 
+JA, PROPN 
+Martin, PROPN 
+JA, PROPN 
+Osteoarthritis, PROPN 
+Adv, PROPN 
+Drug, PROPN 
+Deliv, PROPN 
+Rev, PROPN 
+2006;58(2):150, NUM 
+67, NUM 
+
+, SPACE 
+2, X 
+Goldring, VERB 
+MB, NOUN 
+Goldring, PROPN 
+SR, PROPN 
+Articular, ADJ 
+cartilage, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+patho-, ADJ 
+
+, SPACE 
+genesis, NOUN 
+osteoarthritis, NOUN 
+Ann, PROPN 
+N, PROPN 
+Y, PROPN 
+Acad, PROPN 
+Sci, PROPN 
+2010;1192:230, PROPN 
+7.[3, NUM 
+Lories, PROPN 
+RJ, PROPN 
+Luyten, PROPN 
+FP, PROPN 
+bone, NOUN 
+cartilage, NOUN 
+unit, NOUN 
+osteoarthritis, NOUN 
+Nat, PROPN 
+Rev, PROPN 
+Rheumatol, PROPN 
+
+, SPACE 
+2011;7(1):43, PROPN 
+9, NUM 
+
+, SPACE 
+4, X 
+Imhof, PROPN 
+H, PROPN 
+et, PROPN 
+al, PROPN 
+Degenerative, ADJ 
+joint, ADJ 
+disease, NOUN 
+cartilage, NOUN 
+vascular, ADJ 
+disease, NOUN 
+Skeletal, ADJ 
+
+, SPACE 
+Radiol, PROPN 
+1997;26(7):398, NUM 
+403, NUM 
+
+, SPACE 
+5, X 
+Kwan, PROPN 
+Tat, PROPN 
+S, PROPN 
+Lajeunesse, PROPN 
+D, PROPN 
+Pelletier, PROPN 
+JP, PROPN 
+Martel, PROPN 
+Pelletier, PROPN 
+J., PROPN 
+Targeting, VERB 
+subchondral, ADJ 
+
+, SPACE 
+bone, NOUN 
+treating, VERB 
+osteoarthritis, NOUN 
+evidence, NOUN 
+Best, PROPN 
+Pract, PROPN 
+Res, PROPN 
+Clin, PROPN 
+Rheu-, PROPN 
+
+, SPACE 
+matol, NOUN 
+2010;24:51, PROPN 
+70, NUM 
+
+, SPACE 
+6, X 
+Lajeunesse, PROPN 
+D., PROPN 
+role, NOUN 
+bone, NOUN 
+treatment, NOUN 
+osteoarthritis, NOUN 
+Osteoarthritis, PROPN 
+
+, SPACE 
+Cartilage, PROPN 
+2004;12(Suppl, NUM 
+A):S34, PROPN 
+8, NUM 
+
+, SPACE 
+7, X 
+Kadri, PROPN 
+et, PROPN 
+al, PROPN 
+Osteoprotegerin, PROPN 
+inhibits, VERB 
+cartilage, NOUN 
+degradation, NOUN 
+effect, NOUN 
+
+, SPACE 
+trabecular, ADJ 
+bone, NOUN 
+murine, PROPN 
+experimental, ADJ 
+osteoarthritis, NOUN 
+Arthritis, PROPN 
+Rheum, PROPN 
+
+, SPACE 
+2008;58(8):2379, PROPN 
+86, NUM 
+
+, SPACE 
+8, X 
+Botter, PROPN 
+SM, PROPN 
+et, PROPN 
+al, PROPN 
+ADAMTS5−/−mice, PROPN 
+subchondral, ADJ 
+bone, NOUN 
+changes, NOUN 
+in-, ADP 
+
+, SPACE 
+duction, NOUN 
+osteoarthritis, NOUN 
+surgical, ADJ 
+instability, NOUN 
+implications, NOUN 
+link, NOUN 
+be-, NOUN 
+
+, SPACE 
+tween, NOUN 
+cartilage, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+changes, NOUN 
+Osteoarthritis, PROPN 
+Cartilage, PROPN 
+
+, SPACE 
+2009;17(5):636, PROPN 
+45, NUM 
+
+, SPACE 
+9, X 
+Sanchez, PROPN 
+C, PROPN 
+et, PROPN 
+al, PROPN 
+Subchondral, ADJ 
+bone, NOUN 
+osteoblasts, NOUN 
+induce, VERB 
+phenotypic, ADJ 
+changes, NOUN 
+
+, SPACE 
+human, ADJ 
+osteoarthritic, ADJ 
+chondrocytes, NOUN 
+Osteoarthritis, PROPN 
+Cartilage, PROPN 
+2005;13(11, NUM 
+
+, SPACE 
+988–97, NUM 
+
+, SPACE 
+10, NUM 
+Pan, PROPN 
+J, PROPN 
+et, PROPN 
+al, PROPN 
+situ, ADJ 
+measurement, NOUN 
+transport, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+ar-, ADV 
+
+, SPACE 
+ticular, ADJ 
+cartilage, NOUN 
+J, PROPN 
+Orthop, PROPN 
+Res, PROPN 
+2009;27(10):1347, PROPN 
+52, NUM 
+
+, SPACE 
+11, NUM 
+Hodge, PROPN 
+JA, PROPN 
+McKibbin, PROPN 
+B., PROPN 
+nutrition, NOUN 
+mature, ADJ 
+immature, ADJ 
+cartilage, NOUN 
+rabbits, NOUN 
+
+, SPACE 
+autoradiographic, ADJ 
+study, NOUN 
+J, PROPN 
+Bone, PROPN 
+Joint, PROPN 
+Surg, PROPN 
+Br, PROPN 
+1969;51(1):140, PROPN 
+7, NUM 
+
+, SPACE 
+12, NUM 
+Honner, PROPN 
+R, PROPN 
+Thompson, PROPN 
+RC, PROPN 
+nutritional, ADJ 
+pathways, NOUN 
+articular, ADJ 
+cartilage, NOUN 
+auto-, ADJ 
+
+, SPACE 
+radiographic, ADJ 
+study, NOUN 
+rabbits, NOUN 
+35S, NUM 
+injected, VERB 
+intravenously, ADV 
+J, PROPN 
+Bone, PROPN 
+Joint, PROPN 
+SurgAm, PROPN 
+1971;53(4):742, NUM 
+8, NUM 
+
+, SPACE 
+13, NUM 
+Ogata, PROPN 
+K, PROPN 
+Whiteside, PROPN 
+LA, PROPN 
+Barrier, NOUN 
+material, NOUN 
+transfer, NOUN 
+bone, NOUN 
+cartilage, NOUN 
+interface, NOUN 
+
+, SPACE 
+measurement, NOUN 
+hydrogen, NOUN 
+gas, NOUN 
+vivo, NOUN 
+Clin, PROPN 
+Orthop, PROPN 
+Relat, PROPN 
+Res, PROPN 
+1979;145:273, NUM 
+6, NUM 
+
+, SPACE 
+14, NUM 
+Ferguson, PROPN 
+VL, PROPN 
+Bushby, PROPN 
+AJ, PROPN 
+Boyde, PROPN 
+A., NOUN 
+Nanomechanical, ADJ 
+properties, NOUN 
+mineral, NOUN 
+con-, PART 
+
+, SPACE 
+centration, NOUN 
+articular, PROPN 
+calci, PROPN 
+ﬁed, PROPN 
+cartilage, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+J, PROPN 
+Anat, PROPN 
+
+, SPACE 
+2003;203(2):191, PROPN 
+202, NUM 
+
+, SPACE 
+15, X 
+Imhof, PROPN 
+H, PROPN 
+et, PROPN 
+al, PROPN 
+Importance, PROPN 
+subchondral, ADJ 
+bone, NOUN 
+articular, VERB 
+cartilage, NOUN 
+health, NOUN 
+
+, SPACE 
+disease, NOUN 
+Magn, PROPN 
+Reson, PROPN 
+Imaging, PROPN 
+1999;10(3):180, PROPN 
+92, NUM 
+
+, SPACE 
+16, NUM 
+Miller, PROPN 
+LM, PROPN 
+et, PROPN 
+al, PROPN 
+Alterations, PROPN 
+mineral, NOUN 
+composition, NOUN 
+observed, VERB 
+osteoarthritic, ADJ 
+
+, SPACE 
+joints, NOUN 
+cynomolgus, ADJ 
+monkeys, NOUN 
+Bone, NOUN 
+2004;35(2):498, NUM 
+506, NUM 
+
+, SPACE 
+17, NUM 
+Radin, PROPN 
+EL, PROPN 
+Rose, PROPN 
+RM, PROPN 
+Role, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+initiation, NOUN 
+progression, NOUN 
+
+, SPACE 
+cartilage, NOUN 
+damage, NOUN 
+Clin, PROPN 
+Orthop, PROPN 
+Relat, PROPN 
+Res, PROPN 
+1986;213:34, PROPN 
+40, NUM 
+
+, SPACE 
+18, X 
+Clark, PROPN 
+JM, PROPN 
+structure, NOUN 
+vascular, ADJ 
+channels, NOUN 
+subchondral, ADJ 
+plate, NOUN 
+J, PROPN 
+Anat, PROPN 
+
+, SPACE 
+1990;171:105, NUM 
+15, NUM 
+
+, SPACE 
+19, NUM 
+Imhof, PROPN 
+H, PROPN 
+et, PROPN 
+al, PROPN 
+Subchondral, ADJ 
+bone, NOUN 
+cartilage, NOUN 
+disease, NOUN 
+rediscovered, ADJ 
+functional, ADJ 
+
+, SPACE 
+unit, NOUN 
+Invest, VERB 
+Radiol, PROPN 
+2000;35(10):581, PROPN 
+8, NUM 
+
+, SPACE 
+20, NUM 
+Burr, PROPN 
+DB, PROPN 
+Schaf, PROPN 
+ﬂer, VERB 
+MB, NOUN 
+involvement, NOUN 
+subchondral, ADJ 
+mineralized, VERB 
+tissues, NOUN 
+
+, SPACE 
+osteoarthrosis, NOUN 
+quantitative, ADJ 
+microscopic, ADJ 
+evidence, NOUN 
+Microsc, PROPN 
+Res, PROPN 
+Tech, PROPN 
+1997;37(4, NUM 
+
+, SPACE 
+343–57, NUM 
+
+, SPACE 
+21, NUM 
+Burr, PROPN 
+DB, PROPN 
+Radin, PROPN 
+EL, PROPN 
+Microfractures, NOUN 
+microcracks, NOUN 
+subchondral, ADJ 
+bone, NOUN 
+
+, SPACE 
+relevant, ADJ 
+osteoarthrosis, NOUN 
+Rheum, PROPN 
+Dis, PROPN 
+Clin, PROPN 
+North, PROPN 
+2003;29(4):675, NUM 
+85, NUM 
+
+, SPACE 
+22, X 
+Bendele, PROPN 
+Animal, NOUN 
+models, NOUN 
+osteoarthritis, NOUN 
+J, PROPN 
+Musculoskelet, PROPN 
+Neuronal, PROPN 
+Interact, PROPN 
+
+, SPACE 
+2001;1(4):363, NUM 
+76, NUM 
+
+, SPACE 
+23, NUM 
+Glasson, PROPN 
+SS, PROPN 
+Blanchet, PROPN 
+TJ, PROPN 
+Morris, PROPN 
+EA, NOUN 
+surgical, ADJ 
+destabilization, NOUN 
+medial, ADJ 
+
+, SPACE 
+meniscus, NOUN 
+DMM, PROPN 
+model, NOUN 
+osteoarthritis, NOUN 
+129, NUM 
+SvEv, PROPN 
+mouse, NOUN 
+Osteoarthritis, PROPN 
+
+, SPACE 
+Cartilage, PROPN 
+2007;15(9):1061, NUM 
+9, NUM 
+
+, SPACE 
+24, NUM 
+Wang, PROPN 
+L, PROPN 
+et, PROPN 
+al, PROPN 
+situ, NOUN 
+measurement, NOUN 
+solute, NOUN 
+transport, NOUN 
+bone, NOUN 
+lacunar, NOUN 
+canalicular, ADJ 
+
+, SPACE 
+system, NOUN 
+Proc, PROPN 
+Natl, PROPN 
+Acad, PROPN 
+Sci, PROPN 
+U, PROPN 
+S, NOUN 
+2005;102(33):11911, NUM 
+6, NUM 
+
+, SPACE 
+25, NUM 
+Leddy, PROPN 
+HA, PROPN 
+Guilak, PROPN 
+F., PROPN 
+Site, PROPN 
+speci, NOUN 
+ﬁc, INTJ 
+molecular, ADJ 
+diffusion, NOUN 
+articular, ADJ 
+cartilage, NOUN 
+mea-, NUM 
+
+, SPACE 
+sured, VERB 
+ﬂuorescence, NOUN 
+recovery, NOUN 
+photobleaching, VERB 
+Ann, PROPN 
+Biomed, PROPN 
+Eng, PROPN 
+
+, SPACE 
+2003;31(7):753, NUM 
+60, NUM 
+
+, SPACE 
+26, NUM 
+Burr, PROPN 
+DB, PROPN 
+Hooser, PROPN 
+M., PROPN 
+Alterations, PROPN 
+en, PROPN 
+bloc, PROPN 
+basic, ADJ 
+fuchsin, NOUN 
+staining, NOUN 
+protocol, NOUN 
+
+, SPACE 
+demonstration, NOUN 
+microdamage, NOUN 
+produced, VERB 
+vivo, NOUN 
+Bone, NOUN 
+1995;17(4, NUM 
+
+, SPACE 
+431–3, NUM 
+
+, SPACE 
+27, NUM 
+Lajeunesse, PROPN 
+D, PROPN 
+Reboul, PROPN 
+P., PROPN 
+Subchondral, PROPN 
+bone, NOUN 
+osteoarthritis, NOUN 
+biologic, ADJ 
+link, NOUN 
+
+, SPACE 
+articular, ADJ 
+cartilage, NOUN 
+leading, VERB 
+abnormal, ADJ 
+remodeling, NOUN 
+Curr, PROPN 
+Opin, PROPN 
+Rheumatol, PROPN 
+
+, SPACE 
+2003;15(5):628, PROPN 
+
+, SPACE 
+33, NUM 
+
+, SPACE 
+28, X 
+Lane, PROPN 
+LB, PROPN 
+Bullough, PROPN 
+PG, PROPN 
+Age, NOUN 
+related, VERB 
+changes, NOUN 
+thickness, NOUN 
+calci, NOUN 
+ﬁed, PROPN 
+zone, PROPN 
+
+, SPACE 
+number, NOUN 
+tidemarks, NOUN 
+adult, NOUN 
+human, ADJ 
+articular, ADJ 
+cartilage, NOUN 
+J, PROPN 
+Bone, PROPN 
+Joint, PROPN 
+
+, SPACE 
+Surg, PROPN 
+Br, PROPN 
+1980;62(3):372, PROPN 
+5, NUM 
+
+, SPACE 
+29, X 
+Hwang, PROPN 
+J, PROPN 
+et, PROPN 
+al, PROPN 
+Increased, VERB 
+hydraulic, ADJ 
+conductance, NOUN 
+human, ADJ 
+articular, ADJ 
+cartilage, NOUN 
+
+, SPACE 
+subchondral, ADJ 
+bone, NOUN 
+plate, NOUN 
+progression, NOUN 
+osteoarthritis, NOUN 
+Arthritis, PROPN 
+Rheum, PROPN 
+
+, SPACE 
+2008;58(12):3831, PROPN 
+42, NUM 
+
+, SPACE 
+30, X 
+Dieppe, PROPN 
+P, PROPN 
+et, PROPN 
+al, PROPN 
+Prediction, NOUN 
+progression, NOUN 
+joint, ADJ 
+space, NOUN 
+narrowing, NOUN 
+osteoar-, X 
+
+, SPACE 
+thritis, NOUN 
+knee, NOUN 
+bone, NOUN 
+scintigraphy, NOUN 
+Ann, PROPN 
+Rheum, PROPN 
+Dis, PROPN 
+1993;52(8):557, NUM 
+63, NUM 
+
+, SPACE 
+31, NUM 
+Ashraf, PROPN 
+S, PROPN 
+Walsh, PROPN 
+DA, PROPN 
+Angiogenesis, NOUN 
+osteoarthritis, NOUN 
+Curr, PROPN 
+Opin, PROPN 
+Rheumatol, PROPN 
+
+, SPACE 
+2008;20(5):573, NUM 
+80, NUM 
+
+, SPACE 
+32, X 
+Pesesse, PROPN 
+L, PROPN 
+Sanchez, PROPN 
+C, PROPN 
+Henrotin, PROPN 
+Y., PROPN 
+Osteochondral, PROPN 
+plate, NOUN 
+angiogenesis, NOUN 
+new, ADJ 
+treat-, ADJ 
+
+, SPACE 
+ment, ADJ 
+target, NOUN 
+osteoarthritis, NOUN 
+Joint, PROPN 
+Bone, PROPN 
+Spine, PROPN 
+2011;78(2):144, NUM 
+9, NUM 
+
+, SPACE 
+33, NUM 
+Fenwick, PROPN 
+SA, PROPN 
+Gregg, PROPN 
+PJ, PROPN 
+Rooney, PROPN 
+P., PROPN 
+Osteoarthritic, ADJ 
+cartilage, NOUN 
+loses, VERB 
+ability, NOUN 
+remain, VERB 
+
+, SPACE 
+avascular, NOUN 
+Osteoarthritis, PROPN 
+Cartilage, PROPN 
+1999;7(5):441, NUM 
+52, NUM 
+
+, SPACE 
+34, NUM 
+Burr, PROPN 
+DB, PROPN 
+Increased, VERB 
+biological, ADJ 
+activity, NOUN 
+subchondral, ADJ 
+mineralized, VERB 
+tissues, NOUN 
+underlies, VERB 
+
+, SPACE 
+progressive, ADJ 
+deterioration, NOUN 
+articular, ADJ 
+cartilage, NOUN 
+osteoarthritis, NOUN 
+J, PROPN 
+Rheumatol2005;32(6):1156, PROPN 
+8, NUM 
+discussion, NOUN 
+1158, NUM 
+9, NUM 
+
+, SPACE 
+35, NUM 
+Chabane, PROPN 
+N, PROPN 
+et, PROPN 
+al, PROPN 
+Histone, PROPN 
+deacetylase, NOUN 
+inhibitors, NOUN 
+suppress, VERB 
+interleukin-1beta-, NOUN 
+
+, SPACE 
+induced, VERB 
+nitric, NOUN 
+oxide, NOUN 
+prostaglandin, VERB 
+E2, NOUN 
+production, NOUN 
+human, ADJ 
+chondrocytes, NOUN 
+
+, SPACE 
+Osteoarthritis, PROPN 
+Cartilage, PROPN 
+2008;16(10):1267, PROPN 
+74, NUM 
+
+, SPACE 
+36, NUM 
+Studer, NOUN 
+R, NOUN 
+et, PROPN 
+al, PROPN 
+Nitric, PROPN 
+oxide, NOUN 
+osteoarthritis, NOUN 
+Osteoarthritis, PROPN 
+Cartilage, PROPN 
+1999;7(4, NOUN 
+
+, SPACE 
+377–9.217, NUM 
+J., PROPN 
+Pan, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, NOUN 
+51, NUM 
+2012, NUM 
+212, NUM 
+217, NUM 
+
+, SPACE 

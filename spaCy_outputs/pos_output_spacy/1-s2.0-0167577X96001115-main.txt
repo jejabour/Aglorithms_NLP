@@ -1,0 +1,896 @@
+ELSEVIER, PROPN 
+October, PROPN 
+1996, NUM 
+
+, SPACE 
+Materials, PROPN 
+Letters, PROPN 
+28, NUM 
+1996, NUM 
+489, NUM 
+490, NUM 
+
+, SPACE 
+Photoluminescence, PROPN 
+spectra, NOUN 
+CaFCl, NUM 
+Eu2, ADJ 
++, ADJ 
+powder, NOUN 
+phosphors, NOUN 
+
+, SPACE 
+K., PROPN 
+Rajamohan, PROPN 
+Reddy, PROPN 
+K., PROPN 
+Annapurna, PROPN 
+S., PROPN 
+Buddhudu, PROPN 
+
+, SPACE 
+Department, PROPN 
+Physics, PROPN 
+Sri, PROPN 
+Venkateswara, PROPN 
+University, PROPN 
+Tirupati, PROPN 
+517, NUM 
+502, NUM 
+India, PROPN 
+
+, SPACE 
+Received, VERB 
+1, NUM 
+March, PROPN 
+1996, NUM 
+revised, VERB 
+16, NUM 
+April, PROPN 
+1996, NUM 
+accepted, VERB 
+20, NUM 
+April, PROPN 
+1996, NUM 
+
+, SPACE 
+Abstract, ADJ 
+
+, SPACE 
+short, ADJ 
+communication, NOUN 
+summarises, VERB 
+effects, NOUN 
+dopant, ADJ 
+ion, NOUN 
+concentration, NOUN 
+photoluminescence, NOUN 
+efficiency, NOUN 
+
+, SPACE 
+CaFCl, NOUN 
+Eu*+, PROPN 
+powder, NOUN 
+phosphors, NOUN 
+phosphors, NOUN 
+displayed, VERB 
+fluorescent, ADJ 
+transition, NOUN 
+4f6(‘FJ>5d, NUM 
+-+, PUNCT 
+4f, NUM 
+395, NUM 
+
+, SPACE 
+nm, NOUN 
+excitation, NOUN 
+UV, NOUN 
+source, NOUN 
+280, NUM 
+nm, NOUN 
+Measured, VERB 
+XRD, PROPN 
+spectra, NOUN 
+confirm, VERB 
+presence, NOUN 
+Eu2, NOUN 
++, VERB 
+synthesized, ADJ 
+
+, SPACE 
+powder, NOUN 
+phosphors, NOUN 
+
+, SPACE 
+Ke, PROPN 
+>, NOUN 
+lwords, NOUN 
+X, NOUN 
+ray, NOUN 
+imaging, NOUN 
+phosphors, NOUN 
+Fluorescence, PROPN 
+CaFCl, X 
+Doped, PROPN 
+Eu2, X 
++, ADJ 
+ions, NOUN 
+
+, SPACE 
+past, ADJ 
+years, NOUN 
+develop-, ADV 
+
+, SPACE 
+ing, NOUN 
+characterising, VERB 
+powder, NOUN 
+phosphors, NOUN 
+
+, SPACE 
+doped, VERB 
+certain, ADJ 
+appropriate, ADJ 
+quantities, NOUN 
+suitable, ADJ 
+
+, SPACE 
+fluorescing, VERB 
+3, NUM 
++, NUM 
+ions, NOUN 
+observing, VERB 
+primary, ADJ 
+
+, SPACE 
+B, PROPN 
+G, NOUN 
+R, NOUN 
+colours, NOUN 
+excitation, NOUN 
+
+, SPACE 
+electron, NOUN 
+beam, NOUN 
+UV, NOUN 
+source, NOUN 
+S, PROPN 
+Hosoi, NOUN 
+et, NOUN 
+al, PROPN 
+9, X 
+
+, SPACE 
+Meijerink, PROPN 
+et, PROPN 
+al, PROPN 
+lo, X 
+reported, VERB 
+
+, SPACE 
+MFX, PROPN 
+Eu*+, PROPN 
+M, PROPN 
+=, PUNCT 
+Ba, PROPN 
+Sr, PROPN 
+X, PROPN 
+=, PROPN 
+Cl, PROPN 
+Br, PROPN 
+>, X 
+powder, NOUN 
+
+, SPACE 
+phosphors, NOUN 
+exhibit, VERB 
+high, ADJ 
+efficiency, NOUN 
+fluores-, NOUN 
+
+, SPACE 
+cence, NOUN 
+phosphors, NOUN 
+considered, VERB 
+
+, SPACE 
+useful, ADJ 
+image, NOUN 
+forming, VERB 
+radiography, NOUN 
+
+, SPACE 
+recently, ADV 
+undertaken, VERB 
+preparation, NOUN 
+analysis, NOUN 
+
+, SPACE 
+important, ADJ 
+phosphors, NOUN 
+paper, NOUN 
+con-, VERB 
+
+, SPACE 
+cerning, VERB 
+luminescent, ADJ 
+phosphors, NOUN 
+BaFCl, NUM 
+Eu*+, PROPN 
+
+, SPACE 
+l, NOUN 
+appear, VERB 
+soon, ADV 
+present, ADJ 
+work, NOUN 
+describes, VERB 
+
+, SPACE 
+emission, NOUN 
+spectral, ADJ 
+results, NOUN 
+concerning, VERB 
+CaFCl, PROPN 
+Eu2, CCONJ 
++, ADJ 
+
+, SPACE 
+powder, NOUN 
+phosphors, NOUN 
+EuZt, PROPN 
+dopants, NOUN 
+
+, SPACE 
+different, ADJ 
+concentrations, NOUN 
+Following, VERB 
+experimental, ADJ 
+methods, NOUN 
+described, VERB 
+earlier, ADV 
+literature, NOUN 
+12, NUM 
+
+, SPACE 
+CaFCl, NOUN 
+Eu*+, PROPN 
+phosphors, NOUN 
+prepared, VERB 
+neutral, ADJ 
+
+, SPACE 
+atmosphere, NOUN 
+reacting, VERB 
+pure, ADJ 
+chemicals, NOUN 
+CaF2, NOUN 
+
+, SPACE 
+CaCl, PROPN 
+EuCl, PROPN 
+hour, NOUN 
+700, NUM 
+°, NUM 
+C, NOUN 
+electric, ADJ 
+
+, SPACE 
+furnace, NOUN 
+Ammoniumchloride, PROPN 
+flux, NOUN 
+
+, SPACE 
+synthesising, VERB 
+phosphors, NOUN 
+availability, NOUN 
+
+, SPACE 
+Eu2, NOUN 
++, NOUN 
+ions, NOUN 
+synthesis, NOUN 
+confirmation, NOUN 
+
+, SPACE 
+phosphors, NOUN 
+verified, VERB 
+measured, ADJ 
+
+, SPACE 
+XRD, PROPN 
+spectral, ADJ 
+profiles, NOUN 
+access, NOUN 
+
+, SPACE 
+recording, NOUN 
+facilities, NOUN 
+fluorescence, PROPN 
+spectra, PROPN 
+XRD, PROPN 
+
+, SPACE 
+profiles, NOUN 
+CECRI, PROPN 
+Karaikudi, PROPN 
+India, PROPN 
+Table, NOUN 
+1, NUM 
+
+, SPACE 
+gives, VERB 
+fractional, ADJ 
+mol%, PROPN 
+chemical, NOUN 
+
+, SPACE 
+prepare, VERB 
+CaFCl, PROPN 
+Eu2, X 
++, ADJ 
+phosphors, NOUN 
+
+, SPACE 
+Corresponding, VERB 
+author, NOUN 
+Fig, PROPN 
+1, NUM 
+shows, VERB 
+emission, NOUN 
+spectral, ADJ 
+profiles, NOUN 
+
+, SPACE 
+CaFCl, PROPN 
+Eu2, X 
+phosphors, NOUN 
+describing, VERB 
+variations, NOUN 
+
+, SPACE 
+intensity, NOUN 
+function, NOUN 
+dopant, ADJ 
+Eu2, NOUN 
++, ADJ 
+ion, NOUN 
+
+, SPACE 
+concentration, NOUN 
+emission, NOUN 
+level, NOUN 
+intensity, NOUN 
+395, NUM 
+
+, SPACE 
+nm, PROPN 
+found, VERB 
+increasing, VERB 
+gradually, ADV 
+
+, SPACE 
+concentration, NOUN 
+0.01, NUM 
+mol%, PROPN 
+0.05, NUM 
+mol%, PROPN 
+
+, SPACE 
+relative, ADJ 
+intensity, NOUN 
+found, VERB 
+decrease, VERB 
+
+, SPACE 
+steadily, ADV 
+spite, NOUN 
+increase, NOUN 
+Eu2, NOUN 
++, ADJ 
+concen-, X 
+
+, SPACE 
+00167, NUM 
+577X/96/$12.00, NUM 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+PI/, PROPN 
+SO1, PROPN 
+67, NUM 
+577X(96)001, NOUN 
+I-5, NOUN 
+
+, SPACE 
+490, NUM 
+K.R., PROPN 
+Reddy, PROPN 
+et, PROPN 
+al./Materials, PROPN 
+Letters, PROPN 
+28, NUM 
+1996, NUM 
+489, NUM 
+490, NUM 
+
+, SPACE 
+Table, NOUN 
+
+, SPACE 
+Chemical, PROPN 
+compositions, NOUN 
+mol%, PROPN 
+CaFCl, NOUN 
+ELI’+, VERB 
+phosphors, NOUN 
+
+, SPACE 
+Powder, PROPN 
+Host, PROPN 
+materials, NOUN 
+Flux, PROPN 
+Dopant, PROPN 
+
+, SPACE 
+phosphor, NOUN 
+CaF, NOUN 
+CaCl, PROPN 
+2, NUM 
+NH&l, PROPN 
+salt, NOUN 
+E&I, PROPN 
+
+, SPACE 
+0.995, NUM 
+0.995, NUM 
+0.010, NUM 
+
+, SPACE 
+2, NUM 
+0.987, NUM 
+0.987, NUM 
+0.025, NUM 
+
+, SPACE 
+3, NUM 
+0.975, NUM 
+0.975, NUM 
+1, NUM 
+0.050, NUM 
+
+, SPACE 
+4, NUM 
+0.950, NUM 
+0.950, NUM 
+1, NUM 
+0.100, NUM 
+
+, SPACE 
+5, NUM 
+0.900, NUM 
+0.900, NUM 
+1, NUM 
+0.200, NUM 
+
+, SPACE 
+6, NUM 
+0.800, NUM 
+0.800, NUM 
+1, NUM 
+0.400, NUM 
+
+, SPACE 
+hext:280, NOUN 
+nm, PROPN 
+
+, SPACE 
+Wovelength, PROPN 
+nm, PROPN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Photoluminescence, NOUN 
+spectra, PROPN 
+CaFCl, NOUN 
+Eu~, ADJ 
+powder, NOUN 
+phos-, ADP 
+
+, SPACE 
+phors, NOUN 
+x, NOUN 
+mol%, PROPN 
+1, NUM 
+0.01, NUM 
+2, NUM 
+0.025, NUM 
+3, NUM 
+0.050, NUM 
+4, NUM 
+0.100, NUM 
+5, NUM 
+
+, SPACE 
+0.200, NUM 
+6, NUM 
+0.400, NUM 
+
+, SPACE 
+tration, NOUN 
+gives, VERB 
+opportunity, NOUN 
+identify, VERB 
+better, ADJ 
+
+, SPACE 
+phosphor, NOUN 
+material, NOUN 
+composition, NOUN 
+stud-, NOUN 
+
+, SPACE 
+ied, VERB 
+emission, NOUN 
+spectral, ADJ 
+results, NOUN 
+
+, SPACE 
+appropriate, ADJ 
+suitable, ADJ 
+Eu2, ADJ 
++, ADJ 
+ion, NOUN 
+concentration, NOUN 
+
+, SPACE 
+fixed, VERB 
+observing, VERB 
+efficient, ADJ 
+
+, SPACE 
+fluorescence, NOUN 
+emission, NOUN 
+peak, NOUN 
+assigned, VERB 
+
+, SPACE 
+transition, NOUN 
+4f6(‘F,>5d, NUM 
++, CCONJ 
+4f7(8S7, PROPN 
+>, X 
+Eu*+, PROPN 
+ion, NOUN 
+previously, ADV 
+carried, VERB 
+
+, SPACE 
+materials, NOUN 
+literature, NOUN 
+l, NOUN 
+11, NUM 
+examining, VERB 
+
+, SPACE 
+profiles, NOUN 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+clear, ADJ 
+state, VERB 
+
+, SPACE 
+phosphors, NOUN 
+containing, VERB 
+Eu2, X 
++, ADJ 
+concen-, PRON 
+
+, SPACE 
+tration, NOUN 
+weaker, ADJ 
+emission, NOUN 
+
+, SPACE 
+cases, NOUN 
+emission, NOUN 
+peak, NOUN 
+allows, VERB 
+observe, VERB 
+
+, SPACE 
+resolved, VERB 
+components, NOUN 
+interesting, ADJ 
+point, NOUN 
+
+, SPACE 
+observation, NOUN 
+spectrum, NOUN 
+concerning, VERB 
+
+, SPACE 
+ideal, ADJ 
+concentration, NOUN 
+reveals, VERB 
+high, ADJ 
+intensity, NOUN 
+
+, SPACE 
+times, NOUN 
+larger, ADJ 
+low, ADJ 
+
+, SPACE 
+concentration, NOUN 
+0.025, NUM 
+mol%, PROPN 
+Eu’+, NOUN 
+
+, SPACE 
+possible, ADJ 
+suggest, VERB 
+CaFCl, NOUN 
+Eu*+, PROPN 
+0.05, NUM 
+mol%, PROPN 
+
+, SPACE 
+better, ADJ 
+phosphor, NOUN 
+material, NOUN 
+studied, VERB 
+
+, SPACE 
+use, NOUN 
+coating, NOUN 
+material, NOUN 
+image, NOUN 
+forming, VERB 
+
+, SPACE 
+system, NOUN 
+
+, SPACE 
+Acknowledgements, NOUN 
+
+, SPACE 
+express, VERB 
+grateful, ADJ 
+thanks, NOUN 
+Professor, PROPN 
+S.V.J., PROPN 
+
+, SPACE 
+Lakshman, PROPN 
+Vice, PROPN 
+Chancellor, PROPN 
+Nagarjuna, PROPN 
+University, PROPN 
+
+, SPACE 
+Guntur, PROPN 
+kind, NOUN 
+cooperation, NOUN 
+encouragement, NOUN 
+
+, SPACE 
+KA, PROPN 
+like, VERB 
+express, VERB 
+gratitude, NOUN 
+
+, SPACE 
+CSIR, PROPN 
+New, PROPN 
+Delhi, PROPN 
+award, NOUN 
+RA, PROPN 
+
+, SPACE 
+fellowship, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+T., PROPN 
+Balaji, PROPN 
+S., PROPN 
+Buddhudu, PROPN 
+Spectroc, PROPN 
+Lett, PROPN 
+25, NUM 
+1992, NUM 
+409, NUM 
+
+, SPACE 
+2, X 
+T., PROPN 
+Balaji, PROPN 
+S., PROPN 
+Buddhudu, PROPN 
+Spectroc, PROPN 
+Lett, PROPN 
+26, NUM 
+1993, NUM 
+113, NUM 
+
+, SPACE 
+3, X 
+T., PROPN 
+Balaji, PROPN 
+S., PROPN 
+Buddhudu, PROPN 
+Spectrochim, PROPN 
+Acta, PROPN 
+49, NUM 
+1993, NUM 
+
+, SPACE 
+212, NUM 
+
+, SPACE 
+4, X 
+T., PROPN 
+Balaji, PROPN 
+S., PROPN 
+Buddhudu, PROPN 
+J., PROPN 
+Mater, PROPN 
+Sci, PROPN 
+Lett, PROPN 
+12, NUM 
+1993, NUM 
+
+, SPACE 
+1002, NUM 
+
+, SPACE 
+5, X 
+T., PROPN 
+Balaji, PROPN 
+S., PROPN 
+Buddhudu, PROPN 
+Mater, PROPN 
+Chem, PROPN 
+Phys, PROPN 
+34, NUM 
+1993, NUM 
+
+, SPACE 
+310, NUM 
+
+, SPACE 
+6, NUM 
+T., PROPN 
+Balaji, PROPN 
+S., PROPN 
+Buddhudu, PROPN 
+Ferroelect, PROPN 
+Lett, PROPN 
+191, NUM 
+1995, NUM 
+1, NUM 
+
+, SPACE 
+7, X 
+U., PROPN 
+Rambabu, PROPN 
+T., PROPN 
+Balaji, PROPN 
+S., PROPN 
+Buddhudu, PROPN 
+Mater, PROPN 
+Res, PROPN 
+Bull, PROPN 
+
+, SPACE 
+30, NUM 
+1995, NUM 
+891, NUM 
+
+, SPACE 
+8, X 
+U., PROPN 
+Rambabu, PROPN 
+K., PROPN 
+Annapurna, PROPN 
+T., PROPN 
+Balaji, PROPN 
+J.V., PROPN 
+Satyanarayana, PROPN 
+
+, SPACE 
+K., PROPN 
+Rajamohan, PROPN 
+Reddy, PROPN 
+S., PROPN 
+Buddhudu, PROPN 
+Spectroc, PROPN 
+Lett, PROPN 
+29, NUM 
+
+, SPACE 
+19951, NUM 
+press, NOUN 
+
+, SPACE 
+9, X 
+Y., PROPN 
+Hosoi, PROPN 
+H., PROPN 
+Saito, PROPN 
+Y., PROPN 
+Kojima, PROPN 
+S., PROPN 
+Arakama, PROPN 
+K., PROPN 
+Takahyhi, PROPN 
+
+, SPACE 
+Medical, PROPN 
+Imaging, PROPN 
+VI, PROPN 
+Instrumentation, PROPN 
+SPIE, PROPN 
+165, NUM 
+1992, NUM 
+236, NUM 
+
+, SPACE 
+IO, PROPN 
+A., NOUN 
+Meijerink, PROPN 
+G., PROPN 
+Blasse, PROPN 
+J., PROPN 
+Luminescence, PROPN 
+43, NUM 
+1989, NUM 
+283, NUM 
+
+, SPACE 
+l, NOUN 
+K., PROPN 
+Rajamohan, PROPN 
+Reddy, PROPN 
+K., PROPN 
+Annapuraa, PROPN 
+S., PROPN 
+Buddhudu, PROPN 
+
+, SPACE 
+Mater, PROPN 
+Lett, PROPN 
+press, NOUN 
+
+, SPACE 
+1121, NUM 
+N., PROPN 
+Iwase, PROPN 
+S., PROPN 
+Tadaki, PROPN 
+S., PROPN 
+Hidaka, PROPN 
+N., PROPN 
+Koshino, PROPN 
+J., PROPN 
+Lumines-, PROPN 
+
+, SPACE 
+cence, NOUN 
+60&61, PROPN 
+1994, NUM 
+618, NUM 
+
+, SPACE 

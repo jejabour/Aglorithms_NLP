@@ -1,0 +1,1146 @@
+Vacuum, PROPN 
+volume, NOUN 
+47lnumber, NUM 
+IO, PROPN 
+pages, NOUN 
+1223, NUM 
+122511996, NUM 
+
+, SPACE 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Published, VERB 
+Elsevier, ADJ 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+riahts, NOUN 
+reserved, VERB 
+Pergamon, PROPN 
+
+, SPACE 
+PII, PROPN 
+SOO42, PROPN 
+207X(96)00126, PROPN 
+6, NUM 
+0042, NUM 
+207x156, NUM 
+$, SYM 
+15.00+.00, NUM 
+
+, SPACE 
+Properties, PROPN 
+amorphous, ADJ 
+silicon, NOUN 
+carbide, PROPN 
+films, NOUN 
+prepared, VERB 
+
+, SPACE 
+PECVD, PROPN 
+
+, SPACE 
+J, PROPN 
+Huran, PROPN 
+L, PROPN 
+Hrubcin, PROPN 
+P, NOUN 
+Kobzev, PROPN 
+J, PROPN 
+Liday, PROPN 
+B, PROPN 
+Institute, PROPN 
+Electrical, PROPN 
+Engineering, PROPN 
+Slovak, PROPN 
+Academy, PROPN 
+
+, SPACE 
+Sciences, PROPN 
+84239, NUM 
+Bratislava, PROPN 
+Dtibravskd, PROPN 
+cesta, PROPN 
+9, NUM 
+Slovakia, PROPN 
+Laboratory, PROPN 
+Neutron, PROPN 
+Physics, PROPN 
+Joint, PROPN 
+Institute, PROPN 
+
+, SPACE 
+Nuclear, PROPN 
+Research, PROPN 
+14, NUM 
+1980, NUM 
+Dubna, PROPN 
+Russian, PROPN 
+Federation, PROPN 
+Faculty, PROPN 
+Electrical, PROPN 
+Engineering, PROPN 
+Slovak, PROPN 
+Technical, PROPN 
+
+, SPACE 
+University, PROPN 
+llkoviCova, DET 
+3, NUM 
+81279, NUM 
+Bratislava, PROPN 
+Slovakia, PROPN 
+
+, SPACE 
+received, VERB 
+20, NUM 
+November, PROPN 
+1995, NUM 
+
+, SPACE 
+Amorphous, PROPN 
+Sic, PROPN 
+prepared, VERB 
+plasma, PROPN 
+enhanced, VERB 
+chemical, NOUN 
+vapour, NOUN 
+deposition, NOUN 
+SiH, PROPN 
+CH, PROPN 
+
+, SPACE 
+properties, NOUN 
+Sic, NOUN 
+deposits, NOUN 
+studied, VERB 
+combination, NOUN 
+infrared, PROPN 
+fIR1, PROPN 
+RBS, PROPN 
+ERD, PROPN 
+electron, NOUN 
+recoiling, VERB 
+
+, SPACE 
+detection, NOUN 
+AES, PROPN 
+measurement, NOUN 
+lnfra, PROPN 
+red, PROPN 
+spectra, PROPN 
+showed, VERB 
+presence, NOUN 
+Si, PROPN 
+C, PROPN 
+Si, PROPN 
+H, PROPN 
+C, PROPN 
+H, PROPN 
+bonds, NOUN 
+
+, SPACE 
+compositions, NOUN 
+silicon, NOUN 
+carbon, NOUN 
+hydrogen, NOUN 
+films, NOUN 
+found, VERB 
+dependent, ADJ 
+preparation, NOUN 
+
+, SPACE 
+conditions, NOUN 
+Copyright, NOUN 
+0, NUM 
+1996, NUM 
+Published, VERB 
+Elsevier, ADJ 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Introduction, NOUN 
+
+, SPACE 
+Hydrogenated, VERB 
+amorphous, ADJ 
+silicon, NOUN 
+carbide, PROPN 
+Si, PROPN 
+-,C, PROPN 
+H, NOUN 
+films, NOUN 
+
+, SPACE 
+intense, ADJ 
+research, NOUN 
+successful, ADJ 
+prep-, ADJ 
+
+, SPACE 
+aration, NOUN 
+rf, ADJ 
+glow, NOUN 
+discharge, NOUN 
+technique, NOUN 
+Silicon, PROPN 
+carbide, PROPN 
+
+, SPACE 
+important, ADJ 
+material, NOUN 
+potential, ADJ 
+applications, NOUN 
+photo-, ADJ 
+
+, SPACE 
+electronics, NOUN 
+high, ADJ 
+temperature, NOUN 
+semiconducting, NOUN 
+devices, NOUN 
+hard, ADV 
+wear, VERB 
+
+, SPACE 
+resistant, ADJ 
+coatings, NOUN 
+protective, ADJ 
+barriers, NOUN 
+corrosion, NOUN 
+thermal, ADJ 
+
+, SPACE 
+oxidation, NOUN 
+applications, NOUN 
+unique, ADJ 
+properties, NOUN 
+
+, SPACE 
+wide, ADJ 
+band, NOUN 
+gap, NOUN 
+high, ADJ 
+electron, NOUN 
+mobility, NOUN 
+high, ADJ 
+thermal, ADJ 
+
+, SPACE 
+conductivity, NOUN 
+high, ADJ 
+melting, NOUN 
+point, NOUN 
+Furthermore, ADV 
+SIC, PROPN 
+
+, SPACE 
+thin, ADJ 
+buffer, NOUN 
+layer, NOUN 
+growth, NOUN 
+diamond, NOUN 
+films, NOUN 
+
+, SPACE 
+silicon, NOUN 
+substrates, NOUN 
+example, NOUN 
+S, PROPN 
+C, PROPN 
+H, PROPN 
+
+, SPACE 
+wideband, ADJ 
+window, NOUN 
+material, NOUN 
+enhance, VERB 
+conversion, NOUN 
+efficiency, NOUN 
+
+, SPACE 
+amorphous, ADJ 
+solar, NOUN 
+cells.3, PUNCT 
+significance, NOUN 
+material, NOUN 
+
+, SPACE 
+electrical, ADJ 
+optical, ADJ 
+properties, NOUN 
+controlled, VERB 
+varying, VERB 
+
+, SPACE 
+carbon, NOUN 
+silicon, NOUN 
+hydrogen, NOUN 
+composition, NOUN 
+film, NOUN 
+
+, SPACE 
+present, ADJ 
+article, NOUN 
+investigation, NOUN 
+focused, VERB 
+struc-, ADJ 
+
+, SPACE 
+tural, ADJ 
+properties, NOUN 
+Si, PROPN 
+.C, PROPN 
+H, NOUN 
+films, NOUN 
+prepared, VERB 
+plasma, NOUN 
+
+, SPACE 
+enhanced, VERB 
+chemical, NOUN 
+vapor, NOUN 
+deposition, NOUN 
+PECVD, PROPN 
+silane, NOUN 
+SiH, PROPN 
+
+, SPACE 
+methane, NOUN 
+CH, PROPN 
+IR, PROPN 
+RBS, PROPN 
+ERD, PROPN 
+AES, PROPN 
+measurement, NOUN 
+
+, SPACE 
+Experimental, PROPN 
+
+, SPACE 
+Amorphous, PROPN 
+silicon, NOUN 
+carbide, NOUN 
+films, NOUN 
+deposited, VERB 
+bare, ADJ 
+silicon, NOUN 
+
+, SPACE 
+substrates, NOUN 
+high, ADJ 
+frequency, ADJ 
+parallel, ADJ 
+plate, NOUN 
+plasma, NOUN 
+reactor, NOUN 
+
+, SPACE 
+frequency, NOUN 
+rf, ADJ 
+power, NOUN 
+substrate, NOUN 
+temperature, NOUN 
+maintained, VERB 
+
+, SPACE 
+13.56, NUM 
+MHz, NOUN 
+0.06, NUM 
+Wcm--, PROPN 
+350, NUM 
+°, NUM 
+C, PROPN 
+respectively, ADV 
+electrode, ADJ 
+
+, SPACE 
+diameters, NOUN 
+12, NUM 
+cm, NOUN 
+4, NUM 
+cm, NOUN 
+apart, ADV 
+rf, ADJ 
+power, NOUN 
+
+, SPACE 
+Paper, NOUN 
+based, VERB 
+presented, VERB 
+9th, ADJ 
+International, PROPN 
+School, PROPN 
+
+, SPACE 
+Vacuum, PROPN 
+Electron, PROPN 
+Ion, PROPN 
+Technologies, PROPN 
+14, NUM 
+17, NUM 
+September, PROPN 
+1995, NUM 
+Sozopol, PROPN 
+
+, SPACE 
+Bulgaria, PROPN 
+fed, VERB 
+upper, ADJ 
+electrode, NOUN 
+lower, ADJ 
+electrode, NOUN 
+
+, SPACE 
+held, VERB 
+substrates, NOUN 
+grounded, VERB 
+gas, NOUN 
+mixture, NOUN 
+SM, PROPN 
+
+, SPACE 
+CH, PROPN 
+directly, ADV 
+introduced, VERB 
+reaction, NOUN 
+chamber, NOUN 
+
+, SPACE 
+gas, NOUN 
+flow, NOUN 
+rates, NOUN 
+10, NUM 
+40, NUM 
+respectively, ADV 
+Hydrogen, NOUN 
+
+, SPACE 
+concentration, NOUN 
+determined, VERB 
+ERD, PROPN 
+method, NOUN 
+
+, SPACE 
+purpose, NOUN 
+4He+, PROPN 
+ion, NOUN 
+beam, NOUN 
+Van, PROPN 
+de, PROPN 
+Graaff, PROPN 
+accelerator, NOUN 
+
+, SPACE 
+JINR, PROPN 
+Dubna, PROPN 
+applied, VERB 
+ion, NOUN 
+energy, NOUN 
+2.4, NUM 
+MeV, PROPN 
+
+, SPACE 
+chosen, VERB 
+target, NOUN 
+tilted, VERB 
+angle, NOUN 
+15, NUM 
+respect, NOUN 
+
+, SPACE 
+beam, NOUN 
+direction, NOUN 
+recoiled, ADJ 
+protons, NOUN 
+measured, VERB 
+forward, ADV 
+
+, SPACE 
+angle, NOUN 
+30, NUM 
+
+, SPACE 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+infrared, ADJ 
+spectra, PROPN 
+amorphous, ADJ 
+silicon, NOUN 
+carbide, NOUN 
+films, NOUN 
+
+, SPACE 
+obtained, VERB 
+Fourier, PROPN 
+transform, NOUN 
+infrared, VERB 
+spectrometer, NOUN 
+FTIR-, X 
+
+, SPACE 
+8101, NUM 
+M, PROPN 
+Shimadzu, PROPN 
+Figure, NOUN 
+1, NUM 
+shows, VERB 
+spectra, NOUN 
+samples, NOUN 
+pre-, NOUN 
+
+, SPACE 
+pared, VERB 
+different, ADJ 
+gas, NOUN 
+pressure, NOUN 
+working, NOUN 
+chamber, NOUN 
+
+, SPACE 
+seen, VERB 
+films, NOUN 
+contain, VERB 
+features, NOUN 
+found, VERB 
+Sic, NOUN 
+H, NOUN 
+
+, SPACE 
+Si, PROPN 
+C, NOUN 
+stretching, NOUN 
+modes, NOUN 
+7OK300, PROPN 
+cm-, NOUN 
+Si, PROPN 
+H, PROPN 
+stretching, NOUN 
+
+, SPACE 
+modes, NOUN 
+2100, NUM 
+cm-, NOUN 
+C, PROPN 
+H, NOUN 
+stretching, NOUN 
+modes, NOUN 
+
+, SPACE 
+2900, NUM 
+cm-, NOUN 
+results, NOUN 
+indicate, VERB 
+small, ADJ 
+difference, NOUN 
+
+, SPACE 
+C, PROPN 
+H, NOUN 
+stretching, NOUN 
+modes, NOUN 
+hydrogen, NOUN 
+increases, NOUN 
+
+, SPACE 
+increasing, VERB 
+pressure, NOUN 
+bonded, VERB 
+C, NOUN 
+H, PROPN 
+bonds, NOUN 
+
+, SPACE 
+hydrogen, NOUN 
+content, NOUN 
+determined, VERB 
+ERD, PROPN 
+method, NOUN 
+
+, SPACE 
+Figure, NOUN 
+2, NUM 
+plotted, VERB 
+ERD, PROPN 
+spectra, NOUN 
+obtained, VERB 
+deposited, VERB 
+
+, SPACE 
+films, NOUN 
+contain, VERB 
+different, ADJ 
+amounts, NOUN 
+incorporated, ADJ 
+hydrogen, NOUN 
+
+, SPACE 
+ERD, PROPN 
+analyses, NOUN 
+incorporated, ADJ 
+H, PROPN 
+rose, VERB 
+
+, SPACE 
+10, NUM 
+15, NUM 
+at%, NOUN 
+values, NOUN 
+obtained, VERB 
+computer, NOUN 
+
+, SPACE 
+modeling, NOUN 
+measured, ADJ 
+spectra, NOUN 
+compared, VERB 
+results, NOUN 
+
+, SPACE 
+obtained, VERB 
+Si, PROPN 
+reference, NOUN 
+sample, NOUN 
+implanted, VERB 
+H., PROPN 
+Results, PROPN 
+
+, SPACE 
+ERD, PROPN 
+measurements, NOUN 
+correspond, VERB 
+result, NOUN 
+IR, PROPN 
+
+, SPACE 
+measurement, NOUN 
+hydrogen, NOUN 
+content, NOUN 
+computed, VERB 
+
+, SPACE 
+concentration, NOUN 
+Si, PROPN 
+H, PROPN 
+C, PROPN 
+H, PROPN 
+bonds, NOUN 
+
+, SPACE 
+1223, NUM 
+
+, SPACE 
+J, PROPN 
+Huran, PROPN 
+et, NOUN 
+a/, NOUN 
+Properties, NOUN 
+amorphous, ADJ 
+silicon, NOUN 
+carbide, PROPN 
+films, NOUN 
+
+, SPACE 
+3000, NUM 
+2000, NUM 
+1000, NUM 
+
+, SPACE 
+Wavenumbers, PROPN 
+cm-, X 
+
+, SPACE 
+Figure, PROPN 
+1, NUM 
+IR, PROPN 
+spectra, NOUN 
+plasma, PROPN 
+deposited, VERB 
+amorphous, ADJ 
+silicon, NOUN 
+carbide, PROPN 
+
+, SPACE 
+films, NOUN 
+chamber, NOUN 
+pressure, NOUN 
+deposition, NOUN 
+samples, NOUN 
+SC1, PROPN 
+P, NOUN 
+=, SYM 
+60, NUM 
+
+, SPACE 
+Pa, PROPN 
+SC2, PROPN 
+P, NOUN 
+=, SYM 
+100, NUM 
+Pa, PROPN 
+SC3, PROPN 
+P, NOUN 
+=, ADJ 
+150, NUM 
+Pa, PROPN 
+
+, SPACE 
+
+, SPACE 
+0, PUNCT 
+ibd, VERB 
+200, NUM 
+300, NUM 
+
+, SPACE 
+Channel, PROPN 
+
+, SPACE 
+Figure, PROPN 
+2, NUM 
+ERD, PROPN 
+spectra, PROPN 
+recoiled, ADJ 
+hydrogen, NOUN 
+obtained, VERB 
+2.4, NUM 
+MeV, PROPN 
+
+, SPACE 
+4He+, NUM 
+concetration, NOUN 
+hydrogen, NOUN 
+samples, NOUN 
+SCl, NOUN 
+SC2, PROPN 
+SC3, PROPN 
+
+, SPACE 
+11, NUM 
+12, NUM 
+15, NUM 
+at%, NOUN 
+respectively, ADV 
+
+, SPACE 
+Figure, NOUN 
+3, NUM 
+shows, VERB 
+RBS, PROPN 
+spectra, NOUN 
+samples, NOUN 
+different, ADJ 
+
+, SPACE 
+thickness, NOUN 
+deposited, VERB 
+amorphous, ADJ 
+silicon, NOUN 
+carbide, NOUN 
+films, NOUN 
+
+, SPACE 
+spectra, NOUN 
+smoothed, VERB 
+better, ADJ 
+identification, NOUN 
+differences, NOUN 
+
+, SPACE 
+Differences, NOUN 
+practically, ADV 
+place, NOUN 
+represents, VERB 
+con-, NOUN 
+
+, SPACE 
+centration, NOUN 
+carbon, NOUN 
+vs, ADP 
+silicon, NOUN 
+thickness, NOUN 
+film, NOUN 
+Typical, ADJ 
+
+, SPACE 
+concentrations, NOUN 
+silicon, NOUN 
+40, NUM 
+at%, NOUN 
+carbon, NOUN 
+45, NUM 
+at%, NOUN 
+
+, SPACE 
+Figure, NOUN 
+4, NUM 
+shows, VERB 
+AES, PROPN 
+depth, NOUN 
+profile, NOUN 
+sample, NOUN 
+SC5, PROPN 
+
+, SPACE 
+concentration, NOUN 
+silicon, NOUN 
+carbon, NOUN 
+approximately, ADV 
+
+, SPACE 
+differs, VERB 
+concentrations, NOUN 
+obtained, VERB 
+RBS, PROPN 
+
+, SPACE 
+measurements, NOUN 
+probably, ADV 
+arises, VERB 
+accuracy, NOUN 
+measure-, ADJ 
+
+, SPACE 
+ment, NOUN 
+Small, ADJ 
+amounts, NOUN 
+oxygen, NOUN 
+nitrogen, NOUN 
+present, ADJ 
+
+, SPACE 
+films, NOUN 
+concentrations, NOUN 
+2, NUM 
+respectively, ADV 
+carbon, NOUN 
+
+, SPACE 
+1224, NUM 
+5000, NUM 
+
+, SPACE 
+j, PROPN 
+4000, NUM 
+
+, SPACE 
+s, PART 
+
+, SPACE 
+Q, PROPN 
+
+, SPACE 
+5, NUM 
+3000, NUM 
+
+, SPACE 
+h, NOUN 
+
+, SPACE 
+n, NOUN 
+
+, SPACE 
+cn, VERB 
+2000, NUM 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+0, PROPN 
+1000, NUM 
+
+, SPACE 
+n, CCONJ 
+SC4, PROPN 
+
+, SPACE 
+SC5, PROPN 
+
+, SPACE 
+sc6, NOUN 
+
+, SPACE 
+$, SYM 
+g, PROPN 
+700, NUM 
+300, NUM 
+500, NUM 
+7, NUM 
+
+, SPACE 
+Channel, PROPN 
+IO, PROPN 
+
+, SPACE 
+Figure, PROPN 
+3, NUM 
+Smoothed, PROPN 
+RBS, PROPN 
+data, NOUN 
+2, NUM 
+MeV, PROPN 
+alfa, NOUN 
+particles, NOUN 
+detected, VERB 
+
+, SPACE 
+scattering, VERB 
+angle, NOUN 
+170, NUM 
+curves, NOUN 
+samples, NOUN 
+SC4, PROPN 
+thickness, NOUN 
+
+, SPACE 
+film, NOUN 
+90, NUM 
+nm, PROPN 
+SC5, PROPN 
+120, NUM 
+nm, ADJ 
+SC6, PROPN 
+170, NUM 
+nm, NOUN 
+
+, SPACE 
+
+, SPACE 
+7, NUM 
+
+, SPACE 
+0, NUM 
+20, NUM 
+40, NUM 
+60, NUM 
+80, NUM 
+100, NUM 
+120, NUM 
+
+, SPACE 
+Sputter, PROPN 
+Time, PROPN 
+min, PROPN 
+
+, SPACE 
+Figure, PROPN 
+4, NUM 
+AES, PROPN 
+depth, NOUN 
+profile, NOUN 
+amorphous, ADJ 
+silicon, NOUN 
+carbide, NOUN 
+film, NOUN 
+
+, SPACE 
+sample, NOUN 
+SCS, PROPN 
+
+, SPACE 
+detected, VERB 
+surface, NOUN 
+volume, NOUN 
+film, NOUN 
+
+, SPACE 
+carbon, NOUN 
+probably, ADV 
+external, ADJ 
+environment, NOUN 
+sputter, NOUN 
+
+, SPACE 
+time, NOUN 
+100, NUM 
+min, NOUN 
+interface, NOUN 
+substrate, NOUN 
+film, NOUN 
+
+, SPACE 
+begins, VERB 
+appear, VERB 
+
+, SPACE 
+Conclusion, PROPN 
+
+, SPACE 
+structural, ADJ 
+properties, NOUN 
+amorphous, ADJ 
+silicon, NOUN 
+carbide, PROPN 
+films, NOUN 
+pre-, NOUN 
+
+, SPACE 
+pared, VERB 
+PECVD, PROPN 
+investigated, VERB 
+IR, PROPN 
+spectra, NOUN 
+
+, SPACE 
+presence, NOUN 
+Si, PROPN 
+C, PROPN 
+Si, PROPN 
+H, PROPN 
+C, PROPN 
+H, NOUN 
+bonds, NOUN 
+concentration, NOUN 
+
+, SPACE 
+hydrogen, NOUN 
+determined, VERB 
+ERD, PROPN 
+l&15, ADJ 
+at%, NUM 
+RBS, PROPN 
+AES, PROPN 
+
+, SPACE 
+J, PROPN 
+Huran, PROPN 
+et, PROPN 
+al, PROPN 
+Properties, NOUN 
+amorphous, ADJ 
+silicon, NOUN 
+carbide, PROPN 
+films, NOUN 
+
+, SPACE 
+results, NOUN 
+concentrations, NOUN 
+Si, PROPN 
+C, PROPN 
+equal, ADJ 
+References, PROPN 
+
+, SPACE 
+concentrations, NOUN 
+elements, NOUN 
+oxygen, NOUN 
+nitrogen, NOUN 
+
+, SPACE 
+small, ADJ 
+results, NOUN 
+indicate, VERB 
+properties, NOUN 
+amorphous, ADJ 
+
+, SPACE 
+carbon, NOUN 
+films, NOUN 
+depend, VERB 
+reaction, NOUN 
+conditions, NOUN 
+SijC, PROPN 
+ratio, NOUN 
+
+, SPACE 
+determines, VERB 
+film, NOUN 
+properties, NOUN 
+hydrogen, NOUN 
+content, NOUN 
+
+, SPACE 
+chemical, ADJ 
+bonding, NOUN 
+pattern, NOUN 
+play, VERB 
+important, ADJ 
+role, NOUN 
+
+, SPACE 
+ignored, VERB 
+considering, VERB 
+film, NOUN 
+properties, NOUN 
+D, NOUN 
+Anderson, PROPN 
+W, PROPN 
+E, PROPN 
+Spear, PROPN 
+Philos, PROPN 
+Mag, PROPN 
+35, NUM 
+1, NUM 
+1976, NUM 
+
+, SPACE 
+E, NOUN 
+G, PROPN 
+Wang, PROPN 
+Physica, PROPN 
+B, PROPN 
+185,85, PROPN 
+1993, NUM 
+
+, SPACE 
+Nahano, PROPN 
+Y, PROPN 
+Kishi, PROPN 
+M, PROPN 
+Ohnishi, PROPN 
+S, PROPN 
+Tsuda, PROPN 
+H, PROPN 
+Shibuya, PROPN 
+N, PROPN 
+Nakamura, PROPN 
+Y, PROPN 
+
+, SPACE 
+Hishikawa, PROPN 
+H, PROPN 
+Tarui, PROPN 
+T, PROPN 
+Takahawa, PROPN 
+Y, PROPN 
+Kuwano, PROPN 
+Ma&r, PUNCT 
+Res, PROPN 
+Sot, PROPN 
+Symp, PROPN 
+
+, SPACE 
+Proc, PROPN 
+49,275, NUM 
+1985, NUM 
+
+, SPACE 
+5, NUM 
+Huran, PROPN 
+F, PROPN 
+Szulenyi, PROPN 
+E, PROPN 
+Pisarovicova, PROPN 
+Acfa, PROPN 
+phys, NOUN 
+slot, NOUN 
+39, NUM 
+116, NUM 
+1990, NUM 
+
+, SPACE 
+1225, NUM 
+
+, SPACE 

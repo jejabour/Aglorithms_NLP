@@ -1,0 +1,290 @@
+Vacuum/volume 47Inumbers 6-6lpages 653 to 65511996 
+Copyright 0 1996 Elsevier Science Ltd 
+Printed in Great Britain. All riahts reserved Pergamon 
+PII: SOO42-207X(96)00039-5 0042-207X/56 $15.00+.00 
+Wall conditioning in ITER 
+H Nakamura, J Dietz and P Ladd, lTER Garching JWS, c/o Max-Planck-Institute fuer Plasmaphysik, 
+Boltzmannstrasse 2,85748 Garching bei Muenchen, Germany 
+This article presents plans for wall conditioning for ITER. Typical machine parameters are 7.5 GW of fusion 
+power and 7000 s of DT burn duration. To achieve these plasma, the wall conditioning is required in ITER. 
+For baseline methods, glow discharge cleaning for zero-magnetic field, and electron cyclotron resonance 
+discharge cleaning and divertor active pumping for high-magnetic fields are considered. Alternative methods 
+are also considered. Copyright 0 7996 Elsevier Science Ltd. 
+Key words: Electron cyclotron resonance discharge cleaning, glow discharge cleaning, ITER, recycling control, 
+wall conditioning. 
+Introduction 
+The purpose of wall conditioning is impurity removal and recyc- 
+ling control of hydrogenic gas during plasma start-up. In 
+addition. minimisation of tritium inventory of in-vessel com- 
+ponents becomes important as shown in recent plasma experi- 
+ments with deuterium and/or tritium gases.‘,’ In present plasma 
+confinement devices, wall conditioning plays an important role 
+in realising good plasma confinement characteristics.3.4.5 In these 
+devices, Glow Discharge Cleaning (GDC),6 Electron Cyclotron 
+Resonance Discharge Cleaning (ECRDC),7 Taylor Type Dis- 
+charge Cleaning (TDC),8 Disruptive Discharge Cleaning (DDC),4 
+tokamak shot discharge cleaning and thin film coating such as 
+carbonisation.’ boronization’O and siliconization” are used. 
+In ITER. after start-up of the super conducting coils, a steady 
+state toroidal magnetic field is present. There exists no established 
+method for periodically conditioning surfaces at high field to 
+reduce the near-surface hydrogenic inventory for low recycling 
+during and after plasma operation. Therefore, wall conditioning 
+procedures have to be considered both for zero-magnetic field 
+wall conditioning and for high magnetic field wall conditioning 
+for periodic between-shot wall conditioning. 
+ITER machine 
+The ITER machine aim is to demonstrate controlled ignition, at 
+a nominal fusion power of 1.5 GWwith a D-T fuel mixture 
+providing an inductive pulse flat-top capability of about 1000 s 
+with steady-state as an ultimate goal.” The basic device par- 
+ameters are: major radius of 8.14 m, minor radius of 2.8 m. 
+plasma current of 21 MA. and toroidal magnetic field of 5.68 
+T at the major radius. The plasma has a single-null divertor 
+configuration with the null located at the bottom. Inside of the 
+vacuum vessel made of stainless steel 316LN, divertor cassettes and shield blankets are installed. First wall material on the shield 
+blanket is Be. For the plasma facing components of the divertor 
+cassettes, candidate materials are Be, Carbon fiber composite 
+(CFC) and W. Material selection will be based on material R & 
+D and design. To evacuate the vacuum vessel, 16 cryopumps are 
+located inside divertor pumping ports. During the burn phase, 
+some cryopumps will be in operation mode and other pumps will 
+be in regeneration mode. During the regeneration. about 90% of 
+regenerated fuel gases (H,D,T) will be directly fuelled again to 
+the plasmas. This recirculation operation mitigates the tritium 
+inventory. The fuelling system consists of gas injection and pellet 
+injection.” The gas puffing system will deliver hydrogenic 
+(H/D/T) and other gases (for divertor radiation enhancement 
+and wall conditioning) at two poloidal elevations: top of the 
+plasma center and at the divertor. 
+Requirements for wall conditioning in ITER 
+Wall conditioning will be done within the capability of the 1TER 
+pumping system. Wall conditioning gases are HZ, DL, He and 
+reactive gases. For wall conditioning. pumping speed to keep 
+impurity residence times in the torus 5 10 s is required in order to 
+minimise impurity re-implantation by the discharge. Maximum 
+operation for each cleaning cycle is required to be 100 h. The 
+requirements for wall conditioning relate to vacuum. plasma 
+operation and tritium inventory issues. 
+Vacuum. The base vacuum pressure is IO 5 Pa or less for hydro- 
+gen isotopes and lo-’ Pa or less for impurity gases after bake- 
+out and conditioning. The bakeout temperature of in-vessel com- 
+ponents is required to be at least 200 C. If graphite plasma 
+facing components are used widely. baking higher than 200 ‘C is 
+653 
+H Nakamura et al: Wall conditioning in ITER 
+required for effective outgassing. Total pumping speed by pri- 
+mary cryopumps will be about 200 m3 SK’. Projected surface area 
+of components exposed to vacuum inside the vacuum vessel is 
+about 7200 m2. Based on these values, the total outgassing rate 
+should be less than 4.2x lo-’ Pam3s~‘m~‘. In previous toka- 
+maks, e.g. JT-60, JET, TFTR and DIII-D, the total outgassing 
+rate is in a range between 4.3 x IO-’ to 3 x IO-’ Pam’s’mm*. So, 
+the required outgassing rate of ITER is a value for which there 
+is some design experience. 
+Plasma operation. For plasma operation, wall conditioning is 
+required for impurity removal, recycling control of hydrogenic 
+gas during plasma start-up, and flat-top discharge. For this 
+purpose, GDC, ECRDC, TDC, DDC, tokamak shot, and thin 
+film coating (e.g. Li,Be,B,C,Si) are used in present tokamak 
+experiments. Recent experiments show that low recycling con- 
+ditions with particle replacement time of a few seconds are necess- 
+ary to realise good plasma confinement.’ Based on these results, 
+low recycling conditions will also be required in ITER to obtain 
+good plasma confinement. In ITER, after start-up of the super- 
+conducting coils, a steady state magnetic field is produced. 
+Change of the toroidal magnetic field from 5.7 T to zero needs 
+about 2 h. This change would induce mechanical stress in the 
+superconducting coils. Therefore, development of a wall con- 
+ditioning method at high magnetic field is required, especially, 
+for between-shot wall conditioning. For wall conditioning (except 
+for thin film coating), helium gas is preferred because wall con- 
+ditioning by deuterium gas increases deuterium outgassing from 
+the wail during the plasma start-up phase. Recently, reduction 
+of wall particle inventory by active divertor pumping has been 
+reported in DIII-D.14 This effect may mitigate requirements for 
+the wall conditioning method. 
+Tritium inventory. During plasma operation, a part of the tritium 
+fuel is implanted and retained in plasma facing components. 
+According to experimental results in present tokamak machines, 
+co-deposition is the main mechanism of tritium retention. In 
+tokamak machines with graphite divertor plates, e.g. JET and 
+JT-60U, co-deposition layers of about 100 micron in thickness 
+are observed. According to tritium retention analysis of CFC 
+divertor plate in ITER, tritium inventory is calculated to be 
+hundreds of grams after 1000 shots of 1000 s pulse.15 This may 
+be a maximum value of the tritium inventory because any wall 
+conditioning effect is not included. However, especially, in the 
+case of CFC material effective reduction of the tritium inventory 
+of the codeposition layer is required. 
+Wall conditioning for ITER 
+Based on the existing results in laboratories and tokamaks, base- 
+line methods of wall conditioning for ITER are glow discharge 
+cleaning (GDC) for zero-magnetic field, and electron cyclotron 
+resonance discharge cleaning (ECRDC) and divertor active 
+pumping for high magnetic field. In addition to these methods, 
+alternative methods include Taylor type discharge cleaning 
+(TDC), disruptive shot discharge cleaning (DDC), tokamak shot 
+discharge cleaning and thin film coating using reactive gas will 
+be used only if ECRDC is not effective for the wall conditioning 
+between-shot. Recently, ion cyclotron resonance discharge 
+cleaning (ICRDC) has been proposed for between-shot discharge 
+conditioning.16 To obtain optimum conditions for ITER wall 
+654 conditioning, technology and physics R & D are required. Pre- 
+liminary assessments of these methods are as follows; 
+Baseline methods. (1) Baking: Baking will be done by the vacuum 
+vessel heating system using pressurised hot water. Maximum 
+baking temperature is limited to be about 200 “C because mech- 
+anical stress resulting from the pressurised water must be less 
+than 2 MPa. But, in case of the divertor cassettes, baking with 
+higher temperatures up to 350 “C is planned if graphite materials 
+are used widely. The assembled torus system will be baked at 200 
+“C for 100 h at maximum until impurity partial pressures drop 
+to < 10m3 Pa. All surfaces will be maintained at 2 150 ‘C between 
+plasma shots to minimise impurity re-absorption and H-trapping. 
+(2) GDC: GDC is widely used in the existing tokamaks.5,h 
+However, GDC under a high magnetic field is difficult. GDC will 
+be done only in the initial machine commissioning phase prior to 
+the first plasma. The GDC system is designed for H2,Dz, He and 
+reactive gases. GDC anodes will be attached to the vacuum vessel. 
+Both fixed and movable type probes will be considered. Eight 
+anodes will be installed although their location is yet to be deter- 
+mined. Since GDC current density in the existing machines is 
+about 10 PA cm-‘, total current is about 100 A assuming first 
+wall surface area of 1000 m’. So, a GDC anode is designed for 
+20 A discharge current. Maximum operation for each cleaning 
+cycle is designed to be 100 h. GDC will begin gently, keeping 
+impurity partial pressures 5 10-j Pa, then increase the surface 
+flux to - lOI4 cmmZss for rapid conditioning. 
+(3) ECRDC: ECR discharge cleaning is established method in 
+the existing tokamaks during high magnetic field.’ In ITER, the 
+existing ECRH system would be used. Multi gyrotron sources 
+with different frequency (90, 130, 170 GHz) will be prepared for 
+plasma start-up and heating/current drive. Figure I shows the 
+resonance position vs toroidal magnetic field and ECR frequency. 
+For BT = 5.7 T at the plasma center (R = 8.1 m), the resonance 
+position can be at R = 10 m and R = 7 m using 130 GHz and 
+I70 GHz. In this case, the resonance location cannot be located 
+at the inner region of the vacuum vessel. For BT = 4.0 T at 
+plasma center (R = 8.1 m), the resonance position can be at 
+R = 10.5 m. R = 7 m and R = 5 m using 90 GHz, 130 GHz and 
+170 GHz. In this case, the resonance location can be moved 
+discretely throughout the whole region. To sweep the resonance 
+location from the outer region (R = 1 I m) to the inner region 
+(R = 5 m) for efficient wall conditioning, the toroidal magnetic 
+12 
+GHz 
+GHz 
+GHz 
+GHz 
+GHz 
+“4 6 10 12 
+H.NBLlm”R/Feb.21.1995 
+Figure 1. Resonance position vs toroidal magnetic field and ECR 
+frequency. 
+H Nakamura et al: Wall conditioning in ITER 
+field would need to be changed slowly from BT = 5.7 T to BT = 4 
+T with three different frequencies (90 GHz, 130 GHz and 170 
+GHz). For sweeping of the toroidal magnetic field (5.7 T + 4 
+T + 5.7 T). about 4300 s is required. Since the interval time 
+between shots is 2200 s in reference operation, this sweeping 
+operation would need an increase of the interval time. Based on 
+the previous work by Sakamoto.’ the dominant power loss pro- 
+cess during ECRDC is that for molecular dissociation. In TEX- 
+TOR tokamak, this power loss is estimated to be 1.7 kW. 
+Assuming ECRDC plasma parameters in ITER are same as in 
+TEXTOR. ECRDC power is proportion to plasma volume. So. 
+the required power is about I MW because the plasma volumes 
+are 2.2 m’ in TEXTOR and about 1000 m’ in ITER. The effect 
+of ECRDC with helium gas on between-shot wall conditioning 
+needs further evaluation. To obtain optimum operation con- 
+ditions for efficient wall conditioning, technology R & D is 
+required. Also, physics R & D in tokamak machines. e.g. 
+TEXTOR. Alcator C-Mod and other devices, will be done. 
+(4) Divertor pumping: During plasma operation, the present 
+divertor pumping with 200 mi 5-l of total pumping speed will 
+have a significant effect on reduction of hydrogenic species reten- 
+tion in the wall. The plasma exhaust is designed for a neutral 
+pressure of 0.1 Pa to IO pa at the inlet of the pumping duct. 
+During DT burn. total exhaust rate is about 50 pam’ s ’ to 
+200 pam’ s ’ (IO” particles). Although qualitative evaluation on 
+reduction of tritium inventory in ITER needs more experimental 
+data, recent results in DIII-D” and Tore Supra” suggest elfec- 
+tiveness of the external active pumping on wall conditioning. 
+Alternative methods. (I) TDC, DDC and tokamak shot discharge 
+cleaning: These methods have been used in existing tokamaks. 
+For ITER, these cleaning methods can be used for between-shot 
+conditioning at high field. In tokamak shot discharge cleaning, 
+end-of-shot He gas injection or special ohmic He discharges with 
+edge pumping will be done. These methods need feasibility studies 
+on plasma control issues, e.g. plasma equilibrium of low plasma 
+current discharge. To obtain optimum conditions for ITER, 
+physics R & D will be undertaken in existing tokamaks. 
+(2) Thin film coating: For wall conditioning, thin film coatings 
+using reactive gases or evaporation sources will be considered if 
+the currently proposed wall conditioning method is not effective 
+for the between-shot wall conditioning. For thin film coating by 
+reactive gas. candidate gases are Be, B, C and Si. Recently, 
+boronization using ECRDC has been demonstrated in the Heli- 
+otron-E device.” For thin film coating by evaporation source, 
+candidate materials are Li and Be. At present, surveys of the 
+experimental results in laboratories and plasma devices are star- 
+ted. Design consideration of thin film coating systems will be 
+done if application of this method to ITER wall conditioning is 
+justified. 
+(3) ICRDC: For ICRDC, the existing ITER ICRF system with 
+the frequency range between 40 MHz to 90 MHz could be used. 
+According to calculations of ICRDC, high energy He” around a few hundred eV will be produced with helium gas.” However, to 
+define the system parameters of ICRDC, further R & D and 
+demonstration in tokamak experiments are necessary. 
+Summary 
+For baseline methods of ITER wall conditioning, GDC for zero- 
+magnetic field, and ECRDC and divertor active pumping for 
+high magnetic fields are proposed. As alternative methods, TDC, 
+DDC. tokamak shot discharge cleaning, thin film coating and 
+ICRDC are evaluated. To select wall conditioning methods and 
+obtain optimum conditions, technology R & D is planned. To 
+clarify the effectiveness of the proposed wall conditioning 
+methods, guidance on the implications of physics R & D in 
+existing tokamaks will be sought from the physics expert group.‘” 
+Acknowledgements 
+This report is an account of work undertaken within the frame 
+work of the ITER EDA Agreement. Neither the lTER Director, 
+the Parties to the ITER EDA Agreement. the IAEA or any 
+agency thereof, or any of their employees, makes any warranty, 
+express or implied, or assumes any legal liability or responsibility 
+for the accuracy. completeness. or usefulness of any information, 
+apparatus. product, or process disclosed, or represents that its 
+use would not infringe privately owned rights. Reference herein 
+to any specific commercial product, process, or service by trade 
+name. trademark, manufacturer, or otherwise, does not necess- 
+arily constitute or imply its endorsement, recommendation, or 
+favouring by the parties to the ITER EDA Agreement. the IAEA 
+or any agency thereof.The views and opinions of authors expre- 
+ssed herein do not necessarily state or reflect those of ITER 
+Director, the Parties to the ITER EDA Agreement. the IAEA or 
+any agency thereof. 
+References 
+‘P H Rebut, Nuc+I;u.sion. 32, 187 (1992). 
+‘R J Hawryluk. Ph~,s Rer L&l, 72, 3526 (1994). 
+‘J Winter. J Nucl Mater, 176177, 14 (1990). 
+‘H F Dylla ct ~1.. J Nucl Muter, 162-164, IX (1989). 
+‘G Jackson, Nucl Fusion, 30, 2305 (1990). 
+‘K J Dietz, Proc IX Ini Vacuun~ C’on,yre.s.v ~tztl S//I III/ Con/ WI Solid 
+Su,-fi-rc~s, Madrid (1983) p 706. 
+‘Y Sakamoto, PIOL. IX Ini Vucuunz Con,yc~s.r rod 51/r In/ Conj’ OH Solid 
+Surfacrs. Madrid ( 1983) p 7 16. 
+“L Oren. Nucl Fusion, 17, 1143 (1977). 
+‘J Winter, J Nucl Muter. 145147, I31 (1987). 
+‘“J Winter, J Nut,/ Maler. 162-164, 713 (1990). 
+“J van Seggern e/ al., Nucl Muter. 220-222, 677 (lYY5). 
+“J Dietz. Vrrcuum. 47, 91 I (1996). 
+“H Nakamura et al.. Paper PS3-014 in this conference. 
+lJP Mioduszewski i’f a/.. J Nucl Mnwr. 22&222, 91 (1995). 
+“G Federici (‘I rrl., to be published in Prm ~~f’.S~~n~po.viwn OH Fu.sior~ 
+En,qirwrri~y ( 1995). 
+IbD Cowgill (‘I (II., private communication. 
+“T Loarer c’t 01.. J Nucl Muter, 220-222, I X.3 (lY9i). 
+lXT Mizuuchi. private communication. 
+‘“D Post and J Winter, private communication. 
+655 

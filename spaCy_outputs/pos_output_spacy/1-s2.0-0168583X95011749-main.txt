@@ -1,0 +1,1734 @@
+Nuclear, PROPN 
+Instruments, PROPN 
+Methods, PROPN 
+Physics, PROPN 
+Research, PROPN 
+B, PROPN 
+118, NUM 
+1996, NUM 
+68, NUM 
+l-683, NOUN 
+
+, SPACE 
+a&b, PROPN 
+se, X 
+
+, SPACE 
+
+, SPACE 
+Bi!8, PROPN 
+ELSEVIER, PROPN 
+NOM, PROPN 
+B, PROPN 
+Eoam, PROPN 
+Intomctbns, PROPN 
+
+, SPACE 
+Materials, NOUN 
+8, NUM 
+Atoms, NOUN 
+
+, SPACE 
+Retention, PROPN 
+nitrogen, NOUN 
+atoms, NOUN 
+implanted, VERB 
+carbon, NOUN 
+
+, SPACE 
+J., PROPN 
+Jagielski, PROPN 
+aq, PROPN 
+G., PROPN 
+Gawlik, PROPN 
+A., PROPN 
+Turos, PROPN 
+avb, NOUN 
+L., PROPN 
+Nowicki, PROPN 
+b, PROPN 
+N., PROPN 
+Madi, PROPN 
+
+, SPACE 
+Institute, PROPN 
+Elecrronic, PROPN 
+Muterids, PROPN 
+Technology, PROPN 
+W~2czyiisku, PROPN 
+133, NUM 
+01, NUM 
+919, NUM 
+Warsaw, PROPN 
+Poluml, PROPN 
+
+, SPACE 
+b, CCONJ 
+Sobun, PROPN 
+Institute, PROPN 
+Nuclear, PROPN 
+Studies, PROPN 
+Hoza, PROPN 
+69, NUM 
+00, NUM 
+681, NUM 
+Wursuw, PROPN 
+Poland, PROPN 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+retention, NOUN 
+nitrogen, NOUN 
+atoms, NOUN 
+implanted, VERB 
+carbon, NOUN 
+measured, VERB 
+means, NOUN 
+Rutherford, PROPN 
+backscattering, VERB 
+spectrometry, NOUN 
+
+, SPACE 
+RBS, PROPN 
+samples, NOUN 
+commercial, ADJ 
+graphite, NOUN 
+carbon, NOUN 
+layers, NOUN 
+deposited, VERB 
+rf, ADJ 
+sputtering, ADJ 
+Ar, PROPN 
+Ar, PROPN 
++, PROPN 
+N, PROPN 
+N, PROPN 
+
+, SPACE 
+plasma, NOUN 
+results, NOUN 
+room, NOUN 
+temperature, NOUN 
+nitrogen, PROPN 
+ion, NOUN 
+implantation, NOUN 
+maximum, ADJ 
+N, PROPN 
+C, NOUN 
+ratio, NOUN 
+
+, SPACE 
+graphite, NOUN 
+layers, NOUN 
+0.25, NUM 
+deposited, VERB 
+carbon, NOUN 
+layers, NOUN 
+nitrogen, PROPN 
+implantation, NOUN 
+ratio, NOUN 
+reaches, VERB 
+0.54, NUM 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+Recent, ADJ 
+theoretical, ADJ 
+calculations, NOUN 
+performed, VERB 
+prop-, NOUN 
+
+, SPACE 
+erties, NOUN 
+new, ADJ 
+materials, NOUN 
+indicate, VERB 
+P, PROPN 
+C, PROPN 
+jN, PROPN 
+carbon, NOUN 
+nitride, NOUN 
+
+, SPACE 
+interesting, ADJ 
+compound, NOUN 
+numerous, ADJ 
+appli-, ADJ 
+
+, SPACE 
+cations, NOUN 
+l-3, PROPN 
+main, ADJ 
+interest, NOUN 
+synthesis, NOUN 
+
+, SPACE 
+material, NOUN 
+theoretical, ADJ 
+hardness, NOUN 
+expected, VERB 
+
+, SPACE 
+higher, ADJ 
+diamond, NOUN 
+combination, NOUN 
+
+, SPACE 
+high, ADJ 
+electrical, ADJ 
+resistivity, NOUN 
+good, ADJ 
+thermal, ADJ 
+conductivity, NOUN 
+
+, SPACE 
+recommends, VERB 
+material, NOUN 
+substrate, NOUN 
+integrated, ADJ 
+
+, SPACE 
+circuits, NOUN 
+power, NOUN 
+devices, NOUN 
+
+, SPACE 
+growing, VERB 
+interest, NOUN 
+resulted, VERB 
+numerous, ADJ 
+attempts, NOUN 
+
+, SPACE 
+synthesize, VERB 
+carbon, NOUN 
+nitride, NOUN 
+continuous, ADJ 
+
+, SPACE 
+layer, NOUN 
+proper, ADJ 
+compound, NOUN 
+obtained, VERB 
+Physical, ADJ 
+
+, SPACE 
+vapor, NOUN 
+deposition, NOUN 
+PVD, PROPN 
+chemical, NOUN 
+vapor, NOUN 
+deposition, NOUN 
+
+, SPACE 
+CVD, PROPN 
+methods, NOUN 
+mainly, ADV 
+allowed, VERB 
+synthe-, VERB 
+
+, SPACE 
+size, NOUN 
+precipitates, NOUN 
+B, PROPN 
+C, PROPN 
+N, PROPN 
+carbon, NOUN 
+matrix, NOUN 
+containing, VERB 
+
+, SPACE 
+nitrogen, NOUN 
+atoms, NOUN 
+4, NUM 
+Recently, ADV 
+reported, VERB 
+thin, ADJ 
+
+, SPACE 
+layers, NOUN 
+containing, VERB 
+carbon, NOUN 
+nitride, NOUN 
+formed, VERB 
+laser, NOUN 
+
+, SPACE 
+ablation, NOUN 
+graphite, NOUN 
+presence, NOUN 
+nitrogen, NOUN 
+S, PROPN 
+
+, SPACE 
+ion, NOUN 
+implantation, NOUN 
+alternate, ADJ 
+
+, SPACE 
+promising, VERB 
+way, NOUN 
+synthesize, VERB 
+P, PROPN 
+C, PROPN 
+N, PROPN 
+6,7, NUM 
+
+, SPACE 
+provides, VERB 
+usually, ADV 
+high, ADJ 
+impurity, NOUN 
+concentration, NOUN 
+high, ADJ 
+
+, SPACE 
+stress, NOUN 
+level, NOUN 
+process, NOUN 
+enhance, VERB 
+forma-, ADJ 
+
+, SPACE 
+tion, NOUN 
+covalent, NOUN 
+bonds, NOUN 
+advantage, NOUN 
+ion, NOUN 
+
+, SPACE 
+implantation, NOUN 
+technique, NOUN 
+ability, NOUN 
+easy, ADJ 
+modification, NOUN 
+
+, SPACE 
+process, NOUN 
+parameters, NOUN 
+dose, NOUN 
+dose, NOUN 
+rate, NOUN 
+beam, NOUN 
+
+, SPACE 
+current, ADJ 
+substrate, ADJ 
+temperature, NOUN 
+play, VERB 
+important, ADJ 
+
+, SPACE 
+role, NOUN 
+structure, NOUN 
+formed, VERB 
+compound, NOUN 
+princi-, ADJ 
+
+, SPACE 
+pal, ADJ 
+aim, NOUN 
+paper, NOUN 
+study, VERB 
+step, NOUN 
+
+, SPACE 
+l, NOUN 
+Corresponding, PROPN 
+author, NOUN 
+Tel, INTJ 
++, SYM 
+48, NUM 
+22, NUM 
+35, NUM 
+30, NUM 
+41, NUM 
+fax, NOUN 
++, PROPN 
+48, NUM 
+39, NUM 
+12, NUM 
+
+, SPACE 
+07, NUM 
+64, NUM 
+e, NOUN 
+mail, NOUN 
+itm~2@frodo.nask.org.p1, NOUN 
+
+, SPACE 
+leave, NOUN 
+Alexandria, PROPN 
+University, PROPN 
+Physics, PROPN 
+Department, PROPN 
+
+, SPACE 
+Alexandria, PROPN 
+Egypt, PROPN 
+formation, NOUN 
+P, PROPN 
+C, PROPN 
+N, PROPN 
+means, NOUN 
+ion, NOUN 
+implantation, NOUN 
+i.e., X 
+
+, SPACE 
+determination, NOUN 
+maximum, ADJ 
+concentration, NOUN 
+nitrogen, NOUN 
+
+, SPACE 
+atoms, NOUN 
+implanted, VERB 
+bulk, ADJ 
+carbon, NOUN 
+thin, ADJ 
+carbon, NOUN 
+layers, NOUN 
+
+, SPACE 
+2, X 
+Experimental, ADJ 
+
+, SPACE 
+experiment, NOUN 
+commercial, ADJ 
+
+, SPACE 
+graphite, NOUN 
+samples, NOUN 
+samples, NOUN 
+implanted, VERB 
+
+, SPACE 
+260, NUM 
+keV, PROPN 
+A?+, NOUN 
+ions, NOUN 
+projected, VERB 
+range, NOUN 
+R, NOUN 
+=, PROPN 
+210, NUM 
+nm, ADJ 
+
+, SPACE 
+AR, PROPN 
+=, PROPN 
+40, NUM 
+nm, NOUN 
+dose, NOUN 
+1.5, NUM 
+x, SYM 
+lOI, ADJ 
+atoms, NOUN 
+/cm, PUNCT 
+
+, SPACE 
+subsequently, ADV 
+implanted, VERB 
+increasing, VERB 
+doses, NOUN 
+molecular, ADJ 
+
+, SPACE 
+nitrogen, NOUN 
+objective, NOUN 
+argon, NOUN 
+implantation, NOUN 
+incor-, VERB 
+
+, SPACE 
+porate, VERB 
+heavy, ADJ 
+marker, NOUN 
+carbon, NOUN 
+layer, NOUN 
+
+, SPACE 
+nitrogen, NOUN 
+implanted, VERB 
+layer, NOUN 
+Basing, VERB 
+displacement, NOUN 
+
+, SPACE 
+marker, NOUN 
+sputtering, ADJ 
+coefficient, NOUN 
+carbon, NOUN 
+nitrogen, NOUN 
+
+, SPACE 
+ions, NOUN 
+determined, VERB 
+nitrogen, NOUN 
+implantations, NOUN 
+
+, SPACE 
+performed, VERB 
+room, NOUN 
+temperature, NOUN 
+100, NUM 
+keV, PROPN 
+N, PROPN 
+ions, NOUN 
+
+, SPACE 
+equivalent, ADJ 
+50, NUM 
+keV, NOUN 
+Nf, PROPN 
+ions, NOUN 
+i.e., X 
+R, NOUN 
+=, PROPN 
+100, NUM 
+nm, ADJ 
+AR, PROPN 
+=, PROPN 
+
+, SPACE 
+22, NUM 
+nm, ADJ 
+doses, NOUN 
+varying, VERB 
+0.5, NUM 
+X, PROPN 
+IO, PROPN 
+10, NUM 
+X, PROPN 
+IO, PROPN 
+
+, SPACE 
+atomsN, PROPN 
+cm, PROPN 
+Typical, ADJ 
+beam, NOUN 
+current, ADJ 
+density, NOUN 
+
+, SPACE 
+p, NOUN 
+cm, NOUN 
+implantation, NOUN 
+samples, NOUN 
+temperature, NOUN 
+
+, SPACE 
+kept, VERB 
+70, NUM 
+°, NUM 
+C, NOUN 
+implantations, NOUN 
+performed, VERB 
+
+, SPACE 
+Balzers, PROPN 
+h4PB, NOUN 
+202RP, PROPN 
+ion, NOUN 
+implanter, NOUN 
+IEMT, NOUN 
+War-, PROPN 
+
+, SPACE 
+saw, VERB 
+comparison, NOUN 
+nitrogen, NOUN 
+implantations, NOUN 
+
+, SPACE 
+performed, VERB 
+carbon, NOUN 
+layers, NOUN 
+deposited, VERB 
+rf, ADJ 
+sputter-, NOUN 
+
+, SPACE 
+ing, PROPN 
+carbon, NOUN 
+layers, NOUN 
+deposited, VERB 
+100, NUM 
+Si, PROPN 
+sub-, NOUN 
+
+, SPACE 
+strates, NOUN 
+pure, ADJ 
+argon, NOUN 
+plasma, NOUN 
+50/50, NUM 
+mixture, NOUN 
+Ar, PROPN 
+
+, SPACE 
+N, PROPN 
+pure, ADJ 
+nitrogen, NOUN 
+plasma, NOUN 
+Typical, ADJ 
+thickness, NOUN 
+de-, PROPN 
+
+, SPACE 
+posited, VERB 
+layers, NOUN 
+300, NUM 
+nm, NOUN 
+carbon, NOUN 
+layers, NOUN 
+
+, SPACE 
+implanted, VERB 
+100, NUM 
+keV, PROPN 
+NT, PROPN 
+ions, NOUN 
+dose, NOUN 
+
+, SPACE 
+1, NUM 
+X, PROPN 
+lo, NOUN 
+3, NUM 
+X, PROPN 
+IO, PROPN 
+8, NUM 
+X, NUM 
+10, NUM 
+atomsN, PROPN 
+cm2, NOUN 
+con-, NOUN 
+
+, SPACE 
+centration, NOUN 
+nitrogen, NOUN 
+atoms, NOUN 
+carbon, NOUN 
+samples, NOUN 
+deter-, X 
+
+, SPACE 
+mined, VERB 
+means, NOUN 
+RBS, NOUN 
+2, NUM 
+MeV, NOUN 
+4He+, PROPN 
+beam, NOUN 
+
+, SPACE 
+delivered, VERB 
+LECH, PROPN 
+Van, PROPN 
+de, PROPN 
+Graaff, PROPN 
+accelerator, NOUN 
+
+, SPACE 
+Soltan, PROPN 
+Institute, PROPN 
+Nuclear, PROPN 
+Studies, PROPN 
+analyzing, NOUN 
+dose, NOUN 
+
+, SPACE 
+0168, NUM 
+583X/%/515.00, NUM 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+SSDI, PROPN 
+0168, NUM 
+583X(95)01, NUM 
+174, NUM 
+9, NUM 
+IX, PROPN 
+NEW, ADJ 
+MATERIALS, PROPN 
+
+, SPACE 
+682, NUM 
+J., PROPN 
+Jagielski, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, NOUN 
+1, NUM 
+I8, NOUN 
+1996, NUM 
+681, NUM 
+683, NUM 
+
+, SPACE 
+200, NUM 
+RUMP, PROPN 
+computer, NOUN 
+code, NOUN 
+
+, SPACE 
+deconvolution, NOUN 
+experimental, ADJ 
+spectra, PROPN 
+181, NUM 
+
+, SPACE 
+3, X 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+typical, ADJ 
+experimental, ADJ 
+spectrum, NOUN 
+recorded, VERB 
+bulk, ADJ 
+
+, SPACE 
+graphite, NOUN 
+sample, NOUN 
+pre, VERB 
+implanted, VERB 
+argon, NOUN 
+implanted, VERB 
+
+, SPACE 
+NT, PROPN 
+ions, NOUN 
+dose, NOUN 
+3, NUM 
+X, PROPN 
+IO, PROPN 
+atomsN, PROPN 
+cm, PROPN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+distinct, ADJ 
+regions, NOUN 
+clearly, ADV 
+distin-, X 
+
+, SPACE 
+guished, VERB 
+Ar, PROPN 
+peak, NOUN 
+channel, NOUN 
+310, NUM 
+nitrogen, NOUN 
+
+, SPACE 
+peak, NOUN 
+begins, VERB 
+channel, NOUN 
+170, NUM 
+carbon, NOUN 
+
+, SPACE 
+spectrum, NOUN 
+channel, NOUN 
+number, NOUN 
+region, NOUN 
+0, NUM 
+140, NUM 
+
+, SPACE 
+case, NOUN 
+nitrogen, NOUN 
+implantation, NOUN 
+carbon, NOUN 
+
+, SPACE 
+rare, ADJ 
+situations, NOUN 
+nitrogen, NOUN 
+atoms, NOUN 
+heavier, ADJ 
+
+, SPACE 
+substrate, NOUN 
+atoms, NOUN 
+analyzed, VERB 
+directly, ADV 
+RBS, PROPN 
+
+, SPACE 
+method, NOUN 
+implantation, NOUN 
+samples, NOUN 
+showed, VERB 
+
+, SPACE 
+relatively, ADV 
+low, ADJ 
+oxygen, NOUN 
+concentration, NOUN 
+typically, ADV 
+l-2, PROPN 
+at.%, PROPN 
+
+, SPACE 
+experiment, NOUN 
+devoted, VERB 
+
+, SPACE 
+study, NOUN 
+nitrogen, NOUN 
+retention, NOUN 
+implantation, NOUN 
+bulk, ADJ 
+
+, SPACE 
+carbon, NOUN 
+samples, NOUN 
+retention, NOUN 
+dose, NOUN 
+versus, ADP 
+N, PROPN 
+ion, NOUN 
+implanted, VERB 
+
+, SPACE 
+dose, NOUN 
+plot, NOUN 
+shown, VERB 
+Fig, PROPN 
+2, NUM 
+note, VERB 
+linear, ADJ 
+
+, SPACE 
+increase, NOUN 
+retained, VERB 
+dose, NOUN 
+3, NUM 
+X, NUM 
+10, NUM 
+
+, SPACE 
+atoms, NOUN 
+N, PROPN 
+cm, PROPN 
+implantation, NOUN 
+dose, NOUN 
+reached, VERB 
+5, NUM 
+X, NUM 
+10, NUM 
+
+, SPACE 
+atomsN, PROPN 
+cm, PROPN 
+followed, VERB 
+saturation, NOUN 
+3.5, NUM 
+X, NUM 
+
+, SPACE 
+10, NUM 
+atomsN, PROPN 
+cm, PROPN 
+saturation, NOUN 
+value, NOUN 
+determined, VERB 
+
+, SPACE 
+RUMP, PROPN 
+simulations, NOUN 
+corresponds, VERB 
+N, PROPN 
+C, PROPN 
+ratio, NOUN 
+
+, SPACE 
+0.25, NUM 
+
+, SPACE 
+displacement, NOUN 
+Ar, PROPN 
+marker, NOUN 
+analyzed, VERB 
+
+, SPACE 
+dose, ADJ 
+range, NOUN 
+5, NUM 
+X, NOUN 
+10, NUM 
+10, NUM 
+X, PROPN 
+lOI, ADJ 
+atomsN, PROPN 
+cm, PROPN 
+i.e., X 
+
+, SPACE 
+saturation, NOUN 
+dose, NOUN 
+range, NOUN 
+limitation, NOUN 
+satura-, ADJ 
+
+, SPACE 
+tion, NOUN 
+range, NOUN 
+fact, NOUN 
+lower, ADJ 
+doses, NOUN 
+
+, SPACE 
+incorporation, NOUN 
+additional, ADJ 
+nitrogen, NOUN 
+atoms, NOUN 
+results, NOUN 
+
+, SPACE 
+displacement, NOUN 
+Ar, PROPN 
+signal, NOUN 
+lower, ADJ 
+energies, NOUN 
+
+, SPACE 
+compensate, VERB 
+effect, NOUN 
+sputtering, NOUN 
+carbon, NOUN 
+
+, SPACE 
+atoms, NOUN 
+surface, NOUN 
+measured, ADJ 
+value, NOUN 
+sputter-, NOUN 
+
+, SPACE 
+ing, PROPN 
+coefficient, NOUN 
+saturation, NOUN 
+dose, NOUN 
+range, NOUN 
+equals, VERB 
+0.6, NUM 
+
+, SPACE 
+8OOG, PROPN 
+r, NOUN 
+
+, SPACE 
+200, NUM 
+
+, SPACE 
+Channel, PROPN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Backscattering, VERB 
+spectrum, NOUN 
+recorded, VERB 
+graphite, NOUN 
+sample, NOUN 
+Fig, PROPN 
+3, X 
+Backscattering, VERB 
+spectrum, NOUN 
+circles, NOUN 
+fitted, VERB 
+curve, NOUN 
+solid, ADJ 
+
+, SPACE 
+preimplanted, VERB 
+Ar*+, PROPN 
+ions, NOUN 
+implanted, VERB 
+dose, NOUN 
+3, NUM 
+X, PROPN 
+IO, PROPN 
+line, NOUN 
+thin, ADJ 
+carbon, NOUN 
+film, NOUN 
+implanted, VERB 
+dose, NOUN 
+8X, PROPN 
+IO, PROPN 
+
+, SPACE 
+atomsN, PROPN 
+cm, PROPN 
+atomsN, PROPN 
+cm, PROPN 
+r, NOUN 
+d, NOUN 
+
+, SPACE 
+0, NUM 
+2, NUM 
+4, NUM 
+6, NUM 
+10, NUM 
+12, NUM 
+
+, SPACE 
+Implantation, NOUN 
+dose, NOUN 
+x10”al, PROPN 
+N, PROPN 
+cm2, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Retention, NOUN 
+nitrogen, NOUN 
+atoms, NOUN 
+implanted, VERB 
+graphite, PROPN 
+
+, SPACE 
+sample, NOUN 
+
+, SPACE 
+pointed, VERB 
+loss, NOUN 
+carbon, NOUN 
+
+, SPACE 
+atoms, NOUN 
+mechanisms, NOUN 
+different, ADJ 
+
+, SPACE 
+collisional, ADJ 
+sputtering, NOUN 
+authors, NOUN 
+6,7, NUM 
+suggested, VERB 
+
+, SPACE 
+possibility, NOUN 
+cyanide, NOUN 
+type, NOUN 
+chemical, NOUN 
+bond, NOUN 
+formation, NOUN 
+
+, SPACE 
+nitrogen, NOUN 
+implanted, VERB 
+carbon, NOUN 
+Consequently, ADV 
+loss, NOUN 
+car-, PROPN 
+
+, SPACE 
+bon, PROPN 
+volatilization, NOUN 
+CN, PROPN 
+like, ADJ 
+
+, SPACE 
+molecules, NOUN 
+chemical, NOUN 
+sputtering, NOUN 
+
+, SPACE 
+results, NOUN 
+obtained, VERB 
+nitrogen, NOUN 
+implanted, VERB 
+graphite, NOUN 
+
+, SPACE 
+compared, VERB 
+obtained, VERB 
+nitrogen, NOUN 
+implanted, VERB 
+
+, SPACE 
+carbon, NOUN 
+films, NOUN 
+typical, ADJ 
+experimental, ADJ 
+spectrum, NOUN 
+obtained, VERB 
+
+, SPACE 
+thin, ADJ 
+carbon, NOUN 
+layers, NOUN 
+deposited, VERB 
+pure, ADJ 
+Ar, PROPN 
+plasma, NOUN 
+im-, NOUN 
+
+, SPACE 
+planted, VERB 
+dose, NOUN 
+8, NUM 
+X, NUM 
+10, NUM 
+atomsN, PROPN 
+cm, PROPN 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+comparison, NOUN 
+results, NOUN 
+measured, VERB 
+bulk, ADJ 
+
+, SPACE 
+carbon, NOUN 
+samples, NOUN 
+shown, VERB 
+Fig, PROPN 
+4, NUM 
+presents, VERB 
+
+, SPACE 
+highest, ADJ 
+N, PROPN 
+C, PROPN 
+ratio, NOUN 
+obtained, VERB 
+pointed, VERB 
+
+, SPACE 
+films, NOUN 
+deposited, VERB 
+pure, ADJ 
+nitrogen, NOUN 
+highest, ADJ 
+N, PROPN 
+C, NOUN 
+ratio, NOUN 
+
+, SPACE 
+obtained, VERB 
+highest, ADJ 
+implantation, NOUN 
+dose, NOUN 
+fact, NOUN 
+
+, SPACE 
+highest, ADJ 
+value, NOUN 
+0.54, NUM 
+obtained, VERB 
+implanta-, X 
+
+, SPACE 
+tion, NOUN 
+1, NUM 
+X, NUM 
+10, NUM 
+atomsN, PROPN 
+cm, PROPN 
+increase, NOUN 
+implan-, X 
+
+, SPACE 
+tation, NOUN 
+dose, NOUN 
+resulted, VERB 
+decrease, NOUN 
+nitrogen, NOUN 
+
+, SPACE 
+content, NOUN 
+N, PROPN 
+C, PROPN 
+=, NOUN 
+0.28, NUM 
+0.25, NUM 
+3, NUM 
+X, NUM 
+10, NUM 
+8, NUM 
+X, NUM 
+10, NUM 
+
+, SPACE 
+35, NUM 
+
+, SPACE 
+30, NUM 
+
+, SPACE 
+25, NUM 
+
+, SPACE 
+P, NOUN 
+
+, SPACE 
+F, PROPN 
+20, NUM 
+
+, SPACE 
+Ii, PROPN 
+
+, SPACE 
+2, NUM 
+15, NUM 
+
+, SPACE 
+B, NOUN 
+
+, SPACE 
+10, NUM 
+
+, SPACE 
+5, NUM 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+
+, SPACE 
+50, NUM 
+100, NUM 
+150, NUM 
+200, NUM 
+250, NUM 
+
+, SPACE 
+Channel, PROPN 
+
+, SPACE 
+J., PROPN 
+Jagielski, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Instr, PROPN 
+und, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+118, NUM 
+1996, NUM 
+681, NUM 
+683, NUM 
+683, NUM 
+
+, SPACE 
+bulk, ADJ 
+
+, SPACE 
+sample, NOUN 
+deposited, VERB 
+carbon, NOUN 
+films, NOUN 
+1, NUM 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Maximum, PROPN 
+nitrogen, NOUN 
+carbon, NOUN 
+ratio, NOUN 
+bulk, ADJ 
+graphite, NOUN 
+
+, SPACE 
+samples, NOUN 
+carbon, NOUN 
+films, NOUN 
+deposited, VERB 
+Ar, PROPN 
+plasma, NOUN 
+Ar, PROPN 
++, PROPN 
+NJ, PROPN 
+plasma, NOUN 
+
+, SPACE 
+N, PROPN 
+plasma, NOUN 
+
+, SPACE 
+atomsN, PROPN 
+cm, PROPN 
+respectively, ADV 
+likely, ADV 
+accelerated, VERB 
+
+, SPACE 
+loss, NOUN 
+nitrogen, NOUN 
+occurs, VERB 
+ion, NOUN 
+implantation, NOUN 
+
+, SPACE 
+films, NOUN 
+having, VERB 
+composition, NOUN 
+exceeding, VERB 
+N, PROPN 
+C, PROPN 
+=, NOUN 
+0.25, NUM 
+Ap-, INTJ 
+
+, SPACE 
+parently, ADV 
+N, PROPN 
+C, PROPN 
+ratio, NOUN 
+0.25, NUM 
+corresponds, NOUN 
+
+, SPACE 
+stable, ADJ 
+composition, NOUN 
+nitrogen, PROPN 
+implanted, VERB 
+carbon, NOUN 
+
+, SPACE 
+4, X 
+Conclusions, NOUN 
+
+, SPACE 
+nitrogen, NOUN 
+retention, NOUN 
+nitrogen, NOUN 
+implanted, VERB 
+carbon, NOUN 
+
+, SPACE 
+samples, NOUN 
+reveal, VERB 
+saturation, NOUN 
+value, NOUN 
+corresponding, VERB 
+N, PROPN 
+C, PROPN 
+
+, SPACE 
+ratio, NOUN 
+0.25, NUM 
+i.e., X 
+value, NOUN 
+lower, ADJ 
+necessary, ADJ 
+
+, SPACE 
+P, PROPN 
+C, PROPN 
+N, PROPN 
+compound, NOUN 
+1.33, NUM 
+formation, NOUN 
+attempts, NOUN 
+
+, SPACE 
+increase, VERB 
+value, NOUN 
+use, NOUN 
+carbon, NOUN 
+films, NOUN 
+deposited, VERB 
+
+, SPACE 
+nitrogen, NOUN 
+containing, VERB 
+plasma, NOUN 
+discharge, NOUN 
+par-, PROPN 
+
+, SPACE 
+tially, ADV 
+successful, ADJ 
+N, PROPN 
+C, PROPN 
+ratio, NOUN 
+increased, VERB 
+0.54, NUM 
+
+, SPACE 
+structure, NOUN 
+obtained, VERB 
+highly, ADV 
+unstable, ADJ 
+
+, SPACE 
+decomposition, NOUN 
+nitrogen, NOUN 
+beam, NOUN 
+observed, VERB 
+
+, SPACE 
+final, ADJ 
+N, PROPN 
+C, NOUN 
+value, NOUN 
+measured, VERB 
+highest, ADJ 
+implantation, NOUN 
+
+, SPACE 
+dose, PROPN 
+exactly, ADV 
+case, NOUN 
+bulk, ADJ 
+
+, SPACE 
+graphite, NOUN 
+samples, NOUN 
+pure, ADJ 
+carbon, NOUN 
+thin, ADJ 
+films, NOUN 
+deposited, VERB 
+Ar, PROPN 
+
+, SPACE 
+plasma, NOUN 
+i.e., X 
+0.25, NUM 
+results, NOUN 
+obtained, VERB 
+confirm, VERB 
+hypothe-, ADJ 
+sis, NOUN 
+formulated, VERB 
+Konwerska, PROPN 
+Hrabowska, PROPN 
+et, PROPN 
+al, PROPN 
+9, X 
+suggest-, X 
+
+, SPACE 
+ing, ADJ 
+cases, NOUN 
+deposition, NOUN 
+C, PROPN 
+N, PROPN 
+films, NOUN 
+
+, SPACE 
+CVD, PROPN 
+PVD, PROPN 
+likely, ADJ 
+ion, NOUN 
+implantation, NOUN 
+lead, VERB 
+
+, SPACE 
+formation, NOUN 
+P, PROPN 
+C, PROPN 
+N, PROPN 
+formation, NOUN 
+new, ADJ 
+
+, SPACE 
+compound, NOUN 
+called, VERB 
+polycyanoimine, ADJ 
+hy-, ADJ 
+
+, SPACE 
+pothesis, NOUN 
+based, VERB 
+fact, NOUN 
+infrared, ADJ 
+absorption, NOUN 
+
+, SPACE 
+measurements, NOUN 
+performed, VERB 
+C, PROPN 
+N, PROPN 
+layers, NOUN 
+revealed, VERB 
+pres-, NOUN 
+
+, SPACE 
+ence, NOUN 
+types, NOUN 
+carbon, NOUN 
+nitrogen, NOUN 
+bonds, NOUN 
+i.e., X 
+C, PROPN 
+N, PROPN 
+C, PROPN 
+=, NOUN 
+N, PROPN 
+
+, SPACE 
+C, PROPN 
+=, NOUN 
+N, PROPN 
+bonds, NOUN 
+9, NUM 
+physical, ADJ 
+point, NOUN 
+view, NOUN 
+
+, SPACE 
+formation, NOUN 
+polycyanoimine, NOUN 
+instead, ADV 
+P, PROPN 
+C, PROPN 
+N, PROPN 
+re-, ADV 
+
+, SPACE 
+flect, VERB 
+fact, NOUN 
+lowest, ADV 
+free, ADJ 
+energy, NOUN 
+C, PROPN 
+N, PROPN 
+
+, SPACE 
+system, NOUN 
+correspond, VERB 
+carbon, NOUN 
+nitride, NOUN 
+Conse-, PROPN 
+
+, SPACE 
+quently, ADV 
+increase, VERB 
+probability, NOUN 
+P, PROPN 
+C, PROPN 
+N, PROPN 
+formation, NOUN 
+
+, SPACE 
+interesting, ADJ 
+explore, VERB 
+deposition, NOUN 
+techniques, NOUN 
+
+, SPACE 
+new, ADJ 
+phase, NOUN 
+formed, VERB 
+far, ADV 
+equilibrium, NOUN 
+
+, SPACE 
+conditions, NOUN 
+
+, SPACE 
+Acknowledgement, NOUN 
+
+, SPACE 
+work, NOUN 
+financed, VERB 
+IEMT, PROPN 
+research, NOUN 
+grant, NOUN 
+
+, SPACE 
+20, NUM 
+l/0201/5, NOUN 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+A.Y., PROPN 
+Liu, PROPN 
+M.L., PROPN 
+Cohen, PROPN 
+Science, PROPN 
+245, NUM 
+1989, NUM 
+841, NUM 
+
+, SPACE 
+2, X 
+W., PROPN 
+Schnick, PROPN 
+Angew, PROPN 
+Chem, PROPN 
+Int, PROPN 
+Ed, PROPN 
+Engl, PROPN 
+32(11, NUM 
+1993, NUM 
+
+, SPACE 
+1580, NUM 
+
+, SPACE 
+3, X 
+G.L., PROPN 
+Doll, PROPN 
+J.P., PROPN 
+Heremans, PROPN 
+T.A., PROPN 
+Perry, PROPN 
+J.V., PROPN 
+Mantese, PROPN 
+J., PROPN 
+
+, SPACE 
+Mater, PROPN 
+Res, PROPN 
+9(l, PROPN 
+1994, NUM 
+85, NUM 
+
+, SPACE 
+4, X 
+K.M., PROPN 
+Yu, PROPN 
+M.L., PROPN 
+Cohen, PROPN 
+E.E., PROPN 
+Haller, PROPN 
+W.L., PROPN 
+Hansen, PROPN 
+A.Y., PROPN 
+Liu, PROPN 
+
+, SPACE 
+I.C., PROPN 
+Wu, PROPN 
+Phys, PROPN 
+Rev., PROPN 
+B, PROPN 
+49(7, NUM 
+1994, NUM 
+5034, NUM 
+
+, SPACE 
+5, X 
+C.M., PROPN 
+Niu, PROPN 
+Y.Z., PROPN 
+Lu, PROPN 
+CM, PROPN 
+Lieber, PROPN 
+Science, PROPN 
+261, NUM 
+1993, NUM 
+334, NUM 
+
+, SPACE 
+6, NUM 
+A., NOUN 
+Hoffman, PROPN 
+I., PROPN 
+Gouzman, PROPN 
+R., PROPN 
+Btener, PROPN 
+Appl, PROPN 
+Phys, NOUN 
+Lett, PROPN 
+
+, SPACE 
+647, NUM 
+1994, NUM 
+845, NUM 
+
+, SPACE 
+7, NUM 
+A., NOUN 
+Hoffman, PROPN 
+H., PROPN 
+Geller, PROPN 
+1, NUM 
+Gouzman, PROPN 
+C., PROPN 
+Cyterman, PROPN 
+R., PROPN 
+Brener, PROPN 
+
+, SPACE 
+M., PROPN 
+Kenny, PROPN 
+Surf, PROPN 
+Coatings, PROPN 
+Technol, PROPN 
+68/69, NUM 
+1994, NUM 
+
+, SPACE 
+616, NUM 
+
+, SPACE 
+8, X 
+L.R., PROPN 
+DoolittIe, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+B, NOUN 
+9, NUM 
+1990, NUM 
+5008, NUM 
+
+, SPACE 
+9, X 
+J., PROPN 
+Konwerska, PROPN 
+Hrabowska, PROPN 
+K., PROPN 
+Zdunek, PROPN 
+A., PROPN 
+Sokolowska, PROPN 
+J., PROPN 
+
+, SPACE 
+Szmidt, PROPN 
+J., PROPN 
+Chem, PROPN 
+Vat, PROPN 
+Dep, PROPN 
+published, VERB 
+
+, SPACE 
+IX, PROPN 
+NEW, ADJ 
+MATERIALS, PROPN 
+
+, SPACE 

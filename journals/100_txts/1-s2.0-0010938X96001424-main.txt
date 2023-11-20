@@ -1,0 +1,407 @@
+Corrosion Science, Vol. 38, No. 3, pp. 44W55, 1996 
+Copyright 0 1996 Elsevier Science Ltd 
+Printed in Great Britain. All rights reserved 
+0010-938X/96 $15.00+0.00 
+001&938X(96)00142-5 
+IRON CORROSION IN DRINKING WATER DISTRIBUTION 
+SYSTEMS-THE EFFECT OF pH, CALCIUM AND HYDROGEN 
+CARBONATE 
+A. SANDER,* B. BERGHULT,+ A. ELFSTRiiM BROO,+ E. LIND JOHANSSON* 
+and T. HEDBERG* 
+* Department of Sanitary Engineering, Chalmers University of Technology, S-412 96 Giiteborg, Sweden 
++ Department of Inorganic Chemistry, University of GBteborg, S-412 96 Goteborg, Sweden 
+Abstract-The corrosion of iron in synthetic drinking water has been studied through potentiodynamic sweeps and 
+coupon tests. Corrosion rate follows a reversed proportional dependence on the logarithm of the free carbon 
+dioxide content (the sum of protonated carbonic acid and dissolved carbon dioxide). In water with low total 
+carbonate concentrations the addition of calcium ions decreases the corrosion rate. In waters with moderate and 
+high total carbonate content no dependence on the calcium concentration is observed. 
+Keywords: A. steel, B. RDE/RCE, B. weight loss, C. passive films, C. rust. 
+INTRODUCTION 
+Internal corrosion in drinking water distribution systems 
+Municipalities worldwide invest large amounts of money in environmental technology, with 
+the municipal sector controlling a considerable share of this sum. Distribution systems for 
+drinking water and wastewater account for 80% of the investment in the municipal sector.“* 
+External corrosion is regarded as a major factor affecting maintenance costs and lifetime of 
+drinking water pipes. Also, internal corrosion of pipes can cause breaks and overflows in the 
+distribution systems, but the major effect is water quality deterioration. Corrosion products, 
+containing both iron and copper, are found at the consumers’ taps as well as at the sewage 
+treatment plant, degrading the quality of the sludge as a soil improver. Corrosion products 
+inside the pipes reduce the effective diameter and, thus, increase pumping costs. Corrosion 
+product coatings are also a good environment for the growth of micro-organisms. 
+It is important to distinguish between (i) uniform corrosion, (ii) pitting corrosion and 
+(iii) corrosion-related water quality problems. While pitting corrosion can determine the 
+lifetime of the pipe, the major part of the corrosion products is due to uniform corrosion. 
+Corrosion-related water quality problems are mainly a function of the precipitation and the 
+dissolution properties of the corrosion products formed.3,4 
+Minimization of corrosion problems depends on investigations of the effects of water 
+quality -on the pipe materials. Several studies have shown that different pipe materials 
+require different water qualities.5-8 Many investigations describe specific networks, 
+corrosion problems and treatments to improve the water quality.‘-12 However, the 
+Manuscript received 12 July 1995; in amended form 1 September 1995. 
+443 
+444 A. Sander et ~1. 
+detailed mechanisms for pipe material corrosion coupled to the effect of different water 
+compositions are not well understood. 
+Corrosion of iron pipes 
+For oxygen induced corrosion on iron pipes different rate determining steps are 
+possible:2,7,13 (1) oxygen diffusion to the surface; (2) the anodic electron transfer reactions; 
+and (3) the transport of corrosion products from surface to bulk. 
+Oxygen diffusion determines the corrosion rate at stagnation.275 An increase in flow 
+velocity reduces the thickness of the diffusion layer and dissolved oxygen can more easily 
+reach the metal surface. Diffusion of oxygen also increases with increasing temperature since 
+the viscosity of water is reduced and the diffusion constant increases. Scale formations act as 
+additional diffusion barriers. At high flow velocities the electron transfer is the rate 
+determining step. 
+The formation of passive layers has been the subject of many investigations and the 
+saturation or Langlier index has been widely used since it was introduced in 1936.14 The 
+Langlier index indicates whether the water is supersaturated or undersaturated with respect 
+to calcium carbonate, calcite. Langlier proposedi that if the water was treated to a slight 
+supersaturation a thin film of calcium carbonate would precipitate on the surface and 
+protect the metal from further corrosion. However, later investigations15-17 showed that the 
+Langlier index is insufficient to predict iron corrosion. Local pH variations due to oxygen 
+reduction can cause precipitation in undersaturated waters” and other forms of solid 
+calcium carbonate than calcite were not taken into consideration.17 Further, most waters 
+are saturated with respect to siderite (FeC03) well before saturation is achieved for calcite. l8 
+Therefore, siderite is believed to play an important role as an intermediate in the formation 
+of protective layers.19.20 
+The buffer capacity is referred to as the most important factor for the formation of good 
+protective layers according to the siderite model, because an increased buffer capacity leads 
+to slower precipitation of the corrosion products and the formation of more protective 
+scales.*’ When the buffer capacity is high, the iron(I1) ions can form siderite instead of 
+forming the less protective goethite, FeOOH, iron hydroxide, Fe(OH)2, or other iron 
+products, and the scale will become more dense and stable. Siderite then oxidizes to 
+magnetite, Fe20j, or goethite (pseudomorphous) while retaining a crystal line structure and 
+therefore a more protective scale. 
+The presence of humic substances slows the precipitation rate and more stable protective 
+layers are formed.22 On the other hand, chloride, sulfate and fluoride all increase the 
+corrosion rate through interference during the formation of the protective layers.16 
+The aim of this investigation was to determine the influence of the carbonate system, pH 
+and the calcium content on the rate of uniform corrosion. Previous investigations have been 
+oriented towards coupon tests. In this investigation parallel studies of coupons and studies 
+at rotating iron electrodes have been carried out to achieve a better understanding of the 
+underlying mechanisms of corrosion. 
+EXPERIMENTAL METHOD 
+Electrochemical measurements: instrumentation, cells and electrodes 
+Slow scan potentiodynamic sweeps (PDS) were carried out using a Hewlett Packard 
+synthesizer 3325A and a Princeton Applied Research potentiostat/galvanostat 363. A 
+Iron corrosion in drinking water distribution systems 445 
+Hewlett Packard multimeter 3478A collected the data and a Hewlett Packard 
+microcomputer HP 85/86 controlled the system and analysed the data. Computer 
+programs for system control and data analysis were specially developed. 
+A conventional three-electrode electrochemical cell was used. The cell consisted of a 
+Metrohm titration vessel (150 ml) with a specially designed lid. The vessel was equipped 
+with a rotating disc electrode device of own manufacture as working electrode. Rotating 
+disc electrodes with a surface area of 0.2 cm2 were prepared from pure iron rods 99.9985% 
+(Johnson Matthey Ltd). The electrodes were moulded in epoxy, exposing only the circular 
+disc surface. The potential of the working electrode was measured against a silver chloride 
+reference electrode (Ag/AgCl, sat KCl, 197 mV vs the normal hydrogen electrode (NHE)). 
+After each recorded sweep, the ohmic drop between the working and the reference electrode 
+was measured and the potential was corrected with respect to this drop. A cylindrical 
+platinum net was used as the counter electrode. All experiments were done at room 
+temperature under a blanket of clean air. 
+The iron electrodes were wet polished on 1000 and 4000 mesh Carborundum papers 
+(Struers), rinsed in double-distilled water and immediately transferred to the 
+electrochemical cell. The electrode was pretreated by a’cyclic procedure as follows: the 
+scan was started at the corrosion potential, E = - 350 mV, E = E- E,,f. A sweep was made in 
+a positive direction, with a sweep rate of 5 mV/s, to E = 600 mV, reversed to E = - 1000 mV 
+and back to E = - 350 mV. The rotation rate remained constant at 50 rps. This procedure 
+was repeated five times before the scan was recorded. 
+Electrochemical measurements: basic considerations 
+Electrochemical measurements in diluted solutions have to be made under consideration 
+of the basic assumptions for the technique used. One item of interest is the migration. An 
+approximate calculation of the current distribution in the most diluted solution reveals that 
+less than 4% of the total current is carried by the reaction participants. Whether this is a 
+sufficiently low amount or not is hard to conclude. Since the results follow the same trend as 
+for the solutions with much higher ionic strength, the migration effect has been assumed to 
+be of minor importance. A similar question arises concerning double layer effects. For a 
+clean surface it is possible to determine the potential of zero charge, but with a surface with 
+passive layers this is impossible. To estimate the quality of the results, independent 
+corrosion measurements were made using a test rig where no electrochemical techniques 
+were applied (coupon tests). Similar results were taken as evidence for negligible double 
+layer effects in the potential region used. 
+Coupon tests in stagnant water 
+Iron coupons were exposed to double-distilled water with varying additions of hydrogen 
+carbonate and calcium in the same range as for the PDS measurements. Three test periods of 
+12-15 days were performed. The iron coupons were 22 x 37 x 2 mm3 and made of pure iron. 
+They were wet polished on 500 and 1000 mesh Carborundum papers (Struers), rinsed in 
+ethanol in an ultrasonic bath followed by rinsing in double-distilled water and immediately 
+transferred to the beakers. The beakers were mounted in a water bath at a constant 
+temperature of 30°C. 
+The water volume was 400 ml at the start of the test. Each analysis of the iron content 
+required between 0.5 and 10ml of water. This volume decrease was accounted for when 
+calculating the final iron concentrations. 
+446 A. Sander et al. 
+Iron concentrations were analysed each day during the test period. Micropipettes, 200 
+and 5000 11, were used to transfer water samples from the beakers. The accuracy of the 
+pipettes was f 1% (normally 0.6%) and the reproducibility 0.3%. A Hach instrument (DR/ 
+700 Colorimeter, Module 50.01) was used for iron analyses. The instrument gives accurate 
+values between 0.02 and 5.0 mg/l Fe’+. In the present investigation the iron content never 
+fell below 0.30 mg/l. Some samples had to be diluted to fit within the range of the analyser. 
+At the end of the test the weight loss of the coupons was measured. 
+Electrolytes 
+Electrolytes (synthetic water) were prepared from double-distilled water and sodium 
+hydrogen carbonate (NaHCOs, p.a.) in concentrations between 0.5 and 10 mM. Clean air in 
+equilibrium with the electrolyte concentration of carbon dioxide was bubbled through the 
+electrolyte for 30 min before each measurement to saturate the electrolyte with respect to 
+air. To adjust pH, 0.1 M hydrochloric acid (HCl, p.a.) was used. In order to achieve the same 
+chloride concentration in all experiments additions of sodium chloride (NaCl, p.a.) were 
+made. Sodium was presumed not to influence the corrosion rate. Calcium was added as 
+Ca(NO&. Different concentrations of nitrates were tested and showed no effect on the 
+corrosion rate within this concentration range. 
+EXPERIMENTAL RESULTS AND DISCUSSION 
+The uniform corrosion of iron in drinking \$,ater pipes 
+As pointed out in the introduction, it is important to distinguish between water quality 
+and corrosion rate. Although the total mass of corrosion products inside the pipes is a 
+function of the corrosion rate integrated over time, water quality deterioration primarily 
+depends on the precipitation and dissolution properties of the corrosion products. A 
+common opinion is that hard water is less corrosive to iron pipes than soft. Copper pipes 
+corrode more intensively in hard waters. 
+Figure 1 is an example of a PDS for iron in air-saturated synthetic drinking water. On 
+the anodic side of the corrosion potential the material passivates due to film formation. At 
+E, (mV vs AglAgCI) 
+Fig. 1. Potential dynamic sweep for iron in air-saturated synthetic drinking water, 0.5 mM HC03-, 
+pH zz 8.3. Sweep rate 5 mV/s and rotation rate 50 rps. 
+Iron corrosion in drinking water distribution systems 
+Rotation rate vs cathodic limes current 447 
+5 
+Fig. 2. Rotation rate dependence for the oxygen reduction reaction on iron in air-saturated 
+synthetic drinking water, 3 mM HC03-, pH z 8.3. Sweep rate 5 mV/s and rotation rates 10, 30, 50 
+and 70 rps. 
+the cathodic side the current approaches a limiting plateau for oxygen reduction. No 
+rotation rate dependence was observed on the anodic side, while the oxygen reduction shows 
+a dependence indicating a diffusion controlled process (Fig. 2). To estimate the corrosion 
+rate the slopes of the anodic and cathodic curves were extrapolated to the corrosion 
+potential. It was found that the diffusion controlled cathodic process did not affect the 
+corrosion rate determination. Thus, the corrosion rate appears to be independent of 
+diffusion layer thickness and water flow velocity. However, it should be noted that the 
+corrosion rate estimations are uncertain due to difficulties in the determination of the ohmic 
+drop in the solution. This leads to a slight spreading of the corrosion rate estimations added 
+to the uncertainty given by the system conditions. 
+The corrosion rate is shown as a function of total carbonate in Fig. 3. At each test 
+concentration a wide range of corrosion rates was determined, but, as can be seen from Fig. 
+3, the pH seems to increase with the corrosion rate. This implies that total carbonate would 
+not be determining for the corrosion rate, instead certain components, protonated carbonic 
+acid (H2C03) and carbon dioxide (CO& are determining. In the following the combined 
+concentrations of protonated carbonic acid and carbon dioxide will be referred to as free 
+carbon dioxide. In Fig. 4 the corrosion rate is shown as a function of the content of free 
+carbon dioxide. A similar relationship, although this time expressed as loss of weight, was 
+found for the coupon tests, Fig. 5. Coupon tests were under stationary conditions and hence 
+somewhat lower corrosion rates were determined. As can be seen from Fig. 5 the data are 
+presented in a logarithmic plot, which gave the best correlation, and can be anticipated for a 
+component dependence in a kinetically controlled process. 
+According to the siderite mode121 the buffer capacity is the most important factor for 
+stable protective layer formation. No clear dependence on the buffer capacity can be seen 
+from this investigation (Figs 6(a) and 6(b)) although the buffer capacity almost co-varies 
+with the free carbon dioxide when the pH is decreased from 8.3. Of course this does not 
+exclude siderite as an important corrosion product during film formation. The Langlier 
+448 A. Sander et al. 
+0,ia 
+0,175 
+0,17 
+C 
+5,165 
+z 
+5 0,16 
+$165 
+L 
+.E 0,lS 
+0" 
+&,I45 
+s 
+0,14 
+0,135 
+0,13 . 10.1 
+. 88 : !4 
+: a: 3 . a,1 
+0 0,5 1 I,5 2 2,5 
+total carbonate (mM) 
+Fig. 3. Corrosion rate estimations, using potential dynamic sweeps, as a function of total carbonate 
+content for iron in air-saturated synthetic drinking water. pH-values are noted for each experiment. 
+$ 0,18- 
+s . 
+E 0,17- 
+g . . 
+n .: . I . . . 
+0,16- . . 
+. . . 
+. . . 
+. . . 
+0,131 .,.,I ,.,.I.,. 1 
+-I,5 -I,0 -0,5 0,O 0,6 I,0 I,5 2,0 
+Fig. 4. Corrosion rate estimations, using potential dynamic sweeps, as a function of free carbon 
+dioxide for iron in air-saturated synthetic drinking water. 
+Iron corrosion in drinking water distribution systems 449 
+. 
+. 
+. 
+20- . 
+0 1 1 I 
+W 095 14 1,s 290 
+log W,+H,CO,), WW 
+Fig. 5. Weight loss as a function of free carbon dioxide for iron in air-saturated synthetic drinking 
+water. 
+protective layers of calcitei4’15 would cause a corrosion rate dependence on the product of 
+the calcium and the carbonate ion content and this was not observed (Figs 7(a) and 7(b)). 
+Instead the highest corrosion rates are observed for the highest values of the product, due to 
+the low concentration of free carbon dioxide in these measurements. (However, it would be 
+possible to change the appearance of this plot by conducting other experiments. An increase 
+of the free carbon dioxide content would also lead to lower corrosion rates for the 
+experiments with high calcium and carbonate ion contents.) 
+Calcium content is often referred to as an important factor for iron corrosion.14,23 In this 
+investigation calcium affected the corrosion rate in very soft waters but, as can be seen from 
+Fig. 8, at higher total carbonate concentrations the effect of calcium disappears. This agrees 
+with the results discussed by Sontheimer et ~1.~~ and Fiksdal et aI.23 where calcite layers are 
+observed in waters with low calcium and total carbonate concentrations. However, the 
+explanation based on pure equilibria data does not seem sufficient. 
+Instead, the corrosion rate dependence can be interpreted in terms of surface 
+complexation. The effect of free carbon dioxide on surface complexation at an iron 
+mineral has been considered elsewhere.24-26 A schematic representation of the surface 
+reaction on iron is shown in Fig. 9. Free carbon dioxide acts as a proton donor at surface 
+hydroxide sites. The hydroxide group will leave as water and new surface complexes 
+involving hydrogen carbonate can be formed. This increases the solubility of iron ions and 
+facilitates the formation of siderite through deprotonation of the surface complex. 
+In the case of calcium several surface complexes are possible on the iron hydroxide 
+surface. The most likely inner sphere complex is presented in Fig. 10. It is well known25 that 
+surface complexation with free carbon dioxide causes dissolution of formed calcite. This can 
+be a possible explanation for the absence of calcium effects in waters with high alkalinity and 
+hardness. In soft waters the formation of calcium carbonate surface complexes can 
+dominate over the iron carbonate surface complexes due to the thermodynamic properties. 
+Thus, a calcite protective layer can be formed if the free carbon dioxide content is low 
+enough not to cause calcite dissolution. A further conclusion would be that the linear 
+450 A. Sander et al. 
+. 0,16-, . 
+3 
+E .m. . 
+-1 ;;I:. , , . , . ( 
+0,0002 0,0004 0,0006 0,0006 
+Buffer capacity, (M) 
+(b) 
+. 
+. 
+. 
+. 
+0 Ix;04 2~10~ 3x;04 4x;04 5~10~ 6x;04 7~10~ 
+Buffer capacity, (M) 
+Fig. 6. Corrosion rate as a function of buffer capacity for air-saturated synthetic drinking water for 
+(a) iron electrodes during potential dynamic sweeps and (b) iron coupons in stagnant water. 
+relationship in Figs 4 and 5 might not necessarily be extrapolated to a low free carbon 
+dioxide content. This area would instead show a dependence on the calcium concentration. 
+According to the surface complexation model discussed above one would expect a pH 
+variation in the water from the coupon tests. This is also the case. In waters with high total 
+carbonate content (5 mM), with and without calcium, a pH increase should be noticed. In 
+the experiments a pH increase was observed corresponding to a hydrogen carbonate surface 
+complex coverage of 20%. In the soft water (0.5 mM total carbonate content) saturated with 
+calcium the calcium surface complex would lead to a pH decrease and this was also 
+observed. The pH changes correspond to a surface coverage of 120%. The calculated figures 
+should be taken as indications rather than absolute estimations. An ideally polished iron 
+surface was assumed in the calculations and no notice was taken to pH variations due to 
+Iron corrosion in drinking water distribution systems 
+(b) 4.51 
+zo- n 
++ , . , . I . I . I , I -. 
+Op” 1,0X10’ 2,0X10’ 3,0x.r064,0x106 5,0x~Oa6,0x100 
+Ca**C032m, (pW2) 
+Fig. 7. Corrosion rate for (a) iron electrodes during potential dynamic sweeps and(b) iron coupons 
+in stagnant water as a function of the product of calcium and carbonate ion content in the water. 
+soluble complexes or other surface complexes than those mentioned. Neither has the 
+formation of siderite nor calcite been taken into account. Doing so would yield higher 
+coverage of the hydrogen carbonate surface complex and lower surface coverages of the 
+calcium surface complex. In the case with soft water and no calcium little surface 
+complexation would be expected. No change in pH was observed. 
+Sontheimer et al.2’ stress the importance of slow corrosion product precipitation in 
+order to form corrosion products well attached to the pipe wall, whereby less corrosion 
+products are transported with the water and water quality problems at the consumers’ taps 
+are reduced. The mechanism involves siderite formation, Looking at the corrosion product 
+precipitation as a competition between surface complexes of free carbon dioxide and 
+calcium ions, the former would be preferred according to the siderite model. In Fig. 11 
+results from field measurements in a number of Swedish municipalities and one Norwegian 
+452 A. Sander et al 
+S-41 
+2. I 
+095 530 
+total carbonate (mM) 
+Fig. 8. The influence of calcium concentration on corrosion rate in water with different total 
+carbonate content. 
+Fig. 9. Possible surface complex at an iron oxide surface in water containing free carbon 
+dioxide.““‘6 
+Iron corrosion in drinking water distribution systems 453 
+Fig. 10. Possible surface complex at an iron oxide surface in water containing calcium and with a 
+low free carbon dioxide content.16 
+80 r = . a 
+=70 - 
+8 c 
+A 60 - 
+8 . 
+250 - ” 
+3 
+c 4o - 
+2 
+530~. . 
+. . 
+0 . 0’ I I I I I 
+0 091 092 095 036 0,7 
+Fig. 11. The percentage of iron samples exceeding 100 rig/l vs the ratio between free carbon dioxide 
+and the calcium content of the water from field measurements in a number of Swedish municipalities 
+and one Norwegian municipality. 
+454 A. Sander et al. 
+municipality are presented. The percentage of iron samples exceeding 100 pg/l are plotted vs 
+the ratio between the free carbon dioxide and the calcium content of the water. All samples 
+were collected in the same way and from similar sites in the distribution systems. The 
+municipality with the lowest alkalinity (titrated carbonate) is marked in Fig. 11. Due to the 
+low calcium content and high content of free carbon dioxide the water quality gives few 
+problems with water quality deterioration. 
+In a forthcoming paper theoretical calculations on the surface complexation of the 
+species discussed will be presented. 
+CONCLUSIONS 
+A surface complex model is proposed to describe iron corrosion in drinking water. 
+1. In waters with moderate or high total carbonate concentrations the surface complex is 
+formed from free carbon dioxide. 
+2. In waters with low total carbonate concentrations the surface complex involves 
+calcium. 
+3. A reversed proportional relationship between the logarithm of the free carbon dioxide 
+content and the corrosion rate is observed. 
+4. At low total carbonate concentrations the corrosion rate is dependent on the calcium 
+content while at high total carbonate concentrations no dependence is observed. 
+5. The ratio between the content of free carbon dioxide and calcium seems important for 
+water quality deterioration where a high ratio gives the lowest iron concentrations in field 
+measurements. 
+Ackno,~,lrdgemmts-The authors wish to thank the Swedish Water and Waste Water Works Association for 
+financial support and Associate Prof. Elisabet Ahlberg at the University of Goteborg for valuable discussions. 
+REFERENCES 
+1, E. Mattsson. Basic Corrosion Technology .for Scientists and Engineers, Ellis Horwood Limited. Chichester, 
+U.K. (1989). 
+2. M.R. Schock, Water Quulity and Treatment-A Handbook qf Comrnunit~ Water Supplies (ed F.W. Pontius), 
+4th Edn, p. 997. AWWA, McGraw-Hill (1990). 
+3. A. Kuch and H. Sontheimer, gl$ WasserjAbwasser 127, 621 (1986). 
+4. A. Kuch, Corros. Sci. 28, 221 (1988). 
+5. H. Sontheimer, W. Kolle and A. Kuch, Internal Corrosion of Water Distribution Systems (ed. S. Crnkovich) 
+p. 62. AWWA Research Foundation, Denver (1985). 
+6. A. Kuch, Internal Corrosion of Water Distribution Systems, (ed. S. Crnkovich), p. 88. AWWA Research 
+Foundation (1985). 
+7. V.L. Snoeyink and A. Kuch, Internul Corrosion of Water Distribution Systems (ed. S. Crnkovich), p. 1. 
+AWWA Research Foundation (1985). 
+8. E. Lind Johansson, Dissertation, Chalmers University of Technology, Department of Sanitary Engineering, 
+Goteborg, Sweden (1989). 
+9. Committee on Control of Water Quality in Transmission and Distribution Systems, J. A WWA. 76, 83 (1984). 
+10. S. Reiber, J.F. Ferguson and M.M. Benjamin, J. AWWA. 79, 71 (1987). 
+11. R.A.J. Pisigan and J.E. Singley, J. A WWA. 79, 62 (1987). 
+12. L. Enander and B. Berghult, VATTEN 50, 7 (1994). 
+13. Southampton Electrochemistry Group, Ellis Horwood Series in Physical Chemistry (ed. T.J. Kemp), p. 443. 
+Ellis Horwood Limited, Southampton (1990). 
+14. F.W. Langlier, J. AWWA. 28, 1500 (1936). 
+Iron corrosion in drinking water distribution systems 455 
+15. W. Stumm, J. AWB’A. 48, 300 (1956). 
+16. T.E. Larson and R.V. Skold, J. AWWA. 49, 1294 (1957). 
+17. M.R. Schock and C.H. Neff, Proc. 11th Water Quality Co& AWWA Research Foundation, Nashville, TN 
+(1982). 
+18. H. Sontheimer, W. Kiille and R. Rudek, Vom Wusser 52, 1 (1979). 
+19. W. K611e and H. Rosh, Vom Wasser 55, 159 (1980). 
+20. W. Kolle, Lapis 5, 20 (1980). 
+21. H. Sontheimer, W. Ktille and V.L. Snoeyink, J. A WWA. 73, 572 (1981). 
+22. R. Rudek, Dissertation, Universitat Karlsruhe (1979). 
+23. L. Fiksdal and R. Blekkan, Vannkvalitet og korrosion pa” Sttipejern, Bl-1993-3, Institutt for Vassbyggning, 
+NTH, Norge (1993). 
+24. A. Wieckowski, E. Ghali, M. Szklarczyk and J. Sobowski, Electrochim. ACIU 28, 1627 (1983). 
+25. P. Van Cappellen. L. Charlet, W. Stumm and P. Wersin, Geochim. Cosmochim. Acta 57, 3505 (1993). 
+26. W. Stumm, Aquatic Chemistry (ed C.P. Huang, J.J. Morgan and CR. O’Melia), p. 1. American Chemical 
+Society (1995). 

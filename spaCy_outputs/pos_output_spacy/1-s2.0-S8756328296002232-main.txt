@@ -1,0 +1,9610 @@
+Bom, PROPN 
+Vol, PROPN 
+19, NUM 
+4, NUM 
+
+, SPACE 
+October, PROPN 
+1996~317, NUM 
+328, NUM 
+
+, SPACE 
+ELSEVIER, NOUN 
+
+, SPACE 
+PI, PROPN 
+Integrins, PROPN 
+Osteoclast, PROPN 
+Function, PROPN 
+Involvement, NOUN 
+
+, SPACE 
+Collagen, PROPN 
+Recognition, PROPN 
+Bone, PROPN 
+Resorption, PROPN 
+
+, SPACE 
+M., PROPN 
+H., PROPN 
+HELFRICH, PROPN 
+S., PROPN 
+A., PROPN 
+NESBITT,2, PROPN 
+P., PROPN 
+T., PROPN 
+LAKKAKORPI,3, PROPN 
+M., PROPN 
+J., PROPN 
+BARNES, PROPN 
+S., PROPN 
+C., PROPN 
+BODARY,5, PROPN 
+G., PROPN 
+SHANKAR,6, PROPN 
+
+, SPACE 
+W., PROPN 
+T., PROPN 
+MASON,7, PROPN 
+D., PROPN 
+L., PROPN 
+MENDRICK, PROPN 
+H., PROPN 
+K., PROPN 
+VÄÄNÄNEN,3, PROPN 
+M., PROPN 
+A., NOUN 
+HORTON, PROPN 
+
+, SPACE 
+1, NUM 
+Department, PROPN 
+Medicine, PROPN 
+Therapeutics, PROPN 
+Vniversity, PROPN 
+Aberdeen, PROPN 
+Aberdeen, PROPN 
+Scotland, PROPN 
+
+, SPACE 
+Department, PROPN 
+Medicine, PROPN 
+Vniversi@, PUNCT 
+College, PROPN 
+London, PROPN 
+UK, PROPN 
+
+, SPACE 
+3, NUM 
+Department, PROPN 
+Anatomy, PROPN 
+Univers@, ADP 
+Oulu, PROPN 
+Oulu, PROPN 
+Finland, PROPN 
+
+, SPACE 
+4, NUM 
+Strangeways, NOUN 
+Research, PROPN 
+Laboratoty, PROPN 
+Cambridge, PROPN 
+UK, PROPN 
+
+, SPACE 
+s, PART 
+Genentech, PROPN 
+Inc., PROPN 
+South, PROPN 
+San, PROPN 
+Francisco, PROPN 
+USA, PROPN 
+
+, SPACE 
+6, NUM 
+NPS, PROPN 
+Pharmaceuticals, PROPN 
+Inc., PROPN 
+Salt, PROPN 
+Lake, PROPN 
+City, PROPN 
+UT, PROPN 
+USA, PROPN 
+
+, SPACE 
+Depattment, PROPN 
+Neurobiology, PROPN 
+Babraham, PROPN 
+Institute, PROPN 
+Babraham, PROPN 
+Cambridge, PROPN 
+UK, PROPN 
+
+, SPACE 
+Department, PROPN 
+Pathology, PROPN 
+Brigham, PROPN 
+Women, PROPN 
+Hospital, PROPN 
+Boston, PROPN 
+MA, PROPN 
+USA, PROPN 
+
+, SPACE 
+extracellular, ADJ 
+matrix, NOUN 
+hone, NOUN 
+composed, VERB 
+mainly, ADV 
+type, NOUN 
+
+, SPACE 
+1, NUM 
+collagen, NOUN 
+report, NOUN 
+studied, VERB 
+role, NOUN 
+collagen-, X 
+
+, SPACE 
+binding, VERB 
+properties, NOUN 
+osteoclast, ADJ 
+integrins, NOUN 
+q, PROPN 
+OL, PROPN 
+pi, NOUN 
+
+, SPACE 
+Cel1, NOUN 
+adhesion, NOUN 
+assays, NOUN 
+rat, NOUN 
+osteoclasts, NOUN 
+afllnity, NOUN 
+chro-, NOUN 
+
+, SPACE 
+matography, NOUN 
+SDS, PROPN 
+PAGE, NOUN 
+analysis, NOUN 
+purified, ADJ 
+human, ADJ 
+osteo-, X 
+
+, SPACE 
+clast, NOUN 
+memhranes, NOUN 
+demonstrated, VERB 
+adhesion, NOUN 
+osteoclasts, NOUN 
+na-, ADJ 
+
+, SPACE 
+tive, NOUN 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+divalent, ADJ 
+cation, NOUN 
+Arg, PROPN 
+Gly, NOUN 
+Asp, PROPN 
+
+, SPACE 
+RGD)-dependent, ADJ 
+way, NOUN 
+o, PROPN 
+integrin, PROPN 
+osteoclast, ADJ 
+
+, SPACE 
+adhesion, NOUN 
+denatured, VERB 
+collagen, NOUN 
+predominantly, ADV 
+involved, VERB 
+
+, SPACE 
+ar, NOUN 
+receptor, NOUN 
+binding, VERB 
+assays, NOUN 
+involvement, NOUN 
+human, ADJ 
+
+, SPACE 
+recombinant, ADJ 
+QL, PROPN 
+adhesion, NOUN 
+denatured, VERB 
+collagen, NOUN 
+
+, SPACE 
+contlrmed, VERB 
+Additionally, ADV 
+osteoclasts, NOUN 
+adhered, VERB 
+type, VERB 
+1, NUM 
+colla-, NOUN 
+
+, SPACE 
+gen, PROPN 
+fibers, NOUN 
+monomeric, VERB 
+types, NOUN 
+D, ADJ 
+V, NOUN 
+collagen, NOUN 
+char-, ADJ 
+
+, SPACE 
+acteristics, NOUN 
+similar, ADJ 
+native, ADJ 
+monomeric, ADJ 
+type, NOUN 
+1, NUM 
+colla-, NOUN 
+
+, SPACE 
+gen, PROPN 
+Osteoclastic, ADJ 
+bone, NOUN 
+resorption, NOUN 
+vitro, X 
+inhibited, VERB 
+
+, SPACE 
+MO%, PROPN 
+presence, NOUN 
+<, NOUN 
+y2, PROPN 
+R1, NOUN 
+antibodies, VERB 
+scan-, ADJ 
+
+, SPACE 
+ning, NOUN 
+laser, NOUN 
+confocal, ADJ 
+microscopy, NOUN 
+cx, PROPN 
+<, X 
+yi, PROPN 
+R1, NOUN 
+integrin, NOUN 
+
+, SPACE 
+detected, VERB 
+withm, PROPN 
+podosomes, NOUN 
+nonresorbing, VERB 
+osteoclasts, NOUN 
+
+, SPACE 
+ruflled, VERB 
+border, NOUN 
+area, NOUN 
+basolateral, ADJ 
+membrane, NOUN 
+
+, SPACE 
+resorbing, VERB 
+osteoclasts, NOUN 
+sealing, NOUN 
+zone, NOUN 
+resorbing, VERB 
+
+, SPACE 
+osteoclasts, NOUN 
+results, NOUN 
+demontrate, VERB 
+c, PROPN 
+addition, NOUN 
+
+, SPACE 
+cx, PROPN 
+important, ADJ 
+role, NOUN 
+osteoclast, ADJ 
+function, NOUN 
+acts, VERB 
+
+, SPACE 
+receptor, NOUN 
+native, ADJ 
+denatured, VERB 
+collagen, PROPN 
+Bene, PROPN 
+
+, SPACE 
+19:317, NUM 
+328, NUM 
+1996, NUM 
+
+, SPACE 
+Key, PROPN 
+Words, NOUN 
+l3, NOUN 
+integrins, NOUN 
+Osteoclast, PROPN 
+Bone, NOUN 
+resorption, NOUN 
+Colla-, PROPN 
+
+, SPACE 
+gen, PROPN 
+Cel1, NOUN 
+adhesion, NOUN 
+Vitronectin, PROPN 
+receptor, NOUN 
+
+, SPACE 
+Introduction, PROPN 
+
+, SPACE 
+Osteoclasts, NOUN 
+large, ADJ 
+multinucleated, ADJ 
+cells, NOUN 
+responsible, ADJ 
+
+, SPACE 
+breakdown, NOUN 
+extracellular, ADJ 
+matrix, NOUN 
+bone, NOUN 
+normal, ADJ 
+
+, SPACE 
+pathological, ADJ 
+bone, NOUN 
+tumover, NOUN 
+Resorption, NOUN 
+bone, NOUN 
+involves, VERB 
+migra-, ADJ 
+
+, SPACE 
+tion, NOUN 
+osteoclasts, NOUN 
+area, NOUN 
+bone, NOUN 
+remodeled, VERB 
+
+, SPACE 
+Address, PROPN 
+correspondence, NOUN 
+reprints, NOUN 
+Dr., PROPN 
+M., PROPN 
+H., PROPN 
+Helfrich, PROPN 
+Depart-, PUNCT 
+
+, SPACE 
+ment, NOUN 
+Medicine, PROPN 
+Therapeutics, PROPN 
+University, PROPN 
+Aberdeen, PROPN 
+Medical, PROPN 
+
+, SPACE 
+School, PROPN 
+Polwarth, PROPN 
+Building, PROPN 
+Foresterhill, PROPN 
+Aberdeen, PROPN 
+AB25, PROPN 
+2ZD, NUM 
+Scotland, PROPN 
+
+, SPACE 
+E, NOUN 
+mail, NOUN 
+m.helfrich@aberdeen.ac.uk, NOUN 
+polarization, NOUN 
+cel1, NOUN 
+create, VERB 
+discrete, ADJ 
+areas, NOUN 
+plasma, NOUN 
+
+, SPACE 
+membrane, NOUN 
+basolateral, ADJ 
+membrane, NOUN 
+
+, SPACE 
+plasma, NOUN 
+membrane, NOUN 
+contact, NOUN 
+bone, NOUN 
+matrix, NOUN 
+facing, VERB 
+
+, SPACE 
+bone, NOUN 
+marrow, NOUN 
+space, NOUN 
+second, ADV 
+sealing, NOUN 
+zone, NOUN 
+clear, ADJ 
+zone, NOUN 
+
+, SPACE 
+plasma, NOUN 
+membrane, NOUN 
+closely, ADV 
+apposed, VERB 
+bone, NOUN 
+matrix, NOUN 
+
+, SPACE 
+ruffled, ADJ 
+border, NOUN 
+highly, ADV 
+convoluted, ADJ 
+area, NOUN 
+plasma, NOUN 
+
+, SPACE 
+membrane, NOUN 
+surrounded, VERB 
+sealing, NOUN 
+zone, NOUN 
+faces, VERB 
+
+, SPACE 
+direct, ADJ 
+contact, NOUN 
+bone, NOUN 
+matrix, NOUN 
+sealing, NOUN 
+zone, NOUN 
+
+, SPACE 
+forms, VERB 
+diffusion, NOUN 
+banier, ADV 
+permits, VERB 
+localized, VERB 
+accumu-, NOUN 
+
+, SPACE 
+lation, NOUN 
+high, ADJ 
+concentrations, NOUN 
+protons, NOUN 
+proteases, NOUN 
+secreted, VERB 
+
+, SPACE 
+osteoclasts, NOUN 
+ruffled, ADJ 
+border, NOUN 
+membrane, NOUN 
+extracel-, NOUN 
+
+, SPACE 
+lular, ADJ 
+resorption, NOUN 
+compartment, NOUN 
+undemeath, VERB 
+ce11.3, NOUN 
+
+, SPACE 
+Adhesion, PROPN 
+osteoclasts, NOUN 
+bone, NOUN 
+surface, NOUN 
+involves, VERB 
+interac-, ADJ 
+
+, SPACE 
+tions, NOUN 
+adhesion, NOUN 
+molecules, NOUN 
+cel1, NOUN 
+extracellular, ADJ 
+matrix, NOUN 
+
+, SPACE 
+proteins, NOUN 
+bone, NOUN 
+matrix, NOUN 
+groups, NOUN 
+shown, VERB 
+
+, SPACE 
+integrin, PROPN 
+vitronectin, PROPN 
+receptor, NOUN 
+VNR, PROPN 
+oJ13, PROPN 
+essential, ADJ 
+
+, SPACE 
+attachment, NOUN 
+osteoclasts, NOUN 
+bone, NOUN 
+surface, NOUN 
+demonstrating, VERB 
+
+, SPACE 
+blocking, VERB 
+interaction, NOUN 
+VNR, PROPN 
+witb, NOUN 
+natura1, ADJ 
+ligand, NOUN 
+
+, SPACE 
+bone, NOUN 
+matrix, NOUN 
+causes, VERB 
+detachment, NOUN 
+osteoclasts, NOUN 
+inhibits, ADJ 
+bone, NOUN 
+
+, SPACE 
+resorption, NOUN 
+7,15,18,19,27,31,35,48, NOUN 
+closest, ADJ 
+interaction, NOUN 
+
+, SPACE 
+osteoclast, ADJ 
+plasma, NOUN 
+membrane, NOUN 
+bone, NOUN 
+matrix, NOUN 
+occurs, VERB 
+seal-, PROPN 
+
+, SPACE 
+ing, PROPN 
+zone, NOUN 
+adhesion, NOUN 
+molecules, NOUN 
+expected, VERB 
+present, ADJ 
+
+, SPACE 
+specifïcally, ADV 
+structure, NOUN 
+reviewed, VERB 
+Reference, PROPN 
+53, NUM 
+
+, SPACE 
+conflicting, VERB 
+data, NOUN 
+issue, NOUN 
+lo-, NOUN 
+
+, SPACE 
+calization, NOUN 
+VNR, PROPN 
+Y, PROPN 
+subunit, NOUN 
+having, AUX 
+reported, VERB 
+
+, SPACE 
+sealing, NOUN 
+zone, NOUN 
+groups41,45, NOUN 
+found, VERB 
+
+, SPACE 
+others.35,38, NOUN 
+question, NOUN 
+adhesion, NOUN 
+molecules, NOUN 
+re-, ADV 
+
+, SPACE 
+sponsible, ADJ 
+maintaining, VERB 
+tight, ADJ 
+sealing, NOUN 
+zone, NOUN 
+resorbing, VERB 
+
+, SPACE 
+osteoclasts, NOUN 
+settled, VERB 
+matter, NOUN 
+
+, SPACE 
+components, NOUN 
+bone, NOUN 
+matrix, NOUN 
+recognized, VERB 
+
+, SPACE 
+addition, NOUN 
+VNR, PROPN 
+integrins, NOUN 
+oZ, NUM 
+
+, SPACE 
+identified, VERB 
+osteoclasts, NOUN 
+immunocytochemical, ADJ 
+bio-, PROPN 
+
+, SPACE 
+chemical, NOUN 
+techniques.9,24,43, PROPN 
+Functional, PROPN 
+detailed, ADJ 
+localization, NOUN 
+
+, SPACE 
+studies, NOUN 
+l3, NOUN 
+integrins, VERB 
+osteoclasts, NOUN 
+far, ADV 
+re-, ADV 
+
+, SPACE 
+ported, VERB 
+0213114~32~50, PROPN 
+CX,&‘~, PROPN 
+known, VERB 
+collagen, NOUN 
+
+, SPACE 
+receptors, NOUN 
+variety, NOUN 
+cel1, NOUN 
+types, NOUN 
+Adhesion, NOUN 
+osteoclasts, NOUN 
+
+, SPACE 
+type, VERB 
+1, NUM 
+collagen, NOUN 
+likely, ADJ 
+significant, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+major, ADJ 
+protein, NOUN 
+organic, ADJ 
+matrix, NOUN 
+bone, NOUN 
+Previously, ADV 
+
+, SPACE 
+established, VERB 
+vitro, X 
+adhesion, NOUN 
+assay, NOUN 
+rat, NOUN 
+osteoclasts, NOUN 
+
+, SPACE 
+recognize, VERB 
+wide, ADJ 
+range, NOUN 
+proteins, NOUN 
+including, VERB 
+osteopontin, ADJ 
+bone, NOUN 
+
+, SPACE 
+sialoprotein, PROPN 
+fibronectin, PROPN 
+fibrinogen, NOUN 
+vitronectin, NOUN 
+VNR, PROPN 
+
+, SPACE 
+0, NUM 
+1996, NUM 
+Elswier, PROPN 
+Science, PROPN 
+Inc., PROPN 
+
+, SPACE 
+AU, PROPN 
+rights, NOUN 
+reserved, VERB 
+317, NUM 
+8756, NUM 
+3282/96/$15.00, NUM 
+
+, SPACE 
+PI1, PROPN 
+S8756, PROPN 
+3282(96)00223, NUM 
+2, NUM 
+
+, SPACE 
+addition, NOUN 
+adhere, ADV 
+native, ADJ 
+type, NOUN 
+l, NOUN 
+collagen, NOUN 
+VNR-, X 
+
+, SPACE 
+independent, ADJ 
+mechanism, NOUN 
+
+, SPACE 
+invertigate, VERB 
+functional, ADJ 
+properties, NOUN 
+B, PROPN 
+
+, SPACE 
+integrins, VERB 
+osteoclasts, NOUN 
+number, NOUN 
+species, NOUN 
+including, VERB 
+hu-, NOUN 
+
+, SPACE 
+man, NOUN 
+Om, NOUN 
+results, NOUN 
+demonstrate, VERB 
+B, PROPN 
+integrins, NOUN 
+important, ADJ 
+
+, SPACE 
+osteoclastic, ADJ 
+bone, NOUN 
+resorption, NOUN 
+related, VERB 
+ability, NOUN 
+
+, SPACE 
+confer, VERB 
+adhesion, NOUN 
+native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+related, VERB 
+functions, NOUN 
+signal, NOUN 
+transduction, NOUN 
+
+, SPACE 
+demonstrate, VERB 
+Bi, PROPN 
+B, PROPN 
+integrins, NOUN 
+involved, VERB 
+
+, SPACE 
+recognition, NOUN 
+denatured, ADJ 
+collagen, NOUN 
+osteoclasts, NOUN 
+suggesting, VERB 
+dif-, NOUN 
+
+, SPACE 
+ferent, NOUN 
+levels, NOUN 
+control, NOUN 
+adhesion, NOUN 
+mechanisms, NOUN 
+re-, ADJ 
+
+, SPACE 
+sorption, NOUN 
+process, NOUN 
+
+, SPACE 
+Materials, PROPN 
+Methods, PROPN 
+
+, SPACE 
+Collagens, PROPN 
+Collagen, PROPN 
+Frqments, PROPN 
+Ligand~\, NUM 
+
+, SPACE 
+collagen, NOUN 
+preparations, NOUN 
+saturating, ADJ 
+20, NUM 
+pg, NOUN 
+mL, NUM 
+
+, SPACE 
+concentration, NOUN 
+preliminary, ADJ 
+titration, NOUN 
+show@., NOUN 
+Monomeric, PROPN 
+
+, SPACE 
+collagens, NOUN 
+rat, PROPN 
+type, NOUN 
+1, NUM 
+bovine, ADJ 
+types, NOUN 
+1, NUM 
+111, NUM 
+human, ADJ 
+
+, SPACE 
+types, NOUN 
+1, NUM 
+111, NUM 
+IV, PROPN 
+V, PROPN 
+al, PROPN 
+Sigma, PROPN 
+Poole, PROPN 
+Dorset, PROPN 
+UK, PROPN 
+
+, SPACE 
+Bovine, PROPN 
+type, NOUN 
+11, NUM 
+collagen, NOUN 
+generous, ADJ 
+gift, NOUN 
+Dr., PROPN 
+S., PROPN 
+Ayad, PROPN 
+
+, SPACE 
+Department, PROPN 
+Biochemistry, PROPN 
+University, PROPN 
+Manchester, PROPN 
+
+, SPACE 
+Manchester, PROPN 
+UK, PROPN 
+dispersion, NOUN 
+native, ADJ 
+fibrillar, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+bovine, PROPN 
+tendon, PROPN 
+l6, PROPN 
+generously, ADV 
+provided, VERB 
+Ethicon, PROPN 
+
+, SPACE 
+Somerville, PROPN 
+NJ, PROPN 
+use, NOUN 
+dispersion, NOUN 
+diluted, VERB 
+500, NUM 
+
+, SPACE 
+p, NOUN 
+g, PROPN 
+mL, NUM 
+0.01, NUM 
+moVL, NUM 
+acetic, ADJ 
+acid, NOUN 
+extensively, ADV 
+dialyzed, VERB 
+
+, SPACE 
+0.01, NUM 
+mol, PROPN 
+L, NOUN 
+acetic, ADJ 
+acid, NOUN 
+resulting, VERB 
+dispersion, NOUN 
+
+, SPACE 
+stored, VERB 
+4, NUM 
+°, NOUN 
+C, NOUN 
+saturating, ADJ 
+coating, NOUN 
+concentration, NOUN 
+
+, SPACE 
+100, NUM 
+p, NOUN 
+g, PROPN 
+mL., PROPN 
+Stock, PROPN 
+solutions, NOUN 
+monomeric, ADJ 
+collagens, NOUN 
+pre-, ADV 
+
+, SPACE 
+pared, VERB 
+1, NUM 
+mg, NOUN 
+mL, PROPN 
+0.01, NUM 
+mol, PROPN 
+L, PROPN 
+acetic, ADJ 
+acid, NOUN 
+stored, VERB 
+4, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+Denatured, VERB 
+collagens, NOUN 
+collagen, NOUN 
+fragments, NOUN 
+prepared, VERB 
+
+, SPACE 
+heating, VERB 
+solution, NOUN 
+working, NOUN 
+concentration, NOUN 
+60, NUM 
+°, NOUN 
+C, NOUN 
+30, NUM 
+min, NOUN 
+
+, SPACE 
+Constituent, PROPN 
+01, NUM 
+chains, NOUN 
+obtained, VERB 
+bovine, ADJ 
+type, NOUN 
+1, NUM 
+col-, NOUN 
+
+, SPACE 
+lagen, NOUN 
+ion, NOUN 
+exchange, NOUN 
+chromatography, NOUN 
+purified, VERB 
+
+, SPACE 
+gel, PROPN 
+filtration, NOUN 
+‘6, X 
+Subsequently, PROPN 
+LX,(I, PROPN 
+chains, NOUN 
+fragmented, VERB 
+
+, SPACE 
+cyanogen, NOUN 
+bromide, NOUN 
+CB, PROPN 
+resultant, ADJ 
+peptides, NOUN 
+separated, VERB 
+
+, SPACE 
+combination, NOUN 
+ion, NOUN 
+exchange, NOUN 
+chromatography, NOUN 
+gel, NOUN 
+filtration, NOUN 
+
+, SPACE 
+described, VERB 
+previously, ADV 
+Similarly, ADV 
+prepared, ADJ 
+CB, NOUN 
+fragments, NOUN 
+
+, SPACE 
+rat, PROPN 
+CL, PROPN 
+1, NUM 
+chains, NOUN 
+generous, ADJ 
+gift, NOUN 
+Dr., PROPN 
+P., PROPN 
+Bomstein, PROPN 
+De-, PROPN 
+
+, SPACE 
+partment, NOUN 
+Biochemistry, PROPN 
+University, PROPN 
+Washington, PROPN 
+Seattle, PROPN 
+
+, SPACE 
+WA, PROPN 
+
+, SPACE 
+Homotrimers, NOUN 
+<, X 
+r,(I, PROPN 
+a,(I, PROPN 
+chains, NOUN 
+prepared, VERB 
+
+, SPACE 
+bovine, PROPN 
+o,(I, NOUN 
+a,(I, PROPN 
+chains, NOUN 
+respectively, ADV 
+prolonged, VERB 
+incu-, NOUN 
+
+, SPACE 
+bation, NOUN 
+chains, NOUN 
+0.225, NUM 
+mol, PROPN 
+L, PROPN 
+citrate, NOUN 
+buffer, NOUN 
+pH, NUM 
+3.7, NUM 
+
+, SPACE 
+subsequent, ADJ 
+purification, NOUN 
+described, VERB 
+previously, ADV 
+‘6, X 
+
+, SPACE 
+Antibodies, NOUN 
+
+, SPACE 
+Al1, VERB 
+antibodies, NOUN 
+previously, ADV 
+determined, VERB 
+lg, PROPN 
+concentra-, NUM 
+
+, SPACE 
+tions, NOUN 
+maximally, ADV 
+inhibitory, ADJ 
+osteoclast, ADJ 
+adhesion, NOUN 
+ti-, NOUN 
+
+, SPACE 
+tration, NOUN 
+data, NOUN 
+shown, VERB 
+concentrations, NOUN 
+indicated, VERB 
+
+, SPACE 
+figure, NOUN 
+legends, NOUN 
+previously, ADV 
+described, VERB 
+monoclonal, NOUN 
+anti-, NOUN 
+
+, SPACE 
+integrin, PROPN 
+antibodies, VERB 
+Fl, PROPN 
+1, NUM 
+rat, VERB 
+BarZ, PROPN 
+Ha, INTJ 
+2/11, NUM 
+rat, NOUN 
+B, PROPN 
+Ha, INTJ 
+1/29, NUM 
+
+, SPACE 
+rat, VERB 
+Y~,~O, PROPN 
+7C.5, PROPN 
+4F6, NUM 
+human, PROPN 
+o, PROPN 
+cross, NOUN 
+reactivity, NOUN 
+
+, SPACE 
+rat, NOUN 
+13C2, ADJ 
+human, ADJ 
+Y, NOUN 
+23C6, NUM 
+human, NOUN 
+Y&,*~, PROPN 
+HAS-6, PROPN 
+
+, SPACE 
+human, ADJ 
+o2, PROPN 
+kind, ADJ 
+gift, NOUN 
+Dr., PROPN 
+F., PROPN 
+Watt, PROPN 
+ICRF, PROPN 
+London, PROPN 
+UK, PROPN 
+
+, SPACE 
+K20, PROPN 
+human, PROPN 
+B, PROPN 
+PlE6, NOUN 
+human, PROPN 
+<, X 
+y, X 
+obtained, VERB 
+Telios, PROPN 
+La, PROPN 
+
+, SPACE 
+Jolla, PROPN 
+San, PROPN 
+Diego, PROPN 
+F2/18, PROPN 
+shared, VERB 
+epitope, NOUN 
+human, PROPN 
+
+, SPACE 
+CX, PROPN 
+o2, PROPN 
+gift, NOUN 
+Dr., PROPN 
+K., PROPN 
+Stewart, PROPN 
+Department, PROPN 
+Medicine, PROPN 
+
+, SPACE 
+Therapeutics, PROPN 
+Aberdeen, PROPN 
+UK)5, PROPN 
+F2/18, PROPN 
+anti, ADJ 
+01~, PROPN 
+
+, SPACE 
+reagent, ADJ 
+osteoclasts, NOUN 
+express, VERB 
+01, NUM 
+.43, NUM 
+
+, SPACE 
+polyclonal, ADJ 
+anti, ADJ 
+rat, ADJ 
+B, NOUN 
+Lot, PROPN 
+880413, NUM 
+kindly, ADV 
+provided, VERB 
+Dr., PROPN 
+Rubin, PROPN 
+Cppsala, PROPN 
+University, PROPN 
+Uppsala, PROPN 
+Sweden, PROPN 
+Blocking, VERB 
+anti~, PROPN 
+
+, SPACE 
+body, NOUN 
+Al7, NOUN 
+cel]-binding, VERB 
+domain, NOUN 
+bovine, ADJ 
+fibronectin, NOUN 
+
+, SPACE 
+obtaincd, NOUN 
+Gibco, PROPN 
+Paisley, PROPN 
+Scotland, PROPN 
+
+, SPACE 
+Prptides, NOUN 
+
+, SPACE 
+Al1, VERB 
+peptides, NOUN 
+previously, ADV 
+determined, ADJ 
+maximally, ADV 
+ef-, ADJ 
+
+, SPACE 
+fective, ADJ 
+concentrations, NOUN 
+shown, VERB 
+RGD, PROPN 
+sequence-, NOUN 
+
+, SPACE 
+containing, VERB 
+snake, NOUN 
+venom, PROPN 
+protein, NOUN 
+kistrin, NOUN 
+500, NUM 
+nmol, NOUN 
+L, PROPN 
+
+, SPACE 
+cyclic, ADJ 
+RGD, PROPN 
+peptide, NOUN 
+500, NUM 
+nmol, NOUN 
+L, PROPN 
+G4120, NOUN 
+sulf-, ADJ 
+
+, SPACE 
+oxide, NOUN 
+cyclic, ADJ 
+pentapeptide, NOUN 
+containing, VERB 
+o, NOUN 
+Tyr, ADJ 
+Arg, PROPN 
+Gly, PROPN 
+Asp, PROPN 
+Cyx, PROPN 
+
+, SPACE 
+conformationally, ADV 
+constrained, VERB 
+aqueous, ADJ 
+solution, NOUN 
+
+, SPACE 
+provided, VERB 
+Genentech, PROPN 
+Inc., PROPN 
+South, PROPN 
+San, PROPN 
+Francisco, PROPN 
+Linear, PROPN 
+
+, SPACE 
+GRGDSP, PROPN 
+GRGESP, PROPN 
+peptides, NOUN 
+800, NUM 
+pmol, NOUN 
+L, PROPN 
+
+, SPACE 
+purchased, VERB 
+Peninsula, PROPN 
+Labs, PROPN 
+Belmont, PROPN 
+DGEA, NOUN 
+
+, SPACE 
+peptide, ADJ 
+analogs, NOUN 
+synthesized, VERB 
+Genentech, PROPN 
+Inc., PROPN 
+DGEA-, PROPN 
+
+, SPACE 
+NH, PROPN 
+ac, ADJ 
+DGEA, NOUN 
+NHa, PROPN 
+ac, PROPN 
+GPAGKDGEAGAQG, PROPN 
+NH, PROPN 
+ICRF, PROPN 
+
+, SPACE 
+KGDEA, PROPN 
+KDGE, PROPN 
+concentrations, NOUN 
+25, NUM 
+
+, SPACE 
+mmol, PROPN 
+L., PROPN 
+
+, SPACE 
+0ste0c1u.rr.s, PROPN 
+
+, SPACE 
+Rat, PROPN 
+bone, NOUN 
+cel1, NOUN 
+suspensions, NOUN 
+containing, VERB 
+osteoclasts, NOUN 
+obtained, VERB 
+
+, SPACE 
+long, ADJ 
+bones, NOUN 
+newbom, NOUN 
+Sprague, PROPN 
+Dawley, PROPN 
+rats, NOUN 
+previously, ADV 
+
+, SPACE 
+described, VERB 
+kept, VERB 
+minima1, ADJ 
+essential, ADJ 
+medium, NOUN 
+MEM, PROPN 
+
+, SPACE 
+Earle, PROPN 
+salts, NOUN 
+Gibco, PROPN 
+Paisley, PROPN 
+Scotland, PROPN 
+ice, NOUN 
+use, NOUN 
+Osteo-, PROPN 
+
+, SPACE 
+clasts, NOUN 
+obtained, VERB 
+osteoclastoma, ADJ 
+tumor, NOUN 
+mincing, VERB 
+
+, SPACE 
+tissue, NOUN 
+fragments, NOUN 
+MEM, PROPN 
+subsequently, ADV 
+carrying, VERB 
+manipu-, ADJ 
+
+, SPACE 
+lations, NOUN 
+rat, NOUN 
+osteoclasts, NOUN 
+Osteoclasts, NOUN 
+obtained, VERB 
+newbom, NOUN 
+
+, SPACE 
+mice, NOUN 
+rabbits, NOUN 
+similarly, ADV 
+rat, VERB 
+osteoclasts, NOUN 
+verify, VERB 
+
+, SPACE 
+findings, NOUN 
+mammalian, ADJ 
+species, NOUN 
+
+, SPACE 
+Bone, PROPN 
+Resorption, PROPN 
+Assq, PROPN 
+
+, SPACE 
+Bone, PROPN 
+resorption, NOUN 
+studied, VERB 
+pit, NOUN 
+assay, NOUN 
+essentially, ADV 
+
+, SPACE 
+described, VERB 
+Amett, PROPN 
+Dempster, PROPN 
+Osteoclasts, NOUN 
+rat, NOUN 
+bone, NOUN 
+
+, SPACE 
+osteoclastoma, PROPN 
+settled, VERB 
+slices, NOUN 
+dentine, NOUN 
+
+, SPACE 
+wells, NOUN 
+96, NUM 
+plates, NOUN 
+1, NUM 
+h, NOUN 
+rat, NOUN 
+2, NUM 
+h, NOUN 
+human, NOUN 
+Non-, PROPN 
+
+, SPACE 
+adherent, NOUN 
+cells, NOUN 
+removed, VERB 
+washing, VERB 
+wells, NOUN 
+medium, ADJ 
+
+, SPACE 
+antibodies, NOUN 
+peptides, NOUN 
+added, VERB 
+slices, NOUN 
+cultured, VERB 
+
+, SPACE 
+2, NUM 
+days, NOUN 
+MEM, PROPN 
+supplemented, VERB 
+20, NUM 
+mmol, PROPN 
+L, PROPN 
+HEPES, PROPN 
+
+, SPACE 
+10, NUM 
+FCS, PROPN 
+2, NUM 
+mmol, PROPN 
+L, PROPN 
+L, PROPN 
+glutamine, NOUN 
+100, NUM 
+IU, NOUN 
+penicillin, NOUN 
+
+, SPACE 
+streptomycin, PROPN 
+operating, VERB 
+pH, X 
+5, NUM 
+CO, PROPN 
+6.9, NUM 
+7.0, NUM 
+
+, SPACE 
+end, NOUN 
+culture, NOUN 
+period, NOUN 
+slices, NOUN 
+fixed, VERB 
+2.5, NUM 
+glutar-, ADJ 
+
+, SPACE 
+aldehyde, NOUN 
+osteoclasts, NOUN 
+stained, VERB 
+presence, NOUN 
+tartrate-, NOUN 
+
+, SPACE 
+resistant, ADJ 
+acid, NOUN 
+phosphatase, NOUN 
+TRAP, PROPN 
+Sigma, PROPN 
+Kit, PROPN 
+386, NUM 
+
+, SPACE 
+number, NOUN 
+osteoclasts, NOUN 
+counted, VERB 
+Subsequently, ADV 
+cells, NOUN 
+me-, PROPN 
+
+, SPACE 
+chanically, ADV 
+removed, VERB 
+slices, NOUN 
+resorption, NOUN 
+pits, NOUN 
+stained, VERB 
+
+, SPACE 
+toluidine, NOUN 
+blue, ADJ 
+hematoxylin, NOUN 
+number, NOUN 
+resorption, NOUN 
+
+, SPACE 
+pits, NOUN 
+expressed, VERB 
+number, NOUN 
+osteoclast, NOUN 
+
+, SPACE 
+Cel1, VERB 
+Attachment, PROPN 
+ASSLIJ, PROPN 
+
+, SPACE 
+Wells, PROPN 
+96.well, PROPN 
+Falcon, PROPN 
+3072, NUM 
+Becton, PROPN 
+Dickinson, PROPN 
+Cowley, PROPN 
+
+, SPACE 
+Oxford, PROPN 
+UK, PROPN 
+24, NUM 
+wel1, NOUN 
+tissue, NOUN 
+culture, NOUN 
+plates, NOUN 
+Costar, PROPN 
+3524, NUM 
+
+, SPACE 
+Cambridge, PROPN 
+MA, PROPN 
+coated, VERB 
+100, NUM 
+pL, NOUN 
+250, NUM 
+pL, NUM 
+respec-, PROPN 
+
+, SPACE 
+tively, ADV 
+solutions, NOUN 
+attachment, ADJ 
+proteins, NOUN 
+previously, ADV 
+de-, PRON 
+
+, SPACE 
+termined, VERB 
+optimal, ADJ 
+coating, NOUN 
+concentrations, NOUN 
+MEM, PROPN 
+incubat-, X 
+
+, SPACE 
+ing, PROPN 
+2, NUM 
+h, NOUN 
+37’C, NOUN 
+16, NUM 
+h, NOUN 
+4, NUM 
+°, NUM 
+C, NOUN 
+appropriate, ADJ 
+Nonspecific, ADJ 
+
+, SPACE 
+binding, VERB 
+sites, NOUN 
+wells, NOUN 
+blocked, VERB 
+BSA, PROPN 
+adhesion, NOUN 
+
+, SPACE 
+assay, NOUN 
+carried, VERB 
+100, NUM 
+pL, PROPN 
+cel1, PROPN 
+suspension, NOUN 
+
+, SPACE 
+unknown, ADJ 
+number, NOUN 
+input, NOUN 
+osteoclasts, NOUN 
+can-, AUX 
+
+, SPACE 
+easily, ADV 
+identified, VERB 
+mixed, ADJ 
+cel1, NOUN 
+suspensions, NOUN 
+96, NUM 
+wel1, NOUN 
+
+, SPACE 
+plates, NOUN 
+250, NUM 
+yL, NOUN 
+24, NUM 
+wel1, NOUN 
+plates, NOUN 
+leaving, VERB 
+osteoclasts, NOUN 
+
+, SPACE 
+Bone, PROPN 
+Vol, PROPN 
+19, NUM 
+4, NUM 
+
+, SPACE 
+October, PROPN 
+1996:317, NUM 
+328, NUM 
+M., PROPN 
+H., PROPN 
+Helfrich, PROPN 
+et, PROPN 
+al, PROPN 
+319, NUM 
+
+, SPACE 
+p, NOUN 
+integrins, NOUN 
+osteoclast, ADJ 
+function, NOUN 
+
+, SPACE 
+adhere, VERB 
+1, NUM 
+h, NOUN 
+allows, VERB 
+time, NOUN 
+cells, NOUN 
+spread, VERB 
+suffi-, NOUN 
+
+, SPACE 
+ciently, ADV 
+counted, VERB 
+accurately, ADV 
+Attached, VERB 
+osteoclasts, NOUN 
+
+, SPACE 
+scored, VERB 
+staining, VERB 
+TRAP, PROPN 
+Results, NOUN 
+expressed, VERB 
+per-, PRON 
+
+, SPACE 
+centage, NOUN 
+control, NOUN 
+values, NOUN 
+i.e., X 
+adhesion, NOUN 
+FCS, PROPN 
+comparing, VERB 
+
+, SPACE 
+different, ADJ 
+substrates, NOUN 
+adhesion, NOUN 
+absente, NOUN 
+inhibitor, NOUN 
+
+, SPACE 
+inhibition, NOUN 
+studies, NOUN 
+experiment, NOUN 
+Al1, PROPN 
+experiments, NOUN 
+
+, SPACE 
+duplicate, NOUN 
+repeated, VERB 
+times, NOUN 
+Typi-, PRON 
+
+, SPACE 
+cally, ADV 
+number, NOUN 
+attached, VERB 
+osteoclasts, NOUN 
+controls, NOUN 
+ranged, VERB 
+
+, SPACE 
+20, NUM 
+80, NUM 
+FCS, PROPN 
+10, NUM 
+PBS, PROPN 
+positive, ADJ 
+
+, SPACE 
+BSA, PROPN 
+1, NUM 
+mg, PROPN 
+mL, NUM 
+negative, ADJ 
+control, NOUN 
+ligand, NOUN 
+
+, SPACE 
+Measurement, PROPN 
+Osteoclast, PROPN 
+Spreading, VERB 
+
+, SPACE 
+experiments, NOUN 
+spread, ADJ 
+area, NOUN 
+osteoclasts, NOUN 
+assessed, VERB 
+
+, SPACE 
+Rat, PROPN 
+osteoclasts, NOUN 
+allowed, VERB 
+adhere, VERB 
+described, VERB 
+
+, SPACE 
+fixed, VERB 
+TRAP, PROPN 
+stained, ADJ 
+cells, NOUN 
+examined, VERB 
+monitor, NOUN 
+at-, X 
+
+, SPACE 
+tached, VERB 
+inverted, ADJ 
+microscope, NOUN 
+Al1, VERB 
+fully, ADV 
+visible, ADJ 
+osteoclasts, NOUN 
+
+, SPACE 
+drawn, VERB 
+mouse, NOUN 
+digitizing, NOUN 
+tablet, NOUN 
+attached, VERB 
+PC, NOUN 
+
+, SPACE 
+VIDS, PROPN 
+V, NOUN 
+software, NOUN 
+Analytical, PROPN 
+Measuring, PROPN 
+Systems, PROPN 
+Cam-, PROPN 
+
+, SPACE 
+bridge, NOUN 
+UK, PROPN 
+Cel1, NOUN 
+area, NOUN 
+calculated, VERB 
+p, NOUN 
+values, NOUN 
+mean, NOUN 
+
+, SPACE 
+calculated, VERB 
+Student, PROPN 
+t, NOUN 
+tests, NOUN 
+Differences, NOUN 
+considered, VERB 
+
+, SPACE 
+significant, ADJ 
+p, NOUN 
+c, NOUN 
+0.05, NUM 
+
+, SPACE 
+Inhibition, NOUN 
+Osteoclast, PROPN 
+Adhesion, PROPN 
+Antibodies, PROPN 
+Peptides, PROPN 
+
+, SPACE 
+Antibody, PROPN 
+peptide, ADJ 
+inhibition, NOUN 
+experiments, NOUN 
+carried, VERB 
+
+, SPACE 
+1, X 
+adding, VERB 
+inhibitors, NOUN 
+cel1, NOUN 
+suspension, NOUN 
+ice, NOUN 
+10, NUM 
+min, NOUN 
+
+, SPACE 
+plating, VERB 
+subsequently, ADV 
+allowing, VERB 
+osteoclasts, NOUN 
+adhere, VERB 
+
+, SPACE 
+presence, NOUN 
+inhibitors, NOUN 
+1, NUM 
+h, NOUN 
+2, NUM 
+allowing, VERB 
+
+, SPACE 
+osteoclasts, NOUN 
+adhere, VERB 
+1, NUM 
+h, NOUN 
+washing, VERB 
+nonadherent, NOUN 
+cells, NOUN 
+
+, SPACE 
+PBS, PROPN 
+adding, VERB 
+inhibitors, NOUN 
+previously, ADV 
+determined, VERB 
+concen-, PROPN 
+
+, SPACE 
+trations, NOUN 
+additional, ADJ 
+1, NUM 
+h, NOUN 
+37”C, NUM 
+5, NUM 
+CO, PROPN 
+
+, SPACE 
+preparations, NOUN 
+washed, VERB 
+fixed, VERB 
+TRAP, PROPN 
+stained, VERB 
+
+, SPACE 
+Essentially, ADV 
+similar, ADJ 
+results, NOUN 
+obtained, VERB 
+
+, SPACE 
+protocols, NOUN 
+Antibodies, NOUN 
+peptides, NOUN 
+added, VERB 
+minima1, NOUN 
+vol-, NOUN 
+
+, SPACE 
+umes, VERB 
+final, ADJ 
+concentrations, NOUN 
+stated, VERB 
+
+, SPACE 
+Solid, PROPN 
+Phase, PROPN 
+Receptor, PROPN 
+Binding, PROPN 
+Assay, PROPN 
+YJ~~, PROPN 
+
+, SPACE 
+solid, ADJ 
+phase, NOUN 
+binding, VERB 
+assay, NOUN 
+utilizing, VERB 
+recombinant, ADJ 
+human, NOUN 
+Y, PROPN 
+
+, SPACE 
+essentially, ADV 
+described, VERB 
+Horton, PROPN 
+et, PROPN 
+a1.29, NOUN 
+native, ADJ 
+
+, SPACE 
+heat, NOUN 
+denatured, VERB 
+type, NOUN 
+1, NUM 
+collagens, NOUN 
+
+, SPACE 
+Statistical, PROPN 
+Analysis, PROPN 
+Adhesion, PROPN 
+Assays, PROPN 
+
+, SPACE 
+Results, NOUN 
+expressed, VERB 
+percentage, NOUN 
+osteoclasts, NOUN 
+bound, VERB 
+
+, SPACE 
+normalization, NOUN 
+values, NOUN 
+obtained, VERB 
+binding, VERB 
+FCS, PROPN 
+coated, VERB 
+
+, SPACE 
+plastic, NOUN 
+cel1, NOUN 
+adhesion, NOUN 
+assays, NOUN 
+vitronectin, PROPN 
+solid, ADJ 
+phase, NOUN 
+assay, VERB 
+
+, SPACE 
+inhibition, NOUN 
+assays, NOUN 
+effect, NOUN 
+addition, NOUN 
+MEM, PROPN 
+medium, NOUN 
+
+, SPACE 
+buffer, VERB 
+place, NOUN 
+antibody, NOUN 
+peptide, NOUN 
+normalize, VERB 
+
+, SPACE 
+percentage, NOUN 
+inhibition, NOUN 
+osteoclast, ADJ 
+receptor, NOUN 
+binding, ADJ 
+as-, NOUN 
+
+, SPACE 
+point, NOUN 
+represents, VERB 
+mean, ADJ 
+SEM, PROPN 
+
+, SPACE 
+replicate, ADJ 
+experiments, NOUN 
+Experiments, NOUN 
+osteoclast, ADJ 
+yields, NOUN 
+
+, SPACE 
+low, ADJ 
+10, NUM 
+rejected, VERB 
+analysis, NOUN 
+
+, SPACE 
+p, NOUN 
+values, NOUN 
+assays, NOUN 
+calculated, VERB 
+Mann, PROPN 
+Whitney, PROPN 
+
+, SPACE 
+U, NOUN 
+test, NOUN 
+differences, NOUN 
+considered, VERB 
+significant, ADJ 
+p, NOUN 
+<, X 
+0.05, NUM 
+
+, SPACE 
+Immunocytochemistry, PROPN 
+
+, SPACE 
+Localization, PROPN 
+integrins, NOUN 
+resting, VERB 
+resorbing, VERB 
+human, PROPN 
+osteo-, PROPN 
+
+, SPACE 
+clasts, NOUN 
+performed, VERB 
+described, VERB 
+detail, NOUN 
+previously.36, NOUN 
+Osteo-, PROPN 
+
+, SPACE 
+clasts, NOUN 
+isolated, VERB 
+osteoclastoma, PROPN 
+mechani-, NOUN 
+
+, SPACE 
+cally, ADV 
+released, VERB 
+long, ADJ 
+bones, NOUN 
+human, ADJ 
+fetuses, NOUN 
+pregnancy, NOUN 
+
+, SPACE 
+terminations, NOUN 
+12, NUM 
+19, NUM 
+week, NOUN 
+gestation, NOUN 
+local, ADJ 
+ethical, ADJ 
+commit-, NOUN 
+tee, NOUN 
+approval, NOUN 
+following, VERB 
+Polkinghorne, PROPN 
+guidelines, NOUN 
+Osteo-, PROPN 
+
+, SPACE 
+clasts, NOUN 
+settled, VERB 
+bone, NOUN 
+dentine, NOUN 
+slices, NOUN 
+cultured, VERB 
+
+, SPACE 
+1, NUM 
+2, NUM 
+days, NOUN 
+MEM, PROPN 
+supplements, NOUN 
+described, VERB 
+resorp-, ADJ 
+
+, SPACE 
+tion, NOUN 
+assay, NOUN 
+Cells, NOUN 
+fïxed, VERB 
+paraformaldehyde, PROPN 
+3, NUM 
+2, NUM 
+
+, SPACE 
+sucrose, NOUN 
+PBS, PROPN 
+5, NUM 
+min, NOUN 
+permeabilized, VERB 
+5, NUM 
+min, NOUN 
+ice, NOUN 
+0.5, NUM 
+
+, SPACE 
+Triton, PROPN 
+X-100, PROPN 
+HEPES, PROPN 
+buffer, NOUN 
+washed, VERB 
+PBS, PROPN 
+blocked, VERB 
+
+, SPACE 
+10, NUM 
+FCS, NOUN 
+PBS, PROPN 
+incubated, VERB 
+primary, ADJ 
+antibody, NOUN 
+inte-, VERB 
+
+, SPACE 
+grin, NOUN 
+subunits, NOUN 
+followed, VERB 
+incubation, NOUN 
+appropriate, ADJ 
+sec-, NOUN 
+
+, SPACE 
+ondary, ADJ 
+antibody, NOUN 
+labeled, VERB 
+FITC, PROPN 
+biotin, NOUN 
+Biotin, PROPN 
+de-, PROPN 
+
+, SPACE 
+tected, VERB 
+avidin, PROPN 
+TrITC, PROPN 
+Sealing, VERB 
+zones, NOUN 
+detected, VERB 
+labeling, VERB 
+
+, SPACE 
+F, PROPN 
+actin, NOUN 
+phalloidi&TrITC, PROPN 
+phalloidin, NOUN 
+FITC, PROPN 
+
+, SPACE 
+Sigma, PROPN 
+appropriate, ADJ 
+Stained, ADJ 
+bone, NOUN 
+slices, NOUN 
+embedded, VERB 
+
+, SPACE 
+80, NUM 
+glycerol, NOUN 
+PBS, PROPN 
+Resorption, NOUN 
+lacunae, NOUN 
+detected, VERB 
+non-, NOUN 
+
+, SPACE 
+confocal, ADJ 
+transmission, NOUN 
+microscopy, NOUN 
+Slices, NOUN 
+analyzed, VERB 
+
+, SPACE 
+Leica, PROPN 
+laser, NOUN 
+scanning, VERB 
+confocal, ADJ 
+microscope, NOUN 
+equipped, VERB 
+ar-, PROPN 
+
+, SPACE 
+gon, PROPN 
+crypton, NOUN 
+laser, NOUN 
+lines, NOUN 
+488, NUM 
+568, NUM 
+nm, NOUN 
+
+, SPACE 
+selected, VERB 
+Resorbing, VERB 
+osteoclasts, NOUN 
+identified, VERB 
+nonconfo-, PROPN 
+
+, SPACE 
+cal, ADJ 
+mode, NOUN 
+phalloidin, NOUN 
+staining, VERB 
+subsequently, ADV 
+integrin, PROPN 
+lo-, NOUN 
+
+, SPACE 
+calization, NOUN 
+examined, VERB 
+XY, PROPN 
+XZ, PROPN 
+scanning, NOUN 
+minimum, NOUN 
+
+, SPACE 
+100, NUM 
+osteoclasts, NOUN 
+stained, VERB 
+individual, ADJ 
+integrin, NOUN 
+subunit, NOUN 
+
+, SPACE 
+examined, VERB 
+
+, SPACE 
+Collagen, PROPN 
+Afinity, PROPN 
+Chromatography, PROPN 
+Osteoclast, PROPN 
+
+, SPACE 
+Membrane, PROPN 
+Proteins, PROPN 
+
+, SPACE 
+Human, PROPN 
+osteoclastoma, NOUN 
+OCL, PROPN 
+membranes, NOUN 
+10, NUM 
+mg, NOUN 
+prepared, VERB 
+
+, SPACE 
+labeled, VERB 
+biotinylation, NOUN 
+previously, ADV 
+described.42, NOUN 
+Osteo-, PROPN 
+
+, SPACE 
+clast, NOUN 
+membranes, NOUN 
+purified, VERB 
+osteoclastoma, ADJ 
+mem-, PROPN 
+
+, SPACE 
+brane, ADJ 
+pool, NOUN 
+antibody, NOUN 
+13C2, ADJ 
+anti+, NUM 
+positive, ADJ 
+immuno-, ADJ 
+
+, SPACE 
+magnetic, ADJ 
+selection, NOUN 
+procedure, NOUN 
+gives, VERB 
+high, ADJ 
+yield, NOUN 
+pu-, NOUN 
+
+, SPACE 
+Figure, NOUN 
+1, NUM 
+Morphology, NOUN 
+osteoclasts, NOUN 
+FCS, PROPN 
+collagen, NOUN 
+substrates, NOUN 
+
+, SPACE 
+Typical, ADJ 
+spread, VERB 
+multinucleated, VERB 
+osteoclast, ADV 
+1, NUM 
+h, NOUN 
+settling, VERB 
+FCS-, NOUN 
+
+, SPACE 
+coated, VERB 
+plastic, NOUN 
+b, X 
+Typical, ADJ 
+morphology, NOUN 
+rat, PROPN 
+osteoclast, ADJ 
+arrow, ADV 
+adhering, VERB 
+
+, SPACE 
+type, VERB 
+1, NUM 
+collagen, NOUN 
+fibers, NOUN 
+clearly, ADV 
+visible, ADJ 
+light, ADJ 
+microscopy, NOUN 
+c, X 
+Typical, ADJ 
+
+, SPACE 
+morphology, NOUN 
+rat, PROPN 
+osteoclasts, NOUN 
+arrows, NOUN 
+1, NUM 
+h, NOUN 
+settling, VERB 
+native, ADJ 
+
+, SPACE 
+monomeric, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+Note, VERB 
+reduction, NOUN 
+cel1, NOUN 
+spreading, VERB 
+com-, NOUN 
+
+, SPACE 
+pared, VERB 
+d, X 
+Morphology, NOUN 
+rat, PROPN 
+osteoclasts, NOUN 
+arrows, NOUN 
+settled, VERB 
+
+, SPACE 
+denatured, VERB 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+heated, VERB 
+30, NUM 
+min, NOUN 
+60, NUM 
+°, NOUN 
+C, NOUN 
+Note, VERB 
+differ-, ADJ 
+
+, SPACE 
+ence, NOUN 
+c, NOUN 
+d, PROPN 
+showing, VERB 
+better, ADJ 
+cytoplasmic, ADJ 
+spreading, NOUN 
+
+, SPACE 
+a)-(d, PROPN 
+Stained, VERB 
+tartrate, NOUN 
+resistant, ADJ 
+acid, NOUN 
+phosphatase, NOUN 
+original, ADJ 
+magnifi-, ADJ 
+
+, SPACE 
+cation, NOUN 
+x200, PROPN 
+bar, NOUN 
+=, VERB 
+20, NUM 
+Pm, NOUN 
+
+, SPACE 
+320, NUM 
+M., PROPN 
+H., PROPN 
+Helt’rxh, PROPN 
+ct, PROPN 
+al, PROPN 
+Bene, PROPN 
+Vol, PROPN 
+19, NUM 
+-i, PROPN 
+
+, SPACE 
+p, PROPN 
+integrins, NOUN 
+os, ADJ 
+~, PROPN 
+eoclast, PROPN 
+function, NOUN 
+October, PROPN 
+1996:317, NUM 
+3X, PROPN 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+Rat, ADJ 
+osícoclast, ADJ 
+adhesion, NOUN 
+monomeric, VERB 
+collagen, NOUN 
+collagen, NOUN 
+
+, SPACE 
+tïbers, NOUN 
+teins, NOUN 
+resolved, VERB 
+SDS, PROPN 
+PAGE, NOUN 
+probed, VERB 
+immunoblov, NOUN 
+
+, SPACE 
+enhanced, VERB 
+chemiluminescence, NOUN 
+ECL, PROPN 
+Amersham, PROPN 
+UK, PROPN 
+previ-, NOUN 
+
+, SPACE 
+ously, ADV 
+described.42, PROPN 
+
+, SPACE 
+Percentage, PROPN 
+adherent, NOUN 
+
+, SPACE 
+osteoclasts, NOUN 
+Results, NOUN 
+
+, SPACE 
+Species, PROPN 
+Substrate, PROPN 
+il, PROPN 
+mean, VERB 
++, CCONJ 
+SD, PROPN 
+
+, SPACE 
+Rat, PROPN 
+Native, ADJ 
+type, NOUN 
+1, NUM 
+132, NUM 
+15.3, NUM 
++, NUM 
+3.Y, NUM 
+
+, SPACE 
+Bovine, PROPN 
+Native, PROPN 
+type, NOUN 
+1, NUM 
+6, NUM 
+82.2, NUM 
+f, NOUN 
+9.0h, NOUN 
+
+, SPACE 
+Rat, ADJ 
+Denatured, VERB 
+type, NOUN 
+1, NUM 
+2x, NUM 
+18.3, NUM 
+t, NOUN 
+4sh, NOUN 
+
+, SPACE 
+Bovine, PROPN 
+Denatured, VERB 
+type, NOUN 
+1, NUM 
+6, NUM 
+75.3, NUM 
++, SYM 
+5.1h, NUM 
+
+, SPACE 
+Bovine, PROPN 
+Native, PROPN 
+type, NOUN 
+1, NUM 
+fibers, NOUN 
+25, NUM 
+59.3, NUM 
+5.1h, PROPN 
+
+, SPACE 
+Coating, NOUN 
+concentrations, NOUN 
+20, NUM 
+Fg, PROPN 
+mL, NUM 
+monomeric, NOUN 
+collagens, NOUN 
+100, NUM 
+
+, SPACE 
+kg, PROPN 
+mL, PROPN 
+collagen, NOUN 
+fibers, NOUN 
+conditions, NOUN 
+described, VERB 
+Materials, PROPN 
+
+, SPACE 
+nnd, NOUN 
+Methbds, PROPN 
+n, NOUN 
+=, SYM 
+number, NOUN 
+observations, NOUN 
+Differences, NOUN 
+rat, NOUN 
+
+, SPACE 
+bovine, ADJ 
+type, NOUN 
+1, NUM 
+native, ADJ 
+denatured, VERB 
+type, NOUN 
+1, NUM 
+signifi-, VERB 
+
+, SPACE 
+nt, PART 
+>, X 
+0.05, NUM 
+Mann, PROPN 
+Whitney, PROPN 
+Li, PROPN 
+test, NOUN 
+Adhesion, NOUN 
+minor, ADJ 
+
+, SPACE 
+collagens, NOUN 
+bone, NOUN 
+given, VERB 
+text, NOUN 
+
+, SPACE 
+Normalized, VERB 
+adhesion, NOUN 
+FCS, PROPN 
+(=, NOUN 
+100, NUM 
+
+, SPACE 
+experiment, NOUN 
+
+, SPACE 
+Significantly, ADV 
+different, ADJ 
+adhesion, NOUN 
+FCS, PROPN 
+p, PROPN 
+<, X 
+0.01, NUM 
+Adhesion, PROPN 
+Studies, PROPN 
+
+, SPACE 
+rity, NOUN 
+osteoclast, ADJ 
+membranes, NOUN 
+previously, ADV 
+described.3, VERB 
+
+, SPACE 
+affinity, NOUN 
+osteoclast, ADJ 
+proteins, NOUN 
+native, ADJ 
+human, ADJ 
+type, NOUN 
+1, NUM 
+type, VERB 
+IV, PROPN 
+
+, SPACE 
+collagen, NOUN 
+denatured, VERB 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+assessed, VERB 
+follows, VERB 
+
+, SPACE 
+Native, ADJ 
+collagens, NOUN 
+dissolved, VERB 
+0, NUM 
+acetic, ADJ 
+acid, NOUN 
+mixed, ADJ 
+
+, SPACE 
+gently, ADV 
+16, NUM 
+h, NOUN 
+4, NUM 
+°, NUM 
+C, NOUN 
+Native, ADJ 
+heat, NOUN 
+denatured, VERB 
+
+, SPACE 
+collagen, NOUN 
+2.5, NUM 
+mg, PROPN 
+mL, NUM 
+covalently, ADV 
+bound, VERB 
+1, NUM 
+mL, NUM 
+suspen-, NOUN 
+
+, SPACE 
+sion, NOUN 
+glutaraldehyde, NOUN 
+activated, VERB 
+magnetic, ADJ 
+beads, NOUN 
+Advanced, PROPN 
+
+, SPACE 
+Magnetics, NOUN 
+UK, PROPN 
+following, VERB 
+manufacturer, NOUN 
+instructions, NOUN 
+Col-, NOUN 
+
+, SPACE 
+umns, NOUN 
+run, VERB 
+presence, NOUN 
+3, NUM 
+mmol, PROPN 
+L, PROPN 
+MgCl, PROPN 
+lysis, NOUN 
+buffer, NOUN 
+
+, SPACE 
+100, NUM 
+mmol, PROPN 
+L, PROPN 
+octyl, NOUN 
+P, NOUN 
+gluco, NOUN 
+pyranoside, NOUN 
+OGP, PROPN 
+Calbiochem, PROPN 
+
+, SPACE 
+UK, PROPN 
+1, NUM 
+mmol, PROPN 
+L, PROPN 
+PMSF, PROPN 
+1, NUM 
+aprotinin, NOUN 
+Tris, PROPN 
+buffered, VERB 
+saline, NOUN 
+
+, SPACE 
+negative, ADJ 
+control, NOUN 
+column, NOUN 
+coated, VERB 
+2.5, NUM 
+mg, NOUN 
+mL, NUM 
+BSA, PROPN 
+
+, SPACE 
+run, VERB 
+conditions, NOUN 
+osteoclast, ADJ 
+membrane, NOUN 
+lysate, NOUN 
+
+, SPACE 
+divided, VERB 
+equally, ADV 
+columns, NOUN 
+allowed, VERB 
+mix, VERB 
+
+, SPACE 
+gently, ADV 
+ovemight, ADJ 
+4, NUM 
+°, NUM 
+C, NOUN 
+Batch, NOUN 
+washing, NOUN 
+elution, NOUN 
+
+, SPACE 
+columns, NOUN 
+isolated, ADJ 
+osteoclast, ADJ 
+membrane, NOUN 
+proteins, NOUN 
+
+, SPACE 
+magnetic, ADJ 
+separation, NOUN 
+column, NOUN 
+washed, VERB 
+serially, ADV 
+10, NUM 
+
+, SPACE 
+min, NOUN 
+3, NUM 
+mL, NUM 
+volumes, NOUN 
+wash, NOUN 
+buffer, NOUN 
+OGP, NOUN 
+lysis, NOUN 
+buffer, NOUN 
+
+, SPACE 
+25, NUM 
+mmol, PROPN 
+L, PROPN 
+octyl-/3, PROPN 
+o, ADJ 
+thio, NOUN 
+glucopyranoside, NOUN 
+Calbiochem, PROPN 
+
+, SPACE 
+wash, NOUN 
+procedure, NOUN 
+repeated, VERB 
+times, NOUN 
+Elution, PROPN 
+performed, VERB 
+
+, SPACE 
+batch, NOUN 
+incubation, NOUN 
+washed, ADJ 
+collagen, NOUN 
+columns, NOUN 
+10, NUM 
+mM, NUM 
+
+, SPACE 
+EDTA, PROPN 
+wash, NOUN 
+buffer, NOUN 
+cations, NOUN 
+Rat, ADJ 
+osteoclasts, NOUN 
+adhered, VERB 
+wel1, NOUN 
+monomeric, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+rat, NOUN 
+bovine, ADJ 
+wel1, PROPN 
+bovine, ADJ 
+fibrillar, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+Figure, NOUN 
+
+, SPACE 
+1, NUM 
+Table, NOUN 
+1, NUM 
+adhered, VERB 
+wel1, PROPN 
+bovine, PROPN 
+types, NOUN 
+11, NUM 
+III, NUM 
+
+, SPACE 
+collagen, NOUN 
+60, NUM 
+58, NUM 
+respectively, ADV 
+compared, VERB 
+FCS, PROPN 
+
+, SPACE 
+adhesion, NOUN 
+human, ADJ 
+types, NOUN 
+IV, PROPN 
+V, PROPN 
+collagen, NOUN 
+35, NUM 
+26, NUM 
+
+, SPACE 
+respectively, ADV 
+compared, VERB 
+FCS, PROPN 
+unclear, ADJ 
+
+, SPACE 
+species, NOUN 
+differences, NOUN 
+types, NOUN 
+col-, NOUN 
+
+, SPACE 
+lagen, NOUN 
+wel1, NOUN 
+recognized, VERB 
+osteoclasts, NOUN 
+general, ADJ 
+bio-, NOUN 
+
+, SPACE 
+chemical, NOUN 
+assays, NOUN 
+human, ADJ 
+osteoclast, ADJ 
+membranes, NOUN 
+
+, SPACE 
+bind, VERB 
+human, ADJ 
+type, NOUN 
+IV, PROPN 
+collagen, NOUN 
+affinity, NOUN 
+similar, ADJ 
+
+, SPACE 
+human, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+Spreading, VERB 
+osteoclasts, NOUN 
+collagen, NOUN 
+
+, SPACE 
+FCS, NOUN 
+coated, VERB 
+substrates, NOUN 
+Figure, NOUN 
+l, PROPN 
+increased, VERB 
+
+, SPACE 
+1, NUM 
+h, NOUN 
+attachment, NOUN 
+collagen, NOUN 
+coated, VERB 
+plastic, NOUN 
+re-, ADP 
+
+, SPACE 
+moval, NOUN 
+nonadherent, NOUN 
+cells, NOUN 
+adherent, NOUN 
+osteoclasts, NOUN 
+cultured, VERB 
+
+, SPACE 
+hour, NOUN 
+presence, NOUN 
+10, NUM 
+FCS, NOUN 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+increase, NOUN 
+cel1, NOUN 
+spreading, VERB 
+addition, NOUN 
+FCS, PROPN 
+blocked, VERB 
+
+, SPACE 
+presence, NOUN 
+p3, PROPN 
+antibody, NOUN 
+osteoclasts, NOUN 
+remained, VERB 
+attached, VERB 
+
+, SPACE 
+collagen, NOUN 
+substrate, NOUN 
+Table, NOUN 
+2, NUM 
+demonstrates, VERB 
+
+, SPACE 
+different, ADJ 
+receptors, NOUN 
+involved, VERB 
+binding, VERB 
+type, VERB 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+FCS, PROPN 
+adhesion, NOUN 
+proteins, NOUN 
+FCS, PROPN 
+predominantly, ADV 
+vitronectin, ADJ 
+
+, SPACE 
+recognized, VERB 
+B3, PROPN 
+integrin, PROPN 
+second, ADV 
+ps, PROPN 
+
+, SPACE 
+involved, VERB 
+binding, VERB 
+native, ADJ 
+collagen, NOUN 
+Osteoclasts, NOUN 
+adhered, VERB 
+
+, SPACE 
+wel1, NOUN 
+denatured, VERB 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+Figure, NOUN 
+ld, PROPN 
+Tdble, PROPN 
+l, NOUN 
+
+, SPACE 
+appeared, VERB 
+better, ADV 
+spread, VERB 
+native, ADJ 
+type, NOUN 
+1, NUM 
+Figure, PROPN 
+IC, PROPN 
+
+, SPACE 
+significant, ADJ 
+differences, NOUN 
+seen, VERB 
+rat, NOUN 
+bovine, ADJ 
+type, NOUN 
+1, NUM 
+
+, SPACE 
+collagen, NOUN 
+native, ADJ 
+denatured, VERB 
+Table, NOUN 
+1, NUM 
+fol-, NOUN 
+
+, SPACE 
+lowing, NOUN 
+experiments, NOUN 
+rat, NOUN 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+stated, VERB 
+
+, SPACE 
+
+, SPACE 
+specificity, NOUN 
+adhesion, NOUN 
+assay, VERB 
+measuring, VERB 
+adhesion, NOUN 
+
+, SPACE 
+coated, ADJ 
+protein, NOUN 
+evaluated, VERB 
+previously.23, PROPN 
+Adhesion, PROPN 
+
+, SPACE 
+experiments, NOUN 
+incubation, NOUN 
+bone, NOUN 
+cel1, NOUN 
+suspension, NOUN 
+cy-, NOUN 
+
+, SPACE 
+cloheximide, NOUN 
+monensin, NOUN 
+performed, VERB 
+try, VERB 
+avoid, VERB 
+adhe-, NOUN 
+
+, SPACE 
+sion, NOUN 
+proteins, NOUN 
+secreted, VERB 
+osteoclasts, NOUN 
+failed, VERB 
+
+, SPACE 
+differences, NOUN 
+short, ADJ 
+adhesion, NOUN 
+times, NOUN 
+15, NUM 
+min, NOUN 
+
+, SPACE 
+1, NUM 
+h, NOUN 
+essentially, ADV 
+similar, ADJ 
+results, NOUN 
+obtained, VERB 
+
+, SPACE 
+Eluted, ADJ 
+proteins, NOUN 
+assessed, VERB 
+presence, NOUN 
+integrins, NOUN 
+
+, SPACE 
+immunoprecipitation, NOUN 
+HAS-6, PROPN 
+<, X 
+yZ, NUM 
+K20, PROPN 
+p, NOUN 
+23C6, NUM 
+
+, SPACE 
+oI, PROPN 
+monoclonal, NOUN 
+antibodies, VERB 
+al1, ADV 
+5, NUM 
+p, NOUN 
+g, PROPN 
+Ig, PROPN 
+mL, NUM 
+Isolated, ADJ 
+pro-, NOUN 
+Blocking, VERB 
+Studies, PROPN 
+RGD, PROPN 
+Peptides, PROPN 
+
+, SPACE 
+extend, VERB 
+earlier, ADJ 
+finding, VERB 
+adhesion, NOUN 
+osteoclasts, NOUN 
+
+, SPACE 
+collagen, NOUN 
+RGD, PROPN 
+dependent, ADJ 
+included, VERB 
+different, ADJ 
+RGD-, PUNCT 
+
+, SPACE 
+Table, PROPN 
+2, NUM 
+Cytoplasmic, ADJ 
+spreading, NOUN 
+rat, NOUN 
+osteoclasts, NOUN 
+collagen, PROPN 
+versus, ADP 
+serum, NOUN 
+coated, VERB 
+surfaces, NOUN 
+effect, NOUN 
+serum, NOUN 
+proteins, NOUN 
+anti-, PROPN 
+
+, SPACE 
+antibody, NOUN 
+
+, SPACE 
+Group, PROPN 
+coated, VERB 
+substrate, VERB 
+Second, ADJ 
+soluble, ADJ 
+
+, SPACE 
+substrate, VERB 
+Antibody, PROPN 
+Osteoclast, PROPN 
+spread, VERB 
+area, NOUN 
+
+, SPACE 
+mean, VERB 
++, PUNCT 
+SD, PROPN 
+~10~, PROPN 
+km, PROPN 
+n, CCONJ 
+
+, SPACE 
+1, NUM 
+Native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+2, NUM 
+Native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+3, NUM 
+Native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+FCS, PROPN 
+
+, SPACE 
+4, NUM 
+Native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+FCS, PROPN 
+
+, SPACE 
+5, NUM 
+FCS, PROPN 
+
+, SPACE 
+6, NUM 
+FCS, PROPN 
+Collagen, PROPN 
+type, NOUN 
+1, NUM 
+2.71, NUM 
++, NUM 
+2.09, NUM 
+28, NUM 
+
+, SPACE 
+Anti+, ADJ 
+3.10, NUM 
+1.37, NUM 
+12, NUM 
+
+, SPACE 
+6.09, NUM 
+k, NOUN 
+3.43, NUM 
+19, NUM 
+
+, SPACE 
+Anti-, PROPN 
+2.23, NUM 
++, SYM 
+1.13b, NUM 
+12, NUM 
+
+, SPACE 
+8.07, NUM 
+t, NOUN 
+6.52, NUM 
+51, NUM 
+
+, SPACE 
+7.88, NUM 
++, NUM 
+4.08, NUM 
+20, NUM 
+
+, SPACE 
+Collagen, PROPN 
+coated, VERB 
+20, NUM 
+pg, NOUN 
+mL, PROPN 
+FCS, PROPN 
+10, NUM 
+PBS, PROPN 
+16, NUM 
+h, NOUN 
+4, NUM 
+°, NUM 
+C, NOUN 
+Osteoclasts, NOUN 
+allowed, VERB 
+adhere, VERB 
+coated, VERB 
+
+, SPACE 
+substrate, NOUN 
+1, NUM 
+h, NOUN 
+nonadherent, ADJ 
+cells, NOUN 
+removed, VERB 
+MEM, PROPN 
+FCS, PROPN 
+10, NUM 
+collagen, PROPN 
+20, NUM 
+mL, NUM 
+and/or, CCONJ 
+antibody, NOUN 
+
+, SPACE 
+added, VERB 
+adherent, NOUN 
+cells, NOUN 
+allowed, VERB 
+spread, VERB 
+hour, NOUN 
+Cells, NOUN 
+fixed, VERB 
+stained, VERB 
+TRAP, PROPN 
+osteoclast, ADJ 
+
+, SPACE 
+spread, NOUN 
+area, NOUN 
+determined, VERB 
+described, VERB 
+Materials, PROPN 
+Methods, PROPN 
+n, CCONJ 
+=, SYM 
+number, NOUN 
+osteoclast, ADJ 
+profiles, NOUN 
+analyzed, VERB 
+experiment, NOUN 
+
+, SPACE 
+repeated, VERB 
+twice, ADV 
+essentially, ADV 
+similar, ADJ 
+results, NOUN 
+
+, SPACE 
+p, NOUN 
+<, X 
+0.01, NUM 
+vs., ADP 
+<, X 
+0.01, NUM 
+vs., ADP 
+3, NUM 
+Student, PROPN 
+r, NOUN 
+test, NOUN 
+
+, SPACE 
+Bone, PROPN 
+Vol, PROPN 
+19, NUM 
+4, NUM 
+M., PROPN 
+H., PROPN 
+Helfrich, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+October, PROPN 
+1996:317, NUM 
+328, NUM 
+B1, NOUN 
+integrins, NOUN 
+osteoclast, ADJ 
+function, NOUN 
+321, NUM 
+
+, SPACE 
+containing, VERB 
+compounds, NOUN 
+two-, X 
+tenfold, VERB 
+respective, ADJ 
+
+, SPACE 
+IC, PROPN 
+values, NOUN 
+FCS, PROPN 
+utilized, VERB 
+denatured, VERB 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+substrate, NOUN 
+Al1, PROPN 
+RGD, PROPN 
+containing, VERB 
+peptides, NOUN 
+reduced, VERB 
+adhe-, NOUN 
+
+, SPACE 
+sion, NOUN 
+270, NUM 
+native, ADJ 
+Figure, NOUN 
+2A, PROPN 
+denatured, VERB 
+type, NOUN 
+1, NUM 
+
+, SPACE 
+collagen, NOUN 
+Figure, PROPN 
+2B, PROPN 
+RGE, NOUN 
+containing, VERB 
+peptide, NOUN 
+nega-, NOUN 
+
+, SPACE 
+tive, ADJ 
+control, NOUN 
+peptide, NOUN 
+smaller, ADJ 
+effect, NOUN 
+native, ADJ 
+type, NOUN 
+1, NUM 
+
+, SPACE 
+bl*ar, NOUN 
+cyclic, PROPN 
+Kistrln, PROPN 
+llnur, NOUN 
+
+, SPACE 
+RGD, PROPN 
+RGD, PROPN 
+ROE, PROPN 
+
+, SPACE 
+natie, NOUN 
+type, NOUN 
+collagen, VERB 
+
+, SPACE 
+120, NUM 
+
+, SPACE 
+1, NUM 
+B, NOUN 
+
+, SPACE 
+x, SYM 
+osteoclast, ADJ 
+60, NUM 
+
+, SPACE 
+rdharion, NOUN 
+
+, SPACE 
+Illuar, PROPN 
+CyCliC, PROPN 
+Kisttin, PROPN 
+IiMU, PROPN 
+
+, SPACE 
+RGD, PROPN 
+RGD, PROPN 
+RGE, PROPN 
+
+, SPACE 
+demtund, NOUN 
+type, NOUN 
+collagen, VERB 
+
+, SPACE 
+120, NUM 
+C, NOUN 
+
+, SPACE 
+100, NUM 
+
+, SPACE 
+08toocl~1, NUM 
+60-, NUM 
+
+, SPACE 
+adheslon, NOUN 
+
+, SPACE 
+IiruU, PROPN 
+IIIIOW, PROPN 
+
+, SPACE 
+RGD, PROPN 
+RGE, PROPN 
+
+, SPACE 
+type, NOUN 
+Rbors, PROPN 
+
+, SPACE 
+Figure, PROPN 
+2, NUM 
+Inhibition, NOUN 
+rat, NOUN 
+osteoclast, ADJ 
+adhesion, NOUN 
+type, VERB 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+RGD, PROPN 
+containing, VERB 
+peptides, NOUN 
+Collagen, PROPN 
+denatnred, VERB 
+30, NUM 
+min, NOUN 
+60, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+Monomeric, PROPN 
+collagens, NOUN 
+coated, VERB 
+20, NUM 
+pg, NOUN 
+mL, X 
+collagen, NOUN 
+fïbers, NOUN 
+
+, SPACE 
+100, NUM 
+pg, PROPN 
+mL, NUM 
+2, NUM 
+h, NOUN 
+37T., NUM 
+Osteoclasts, PROPN 
+allowed, VERB 
+adhere, VERB 
+1, NUM 
+h, NOUN 
+
+, SPACE 
+37, NUM 
+°, NUM 
+C, NOUN 
+presence, NOUN 
+peptides, NOUN 
+final, ADJ 
+concentration, NOUN 
+800, NUM 
+
+, SPACE 
+p, PROPN 
+mmol, PROPN 
+L, PROPN 
+linear, PROPN 
+RGDIRGE, PROPN 
+500, NUM 
+nmol, NOUN 
+L, PROPN 
+cyclic, ADJ 
+RGDKistin, PROPN 
+Ad-, PROPN 
+
+, SPACE 
+hesion, NOUN 
+absente, NOUN 
+inhibitors, NOUN 
+taken, VERB 
+100, NUM 
+mean, PROPN 
+f, PROPN 
+
+, SPACE 
+SEM, PROPN 
+independent, ADJ 
+experiments, NOUN 
+p, NOUN 
+<, X 
+0.005, NUM 
+p, PROPN 
+<, X 
+0.001, NUM 
+
+, SPACE 
+p, NOUN 
+<, X 
+0.0001, NUM 
+Mw, PROPN 
+Whitney, PROPN 
+U, PROPN 
+test, NOUN 
+collagen, PROPN 
+25, NUM 
+reduction, NOUN 
+significant, ADJ 
+effect, NOUN 
+dena-, ADJ 
+
+, SPACE 
+tured, VERB 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+Osteoclast, ADJ 
+adhesion, NOUN 
+native, ADJ 
+fibrillar, ADJ 
+type, NOUN 
+
+, SPACE 
+1, NUM 
+collagen, NOUN 
+inhibited, VERB 
+RGD, PROPN 
+RGE, PROPN 
+peptides, NOUN 
+
+, SPACE 
+Figure, NOUN 
+2C, PROPN 
+Adhesion, NOUN 
+native, ADJ 
+denatured, VERB 
+types, NOUN 
+11, NUM 
+BI, PROPN 
+
+, SPACE 
+collagen, NOUN 
+RGD, PROPN 
+sensitive, ADJ 
+RGE, NOUN 
+sensitive, ADJ 
+data, NOUN 
+
+, SPACE 
+shown, VERB 
+
+, SPACE 
+Blocking, PROPN 
+Studies, PROPN 
+Anti, PROPN 
+Integrin, PROPN 
+Antibodies, PROPN 
+
+, SPACE 
+Antibodies, VERB 
+Bj, PROPN 
+Y, PROPN 
+failed, VERB 
+significantly, ADV 
+black, ADJ 
+adhesion, NOUN 
+
+, SPACE 
+native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+Figure, NOUN 
+3, NUM 
+singly, ADV 
+combina-, NOUN 
+
+, SPACE 
+tion, NOUN 
+Bi, PROPN 
+polyclonal, ADJ 
+antibody, NOUN 
+reduced, VERB 
+adhesion, NOUN 
+native, ADJ 
+type, NOUN 
+
+, SPACE 
+1, NUM 
+collagen, NOUN 
+>, X 
+60, NUM 
+B1, NOUN 
+monoclonal, NOUN 
+antibody, NOUN 
+>, X 
+80, NUM 
+with-, X 
+
+, SPACE 
+affecting, VERB 
+adhesion, NOUN 
+serum, VERB 
+coated, VERB 
+substrates, NOUN 
+FCS, NOUN 
+data, NOUN 
+
+, SPACE 
+shown, VERB 
+o2, ADJ 
+antibody, NOUN 
+virtually, ADV 
+abolished, VERB 
+binding, VERB 
+native, ADJ 
+
+, SPACE 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+Figure, NOUN 
+3A, PROPN 
+affecting, VERB 
+adhesion, NOUN 
+serum-, ADJ 
+
+, SPACE 
+coated, VERB 
+substrates, NOUN 
+FCS, NOUN 
+data, NOUN 
+shown, VERB 
+Combinations, NOUN 
+<, X 
+yZ, PROPN 
+Br, PROPN 
+
+, SPACE 
+B3, PROPN 
+antibodies, NOUN 
+additive, ADJ 
+effects, NOUN 
+combina-, NOUN 
+
+, SPACE 
+tions, NOUN 
+Y, PROPN 
+Br, PROPN 
+antibodies, VERB 
+absente, NOUN 
+OL$, PROPN 
+
+, SPACE 
+complex, ADJ 
+specific, ADJ 
+antibody, NOUN 
+significant, ADJ 
+additive, ADJ 
+effect, NOUN 
+
+, SPACE 
+denatured, VERB 
+collagen, NOUN 
+different, ADJ 
+mechanism, NOUN 
+adhesion, NOUN 
+
+, SPACE 
+observed, VERB 
+Figure, NOUN 
+3B, NOUN 
+B1, NOUN 
+cr2, NOUN 
+antibodies, NOUN 
+little, ADJ 
+
+, SPACE 
+inhibitory, ADJ 
+effect, NOUN 
+B3, ADJ 
+antibody, NOUN 
+completely, ADV 
+abolished, VERB 
+
+, SPACE 
+adhesion, NOUN 
+<, X 
+y, PROPN 
+antibody, NOUN 
+potent, ADJ 
+Ba, PROPN 
+combi-, PRON 
+
+, SPACE 
+nations, NOUN 
+Y, PROPN 
+Br, PROPN 
+additive, ADJ 
+effect, NOUN 
+
+, SPACE 
+contrast, NOUN 
+monomeric, ADJ 
+collagens, NOUN 
+osteoclast, ADJ 
+adhesion, NOUN 
+
+, SPACE 
+native, ADJ 
+fibrillar, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+inhibited, VERB 
+degree, NOUN 
+
+, SPACE 
+20, NUM 
+40, NUM 
+antibodies, NOUN 
+Y, NOUN 
+Ba, PROPN 
+Br, PROPN 
+Figure, PROPN 
+3C, PROPN 
+
+, SPACE 
+significant, ADJ 
+additive, ADJ 
+effects, NOUN 
+combination, NOUN 
+Bi, PROPN 
+B3, PROPN 
+
+, SPACE 
+antibodies, VERB 
+particular, ADJ 
+Br, PROPN 
+monoclonal, NOUN 
+antibody, NOUN 
+
+, SPACE 
+combination, NOUN 
+Y, PROPN 
+B3, PROPN 
+antibody, NOUN 
+completely, ADV 
+abolished, VERB 
+
+, SPACE 
+adhesion, NOUN 
+collagen, NOUN 
+fibers, NOUN 
+clear, ADJ 
+involvement, NOUN 
+c, PROPN 
+
+, SPACE 
+demonstrated, VERB 
+Possible, ADJ 
+explanations, NOUN 
+differ-, ADJ 
+
+, SPACE 
+ences, NOUN 
+native, ADJ 
+monomeric, ADJ 
+collagen, NOUN 
+type, NOUN 
+1, NUM 
+fibrillar, ADJ 
+
+, SPACE 
+collagen, NOUN 
+discussed, VERB 
+later, ADV 
+
+, SPACE 
+Collagen, PROPN 
+Binding, PROPN 
+Site, PROPN 
+
+, SPACE 
+clear, ADJ 
+results, NOUN 
+obtained, VERB 
+studies, NOUN 
+aimed, VERB 
+identify, VERB 
+
+, SPACE 
+binding, VERB 
+site, NOUN 
+collagen, NOUN 
+molecule, NOUN 
+single, ADJ 
+cyanogen, NOUN 
+bro-, NOUN 
+
+, SPACE 
+mide, NOUN 
+CB)-cleaved, ADJ 
+fragment, NOUN 
+ou,(I, PROPN 
+chain, NOUN 
+reproduced, VERB 
+bind-, ADJ 
+
+, SPACE 
+ing, ADJ 
+leve1, NOUN 
+seen, VERB 
+intact, ADJ 
+collagen, NOUN 
+best, ADJ 
+adhesion, NOUN 
+
+, SPACE 
+CB7, PROPN 
+fragment, NOUN 
+32, NUM 
+56, NUM 
+compared, VERB 
+FCS, PROPN 
+CB7, PROPN 
+adhesion, NOUN 
+
+, SPACE 
+strongly, ADV 
+inhibited, VERB 
+antibodies, NOUN 
+B3, PROPN 
+B1, NOUN 
+data, NOUN 
+
+, SPACE 
+shown, VERB 
+suggesting, VERB 
+binding, VERB 
+site, NOUN 
+involved, VERB 
+adhe-, ADJ 
+
+, SPACE 
+sion, NOUN 
+intact, ADJ 
+collagen, NOUN 
+molecule, NOUN 
+
+, SPACE 
+Absente, PROPN 
+adhesion, NOUN 
+CB3, PROPN 
+fragment, NOUN 
+reported, VERB 
+contain, VERB 
+
+, SPACE 
+platelet, PROPN 
+ci2, NOUN 
+integrin, PROPN 
+recognition, NOUN 
+site, NOUN 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+unexpected, ADJ 
+blocking, NOUN 
+collagen, NOUN 
+adhesion, NOUN 
+DGEA-, NOUN 
+
+, SPACE 
+containing, VERB 
+peptides, NOUN 
+nominally, ADV 
+active, ADJ 
+DGEA, NOUN 
+containing, VERB 
+
+, SPACE 
+negative, ADJ 
+control, NOUN 
+DGE, PROPN 
+peptide, NOUN 
+Materials, PROPN 
+
+, SPACE 
+Methods, PROPN 
+sequence, NOUN 
+concentrations, NOUN 
+Erom, PROPN 
+3, NUM 
+mmol, PROPN 
+L, PROPN 
+
+, SPACE 
+25, NUM 
+mmol, PROPN 
+L, PROPN 
+support, VERB 
+specific, ADJ 
+recognition, NOUN 
+site, NOUN 
+
+, SPACE 
+DGEA, NOUN 
+DGE, PROPN 
+peptide, NOUN 
+inhibiting, VERB 
+osteoclast, ADJ 
+
+, SPACE 
+adhesion, NOUN 
+50, NUM 
+
+, SPACE 
+view, NOUN 
+poor, ADJ 
+adhesion, NOUN 
+a,(I)-chain, VERB 
+CB, NOUN 
+fragments, NOUN 
+
+, SPACE 
+comparisons, NOUN 
+adhesive, ADJ 
+properties, NOUN 
+a,(I, PROPN 
+q(I, PROPN 
+
+, SPACE 
+chains, NOUN 
+chains, NOUN 
+behaved, VERB 
+identically, ADV 
+60, NUM 
+
+, SPACE 
+adhesion, NOUN 
+compared, VERB 
+intact, ADJ 
+native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+tested, VERB 
+native, ADJ 
+homotrimeric, ADJ 
+denatured, VERB 
+forms, NOUN 
+
+, SPACE 
+similar, ADJ 
+effects, NOUN 
+Br, PROPN 
+B3, PROPN 
+antibodies, VERB 
+noted, VERB 
+parent, NOUN 
+
+, SPACE 
+collagen, NOUN 
+data, NOUN 
+shown, VERB 
+
+, SPACE 
+322, NUM 
+M., PROPN 
+H., PROPN 
+Helt’rich, PROPN 
+et, PROPN 
+al, PROPN 
+Btrnc, PROPN 
+Vul, PROPN 
+19, NUM 
+-1, PROPN 
+
+, SPACE 
+l3, PROPN 
+integrins, NOUN 
+osteoclast, ADJ 
+t’uncl, NOUN 
+~, PUNCT 
+n, CCONJ 
+October, PROPN 
+1996:3, NUM 
+I7-‘1X, NOUN 
+
+, SPACE 
+EO-, NOUN 
+
+, SPACE 
+60-, PROPN 
+
+, SPACE 
+40-, NUM 
+
+, SPACE 
+20, NUM 
+
+, SPACE 
+o-, PROPN 
+
+, SPACE 
+B3, PROPN 
+av, PROPN 
+av, PROPN 
+pl, PROPN 
+nv, PROPN 
+l31, VERB 
+I31, PROPN 
+a2, PROPN 
+61, NUM 
+a2, PROPN 
+I3l, PROPN 
+
+, SPACE 
++, PROPN 
+P3, PROPN 
++, PROPN 
+p1, PROPN 
++, SYM 
+p3, PROPN 
++, PROPN 
+a2, PROPN 
++, SYM 
+p3, PROPN 
++, PROPN 
+P3, PROPN 
+
+, SPACE 
+l, NOUN 
+polyclonal, ADJ 
+p1, PROPN 
+l, NOUN 
+c-, X 
+monoclonal, NOUN 
+pl, ADP 
+P, NOUN 
+
+, SPACE 
+native, ADJ 
+type, NOUN 
+collagen, VERB 
+
+, SPACE 
+160, NUM 
+
+, SPACE 
+B, NOUN 
+
+, SPACE 
+140, NUM 
+
+, SPACE 
+120-, NUM 
+
+, SPACE 
+166-, PUNCT 
+
+, SPACE 
+60-, X 
+
+, SPACE 
+60-, NUM 
+
+, SPACE 
+40-, NUM 
+
+, SPACE 
+20-, NUM 
+
+, SPACE 
+OJA, PROPN 
+
+, SPACE 
+
+, SPACE 
+B3, PROPN 
+av, PROPN 
+pt, PROPN 
+av, PROPN 
+I3, PROPN 
+t, PROPN 
+a2, PROPN 
+61, NUM 
+a2, NOUN 
+PI, PROPN 
+
+, SPACE 
++, ADJ 
+Pt, PROPN 
++, PROPN 
+a2, PROPN 
++, PROPN 
+I33, PROPN 
++83, PROPN 
+
+, SPACE 
+tpolyclorul61, PROPN 
+r, NOUN 
+monoclonal, NOUN 
+Bi, PROPN 
++, CCONJ 
+
+, SPACE 
+denetured, VERB 
+type, NOUN 
+collagen, VERB 
+
+, SPACE 
+160-, NUM 
+
+, SPACE 
+C, NOUN 
+
+, SPACE 
+140-, NUM 
+
+, SPACE 
+83, NUM 
+av, NOUN 
+av, PROPN 
+PI, PROPN 
+av, PROPN 
+61, NUM 
+PI, PROPN 
+a2, PROPN 
+BI, PROPN 
+a2, PROPN 
+61, NUM 
+
+, SPACE 
++, PROPN 
+I33, PROPN 
++, PROPN 
+p1, PROPN 
++, SYM 
+p3, PROPN 
++, PROPN 
+a2, PROPN 
++, SYM 
+p3, PROPN 
++, PROPN 
+p3, PROPN 
+
+, SPACE 
+cpolyclcd, PROPN 
+p1, PROPN 
++, NUM 
+monoclonal, NOUN 
+p14, NOUN 
+
+, SPACE 
+type, NOUN 
+fibers, VERB 
+fully, ADV 
+investigate, VERB 
+biochemical, ADJ 
+nature, NOUN 
+collagen, NOUN 
+bind-, X 
+
+, SPACE 
+ing, PROPN 
+integrins, VERB 
+osteoclast, ADJ 
+membranes, NOUN 
+confirm, VERB 
+associa-, ADJ 
+
+, SPACE 
+tion, NOUN 
+subunits, NOUN 
+affinity, NOUN 
+chromatography, NOUN 
+experiments, NOUN 
+
+, SPACE 
+collagen, NOUN 
+columns, NOUN 
+performed, VERB 
+eluted, ADJ 
+proteins, NOUN 
+assessed, VERB 
+
+, SPACE 
+immunoprecipitation, NOUN 
+antibodies, NOUN 
+cx2, NOUN 
+l3, PROPN 
+cy, PROPN 
+in-, ADJ 
+
+, SPACE 
+tegrins, NOUN 
+Figure, NOUN 
+4, NUM 
+experiments, NOUN 
+purified, VERB 
+human, ADJ 
+
+, SPACE 
+osteoclast, ADJ 
+plasma, NOUN 
+membranes, NOUN 
+isolated, VERB 
+osteoclastoma, PROPN 
+dc-, PROPN 
+
+, SPACE 
+scribed, VERB 
+Nesbitt, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Osteoclast, ADJ 
+l3, NOUN 
+01~, PROPN 
+integrins, VERB 
+bound, VERB 
+native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+presence, NOUN 
+3, NUM 
+mmol, PROPN 
+L, PROPN 
+Mg, PROPN 
+3, NUM 
+mmol, PROPN 
+L, NOUN 
+Ca2, NOUN 
+
+, SPACE 
+presence, NOUN 
+receptors, NOUN 
+bound, VERB 
+aftïnity, NOUN 
+results, NOUN 
+
+, SPACE 
+obtained, VERB 
+presence, NOUN 
+Mg’+, NOUN 
+illustrated, VERB 
+l3, NOUN 
+immu-, X 
+
+, SPACE 
+noprecipitated, VERB 
+broad, ADJ 
+band, NOUN 
+apparent, ADJ 
+molecular, ADJ 
+mass, NOUN 
+
+, SPACE 
+110, NUM 
+130, NUM 
+kDa, PROPN 
+Figure, PROPN 
+JA, PROPN 
+lane, NOUN 
+4, NUM 
+band, NOUN 
+
+, SPACE 
+associated, VERB 
+weaker, ADJ 
+band, NOUN 
+higher, ADJ 
+molecular, ADJ 
+mass, NOUN 
+
+, SPACE 
+comparable, ADJ 
+mobility, NOUN 
+oZ, NUM 
+160, NUM 
+kDa, NOUN 
+Figure, PROPN 
+4A, PROPN 
+lane, NOUN 
+
+, SPACE 
+3, NUM 
+Osteoclast, PROPN 
+olv, NOUN 
+showed, VERB 
+little, ADJ 
+affinity, NOUN 
+native, ADJ 
+type, NOUN 
+1, NUM 
+colla-, NOUN 
+
+, SPACE 
+gen, PROPN 
+faint, ADJ 
+band, NOUN 
+detected, VERB 
+molecular, ADJ 
+mass, NOUN 
+90, NUM 
+kDa, NOUN 
+
+, SPACE 
+mobility, NOUN 
+expected, VERB 
+pq, PROPN 
+Figure, PROPN 
+4A, PROPN 
+lane, NOUN 
+2, NUM 
+
+, SPACE 
+Osteoclast, PROPN 
+Y\,P~, PROPN 
+showed, VERB 
+affinity, NOUN 
+native, ADJ 
+type, NOUN 
+1, NUM 
+co-, NOUN 
+
+, SPACE 
+lagen, NOUN 
+approximately, ADV 
+equal, ADJ 
+amounts, NOUN 
+o, PROPN 
+p7, PROPN 
+q, NOUN 
+p, NOUN 
+
+, SPACE 
+integrins, AUX 
+bound, VERB 
+Figure, NOUN 
+4C, PROPN 
+Antibodies, VERB 
+oZ, ADJ 
+l3, PROPN 
+
+, SPACE 
+integrins, VERB 
+immunoprecipitated, VERB 
+comparable, ADJ 
+amounts, NOUN 
+receptor, NOUN 
+
+, SPACE 
+eluates, NOUN 
+denatured, ADJ 
+native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+columns, NOUN 
+
+, SPACE 
+Figures, PROPN 
+4A, PROPN 
+vs., X 
+4C., NUM 
+lanes, NOUN 
+3, NUM 
+4, NUM 
+
+, SPACE 
+similar, ADJ 
+pattern, NOUN 
+integrin, PROPN 
+binding, NOUN 
+found, VERB 
+native, ADJ 
+
+, SPACE 
+type, NOUN 
+IV, PROPN 
+collagen, NOUN 
+higher, ADJ 
+levels, NOUN 
+CY$, NUM 
+data, NOUN 
+
+, SPACE 
+shown, VERB 
+
+, SPACE 
+Recognition, PROPN 
+Collagen, PROPN 
+Purified, PROPN 
+Recombinant, PROPN 
+Human, PROPN 
+
+, SPACE 
+Y, PROPN 
+P_~, PROPN 
+Receptor, PROPN 
+
+, SPACE 
+Recombinant, PROPN 
+aJ3, NOUN 
+aJ3, NOUN 
+expressing, VERB 
+cel1, NOUN 
+lines4,x, PROPN 
+
+, SPACE 
+collagen, NOUN 
+adhesion, NOUN 
+assays, NOUN 
+be-, X 
+
+, SPACE 
+cause, VERB 
+parental, ADJ 
+strain, NOUN 
+transfection, NOUN 
+293, NUM 
+renal, ADJ 
+epithe-, NOUN 
+
+, SPACE 
+hal, PROPN 
+cells, NOUN 
+binds, VERB 
+collagen, NOUN 
+pre, ADJ 
+existing, ADJ 
+expressed, VERB 
+I3, PROPN 
+inte-, NOUN 
+
+, SPACE 
+grins, NOUN 
+o, NOUN 
+oJ3, NOUN 
+oiJ, ADJ 
+solid, ADJ 
+phase, NOUN 
+assay, VERB 
+
+, SPACE 
+purified, VERB 
+recombinant, ADJ 
+human, ADJ 
+receptor, NOUN 
+available, ADJ 
+
+, SPACE 
+examine, VERB 
+involvement, NOUN 
+receptor, NOUN 
+recognition, NOUN 
+
+, SPACE 
+denatured, VERB 
+collagen, NOUN 
+Table, NOUN 
+3, NUM 
+Binding, VERB 
+VNR, PROPN 
+denatured, VERB 
+
+, SPACE 
+collagen, NOUN 
+25, NUM 
+control, NOUN 
+binding, VERB 
+vitronectin, NOUN 
+
+, SPACE 
+times, NOUN 
+high, ADJ 
+binding, VERB 
+native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+sensitive, ADJ 
+
+, SPACE 
+inhibition, NOUN 
+RGD, PROPN 
+containing, VERB 
+peptides, NOUN 
+>, X 
+90, NUM 
+reduction, NOUN 
+
+, SPACE 
+binding, VERB 
+p, PROPN 
+<, X 
+O.OOl, PROPN 
+expected, VERB 
+cx,&integrin, PROPN 
+
+, SPACE 
+mediated, VERB 
+event, NOUN 
+
+, SPACE 
+Resorption, PROPN 
+As.sa)s, PROPN 
+
+, SPACE 
+Preliminary, ADJ 
+experiments, NOUN 
+function, NOUN 
+blocking, VERB 
+polyclonal, ADJ 
+an-, X 
+
+, SPACE 
+tibody, NOUN 
+rat, VERB 
+I3, PROPN 
+showed, VERB 
+inhibition, NOUN 
+resorption, NOUN 
+pit, NOUN 
+assay, VERB 
+
+, SPACE 
+data, NOUN 
+shown, VERB 
+greater, ADJ 
+availability, NOUN 
+blocking, VERB 
+
+, SPACE 
+Figure, PROPN 
+3, NUM 
+Inhibition, NOUN 
+rat, NOUN 
+osteoclast, ADJ 
+adhesion, NOUN 
+collagen, NOUN 
+type, NOUN 
+1, NUM 
+
+, SPACE 
+anti, ADJ 
+integrin, ADJ 
+antibodies, NOUN 
+Collagens, PROPN 
+coated, VERB 
+Figure, PROPN 
+2, NUM 
+Osteo-, PROPN 
+
+, SPACE 
+clasts, NOUN 
+allowed, VERB 
+adhere, VERB 
+presence, NOUN 
+antibodies, NOUN 
+1, NUM 
+h, NOUN 
+37, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+adherent, NOUN 
+cells, NOUN 
+fixed, VERB 
+Antibodies, NOUN 
+con-, NOUN 
+
+, SPACE 
+centration, NOUN 
+50, NUM 
+kg, NOUN 
+mL, PROPN 
+p, PROPN 
+polyclonal, PROPN 
+OL, PROPN 
+10, NUM 
+@mL, NOUN 
+p3, PROPN 
+0~~., NUM 
+
+, SPACE 
+PI, PROPN 
+monoclonals, NOUN 
+Adhesion, NOUN 
+absente, NOUN 
+inhibitors, NOUN 
+taken, VERB 
+
+, SPACE 
+100, NUM 
+Shown, VERB 
+mean, PROPN 
+f, PROPN 
+SEM, PROPN 
+independent, ADJ 
+experi-, NOUN 
+
+, SPACE 
+men, NOUN 
+p, NOUN 
+<, X 
+0.01, NUM 
+p, X 
+<, X 
+0.005, NUM 
+vs., ADP 
+antibody, NOUN 
+Mann, PROPN 
+Whitney, PROPN 
+U, PROPN 
+test, NOUN 
+
+, SPACE 
+Bone, PROPN 
+Vol, PROPN 
+19, NUM 
+4, NUM 
+
+, SPACE 
+October, PROPN 
+1996:317, NUM 
+328, NUM 
+M., PROPN 
+H., PROPN 
+Helfrich, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+B, PROPN 
+integrins, NOUN 
+osteoclast, ADJ 
+function, NOUN 
+323, NUM 
+
+, SPACE 
+1116, NUM 
+
+, SPACE 
+97, NUM 
+
+, SPACE 
+66, NUM 
+
+, SPACE 
+45, NUM 
+
+, SPACE 
+445, NUM 
+
+, SPACE 
+.d, NOUN 
+
+, SPACE 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+
+, SPACE 
+Figure, NOUN 
+4, NUM 
+Immunoprecipitation, NOUN 
+analysis, NOUN 
+native, ADJ 
+denatured, VERB 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+binding, VERB 
+integrins, NOUN 
+purified, ADJ 
+human, ADJ 
+osteoclast, ADJ 
+membranes, NOUN 
+Adhesion, NOUN 
+
+, SPACE 
+proteins, NOUN 
+isolated, VERB 
+purified, ADJ 
+osteoclast, ADJ 
+membranes, NOUN 
+affinity, NOUN 
+chromatography, NOUN 
+native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+presence, NOUN 
+3, NUM 
+mmol, PROPN 
+L, PROPN 
+Mg2, ADV 
++, CCONJ 
+
+, SPACE 
+denatured, VERB 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+negative, ADJ 
+control, NOUN 
+BSA, PROPN 
+column, NOUN 
+B, NOUN 
+EDTA, PROPN 
+eluted, VERB 
+proteins, NOUN 
+immunoprecipitated, VERB 
+antibody, NOUN 
+normal, ADJ 
+mouse, NOUN 
+
+, SPACE 
+serum, NOUN 
+lane, NOUN 
+1, NUM 
+23C6, NUM 
+CU, PROPN 
+lane2, PROPN 
+HAS-6, PROPN 
+cw,,lane, NOUN 
+3, NUM 
+K20, PROPN 
+B,,lane, NOUN 
+4, NUM 
+Al1, PROPN 
+immunoprecipitates, NOUN 
+run, VERB 
+nonreduced, VERB 
+1, NUM 
+h, NOUN 
+7.5, NUM 
+
+, SPACE 
+polyacrylamide, NOUN 
+SDS, NOUN 
+gel, NOUN 
+immunoblotted, VERB 
+probed, VERB 
+streptavidin, ADJ 
+horseradish, ADJ 
+peroxidase, NOUN 
+1:2000, NUM 
+dilution, NOUN 
+signal, NOUN 
+developed, VERB 
+ECL, PROPN 
+blots, NOUN 
+
+, SPACE 
+exposed, VERB 
+film, VERB 
+1, NUM 
+h., NOUN 
+Molecular, ADJ 
+mass, NOUN 
+indicated, VERB 
+kilodaltons, NOUN 
+Asterisk, PROPN 
+indicates, VERB 
+nonspecific, ADJ 
+immunoglobulin, PROPN 
+band, NOUN 
+
+, SPACE 
+antibodies, VERB 
+humans, NOUN 
+extensive, ADJ 
+studies, NOUN 
+car-, X 
+
+, SPACE 
+ried, VERB 
+species, NOUN 
+Antibodies, VERB 
+p, NOUN 
+oa, PRON 
+inhibited, VERB 
+resorp-, VERB 
+
+, SPACE 
+tion, NOUN 
+human, ADJ 
+osteoclasts, NOUN 
+pit, NOUN 
+assay, NOUN 
+>, X 
+40, NUM 
+Figure, NOUN 
+5, NUM 
+
+, SPACE 
+experiments, NOUN 
+performed, VERB 
+times, NOUN 
+osteoclasts, NOUN 
+
+, SPACE 
+different, ADJ 
+osteoclastoma, ADJ 
+tumors, NOUN 
+al1, ADJ 
+experiments, NOUN 
+
+, SPACE 
+anti, ADJ 
+VNR, ADJ 
+antibody, NOUN 
+RGD, PROPN 
+peptide, NOUN 
+inhibited, VERB 
+resorption, NOUN 
+
+, SPACE 
+significantly, ADV 
+>, X 
+80, NUM 
+Figure, PROPN 
+5, NUM 
+significant, ADJ 
+differ-, ADJ 
+
+, SPACE 
+ences, NOUN 
+osteoclast, ADJ 
+numbers, NOUN 
+presence, NOUN 
+pi, NOUN 
+o2, PROPN 
+com-, NOUN 
+
+, SPACE 
+pared, VERB 
+controls, NOUN 
+results, NOUN 
+shown, VERB 
+parallel, ADJ 
+experiments, NOUN 
+
+, SPACE 
+l3, PROPN 
+integrin, PROPN 
+antibodies, VERB 
+resulted, VERB 
+significant, ADJ 
+inhibition, NOUN 
+
+, SPACE 
+resorption, NOUN 
+mouse, NOUN 
+rabbit, NOUN 
+osteoclasts, NOUN 
+results, NOUN 
+shown, VERB 
+
+, SPACE 
+Lacalization, NOUN 
+p, NOUN 
+p3, PROPN 
+Integrins, PROPN 
+Human, PROPN 
+Osteoclasts, PROPN 
+
+, SPACE 
+localization, NOUN 
+l3, NOUN 
+p3, PROPN 
+integrins, VERB 
+studied, VERB 
+confocal, ADJ 
+
+, SPACE 
+microscopy, NOUN 
+resorbing, VERB 
+human, ADJ 
+osteoclasts, NOUN 
+staining, NOUN 
+pattems, NOUN 
+
+, SPACE 
+observed, VERB 
+identical, ADJ 
+human, ADJ 
+fetal, ADJ 
+osteoclastoma-, X 
+
+, SPACE 
+derived, VERB 
+osteoclasts, NOUN 
+summarized, VERB 
+Table, PROPN 
+4, NUM 
+nonre-, ADJ 
+
+, SPACE 
+sorbing, VERB 
+osteoclasts, NOUN 
+pi, PROPN 
+o2, ADJ 
+integrin, NOUN 
+subunits, NOUN 
+colo-, AUX 
+
+, SPACE 
+calized, VERB 
+F, PROPN 
+actin, NOUN 
+podosomes, NOUN 
+focal, ADJ 
+accumulations, NOUN 
+F-, PROPN 
+
+, SPACE 
+Table, PROPN 
+3, NUM 
+Inhibition, NOUN 
+binding, NOUN 
+recombinant, ADJ 
+human, PROPN 
+o., PROPN 
+,Ba, PUNCT 
+receptor, NOUN 
+
+, SPACE 
+native, ADJ 
+denatured, VERB 
+rat, PROPN 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+RGD, PROPN 
+containing, VERB 
+
+, SPACE 
+peptides, NOUN 
+
+, SPACE 
+Binding, VERB 
+type, VERB 
+1, NUM 
+collagen, NOUN 
+
+, SPACE 
+Inhibitor, PROPN 
+Nativeb, PROPN 
+Denaturedb, PROPN 
+
+, SPACE 
+Ni1, PROPN 
+0.39, NUM 
+f, PROPN 
+0.27, NUM 
+1.01, NUM 
++, NUM 
+0.21, NUM 
+
+, SPACE 
+Cyclic, PROPN 
+RGD, PROPN 
+0.06, NUM 
++, NUM 
+0.02, NUM 
+0.03, NUM 
++, NUM 
+0.01, NUM 
+
+, SPACE 
+Kistrin, PROPN 
+0.07, NUM 
++, CCONJ 
+0.04, NUM 
+0.04, NUM 
++, NUM 
+0.01, NUM 
+
+, SPACE 
+Receptor, NOUN 
+binding, NOUN 
+meaaured, VERB 
+OD, PROPN 
+expressed, VERB 
+mean, NOUN 
+f, PROPN 
+SEM, PROPN 
+
+, SPACE 
+independent, ADJ 
+experiments, NOUN 
+mean, VERB 
+control, NOUN 
+binding, VERB 
+vitronectin, PROPN 
+
+, SPACE 
+0D4scnm, NOUN 
+=, SYM 
+4.0, NUM 
+
+, SPACE 
+bNative, PROPN 
+denatured, VERB 
+collagen, NOUN 
+heated, VERB 
+60, NUM 
+°, NOUN 
+C, NOUN 
+30, NUM 
+min, NOUN 
+coated, VERB 
+
+, SPACE 
+20, NUM 
+p, NOUN 
+g, PROPN 
+mL, PROPN 
+PBS, PROPN 
+
+, SPACE 
+p, NOUN 
+<, X 
+0.001, NUM 
+vs., ADP 
+adhesion, NOUN 
+absente, NOUN 
+inhibitor, NOUN 
+Mann, PROPN 
+Whitney, PROPN 
+U, PROPN 
+test, NOUN 
+actin, NOUN 
+Figure, NOUN 
+6A, NOUN 
+37354, NUM 
+i.e., X 
+formed, VERB 
+ring, NOUN 
+centra1, NOUN 
+
+, SPACE 
+F, PROPN 
+actin, NOUN 
+core, NOUN 
+Table, NOUN 
+4, NUM 
+panel, NOUN 
+Figure, PROPN 
+6B, NOUN 
+mem-, ADJ 
+
+, SPACE 
+brane, ADJ 
+staining, NOUN 
+al1, PROPN 
+integrin, PROPN 
+subunits, NOUN 
+basolateral, ADJ 
+mem-, NOUN 
+
+, SPACE 
+brane, NOUN 
+intracellular, ADJ 
+staining, NOUN 
+Figures, NOUN 
+6C, PROPN 
+F, PROPN 
+
+, SPACE 
+pi, PROPN 
+subunit, NOUN 
+expressed, VERB 
+al1, PROPN 
+cel1, PROPN 
+types, NOUN 
+found, VERB 
+bone, NOUN 
+
+, SPACE 
+cel1, NOUN 
+cultures, NOUN 
+o2, PROPN 
+subunits, NOUN 
+VNR, PROPN 
+found, VERB 
+exclusively, ADV 
+
+, SPACE 
+osteoclasts, NOUN 
+resorbing, VERB 
+osteoclasts, NOUN 
+o2, PROPN 
+p, NOUN 
+VNR, PROPN 
+
+, SPACE 
+found, VERB 
+basolateral, ADJ 
+membranes, NOUN 
+undetectable, ADJ 
+
+, SPACE 
+120, NUM 
+1, NUM 
+
+, SPACE 
+Nil, PROPN 
+Echi-, ADJ 
+a@3, ADJ 
+83, NUM 
+ccv, NOUN 
+Bl, PROPN 
+a2, PROPN 
+Cr2, NOUN 
+az+fH, NOUN 
+
+, SPACE 
+stain, NOUN 
+PlE6, PROPN 
+Wl8, NOUN 
+
+, SPACE 
+inhibitor, NOUN 
+
+, SPACE 
+Figure, PROPN 
+5, NUM 
+Inhibition, NOUN 
+osteoclast, ADJ 
+activity, NOUN 
+anti, ADJ 
+integrin, ADJ 
+antibodies, NOUN 
+
+, SPACE 
+Human, ADJ 
+osteoclastoma, ADJ 
+osteoclasts, NOUN 
+settled, VERB 
+dentine, NOUN 
+slices, NOUN 
+nonad-, NUM 
+
+, SPACE 
+herent, NOUN 
+cells, NOUN 
+removed, VERB 
+2, NUM 
+h, NOUN 
+slices, NOUN 
+adherent, NOUN 
+cells, NOUN 
+cultured, VERB 
+
+, SPACE 
+48, NUM 
+h, NOUN 
+presence, NOUN 
+inhibitors, NOUN 
+indicated, VERB 
+Cells, NOUN 
+fixed, VERB 
+stained, VERB 
+
+, SPACE 
+tartrate, NOUN 
+resistant, ADJ 
+acid, NOUN 
+phophatase, NOUN 
+osteoclasts, NOUN 
+counted, VERB 
+cells, NOUN 
+
+, SPACE 
+removed, VERB 
+pits, NOUN 
+stained, VERB 
+toluidine, NOUN 
+blue, ADJ 
+counted, VERB 
+Osteoclast, ADJ 
+
+, SPACE 
+activity, NOUN 
+expressed, VERB 
+pits, NOUN 
+formed, VERB 
+osteoclast, NOUN 
+Control, NOUN 
+resorption, NOUN 
+
+, SPACE 
+activity, NOUN 
+0.89, NUM 
++, NUM 
+0.32, NUM 
+pits, NOUN 
+osteoclast, ADJ 
+Inhibitors, NOUN 
+final, ADJ 
+
+, SPACE 
+concentration, NOUN 
+500, NUM 
+nmol, NOUN 
+L, PROPN 
+Echistatin, PROPN 
+50, NUM 
+p, NOUN 
+g, PROPN 
+Ig, PROPN 
+mL, PROPN 
+antibodies, NOUN 
+
+, SPACE 
+M., PROPN 
+H., PROPN 
+Helfrich, PROPN 
+et, PROPN 
+al, PROPN 
+Botte, PROPN 
+Vol, PROPN 
+19, NUM 
+
+, SPACE 
+B, PROPN 
+integrins, NOUN 
+osteoclast, ADJ 
+functton, PROPN 
+October, PROPN 
+l996:3, VERB 
+17, NUM 
+12X, NUM 
+
+, SPACE 
+Table, NOUN 
+4, NUM 
+Colocalization, NOUN 
+integrin, NOUN 
+F, PROPN 
+actin, PROPN 
+
+, SPACE 
+Yc, PROPN 
+II, PROPN 
+8, NUM 
+n, NUM 
+n, NOUN 
+YC, NOUN 
+n, NOUN 
+
+, SPACE 
+51, NUM 
+7, NUM 
+23, NUM 
+22, NUM 
+0, NUM 
+9, NUM 
+89, NUM 
+9, NUM 
+
+, SPACE 
+p1, PROPN 
+
+, SPACE 
+4, NUM 
+6, NUM 
+5, NUM 
+21, NUM 
+0, NUM 
+23, NUM 
+96, NUM 
+23, NUM 
+
+, SPACE 
+Pi, PROPN 
+7, NUM 
+26, NUM 
+27, NUM 
+0, NUM 
+20, NUM 
+90, NUM 
+20, NUM 
+
+, SPACE 
+Shown, PROPN 
+percentage, NOUN 
+osteoclasts, NOUN 
+showing, VERB 
+colocalized, VERB 
+staining, NOUN 
+
+, SPACE 
+F, PROPN 
+actin, NOUN 
+integrin, NOUN 
+number, NOUN 
+osteoclasts, NOUN 
+scanned, VERB 
+detail, NOUN 
+
+, SPACE 
+confocal, ADJ 
+mode, NOUN 
+indicated, VERB 
+parentheses, NOUN 
+30, NUM 
+osteoclasts, NOUN 
+
+, SPACE 
+exarnined, VERB 
+category, NOUN 
+nonconfocal, ADJ 
+mode, NOUN 
+showing, VERB 
+
+, SPACE 
+integrin, NOUN 
+distribution, NOUN 
+
+, SPACE 
+sealing, VERB 
+zone, NOUN 
+Table, NOUN 
+4, NUM 
+panels, NOUN 
+B, NOUN 
+C, PROPN 
+Figures, NOUN 
+6C, PROPN 
+F, NOUN 
+1, NUM 
+
+, SPACE 
+Strong, ADJ 
+staining, NOUN 
+observed, VERB 
+ruffled, ADJ 
+border, NOUN 
+
+, SPACE 
+staining, NOUN 
+closely, ADV 
+following, VERB 
+contours, NOUN 
+resorption, NOUN 
+
+, SPACE 
+pit, NOUN 
+Figure, NOUN 
+7, NUM 
+Colocalization, NOUN 
+actin, NOUN 
+binding, VERB 
+cytoskeletal, ADJ 
+pro-, NOUN 
+
+, SPACE 
+teins, NOUN 
+sealing, NOUN 
+zone, NOUN 
+detected, VERB 
+illustrated, VERB 
+vinculin, PROPN 
+
+, SPACE 
+gelsolin, PROPN 
+Figures, NOUN 
+6, NUM 
+G, NOUN 
+H, PROPN 
+
+, SPACE 
+Discussion, PROPN 
+
+, SPACE 
+role, NOUN 
+B, NOUN 
+integrins, VERB 
+adhesion, NOUN 
+resorption, NOUN 
+examined, VERB 
+
+, SPACE 
+osteoclasts, NOUN 
+number, NOUN 
+species, NOUN 
+data, NOUN 
+shown, VERB 
+mainly, ADV 
+i’or, PROPN 
+human, ADJ 
+rat, NOUN 
+cells, NOUN 
+adhesion, NOUN 
+assay, VERB 
+rat, NOUN 
+
+, SPACE 
+osteoclasts, NOUN 
+wel1, PROPN 
+established, VERB 
+‘“~, X 
+Sufficient, ADJ 
+osteoclasts, NOUN 
+
+, SPACE 
+reproducibly, ADV 
+obtained, VERB 
+test, VERB 
+variety, NOUN 
+substrates, NOUN 
+inhibi-, ADJ 
+
+, SPACE 
+tors, NOUN 
+experiment, NOUN 
+adhesion, NOUN 
+rat, NOUN 
+osteoclasts, NOUN 
+
+, SPACE 
+rapid, ADJ 
+allowing, VERB 
+short, ADJ 
+incubation, NOUN 
+times, NOUN 
+minimizing, VERB 
+
+, SPACE 
+nonspecific, ADJ 
+effects, NOUN 
+biochemical, ADJ 
+analyses, NOUN 
+
+, SPACE 
+larger, ADJ 
+numbers, NOUN 
+cells, NOUN 
+required, VERB 
+osteoclastoma, PROPN 
+tumor, NOUN 
+tissue, NOUN 
+
+, SPACE 
+addition, NOUN 
+greater, ADJ 
+availability, NOUN 
+re-, ADJ 
+
+, SPACE 
+agents, NOUN 
+demonstration, NOUN 
+blocking, NOUN 
+integrin, PROPN 
+subunits, NOUN 
+
+, SPACE 
+human, ADJ 
+model, NOUN 
+functional, ADJ 
+al1, ADJ 
+immunolocalization, NOUN 
+stud-, VERB 
+
+, SPACE 
+ies, NOUN 
+carried, VERB 
+human, ADJ 
+osteoclasts, NOUN 
+
+, SPACE 
+Bone, NOUN 
+resorption, NOUN 
+human, ADJ 
+osteoclasts, NOUN 
+inhibited, VERB 
+signifi-, NOUN 
+
+, SPACE 
+cantly, ADV 
+presence, NOUN 
+antibodies, NOUN 
+B, PROPN 
+CQ, PROPN 
+subunits, NOUN 
+To-, X 
+
+, SPACE 
+gether, NOUN 
+finding, NOUN 
+significant, ADJ 
+inhibition, NOUN 
+bone, NOUN 
+resorp-, VERB 
+
+, SPACE 
+tion, NOUN 
+obtained, VERB 
+rat, NOUN 
+B, PROPN 
+polyclonal, ADJ 
+antibody, NOUN 
+
+, SPACE 
+mouse, NOUN 
+rabbit, NOUN 
+B, PROPN 
+antibodies, VERB 
+shows, VERB 
+in-, ADP 
+
+, SPACE 
+tegrins, NOUN 
+important, ADJ 
+osteoclast, ADJ 
+function, NOUN 
+
+, SPACE 
+Despite, SCONJ 
+involvement, NOUN 
+B, PROPN 
+shown, VERB 
+numerous, ADJ 
+
+, SPACE 
+studies, NOUN 
+previously, ADV 
+u\, PROPN 
+integrins, NOUN 
+osteoclastic, ADJ 
+bone, NOUN 
+resorption, NOUN 
+
+, SPACE 
+found, VERB 
+evidente, NOUN 
+localization, NOUN 
+studies, NOUN 
+presence, NOUN 
+B, PROPN 
+
+, SPACE 
+o2, PROPN 
+integrin, NOUN 
+subunits, NOUN 
+Y$~, PROPN 
+complex, NOUN 
+sealing, NOUN 
+
+, SPACE 
+zone, NOUN 
+resorbing, VERB 
+human, ADJ 
+osteoclasts, NOUN 
+High, ADJ 
+levels, NOUN 
+B, PROPN 
+CY, PROPN 
+
+, SPACE 
+seen, VERB 
+basolateral, ADJ 
+membrane, NOUN 
+ruffled, ADJ 
+
+, SPACE 
+border, NOUN 
+sealing, NOUN 
+zone, NOUN 
+structure, NOUN 
+believed, VERB 
+
+, SPACE 
+important, ADJ 
+maintaining, VERB 
+integrity, NOUN 
+resorption, NOUN 
+
+, SPACE 
+compartment, NOUN 
+findings, NOUN 
+agreement, NOUN 
+number, NOUN 
+
+, SPACE 
+earlier, ADJ 
+reports, NOUN 
+chick, NOUN 
+rat, NOUN 
+mouse,35.36.38, PROPN 
+contrast, NOUN 
+
+, SPACE 
+findings, NOUN 
+Reinholt, PROPN 
+et, PROPN 
+a1.45, PROPN 
+reported, VERB 
+localization, NOUN 
+
+, SPACE 
+VNR, PROPN 
+sealing, NOUN 
+zone, NOUN 
+rat, NOUN 
+osteoclasts, NOUN 
+Neff, PROPN 
+et, PROPN 
+a14, NOUN 
+
+, SPACE 
+found, VERB 
+Y, NOUN 
+B, NOUN 
+sealing, NOUN 
+zones, NOUN 
+rabbit, NOUN 
+osteoclasts, NOUN 
+
+, SPACE 
+antibodies, NOUN 
+cytoplasmic, ADJ 
+epitopes, NOUN 
+Differences, NOUN 
+
+, SPACE 
+reagents, NOUN 
+techniques, NOUN 
+account, NOUN 
+dif-, NOUN 
+
+, SPACE 
+ferent, NOUN 
+findings, NOUN 
+antibodies, NOUN 
+intracellular, VERB 
+epi-, ADJ 
+
+, SPACE 
+topes, NOUN 
+problem, NOUN 
+antibody, NOUN 
+access, NOUN 
+remains, VERB 
+
+, SPACE 
+association, NOUN 
+cytoskeletal, ADJ 
+elements, NOUN 
+ligand, NOUN 
+occupied, VERB 
+inte-, NOUN 
+
+, SPACE 
+Figure, PROPN 
+6, NUM 
+sec, PROPN 
+fd, PROPN 
+~, PROPN 
+wing, NOUN 
+page, NOUN 
+Immunolocalization, NOUN 
+integtins, NOUN 
+human, ADJ 
+osteoclasts, NOUN 
+Confocal, ADJ 
+microscopy, NOUN 
+pseudocolor, NOUN 
+osteoclasts, NOUN 
+double, ADJ 
+
+, SPACE 
+stained, VERB 
+F, PROPN 
+actin, NOUN 
+identify, VERB 
+resorbing, VERB 
+nonresorbing, VERB 
+osteoclasts, NOUN 
+integrin, PROPN 
+cytoskeletal, ADJ 
+elements, NOUN 
+illustrating, VERB 
+stages, NOUN 
+
+, SPACE 
+resorption, NOUN 
+cycle, NOUN 
+indicated, VERB 
+Table, NOUN 
+4, NUM 
+Cells, NOUN 
+cultured, VERB 
+bone, NOUN 
+slices, NOUN 
+48, NUM 
+h, NOUN 
+fixed, VERB 
+permeabilized, VERB 
+stained, VERB 
+addition, NOUN 
+F, PROPN 
+actin, NOUN 
+
+, SPACE 
+antibodies, NOUN 
+indicated, VERB 
+panel, NOUN 
+seen, VERB 
+sealing, NOUN 
+zone, NOUN 
+indicated, VERB 
+thick, ADJ 
+arrow, NOUN 
+Staining, NOUN 
+gelsolin, NOUN 
+green, PROPN 
+F, PROPN 
+actin, PROPN 
+red, PROPN 
+
+, SPACE 
+demonstrate, VERB 
+colocalization, NOUN 
+shown, VERB 
+yellow, ADJ 
+podosomes, NOUN 
+equivalent, ADJ 
+Table, NOUN 
+4, NUM 
+panel, NOUN 
+Al, PROPN 
+optical, ADJ 
+section, NOUN 
+near, ADP 
+bone, NOUN 
+surface, NOUN 
+shown, VERB 
+
+, SPACE 
+B, NOUN 
+Staining, VERB 
+oJ3a, NOUN 
+green, ADJ 
+F, PROPN 
+actin, PROPN 
+red, PROPN 
+showing, VERB 
+colocalization, NOUN 
+yellow, ADJ 
+podosomes, NOUN 
+optica1, NOUN 
+section, NOUN 
+near, ADP 
+bone, NOUN 
+surface, NOUN 
+black, ADJ 
+white, ADJ 
+
+, SPACE 
+insets, NOUN 
+actin, NOUN 
+farms, VERB 
+centra1, NOUN 
+core, NOUN 
+podosome, ADJ 
+integrin, NOUN 
+present, ADJ 
+circle, NOUN 
+actin, NOUN 
+core, NOUN 
+Identical, ADJ 
+pattems, NOUN 
+
+, SPACE 
+staining, NOUN 
+obtained, VERB 
+anti+, ADJ 
+anti, ADJ 
+cu, ADJ 
+antibodies, NOUN 
+C, PROPN 
+Typical, ADJ 
+staining, NOUN 
+osteoclasts, NOUN 
+prior, ADV 
+start, VERB 
+excavation, NOUN 
+resorption, NOUN 
+
+, SPACE 
+pit, NOUN 
+equivalent, ADJ 
+Table, NOUN 
+4, NUM 
+panel, NOUN 
+Bl, PROPN 
+smal1, NOUN 
+actin, NOUN 
+ring, NOUN 
+green, PROPN 
+formed, VERB 
+bone, NOUN 
+matrix, NOUN 
+underneath, ADV 
+resorbed, VERB 
+nat, NOUN 
+shown, VERB 
+Staining, VERB 
+
+, SPACE 
+ha, INTJ 
+red, NOUN 
+cel1, NOUN 
+membrane, NOUN 
+cytoplasm, NOUN 
+strong, ADJ 
+areas, NOUN 
+colocalization, NOUN 
+F, PROPN 
+actin, NOUN 
+seen, VERB 
+arrows, NOUN 
+pointing, VERB 
+yellow, ADJ 
+
+, SPACE 
+undemeath, VERB 
+cel1, NOUN 
+membrane, NOUN 
+colocalization, NOUN 
+seen, VERB 
+F, PROPN 
+actin, NOUN 
+ring, NOUN 
+optica1, NOUN 
+section, NOUN 
+near, ADP 
+bone, NOUN 
+surface, NOUN 
+shown, VERB 
+D, PROPN 
+Resorbing, VERB 
+
+, SPACE 
+osteoclast, ADV 
+situated, VERB 
+resorption, NOUN 
+pit, NOUN 
+pit, NOUN 
+shown, VERB 
+equivalent, ADJ 
+Table, NOUN 
+4, NUM 
+panel, NOUN 
+C, NOUN 
+right, ADJ 
+hand, NOUN 
+image, NOUN 
+Staining, VERB 
+B, PROPN 
+red, ADJ 
+F, PROPN 
+actin, PROPN 
+green, NOUN 
+
+, SPACE 
+apparent, ADJ 
+colocalization, NOUN 
+observed, VERB 
+tbe, NOUN 
+left, VERB 
+hand, NOUN 
+panel, NOUN 
+caused, VERB 
+presence, NOUN 
+F, PROPN 
+actin, NOUN 
+undemeath, NOUN 
+tbe, NOUN 
+plasma, NOUN 
+membrane, NOUN 
+integrated, VERB 
+image, NOUN 
+
+, SPACE 
+reconstmction, NOUN 
+cel1, NOUN 
+individual, ADJ 
+optica1, NOUN 
+slices, NOUN 
+clear, ADJ 
+picture, NOUN 
+obtained, VERB 
+demonstrating, VERB 
+need, NOUN 
+confocal, ADJ 
+
+, SPACE 
+microscopy, NOUN 
+obtaining, VERB 
+necessary, ADJ 
+resolution, NOUN 
+Note, VERB 
+absente, NOUN 
+colocalization, NOUN 
+B, NOUN 
+F, PROPN 
+actin, NOUN 
+sealing, NOUN 
+zone, NOUN 
+colocalization, NOUN 
+
+, SPACE 
+occur, VERB 
+underneatb, ADJ 
+tbe, NOUN 
+plasma, NOUN 
+membrane, NOUN 
+C, NOUN 
+arrows, NOUN 
+sealing, NOUN 
+zone, NOUN 
+seen, VERB 
+cel1, NOUN 
+edge, NOUN 
+resorption, NOUN 
+pit, NOUN 
+Shown, VERB 
+
+, SPACE 
+optica1, NOUN 
+slices, NOUN 
+taken, VERB 
+middle, ADJ 
+panel, NOUN 
+right, ADV 
+right, ADJ 
+hand, NOUN 
+panel, NOUN 
+leve1, NOUN 
+bone, NOUN 
+surface, NOUN 
+Stepsize, PROPN 
+l, NOUN 
+Pm, PROPN 
+E, NOUN 
+D, PROPN 
+stained, VERB 
+
+, SPACE 
+01~, PROPN 
+red, PROPN 
+F, PROPN 
+actin, PROPN 
+green, NOUN 
+colocalization, NOUN 
+sealing, NOUN 
+zone, NOUN 
+optica1, NOUN 
+section, NOUN 
+near, ADP 
+bone, NOUN 
+surface, NOUN 
+shown, VERB 
+F, PROPN 
+D, NOUN 
+E, NOUN 
+stained, VERB 
+
+, SPACE 
+Ba, PROPN 
+red, ADJ 
+F, PROPN 
+actin, PROPN 
+green, NOUN 
+colocalization, NOUN 
+sealing, NOUN 
+zone, NOUN 
+sealing, NOUN 
+zone, NOUN 
+seen, VERB 
+optical, ADJ 
+sections, NOUN 
+shown, VERB 
+
+, SPACE 
+optical, ADJ 
+sections, NOUN 
+stepsize, VERB 
+1.2, NUM 
+Pm, NOUN 
+near, ADP 
+bone, NOUN 
+surface, NOUN 
+shown, VERB 
+G, PROPN 
+Double, ADJ 
+staining, NOUN 
+yellow, ADJ 
+vinculin, PROPN 
+green, PROPN 
+F, PROPN 
+actin, PROPN 
+red, PROPN 
+resorbing, VERB 
+
+, SPACE 
+osteoclast, ADJ 
+illustrating, VERB 
+colocalization, NOUN 
+sealing, NOUN 
+zone, NOUN 
+Note, VERB 
+vinculin, PROPN 
+seen, VERB 
+broad, ADJ 
+ring, NOUN 
+different, ADJ 
+earlier, ADJ 
+findings, NOUN 
+rat, NOUN 
+
+, SPACE 
+chick,34.52, NOUN 
+double, ADJ 
+ring, NOUN 
+vinculin, PROPN 
+seen, VERB 
+actin, NOUN 
+staining, VERB 
+H, PROPN 
+Resorbing, PROPN 
+osteoclast, ADV 
+smal1, ADJ 
+large, ADJ 
+osteoclasts, NOUN 
+
+, SPACE 
+shown, VERB 
+stained, VERB 
+presence, NOUN 
+gelsolin, NOUN 
+green, PROPN 
+F, PROPN 
+actin, PROPN 
+red, ADJ 
+illustrate, VERB 
+colocalization, NOUN 
+sealing, NOUN 
+zone, NOUN 
+XZ, PROPN 
+reconstructions, NOUN 
+shown, VERB 
+
+, SPACE 
+positions, NOUN 
+relation, NOUN 
+XY, PROPN 
+image, NOUN 
+indicated, VERB 
+tbe, NOUN 
+numbered, VERB 
+smal1, ADJ 
+arrows, NOUN 
+straight, ADJ 
+line, NOUN 
+arrows, NOUN 
+Note, VERB 
+streng, PROPN 
+
+, SPACE 
+staining, VERB 
+F, PROPN 
+actin, NOUN 
+deep, ADV 
+resorption, NOUN 
+pit, NOUN 
+XZ, PROPN 
+1, NUM 
+2, NUM 
+colocalization, NOUN 
+yellow, ADJ 
+actin, NOUN 
+gelsolin, NOUN 
+bone, NOUN 
+surface, NOUN 
+XZ, PROPN 
+1, NUM 
+
+, SPACE 
+thick, ADJ 
+arrow, NOUN 
+corresponding, VERB 
+arrow, NOUN 
+tbe, NOUN 
+XY, PROPN 
+view, NOUN 
+arrowheads, NOUN 
+indicate, VERB 
+contours, NOUN 
+resorption, NOUN 
+pit, NOUN 
+asterisks, NOUN 
+indicate, VERB 
+leve1, NOUN 
+
+, SPACE 
+bone, NOUN 
+surface, NOUN 
+1, X 
+Resorbing, PROPN 
+osteoclast, ADV 
+stained, VERB 
+presence, NOUN 
+u,,B, PROPN 
+green, ADJ 
+F, PROPN 
+actin, PROPN 
+red, NOUN 
+XY, PROPN 
+image, NOUN 
+optical, ADJ 
+section, NOUN 
+leve, PROPN 
+
+, SPACE 
+bone, NOUN 
+surface, NOUN 
+smal1, ADJ 
+arrows, NOUN 
+indicate, VERB 
+tbe, NOUN 
+position, NOUN 
+reconstruction, NOUN 
+Note, VERB 
+absente, NOUN 
+cu, PROPN 
+Bi, PROPN 
+staining, VERB 
+sealing, NOUN 
+zone, NOUN 
+thick, ADJ 
+arrow, NOUN 
+
+, SPACE 
+presence, NOUN 
+smal1, NOUN 
+F, NOUN 
+actin, NOUN 
+following, VERB 
+resorption, NOUN 
+pit, NOUN 
+fïnishing, VERB 
+sealing, NOUN 
+zone, NOUN 
+double, ADJ 
+arrow, NOUN 
+corresponding, VERB 
+double, VERB 
+arrow, NOUN 
+
+, SPACE 
+panel, NOUN 
+dotted, ADJ 
+line, NOUN 
+XZ, PROPN 
+view, NOUN 
+indicates, VERB 
+osteoclast, ADJ 
+surface, NOUN 
+asterisks, NOUN 
+indicate, VERB 
+leve1, NOUN 
+bone, NOUN 
+surface, NOUN 
+
+, SPACE 
+Bone, PROPN 
+Vol, PROPN 
+19, NUM 
+4, NUM 
+
+, SPACE 
+October, PROPN 
+1996:317, NUM 
+328, NUM 
+M., PROPN 
+H., PROPN 
+Helfrich, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+PI, PROPN 
+integrins, NOUN 
+osteoclast, ADJ 
+function, NOUN 
+325, NUM 
+
+, SPACE 
+Figure, PROPN 
+6, NUM 
+Caption, NOUN 
+previous, ADJ 
+page, NOUN 
+
+, SPACE 
+Figure, PROPN 
+7, NUM 
+Immunolocalization, NOUN 
+c, PROPN 
+resorption, NOUN 
+lacunae, NOUN 
+Series, NOUN 
+
+, SPACE 
+XY, PROPN 
+sections, NOUN 
+stepsize, VERB 
+2, NUM 
+km, NOUN 
+illustrate, VERB 
+localiaation, NOUN 
+CE,@, PROPN 
+
+, SPACE 
+large, ADJ 
+osteoclast, NOUN 
+resorbing, VERB 
+resorption, NOUN 
+pits, NOUN 
+simultaneously, ADV 
+images, NOUN 
+
+, SPACE 
+taken, VERB 
+approximately, ADV 
+leve1, NOUN 
+bone, NOUN 
+surface, NOUN 
+indicated, VERB 
+
+, SPACE 
+arrows, NOUN 
+Note, VERB 
+strong, ADJ 
+staining, VERB 
+deep, ADV 
+resorption, NOUN 
+pit, NOUN 
+
+, SPACE 
+i.e, PROPN 
+bone, NOUN 
+surface, NOUN 
+dark, ADJ 
+rings, NOUN 
+arrowheads, NOUN 
+corre-, VERB 
+
+, SPACE 
+spond, NOUN 
+sealing, NOUN 
+zone, NOUN 
+F, PROPN 
+actin, NOUN 
+staining, NOUN 
+resorption, NOUN 
+pit, NOUN 
+shown, VERB 
+
+, SPACE 
+grin, NOUN 
+potentially, ADV 
+interfere, VERB 
+conclude, VERB 
+de-, X 
+
+, SPACE 
+spite, VERB 
+demonstrated, VERB 
+importante, NOUN 
+integrins, NOUN 
+adhesion, NOUN 
+
+, SPACE 
+osteoclasts, NOUN 
+protein, NOUN 
+matrices, NOUN 
+bone, NOUN 
+unable, ADJ 
+
+, SPACE 
+limitations, NOUN 
+techniques, NOUN 
+find, VERB 
+evidente, NOUN 
+
+, SPACE 
+role, NOUN 
+p, NOUN 
+o2, PROPN 
+Y, PROPN 
+integrins, VERB 
+directly, ADV 
+maintaining, VERB 
+
+, SPACE 
+sealing, NOUN 
+zone, NOUN 
+
+, SPACE 
+strong, ADJ 
+staining, NOUN 
+observed, VERB 
+al1, ADJ 
+anti, ADJ 
+integrin, ADJ 
+an-, ADJ 
+
+, SPACE 
+tibodies, NOUN 
+ruffled, ADJ 
+border, NOUN 
+osteoclasts, NOUN 
+staining, VERB 
+extend-, NOUN 
+
+, SPACE 
+ing, NOUN 
+deep, ADV 
+resorption, NOUN 
+lacunae, NOUN 
+suggestive, ADJ 
+close, ADJ 
+
+, SPACE 
+adhesive, ADJ 
+interaction, NOUN 
+ruffled, ADJ 
+border, NOUN 
+membrane, NOUN 
+
+, SPACE 
+bone, NOUN 
+surface, NOUN 
+resorbing, VERB 
+osteoclasts.47, PROPN 
+previ-, NOUN 
+
+, SPACE 
+ously, ADV 
+seen, VERB 
+pattern, NOUN 
+staining, VERB 
+resorbing, VERB 
+osteoclasts, NOUN 
+
+, SPACE 
+rat, NOUN 
+chick35,‘h, NOUN 
+fee, NOUN 
+relate, VERB 
+fact, NOUN 
+human, ADJ 
+
+, SPACE 
+osteoclasts, NOUN 
+excavate, VERB 
+deep, ADJ 
+resorption, NOUN 
+pits, NOUN 
+novel, NOUN 
+
+, SPACE 
+finding, NOUN 
+human, ADJ 
+osteoclasts, NOUN 
+presence, NOUN 
+vinculin, PROPN 
+
+, SPACE 
+single, ADJ 
+band, NOUN 
+double, ADJ 
+band, NOUN 
+previously, ADV 
+described, VERB 
+
+, SPACE 
+resorbing, VERB 
+osteoclasts, NOUN 
+species, NOUN 
+‘4,“2, PUNCT 
+significante, NOUN 
+
+, SPACE 
+presently, ADV 
+unclear, ADJ 
+requires, VERB 
+study, NOUN 
+
+, SPACE 
+functional, ADJ 
+biochemical, ADJ 
+data, NOUN 
+presented, VERB 
+showed, VERB 
+
+, SPACE 
+osteoclasts, NOUN 
+use, VERB 
+01~, PROPN 
+l3, PROPN 
+integrin, NOUN 
+subunits, VERB 
+adhere, VERB 
+collagen, NOUN 
+
+, SPACE 
+type, NOUN 
+1, NUM 
+p, NOUN 
+antibodies, NOUN 
+fully, ADV 
+inhibitory, ADJ 
+fee, VERB 
+
+, SPACE 
+property, NOUN 
+reagents, NOUN 
+inhibition, NOUN 
+
+, SPACE 
+adhesion, NOUN 
+native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+o2, ADJ 
+antibody, NOUN 
+
+, SPACE 
+complete, ADJ 
+Participation, NOUN 
+nonintegrin, PROPN 
+collagen, PROPN 
+binding, VERB 
+mol-, X 
+
+, SPACE 
+ecules, NOUN 
+collagen, NOUN 
+adhesion, NOUN 
+osteoclasts, NOUN 
+
+, SPACE 
+play, VERB 
+minor, ADJ 
+role, NOUN 
+absente, NOUN 
+complex, ADJ 
+specific, ADJ 
+
+, SPACE 
+antibodies, NOUN 
+aJ3, PROPN 
+direct, ADJ 
+evidente, NOUN 
+obtained, VERB 
+iden-, ADJ 
+
+, SPACE 
+tity, NOUN 
+receptor, NOUN 
+mediating, VERB 
+adhesion, NOUN 
+collagen, VERB 
+adhe-, ADJ 
+
+, SPACE 
+sion, NOUN 
+studies, NOUN 
+demonstrate, VERB 
+importante, NOUN 
+cy, PROPN 
+
+, SPACE 
+recognition, NOUN 
+native, ADJ 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+biochemical, ADJ 
+analyses, NOUN 
+
+, SPACE 
+discrepancy, NOUN 
+PI, PROPN 
+compared, VERB 
+01~, PROPN 
+
+, SPACE 
+precipitated, VERB 
+association, NOUN 
+p, NOUN 
+subunit, NOUN 
+Y, PROPN 
+
+, SPACE 
+definitively, ADV 
+established, VERB 
+OI,,~, PROPN 
+integrin, PROPN 
+bas, PROPN 
+pre-, PROPN 
+
+, SPACE 
+viously, ADV 
+demonstrated, VERB 
+low, ADJ 
+levels, NOUN 
+osteoclasts, NOUN 
+reported, VERB 
+collagen, NOUN 
+binding, VERB 
+properties, NOUN 
+hut, PROPN 
+tn, PROPN 
+thc, PROPN 
+
+, SPACE 
+present, ADJ 
+study, NOUN 
+able, ADJ 
+provide, VERB 
+direct, ADJ 
+cvi-, NOUN 
+
+, SPACE 
+dence, NOUN 
+role, NOUN 
+oc$, PROPN 
+osteoclast, ADJ 
+interaction, NOUN 
+collagen, NOUN 
+
+, SPACE 
+Interestingly, PROPN 
+denatured, VERB 
+collagen, NOUN 
+recognized, VERB 
+predomi-, ADJ 
+
+, SPACE 
+nantly, ADV 
+Ds, PROPN 
+PI, PROPN 
+integrins, NOUN 
+affinity, NOUN 
+chromatog-, NOUN 
+
+, SPACE 
+raphy, NOUN 
+receptor, NOUN 
+binding, VERB 
+assays, NOUN 
+involvement, NOUN 
+p, NOUN 
+
+, SPACE 
+p3, PROPN 
+observed, VERB 
+conceivable, ADJ 
+thc, NOUN 
+
+, SPACE 
+affinity, NOUN 
+chromatography, NOUN 
+studies, NOUN 
+renaturation, NOUN 
+denatured, VERB 
+
+, SPACE 
+collagen, NOUN 
+occurred, VERB 
+column, NOUN 
+preparation, NOUN 
+resulting, VERB 
+
+, SPACE 
+overestimate, NOUN 
+involvement, NOUN 
+p, PROPN 
+integrins, NOUN 
+short, ADJ 
+
+, SPACE 
+adhesion, NOUN 
+assays, NOUN 
+rat, NOUN 
+osteoclasts, NOUN 
+renaturation, NOUN 
+collagen, NOUN 
+
+, SPACE 
+likely, ADJ 
+coating, NOUN 
+adhesion, NOUN 
+per-, X 
+
+, SPACE 
+formed, VERB 
+37, NUM 
+°, NUM 
+C, NOUN 
+p, NOUN 
+little, ADJ 
+inhibitory, ADJ 
+effect, NOUN 
+
+, SPACE 
+ability, NOUN 
+recognize, VERB 
+native, ADJ 
+VS, PROPN 
+denatured, VERB 
+protein, NOUN 
+different, ADJ 
+
+, SPACE 
+sets, NOUN 
+receptors, NOUN 
+reported, VERB 
+cel, PROPN 
+types, NOUN 
+‘2.2’,J, X 
+
+, SPACE 
+potentially, ADV 
+allow, VERB 
+osteoclasts, NOUN 
+react, VERB 
+change, NOUN 
+
+, SPACE 
+microenvironment, NOUN 
+importante, NOUN 
+context, NOUN 
+
+, SPACE 
+bone, NOUN 
+resorption, NOUN 
+degradation, NOUN 
+organic, ADJ 
+matrix, NOUN 
+re-, ADJ 
+
+, SPACE 
+sorbing, VERB 
+osteoclasts, NOUN 
+generate, VERB 
+collagen, NOUN 
+fragments, NOUN 
+
+, SPACE 
+lost, VERB 
+triple, ADJ 
+helical, ADJ 
+conformation, NOUN 
+occupy, VERB 
+
+, SPACE 
+saturate, VERB 
+<, X 
+y, PROPN 
+osteoclasts, NOUN 
+extent, NOUN 
+
+, SPACE 
+mechanisms, NOUN 
+operate, VERB 
+vivo, NOUN 
+remains, VERB 
+tested, VERB 
+
+, SPACE 
+basis, NOUN 
+earlier, ADJ 
+work, NOUN 
+expect, VERB 
+high, ADJ 
+leve1, NOUN 
+occupancy, NOUN 
+
+, SPACE 
+VNR, PROPN 
+soluble, ADJ 
+ligand, NOUN 
+result, VERB 
+retraction, NOUN 
+osteo-, ADJ 
+
+, SPACE 
+clasts, NOUN 
+cessation, NOUN 
+bone, NOUN 
+resorption, NOUN 
+‘7~‘x~‘5, PUNCT 
+binding, VERB 
+
+, SPACE 
+immobilized, ADJ 
+substrate, NOUN 
+wil1, PROPN 
+allow, VERB 
+osteoclasts, NOUN 
+adhere, VERB 
+change, VERB 
+
+, SPACE 
+polarized, ADJ 
+cel, NOUN 
+able, ADJ 
+resorb, VERB 
+bone, NOUN 
+
+, SPACE 
+Collagen, PROPN 
+fibers, NOUN 
+clearly, ADV 
+revealed, VERB 
+recognition, NOUN 
+l3, NOUN 
+6, NUM 
+
+, SPACE 
+integrin, NOUN 
+combinations, NOUN 
+p, NOUN 
+oZ, NUM 
+p3, PROPN 
+antibodies, VERB 
+
+, SPACE 
+completely, ADV 
+abolish, VERB 
+adhesion, NOUN 
+suggest, VERB 
+
+, SPACE 
+collagen, NOUN 
+quaternary, NOUN 
+fibrous, ADJ 
+structure, NOUN 
+critical, ADJ 
+binding, VERB 
+
+, SPACE 
+native, ADJ 
+triple, ADJ 
+helical, ADJ 
+collagen, NOUN 
+0lJ3~, NUM 
+integrin, NOUN 
+
+, SPACE 
+rule, VERB 
+completely, ADV 
+recognition, NOUN 
+p, PROPN 
+integrin, PROPN 
+
+, SPACE 
+fibers, NOUN 
+involves, VERB 
+trace, NOUN 
+noncollagenous, ADJ 
+constituent, NOUN 
+fibers, NOUN 
+
+, SPACE 
+Apart, ADV 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+collagen, NOUN 
+types, NOUN 
+types, NOUN 
+1, NUM 
+V, NOUN 
+
+, SPACE 
+tested, VERB 
+found, VERB 
+positive, ADJ 
+shown, VERB 
+adhesive, ADJ 
+substrates, NOUN 
+
+, SPACE 
+osteoclasts, NOUN 
+adhesive, ADJ 
+mechanism, NOUN 
+inves-, AUX 
+
+, SPACE 
+tigated, VERB 
+Adhesion, NOUN 
+type, VERB 
+11, NUM 
+collagen, NOUN 
+relevante, NOUN 
+
+, SPACE 
+predominant, ADJ 
+collagen, NOUN 
+cartilage, NOUN 
+matrix, NOUN 
+
+, SPACE 
+mineralized, VERB 
+resorbed, VERB 
+osteoclasts, NOUN 
+Type, NOUN 
+IV, PROPN 
+co-, NOUN 
+
+, SPACE 
+lagen, NOUN 
+wil1, PROPN 
+encountered, VERB 
+endothelial, ADJ 
+basement, NOUN 
+membranes, NOUN 
+
+, SPACE 
+dissemination, NOUN 
+osteoclast, ADJ 
+progenitors, NOUN 
+smal1, ADJ 
+amounts, NOUN 
+
+, SPACE 
+type, NOUN 
+V, NOUN 
+collagen, NOUN 
+present, ADJ 
+bone, NOUN 
+matrix, NOUN 
+type, VERB 
+111, NUM 
+col-, NOUN 
+
+, SPACE 
+lagen, NOUN 
+encountered, VERB 
+osteoclasts, NOUN 
+precursors, NOUN 
+
+, SPACE 
+periosteum, NOUN 
+
+, SPACE 
+Clear, ADJ 
+differences, NOUN 
+observed, VERB 
+spreading, NOUN 
+osteo, ADJ 
+
+, SPACE 
+clasts, NOUN 
+different, ADJ 
+substrates, NOUN 
+Native, ADJ 
+collagen, PROPN 
+allow, VERB 
+
+, SPACE 
+spreading, VERB 
+extent, NOUN 
+serum, NOUN 
+vitronectin, NOUN 
+substrates, NOUN 
+
+, SPACE 
+recognized, VERB 
+CK&~~, PROPN 
+Denatured, PROPN 
+collagen, PROPN 
+contrary, ADJ 
+al-, X 
+
+, SPACE 
+lowed, VERB 
+osteoclasts, NOUN 
+spread, VERB 
+better, ADV 
+suggesting, VERB 
+
+, SPACE 
+rx$, PROPN 
+important, ADJ 
+cellular, ADJ 
+activity, NOUN 
+
+, SPACE 
+agreement, NOUN 
+earlier, ADJ 
+reports, NOUN 
+different, ADJ 
+roles, NOUN 
+p, PROPN 
+
+, SPACE 
+integrins, VERB 
+cel1, NOUN 
+types, NOUN 
+‘5, PUNCT 
+hypothesize, VERB 
+
+, SPACE 
+initial, ADJ 
+osteoclast, ADJ 
+recognition, NOUN 
+native, ADJ 
+collagen, PROPN 
+weak, ADJ 
+utilizes, VERB 
+
+, SPACE 
+p, NOUN 
+integrin, PROPN 
+requires, VERB 
+participation, NOUN 
+additional, ADJ 
+interac-, ADJ 
+
+, SPACE 
+tions, NOUN 
+noncollagenous, ADJ 
+botte, NOUN 
+proteins, NOUN 
+u, PROPN 
+p3, PROPN 
+Later, ADV 
+
+, SPACE 
+resorptive, ADJ 
+phase, NOUN 
+osteoclast, ADJ 
+activity, NOUN 
+collagen, NOUN 
+
+, SPACE 
+digested, VERB 
+presenting, VERB 
+equivalent, ADJ 
+form, NOUN 
+de-, VERB 
+
+, SPACE 
+natured, ADJ 
+collagen, NOUN 
+osteoclast, ADJ 
+adhesion, NOUN 
+spreading, VERB 
+
+, SPACE 
+modified, VERB 
+collagen, NOUN 
+involve, VERB 
+recruitment, NOUN 
+participation, NOUN 
+
+, SPACE 
+oyp2, PROPN 
+shift, NOUN 
+receptor, NOUN 
+usage, NOUN 
+conceivably, ADV 
+linked, VERB 
+
+, SPACE 
+modifications, NOUN 
+cellular, ADJ 
+behavior, NOUN 
+suggested, VERB 
+ln, ADV 
+
+, SPACE 
+respect, NOUN 
+interesting, ADJ 
+note, VERB 
+initial, ADJ 
+experiments, NOUN 
+
+, SPACE 
+calcium, NOUN 
+signaling, VERB 
+rat, NOUN 
+osteoclasts, NOUN 
+challenged, VERB 
+tnonomeric, NOUN 
+
+, SPACE 
+Bone, PROPN 
+Vol, PROPN 
+19, NUM 
+4, NUM 
+M., PROPN 
+H., PROPN 
+Helfrich, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+October, PROPN 
+1996:317, NUM 
+328, NUM 
+p1, PROPN 
+integrins, NOUN 
+osteoclast, ADJ 
+function, NOUN 
+327, NUM 
+
+, SPACE 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+solution, NOUN 
+osteoclasts, NOUN 
+responded, VERB 
+in-, ADJ 
+
+, SPACE 
+crease, NOUN 
+intranuclear, NOUN 
+calcium, NOUN 
+similar, ADJ 
+localization, NOUN 
+re-, ADJ 
+
+, SPACE 
+sponse, NOUN 
+seen, VERB 
+shot, NOUN 
+syntbetic, PROPN 
+RGD, PROPN 
+containing, VERB 
+peptides,49, NOUN 
+al-, X 
+
+, SPACE 
+slower, ADJ 
+kinetics, NOUN 
+Increases, NOUN 
+Ca’+, X 
+
+, SPACE 
+reported, VERB 
+binding, VERB 
+collagen, NOUN 
+mononuclear, VERB 
+cells,39, NOUN 
+
+, SPACE 
+change, NOUN 
+binding, VERB 
+fibronectin, NOUN 
+physiological, ADJ 
+conse-, NUM 
+
+, SPACE 
+quences, NOUN 
+signaling, VERB 
+osteoclasts, NOUN 
+mediated, VERB 
+collagen, PROPN 
+
+, SPACE 
+RGD, PROPN 
+peptides, NOUN 
+remain, VERB 
+established, VERB 
+cur-, ADV 
+
+, SPACE 
+rently, ADV 
+investigation, NOUN 
+
+, SPACE 
+able, ADJ 
+gain, VERB 
+conclusive, ADJ 
+information, NOUN 
+
+, SPACE 
+recognition, NOUN 
+site, NOUN 
+osteoclast, ADJ 
+<, X 
+y2pI, PROPN 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+RGD, PROPN 
+
+, SPACE 
+sites, NOUN 
+native, ADJ 
+type, NOUN 
+1, NUM 
+collagens, NOUN 
+clearly, ADV 
+recognized, VERB 
+
+, SPACE 
+osteoclasts, NOUN 
+adhesion, NOUN 
+inhibited, VERB 
+RGD, PROPN 
+containing, VERB 
+pep-, NOUN 
+
+, SPACE 
+tides, NOUN 
+RGD, PROPN 
+sensitivity, NOUN 
+collagen, NOUN 
+adhesion, NOUN 
+
+, SPACE 
+RGD, PROPN 
+sensitivity, NOUN 
+VNR, PROPN 
+mediated, VERB 
+adhesion, NOUN 
+osteoclasts, NOUN 
+
+, SPACE 
+bone, NOUN 
+matrix, NOUN 
+proteins, NOUN 
+explain, VERB 
+potent, ADJ 
+inhibition, NOUN 
+
+, SPACE 
+bone, NOUN 
+resorption, NOUN 
+seen, VERB 
+RGD, PROPN 
+containing, VERB 
+peptides.25, NOUN 
+RGD-, ADJ 
+
+, SPACE 
+sensitivity, NOUN 
+<, X 
+yaH, PROPN 
+adhesion, NOUN 
+collagen, VERB 
+contrasts, VERB 
+
+, SPACE 
+earlier, ADJ 
+reports, NOUN 
+RGD, PROPN 
+independent, ADJ 
+collagen, NOUN 
+recognition’4’33, PROPN 
+
+, SPACE 
+supports, VERB 
+findings, NOUN 
+different, ADJ 
+cel1, NOUN 
+types, NOUN 
+remains, VERB 
+
+, SPACE 
+resolved, VERB 
+observed, VERB 
+functional, ADJ 
+differente, NOUN 
+oZH1, PROPN 
+behav-, PROPN 
+
+, SPACE 
+ior, NOUN 
+osteoclasts, NOUN 
+relates, VERB 
+activation, NOUN 
+state, NOUN 
+integrin, NOUN 
+
+, SPACE 
+osteoclasts, NOUN 
+effect, NOUN 
+known, VERB 
+profound, ADJ 
+consequente, NOUN 
+
+, SPACE 
+ligand, NOUN 
+recognition, NOUN 
+systems,6.32, NOUN 
+re-, ADV 
+
+, SPACE 
+lated, VERB 
+osteoclast, VERB 
+plasma, NOUN 
+membrane, NOUN 
+composition, NOUN 
+factor, NOUN 
+
+, SPACE 
+known, VERB 
+influence, VERB 
+ligand, NOUN 
+recognition, NOUN 
+integrins, NOUN 
+
+, SPACE 
+conclusion, NOUN 
+shown, VERB 
+/3i, PUNCT 
+integrins, NOUN 
+particular, ADJ 
+
+, SPACE 
+addition, NOUN 
+p3, PROPN 
+integrins, VERB 
+play, VERB 
+important, ADJ 
+mam-, PROPN 
+
+, SPACE 
+malian, ADJ 
+osteoclast, ADJ 
+function, NOUN 
+results, NOUN 
+contrast, VERB 
+re-, AUX 
+
+, SPACE 
+ported, VERB 
+previously, ADV 
+avian, ADJ 
+osteoclasts, NOUN 
+recognize, VERB 
+
+, SPACE 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+use, VERB 
+pi, PROPN 
+integrin, PROPN 
+a$, ADV 
+adhere, VERB 
+fibronec-, PRON 
+
+, SPACE 
+tin.46, NOUN 
+inhibition, NOUN 
+bone, NOUN 
+resorption, NOUN 
+pi, PROPN 
+antibodies, NOUN 
+
+, SPACE 
+involve, VERB 
+direct, ADJ 
+effects, NOUN 
+osteoclasts, NOUN 
+indirect, ADJ 
+effects, NOUN 
+
+, SPACE 
+mediated, VERB 
+osteoblasts, NOUN 
+P,-expressing, NOUN 
+cel1, NOUN 
+types, NOUN 
+
+, SPACE 
+present, ADJ 
+bone, NOUN 
+bone, NOUN 
+marrow, NOUN 
+inhibition, NOUN 
+o2, PROPN 
+antibodies, NOUN 
+
+, SPACE 
+involve, VERB 
+mainly, ADV 
+direct, ADJ 
+effects, NOUN 
+osteoclasts, NOUN 
+given, VERB 
+
+, SPACE 
+restricted, ADJ 
+expression, NOUN 
+<, X 
+y2, PROPN 
+bone, NOUN 
+cells3, NOUN 
+study, NOUN 
+
+, SPACE 
+results, NOUN 
+demonstrate, VERB 
+osteoclasts, NOUN 
+adhere, VERB 
+native, ADJ 
+type, NOUN 
+1, NUM 
+
+, SPACE 
+collagen, NOUN 
+0213, NUM 
+use, VERB 
+H3, NOUN 
+bind, VERB 
+denatured, VERB 
+collagen, NOUN 
+
+, SPACE 
+mechanism, NOUN 
+recognition, NOUN 
+native, ADJ 
+collagen, PROPN 
+
+, SPACE 
+fully, ADV 
+characterized, ADJ 
+particular, ADJ 
+collagen, NOUN 
+binding, VERB 
+site, NOUN 
+
+, SPACE 
+wil1, NOUN 
+need, VERB 
+defined, VERB 
+differ, VERB 
+utilized, VERB 
+
+, SPACE 
+platelets, NOUN 
+
+, SPACE 
+Acknowledgments, NOUN 
+study, NOUN 
+supported, VERB 
+grants, NOUN 
+Imperia1, PROPN 
+
+, SPACE 
+CancerResearchFund, PROPN 
+UK, PROPN 
+toM.H.H.,S.A.N.,G.S.,andM.A.H.M.J.B., PROPN 
+
+, SPACE 
+supported, VERB 
+MRC, PROPN 
+authors, NOUN 
+mank, VERB 
+Dr., PROPN 
+K., PROPN 
+Stewart, PROPN 
+Dr., PROPN 
+K., PROPN 
+
+, SPACE 
+Rubin, PROPN 
+Dr., PROPN 
+D., PROPN 
+Turner, PROPN 
+Dr., PROPN 
+F., PROPN 
+Watt, PROPN 
+donations, NOUN 
+antisera, NOUN 
+Dr., PROPN 
+L., PROPN 
+
+, SPACE 
+Fisher, PROPN 
+Dr., PROPN 
+J., PROPN 
+Spragg, PROPN 
+donation, NOUN 
+osteopontin, NOUN 
+laminin, PROPN 
+re-, ADV 
+
+, SPACE 
+spectively, ADV 
+Dr., PROPN 
+P., PROPN 
+Bornstein, PROPN 
+Dr., PROPN 
+H., PROPN 
+Sage, PROPN 
+rat, PROPN 
+collagen, NOUN 
+CB, PROPN 
+
+, SPACE 
+fragments, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+1, NUM 
+Amiot, PROPN 
+M., PROPN 
+Bernard, PROPN 
+A., PROPN 
+Tran, PROPN 
+H., PROPN 
+C., PROPN 
+Leca, PROPN 
+G., PROPN 
+Kanellopoulos, PROPN 
+J., PROPN 
+M., PROPN 
+
+, SPACE 
+Boumsell, PROPN 
+L., PROPN 
+human, PROPN 
+cel1, PROPN 
+surface, PROPN 
+glycoprotein, PROPN 
+complex, PROPN 
+gpl20,200, PROPN 
+rec-, VERB 
+
+, SPACE 
+ognized, VERB 
+monoclonal, NOUN 
+antibody, NOUN 
+K20, PROPN 
+component, NOUN 
+binding, VERB 
+phytohae-, ADJ 
+
+, SPACE 
+magglutinin, ADJ 
+T, NOUN 
+cells, NOUN 
+Stand, PROPN 
+J, PROPN 
+Immunol, PROPN 
+23:109, NUM 
+228, NUM 
+1986, NUM 
+
+, SPACE 
+2, X 
+Amett, PROPN 
+T., PROPN 
+Dempster, PROPN 
+D., PROPN 
+Effect, PROPN 
+pH, NUM 
+bene, ADJ 
+resorption, NOUN 
+rat, NOUN 
+osteoclasts, NOUN 
+
+, SPACE 
+vitro, X 
+Endocrinology, NOUN 
+119:119, PROPN 
+124, NUM 
+1986, NUM 
+
+, SPACE 
+3, X 
+Bl, PROPN 
+H., PROPN 
+C., PROPN 
+Schelesinger, PROPN 
+P., PROPN 
+H., PROPN 
+mechanism, NOUN 
+osteoclast, ADJ 
+acidification, NOUN 
+
+, SPACE 
+Ritkin, PROPN 
+B., PROPN 
+R., PROPN 
+Gay, PROPN 
+C., PROPN 
+V., PROPN 
+Eds, PROPN 
+Biology, PROPN 
+physiology, NOUN 
+osteoclast, NOUN 
+
+, SPACE 
+Boca, PROPN 
+Raton, PROPN 
+FL, PROPN 
+CRC, PROPN 
+1992;259, NUM 
+287, NUM 
+
+, SPACE 
+4, X 
+Bodary, ADJ 
+S., PROPN 
+C., PROPN 
+Napier, PROPN 
+M., PROPN 
+McLean, PROPN 
+J., PROPN 
+W., PROPN 
+Expression, PROPN 
+recombinant, ADJ 
+plate-, NOUN 
+let, VERB 
+glycoprotein, PROPN 
+II, PROPN 
+UI, PROPN 
+results, VERB 
+functional, ADJ 
+tïbrinogen, NOUN 
+binding, VERB 
+complex, NOUN 
+J, PROPN 
+
+, SPACE 
+Bio1, NOUN 
+Chem, PROPN 
+264:18859, NUM 
+18862, NUM 
+1989, NUM 
+
+, SPACE 
+5, X 
+Cardarelli, PROPN 
+P., PROPN 
+M., PROPN 
+Yamagata, PROPN 
+S., PROPN 
+Taguchi, PROPN 
+1, NUM 
+Gorcsan, PROPN 
+F., PROPN 
+Chiang, PROPN 
+S., PROPN 
+L., PROPN 
+
+, SPACE 
+Lobl, PROPN 
+T., PROPN 
+collage, NOUN 
+receptor, NOUN 
+a2B1, PROPN 
+MG-63, PROPN 
+HT1080, PROPN 
+cells, NOUN 
+interacts, VERB 
+
+, SPACE 
+cyclic, ADJ 
+RGD, PROPN 
+peptide, NOUN 
+J, PROPN 
+Bio1, PROPN 
+Chem, PROPN 
+267:23159, NUM 
+23164, NUM 
+1992, NUM 
+
+, SPACE 
+6, X 
+Chan, PROPN 
+B., PROPN 
+M., PROPN 
+C., PROPN 
+Hemler, PROPN 
+M., PROPN 
+E., PROPN 
+Multiple, PROPN 
+farms, NOUN 
+integrin, PROPN 
+VLA-2, PROPN 
+
+, SPACE 
+derived, VERB 
+single, ADJ 
+012, NUM 
+cDNA, NOUN 
+clone, NOUN 
+interconversions, NOUN 
+farms, NOUN 
+
+, SPACE 
+anti, ADJ 
+Bl, ADJ 
+antibody, NOUN 
+J, PROPN 
+Cel1, NOUN 
+Bio1, PROPN 
+120:537, PROPN 
+543, NUM 
+1993, NUM 
+
+, SPACE 
+7, X 
+Chambers, NOUN 
+T., PROPN 
+J., PROPN 
+Fuller, PROPN 
+K., PROPN 
+Darby, PROPN 
+J., PROPN 
+A., PROPN 
+Pringle, PROPN 
+J., PROPN 
+A., PROPN 
+S., PROPN 
+Horton, PROPN 
+M., PROPN 
+A., PROPN 
+
+, SPACE 
+Monoclonal, NOUN 
+antibodies, VERB 
+osteoclasts, NOUN 
+inhibit, VERB 
+bone, NOUN 
+resorption, NOUN 
+vitro, X 
+
+, SPACE 
+Botte, PROPN 
+Miner, PROPN 
+1:127, PROPN 
+135, NUM 
+1986, NUM 
+
+, SPACE 
+8, X 
+Chuntharapai, PROPN 
+A., PROPN 
+Bodary, PROPN 
+S., PROPN 
+Horton, PROPN 
+M., PROPN 
+Kim, PROPN 
+K., PROPN 
+J., PROPN 
+Blocking, PROPN 
+monoclonal, NOUN 
+
+, SPACE 
+antibodies, VERB 
+uVB3, ADJ 
+integrin, PROPN 
+unique, ADJ 
+epitope, NOUN 
+oVB3, ADJ 
+integrin, NOUN 
+present, ADJ 
+
+, SPACE 
+hnman, ADJ 
+osteoclasts, NOUN 
+Exp, PROPN 
+Cel1, VERB 
+Res, PROPN 
+205:345, PROPN 
+352, NUM 
+1993, NUM 
+
+, SPACE 
+9, X 
+Clover, PROPN 
+J., PROPN 
+Dodds, PROPN 
+R., PROPN 
+A., PROPN 
+Gowen, PROPN 
+M., PROPN 
+Integrin, PROPN 
+subunit, NOUN 
+expression, NOUN 
+human, ADJ 
+
+, SPACE 
+osteoblasts, NOUN 
+osteoclasts, NOUN 
+sim, NOUN 
+culture, NOUN 
+J, PROPN 
+Cel1, PROPN 
+Sci, PROPN 
+103:267, PROPN 
+271, NUM 
+1992, NUM 
+
+, SPACE 
+10, X 
+Clyman, PROPN 
+R.I., PROPN 
+Mauray, PROPN 
+F., PROPN 
+Kramer, PROPN 
+R., PROPN 
+H., PROPN 
+Bl, PROPN 
+B3, PROPN 
+integrins, NOUN 
+dif-, X 
+
+, SPACE 
+ferent, NOUN 
+roles, NOUN 
+adhesion, NOUN 
+migration, NOUN 
+vascular, ADJ 
+smooth, ADJ 
+muscle, NOUN 
+cells, NOUN 
+
+, SPACE 
+extracellular, ADJ 
+matrix, NOUN 
+Exp, PROPN 
+Cel1, VERB 
+Res, PROPN 
+200:272, PROPN 
+284, NUM 
+1992, NUM 
+
+, SPACE 
+ll, AUX 
+Conforti, PROPN 
+G., PROPN 
+Zanetti, PROPN 
+A., PROPN 
+Pasquali, PROPN 
+Ronchetti, PROPN 
+L, PROPN 
+Quaglino, PROPN 
+D., PROPN 
+Neyroz, PROPN 
+P., PROPN 
+
+, SPACE 
+Dejana, PROPN 
+E., PROPN 
+Modulation, PROPN 
+vitronectin, NOUN 
+receptor, NOUN 
+binding, VERB 
+membrane, NOUN 
+lipid, NOUN 
+com-, NOUN 
+
+, SPACE 
+position, NOUN 
+J, PROPN 
+Bio1, PROPN 
+Chem, PROPN 
+265:40114019, NUM 
+1991, NUM 
+
+, SPACE 
+12, NUM 
+Davis, PROPN 
+G., PROPN 
+E., PROPN 
+Affinity, PROPN 
+integrins, NOUN 
+damaged, VERB 
+extracellular, ADJ 
+matrix, NOUN 
+cwBs, NOUN 
+binds, VERB 
+
+, SPACE 
+denatured, VERB 
+collagen, NOUN 
+type, NOUN 
+1, NUM 
+RGD, PROPN 
+sites, NOUN 
+Biochem, PROPN 
+Biophys, PROPN 
+Res, PROPN 
+Comm, PROPN 
+
+, SPACE 
+182:1025, PROPN 
+1031, NUM 
+1992, NUM 
+
+, SPACE 
+13, X 
+Dedhar, PROPN 
+S., PROPN 
+Gray, PROPN 
+V., PROPN 
+Isolation, PROPN 
+novel, ADJ 
+integrin, NOUN 
+receptor, NOUN 
+mediating, VERB 
+Arg-, PROPN 
+
+, SPACE 
+Gly, PROPN 
+Asp, PROPN 
+directed, VERB 
+cel1, NOUN 
+adhesion, NOUN 
+tïbronectin, NOUN 
+type, NOUN 
+1, NUM 
+collagen, NOUN 
+human, ADJ 
+
+, SPACE 
+neuroblastoma, ADJ 
+cells, NOUN 
+Association, NOUN 
+0x1, PROPN 
+Bl, PROPN 
+related, VERB 
+subunit, NOUN 
+ov, PROPN 
+J, PROPN 
+Cel1, PROPN 
+
+, SPACE 
+Bio1, NOUN 
+110:2185, NUM 
+2193, NUM 
+1990, NUM 
+
+, SPACE 
+14, NUM 
+Elices, NOUN 
+M., PROPN 
+J., PROPN 
+Hemler, PROPN 
+M., PROPN 
+E., PROPN 
+human, ADJ 
+integrin, NOUN 
+VLA-2, PROPN 
+collage, NOUN 
+
+, SPACE 
+receptor, NOUN 
+cells, NOUN 
+collagen, NOUN 
+laminin, NOUN 
+receptor, NOUN 
+ethers, NOUN 
+Proc, PROPN 
+Nat1, ADJ 
+
+, SPACE 
+Acad, PROPN 
+Sci, PROPN 
+USA, PROPN 
+8699069910, NUM 
+1989, NUM 
+
+, SPACE 
+15, X 
+Fisher, ADJ 
+J., PROPN 
+E., PROPN 
+Cautïeld, PROPN 
+M., PROPN 
+P., PROPN 
+Sato, PROPN 
+M., PROPN 
+Quartuccio, PROPN 
+H., PROPN 
+A., PROPN 
+Gould, PROPN 
+R., PROPN 
+J., PROPN 
+Garsky, PROPN 
+
+, SPACE 
+V., PROPN 
+M., PROPN 
+Rodan, PROPN 
+G., PROPN 
+A., PROPN 
+Rosenblatt, PROPN 
+M., PROPN 
+Inhibition, PROPN 
+osteoclastic, ADJ 
+bone, NOUN 
+re-, ADP 
+
+, SPACE 
+sorption, NOUN 
+vivo, NOUN 
+echistatin, PROPN 
+arginyl, ADJ 
+glycyl, NOUN 
+aspartyl, NOUN 
+RGD)-containing, VERB 
+
+, SPACE 
+protein, NOUN 
+Endocrinology, NOUN 
+132:1411, NUM 
+1413, NUM 
+1993, NUM 
+
+, SPACE 
+16, X 
+Fitzsimmons, NOUN 
+C., PROPN 
+M., PROPN 
+Bames, PROPN 
+M., PROPN 
+J., PROPN 
+platelet, ADJ 
+reactivity, NOUN 
+a2(1)-chain, NOUN 
+
+, SPACE 
+type, NOUN 
+1, NUM 
+collage, NOUN 
+Platelet, PROPN 
+aggregation, NOUN 
+induced, VERB 
+polymers, NOUN 
+molecule, NOUN 
+
+, SPACE 
+u2(1, NOUN 
+Thromb, PROPN 
+Res, PROPN 
+39:523, PROPN 
+531, NUM 
+1985, NUM 
+
+, SPACE 
+17, NUM 
+Fitzsimmons, NOUN 
+C., PROPN 
+M., PROPN 
+Cawston, PROPN 
+T., PROPN 
+E., PROPN 
+Barnes, PROPN 
+M., PROPN 
+J., PROPN 
+platelet, ADJ 
+reactivity, NOUN 
+
+, SPACE 
+collagen, PROPN 
+type, NOUN 
+1, NUM 
+evidente, VERB 
+multiple, ADJ 
+platelet, ADJ 
+reactive, ADJ 
+sites, NOUN 
+type, NOUN 
+1, NUM 
+
+, SPACE 
+collagen, NOUN 
+molecule, NOUN 
+Thromb, PROPN 
+Haemostasis, PROPN 
+56:95, NUM 
+99, NUM 
+1986, NUM 
+
+, SPACE 
+18, X 
+Flores, NOUN 
+M., PROPN 
+E., PROPN 
+Norgard, PROPN 
+M., PROPN 
+Heinegtid, PROPN 
+D., PROPN 
+Reinholt, PROPN 
+F., PROPN 
+P., PROPN 
+Andersson, PROPN 
+G., PROPN 
+
+, SPACE 
+RGD, PROPN 
+directed, VERB 
+attachment, NOUN 
+isolated, ADJ 
+rat, NOUN 
+osteoclasts, NOUN 
+osteopontin, PROPN 
+botte, PROPN 
+sia-, PROPN 
+
+, SPACE 
+loprotein, PROPN 
+tïbronectin, NOUN 
+Exp, PROPN 
+Cel1, VERB 
+Res, PROPN 
+201:526530, NUM 
+1992, NUM 
+
+, SPACE 
+19, X 
+Gronowicz, PROPN 
+G., PROPN 
+A., PROPN 
+DeRome, PROPN 
+M., PROPN 
+E., PROPN 
+Synthetic, PROPN 
+peptide, NOUN 
+containing, VERB 
+Arg, PROPN 
+Gly-, PROPN 
+
+, SPACE 
+Asp, PROPN 
+inhibits, VERB 
+botte, NOUN 
+formation, NOUN 
+resorption, NOUN 
+mineralizing, VERB 
+organ, NOUN 
+culture, NOUN 
+
+, SPACE 
+system, NOUN 
+fetal, ADJ 
+rat, NOUN 
+parietal, ADJ 
+bones, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+9:193, PROPN 
+201, NUM 
+1994, NUM 
+
+, SPACE 
+20, NUM 
+Gullberg, PROPN 
+D., PROPN 
+Turner, PROPN 
+D., PROPN 
+C., PROPN 
+Borg, PROPN 
+T., PROPN 
+K., PROPN 
+Terracio, PROPN 
+L., PROPN 
+Rubin, PROPN 
+K., PROPN 
+Different, PROPN 
+
+, SPACE 
+Bl, PROPN 
+integrin, PROPN 
+collagen, NOUN 
+receptors, NOUN 
+rat, NOUN 
+hepatocytes, NOUN 
+cardiac, ADJ 
+fibroblasts, NOUN 
+Exp, PROPN 
+
+, SPACE 
+Cel1, X 
+Res, PROPN 
+190:254264, NUM 
+1990, NUM 
+
+, SPACE 
+21, X 
+Gullberg, PROPN 
+D., PROPN 
+Gehlsen, PROPN 
+K., PROPN 
+R., PROPN 
+Turner, PROPN 
+D., PROPN 
+C., PROPN 
+Ahlén, PROPN 
+K., PROPN 
+Zijenah, PROPN 
+L., PROPN 
+S., PROPN 
+Barnes, PROPN 
+
+, SPACE 
+M., PROPN 
+J., PROPN 
+Rubin, PROPN 
+K., PROPN 
+Analysis, PROPN 
+olB1, NOUN 
+a2Bl, PUNCT 
+o3Bl, PRON 
+integtins, NOUN 
+cell-, PROPN 
+
+, SPACE 
+collagen, NOUN 
+interactions, NOUN 
+identification, NOUN 
+conformation, NOUN 
+dependent, ADJ 
+alB1, NOUN 
+binding, VERB 
+
+, SPACE 
+sites, NOUN 
+collagen, NOUN 
+type, NOUN 
+1, NUM 
+EMBO, PROPN 
+J, PROPN 
+11:3865, PROPN 
+3873, NUM 
+1992, NUM 
+
+, SPACE 
+22, NUM 
+Heineg?rrd, PROPN 
+D., PROPN 
+Oldberg, PROPN 
+A., NOUN 
+Stmcmre, PROPN 
+biology, NOUN 
+cartilage, NOUN 
+bone, NOUN 
+
+, SPACE 
+matrix, NOUN 
+noncollagenons, NOUN 
+macromolecules, NOUN 
+FASEB, PROPN 
+J, PROPN 
+3:2042, PROPN 
+2051, NUM 
+1989, NUM 
+
+, SPACE 
+23, NUM 
+Helfrich, PROPN 
+M., PROPN 
+H., PROPN 
+Nesbitt, PROPN 
+S., PROPN 
+A., PROPN 
+Dorey, PROPN 
+E., PROPN 
+L., PROPN 
+Horton, PROPN 
+M., PROPN 
+A., NOUN 
+Rat, PROPN 
+osteoclasts, VERB 
+
+, SPACE 
+adherc, NOUN 
+wide, ADJ 
+range, NOUN 
+RGD, PROPN 
+Arg, PROPN 
+Gly, PROPN 
+Asp, PROPN 
+peptide, NOUN 
+containing, VERB 
+proteins, NOUN 
+
+, SPACE 
+inclnding, VERB 
+botte, NOUN 
+sialoproteins, NOUN 
+fibronectin, NOUN 
+B3, PROPN 
+integrin, NOUN 
+J, PROPN 
+Bene, PROPN 
+
+, SPACE 
+Miner, PROPN 
+Res, PROPN 
+7:335, PROPN 
+343, NUM 
+1992, NUM 
+
+, SPACE 
+24, NUM 
+Helfrich, PROPN 
+M., PROPN 
+H., PROPN 
+Nesbitt, PROPN 
+S., PROPN 
+A., PROPN 
+Horton, PROPN 
+M., PROPN 
+A., PROPN 
+Integrins, PROPN 
+rat, NOUN 
+osteoclasts, NOUN 
+
+, SPACE 
+characterisation, NOUN 
+monoclonal, NOUN 
+antibodies, NOUN 
+F4, PROPN 
+Fl, PROPN 
+1, NUM 
+rat, VERB 
+B3, PROPN 
+Bonc, PROPN 
+
+, SPACE 
+Miner, PROPN 
+Res, PROPN 
+7:345, PROPN 
+351, NUM 
+1992, NUM 
+
+, SPACE 
+25, NUM 
+Horton, PROPN 
+M., PROPN 
+A., PROPN 
+Rodan, PROPN 
+G., PROPN 
+A., PROPN 
+Integtins, PROPN 
+therapcntic, ADJ 
+targets, NOUN 
+bone, NOUN 
+dis-, NOUN 
+
+, SPACE 
+case, NOUN 
+Horton, PROPN 
+M., PROPN 
+A., PROPN 
+Ed, PROPN 
+Adhesion, NOUN 
+receptors, NOUN 
+therapcutic, ADJ 
+targets, NOUN 
+Boca, PROPN 
+Raton, PROPN 
+
+, SPACE 
+FL, PROPN 
+CRC, PROPN 
+1996, NUM 
+223, NUM 
+245, NUM 
+
+, SPACE 
+26, NUM 
+Horton, PROPN 
+M.A., PROPN 
+Lewis, PROPN 
+D., PROPN 
+McNulty, PROPN 
+K., PROPN 
+Pringle, PROPN 
+J., PROPN 
+A., PROPN 
+S., PROPN 
+Chambers, PROPN 
+T., PROPN 
+J., PROPN 
+
+, SPACE 
+Monoclonal, PROPN 
+antibodies, VERB 
+osteoclastomas, PROPN 
+giant, ADJ 
+cel1, NOUN 
+bone, NOUN 
+tumors, NOUN 
+detïnition, NOUN 
+
+, SPACE 
+osteoclast, ADJ 
+specitïc, NOUN 
+cellnlar, ADJ 
+antigens, NOUN 
+Cancer, PROPN 
+Res, PROPN 
+45:5663, PROPN 
+5669, NUM 
+1985, NUM 
+
+, SPACE 
+27, NUM 
+Hotton, PROPN 
+M.A., PROPN 
+Taylor, PROPN 
+M., PROPN 
+L., PROPN 
+Amett, PROPN 
+T., PROPN 
+R., PROPN 
+Helfrich, PROPN 
+M., PROPN 
+H., PROPN 
+Arg, PROPN 
+Gly, NOUN 
+Asp, PROPN 
+
+, SPACE 
+RGD, PROPN 
+peptides, NOUN 
+anti, ADJ 
+vitronectin, ADJ 
+receptor, NOUN 
+antibody, NOUN 
+23C6, NUM 
+inhibit, NOUN 
+cel1, NOUN 
+
+, SPACE 
+328, NUM 
+M., PROPN 
+H., PROPN 
+Helfrich, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+PI, PROPN 
+integrins, NOUN 
+ostcoclast, ADJ 
+functm, ADJ 
+
+, SPACE 
+28, NUM 
+
+, SPACE 
+29, NUM 
+
+, SPACE 
+30, NUM 
+
+, SPACE 
+31, NUM 
+
+, SPACE 
+32, NUM 
+
+, SPACE 
+33, NUM 
+
+, SPACE 
+34, NUM 
+
+, SPACE 
+35, NUM 
+
+, SPACE 
+36, NUM 
+
+, SPACE 
+37, NUM 
+
+, SPACE 
+38, NUM 
+
+, SPACE 
+39, NUM 
+
+, SPACE 
+40, NUM 
+qpreading, VERB 
+dentine, NOUN 
+reaorptmn, NOUN 
+osteoclasts, NOUN 
+Exp, PROPN 
+Cel1, VERB 
+Ru, PROPN 
+195:36X--373, NUM 
+
+, SPACE 
+1991, NUM 
+
+, SPACE 
+Horton, PROPN 
+M., PROPN 
+A., PROPN 
+Dorey, PROPN 
+E., PROPN 
+L., PROPN 
+Nesbitt, PROPN 
+S., PROPN 
+A., PROPN 
+Samanen, PROPN 
+J, PROPN 
+Ah, INTJ 
+F., PROPN 
+E., PROPN 
+Stadel, PROPN 
+
+, SPACE 
+J., PROPN 
+M., PROPN 
+Nichols, PROPN 
+Greig, PROPN 
+R, NOUN 
+Helfrich, PROPN 
+M., PROPN 
+H., PROPN 
+Modulation, PROPN 
+vitronectin, NOUN 
+
+, SPACE 
+receptor, NOUN 
+mediated, VERB 
+osteoclast, ADJ 
+adhesion, NOUN 
+Arg, PROPN 
+Gly, NOUN 
+Asp, PROPN 
+peptide, NOUN 
+analogs, VERB 
+
+, SPACE 
+structure, NOUN 
+function, NOUN 
+analysis, NOUN 
+J, PROPN 
+Box, PROPN 
+Miner, PROPN 
+Res, PROPN 
+8:239, PROPN 
+247, NUM 
+1993, NUM 
+
+, SPACE 
+Horton, PROPN 
+M., PROPN 
+A., PROPN 
+Spragg, PROPN 
+J., PROPN 
+H, PROPN 
+Bodary, PROPN 
+S., PROPN 
+C., PROPN 
+Helfrich, PROPN 
+M., PROPN 
+H., PROPN 
+Recogmtion, PROPN 
+
+, SPACE 
+cryptic, ADJ 
+sites, NOUN 
+human, ADJ 
+mouse, NOUN 
+laminins, NOUN 
+rat, PROPN 
+osteoclaats, NOUN 
+mediated, VERB 
+
+, SPACE 
+p, PROPN 
+integrins, NOUN 
+Bene, ADJ 
+15:639, PROPN 
+646, NUM 
+1994, NUM 
+
+, SPACE 
+Hughes, PROPN 
+D., PROPN 
+E., PROPN 
+Salter, PROPN 
+D., PROPN 
+M, PROPN 
+Dedhar, PROPN 
+S, PROPN 
+Simpson, PROPN 
+R., PROPN 
+Integrm, PROPN 
+expression, NOUN 
+
+, SPACE 
+human, ADJ 
+bene, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+8527, NUM 
+533, NUM 
+1993, NUM 
+
+, SPACE 
+Kmg, PROPN 
+K.L, PROPN 
+D’Anza, PROPN 
+J., PROPN 
+J., PROPN 
+Bodary, PROPN 
+S., PROPN 
+Pitti, PROPN 
+R., PROPN 
+Siegel, PROPN 
+M, PROPN 
+Lazarus, PROPN 
+R., PROPN 
+A., PROPN 
+
+, SPACE 
+Denms, PROPN 
+M., PROPN 
+S, PROPN 
+Hammond~., NOUN 
+R., PROPN 
+G., PROPN 
+Jr., PROPN 
+Kukreja, PROPN 
+S., PROPN 
+C., PROPN 
+effects, NOUN 
+kistrin, NOUN 
+
+, SPACE 
+bone, NOUN 
+resorptmn, NOUN 
+vitro, X 
+serum, PROPN 
+calcium, NOUN 
+vivo, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+
+, SPACE 
+9:381, NUM 
+387, NUM 
+1994, NUM 
+
+, SPACE 
+Kirchhofer, PROPN 
+D., PROPN 
+Languino, PROPN 
+L., PROPN 
+R, PROPN 
+Ruoslahti, PROPN 
+E, PROPN 
+Pierschbacher, PROPN 
+M., PROPN 
+D., PROPN 
+oi2pl, PROPN 
+
+, SPACE 
+Integtins, NOUN 
+different, ADJ 
+cel1, NOUN 
+types, NOUN 
+different, ADJ 
+binding, VERB 
+specificitier, NOUN 
+J, PROPN 
+Bio1, PROPN 
+
+, SPACE 
+Chem, PROPN 
+265:6, NUM 
+IS-6, NUM 
+18, NUM 
+1990, NUM 
+
+, SPACE 
+Kramer, PROPN 
+R., PROPN 
+H., PROPN 
+Marks, PROPN 
+N, PROPN 
+Identification, PROPN 
+integrin, PROPN 
+collagen, PROPN 
+receptora, PROPN 
+
+, SPACE 
+human, ADJ 
+melanoma, NOUN 
+cells, NOUN 
+J, PROPN 
+Bio1, PROPN 
+Chem, PROPN 
+264:46844688, NUM 
+1989, NUM 
+
+, SPACE 
+Lakkakorpi, PROPN 
+P., PROPN 
+T., PROPN 
+Tuukanen, PROPN 
+J, PROPN 
+Hentunen, PROPN 
+T., PROPN 
+Järvelin, PROPN 
+K., PROPN 
+Väänänen, PROPN 
+
+, SPACE 
+H., PROPN 
+K., PROPN 
+Organiration, PROPN 
+osteoclast, ADJ 
+microfilaments, NOUN 
+dwing, VERB 
+attachment, NOUN 
+bone, NOUN 
+
+, SPACE 
+surface, NOUN 
+vitro, X 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+4:817, PROPN 
+825, NUM 
+1989, NUM 
+
+, SPACE 
+Lakkakorpi, PROPN 
+P., PROPN 
+T, PROPN 
+Horton, PROPN 
+M., PROPN 
+A., PROPN 
+Helfrich, PROPN 
+M., PROPN 
+H., PROPN 
+Karhukorpi, PROPN 
+E.-K, PROPN 
+
+, SPACE 
+Väänanen, PROPN 
+H., PROPN 
+K., PROPN 
+Vitronectin, PROPN 
+receptor, NOUN 
+role, NOUN 
+bone, NOUN 
+resorption, NOUN 
+
+, SPACE 
+mediate, VERB 
+tight, ADJ 
+sealing, NOUN 
+zone, NOUN 
+attachment, NOUN 
+osteoclasts, NOUN 
+bone, NOUN 
+surface, NOUN 
+J, PROPN 
+Cel1, PROPN 
+
+, SPACE 
+Bio1, NOUN 
+115:1179, NUM 
+1186, NUM 
+1991, NUM 
+
+, SPACE 
+Lakkakorpi, PROPN 
+P., PROPN 
+T., PROPN 
+Helfiich, PROPN 
+M., PROPN 
+H., PROPN 
+Horton, PROPN 
+M., PROPN 
+A., PROPN 
+Väänänen, PROPN 
+H., PROPN 
+K., PROPN 
+Spatial, PROPN 
+
+, SPACE 
+orgamsation, NOUN 
+microfïlaments, NOUN 
+vitronectin, NOUN 
+receptor, NOUN 
+ave3, PROPN 
+osteoclasts, NOUN 
+
+, SPACE 
+study, NOUN 
+confocal, ADJ 
+laser, NOUN 
+scanning, VERB 
+microscopy, NOUN 
+J, PROPN 
+Cel1, PROPN 
+Sci, PROPN 
+104:663, PROPN 
+670, NUM 
+1993, NUM 
+
+, SPACE 
+Marchisio, PROPN 
+P., NOUN 
+C, PROPN 
+Cirillo, PROPN 
+D, PROPN 
+Naldini, PROPN 
+L., PROPN 
+Primavera, PROPN 
+M., PROPN 
+V, PROPN 
+Teti, PROPN 
+A., PROPN 
+Zambonin-, PROPN 
+
+, SPACE 
+Zallone, PROPN 
+A., NOUN 
+Cell, NOUN 
+substratum, NOUN 
+interaction, NOUN 
+cultured, ADJ 
+avian, ADJ 
+osteoclasts, NOUN 
+medi-, AUX 
+
+, SPACE 
+ated, VERB 
+specific, ADJ 
+adhesion, NOUN 
+structures, NOUN 
+J, PROPN 
+Cel1, NOUN 
+Bio1, PROPN 
+99:169&1705, NOUN 
+1984, NUM 
+
+, SPACE 
+Masarachia, PROPN 
+P, NOUN 
+Yamamoto, PROPN 
+M, PROPN 
+Rodan, PROPN 
+G., PROPN 
+Duong, PROPN 
+L., PROPN 
+T., PROPN 
+Co-, PROPN 
+
+, SPACE 
+localization, NOUN 
+vitronectin, NOUN 
+receptor, NOUN 
+w@3, PROPN 
+echistatin, PROPN 
+osteoclasts, NOUN 
+dur-, X 
+
+, SPACE 
+ing, ADJ 
+bone, NOUN 
+resorption, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+IO(supp1, PROPN 
+I):Sl64, PROPN 
+1995, NUM 
+
+, SPACE 
+Menon, PROPN 
+R., PROPN 
+P, PROPN 
+Pilla, PROPN 
+S., PROPN 
+Sudhakaran, PROPN 
+P., PROPN 
+R., PROPN 
+Binding, PROPN 
+collagen, NOUN 
+causes, NOUN 
+
+, SPACE 
+mtracellular, ADJ 
+mobiliration, NOUN 
+calcium, NOUN 
+human, ADJ 
+mononuclear, NOUN 
+cells, NOUN 
+Biochem, PROPN 
+
+, SPACE 
+Mol, PROPN 
+Bio1, NOUN 
+Int, PROPN 
+3, NUM 
+833, NUM 
+840, NUM 
+1993, NUM 
+
+, SPACE 
+Mendrick, PROPN 
+D., PROPN 
+L, PROPN 
+Kelly, PROPN 
+D., PROPN 
+M., PROPN 
+Tempora1, NOUN 
+expression, NOUN 
+VLA-2, PROPN 
+modu-, VERB 
+
+, SPACE 
+lation, NOUN 
+ligand, ADJ 
+binding, VERB 
+specificity, NOUN 
+rat, NOUN 
+glomemlar, ADJ 
+epithelial, ADJ 
+cells, NOUN 
+vitro, X 
+
+, SPACE 
+Lab, PROPN 
+Invest, PROPN 
+69:690, NOUN 
+702, NUM 
+199, NUM 
+1, NUM 
+
+, SPACE 
+41, NUM 
+Neff, PROPN 
+L., PROPN 
+Gailit, PROPN 
+J, PROPN 
+Baron, PROPN 
+R., PROPN 
+Ultrastructural, PROPN 
+demonstration, NOUN 
+cw, NOUN 
+
+, SPACE 
+subunit, NOUN 
+vitronectin, NOUN 
+receptor, NOUN 
+aealing, VERB 
+zone, NOUN 
+resorbing, VERB 
+osteoclasts, NOUN 
+
+, SPACE 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+lO(supp1, PROPN 
+S329, PROPN 
+1995, NUM 
+
+, SPACE 
+42, NUM 
+Nesbitt, PROPN 
+S., PROPN 
+Horton, PROPN 
+M., PROPN 
+Non, PROPN 
+radioactive, ADJ 
+biochemical, ADJ 
+characterization, NOUN 
+
+, SPACE 
+membrane, NOUN 
+proteins, NOUN 
+usmg, ADJ 
+enhanced, VERB 
+chemiluminescence, NOUN 
+Anal, PROPN 
+Biochem, PROPN 
+
+, SPACE 
+2061267, NUM 
+272, NUM 
+1992, NUM 
+
+, SPACE 
+43, X 
+Nesbitt, PROPN 
+S., PROPN 
+Nesbit, PROPN 
+Helfrich, PROPN 
+M., PROPN 
+Horton, PROPN 
+M., PROPN 
+Biochermcal, PROPN 
+characteriza-, ADJ 
+
+, SPACE 
+tion, NOUN 
+human, ADJ 
+osteoclast, ADJ 
+integrins, NOUN 
+Bio1, X 
+Chem, PROPN 
+268:16737, PROPN 
+16745, NUM 
+1993, NUM 
+44, NUM 
+
+, SPACE 
+45, NUM 
+
+, SPACE 
+46, NUM 
+
+, SPACE 
+47, NUM 
+
+, SPACE 
+48, NUM 
+
+, SPACE 
+49, NUM 
+
+, SPACE 
+50, NUM 
+
+, SPACE 
+SI, PROPN 
+
+, SPACE 
+52, NUM 
+
+, SPACE 
+53, NUM 
+
+, SPACE 
+54, NUM 
+
+, SPACE 
+55, NUM 
+Bene, PROPN 
+Vol, PROPN 
+19, NUM 
+4, NUM 
+
+, SPACE 
+October, PROPN 
+1996:317, NUM 
+X8, NOUN 
+
+, SPACE 
+Pfaff, PROPN 
+M, PROPN 
+Aumallley, PROPN 
+M., PROPN 
+Speck\, PROPN 
+C., PROPN 
+Knolle, PROPN 
+J, PROPN 
+Zewe\, PROPN 
+H, PROPN 
+G, PROPN 
+Ilmpl, PROPN 
+R, NOUN 
+
+, SPACE 
+Integrin, PROPN 
+Arg, PROPN 
+Gly, NOUN 
+Asp, NOUN 
+dependence, NOUN 
+cel1, NOUN 
+adhesion, NOUN 
+native, ADJ 
+un-, ADJ 
+
+, SPACE 
+folded, VERB 
+triple, ADJ 
+helix, NOUN 
+collagen, PROPN 
+type, NOUN 
+Vl, PROPN 
+Exp, PROPN 
+Cel1, VERB 
+Rei, PROPN 
+206, NUM 
+167, NUM 
+176, NUM 
+1993, NUM 
+
+, SPACE 
+Reinholt, PROPN 
+F., PROPN 
+P, PROPN 
+Hultenby, PROPN 
+K, PROPN 
+Oldberg, PROPN 
+À, PROPN 
+Heinegrd, PROPN 
+D., PROPN 
+Oateopontln, PROPN 
+
+, SPACE 
+possible, ADJ 
+anchor, NOUN 
+osteoclasts, NOUN 
+bene, VERB 
+Prut, NOUN 
+Nat1, NOUN 
+Acad, PROPN 
+Sci, PROPN 
+USA, PROPN 
+87:4473, PROPN 
+4475, NUM 
+
+, SPACE 
+1990, NUM 
+
+, SPACE 
+Ross, PROPN 
+F., PROPN 
+l, PROPN 
+Chappel, PROPN 
+J, PROPN 
+Alvarer, PROPN 
+J., PROPN 
+1, NUM 
+<, X 
+Sander, PROPN 
+D, PROPN 
+Butler, PROPN 
+W., PROPN 
+T, PROPN 
+Farach-, PROPN 
+
+, SPACE 
+Carwn, PROPN 
+M.C., PROPN 
+Mintz, PROPN 
+K., PROPN 
+Gehron, PROPN 
+Robey, PROPN 
+P., PROPN 
+Teltelbaum, PROPN 
+S., PROPN 
+L, PROPN 
+
+, SPACE 
+Cheresh, PROPN 
+D, NOUN 
+A., NOUN 
+Interactions, PROPN 
+bone, NOUN 
+matrix, NOUN 
+proteins, VERB 
+osteopontin, NOUN 
+
+, SPACE 
+bene, VERB 
+aialoprotein, PROPN 
+orteoclast, NOUN 
+inteprin, NOUN 
+ave3, PROPN 
+potentiate, VERB 
+bone, NOUN 
+resorption, NOUN 
+
+, SPACE 
+J, PROPN 
+Bio1, NOUN 
+Chem, PROPN 
+268:9901, NUM 
+9907, NUM 
+1993, NUM 
+
+, SPACE 
+Ryder, PROPN 
+M., PROPN 
+1, NUM 
+Jenkina, PROPN 
+S., PROPN 
+D, PROPN 
+Honon, PROPN 
+J., PROPN 
+E., PROPN 
+adherente, NOUN 
+bone, VERB 
+cy-, NOUN 
+
+, SPACE 
+toplasmlc, NOUN 
+elements, NOUN 
+osteoclasts, NOUN 
+J, PROPN 
+Dwt, PROPN 
+Res, PROPN 
+60:1349, PROPN 
+1355, NUM 
+1981, NUM 
+
+, SPACE 
+Sato, PROPN 
+M., PROPN 
+Sardana, PROPN 
+M., PROPN 
+K., PROPN 
+Grasser, PROPN 
+W, PROPN 
+Garsky, PROPN 
+V., PROPN 
+M., PROPN 
+Murray, PROPN 
+1, NUM 
+M., PROPN 
+
+, SPACE 
+Gould, PROPN 
+R., PROPN 
+J., PROPN 
+Echistatin, PROPN 
+potent, ADJ 
+inhibitor, NOUN 
+bene, ADJ 
+resorption, NOUN 
+culture, NOUN 
+J, PROPN 
+Cell, PROPN 
+
+, SPACE 
+Bio1, NOUN 
+Il, PROPN 
+l713, PROPN 
+1723, NUM 
+1990, NUM 
+
+, SPACE 
+Shankar, PROPN 
+G., PROPN 
+Dwlron, PROPN 
+1, NUM 
+Helfrich, PROPN 
+M., PROPN 
+H, PROPN 
+Mason, PROPN 
+W., PROPN 
+T., PROPN 
+Horton, PROPN 
+M.A., PROPN 
+
+, SPACE 
+lntegrin, NOUN 
+receptor, NOUN 
+mediated, VERB 
+mobilisation, NOUN 
+intranuclear, NOUN 
+calcium, NOUN 
+rat, PROPN 
+osteo-, PROPN 
+
+, SPACE 
+clast\., PROPN 
+J, PROPN 
+Cel1, PROPN 
+Sci, PROPN 
+105:61, PROPN 
+68, NUM 
+1993, NUM 
+
+, SPACE 
+Staatr, PROPN 
+W., PROPN 
+D., PROPN 
+Fok, PROPN 
+K., PROPN 
+F, PROPN 
+Zutter, PROPN 
+M.M., PROPN 
+Adams, PROPN 
+S., PROPN 
+P, PROPN 
+Rodrigues, PROPN 
+B., PROPN 
+
+, SPACE 
+Santoro, PROPN 
+S., PROPN 
+A., PROPN 
+Identification, PROPN 
+tetrapeptide, ADJ 
+recognition, NOUN 
+sequence, NOUN 
+
+, SPACE 
+rr?pl, NOUN 
+integrin, NOUN 
+collage, NOUN 
+J, PROPN 
+Bio1, NOUN 
+Chem, PROPN 
+266:7363, PROPN 
+7367, NUM 
+1991, NUM 
+
+, SPACE 
+Steuart, PROPN 
+K., PROPN 
+N, PROPN 
+Roy, PROPN 
+Chaudhury, PROPN 
+P, PROPN 
+Lunsden, PROPN 
+L., PROPN 
+Jones, PROPN 
+M.C., PROPN 
+Brown, PROPN 
+
+, SPACE 
+P, NOUN 
+A., NOUN 
+J, PROPN 
+MacLeod, PROPN 
+A.M, PROPN 
+Haites, NOUN 
+N., PROPN 
+E., PROPN 
+Simpson, PROPN 
+J, PROPN 
+G, PROPN 
+Power, PROPN 
+D., PROPN 
+A., PROPN 
+
+, SPACE 
+Monoclonal, NOUN 
+antibodies, VERB 
+cultured, ADJ 
+human, PROPN 
+glomerulw, PROPN 
+mesangial, ADJ 
+cells, NOUN 
+1, X 
+Re-, NOUN 
+
+, SPACE 
+activity, NOUN 
+haemopoietic, ADJ 
+cells, NOUN 
+normal, ADJ 
+kidney, NOUN 
+sectioni, NOUN 
+J, PROPN 
+Pathol, PROPN 
+163:265-, NUM 
+
+, SPACE 
+272, NUM 
+1991, NUM 
+
+, SPACE 
+Taylor, PROPN 
+M., PROPN 
+L, PROPN 
+Boyde, PROPN 
+A., PROPN 
+Jones, PROPN 
+S., PROPN 
+J., PROPN 
+effect, NOUN 
+fluonde, NOUN 
+patterns, NOUN 
+
+, SPACE 
+adherente, PROPN 
+osteoclasts, NOUN 
+cultured, VERB 
+resorbing, VERB 
+dentine, NOUN 
+3, NUM 
+D, NOUN 
+assessment, NOUN 
+
+, SPACE 
+vinculin, PROPN 
+labelled, VERB 
+cells, NOUN 
+confocal, ADJ 
+optica1, NOUN 
+microscopy, NOUN 
+Anat, PROPN 
+Embryo1, PROPN 
+
+, SPACE 
+180:427, PROPN 
+435, NUM 
+1989, NUM 
+
+, SPACE 
+Vaanänen, PROPN 
+H., PROPN 
+K., PROPN 
+Horton, PROPN 
+M., PROPN 
+A., NOUN 
+osreoclast, NOUN 
+clear, ADJ 
+zone, NOUN 
+specialized, ADJ 
+
+, SPACE 
+cell, NOUN 
+extracellular, ADJ 
+matnx, ADJ 
+adhesion, NOUN 
+structure, NOUN 
+J, PROPN 
+Cel1, PROPN 
+Sci, PROPN 
+108:2729, PROPN 
+2732, NUM 
+1995, NUM 
+
+, SPACE 
+Zambonin, PROPN 
+Zallone, PROPN 
+A., PROPN 
+Teti, PROPN 
+A., PROPN 
+Grano, PROPN 
+M, PROPN 
+Rubinacci, PROPN 
+A., PROPN 
+Abbadini, PROPN 
+M., PROPN 
+
+, SPACE 
+Gaboh, PROPN 
+M., PROPN 
+Mwchisio, PROPN 
+P., PROPN 
+C., PROPN 
+Immunocytochenucal, ADJ 
+distribution, NOUN 
+exua-, NUM 
+
+, SPACE 
+cellular, ADJ 
+matrix, NOUN 
+receptors, NOUN 
+human, ADJ 
+osteoclasts, NOUN 
+B3, PROPN 
+integrin, PROPN 
+colocalized, VERB 
+
+, SPACE 
+vinculin, PROPN 
+talin, PROPN 
+podosomu, NOUN 
+osteoclastoma, ADJ 
+giant, ADJ 
+cells, NOUN 
+Exp, PROPN 
+Cel1, VERB 
+Res, PROPN 
+
+, SPACE 
+182:64S-652, PROPN 
+1989, NUM 
+
+, SPACE 
+Zambruno, PROPN 
+G., PROPN 
+Marchisio, PROPN 
+P., PROPN 
+C., PROPN 
+Mechiori, PROPN 
+Bondanza, PROPN 
+S., PROPN 
+Cancedda, PROPN 
+R., PROPN 
+
+, SPACE 
+De, PROPN 
+Luca, PROPN 
+M., PROPN 
+Expression, PROPN 
+integrin, PROPN 
+receptors, NOUN 
+role, NOUN 
+adhesion, NOUN 
+spread-, NOUN 
+
+, SPACE 
+mg, NOUN 
+migratmn, NOUN 
+normal, ADJ 
+human, ADJ 
+melanocytes, NOUN 
+J, PROPN 
+Cel1, PROPN 
+Sci, PROPN 
+105:179, PROPN 
+190, NUM 
+
+, SPACE 
+1993, NUM 
+
+, SPACE 
+Date, PROPN 
+Rrceivrd, PROPN 
+January, PROPN 
+30, NUM 
+1996, NUM 
+
+, SPACE 
+Bate, PROPN 
+Revised, VERB 
+3, NUM 
+1996, NUM 
+
+, SPACE 
+Date, PROPN 
+Ampted, VERB 
+June, PROPN 
+7, NUM 
+1996, NUM 
+
+, SPACE 

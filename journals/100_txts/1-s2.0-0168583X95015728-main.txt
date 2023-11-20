@@ -1,0 +1,550 @@
+Nuclear Instruments and Methods in Physics Research B 114 (1996) 34-41 
+ELSEVIER Beam Interactions 
+with Materials 8 Atoms 
+Submicron ion beam modification of high-T, superconducting bridges 
+F. Machalett a, * , P. Seidel a, E. Heinz a, E. SteinbeiB b, T. Eick b, K. Steenbeck b, 
+W. Brodkorb b, U. Hiibner ’ 
+a lnstitutfirr Festkiirperphysik. Friedrich-Schiller-UniuersitCt Jena. Helmhnltzweg 5, D-07743 Jena. Germuny 
+b lnstitutjiir Physikulische Hochtechnologie e.V.. Helmholtweg 4. D-07743 Jena. Germany 
+’ Institut firr Angewandte Physik, Friedrich-Schiller-Uniuersittit Jew. Mux- Wien-Platz 1. D-07743 Jena. Germuny 
+Received 30 May 1995; revised form received 8 December 1995 
+Abstract 
+We have investigated the modification of high-T, superconducting film structures due to ion beam irradiation using a 
+mask technology. The YBa,Cu,O, (YBCO) and GdBa,CusO, (GBCO) thin film microbridges were covered with electron 
+resist (PMMA) masks. Then, a submicron slit was patterned by e-beam lithography. The high-T, bridges were modified by 
+irradiation with argon ions. Fluence and energy of the ions could be varied and the change in the electrical properties of the 
+modified regions have been measured. For suitable values of ion energy and fluence we measured Shapiro steps in the 
+current-voltage cumes under microwave irradiation for a temperature range of a few Kelvin just below the critical 
+temperature. We found a modulation of the Shapiro steps with increasing microwave power and compared the power 
+dependence to Josephson and flux flow behaviour. The Monte-Carlo program TRIM was used for characterization of the ion 
+solid interaction, especially for the estimation of range, damage distribution and straggling in dependence on geometry. 
+1. Introduction 
+Since the discovery of high temperature superconduc- 
+tivity great efforts have been done to apply these materials 
+in thin film cryoelectronic devices based on the Josephson 
+effect, e.g. superconducting quantum interference devices 
+(SQUIDS) or active microwave circuits [1,2]. There is a 
+great variety of different types of high-T, Josephson junc- 
+tions like grain boundary junctions, barrier junctions, mod- 
+ified bridges and intrinsic stack junctions, see e.g. in Ref. 
+[3]. For cryoelectronic applications a high stability in time 
+of a junction is requested. Until now, the most stable 
+junction which is known is the grain boundary type. 
+However the fabrication of well defined junctions with 
+high stability in time is still difficult and relatively expen- 
+sive. Thus, there is a rising interest in alternative types of 
+high-T, Josephson junctions, which avoid these drawbacks 
+and have advantages for higher level of integration for 
+complex cryoelectronic circuits. 
+For preparation of stable junctions we generated a 
+disturbance of nanometer dimensions in a microbridge of 
+some micron width using ion beam technology. This tech- 
+nology is well known and high sophisticated because of its 
+0168-583X/%/$15.00 0 1996 Elsevier Science B.V. All rights reserved 
+SSDl 0168-583X(95)01572-8 * Corresponding author. Tel. + 49 3641 6 35865, fax + 49 
+3641 6 35681. application in research, microelectronic industry and other 
+microstructure branches, e.g. micromechanics. In earlier 
+work we used the Focused Ion Beam (FIB) technology for 
+fabrication of Josephson junctions and SQUIDS [4,5]. 
+We found similar results to Zani et al. [6] and Gheem et 
+al. [7] who both used the FIB to irradiate the high-T, 
+bridges and found after ion irradiation Josephson-like be- 
+haviour as well as SQUID modulation. 
+In this work we present the results of broad ion beam 
+modification by using a mask with a thin slit perpendicular 
+to the microbridge, as a technique which is comparable to 
+standard circuit fabrication in semiconductor industry. 
+In contrast to Tinchev and Hinken [8,9] we used thinner 
+high-& films, smaller slit width, another ion species and 
+lower ion energies. In order to estimate the optimal mask 
+thickness and optimal irradiation parameters for the prepa- 
+ration of weak-links acting as Josephson barriers in the 
+high-T, films we applied the Monte Carlo program TRIM, 
+developed by Ziegler et al. and Biersack et al. [IO-121. 
+2. Principle 
+The aim of our investigations consists in the fabrication 
+of a thin barrier which acts as a superconducting weak 
+link. This barrier is formed by ion beam irradiation through 
+a submicron slit in a mask. The damaged region in the 
+F. Machalett et al./Nucl. Instr. and Meth. in Phys. Res. B 114 (1996) 34-41 35 
+Ar’ - ion beam 
+Fig. 1. Principle of submicron broad ion beam modification of 
+thin high-T, films with mask technology. 
+underlying superconducting film of submicron dimension 
+in lateral as well as in longitudinal (thickness) directions, 
+forms a superconducting weak link. The principle of the 
+submicron ion beam modification with a broad Ar+ beam 
+is shown in Fig. 1. In order to observe Josephson-like 
+behaviour in such a weak link, the spatial extension of the 
+irradiated region should be limited to a short modified 
+region, because the effective length should be less than the 
+normal conducting coherence length of the modified mate- 
+rial, assuming proximity effect coupling [9,13]. But we do 
+not know the coupling length of the modified high-T, 
+material. Even if this is much larger than the very short 
+superconducting coherence length in the high-T, materials 
+it seems to be properly to make the irradiated region as 
+short as possible [ 131. Tinchev used an oxygen ion beam of 
+100 keV energy and a slit mask of 300 nm line width. The 
+YBCO film thickness he varied between 200-300 nm and 
+the ion fluence between 1 X 10’3/cm2 and 6 X 10’3/cm2 
+t91. 
+Starting from these empirical results we have carried 
+out additional calculations and experiments to clear up the 
+following questions: 
+1) Which ion energy is necessary to modify the super- 
+conducting film completely, without any residual super- 
+conducting shunt nearby the substrate? 
+2) What thickness of the PMMA film mask is neces- 
+sary to protect the underlying high-T, film? 
+3) What is the optimum electron dose for realization of 
+a slit of minimum line width in a PMMA film of a given 
+thickness? 
+4) Which effect will have the variation of irradiation 
+parameters, as ion mass and energy, on the extension and 
+shape of the modified region in the superconducting film? 
+For reducing the thickness of the modified region we 
+can make the line in the mask thinner and reduce the 
+straggling effect of the ions by using heavier ions or lower 
+energies. The last two points will have a negative effect on 
+the ion range. In order to minimize the probability for 
+occurring of a residual superconducting shunt we can 
+reduce the thickness of the high-T, film. But this is still 
+limited by the quality (critical current density, critical 
+temperature) and homogeneity of the superconducting 
+films. The investigations in this work are concentrated on theoretical simulations and experiments for a first attempt 
+in optimization of this complex of problems. 
+3. Experimental 
+For the experiments we used YBa,Cu,O, (YBCO) and 
+GdBa,Cu,O, (GBCO) films of a thickness between 80 
+and 100 nm. The films were produced by dc magnetron 
+sputtering in Ar/O, atmosphere at a total pressure of 27 
+Pa. We used c-axis oriented films on SrTiO, substrates. 
+Microbridges of 3, 6, 12 and 24 km width and length of 
+24 pm were patterned using a standard photolithography 
+method. In a next step the films were covered by a PMMA 
+resist of a thickness of approximately 1 km. A small slit of 
+about 150 nm width was produced into the PMMA resist 
+across the microbridge by means of e-beam lithography. 
+The samples - prepared in this way - were irradiated with 
+Ar ions of energies between 50 and 100 keV and ion 
+fluences between 1 X lOI* and 1 X lOI cm-* in a next 
+step. In order to avoid a channeling effect we tilted the 
+sample by 7” deviating the c-axis of the film from the 
+direction of the ion beam. 
+The superconducting film under the slit was modified 
+by the ion beam whereas the other area was protected 
+against radiation by the mask. The modification of the 
+high-T, film was investigated by measuring the depen- 
+dence of electrical resistance on temperature (R-T curves) 
+and the current-voltage characteristics (I-V curves) in a 
+closed cycle refrigerator cryostat and also in liquid helium 
+with a common four point method. For investigation of the 
+Josephson effect the samples were irradiated by mi- 
+crowave radiation in the frequency range of 10 to 20 GHz. 
+4. Results and diicussion 
+4.1. Line width of the PMMA mask 
+The thickness of the PMMA layer has to be larger than 
+the projected range of the ions in order to protect the 
+high-?; film outside the slit. For estimation of the ion 
+range in the PMMA film we have employed the TRIM 95 
+program [lo]. The results are given in Table 1. The ion 
+Table 1 
+TRIM simulation of Ar ions in PMMA (composition: H: 53%. C: 
+33%. 0: 13% density: 1.18 g/cm’) 
+Ion energy Longitud. proj. Longitud. 
+[IreV] range [nm] straggling [nm] 
+50 76.6 16.4 
+loo 146.2 27.6 
+500 677.4 80.5 
+650 856.3 92.3 
+1000 1230 112.6 
+36 F. Machalett et al./Nucl. Instr. und Meth. in Phys. Res. B 114 (1996) 34-41 
+Fig. 2. Line width in a 1 Frn thick PMMA film in dependence on 
+electron dose, produced by e-beam lithography (electron energy: 
+30 keV, minimum spot size: 10 nm). 
+Fig. 3. Minimum line width in a PMMA film in dependence on its 
+thickness. produced by e-beam lithography (electron energy: 30 
+keV. minimum spot size: 10 nm. electron dose 2.0 mC/cm’). 
+/I Fig. 4. View of a patterned PMMA mask with a line width of 190 
+nm (PMMA thickness = 1 km). 
+energy for Ar ions in a PMMA film of 1 pm thickness 
+should not be higher than 650 keV. Thus we are confident 
+that for the energies in our experiments of 50 and 100 keV 
+and the PMMA thickness of about 1 pm nearly no ion will 
+reach the underlying high-T, film, or it losts so much 
+energy that it will not be able to destroy the superconduct- 
+ing film considerably. 
+The dimension of the modified region is important for 
+the electrical properties of the Josephson junction. One 
+way to reduce the thickness of the barrier consists in 
+reducing the line width in the PMMA mask. Fig. 2 shows 
+the line width in the PMMA film made by e-lithography in 
+dependence on the electron dose. It can be seen that the 
+line width is increasing with electron dose. To produce a 
+very small line it will be favourable to use lower electron 
+1 n O ,OOkeV / 
+0 50 100 150 200 250 300 
+DEPTH [nm] 
+Fig. 5. Distribution of lateral projected range of oxygen and argon ions for different energies in a 300 nm thin YBCO film (simulation with 
+‘I-RIM 95 [lo]). 
+F. Machalett et al./Nucl. Instr. and Meth. in Phys. Res. B 114 (1996) 34-41 31 
+doses. However, the electron dose for our mask material 
+should not be lower than about 1500 pC/cm’ in order to 
+ensure a complete remove of the developed area of the 
+resist. Furthermore, the PMMA film thickness has an 
+influence on the minimum line width (Fig. 3). With de- 
+creasing thickness the minimum line width is decreasing, 
+but below a thickness of approximately 150 nm for Ar ions 
+with an incident energy of 100 keV (see Table 1) the 
+protection of the superconductor against energetic ions is 
+incompletely. Therefore, we had to find a satisfying com- 
+promise between ion range in the mask, PMMA thickness 
+and the electron dose to produce a small line in the PMMA 
+on the one hand and the ion range in the superconducting 
+film and its film thickness on the other hand. As an 
+example, we used Ar ions with energies lower than 100 
+keV and a PMMA thickness of about 1 km_ To pattern 
+slits between 100 and 250 nm we used electron doses 
+between 1500 and 3500 pC/cm2. Fig. 4 shows an elec- 
+tron microscopic picture @EM) of a typical PMMA film 
+with a line width of 190 nm. 
+4.2. TRIM simulation and ion beam irradiation 
+The electrical behaviour of the junctions is caused by 
+the barrier produced by ion beam modification. As ion 
+species for irradiation we prefered to apply noble gas ions, 
+in this case argon, because it will have nearly no effect on 
+chemical composition of the high-T, film. Thus, the ion 
+beam damage in the solid will be the dominant process of 
+modification and we can neglect doping by implantation as 
+well as ion beam sputtering at the low values for ion 
+fluence. Additionally, as discussed in Section 4.1, the selection of suitable irradiation parameters is necessary to 
+reduce the thickness of the barrier. The lateral range and 
+straggling of the ions under the edge of the slit in the mask 
+increases the thickness of the barrier in excess of the slit 
+width. For a first quantitative estimation we carried out 
+TRIM calculations with the version TRIM 95 [lo-121 for 
+a number of 10000 ions for each different input parameter. 
+The TRIM program is normally used for calculation of ion 
+solid interaction in amorphous bulk materials or films. The 
+application of TRIM to epitaxial films seems to be permit- 
+ted because the direction of incident ion beam is tilted 
+from the c-axis orientation by 7” in order to avoid a 
+channeling effect, thus we can neglect the crystal structure 
+in a first approximation. 
+Fig. 5 shows the lateral projected range of the ions in 
+dependence on the depth in the YBCO film with a thick- 
+ness of 300 nm and a theoretical mass density of 6.33 
+g/cm3. The lateral projected range is defined as the 
+distance under the mask where the concentration drops to 
+25% (at the mask edge the concentration is equal to 50% 
+of the uniform value) [lo]. The first two curves are calcu- 
+lated for argon ions (50 and 100 keV) and the third one for 
+oxygen ions (100 keV) with the parameters used by Tinchev 
+and Hinken [8,9]. As it can be seen in Fig. 5 the lateral 
+projected range is shorter for the heavier argon ions than 
+for oxygen ions at the same energy of 100 keV and is also 
+shorter for argon ions with the lower energy of 50 keV. 
+The same situation can be observed for the lateral pro- 
+jected straggling (Table 1). Thus we can conclude, to 
+achieve a thinner barrier the ions should be relatively 
+heavy and have a low incident energy. However this is 
+limited by the penetration depth of the ions, which has not 
+100 150 200 250 300 
+DEPTH [rim] 
+Fig. 6. Distribution of longitudinal projected range of oxygen and argon ions for different energies in a 300 nm thin YBCO film (simulation 
+with TRIM 95 [lo]). 
+38 
+Table 2 F. Machaletr et aL/Nucl. Instr. and Meth. in Phys. Res. B 114 (1996) 34-41 
+TRIM simulation of argon and oxygen ions in YBCO films (average values) 
+Longitud. range 
+Longitud. straggle 
+Lateral range 
+Lateral straggle 
+Vacancies/ion Ar+ (50 keV) [nm] Ar + ( 100 keV) [nm] O+ (30 keV) [nm] O+ (100 keV) [nm] 
+32.2 60.6 40.8 119.3 
+15.1 26.5 18.7 44.4 
+11.6 20.8 17.0 43.3 
+14.7 26.2 21.2 53.4 
+505 902 214 473 
+to be smaller than film thickness to exclude a supercon- 
+ducting shunt. Therefore we have to consider longitudinal 
+projected range and straggling. Fig. 6 shows the longitudi- 
+nal projected range as a function of the depth in a YBCO 
+film. It can be seen that the lower ion mass and the lower 
+ion energy results in a shorter longitudinal range. This 
+drawback we can compensate by lowering the film thick- 
+ness. It shows also that special requests for the quality of 
+high-T, films are growing from the limited penetration 
+depth. These are for example: the homogeneity of the 
+films, a constant and well known film thickness along the 
+sample and from one sample to another, and a low rough- 
+ness of the film surface. 
+The average values for longitudinal range and strag- 
+gling as well as lateral range and straggling are given 
+Table 2. Using these results we can approximate the 
+theoretical thickness of the barrier if we add up the experi- 
+mental line width in the PMMA mask and 2 times the 
+projected lateral range of the ions. If we compare the 
+theoretical thickness of the barrier in our experiments with 
+the calculated thickness using the experimental parameters 
+by Tinchev et al. i&9,13], we find for our experimental 
+parameters (Ar ions, 50 keV) a mean value for total thickness of 183 nm and for Tinchev et al. (0 ions, 100 
+keV) a value of 387 nm. The thickness of the barrier 
+should be in our experiments less than half of the value 
+calculated using Tinchev’s experimental parameters. This 
+value can be lowered using thinner YBCO and PMMA 
+films. 
+Another problem of preparation of high-T, junction by 
+particle beam modification (e.g. electrons or ions) will 
+occur in the stability of these junctions. Suzuki et al. [ 141 
+and Tolpygo et al. [ 1.51 described electron modified bridges 
+which have shown Shapiro steps in the current-voltage 
+characteristics under microwave irradiation. They used 
+electron energies of 400 keV [ 141 or up to 120 keV [ 151, 
+respectively. Both groups concluded that the incident elec- 
+trons in their described experiments had only enough 
+energy for displacements of oxygen and not sufficient 
+energy for displacements of Y, Ba and Cu atoms. The 
+diffusion of oxygen atoms in the film could be the reason 
+for the self-annealing of the electron modified bridges and 
+therefore the relative instable electrical parameters, espe- 
+cially after storage at room temperature. To compare these 
+assumptions with ion beam modified thin films we used 
+the displacement energies for Y, Ba, Cu and 0 given by 
+T __-_ 
+40 60 80 100 120 
+DEPTH [nm] n 0 
+cu 
+ElBa 
+Y 
+Fig. 7. Distribution of vacancies in a 100 nm thin YBCO film for each chemical component (simulation with TRIM 95 for Ar+, 100 keV). 
+F. Machalett et al./ Nucl. Instr. and Meth. in Phys. Res. B 114 (1996) 34-41 39 
+Baetzold [16] as input parameters and carried out TRIM 
+calculations. The distribution of vacancies over depth for 
+the four components Y, Ba, Cu and 0 is shown in Fig. 7. 
+It is visible that approximately 50% of the total number of 
+vacancies belongs to oxygen vacancies and the remaining 
+SO% to Y, Ba and Cu lattice sites. The most deviation 
+from chemical stoichiometry we can observe for Y and Ba, 
+because of their different displacement energies (Y u 54.5 
+cV and Ba u 18.6 eV) [16]. However, in contrast to the 
+electron modified YBCO bridges the ion beam modified 
+bridges by argon or oxygen ions with energies between 30 
+and 100 keV should be more stable in time because of the 
+considerably damaged cation lattice. In parallel to the 
+experiments described in this paper we carried out investi- 
+gations on ion beam irradiation of thin unpatterned YBCO 
+films and measured the changes in crystal structure by 
+X-ray diffraction (XRD) and Rutherford backscattering 
+spectrometry with channeling (RBS-C) with increasing ion 
+fluence and found a considerable damage in crystal struc- 
+ture of cation lattice after 100 keV Ar ion irradiation#ith 
+fluence values higher than 5 X 10r3/cm2. Experimental 
+details of these investigations have been given in Refs. 
+[ 17,181. TRIM calculations have also shown that the aver- 
+age number of vacancies generated by each ion lies for our 
+experiments with argon ions of energies between 50 and 
+100 keV in the range of 500 to 900 (Table 2). This result 
+leads to the assumption that the damage caused by ion 
+irradiation will be the main process of modification in the 
+YBCO film in comparison to any implantation effect. For 
+this reason it should not be so important to use always 
+noble gas ions. If we compare the number of vacancies per 
+ion of oxygen and argon ions both with the same incident 
+energy of 100 keV in Table 2 then we can see a double 
+value for Ar ions and additionally half of the longitudinal 
+projected range as for oxygen at the same energy. There- 
+fore we can assume that the produced defect density with 
+100 keV argon irradiation in our experiments will amount 
+four times greater than for 100 keV oxygen irradiation 
+carried out by Tinchev et al. [8,9]. This conclusion we 
+used to approximate the ion fluence which is necessary to 
+reduce the critical current density and to generate a weak 
+link in the high-T, material. It has been examined also for 
+generation of weak links for dc-SQUIDS and dc-SQUID 
+gradiometers by ion irradition with oxygen ions using the 
+lower ion energy of 30 keV in thin YBCO films. The 
+results are published elsewhere [ 19,201. 
+4.3. Electrical properties 
+The ion irradiation results in a change of the electrical 
+properties of the superconductor. Fig. 8 shows the depen- 
+dence of resistivity of 12 pm wide bridges (YBCO film 
+thickness 70 nm) on temperature (R(T)) for samples irradi- 
+ated with 50 keV Ar+ ions of different ion fluences 
+through a slit mask with line width of 160 nm. For ion 
+fluences increasing up to 1.2 X lOI cm-* we find a bridge width 12 p 
+M unirradiated 
+T[Kl 
+Fig. 8. Resistance versus temperature for different fluences of 
+Ar+ ions, 50 keV, YBCO film of 70 nm thickness. 
+lowering of the critical transition temperature T&. an in- 
+creasing room temperature resistivity and a typical foot 
+structure. The changes are similar to the results on unpat- 
+terned films [ 17,181 .and differ only in the absolute changes 
+of T,, at these fluence values. Fig. 9 shows the critical 
+current I, versus temperature obtained from Z-V curves 
+after ion irradiation. The convex shape of the curve indi- 
+cates the SNS character of the coupling. 
+The critical current density j, as a function of tempera- 
+ture is given in Fig. 10 for different ion fluence values of 
+Ar+ (50 keV). With increasing fluence we observe the 
+mentioned lowering in T,, and a reduction of j, as well as 
+a reduction of the gradient of the j,(T) curve. Fig. 11 
+shows the current-voltage characteristics under the influ- 
+ence of microwave irradiation (13.7 GHz) for different 
+power at a temperature of 60 K. Pronounced Shapiro steps 
+are visible (Fig. 1 la) and their step heights vary with 
+microwave power (Fig. 11 b). The power dependence of 
+the step heights for the step numbers 0 to 3 are shown in 
+Fig. 12. The current-voltage curves show at temperatures 
+nearby T,, RSJ-like behaviour. With decreasing tempera- 
+30 40 50 60 
+T IN 
+Fig. 9. Critical current versus temperature in a 12 pm wide bridge 
+after irradiation with Ar’ ions (100 keV, fluence: l.2X10i3 
+ions/cm’, YBCO film of 90 nm thickness). 
+40 F. Machalett et al./Nucl. Instr. and Meth. in Phys. Res. B 114 (1996) 34-41 
+I+- 7om wcl 
+- . 
+rn_ l 2.0 ld%m2 bridge width 12pm 
+4.0 KP/cm* Ar+ ,5okcv, 
+_ A 6.0 ld2/cm2 
+- * 15 8.0 10’Z/cmZ - _ “E r - . 1.2 10”lcm2 
+45 50 55 60 65 70 75 80 85 T-WK 
+t = 13.7 GHZ 
+20 
+10 
+n 
+-0 1 2 3 4 5 
+( PRF I mW )ln 
+TlXl 
+Fig. IO. Critical current density versus temperature in 12 km wide 
+YBCO bridge (70 nm thickness) for different Ar+ ion fluences of 
+an energy of 50 keV. Fig. 12. Step heights of the Shapiro steps in Fig. 11 as a function 
+of square root of microwave power at T = 60 K and a microwave 
+frequency of 13.7 GHz (horizontal solid line is only x-axis of the 
+diagram). 
+600 
+400 
+200 
+7 
+sl 0 
+- 
+-200 
+-400 
+-600 
+4w 
+300 
+200 
+1W 
+3 0 
+-1Ga 
+-200 
+-300 
+-400 -300 -200 -100 0 100 200 300 
+v IVY 
+T=60K 
+PRF = o-32 mw 
+-200 -100 0 100 200 300 400 
+v IbJvl 
+Fig. I 1. Current-voltage characteristics of the 12 km wide bridge 
+after irradiation with Ar+ ions (100 keV, fluence: l.2XtO’3 
+ions/cm*) at T = 60 K, irradiated with a microwave of different 
+power (frequency: 13.7 GHz. power: O-32 mW). (a) Original 
+curves (as measured). (b) Curves slightly shifted (to demonstrate 
+the modulation of the step heights). ture the shape of the curve changes gradually to the 
+flux-flow type. From the RSJ-like I-V curve and the 
+modulation of step heights we conclude that we have 
+induced a Josephson junction working in a small tempera- 
+ture range nearby T,,. The junctions have shown an excel- 
+lent stability in time of the electrical parameters even after 
+several cooling-heating cycles and after a storage of about 
+6 months at room temperature. 
+5. Summary and conclusions 
+In this paper we have investigated the changes in the 
+electrical properties of bridges in high-T, thin films by ion 
+beam irradiation in nanometer dimensions. To protect the 
+films outside of the region to be modified we used a 
+PMMA mask. The thickness of the PMMA layer was 
+evaluted with the TRIM program. Further we used the 
+TRIM program as a first step for estimation of the broad- 
+ening of the barrier considering the lateral projected range 
+and straggling as well as the penetration depth of the ions 
+and the distribution of vacancies for different elements. 
+The damages in the cation lattice seem to play an impor- 
+tant role for the stability of the junctions. The modified 
+bridges have shown Josephson-like properties under mi- 
+crowave irradiation and a high stability of the electrical 
+parameters in time, sufficient for the preparation of stable 
+operating dc-SQUIDS and dc-SQUID gradiometer circuits. 
+In a next step, more efforts have to be done in deter- 
+mining the thickness of the barrier taking into account the 
+influence of mask geometry and of diffusion on lateral and 
+longitudinal vacancy distribution, as it is well known from 
+process simulation in microelectronic industry. 
+F. Machalett et al./Nucl. Instr. and Meth. in Phys. Res. B 114 (1996) 34-41 41 
+Acknowledgements 
+‘he authors thank G. Lenk, W. Morgenroth, S. Giinther, 
+and U. Nennstiel for help with experiments and F. Schmidl, 
+A. Matthes for helpful discussions. We thank J.P. Biersack 
+(Hahn-Meitner Inst., Berlin) and J.F. Ziegler (IBM-Re- 
+search, Yorktown) for lending the TRIM versions 
+TRIM87-TRIM95 This work was supported by DFG(Ma 
+1540/l-2) and BMBF(13N5924A, 13N6131). 
+References 
+[II 
+M 
+[31 
+[41 
+El 
+I61 
+[71 H. Weinstock and R.W. Ralston (eds.), The New Supercon- 
+ducting Electronics (Kluwer, Dordrecht, 1993). 
+Ko Hara (ed.), High Temperature Superconducting Electron- 
+ics (Ohmsha Tokyo and IOS Press, Amsterdam, 1993). 
+P. Seidel, in: Nonlinear supercond. devices and high-T, 
+materials, eds. R.D. Parmentier and N.F. Pedersen (World 
+Scientific, Singapore, 1995) p. 19. 
+P. Seidel, F. Schmidl, H. Schneidewind, F. Machalett, A. 
+Matthes, L. Dijrrer, K. Zach, S. Linzen, T. Schmauder, V. 
+Zakosarenko, P.D. Prewett and P. McConville, Applied Su- 
+perconductivity, ed. H.C. Freyhardt (DGM Inforrnationsges. 
+Verlag, Oberursel, 1993) p. 1167. 
+H. Schneidewind, F. Schmidl, P.Seidel, F. Machalett, P.D. 
+Prewett, P. McConville, L. DBrrer, A. Matthes, S. Linzen 
+and U. Hhbner, Proc. 4th. Int. Superconductive Electronics 
+Conf. ISEC ‘93 (Centennial Conferences Publishers, Boul- 
+der, 1993) p. 252. [13] S.S. Tinchev, High-T, RF SQUIDS, Proc. 22nd Workshop, 
+Helsinki University, 28-8-92. p. 115. 
+[14] M. Suzuki, N. Kawahara, H. Hoshizaki and T. Imura, Jpn. J. 
+Appl. Phys. 33 (1994) L578. 
+[15] S.K. Tolpygo, S. Shokhor, B. Nadgomy, J.-Y. Lin, M. 
+Gurvitch, S.Y. Hou and J.M. Phillips, IEEE Trans. Appl. 
+Supercond. 5 (1995) 2521. 
+[16] R.C. Baetzold. Phys. Rev. B 38 (1988) 11304. 
+[17] Yijie Li, F. Machalett, S. Linzen, F. Schmidl and P. Seidel, 
+Phys. Status Solidi A 147 (1995) 119. 
+[18] Yijie Li, S. Linzen, F. Machalett, F. Schmidl and P. Seidel, 
+Physica C 243 (1995) 294. 
+[19] F. Schmidl, L. DGrrer, S. Linzen, S. Wunderlich, F. 
+Machalett, U. Hiibner, H. Schneidewind and P. Seidel, Real- 
+ization of YBCO thin film DC-SQUIDS using step-edge 
+junctions on silicon substrates as well as ion beam modified 
+microbridges, Proc. HTS-Workshop on Applications and New 
+Materials, University of Twente, Netherlands, May S-10, 
+1995, p. 131. 
+M.J. Zani, J.A. Luine, R.W. Simon and R.A. Davidheiser, [20] F. Schmidl, L. Diirrer, H. Schneidewind, K.-U. Barholz, S. 
+Appl. Phys. Len. 59 (1991) 234. Linzen, S. Wunderlich, F. Machalett, T. Schmauder, S. Bra- 
+Y.G. Gheem, T. Arakawa and Y. Okabe, presented at betz and P. Seidel, Proc. 5th Int. Supercond. Electronics 
+ASC’92, Aug. 23-27, 1992. Conf. ISEC’95, Sept. 18-21, 1995, Nagoya Japan, p. 332. [S] S.S. Tinchev and J.H. Hinken, Springer Proc. in Physics, 
+Vol. 64, Supercond. Devices and Appl., eds. H. Koch and H. 
+Liibbig (Springer. Berlin, Heidelberg, 1992) p. 102. 
+[9] S.S., Tinchev, IEEE Trans. Appl. Supercond. 3(l) (1993) 28. 
+[lo] J.F. Ziegler, J.P. Biersack and U. Littmark, The Stopping and 
+Range of Ions in Solids, Vol. 1 (Pergamon, New York, 1985) 
+Versions: TRIM 87-TRIM 95. 
+[ 111 J.F. Ziegler, The Stopping and Range of Ions in Matter, Vol. 
+2-6 (Pergamon, New York, 1977-1985). 
+1121 J.P. Biersack and L. Haggmark, Nucl. Instr. and Meth. 174 
+(1980) 257. 

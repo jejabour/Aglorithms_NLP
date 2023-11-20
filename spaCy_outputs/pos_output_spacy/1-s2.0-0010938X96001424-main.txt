@@ -1,0 +1,3497 @@
+Corrosion, PROPN 
+Science, PROPN 
+Vol, PROPN 
+38, NUM 
+3, NUM 
+pp, PROPN 
+44W55, NUM 
+1996, NUM 
+
+, SPACE 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+0010, NUM 
+938X/96, NOUN 
+$, SYM 
+15.00, NUM 
++, NUM 
+0.00, NUM 
+
+, SPACE 
+001&938X(96)00142, NUM 
+5, NUM 
+
+, SPACE 
+IRON, NOUN 
+CORROSION, NOUN 
+DRINKING, NOUN 
+WATER, PROPN 
+DISTRIBUTION, NOUN 
+
+, SPACE 
+SYSTEMS, NOUN 
+EFFECT, NOUN 
+pH, NOUN 
+CALCIUM, PROPN 
+HYDROGEN, PROPN 
+
+, SPACE 
+CARBONATE, PROPN 
+
+, SPACE 
+A., NOUN 
+SANDER, PROPN 
+B., PROPN 
+BERGHULT,+, PROPN 
+A., NOUN 
+ELFSTRiiM, PROPN 
+BROO,+, PROPN 
+E., PROPN 
+LIND, PROPN 
+JOHANSSON, PROPN 
+
+, SPACE 
+T., PROPN 
+HEDBERG, PROPN 
+
+, SPACE 
+Department, PROPN 
+Sanitary, PROPN 
+Engineering, PROPN 
+Chalmers, PROPN 
+University, PROPN 
+Technology, PROPN 
+S-412, PROPN 
+96, NUM 
+Giiteborg, PROPN 
+Sweden, PROPN 
+
+, SPACE 
++, PUNCT 
+Department, PROPN 
+Inorganic, PROPN 
+Chemistry, PROPN 
+University, PROPN 
+GBteborg, PROPN 
+S-412, PROPN 
+96, NUM 
+Goteborg, PROPN 
+Sweden, PROPN 
+
+, SPACE 
+Abstract, PROPN 
+corrosion, NOUN 
+iron, NOUN 
+synthetic, ADJ 
+drinking, NOUN 
+water, NOUN 
+studied, VERB 
+potentiodynamic, ADJ 
+sweeps, NOUN 
+
+, SPACE 
+coupon, NOUN 
+tests, NOUN 
+Corrosion, NOUN 
+rate, NOUN 
+follows, VERB 
+reversed, ADJ 
+proportional, ADJ 
+dependence, NOUN 
+logarithm, NOUN 
+free, ADJ 
+carbon, NOUN 
+
+, SPACE 
+dioxide, NOUN 
+content, NOUN 
+sum, NOUN 
+protonated, VERB 
+carbonic, ADJ 
+acid, NOUN 
+dissolved, VERB 
+carbon, NOUN 
+dioxide, NOUN 
+water, NOUN 
+low, ADJ 
+total, ADJ 
+
+, SPACE 
+carbonate, NOUN 
+concentrations, NOUN 
+addition, NOUN 
+calcium, NOUN 
+ions, NOUN 
+decreases, VERB 
+corrosion, NOUN 
+rate, NOUN 
+waters, NOUN 
+moderate, ADJ 
+
+, SPACE 
+high, ADJ 
+total, ADJ 
+carbonate, NOUN 
+content, NOUN 
+dependence, NOUN 
+calcium, NOUN 
+concentration, NOUN 
+observed, VERB 
+
+, SPACE 
+Keywords, NOUN 
+A., NOUN 
+steel, NOUN 
+B., PROPN 
+RDE, PROPN 
+RCE, PROPN 
+B., PROPN 
+weight, NOUN 
+loss, NOUN 
+C., PROPN 
+passive, ADJ 
+films, NOUN 
+C., PROPN 
+rust, NOUN 
+
+, SPACE 
+INTRODUCTION, NOUN 
+
+, SPACE 
+Internal, ADJ 
+corrosion, NOUN 
+drinking, VERB 
+water, NOUN 
+distribution, NOUN 
+systems, NOUN 
+
+, SPACE 
+Municipalities, PROPN 
+worldwide, ADV 
+invest, VERB 
+large, ADJ 
+amounts, NOUN 
+money, NOUN 
+environmental, ADJ 
+technology, NOUN 
+
+, SPACE 
+municipal, ADJ 
+sector, NOUN 
+controlling, VERB 
+considerable, ADJ 
+share, NOUN 
+sum, NOUN 
+Distribution, NOUN 
+systems, NOUN 
+
+, SPACE 
+drinking, NOUN 
+water, NOUN 
+wastewater, NOUN 
+account, PROPN 
+80, NUM 
+investment, NOUN 
+municipal, ADJ 
+sector, NOUN 
+
+, SPACE 
+External, ADJ 
+corrosion, NOUN 
+regarded, VERB 
+major, ADJ 
+factor, NOUN 
+affecting, VERB 
+maintenance, NOUN 
+costs, NOUN 
+lifetime, NOUN 
+
+, SPACE 
+drinking, NOUN 
+water, NOUN 
+pipes, NOUN 
+internal, ADJ 
+corrosion, NOUN 
+pipes, NOUN 
+cause, VERB 
+breaks, NOUN 
+overflows, VERB 
+
+, SPACE 
+distribution, NOUN 
+systems, NOUN 
+major, ADJ 
+effect, NOUN 
+water, NOUN 
+quality, NOUN 
+deterioration, NOUN 
+Corrosion, NOUN 
+products, NOUN 
+
+, SPACE 
+containing, VERB 
+iron, NOUN 
+copper, NOUN 
+found, VERB 
+consumers, NOUN 
+taps, NOUN 
+sewage, NOUN 
+
+, SPACE 
+treatment, NOUN 
+plant, NOUN 
+degrading, VERB 
+quality, NOUN 
+sludge, NOUN 
+soil, NOUN 
+improver, NOUN 
+Corrosion, NOUN 
+products, NOUN 
+
+, SPACE 
+inside, ADP 
+pipes, NOUN 
+reduce, VERB 
+effective, ADJ 
+diameter, NOUN 
+increase, VERB 
+pumping, VERB 
+costs, NOUN 
+Corrosion, NOUN 
+
+, SPACE 
+product, NOUN 
+coatings, NOUN 
+good, ADJ 
+environment, NOUN 
+growth, NOUN 
+micro, NOUN 
+organisms, NOUN 
+
+, SPACE 
+important, ADJ 
+distinguish, VERB 
+uniform, ADJ 
+corrosion, NOUN 
+ii, PROPN 
+pitting, VERB 
+corrosion, NOUN 
+
+, SPACE 
+iii, PROPN 
+corrosion, NOUN 
+related, VERB 
+water, NOUN 
+quality, NOUN 
+problems, NOUN 
+pitting, VERB 
+corrosion, NOUN 
+determine, VERB 
+
+, SPACE 
+lifetime, NOUN 
+pipe, NOUN 
+major, ADJ 
+corrosion, NOUN 
+products, NOUN 
+uniform, ADJ 
+corrosion, NOUN 
+
+, SPACE 
+Corrosion, NOUN 
+related, VERB 
+water, NOUN 
+quality, NOUN 
+problems, NOUN 
+mainly, ADV 
+function, NOUN 
+precipitation, NOUN 
+
+, SPACE 
+dissolution, ADJ 
+properties, NOUN 
+corrosion, NOUN 
+products, NOUN 
+formed.3,4, NUM 
+
+, SPACE 
+Minimization, PROPN 
+corrosion, NOUN 
+problems, NOUN 
+depends, VERB 
+investigations, NOUN 
+effects, NOUN 
+water, NOUN 
+
+, SPACE 
+quality, NOUN 
+-on, NOUN 
+pipe, NOUN 
+materials, NOUN 
+studies, NOUN 
+shown, VERB 
+different, ADJ 
+pipe, NOUN 
+materials, NOUN 
+
+, SPACE 
+require, VERB 
+different, ADJ 
+water, NOUN 
+qualities.5, X 
+8, NUM 
+investigations, NOUN 
+describe, VERB 
+specific, ADJ 
+networks, NOUN 
+
+, SPACE 
+corrosion, NOUN 
+problems, NOUN 
+treatments, NOUN 
+improve, VERB 
+water, NOUN 
+quality, NOUN 
+‘-12, NOUN 
+
+, SPACE 
+Manuscript, PROPN 
+received, VERB 
+12, NUM 
+July, PROPN 
+1995, NUM 
+amended, VERB 
+form, NOUN 
+1, NUM 
+September, PROPN 
+1995, NUM 
+
+, SPACE 
+443, NUM 
+
+, SPACE 
+444, NUM 
+A., NOUN 
+Sander, PROPN 
+et, NOUN 
+~1, NOUN 
+
+, SPACE 
+detailed, VERB 
+mechanisms, NOUN 
+pipe, NOUN 
+material, NOUN 
+corrosion, NOUN 
+coupled, VERB 
+effect, NOUN 
+different, ADJ 
+water, NOUN 
+
+, SPACE 
+compositions, NOUN 
+understood, VERB 
+
+, SPACE 
+Corrosion, PROPN 
+iron, NOUN 
+pipes, NOUN 
+
+, SPACE 
+oxygen, NOUN 
+induced, VERB 
+corrosion, NOUN 
+iron, NOUN 
+pipes, NOUN 
+different, ADJ 
+rate, NOUN 
+determining, VERB 
+steps, NOUN 
+
+, SPACE 
+possible:2,7,13, NOUN 
+1, NUM 
+oxygen, NOUN 
+diffusion, NOUN 
+surface, NOUN 
+2, X 
+anodic, ADJ 
+electron, NOUN 
+transfer, NOUN 
+reactions, NOUN 
+
+, SPACE 
+3, X 
+transport, NOUN 
+corrosion, NOUN 
+products, NOUN 
+surface, NOUN 
+bulk, NOUN 
+
+, SPACE 
+Oxygen, PROPN 
+diffusion, NOUN 
+determines, VERB 
+corrosion, NOUN 
+rate, NOUN 
+stagnation.275, PROPN 
+increase, NOUN 
+flow, NOUN 
+
+, SPACE 
+velocity, NOUN 
+reduces, VERB 
+thickness, NOUN 
+diffusion, NOUN 
+layer, NOUN 
+dissolved, VERB 
+oxygen, NOUN 
+easily, ADV 
+
+, SPACE 
+reach, VERB 
+metal, NOUN 
+surface, NOUN 
+Diffusion, NOUN 
+oxygen, NOUN 
+increases, VERB 
+increasing, VERB 
+temperature, NOUN 
+
+, SPACE 
+viscosity, NOUN 
+water, NOUN 
+reduced, VERB 
+diffusion, NOUN 
+constant, ADJ 
+increases, NOUN 
+Scale, NOUN 
+formations, NOUN 
+act, VERB 
+
+, SPACE 
+additional, ADJ 
+diffusion, NOUN 
+barriers, NOUN 
+high, ADJ 
+flow, NOUN 
+velocities, VERB 
+electron, NOUN 
+transfer, NOUN 
+rate, NOUN 
+
+, SPACE 
+determining, VERB 
+step, NOUN 
+
+, SPACE 
+formation, NOUN 
+passive, ADJ 
+layers, NOUN 
+subject, NOUN 
+investigations, NOUN 
+
+, SPACE 
+saturation, NOUN 
+Langlier, PROPN 
+index, NOUN 
+widely, ADV 
+introduced, VERB 
+1936.14, NUM 
+
+, SPACE 
+Langlier, PROPN 
+index, NOUN 
+indicates, VERB 
+water, NOUN 
+supersaturated, ADJ 
+undersaturated, ADJ 
+respect, NOUN 
+
+, SPACE 
+calcium, NOUN 
+carbonate, NOUN 
+calcite, NOUN 
+Langlier, PROPN 
+proposedi, PROPN 
+water, NOUN 
+treated, VERB 
+slight, ADJ 
+
+, SPACE 
+supersaturation, NOUN 
+thin, ADJ 
+film, NOUN 
+calcium, NOUN 
+carbonate, NOUN 
+precipitate, VERB 
+surface, NOUN 
+
+, SPACE 
+protect, VERB 
+metal, NOUN 
+corrosion, NOUN 
+later, ADJ 
+investigations15, NOUN 
+17, NUM 
+showed, VERB 
+
+, SPACE 
+Langlier, PROPN 
+index, NOUN 
+insufficient, ADJ 
+predict, VERB 
+iron, NOUN 
+corrosion, NOUN 
+Local, ADJ 
+pH, NUM 
+variations, NOUN 
+oxygen, NOUN 
+
+, SPACE 
+reduction, NOUN 
+cause, VERB 
+precipitation, NOUN 
+undersaturated, ADJ 
+waters, NOUN 
+forms, NOUN 
+solid, ADJ 
+
+, SPACE 
+calcium, NOUN 
+carbonate, NOUN 
+calcite, NOUN 
+taken, VERB 
+consideration.17, PROPN 
+waters, NOUN 
+
+, SPACE 
+saturated, VERB 
+respect, NOUN 
+siderite, NOUN 
+FeC03, NOUN 
+saturation, NOUN 
+achieved, VERB 
+calcite, NOUN 
+l8, PROPN 
+
+, SPACE 
+siderite, NOUN 
+believed, VERB 
+play, VERB 
+important, ADJ 
+role, NOUN 
+intermediate, NOUN 
+formation, NOUN 
+
+, SPACE 
+protective, ADJ 
+layers.19.20, NOUN 
+
+, SPACE 
+buffer, NOUN 
+capacity, NOUN 
+referred, VERB 
+important, ADJ 
+factor, NOUN 
+formation, NOUN 
+good, ADJ 
+
+, SPACE 
+protective, ADJ 
+layers, NOUN 
+according, VERB 
+siderite, ADJ 
+model, NOUN 
+increased, VERB 
+buffer, NOUN 
+capacity, NOUN 
+leads, VERB 
+
+, SPACE 
+slower, ADJ 
+precipitation, NOUN 
+corrosion, NOUN 
+products, NOUN 
+formation, NOUN 
+protective, ADJ 
+
+, SPACE 
+scales, NOUN 
+buffer, NOUN 
+capacity, NOUN 
+high, ADJ 
+iron(I1, ADJ 
+ions, NOUN 
+form, VERB 
+siderite, NOUN 
+instead, ADV 
+
+, SPACE 
+forming, VERB 
+protective, ADJ 
+goethite, NOUN 
+FeOOH, NOUN 
+iron, NOUN 
+hydroxide, NOUN 
+Fe(OH)2, INTJ 
+iron, NOUN 
+
+, SPACE 
+products, NOUN 
+scale, NOUN 
+dense, ADJ 
+stable, ADJ 
+Siderite, PROPN 
+oxidizes, VERB 
+
+, SPACE 
+magnetite, NOUN 
+Fe20j, PROPN 
+goethite, NOUN 
+pseudomorphous, ADJ 
+retaining, VERB 
+crystal, NOUN 
+line, NOUN 
+structure, NOUN 
+
+, SPACE 
+protective, ADJ 
+scale, NOUN 
+
+, SPACE 
+presence, NOUN 
+humic, ADJ 
+substances, NOUN 
+slows, VERB 
+precipitation, NOUN 
+rate, NOUN 
+stable, ADJ 
+protective, ADJ 
+
+, SPACE 
+layers, NOUN 
+formed.22, NOUN 
+hand, NOUN 
+chloride, PROPN 
+sulfate, NOUN 
+fluoride, NOUN 
+increase, VERB 
+
+, SPACE 
+corrosion, NOUN 
+rate, NOUN 
+interference, NOUN 
+formation, NOUN 
+protective, ADJ 
+layers.16, NOUN 
+
+, SPACE 
+aim, NOUN 
+investigation, NOUN 
+determine, VERB 
+influence, NOUN 
+carbonate, PROPN 
+system, NOUN 
+pH, NUM 
+
+, SPACE 
+calcium, NOUN 
+content, NOUN 
+rate, NOUN 
+uniform, ADJ 
+corrosion, NOUN 
+Previous, ADJ 
+investigations, NOUN 
+
+, SPACE 
+oriented, VERB 
+coupon, NOUN 
+tests, NOUN 
+investigation, NOUN 
+parallel, ADJ 
+studies, NOUN 
+coupons, NOUN 
+studies, NOUN 
+
+, SPACE 
+rotating, VERB 
+iron, NOUN 
+electrodes, NOUN 
+carried, VERB 
+achieve, VERB 
+better, ADJ 
+understanding, NOUN 
+
+, SPACE 
+underlying, VERB 
+mechanisms, NOUN 
+corrosion, NOUN 
+
+, SPACE 
+EXPERIMENTAL, PROPN 
+METHOD, PROPN 
+
+, SPACE 
+Electrochemical, ADJ 
+measurements, NOUN 
+instrumentation, NOUN 
+cells, NOUN 
+electrodes, VERB 
+
+, SPACE 
+Slow, ADJ 
+scan, ADJ 
+potentiodynamic, NOUN 
+sweeps, NOUN 
+PDS, PROPN 
+carried, VERB 
+Hewlett, PROPN 
+Packard, PROPN 
+
+, SPACE 
+synthesizer, PROPN 
+3325A, PROPN 
+Princeton, PROPN 
+Applied, PROPN 
+Research, PROPN 
+potentiostat, NOUN 
+galvanostat, NOUN 
+363, NUM 
+
+, SPACE 
+Iron, PROPN 
+corrosion, NOUN 
+drinking, VERB 
+water, NOUN 
+distribution, NOUN 
+systems, NOUN 
+445, NUM 
+
+, SPACE 
+Hewlett, PROPN 
+Packard, PROPN 
+multimeter, NOUN 
+3478A, PROPN 
+collected, VERB 
+data, NOUN 
+Hewlett, PROPN 
+Packard, PROPN 
+
+, SPACE 
+microcomputer, NOUN 
+HP, PROPN 
+85/86, NUM 
+controlled, VERB 
+system, NOUN 
+analysed, VERB 
+data, NOUN 
+Computer, NOUN 
+
+, SPACE 
+programs, NOUN 
+system, NOUN 
+control, NOUN 
+data, NOUN 
+analysis, NOUN 
+specially, ADV 
+developed, VERB 
+
+, SPACE 
+conventional, ADJ 
+electrode, ADJ 
+electrochemical, ADJ 
+cell, NOUN 
+cell, NOUN 
+consisted, VERB 
+
+, SPACE 
+Metrohm, PROPN 
+titration, NOUN 
+vessel, NOUN 
+150, NUM 
+ml, NOUN 
+specially, ADV 
+designed, VERB 
+lid, NOUN 
+vessel, NOUN 
+equipped, VERB 
+
+, SPACE 
+rotating, VERB 
+disc, NOUN 
+electrode, ADJ 
+device, NOUN 
+manufacture, NOUN 
+working, VERB 
+electrode, ADV 
+Rotating, VERB 
+
+, SPACE 
+disc, NOUN 
+electrodes, NOUN 
+surface, NOUN 
+area, NOUN 
+0.2, NUM 
+cm2, NOUN 
+prepared, VERB 
+pure, ADJ 
+iron, NOUN 
+rods, NOUN 
+99.9985, NUM 
+
+, SPACE 
+Johnson, PROPN 
+Matthey, PROPN 
+Ltd, PROPN 
+electrodes, NOUN 
+moulded, VERB 
+epoxy, NOUN 
+exposing, VERB 
+circular, ADJ 
+
+, SPACE 
+disc, NOUN 
+surface, NOUN 
+potential, NOUN 
+working, VERB 
+electrode, NOUN 
+measured, VERB 
+silver, ADJ 
+chloride, NOUN 
+
+, SPACE 
+reference, NOUN 
+electrode, NOUN 
+Ag, PROPN 
+AgCl, PROPN 
+sat, VERB 
+KCl, PROPN 
+197, NUM 
+mV, NUM 
+vs, ADP 
+normal, ADJ 
+hydrogen, NOUN 
+electrode, NOUN 
+NHE, PROPN 
+
+, SPACE 
+recorded, VERB 
+sweep, NOUN 
+ohmic, ADJ 
+drop, NOUN 
+working, NOUN 
+reference, NOUN 
+electrode, NOUN 
+
+, SPACE 
+measured, VERB 
+potential, NOUN 
+corrected, VERB 
+respect, NOUN 
+drop, NOUN 
+cylindrical, ADJ 
+
+, SPACE 
+platinum, NOUN 
+net, NOUN 
+counter, NOUN 
+electrode, ADJ 
+experiments, NOUN 
+room, NOUN 
+
+, SPACE 
+temperature, NOUN 
+blanket, NOUN 
+clean, ADJ 
+air, NOUN 
+
+, SPACE 
+iron, NOUN 
+electrodes, NOUN 
+wet, ADJ 
+polished, ADJ 
+1000, NUM 
+4000, NUM 
+mesh, NOUN 
+Carborundum, PROPN 
+papers, NOUN 
+
+, SPACE 
+Struers, PROPN 
+rinsed, VERB 
+double, ADJ 
+distilled, VERB 
+water, NOUN 
+immediately, ADV 
+transferred, VERB 
+
+, SPACE 
+electrochemical, ADJ 
+cell, NOUN 
+electrode, NOUN 
+pretreated, VERB 
+a’cyclic, ADJ 
+procedure, NOUN 
+follows, VERB 
+
+, SPACE 
+scan, PROPN 
+started, VERB 
+corrosion, NOUN 
+potential, NOUN 
+E, NOUN 
+=, NOUN 
+350, NUM 
+mV, NUM 
+E, PROPN 
+=, PROPN 
+E-, PROPN 
+E,,f, VERB 
+sweep, NOUN 
+
+, SPACE 
+positive, ADJ 
+direction, NOUN 
+sweep, NOUN 
+rate, NOUN 
+5, NUM 
+mV, X 
+s, PROPN 
+E, PROPN 
+=, PROPN 
+600, NUM 
+mV, NUM 
+reversed, VERB 
+E, NOUN 
+=, PROPN 
+1000, NUM 
+mV, NUM 
+
+, SPACE 
+E, NOUN 
+=, PROPN 
+350, NUM 
+mV., PROPN 
+rotation, NOUN 
+rate, NOUN 
+remained, VERB 
+constant, ADJ 
+50, NUM 
+rps, NOUN 
+procedure, NOUN 
+
+, SPACE 
+repeated, VERB 
+times, NOUN 
+scan, PROPN 
+recorded, VERB 
+
+, SPACE 
+Electrochemical, ADJ 
+measurements, NOUN 
+basic, ADJ 
+considerations, NOUN 
+
+, SPACE 
+Electrochemical, ADJ 
+measurements, NOUN 
+diluted, VERB 
+solutions, NOUN 
+consideration, NOUN 
+
+, SPACE 
+basic, ADJ 
+assumptions, NOUN 
+technique, NOUN 
+item, NOUN 
+interest, NOUN 
+migration, NOUN 
+
+, SPACE 
+approximate, ADJ 
+calculation, NOUN 
+current, ADJ 
+distribution, NOUN 
+diluted, ADJ 
+solution, NOUN 
+reveals, VERB 
+
+, SPACE 
+4, NUM 
+total, ADJ 
+current, NOUN 
+carried, VERB 
+reaction, NOUN 
+participants, NOUN 
+
+, SPACE 
+sufficiently, ADV 
+low, ADJ 
+hard, ADJ 
+conclude, VERB 
+results, NOUN 
+follow, VERB 
+trend, NOUN 
+
+, SPACE 
+solutions, NOUN 
+higher, ADJ 
+ionic, ADJ 
+strength, NOUN 
+migration, NOUN 
+effect, NOUN 
+assumed, VERB 
+
+, SPACE 
+minor, ADJ 
+importance, NOUN 
+similar, ADJ 
+question, NOUN 
+arises, VERB 
+concerning, VERB 
+double, ADJ 
+layer, NOUN 
+effects, NOUN 
+
+, SPACE 
+clean, ADJ 
+surface, NOUN 
+possible, ADJ 
+determine, VERB 
+potential, NOUN 
+zero, NUM 
+charge, NOUN 
+surface, NOUN 
+
+, SPACE 
+passive, ADJ 
+layers, NOUN 
+impossible, ADJ 
+estimate, VERB 
+quality, NOUN 
+results, NOUN 
+independent, ADJ 
+
+, SPACE 
+corrosion, NOUN 
+measurements, NOUN 
+test, NOUN 
+rig, NOUN 
+electrochemical, ADJ 
+techniques, NOUN 
+
+, SPACE 
+applied, VERB 
+coupon, NOUN 
+tests, NOUN 
+Similar, ADJ 
+results, NOUN 
+taken, VERB 
+evidence, NOUN 
+negligible, ADJ 
+double, ADJ 
+
+, SPACE 
+layer, NOUN 
+effects, NOUN 
+potential, ADJ 
+region, NOUN 
+
+, SPACE 
+Coupon, NOUN 
+tests, VERB 
+stagnant, ADJ 
+water, NOUN 
+
+, SPACE 
+Iron, PROPN 
+coupons, NOUN 
+exposed, VERB 
+double, ADV 
+distilled, VERB 
+water, NOUN 
+varying, VERB 
+additions, NOUN 
+hydrogen, NOUN 
+
+, SPACE 
+carbonate, NOUN 
+calcium, NOUN 
+range, NOUN 
+PDS, PROPN 
+measurements, NOUN 
+test, NOUN 
+periods, NOUN 
+
+, SPACE 
+12, NUM 
+15, NUM 
+days, NOUN 
+performed, VERB 
+iron, NOUN 
+coupons, NOUN 
+22, NUM 
+x, SYM 
+37, NUM 
+x, SYM 
+2, NUM 
+mm3, NOUN 
+pure, ADJ 
+iron, NOUN 
+
+, SPACE 
+wet, ADJ 
+polished, ADJ 
+500, NUM 
+1000, NUM 
+mesh, NOUN 
+Carborundum, PROPN 
+papers, NOUN 
+Struers, PROPN 
+rinsed, VERB 
+
+, SPACE 
+ethanol, NOUN 
+ultrasonic, ADJ 
+bath, NOUN 
+followed, VERB 
+rinsing, VERB 
+double, ADJ 
+distilled, VERB 
+water, NOUN 
+immediately, ADV 
+
+, SPACE 
+transferred, VERB 
+beakers, NOUN 
+beakers, NOUN 
+mounted, VERB 
+water, NOUN 
+bath, NOUN 
+constant, ADJ 
+
+, SPACE 
+temperature, NOUN 
+30, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+water, NOUN 
+volume, NOUN 
+400, NUM 
+ml, NOUN 
+start, NOUN 
+test, NOUN 
+analysis, NOUN 
+iron, NOUN 
+content, NOUN 
+
+, SPACE 
+required, VERB 
+0.5, NUM 
+10ml, NOUN 
+water, NOUN 
+volume, NOUN 
+decrease, NOUN 
+accounted, VERB 
+
+, SPACE 
+calculating, VERB 
+final, ADJ 
+iron, NOUN 
+concentrations, NOUN 
+
+, SPACE 
+446, NUM 
+A., NOUN 
+Sander, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Iron, NOUN 
+concentrations, NOUN 
+analysed, VERB 
+day, NOUN 
+test, NOUN 
+period, NOUN 
+Micropipettes, PROPN 
+200, NUM 
+
+, SPACE 
+5000, NUM 
+11, NUM 
+transfer, VERB 
+water, NOUN 
+samples, NOUN 
+beakers, NOUN 
+accuracy, NOUN 
+
+, SPACE 
+pipettes, NOUN 
+f, PROPN 
+1, NUM 
+normally, ADV 
+0.6, NUM 
+reproducibility, NOUN 
+0.3, NUM 
+Hach, PROPN 
+instrument, NOUN 
+DR/, PROPN 
+
+, SPACE 
+700, NUM 
+Colorimeter, PROPN 
+Module, PROPN 
+50.01, NUM 
+iron, NOUN 
+analyses, NOUN 
+instrument, NOUN 
+gives, VERB 
+accurate, ADJ 
+
+, SPACE 
+values, NOUN 
+0.02, NUM 
+5.0, NUM 
+mg, NOUN 
+l, PROPN 
+Fe’+, NOUN 
+present, ADJ 
+investigation, NOUN 
+iron, NOUN 
+content, NOUN 
+
+, SPACE 
+fell, VERB 
+0.30, NUM 
+mg, NOUN 
+l., NOUN 
+samples, NOUN 
+diluted, VERB 
+fit, VERB 
+range, NOUN 
+analyser, NOUN 
+
+, SPACE 
+end, NOUN 
+test, NOUN 
+weight, NOUN 
+loss, NOUN 
+coupons, NOUN 
+measured, VERB 
+
+, SPACE 
+Electrolytes, PROPN 
+
+, SPACE 
+Electrolytes, PROPN 
+synthetic, ADJ 
+water, NOUN 
+prepared, VERB 
+double, ADJ 
+distilled, VERB 
+water, NOUN 
+sodium, NOUN 
+
+, SPACE 
+hydrogen, NOUN 
+carbonate, PROPN 
+NaHCOs, PROPN 
+p.a, PROPN 
+concentrations, NOUN 
+0.5, NUM 
+10, NUM 
+mM., ADJ 
+Clean, ADJ 
+air, NOUN 
+
+, SPACE 
+equilibrium, NOUN 
+electrolyte, ADJ 
+concentration, NOUN 
+carbon, NOUN 
+dioxide, NOUN 
+bubbled, VERB 
+
+, SPACE 
+electrolyte, NOUN 
+30, NUM 
+min, NOUN 
+measurement, NOUN 
+saturate, VERB 
+electrolyte, NOUN 
+respect, NOUN 
+
+, SPACE 
+air, NOUN 
+adjust, VERB 
+pH, NUM 
+0.1, NUM 
+M, PROPN 
+hydrochloric, NOUN 
+acid, NOUN 
+HCl, PROPN 
+p.a, PROPN 
+order, NOUN 
+achieve, VERB 
+
+, SPACE 
+chloride, NOUN 
+concentration, NOUN 
+experiments, NOUN 
+additions, NOUN 
+sodium, NOUN 
+chloride, PROPN 
+NaCl, PROPN 
+p.a, PROPN 
+
+, SPACE 
+Sodium, PROPN 
+presumed, VERB 
+influence, VERB 
+corrosion, NOUN 
+rate, NOUN 
+Calcium, NOUN 
+added, VERB 
+
+, SPACE 
+Ca(NO, PROPN 
+Different, ADJ 
+concentrations, NOUN 
+nitrates, NOUN 
+tested, VERB 
+showed, VERB 
+effect, NOUN 
+
+, SPACE 
+corrosion, NOUN 
+rate, NOUN 
+concentration, NOUN 
+range, NOUN 
+
+, SPACE 
+EXPERIMENTAL, PROPN 
+RESULTS, NOUN 
+DISCUSSION, NOUN 
+
+, SPACE 
+uniform, ADJ 
+corrosion, NOUN 
+iron, NOUN 
+drinking, VERB 
+\$,ater, PROPN 
+pipes, NOUN 
+
+, SPACE 
+pointed, VERB 
+introduction, NOUN 
+important, ADJ 
+distinguish, VERB 
+water, NOUN 
+quality, NOUN 
+
+, SPACE 
+corrosion, NOUN 
+rate, NOUN 
+total, ADJ 
+mass, NOUN 
+corrosion, NOUN 
+products, NOUN 
+inside, ADP 
+pipes, NOUN 
+
+, SPACE 
+function, NOUN 
+corrosion, NOUN 
+rate, NOUN 
+integrated, VERB 
+time, NOUN 
+water, NOUN 
+quality, NOUN 
+deterioration, NOUN 
+primarily, ADV 
+
+, SPACE 
+depends, VERB 
+precipitation, NOUN 
+dissolution, ADJ 
+properties, NOUN 
+corrosion, NOUN 
+products, NOUN 
+
+, SPACE 
+common, ADJ 
+opinion, NOUN 
+hard, ADJ 
+water, NOUN 
+corrosive, ADJ 
+iron, NOUN 
+pipes, NOUN 
+soft, ADJ 
+Copper, NOUN 
+pipes, NOUN 
+
+, SPACE 
+corrode, VERB 
+intensively, ADV 
+hard, ADJ 
+waters, NOUN 
+
+, SPACE 
+Figure, NOUN 
+1, NUM 
+example, NOUN 
+PDS, NOUN 
+iron, NOUN 
+air, NOUN 
+saturated, VERB 
+synthetic, ADJ 
+drinking, NOUN 
+water, NOUN 
+
+, SPACE 
+anodic, ADJ 
+corrosion, NOUN 
+potential, NOUN 
+material, NOUN 
+passivates, VERB 
+film, VERB 
+formation, NOUN 
+
+, SPACE 
+E, NOUN 
+mV, NUM 
+vs, ADP 
+AglAgCI, PROPN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Potential, ADJ 
+dynamic, ADJ 
+sweep, NOUN 
+iron, NOUN 
+air, NOUN 
+saturated, VERB 
+synthetic, ADJ 
+drinking, NOUN 
+water, NOUN 
+0.5, NUM 
+mM, NUM 
+HC03-, PROPN 
+
+, SPACE 
+pH, NUM 
+zz, NOUN 
+8.3, NUM 
+Sweep, NOUN 
+rate, NOUN 
+5, NUM 
+mV, X 
+s, PROPN 
+rotation, NOUN 
+rate, NOUN 
+50, NUM 
+rps, NOUN 
+
+, SPACE 
+Iron, NOUN 
+corrosion, NOUN 
+drinking, VERB 
+water, NOUN 
+distribution, NOUN 
+systems, NOUN 
+
+, SPACE 
+Rotation, PROPN 
+rate, NOUN 
+vs, ADP 
+cathodic, NOUN 
+limes, NOUN 
+current, ADJ 
+447, NUM 
+
+, SPACE 
+5, NUM 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Rotation, NOUN 
+rate, NOUN 
+dependence, NOUN 
+oxygen, NOUN 
+reduction, NOUN 
+reaction, NOUN 
+iron, NOUN 
+air, NOUN 
+saturated, VERB 
+
+, SPACE 
+synthetic, ADJ 
+drinking, NOUN 
+water, NOUN 
+3, NUM 
+mM, NUM 
+HC03-, PROPN 
+pH, NUM 
+z, NOUN 
+8.3, NUM 
+Sweep, NOUN 
+rate, NOUN 
+5, NUM 
+mV, X 
+s, PROPN 
+rotation, NOUN 
+rates, NOUN 
+10, NUM 
+30, NUM 
+50, NUM 
+
+, SPACE 
+70, NUM 
+rps, NOUN 
+
+, SPACE 
+cathodic, ADJ 
+current, ADJ 
+approaches, NOUN 
+limiting, VERB 
+plateau, NOUN 
+oxygen, NOUN 
+reduction, NOUN 
+
+, SPACE 
+rotation, NOUN 
+rate, NOUN 
+dependence, NOUN 
+observed, VERB 
+anodic, ADJ 
+oxygen, NOUN 
+reduction, NOUN 
+shows, VERB 
+
+, SPACE 
+dependence, NOUN 
+indicating, VERB 
+diffusion, NOUN 
+controlled, VERB 
+process, NOUN 
+Fig, PROPN 
+2, NUM 
+estimate, VERB 
+corrosion, NOUN 
+
+, SPACE 
+rate, NOUN 
+slopes, NOUN 
+anodic, ADJ 
+cathodic, ADJ 
+curves, NOUN 
+extrapolated, VERB 
+corrosion, NOUN 
+
+, SPACE 
+potential, NOUN 
+found, VERB 
+diffusion, NOUN 
+controlled, VERB 
+cathodic, NOUN 
+process, NOUN 
+affect, VERB 
+
+, SPACE 
+corrosion, NOUN 
+rate, NOUN 
+determination, NOUN 
+corrosion, NOUN 
+rate, NOUN 
+appears, VERB 
+independent, ADJ 
+
+, SPACE 
+diffusion, NOUN 
+layer, NOUN 
+thickness, NOUN 
+water, NOUN 
+flow, NOUN 
+velocity, NOUN 
+noted, VERB 
+
+, SPACE 
+corrosion, NOUN 
+rate, NOUN 
+estimations, NOUN 
+uncertain, ADJ 
+difficulties, NOUN 
+determination, NOUN 
+ohmic, ADJ 
+
+, SPACE 
+drop, NOUN 
+solution, NOUN 
+leads, VERB 
+slight, ADJ 
+spreading, NOUN 
+corrosion, NOUN 
+rate, NOUN 
+estimations, NOUN 
+added, VERB 
+
+, SPACE 
+uncertainty, NOUN 
+given, VERB 
+system, NOUN 
+conditions, NOUN 
+
+, SPACE 
+corrosion, NOUN 
+rate, NOUN 
+shown, VERB 
+function, NOUN 
+total, ADJ 
+carbonate, NOUN 
+Fig, PROPN 
+3, NUM 
+test, NOUN 
+
+, SPACE 
+concentration, NOUN 
+wide, ADJ 
+range, NOUN 
+corrosion, NOUN 
+rates, NOUN 
+determined, VERB 
+seen, VERB 
+Fig, PROPN 
+
+, SPACE 
+3, NUM 
+pH, NUM 
+increase, VERB 
+corrosion, NOUN 
+rate, NOUN 
+implies, VERB 
+total, ADJ 
+carbonate, NOUN 
+
+, SPACE 
+determining, VERB 
+corrosion, NOUN 
+rate, NOUN 
+instead, ADV 
+certain, ADJ 
+components, NOUN 
+protonated, VERB 
+carbonic, ADJ 
+
+, SPACE 
+acid, NOUN 
+H2C03, PROPN 
+carbon, NOUN 
+dioxide, NOUN 
+CO, PROPN 
+determining, VERB 
+following, VERB 
+combined, ADJ 
+
+, SPACE 
+concentrations, NOUN 
+protonated, VERB 
+carbonic, ADJ 
+acid, NOUN 
+carbon, NOUN 
+dioxide, NOUN 
+referred, VERB 
+free, ADJ 
+
+, SPACE 
+carbon, NOUN 
+dioxide, NOUN 
+Fig, PROPN 
+4, NUM 
+corrosion, NOUN 
+rate, NOUN 
+shown, VERB 
+function, NOUN 
+content, NOUN 
+free, ADJ 
+
+, SPACE 
+carbon, NOUN 
+dioxide, NOUN 
+similar, ADJ 
+relationship, NOUN 
+time, NOUN 
+expressed, VERB 
+loss, NOUN 
+weight, NOUN 
+
+, SPACE 
+found, VERB 
+coupon, NOUN 
+tests, NOUN 
+Fig, PROPN 
+5, NUM 
+Coupon, NOUN 
+tests, NOUN 
+stationary, ADJ 
+conditions, NOUN 
+
+, SPACE 
+somewhat, ADV 
+lower, ADJ 
+corrosion, NOUN 
+rates, NOUN 
+determined, VERB 
+seen, VERB 
+Fig, PROPN 
+5, NUM 
+data, NOUN 
+
+, SPACE 
+presented, VERB 
+logarithmic, ADJ 
+plot, NOUN 
+gave, VERB 
+best, ADJ 
+correlation, NOUN 
+anticipated, VERB 
+
+, SPACE 
+component, NOUN 
+dependence, NOUN 
+kinetically, ADV 
+controlled, VERB 
+process, NOUN 
+
+, SPACE 
+According, VERB 
+siderite, ADJ 
+mode121, NOUN 
+buffer, NOUN 
+capacity, NOUN 
+important, ADJ 
+factor, NOUN 
+
+, SPACE 
+stable, ADJ 
+protective, ADJ 
+layer, NOUN 
+formation, NOUN 
+clear, ADJ 
+dependence, NOUN 
+buffer, NOUN 
+capacity, NOUN 
+seen, VERB 
+
+, SPACE 
+investigation, NOUN 
+Figs, NOUN 
+6(a, NUM 
+6(b, NUM 
+buffer, NOUN 
+capacity, NOUN 
+co, NOUN 
+varies, VERB 
+
+, SPACE 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+pH, NUM 
+decreased, VERB 
+8.3, NUM 
+course, ADV 
+
+, SPACE 
+exclude, VERB 
+siderite, NOUN 
+important, ADJ 
+corrosion, NOUN 
+product, NOUN 
+film, NOUN 
+formation, NOUN 
+Langlier, PROPN 
+
+, SPACE 
+448, NUM 
+A., NOUN 
+Sander, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+0,ia, PROPN 
+
+, SPACE 
+0,175, NUM 
+
+, SPACE 
+0,17, NUM 
+
+, SPACE 
+C, NOUN 
+
+, SPACE 
+5,165, NUM 
+
+, SPACE 
+z, NOUN 
+
+, SPACE 
+5, NUM 
+0,16, NUM 
+
+, SPACE 
+$, SYM 
+165, NUM 
+
+, SPACE 
+L, PROPN 
+
+, SPACE 
+.E, PUNCT 
+0,lS, NOUN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+I45, PROPN 
+
+, SPACE 
+s, VERB 
+
+, SPACE 
+0,14, NUM 
+
+, SPACE 
+0,135, NUM 
+
+, SPACE 
+0,13, NUM 
+10.1, NUM 
+
+, SPACE 
+88, NUM 
+4, X 
+
+, SPACE 
+3, NUM 
+a,1, NUM 
+
+, SPACE 
+0, NUM 
+0,5, NUM 
+1, NUM 
+I,5, PRON 
+2, NUM 
+2,5, NUM 
+
+, SPACE 
+total, ADJ 
+carbonate, NOUN 
+mM, PROPN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Corrosion, NOUN 
+rate, NOUN 
+estimations, NOUN 
+potential, ADJ 
+dynamic, ADJ 
+sweeps, NOUN 
+function, NOUN 
+total, ADJ 
+carbonate, NOUN 
+
+, SPACE 
+content, NOUN 
+iron, NOUN 
+air, NOUN 
+saturated, VERB 
+synthetic, ADJ 
+drinking, NOUN 
+water, NOUN 
+pH, NUM 
+values, NOUN 
+noted, VERB 
+experiment, NOUN 
+
+, SPACE 
+$, SYM 
+0,18-, NUM 
+
+, SPACE 
+s, NOUN 
+
+, SPACE 
+E, NOUN 
+0,17-, NOUN 
+
+, SPACE 
+g, PROPN 
+
+, SPACE 
+n, CCONJ 
+
+, SPACE 
+0,16-, PROPN 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+0,131, NUM 
+,I, PROPN 
+I., PROPN 
+1, NUM 
+
+, SPACE 
+-I,5, INTJ 
+-I,0, PUNCT 
+-0,5, NOUN 
+0,O, PROPN 
+0,6, NOUN 
+I,0, ADP 
+I,5, ADP 
+2,0, NUM 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Corrosion, NOUN 
+rate, NOUN 
+estimations, NOUN 
+potential, ADJ 
+dynamic, ADJ 
+sweeps, NOUN 
+function, NOUN 
+free, ADJ 
+carbon, NOUN 
+
+, SPACE 
+dioxide, NOUN 
+iron, NOUN 
+air, NOUN 
+saturated, VERB 
+synthetic, ADJ 
+drinking, NOUN 
+water, NOUN 
+
+, SPACE 
+Iron, NOUN 
+corrosion, NOUN 
+drinking, VERB 
+water, NOUN 
+distribution, NOUN 
+systems, NOUN 
+449, NUM 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+20-, X 
+
+, SPACE 
+0, NUM 
+1, NUM 
+1, NUM 
+
+, SPACE 
+W, PROPN 
+095, NUM 
+14, NUM 
+1,s, NUM 
+290, NUM 
+
+, SPACE 
+log, NOUN 
+W,+H, PROPN 
+CO, PROPN 
+WW, PROPN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Weight, NOUN 
+loss, NOUN 
+function, NOUN 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+iron, NOUN 
+air, NOUN 
+saturated, VERB 
+synthetic, ADJ 
+drinking, NOUN 
+
+, SPACE 
+water, NOUN 
+
+, SPACE 
+protective, ADJ 
+layers, NOUN 
+calcitei4’15, PROPN 
+cause, VERB 
+corrosion, NOUN 
+rate, NOUN 
+dependence, NOUN 
+product, NOUN 
+
+, SPACE 
+calcium, NOUN 
+carbonate, PROPN 
+ion, PROPN 
+content, NOUN 
+observed, VERB 
+Figs, PROPN 
+7(a, NUM 
+7(b, NUM 
+
+, SPACE 
+Instead, ADV 
+highest, ADJ 
+corrosion, NOUN 
+rates, NOUN 
+observed, VERB 
+highest, ADJ 
+values, NOUN 
+product, NOUN 
+
+, SPACE 
+low, ADJ 
+concentration, NOUN 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+measurements, NOUN 
+
+, SPACE 
+possible, ADJ 
+change, VERB 
+appearance, NOUN 
+plot, NOUN 
+conducting, VERB 
+experiments, NOUN 
+increase, NOUN 
+
+, SPACE 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+content, NOUN 
+lead, VERB 
+lower, ADJ 
+corrosion, NOUN 
+rates, NOUN 
+
+, SPACE 
+experiments, NOUN 
+high, ADJ 
+calcium, NOUN 
+carbonate, PROPN 
+ion, NOUN 
+contents, NOUN 
+
+, SPACE 
+Calcium, NOUN 
+content, NOUN 
+referred, VERB 
+important, ADJ 
+factor, NOUN 
+iron, NOUN 
+corrosion.14,23, NOUN 
+
+, SPACE 
+investigation, NOUN 
+calcium, NOUN 
+affected, VERB 
+corrosion, NOUN 
+rate, NOUN 
+soft, ADJ 
+waters, NOUN 
+seen, VERB 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+higher, ADJ 
+total, ADJ 
+carbonate, NOUN 
+concentrations, VERB 
+effect, NOUN 
+calcium, NOUN 
+disappears, VERB 
+agrees, VERB 
+
+, SPACE 
+results, NOUN 
+discussed, VERB 
+Sontheimer, PROPN 
+et, PROPN 
+~1.~~, PUNCT 
+Fiksdal, NOUN 
+et, NOUN 
+aI.23, NOUN 
+calcite, NOUN 
+layers, NOUN 
+
+, SPACE 
+observed, VERB 
+waters, NOUN 
+low, ADJ 
+calcium, NOUN 
+total, ADJ 
+carbonate, ADJ 
+concentrations, NOUN 
+
+, SPACE 
+explanation, NOUN 
+based, VERB 
+pure, ADJ 
+equilibria, NOUN 
+data, NOUN 
+sufficient, ADJ 
+
+, SPACE 
+Instead, ADV 
+corrosion, NOUN 
+rate, NOUN 
+dependence, NOUN 
+interpreted, VERB 
+terms, NOUN 
+surface, NOUN 
+
+, SPACE 
+complexation, NOUN 
+effect, NOUN 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+surface, NOUN 
+complexation, NOUN 
+iron, NOUN 
+
+, SPACE 
+mineral, NOUN 
+considered, VERB 
+elsewhere.24, PROPN 
+26, NUM 
+schematic, ADJ 
+representation, NOUN 
+surface, NOUN 
+
+, SPACE 
+reaction, NOUN 
+iron, NOUN 
+shown, VERB 
+Fig, PROPN 
+9, NUM 
+Free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+acts, VERB 
+proton, NOUN 
+donor, NOUN 
+surface, NOUN 
+
+, SPACE 
+hydroxide, NOUN 
+sites, NOUN 
+hydroxide, ADJ 
+group, NOUN 
+leave, VERB 
+water, NOUN 
+new, ADJ 
+surface, NOUN 
+complexes, NOUN 
+
+, SPACE 
+involving, VERB 
+hydrogen, NOUN 
+carbonate, NOUN 
+formed, VERB 
+increases, VERB 
+solubility, NOUN 
+iron, NOUN 
+ions, NOUN 
+
+, SPACE 
+facilitates, VERB 
+formation, NOUN 
+siderite, NOUN 
+deprotonation, NOUN 
+surface, NOUN 
+complex, NOUN 
+
+, SPACE 
+case, NOUN 
+calcium, NOUN 
+surface, NOUN 
+complexes, NOUN 
+possible, ADJ 
+iron, NOUN 
+hydroxide, NOUN 
+
+, SPACE 
+surface, NOUN 
+likely, ADJ 
+inner, ADJ 
+sphere, NOUN 
+complex, NOUN 
+presented, VERB 
+Fig, PROPN 
+10, NUM 
+known25, NOUN 
+
+, SPACE 
+surface, NOUN 
+complexation, NOUN 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+causes, VERB 
+dissolution, NOUN 
+formed, VERB 
+calcite, NOUN 
+
+, SPACE 
+possible, ADJ 
+explanation, NOUN 
+absence, NOUN 
+calcium, NOUN 
+effects, NOUN 
+waters, NOUN 
+high, ADJ 
+alkalinity, NOUN 
+
+, SPACE 
+hardness, NOUN 
+soft, ADJ 
+waters, NOUN 
+formation, NOUN 
+calcium, NOUN 
+carbonate, PROPN 
+surface, NOUN 
+complexes, NOUN 
+
+, SPACE 
+dominate, VERB 
+iron, NOUN 
+carbonate, NOUN 
+surface, NOUN 
+complexes, NOUN 
+thermodynamic, ADJ 
+properties, NOUN 
+
+, SPACE 
+calcite, ADJ 
+protective, ADJ 
+layer, NOUN 
+formed, VERB 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+content, NOUN 
+low, ADJ 
+
+, SPACE 
+cause, VERB 
+calcite, ADJ 
+dissolution, NOUN 
+conclusion, NOUN 
+linear, NOUN 
+
+, SPACE 
+450, NUM 
+A., NOUN 
+Sander, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+0,16-, PROPN 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+E, NOUN 
+.m, ADJ 
+
+, SPACE 
+-1, PROPN 
+
+, SPACE 
+0,0002, PROPN 
+0,0004, PROPN 
+0,0006, NUM 
+0,0006, PROPN 
+
+, SPACE 
+Buffer, PROPN 
+capacity, NOUN 
+M, PROPN 
+
+, SPACE 
+b, PROPN 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+0, X 
+Ix;04, PUNCT 
+2~10~, NUM 
+3x;04, NUM 
+4x;04, NUM 
+5~10~, NOUN 
+6x;04, NOUN 
+7~10~, NUM 
+
+, SPACE 
+Buffer, PROPN 
+capacity, NOUN 
+M, PROPN 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Corrosion, NOUN 
+rate, NOUN 
+function, NOUN 
+buffer, NOUN 
+capacity, NOUN 
+air, NOUN 
+saturated, VERB 
+synthetic, ADJ 
+drinking, NOUN 
+water, NOUN 
+
+, SPACE 
+iron, NOUN 
+electrodes, NOUN 
+potential, ADJ 
+dynamic, ADJ 
+sweeps, NOUN 
+b, X 
+iron, NOUN 
+coupons, NOUN 
+stagnant, ADJ 
+water, NOUN 
+
+, SPACE 
+relationship, NOUN 
+Figs, PROPN 
+4, NUM 
+5, NUM 
+necessarily, ADV 
+extrapolated, VERB 
+low, ADJ 
+free, ADJ 
+carbon, NOUN 
+
+, SPACE 
+dioxide, NOUN 
+content, NOUN 
+area, NOUN 
+instead, ADV 
+dependence, NOUN 
+calcium, NOUN 
+concentration, NOUN 
+
+, SPACE 
+According, VERB 
+surface, NOUN 
+complexation, NOUN 
+model, NOUN 
+discussed, VERB 
+expect, VERB 
+pH, NUM 
+
+, SPACE 
+variation, NOUN 
+water, NOUN 
+coupon, NOUN 
+tests, NOUN 
+case, NOUN 
+waters, NOUN 
+high, ADJ 
+total, ADJ 
+
+, SPACE 
+carbonate, PROPN 
+content, NOUN 
+5, NUM 
+mM, NUM 
+calcium, NOUN 
+pH, NUM 
+increase, NOUN 
+noticed, VERB 
+
+, SPACE 
+experiments, NOUN 
+pH, NUM 
+increase, NOUN 
+observed, VERB 
+corresponding, VERB 
+hydrogen, NOUN 
+carbonate, PROPN 
+surface, NOUN 
+
+, SPACE 
+complex, ADJ 
+coverage, NOUN 
+20, NUM 
+soft, ADJ 
+water, NOUN 
+0.5, NUM 
+mM, NUM 
+total, ADJ 
+carbonate, NOUN 
+content, NOUN 
+saturated, VERB 
+
+, SPACE 
+calcium, NOUN 
+calcium, NOUN 
+surface, NOUN 
+complex, NOUN 
+lead, VERB 
+pH, NUM 
+decrease, NOUN 
+
+, SPACE 
+observed, VERB 
+pH, NUM 
+changes, NOUN 
+correspond, VERB 
+surface, NOUN 
+coverage, NOUN 
+120, NUM 
+calculated, ADJ 
+figures, NOUN 
+
+, SPACE 
+taken, VERB 
+indications, NOUN 
+absolute, ADJ 
+estimations, NOUN 
+ideally, ADV 
+polished, ADJ 
+iron, NOUN 
+
+, SPACE 
+surface, NOUN 
+assumed, VERB 
+calculations, NOUN 
+notice, NOUN 
+taken, VERB 
+pH, NUM 
+variations, NOUN 
+
+, SPACE 
+Iron, PROPN 
+corrosion, NOUN 
+drinking, VERB 
+water, NOUN 
+distribution, NOUN 
+systems, NOUN 
+
+, SPACE 
+b, PROPN 
+4.51, NUM 
+
+, SPACE 
+zo-, PROPN 
+n, NOUN 
+
+, SPACE 
++, NOUN 
+
+, SPACE 
+Op, PROPN 
+1,0X10, PROPN 
+2,0X10, PROPN 
+3,0x.r064,0x106, NOUN 
+5,0x, NUM 
+~, PUNCT 
+Oa6,0x100, PROPN 
+
+, SPACE 
+Ca**C032, PROPN 
+m, PROPN 
+pW2, PROPN 
+
+, SPACE 
+Fig, PROPN 
+7, X 
+Corrosion, NOUN 
+rate, NOUN 
+iron, NOUN 
+electrodes, NOUN 
+potential, ADJ 
+dynamic, NOUN 
+sweeps, VERB 
+and(b, PROPN 
+iron, NOUN 
+coupons, NOUN 
+
+, SPACE 
+stagnant, ADJ 
+water, NOUN 
+function, NOUN 
+product, NOUN 
+calcium, NOUN 
+carbonate, PROPN 
+ion, NOUN 
+content, NOUN 
+water, NOUN 
+
+, SPACE 
+soluble, ADJ 
+complexes, NOUN 
+surface, NOUN 
+complexes, NOUN 
+mentioned, VERB 
+
+, SPACE 
+formation, NOUN 
+siderite, NOUN 
+calcite, NOUN 
+taken, VERB 
+account, NOUN 
+yield, VERB 
+higher, ADJ 
+
+, SPACE 
+coverage, NOUN 
+hydrogen, NOUN 
+carbonate, PROPN 
+surface, PROPN 
+complex, ADJ 
+lower, ADJ 
+surface, NOUN 
+coverages, NOUN 
+
+, SPACE 
+calcium, NOUN 
+surface, NOUN 
+complex, NOUN 
+case, NOUN 
+soft, ADJ 
+water, NOUN 
+calcium, NOUN 
+little, ADJ 
+surface, NOUN 
+
+, SPACE 
+complexation, NOUN 
+expected, VERB 
+change, NOUN 
+pH, NUM 
+observed, VERB 
+
+, SPACE 
+Sontheimer, PROPN 
+et, NOUN 
+al.2, PROPN 
+stress, VERB 
+importance, NOUN 
+slow, ADJ 
+corrosion, NOUN 
+product, NOUN 
+precipitation, NOUN 
+
+, SPACE 
+order, NOUN 
+form, VERB 
+corrosion, NOUN 
+products, NOUN 
+attached, VERB 
+pipe, NOUN 
+wall, NOUN 
+corrosion, NOUN 
+
+, SPACE 
+products, NOUN 
+transported, VERB 
+water, NOUN 
+water, NOUN 
+quality, NOUN 
+problems, NOUN 
+consumers, NOUN 
+taps, NOUN 
+
+, SPACE 
+reduced, VERB 
+mechanism, NOUN 
+involves, VERB 
+siderite, ADJ 
+formation, NOUN 
+Looking, VERB 
+corrosion, NOUN 
+product, NOUN 
+
+, SPACE 
+precipitation, NOUN 
+competition, NOUN 
+surface, NOUN 
+complexes, NOUN 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+
+, SPACE 
+calcium, NOUN 
+ions, NOUN 
+preferred, VERB 
+according, VERB 
+siderite, ADJ 
+model, NOUN 
+Fig, PROPN 
+11, NUM 
+
+, SPACE 
+results, NOUN 
+field, NOUN 
+measurements, NOUN 
+number, NOUN 
+Swedish, ADJ 
+municipalities, NOUN 
+Norwegian, ADJ 
+
+, SPACE 
+452, NUM 
+A., NOUN 
+Sander, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+S-41, PROPN 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+095, NUM 
+530, NUM 
+
+, SPACE 
+total, ADJ 
+carbonate, NOUN 
+mM, PROPN 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+influence, NOUN 
+calcium, NOUN 
+concentration, NOUN 
+corrosion, NOUN 
+rate, NOUN 
+water, NOUN 
+different, ADJ 
+total, ADJ 
+
+, SPACE 
+carbonate, NOUN 
+content, NOUN 
+
+, SPACE 
+Fig, PROPN 
+9, NUM 
+Possible, ADJ 
+surface, NOUN 
+complex, NOUN 
+iron, NOUN 
+oxide, NOUN 
+surface, NOUN 
+water, NOUN 
+containing, VERB 
+free, ADJ 
+carbon, NOUN 
+
+, SPACE 
+dioxide, NOUN 
+““‘6, VERB 
+
+, SPACE 
+Iron, NOUN 
+corrosion, NOUN 
+drinking, VERB 
+water, NOUN 
+distribution, NOUN 
+systems, NOUN 
+453, NUM 
+
+, SPACE 
+Fig, PROPN 
+10, NUM 
+Possible, ADJ 
+surface, NOUN 
+complex, NOUN 
+iron, NOUN 
+oxide, NOUN 
+surface, NOUN 
+water, NOUN 
+containing, VERB 
+calcium, NOUN 
+
+, SPACE 
+low, ADJ 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+content.16, NOUN 
+
+, SPACE 
+80, NUM 
+r, NOUN 
+=, NOUN 
+
+, SPACE 
+=, SYM 
+70, NUM 
+
+, SPACE 
+8, NUM 
+c, NOUN 
+
+, SPACE 
+60, NUM 
+
+, SPACE 
+8, NUM 
+
+, SPACE 
+250, NUM 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+c, NOUN 
+4o, NUM 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+530~., NUM 
+
+, SPACE 
+
+, SPACE 
+0, X 
+0, PUNCT 
+
+, SPACE 
+0, NUM 
+091, NUM 
+092, NUM 
+095, NUM 
+036, NUM 
+0,7, NOUN 
+
+, SPACE 
+Fig, PROPN 
+11, NUM 
+percentage, NOUN 
+iron, NOUN 
+samples, NOUN 
+exceeding, VERB 
+100, NUM 
+rig, NOUN 
+l, PROPN 
+vs, ADP 
+ratio, NOUN 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+
+, SPACE 
+calcium, NOUN 
+content, NOUN 
+water, NOUN 
+field, NOUN 
+measurements, NOUN 
+number, NOUN 
+Swedish, ADJ 
+municipalities, NOUN 
+
+, SPACE 
+Norwegian, ADJ 
+municipality, NOUN 
+
+, SPACE 
+454, NUM 
+A., NOUN 
+Sander, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+municipality, NOUN 
+presented, VERB 
+percentage, NOUN 
+iron, NOUN 
+samples, NOUN 
+exceeding, VERB 
+100, NUM 
+pg, PROPN 
+l, PROPN 
+plotted, VERB 
+vs, ADP 
+
+, SPACE 
+ratio, NOUN 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+calcium, NOUN 
+content, NOUN 
+water, NOUN 
+samples, NOUN 
+
+, SPACE 
+collected, VERB 
+way, NOUN 
+similar, ADJ 
+sites, NOUN 
+distribution, NOUN 
+systems, NOUN 
+
+, SPACE 
+municipality, NOUN 
+lowest, ADJ 
+alkalinity, NOUN 
+titrated, VERB 
+carbonate, NOUN 
+marked, VERB 
+Fig, PROPN 
+11, NUM 
+
+, SPACE 
+low, ADJ 
+calcium, NOUN 
+content, NOUN 
+high, ADJ 
+content, NOUN 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+water, NOUN 
+quality, NOUN 
+gives, VERB 
+
+, SPACE 
+problems, NOUN 
+water, NOUN 
+quality, NOUN 
+deterioration, NOUN 
+
+, SPACE 
+forthcoming, ADJ 
+paper, NOUN 
+theoretical, ADJ 
+calculations, NOUN 
+surface, NOUN 
+complexation, NOUN 
+
+, SPACE 
+species, NOUN 
+discussed, VERB 
+presented, VERB 
+
+, SPACE 
+CONCLUSIONS, PROPN 
+
+, SPACE 
+surface, NOUN 
+complex, ADJ 
+model, NOUN 
+proposed, VERB 
+describe, VERB 
+iron, NOUN 
+corrosion, NOUN 
+drinking, NOUN 
+water, NOUN 
+
+, SPACE 
+1, X 
+waters, NOUN 
+moderate, ADJ 
+high, ADJ 
+total, ADJ 
+carbonate, NOUN 
+concentrations, NOUN 
+surface, NOUN 
+complex, NOUN 
+
+, SPACE 
+formed, VERB 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+
+, SPACE 
+2, X 
+waters, NOUN 
+low, ADJ 
+total, ADJ 
+carbonate, NOUN 
+concentrations, NOUN 
+surface, NOUN 
+complex, NOUN 
+involves, VERB 
+
+, SPACE 
+calcium, NOUN 
+
+, SPACE 
+3, X 
+reversed, ADJ 
+proportional, ADJ 
+relationship, NOUN 
+logarithm, NOUN 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+
+, SPACE 
+content, NOUN 
+corrosion, NOUN 
+rate, NOUN 
+observed, VERB 
+
+, SPACE 
+4, X 
+low, ADJ 
+total, ADJ 
+carbonate, NOUN 
+concentrations, NOUN 
+corrosion, NOUN 
+rate, NOUN 
+dependent, ADJ 
+calcium, NOUN 
+
+, SPACE 
+content, NOUN 
+high, ADJ 
+total, ADJ 
+carbonate, ADJ 
+concentrations, NOUN 
+dependence, NOUN 
+observed, VERB 
+
+, SPACE 
+5, X 
+ratio, NOUN 
+content, NOUN 
+free, ADJ 
+carbon, NOUN 
+dioxide, NOUN 
+calcium, NOUN 
+important, ADJ 
+
+, SPACE 
+water, NOUN 
+quality, NOUN 
+deterioration, NOUN 
+high, ADJ 
+ratio, NOUN 
+gives, VERB 
+lowest, ADJ 
+iron, NOUN 
+concentrations, NOUN 
+field, NOUN 
+
+, SPACE 
+measurements, NOUN 
+
+, SPACE 
+Ackno,~,lrdgemmts, X 
+authors, NOUN 
+wish, VERB 
+thank, VERB 
+Swedish, PROPN 
+Water, PROPN 
+Waste, PROPN 
+Water, PROPN 
+Works, PROPN 
+Association, PROPN 
+
+, SPACE 
+financial, ADJ 
+support, NOUN 
+Associate, PROPN 
+Prof., PROPN 
+Elisabet, PROPN 
+Ahlberg, PROPN 
+University, PROPN 
+Goteborg, PROPN 
+valuable, ADJ 
+discussions, NOUN 
+
+, SPACE 
+REFERENCES, PROPN 
+
+, SPACE 
+1, NUM 
+E., PROPN 
+Mattsson, PROPN 
+Basic, PROPN 
+Corrosion, PROPN 
+Technology, PROPN 
+.for, PUNCT 
+Scientists, NOUN 
+Engineers, PROPN 
+Ellis, PROPN 
+Horwood, PROPN 
+Limited, PROPN 
+Chichester, PROPN 
+
+, SPACE 
+U.K., PROPN 
+1989, NUM 
+
+, SPACE 
+2, X 
+M.R., PROPN 
+Schock, PROPN 
+Water, PROPN 
+Quulity, PROPN 
+Treatment, PROPN 
+Handbook, NOUN 
+qf, AUX 
+Comrnunit~, VERB 
+Water, PROPN 
+Supplies, PROPN 
+ed, PROPN 
+F.W., PROPN 
+Pontius, PROPN 
+
+, SPACE 
+4th, ADJ 
+Edn, PROPN 
+p., NOUN 
+997, NUM 
+AWWA, NOUN 
+McGraw, PROPN 
+Hill, PROPN 
+1990, NUM 
+
+, SPACE 
+3, X 
+A., NOUN 
+Kuch, PROPN 
+H., PROPN 
+Sontheimer, PROPN 
+gl$, PROPN 
+WasserjAbwasser, PROPN 
+127, NUM 
+621, NUM 
+1986, NUM 
+
+, SPACE 
+4, X 
+A., NOUN 
+Kuch, PROPN 
+Corros, PROPN 
+Sci, PROPN 
+28, NUM 
+221, NUM 
+1988, NUM 
+
+, SPACE 
+5, X 
+H., PROPN 
+Sontheimer, PROPN 
+W., PROPN 
+Kolle, PROPN 
+A., PROPN 
+Kuch, PROPN 
+Internal, PROPN 
+Corrosion, PROPN 
+Water, PROPN 
+Distribution, PROPN 
+Systems, PROPN 
+ed, PROPN 
+S., PROPN 
+Crnkovich, PROPN 
+
+, SPACE 
+p., NOUN 
+62, NUM 
+AWWA, PROPN 
+Research, PROPN 
+Foundation, PROPN 
+Denver, PROPN 
+1985, NUM 
+
+, SPACE 
+6, X 
+A., NOUN 
+Kuch, PROPN 
+Internal, PROPN 
+Corrosion, PROPN 
+Water, PROPN 
+Distribution, PROPN 
+Systems, PROPN 
+ed, PROPN 
+S., PROPN 
+Crnkovich, PROPN 
+p., NOUN 
+88, NUM 
+AWWA, PROPN 
+Research, PROPN 
+
+, SPACE 
+Foundation, PROPN 
+1985, NUM 
+
+, SPACE 
+7, X 
+V.L., PROPN 
+Snoeyink, PROPN 
+A., PROPN 
+Kuch, PROPN 
+Internul, PROPN 
+Corrosion, PROPN 
+Water, PROPN 
+Distribution, PROPN 
+Systems, PROPN 
+ed, PROPN 
+S., PROPN 
+Crnkovich, PROPN 
+p., NOUN 
+1, NUM 
+
+, SPACE 
+AWWA, PROPN 
+Research, PROPN 
+Foundation, PROPN 
+1985, NUM 
+
+, SPACE 
+8, X 
+E., PROPN 
+Lind, PROPN 
+Johansson, PROPN 
+Dissertation, PROPN 
+Chalmers, PROPN 
+University, PROPN 
+Technology, PROPN 
+Department, PROPN 
+Sanitary, PROPN 
+Engineering, PROPN 
+
+, SPACE 
+Goteborg, PROPN 
+Sweden, PROPN 
+1989, NUM 
+
+, SPACE 
+9, X 
+Committee, PROPN 
+Control, PROPN 
+Water, PROPN 
+Quality, PROPN 
+Transmission, PROPN 
+Distribution, PROPN 
+Systems, PROPN 
+J., PROPN 
+WWA, PROPN 
+76, NUM 
+83, NUM 
+1984, NUM 
+
+, SPACE 
+10, X 
+S., PROPN 
+Reiber, PROPN 
+J.F., PROPN 
+Ferguson, PROPN 
+M.M., PROPN 
+Benjamin, PROPN 
+J., PROPN 
+AWWA, PROPN 
+79, NUM 
+71, NUM 
+1987, NUM 
+
+, SPACE 
+11, X 
+R.A.J., PROPN 
+Pisigan, PROPN 
+J.E., PROPN 
+Singley, PROPN 
+J., PROPN 
+WWA, PROPN 
+79, NUM 
+62, NUM 
+1987, NUM 
+
+, SPACE 
+12, NUM 
+L., PROPN 
+Enander, PROPN 
+B., PROPN 
+Berghult, PROPN 
+VATTEN, PROPN 
+50, NUM 
+7, NUM 
+1994, NUM 
+
+, SPACE 
+13, X 
+Southampton, PROPN 
+Electrochemistry, PROPN 
+Group, PROPN 
+Ellis, PROPN 
+Horwood, PROPN 
+Series, PROPN 
+Physical, PROPN 
+Chemistry, PROPN 
+ed, PROPN 
+T.J., PROPN 
+Kemp, PROPN 
+p., NOUN 
+443, NUM 
+
+, SPACE 
+Ellis, PROPN 
+Horwood, PROPN 
+Limited, PROPN 
+Southampton, PROPN 
+1990, NUM 
+
+, SPACE 
+14, X 
+F.W., PROPN 
+Langlier, PROPN 
+J., PROPN 
+AWWA, PROPN 
+28, NUM 
+1500, NUM 
+1936, NUM 
+
+, SPACE 
+Iron, NOUN 
+corrosion, NOUN 
+drinking, VERB 
+water, NOUN 
+distribution, NOUN 
+systems, NOUN 
+455, NUM 
+
+, SPACE 
+15, NUM 
+W., PROPN 
+Stumm, PROPN 
+J., PROPN 
+AWB’A., NOUN 
+48, NUM 
+300, NUM 
+1956, NUM 
+
+, SPACE 
+16, X 
+T.E., PROPN 
+Larson, PROPN 
+R.V., PROPN 
+Skold, PROPN 
+J., PROPN 
+AWWA, PROPN 
+49, NUM 
+1294, NUM 
+1957, NUM 
+
+, SPACE 
+17, X 
+M.R., PROPN 
+Schock, PROPN 
+C.H., PROPN 
+Neff, PROPN 
+Proc, PROPN 
+11th, PROPN 
+Water, PROPN 
+Quality, PROPN 
+Co, PROPN 
+AWWA, PROPN 
+Research, PROPN 
+Foundation, PROPN 
+Nashville, PROPN 
+TN, PROPN 
+
+, SPACE 
+1982, NUM 
+
+, SPACE 
+18, X 
+H., PROPN 
+Sontheimer, PROPN 
+W., PROPN 
+Kiille, PROPN 
+R., PROPN 
+Rudek, PROPN 
+Vom, PROPN 
+Wusser, PROPN 
+52, NUM 
+1, NUM 
+1979, NUM 
+
+, SPACE 
+19, X 
+W., PROPN 
+K611e, PROPN 
+H., PROPN 
+Rosh, PROPN 
+Vom, PROPN 
+Wasser, PROPN 
+55, NUM 
+159, NUM 
+1980, NUM 
+
+, SPACE 
+20, X 
+W., PROPN 
+Kolle, PROPN 
+Lapis, PROPN 
+5, NUM 
+20, NUM 
+1980, NUM 
+
+, SPACE 
+21, X 
+H., PROPN 
+Sontheimer, PROPN 
+W., PROPN 
+Ktille, PROPN 
+V.L., PROPN 
+Snoeyink, PROPN 
+J., PROPN 
+WWA, PROPN 
+73, NUM 
+572, NUM 
+1981, NUM 
+
+, SPACE 
+22, NUM 
+R., PROPN 
+Rudek, PROPN 
+Dissertation, PROPN 
+Universitat, PROPN 
+Karlsruhe, PROPN 
+1979, NUM 
+
+, SPACE 
+23, NUM 
+L., PROPN 
+Fiksdal, PROPN 
+R., PROPN 
+Blekkan, PROPN 
+Vannkvalitet, PROPN 
+og, ADP 
+korrosion, NOUN 
+pa, PROPN 
+Sttipejern, PROPN 
+Bl-1993, PROPN 
+3, NUM 
+Institutt, PROPN 
+Vassbyggning, PROPN 
+
+, SPACE 
+NTH, PROPN 
+Norge, PROPN 
+1993, NUM 
+
+, SPACE 
+24, NUM 
+A., PROPN 
+Wieckowski, PROPN 
+E., PROPN 
+Ghali, PROPN 
+M., PROPN 
+Szklarczyk, PROPN 
+J., PROPN 
+Sobowski, PROPN 
+Electrochim, PROPN 
+ACIU, PROPN 
+28, NUM 
+1627, NUM 
+1983, NUM 
+
+, SPACE 
+25, NUM 
+P., PROPN 
+Van, PROPN 
+Cappellen, PROPN 
+L., PROPN 
+Charlet, PROPN 
+W., PROPN 
+Stumm, PROPN 
+P., PROPN 
+Wersin, PROPN 
+Geochim, PROPN 
+Cosmochim, PROPN 
+Acta, PROPN 
+57, NUM 
+3505, NUM 
+1993, NUM 
+
+, SPACE 
+26, NUM 
+W., PROPN 
+Stumm, PROPN 
+Aquatic, PROPN 
+Chemistry, PROPN 
+ed, NOUN 
+C.P., PROPN 
+Huang, PROPN 
+J.J., PROPN 
+Morgan, PROPN 
+CR, PROPN 
+O’Melia, X 
+p., NOUN 
+1, NUM 
+American, PROPN 
+Chemical, PROPN 
+
+, SPACE 
+Society, PROPN 
+1995, NUM 
+
+, SPACE 

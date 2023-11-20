@@ -1,0 +1,1533 @@
+l5B, NUM 
+ELSEVIER, NOUN 
+
+, SPACE 
+Low, ADJ 
+temperature, NOUN 
+September, PROPN 
+1996, NUM 
+
+, SPACE 
+Materials, PROPN 
+Letters, PROPN 
+28, NUM 
+1996, NUM 
+17, NUM 
+20, NUM 
+
+, SPACE 
+preparation, NOUN 
+perovskite, PROPN 
+Pb, PROPN 
+Sc0.5Ta, PROPN 
+0, NUM 
+thin, ADJ 
+
+, SPACE 
+films, NOUN 
+MOCVD, PROPN 
+
+, SPACE 
+Donhang, PROPN 
+Liu, PROPN 
+Haydn, PROPN 
+Chen, PROPN 
+
+, SPACE 
+Department, PROPN 
+Materials, PROPN 
+Science, PROPN 
+Engineering, PROPN 
+Materials, PROPN 
+Research, PROPN 
+Laboratory, PROPN 
+Uniuersity, PROPN 
+Illinois, PROPN 
+Urbana, PROPN 
+Champaign, PROPN 
+IL, PROPN 
+
+, SPACE 
+61801, NUM 
+Urbana, PROPN 
+Champaign, PROPN 
+USA, PROPN 
+
+, SPACE 
+Received, VERB 
+12, NUM 
+December, PROPN 
+1995, NUM 
+accepted, VERB 
+16, NUM 
+December, PROPN 
+1995, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+Single, ADJ 
+perovskite, ADJ 
+phase, NOUN 
+Pb(Sco,,Ta,,,)O, NOUN 
+PST, PROPN 
+thin, ADJ 
+films, NOUN 
+grown, VERB 
+stage, NOUN 
+MOCVD, NOUN 
+method, NOUN 
+
+, SPACE 
+processing, NOUN 
+temperature, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+film, NOUN 
+structure, NOUN 
+function, NOUN 
+Pb/(Sc, NOUN 
++, PROPN 
+Ta, PROPN 
+flow, NOUN 
+ratio, NOUN 
+determined, VERB 
+X, NOUN 
+ray, NOUN 
+
+, SPACE 
+diffraction, NOUN 
+XRD, PROPN 
+scanning, VERB 
+electron, NOUN 
+microscopy, ADJ 
+@EM, PROPN 
+
+, SPACE 
+Keywords, NOUN 
+Lead, ADJ 
+scandium, NOUN 
+tantalate, NOUN 
+Ferroelectric, ADJ 
+Pyroelectric, PROPN 
+Imaging, PROPN 
+Perovskite, PROPN 
+Thin, ADJ 
+films, NOUN 
+MOCVD, PROPN 
+Silicon, PROPN 
+substrates, NOUN 
+Low, ADJ 
+
+, SPACE 
+temperature, NOUN 
+deposition, NOUN 
+
+, SPACE 
+1, NUM 
+Introduction, NOUN 
+
+, SPACE 
+Lead, PROPN 
+scandium, NOUN 
+tantalate, NOUN 
+Pb(Sc,,,Ta,,,)O, PROPN 
+PST, PROPN 
+
+, SPACE 
+perovskite, PROPN 
+structure, NOUN 
+important, ADJ 
+ferroelectric, ADJ 
+
+, SPACE 
+material, NOUN 
+applications, NOUN 
+pyroelectric, ADJ 
+imaging, NOUN 
+
+, SPACE 
+high, ADJ 
+figure, NOUN 
+merit, NOUN 
+l, NOUN 
+addition, NOUN 
+
+, SPACE 
+order, NOUN 
+disorder, NOUN 
+behavior, NOUN 
+B, NOUN 
+site, NOUN 
+cation, NOUN 
+site, NOUN 
+
+, SPACE 
+i.e., X 
+SC, PROPN 
+Ta, PROPN 
+manipulated, VERB 
+thermal, ADJ 
+
+, SPACE 
+processing, NOUN 
+conditions, NOUN 
+making, VERB 
+modifications, NOUN 
+
+, SPACE 
+dielectric, ADJ 
+response, NOUN 
+characterization, NOUN 
+possible, ADJ 
+heat-, ADJ 
+
+, SPACE 
+ing, ADJ 
+treatment, NOUN 
+procedures, NOUN 
+2, NUM 
+
+, SPACE 
+Despite, SCONJ 
+attractive, ADJ 
+potential, NOUN 
+PST, PROPN 
+dielec-, NOUN 
+
+, SPACE 
+tric, ADJ 
+pyroelectric, ADJ 
+applications, NOUN 
+major, ADJ 
+practical, ADJ 
+
+, SPACE 
+obstacle, NOUN 
+high, ADJ 
+processing, NOUN 
+temperature, NOUN 
+
+, SPACE 
+=, NUM 
+1560, NUM 
+°, NUM 
+C, NOUN 
+required, VERB 
+densification, NOUN 
+addition, NOUN 
+
+, SPACE 
+temperatures, NOUN 
+greater, ADJ 
+1200, NUM 
+°, NOUN 
+C, NOUN 
+usually, ADV 
+re-, ADV 
+
+, SPACE 
+quired, VERB 
+synthesize, VERB 
+perovskite, ADJ 
+structure, NOUN 
+
+, SPACE 
+Corresponding, PROPN 
+author, NOUN 
+eliminate, VERB 
+undesirable, ADJ 
+pyrochlore, NOUN 
+structure, NOUN 
+
+, SPACE 
+forms, VERB 
+lower, ADJ 
+temperatures, NOUN 
+poor, ADJ 
+dielectric, ADJ 
+
+, SPACE 
+properties, NOUN 
+
+, SPACE 
+past, ADJ 
+years, NOUN 
+attempt, NOUN 
+synthesize, VERB 
+
+, SPACE 
+PST, PROPN 
+reduced, VERB 
+temperatures, NOUN 
+sol, PROPN 
+gel, PROPN 
+ap-, PROPN 
+
+, SPACE 
+proach, NOUN 
+successful, ADJ 
+3, NUM 
+51, NUM 
+deposition, NOUN 
+
+, SPACE 
+PST, VERB 
+thin, ADJ 
+films, NOUN 
+near, ADP 
+100, NUM 
+perovskite, ADJ 
+phase, NOUN 
+
+, SPACE 
+650, NUM 
+°, NOUN 
+C, NOUN 
+platinized, VERB 
+silicon, NOUN 
+reported, VERB 
+XRD, PROPN 
+
+, SPACE 
+electron, PROPN 
+microscopy, ADJ 
+investigations, NOUN 
+showed, VERB 
+
+, SPACE 
+PST, PROPN 
+thin, ADJ 
+films, NOUN 
+fully, ADV 
+111, NUM 
+oriented, VERB 
+
+, SPACE 
+partially, ADV 
+B, NOUN 
+site, NOUN 
+ordered, VERB 
+low, ADJ 
+temperature, NOUN 
+an-, X 
+
+, SPACE 
+nealing, NOUN 
+followed, VERB 
+slow, ADJ 
+cooling, NOUN 
+
+, SPACE 
+hand, NOUN 
+low, ADJ 
+temperature, NOUN 
+deposition, NOUN 
+PST, PROPN 
+thin, ADJ 
+
+, SPACE 
+films, NOUN 
+MOCVD, NOUN 
+techniques, NOUN 
+widely, ADV 
+
+, SPACE 
+employed, VERB 
+Bradley, PROPN 
+6, NUM 
+mentioned, VERB 
+deposition, NOUN 
+
+, SPACE 
+PST, PROPN 
+directly, ADV 
+metal, NOUN 
+precursors, NOUN 
+
+, SPACE 
+successful, ADJ 
+PST, PROPN 
+perovskite, PROPN 
+phase, NOUN 
+obtain-, ADJ 
+
+, SPACE 
+able, ADJ 
+stage, NOUN 
+process, NOUN 
+deposition, NOUN 
+cubic, ADJ 
+
+, SPACE 
+ScTaO, PROPN 
+MOCVD, PROPN 
+Ta(OC, PROPN 
+H, PROPN 
+scan-, ADJ 
+
+, SPACE 
+dium, NOUN 
+fluorinated, VERB 
+B, NOUN 
+diletonate, NOUN 
+Sc(fod, PROPN 
+followed, VERB 
+
+, SPACE 
+00167, NUM 
+577X/96/$12.00, NUM 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+I’II, PROPN 
+SO167, PROPN 
+577X(96)00029, PROPN 
+8, NUM 
+
+, SPACE 
+18, NUM 
+D., PROPN 
+Liu, PROPN 
+H., PROPN 
+Chen, PROPN 
+/Materids, PUNCT 
+Letters, PROPN 
+28, NUM 
+1996/, NUM 
+17, NUM 
+20, NUM 
+
+, SPACE 
+diffusion, NOUN 
+PbO, PROPN 
+surface, NOUN 
+layer, NOUN 
+Later, ADV 
+
+, SPACE 
+Ainger, PROPN 
+et, PROPN 
+al, PROPN 
+7, X 
+reported, VERB 
+growth, NOUN 
+perovskite, NOUN 
+
+, SPACE 
+PST, VERB 
+thin, ADJ 
+films, NOUN 
+sapphire, NOUN 
+11021, NUM 
+MOCVD, PROPN 
+
+, SPACE 
+processing, NOUN 
+temperature, NOUN 
+800, NUM 
+°, NOUN 
+C, NOUN 
+subse-, ADJ 
+
+, SPACE 
+quent, NOUN 
+annealing, VERB 
+Pb, PROPN 
+rich, ADJ 
+ambient, NOUN 
+necessary, ADJ 
+
+, SPACE 
+prepare, VERB 
+insulating, VERB 
+films, NOUN 
+electrical, ADJ 
+characteriza-, ADJ 
+
+, SPACE 
+tion, NOUN 
+
+, SPACE 
+Letter, NOUN 
+report, VERB 
+preliminary, ADJ 
+results, NOUN 
+
+, SPACE 
+study, NOUN 
+low, ADJ 
+temperature, NOUN 
+deposition, NOUN 
+per-, PROPN 
+
+, SPACE 
+ovskite, ADJ 
+PST, PROPN 
+films, NOUN 
+silicon, NOUN 
+MOCVD, PROPN 
+
+, SPACE 
+approach, NOUN 
+processing, NOUN 
+temperature, NOUN 
+600, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+2, X 
+Experimental, ADJ 
+method, NOUN 
+
+, SPACE 
+Deposition, PROPN 
+perovskite, NOUN 
+PST, PROPN 
+thin, ADJ 
+films, NOUN 
+car-, X 
+
+, SPACE 
+ried, VERB 
+cold, ADJ 
+wall, NOUN 
+low, ADJ 
+pressure, NOUN 
+horizontal, ADJ 
+
+, SPACE 
+MOCVD, PROPN 
+apparatus, NOUN 
+source, NOUN 
+
+, SPACE 
+materials, NOUN 
+Precursor, NOUN 
+materials, NOUN 
+Pb(C, NOUN 
+H, PROPN 
+90Z)2, PROPN 
+
+, SPACE 
+bis(2,2,6,6, PROPN 
+tetramethyl-3,S, PROPN 
+heptanedionate)lead(II, PROPN 
+
+, SPACE 
+Sc(C,,H,,O, PROPN 
+Sc(TMHD, PROPN 
+Ta(OC, PROPN 
+H, PROPN 
+
+, SPACE 
+tantalum, NOUN 
+ethoxide, NOUN 
+chosen, VERB 
+starting, VERB 
+materials, NOUN 
+
+, SPACE 
+Pb, PROPN 
+SC, PROPN 
+Ta, PROPN 
+respectively, ADV 
+mixture, NOUN 
+
+, SPACE 
+metallorganic, ADJ 
+precursor, NOUN 
+vapor, NOUN 
+introduced, VERB 
+
+, SPACE 
+reactor, NOUN 
+high, ADJ 
+purity, NOUN 
+nitrogen, NOUN 
+carrier, NOUN 
+gas, NOUN 
+
+, SPACE 
+flow, NOUN 
+rate, NOUN 
+carrier, NOUN 
+gas, NOUN 
+source, NOUN 
+tempera-, VERB 
+
+, SPACE 
+ture, NOUN 
+precursor, NOUN 
+chambers, NOUN 
+con-, NOUN 
+
+, SPACE 
+trolled, VERB 
+individually, ADV 
+adjust, VERB 
+film, NOUN 
+composition, NOUN 
+
+, SPACE 
+growth, NOUN 
+rate, NOUN 
+Pure, ADJ 
+oxygen, NOUN 
+
+, SPACE 
+oxidant, NOUN 
+introduced, VERB 
+reactor, NOUN 
+
+, SPACE 
+separate, ADJ 
+line, NOUN 
+precursor, NOUN 
+delivery, NOUN 
+lines, NOUN 
+
+, SPACE 
+inlet, PROPN 
+flange, PROPN 
+heated, VERB 
+maintained, VERB 
+tem-, NOUN 
+
+, SPACE 
+peratures, NOUN 
+higher, ADJ 
+highest, ADJ 
+source, NOUN 
+evaporation, NOUN 
+
+, SPACE 
+temperature, NOUN 
+prevent, VERB 
+condensation, NOUN 
+vapor, NOUN 
+
+, SPACE 
+phase, NOUN 
+Detailed, ADJ 
+growth, NOUN 
+conditions, NOUN 
+summarized, VERB 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+Polished, ADJ 
+silicon, NOUN 
+100, NUM 
+wafers, NOUN 
+sub-, ADJ 
+
+, SPACE 
+strates, NOUN 
+Ta, PROPN 
+SC, PROPN 
+oxide, NOUN 
+films, NOUN 
+grown, VERB 
+separately, ADV 
+
+, SPACE 
+growing, VERB 
+PST, PROPN 
+films, NOUN 
+growth, NOUN 
+tempera-, VERB 
+
+, SPACE 
+ture, NOUN 
+i.e., X 
+temperature, NOUN 
+susceptor, NOUN 
+fixed, VERB 
+
+, SPACE 
+600, NUM 
+°, NOUN 
+C, NOUN 
+Tantalum, NOUN 
+scandium, NOUN 
+source, NOUN 
+materials, NOUN 
+
+, SPACE 
+heated, VERB 
+kept, VERB 
+75, NUM 
+°, NUM 
+C, NOUN 
+140, NUM 
+°, NUM 
+C, NOUN 
+growth, NOUN 
+
+, SPACE 
+procedure, NOUN 
+respectively, ADV 
+Tantalate, NOUN 
+films, NOUN 
+6, NUM 
+Ta, NOUN 
+>, X 
+O, PROPN 
+
+, SPACE 
+phase, NOUN 
+obtained, VERB 
+fresh, ADJ 
+grown, VERB 
+films, NOUN 
+
+, SPACE 
+annealed, VERB 
+flow, NOUN 
+0, NUM 
+800, NUM 
+°, NOUN 
+C, NOUN 
+4, NUM 
+h, NOUN 
+
+, SPACE 
+crystalline, NOUN 
+peaks, NOUN 
+identified, VERB 
+
+, SPACE 
+films, NOUN 
+grown, VERB 
+SC, PROPN 
+source, NOUN 
+flow, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+Table, NOUN 
+
+, SPACE 
+Growth, NOUN 
+conditions, NOUN 
+PST, PROPN 
+thin, ADJ 
+films, NOUN 
+MOCVD, PROPN 
+
+, SPACE 
+total, ADJ 
+gas, NOUN 
+flow, NOUN 
+rate, NOUN 
+1100, NUM 
+
+, SPACE 
+reactor, NOUN 
+pressure, NOUN 
+IO, PROPN 
+Torr, PROPN 
+
+, SPACE 
+oxygen, NOUN 
+flow, NOUN 
+rate, NOUN 
+400, NUM 
+
+, SPACE 
+MO, PROPN 
+precursor, NOUN 
+temperature, NOUN 
+
+, SPACE 
+TX, PROPN 
+75, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+Sc, PROPN 
+140, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+Pb, PROPN 
+130, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+MO, PROPN 
+flow, NOUN 
+rate, NOUN 
+20, NUM 
+70, NUM 
+
+, SPACE 
+growth, NOUN 
+rate, NOUN 
+=, PROPN 
+50, NUM 
+W, PROPN 
+min, NOUN 
+
+, SPACE 
+film, NOUN 
+thickness, NOUN 
+=, PROPN 
+2500, NUM 
+
+, SPACE 
+substrate, NOUN 
+Si(100, PROPN 
+
+, SPACE 
+growth, NOUN 
+temperature, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+According, VERB 
+previous, ADJ 
+report, NOUN 
+
+, SPACE 
+growth, NOUN 
+perovskite, NOUN 
+PST, PROPN 
+films, NOUN 
+MOCVD, PROPN 
+
+, SPACE 
+step, NOUN 
+growth, NOUN 
+condition, NOUN 
+found, VERB 
+favorable, ADJ 
+
+, SPACE 
+lower, ADJ 
+processing, NOUN 
+temperatures, NOUN 
+i.e., X 
+grow, VERB 
+
+, SPACE 
+Sc, PROPN 
+Ta, PROPN 
+compound, NOUN 
+prier, NOUN 
+introducing, VERB 
+Pb, PROPN 
+compo-, NOUN 
+
+, SPACE 
+nent, NOUN 
+believed, VERB 
+intermediate, ADJ 
+ScTaO, PROPN 
+
+, SPACE 
+phase, NOUN 
+formed, VERB 
+temperature, NOUN 
+range, NOUN 
+
+, SPACE 
+550, NUM 
+800, NUM 
+°, NOUN 
+C, NOUN 
+direct, ADJ 
+reaction, NOUN 
+ScTaO, PROPN 
+
+, SPACE 
+PbO, PROPN 
+result, VERB 
+formation, NOUN 
+perovskite, NOUN 
+PST, PROPN 
+
+, SPACE 
+phase, NOUN 
+circumvent, VERB 
+formation, NOUN 
+low, ADJ 
+tem-, NOUN 
+
+, SPACE 
+perature, VERB 
+stable, ADJ 
+pyrochlore, NOUN 
+phase, NOUN 
+started, VERB 
+
+, SPACE 
+grow, VERB 
+l, NOUN 
+ScTaO, PROPN 
+films, NOUN 
+growth, NOUN 
+
+, SPACE 
+PST, PROPN 
+experimentally, ADV 
+determining, VERB 
+conditions, NOUN 
+
+, SPACE 
+grow, VERB 
+ScTaO, PROPN 
+phase, NOUN 
+introducing, VERB 
+Pb, PROPN 
+
+, SPACE 
+reactor, NOUN 
+chamber, NOUN 
+form, VERB 
+PST, PROPN 
+perovskite, ADJ 
+
+, SPACE 
+phase, NOUN 
+film, NOUN 
+structure, NOUN 
+function, NOUN 
+Pb/(Sc, NOUN 
++, CCONJ 
+
+, SPACE 
+Ta, PROPN 
+flow, NOUN 
+ratio, NOUN 
+reported, VERB 
+
+, SPACE 
+3, X 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+3.1, NUM 
+l, NOUN 
+l, NOUN 
+Sc, PROPN 
+Ta, PROPN 
+films, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+illustrates, VERB 
+growth, NOUN 
+diagram, NOUN 
+Sc, PROPN 
+Ta, PROPN 
+
+, SPACE 
+films, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+variation, NOUN 
+SC, PROPN 
+Ta, PROPN 
+flow, NOUN 
+rate, NOUN 
+
+, SPACE 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+results, NOUN 
+kinds, NOUN 
+
+, SPACE 
+film, NOUN 
+structures, NOUN 
+1, X 
+phase, NOUN 
+mix-, NOUN 
+
+, SPACE 
+ture, NOUN 
+M, PROPN 
+2, X 
+Pseudo, PROPN 
+cubic, ADJ 
+ScTaO, PROPN 
+phase, NOUN 
+PI, PROPN 
+3, NUM 
+
+, SPACE 
+amorphous, ADJ 
+phase, NOUN 
+crystalline, NOUN 
+peaks, NOUN 
+N, PROPN 
+
+, SPACE 
+Based, VERB 
+growth, NOUN 
+conditions, NOUN 
+Fig, PROPN 
+1, NUM 
+source, NOUN 
+
+, SPACE 
+flow, NOUN 
+rate, NOUN 
+SC, PROPN 
+Ta, PROPN 
+form, VERB 
+1, NUM 
+-to-, NOUN 
+Sc, PROPN 
+Ta, PROPN 
+phase, NOUN 
+
+, SPACE 
+MOCVD, NOUN 
+apparatus, NOUN 
+determined, VERB 
+
+, SPACE 
+Sc, PROPN 
+Ta, PROPN 
+1, PROPN 
+I.5, PROPN 
+Ta, PROPN 
+2, PROPN 
+20, NUM 
+
+, SPACE 
+D., PROPN 
+Liu, PROPN 
+H., PROPN 
+Chen, PROPN 
+Materials, PROPN 
+Letters, PROPN 
+28, NUM 
+1996, NUM 
+17, NUM 
+20, NUM 
+19, NUM 
+
+, SPACE 
+Sc+Ta, PROPN 
+
+, SPACE 
+x.1, X 
+P, NOUN 
+10, NUM 
+20, NUM 
+30, NUM 
+Te(sccm, NOUN 
+
+, SPACE 
+Fig, PROPN 
+I., PROPN 
+Film, PROPN 
+structure, NOUN 
+function, NOUN 
+SC, PROPN 
+Ta, PROPN 
+flow, NOUN 
+rate, NOUN 
+
+, SPACE 
+6OO”C, NUM 
+N, PROPN 
+corresponds, VERB 
+amorphous, ADJ 
+phase, NOUN 
+crys-, NOUN 
+
+, SPACE 
+talline, NOUN 
+peaks, NOUN 
+M, PROPN 
+mixture, NOUN 
+phase, NOUN 
+P, NOUN 
+
+, SPACE 
+pseudo, ADJ 
+cubic, ADJ 
+ScTaO, PROPN 
+phase, NOUN 
+
+, SPACE 
+3.2, X 
+Perovskite, ADJ 
+PSTfilms, NOUN 
+
+, SPACE 
+experimentally, ADV 
+determining, VERB 
+Sc, PROPN 
+Ta, PROPN 
+ratio, NOUN 
+
+, SPACE 
+l, NOUN 
+l, NOUN 
+ScTaO, PROPN 
+phase, NOUN 
+growth, NOUN 
+PST, PROPN 
+
+, SPACE 
+films, NOUN 
+carried, VERB 
+fixing, VERB 
+Sc, PROPN 
+Ta, PROPN 
+ratio, NOUN 
+
+, SPACE 
+varying, VERB 
+lead, ADJ 
+flow, NOUN 
+rate, NOUN 
+Fig, PROPN 
+2, NUM 
+shows, VERB 
+XRD, PROPN 
+
+, SPACE 
+results, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+grown, VERB 
+PST, PROPN 
+films, NOUN 
+Si(100, PROPN 
+
+, SPACE 
+Pb/(Sc+Ta, NOUN 
+
+, SPACE 
+1, X 
+.oo, PUNCT 
+
+, SPACE 
+1lWP, NUM 
+
+, SPACE 
+0.40, NUM 
+
+, SPACE 
+0.33, NUM 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+XRD, NOUN 
+data, NOUN 
+function, NOUN 
+Pb/(Sc, NOUN 
++, PROPN 
+Ta, PROPN 
+PST, PROPN 
+films, NOUN 
+PST, VERB 
+thin, ADJ 
+films, NOUN 
+single, ADJ 
+perovskite, NOUN 
+phase, NOUN 
+
+, SPACE 
+grown, VERB 
+600, NUM 
+°, NOUN 
+C, NOUN 
+Si(100, PROPN 
+grown, VERB 
+stage, NOUN 
+MOCVD, NOUN 
+method, NOUN 
+Fig, PROPN 
+3, NUM 
+Planar, PROPN 
+view, NOUN 
+SEM, PROPN 
+microphotograph, NOUN 
+600, NUM 
+°, NUM 
+C, NOUN 
+grown, VERB 
+
+, SPACE 
+PST, PROPN 
+film, NOUN 
+single, ADJ 
+perovskite, NOUN 
+phase, NOUN 
+
+, SPACE 
+function, NOUN 
+flow, NOUN 
+rate, NOUN 
+Pb/(Sc, NOUN 
++, PROPN 
+Ta, PROPN 
+
+, SPACE 
+PST, PROPN 
+films, NOUN 
+Pb/(Sc, NOUN 
++, PROPN 
+Ta, PROPN 
+range, NOUN 
+approx-, NOUN 
+
+, SPACE 
+imately, ADV 
+0.6, NUM 
+2, NUM 
+Pb/(Sc, NUM 
++, PROPN 
+Ta, PROPN 
+2, NUM 
+0.4, NUM 
+single, ADJ 
+PST, PROPN 
+per-, X 
+
+, SPACE 
+ovskite, ADJ 
+phase, NOUN 
+achieved, VERB 
+films, NOUN 
+highly, ADV 
+
+, SPACE 
+111, NUM 
+oriented, VERB 
+tiny, ADJ 
+200, NUM 
+reflection, NOUN 
+
+, SPACE 
+Pb/(Sc, NOUN 
++, PROPN 
+Ta, PROPN 
+ratio, NOUN 
+smaller, ADJ 
+range, NOUN 
+films, NOUN 
+
+, SPACE 
+complicated, ADJ 
+XRD, PROPN 
+data, NOUN 
+characterized, VERB 
+
+, SPACE 
+cluster, NOUN 
+peaks, NOUN 
+30, NUM 
+40, NUM 
+
+, SPACE 
+Pb/(Sc, NOUN 
++, PROPN 
+Ta, PROPN 
+ratio, NOUN 
+larger, ADJ 
+range, NOUN 
+films, NOUN 
+
+, SPACE 
+mixture, NOUN 
+perovskite, ADJ 
+PST, PROPN 
+phase, NOUN 
+PbO, NOUN 
+
+, SPACE 
+phase, NOUN 
+peaks, NOUN 
+positioned, VERB 
+28, NUM 
+=, NUM 
+17, NUM 
+
+, SPACE 
+29, NUM 
+35, NUM 
+51, NUM 
+respectively, ADV 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+gives, VERB 
+SEM, PROPN 
+microphotograph, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+grown, VERB 
+PST, PROPN 
+film, NOUN 
+single, ADJ 
+perovskite, NOUN 
+
+, SPACE 
+phase, NOUN 
+detected, VERB 
+XRD, PROPN 
+Perovskite, ADJ 
+grains, NOUN 
+
+, SPACE 
+average, NOUN 
+100, NUM 
+nm, NOUN 
+size, NOUN 
+uniformly, ADV 
+
+, SPACE 
+distributed, VERB 
+voids, NOUN 
+grains, NOUN 
+exist, VERB 
+indicat-, ADP 
+
+, SPACE 
+ing, VERB 
+PST, PROPN 
+film, NOUN 
+densitified, VERB 
+crystalliza-, ADJ 
+
+, SPACE 
+tion, NOUN 
+process, NOUN 
+completed, VERB 
+subse-, ADJ 
+
+, SPACE 
+quent, NOUN 
+annealing, NOUN 
+necessary, ADJ 
+improve, VERB 
+film, NOUN 
+
+, SPACE 
+density, NOUN 
+results, NOUN 
+reported, VERB 
+later, ADV 
+
+, SPACE 
+4, X 
+Summary, NOUN 
+
+, SPACE 
+20, NUM 
+D., PROPN 
+Liu, PROPN 
+H., PROPN 
+Chen, PROPN 
+Materials, PROPN 
+Letters, PROPN 
+28, NUM 
+19961, NUM 
+17, NUM 
+20, NUM 
+
+, SPACE 
+processing, NOUN 
+temperature, NOUN 
+600, NUM 
+°, NOUN 
+C, NOUN 
+Growth, NOUN 
+condi-, VERB 
+
+, SPACE 
+tions, NOUN 
+formation, NOUN 
+perovskite, ADJ 
+PST, PROPN 
+phase, NOUN 
+
+, SPACE 
+experimentally, ADV 
+determined, VERB 
+Results, NOUN 
+indicate, VERB 
+
+, SPACE 
+feasibility, NOUN 
+grow, VERB 
+single, ADJ 
+perovskite, NOUN 
+phase, NOUN 
+PST, PROPN 
+films, NOUN 
+
+, SPACE 
+lower, ADJ 
+processing, NOUN 
+temperatures, NOUN 
+possibility, NOUN 
+
+, SPACE 
+stage, NOUN 
+growth, NOUN 
+procedure, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+ll, X 
+R.W., PROPN 
+Whatmore, PROPN 
+N.M., PROPN 
+Shorrocks, PROPN 
+P.C., PROPN 
+Osbond, PROPN 
+S.B., PROPN 
+
+, SPACE 
+Stringfellow, PROPN 
+C.E., PROPN 
+Carter, PROPN 
+R., PROPN 
+Watton, PROPN 
+Proc, PROPN 
+8th, ADJ 
+IEEE, ADJ 
+
+, SPACE 
+ISAF, PROPN 
+Meeting, PROPN 
+1992, NUM 
+p., NOUN 
+202, NUM 
+2, X 
+N., PROPN 
+Sefter, PROPN 
+L.E., PROPN 
+Cross, PROPN 
+.I., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+51, NUM 
+1980, NUM 
+4365, NUM 
+
+, SPACE 
+3, X 
+D., PROPN 
+Liu, PROPN 
+L., PROPN 
+Ma, PROPN 
+D.A., PROPN 
+Payne, PROPN 
+D.D., PROPN 
+Viehland, PROPN 
+Mater, PROPN 
+Lelt, PROPN 
+17, NUM 
+
+, SPACE 
+1993, NUM 
+319, NUM 
+
+, SPACE 
+141, NUM 
+D., PROPN 
+Liu, PROPN 
+L., PROPN 
+Ma, PROPN 
+D.A., PROPN 
+Payne, PROPN 
+Br, PROPN 
+Ceram, PROPN 
+Proc, PROPN 
+53, NUM 
+1994, NUM 
+
+, SPACE 
+Ill., PROPN 
+
+, SPACE 
+151, NUM 
+D., PROPN 
+Liu, PROPN 
+D.A., PROPN 
+Payne, PROPN 
+J., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+77, NUM 
+1995, NUM 
+1458, NUM 
+
+, SPACE 
+161, NUM 
+D.C., PROPN 
+Bradley, PROPN 
+Chem, PROPN 
+Rev., PROPN 
+89, NUM 
+1989, NUM 
+1317, NUM 
+
+, SPACE 
+7, X 
+F.W., PROPN 
+Ainger, PROPN 
+K., PROPN 
+Bass, PROPN 
+C.J., PROPN 
+Brierley, PROPN 
+M.D., PROPN 
+Hudson, PROPN 
+C., PROPN 
+Trundle, PROPN 
+
+, SPACE 
+R.W., PROPN 
+Whatmore, PROPN 
+Progr, PROPN 
+Crystal, PROPN 
+Growth, PROPN 
+Charact, PROPN 
+22, NUM 
+1991, NUM 
+
+, SPACE 
+183, NUM 
+
+, SPACE 

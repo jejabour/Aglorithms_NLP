@@ -1,0 +1,425 @@
+Nuclear Instruments and Methods in Physics Research B 1 I8 (1996) 596-601 
+ELSEVIER Beam Interactions 
+with Materials&Atoms 
+Ion beam analysis of diamond-like carbon films 
+J-P. Hirvonen a* * , J. Koskinen a, P. Torri b, R. Lappalainen b, A. Anttila b 
+a VlT Manufacturing Technology, 02044 VrT. Finland 
+b University of Helsinki, Department of Physics, 00014 University of Helsinki, Finland 
+Abstract 
+Diamond-like carbon films are deposited with a number of different methods. This results in a wide variety of different 
+microstructures and even compositions of the films, which challenges characterization capabilities. Ion beam analysis can be 
+used in many ways to probe. the properties of the films. A classic application is the determination of hydrogen concentrations 
+in hydrogenated amorphous carbon films, a-H:C. This is performed by using either a resonance of the nuclear reaction 
+‘H(15N, ay)‘*C or a forward recoiling technique. Diamond-like films have been doped with metals, Si, F, etc. in order to 
+modify mechanical, tribological, or optical properties. Dopand concentrations can be qualitatively measured using either a 
+backscattering or nuclear reaction analysis (NRA) method. A fairly trivial application is the utilization of either Rutherford 
+or non-Rutherford backscattering to obtain the number of carbon atoms per square centimetre. Combined with other 
+information on the chemical composition of the film and with the thickness obtained with a profilometer, for example, the 
+density of the very thin films can be calculated. The density is an interesting parameter of the films and may vary 
+considerably, depending on the hydrogen concentration and the structure of chemical bonding. If the thickness of the films is 
+not constant or if a diamond-like material is just a deposition with an irregular shape, the above method cannot be utilized. 
+The ion beam technique may still be useful and the Doppler shift attenuation of the resonance can be used. Resonance 
+techniques are useful in analysing some other carbon related films, for example in analysing nitrogen in CN, films. In this 
+paper, the most useful ion beam techniques for analysing diamond-like materials are given with examples. 
+1. Introduction 
+Over the past 20 years several reports of self-lubricat- 
+ing diamond-like carbon (DLC) films have been published. 
+Amorphous DLC films can be divided into two different 
+groups: hydrogen-free hard carbon films and hydrogenated 
+carbon films (a-C: H). The a-C: H films are generally 
+grown from hydrocarbon gas which is in the form of 
+plasma or an ionized molecular beam. The hydrogen-free 
+films are grown from carbon plasma or a carbon ion beam, 
+generally created from a solid carbon source. In general, 
+hydrogen-free DLC films are harder and possess more 
+diamond-like qualities than a-C : H films [l]. This is mainly 
+due to different film growth processes with a higher 
+proportion of ionization and ion energy involved in the 
+hydrogen-free film growth processes. However, present 
+reports indicate that it is possible to grow dense a-C: H 
+films with similar properties to those of hydrogen-free 
+l Corresponding author. Address: Joint Research Centre. Insti- 
+tute for Advanced Materials, P.O. Box 2, 1755 ZG Petten, The 
+Netherlands. Tel. +31-2246 5251, fax +31-2266 1012. films if a sufficient ion energy and ionization rate are 
+involved with the deposition process [2]. 
+Analysing diamond-like films of different kinds is a 
+challenging task. The determination of the atomic structure 
+itself is probably the most challenging problem. Electron 
+spectroscopies such as photoelectron spectroscopy (XPS) 
+and electron energy loss spectroscopy (EELS) are widely 
+used. Raman and IR spectroscopies are based on photon- 
+phonon interactions. Especially Raman spectroscopy is 
+used mostly to characterize crystalline diamond films, 
+although amorphous structures are analysed as well. IR 
+spectroscopy is suitable for probing hydrogenated amor- 
+phous diamond-like films. 
+There is also an obvious need to characterize the 
+chemical composition of diamond-like films. Because dia- 
+mond-like films are typically thin, with a thickness of less 
+than a micrometre, ion beam analysis is suitable for almost 
+all the chemical analysis required. In film thickness and 
+hydrogen concentration measurements, ion beam analysis 
+is evidently utilized most often. Trace impurities can be 
+determined both qualitatively and quantitatively. Some- 
+times the films are purposely alloyed and concentrations 
+and the concentration profiles of alloying elements should 
+naturally be confirmed experimentally. In fact, for all these 
+0168-583X/96/$15.00 Copyright 6 1996 Elsevier Science B.V. All rights reserved 
+SSDI 0168-583X(95)01 169-2 
+J-P. Hiruonen et al. / Nuci. Instr. and Meth. in Phys. Rex B I18 (19%) 596401 597 
+measurements, fairly standardized ion beam analysis tech- 
+niques can be exploited. 
+2. Analysis of the main constituents carbon and hydro- 
+gen 
+The main constituents of diamond-like films are carbon 
+and hydrogen. The concentration of carbon is seldom of 
+primary interest. However, by measuring the concentration 
+profile of carbon, the amount of carbon atoms/cm2 can be 
+obtained by integration. This information can be utilized, 
+for example, in the determination of the density. Backscat- 
+tering spectrocopy (BS) is applied most frequently. The 
+sensitivity of He+ backscattering for carbon at low ener- 
+gies is not good. The signal-to-background ratio can be 
+improved by using a light substrate such as silicon. Fig. la 
+shows the backscattering spectrum taken with 2.4 MeV 
+He+ from a diamond-like film deposited on silicon. At this 
+He+ energy the backscattering cross section is non-Ruther- 
+ford for carbon. The sensitivity is enhanced in the case of 
+H+ backscattering, as illustrated in Fig. 1 b. The backscat- 
+A- 
+BACKSCATTERING 
+2.4 MeV ‘He+ 
+DLC on Si 
+CJ 1.0 - Si 
+z ._ 
+h - 0.5 - 
+Ta : 
+0.0 : ’ ’ 500 1000 1500 2000 2500 
+energy (keV) 
+25x10 , 1 a ’ I ’ ’ ’ I ’ ’ ’ I ’ ’ ’ 
+BACKSCATTERING 0: 
+2.0 - C 
+2.4 MeV ‘H’ 
+DLC on Si 
+7 .r( Si 
+/ Ta 
+energy (keV) 
+Fig. 1. Backscattering spectrum of 2.4 MeV He+ (a) and H+ (b) 
+from diamond-like film on silicon. I- 
+(b 1 
+1 5.. ... 
+1% 
+/ 
+x25 
+CHANNEL NUMBER 
+Fig. 2. Backscattering spectrum of 2.4 MeV protons from self- 
+supporting diamond-like film (a) and evaporated carbon films (b) 
+[51. 
+tering spectrum was taken from the same sample as that in 
+Fig. la. Again the cross section for carbon is non-Ruther- 
+ford. The carbon signal in Fig. 1 b is much narrower than 
+in Fig. la due to the lower stopping power of carbon for 
+H+ than for He+. Consequently, the depth resolution in 
+the case of HC backscattering is worse than in the case of 
+He+ backscattering. Non-Rutherford cross sections have 
+been reported for a proton scattering of light elements 
+r3,41. 
+Backscattering spectra can also be taken from self-sup- 
+porting diamond-like films obtained by dissolving a silicon 
+substrate in an appropriate solution. The advantage of this 
+technique is that light impurities can also be detected. Fig. 
+2 shows backscattering spectra of 2.4 MeV H+ from a 
+self-supporting diamond-like carbon film and an evapo- 
+rated carbon film [5]. In this case a diamond-like carbon 
+film was deposited by using a mass-separated carbon 
+beam. The beam consisted of pure 12C. This can be 
+verified from the spectra. In the case of the evaporated 
+carbon film, the signal of the other stable carbon isotope 
+r3C is also shown. The abundance of this isotope is, 1.1% 
+in natural carbon. The ion beam deposited diamond-like 
+carbon is very pure indeed. The only impurity observed 
+was a small amount of absorbed oxygen on both sides of 
+IX. NEW MATERIALS 
+598 J-P. Hirvanen et al. / Nucl. Instr. and Meth. in Phys. Res. 6 IIR (19%) 596-601 
+the self-supporting film. As can be seen from Fig. 2, even 
+a small nitrogen contamination can be detected as illus- 
+trated in the backscattering spectra of the evaporated car- 
+bon film. 
+The number of high-energy ion beam facilities is in- 
+creasing rapidly. Accordingly, high-energy (up to 10 MeV) 
+backscattering measurements are becoming more and more 
+popular. The advantage of high-energy backscattering is 
+that the cross sections and detection sensivities are en- 
+hanced. It has been estimated that at the energy of 3.55 
+MeV, the cross section of He+ backscattering for carbon is 
+about 6.5 times higher than that of the Rutherford cross 
+section [6]. 
+The most appropriate way to probe hydrogen is for- 
+ward-recoil spectroscopy (FRES). In a typical setup, the 
+sample is bombarded with a 2 to 3 MeV He+ beam at 75” 
+and the forward-scattered protons are detected at 0 = 30”. 
+Before this the backscattered He+ particles have been 
+filtered out with an absorber in front of the detector. The 
+sensitivity of this technique is below 1 at.% of H. The 
+cross sections for hydrogen forward-scattering have been 
+published recently by Baglin et al. [7]. These cross sections 
+deviated from those of Rutherford already at quite low 
+energies, i.e., above 1 MeV. FRES is a straightforward and 
+rapid way to determine hydrogen concentrations. Another 
+ion beam analysis technique is based on the utilization of 
+the nuclear ‘H(“N, ay)‘*C reaction. This technique has a 
+better depth resolution and higher sensitivity but is slower 
+to accomplish in practice; especially because in a-H :C 
+films the hydrogen concentrations are typically high. 
+FRES is the recommended technique in analyzing hy- 
+drogen in diamond-like films. The non-Rutherford 
+backscattering from carbon and forward recoiling of hy- 
+drogen can also be performed simultaneously. The advan- 
+tage of this is the possibility to determine the appropriate 
+beam parameters, if the film is on a substrate which still 
+scatters He + according to the Rutherford cross section 
+(substrates such as medium heavy and heavy metals). The 
+backscattering and FRES spectra can be quantitatively 
+analysed using conventional computer-aided techniques 
+[8,91. 
+3. Analysis of trace impurities 
+Depending on the deposition conditions, diamond-like 
+carbon films may also contain impurities. Typical impuri- 
+ties are various filament materials which are most often 
+heavy metals, and gaseous impurities, oxygen and nitro- 
+gen. In hydrogen-free diamond-like carbon films, hydro- 
+gen is also considered a contaminant. Heavy metals can be 
+seen in backscattered spectra even though the substrate is 
+not removed. This is particularly true in the case of a light 
+substrate such as silicon. Backscattering energy is nor- 
+mally high enough that signals from heavy impurities lie 
+on a zero-background. In the case of light impurities, PIXE 
+2.4 MeV II' 
+DLC on Si 
+I 
+? 
+10” 
+5 10 15 20 25 
+energy (keV) 
+Fig. 3. PIXE spectrum induced by 2.4 MeV protons from the same 
+sample as in Fig. 2. 
+self-supporting samples can be used as shown in Fig. 2. 
+This technique, however, requires quite complicated sam- 
+ple preparations. Especially if oxygen or nitrogen is to be 
+detected, deuterium induced ‘60(d,p)‘7C, ‘60(d,a)‘4N, 
+“N(d,a)‘3C, and 14N(d,p)15N can be utilized [lO,ll]. 
+Typically these reactions are used with a deuterium beam 
+at the energy of about I MeV in order to reduce neutron 
+production. By utilizing suitable computer codes, informa- 
+tion about the depth distribution of oxygen can also be 
+obtained. The depth resolution is reduced by an absorber 
+normally used in front of a surface barrier detector in order 
+to filter out backscattered deuteriums. If the sample in- 
+volves both nitrogen and oxygen ‘60(d,p)‘7C, ‘60(d,cx)‘4N, 
+and 14N(d,p)“N reactions may interfere and the precise 
+determination of oxygen becomes difficult. Even in this 
+case, nitrogen can be detected quantitatively because of the 
+high Q value of the “N(d,a)‘3C reaction. 
+Particle-induced X-ray emission (PIXE) is an altema- 
+tive for the determination of heavy impurities. Fig. 3 
+shows a PIXE spectrum taken from the same sample as the 
+backscattering data in Fig. 1. This spectrum clearly indi- 
+cated iron and tantalum contaminants. In the backscatter- 
+ing spectra of Fig. I, only tantalum was observed without 
+any indication of iron. 
+Both in the case of deuterium-induced reactions and 
+PIXE it is worth noting that, because the diamond-like 
+carbon film is thin and the stopping power of carbon is 
+quite low, it is sometimes difficult to distinguish the 
+signals emanating from the surface film from those possi- 
+bly coming from the substrate material. Again, if high-pur- 
+ity substrate materials such as silicon are used, the possi- 
+bility of mistakes is minimized. 
+4. Analysis of alloying elements 
+Diamond-like carbon films can be alloyed for a number 
+of reasons, for example, to improve tribological or to 
+J-P. Himmen et (11. /Nucl. Instr. and Meth. in Phys. Res. 6 I I8 (1996) 596-601 599 
+0 100 200 300 400 500 600 
+Depth, nm 
+Fig. 4. Nitrogen profile in CN, films as measured by the 429 keV 
+resonance of the reaction “N(p, ay)‘*C. 
+modify optical properties. Again, heavy metals can be 
+detected by Rutherford backscattering. Light elements such 
+as nitrogen, aluminum, and silicon can be detected with 
+resonances of (p. y> or (p, or> reactions [12]. Aluminum 
+has only one isotope, “Al, which has at least 22 narrow 
+resonances below 1 MeV. But because the resonances are 
+quite close to each other, a deep depth profiling is impossi- 
+ble by using a y-ray detector with a poor energy resolu- 
+tion, such as Na(I). The two strongest resonances are those 
+at 632 and 992 keV. Decay of these resonances occurs 
+with high-energy y-rays (10.4 and 10.8 MeV) which makes 
+it quite easy to avoid some disturbing interferences of 
+other possible impurities as discussed below. In the case of silicon, an appropriate resonance is that 
+of the reaction 3”Si(p, yP’P at 620 keV which provides a 
+high depth resolution. A suitable energy window for -y-ray 
+detection is 7.0-8.3 MeV for Na(I) detector (the energy of 
+the y peak is about 7.9 MeV). 
+Nitrogen in carbon is of great interest at this time due 
+to the metastable B-C,N, nitride with speculations of 
+exciting mechanical properties. The best way to probe 
+nitrogen at the concentration level involved is utilizing 
+resonances of the “N(p, ay)“C reaction. There is only 
+0.36% of “N in natural nitrogen, but because the reso- 
+nances are very strong, depth profiling is easy and accu- 
+rate. The most frequently used resonances are at 429 and 
+898 keV. In most cases, the resonance at the lowest energy 
+is recommended because there the background is also 
+lower. The 429 keV resonance has a width r as narrow as 
+0.10 keV. The energy of the photo peak is 4.43 MeV. 
+Accordingly. the appropriate energy window for a Na(l) 
+detector is 3. I to 4.8 MeV. The importance of the accuracy 
+of the energy window is discussed later on. An example of 
+the nitrogen distribution, as determined from a CN, film 
+deposited using an arc discharge deposition, is shown in 
+Fig. 4. 
+5. Determination of the density of diamond-like carbon 
+filnls 
+A straightforward way to determine the density of 
+diamond-like carbon films is to use appropriate ion beam 
+analysis techniques to obtain the total number of atoms per 
+square centimetre. By combining this data with thickness 
+SToP IPEAK 
+T FLIGHT PEAK 
+~1.5 
+I I I I 
+1340 3380 
+CHANNEL NUMBER 
+Fig. 5. DSA measurement of the 2313 keV y-rays from the ‘3C(p, y)14N reaction using graphite (0). diamond (X) and diamond-like 
+carbon (0) substrate. The inset shows the height ratio of the stop and flight peak as a function of density [ 141. 
+IX. NEW MATERIALS 
+600 J-P. Hiruonen et al. / Nucl. Instr. and Meth. in Phys. Res. B II8 (19%) 596-601 
+measurements performed with a profilometer, the density 
+in atoms per cubic centimetre can be calculated. This, 
+together with chemical information, also yields the density 
+in units of g/cm3. 
+If the depositions are of an irregular shape or if the 
+thickness of the film is not uniform, a novel ion beam 
+analysis technique can be applied. This technique is a 
+complicated one, requires special expertise, and is based 
+on very accurate measurements of the shape of a y peak. 
+The method is called the Doppler shift attenuation (DSA) 
+method. Conventionally DSA measurements are used to 
+determine short nuclear lifetimes (10-“-10-‘5 s). How- 
+ever, if the lifetime is known, the method can be used for 
+microdensity measurements [13]. The main principles of 
+the DSA method are as follows. When nuclear reactions 
+are generated with a particle beam, the recoiling nuclei 
+travel in a fixed direction and stop gradually in the sub- 
+strate material. If the lifetime of the excited state is such 
+that the recoiling nuclei emit y-rays during the slowing- 
+down process, the recoiling nuclei have different velocities 
+at the moment of emission. Accordingly, because of the 
+Doppler effect the corresponding y-rays emitted are of 
+different energies. The rate of slowing of the recoiling 
+nuclei is proportional to the density of the substrate mate- 
+rial. This in turn means that the measured profile of the y 
+peak depends on the density of the substrate. 
+Carbon isotope 13C has a suitable (p, y) resonance at 
+the proton energy level of 1150 keV which strongly popu- 
+lates the 2313 and 6204 keV states of 14N with the 
+lifetimes of 102 and 187 fs [ 141. This means in practice 
+that in DSA measurements performed at an angle of 0” the 
+peaks of the de-exciting -y-rays are seen as a combination 
+of two components: a low-energy peak due to the fully 
+stopped recoils and a high-energy peak due to the recoils 
+in flight. This is, of course, possible only if a y-ray 
+detector with a very accurate energy resolution is used. 
+Fig. 5 shows the DSA measurements of the 2313 keV 
+y-rays from the 13C(p, y)14N reaction using graphite, 
+natural diamond, and ion beam deposited hydrogen-free 
+diamond-like carbon film as a substrate (for details see 
+Ref. [13]). It is evident that both the natural diamond and 
+diamond-like carbon film have an identical DSA peak 
+profile which, on the other hand, deviates greatly from that 
+of graphite. In the inset are given the height ratios of the 
+stop and flight peaks as a function of density obtained by 
+Monte Carlo calculations of the slowing down of recoiling 
+nuclei. The density of the diamond-like carbon films agreed 
+within 7% with that of diamond (3.52 g/cm3). The density 
+of the same films as determined by using a conventional 
+method is about 3.2-3.5 g/cm3. 
+6. Discussion and conclusions 
+Diamond-like carbon films are a very suitable object 
+for ion beam analysis. Both the main constituents and impurities, as well as concentration distributions of alloy- 
+ing elements, can be determined by a wide variety of 
+different backscattering, forward recoiling, and nuclear 
+reaction methods. Moreover, all the beneficial features of 
+ion beam analysis can be exploited in a straightforward 
+manner: the speed of the measurements, accuracy, and 
+reproducibility. Above all, however, as a highly quantita- 
+tive method, ion beam analysis promotes development in 
+this fast-emerging area of research by providing exact 
+chemical characterization of the materials under investiga- 
+tion. 
+Backscattering measurements are also the most straight- 
+forward in the case of diamond-like carbon films. It is 
+worth mentioning a few words of caution in the case of 
+nuclear reaction analysis. Sometimes samples contain un- 
+known contaminants which may result in disturbing and 
+interfering reactions with a y-ray emission. The most 
+serious contaminant is fluorine which has several strong 
+(p, oy) resonances, for example at 340,484, and 878 keV. 
+In many deposition systems which are used in depositing 
+different types of coatings, fluorine contamination is possi- 
+ble. The fluorine resonances mainly decay with a 6129 
+keV y-ray. In the case of aluminium profiling, the energy 
+window should be above this energy. In the case of 
+nitrogen profiling, the energy window is more difficult to 
+set. Since fluoride background includes the same y-rays 
+over a wide bombarding energy range, the ratio of y-ray 
+yield of fluorine in the energy range 5.0-6.2 MeV and 
+3.1-4.8 MeV (the recommended energy window) remains 
+a constant. By using the additional energy window 5.0-6.2 
+MeV, the fluorine interference changing as a function of 
+bombarding energy can be subtracted. 
+In summary, we may conclude that although ion beam 
+analysis can be utilized in many ways in analysing dia- 
+mond-like carbon films, there are in most cases no special 
+features as compared to ion beam analysis of any other 
+material. In backscattering analysis, the energy of the 
+bombarding beam almost always falls outside the regime 
+where the Rutherford scattering cross section is valid. This 
+makes it necessary to use either experimentally obtained 
+cross sections or a standard sample. Moreover, adequate 
+attention should be paid on the possibility of a fluorine 
+contaminant when using nuclear reaction analysis with a 
+y-ray emission. 
+References 
+[I] J.-P. Hirvonen, J. Koskinen, R. Lappalainen and A. Anttila, 
+Mater. Sci. Forum 52/53 (1990). Properties and preparation 
+of amorphous carbon films, eds. J. Poutch and S.A. AI- 
+terovitz (Trans. Tech. Publications, Aedermannsdorf, 
+Switzerland, 1989) p. 197. 
+[2] M. Weiler, S. Sattel, K. Jung and H. Ehrhardt, Diamond and 
+Related Materials 3 (1994) 608. 
+[3] E. Rauhala, Nucl. Instr. and Meth. B 12 (1985) 447. 
+J-P. Hirvonen et al./ Nucl. Instr. und Meth. in Phys. Rex B II8 (19%) 596-601 601 
+[4] M. Luomaj’arvi, E. Rauhala and M. Hautala, Nucl. Instr. and 
+Meth. B 9 (1985) 255. 
+[5] A. Anttila, J. Koskinen, R. Lappalainen, J-P. Hirvonen, D. 
+Stone and C. Paszkiet, Appl. Phys. Lea. 50 (1987) 132. 
+[6] J.R. Tesmer and M. Nastasi, (eds.) Handbook of Modem Ion 
+Beam Analysis (MRS, Pittsburgh, PA, 1995); see also R.W. 
+Hill, Phys. Rev. 90 (1953) 845. 
+[7] J.E.E. Baglin, A.J. Kellock, M.A. Crockett and A.H. Shih, 
+Nucl. Instr. and Meth. B 64 (1992) 469. 
+(81 L.R. Doolittle, Nucl. Instr. and Meth. B 9 (1985) 334. 
+[9] J. Saarilahti and E. Rauhala, Nucl. lnstr. and Meth. B 64 
+( 1992) 734. [lo] G. Amsel, J.P. Nadai, E. D’ Artemare, D. David, E. Guard 
+and J. Moulin, Nucl. Instr. and Meth. 92 (1971) 481. 
+[I I] L.C. Felfman and S.T. Picraux, in Ion Beam Handbook for 
+Material Analysis, eds. J.W. Mayer and E. Rimini (Academic 
+Press, New York, 1977) p. 118. 
+[I21 J-P. Hirvonen and R. Lappalainen, in Handbook of Modem 
+Ion Beam Analysis, eds. J.R. Tesmer and M. Nastasi (MRS, 
+Pittsburgh, PA. 1995) p. 167. 
+[I31 A. Anttila. 1. Koskinen, M. Bister and J-P. Hirvonen. Thin 
+Solid Films I36 (1986) 136. 
+[14] W.M. Currie. Nucl. Instr. and Meth. 73 (1969) 173. 
+IX. NEW MATERIALS 

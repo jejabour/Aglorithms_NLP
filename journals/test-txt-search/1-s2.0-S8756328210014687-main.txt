@@ -1,0 +1,852 @@
+Selective isolation and differentiation of a stromal population of human embryonic
+stem cells with osteogenic potential
+Linda Harknessa, Amer Mahmooda,c, Nicholas Ditzela, Basem M. Abdallaha,
+Jens V. Nygaardb, Moustapha Kassema,c,⁎
+aDepartment of Endocrinology & Metabolism, Laboratory for Molecular Endocrinology (KMEB), Medical Biotechnology Centre (MBC), Winsløwparken 25, University of Southern Denmark,
+5000 Odense C, Denmark
+bInterdisciplinary Nanoscience Centre, Faculty of Science, University of Aarhus, Ny Munkegade, building 1521, 8000 Aarhus, Denmark
+cStem Cell Unit, Department of Anatomy, King Saud University, Riyadh, Saudi Arabia
+abstract article info
+Article history:
+Received 18 April 2010Revised 9 September 2010Accepted 15 September 2010Available online 30 September 2010
+Edited by: R. Baron
+Keywords:
+Human embryonic stem cellsOsteogenic differentiationHyaluronic acidIn vivo bone formationThe derivation of osteogenic cells from human embryonic stem cells (hESC) has been hampered by the absence
+of easy and reproducible protocols. hESC grown in feeder-free conditions, often show a sub population ofﬁbroblast-like, stromal cells growing between the colonies. Thus, we examined the possibility that these cells
+represent a population of stromal (mesenchymal) stem cells (hESC-stromal). Two in house derived hES cell lines
+(Odense3 and KMEB3) as well as an externally derived cell line (Hues8) were transitioned to feeder-freeconditions. A sub population of ﬁbroblast-like cells established between the hESC colonies were isolated by
+selective adherence to hyaluronic acid-coated plates (100 μg/ml) and were characterized using a combination of
+FACS analysis and staining. The cells were CD44
++, CD29+,C D 7 3+,C D 1 6 6+,C D 1 4 6+, and CD105+;a n d ,O c t 4−,
+CD34−, CD45−and CXCR4−. When cultured in osteogenic differentiation media, up regulation of osteoblastic
+lineage markers ( DLX5, MSX2, RUNX2, SPARC, ALP, COL1a1, BGLAP, IBSP, DCN, LOX-L4 ) and production of in vitro
+mineralized matrix was detected. hESC-stromal cells loaded on a carrier and implanted either subcutaneously or
+in a critical size calvarial defect in immune de ﬁcient mice for 10 weeks, resulted in new bone formation and
+partial repair of the calvarial defect. In conclusion, hESC-stromal can be isolated from hESC cultures and represent
+a good source for obtaining cells with osteogenic differentiation potential suitable for regenerative medicine
+protocols.
+© 2010 Elsevier Inc. All rights reserved.
+Introduction
+Human bone marrow stromal stem cells (hBMSC) (also known as
+bone marrow mesenchymal cells, multipotent mesenchymal stem
+cells, skeletal stem cells) are considered an accessible source of cells
+that can differentiate into osteogenic cells, however their in vitro
+proliferation ability is ﬁnite and the number of cells retrievable from
+patients is limited [1]. In contrast to hBMSC, human embryonic stem
+cells (hESC) are pluripotent cells that can differentiate into cells of all
+three germ layers (endoderm, mesoderm, ectoderm) [2]. hESC have
+several advantages relevant for studies of bone biology. hESC are asuitable model for studying the molecular mechanisms of stem cell
+differentiation to mesoderm and osteo-progenitor cells. This infor-
+mation is highly relevant since pathways, important for osteoblast
+generation during development, are similar to osteoblast regenera-
+tion following injury or disease in adult life [3]. In addition, hESC can
+potentially provide a large number of cells with speci ﬁc character-
+istics needed for regenerative medicine protocols e.g. treatment of
+bone defects and non-healed fractures.
+Three methods have been described to differentiate hESC into an
+osteogenic phenotype: via an intermediate stage using embryoid
+body (EB) formation [4–9], via induction through outgrowth culture
+[10–17], or through co-culture with a more differentiated cell type
+[18–21]. However, the ability of these culture methods to provide
+homogeneous, ef ﬁcient and reproducible differentiation of hESC cells
+into osteogenic cells has been limited. The ef ﬁciency of differentiation
+is usually unreported, and resultant cell cultures are morphologically
+and functionally heterogeneous and thus there is a concern that these
+cells may form teratoma if used in clinical applications [22].
+Furthermore, initiation of differentiation through EB leads to a
+heterogeneous cell population and co-culture, and using cells from a
+different species, could lead to potential contamination from animalBone 48 (2011) 231 –241
+⁎Corresponding author. Department of Endocrinology & Metabolism (KMEB),
+Medical Biotechnology Centre (MBC), Winsløwparken 25, University of Southern
+Denmark, 5000 Odense C, Denmark. Fax: +45 6550 3950.
+E-mail addresses: lharkness@health.sdu.dk (L. Harkness),
+amahmood@health.sdu.dk (A. Mahmood), nditzel@health.sdu.dk (N. Ditzel),
+babdallah@health.sdu.dk (B.M. Abdallah), jvn@inano.dk (J.V. Nygaard),
+mkassem@health.sdu.dk (M. Kassem).
+8756-3282/$ –see front matter © 2010 Elsevier Inc. All rights reserved.
+doi:10.1016/j.bone.2010.09.023
+Contents lists available at ScienceDirect
+Bone
+journal homepage: www.elsevier.com/locate/bone
+products [23]. Finally, the osteogenic potential of the cells have
+generally been based on in vitro criteria except in four reports where
+the bone forming capacity was demonstrated in vivo either in
+heterotopic subcutaneous bone formation following implantation in
+immune de ﬁcient mice [4,7,21] or in diffusion chambers implanted in
+the peritoneal cavity of the nude mice [9]. However, these studies
+have not demonstrated that the bone observed was formed by theimplanted human cells and not due to a dystrophic calci ﬁcation
+reaction of the recipient murine cells.
+Hyaluronan (also called hyaluronic acid (HA) or hyaluronate) is a
+non-sulfated glycosaminoglycan (GAG) of high molecular weight
+which is widely distributed throughout connective, epithelial, skin
+and neural tissues. It is one of the chief components of the
+extracellular matrix and can bind to aggrecan, along with type II
+collagen, which together form a major structural component of
+cartilage [24]. HA has also been reported to play a role in early human
+preimplantation embryogenesis [25].Within skeletal biology, HA has
+multiple functions including migration and condensation of BMSC
+[26], joint cavity formation and long bone growth [24].H Ai s
+expressed in osteoblastic cells, osteocytes, osteoclasts and is a major
+component in bone marrow suggesting a role in bone remodelling
+[24,27] . One of HA's receptor's, CD44, has 21 variant isoforms due to
+extensive alternative splicing. However, all isoforms of CD44 contain a
+HA binding site in the extracellular domain [24,28] and binding of HA
+to CD44 is implicated in migration, proliferation and cell adhesion to
+extra cellular matrices [29].
+The aim of this study was therefore to isolate and characterise an
+osteoprogenitor cell population from hESC. We report here the
+possibility of employing HA as a substrate to enrich for a stromal cell
+population (called here hESC-stromal) with osteogenic differentiation
+potential based on side-by-side comparison with bone marrow-
+derived human stromal stem cells (hBMSC) and phenotypic charac-
+terization both in vitro and in vivo . We have also demonstrated the
+functional ability of hESC-stromal cells in participating in bone
+healing in a critical calvarial defect in mice.
+Methods and materials
+Cell culture
+Two in-house hESC lines, Odense3 and KMEB3, were derived and
+used in accordance with Danish stem cell guide lines and approval
+from the local Scienti ﬁc Ethical committee. The characterisation of
+Odense3 and KMEB3 has previously been reported [30,31] . The
+Hues8 cell line was kindly provided by D. Melton (Howard Hughes
+Medical Institute, Harvard University, Boston, Mass) [2]. All cell lines
+were transitioned from routine culture on inactivated MEF feeders to
+standardised in vitro feeder free conditions [30]. Brie ﬂy, hESC were
+cultured in MEF-conditioned Melton's media (Knockout DMEM, 15%
+KOSR, 1% NEAA, 1 mM Glutamax, 0.1 mM β-mercaptoethanol (all
+Invitrogen, Taastrup, Denmark) and 0.5% human serum albumin
+(HSA; CSL Behring GmbH, Marburg, Germany)) and supplemented
+with 5 ng/ml hbFGF (Invitrogen, Taastrup, Denmark). Reduced
+growth factor Matrigel
+®(Becton Dickinson, Brøndby, Denmark)
+was used according to the manufacturer's instructions. Within two
+to three passages of transition a sub population of ﬁbroblast-like,
+stromal cells developed between the hESC colonies. These cells have
+been referred to here as hESC-stromal cells. The hESC-stromal cells
+were isolated by plating both the colony and stromal cells onto
+plates pre-coated with 100 μg/ml hyaluronic acid (Calbiochem/
+Merck, Darmstadt, Germany) in DMEM (Invitrogen, Taastrup,
+Denmark) supplemented with 10% FBS (PAA, Pasching, Austria).
+Very few colony cells attached to the hyaluronic acid, and within
+two passages of culture on hyaluronic acid no residual colony cells
+were found.Flow cytometry
+Flow cytometry was carried out to establish a phenotypic pro ﬁle of
+the hESC-stromal cells and to compare that pro ﬁle with a well
+characterized hBMSC line established through over expression of
+human telomerase gene (TERT) and called hMSC-TERT [32]. OD3-,
+Hues8-, KMEB3-stromal cells as well as hMSC-TERT cells were stainedfor the pre-conjugated markers CD29-FITC (AbCam, Cambridge, UK);
+CD34-PE (Dako, Glostrup, Denmark); CD44-PE, CD45-PE, CD73-PE,
+CD146-PE and CD166-PE (all BD Pharmingen, Brøndby, Denmark);
+CXCR4-PE and Oct3/4-FITC (all R&D Systems, Abingdon, UK); Tra1-
+81-PE and CD105-APC (both eBioscience, Hat ﬁeld, UK). Cells,
+trypsinised to a single cell suspension, were blocked in 2% BSA before
+incubation with the above mentioned pre-conjugated antibodies, or
+matched isotype controls, for 45 min on ice. All samples were then
+analysed on a FACScan (BD Biosciences, Brøndby, Denmark) and data
+evaluated using WinMdi ( http://www.cyto.purdue.edu/ ﬂowcyt/soft-
+ware/Winmdi.htm ).
+Differentiation to osteoblast, adipocyte and chondrocyte cells
+hESC-stromal cells were plated, on tissue coated plastics (pre-coated,
+for 30 min at RT, with 100 μg/ml hyaluronic acid in PBS) in high glucose
+DMEM supplemented with 10% FBS (PAA, Pasching, Austria). Once 80%
+conﬂuence had been achieved, cells were cultured in osteoblastic
+induction mixture containing 100 nM dexamethasone (Sigma-
+Aldrich, Brøndby, Denmark), 50 μg/ml
+L-ascorbic acid-2-phosphate
+(Sigma-Aldrich, Brøndby, Denmark) and 10 mM β-glycerophosphate
+(Calbiochem-Merck, Darmstadt, Germany). For adipocyte differentia-
+tion, the cells were incubated at 100% con ﬂuency in adipocyte induction
+mixture: DMEM plus 10% FBS media supplemented with 10% horse
+serum (Sigma-Aldrich, Brøndby, Denmark), 100 nM dexamethasone
+(Sigma-Aldrich, Brøndby, Denmark), 450 μM 1-methyl-3-isobutyl-
+xanthine (IBMX, Sigma-Aldrich, Brøndby, Denmark), 1 μM Rosiglitazone
+(BRL49653, Cayman Chemical, Ann Arbor, Michigan) and 5 μg/ml insulin
+(Sigma-Aldrich, Brøndby, Denmark). For the chondrocyte lineage,
+2×105cells were pelleted at 900 g for 5 min, and left overnight in
+CDM (chemically de ﬁned media: DMEM:F12 (Invitrogen, Taastrup,
+Denmark), 0.5% fraction V BSA (Sigma-Aldrich, Brøndby, Denmark), 1%
+lipid concentrate (Invitrogen, Taastrup, Denmark) and 1 mM glutamax
+(Invitrogen, Taastrup, Denmark)) supplemented with 10 nM dexameth-
+asone (Sigma-Aldrich, Brøndby, Denmark), 50 μg/ml L-ascorbic acid-2-
+phosphate (Sigma-Aldrich, Brøndby, Denmark), 40 μg/ml L-proline
+(Sigma-Aldrich, Brøndby, Denmark), 0.91 mM sodium pyruvate (Invi-
+trogen, Taastrup, Denmark) and 1% insulin-transferrin-selenium +1
+(ITS+, BD Biosciences, Brøndby, Denmark). Cells were incubated
+overnight to form a pellet prior to the addition of 10 ng/ml TGF β1
+(Peprotech, London, UK).
+Quantitative real time PCR (qRT-PCR) analysis
+All collected samples underwent total RNA extraction using TRIzol
+(Invitrogen, Taastrup, Denmark; according to manufacturer's instruc-
+tions), phase separation was carried out using chloroform and the
+resultant pellets washed in isopropanol and 70% ETOH, before air
+drying and resuspension in DEPC water. cDNA was constructed using
+a revertAid H minus ﬁrst strand cDNA synthesis kit (Fermentas, St
+Leon-Rot, Germany) according to the manufacturer's instructions.
+qRT-PCR was accomplished using a MyIQ detection system (Bio-Rad,
+Copenhagen, Denmark) in a 20 μl volume with 20 pmol of each
+primer, 2× SYBERgreen (Bio-Rad, Copenhagen, Denmark) and 15 μg
+cDNA. Using the ICycler optical system software (Bio-Rad, v3.1) and
+Microsoft Excel, relative gene e xpression data was calculated.
+Following normalisation to the reference gene β-actin, quanti ﬁcation
+of gene expression was carried out using a comparative Ct method232 L. Harkness et al. / Bone 48 (2011) 231 –241
+where ΔCT is the difference between the CT values of the target and
+reference gene.
+At days 0, 5, 10 and 15 of osteoblast (OB) or adipocyte (AD)
+induction, cells were taken for qRT-PCR (OB: alkaline phosphatase
+(ALP),D L X 5 ,R U N X 2 ,M S X 2 ,c o l l a g e n1 α1(COL1a1 ), osteocalcin
+(BGLAP ), osteonectin ( SPARC ), decorin ( DCN), lysyl oxidase 4 ( LOX-
+L4), and bone sialoprotein ( IBSP); AD: adipocyte-speci ﬁc lipid binding
+protein 2 ( aP2),PPARγ2and C/CEBP α). At days 0, 7, 14 and 21 of
+chondrocytic differentiation cell pellets were taken for qRT-PCR
+(SOX9 , collagen 2 α1(COL2a1 ), aggrecan ( ACAN ),ALP, RUNX2,
+COL1a1 ). All primers were obtained from DNA Technology A/S
+(Risskov, Denmark).
+Cytochemical and immunohistochemical stainingCytochemical
+Alizarin red (AZR, Sigma-Aldrich, Brøndby, Denmark) and alkaline
+phosphatase (ALP) staining for OB differentiation was carried out
+following ﬁxation using either ice cold 70% ETOH for 1 h (AZR) or
+0.10 mM citrate buffer pH 4.2/acetone ﬁx (ratio 3:2) for 5 min at RT
+(ALP). Cells were incubated in 40 mM AZR at pH 4.2 for 10 min at RT
+before examination for the presence of mineralised matrix. ALP
+staining was carried out in a solution of 0.2 mg/ml Napthol AS-TR
+phosphate substrate (Sigma-Aldrich, Brøndby, Denmark) in water
+combined with 0.417 mg/ml of Fast red (Sigma-Aldrich, Brøndby,
+Denmark) in 0.1 M Tris (pH 9.5) for 1 h at RT. Following ﬁxation in 4%
+PFA for 10 min, Oil red (OR, Sigma-Aldrich, Brøndby, Denmark; 0.5 g
+in 60% isopropanol) staining for lipid deposition was carried out at RTfor 1 h before counterstaining in haematoxylin. Pellets of cells
+undergoing chondrocytic differentiation were ﬁxed for 10 min in 4%
+PFA, washed in PBS, processed and embedded in paraf ﬁn before
+sectioning and staining.
+Immunohistochemical
+Routine protocols [31] were used to stain for SOX9 (1:200, R&D
+Systems, Abingdon, UK), collagen type 1 (1:200, AbCam, Cambridge,
+UK), human (Vimentin 1:400, Dako, Glostrup, Denmark) and Tra1-85
+(1:100, Chemicon/Millipore, Copenhagen, Denmark). Brie ﬂy, immu-
+nocyto- and histo-chemical staining was performed using DAKO En
+Vision+ and PowerVision according to manufacturer's instructions.
+Primary antibodies were diluted in ChemMate Antibody diluent
+(S2022, Dako, Glostrup, Denmark) and processed on an automatic
+slide processor (Techmate500, Dako, Glostrup, Denmark) using the
+dilutions stated above.
+Analysis was carried out on an IX50 Olympus microscope using
+OlympusDP Software v3.1 (Olympus, Essex, UK) or a Leica DM4500
+(Leica, Wetzlar, Germany) using the Surveyor Turboscan Mosaic
+acquisition imaging analysis system v5.04.01 (Objective Imaging Ltd,
+Cambridge, UK).
+In vivo implantation studiesTeratoma formation
+Undifferentiated OD3-stromal cells were implanted, in a 1:2
+dilution of Matrigel®basement membrane matrix (BD Biosciences,
+Brøndby, Denmark) in Knockout DMEM, subcutaneously under the
+dorsal surface of 4 NOD/MrkBomTac-PrkdcSCIDmice for a period of
+8 or 10 weeks [33]. Each mouse (n=4) received 2×106cells at each
+of 2 implantation sites. As no teratoma was formed from implantation
+of OD3-stromal cells identi ﬁcation of injection sites where cells had
+been placed was dif ﬁcult. However 87% (7/8) of implantation sites
+were identi ﬁed by the residual Matrigel®plug and a small amount of
+tissue recovered. Implantation sites were ﬁxed in 4% PFA, embedded,
+sectioned and stained with H&E and Tra1-85 (1:100, Chemicon/
+Millipore A/S, Copenhagen, Denmark), to establish human cell
+identi ﬁcation. Additionally, 3 –4×106hESC-KMEB3 cells wereimplanted in 4 injection sites under the dorsal surface of 1 NOD-
+SCID mouse in a 1:2 dilution of Matrigel®to establish teratoma
+formation. Teratomas were removed at 4 –5 weeks due to vacuolation
+of the hESC induced teratoma tissue. hESC-KMEB3 formed teratoma
+containing tissues derived from the three germ layers as previously
+reported [31].
+In vivo bone formation assay
+One million OD3-hESC-stromal cells undergoing osteoblast differ-
+entiation (5 days) and non induced cells, were implanted in NOD/
+MrkBomTac-PrkdcSCIDmice in combination with 40 mg hydroxyap-
+atite-tricalcium phosphate (HA/TCP, Triosite 0.5 –1 mm granules,
+Biomatlante/Zimmer, Vigneux de Bretagne, France). Ten weeks after
+implantation the scaffold was removed and ﬁxed in 4% PFA before
+embedding in paraf ﬁn. Sections were stained with haematoxylin and
+eosin (H&E), collagen type 1 (1:200, AbCam, Cambridge, UK), Tra1-85
+(1:100, Chemicon/Millipore, Copenhagen, Denmark), human Vimen-
+tin (1:400, Dako, Glostrup, Denmark) and Sirius red. KMEB3-hESC
+cells (3 –4×106) were, in addition, seeded onto HA/TCP and implanted
+into NOD-SCID mice to establish if cells, adherent to the scaffold,
+formed teratomas or if the presence of scaffold impeded teratoma
+formation. Scaffolds were removed after 8 weeks and processed asabove.
+Critical-sized calvarial defect
+A critical-size calvarial defect model was established as described
+by Gupta et al. [34]. In brief, 3-mm circular calvarial defects were
+created in the right and left parietal bones in two or three month old
+NOD/MrkBomTac-Prkdc
+SCIDmice using a biopsy punch (Kai Medical,
+Solingen, Germany). The dura mater was carefully removed to
+prevent regeneration of bone from this source. In order to allow the
+visualization of bone healing using μCT scanning, cells, at a
+concentration of 10 –15,000/cm2, were seeded onto either a PCL ﬁlm
+or Healos®Bone Graft Replacement (gifted from Protesekompagniet,
+Albertslund, Denmark) which is currently being used in the Clinic for
+treating bone defects ( http://www.depuyacromed.com/products/
+biologicssolutions/healos.asp ). Cells seeded onto the scaffolds were
+incubated for 2 h to allow cells to adhere to the scaffold prior to
+additional media being added. PCL ﬁlm was fabricated from a Solvay
+polycaprolactone (grade 6405) ﬁlm, by dissolving in HPC grade 1,4-
+dioxane. The dissolved ﬁlm was distributed across a glass surface and
+the dioxane evaporated in a fume hood. Finally, the ﬁlm was placed in
+a vacuum oven to eliminate the rest of the dioxane. A 3 mm implant of
+the resultant PCL ﬁlm or Healos®was inserted under the defect. In
+each animal one defect was assigned PCL ﬁlm or Healos®scaffold
+without cells and one defect with OD3-stromal cells seeded onto it.
+For the PCL ﬁlm the cells were seeded on the underside of the scaffold,
+the Healos®scaffold is permeable so the cells were seeded throughout
+the scaffold. Four mice (PCL ﬁlm) and two mice (Healos®) received
+cells which had undergone 5 days of in vitro osteogenic induction after
+seeding on the scaffold; four mice (PCL ﬁlm) and three mice (Healos®)
+received cells grown on the for 5 days which had not received
+osteogenic induction. HA/TCP was not employed in the calvarial
+defect model as μCT scanning studies cannot be carried out since the
+radiodensity of the HA/TCP is equivalent to that of bone.
+Samples were harvested 14 weeks after implantation and calvaria
+were ﬁxed in 4% formalin for 3 days before decalci ﬁcation in 0.38 M
+EDTA, di sodium salt, pH 7.2 for 5 days. The defects were embedded,
+sectioned (5 μm) and stained for human Vimentin (1:400, Dako,
+Glostrup, Denmark), Tra1-85 (1:100, Chemicon/Millipore, Copenha-
+gen, Denmark), Sirius red and H&E. To detect healing, microcomputed
+tomographical ( μCT) scanning images were obtained from mice used
+in the critical sized calvarial defect study at weeks 3 and 14 weeks
+(PCL ﬁlm) and 2 and 14 weeks (Healos®). Using a VivaCT40 scanner
+(Scanco Medical AG, Bassersdorf, Switzerland), a two-dimensional233 L. Harkness et al. / Bone 48 (2011) 231 –241
+images was acquired from the calvarial defect area from which 3-
+dimensional reconstructions with a cubic voxel-size of 38 μm were
+generated. Images were analysed using the built in software.
+Results
+Isolation of hESC-stromal cells using selective adherence to HA coated
+plates
+hESC lines, transitioned from culture on inactivated MEF feeders
+(Fig. 1 A) to feeder free culture conditions in the presence of Matrigel®
+and MEF conditioned media (see above), contained two distinct
+populations of cells: hESC colonies ( Fig. 1 A) and a sub population of
+ﬁbroblast-like, stromal cells ( Fig. 1 C) (termed here hESC-stromal
+cells). Changes in the localisation of expression of CD44 (HA receptor)
+was noted in colony cells transferred from feeders to feeder free
+conditions. CD44 was found to be highly expressed in colony cells
+grown on feeders ( Fig. 1 A) but was absent in colony cells grown on
+Matrigel®(Fig. 1 B). The hESC-stromal cells which appeared between
+colonies grown on Matrigel®were CD44+. Culturing the cells on HA
+coated wells enriched only for CD44+hESC-stromal cells and colony
+cells (which were CD44−) did not adhere ( Fig. 1 C). Transferring hESC
+directly from feeder cultures to HA coated wells did not select for a
+stromal cell population as the majority of colony cells (CD44+)
+adhered to the matrix. As seen in Fig. 1 D, hESC-stromal cells
+proliferated readily in culture with a population doubling time
+(PDT) of 24 h and continued this growth rate for over 15 passages
+without evidence of in vitro replicative senescence. Fig. 1 E demon-
+strates that hESC-OD3 grown on Matrigel®, in the absence of stromalcells, are 100% CD44−and that hESC-stromal cells isolated from hESC
+cultured on Matrigel®are 100% CD44+. To test if the hESC-stromal
+cells could revert to pluripotential colony cells, the cells were re-
+cultured, after 5 passages on HA, on Matrigel®in presence of MEF
+conditioned media supplemented with hbFGF. No colony formation
+was observed suggesting that the hESC-stromal cells had become
+established as a differentiated cell line, these cells were, moreover,negative for the pluripotency marker Oct3/4 ( Fig. 2 supplementary
+data). Additionally, karyotypic analysis was performed on the
+parental hESC and hESC-derived stromal cells and both were normal
+(data not shown).
+In vitro expansion or differentiation of hESC-stromal cells can be
+performed in absence of HA
+In order to establish whether the presence of HA was needed for the
+maintenance, growth and the differentiation status of hESC-stromal
+cells, cells at passage 3 and 10, were transferred to wells with or without
+precoating with HA. No change was observed in cell morphology,
+surface marker expression (passage 3 data: CD44, CD73, CD105, CD146,
+CD166, Fig. 1A supplementary data ) or proliferation capacity ( Fig. 1 C) of
+the cells. Similarly, no signi ﬁcant differences in gene expression ( RUNX2,
+ALP, BGLAP, COL1a1 ) were seen in hESC-stromal cells, undergoing
+osteoblast differentiation, grown with or without HA as a matrix
+(Fig. 1B –E, supplementary data , n=3 independent experiments).
+Additionally, we did not observe spontaneous up regulation of
+osteoblastic gene expression in hESC-stromal cells examined at days
+1, 5, 10 and 14 of culture ( Fig. 1B –E, supplementary data ).
+Fig. 1. Localisation of CD44 in hESC-OD3 and OD3-stromal cells. Staining results from hESC-OD3 line showing the change in localisation of CD44 between cells grown on (A) an
+inactivated feeder layer (20 μm) and then (B) transitioned to Matrigel® and conditioned media (100 μm). CD44 was found to be expressed in pluripotent colony cells when grown
+on feeders but was down regulated in the colony cells and subsequently expressed in hESC-stromal cells when grown on Matrigel®. (C) OD3-stromal cells grown on hyaluronic acid
+(100x magni ﬁcation). (D) growth curves over 6 passages for OD3-stromal grown with and without hyaluronic acid as a matrix, no difference was seen in the plating ef ﬁciency,
+proliferation rate or population doubling between the two growth conditions. (E) upper panel: Flow cytometric analysis of hESC-OD3 grown on Matrige l®in MEFCM in the absence
+of stromal cells showing the hESC are negative for CD44; lower panel: isolated OD3-stromal cells showing all cells positive for CD44.234 L. Harkness et al. / Bone 48 (2011) 231 –241
+hESC-stromal cells exhibit surface markers of human bone marrow
+stromal stem cells (hBMSC)
+Flow cytometry was carried out on three hESC-stromal cell lines
+using cell surface markers employed to de ﬁne hBMSC [35] and
+compared to a well-described hMSC-TERT line [32,36] . hESC-stromal
+cells were CD44+,C D 7 3+, CD105+, CD146+, CD166+and the
+percentage of positive cells were comparable to the hMSC-TERT for
+CD44, CD73 and CD105 ( Fig. 2 ). Fewer positive cells were found in
+CD146 and CD166 in the hESC-stromal cells as compared with hMSC-
+TERT (70 –90% positive hESC-stromal as compared with 100% positive
+hMSC-TERT; Fig. 2 ). The hESC-stromal cells lost their pluripotency
+markers Oct3/4 and Tra1-81, and were also CD45−, CD34−and CD184−
+(CXCR4) ( Fig. 2 supplementary data ). This data demonstrates that hESC-
+stromal cells exhibit an hMSC-like phenotype.
+hESC-stromal cells differentiate to osteoblastic (OB) cells
+In the presence of osteogenic induction mixture, hESC-stromal
+cells underwent osteoblastic differentiation as evidenced by up
+regulation of several osteoblast speci ﬁc genes during a 15 day in
+vitro differentiation period. The relative expression levels of canonicalosteogenic markers DLX5, MSX2, RUNX2, ALP, COL1a1, SPARC, BGLAP,
+and IBSP reached a maximal up regulation between days 4 and 11 of
+osteoblast differentiation ( Fig. 3 G, n=3 independent experiments).
+In addition, recently identi ﬁed markers, predictive for in vivo bone
+formation, ( DCN and LOX-L4 ) were up regulated during osteogenic
+induction [37]. In addition, the cells formed mineralized matrix that
+stained positive for alizarin red at 15 days of osteogenic induction(Figs. 3 A–F). In a side-by-side comparison with hMSC-TERT cells,
+hESC-stromal cells exhibited similar responses to osteoblastic
+induction with similar levels of enhanced gene expression of MSX2,
+ALP,SPP1,LOX-L4, DCN andTWIST1 . However, differences also existed
+with lower levels of gene expression of DLX5 (regulator of RUNX2 ),
+RUNX2 and BGLAP and increased gene expression of COL1a1 in hESC-
+stromal compared to hMSC-TERT ( Fig. 3 Supplementary data ).
+hESC-stromal cells differentiate to adipocytic (AD) cells
+hESC-stromal cells were able to differentiate to adipocytic cells in
+the presence of adipogenic induction mixture. After 5 days of
+induction, small lipid droplets were visible within the cells and by
+day 15, cells ﬁlled with lipid droplets, that stained positive for oil red,
+were readily demonstrable ( Fig. 4 ). Accumulation of intracellular
+Fig. 2. Flow cytometric analysis of three hESC-stromal cell lines. FACS analysis comparing three hESC-stromal cell lines against hMSC-TERT. All cell lines show analogous numbers of
+positive cells in all cell lines for CD44, CD73, and CD105. Small differences in the number of positive cells were seen in CD146 (hMSC-TERT 90% positive ; hESC-stromal 70 –90%
+positive) and CD166 (hMSC-TERT 100% positive; hESC-stromal 80% positive).235 L. Harkness et al. / Bone 48 (2011) 231 –241
+lipids was associated with up regulation in the expression of
+adipocytic markers: adipocyte speci ﬁcPPARγ2,aP2 and C/EBP α
+(Fig. 4 ). As shown by accumulation of lipid droplets stained with Oil
+Red O, adipocytic differentiation in hESC-stromal cells was compara-
+ble to that observed in the hMSC-TERT line ( Fig. 4 ). However,
+comparison of the gene expression between the hESC-stromal cells
+and hMSC-TERT cells showed that the expression level of PPARγ2was
+much more enhanced, after d5 of differentiation, in the hMSC-TERT,
+and C/EBP αmuch more enhanced in the hESC stromal-cells ( Fig. 4 ).
+hESC-stromal cells did not exhibit in vitro differentiation to chondrocytic
+cells
+hESC-stromal cells were cultured for a maximum of 21 days as a
+cell pellet, in the presence of chondrocytic differentiation factors.
+Gene expression of the chondrogenic markers: COL2a1 , and ACAN , but
+notSOX9 , were found to be up regulated at d21 ( Fig. 4 Supplementary
+data).SOX9 gene expression showed down regulation during
+differentiation. This compared with cell pellet staining (positive for
+SOX9 at all time points (d0, d7, d14 and d21)) which showed
+decreasing numbers of positive cells over time. Alcian blue staining
+was not observed at any time point. Interestingly, collagen 1 exhibiteda high degree of positive staining at all time points as did Sirius red. In
+addition, gene expression of a number of osteoblastic markers
+(RUNX2, ALP, COL1a1 ) were up regulated during differentiation
+(Fig. 4G Supplementary data ), and the gene expression levels were
+comparable to those established in hESC-stromal cells undergoing
+osteogenic differentiation.
+hESC-stromal cells do not form teratoma in vivo
+In order to study the degree of differentiation heterogeneity in
+hESC-stromal cells, we examined their ability to form teratoma in vivo ,
+a sin qua non for the undifferentiated pluripotent hESC. The parental
+hESC employed to derive hESC-stromal cells were pluripotent and
+formed teratoma as previously reported [31]. Conversely, hESC-
+stromal cells did not form teratoma either when implanted with HA/
+TCP (n=13) or in the presence of Matrigel®(n=8 implants) and cell
+survival was con ﬁrmed by the presence of small islands of human
+cells that stained positive with the human speci ﬁc Tra1-85 antibody
+after 8 weeks of implantation ( Fig. 5A Supplementary data ). As a
+positive control, hESC readily formed teratoma when implanted into
+NOD/MrkBomTac-PrkdcSCIDin combination with Matrigel®[33] and
+Fig. 3. Osteogenic induction of hESC-stromal cells. Osteogenic induction was performed on hESC-stromal cells over a 15 day period. AZR staining shows high l evels of matrix
+deposition at day 15 (B, D, F) as compared with non induced control staining (A, C, E); (A, B) Hues8-stromal (C, D) KMEB3-stromal (E, F) OD3-stromal (all photographs shown at
+500μm). (G) RT-PCR of relative expression levels, normalised to β-Actin, of OD3-stromal cells between days 0 and 13 of osteogenic induction (n=3 independent experiments). Data
+shows up regulation of the canonical osteogenic gene markers ALP,DLX5 ,RUNX2 ,MSX2 ,COL1a1 ,SPARC ,BGLAP andIBSP, and the predictive in vivo bone formation markers LOXL4 and
+DCN between days 4 and 11 of induction. All gene expression is down regulated within the 15 day period of measurement.236 L. Harkness et al. / Bone 48 (2011) 231 –241
+no teratoma were formed by hESC when implanted in the presence of
+HA/TCP (data not shown).
+hESC-stromal cells form ectopic bone in vivo
+Seven of 10 implants of hESC-stromal cells, either non-induced
+(n=5) or after osteogenic induction (n=5), formed ectopic bone
+when mixed and implanted with HA/TCP ( Fig. 5 A). No bone formation
+was observed when HA/TCP was implanted without hESC-stromal
+cells and stromal cells were shown to have cell survival after 10 weeks
+of implantation with HA/TCP ( Fig. 5 Ac human speci ﬁc Tra1-85
+staining). The implants contained bone adjacent to the HA/TCP
+surfaces and stromal elements co ntaining adipocytes. Limited
+hematopoietic cell in ﬁltration was observed ( Figs. 5 Aa and b (400×
+mag.)). No difference was observed in the quantity of bone formed in
+implants from osteoblastic-differentiated hESC-stromal cells (n=4)
+compared to non induced hESC-stromal cells (n=3). We found no
+evidence of cartilage formation in any of the implants.hESC-stromal cells participate in healing of critical-sized calvarial defect
+In order to study the functional capacity of hESC-stromal cells in
+vivo, we implanted the cells in a bone regeneration model of critical-
+size calvarial defect in mice. The hESC-stromal cells (control and
+osteoblastic-induced cells) were implanted for 14 –15 weeks. μCT
+scanning, performed at 3 (PCL ﬁlm,Fig. 5 B) or 2 (Healos®,Fig. 5 D) and
+14 weeks (both PCL ﬁle and Healos®;Figs. 5 B and D), showed
+enhanced bone growth in defects implanted with hESC-stromal cells
+and the bone growth was independent of prior OB induction (OB
+induced implants=4 (PCL ﬁlm) or 2 (Healos®); non-induced hESC-
+stromal cell implants=4 (PCL ﬁlm) or 3 (Healos®)). Histological
+examination of the defect repair tissue showed bone growth on the
+underside of both the PCL ﬁlm and the within the Healos®scaffold
+(Figs. 5 C and E) where the hESC-stromal cells were seeded. In the PCL
+ﬁlm a few osteocytes could be observed trapped within the new bone
+matrix ( Figs. 5 Ca–c) where lamellar bone was formed. Control PCL
+ﬁlm (no cells) inserted into the defect showed no sign of regenerative
+Fig. 4. Adipocyte differentiation comparing staining of three hESC-stromal lines with hMSC and RT-PCR data comparing hESC-stromal cell line with hMSC. Ind uction of adipocyte
+differentiation in the OD3-stromal (A –B), Hues8-stromal (C –D), KMEB3-stromal (E –F) and hMSC-TERT (G –H). All cell lines shows a similar pattern of oil red staining at d15 (A, C, E, G =
+control; (B, D, F, H = induced. All photographs show a scale bar of 20 μm. (I) comparison of relative gene expression data following normalisation to β-Actin (n=3 independent
+experiments) from OD3-stromal cell line ■with hMSC-TERT □. Expression levels of aP2look similar in hMSC-TERT and OD3-stromal cells at day 10 however the hESC-stromal cells, at d15,
+show expression levels down regulated; PPARγ2data shows a much higher level in hMSC-TERT cells when compared with hESC-stromal cells; expression levels of C/EBP αare higher
+expressed at all time points in hESC-stromal cells.237 L. Harkness et al. / Bone 48 (2011) 231 –241
+Fig. 5. Subcutaneous implantation of OD3-stromal cells and in vivo bone formation in a calvarial defect model. (A) OD3-stromal cells were implanted subcuta neously, in combination
+with HA/TCP scaffold, into NOD-SCID mice for 10 weeks. Image (a) and (b) H&E demonstrating both ectopic bone and adipocyte formation (200x and 400x mag . respectively)
+(c) human speci ﬁc Tra1-85 staining indicating hESC-stromal cell survival following implantation with HA/TCP; and (d) collagen type 1 staining showing ectopic bone formation
+(photographs at 200x magni ﬁcation unless speci ﬁed). (B) μCT images at 3 and 14 weeks after implantation of PCL ﬁlm with cells seeded on the underside. Bone is seen to have
+formed on the right side of the defect where OD3-stromal cells were seeded on PLC ﬁlm; the blank ﬁlm on the left side shows no interference with the μCT scanning. (C) Mosaic scan
+image of H&E staining of calvarial defect repair at 14 weeks. Control (PCL ﬁlm without cells) shows no bone generation while new bone is seen underlying the PCL scaffold. Images a,
+b and c show new lamellar bone at 200× magni ﬁcation. (D) μCT images at 2 and 14 weeks after implantation using Healos®scaffold. Newly formed bone is seen to have formed in the
+defect where OD3-stromal cells were seeded on Healos®scaffold; the blank scaffold on the left side shows no interference with the μCT scanning. (E) Mosaic image scan
+demonstrating human vimentin staining in calvarial defect repair utilising Healos®scaffold at 14 weeks. Images (a) H&E staining from defect repair (100×); (b) human vimentin
+staining demonstrating survival of hESC-stromal cells in defect repair (100×); (c) H&E staining of bone formation in defect repair (200×); (d) human vimentin staining
+demonstrating new bone growth within the Healos®scaffold (200×).238 L. Harkness et al. / Bone 48 (2011) 231 –241
+bone growth con ﬁrming that in the absence of hESC-stromal cells the
+PCLﬁlm alone cannot contribute to bone repair. 3 mm circular
+sections were cut from the PCL scaffold prior to insertion in the
+calvarial defects, the remaining portion of PCL ﬁlm continued in
+culture and was stained for AZR at d15 of induction ( Fig. 5B
+supplementary data ). Staining showed that the ﬁlm was osteo-
+conductive in vitro as evidenced by AZR staining showing calcium
+deposition only in cells on PCL scaffold undergoing osteogenic
+induction. Cells seeded on the PCL scaffold that did not undergo
+osteogenic induction showed no calcium deposition; negative stain-
+ing ( Fig. 5B supplementary data ) of non induced ﬁlm shows cells
+seeded and grown in DMEM with 10% FBS. Further analysis of bone
+regeneration on the Healos®scaffold using μCT scanning showed
+enhanced bone growth throughout the scaffold seeded with cells
+between 2 and 14 weeks implantation in four of ﬁve scaffolds
+implanted. No difference was observed between those cells under-
+going OB differentiation prior to implantation and those no receiving
+OB induction. Although a little bone regeneration was noted in the
+Healos®scaffold where cells were not implanted the degree of
+regeneration was much less in comparison to Healos®where hESC-
+stromal cells were added and their presence was veri ﬁed by staining
+with human speci ﬁc vimentin staining ( Fig. 5 E). However, few
+osteocytes were determined in the new bone and osteocytic cell
+staining with human speci ﬁc vimentin was therefore not determined
+(Fig. 5 E). The Healos®scaffold was not as effective in promoting bone
+formation compared to PCL scaffold. Due to the few cells seen within
+the bone in the implants we are unable to make an unequivocal
+determination as to the human vs. murine origins of the newly formed
+bone.
+Discussion
+In the present study, we provide evidence that stromal cells,
+obtained from hESC cultures based on their selective adherence to HA,
+exhibit known characteristics of the hBMSC phenotype includingknown surface markers, ability to differentiate to osteoblasts and
+adipocyte, and formation of ectopic bone when implanted with HA/TCP
+subcutaneously in immune de ﬁcient mice. We also provide preliminary
+data that the cells are functional in vivo and can participate in bone
+regeneration in a mouse calvarial defect model. We have also
+demonstrated that the stromal cells originate from hESC and not from
+murine MEFs. MEFs employed in hESC cultures are inactivated and
+cannot replicate or contribute to the stromal cell population. Addition-
+ally, when hESC are cultured on Matrigel
+®(in the absence of MEFs), only
+hESC colonies are visible initially and hESC-derived stromal cells only
+become apparent after 2 or 3 passages in cell culture. Finally, implanted
+hESC-derived stromal cells in calvarial defect model, stained positive for
+human speci ﬁcv i m e n t i n .
+We have employed HA to isolate a homogenous population of
+hESC-stromal cells produced by hESC, cultured under feeder free
+conditions in the presence of Matrigel®. Culturing hESC under feeder-
+free culture conditions, such as on Matrigel®, has been demonstrated
+to induce a sub population of differentiated ﬁbroblast-like cells
+[38,39] . Stojkovic et al. have showed that these cells can function as
+autogenic feeders capable of maintaining hESC pluripotency [39].
+Some previous investigators have tried to establish a homogenous
+culture of stromal cells [13,16] through non-speci ﬁc culture methods
+of either cell sorting [13] (CD105+/CD24 −) or isolation via morpho-
+logical identi ﬁcation of ‘epithelial-like ’cells [16]. However, both
+methods are cumbersome, time consuming and can result in cultures
+of heterogeneous cell populations. In contrast, enrichment for hESC-
+stromal cells using hyaluronic acid as a matrix is easy to perform, and
+exhibits a high degree of reproducibility and homogeneity in the
+resultant cells.
+The ability of HA to enrich for stromal cells may be dependent on
+changes in CD44 expression during transition of hESC to Matrigel®aswe observed that hESC became CD44−and hESC-stromal cells were
+positive for CD44. When hESC were directly transferred to HA without
+the intermediate step of growth on Matrigel®, all cells plated.
+Interestingly, HA did not allow the maintenance of pluripotent hESC
+(unpublished observations) either after an intermediate step where
+colonies were grown on Matrigel®or when directly transferred from
+feeders to HA. Thus, it is possible that during the emergence of hESC-stromal cells, CD44 receptor shedding or changes in CD44 localisation
+occur in response to stimulation of cytokines present in the
+conditioned culture media [40].
+HA was not found to contribute to hESC-stromal cells proliferative
+abilities, morphology, phenotype or to enhance their differentiation
+potential and thus is not required after the initial enrichment step
+suggesting a role in osteoblastic cell commitment and not differenti-
+ation. In contrast to this, in a recent paper, Zou et al. [41]demonstrated
+that the addition of HA to bone marrow derived porcine MSC in
+presence of osteogenic induction medium enhanced osteoblastic
+differentiation.
+Current protocols for osteogenic, adipogenic and chondrogenic
+differentiation are predominantly based on methods used in the
+differentiation of MSC and it is not known whether these methods are
+optimal for differentiation in MSC derived from hESC. The differential
+response of different stem cell populations to differentiation induc-
+tion media is illustrated by the results of Hildebrandt et al. [42]. The
+authors investigated osteogenic differentiation of cord-blood derived
+MSC and reported that the use of dexamethasone at 10
+−7, instead of
+the more usual concentration of 10−8, in the presence of MSG-CM and
+SingleQuot (commercially available media and growth supplement)
+increased the expression of collagen type 1 and the deposition of
+mineralised matrix in the absence of BMP2. This ﬁnding parallels our
+use of dexamethasone at 10−7that resulted in high collagen type 1
+production and enhanced matrix deposition. The majority of reports
+of osteogenic and adipogenic induction in hESC-derived MSC-like
+cells have employed standard differentiation protocols (osteogenic:
+10% serum, 10 mM β-Glycerophosphate, 50 μM ascorbic acid and
+100 nM dexamethasone; adipogenic: 10% serum, 10 μg/ml insulin,
+1μMd e x a m e t h a s o n e ,0 . 5 μMI B M Xa n d2 0 0 μM indomethacin)
+although with varying results. Of the 16 publications examined, 9
+attempted adipogenic induction: two failed to differentiate cells
+[10,14] to adipocytes and 2 reported cells with adipogenic potential
+based on oil red O staining [15,17] . Thus, there is a need for more
+optimized protocols for osteogenic and adipogenic differentiation of
+cells derived from hESC. Overall the in vitro osteoblastic and
+adipocytic cell differentiation protocols currently in use are not
+optimal and need to be complemented with in vivo functional assays.
+A number of different chondrogenic differentiation protocols have
+been reported for hESC-derived cells. These included incubating the
+cells with conditioned media and hydrogels, culturing the cells in pellets
+or micromass cultures and the addition of a number of different
+differentiation factors. Using the standard protocol for chondrogenic
+differentiation of hBMSC, we were not able to obtain chondrogenic cells
+from hESC-stromal cells. Several studies have examined the ability of
+hESC-derived osteogenic cells for chondrogenic differentiation and the
+results were variable (see Table 1 Supplementary data). Some studies
+demonstrated some chondrogenic differentiation [7,13,19] while other
+attempts were not successful [10,14] . Thus, it seems that the current
+protocol for inducing chondrogenesis in hESC-osteogenic cells needs
+further improvement. Alternatively, we observed the up regulation of
+gene expression of DLX5 [43] and MSX2 [44],b o t hk n o w nt ob e
+expressed during intramembranous ossi ﬁcation, suggesting that the
+hESC-derived stromal cells recapitulate intramembranous and not
+endochondral ossi ﬁcation. In addition, no chondrogenic cells were
+identi ﬁed in any implants (subcutaneous or calvarial defect). However,
+this hypothesis needs further veri ﬁcation in future studies.
+Derivation of MSC-like cells from hESC has previously been reported
+using a number of different approaches. Table 1 (Supplementary data)239 L. Harkness et al. / Bone 48 (2011) 231 –241
+shows a compilation of different methods and results obtained. These
+methods include direct differentiation employing withdrawal of
+feeders, addition of PDGF or isolation and culture of spontaneous
+differentiation [10–12,14,17] ; through an intermediate EB formation
+[4–9]; or by co-culturing hESC with primary bone derived cells [18,21] ,
+OP9 cells [19] or periodontal ligament ﬁbroblasts [20]. In addition,
+methods were utilised for isolation of mesenchymal-like populationsbased on cell sorting employing a number of CD marker combinations:
+CD13+/ −, CD71+, CD105+ [15] and CD105+, CD24 −[13]. Finally,
+culturing hESC on gelatin-coated plates in presence of fetal calf serum
+(FCS) for extensive periods has been reported to enrich for a
+homogeneous population of cells with osteogenic characteristics [14].
+However, the reported studies have several limitations. Several
+publications relied on less speci ﬁcin vitro criteria for the osteoblastic
+phenotype e.g. staining for mineralized matrix by Von Kossa or Alizarin
+Red. Moreover, the homogeneity of the cells was not examined in detail.
+In addition, comparison of the phenotype with well-established
+osteoblastic cells has not been performed. Thus, we think that the
+hESC-stromal cells described here represent a good alternative for
+several of the described methods allowing generation for a large
+number of functional osteoblastic cells based on in vitro and in vivo
+criteria.
+Few studies have demonstrated the ability of hESC-derived
+osteogenic cells to form bone in vivo [4,9,45] . The HA-enriched
+hESC-stromal cells formed normal bone when mixed and implanted
+with HA/TCP as an osteoconductive scaffold. Also, hESC-stromal cells
+implanted with Matrigel
+®or HA/TCP did not form teratomas
+suggesting the differentiation homogeneity of the resultant cells.
+Furthermore, evidence for the hESC-stromal cells functional ability
+was shown by demonstrating bone repair in a critical-size calvarial
+defect model which is a classical model for bone regeneration [34].
+μCT imaging showed good defect repair when cells were implanted
+with an osteoconductive scaffold (Healos®) and also on PCL ﬁlm.
+However, differences were observed in the amount and pattern of the
+formed bone in these two scaffolds. Bone formed covered a maximum
+of 25% of total bone defect area in Healos®scaffold vs. 76% in PCL ﬁlm.
+Whereas bone formed on the PCL ﬁlm did not show extension beyond
+the perimeter of the ﬁlm, in Healos®scaffold, the new bone formed at
+the perimeter of the calvarial defect and was integrated with the
+existing mouse bone. One limitation of our results is the inability todemonstrate that the newly formed bone is of human origin. Staining
+with human speci ﬁc antibodies or in situ hybridization with human
+Alu, were not sensitive to detect the limited number of osteocytic cells
+present within the newly formed bone. However, some circumstantial
+evidence makes it improbable that bone is of mouse origin. Bone was
+formed on the surface of the PCL ﬁlm away from the edges of the
+defects and positive staining for human cells was observed in cells
+surrounding the newly formed bone within the Healos
+®scaffold.
+Conversely, there is a theoretical concern that the newly formed bone
+may be of mouse origin that is induced through paracrine factors
+secreted by the implanted cells [46]. The lack of enhanced effect on
+bone regeneration by osteogenic induction of the cells prior to
+implantation supports this hypothesis, however, this hypothesis
+needs further examination.
+The use of hESC as a source for clinical grade cells for regenerative
+medicine protocols has been widely discussed. In addition to the
+above mentioned ability for cell proliferation and cell differentiation,
+these cells seem to be hypoimmunogenic. Drukker et al. [47]reported
+that, due to low expression levels of MHC class-I and the absence of
+MHC class-II molecules, immunostimulatory response of hESC and
+their differentiated derivatives is low suggesting a lesser degree of
+immune suppression is required when cell therapy protocols are
+initiated. Recent development in the generation of patient speci ﬁc
+induced pluripotent stem cells (iPSC) provide a viable alternative for
+hESC and for generating patient compatible, clinical grade cell.
+However, iPS cells in their current forms are not suitable for therapydue to concerns related to their safety and transformation potential
+[48].
+In conclusion, we have described an easy and reproducible method
+for isolating and expanding a highly homogenous population of cells
+which are naturally produced in response to growth of hESC in feeder-
+free conditions. These cells have been shown to have a mesenchymal-
+like phenotype and have also proven to have a robust in vitro
+osteoblastic differentiation capacity which is at least equal to the
+differentiation potential of known osteogenic cell lines. Moreover the
+cells do not form teratoma when implanted in vivo . These cells present
+an important alternative to human MSC for studies on osteoblast
+differentiation and are an important tool in the progression towards
+cell-based therapy for bone diseases requiring bone regeneration.
+Supplementary materials related to this article can be found online
+atdoi:10.1016/j.bone.2010.09.023 .
+Disclaimer
+The authors have no potential con ﬂict of interest.
+Acknowledgments
+The authors wish to thank Ms. Lone Christiansen, Ms Bianca
+Jørgensen and Mrs Stephanie Shouse for excellent technical assis-
+tance. This work was supported by grants from the Lundbeck
+Foundation, the Novo Nordisk Foundation, and from a local grant
+supplied by the University Hospital of Odense.
+References
+[1] Kassem M, Abdallah B. Human bone-marrow-derived mesenchymal stem cells:
+biological characteristics and potential role in therapy of degenerative diseases.
+Cell Tissue Res 2008;331:157 –63.
+[2] Cowan CA, Klimanskaya I, McMahon J, Atienza J, Witmyer J, Zucker JP, et al.
+Derivation of embryonic stem-cell lines from human blastocysts. N Engl J Med2004;350:1353 –6.
+[3] Karsenty G. Minireview: transcriptional control of osteoblast differentiation.
+Endocrinology 2001;142:2731 –3.
+[4] Arpornmaeklong P, Brown SE, Wang Z, Krebsbach PH. Phenotypic characteriza-
+tion, osteoblastic differentiation, and bone regeneration capacity of human
+embryonic stem cell derived mesenchymal stem cells. Stem Cells Dev 2009;18:
+1–14.
+[5] Bielby RC, Boccaccini AR, Polak JM, Buttery LDK. In vitro differentiation and in vivo
+mineralization of osteogenic cells derived from human embryonic stem cells.
+Tissue Eng 2004;10:1518 –25.
+[6] Brown SE, Tong W, Krebsbach PH. The derivation of mesenchymal stem cells from
+human embryonic stem cells. Cells Tissues Organs 2009;189:256 –60.
+[7] Hwang NS, Varghese S, Zhang Z, Ye Z, Cheng L, Elisseeff J. In vivo commitment and
+functional tissue regeneration using human embryonic stem cell-derived
+mesenchymal cells. PNAS 2008;105:20641 –6.
+[8] Sottile V, Thomson A, McWhir J. In vitro osteogenic differentiation of human ES
+cells. Cloning Stem Cells 2003;5:149 –55.
+[9] Tremoleda JL, Forsyth NR, Khan NS, Wojtacha D, Christodoulou I, Tye BJ, et al. Bone
+tissue formation from human embryonic stem cells in vivo. Cloning Stem Cells
+2008;10:119 –32.
+[10] Boyd NL, Robbins KR, Dhara SK, West FD, Stice SL. Human embryonic stem cell
+derived mesoderm-like epithelium transitions to mesenchymal progenitor cells.
+Tissue Eng A 2009;15:1897 –907.
+[11] Heng BC, Toh WS, Pereira BP, Tan BL, Fu X, Liu H, et al. An autologous cell lysate
+extract from human embryonic stem cell (hESC) derived osteoblasts can enhance
+osteogenesis of hESC. Tissue Cell 2008;40:219 –28.
+[12] Karlsson C, Emanuelsson K, Wessberg F, Kajic K, Axell MZM, Eriksson PS, Lindahl A,
+Hyllner J, Strehl R. Human embryonic stem cell-derived mesenchymal progenitors —
+potential in regenerative medicine. Stem Cell Res 2009;3:39 –50.
+[13] Lian Q, Lye E, Suan Yeo K, Khia Way Tan E, Salto-Tellez M, Liu TM, et al. Derivation
+of clinically compliant MSCs from CD105+, CD24 −differentiated human ESCs.
+Stem Cells 2007;25:425 –36.
+[14] Mateizel I, De Becker A, Van de Velde H, De Rycke M, Van Steirteghem A,
+Cornelissen R, et al. Ef ﬁcient differentiation of human embryonic stem cells into a
+homogeneous population of osteoprogenitor-like cells. Reprod Biomed Online
+2008;16:741 –53.
+[15] Olivier EN, Rybicki AC, Bouhassira EE. Differentiation of human embryonic stem
+cells into bipotent mesenchymal stem cells. Stem Cells 2006;24:1914 –22.
+[16] Ullmann U, In't Veld P, Gilles C, Sermon K, De Rycke M, Van de Velde H, et al.
+Epithelial-mesenchymal transition process in human embryonic stem cells
+cultured in feeder-free conditions. Mol Hum Reprod 2007;13:21 –32.240 L. Harkness et al. / Bone 48 (2011) 231 –241
+[17] Trivedi P, Hematti P. Derivation and immunological characterization of mesen-
+chymal stromal cells from human embryonic stem cells. Exp Hematol 2008;36:
+350–9.
+[18] Ahn SE, Kim S, Park KH, Moon SH, Lee HJ, Kim GJ, et al. Primary bone-derived cells
+induce osteogenic differentiation without exogenous factors in human embryonic
+stem cells. Biochem Biophys Res Commun 2006;340:403 –8.
+[19] Barberi T, Willis LM, Socci ND, Studer L. Derivation of multipotent mesenchymal
+precursors from human embryonic stem cells. PLoS Med 2005;2:554 –60.
+[20] Inanç B, Elçin AE, Elçin YM. Effect of osteogenic induction on the in vitro
+differentiation of human embryonic stem cells cocultured with periodontal
+ligament ﬁbroblasts. Artif Organs 2007;31:792 –800.
+[21] Kim S, Kim SS, Lee SH, Eun Ahn S, Gwak SJ, Song JH, et al. In vivo bone formation
+from human embryonic stem cell-derived osteogenic cells in poly( D,L-lactic-co-
+glycolic acid)/hydroxyapatite composite scaffolds. Biomaterials 2008;29:
+1043 –53.
+[22] Dressel R, Schindehutte J, Kuhlmann T, Elsner L, Novota P, Baier PC, et al. The
+tumorigenicity of mouse embryonic stem cells and in vitro differentiated neuronal
+cells is controlled by the recipients' immune response. PLoS ONE 2008;3:1 –14.
+[23] Miyabayashi T, Teo JL, Yamamoto M, McMillan M, Nguyen C, Kahn M. Wnt/ß-
+catenin/CBP signaling maintains long-term murine embryonic stem cell plur-
+ipotency. PNAS 2007;104:5668 –73.
+[24] Bastow E, Byers S, Golub S, Clarkin C, Pitsillides A, Fosang A. Hyaluronan synthesis
+and degradation in cartilage and bone. Cell Mol Life Sci (CMLS) 2008;65:395 –413.
+[25] Choudhary M, Zhang X, Stojkovic P, Hyslop L, Anyfantis G, Herbert M, et al.
+Putative role of hyaluronan and its related genes, HAS2 and RHAMM, in humanearly preimplantation embryogenesis and embryonic stem cell characterization.
+Stem Cells 2007;25:3045 –57.
+[26] Calabro A, Oken MM, Hascall VC, Masellis AM. Characterization of hyaluronan
+synthase expression and hyaluronan synthesis in bone marrow mesenchymal
+progenitor cells: predominant expression of HAS1 mRNA and up-regulatedhyaluronan synthesis in bone marrow cells derived from multiple myeloma
+patients. Blood 2002;100:2578 –85.
+[27] Noonan KJ, Stevens JW, Tammi R, Tammi M, Hernandez JA, Midura RJ. Spatial
+distribution of CD44 and hyaluronan in the proximal tibia of the growing rat.
+J Orthop Res 1996;14:573 –81.
+[28] Day AJ, Prestwich GD. Hyaluronan-binding proteins: tying up the giant. J Biol
+Chem 2002;277:4585 –8.
+[29] Turley EA, Noble PW, Bourguignon LYW. Signaling properties of hyaluronan
+receptors. J Biol Chem 2002;277:4589 –92.
+[30] Harkness L, Christiansen H, Nehlin J, Barington T, Andersen JS, Kassem M.
+Identi ﬁcation of a membrane proteomic signature for human embryonic stem
+cells independent of culture conditions. Stem Cell Res 2008;1:219 –27.
+[31] Harkness L, Rasmussen I, Erb K, Kassem M. Derivation and characterisation of hESC
+lines from supernumerary embryos, experience from Odense, Denmark. In Vitro
+Cell Dev Biol Anim 2010;46:259 –68.
+[32] Simonsen JL, Rosada C, Serakinci N, Justesen J, Stenderup K, Rattan SIS, et al.
+Telomerase expression extends the proliferative life-span and maintains theosteogenic potential of human bone marrow stromal cells. Nat Biotechnol
+2002;20:592 –6.
+[33] Prokhorova TA, Harkness LM, Frandsen U, Ditzel N, Schrøder HD, Burns JS, et al.
+Teratoma formation by human embryonic stem cells is site dependent and
+enhanced by the presence of matrigel. Stem Cells Dev 2009;18:47 –54.
+[34] Gupta DM, Kwan MD, Slater BJ, Wan DC, Longaker MT. Applications of an athymic
+nude mouse model of nonhealing critical-sized calvarial defects. J Craniofac Surg
+2008;19:192 –7.
+[35] Dominici M, Blanc KL, Mueller I, Slaper-Cortenbach I, Marini F, Krause D, et al. Minimal
+criteria for de ﬁning multipotent mesenchymal stromal cells. The International Society
+for Cellular Therapy position statement. Cytotherapy 2006;8:315 –7.
+[36] Abdallah BM, Haack-S°rensen M, Burns JS, Elsnab B, Jakob F, Hokland P, et al.
+Maintenance of differentiation potential of human bone marrow mesenchymalstem cells immortalized by human telomerase reverse transcriptase gene despite
+of extensive proliferation. Biochem Biophys Res Commun 2005;326:527 –38.
+[37] Larsen KH, Frederiksen CM, Burns JS, Abdallah BM, Kassem M. Identifying a
+molecular phenotype for bone marrow stromal cells with in vivo bone-forming
+capacity. JBMR 2010;25:796 –808.
+[38] Ludwig TE, Bergendahl V, Levenstein ME, Yu J, Probasco MD, Thomson JA. Feeder-
+independent culture of human embryonic stem cells. Nat Meth 2006;3:637 –46.
+[39] Stojkovic P, Lako M, Stewart R, Przyborski S, Armstrong L, Evans J, et al. An
+autogeneic feeder cell system that ef ﬁciently supports growth of undifferentiated
+human embryonic stem cells. Stem Cells 2005;23:306 –14.
+[40] Isacke CM, Yarwood H. The hyaluronan receptor, CD44. Int J Biochem Cell Biol
+2002;34:718
+–21.
+[41] Zou L, Zou X, Chen L, Li H, Mygind T, Kassem M, et al. Effect of hyaluronan on
+osteogenic differentiation of porcine bone marrow stromal cells in vitro. J Orthop
+Res 2008;26:713 –20.
+[42] Hildebrandt C, Buth H, Thielecke H. In ﬂuence of cell culture media conditions on
+the osteogenic differentiation of cord blood-derived mesenchymal stem cells. AnnAnat - Anat Anz 2009;191:23 –32.
+[43] Holleville N, Mateos S, Bontoux M, Bollerot K, Monsoro-Burq AH. Dlx5 drives
+Runx2 expression and osteogenic differentiation in developing cranial suture
+mesenchyme. Dev Biol 2007;304:860 –74.
+[44] Satokata I, Ma L, Ohshima H, Bei M, Woo I, Nishizawa K, et al. Msx2 de ﬁciency in
+mice causes pleiotropic defects in bone growth and ectodermal organ formation.
+Nat Genet 2000;24:391 –5.
+[45] Kim SE, Kim BK, Gil JE, Kim SK, Kim JH. Comparative analysis of the developmental
+competence of three human embryonic stem cell lines in vitro. Mol Cells 2007;23:
+49–56.
+[46] Crisostomo PR, Markel TA, Wang Y, Meldrum DR. Surgically relevant aspects of
+stem cell paracrine effects. Surgery 2008;143:577 –81.
+[47] Drukker M, Katchman H, Katz G, Even-Tov Friedman S, Shezen E, Hornstein E, et al.
+Human embryonic stem cells and their differentiated derivatives are less
+susceptible to immune rejection than adult cells. Stem Cells 2006;24:221 –9.
+[48] Deng W. Induced pluripotent stem cells: paths to new medicines. EMBO Rep
+2010;11:161 –5.241 L. Harkness et al. / Bone 48 (2011) 231 –241

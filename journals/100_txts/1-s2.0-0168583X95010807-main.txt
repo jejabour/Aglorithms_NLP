@@ -1,0 +1,211 @@
+Nuclear Instruments and Methods in Physics Research B I 18 ( 1996) 630-632 
+cm __ __ Iii! EISEVIER Beam Interactions 
+with Materials&Atoms 
+Heavy ion RBS characterization of multilayer coatings deposited 
+through the sol-gel technique 
+X. Aslanoglou a7 * , P.A. Assimakopoulos a, C. Trapalis b, G. Kordas b, M.A. Karakassides 
+M. Pilakouta ’ 
+a Department of Physics, The University of loannina. GR-45110 loannina, Greece 
+b Institute of Materials Science, NCSR ” Demokritos” , Aghia Paraskevi - Atriki, Greece 
+’ Institute of Nuclear Physics. NCSR “ Demokritos”, Aghia Paraskevi - Attiki, Greece b 
+, 
+Abstract 
+Multilayer reflecting thin films of the systems ZrO,-SiO, and TiO,-SiO, were deposited on glass surfaces using the 
+sol-gel technique. A ‘*C beam was utilized in RBS analysis to investigate the inner structure of these multilayer stacks. The 
+layers showed uniform thickness and no evidence for significant diffusion between the layers was found. Optical 
+Spectroscopy showed wavelength selectivity in the reflection of an 8-layer TiO,-SiO, sample. 
+1. Introduction 
+Rutherford Backscattering Spectrometry using heavy 
+ion (HIRBS) beams provides some interesting differences 
+in comparison to the conventional 4He spectroscopy. As 
+has been pointed out by many authors in a number of 
+comparative studies [l-4], although the energy resolution 
+of surface barrier detectors deteriorates as the mass of the 
+particles and the energy of the beam increases 151, the 
+overall mass resolution of the target improves with the 
+increase of the mass and the energy of the beam. This 
+behaviour follows the difference in the behaviour of the 
+kinematic factor in different reactions. A calculation of the 
+dependence of the mass resolution on the target mass 
+number for the case of a 4He beam and a ‘*C beam is 
+shown in Fig. 1. The calculation was done for incident 
+energy 2 MeV and detector resolution (FWHM) 20 keV 
+for 4He, while for the “C case the incident energy was 10 
+MeV and the detector resolution was 80 keV. As it emerges 
+from this comparison, the use of heavy ion beams for 
+HIRBS provides superior mass resolution than the conven- 
+tional low energy 4He scattering. The depth resolution 
+remains at a comparable level in most cases because the 
+greater energy deposited by the heavy ion competes with 
+the lower detector resolution. However, the lowest de- 
+tectable mass number is higher in HIRBS, because ele- 
+ments with mass number smaller, or around the mass 
+number of the beam are invisible in backscattering. 
+* Corresponding author. e-mail xaslanog@cc.uoi.gr. In this work we have used a ‘*C beam at energy 
+E = 10 MeV to investigate the structure of multilayer 
+systems made of successive thin films of TiO,-SiO, or 
+ZrO,-SiO, deposited on glass. 
+Thin films of metal oxides (dielectrics) on glass, either 
+in a single layer or in multilayer coatings of alternate 
+elements are known to modify the optical properties of 
+glass. A series of dielectric films with alternate high and 
+low refractive indices can, under certain conditions, lead to 
+selectivity in the reflection of only certain wavelengths 
+[6,7]. In our case, the sequence of the low index of 
+refraction of SiO, and the high index of refraction of ZrO, 
+or TiO, are tested for the production of a selective mirror. 
+The optical properties of the systems were studied by 
+reflectance ultraviolet, visible and near infrared (UV-VIS- 
+NIR) spectroscopy. 
+0i,-: 
+0 50 loo 150 ZOC 
+Targu Mass Number 
+Fig. 1. Mass resolution versus target mass number for a 2 MeV 
+4He beam with detector resolution 20 keV and a 10 MeV “C 
+beam with detector resolution 80 keV. 
+0168-583X/96/$15.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+SSDf 0168-583X(95)01 080-7 
+X. Aslano~lou et al. / Nucl. Instr. and Merh. in Phys. Res. B I I8 (1996) 630-632 631 
+2. Experimental procedure 
+The sol-gel technique was used for the fabrication of 
+the oxide films at the Institute of Materials Science, Na- 
+tional Center for Scientific Research (NCSR) “Demokri- 
+tos”, Athens, Greece. This technique is widely used and 
+almost exclusively applied for the fabrication of transpar- 
+ent coatings on glass surface. The starting solutions for the 
+preparation of the sol were Si(C,H,O),, Ti(C,H,O), and 
+Zr(C,H,O), in ethanol, with HNO, as a catalyst. More 
+information about this technique can be found in Ref. [g]. 
+After the sol preparation, thin layers of metal oxides 
+(ZIG,, TiO, or SiO,) were deposited on flat glass plates 
+of dimensions (60 mm X 20 mm X 1.5 mm) using the 
+dipping process. After the deposition of each new layer. 
+the sample was dried at room temperature and then was 
+heated in a furnace at 500°C for 20 min. This way, stacks 
+of up to eight layers TiO,-SiO, were prepared and up to 
+five layers ZrO,--SiO,. 
+The RBS measurements were performed by utilizing a 
+“C beam of energy IO MeV from the 5.5 MV T11/25 
+tandem Van De Graaff accelerator of the Institute of 
+Nuclear Physics, NCSR “Demokritos”. The detection sys- 
+tem consisted of a single Si surface barrier detector, placed 
+at a scattering angle of 0 = 150” with respect to the beam. 
+For the analysis and the simulation of the spectra, a new 
+code was developed, which is capable of handling any 
+heavy ion beam. This code uses the Universal Energy Loss 
+Coefficients by Ziegler [9] and the subroutine ZSTOP to 
+calculate the normalized yield. The detector resolution was 
+measured and was considered in the calculation. The over- 
+all accuracy of the determination of the thickness is esti- 
+mated at 10%. 
+3. Results and discussion 
+Samples manufactured through the technique just de- 
+scribed, were characterized by RBS in search for defects in 
+Fig. 2. RBS spectrum of a three layer ZrO, -50, -ZrO, sample 
+on a glass substrate. The solid line represents the simulated I . A_._ 
+0 2 4 6 * IO 
+Energy (McVl 
+Fig. 3. RBS spectrum of a five layer (ZrO,-Si02f sample on 
+glass substrate together with the corresponding simulation. 
+the internal structure. The spectra of two samples, a three 
+layer ZQ-SiOz-ZrO, and a five layer ZrO,-SiO,- 
+ZrO,-SiO,-ZrG, are shown in Figs. 2 and 3, together 
+with the corresponding simulated spectra. The composition 
+of the glass substrate was taken as 5 1% 0, 43% Si and 6% 
+Ca. As seen in the spectra, this composition simulates well 
+the substrate in all cases. The plateau of I60 can not be 
+seen in the spectrum, because oxygen has a mass compara- 
+ble to the carbon beam and therefore is “invisible”/in 
+HIRBS. The RBS spectra indicate that the ZrO, film is 
+contaminated by an element of mass around 180 (with 
+AM = 7, from Fig. 1). A subsequent X-Ray Fluorescence 
+(XRF) analysis showed that the ZIG, employed for the 
+manufacture of the samples was contaminated by HfO, at 
+the level of 2%. In either case, the inner layers do not 
+show any significant diffusion effects due to the successive 
+thermal treatment of the manufacturing process. The sur- 
+face density of the ZrO, and SiO, films were found equal 
+to 27 f 1 pg/cm’ and 19 5 1 @g/cm’, respectively. 
+The spectrum of an eight layer 4(TiO,-SiO,) is shown 
+in Fig, 4. In this sample, the layer neighbouring the glass 
+substrate is SiO,, which has a composition similar to the 
+I 
+0 2 4 6 
+Energy MZV) 
+Fig. 4. RBS spectrum of an eight layer 4(TiO, -SiO,) sample on 
+glass substrate. The layer neighbouring to the glass is SiO, and 
+cannot be distinguished. 
+IX. NEW MATERIALS 
+632 X. Aslarwglou et al./Nucl. Instr. and Meth. in Phys. Res. B 118 (1996) 630-632 
+Wavelength (nm) 
+Fig. 5. Reflectance versus wavelength analysis for the eight layer 
+4(TiO, -SiO,) sample shown in Fig. 4. (a) substrate, (b) two layer 
+stack, (c) four layer stack, (d) eight layer stack. 
+substrate and therefore cannot be distinguished in the 
+spectrum. Natural titanium has six stable isotopes: &Ti 
+(8%), 47Ti (7.5%), 48Ti (73.7%). 49Ti (5.5%) and “Ti 
+(5.3%). The mass resolution with the reaction employed 
+here, around target mass number 50, is AM = 2 (Fig. 1). 
+As a result, the minor isotopes can be distinguished from 
+48Ti, and they dem&strate themselves as tails around the 
+major peak. To obtain a good simulation of the Ti peak, all 
+six isotopes were included in the calculation as compo- 
+nents of the layer. The result shows a good reproduction of 
+the overlap between the Ti peaks in the simulation spec- 
+trum. A high degree of uniformity of the thickness of the 
+layers was found for this sample, with the SiO, layers 
+having a surface density psi - 28 f 1 kg/cm’ and the 
+TiO, layers pn = 13 + 1 pg/cm2. Intermediate samples 
+with fewer coatings showed the same behaviour. 
+4. Reflectance analysis 
+Reflectance spectra were obtained for both the Ti based 
+and Zr based samples. Fig. 4 shows the reflectance spectra 
+of the glass substrate covered with a number of (TiO,- 
+SiO,) films. The reflectance of the glass substrate (R = 
+8.2%) increases according to the number of layers de- 
+posited and becomes maximum when 8 layers are de- 
+posited. The reflectance of this sample is R - 85% in the wavelength region of 600-650 nm, thus becoming a selec- 
+tive mirror. 
+In the case of the Zr based group, the transition from a 
+single ZrO, layer to three and five ZrO, and SiO, stacks 
+did not show any significant selectivity of the reflectance 
+on a particular wavelength band. 
+5. Conclusions 
+In this work Heavy Ion RBS was used to study the 
+structure of multilayer coatings deposited on a glass sub- 
+strate through the sol-gel process. The 10 MeV 12C beam 
+employed was found to have adequate mass and depth 
+resolution for analysis of these thin films. Although the 
+inner layers of the samples examined suffered multiple 
+thermal treatments during fabrication, no evidence of sig- 
+nificant diffusion between the layers was detected. The 
+optical analysis showed that an eight layer 4(TiO,-SiO,) 
+stack had an 85% reflectance in the wavelength region of 
+600-650 nm. 
+References 
+Ill 
+El 
+[31 
+[41 
+[51 
+@I 
+[71 
+(81 
+[91 W.K. Chu, J.W. Mayer and M.A. Nicolet, in: Backscattering 
+Spectrometry (Academic Press, New York, 1978). 
+K.M. Yu, J.M. Jaklevic and E.E. Haller, Nucl. Instr. and Meth 
+B 10/l 1 (1985) 606. 
+M. Dcbeli, U.S. Fischer, M. Suter and W. WBlti, Nucl. Instr. 
+and Meth. B 63 (1992) 68. 
+E. Norbeck, L.W. Li, H.H. Lin and M.E. Anderson, Nucl. 
+Instr. and Meth. B 9 (1985) 197. 
+M. ostling, C.S. Petersson, P. Johansson, A. Wikstrijm and G. 
+Possnert, Nucl. Instr. and Meth. B 15 (1986) 729. 
+P. Biswas, D. Kundu and D. Ganguli, J. Mater. Sci. Len. 6 
+(1987) 1481. 
+D. Kundu, P. Biswas and D. Ganguli, J. Non-Cryst. Solids 
+110 (1989) 13. 
+H. Dislich and E. Hussmarm, Thin Solid Films 77 (1981) 129. 
+J.F. Ziegler, J.P. Biersack and U. Littmark, The Stopping and 
+Range of the Ions in Matter, Vol. 5 (Pergamon, New York, 
+1980). 

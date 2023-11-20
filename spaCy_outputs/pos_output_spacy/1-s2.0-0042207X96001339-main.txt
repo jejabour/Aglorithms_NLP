@@ -1,0 +1,1852 @@
+Pergamon, PROPN 
+Vacuum, PROPN 
+volume, NOUN 
+47, NUM 
+number, NOUN 
+g, NOUN 
+pages, NOUN 
+1089, NUM 
+1092/1996, NUM 
+
+, SPACE 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+PII, PROPN 
+SOO42, PROPN 
+207X(96)00133, NUM 
+9, NUM 
+0042, NUM 
+207X/96, NUM 
+$, SYM 
+15.00+.00, NUM 
+
+, SPACE 
+Small, PROPN 
+pulsed, VERB 
+electron, NOUN 
+ion, NOUN 
+sources, NOUN 
+radiation, NOUN 
+
+, SPACE 
+technologies, NOUN 
+surface, NOUN 
+modification, NOUN 
+materials, NOUN 
+
+, SPACE 
+S, PROPN 
+Korene@, NOUN 
+J, PROPN 
+Perry, PROPN 
+b, X 
+Joint, PROPN 
+Institute, PROPN 
+Nuclear, PROPN 
+Research, PROPN 
+14, NUM 
+1980, NUM 
+Dubna, PROPN 
+Moscow, PROPN 
+Region, PROPN 
+Russia, PROPN 
+
+, SPACE 
+blSM, PROPN 
+Technologies, PROPN 
+Inc, PROPN 
+9965, NUM 
+Carroll, PROPN 
+Canyon, PROPN 
+Road, PROPN 
+San, PROPN 
+Diego, PROPN 
+92131, NUM 
+USA, PROPN 
+
+, SPACE 
+revised, VERB 
+version, NOUN 
+received, VERB 
+20, NUM 
+January, PROPN 
+7996, NUM 
+
+, SPACE 
+new, ADJ 
+type, NOUN 
+small, ADJ 
+combined, VERB 
+pulsed, VERB 
+electron, NOUN 
+ion, NOUN 
+source, NOUN 
+radiation, NOUN 
+technologies, NOUN 
+surface, NOUN 
+modification, NOUN 
+
+, SPACE 
+materials, NOUN 
+reported, VERB 
+source, NOUN 
+consists, VERB 
+high, ADJ 
+voltage, NOUN 
+generator, NOUN 
+particle, NOUN 
+emitter, NOUN 
+form, NOUN 
+
+, SPACE 
+vacuum, NOUN 
+diode, NOUN 
+Explosive, ADJ 
+electron, NOUN 
+emission, NOUN 
+production, NOUN 
+electron, NOUN 
+beams, NOUN 
+explosive, ADJ 
+ion, NOUN 
+
+, SPACE 
+emission, NOUN 
+production, NOUN 
+ion, NOUN 
+beams, NOUN 
+main, ADJ 
+parameters, NOUN 
+source, NOUN 
+output, NOUN 
+kinetic, VERB 
+energy, NOUN 
+200-, NUM 
+
+, SPACE 
+700, NUM 
+keV, PROPN 
+pulse, PROPN 
+length, NOUN 
+0.3, NUM 
+1.0, NUM 
+ps, NOUN 
+electron, PROPN 
+beam, NOUN 
+current, ADJ 
+0.5, NUM 
+6, NUM 
+kA, NUM 
+ion, NOUN 
+beam, NOUN 
+current, ADJ 
+0.1, NUM 
+200, NUM 
+ions, NOUN 
+
+, SPACE 
+conducting, NOUN 
+materials, NOUN 
+main, ADJ 
+applications, NOUN 
+device, NOUN 
+presented, VERB 
+Copyright, NOUN 
+0, NUM 
+1996, NUM 
+Elsevier, ADJ 
+
+, SPACE 
+Science, PROPN 
+Ltd., PROPN 
+
+, SPACE 
+Introduction, NOUN 
+
+, SPACE 
+development, NOUN 
+advanced, ADJ 
+technologies, NOUN 
+based, VERB 
+inter-, ADJ 
+
+, SPACE 
+action, NOUN 
+pulsed, VERB 
+high, ADJ 
+current, ADJ 
+electron, NOUN 
+ion, NOUN 
+beams, NOUN 
+
+, SPACE 
+surfaces, NOUN 
+solid, ADJ 
+materials, NOUN 
+significant, ADJ 
+present, ADJ 
+time, NOUN 
+
+, SPACE 
+way, NOUN 
+example, NOUN 
+major, ADJ 
+development, NOUN 
+work, NOUN 
+
+, SPACE 
+Lawrence, PROPN 
+Berkeley, PROPN 
+National, PROPN 
+Laboratory, PROPN 
+
+, SPACE 
+ISM, PROPN 
+Technologies, PROPN 
+MEVVA, PROPN 
+sources, NOUN 
+applications, NOUN 
+
+, SPACE 
+Los, PROPN 
+Alamos, PROPN 
+Sandia, PROPN 
+National, PROPN 
+Laboratories, PROPN 
+
+, SPACE 
+high, ADJ 
+intensity, NOUN 
+beams.j, NOUN 
+Russia, PROPN 
+extensive, ADJ 
+work, NOUN 
+
+, SPACE 
+Tomsk4-, NOUN 
+Dubna7, PROPN 
+intense, ADJ 
+beam, NOUN 
+technologies, NOUN 
+
+, SPACE 
+survey, NOUN 
+contemporary, ADJ 
+intense, ADJ 
+beam, NOUN 
+technology, NOUN 
+indicates, VERB 
+
+, SPACE 
+need, NOUN 
+ion, NOUN 
+source, NOUN 
+simple, ADJ 
+rugged, ADJ 
+design, NOUN 
+
+, SPACE 
+inexpensive, ADJ 
+commercial, ADJ 
+application, NOUN 
+real-, NOUN 
+
+, SPACE 
+world, NOUN 
+applications, NOUN 
+necessary, ADJ 
+able, ADJ 
+change, VERB 
+operat-, NOUN 
+
+, SPACE 
+ing, ADJ 
+parameters, NOUN 
+ion, NOUN 
+beams, NOUN 
+wide, ADJ 
+range, NOUN 
+means, VERB 
+
+, SPACE 
+voltage, NOUN 
+generator, NOUN 
+able, ADJ 
+operate, VERB 
+different, ADJ 
+
+, SPACE 
+loads, NOUN 
+ion, NOUN 
+diode, NOUN 
+offers, VERB 
+flexibility, NOUN 
+best, ADJ 
+power, NOUN 
+
+, SPACE 
+supply, NOUN 
+available, ADJ 
+purpose, NOUN 
+Arkad’ev, PROPN 
+Marx, PROPN 
+generator, NOUN 
+
+, SPACE 
+operate, VERB 
+different, ADJ 
+loads, NOUN 
+present, ADJ 
+
+, SPACE 
+work, NOUN 
+oriented, VERB 
+technological, ADJ 
+applications, NOUN 
+
+, SPACE 
+generator, NOUN 
+coupled, VERB 
+pulsed, VERB 
+electron, NOUN 
+ion, NOUN 
+source, NOUN 
+based, VERB 
+
+, SPACE 
+explosive, ADJ 
+ion, NOUN 
+emission, NOUN 
+
+, SPACE 
+General, ADJ 
+structure, NOUN 
+combined, VERB 
+small, ADJ 
+electron, NOUN 
+ion, NOUN 
+source, NOUN 
+
+, SPACE 
+combined, VERB 
+pulsed, VERB 
+electron, NOUN 
+ion, NOUN 
+source, NOUN 
+consists, VERB 
+high, ADJ 
+volt-, ADJ 
+
+, SPACE 
+age, NOUN 
+generator, NOUN 
+beam, NOUN 
+acceleration, NOUN 
+vacuum, NOUN 
+diode, NOUN 
+vacuum, VERB 
+
+, SPACE 
+Paper, PROPN 
+based, VERB 
+presented, VERB 
+9th, ADJ 
+International, PROPN 
+School, PROPN 
+
+, SPACE 
+Vacuum, PROPN 
+Electron, PROPN 
+Ion, PROPN 
+Technologies, PROPN 
+held, VERB 
+14, NUM 
+17, NUM 
+September, PROPN 
+1995, NUM 
+
+, SPACE 
+Sozopol, PROPN 
+Bulgaria, PROPN 
+diagnostic, ADJ 
+systems, NOUN 
+schematic, ADJ 
+block, NOUN 
+diagram, NOUN 
+elec-, X 
+
+, SPACE 
+tron, NOUN 
+ion, NOUN 
+source, NOUN 
+given, VERB 
+Figure, PROPN 
+1, NUM 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+I--, PROPN 
+
+, SPACE 
+Figure, PROPN 
+1, NUM 
+Block, NOUN 
+diagram, NOUN 
+electron, NOUN 
+ion, NOUN 
+accelerator, NOUN 
+mounted, VERB 
+
+, SPACE 
+small, ADJ 
+sample, NOUN 
+chamber, NOUN 
+showing, NOUN 
+l, NOUN 
+high, ADJ 
+voltage, NOUN 
+insulator, NOUN 
+2, NUM 
+
+, SPACE 
+anode, NOUN 
+plasma, NOUN 
+initiator, NOUN 
+3, NUM 
+cathode, NOUN 
+extractor, NOUN 
+grid, NOUN 
+4, NUM 
+collimator, NOUN 
+
+, SPACE 
+5, NUM 
+current, ADJ 
+transformer, NOUN 
+measure, VERB 
+beam, NOUN 
+current, NOUN 
+shunt, PROPN 
+
+, SPACE 
+current, ADJ 
+7, NUM 
+film, NOUN 
+deposition, NOUN 
+substrate, NOUN 
+small, ADJ 
+holder, NOUN 
+
+, SPACE 
+8, NUM 
+vacuum, NOUN 
+chamber, NOUN 
+9, NUM 
+oscilliscope, NOUN 
+l, NOUN 
+high, ADJ 
+voltage, NOUN 
+generator, NOUN 
+
+, SPACE 
+IlLelectron, PROPN 
+~, PROPN 
+ion, NOUN 
+source, NOUN 
+
+, SPACE 
+1089, NUM 
+
+, SPACE 
+S, PROPN 
+Korenev, PROPN 
+J, PROPN 
+Perry, PROPN 
+Small, ADJ 
+pulsed, VERB 
+electron, NOUN 
+ion, NOUN 
+sources, NOUN 
+
+, SPACE 
+pulsed, VERB 
+high, ADJ 
+voltage, NOUN 
+generator, NOUN 
+Arkad’ev, PROPN 
+Marx, PROPN 
+gen-, NOUN 
+
+, SPACE 
+erator, NOUN 
+capacitor, NOUN 
+steps, NOUN 
+polarity, NOUN 
+set, VERB 
+high, ADJ 
+
+, SPACE 
+voltage, NOUN 
+rectifier, ADV 
+according, VERB 
+electrons, NOUN 
+ions, NOUN 
+
+, SPACE 
+generated, VERB 
+vacuum, NOUN 
+diode, NOUN 
+simple, ADJ 
+design, NOUN 
+
+, SPACE 
+comprises, VERB 
+stainless, ADJ 
+steel, NOUN 
+chamber, NOUN 
+350, NUM 
+mm, NOUN 
+long, ADJ 
+400, NUM 
+mm, NOUN 
+
+, SPACE 
+diameter, NOUN 
+high, ADJ 
+voltage, NOUN 
+insulator, NOUN 
+Capralon, PROPN 
+
+, SPACE 
+mounted, VERB 
+anode, NOUN 
+plasma, NOUN 
+initiator, NOUN 
+cathode, NOUN 
+extractor, NOUN 
+
+, SPACE 
+grid, NOUN 
+diagnostic, ADJ 
+devices, NOUN 
+measuring, VERB 
+ion, NOUN 
+beam, NOUN 
+
+, SPACE 
+total, ADJ 
+currents, NOUN 
+integrating, VERB 
+Rogovski, PROPN 
+transformer, NOUN 
+Fara-, ADJ 
+
+, SPACE 
+day, NOUN 
+cup, NOUN 
+pulsed, VERB 
+voltage, NOUN 
+anode, NOUN 
+high, ADJ 
+resistance, NOUN 
+
+, SPACE 
+divider, ADV 
+
+, SPACE 
+source, NOUN 
+operated, VERB 
+following, VERB 
+regimes, NOUN 
+
+, SPACE 
+l, NOUN 
+generation, NOUN 
+electron, NOUN 
+beams, NOUN 
+
+, SPACE 
+l, NOUN 
+generation, NOUN 
+metal, NOUN 
+dielectric, ADJ 
+semiconductor, NOUN 
+ion, NOUN 
+beams, NOUN 
+
+, SPACE 
+l, NOUN 
+production, NOUN 
+films, NOUN 
+ion, NOUN 
+electron, NOUN 
+beam, NOUN 
+mixing, NOUN 
+
+, SPACE 
+operating, NOUN 
+ranges, NOUN 
+main, ADJ 
+parameters, NOUN 
+electron, NOUN 
+ion, NOUN 
+
+, SPACE 
+source, NOUN 
+
+, SPACE 
+l, NOUN 
+kinetic, ADJ 
+energy-200, NOUN 
+700, NUM 
+keV, NOUN 
+
+, SPACE 
+l, PROPN 
+pulse, NOUN 
+length--0.3, PROPN 
+1, NUM 
+.O, NOUN 
+/*s, PUNCT 
+
+, SPACE 
+l, PROPN 
+electron, PROPN 
+beam, NOUN 
+current--0.5, NUM 
+6, NUM 
+kA, NUM 
+
+, SPACE 
+l, PROPN 
+ion, NOUN 
+beam, NOUN 
+current, NOUN 
+different, ADJ 
+ions, NOUN 
+O., PROPN 
+I-200, PROPN 
+
+, SPACE 
+l, NOUN 
+ion, NOUN 
+types, NOUN 
+conducting, VERB 
+anode, ADJ 
+materials, NOUN 
+
+, SPACE 
+Production, PROPN 
+electron, NOUN 
+beams, NOUN 
+
+, SPACE 
+Explosive, ADJ 
+electron, NOUN 
+emission, NOUN 
+produce, VERB 
+beam, NOUN 
+elec-, NOUN 
+
+, SPACE 
+trons, NOUN 
+value, NOUN 
+pulsed, VERB 
+current, ADJ 
+emitted, VERB 
+stable, ADJ 
+par-, PROPN 
+
+, SPACE 
+ticularly, ADV 
+carbon, NOUN 
+fiber, NOUN 
+bundle, NOUN 
+cathode, NOUN 
+stable, ADJ 
+
+, SPACE 
+current, NOUN 
+emitted, VERB 
+high, ADJ 
+temperature, NOUN 
+super-, NOUN 
+
+, SPACE 
+conductor, NOUN 
+materials, NOUN 
+cathode, NOUN 
+Y, PROPN 
+Ba, PROPN 
+Cu-0, PROPN 
+Bi, PROPN 
+Ca-, PROPN 
+
+, SPACE 
+Sr, PROPN 
+Cu-0, PROPN 
+operating, VERB 
+ambient, ADJ 
+temperatures, NOUN 
+
+, SPACE 
+Production, PROPN 
+ion, NOUN 
+beams, NOUN 
+
+, SPACE 
+Detailed, ADJ 
+discussions, NOUN 
+reduction, NOUN 
+pulsed, VERB 
+explosive, ADJ 
+emission, NOUN 
+
+, SPACE 
+practice, VERB 
+given, VERB 
+main, ADJ 
+prin-, ADJ 
+
+, SPACE 
+ciples, NOUN 
+considered, VERB 
+Referring, VERB 
+schematic, ADJ 
+drawing, NOUN 
+
+, SPACE 
+Figure, PROPN 
+2, NUM 
+positive, ADJ 
+voltage, NOUN 
+pulse, NOUN 
+applied, VERB 
+anode, NOUN 
+termed, VERB 
+
+, SPACE 
+1, NUM 
+Figure, NOUN 
+2, NUM 
+Schematic, ADJ 
+arrangement, NOUN 
+ion, NOUN 
+diode, NOUN 
+showing, VERB 
+l, NOUN 
+anode, ADJ 
+
+, SPACE 
+plasma, NOUN 
+initiator, NOUN 
+2, NUM 
+-extractor, NUM 
+3, NUM 
+anode, NOUN 
+plasma, NOUN 
+G, PROPN 
+atoms, NOUN 
+molecules, NOUN 
+
+, SPACE 
+5, NUM 
+ions, NOUN 
+substrate, PROPN 
+7, NUM 
+film, NOUN 
+deposited, VERB 
+electron, PROPN 
+irradiated, VERB 
+
+, SPACE 
+deposition, NOUN 
+
+, SPACE 
+1090, NUM 
+plasma, NOUN 
+initiator, NOUN 
+plasma, NOUN 
+formed, VERB 
+surface, NOUN 
+
+, SPACE 
+ions, NOUN 
+extracted, VERB 
+application, NOUN 
+single, ADJ 
+positive, ADJ 
+voltage, NOUN 
+
+, SPACE 
+pulse, NOUN 
+
+, SPACE 
+operation, NOUN 
+planar, ADJ 
+ion, NOUN 
+source, NOUN 
+explosive, ADJ 
+ion, NOUN 
+
+, SPACE 
+emission, NOUN 
+intensity, NOUN 
+electric, ADJ 
+field, NOUN 
+E, NOUN 
+diode, NOUN 
+
+, SPACE 
+exceed, VERB 
+threshold, NOUN 
+voltage, NOUN 
+Ethr, PROPN 
+needed, VERB 
+forming, VERB 
+anode, ADJ 
+
+, SPACE 
+plasma, NOUN 
+
+, SPACE 
+E, PROPN 
+=, SYM 
+KU, PROPN 
+d, NOUN 
+>, X 
+Ethr, PROPN 
+g, PROPN 
+lO’V.cm-, NOUN 
+
+, SPACE 
+U, PROPN 
+voltage, NOUN 
+applied, VERB 
+diode, NOUN 
+K, PROPN 
+amplification, NOUN 
+
+, SPACE 
+factor, NOUN 
+determined, VERB 
+initiator, NOUN 
+geometry, NOUN 
+d, NOUN 
+distance, NOUN 
+
+, SPACE 
+anode, NOUN 
+cathode, NOUN 
+
+, SPACE 
+main, ADJ 
+mechanism, NOUN 
+maintaining, VERB 
+anode, ADJ 
+plasma, NOUN 
+
+, SPACE 
+follows, VERB 
+initially, ADV 
+condition, NOUN 
+auto, NOUN 
+emission, NOUN 
+
+, SPACE 
+heating, NOUN 
+ion, NOUN 
+current, NOUN 
+points, NOUN 
+micro, NOUN 
+heterogeneities, NOUN 
+
+, SPACE 
+surface, NOUN 
+anode, NOUN 
+electron, NOUN 
+emission, NOUN 
+cathode, NOUN 
+
+, SPACE 
+atoms, NOUN 
+vapor, NOUN 
+ionized, VERB 
+form, VERB 
+anode, ADJ 
+plasma, NOUN 
+
+, SPACE 
+ion, NOUN 
+emitter, NOUN 
+ion, NOUN 
+beam, NOUN 
+extracted, VERB 
+
+, SPACE 
+applying, VERB 
+bias, NOUN 
+cathode, NOUN 
+forms, VERB 
+
+, SPACE 
+stable, ADJ 
+vacuum, NOUN 
+discharge, NOUN 
+type, NOUN 
+ion, NOUN 
+emission, NOUN 
+termed, VERB 
+
+, SPACE 
+explosive, ADJ 
+ion, NOUN 
+emission, NOUN 
+
+, SPACE 
+formation, NOUN 
+ion, NOUN 
+beam, NOUN 
+anode, ADJ 
+plasma, NOUN 
+
+, SPACE 
+accompanied, VERB 
+intense, ADJ 
+emission, NOUN 
+anode, ADJ 
+material, NOUN 
+
+, SPACE 
+material, NOUN 
+emitted, VERB 
+form, NOUN 
+clusters, NOUN 
+macro, NOUN 
+particles, NOUN 
+
+, SPACE 
+components, NOUN 
+discharge, NOUN 
+condensed, VERB 
+form, VERB 
+
+, SPACE 
+film, NOUN 
+substrates, NOUN 
+located, VERB 
+cathode, NOUN 
+extractor, NOUN 
+grid, NOUN 
+
+, SPACE 
+way, NOUN 
+deposition, NOUN 
+films, NOUN 
+possible, ADJ 
+ion, NOUN 
+beam, NOUN 
+mixing, NOUN 
+
+, SPACE 
+diode, NOUN 
+operated, VERB 
+regimes, NOUN 
+
+, SPACE 
+Regime, NOUN 
+I., PROPN 
+Maintaining, VERB 
+voltage, NOUN 
+pulse, NOUN 
+length, NOUN 
+
+, SPACE 
+time, NOUN 
+required, VERB 
+diode, NOUN 
+short, ADV 
+circuited, VERB 
+anode, ADJ 
+
+, SPACE 
+plasma, NOUN 
+
+, SPACE 
+Regime, PROPN 
+2, NUM 
+Lengthening, VERB 
+duration, NOUN 
+voltage, NOUN 
+pulse, NOUN 
+
+, SPACE 
+exceeds, VERB 
+time, NOUN 
+short, NOUN 
+circuiting, NOUN 
+anode, ADJ 
+plasma, NOUN 
+
+, SPACE 
+regime, NOUN 
+beams, NOUN 
+produced, VERB 
+primarily, ADV 
+ions, NOUN 
+
+, SPACE 
+limited, ADJ 
+material, NOUN 
+emitted, VERB 
+anode, PROPN 
+plasma, NOUN 
+
+, SPACE 
+initiator, NOUN 
+second, NOUN 
+far, ADV 
+greater, ADJ 
+material, NOUN 
+
+, SPACE 
+emitted, VERB 
+films, NOUN 
+plasma, NOUN 
+initiator, NOUN 
+material, NOUN 
+deposited, VERB 
+
+, SPACE 
+accompanied, VERB 
+ion, NOUN 
+beam, NOUN 
+mixing, NOUN 
+noted, VERB 
+second, ADJ 
+
+, SPACE 
+regime, NOUN 
+significance, NOUN 
+ion, NOUN 
+beams, NOUN 
+far, ADV 
+
+, SPACE 
+
+, SPACE 
+operating, VERB 
+sequence, NOUN 
+source, NOUN 
+understood, VERB 
+
+, SPACE 
+time, NOUN 
+diagram, NOUN 
+shown, VERB 
+schematically, ADV 
+Figures, PROPN 
+3(a)-(c, NUM 
+
+, SPACE 
+illustrate, VERB 
+emission, NOUN 
+processes, NOUN 
+pulse, NOUN 
+
+, SPACE 
+beginning, VERB 
+t, PROPN 
+anode, ADJ 
+plasma, NOUN 
+forms, NOUN 
+plasma, NOUN 
+initiator, NOUN 
+
+, SPACE 
+diode, ADJ 
+voltage, NOUN 
+U, NOUN 
+Figure, VERB 
+3(a, NUM 
+remains, VERB 
+constant, ADJ 
+
+, SPACE 
+time, NOUN 
+tb, PRON 
+taken, VERB 
+diode, NOUN 
+short, ADJ 
+circuit, NOUN 
+time, NOUN 
+i.e., X 
+
+, SPACE 
+Regime, PROPN 
+1, NUM 
+noted, VERB 
+ions, NOUN 
+formed, VERB 
+anode, NOUN 
+
+, SPACE 
+erosion, NOUN 
+anode, ADJ 
+material, NOUN 
+ion, NOUN 
+current, ADJ 
+
+, SPACE 
+extracted, VERB 
+plasma, NOUN 
+cathode, NOUN 
+Figure, NOUN 
+3(b, NUM 
+
+, SPACE 
+velocity, NOUN 
+V, NOUN 
+ions, NOUN 
+pass, VERB 
+cathode, NOUN 
+extractor, NOUN 
+
+, SPACE 
+grid, NOUN 
+implant, VERB 
+ion, NOUN 
+clean, ADJ 
+substrates, NOUN 
+located, VERB 
+
+, SPACE 
+grid, NOUN 
+cleaning, NOUN 
+burst, NOUN 
+ions, NOUN 
+enhances, VERB 
+
+, SPACE 
+adhesion, NOUN 
+coating, NOUN 
+diode, ADJ 
+short, ADJ 
+circuits, NOUN 
+Figure, NOUN 
+
+, SPACE 
+3(c, NUM 
+voltage, NOUN 
+drops, VERB 
+current, ADJ 
+increases, NOUN 
+diode, NOUN 
+
+, SPACE 
+level, NOUN 
+accompanied, VERB 
+explosive, ADJ 
+emission, NOUN 
+material, NOUN 
+
+, SPACE 
+anode, NOUN 
+velocity, NOUN 
+V, NOUN 
+Regime, NOUN 
+2, NUM 
+noted, VERB 
+com-, NOUN 
+
+, SPACE 
+ponent, NOUN 
+pulse, NOUN 
+length, PROPN 
+t, NOUN 
+set, VERB 
+giving, VERB 
+total, ADJ 
+pulse, NOUN 
+length, NOUN 
+
+, SPACE 
+t, PROPN 
+=, PROPN 
+t,,+, ADP 
+t, PROPN 
+emitted, ADJ 
+material, NOUN 
+passes, VERB 
+cathode, NOUN 
+
+, SPACE 
+screen, NOUN 
+coats, VERB 
+substrates, NOUN 
+located, VERB 
+second, ADJ 
+
+, SPACE 
+subsequent, ADJ 
+pulses, NOUN 
+starting, VERB 
+t, PROPN 
+continue, VERB 
+process, NOUN 
+
+, SPACE 
+single, ADJ 
+difference, NOUN 
+ion, NOUN 
+beam, NOUN 
+irradiates, VERB 
+
+, SPACE 
+S, PROPN 
+Korenev, PROPN 
+J, PROPN 
+Perry, PROPN 
+Small, ADJ 
+pulsed, VERB 
+electron, NOUN 
+ion, NOUN 
+sources, NOUN 
+
+, SPACE 
+Diode, PROPN 
+voltage, NOUN 
+
+, SPACE 
+pulse, NOUN 
+
+, SPACE 
+Y, PROPN 
+L-, PROPN 
+
+, SPACE 
++, ADJ 
+--4, ADJ 
+-4, NOUN 
+Subsequent, PROPN 
+pulses, VERB 
+
+, SPACE 
+L, PROPN 
+
+, SPACE 
+t1, NOUN 
+
+, SPACE 
+Implantation, PROPN 
+Ion, PROPN 
+beam, NOUN 
+
+, SPACE 
+Ion, NOUN 
+emission, NOUN 
+cleaning, VERB 
+modification, NOUN 
+
+, SPACE 
+Ib, PROPN 
+
+, SPACE 
+v, NOUN 
+c’i-_/, NOUN 
+v, X 
+
+, SPACE 
+c, X 
+FFkled;rde, PROPN 
+
+, SPACE 
+Material, PROPN 
+emission, NOUN 
+
+, SPACE 
+Deposition, PROPN 
+
+, SPACE 
+Anode, PROPN 
+Cathode, PROPN 
+
+, SPACE 
+i-4, PROPN 
+J, PROPN 
+Figure, PROPN 
+3, NUM 
+Time, NOUN 
+diagram, NOUN 
+processes, NOUN 
+occurring, VERB 
+ion, NOUN 
+diode, NOUN 
+
+, SPACE 
+deposited, VERB 
+film, NOUN 
+modifying, VERB 
+properties, NOUN 
+adjustment, NOUN 
+
+, SPACE 
+pulse, NOUN 
+lengths, NOUN 
+t, NOUN 
+t, PROPN 
+gives, VERB 
+control, NOUN 
+ion, NOUN 
+atom, NOUN 
+ratio, NOUN 
+
+, SPACE 
+film, NOUN 
+deposition, NOUN 
+process, NOUN 
+Figure, NOUN 
+4, NUM 
+shows, VERB 
+emission, NOUN 
+charac-, ADJ 
+
+, SPACE 
+teristics, NOUN 
+source, NOUN 
+ion, NOUN 
+diode, NOUN 
+regime, NOUN 
+
+, SPACE 
+kind, NOUN 
+ion, NOUN 
+beams, NOUN 
+desired, VERB 
+selected, VERB 
+
+, SPACE 
+metals, NOUN 
+conducting, VERB 
+materials, NOUN 
+instance, NOUN 
+conducting, VERB 
+cer-, NOUN 
+
+, SPACE 
+amics, NOUN 
+titanium, NOUN 
+nitride, PROPN 
+TIN, PROPN 
+superconductor, NOUN 
+materials, NOUN 
+
+, SPACE 
+Y, PROPN 
+Ba, PROPN 
+Cu-0, PROPN 
+Bi, PROPN 
+SrCu, PROPN 
+O., PROPN 
+Films, PROPN 
+deposited, VERB 
+
+, SPACE 
+different, ADJ 
+substrates, NOUN 
+temperature, NOUN 
+compatible, ADJ 
+
+, SPACE 
+design, NOUN 
+deposition, NOUN 
+chamber, NOUN 
+speed, NOUN 
+deposition, NOUN 
+
+, SPACE 
+depends, VERB 
+parameters, NOUN 
+discharge, NOUN 
+circuit, NOUN 
+high, ADJ 
+voltage, NOUN 
+
+, SPACE 
+generator, NOUN 
+plasma, NOUN 
+source, NOUN 
+ion, NOUN 
+beam, NOUN 
+example, NOUN 
+
+, SPACE 
+deposition, NOUN 
+rate, NOUN 
+films, NOUN 
+rhenium, NOUN 
+plasma, NOUN 
+initiator, NOUN 
+anode, PROPN 
+
+, SPACE 
+shown, VERB 
+Figure, PROPN 
+5, NUM 
+function, NOUN 
+diode, ADJ 
+voltage, NOUN 
+
+, SPACE 
+200, NUM 
+300, NUM 
+xl, PROPN 
+MO, PROPN 
+600, NUM 
+700, NUM 
+800, NUM 
+
+, SPACE 
+Voltage, PROPN 
+kV, PROPN 
+
+, SPACE 
+Figure, PROPN 
+4, NUM 
+Emission, NOUN 
+characteristics, NOUN 
+ion, NOUN 
+diode, NOUN 
+typical, ADJ 
+materials, NOUN 
+
+, SPACE 
+showing, VERB 
+high, ADJ 
+current, ADJ 
+densities, NOUN 
+reached, VERB 
+studies, NOUN 
+
+, SPACE 
+distances, NOUN 
+anode, NOUN 
+cathode, NOUN 
+anode, NOUN 
+substrate, NOUN 
+
+, SPACE 
+7, NUM 
+mm, NUM 
+30, NUM 
+mm, NOUN 
+respectively, ADV 
+pulse, NOUN 
+length, NOUN 
+300, NUM 
+ns, NOUN 
+data, NOUN 
+
+, SPACE 
+ions, NOUN 
+copper, NOUN 
+aluminum, NOUN 
+carbon, NOUN 
+beryllium, NOUN 
+represented, VERB 
+
+, SPACE 
+round, ADJ 
+square, ADJ 
+filled, VERB 
+square, NOUN 
+triangular, NOUN 
+symbols, NOUN 
+respectively, ADV 
+Time, PROPN 
+
+, SPACE 
+Applications, PROPN 
+
+, SPACE 
+kind, NOUN 
+universal, ADJ 
+electron, NOUN 
+ion, NOUN 
+source, NOUN 
+simple, ADJ 
+operate, VERB 
+
+, SPACE 
+surface, NOUN 
+modification, NOUN 
+different, ADJ 
+
+, SPACE 
+materials, NOUN 
+semiconductors, NOUN 
+high, ADJ 
+temperature, NOUN 
+superconductors, NOUN 
+
+, SPACE 
+metals, NOUN 
+electron, PROPN 
+beam, NOUN 
+post, NOUN 
+treatment, NOUN 
+
+, SPACE 
+films, NOUN 
+deposited, VERB 
+device, NOUN 
+current, ADJ 
+directions, NOUN 
+aimed, VERB 
+
+, SPACE 
+industrial, ADJ 
+application, NOUN 
+include, VERB 
+deposition, NOUN 
+films, NOUN 
+
+, SPACE 
+polymer, NOUN 
+substrates, NOUN 
+deposition, NOUN 
+hard, ADJ 
+stable, ADJ 
+coatings, NOUN 
+
+, SPACE 
+optical, ADJ 
+devices, NOUN 
+
+, SPACE 
+Conclusions, NOUN 
+
+, SPACE 
+explosive, ADJ 
+electron, NOUN 
+ion, NOUN 
+source, NOUN 
+based, VERB 
+ion, NOUN 
+diode, NOUN 
+
+, SPACE 
+powered, VERB 
+Arkad’ev, PROPN 
+Marx, PROPN 
+generator, NOUN 
+delivers, VERB 
+intense, ADJ 
+
+, SPACE 
+beams, NOUN 
+ion, NOUN 
+beam, NOUN 
+currents, NOUN 
+range, NOUN 
+l-200, NOUN 
+A., NOUN 
+control, NOUN 
+
+, SPACE 
+variables, NOUN 
+set, VERB 
+ranges, NOUN 
+voltage, NOUN 
+100, NUM 
+700, NUM 
+kV, NUM 
+pulse, NOUN 
+
+, SPACE 
+length, NOUN 
+typically, ADV 
+0.3, NUM 
+gs, NOUN 
+depending, VERB 
+ion, NOUN 
+chosen, VERB 
+
+, SPACE 
+effectively, ADV 
+surface, NOUN 
+treatment, NOUN 
+bulk, ADJ 
+materials, NOUN 
+
+, SPACE 
+deposition, NOUN 
+films, NOUN 
+concomitant, ADJ 
+ion, NOUN 
+beam, NOUN 
+treatment, NOUN 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+0, X 
+IM, PROPN 
+ml, VERB 
+300, NUM 
+4co, ADJ 
+MO, PROPN 
+@al, PROPN 
+
+, SPACE 
+Voltage, PROPN 
+kV, PROPN 
+
+, SPACE 
+Figure, PROPN 
+5, NUM 
+Dependence, NOUN 
+rate, NOUN 
+deposition, NOUN 
+rhenium, NOUN 
+voltage, NOUN 
+
+, SPACE 
+applied, VERB 
+ion, NOUN 
+diode, NOUN 
+geometry, NOUN 
+Figure, PROPN 
+4, NUM 
+
+, SPACE 
+1091, NUM 
+
+, SPACE 
+SA, PROPN 
+KorenevandA, PROPN 
+J, PROPN 
+Perry, PROPN 
+Small, ADJ 
+pulsed, VERB 
+electron, NOUN 
+ion, NOUN 
+sources, NOUN 
+
+, SPACE 
+ion, NOUN 
+emission, NOUN 
+mode, NOUN 
+snd, VERB 
+electron, PROPN 
+beam, NOUN 
+irradiation, NOUN 
+
+, SPACE 
+surface, NOUN 
+fusion, NOUN 
+electron, NOUN 
+emission, NOUN 
+mode, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+G, PROPN 
+Brown, PROPN 
+J, PROPN 
+Vuc, PROPN 
+Sri, PROPN 
+Technol, PROPN 
+11, NUM 
+1480, NUM 
+993, NUM 
+
+, SPACE 
+J, PROPN 
+R, PROPN 
+Treglio, PROPN 
+J, PROPN 
+Perry, PROPN 
+R, PROPN 
+J, PROPN 
+Stinner, PROPN 
+Surf, PROPN 
+Coar, PROPN 
+Technol, PROPN 
+65, NUM 
+144, NUM 
+
+, SPACE 
+1994, NUM 
+
+, SPACE 
+R, PROPN 
+W, PROPN 
+Stinnett, PROPN 
+R, PROPN 
+G, PROPN 
+Buchheit, PROPN 
+F, PROPN 
+Greulich, PROPN 
+C, PROPN 
+R, PROPN 
+Hills, PROPN 
+C, NOUN 
+Kilgo, PROPN 
+D, PROPN 
+C, PROPN 
+
+, SPACE 
+McIntyre, PROPN 
+J, PROPN 
+B, PROPN 
+Greenly, PROPN 
+M, PROPN 
+0, PROPN 
+Thompson, PROPN 
+G, PROPN 
+P, PROPN 
+Johnston, PROPN 
+R, PROPN 
+J, PROPN 
+Rej, PROPN 
+Mat, PROPN 
+
+, SPACE 
+Res, PROPN 
+Sot, PROPN 
+Sl, PROPN 
+rnp, PROPN 
+Proc, PROPN 
+316, NUM 
+52, NUM 
+1, NUM 
+994, NUM 
+4, NUM 
+G, NOUN 
+E, NOUN 
+Remnev, PROPN 
+V, PROPN 
+Shulov, PROPN 
+Proc, PROPN 
+9th, NOUN 
+Int, PROPN 
+Cor, PROPN 
+~, NOUN 
+f, PROPN 
+BEAMS92, PROPN 
+Wash-, ADP 
+
+, SPACE 
+ington, PROPN 
+DC, PROPN 
+S/25, NUM 
+1992, NUM 
+
+, SPACE 
+Didenko, PROPN 
+Ligachev, PROPN 
+Kurakin, PROPN 
+E@cts, NOUN 
+particles, NOUN 
+beums, NOUN 
+
+, SPACE 
+irradiation, NOUN 
+metals, NOUN 
+alloys, NOUN 
+surface, NOUN 
+Moscow, PROPN 
+Energoatomizdat, NOUN 
+
+, SPACE 
+1987, NUM 
+
+, SPACE 
+Electron, PROPN 
+Beams, PROPN 
+Technology, PROPN 
+G, PROPN 
+Mesyats, PROPN 
+Ed, PROPN 
+Novosibirsk, PROPN 
+Science, PROPN 
+
+, SPACE 
+1986, NUM 
+
+, SPACE 
+Korenev, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+B80/81, X 
+242, NUM 
+1993, NUM 
+
+, SPACE 
+Korenev, PROPN 
+Doctor, PROPN 
+Science, PROPN 
+thesis, NOUN 
+Dubna, PROPN 
+1994, NUM 
+
+, SPACE 
+S, PROPN 
+Korenev, PROPN 
+Proc, PROPN 
+3rd, NOUN 
+Int, PROPN 
+Corzf, PROPN 
+Energy, PROPN 
+Pulse, PROPN 
+Particle, PROPN 
+Beam, PROPN 
+Modi-, X 
+
+, SPACE 
+fication, NOUN 
+o, PROPN 
+Materialr, PROPN 
+EPM’89, PROPN 
+Dresden, PROPN 
+Germany, PROPN 
+1989, NUM 
+p, NOUN 
+448, NUM 
+
+, SPACE 
+OS, VERB 
+Korenev, PROPN 
+Rer, PROPN 
+Sci, PROPN 
+Ins@, PROPN 
+V., PROPN 
+36, NUM 
+147, NUM 
+994, NUM 
+
+, SPACE 
+1092, NUM 
+
+, SPACE 

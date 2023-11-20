@@ -1,0 +1,568 @@
+& *H, __ Nuclear Instruments and Methods in Physics Research B I IS ( 1996) 663-669 
+__ 
+!$!J 
+ELSEVIER Beam Interactions 
+with Materials & Atoms 
+Application of ion-beam-analysis techniques to the 
+of irradiation damage in zirconium alloys study 
+L.M. Howe a. * , D. Phillips a, H. Zou ‘, J. Forster ‘, R. Siegele b, J.A. 
+A.T. Motta ‘, J.A. Faldowski ‘, P.R. Okamoto d Davies b, 
+a AECL Resrurch. Chalk River Loboratories. Chalk River, Onturio. Cunudu. KOJ IJO 
+* Accrlerutor Luhorutory. McMuster University, Humilton, Onturio. Cunudu. L8S 4MI 
+’ Department o$Nucieur Engineering. Pennsylvuniu Stute University. IJniversity Park. PA 16802. USA 
+d Motet-ids Science Division. Argonne Nutionul Luhorutory. Argonne. IL 60439, USA 
+Abstract 
+Ion-beam-analysis techniques are being used to provide an understanding of the nature of collision cascades, irradiation- 
+induced phase changes, lattice location of solute atoms and defect-solute atom interactions in various zirconium alloys. In 
+zirconium inter-metallic compounds, such as Zr,Fe, Zr,Fe, ZrFe?, and Zr,(Fe ,,Ni, _ ,), electron and ion irradiations have 
+been used to obtain detailed information on the crystalline-to-amorphous transformation occurring during the irradiation. 
+Transmission-electron-microscopy (TEM) observations have provided information on the nature of the damage produced in 
+individual cascades, the critical dose required for amorphization, and the critical temperature for amorphization. In a study 
+on the electron-energy dependence of amorphization in Zr,Fe, Zr,Fe and ZrCr, in situ high-voltage-electron-microscope 
+investigations were combined with high-energy forward-elastic-recoil measurements to yield information on the threshold 
+displacement energies for Zr and Fe or Cr in these lattices, as well as the role of secondary displacements of lattice atoms by 
+recoil impurities (CO) at low electron energies. In Zr implanted with s6Fe ions and subsequently bombarded with jOAr ions 
+at 723 K, subsequent secondary-ion-mass-spectrometry (SIMS) analyses were used to monitor the effect of irradiation on the 
+migration of Fe in the Zr lattice. In addition, ion-channeling investigations have been used to determine the lattice sites of 
+solute atoms in Zr as well as the details of the interaction between the solute atoms and the irradiation-produced defecti. 
+1. Introduction 
+Ion-beam-analysis techniques are well suited to provide 
+information on various irradiation effects that occur in 
+zirconium alloys during irradiation. These effects include 
+irradiation-induced phase changes, irradiation-enhanced 
+precipitation and defect-solute atom interactions. The 
+above effects may play a significant role in affecting the 
+deformation and corrosion behaviour of zirconium alloys 
+in either calandria or pressure tubes in CANDU nuclear 
+reactors. The behaviour of zirconium intermetallic com- 
+pounds containing Fe, Cr. Ni or Nb is of particular interest 
+since an irradiation-induced crystalline-to-amorphous 
+transformation has been observed for Zr(Cr,Fe), and 
+Zr,(Ni,Fel precipitates in Zircaloy-2 and Zircaloy-4, see 
+Refs. [l-4] for example. Zr-Nb-Fe precipitates may also 
+be present in Zr-2SNb alloys used in pressure tubes in 
+CANDU reactors. In addition, Fe controls self and substi- 
+tutional diffusion in both a-Zr and the a-based zirconium 
+0168-583X/96/$15.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+SSD!Ol68-583X(95)01 171-40 IX. NEW MATERIALS ’ Corresponding author, tel. 613 584 331 I, fax 61 I 584 3250, 
+e-mail: howe@crf.aecl.ca. alloys Zircaloy-2, Zircaloy-4 and Zr-2SNb [5.6]. Fe also 
+appears to play an important role in affecting the in-reactor 
+deformation behaviour of Zircaloy-2 and Zr-2SNb [7.8]. 
+In the present paper the principal results of investiga- 
+tions of collision cascades and irradiation-induced amor- 
+phization of various zirconium intermetallic compounds 
+during ion and electron irradiation will be summarized. 
+Results will also be presented for determining the thresh- 
+old displacement energies for the constituent atoms (in- 
+cluding light element impurities) in Zr,Fe, Zr,Fe and 
+ZrCr,, as obtained from studies of the electron-energy 
+dependence of amorphization in these intermetallic com- 
+pounds, along with a determination of the concentration of 
+the light element impurities from forward elastic-recoil 
+measurements using 230 MeV 2WBi ions. An ion implanta 
+tion and subsequent irradiation procedure, followed by a 
+SIMS analysis has provided information on the trapping of 
+migrating Fe atoms in Zr by irradiation-produced defects. 
+The results of studies of ion-channeling investigations on 
+the location of the lattice positions of Au and N atoms in 
+Zr and the interaction between these solute atoms and the 
+irradiation-produced defects will also be presented. 
+664 L.M. Howe er al./Nucl. Instr. and Meth. in Phys. Res. B 118 (1996) 663-669 
+2. Experimental details 
+The bulk phases of Zr,Fe, (orthorhombic), Zr,(Fe,- 
+Ni , _ .) (orthorhombic), Zr, Fe (tetragonal), ZrFe, (cubic 
+Laves phase), and ZrCr, (cubic Laves phase) were ob- 
+tained by the appropriate heat treatments from arc melted 
+alloys. Samples suitable for transmission-electron-mi- 
+croscopy @‘EM), forward-elastic-recoil detection, ion 
+channeling or secondary-ion-mass spectrometry (SIMS) 
+were obtained by a combination of spark cutting, mechani- 
+cal polishing, and finally either chemical or electropolish- 
+ing procedures. 
+The heavy-ion bombardments were performed at Chalk 
+River Laboratories (CRL) using one of the following: a 70 
+kV ion implanter, a high-voltage mass separator or a 2.5 
+MV Van de Graaff. Ion channeling investigations were 
+performed using a 2.5 MV Van de Graaff accelerator at 
+CRL. Forward-elastic-recoil measurements were per- 
+formed using 230 MeV 209Bi ions produced by the Tan- 
+dem accelerator in the TASCC facility at CRL. The recoil- 
+ing target atoms were detected in a specially designed 
+A.&E detector [9]. The in situ electron bombardments 
+were performed on the Kratos high-voltage electron micro- 
+scope (HVEM) at Argonne National Laboratory. The SIMS 
+analysis was performed using a CAMECA 4F at CAN- 
+MET. Detailed electron-microscope observations (TEM) 
+and EDX analyses were performed using a Philips CM30 
+electron microscope at CRL. 
+3. Results and discussion 
+3.1. Collision cascades and irradiation-induced amor- 
+phization in zirconium intermetallic compounds 
+A detailed TEM study has been performed of the 
+damage produced in individual collision cascades by l5- 
+350 keV 209Bi ion bombardments of Zr,Fe, ZrzFe and 
+ZrFez [ IO,1 I]. Examples of the damage visible in the TEM are shown in Fig. 1. The majority of the damaged regions 
+had diameters in the range 1.0 to 5.0 nm. 
+At high values for the average deposited-energy density 
+8” in the cascade, which corresponded to low energy 
+heavy-ion implants (e.g. 15-30 keV Bi in Zr,Fe, Zr,Fe 
+and ZrFe,) the visible damage produced in a cascade 
+consisted of a single damaged region, as shown in Fig. la. 
+& is a measure of the average amount of energy expended 
+in nuclear collision events, that is deposited per atom in 
+the volume occupied by an individual collision cascade 
+[lo,1 I]. With decreasing values of & (i.e. increasing ion 
+implant energies), there was an increasing tendency for 
+multiple damaged regions (subcascades) to form within a 
+main cascade, as shown in Fig. 1 b. The visible damaged 
+regions appeared to be amorphous. It was also found that 
+as the Bi ion energy increased (?, decreased), the fraction 
+F of the theoretical collision cascade volume that was 
+occupied by the visible damaged regions within a cascade 
+decreased rapidly. The theoretical collision-cascade vol- 
+ume was taken as the volume of the spheroid whose axes 
+were determined by the longitudinal (AX 2)“2 and trans- 
+verse (Y ‘)“* straggling components of the statistical 
+damage distribution [ 12,131. The crystalline-to-amorphous 
+transformation appeared to be the result of direct amor- 
+phization within the collision cascades and a critical defect 
+concentration being reached in the cascade overlap re- 
+gions, thus producing additional amorphous regions. 
+Detailed information has been obtained for irradiation- 
+induced amorphization of Zr,Fe, Zr,Fe ZrFe,, ZrCr, and 
+Zr, (Fe,,Ni, _,) alloys during irradiation with heavy ions 
+[10,11,14--163 (i.e. 0.5-1.5 MeV “OAr ions and 0.015-1.5 
+MeV 209Bi ions) and with electrons (0.2-0.9 MeV) in a 
+high-voltage electron microscope (HVEM) [ 17-201. It was 
+found that the critical temperature (i.e. the temperature 
+above which amorphization does not occur) for amorphiza- 
+tion with electrons was always considerably lower than 
+under heavy-ion bombardment. Depending upon the partic- 
+ular intermetahic compound, the critical temperatures for 
+electron irradiation were in the range 5 75 to 250 K, 
+Fig. I. Bright-field electron micrographs of Zr,Fe irradiated at 40 K with (a) 30 kev 209Bi ions to a fluence of 2.5 X 10” ions crne2 and 
+(b) 120 keV *09Bi ions to a fluence of 1.0 X IO” ions cm-‘. 
+L.M. Howe et al./Nucl. Instr. and Meth. in Phys. Res. B 118 (1996) 663-669 665 
+whereas the critical temperatures for heavy-ion irradiation most independent of the temperature: the damage accumu- 
+were - 500-600 K. Also, in the vicinity of the critical lates in the lattice, unchecked by thermal annealing. At a 
+temperature for the electron irradiations there was a signif- certain level of irradiation damage, there appears to be a 
+icant dose-rate dependence, with the highest critical tem- driving force to exchange the imperfect form of long-range 
+perature occurring at the highest dose rate [17]. Apprecia- order resulting from irradiation for a local configuration of 
+ble effects of dose rate on the irradiation-induced amor- short-range order, where the bonding restrictions of chemi- 
+phization were also observed for heavy-ion irradiations in cal species and directionality are followed more closely. 
+temperature regimes where significant annealing of defects The difference between the ion and electron irradiations 
+was occurring. In Zr,Fe, for example, in the temperature results from the fact that ion irradiation produces displace- 
+range 160-280 K there was a pronounced dose-rate effect 
+for OS-l.5 MeV “OAr ion irradiations. The fraction of the ment cascades, while electron irradiation produces isolated 
+Frenkel pairs. Within the cascades, the density of damage 
+irradiated volume that had been rendered amorphous at a 
+given “OAr ion fluence increased noticeably as the ion flux is quite high and amorphization can then occur either 
+directly in the cascade or upon cascade overlap. As the 
+was increased from 0.9 X 10” to 14.7 X 10” irradiation temperature increases, annealing processes are 
+ions cmm2 s- ’ 11.51. Near the critical temperature, as the activated that offset the production of damage. When 
+dose rate increases there is less chance for annealing to annealing reduces the effective damage rate without over- 
+occur before the next damage event, and thus it is easier to 
+amorphize the material. Also, for the @Ar and 209Bi ion whelming it, a “step” appears in the dose-to-amorphiza- 
+tion vs. temperature curve, increasing the dose-to-amorphi- 
+irradiations of Zr,Fe, a step occurred in the dose-to- zation at that temperature. The temperature at which the 
+amorphization curve in the same temperature region activated annealing process completely overwhelms dam- 
+(- 180-220 K) as that for the critical temperature for age production is the critical temperature, and amorphiza- 
+electron irradiation [ 161. However, the critical temperature 
+for the amorphization of Zr,Fe by “OAr ion irradiation was tion is no longer possible above that temperature. It fol- 
+570-600 K, and slightly higher (_ 625 K) for 209Bi ion lows then that a lower damage rate is offset at a lower 
+temperature than at a higher damage rate. This implies 
+irradiation [ 161. different critical temperatures for different damage rates. 
+In the case of the ZrFe, and ZrCr, intermetallic com- 
+pounds (both having a cubic Laves structure), the morphol- 
+ogy of the alloys was such that there were two distinct 
+regions of the same ZrFe, or ZrCr, phases; one of which 
+contained a high density of stacking faults and the other 
+containing a low density of stacking faults. For both ZrFe, 
+and ZrCr,, the critical temperatures for electron irradiation 
+were higher for the regions containing the high density 
+stacking faults than they were for the low density stacking 
+fault regions; a difference of _ 20 K for ZrFe, and - 10 
+K for ZrCr, 1201. Also, in ZrFe, the electron dose required 
+for amorphization to occur at the lowest irradiation temper- 
+atures (25-35 K) was _ 2 times lower for the high density 
+stacking-fault regions than it was for the low density 
+stacking-fault regions. Regions containing stacking faults 
+are high-energy regions and the local distortion of the 
+lattice or high chemical energy gives an additional contri- 
+bution to the free energy rise resulting from irradiation, 
+thus facilitating the crystalline-to-amorphous transforma- 
+tion. Also, there could be a change in defect mobility or 
+possibly a change in diffusion modes caused by the pres- 
+ence of the stacking faults. 3.2. Electron-energy dependence of amorphization in 
+Zr,Fe, Zr,Fe and ZrCr,, and the determination of the 
+threshold displacement energies for the atoms in these 
+compounds 
+The results of the ion and electron irradiations can be 
+understood in the framework of damage accumulation 
+under irradiation. Damage produced by irradiation is op- 
+posed by thermal annealing. The balance between the rate 
+of damage production and the ability of the material to 
+repair itself dictates the response of the material to inadia- 
+tion. At low temperatures, damage produced by irradiation 
+remains “frozen in”, with little annealing taking place. In 
+this temperature regime, the dose-to-amorphization is al- Studies were also undertaken to determine the energy 
+dependence of the dose-to-amorphization during electron 
+irradiation of Zr,Fe, Zr,Fe and ZrCr, at 23-30 K [ 18-201. 
+Samples from these alloys were irradiated in the HVEM at 
+ANL at energies from 200 to 900 keV. The irradiations 
+were performed at very low temperatures (23-30 K) in 
+order to eliminate any dose-rate effects on the dose-to- 
+amorphization. Amorphization occurred in these alloys at 
+energies from 900 down to - 300 keV. The results for the 
+three alloys are shown in Fig. 2. Three distinct regions can 
+be observed in Fig. 2. Between 900 and _ 700 keV 
+amorphization occurred at the lowest dose, which was 
+relatively constant. A higher plateau of dose-to-amorphiza- 
+tion was then present; at 500-600 K for Zr,Fe, 400-500 
+K for Zr,Fe and 550-600 K for ZrCr,. Finally, there was 
+a sharp increase in the dose-to-amorphization below the 
+plateau regions. 
+The results of the energy dependence experiments can 
+be analyzed in terms of a composite displacement cross 
+section dominated at high energies (_ 700-900 keV) by 
+displacements of Zr and Fe (or Cr) atoms, by displace- 
+ments of Fe (or Cr) at intermediate energies (- 400-600 
+keV) and by secondary displacements of lattice atoms by 
+recoil impurities at low energies (below 400 keV). 
+To obtain information on the concentration of the light 
+IX. NEW MATERIALS 
+666 L.M. Howe er al. /NucI. Insrr. und Meth. in Phys. Rex. B I18 I19961 663-669 
+AMORPHKATlON Of Zr3fc. ZrZfe AND 210~ PRODUCED 
+BY ELECTRON lRtlAOlATlON ATZMOK a.0 Q 
+? 
+ml wo 5m To x4 (00 900” 
+ELECTRON ENERGY (keV) 
+Fig. 2. Dose-to-amorphization for Zr,Fe (for two different sam- 
+ples), ZrzFe and ZrCr? at 23-30 K as a function of the incident 
+electron energy. 
+element impurities present in the samples, forward-elastic- 
+recoil measurements using 230 MeV 2wBi ions were 
+performed. The recoiling target atoms were detected in a 
+specially designed A E-E detector [9]. This technique also 
+enabled us to determine the depth distribution of the light 
+element impurities over a depth that was comparable to 
+that used for HVEM examinations (i.e. N 200-350 nm), 
+or up to N 1000 nm for the 0.5-l 5 MeV 40Ar ion 
+irradiations. 
+A typical example of a coincidence AE-E spectra is 
+shown in Fig. 3 for one of the zirconium intermetallic 
+compounds. It can be seen that the principal light element 
+impurities are 0 and C. The results, for the various alloys 
+used in the present investigations, indicate that near the 
+surface region (< - 25 nm), the 0 and C levels are 
+_ 4-10 atom 8 and N l-3 atom % respectively. Below 
+this surface region in the bulk of the specimen the 0 and C 
+levels range from _ 0.5-2.0 atom % and - 0.25-1.0 
+atom %, respectively. 
+For these low temperature electron irradiations per- 
+formed on Zr,Fe, Zr,Fe and ZrCr,, annealing of the 
+irradiation-produced defects is not a factor, and therefore 
+there is no dose rate effect, as observed experimentally. 
+Amorphization occurs when the dose-to-amorphization is 
+equal to the critical dose Dcrit, i.e. at a constant dpa, which 
+is specific for each inter-metallic compound. Consequently. 
+for each electron energy E at amorphization: 
+= Dcrit 3 (1) where D(E) is the dose-to-amorphization, 4 is the elec- 
+tron flux, f is the measured time-to-amorphization, .Y, is 
+the concentration of element i, ahi (EA, E) is the displace- 
+ment cross section, I?; is the displacement threshold en- 
+ergy and Q,,, is the critical dose for amorphization. Eq. 
+(I) states that when we multiply the values of the dose-to- 
+amorphization as a function of energy (as given in Fig. 2. 
+for example), by the weighted displacement cross section 
+(obtained from the tabulations by Oen [21]), the result 
+should be independent of energy. Since the values from 
+Oen’s tables [2l] are dependent on the displacement en- 
+ergy, it is possible to find the set of displacement energies 
+that best fits the experimental data. 
+As mentioned above, displacements can also occur by a 
+secondary displacement mechanism, mediated by light ele- 
+ment impurities. The forward-elastic-recoil measurements 
+show that 0 is the major light element impurity in the 
+zirconium intermetallic compounds used in this investiga- 
+tion. Hence, if the displacements produced by a secondary 
+displacement mechanism are also taken into account, then: 
+D(E) = &,(E) [ -xZra;lz’( Edz’J) 
+fx Fe1 C r) ob F&r) ( EIe(cr’, E) 
++aoo,o(E,O,E)~oZr.Fe(Cr~] = DC,,,, (2) 
+where ~92~~~~’ is the number of displacements in the 
+Zr,Fe(Cr) lattices caused by each 0 displacement. 
+(fiFFtiC’) was taken to be I). 
+Using the appropriate values of .rzr and .~r~c,) for 
+each of the major alloying elements (i.e. Zr, Fe or Cr), as 
+well as the value of x0 for the light element impurity 0, 
+the displacement threshold energies can be obtained. The 
+specific x0 values used for Zr,Fe (sample A), Zr,Fe 
+(sample B). Zr, Fe and Z&r, were 0.03, 0.0 I, 0.02 and 
+200 I”““‘““““‘““’ 
+0 50 100 150 200 
+E,,,, [chnl 
+Fig. 3. Coincidence A E- E spectrum of a Zr-25.0 at.% Fe alloy 
+obtained using a 230 MeV lo9Bi ion beam. 
+L.M. Howe et ul./Nucl. Insrr. and Meth. in Phys. Res. B I I8 (1996) 663469 661 
+DATA ANALYSIS OF THE ELECTRON ENERGY DEPENDENCE OF The specific values obtained for the displacement 
+AMORPHIZATION IN Zr,Fe. Zr,Fe AN0 Z&r2 threshold energies were as follows: 
+I 0 SampleB E"X 1s cv 
+02 / E:=l2rV / 
+ELECTRON ENERGY (keV) 
+Fig. 4. The optimized profile for dose-to-amorphization (in dpa) 
+versus electron energy for Zr,Fe (for two samples having different 
+0 concentrations), Zr,Fe and ZrCr,. The dotted horizontal lines 
+represent the average of the D (dose-to-amorphization) values for 
+each set of data. 
+0.025, respectively. Eq. (2) was used to fit the data by 
+minimizing the least squares deviation from the horizontal. 
+The results of the analysis are shown in Fig. 4. 1) Zr,Fe (an orthorhombic phase): Ep = 26 eV, E,” = 18 
+eV and E,“= 12 eV. 
+2) Zr,Fe (a tetragonal phase): EF = 25 eV, E,” = 27 eV 
+and E” = 8 eV. 
+3) ZrCr, d(a cubic Laves phase): E,z’ = 22 eV, EF = 23 
+eV and E,” = 4 eV. 
+Hence from a detailed analysis of the electron energy 
+dependence of amorphization of Zr,Fe, Zr,Fe and ZrCr, it 
+has been possible to obtain the specific values for the 
+displacement threshold energies for the atoms on the sub- 
+lattices in these compounds, as well as to assess the 
+importance of secondary displacement events produced by 
+light element impurities. 
+3.3. Trapping of Fe by irradiation-produced defects in Zr 
+In order to investigate the effect of irradiation on the 
+trapping of Fe by irradiation-produced defects in Zr, ion 
+implantations have been combined with a SIMS analysis 
+of the implanted Fe depth profile. Initially two Zr single 
+crystals were implanted at 35 K with 1 .O MeV 56Fe ions to 
+a fluence of 2.5 X lOI ions cm -*. Subsequent ion implan- 
+tations of the two crystals were performed at 723 K with 
+0.9 MeV “OAr ions to fluences of either 5.0 X lOI or 
+5.0 x 10 I5 “OAr ions cme2. During the “OAr ion bombard- 
+ment, one-half of each crystal was masked to serve as an 
+unirradiated reference where only thermal annealing oc- 
+curred. The energy of the “OAr ion beam (i.e. 0.9 MeV) 
+was chosen so that the damage distribution produced by 
+the “OAr ions was similar to the range profile of the 
+implanted 1.0 MeV 56Fe ions. 
+The results are shown in Figs. 5 and 6. In the absence 
+of the “OAr ion irradiation at 723 K, appreciable migration 
+Effect of Irradiation or Annealing on the Depth Profile 
+of %Fe Atoms Implanted into a (0001) Zr Crystal 
+i l.OE+OZ 
+s 
+5 
+Fl 
+v) l.OE+Ol 
+l.OE+OO 
+!sw 1om 1500 2ooo 2600 
+DEPTH (nm) 
+Fig. 5. Effect of irradiation or annealing on the depth profile of .%Fe atoms implanted into a (0001) crystal. The “Ar ion fluence at 723 K 
+was 5.0 X lOI ions cmm2. 
+IX. NEW MATERIALS 
+668 L.M. Howe et al./Nucl. Instr. and Meth. in Phys. Res. B I18 (1996) 663-669 
+Effect of Irradiation or Annealing on the Depth Profile 
+of mFe Atoms Implanted into a (0001) Zr Crystal 
+E l.OE+O4 
+z l “Fe Implant + 5.0 x 1O’5 @Ar ions cm’ at 723 K. 
+z i.OE+O3 
+0 0 “Fe Implant + 723 K Anneal. 
+t 
+d l.OE+OZ 
+B 
+Y 
+ul 
+,.OE+Ol 
+l.OE+OO _I sao fwo 1600 2ooo 2500 
+DEPTH (nm) 
+Fig. 6. Effect of irradiation or annealing on the depth profile of 56Fe atoms implanted into a (COOI) crystal. The @Ar ion hence at 723 K 
+was 5.0 X 10” ions cm-*. 
+of the Fe atoms has occurred (see points labelled 56Fe 
+implant + 723 K anneal). This is consistent with various 
+diffusion results which indicate that Fe is a very fast 
+diffusing species in Zr [5,6]. In the presence of the irradia- 
+tion damage produced by the @Ar ions at 723 K, the Fe 
+atoms become trapped by the irradiation-produced defects. 
+Consistent with this interpretation, is the fact that the 
+trapping effect is noticeably larger for the higher fluence 
+of “OAr ions. 
+Zou et al. [22] have combined ion implantation and 
+electron microprobe analysis to study irradiation effects on 
+Fe distributions in Zircaloy-2 and Zr-2SNb. They irradi- 
+ated large-grained (lo-40 m) Zircaloy-2 and Zr-2SNb 
+specimens with 1.5 MeV db” Ar ions to fluences of - lOI 
+ions cm - * at 323, 573 and 693 K. Subsequent electron 
+microprobe analyses revealed that the “OAr ion irradiations 
+lead to enhanced dissolution of Fe in the a-phase. After 
+irradiation, the a-phase Fe levels were 0.025-0.15 at.% 
+compared to equivalent values of - 0.0070 at.% in the 
+non-irradiated state. In Zr-2.5Nb the P-phase Fe levels 
+fell from about 0.60 to 0.35 at.%. Zou et al. [22] propose 
+that the irradiation-driven dissolution of Fe into the a-phase 
+of Zircaloy-2 and Zr-2.5Nb can be understood in terms of 
+irradiation-induced defects and Fe-defect interactions. 
+3.4. Location of the lattice positions of Au and N atoms in 
+Zr and the interaction between these solute atoms and the 
+irradiation-produced defects 
+Backscattering of 2.0 MeV 4He ions from Zr-0.2 at.% 
+Au and Zr-0.3 at.% Au crystals were measured for [OOOl], 
+(1120) and (lOiO> directions and the (0001) plane in 
+order to determine the trapping characteristics of Au atoms 
+for irradiation-induced defects [23]. It was observed that 
+the Au atoms, which were initially on substitutional sites, formed strong traps for Zr self-interstitial atoms, which 
+became mobile at - 120 K. The direction of the Au atom 
+displacements in the trapped configuration was between 
+the (40?3) and (lOi0) axes. The displacement of the Au 
+was reduced during annealing from 200-400 K, and was 
+reduced further from 550-700 K. The recovery stage at 
+550-700 K is likely due to vacancies. It was initially 
+proposed that the recovery stage at 200-400 K may be due 
+to another type of Zr self-interstitial atom. However, it is 
+now believed that interstitial Fe-vacancy (Fe,V) com- 
+plexes are very strongly bound ( - 1.4 eV> and also that 
+they have very low migration energies [24,25]. Hence, it is 
+quite possible that the recovery occurring at 200-400 K, 
+may be the result of the migration of a Fe,V complex 
+(since the Zr crystals will undoubtedly have Fe present as 
+an impurity), or to the migration of a Au,V complex. 
+Ion-channeling techniques were also used to determine 
+the lattice sites of N in the a-Zr hexagonal close-packed 
+(hcp) structure and the effect of trapping irradiation-pro- 
+duced defects at the N atoms [26]. A Zr single crystal was 
+implanted along ( 1 150) at 293 K with 300 keV 15N2 ions 
+to a fluence of 2.2 X lOI ionscm-*. The position of “N 
+atoms in the Zr lattice was studied using measurements of 
+yields of ‘H ions (incident energy 800 keV) backscattered 
+from the Zr atoms and the alpha-particle yields from the 
+nuclear reaction ‘5N(p,~)‘2C. Dechanneling of the protons 
+in the Zr crystal provided information on changes in the 
+overall defect concentration during the irradiation and 
+annealing stages. 
+Information was obtained for the (1120) and ( lOTO> 
+channels. The “N ion implantation resulted in an apprecia- 
+bly larger yield of Q particles when the ‘H ion beam was 
+incident along (1120) compared to that found for inci- 
+dence along (lOiO>. Angular scans through (1120) also 
+indicated an appreciable peaking in the a-particle yield at 
+L.M. Howe et ul./Nucl. Instr. and Meth. in Phys. Res. B 118 (1996) 443-669 669 
+the aligned ( 1120) position. These observations indicated 
+that the N atoms occupied the octahedral interstitial posi- 
+tions in the a-23 hcp lattice. 
+Subsequent to the “N implantation, the Zr crystal was 
+irradiated at 35 K with 800 keV 4He ions to fluences of 
+1.8 X lOI and 9.1 X 1Or6 ionscm-*, followed by post- 
+irradiation annealing in both instances. No appreciable 
+displacement of the N atoms from their lattice sites was 
+detected after these irradiations, or during annealing up to 
+423 K. Hence N atoms in octahedral sites are very stable 
+and their position remains essentially unaltered during 
+subsequent defect formation and migration, at least up to 
+423 K. 
+4. Conclusions 
+Ion and electron irradiations, ion implantation and vari- 
+ous ion-beam analyses have provided the following infor- 
+mation on irradiation damage in zirconium alloys: 
+1) Detailed information on the nature of the damage pro- 
+duced in individual collision cascades in Zr,Fe, Zr,Fe 
+and ZrFe,. 
+2) An understanding of the mechanisms controlling irradi- 
+ation-induced amorphization in various zirconium inter- 
+metallic compounds. 
+3) Values of the threshold displacement energies for the 
+constituent atoms (including light element impurities) 
+in Zr,Fe, Zr,Fe and ZrCr,. 
+4) Trapping of migrating Fe atoms in Zr by irradiation- 
+produced defects. 
+5) Location of the lattice position of Au and N atoms in 
+Zr and the interaction between these solute atoms and 
+the irradiation-produced defects. 
+Acknowledgements 
+This research project was funded mainly through a 
+CANDU Owners Group (COG) contract and we wish to 
+thank the COG Working Party 32 committee for their 
+financial support and interest in the program. The authors 
+would also like to express their appreciation for the techni- 
+cal support they received from H. Plattner and J.D. Bon- 
+nett of Chalk River Laboratories and from E. Ryan, L. 
+Funk and S. Ackers of Argonne National Laboratory. 
+References 
+[I] W.J.S. Yang, R.P. Tucker, B. Cheng and R.B. Adamson, J. 
+Nucl. Mater. 138 (1986) 185. 
+[2] M. Griffiths, J. Nucl. Mater. 159 (1988) 190. [3] F. Lefebvre and C. Lemaignan, J. Nucl. Mater. 165 (1989) 
+122. 
+[4] A.T. Motta, F. Lefebvre and C. Lemaignan. in: Zirconium in 
+the Nuclear industry, 9th Int. Symp., Kobe, Japan, 1990, eds. 
+C.M. Euken and A.M. Garde, ASTM, SIP 1132 (1991) 718. 
+[5] G.M. Hood, Defect and Diffusion Forum 95-98 (1994) 755. 
+[6] T. Laursen, GM. Hood, R. Belec, G.R. Palmer, R.J. Schultz 
+and J.L. Whitton, Nucl. Instr. and Meth. B 64 (1992) 475. 
+[7] M. Griffiths, R.W. Gilbert and V. Fidleris, ASTM-SIP 1023 
+(1989) 658. 
+[91 
+[lOI 
+[i II 
+1121 
+[131 
+I141 
+[ISI 
+it61 
+ii71 
+[181 
+t191 
+[201 
+]211 
+[221 
+[231 
+[241 
+I251 
+t261 R.G. Fleck, I.E. Elder, A.R. Causey and R.A. Holt, in: 
+Zirconium in the Nuclear Industry. 10th lnt. Symp. Balti- 
+more, MD., June 1993, eds. A.M. Garde and E.R. Bradley, 
+ASTM, STP 1245 (1994) 168. 
+R. Siegeie, H.K. Haugen, J.A. Davies, J.S. Forster and H.R. 
+Andrews, J. Appl. Phys. 76 (8) (1994) 4524. 
+L.M. Howe, M.H. Rainville, D. Phillips, H. Platmer and J.D. 
+Bonnett, Nucl. Instr. and Meth. B 80/81 (1993) 73. 
+L.M. Howe, D. Phillips, H.H. Planner and J.D. Bonnet& 
+Nucl. Instr. and Meth. B 102 (1995) 77. 
+K.B. Winterbon, P. Sigmund and J.B. Sanders, K. Dan, 
+Vidensk. Selsk. Mat. Fys. Medd. 37 (1970) 14. 
+K.B. Winterbon, Ion Implantation Range and Energy Deposi- 
+tion Distributions, vol. 2 (Plenum. New York, 1975). 
+L.M. Howe, D.P. McCooeye, M.H. Rainviile, J.D. Bonnett 
+and D. Phillips, Nucl. Instr. and Meth. B 59/6O (1991) 884. 
+L.M. Howe, M.H. Rainville and D. Phillips, in: Phase For- 
+mation and Modification by Beam-Solid Interactions, eds. 
+G.S. Was, L.E. Rehn and D.M. Follstaedt, Mater. Res. Sot. 
+Symp. Proc. 235 (1992) p. 461. 
+L.M. Howe, D. Phillips, A.T. Motta and P.R. Okamoto. Surf. 
+and Coatings Tcchnol. 66 (1994) 411. 
+A.T. Motta, L.M. Howe and P.R. Okamoto, J. Nucl. Mater. 
+205 (1993) 258. 
+A.T. Motta, L.M. Howe and P.R. Okamoto, in: Materials 
+Synthesis and Processing Using Ion Beams. eds. R.J. Cutl- 
+bertson, O.W. Holland. KS. Jones and K. Maex, Mater. Res. 
+Sot. Symp. Proc. 316 (1994) 265. 
+A.T. Motta, L.M. Howe and P.R. Okamoto, in: Microstmc- 
+ture of Irradiated Materials, eds. I.M. Robertson, L.E. Rehn, 
+S.J. Zinkle and W.J. Phythian. Mater. Res. Sot. Symp. Proc. 
+373 (1995) 183. 
+J.A. Faldowski, A.T. Motta, L.M. Howe and P.R. Okamoto, 
+submitted for publication in Symp. on Thermodynamics and 
+Kinetics of Phase Transformation, 1995 Fall Meeting MRS. 
+Nov. 27-Dec. 1, 1995; also in Appl. Phys. Lett. (1995). 
+O.S. Oen, ORNL report 4897 (1973). 
+H. Zou, G.M. Hood, J.A. Roy and R.H. Packwood, in: 
+Microstructure of Irradiated Materials, eds. I.M. Robertson, 
+L.E. Rehn, S.J. Zinkle and W.J. Phythian. Mater. Res. Sot. 
+symp. Proc. 373 (1995) 201. 
+M.L. Swanson. L.M. Howe, A.F. Quenneville and J.F. Wat- 
+ters, J. Nucl. Mater. 67 (1977) 42. 
+M. Eldrup, G.M. Hood, N.J. Pederson and R.J. Schultz, 
+Mater. Sci. Forum 105-i 10 (1992) 997. 
+A.D. King, G.M. Hood and R.A. Holt. J. Nucl. Mater. 185 
+(1991) 174. 
+L.M. Howe and M.L. Swanson, Nucl. Instr. and Meth. B 64 
+(1992) 246. 
+IX. NEW MATERIALS 

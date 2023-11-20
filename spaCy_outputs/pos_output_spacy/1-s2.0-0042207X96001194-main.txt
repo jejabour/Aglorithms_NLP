@@ -1,0 +1,1686 @@
+Vacuum, PROPN 
+volume, NOUN 
+47lnumbers, PROPN 
+6, NUM 
+8, NUM 
+pages, NOUN 
+1035, NUM 
+1038t1996, NUM 
+
+, SPACE 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Published, VERB 
+Elsevier, ADJ 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+rights, NOUN 
+reserved, VERB 
+Pergamon, PROPN 
+
+, SPACE 
+PII, PROPN 
+SOO42, PROPN 
+207X(96300119, PROPN 
+4, NUM 
+0042, NUM 
+207X/56, PROPN 
+$, SYM 
+15.00+.00, NUM 
+
+, SPACE 
+Computational, PROPN 
+simulations, NOUN 
+electron, NOUN 
+orbits, NOUN 
+
+, SPACE 
+magnetron, NOUN 
+sputtering, VERB 
+plasmas, PROPN 
+
+, SPACE 
+Shunji, PROPN 
+Ido, PROPN 
+Kosuke, PROPN 
+Nakamura, PROPN 
+Department, PROPN 
+Functional, PROPN 
+Materials, PROPN 
+Science, PROPN 
+faculty, NOUN 
+Engineering, PROPN 
+
+, SPACE 
+Saitama, PROPN 
+University, PROPN 
+255, NUM 
+Shimo, PROPN 
+Okubo, PROPN 
+Urawa, PROPN 
+Saitama, PROPN 
+338, NUM 
+Japan, PROPN 
+
+, SPACE 
+dimensional, ADJ 
+particle, NOUN 
+orbit, NOUN 
+simulations, NOUN 
+carried, VERB 
+analyze, VERB 
+electron, NOUN 
+orbits, NOUN 
+magnetron, ADJ 
+
+, SPACE 
+sputtering, NOUN 
+system, NOUN 
+Collisions, NOUN 
+electrons, NOUN 
+neutral, ADJ 
+Ar, PROPN 
+gas, NOUN 
+atoms, NOUN 
+included, VERB 
+Monte, PROPN 
+Carlo, PROPN 
+
+, SPACE 
+method, NOUN 
+Ionization, NOUN 
+points, NOUN 
+related, VERB 
+plasma, NOUN 
+generation, NOUN 
+points, NOUN 
+approximate, VERB 
+distribution, NOUN 
+
+, SPACE 
+plasmas, NOUN 
+magnetron, ADJ 
+sputtering, VERB 
+system, NOUN 
+profiles, NOUN 
+plasma, NOUN 
+distribution, NOUN 
+correspond, VERB 
+shape, NOUN 
+
+, SPACE 
+magnetic, ADJ 
+field, NOUN 
+increase, NOUN 
+ionization, NOUN 
+points, NOUN 
+obtained, VERB 
+increasing, VERB 
+glow, ADJ 
+discharge, NOUN 
+voltage, NOUN 
+
+, SPACE 
+Copyright, NOUN 
+0, NUM 
+1996, NUM 
+Published, VERB 
+Elsevier, ADJ 
+Science, PROPN 
+Ltd., PROPN 
+
+, SPACE 
+Introduction, NOUN 
+
+, SPACE 
+characteristics, NOUN 
+magnetron, ADJ 
+sputtering, NOUN 
+system, NOUN 
+trap, VERB 
+
+, SPACE 
+electrons, NOUN 
+magnetic, ADJ 
+field, NOUN 
+maintains, VERB 
+plasma, NOUN 
+state, NOUN 
+
+, SPACE 
+low, ADJ 
+voltage, NOUN 
+electrons, NOUN 
+trapped, VERB 
+magnetic, ADJ 
+field, NOUN 
+
+, SPACE 
+ionize, VERB 
+neutral, ADJ 
+particles, NOUN 
+collisions, NOUN 
+positive, ADJ 
+ions, NOUN 
+
+, SPACE 
+plasmas, NOUN 
+accelerated, VERB 
+target, NOUN 
+electric, ADJ 
+field, NOUN 
+
+, SPACE 
+result, NOUN 
+bombardment, NOUN 
+target, NOUN 
+causes, VERB 
+sputtering, NOUN 
+
+, SPACE 
+Sputtered, PROPN 
+atoms, NOUN 
+deposited, VERB 
+substrate, NOUN 
+form, VERB 
+thin, ADJ 
+
+, SPACE 
+films, NOUN 
+process, NOUN 
+sputtering, VERB 
+magnetron, ADJ 
+sputtering, VERB 
+
+, SPACE 
+system, NOUN 
+
+, SPACE 
+distribution, NOUN 
+plasmas, PROPN 
+depends, VERB 
+geometry, NOUN 
+
+, SPACE 
+magnetic, ADJ 
+fields, NOUN 
+design, VERB 
+sputtering, VERB 
+system, NOUN 
+effectively, ADV 
+
+, SPACE 
+analysis, NOUN 
+relation, NOUN 
+plasmas, PROPN 
+magnetic, ADJ 
+fields, NOUN 
+
+, SPACE 
+necessary, ADJ 
+Simulations, NOUN 
+carried, VERB 
+trace, VERB 
+electron, NOUN 
+orbits, NOUN 
+
+, SPACE 
+collisions, NOUN 
+examine, VERB 
+distribution, NOUN 
+plasmas, NOUN 
+
+, SPACE 
+previous, ADJ 
+studies, NOUN 
+simulations, NOUN 
+carried, VERB 
+examine, VERB 
+
+, SPACE 
+electron, NOUN 
+orbits, NOUN 
+collisions, NOUN 
+magnetron, ADJ 
+sputtering, VERB 
+
+, SPACE 
+system, NOUN 
+considering, VERB 
+collision, NOUN 
+effects,3, NOUN 
+authors, NOUN 
+
+, SPACE 
+developed, VERB 
+simulation, NOUN 
+code, NOUN 
+trace, VERB 
+electron, NOUN 
+orbit, NOUN 
+including, VERB 
+
+, SPACE 
+collisions, NOUN 
+electron, NOUN 
+neutral, ADJ 
+atoms, NOUN 
+
+, SPACE 
+magnetron, ADJ 
+sputtering, NOUN 
+system, NOUN 
+examining, VERB 
+distribution, NOUN 
+ol, ADJ 
+
+, SPACE 
+ionization, NOUN 
+collision, NOUN 
+points, NOUN 
+shape, NOUN 
+plasmas, PROPN 
+erosion, NOUN 
+
+, SPACE 
+profiles, NOUN 
+studied, VERB 
+compressed, ADJ 
+magnetic, ADJ 
+field, NOUN 
+magnetron, NOUN 
+
+, SPACE 
+sputtering, NOUN 
+system, NOUN 
+proposed, VERB 
+Hata’~, NOUN 
+studied, VERB 
+
+, SPACE 
+experimentally, ADV 
+computationally.5~7, ADJ 
+types, NOUN 
+particle, NOUN 
+
+, SPACE 
+simulation, NOUN 
+applied, VERB 
+computational, ADJ 
+experimental, ADJ 
+studies, NOUN 
+
+, SPACE 
+analyze, VERB 
+features, NOUN 
+magnetron, PROPN 
+sputtering, NOUN 
+systems, NOUN 
+“m’5, X 
+
+, SPACE 
+present, ADJ 
+paper, NOUN 
+authors, NOUN 
+discuss, VERB 
+availability, NOUN 
+
+, SPACE 
+control, NOUN 
+magnetic, ADJ 
+fields, NOUN 
+reference, NOUN 
+system, NOUN 
+rectangular, ADJ 
+
+, SPACE 
+magnetron, NOUN 
+effect, NOUN 
+control, NOUN 
+glow, NOUN 
+discharge, NOUN 
+volt-, PUNCT 
+
+, SPACE 
+age, NOUN 
+
+, SPACE 
+Calculation, NOUN 
+model, NOUN 
+
+, SPACE 
+Magnetron, PROPN 
+sputtering, VERB 
+system, NOUN 
+Figure, NOUN 
+1, NUM 
+shows, VERB 
+schematic, NOUN 
+
+, SPACE 
+reference, NOUN 
+model, NOUN 
+compressed, VERB 
+magnetic, ADJ 
+field, NOUN 
+magnetron, NOUN 
+sputtering, NOUN 
+system, NOUN 
+“~, PUNCT 
+shape, NOUN 
+magnetic, ADJ 
+field, NOUN 
+target, NOUN 
+
+, SPACE 
+modified, VERB 
+changing, VERB 
+current, NOUN 
+compressing, NOUN 
+coil, NOUN 
+
+, SPACE 
+Figure, NOUN 
+2, NUM 
+shows, VERB 
+configuration, NOUN 
+rectangular, ADJ 
+permanent, ADJ 
+
+, SPACE 
+magnets, NOUN 
+reference, NOUN 
+calculation, NOUN 
+model, NOUN 
+electric, ADJ 
+field, NOUN 
+
+, SPACE 
+formed, VERB 
+anode, NOUN 
+cathode, NOUN 
+applying, VERB 
+dc, PROPN 
+volt-, PROPN 
+
+, SPACE 
+age, NOUN 
+anode, NOUN 
+role, NOUN 
+substrate, NOUN 
+formation, NOUN 
+thin, ADJ 
+
+, SPACE 
+film, NOUN 
+cathode, NOUN 
+target, NOUN 
+consists, VERB 
+thin, ADJ 
+film, NOUN 
+material, NOUN 
+
+, SPACE 
+sputtered, VERB 
+
+, SPACE 
+Basic, ADJ 
+equation, NOUN 
+basic, ADJ 
+equations, NOUN 
+shown, VERB 
+
+, SPACE 
+obtain, VERB 
+electron, NOUN 
+orbits, NOUN 
+
+, SPACE 
+m~=y(E+vxB)+1, PROPN 
+1, X 
+
+, SPACE 
+dX, NUM 
+
+, SPACE 
+dr, VERB 
+=, PROPN 
+2, X 
+
+, SPACE 
+E, NOUN 
+V, PROPN 
+m, PROPN 
+vector, NOUN 
+electric, ADJ 
+field, NOUN 
+5, NUM 
+T, NOUN 
+vector, NOUN 
+
+, SPACE 
+magnetic, ADJ 
+flux, NOUN 
+density, NOUN 
+11, NUM 
+m, PROPN 
+s, PROPN 
+velocity, NOUN 
+vector, NOUN 
+X, PROPN 
+m, PROPN 
+
+, SPACE 
+Electric, ADJ 
+field, NOUN 
+
+, SPACE 
+Magnetv, PROPN 
+Coil, PROPN 
+1, NUM 
+
+, SPACE 
+Figure, NOUN 
+1, NUM 
+Schematics, NOUN 
+rectangular, ADJ 
+magnetron, ADJ 
+sputtering, NOUN 
+system, NOUN 
+
+, SPACE 
+1035, NUM 
+
+, SPACE 
+S, PROPN 
+K, PROPN 
+Nakamura, PROPN 
+Computational, ADJ 
+simulations, NOUN 
+electron, NOUN 
+orbits, VERB 
+
+, SPACE 
+b’l, X 
+
+, SPACE 
+I-, PROPN 
+E, NOUN 
+
+, SPACE 
+E, NOUN 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+m, VERB 
+
+, SPACE 
+Pi, PROPN 
+
+, SPACE 
+1, NUM 
+I-, NUM 
+~----__--_-, NOUN 
+3, NUM 
+II, NUM 
+0, NUM 
+111, NUM 
+m---, NOUN 
+
+, SPACE 
+Figure, NOUN 
+2, NUM 
+Configuration, NOUN 
+permanent, ADJ 
+magnets, NOUN 
+
+, SPACE 
+-IL, SYM 
+2, NUM 
+0, NUM 
+mm, NOUN 
+
+, SPACE 
+t, NOUN 
+
+, SPACE 
+vector, NOUN 
+position, NOUN 
+s, PROPN 
+time, NOUN 
+q, ADJ 
+C, PROPN 
+electric, ADJ 
+charge, NOUN 
+
+, SPACE 
+particle, NOUN 
+m, PROPN 
+kg, PROPN 
+mass, NOUN 
+charged, VERB 
+particle, NOUN 
+Equation, NOUN 
+
+, SPACE 
+equation, NOUN 
+motion, NOUN 
+includes, VERB 
+Coulomb, PROPN 
+force, NOUN 
+
+, SPACE 
+Lorentz, PROPN 
+force, NOUN 
+eqn, NOUN 
+2, X 
+definition, NOUN 
+velocity, NOUN 
+
+, SPACE 
+solve, VERB 
+equations, NOUN 
+Runge, PROPN 
+Kutta, PROPN 
+Gill, PROPN 
+method, NOUN 
+
+, SPACE 
+collision, NOUN 
+term, NOUN 
+described, VERB 
+follows, VERB 
+
+, SPACE 
+Av, PROPN 
+change, NOUN 
+velocity, NOUN 
+vector, NOUN 
+collision, NOUN 
+
+, SPACE 
+time, NOUN 
+interval, NOUN 
+collisions, NOUN 
+present, ADJ 
+
+, SPACE 
+calculations, NOUN 
+types, NOUN 
+collision, NOUN 
+considerd, NOUN 
+
+, SPACE 
+ionization, NOUN 
+collision, NOUN 
+excitation, NOUN 
+collision, NOUN 
+elastic, ADJ 
+colli-, ADJ 
+
+, SPACE 
+sion, NOUN 
+present, ADJ 
+model, NOUN 
+energy, NOUN 
+losses, NOUN 
+collision, NOUN 
+
+, SPACE 
+fixed, VERB 
+15.8, NUM 
+eV, NUM 
+ionization, NOUN 
+collision, NOUN 
+11.6, NUM 
+eV, NUM 
+
+, SPACE 
+excitation, NOUN 
+collision, NOUN 
+energy, NOUN 
+loss, NOUN 
+occurs, VERB 
+elastic, ADJ 
+collision, NOUN 
+
+, SPACE 
+Monte, PROPN 
+Carlo, PROPN 
+method, NOUN 
+calculate, VERB 
+collision, NOUN 
+
+, SPACE 
+term, NOUN 
+J, PROPN 
+
+, SPACE 
+Magnetic, ADJ 
+field, NOUN 
+magnetic, ADJ 
+field, NOUN 
+calculated, VERB 
+magnetic, ADJ 
+
+, SPACE 
+Coulomb, PROPN 
+law, NOUN 
+magnet, NOUN 
+Biot, PROPN 
+Savart, PROPN 
+law, NOUN 
+
+, SPACE 
+compressing, NOUN 
+coils, NOUN 
+shown, VERB 
+
+, SPACE 
+magnetic, ADJ 
+charge, NOUN 
+magnet, NOUN 
+AB, PROPN 
+T, PROPN 
+vector, NOUN 
+
+, SPACE 
+magnetic, ADJ 
+flux, NOUN 
+density, NOUN 
+generated, VERB 
+position, NOUN 
+r, NOUN 
+m, PROPN 
+
+, SPACE 
+current, NOUN 
+coil, NOUN 
+pO, PROPN 
+represents, VERB 
+permeabilty, NOUN 
+
+, SPACE 
+vacuum, NOUN 
+r, NOUN 
+m, PROPN 
+distance, NOUN 
+position, NOUN 
+m, PROPN 
+
+, SPACE 
+coil, NOUN 
+
+, SPACE 
+Figures, NOUN 
+3(a, NUM 
+b, NOUN 
+lines, NOUN 
+magnetic, ADJ 
+force, NOUN 
+
+, SPACE 
+profile, NOUN 
+cross, NOUN 
+section, NOUN 
+line, PROPN 
+o, PROPN 
+shown, VERB 
+Figure, PROPN 
+2, NUM 
+
+, SPACE 
+Figure, PROPN 
+3(a, NUM 
+positive, ADJ 
+coil, NOUN 
+current, NOUN 
+magnetic, ADJ 
+field, NOUN 
+
+, SPACE 
+compressed, VERB 
+inside, NOUN 
+called, VERB 
+inward, ADJ 
+com-, NOUN 
+
+, SPACE 
+pressed, VERB 
+case, NOUN 
+Figure, PROPN 
+3(b, NUM 
+Imagnetic, ADJ 
+field, NOUN 
+expanded, VERB 
+
+, SPACE 
+outside, NOUN 
+negative, ADJ 
+coil, NOUN 
+current, NOUN 
+called, VERB 
+
+, SPACE 
+outward, ADV 
+expanded, VERB 
+case, NOUN 
+
+, SPACE 
+1036, NUM 
+
+, SPACE 
+b, PROPN 
+X, NOUN 
+--Ax, PROPN 
+s, VERB 
+
+, SPACE 
+X, PROPN 
+Axi, PROPN 
+s, PART 
+
+, SPACE 
+Figure, PROPN 
+3, NUM 
+Calculation, NOUN 
+results, NOUN 
+lines, NOUN 
+magnetic, ADJ 
+force, NOUN 
+magnetron, ADJ 
+
+, SPACE 
+sputtering, VERB 
+system, NOUN 
+inward, ADV 
+compressed, VERB 
+model, NOUN 
+b, X 
+outward, ADV 
+
+, SPACE 
+expanded, VERB 
+model, NOUN 
+
+, SPACE 
+Electric, ADJ 
+field, NOUN 
+electric, ADJ 
+field, NOUN 
+assumed, VERB 
+Z-, PROPN 
+
+, SPACE 
+component, NOUN 
+electric, ADJ 
+potential, ADJ 
+V, NOUN 
+function, NOUN 
+
+, SPACE 
+-component, NOUN 
+potential, NOUN 
+anode, NOUN 
+zero, NUM 
+
+, SPACE 
+potential, NOUN 
+cathode, NOUN 
+value, NOUN 
+-400, PROPN 
+V., PROPN 
+numerical, ADJ 
+
+, SPACE 
+approximation, NOUN 
+shown, VERB 
+Figure, NOUN 
+4, NUM 
+experimental, ADJ 
+
+, SPACE 
+Calculated, VERB 
+data, NOUN 
+
+, SPACE 
+0, NUM 
+Experimental, ADJ 
+data, NOUN 
+
+, SPACE 
+z, PROPN 
+1, NUM 
+m, NOUN 
+1, NUM 
+xl0, X 
+1, NUM 
+
+, SPACE 
+Figure, NOUN 
+4, NUM 
+Numerical, ADJ 
+model, NOUN 
+experimental, ADJ 
+results, NOUN 
+electric, ADJ 
+field, NOUN 
+
+, SPACE 
+magnetron, NOUN 
+plasma, NOUN 
+
+, SPACE 
+S, PROPN 
+/do, PUNCT 
+K, PROPN 
+Nakamura, PROPN 
+Computational, ADJ 
+simulations, NOUN 
+electron, NOUN 
+orbits, VERB 
+
+, SPACE 
+z, PROPN 
+
+, SPACE 
+X, PROPN 
+
+, SPACE 
+Figure, PROPN 
+5, NUM 
+Electron, PROPN 
+orbit, NOUN 
+collisions, NOUN 
+magnetron, ADJ 
+sputtering, NOUN 
+system, NOUN 
+
+, SPACE 
+results, NOUN 
+solid, ADJ 
+line, NOUN 
+shows, VERB 
+numerical, ADJ 
+approximation, NOUN 
+
+, SPACE 
+solid, ADJ 
+circles, NOUN 
+experimental, ADJ 
+data, NOUN 
+Figure, NOUN 
+4, NUM 
+
+, SPACE 
+rapid, ADJ 
+drop, NOUN 
+ofthe, NOUN 
+potential, NOUN 
+seen, VERB 
+near, ADP 
+surface, NOUN 
+cathode, NOUN 
+
+, SPACE 
+assumed, VERB 
+potential, ADJ 
+profile, NOUN 
+dependent, ADJ 
+
+, SPACE 
+gas, NOUN 
+pressure, NOUN 
+assumed, VERB 
+thickness, NOUN 
+
+, SPACE 
+sheath, NOUN 
+constant, ADJ 
+
+, SPACE 
+Orbits, NOUN 
+electrons, NOUN 
+electron, NOUN 
+orbits, NOUN 
+obtained, VERB 
+solving, VERB 
+
+, SPACE 
+eqns, NOUN 
+2, NUM 
+RungeeKuttaaGill, NOUN 
+method, NOUN 
+
+, SPACE 
+Monte, PROPN 
+Carlo, PROPN 
+method, NOUN 
+collision, NOUN 
+term, NOUN 
+Figure, NOUN 
+5, NUM 
+shows, VERB 
+
+, SPACE 
+calculated, VERB 
+result, NOUN 
+electron, NOUN 
+orbit, NOUN 
+magnetron, ADJ 
+sputtering, VERB 
+
+, SPACE 
+system, NOUN 
+solid, ADJ 
+circles, NOUN 
+represent, VERB 
+collision, NOUN 
+points, NOUN 
+elec-, X 
+
+, SPACE 
+tron, NOUN 
+moves, NOUN 
+spirally, ADV 
+line, NOUN 
+magnetic, ADJ 
+force, NOUN 
+
+, SPACE 
+time, NOUN 
+interval, NOUN 
+collisions, NOUN 
+electron, NOUN 
+reflected, VERB 
+
+, SPACE 
+potential, NOUN 
+magnetic, ADJ 
+mirror, NOUN 
+electron, NOUN 
+drift, NOUN 
+motions, NOUN 
+
+, SPACE 
+Lx, PROPN 
+B, NOUN 
+drift, NOUN 
+seen, VERB 
+azimuthal, ADJ 
+direction, NOUN 
+
+, SPACE 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+distribution, NOUN 
+ionization, NOUN 
+points, NOUN 
+simulations, NOUN 
+electrons, NOUN 
+
+, SPACE 
+traced, VERB 
+obtain, VERB 
+points, NOUN 
+ionization, NOUN 
+collision, NOUN 
+
+, SPACE 
+electron, NOUN 
+Ar, PROPN 
+gas, NOUN 
+atom, NOUN 
+occurs, VERB 
+points, NOUN 
+called, VERB 
+ion-, ADJ 
+
+, SPACE 
+ization, NOUN 
+points, NOUN 
+present, ADJ 
+paper, NOUN 
+profiles, NOUN 
+distribution, NOUN 
+
+, SPACE 
+ionization, NOUN 
+points, NOUN 
+assumed, VERB 
+approximate, VERB 
+profiles, NOUN 
+
+, SPACE 
+density, NOUN 
+plasma, NOUN 
+Figure, NOUN 
+6, NUM 
+shows, VERB 
+profiles, NOUN 
+distribution, NOUN 
+
+, SPACE 
+ionization, NOUN 
+points, NOUN 
+zone, NOUN 
+near, ADP 
+o, NOUN 
+cross, NOUN 
+section, NOUN 
+Figure, PROPN 
+
+, SPACE 
+2, NUM 
+Figure, PROPN 
+6(a, NUM 
+calculations, NOUN 
+carried, VERB 
+inward, ADJ 
+
+, SPACE 
+compressed, VERB 
+model, NOUN 
+magnetic, ADJ 
+field, NOUN 
+shown, VERB 
+Figure, PROPN 
+3(a, NUM 
+
+, SPACE 
+hand, NOUN 
+Figure, NOUN 
+6(b, NUM 
+corresponds, VERB 
+results, NOUN 
+obtained, VERB 
+
+, SPACE 
+outward, ADV 
+expanded, VERB 
+model, NOUN 
+magnetic, ADJ 
+field, NOUN 
+shown, VERB 
+Figure, PROPN 
+
+, SPACE 
+3(b, NUM 
+denser, PROPN 
+area, NOUN 
+ionization, NOUN 
+collisions, NOUN 
+
+, SPACE 
+neutral, ADJ 
+atoms, NOUN 
+assumed, VERB 
+dense, ADJ 
+area, NOUN 
+corresponds, VERB 
+
+, SPACE 
+dense, ADJ 
+area, NOUN 
+plasmas, NOUN 
+magnetron, NOUN 
+
+, SPACE 
+shown, VERB 
+Figure, PROPN 
+6, NUM 
+distribution, NOUN 
+ionization, NOUN 
+points, NOUN 
+
+, SPACE 
+correspond, VERB 
+configuration, NOUN 
+magnetic, ADJ 
+fields, NOUN 
+resulting, VERB 
+
+, SPACE 
+good, ADJ 
+control, NOUN 
+position, NOUN 
+dense, ADJ 
+regions, NOUN 
+ionization, NOUN 
+
+, SPACE 
+points, NOUN 
+
+, SPACE 
+Electric, ADJ 
+field, NOUN 
+control, NOUN 
+Calculations, NOUN 
+carried, VERB 
+examine, VERB 
+
+, SPACE 
+effects, NOUN 
+electric, ADJ 
+field, NOUN 
+assume, VERB 
+potentials, NOUN 
+
+, SPACE 
+sheath, ADJ 
+edge, NOUN 
+plasmas, NOUN 
+dependent, ADJ 
+discharge, NOUN 
+
+, SPACE 
+voltage, NOUN 
+thickness, NOUN 
+sheath, NOUN 
+constant, ADJ 
+changing, VERB 
+
+, SPACE 
+potential, NOUN 
+cathode, NOUN 
+control, VERB 
+electric, ADJ 
+field, NOUN 
+Figure, NOUN 
+
+, SPACE 
+7, NUM 
+shows, VERB 
+relation, NOUN 
+number, NOUN 
+electrons, NOUN 
+
+, SPACE 
+number, NOUN 
+ionization, NOUN 
+points, NOUN 
+corresponding, VERB 
+variation, NOUN 
+Figure, PROPN 
+6, NUM 
+Profile, NOUN 
+distribution, NOUN 
+lonkttion, NOUN 
+points, NOUN 
+inward, ADV 
+com-, PROPN 
+
+, SPACE 
+pressed, VERB 
+model, NOUN 
+tb, PROPN 
+outwad, NOUN 
+expanded, VERB 
+model, NOUN 
+
+, SPACE 
+discharge, NOUN 
+voltage, NOUN 
+discharge, NOUN 
+voltage, NOUN 
+350, NUM 
+V., PROPN 
+
+, SPACE 
+400, NUM 
+V, NOUN 
+450, NUM 
+V., PROPN 
+discharge, NOUN 
+voltage, NOUN 
+increases, NOUN 
+number, NOUN 
+
+, SPACE 
+ionization, NOUN 
+points, NOUN 
+increases, NOUN 
+result, NOUN 
+means, VERB 
+
+, SPACE 
+discharge, NOUN 
+voltage, NOUN 
+higher, ADJ 
+distribution, NOUN 
+plasmas, NOUN 
+
+, SPACE 
+larger, ADJ 
+density, NOUN 
+plasmas, NOUN 
+larger, ADJ 
+
+, SPACE 
+x, PROPN 
+o, NOUN 
+1, NUM 
+7, NUM 
+
+, SPACE 
+Lo, PROPN 
+151, NUM 
+0, NUM 
+350, NUM 
+v, NOUN 
+
+, SPACE 
+c, NOUN 
+400, NUM 
+v, NOUN 
+
+, SPACE 
+0, NUM 
+450, NUM 
+v, NOUN 
+1, NUM 
+
+, SPACE 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+l, NOUN 
+
+, SPACE 
+Number, PROPN 
+electrcns, PROPN 
+Xl, PROPN 
+
+, SPACE 
+Figure, PROPN 
+7, NUM 
+Calculated, VERB 
+results, NOUN 
+number, NOUN 
+ol, ADJ 
+ionitation, NOUN 
+points, NOUN 
+il, PROPN 
+
+, SPACE 
+function, VERB 
+ofthe, NOUN 
+number, NOUN 
+ofelectrons, NOUN 
+cathode, NOUN 
+voltages, NOUN 
+~, PUNCT 
+350, NUM 
+
+, SPACE 
+V., PROPN 
+-400, PROPN 
+V., PROPN 
+-450, PROPN 
+V., PROPN 
+
+, SPACE 
+1037, NUM 
+
+, SPACE 
+S, PROPN 
+/do, PROPN 
+K, PROPN 
+Nakamura, PROPN 
+Computational, ADJ 
+simulations, NOUN 
+electron, NOUN 
+orbits, VERB 
+
+, SPACE 
+energy, NOUN 
+ion, NOUN 
+sputters, VERB 
+target, NOUN 
+surface, NOUN 
+
+, SPACE 
+higher, ADJ 
+discharge, NOUN 
+voltage, NOUN 
+higher, ADJ 
+
+, SPACE 
+higher, ADJ 
+glow, NOUN 
+discharge, NOUN 
+voltage, NOUN 
+causes, VERB 
+deeper, ADJ 
+wider, ADJ 
+erosion, NOUN 
+
+, SPACE 
+Conclusions, NOUN 
+
+, SPACE 
+tracing, VERB 
+electron, NOUN 
+orbits, NOUN 
+ionization, NOUN 
+points, NOUN 
+obtained, VERB 
+
+, SPACE 
+estimating, VERB 
+ionization, NOUN 
+points, NOUN 
+plasma, NOUN 
+generation, NOUN 
+points, VERB 
+
+, SPACE 
+approximate, VERB 
+profile, NOUN 
+distribution, NOUN 
+plasmas, NOUN 
+
+, SPACE 
+magnetron, ADJ 
+sputtering, NOUN 
+system, NOUN 
+glow, ADJ 
+discharge, NOUN 
+voltage, NOUN 
+
+, SPACE 
+higher, ADJ 
+distribution, NOUN 
+plasmas, NOUN 
+larger, ADJ 
+
+, SPACE 
+density, NOUN 
+plasmas, NOUN 
+larger, ADJ 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+K, PROPN 
+Wasa, PROPN 
+S, PROPN 
+Hayakawa, PROPN 
+Sparta, PROPN 
+G(i),utsu, PROPN 
+Sputter, PROPN 
+Technique, PROPN 
+Kyoritsu, PROPN 
+
+, SPACE 
+Syuppan, PROPN 
+Tokyo, PROPN 
+1988, NUM 
+Japanese, PROPN 
+
+, SPACE 
+Ido, PROPN 
+K, PROPN 
+Sakamoto, PROPN 
+Proc, PROPN 
+Second, ADJ 
+Japanese, ADJ 
+Polish, PROPN 
+Joint, PROPN 
+Sem-, PROPN 
+
+, SPACE 
+inur, VERB 
+Electromagnetic, PROPN 
+Phenomena, PROPN 
+Materialsand, PROPN 
+Computational, PROPN 
+Tech-, PROPN 
+
+, SPACE 
+niques, NOUN 
+Ohita, PROPN 
+1991, NUM 
+p, NOUN 
+427, NUM 
+T, NOUN 
+E, NOUN 
+Sheridan, PROPN 
+M, PROPN 
+J, PROPN 
+Goeckner, PROPN 
+J, PROPN 
+Goree, PROPN 
+J, PROPN 
+Vuc, PROPN 
+Sci, PROPN 
+Tech, PROPN 
+A8, PROPN 
+30, NUM 
+
+, SPACE 
+1990, NUM 
+
+, SPACE 
+S, PROPN 
+Ido, PROPN 
+K, PROPN 
+Sakamoto, PROPN 
+Kakuyugo, PROPN 
+Kenkyu, PROPN 
+68,386, NUM 
+1992, NUM 
+Japanese, PROPN 
+
+, SPACE 
+Ido, PROPN 
+K, PROPN 
+Nakamura, PROPN 
+Jpn, PROPN 
+J, PROPN 
+Appl, PROPN 
+Phyx, PROPN 
+32, NUM 
+5698, NUM 
+1993, NUM 
+
+, SPACE 
+Ido, PROPN 
+K, PROPN 
+Nakamura, PROPN 
+S, PROPN 
+Noguchi, PROPN 
+Journal, PROPN 
+qf, VERB 
+Plasma, PROPN 
+und, VERB 
+Fusion, PROPN 
+
+, SPACE 
+Research, PROPN 
+69, NUM 
+1224, NUM 
+1993, NUM 
+Japanese, PROPN 
+
+, SPACE 
+7, PROPN 
+M, PROPN 
+Miyagi, PROPN 
+K, PROPN 
+Nakamura, PROPN 
+S, PROPN 
+Jdo, PROPN 
+Pror, PROPN 
+12th, ADJ 
+Symposium, PROPN 
+
+, SPACE 
+Plasma, PROPN 
+Processing, PROPN 
+Sendai, PROPN 
+1995, NUM 
+p, NOUN 
+293, NUM 
+
+, SPACE 
+K, PROPN 
+Nakamura, PROPN 
+S, PROPN 
+Ido, PROPN 
+Proc, PROPN 
+3rd, PROPN 
+International, PROPN 
+Symposium, PROPN 
+
+, SPACE 
+Sputtering, PROPN 
+Plasmu, PROPN 
+Processes, PROPN 
+Tokyo, PROPN 
+1995, NUM 
+p, NOUN 
+173, NUM 
+
+, SPACE 
+T, PROPN 
+Hata, PROPN 
+F, PROPN 
+Takeda, PROPN 
+0, PUNCT 
+Morimoto, PROPN 
+E, PROPN 
+Noda, PROPN 
+T, PROPN 
+Hada, PROPN 
+Jpn, PROPN 
+J, PROPN 
+Appl, PROPN 
+Phys, PROPN 
+
+, SPACE 
+20, NUM 
+145, NUM 
+1981, NUM 
+
+, SPACE 
+OT, PROPN 
+Hata, PROPN 
+J, PROPN 
+Kawahara, PROPN 
+K, PROPN 
+Toriyama, PROPN 
+Jpn, PROPN 
+J, PROPN 
+Appl, PROPN 
+Phq, PROPN 
+22, NUM 
+505, NUM 
+1983, NUM 
+
+, SPACE 
+T, PROPN 
+Hata, PROPN 
+Y, PROPN 
+Kamide, PROPN 
+J, PROPN 
+Vat, PROPN 
+Sci, PROPN 
+Technol, PROPN 
+A5, PROPN 
+2, NUM 
+I54, PROPN 
+1987, NUM 
+
+, SPACE 
+S, PROPN 
+Ido, PROPN 
+Y, PROPN 
+Ishida, PROPN 
+K, PROPN 
+Hijikata, PROPN 
+Jpn, PROPN 
+J, PROPN 
+pi, PROPN 
+Phys, PROPN 
+32, NUM 
+2112, NUM 
+1993, NUM 
+
+, SPACE 
+E, PROPN 
+Shidoji, PROPN 
+M, PROPN 
+Nemoto, PROPN 
+T, PROPN 
+Nomura, PROPN 
+Y, PROPN 
+Yoshikawa, PROPN 
+Jpn, PROPN 
+J, PROPN 
+Appl, PROPN 
+Phys, PROPN 
+
+, SPACE 
+33, NUM 
+4281, NUM 
+i994, PROPN 
+
+, SPACE 
+T, PROPN 
+Kobayashi, PROPN 
+K, PROPN 
+Itagaki, PROPN 
+T, PROPN 
+Uchiyama, PROPN 
+T, PROPN 
+Tsukada, PROPN 
+N, PROPN 
+Hosokawa, PROPN 
+
+, SPACE 
+Pmc, PROPN 
+3rd, PROPN 
+International, PROPN 
+Symposium, PROPN 
+Sputtering, PROPN 
+Plasma, PROPN 
+
+, SPACE 
+Processes, PROPN 
+Tokyo, PROPN 
+1995, NUM 
+p, NOUN 
+23, NUM 
+
+, SPACE 
+M, PROPN 
+Kamei, PROPN 
+Proc, PROPN 
+3rd, PROPN 
+International, PROPN 
+Symplsium, PROPN 
+Sputtering, PROPN 
+
+, SPACE 
+Plasma, PROPN 
+Processes, PROPN 
+Tokyo, PROPN 
+1995, NUM 
+p, NOUN 
+187, NUM 
+
+, SPACE 

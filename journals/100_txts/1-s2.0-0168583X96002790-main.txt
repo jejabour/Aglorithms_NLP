@@ -1,0 +1,382 @@
+cw Nuclear Instruments and Methods in Physics Research B 117 (1996) 90-94 
+B 
+k!!!!d RIUM B 
+ELSEVIER Beam Interactions 
+with Materials& Atoms 
+MeV cluster ion induced defect production in high T, superconductors 
+Ch. Tomaschko a, Ch. Schoppmann a, M. Kraus a, K. Kragler a, G. Kreiselmeyer a, 
+G. Saemann-Ischenko a, H. Voit a3 * , A. Brunelle b, S. Della-Negra b, Y. LeBeyec b 
+a Physikalisches Institut der Universitiit Erlangen-Nirnberg, D-91058 Erlangen, Germany 
+b Institut de Physique Nucliaire, CNRS-IN2P3.91406 Orsay, France 
+Received 6 November 1995; revised form received 12 March 1996 
+Abstract 
+Bi,SrzCa,Cu,Os+a and YBa,Cu,O,_ a thin films were irradiated by 23 MeV C,, and 24 MeV Au, cluster ions from a 
+tandem accelerator. The defect production of the C,, cluster ions in Bi,Sr,Ca,Cu,Os+ a exceeds that of 238U ions with an 
+energy of 2.7 GeV. The analysis of the mechanism underlying the defect production leads to different conclusions: (i) for 
+C,, clusters we find independence of nuclear and electronic contributions to the defect production as in the case of atomic 
+projectiles, (ii) for Au, cluster ions this independence has lost it’s validity. A possible interpretation of the Au, results is 
+that nuclear defects are annealed by the electronic energy loss. The size of the effective damage radii obtained for the 
+Bi,Sr2Ca,Cu20s+s film may indicate that continuous tracks are formed in this film via the C,, and Au, irradiation. 
+1. Introduction 
+Fast atomic ions penetrating through high c supercon- 
+ductor (HTSC) films are able to create latent tracks along 
+the ion trajectory. The tracks consist of an amorphous core 
+surrounded by a region left under strain [l-3]. The core 
+radius or effective damage radius R,, increases with 
+increasing energy deposited by the ion. A strict correlation 
+is observed between R,, and the track morphology. Large 
+R,, values (R,, > 3 nm) are related to columnar defects, 
+i.e. continuous amorphous cylinders surrounding the ion 
+trajectory [4]. These columnar defects are of particular 
+interest for HTSC’s because they can act as pinning cen- 
+ters for flux lines in the mixed state. 
+To obtain large latent track radii very heavy (m > 
+100 u) and very fast projectiles are required which are only 
+available at the big heavy ion facilities. In this short note it 
+is shown that C,, and Au, cluster ions with energies 
+typical for a tandem accelerator are able to damage HTSC’s 
+in a similar way. prepared on MgO (Bi-film) and SrTiO, by means of 
+pulsed laser deposition [5,6]. The film thickness was deter- 
+mined to be 230 A. The film parameters were investigated 
+prior to the irradiation. The T,-values for the Bi and the 
+123~films were 87 and 90 K, respectively. Samples with 
+Cpole geometry were used to allow measurements of the 
+electrical resistivity during the irradiation. 
+The samples were irradiated at room temperature paral- 
+lel to the c-axis with 23 MeV C,, and 24 MeV Au, 
+cluster ions from the Orsay tandem accelerator [7]. The 
+cluster fluence qbt was monitored in two different ways: 
+(i) in case of the C,, beam secondary electrons emitted 
+from the sample were continuously recorded with a chan- 
+nel plate detector (the ratio between cluster and electron 
+rates were known) and (ii) in case of the Au, beam a 
+Faraday cup was periodically (every 10 min) inserted into 
+the beam. The film resistivity was also periodically mea- 
+sured with c$t increments of 0.5 X 10” cm-‘. 
+3. Results and discussion 
+2. Experimental 
+High quality thin films of Bi,Sr,Ca,Cu,Os+, (called 
+Bi-film in the following) and YBa,Cu,O,_, films (called 
+123-film) were used for the investigations. The films were 
+* Corresponding author. Tel. 0913 l-857094; Fax: 0913 l- 15249. Fig. 1 shows the specific resistivity p of the Bi-film 
+normalized to the value p. prior to irradiation as a func- 
+tion of the cluster fluence $t. The figure also exhibits the 
+results obtained with 2.7 GeV 238U ions and 865 MeV 
+*‘*Pb ions [8]. It is obvious from Fig. 1 that 23 MeV C,, 
+ions are able to produce many more defects than highly 
+energetic 238U and *‘sPb ions. 
+0168-583X/96/$15.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+PII SO168-583X(96)00279-0 
+Ch. Tomaschko et al./Nucl. Instr. and Meth. in Phys. Res. B 117 (1996) 90-94 91 
+1.8 - 
+2.7 GeV’%J 
+1.6 - 
+. 24 MeV Aus 
+l 865 MeV zosPb I 
+6 8 10 
+@t (1010/cm2) 
+Fig. 1. Dependence of the specific resistivity p of Bi,Sr,CaCu,- 
+0 a+ s films (normalized to the value p0 prior to the irradiation) 
+on the fluence +r of atomic and cluster ions. All data, with the 
+exception of the a3*U data were obtained for warm samples (300 
+K). The 238U data were measured at 125 K, one data point (at 
+$t = 10” cm-‘) exists for the temperature T= 300 K. The 
+atomic data are from Ref. [S]. 
+It should be noted that the 2.7 GeV 238U data were 
+obtained from a cold (125 K) sample, and that the number 
+of defects is smaller at elevated temperatures as demon- 
+strated in Fig. 1 for the 23*U data point with the highest 
+fluence. This data point was obtained after annealing of the 
+125 K irradiation damage. The 300 K curve for 2.7 GeV 
+238U should approximately coincide with the p/p0 versus 
++r curve measured for the 24 MeV Au, cluster. This 
+demonstrates that the defect production of both cluster ions 
+exceeds or equals, respectively, the maximum defect pro- 
+duction obtainable with an atomic ion (the maximum of 
+the energy loss curve for 238U occurs roughly at 2.7 GeV). 
+A similar statement holds for the 123-film irradiated 
+with 24 MeV Au, cluster ions: the damage observed is 1.05 
+1.00 T=300K 
+I I I I I I 
+0 2 4 6 8 10 
+@t (lO’O/cm”) 
+Fig. 2. p/p,, as a function of the fluence of Au, cluster ions and 
+atomic ions hitting YBa,Cu,O,_ s samples. All data were ob- 
+tained from warm samples (300 K). The atomic data are from [SI. 
+comparable with that of a 865 MeV *08Pb beam (see Fig. 
+21. 
+It is interesting to examine the energy losses of the 
+various projectiles of Figs. 1 and 2 with respect to the 
+defect production of these ions (see Table 1). The energy 
+loss values were obtained from the code TRIM (Version 
+95.4) which is based on original work of Biersack et al. 
+[9]. In case of the C,, and Au, clusters it was assumed 
+that the cluster energy loss is the sum of the energy losses 
+of the cluster constituents moving with the cluster velocity. 
+This assumption seems to be justified according to the 
+results obtained in [ 10,111. 
+The electronic energy loss S, of the 23 MeV C,, 
+cluster in the Bi-film is similar to the &-values of 2.7 GeV 
+238U and 865 MeV *‘* Pb ions. Inspite of this similarity we 
+observed the largest defect production for the C,, cluster. 
+The nuclear energy losses S, for all three projectiles in the 
+Bi-film are negligible compared to S, even though one has 
+Table 1 
+Average nuclear (5,) and electronic (5,) energy losses in the HTSC films investigated for atomic and cluster ions of Figs. 1 and 2 as 
+calculated with the code TRIM [9]. E and R denote the energy of the projectile and the range in the films, respectively. R,, is the effective 
+damage radius, R,, the defect radius obtained from HRTEM analyses. All R,, values stem from warm samples. R,, and R,,, values 
+for atomic projectiles are from Refs. [8,13,141. 
+Film _ Projectile 
+2eV /nm) 5, 
+(keV/nm) 
+YBa,Cu,O,_ s Au, 24 0.6 19 19 2.5 - 
+*‘*Pb 865 26.5 0.10 44.4 4.4 8 
+‘*‘Xe 340 18.4 0.07 28.7 2.9 4 
+Bi,Sr,CaCu,O,+s -4~5 24 0.64 17 16 4.7 
+23$?O C 23 0.49 2.1 42 6.3 _ 
+U 2700 68.8 0.05 46.3 - _ 
+ao8Pb 865 29.3 0.1 41 4.1 4.1 
+92 Ch. Tomaschko et al./Nucl. Instr. and Meth. in Phys. Res. B 117 (1996) 90-94 
+103 
+r2@1117'3 Bi,Sr,CaCu,O,,, 
+102 
+10' 
+100 
+10-i 
+IO-2 q * 
+103 
+10-Z lo-' 100 10' 102 10% 104 
+S, (eV/nm) 
+Fig. 3. Nuclear defect indicator I’, deduced from the irradiation 
+of Bi,Sr,CaCu,O,+ 6 films with atomic and cluster projectiles as 
+a function of the nuclear energy losses S,. The hatched area 
+represents the so called “nuclear band” [12]. Atomic ions with 
+S,,-values which represent a major fraction of the total energy loss 
+are characterized by open squares. For details see text. 
+to note that S, for C,, is roughly one order of magnitude 
+larger than in the case of the heavy atomic projectiles. 
+The electronic energy loss of the 24 MeV Au, cluster 
+in both HTSC-films is smaller than the S, values of all 
+atomic ions listed in Table 1. The S, values of Au, are, on 
+the other hand, not negligible compared to S,. In fact, both 
+values are almost identical. Au, cluster ions and the 
+atomic ions of Table 1 yield a similar defect production in 
+spite of different partititions of the total energy loss. 
+It is not obvious, a priori, how the energy losses of the 
+cluster projectiles are related to the magnitude of the 
+observed defect production. One could argue that only the 
+electronic energy loss is responsible in case of the C,, 
+clusters, whereas both S, and S, contribute if the projectile 
+is Au,. Kraus et al. have demonstrated that nuclear and 
+electronic contributions to the defect production overlay 
+additively in case of 123-films [12] and Bi-films [13,14], 
+i.e. that both contributions are independent in a first ap- 
+proximation if the films are irradiated with atomic projec- 
+tiles. This can be shown quantitatively by means of the 
+defect indicator r, which is defined as 
+r2 for the Bi-film is shown in Fig. 3 as a function of the 
+average nuclear energy loss of a number of atomic ions [8]. 
+Protons and heavy ions with &,-values which represent a 
+considerable portion of the total energy loss (open squares 
+in Fig. 3) scale with S,, i.e. their r,-values form the 
+“nuclear band” of the figure. These projectiles create 
+defects mainly via nuclear collision cascades. This result could indicate that electronic and nuclear 
+contributions to the defect production are not independent 
+as in the case of atomic projectiles [ 13,141 if the Bi-film is 
+irradiated with Au, cluster ions. Instead, multiplying ef- 
+fects [ 151 may play a role: the electronic energy loss could 
+for instance anneal the nuclear defects as observed already 
+in case of crystalline metals [16]. Another explanation 
+could be related to the fact that the electronic energy 
+density E along the ion trajectory is much higher for Au, 
+cluster ions than for the atomic projectiles. This is because 
+the slow constituents of the cluster transfer a much smaller 
+amount of energy onto secondary electrons than high 
+energetic heavy ions. The amount of transferred energy 
+determines, on the other hand, the range R, of the sec- 
+ondary electrons which in turn determines the extension of 
+the electronically excited region along the ion trajectory. 
+Thus, similar S, values of cluster and atomic ions result in 
+much larger E-values for cluster projectiles. In fact, an 
+estimation for R, based on the formula given in [ 171 shows 
+that R, for Au, is roughly 3 orders of magnitude smaller 
+than for 2.7 GeV 238U resulting in a much higher E value 
+for Au,. 
+r,-values above the nuclear band (see Fig. 3) are Fig. 4 shows r, values for atomic projectiles [8,12-141 
+observed for other atomic ions with energy losses which and 24 MeV Au, cluster ions as a function of S,. The 
+are dominated by S, [f&13,14]. The deviations from the nuclear band is established up to S,, = 10’ keV/nm 1121. nuclear band are interpreted to be indications for an elec- 
+tronic contribution to the defect production. This electronic 
+contribution is characterized by means of the electronic 
+defect indicator r,,e [12]. 
+As demonstrated elsewhere [12] a threshold for the 
+electronic defect production can be deduced from a plot of 
+r,,e versus S,. The threshold value for the Bi-film is 
+roughly S, = 2.3 keV/nm as obtained from atomic data; 
+the r2,e-values increase linearly with S, above S, = 10 
+keV/nm [8,13,14]. This is interpreted to be due to the fact 
+that the defect morphology remains the same for S, > 10 
+keV/nm and that only the size of the defects increases 
+with increasing S, [ 121. 
+Fig. 3 also exhibits the defect indicators of the cluster 
+projectiles. It should be noted in this context that the data 
+for the atomic projectiles are cold sample (125 K) data and 
+that the defect production at low temperatures increases 
+more steeply with increasing fluence than at the elevated 
+temperatures of the present investigation. This means that 
+the cluster indicators should be shifted to slightly higher 
+values in Fig. 3. 
+The r, value for Au, coincides with the nuclear band 
+of Fig. 3. This would mean that the total defect production 
+is due to nuclear processes provided that the concept used 
+for atomic ions is applicable. Due to the relatively large 
+electronic energy loss of Au, (see Table 1) one would 
+expect, however, a considerable electronic contribution to 
+the defect production i.e. that the Au, data point would be 
+above the nuclear band. Even a temperature correction 
+could not rise the measured Au, value to the expected 
+value. 
+Ch. Tomaschko et al. / Nucl. Instr. and Meth. in Phys. Res. B I1 7 (1996) 90-94 93 
+The r, value for Au, is below the straight continuation of 
+this band. This could be an indication for a peculiar 
+behaviour of the Au, cluster or for the fact, that the 
+nuclear band changes its slope above S, = 10’ keV/nm 
+(dashed lines in Fig. 4). There are strong indications from 
+recent measurements with atomic data [ 13,141 that the 
+latter might be the case (see the additional atomic data 
+labelled with triangles in Fig. 4). In this case the Au, data 
+would fit onto the nuclear band. The r,,e indicator is 
+much smaller than expected from the magnitude of S, (see 
+Table 1 and Fig. 5), provided that nuclear and electronic 
+contributions are independent as in the case of atomic 
+projectiles. 
+The result obtained for the Bi-film irradiated with 23 
+MeV C,, projectiles differs significantly from the Au, 
+result: the defect indicator r, exceeds the values of the 
+nuclear band (see Fig. 3), the electronic contribution has 
+almost ‘the value expected for the electronic energy loss of 
+C, according to irradiation experiments with atomic ions. 
+The result seems to indicate that C,, projectiles behave 
+like atomic ions and that nuclear and electronic processes 
+contribute independently to the defect production. The 
+greatly differing results for C,, and Au, lead, of course, to 
+the question whether and why different mechanisms are 
+effective for the defect production induced by cluster ions. 
+To clarify this question further experiments with cluster 
+ions of various SJS, ratios are desirable. 
+From the measured p/p, versus q5t curves (Figs. 1 
+and 2) the area A of the amorphous cores produced by the 
+cluster irradiation were determined. One can easily show 
+[ 181 that the connection between p/pc, r$t and A is given 
+by the expression 
+p/p0 = e2A+’ 
+1033 
+IO41 ‘,‘,“‘I “““‘I “““‘I “““‘I “““‘I ‘.““.I ‘.,.- ,,,,, 
+1 o-3 10-Z 10-i 100 Id 102 103 104 105 
+S, (eV/nm) 
+Fig. 4. Nuclear defect indicator r, from the irradiation of 
+YBa,Cu,O,_ a films with 24 MeV Au, clusters and atomic ions 
+[12]. Atomic ions with energy losses which are dominated by S, 
+are labellcd with open squares and triangles, respectively. Closed 
+squares represent atomic ions whose energy loss is mainly elec- 
+Ironic. The atomic data arc from [8,12-141. rh (nm2) 
+250 
+0 
+I I I I I I I I 
+0 5 10 15 20 25 30 35 40 
+S, (keV/nm) 
+Fig. 5. Electronic defect indicator r,,, for the YBa,Cu,0,_8 
+film as a function of the electronic energy loss of atomic projec- 
+tiles (from [ 121). The figure contames also the data point obtained 
+from the Au, irradiation. 
+provided that the defect producing ions hit the sample in a 
+totally random way and that the damaged volume can be 
+packed into a cylinder along the ion path having the cross 
+section A = vrR& where R,, is the effective damage 
+radius introduced above. The R,, values obtained for C, 
+and Au, are given in Table 1 together with R,, and R,,, 
+values for atomic projectiles (R,, is the defect radius 
+obtained from a high resolution TBM analysis). In case of 
+the Bi-film one obtains R, values from cluster ions 
+which belong to the range V in the classification scheme 
+of Meftah et al. [3]. The different ranges (II-V) of this 
+scheme characterize different defect morphologies. In range 
+V the defects are long cylinders of amorphous material 
+(continues tracks), in range IV the defects represent over- 
+lapping cylinders (discontinous tracks). Range V covers 
+effective damage radii R,, > 3 nm. With respect to this 
+classification one expects discontinues tracks for the irradi- 
+ation of the 123~film with 24 MeV Au, and continues 
+tracks for the Bi-film irradiated both with Au, and 23 
+MeV C,,. 
+The actual defect morphology can only be safely deter- 
+mined, of course, by means of high resolution transmission 
+electron microscopy (HRTBM). With the aid of HRTBM 
+micrographs it has been shown recently [ 191 that 18 MeV 
+C,, ions are able to produce continues tracks in metallic 
+samples. Thus, it is not unreasonable to speculate that 
+similar tracks result from the irradiation of Bi-films with 
+23 MeV C,, cluster ions. 
+94 Ch. Tomaschko et al. /Nucl. Instr. and Meth. in Phys. Res. B 117 (1996) 90-94 
+4. Conclusion 
+As result of the present investigations we find that the 
+defect production in Bi,Sr,Ca,Cu,O,+ a and YBa,Cu,- 
+O,_, thin films induced by the irradiation with 23 MeV 
+C,, and 24 MeV Au, cluster ions is comparable or even 
+larger than the defect production of heavy and very ener- 
+getic atomic ions. The analysis of the damage mechanism 
+in terms of a model developed for the irradiation of HTSC 
+films with atomic projectiles leads to two different results: 
+6) the C,, cluster ions seem to behave like atomic ions 
+and (ii) the Au, ions behave differently and give reason to 
+conjecture that the independence of nuclear and electronic 
+contributions to the defect production, which holds in the 
+case of atomic projectiles, is not valid in this case. It could 
+be that nuclear defects are annealed by the electronic 
+energy deposition in case of the Au, irradiation similar to 
+observations made for crystalline metals. 
+The large defect radii deduced for the Bi,Sr,Ca,Cu,- 
+0 s+ 6 film irradiated both with Au, and C,, clusters may 
+indicate that continues tracks are formed in this film. 
+Acknowledgements 
+This work was supported by the Deutsche Forschungs- 
+gemeinschaft, Bonn, Germany. 
+References 
+[ 11 M. Toulemonde, S. Bouffard and F. Studer, Nucl. Instr. and 
+Meth. B 91 (1994) 108. [2] P. Bauer, C. Rose], E.J. Williams, R. Berger, J. Daniel, B. 
+Irmer, M. Kraus, G. Kreisehneyer, G. Saemann-Ischenko and 
+J. Karpinski, Physica C 258 (1996) 84. 
+[3] Y. Zhu, Z.X. Cai, R.C. Budhani, M. Suenaga and D.O. 
+Welch, Phys. Rev. B 48 (1993) 6436. 
+[4] A. Meftah, F. Brisard, J.M. Constantini, M. Hage-Ali, J.P. 
+Stoquert, F. Studer and M. Toulemonde, Phys. Rev. B 48 
+I(19931 920. 
+[5] B. Holzapfel, B. Roas, L. Schultz, P. Bauer and G. 
+Saemam-Ischenko, Apl. Phys. Lett. 61 (1992) 3178. 
+[6] Th. Amrein, PhD Thesis, RWTH Aachen (1994). 
+[7] S. Della-Negra, A. Brunelle, Y. LeBeyec, J.M. Curaudeau, 
+J.P. Mouffron, B. Waast, P. Hakansson, B.U.R. Sundqvsit 
+and E. Parilis, Nucl. Instr. and Meth. B 74 (1993) 453. 
+[8] M. Kraus, PhD thesis, University of Erlangen-Nlmberg 
+(1995). 
+[9] J.P. Biersack and L.G. Haggmark, Nucl. Instr. and Meth. 174 
+(1980) 257. 
+[lo] K. Baudin, A. Bnmelle, M. Chabot, S. Della-Negra, J. 
+Depauw, D. Gardts, P. Hgkansson, Y. LeBeyec, A. Bille- 
+baud, M. Fallavier, J. Remillieux, J.C. Poizat and J.P. 
+Thomas, Nucl. Instr. and Meth. B, to be published. 
+[ 111 Ch. Tomaschko, D. Brandl, R. Kiigler, M. Schurr and H. 
+Voit, Nucl. Instr. and Meth. B 103 (1995) 407. 
+1121 M. Kraus, P. van Hasselt, J.P. Striibel, S. Peehs, M. Leghissa, 
+G. Kreiselmeyer, B. Holzapfel, W. Gerhluser, B. Hensel, S. 
+Klaumlinzer, S. Bouffard and G. Saemann-Ischenko, Radiat. 
+Eff. Defects Solids 126 (1993) 147. 
+1131 M. Kraus et al., Phys. Rev. B, to be published. 
+[14] M. Kraus et al., Phys. Rev. B, to be published. 
+[15] F. Rullier-Albenque, A. Legris, S. Bouffard, E. Paumier and 
+P. Lejay, Physica C 175 (1991) 111. 
+[16] A. Dunlop, E. Lesueur, J. Morillo, J. Dural, R. Spohr and J. 
+Vetter, Nucl. Instr. and Meth. B 48 (1990) 419. 
+[17] E.J. Kobetich and R. Katz, Phys. Rev. 170 (1968) 391. 
+[18] S. Klaumlinzer, Radiat. Eff. Defects Solids 126 (1993) 141. 
+[19] H. Dammak, A. Dunlop, D. Lesueur, A. Brunelle, S. Della- 
+Negra and Y. LeBeyec, Phys. Rev. Lett. 74 (1995) 1135. 

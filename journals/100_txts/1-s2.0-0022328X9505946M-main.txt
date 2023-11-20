@@ -1,0 +1,532 @@
+ELSEVIER Journal of Organometallic Chemistry 512 (1996) 45-50 _Journal ofOrgano. metalliC Chemistry 
+Aqueous organometallic chemistry: 
+the mechanism of catalytic hydrogenations 
+with chlorotris(1,3,5-triaza-7-phosphaadamantane) rhodium(I) 
+Ferenc Jo6 a.* Levente N~dasdi a, Attila Cs. B6nyei a, Donald J. Darensbourg 
+a Institute of Physical Chemistry, Lajos Kossuth University, Debrecen H-4010, Hungary 
+b Department of Chemistry, Texas A &M University, College Station, TX 77843, USA 
+Received 22 May 1995; in revised form 11 September 1995 
+Abstract 
+The water-soluble phosphine complex of Rh(I), RhCI(PTA) 3 (1) was shown to be an active catalyst for the hydrogenation of various 
+olefinic and oxo-acids, as well as of allyl alcohol and 4-sulfostyrene in aqueous solution under mild conditions. Detailed kinetic 
+investigations were carried out with crotonic acid and allyl alcohol as substrates. The rate of hydrogenation of both compounds showed a 
+sharp maximum as a function of pH at 4.7. Hydrogenation of itaconic, crotonic and a-acetamidocinnamic acid in D20 led to 45-100% 
+deuteration of the products with 25-100% stereoselectivity towards the a-carbon atom. These results, together with those of pH-static 
+hydrogenation of complex 1, suggest that water strongly assists the dehydrochlorination of 1 to yield the catalytically active monohydrido 
+species HRh(PTA) 3 (2). Nevertheless, depending on the substrate and the pH of the solution the dihydridic pathway may remain partially 
+operative. 
+Keywords: Rhodium; Hydrogenation; Phosphines 
+I. Introduction 
+Aqueous organometallic chemistry has recently be- 
+come a well-established, independent field of study 
+aimed, in part, at developing biphasic catalytic pro- 
+cesses for industrial (e.g. hydroformylation and poly- 
+merization) and biological applications [1,2]. With re- 
+spect to processes of industrial importance, it is antici- 
+pated that in the future more environmentally benign 
+processes will use water as a solvent or cosolvent [3]. A 
+successful and widely used method to achieve water- 
+soluble organometallic catalysts is by slight modifica- 
+tion of ligands commonly found in catalytically active 
+transition metal complexes, e.g. by sulfonation, 
+aminomethylation, or carboxylation of phosphine lig- 
+ands [4]. However, water is a highly polar solvent with 
+the ability to form strong hydrogen bonds, and hence 
+can intricately affect the mechanism of catalysis. 
+" Corresponding author. 
+J Dedicated to Professor Marvin D. Rausch on the occasion of his 
+65th birthday. 
+0022-328x/96/$15.00 © 1996 Elsevier Science S.A. All rights reserved 
+SSDI 0022-328X(95)05946-6 In the course of our investigations of aqueous 
+organometallic catalysis we have discovered that the 
+mechanism of the hydrogenation of activated olefins 
+catalyzed by RhCIP 3 type (P = tertiary phosphine) com- 
+plexes in aqueous solutions may contain two important 
+steps not observed in olefin hydrogenation processes 
+utilizing Wilkinson's catalyst in organic solvents. First, 
+the sulfonated phosphines PPhnAr m (Ar=C6H4-m- 
+SO3Na, n + m = 3; m = 1 TPPMS; m = 3 TPPTS) eas- 
+ily add across an activated olefinic bond, like that in 
+maleic acid, with the formation of the corresponding 
+phosphonium salt [5]. This was shown, in the case of 
+RhCI(TPPMS) 3, to lead to the formation of a phosphine 
+deficient Rh(I) species [6]. Of alkenoic acids, E-2- 
+butenoic (crotonic acid) reacted slowly with phosphines, 
+and in that case the phosphonium salt formation did not 
+influence the catalytic performance of RhCI(TPPMS) 3. 
+Second, water facilitates the formation of HRh~Px 
+monohydrido species rather than the dihydride H2Rh m 
+CIP 3, where x is dependent on the nature and the 
+amount of excess phosphine [7]. Both of these processes 
+are pH-dependent. 
+
+46 F. Jo6 et al./ Journal of Organometallic Chemistry 512 (1996) 45-50 
+Recently, we introduced the use of 1,3,5-triaza-7- 
+phosphaadamantane (PTA) into organometallic catalysts 
+in water [8,9]. It has been found that RhCI(PTA) 3, the 
+analog of RhCI(TPPMS) 3, is an active catalyst for the 
+selective reduction of unsaturated aldehydes to saturated 
+aldehydes, using an aqueous sodium formate solution as 
+the hydrogen source. One interesting property of PTA is 
+that, despite being rather basic (pK a 6.0) [10], it does 
+not react with activated olefins. Hence, the effects of pH 
+on the kinetics of hydrogenations catalyzed by RhC1P 3 
+systems can be studied in the absence of the side 
+reaction between the phosphine and the olefinic sub- 
+strate. By utilizing an unactivated olefin, this side reac- 
+tion can be further prevented. A detailed kinetic study 
+was therefore undertaken to reveal the relative impor- 
+tance of the monohydridic and dihydridic pathways in 
+hydrogenation of crotonic acid catalyzed by RhCI(PTA) 3 
+in aqueous solution. In addition, the hydrogenation of 
+several other substrates (olefinic acids, 2-oxo-acids, al- 
+lyl alcohol, 4-sulfostyrene) was also investigated. 
+2. Experimental details 
+2.1. Materials 
+PTA, RhCI(PTA) 3 and Z-a-acetamidocinnamic acid 
+were prepared as described in the literature [8,11,12]. 
+All other reagents were commercial products of Aldrich, 
+Merck and Fluka and purified by recrystallization or 
+distillation when necessary. For deuteration studies 
+99.9% D20 from Cambridge Isotope Laboratories was 
+used. 
+2.2. General methods 
+The extent of deuteration was calculated from the 
+relative peak areas of I H NMR spectra of the products. 
+NMR spectra were obtained on a Bruker WP 200 SY 
+spectrometer. Deuterium distribution in 2-acetamido-3- 
+phenylpropionic acid was deduced from the MS frag- 
+mentation pattern [13] of its methyl ester, obtained by 
+esterification in HC1/methanol. Mass spectrometric 
+measurements were made on a VG 7035 instrument 
+(VG Analytical; direct sample introduction, 70 eV). 
+2.3. Hydrogenation experiments required pH was used as solvent. In comparison with 
+the unbuffered solutions of same pH, no specific salt 
+effect was observed. In a typical experiment 20 ml of 
+4.5 × 10 -2 M substrate solution was placed into the 
+jacketed reaction flask under argon together with 6 mg 
+(9.8 × 10 -3 mmol) solid RhCI(PTA) 3 in a small cup 
+made of filter paper and hung on a stainless steel hook. 
+The reactor and the burette were subsequently filled 
+with H 2 with several evacuation/refill cycles. The tem- 
+perature was kept constant to +0.1°C (typically at 
+37°C) using a Lauda K4R circulator. Reactions were 
+started by dissolving the catalyst in the substrate solu- 
+tion. Independent of the experimental conditions, the 
+reactions proceeded with no induction period and, there- 
+fore, initial rates were calculated from volume readings 
+in the first 5 min. In all measurements the rate of 
+hydrogen consumption was less than 50% of that of H 2 
+dissolution, as established by separate measurements 
+under identical conditions, i.e. rate data were obtained 
+in the truly kinetic region. 
+2.4. Isomerization studies 
+Isomerization of maleic to fumaric acid during the 
+hydrogenation experiments was followed by high per- 
+formance liquid chromatography (column: Nucleosil® 5 
+C18 (Macherey Nagel); eluent: methanol/water, con- 
+taining 0.1% phosphoric acid, 1/1; room temperature, 
+isocratic mode) using a Waters 501 pump, a 490E 
+programable UV-vis detector and the Maxima integra- 
+tion software. 
+2.5. pH-static titrations 
+The jacketed reaction vessel was fitted with the base 
+delivery tube of a Radiometer ABU 91 autoburette, a 
+Radelkis OP08080 combined glass electrode connected 
+to a PHM 93 pH meter, a gas inlet capillary and gas 
+outlet tube connected to a bubbler. 50 ml doubly dis- 
+tilled, deaerated water was placed into the reactor and 
+thoroughly bubbled with argon. RhCI(PTA) 3 was added 
+in solid form against an argon stream. After closing the 
+reactor the starting pH was adjusted by manual opera- 
+tion of the autoburette, the argon stream was changed 
+for hydrogen and the solution was also stirred magneti- 
+cally. The volume of base required to keep the pH 
+constant was automatically recorded in time utilizing an 
+IBM 486 PC. 
+Hydrogen uptake measurements Were carried out us- 
+ing a thermostatted constant pressure gas burette [14]. 
+Generally, the pH of the reaction mixtures was adjusted 
+by titrating the solution of the substrate acids with 
+NaOH (0.2 M) until the desired pH (4.70) was attained, 
+as established by direct pH measurements using a con- 
+ventional glass electrode. However, during the pH-vari- 
+ation studies an Na-phosphate buffer (0.1 M) of the 3. Results and discussion 
+RhCI(PTA) 3 is an active catalyst for the hydrogena- 
+tion of various water soluble unsaturated substrates 
+under mild conditions (Scheme 1, Table 1). 
+RIR2C:CR3R 4 +H 2 > RIR2CH--HCR3R 4 
+Scheme 1. 
+
+F. Jo6 et al./ Journal of Organometallic Chemistry 512 (1996) 45-50 47 
+Table 1 
+Specific rate of hydrogenation of various substrates by [RhCI(PTA) 3 ] a 
+Substrate Turnover (h- 1 ) 
+1. Crotonic acid 331 
+2. Maleic acid 69 
+3. Fumaric acid 342 
+4. Itaconic acid 453 
+5. Allyl alcohol 188 
+6. 2-oxovaleric acid 98 
+7. Pyruvic acid 46 
+8. p-Sulfostyrene 158 
+a Conditions: T = 37°C; Csubstrat e = 4.5 × 10 -2 mol dm-3; C[Rh(l) ] = 
+4.9X 10 -4 mol dm-3; Chydrogen = 6.6× 10 -4 mo1 dm-3; pH 4.70. 
+In general, the hydrogenation rate of unsaturated 
+fatty acids is greater than that of 2-oxo-acids. Strikingly, 
+fumaric acid is hydrogenated approximately five times 
+faster than maleic acid, contrary to the behavior of 
+Wilkinson's catalyst, which, in organic solvents, is con- 
+siderably more active for hydrogenation of cis-rather 
+than trans-olefins [15]. In this respect, RhCI(PTA) 3 
+resembles RhCI(TPPMS) 3 [16]. It is interesting to note 
+that the fastest hydrogenation was observed with ita- 
+conic acid, although methyl itaconate is reduced slowly 
+with RhCI(PPh3) 3 in benzene [15]. During hydrogena- 
+tion the originally yellow solutions slowly become 
+brown, and the rate of this color change depends on the 
+excess phosphine concentration, temperature, and pH of 
+the solutions. 
+Detailed kinetic investigations show that the rate of 
+crotonic acid hydrogenation is first order in the catalyst 
+concentration (Fig. 1), levels off with crotonic acid 
+concentration (Fig. 2) and varies in a slightly non-linear 
+way with the partial pressure of dihydrogen (Fig. 3). A 
+small excess of PTA decreases the rate considerably, 
+however, the reaction is not completely inhibited even 
+at higher excess of the phosphine (Fig. 4). rate [mol/h] 
+8r 
+7 v 
+6 
+5 
+4 
+3 
+2 
+1 
+C<, I I I i 12 
+0 2 4 6 8 10 
+4 
+10 *[RhCI(PTA)3]/M 
+Fig. 2. Initial rate of crotonic acid hydrogenation as a function of 
+RhCI(PTA) 3 concentration. Conditions: T = 37°C; Csubstrat e = 4.5 × 
+10 .2 tool dm-3; Chydrogen = 6.6× 10 .4 mol din-3; pH 4.70. 
+TO/h 
+350 
+300 
+250 
+200 
+150 
+100 
+50 // , i i 
+150 300 450 600 750 
+pressure of hydrogen [Hgmm] 
+Fig. 3. Initial rate of crotonic acid hydrogenation as a function of 
+partial pressure of hydrogen. Conditions: T = 37°C; C[Rh(1) l = 4.9 × 
+10 -4 mol dm-3; Csubstrat e = 4.5× 10 -2 mol dm-3; pH 4.70. 
+TO/h 
+450 
+400 
+350 
+300 
+250 
+200 
+150 
+100 
+50 
+0 i 
+0,05 0,1 0,15 0,2 
+[CA]/M 
+Fig. 1. Initial rate of crotonic acid hydrogenation as a function of 
+substrate concentration. Conditions: T = 37°C; C[Rh(1) ] = 4.9 × 10 -4 
+mol dm-3; Chydrogen = 6.6X 10 -4 mol dm-3; pH 4.70. TO/h 
+350 r 
+q 
+300 
+250 
+e 
+2OO 
+150 
+100 
+5O 
+0 i i i i i , I , J , 
+0 2 4 6 8 10 12 14 16 18 20 22 
+excess of phosphlne M*10 4 
+Fig. 4. Initial rate of crotonic acid hydrogenation as a function of 
+excess phosphine. Conditions: T = 37°C; c{Rh0)l = 4.9× 10 .4 mol 
+dm-3; Csubstrat e = 4.5×10 -2 mol dm-3; Chydrogen = 6.6× 10 .4 mol 
+dm-3; pH 4.70. 
+
+48 F. Jo6 et al./Journal of Organometallic Chemistry 512 (1996) 45-50 
+TO/h (CA) 
+300 TO/h (AA) 
+2OO i 
+280 ~1 / 
+260 
+240 
+220 ! • 
+200 
+,/ 180 ! 
+i 
+160 ~ 
+140 i 
+3,8 4,3 180 
+160 
+b • 140 
+120 
+100 i 
+4,8 5,3 5,8 6,3 6,8 7,3 
+pH 
+Fig. 5. Dependence of reaction rate of hydrogenation of crotonic acid 
+(•) and allyl alcohol (0) on pH. Conditions: T = 37°C; C[Rh(1) l = 4.9 
+X 10 -4 mol dm-3; Csubstrat e = 4.5X 10 -2 mol dm-3; Chydrogen = 6.6 
+X 10 -4 mol dm -3. 
+All these findings could be interpreted in terms of a 
+classical dihydridic mechanism [17] of hydrogenations 
+catalyzed by Wilkinson-type rhodium phosphine com- 
+plexes (CA = crotonic acid, BA = butyric acid): 
+RhCl(PTA)3 + H 2 ~ (H)RRhCI(PTA)2 + PTA (1) 
+(H)2RhCI(PTA)2 + CA ~ (HCA)(H)RhCI(PTA)2 
+(2) 
+(HCA) (H) RhCI(PTA)2 + H 2 
+--* (H)zRhCI(PTA)2 + BA (3) 
+Although this simplified scheme does not show all 
+the possible elementary steps, the overall rate of such a 
+reaction sequence should be independent of pH since no 
+proton is involved in any of the consecutive reactions. 
+Contrary to this observation, the hydrogenation of 
+crotonic acid is very strongly influenced by the pH (Fig. 
+5). The maximum rate occurs at pH 4.7, which coin- 
+cides with the pK a of crotonic acid [18], hence it was 
+necessary to study the hydrogenation of allyl alcohol 
+and 4-sulfostyrene as 'non-ionizable' substrates as a 
+function of pH as well. In both cases a maximum rate is 
+achieved at pH 4.7. Therefore, this value refers merely 
+to changes in the mechanism brought about by varying 
+pH, and the incidence with the pK a of crotonic acid is 
+only coincidental. 
+Through the use of pH-static measurements, it has 
+been established that in aqueous solutions the reaction 
+of RhCI(PTA) 3 and H z results in proton liberation (Eq. 
+R'--CH~C(R)--COOH H2, D20 Table 2 
+Distribution of deuterium between carbon atoms of various sub- 
+strates a 
+Substrate Product 1 (%) Product 2 (%) Product 3 (%) 
+a-acetamido 0 0 100 
+cinnamic acid 
+Itaconic acid 45 0 55 
+Crotonic acid 75 15 10 
+a Conditions: T= 37°C; Csubstrat e = 4.5X 10 -2 mol dm-3; CIRh(I)} = 
+4.9X 10 -4 mol dm-3; ("hydrogen = 6.6X 10 -4 mol dm-3; pH 4.70. 
+(4)) [9]. This reaction can be interpreted as a reductive 
+dehydrochlorination of an intermediate Rh(III) dihy- 
+dride which has previously been reported in the litera- 
+ture [19]. The driving force for this process comes from 
+the high solvation energy of the ionic products, particu- 
+larly H +, in water [20]. In this respect RhCI(PTA) 3 
+behaves similarly to RhCI(TPPMS) 3. 
+RhCI(PTA) 3 + H 2 ~ HRb(PTA) 3 + C1- + H + (4) 
+From the kinetic measurements it is highly probable 
+that the monohydride, formed in reaction (4), catalyses 
+the hydrogenation of crotonic acid through the follow- 
+ing steps (L = PTA or H20): 
+HRh(PTA)3 + CA ~ HRh(CA)(PTA)/+ PTA (5) 
+HRh(CA)(PTA)2 + L ~ [(HCA)Rh(PTA)zL ] (6) 
+[(HCA)Rh(PTA)2L ] + H +--~ [Rh(PTA)2L] + + BA 
+(7) 
+[Rh(PTA)2L ] + + H 2 ~ HRh(PTA)2L + H + (8) 
+It should be emphasized that numerous other equilib- 
+ria, involving phosphine, water, chloride and carboxyl- 
+ate coordination, and the reaction of the respective 
+species with dihydrogen, should also be regarded. How- 
+ever, all considerations result in the conclusion that part, 
+if not all, of the product is formed on a pH-dependent, 
+monohydridic pathway. 
+This conclusion is supported by the results of deuter- 
+ation experiments, where unsaturated acids were hydro- 
+genated with H 2 in D20 catalyzed by RhCI(PTA) 3. The 
+products were found to be extensively deuterated as 
+illustrated in Scheme 2. 
+(R = CHzCOOH, R' = H: itaconic acid; R = C6H5, R' 
+= H: acetamidocinnamic acid; R = H, R' = CH3: cro- 
+tonic acid) 
+The distribution of deuterium at full conversion (Ta- 
+ble 2) reveals some interesting differences between the 
+R'-- CH2-- CH(R)--COOH (l) 
+R'-- CHD--CH(R)--COOH (2) 
+R'-- CH2--CD(R)--COOH (3) 
+Scheme 2. 
+
+F. Jo6 et al./ Journal of Organometallic Chemistry 512 (1996) 45-50 49 
+three substrates studied. The sterically hindered ac- 
+etamidocinnamic acid derivative is hydrogenated slowly, 
+but it is fully deuterated and the label is exclusively on 
+the a-carbon atom (3). This implies that hydrogenation 
+proceeds on a pathway including a protonolysis (de- 
+uterolysis) step similar to that in Eq. (7), and that H/D 
+exchange on the rhodium is insignificant on this time 
+scale (hours). Itaconic acid is also exclusively deuter- 
+ated on the a-carbon (3), however, 45% of the product 
+remains undeuterated (1) implying the dihydridic mech- 
+anism is operative too. The dihydridic mechanism is 
+even more significant when utilizing crotonic acid as 
+the substrate, where 75% of the product formed results 
+from that pathway and there is only a slight directing 
+effect of the substituents, resulting in an almost even 
+distribution of the label on the a- and fl-carbon atoms. 
+Similar deuteration experiments have already been de- 
+scribed in the literature using Rh(I) complexes of vari- 
+ous sulfonated phosphines as catalysts [13]. Based on 
+detailed NMR investigations it was concluded that la- 
+beling of the products occurred via an [Rh]-H ~ [Rh]-D 
+exchange, although a protonation step, as suggested 
+here, could not be ruled out completely. It would be 
+premature to speculate on the exact causes of the selec- 
+tivity in the deuteration of the above substrates. How- 
+ever, it is important to stress that in aqueous systems 
+highly enantioselective hydrogenations [21] can be 
+achieved only if (i) the probability of monohydridic 
+mechanism is decreased, e.g. by a careful choice of pH, 
+and/or (ii) the transfer of hydrogen from the metal 
+center onto the olefin, and consequently the protonoly- 
+sis, proceeds regio- and stereospecifically. 
+Both dihydridic and monohydridic mechanisms give 
+rise to the reversible formation of an intermediate 
+rhodium-alkyl species (reactions (2) and (6)). If this 
+potential equilibrium is not shifted significantly to the 
+right, olefin isomerization may occur. Under standard 
+reaction conditions (see Table 1), the formation of 
+fumaric acid during the hydrogenation of maleic acid 
+was not observed. This is in agreement with our expec- 
+tations since in the RhCI(PTA) 3 catalyzed system fu- 
+maric acid is much more reactive than maleic acid. 
+However, when hydrogenations were carried out using 
+5 v/v% H 2 in Ar, and the reactions were stopped at 
+low conversions, 14-17% fumaric acid was detected by 
+HPLC. This does not necessarily imply that reduction of 
+maleic acid catalyzed by RhCI(PTA) 3 proceeds via 
+isomerization to fumaric acid followed by hydrogena- 
+tion; this pathway cannot be excluded but our kinetic 
+results do not allow for this distinction. 
+Formation of cis,fac-(H)zRhCI(TPPTS) 3 from 
+RhCI(TPPTS) 3 and H2, in the presence of excess 
+TPPMS, has been observed by 31p NMR, and the 
+complex was found to be a poor hydrogenation catalyst 
+[22]. The related complexes cis-mer-[LRh(H)(PTA)3] + 
+(L= C1- or H20) and cis-[Rh(H)(H)(PTA)4]C1 were shown to form in the reaction of RhCI(PTA) 3 and H 2 in 
+the presence of excess PTA [9]. This is in agreement 
+with our finding that excess PTA decreases the rate of 
+hydrogenation, but does not inhibit the reaction com- 
+pletely. 
+The temperature dependence of the overall rate in 
+such a complex catalytic system obviously cannot be 
+characterized by one activation energy. From measure- 
+ments in the 10-60°C temperature range, a temperature 
+quotient of 42 kJ mol-~ could be calculated for the 
+hydrogenation of crotonic acid catalyzed by RhC1 
+(PTA) 3. This value is fairly close to the activation 
+energies established for maleic acid (52 kJ mol -l) and 
+fumaric acid (54 kJ mol -I) hydrogenations in un- 
+buffered aqueous solutions, catalyzed by RhCI(TPPMS) 3 
+[161. 
+4. Conclusions 
+The studies described herein on the catalytic hydro- 
+genation of simple water-soluble olefinic substrates with 
+RhCI(PTA) 3 as catalyst illustrate the importance of 
+ionic equilibria in aqueous organometallic catalysis. 
+Specifically, the high solvation power of water facili- 
+tates reactions with ionic products, such as reductive 
+dehydrochlorination of Rh(III)-hydrides, changing the 
+active rhodium species in the catalytic system. This 
+changes the entire mechanism of the catalyzed reaction 
+leading to unusual rates and selectivities as exemplified 
+by the greater hydrogenation rate of fumaric acid rela- 
+tive to maleic acid. It is concluded that knowledge of 
+the effect of pH on the outcome of aqueous 
+organometallic reactions and its control is essential in 
+devising selective catalytic syntheses. 
+Acknowledgements 
+This work has been jointly supported by the National 
+Science Foundation (CHE91-19737 and INT-9313951) 
+and the Hungarian Academy of Sciences 
+(30.008/134/90). Financial support by the Hungarian 
+National Scientific Research Foundation (OTKA grants 
+T7527, F4021) and by the Ministry of Culture and 
+Education (MKM 209/92) is gratefully acknowledged. 
+Thanks are due to Albright and Wilson, Ltd. for a gift 
+of tetrakis(hydroxymethyl)-phosphonium chloride. Sup- 
+port to buy an HPLC facility was provided by the 
+TEMPUS scheme of EU (2237/90). We are grateful to 
+Dr. Zoltfin Dinya of L. Kossuth University for recording 
+mass spectra. The help given by Tara J. Decuir (Texas 
+A&M University) in writing the manuscript is grate- 
+fully acknowledged. L. N~idasdi is grateful for a stipend 
+from Universitas Foundation (Kereskedelmi Bank Rt) 
+Hungary. 
+
+50 F. Jo6 et al./ Journal of Organometallic Chemistry 512 (1996) 45-50 
+References 
+[1] (a) W.A. Herrmann and C.W. Kohlpaintner, Angew. Chem., Int. 
+Ed. Engl., 32 (1993) 1524; (b) P. Kalck and F. Monteil, Adv. 
+Organomet. Chem., 34 (1992) 219; (c) D.V. McGrath, R.H. 
+Grubbs and J.W. Ziller, J. Am. Chem. Soc., 113 (1991) 3611; 
+(d) D.J. Darensbourg, F. Jo6, A. Kath6, J.N.W. Stafford, A. 
+B6nyei and J.H. Reibenspies, lnorg. Chem., 33 (1994) 175; (e) 
+F. Jo6, N. Balogh, L.I. Horv~ith, Gy. Filep, I. Horv~.th and L. 
+Vigh, Anal. Biochem., 194 (1991) 34; (f) B. Maresca and A.R. 
+Cossins, Nature, 365 (1993) 606. 
+[2] P.A. Chaloner, M.A. Esteruelas, F. Jo6 and L.A. Oro, Homoge- 
+neous Hydrogenation (Catalysis by Metal Complexes), Kluwer 
+Academic, Dordrecht, Netherlands, 1994. 
+[3] (a) R.A. Sheldon, CHeMTECH, 24 (1994) 38; (b) C.-J. Li, Chem. 
+Rev., 93 (1993) 2023. 
+[4] (a) S. Ahrland, J. Chatt, N.R. Davies and A.A. Williams, J. 
+Chem. Soc., (1958) 276; (b) I. T6th, B.E. Hanson and M.E. 
+Davis, Organometallics, 9 (1990) 675; (c) V. Ravindar, H. 
+Hemling, H. Schumann and J. Blum, Synth. Commun., 22 
+(1992) 841; (d) J.W. Ellis, K.N. Harrison, P.A.T. Hoye, A.G. 
+Orpen, P.G. Pringle and M.B. Smith, lnorg. Chem., 31 (1992) 
+3026; (e) O. Herd, K.P. Langhans, O. Stelzer, N. Weferling and 
+W.S. Sheldrick, Angew. Chem., Int. Ed. Engl., 32 (1993) 1058; 
+(f) W. A. Herrmann, C.W. Kohlpainmer, H. Bahrmann and W. 
+Konkol, J. Mol. Catal., 73 (1992) 191. 
+[5] (a) C. Larpent and H. Patin, Tetrahedron, 44 (1988) 6107; (b) 
+C. Larpent and G. Meignan, Tetrahedron Lett., 27 (1993) 4331. 
+[6] A. B6nyei, J.N.W. Stafford, ,~. Kath6, D.J. Darensbourg and F. 
+Jo6, J. Mol. Catal., 84 (1993) 157. 
+[7] F. Jo6, P. Csiba and A. B6nyei, J. Chem. Soc., Chem. Commun., 
+(1993) 1602. 
+[8] (a) D.J. Darensbourg, F. Jo6, M. Kannisto, A. Kath6 and J.H. Reibenspies, Organometallics, 11 (1992) 1990; (b) D.J. Darens- 
+bourg, F. Jo6, M. Kannisto, A. Kath6, J.H. Reibenspies and D.J. 
+Daigle, lnorg. Chem., 33 (1994) 200. 
+[9] D.J. Darensbourg, N.W. Stafford, F. Jo6 and J.H. Reibenspies, 
+J. Organomet. Chem., 488 (1995) 99. 
+[10] K.J. Fisher, E.C. Alyea and N. Shahnazarian, Phosphorus, 
+Sulfur, Silicon Relat. Elem., 48 (1990) 37. 
+[11] D.J. Daigle, A.B. Pepperman, Jr. and S.L. Vail, J. Heterocyclic 
+Chem., 11 (1974) 407. 
+[12] A.H. Blatt (ed.), Organic Syntheses, Vol. 2, Wiley, New York, 
+1947, p. 1. 
+[13] J. Bakos, R. Karaivanov, M. Laghmari and D. Sinou, 
+Organometallics, 13 (1994) 2951. 
+[14] Z. T6th, F. Jo6 and M.T. Beck, lnorg. Chim. Acta, 42 (1980) 
+153. 
+[15] B.R. James, Homogeneous Hydrogenation, Wiley, New York, 
+1973, pp. 204-248. 
+[16] F. Jo6, L. Soms,4k and M.T. Beck, J. Mol. Catal., 24 (1984) 71. 
+[17] J.A. Osbome, F.H. Jardine, J.F. Young and G. Wilkinson, J. 
+Chem. Soc., (1966) 1711. 
+[18] R.C. Weast, M.J. Astle and W.H. Beyer (eds.), CRC Handbook 
+of Chemistry and Physics, 64th edn., CRC Press, Boca Raton, 
+FL, D-167. 
+[19] (a) F. Jo6 and E. Tr6csfinyi, J. Organometal. Chem., 231 (1982) 
+63; (b) V.V. Grushin, Acc. Chem. Res., 26 (1993) 279; (c) V.V. 
+Grushin and H. Alper, J. Org. Chem., 58 (1993) 4794. 
+[201 Ref. [15], pp. 1-2. 
+[21] (a) L. Lecomte, D. Sinou, J. Bakos, I. T6th and B. Heil, J. 
+Organometal. Chem., 370 (1989) 277; (b) I. T6th, B.E. Hanson 
+and M.E. Davis, Tetrahedron Asymmetry, 1 (1990) 913; (c) A. 
+Kumar, G. Oehme, J.P. Roque, M. Schwarze and R. Selke, 
+Angew. Chem., Int. Ed. Engl., 33 (1994) 2197. 
+[22] C. Larpent and H. Patin, J. Organometal. Chem., 335 (1987) 
+C13. 
+

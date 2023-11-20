@@ -1,0 +1,2570 @@
+Vacuum, PROPN 
+volume, NOUN 
+47lnumber, PROPN 
+l, NOUN 
+pages, NOUN 
+61, NUM 
+6511996, NUM 
+
+, SPACE 
+Pergamon, PROPN 
+
+, SPACE 
+0042, NUM 
+207x(95300029, NUM 
+3, NUM 
+Copyright, NOUN 
+0, NUM 
+1995, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+0042, NUM 
+207X/96, NUM 
+$, SYM 
+9.50+.00, PROPN 
+
+, SPACE 
+Kinetics, PROPN 
+solid, ADJ 
+phase, NOUN 
+interactions, NOUN 
+thin, ADJ 
+film, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+system, NOUN 
+excess, NOUN 
+Cu, PROPN 
+
+, SPACE 
+Tz, PROPN 
+D, PROPN 
+Uzunov, PROPN 
+S, PROPN 
+Lambov, PROPN 
+St, PROPN 
+P, PROPN 
+Stojanov, PROPN 
+Department, PROPN 
+Physics, PROPN 
+Chemistry, PROPN 
+Faculty, PROPN 
+Engineering, PROPN 
+
+, SPACE 
+Pedagogy, PROPN 
+Technical, PROPN 
+University, PROPN 
+Sliven, PROPN 
+8800, NUM 
+Bulgaria, PROPN 
+
+, SPACE 
+received, VERB 
+7, NUM 
+March, PROPN 
+1995, NUM 
+
+, SPACE 
+kinetics, NOUN 
+formation, NOUN 
+intermetallic, ADJ 
+y, PROPN 
+CuTi, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+phases, VERB 
+isothermal, ADJ 
+annealing, NOUN 
+thin-, ADJ 
+
+, SPACE 
+film, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+systems, NOUN 
+excess, NOUN 
+Cu, PROPN 
+investigated, VERB 
+thin, ADJ 
+film, NOUN 
+systems, NOUN 
+formed, VERB 
+
+, SPACE 
+preliminarily, ADV 
+thermally, ADV 
+oxidized, VERB 
+Si, PROPN 
+plates, NOUN 
+Afler, NOUN 
+annealing, VERB 
+quantitative, ADJ 
+phase, NOUN 
+analysis, NOUN 
+
+, SPACE 
+electrochemical, ADJ 
+anode, ADJ 
+dissolution, NOUN 
+carried, VERB 
+experimentally, ADV 
+proven, VERB 
+formation, NOUN 
+
+, SPACE 
+intermetallic, ADJ 
+phases, NOUN 
+limited, VERB 
+diffusion, NOUN 
+processes, NOUN 
+basis, NOUN 
+Arrhenius, PROPN 
+equation, NOUN 
+activation, NOUN 
+
+, SPACE 
+energy, NOUN 
+pre, ADJ 
+exponential, ADJ 
+coefficient, NOUN 
+determined, VERB 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+previous, ADJ 
+investigation, NOUN 
+shown, VERB 
+iso-, PRON 
+
+, SPACE 
+thermal, ADJ 
+annealing, NOUN 
+multi, ADJ 
+layer, ADJ 
+Cu, PROPN 
+Ti, PROPN 
+system, NOUN 
+excess, NOUN 
+
+, SPACE 
+Cu, PROPN 
+intermetallic, ADJ 
+y, PROPN 
+CuTi, PROPN 
+P, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+compounds, NOUN 
+
+, SPACE 
+formed, VERB 
+formation, NOUN 
+y, PROPN 
+CuTi, PROPN 
+phase, NOUN 
+observed, VERB 
+mini-, PROPN 
+
+, SPACE 
+mum, NOUN 
+annealing, VERB 
+temperature, NOUN 
+260, NUM 
+°, NUM 
+C, NOUN 
+/?-Cu, NOUN 
+Ti, PROPN 
+
+, SPACE 
+phase, NOUN 
+300, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+Reactive, PROPN 
+diffusion, NOUN 
+thermally, ADV 
+evaporated, VERB 
+thin, ADJ 
+film, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+system, NOUN 
+excess, NOUN 
+Cu, PROPN 
+investigated, VERB 
+Gershinskii, PROPN 
+
+, SPACE 
+et, PROPN 
+al, PROPN 
+defined, VERB 
+parameters, NOUN 
+formation, NOUN 
+inter-, ADJ 
+
+, SPACE 
+metallic, NOUN 
+compounds, VERB 
+CuTi, PROPN 
+Cu, PROPN 
+Ti2, NOUN 
+temperature, NOUN 
+range, NOUN 
+
+, SPACE 
+40s500, NUM 
+°, NOUN 
+C, NOUN 
+paper3, NOUN 
+kinetic, ADJ 
+parameters, NOUN 
+growth, NOUN 
+
+, SPACE 
+CuTi, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+phases, VERB 
+range, NOUN 
+35@45O”C, NUM 
+electron, NOUN 
+
+, SPACE 
+beam, NOUN 
+deposited, VERB 
+bi, NOUN 
+layers, NOUN 
+defined, VERB 
+
+, SPACE 
+paper, NOUN 
+report, VERB 
+kinetics, NOUN 
+formation, NOUN 
+inter-, ADJ 
+
+, SPACE 
+metallic, ADJ 
+y, PROPN 
+CuTi, PROPN 
+/l, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+compounds, VERB 
+types, NOUN 
+thin-, ADJ 
+
+, SPACE 
+film, NOUN 
+systems, NOUN 
+excess, NOUN 
+Cu, PROPN 
+defined, VERB 
+independent, ADJ 
+
+, SPACE 
+methods, NOUN 
+
+, SPACE 
+2, X 
+Experimental, ADJ 
+technique, NOUN 
+
+, SPACE 
+thin, ADJ 
+film, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+systems, NOUN 
+deposited, VERB 
+magnetron, PROPN 
+sput-, X 
+
+, SPACE 
+tering, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+Ar, PROPN 
+gas, NOUN 
+pressure, NOUN 
+5, NUM 
+x, SYM 
+lo-, NOUN 
+Pa., PUNCT 
+
+, SPACE 
+substrates, NOUN 
+ambient, ADJ 
+temperature, NOUN 
+deposition, NOUN 
+
+, SPACE 
+layer, NOUN 
+thickness, NOUN 
+measured, VERB 
+hi, NOUN 
+fi, NOUN 
+crystal, NOUN 
+microbalance, NOUN 
+
+, SPACE 
+silica, PROPN 
+plate, NOUN 
+
+, SPACE 
+types, NOUN 
+sample, NOUN 
+object, NOUN 
+investigation, NOUN 
+
+, SPACE 
+multi, ADJ 
+layer, ADJ 
+film, NOUN 
+systems, NOUN 
+formed, VERB 
+preliminarily, ADV 
+
+, SPACE 
+thermally, ADV 
+oxidized, VERB 
+111, NUM 
+Si, PROPN 
+plates, NOUN 
+thickness, NOUN 
+oxidized, VERB 
+
+, SPACE 
+layer, NOUN 
+0.4, NUM 
+pm, NOUN 
+systems, NOUN 
+consisted, VERB 
+21, NUM 
+sub, NOUN 
+systems, NOUN 
+
+, SPACE 
+total, ADJ 
+thickness, NOUN 
+150, NUM 
+nm, NOUN 
+Cu-100, PROPN 
+nm, PROPN 
+Ti-50, PROPN 
+nm, ADJ 
+21, NUM 
+
+, SPACE 
+interphase, NOUN 
+boundaries, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+respectively, ADV 
+giving, VERB 
+
+, SPACE 
+atomic, ADJ 
+ratio, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+=, NOUN 
+3, NUM 
+1, X 
+specimens, NOUN 
+bi, NOUN 
+layer, NOUN 
+Ti, PROPN 
+total, ADJ 
+thickness, NOUN 
+200, NUM 
+nm, NOUN 
+Cu, PROPN 
+400, NUM 
+nm, PROPN 
+thickness, NOUN 
+
+, SPACE 
+deposited, VERB 
+silica, PROPN 
+substrate, NOUN 
+
+, SPACE 
+specimens, NOUN 
+isothermally, ADV 
+annealed, VERB 
+silica, PROPN 
+ampoules, PROPN 
+
+, SPACE 
+residual, ADJ 
+gas, NOUN 
+pressure, NOUN 
+lo-, ADV 
+Pa, NOUN 
+temperature, NOUN 
+300, NUM 
+
+, SPACE 
+320, NUM 
+340, NUM 
+370, NUM 
+400,420,440, NUM 
+470, NUM 
+°, NUM 
+C, NOUN 
+time, NOUN 
+interval, NOUN 
+
+, SPACE 
+15, NUM 
+540, NUM 
+min, NOUN 
+
+, SPACE 
+phase, NOUN 
+formed, VERB 
+identified, VERB 
+X, NOUN 
+ray, NOUN 
+diffractometer, NOUN 
+
+, SPACE 
+DRON, NOUN 
+UM-1, NOUN 
+interplane, NOUN 
+distances, NOUN 
+according, VERB 
+ASTM4, PROPN 
+
+, SPACE 
+annealing, VERB 
+quantitative, ADJ 
+phase, NOUN 
+analysis, NOUN 
+Co, PROPN 
+
+, SPACE 
+K, PROPN 
+emission, NOUN 
+according, VERB 
+calibration, NOUN 
+technique, NOUN 
+carried, VERB 
+
+, SPACE 
+diffraction, NOUN 
+lines, NOUN 
+diffraction, NOUN 
+angles, VERB 
+20, NUM 
+40, NUM 
+
+, SPACE 
+168, NUM 
+degrees, NOUN 
+texture, NOUN 
+accounted, VERB 
+inverse, ADJ 
+pole, NOUN 
+
+, SPACE 
+figures, NOUN 
+method, NOUN 
+total, ADJ 
+density, NOUN 
+n, NOUN 
+diffraction, NOUN 
+reflexes, VERB 
+
+, SPACE 
+pointed, ADJ 
+20, NUM 
+range, NOUN 
+calculations, NOUN 
+pole, NOUN 
+density, NOUN 
+
+, SPACE 
+statitic, ADJ 
+weight, NOUN 
+Phkl, PROPN 
+plane, NOUN 
+system, NOUN 
+hkl, PROPN 
+intro-, X 
+
+, SPACE 
+duced, VERB 
+expression, NOUN 
+
+, SPACE 
+S, PROPN 
+measured, VERB 
+intensity, NOUN 
+diffraction, NOUN 
+maxima, PROPN 
+
+, SPACE 
+hkl, PROPN 
+4,~, NUM 
+integral, ADJ 
+intensity, NOUN 
+reflection, NOUN 
+planes, NOUN 
+
+, SPACE 
+hkl, PROPN 
+calculated, VERB 
+basis, NOUN 
+known, VERB 
+phase, NOUN 
+structures, NOUN 
+
+, SPACE 
+according, VERB 
+Refs, PROPN 
+7, NUM 
+8, NUM 
+
+, SPACE 
+phase, NOUN 
+system, NOUN 
+volume, NOUN 
+phase, NOUN 
+percents, NOUN 
+C, NOUN 
+
+, SPACE 
+C, PROPN 
+determined, VERB 
+equations, NOUN 
+
+, SPACE 
+Cl, PROPN 
++, NOUN 
+c, NOUN 
+=, SYM 
+100, NUM 
+2, NUM 
+
+, SPACE 
+61, NUM 
+
+, SPACE 
+Tz, PROPN 
+D, PROPN 
+Uzunov, PROPN 
+et, NOUN 
+al, PROPN 
+Thin, ADJ 
+film, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+system, NOUN 
+excess, NOUN 
+Cu, PROPN 
+
+, SPACE 
+Taking, VERB 
+account, NOUN 
+intermetallic, ADJ 
+compounds, NOUN 
+
+, SPACE 
+Cu, PROPN 
+Ti, PROPN 
+system, NOUN 
+film, NOUN 
+bulk, ADJ 
+specimens, NOUN 
+laminar, NOUN 
+
+, SPACE 
+growth, NOUN 
+volume, NOUN 
+content, NOUN 
+C, PROPN 
+phase, NOUN 
+computed, VERB 
+
+, SPACE 
+layer, NOUN 
+thickness, NOUN 
+Xof, PROPN 
+intermetallic, ADJ 
+phase, NOUN 
+EC, PROPN 
+=, NUM 
+100, NUM 
+
+, SPACE 
+x, SYM 
+:X, PUNCT 
+=, SYM 
+150, NUM 
+nm, NOUN 
+observed, VERB 
+
+, SPACE 
+bi, ADJ 
+layer, NOUN 
+systems, NOUN 
+phase, NOUN 
+quantity, NOUN 
+determined, VERB 
+
+, SPACE 
+intermetallic, ADJ 
+layer, NOUN 
+thickness, NOUN 
+measured, VERB 
+electrochemical, ADJ 
+
+, SPACE 
+anode, ADJ 
+dissolving, NOUN 
+method, NOUN 
+annealed, ADJ 
+specimens, NOUN 
+closed, VERB 
+
+, SPACE 
+cap, NOUN 
+special, ADJ 
+construction, NOUN 
+ensuring, VERB 
+constancy, NOUN 
+
+, SPACE 
+dissolved, VERB 
+area, NOUN 
+specimens, NOUN 
+inserted, VERB 
+anode, NOUN 
+
+, SPACE 
+electrolytic, ADJ 
+cell, NOUN 
+potential, ADJ 
+difference, NOUN 
+anode, ADJ 
+
+, SPACE 
+cathode, NOUN 
+kept, VERB 
+constant, ADJ 
+dissolving, VERB 
+reached, VERB 
+
+, SPACE 
+interphase, NOUN 
+boundary, NOUN 
+sharp, ADJ 
+change, NOUN 
+e.m.f, NOUN 
+value, NOUN 
+
+, SPACE 
+electrolytic, ADJ 
+cell, NOUN 
+observed, VERB 
+probably, ADV 
+different, ADJ 
+
+, SPACE 
+electrochemical, ADJ 
+anode, ADJ 
+potential, NOUN 
+phases, NOUN 
+process, NOUN 
+par-, PROPN 
+
+, SPACE 
+ameters, NOUN 
+anode, ADJ 
+area, NOUN 
+electrolyte, ADJ 
+composition, NOUN 
+potential, ADJ 
+
+, SPACE 
+difference, NOUN 
+chosen, VERB 
+anode, ADJ 
+potential, ADJ 
+change, NOUN 
+i.e., X 
+
+, SPACE 
+e.m.f, NOUN 
+change, NOUN 
+lead, VERB 
+proportional, ADJ 
+changing, NOUN 
+anode, ADJ 
+
+, SPACE 
+dissolving, VERB 
+current, NOUN 
+time, NOUN 
+dependence, NOUN 
+anode, ADJ 
+dissolving, VERB 
+
+, SPACE 
+current, NOUN 
+experimentally, ADV 
+measured, VERB 
+
+, SPACE 
+phase, NOUN 
+thickness, NOUN 
+X, PROPN 
+determined, VERB 
+according, VERB 
+Far-, PROPN 
+
+, SPACE 
+aday, PROPN 
+law, NOUN 
+
+, SPACE 
+A-=fX*Q, PROPN 
+3, NUM 
+
+, SPACE 
+Q, NOUN 
+electricity, NOUN 
+quantity, NOUN 
+phase, NOUN 
+dissolution, NOUN 
+
+, SPACE 
+determined, VERB 
+area, NOUN 
+correspondent, NOUN 
+stage, NOUN 
+
+, SPACE 
+neighbouring, NOUN 
+jumps, NOUN 
+e.m.f, NOUN 
+experimental, ADJ 
+depen-, NOUN 
+
+, SPACE 
+dence, NOUN 
+dissolving, VERB 
+current, NOUN 
+function, NOUN 
+time, NOUN 
+
+, SPACE 
+proportionality, NOUN 
+coefficient, NOUN 
+experimentally, ADV 
+determined, VERB 
+elec-, PRON 
+
+, SPACE 
+tricity, NOUN 
+quantity, NOUN 
+dissolution, NOUN 
+layer, NOUN 
+known, VERB 
+
+, SPACE 
+thickness, NOUN 
+
+, SPACE 
+anodic, ADJ 
+dissolution, NOUN 
+conditions, NOUN 
+follows, VERB 
+electrolyte, ADJ 
+
+, SPACE 
+composition, NOUN 
+0.4, NUM 
+ml, NOUN 
+H2S04, PROPN 
+1.84, NUM 
++, CCONJ 
+10, NUM 
+g, NOUN 
+OH, NOUN 
+C, PROPN 
+H4, PROPN 
+COOH, PROPN 
++, CCONJ 
+
+, SPACE 
+100, NUM 
+ml, PROPN 
+CH, PROPN 
+OH, PROPN 
+dissolving, VERB 
+area, NOUN 
+=, VERB 
+4.9, NUM 
+x, SYM 
+IO-, PROPN 
+cm, PROPN 
+potential, ADJ 
+
+, SPACE 
+difference, NOUN 
+=, VERB 
+0.9, NUM 
+V, NOUN 
+cathode, NOUN 
+=, X 
+copper, NOUN 
+
+, SPACE 
+following, VERB 
+proportionality, NOUN 
+coefficients, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+7.8, NUM 
+nm, NOUN 
+mC, PRON 
+aTI, NOUN 
+=, VERB 
+4.3, NUM 
+nm, NOUN 
+mC, PROPN 
+experimentally, ADV 
+C, PROPN 
+
+, SPACE 
+determined, VERB 
+
+, SPACE 
+Considering, VERB 
+stoichiometric, ADJ 
+y, PROPN 
+CuTi, PROPN 
+structure, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+ratio, NOUN 
+1, NUM 
+1, NUM 
+titanium, NOUN 
+atoms, NOUN 
+belonging, VERB 
+interatomic, ADJ 
+
+, SPACE 
+spaces, NOUN 
+occupy, VERB 
+60, NUM 
+unit, NOUN 
+lattice, NOUN 
+volume, NOUN 
+grounds, NOUN 
+
+, SPACE 
+assume, VERB 
+effective, ADJ 
+thicknesses, NOUN 
+Ti, PROPN 
+Cu, PROPN 
+y, PROPN 
+CuTi, PROPN 
+
+, SPACE 
+phase, NOUN 
+dc, PROPN 
+=, SYM 
+0.4, NUM 
+dT, NOUN 
+=, SYM 
+0.6, NUM 
+respectively, ADV 
+stoichiometric, NOUN 
+
+, SPACE 
+/I, NOUN 
+Cu3Ti, NOUN 
+structure, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+ratio, NOUN 
+3.12, NUM 
+0.88, NUM 
+effective, ADJ 
+
+, SPACE 
+thicknesses, NOUN 
+d, NUM 
+=, PROPN 
+0.7, NUM 
+dT, NOUN 
+=, PROPN 
+0.3, NUM 
+respectively, ADV 
+
+, SPACE 
+proportionality, NOUN 
+coefficient, VERB 
+4, NUM 
+intermetallic, ADJ 
+phase, NOUN 
+
+, SPACE 
+determined, VERB 
+basis, NOUN 
+effective, ADJ 
+thicknesses, NOUN 
+Cu, PROPN 
+
+, SPACE 
+Ti, PROPN 
+phase, NOUN 
+Taking, VERB 
+account, NOUN 
+X, PROPN 
+=, PROPN 
+d,,, PROPN 
+,+, PUNCT 
+
+, SPACE 
+=, SYM 
+1, NUM 
+Ql, PROPN 
+=, NOUN 
+dcU_,)/(a, VERB 
++, CCONJ 
+dT,, PROPN 
+,)/(aT, PUNCT 
+expression, NOUN 
+
+, SPACE 
+proportionality, NOUN 
+coefficient, NOUN 
+
+, SPACE 
+1, NUM 
+u, PROPN 
+4, NUM 
+
+, SPACE 
+-==++, PROPN 
+
+, SPACE 
+4, NUM 
+k, NOUN 
+MTi, NOUN 
+4, NUM 
+
+, SPACE 
+proportionality, NOUN 
+coefficients, NOUN 
+intermetallic, ADJ 
+
+, SPACE 
+phases, NOUN 
+determined, VERB 
+according, VERB 
+4, NUM 
+c(y_cuT, PROPN 
+=, PROPN 
+5.2, NUM 
+nm, NOUN 
+mC, PROPN 
+
+, SPACE 
+aa_Cu, PROPN 
+T, PROPN 
+=, PROPN 
+6.3, NUM 
+nm, NOUN 
+mC., PROPN 
+
+, SPACE 
+3, NUM 
+Experimental, ADJ 
+results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+Figure, PROPN 
+1, NUM 
+shows, VERB 
+schematic, ADJ 
+diffraction, NOUN 
+lines, NOUN 
+phase, NOUN 
+
+, SPACE 
+quantitative, ADJ 
+analysis, NOUN 
+annealing, VERB 
+layers, NOUN 
+67, NUM 
+vol.%, NOUN 
+
+, SPACE 
+62, NUM 
+6, NUM 
+INTENSITY, NOUN 
+a., NOUN 
+u., PROPN 
+
+, SPACE 
+0, X 
+c, NOUN 
+
+, SPACE 
+Figure, PROPN 
+1, NUM 
+Schematic, PROPN 
+X, PROPN 
+ray, NOUN 
+diagrams, NOUN 
+multi, ADJ 
+layer, ADJ 
+system, NOUN 
+deposited, VERB 
+
+, SPACE 
+annealing, VERB 
+340, NUM 
+°, NOUN 
+C, NOUN 
+130, NUM 
+min, PROPN 
+b, NOUN 
+540, NUM 
+min, NOUN 
+c, NOUN 
+
+, SPACE 
+Cu, PROPN 
+33, NUM 
+vol.%, PROPN 
+Ti, PROPN 
+b, X 
+annealing, VERB 
+340, NUM 
+°, NOUN 
+C, NOUN 
+130, NUM 
+min, NOUN 
+49, NUM 
+
+, SPACE 
+vol.%, PROPN 
+Cu, PROPN 
+15, NUM 
+vol.%, PROPN 
+Ti, PROPN 
+26, NUM 
+vol.%, PROPN 
+y, PROPN 
+CuTi, PROPN 
+10, NUM 
+vol.%, NOUN 
+/I, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+c, NOUN 
+annealing, VERB 
+370, NUM 
+°, NOUN 
+C, NOUN 
+540, NUM 
+min, NOUN 
+36, NUM 
+vol.%, PROPN 
+Cu,43, PROPN 
+vol.%, PROPN 
+
+, SPACE 
+y, PROPN 
+CuTi, PROPN 
+21, NUM 
+vol.%, NOUN 
+/?-Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+confirmation, NOUN 
+results, NOUN 
+obtained, VERB 
+
+, SPACE 
+effective, ADJ 
+thicknesses, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+respective, ADJ 
+intermetallic, ADJ 
+
+, SPACE 
+phases, NOUN 
+according, VERB 
+equations, NOUN 
+
+, SPACE 
+67, NUM 
+Cc, NOUN 
+=, VERB 
+0.4C]yCuTi, NUM 
++, ADJ 
+O.~CB_C~~TI, NOUN 
+
+, SPACE 
+33, NUM 
+-CT, NOUN 
+=, PROPN 
+0.6Cy.c, PROPN 
+T, PROPN 
++0.3Cfl_&,T, PROPN 
+5, NUM 
+
+, SPACE 
+C, PROPN 
+vol.%, PROPN 
+respective, ADJ 
+phase, NOUN 
+content, NOUN 
+anneal-, X 
+
+, SPACE 
+ing, PROPN 
+limit, NOUN 
+experimental, ADJ 
+accuracy, NOUN 
+phase, NOUN 
+analysis, NOUN 
+
+, SPACE 
+results, NOUN 
+satisfy, PROPN 
+eqns, PROPN 
+5, NUM 
+
+, SPACE 
+Figure, NOUN 
+2, NUM 
+shows, VERB 
+annealing, ADJ 
+time, NOUN 
+dependence, NOUN 
+layer, NOUN 
+
+, SPACE 
+thickness, NOUN 
+y, PROPN 
+CuTi, PROPN 
+/I, PUNCT 
+Cu, PROPN 
+Ti, PROPN 
+multi, ADJ 
+layer, ADJ 
+system, NOUN 
+
+, SPACE 
+linear, ADJ 
+character, NOUN 
+dependences, NOUN 
+indicates, VERB 
+formation, NOUN 
+
+, SPACE 
+intermetallic, ADJ 
+compounds, NOUN 
+limited, VERB 
+reagents, NOUN 
+Cu, PROPN 
+
+, SPACE 
+Ti, PROPN 
+diffusion, NOUN 
+growing, VERB 
+phases, NOUN 
+Consequently, ADV 
+
+, SPACE 
+formation, NOUN 
+kinetics, NOUN 
+certain, ADJ 
+phase, NOUN 
+described, VERB 
+effective, ADJ 
+
+, SPACE 
+interdiffusion, NOUN 
+coefficient, NOUN 
+D, NOUN 
+phase, NOUN 
+slope, NOUN 
+G, PROPN 
+
+, SPACE 
+curves, NOUN 
+Figure, NOUN 
+2, NUM 
+according, VERB 
+equation, NOUN 
+G2, PROPN 
+=, SYM 
+40, NUM 
+cm’/s, PROPN 
+
+, SPACE 
+coefficients, NOUN 
+determined, VERB 
+results, NOUN 
+given, VERB 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+data, NOUN 
+Table, PROPN 
+1, NUM 
+curves, NOUN 
+1, NUM 
+2, NUM 
+Figure, NOUN 
+3, NUM 
+
+, SPACE 
+constructed, VERB 
+characteristics, NOUN 
+correspond, VERB 
+Arrhenius, PROPN 
+
+, SPACE 
+equation, NOUN 
+
+, SPACE 
+fact, NOUN 
+allows, VERB 
+activation, NOUN 
+energy, NOUN 
+E, NOUN 
+pre, ADJ 
+exponential, ADJ 
+
+, SPACE 
+coefficient, NOUN 
+processes, NOUN 
+taking, VERB 
+place, NOUN 
+multi, ADJ 
+layer, ADJ 
+
+, SPACE 
+system, NOUN 
+annealing, NOUN 
+determined, VERB 
+curves, NOUN 
+1, NUM 
+
+, SPACE 
+2, NUM 
+Figure, PROPN 
+3, NUM 
+growth, NOUN 
+parameters, NOUN 
+obtained, VERB 
+phases, NOUN 
+
+, SPACE 
+Tz, PROPN 
+D, PROPN 
+Uzunov, PROPN 
+et, NOUN 
+al, PROPN 
+Thin, ADJ 
+film, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+system, NOUN 
+excess, NOUN 
+Cu, PROPN 
+
+, SPACE 
+80, NUM 
+37or, NOUN 
+Q, PROPN 
+
+, SPACE 
+MC, PROPN 
+
+, SPACE 
+0, NUM 
+40, NUM 
+80, NUM 
+UO, PROPN 
+
+, SPACE 
+80-, NUM 
+
+, SPACE 
+60-, NUM 
+
+, SPACE 
+40-, X 
+
+, SPACE 
+20-, NUM 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+Figure, NOUN 
+2, NUM 
+Layer, NOUN 
+thickness, NOUN 
+intermetallic, ADJ 
+phase, NOUN 
+y, PROPN 
+CuTi, PROPN 
+B-, PROPN 
+
+, SPACE 
+Cu, PROPN 
+Ti, PROPN 
+b, NOUN 
+function, NOUN 
+annealing, VERB 
+time, NOUN 
+multi, NOUN 
+layer, ADJ 
+Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+system, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+system, NOUN 
+consists, VERB 
+21, NUM 
+sub, NOUN 
+systems, NOUN 
+Cu, PROPN 
+100, NUM 
+nm, NOUN 
+Ti, PROPN 
+50, NUM 
+nm, NOUN 
+
+, SPACE 
+Table, NOUN 
+1, NUM 
+Influence, NOUN 
+temperature, NOUN 
+constants, NOUN 
+y, PROPN 
+CuTi, PROPN 
+
+, SPACE 
+Cu, PROPN 
+Ti, PROPN 
+phases, VERB 
+growth, NOUN 
+multi, ADJ 
+layer, ADJ 
+system, NOUN 
+
+, SPACE 
+Temperature, PROPN 
+Effective, ADJ 
+interdiffusion, NOUN 
+coefficient, NOUN 
+D, PROPN 
+cm’/s, PROPN 
+
+, SPACE 
+C, PROPN 
+y, PROPN 
+CuTi, PROPN 
+fi, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+300, NUM 
+7.3, NUM 
+10, NUM 
+l, NOUN 
+
+, SPACE 
+320, NUM 
+2.4, NUM 
+lo, PROPN 
+l6, ADJ 
+2.3.10-, PROPN 
+
+, SPACE 
+340, NUM 
+4.7, NUM 
+lo, PROPN 
+l6, PROPN 
+6.0, NUM 
+10, NUM 
+l, NOUN 
+
+, SPACE 
+370, NUM 
+2.2, NUM 
+lo, ADJ 
+l5, PROPN 
+3.1, NUM 
+lo, PROPN 
+l6, ADJ 
+
+, SPACE 
+400, NUM 
+1.6, NUM 
+lo-, PROPN 
+
+, SPACE 
+y, PROPN 
+CuTi, PROPN 
+-E, PROPN 
+=, SYM 
+1.4, NUM 
+eV, NUM 
+=, SYM 
+2, NUM 
+x, SYM 
+10m4, NUM 
+cm*/s, PROPN 
+fi-, X 
+
+, SPACE 
+Cu, PROPN 
+Ti, PROPN 
+-E, NOUN 
+=, SYM 
+1.9, NUM 
+eV, NUM 
+=, SYM 
+0.3, NUM 
+cm*/s, NOUN 
+
+, SPACE 
+second, ADJ 
+type, NOUN 
+specimen, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+bi, NOUN 
+layer, NOUN 
+
+, SPACE 
+quantity, NOUN 
+intermetallic, ADJ 
+phase, NOUN 
+formed, VERB 
+annealing, NOUN 
+
+, SPACE 
+measured, VERB 
+anode, ADJ 
+dissolving, NOUN 
+method, NOUN 
+
+, SPACE 
+Figure, NOUN 
+4, NUM 
+shows, VERB 
+experimental, ADJ 
+dissolution, NOUN 
+time, NOUN 
+dependence, NOUN 
+
+, SPACE 
+current, ADJ 
+density, NOUN 
+annealing, VERB 
+conditions, NOUN 
+Curve, VERB 
+1, NUM 
+illus-, NOUN 
+
+, SPACE 
+trates, VERB 
+dissolution, NOUN 
+starting, VERB 
+Cu, PROPN 
+Ti, PROPN 
+system, NOUN 
+anneal-, X 
+
+, SPACE 
+ing, PROPN 
+stage, NOUN 
+corresponds, VERB 
+complete, ADJ 
+dissolution, NOUN 
+
+, SPACE 
+Cu, PROPN 
+layer, NOUN 
+second, ADJ 
+Ti, PROPN 
+isothermal, NOUN 
+
+, SPACE 
+annealing, NOUN 
+system, NOUN 
+curves, NOUN 
+2,3, NUM 
+4, NUM 
+new, ADJ 
+stages, NOUN 
+appear, VERB 
+
+, SPACE 
+length, NOUN 
+increases, VERB 
+annealing, VERB 
+time, NOUN 
+new, ADJ 
+stages, NOUN 
+
+, SPACE 
+correspond, NOUN 
+dissolution, NOUN 
+P, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+y, PROPN 
+CuTi, PROPN 
+phases, NOUN 
+
+, SPACE 
+curve, NOUN 
+4, NUM 
+new, ADJ 
+stage, NOUN 
+appear, VERB 
+showing, VERB 
+free, ADJ 
+Ti, PROPN 
+f.3, PROPN 
+
+, SPACE 
+Figure, PROPN 
+3, NUM 
+Temperature, NOUN 
+dependence, NOUN 
+growth, NOUN 
+constants, NOUN 
+y, PROPN 
+CuTi, PROPN 
+
+, SPACE 
+Cu, PROPN 
+Ti, PROPN 
+phases, VERB 
+systems, NOUN 
+multi, ADJ 
+layer, ADJ 
+y, PROPN 
+CuTi, PROPN 
+curve, NOUN 
+1, NUM 
+/Ku, PROPN 
+Ti, PROPN 
+
+, SPACE 
+curve, NOUN 
+2, NUM 
+bi, NOUN 
+layer, NOUN 
+y, PROPN 
+CuTi, PROPN 
+curve, NOUN 
+3, NUM 
+/i, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+curve, NOUN 
+4, NUM 
+
+, SPACE 
+0, NUM 
+
+, SPACE 
+0, PROPN 
+ar, NOUN 
+
+, SPACE 
+TIME, PROPN 
+SW, PROPN 
+
+, SPACE 
+Figure, PROPN 
+4, NUM 
+Time, NOUN 
+dependence, NOUN 
+current, ADJ 
+density, NOUN 
+anode, ADJ 
+dissolution, NOUN 
+
+, SPACE 
+b&layer, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+system, NOUN 
+annealing, VERB 
+curve, NOUN 
+1, NUM 
+annealing, VERB 
+
+, SPACE 
+440, NUM 
+°, NOUN 
+C, NOUN 
+15, NUM 
+min, NOUN 
+curve, NOUN 
+2, NUM 
+60, NUM 
+min, NOUN 
+curve, NOUN 
+3, NUM 
+270, NUM 
+min, NOUN 
+curve, NOUN 
+4, NUM 
+Stage, NOUN 
+
+, SPACE 
+corresponds, NOUN 
+Cu, PROPN 
+layer, NOUN 
+dissolution, NOUN 
+b’-, NOUN 
+b, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+c’-, NOUN 
+y, PROPN 
+CuTi, PROPN 
+
+, SPACE 
+d’-, NOUN 
+Ti, PROPN 
+layer, NOUN 
+
+, SPACE 
+probably, ADV 
+completely, ADV 
+reacted, VERB 
+phase, NOUN 
+thicknesses, VERB 
+deter-, NOUN 
+
+, SPACE 
+mined, VERB 
+data, NOUN 
+Figure, NOUN 
+4, NUM 
+checked, VERB 
+analogous, ADJ 
+
+, SPACE 
+equation, NOUN 
+system, NOUN 
+5, NUM 
+
+, SPACE 
+400, NUM 
+X, NOUN 
+=, PROPN 
+0.4X,.cUTi+O.7XB_Cu, NUM 
+Ti, PROPN 
+
+, SPACE 
+200, NUM 
+~, SYM 
+XTi, X 
+=, VERB 
+0.6Xy.cuTi, PROPN 
++0.3Xp_Cu, PROPN 
+Ti, PROPN 
+7, NUM 
+
+, SPACE 
+X, PROPN 
+thickness, NOUN 
+respective, ADJ 
+phase, NOUN 
+certain, ADJ 
+
+, SPACE 
+annealing, NOUN 
+
+, SPACE 
+63, NUM 
+
+, SPACE 
+Tz, PROPN 
+D, PROPN 
+Uzunov, PROPN 
+et, NOUN 
+al, PROPN 
+Thin, ADJ 
+film, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+system, NOUN 
+excess, NOUN 
+Cu, PROPN 
+
+, SPACE 
+total, ADJ 
+electricity, NOUN 
+necessary, ADJ 
+dissolution, NOUN 
+
+, SPACE 
+system, NOUN 
+annealing, VERB 
+found, VERB 
+
+, SPACE 
+approximately, ADV 
+equal, ADJ 
+fact, NOUN 
+confirms, VERB 
+conception, NOUN 
+cor-, VERB 
+
+, SPACE 
+rectness, NOUN 
+effective, ADJ 
+thicknesses, NOUN 
+basis, NOUN 
+pro-, NOUN 
+
+, SPACE 
+portionality, NOUN 
+coefficients, NOUN 
+c+cuT1, ADJ 
+aB.Cu, PROPN 
+T, PROPN 
+determined, VERB 
+
+, SPACE 
+thickness, ADJ 
+growth, NOUN 
+y, PROPN 
+CuTi, PROPN 
+p, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+phases, VERB 
+bi-, PROPN 
+
+, SPACE 
+layer, NOUN 
+system, NOUN 
+function, NOUN 
+time, NOUN 
+interdiffusion, NOUN 
+
+, SPACE 
+phases, NOUN 
+shown, VERB 
+Figure, PROPN 
+5, NUM 
+Table, NOUN 
+2, NUM 
+consists, VERB 
+interdiffusion, NOUN 
+
+, SPACE 
+coefficients, NOUN 
+determined, VERB 
+curves, NOUN 
+slope, NOUN 
+Figure, PROPN 
+5, NUM 
+
+, SPACE 
+results, NOUN 
+Table, NOUN 
+2, NUM 
+construct, VERB 
+curves, NOUN 
+3, NUM 
+4, NUM 
+
+, SPACE 
+Figure, PROPN 
+3, NUM 
+According, VERB 
+Arrhenius, PROPN 
+equation, NOUN 
+6, NUM 
+graphic, ADJ 
+
+, SPACE 
+dependences, NOUN 
+constructed, VERB 
+parameters, NOUN 
+E, NOUN 
+0, NUM 
+charac-, X 
+
+, SPACE 
+terizing, VERB 
+intermetallic, ADJ 
+phase, NOUN 
+formation, NOUN 
+determined, VERB 
+
+, SPACE 
+y, PROPN 
+CuTi, PROPN 
+E, PROPN 
+=, PROPN 
+1.57, NUM 
+eV, NUM 
+=, SYM 
+3.4, NUM 
+x, SYM 
+IO-, NOUN 
+cm’/s, NOUN 
+
+, SPACE 
+/I, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+E, PROPN 
+=, PROPN 
+1.75, NUM 
+eV, NUM 
+=, SYM 
+1.8, NUM 
+x, SYM 
+10m7, NUM 
+cm’js, NUM 
+exper-, NOUN 
+
+, SPACE 
+imental, ADJ 
+points, NOUN 
+corresponding, VERB 
+high, ADJ 
+temperatures, NOUN 
+long, ADV 
+
+, SPACE 
+
+, SPACE 
+r, NOUN 
+
+, SPACE 
+Figure, NOUN 
+5, NUM 
+Layer, NOUN 
+thickness, NOUN 
+intermetallic, ADJ 
+y, PROPN 
+CuTi, PROPN 
+/?-Cu, PROPN 
+Ti, PROPN 
+b, PROPN 
+
+, SPACE 
+phases, NOUN 
+function, NOUN 
+annealing, VERB 
+time, NOUN 
+system, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+bi-, ADJ 
+
+, SPACE 
+layer, NOUN 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+Influence, NOUN 
+temperature, NOUN 
+constants, NOUN 
+y, PROPN 
+CuTi, PROPN 
+b-, X 
+
+, SPACE 
+Cu, PROPN 
+Ti, PROPN 
+phases, VERB 
+growth, NOUN 
+bi, NOUN 
+layer, NOUN 
+system, NOUN 
+
+, SPACE 
+Temperature, PROPN 
+Effective, ADJ 
+interdiffusion, NOUN 
+coefficient, NOUN 
+D, PROPN 
+cm, PROPN 
+s, PROPN 
+
+, SPACE 
+C, PROPN 
+y, PROPN 
+CuTi, PROPN 
+fi, NOUN 
+CuTi, PROPN 
+
+, SPACE 
+370, NUM 
+1.63, NUM 
+lo, PROPN 
+l5, PROPN 
+
+, SPACE 
+400, NUM 
+6.61, NUM 
+lo, NOUN 
+l5, PROPN 
+1.09, NUM 
+lo, PROPN 
+l5, PROPN 
+
+, SPACE 
+420, NUM 
+1.27, NUM 
+IO, PROPN 
+l4, PROPN 
+2.97.10, PROPN 
+r, NOUN 
+
+, SPACE 
+440, NUM 
+2.82, NUM 
+lo, PROPN 
+l4, PROPN 
+7.68, NUM 
+lo-, PROPN 
+
+, SPACE 
+470, NUM 
+1.99, NUM 
+lo, PROPN 
+l4, PROPN 
+annealing, VERB 
+time, NOUN 
+differ, VERB 
+linear, ADJ 
+dependence, NOUN 
+Figure, NOUN 
+
+, SPACE 
+5(a, NUM 
+determine, VERB 
+parameters, NOUN 
+con-, NOUN 
+
+, SPACE 
+firmation, NOUN 
+calculations, NOUN 
+phase, NOUN 
+analysis, NOUN 
+shows, VERB 
+
+, SPACE 
+system, NOUN 
+cases, NOUN 
+free, ADJ 
+Ti, PROPN 
+absent, ADJ 
+leads, VERB 
+
+, SPACE 
+decrease, NOUN 
+stopping, VERB 
+y, PROPN 
+CuTi, PROPN 
+phase, NOUN 
+growth, NOUN 
+sub-, NOUN 
+
+, SPACE 
+sequent, ADJ 
+spending, NOUN 
+according, VERB 
+reaction, NOUN 
+Cu, PROPN 
++, PROPN 
+y, PROPN 
+CuTi, PROPN 
+--f, PROPN 
+/I-, PROPN 
+
+, SPACE 
+Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+Investigating, VERB 
+reactive, ADJ 
+diffusion, NOUN 
+solid, ADJ 
+Cu, PROPN 
+Ti, PROPN 
+system, NOUN 
+
+, SPACE 
+range, NOUN 
+75&85O”C, AUX 
+formation, NOUN 
+simultaneous, ADJ 
+increase, NOUN 
+
+, SPACE 
+intermetallic, ADJ 
+compounds, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+CujTi2, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+CuTi, PROPN 
+CuTi, PROPN 
+established, VERB 
+According, VERB 
+state, NOUN 
+
+, SPACE 
+diagram, NOUN 
+system, NOUN 
+published, VERB 
+Ref, PROPN 
+12, NUM 
+compounds, NOUN 
+
+, SPACE 
+stable, ADJ 
+room, NOUN 
+temperature, NOUN 
+investigations, NOUN 
+thin-, ADJ 
+
+, SPACE 
+film, NOUN 
+systems’m3, PROPN 
+cases, NOUN 
+diffusion, NOUN 
+zone, NOUN 
+Cu3Ti2, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+phases, NOUN 
+absent, ADJ 
+absence, NOUN 
+considered, VERB 
+proof, NOUN 
+
+, SPACE 
+disturbed, ADJ 
+local, ADJ 
+quasi, NOUN 
+equilibrium, NOUN 
+Probably, ADV 
+phases, NOUN 
+
+, SPACE 
+present, ADJ 
+system, NOUN 
+small, ADJ 
+interdiffusion, NOUN 
+
+, SPACE 
+coefficient, NOUN 
+narrow, ADJ 
+areas, NOUN 
+homogeneity, NOUN 
+
+, SPACE 
+certain, ADJ 
+experimental, ADJ 
+conditions, NOUN 
+
+, SPACE 
+registered, VERB 
+partial, ADJ 
+diffusion, NOUN 
+coefficients, NOUN 
+Cu, PROPN 
+Ti, PROPN 
+
+, SPACE 
+CuTi, PROPN 
+Cu, PROPN 
+Ti, PROPN 
+phases, NOUN 
+850, NUM 
+°, NOUN 
+C, NOUN 
+determined, VERB 
+
+, SPACE 
+author, NOUN 
+phases, NOUN 
+Cu, PROPN 
+diffusion, NOUN 
+nearly, ADV 
+
+, SPACE 
+order, NOUN 
+larger, ADJ 
+Ti, PROPN 
+data, NOUN 
+
+, SPACE 
+low, ADJ 
+temperature, NOUN 
+diffusion, NOUN 
+thin, ADJ 
+film, NOUN 
+system, NOUN 
+
+, SPACE 
+basis, NOUN 
+present, ADJ 
+results, NOUN 
+suppose, VERB 
+
+, SPACE 
+case, NOUN 
+copper, NOUN 
+main, ADJ 
+diffusion, NOUN 
+element, NOUN 
+
+, SPACE 
+4, X 
+Conclusions, NOUN 
+
+, SPACE 
+growth, NOUN 
+kinetics, NOUN 
+y, PROPN 
+CuTi, PROPN 
+/I, PUNCT 
+Cu, PROPN 
+Ti, PROPN 
+phases, VERB 
+types, NOUN 
+
+, SPACE 
+thin, ADJ 
+film, NOUN 
+system, NOUN 
+multi, ADJ 
+layer, ADJ 
+system, NOUN 
+21, NUM 
+bi, NOUN 
+layers, NOUN 
+bi-, ADJ 
+
+, SPACE 
+layer, NOUN 
+ranges, NOUN 
+30&4OO”C, NUM 
+37&47O”C, NOUN 
+
+, SPACE 
+investigated, VERB 
+means, NOUN 
+quantitative, ADJ 
+X, NOUN 
+ray, NOUN 
+analysis, NOUN 
+
+, SPACE 
+case, NOUN 
+electrochemical, ADJ 
+anode, NOUN 
+dissolving, NOUN 
+method, NOUN 
+
+, SPACE 
+second, NOUN 
+phase, NOUN 
+determined, VERB 
+cases, NOUN 
+
+, SPACE 
+intermetallic, ADJ 
+phase, NOUN 
+formation, NOUN 
+goes, VERB 
+stages, NOUN 
+diffusion, NOUN 
+
+, SPACE 
+Cu, PROPN 
+Ti, PROPN 
+atoms, NOUN 
+growing, VERB 
+phases, NOUN 
+slower, ADJ 
+
+, SPACE 
+quicker, NOUN 
+rearrangement, NOUN 
+atoms, NOUN 
+new, ADJ 
+
+, SPACE 
+lattice, NOUN 
+respective, ADJ 
+interphase, NOUN 
+boundaries, NOUN 
+place, NOUN 
+
+, SPACE 
+diffusion, NOUN 
+Cu, PROPN 
+atoms, NOUN 
+defines, VERB 
+phase, NOUN 
+growth, NOUN 
+effective, ADJ 
+
+, SPACE 
+interdiffusion, NOUN 
+coefficients, NOUN 
+phases, NOUN 
+determined, VERB 
+
+, SPACE 
+values, NOUN 
+activation, NOUN 
+energy, NOUN 
+formation, NOUN 
+
+, SPACE 
+intermetallic, ADJ 
+phases, NOUN 
+calculated, VERB 
+temperature, NOUN 
+ranges, NOUN 
+
+, SPACE 
+differ, VERB 
+slightly, ADV 
+Probably, ADV 
+distinction, NOUN 
+difference, NOUN 
+
+, SPACE 
+diffusion, NOUN 
+mechanism, NOUN 
+systems, NOUN 
+investigated, VERB 
+similar, ADJ 
+
+, SPACE 
+temperature, NOUN 
+ranges, NOUN 
+close, ADJ 
+likely, ADJ 
+
+, SPACE 
+distinction, NOUN 
+different, ADJ 
+precision, NOUN 
+methods, NOUN 
+
+, SPACE 
+measuring, VERB 
+intermetallic, ADJ 
+phases, NOUN 
+formed, VERB 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+Tz, PROPN 
+D, PROPN 
+Uzunov, PROPN 
+S, PROPN 
+Lambov, PROPN 
+St, PROPN 
+P, PROPN 
+Stojanov, PROPN 
+Abst, PROPN 
+Pap, PROPN 
+Anniv, PROPN 
+Sci, PROPN 
+Conj, PROPN 
+
+, SPACE 
+Modern, PROPN 
+Technologies, PROPN 
+Industrial, PROPN 
+Development, PROPN 
+Vama, PROPN 
+92, NUM 
+p, NOUN 
+81, NUM 
+
+, SPACE 
+Varna, PROPN 
+1, NUM 
+2, NUM 
+October, PROPN 
+1992, NUM 
+
+, SPACE 
+E, NOUN 
+Gershinskii, PROPN 
+Khoromenko, PROPN 
+E, PROPN 
+Cherepov, PROPN 
+Phys, PROPN 
+Stat, PROPN 
+Sol, PROPN 
+
+, SPACE 
+31, NUM 
+61, NUM 
+1975, NUM 
+
+, SPACE 
+J, PROPN 
+L, PROPN 
+Liotard, PROPN 
+D, PROPN 
+Gupta, PROPN 
+P, PROPN 
+Psaras, PROPN 
+P, PROPN 
+S, PROPN 
+Ho, PROPN 
+J, PROPN 
+Appl, PROPN 
+Phys, PROPN 
+57, NUM 
+1895, NUM 
+
+, SPACE 
+1985, NUM 
+
+, SPACE 
+4American, PROPN 
+Society, PROPN 
+Testing, PROPN 
+Materials, PROPN 
+Card, PROPN 
+File, PROPN 
+Diffraction, PROPN 
+Data, PROPN 
+
+, SPACE 
+Cards, PROPN 
+Alphabetical, PROPN 
+Grouped, PROPN 
+Numerical, PROPN 
+Index, PROPN 
+X, NOUN 
+ray, NOUN 
+Diffrac-, NOUN 
+
+, SPACE 
+tion, NOUN 
+Data, PROPN 
+Philadelphia, PROPN 
+Ed, PROPN 
+ASTM, PROPN 
+1969, NUM 
+
+, SPACE 
+5Structure, PROPN 
+Physical, PROPN 
+Properties, PROPN 
+Rigid, PROPN 
+Body, PROPN 
+Prof, PROPN 
+Palatnick, PROPN 
+Ed, PROPN 
+
+, SPACE 
+Kiev, PROPN 
+1983, NUM 
+
+, SPACE 
+TZ, PROPN 
+D, NOUN 
+UZU, ADV 
+~, PUNCT 
+OV, PROPN 
+et, PROPN 
+al, PROPN 
+Thin, ADJ 
+film, NOUN 
+Cupi, NOUN 
+system, NOUN 
+excess, NOUN 
+CU, PROPN 
+
+, SPACE 
+W, PROPN 
+B, PROPN 
+Pearson, PROPN 
+Crystal, PROPN 
+Chemistry, PROPN 
+Physics, PROPN 
+Metals, PROPN 
+Alloys, PROPN 
+
+, SPACE 
+Wiley, PROPN 
+Interscience, PROPN 
+Division, PROPN 
+John, PROPN 
+Wiley, PROPN 
+New, PROPN 
+York, PROPN 
+London, PROPN 
+
+, SPACE 
+Toronto, PROPN 
+1972, NUM 
+
+, SPACE 
+C, NOUN 
+S, PROPN 
+Barrett, PROPN 
+T, PROPN 
+B, PROPN 
+Massalski, PROPN 
+Structure, PROPN 
+Metals, PROPN 
+Pergamon, PROPN 
+Press, PROPN 
+
+, SPACE 
+Oxford, PROPN 
+1980, NUM 
+
+, SPACE 
+Taylor, PROPN 
+X, PROPN 
+ra_y, NUM 
+Metallography, PROPN 
+Metallurgy, PROPN 
+Moscow, PROPN 
+1965, NUM 
+9, NUM 
+W, PROPN 
+Schatt, PROPN 
+H, PROPN 
+JUlhich, PROPN 
+KKleinstucku.a, PROPN 
+,fiisraNundTechnik, PROPN 
+13,185, NUM 
+1978, NUM 
+
+, SPACE 
+E, NOUN 
+Gershinskii, PROPN 
+Khoromenko, PROPN 
+F, PROPN 
+L, PROPN 
+Edelman, PROPN 
+Phys, PROPN 
+Stat, PROPN 
+Sol, PROPN 
+
+, SPACE 
+25, NUM 
+645, NUM 
+1974, NUM 
+
+, SPACE 
+V, NOUN 
+V, NOUN 
+Slepushkin, PROPN 
+N, PROPN 
+N, PROPN 
+Kuzmina, PROPN 
+M, PROPN 
+G, PROPN 
+Yartchev, PROPN 
+S, PROPN 
+M, PROPN 
+Ganina, PROPN 
+
+, SPACE 
+Symp, PROPN 
+Structure, PROPN 
+Properties, PROPN 
+Molecules, PROPN 
+Kuibishev, PROPN 
+1977, NUM 
+
+, SPACE 
+L2Structural, X 
+Diagrams, PROPN 
+Metal, PROPN 
+Systems, PROPN 
+Vol, PROPN 
+XII, PROPN 
+Moscow, PROPN 
+1966, NUM 
+
+, SPACE 

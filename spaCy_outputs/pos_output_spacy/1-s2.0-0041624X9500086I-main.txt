@@ -1,0 +1,2005 @@
+Ultrasonics, PROPN 
+34, NUM 
+1996, NUM 
+235, NUM 
+238, NUM 
+
+, SPACE 
+study, NOUN 
+new, ADJ 
+flexural, ADJ 
+mode, NOUN 
+transducer, NOUN 
+solid, ADJ 
+horn, NOUN 
+system, NOUN 
+
+, SPACE 
+application, NOUN 
+ultrasonic, ADJ 
+plastics, NOUN 
+welding, VERB 
+
+, SPACE 
+Yuji, PROPN 
+Watanabe, PROPN 
+Eiji, PROPN 
+Mori, PROPN 
+
+, SPACE 
+Faculty, PROPN 
+Engineering, PROPN 
+Takushoku, PROPN 
+University, PROPN 
+815, NUM 
+l., NOUN 
+Tatemachi, PROPN 
+Hachioji, PROPN 
+shi, PROPN 
+Tokyo, PROPN 
+193, NUM 
+Japan, PROPN 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+developed, VERB 
+flexural, ADJ 
+mode, NOUN 
+ultrasonic, ADJ 
+high, ADJ 
+power, NOUN 
+transducer, NOUN 
+large, ADJ 
+diameter, NOUN 
+solid, ADJ 
+horn, NOUN 
+cross, ADJ 
+sectional, ADJ 
+
+, SPACE 
+area, NOUN 
+changes, NOUN 
+continuously, ADV 
+design, NOUN 
+method, NOUN 
+based, VERB 
+general, ADJ 
+solutions, NOUN 
+Timoshenko, PROPN 
+equation, NOUN 
+derived, VERB 
+
+, SPACE 
+Miklowitz, PROPN 
+straight, ADJ 
+bar, NOUN 
+vibrating, VERB 
+flexural, ADJ 
+mode, NOUN 
+Assessment, NOUN 
+transducer, NOUN 
+carried, VERB 
+measurement, NOUN 
+
+, SPACE 
+resonant, ADJ 
+frequency, NOUN 
+measurement, NOUN 
+flexural, ADJ 
+vibration, NOUN 
+displacement, NOUN 
+distribution, NOUN 
+results, NOUN 
+measurements, NOUN 
+
+, SPACE 
+prototype, NOUN 
+50, NUM 
+kHz, NOUN 
+transducer, NOUN 
+fairly, ADV 
+close, ADJ 
+required, VERB 
+values, NOUN 
+Furthermore, ADV 
+tried, VERB 
+apply, VERB 
+50, NUM 
+kHz, NOUN 
+transducer, NOUN 
+
+, SPACE 
+ultrasonic, ADJ 
+plastics, NOUN 
+welding, NOUN 
+result, NOUN 
+joined, VERB 
+polytetrafluoroethylene, NOUN 
+PTFE, PROPN 
+Teflon, PROPN 
+sheets, NOUN 
+0.4, NUM 
+mm, NOUN 
+thickness, NOUN 
+
+, SPACE 
+Keywords, NOUN 
+Flexural, ADJ 
+mode, NOUN 
+vibration, NOUN 
+Ultrasonic, ADJ 
+transducers, NOUN 
+Ultrasonic, ADJ 
+plastics, NOUN 
+welding, NOUN 
+
+, SPACE 
+1, NUM 
+Introduction, NOUN 
+
+, SPACE 
+recent, ADJ 
+study, NOUN 
+joined, VERB 
+PTFE, PROPN 
+sheets, NOUN 
+
+, SPACE 
+0.1, NUM 
+0.3, NUM 
+mm, NOUN 
+thickness, NOUN 
+320, NUM 
+kHz, NOUN 
+longitudinal-, NOUN 
+
+, SPACE 
+mode, NOUN 
+ultrasonic, ADJ 
+transducer, NOUN 
+joining, VERB 
+tip, NOUN 
+2.2, NUM 
+mm, NOUN 
+
+, SPACE 
+diameter, NOUN 
+l-3, PROPN 
+diameter, NOUN 
+joining, VERB 
+
+, SPACE 
+tip, NOUN 
+small, ADJ 
+high, ADJ 
+frequency, ADJ 
+range, NOUN 
+
+, SPACE 
+diameter, NOUN 
+transducer, NOUN 
+limited, VERB 
+quarter, NOUN 
+
+, SPACE 
+longitudinal, ADJ 
+wavelength, NOUN 
+tip, NOUN 
+vibrate, VERB 
+
+, SPACE 
+piston, NOUN 
+
+, SPACE 
+study, NOUN 
+flexural, ADJ 
+mode, NOUN 
+transducer/, NUM 
+
+, SPACE 
+solid, ADJ 
+horn, NOUN 
+system, NOUN 
+large, ADJ 
+diameter, NOUN 
+
+, SPACE 
+increase, VERB 
+diameter, NOUN 
+joining, VERB 
+tip, NOUN 
+end, NOUN 
+face, NOUN 
+
+, SPACE 
+transducer, NOUN 
+rub, VERB 
+face, NOUN 
+PTFE, PROPN 
+sheets, NOUN 
+strongly, ADV 
+
+, SPACE 
+result, NOUN 
+temperature, NOUN 
+rise, NOUN 
+caused, VERB 
+rubbing, NOUN 
+
+, SPACE 
+high, ADJ 
+enable, VERB 
+joining, VERB 
+Softened, VERB 
+PTFE, PROPN 
+sheets, NOUN 
+
+, SPACE 
+joined, VERB 
+strong, ADJ 
+static, ADJ 
+pressure, NOUN 
+supplied, VERB 
+vertically, ADV 
+
+, SPACE 
+low, ADJ 
+frequency, NOUN 
+transducer, NOUN 
+large, ADJ 
+body, NOUN 
+
+, SPACE 
+transducer, NOUN 
+damaged, VERB 
+static, ADJ 
+pressure, NOUN 
+
+, SPACE 
+difficult, ADJ 
+analyse, VERB 
+flexural, ADJ 
+mode, NOUN 
+
+, SPACE 
+solid, ADJ 
+horn, NOUN 
+cross, ADJ 
+sectional, ADJ 
+area, NOUN 
+changes, NOUN 
+con-, VERB 
+
+, SPACE 
+tinuously, ADV 
+propose, VERB 
+new, ADJ 
+design, NOUN 
+method, NOUN 
+
+, SPACE 
+flexural, ADJ 
+mode, NOUN 
+solid, ADJ 
+horn, NOUN 
+
+, SPACE 
+Corresponding, VERB 
+author, NOUN 
+Fax, NOUN 
++, NUM 
+81, NUM 
+426, NUM 
+64, NUM 
+2743, NUM 
+
+, SPACE 
+e, NOUN 
+mail, NOUN 
+u2watana@es.takushoku-u.ac.jp, NOUN 
+2, NUM 
+Flexural, ADJ 
+mode, NOUN 
+ultrasonic, ADJ 
+transducer, NOUN 
+system, NOUN 
+
+, SPACE 
+2.1, NUM 
+Construction, NOUN 
+transducer, NOUN 
+system, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+shows, VERB 
+construction, NOUN 
+new, ADJ 
+transducer, NOUN 
+
+, SPACE 
+system, NOUN 
+system, NOUN 
+consists, VERB 
+components, NOUN 
+trans-, X 
+
+, SPACE 
+ducer, NOUN 
+horn, NOUN 
+tool, NOUN 
+important, ADJ 
+transducer, NOUN 
+
+, SPACE 
+tool, NOUN 
+straight, ADJ 
+bars, NOUN 
+ends, VERB 
+
+, SPACE 
+horn, NOUN 
+connected, VERB 
+transducer, NOUN 
+tool, NOUN 
+
+, SPACE 
+loop, NOUN 
+points, NOUN 
+flexural, ADJ 
+mode, NOUN 
+vibration, NOUN 
+
+, SPACE 
+boundary, ADJ 
+condition, NOUN 
+horn, NOUN 
+loop, NOUN 
+loop, NOUN 
+
+, SPACE 
+condition, NOUN 
+flexural, ADJ 
+mode, NOUN 
+vibration, NOUN 
+displacement, NOUN 
+
+, SPACE 
+distribution, NOUN 
+denoted, VERB 
+cosine, NOUN 
+function, NOUN 
+
+, SPACE 
+analysis, NOUN 
+horn, NOUN 
+simple, ADJ 
+
+, SPACE 
+flexural, ADJ 
+mode, NOUN 
+vibration, NOUN 
+generated, VERB 
+
+, SPACE 
+piezoelectric, ADJ 
+ceramics, NOUN 
+cut, VERB 
+shape, NOUN 
+half, ADJ 
+rings, NOUN 
+
+, SPACE 
+Flcxural, ADJ 
+mode, NOUN 
+
+, SPACE 
+transducer, NOUN 
+Horn, PROPN 
+Tool, PROPN 
+
+, SPACE 
+c, NOUN 
+II-, ADJ 
+
+, SPACE 
+PZT, PROPN 
+Loop, PROPN 
+Loop, PROPN 
+Free, PROPN 
+
+, SPACE 
+Eicctrode, PROPN 
+plate, NOUN 
+
+, SPACE 
+Direction, PROPN 
+polarization, NOUN 
+PZT, PROPN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Construction, NOUN 
+flexural, ADJ 
+mode, NOUN 
+transducer, NOUN 
+system, NOUN 
+one-, ADJ 
+
+, SPACE 
+dimensional, ADJ 
+composition, NOUN 
+
+, SPACE 
+0041, NUM 
+624X/96/$15.00, NUM 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+SSDI, PROPN 
+0041, NUM 
+624X(95)00086, NUM 
+0, NUM 
+
+, SPACE 
+236, NUM 
+Y., PROPN 
+Watanabe, PROPN 
+E., PROPN 
+Morij, PROPN 
+Ultrasonics, PROPN 
+34, NUM 
+1996, NUM 
+235, NUM 
+238, NUM 
+
+, SPACE 
+piezoelectric, ADJ 
+ceramics, NOUN 
+polarized, VERB 
+thickness, ADJ 
+
+, SPACE 
+direction, NOUN 
+placed, VERB 
+loop, NOUN 
+point, NOUN 
+vibration, NOUN 
+
+, SPACE 
+set, VERB 
+facing, VERB 
+away, ADV 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+alternating, VERB 
+voltage, NOUN 
+supplied, VERB 
+
+, SPACE 
+ceramics, NOUN 
+upper, ADJ 
+ceramics, NOUN 
+lower, ADJ 
+ceramics, NOUN 
+begin, VERB 
+
+, SPACE 
+alternately, ADV 
+dilate, VERB 
+shrink, VERB 
+opposite, ADJ 
+directions, NOUN 
+
+, SPACE 
+bending, VERB 
+moment, NOUN 
+excites, VERB 
+flexural-, NOUN 
+
+, SPACE 
+mode, NOUN 
+vibration, NOUN 
+generated, VERB 
+
+, SPACE 
+2.2, X 
+Design, NOUN 
+method, NOUN 
+transducer, NOUN 
+
+, SPACE 
+tool, NOUN 
+4,5, NUM 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+transducer, NOUN 
+tool, NOUN 
+
+, SPACE 
+designed, VERB 
+free, ADJ 
+loop, NOUN 
+boundary, ADJ 
+condition, NOUN 
+
+, SPACE 
+solution, NOUN 
+frequency, ADJ 
+equation, NOUN 
+condition, NOUN 
+
+, SPACE 
+derived, VERB 
+Miklowitz, PROPN 
+Timoshenko, PROPN 
+
+, SPACE 
+equation, NOUN 
+follows, VERB 
+6, NUM 
+
+, SPACE 
+vfh, NOUN 
+tanhh0, NOUN 
+=, PROPN 
+m, VERB 
+tan(lnAO, PROPN 
+1, X 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Table, NOUN 
+1, NUM 
+define, VERB 
+nomenclature, NOUN 
+design, NOUN 
+
+, SPACE 
+method, NOUN 
+Fig, PROPN 
+3, NUM 
+shows, VERB 
+numerical, ADJ 
+solutions, NOUN 
+Eq, PROPN 
+1, NUM 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+lengths, NOUN 
+transducer, NOUN 
+tool, NOUN 
+
+, SPACE 
+x=0, PROPN 
+Loop, PROPN 
+x=, SYM 
+2, NUM 
+Free, ADJ 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Coordinate, NOUN 
+system, NOUN 
+straight, ADJ 
+metal, NOUN 
+bar, NOUN 
+
+, SPACE 
+Table, NOUN 
+1, NUM 
+
+, SPACE 
+Nomenclature, PROPN 
+equations, NOUN 
+
+, SPACE 
+c, PROPN 
+Ap, NOUN 
+a=, VERB 
+2k, PROPN 
+El, PROPN 
+c,~--c;~, NOUN 
+
+, SPACE 
+0, NUM 
+Angular, ADJ 
+frequency, NOUN 
+
+, SPACE 
+Cross, ADJ 
+sectional, ADJ 
+area, NOUN 
+bar, NOUN 
+m, PROPN 
+
+, SPACE 
+P, NOUN 
+Density, PROPN 
+kg, PROPN 
+rne3, PROPN 
+
+, SPACE 
+E, PROPN 
+Young, PROPN 
+modulus, NOUN 
+N, NOUN 
+m-, X 
+
+, SPACE 
+Moment, NOUN 
+inertia, NOUN 
+m, NOUN 
+
+, SPACE 
+k’G, PROPN 
+Effective, ADJ 
+shear, NOUN 
+modulus, NOUN 
+
+, SPACE 
+v, NOUN 
+Poisson, PROPN 
+ratio, NOUN 
+800, NUM 
+1, NUM 
+
+, SPACE 
+fd(kHz, PROPN 
+cm, PROPN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Solutions, NOUN 
+frequency, ADJ 
+equations, NOUN 
+loop, NOUN 
+free, ADJ 
+boundary, ADJ 
+
+, SPACE 
+condition, NOUN 
+
+, SPACE 
+obtained, VERB 
+desired, VERB 
+conditions, NOUN 
+frequency, NOUN 
+
+, SPACE 
+vibration, NOUN 
+mode, NOUN 
+diameters, NOUN 
+transducer, NOUN 
+tool, NOUN 
+
+, SPACE 
+2.3, X 
+Design, NOUN 
+method, NOUN 
+thejlexurabmode, NOUN 
+solid, ADJ 
+horn, NOUN 
+7, NUM 
+
+, SPACE 
+loop, NOUN 
+loop, NOUN 
+boundary, ADJ 
+condition, NOUN 
+displace-, X 
+
+, SPACE 
+ment, ADJ 
+distribution, NOUN 
+function, NOUN 
+y(x, PROPN 
+straight, ADJ 
+bar, NOUN 
+
+, SPACE 
+vibrates, NOUN 
+flexural, ADJ 
+mode, NOUN 
+represented, VERB 
+simply, ADV 
+
+, SPACE 
+cosine, NOUN 
+function, NOUN 
+
+, SPACE 
+Y(X, PROPN 
+=, SYM 
+1, NUM 
++, NUM 
+C2, PROPN 
+cos(ln, NUM 
+2, X 
+
+, SPACE 
+C, NOUN 
+constant, ADJ 
+representing, VERB 
+displacement, NOUN 
+
+, SPACE 
+amplitude, NOUN 
+resonant, ADJ 
+frequency, NOUN 
+given, VERB 
+
+, SPACE 
+diameter, NOUN 
+bar, NOUN 
+depends, VERB 
+wave, NOUN 
+number, NOUN 
+
+, SPACE 
+l., PROPN 
+change, NOUN 
+length, NOUN 
+bar, NOUN 
+
+, SPACE 
+according, VERB 
+change, NOUN 
+diameter, NOUN 
+bar, NOUN 
+
+, SPACE 
+calculated, VERB 
+iteration, NOUN 
+method, NOUN 
+shown, VERB 
+Fig, PROPN 
+4, NUM 
+
+, SPACE 
+consider, VERB 
+straight, ADJ 
+bar, NOUN 
+represent, VERB 
+
+, SPACE 
+value, NOUN 
+n2, NOUN 
+diameter, NOUN 
+di, PROPN 
+111~1~., NUM 
+diameter, NOUN 
+
+, SPACE 
+Flexural, PROPN 
+mode, NOUN 
+amplitude, NOUN 
+r., PROPN 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Schematic, ADJ 
+flow, NOUN 
+chart, NOUN 
+design, NOUN 
+procedure, NOUN 
+flexural-, ADJ 
+
+, SPACE 
+mode, NOUN 
+solid, ADJ 
+horn, NOUN 
+
+, SPACE 
+Y., PROPN 
+Watanabe, PROPN 
+E., PROPN 
+Mori, PROPN 
+Ultrasonics, PROPN 
+34, NUM 
+1996, NUM 
+235, NUM 
+238, NUM 
+237, NUM 
+
+, SPACE 
+changes, NOUN 
+stepwise, ADJ 
+x, SYM 
+=, NOUN 
+6, NUM 
+phase, NOUN 
+angle, NOUN 
+6, NUM 
+
+, SPACE 
+phase, NOUN 
+angle, NOUN 
+rest, NOUN 
+bar, NOUN 
+
+, SPACE 
+l, NOUN 
+6, NUM 
+1, X 
+obtained, VERB 
+1~1~., PROPN 
+
+, SPACE 
+diameter, NOUN 
+changes, NOUN 
+stepwise, ADJ 
+x, SYM 
+=, NOUN 
+6, NUM 
++, NUM 
+bZ, NUM 
+value, NOUN 
+
+, SPACE 
+1, NUM 
+obtained, VERB 
+manner, NOUN 
+values, NOUN 
+6, NUM 
+
+, SPACE 
+small, ADJ 
+change, VERB 
+bending, VERB 
+moment, NOUN 
+
+, SPACE 
+shear, ADJ 
+force, NOUN 
+step, NOUN 
+method, NOUN 
+iterated, VERB 
+
+, SPACE 
+according, VERB 
+change, NOUN 
+diameter, NOUN 
+length, NOUN 
+
+, SPACE 
+horn, NOUN 
+found, VERB 
+diameters, NOUN 
+horn, NOUN 
+ends, NOUN 
+
+, SPACE 
+given, VERB 
+adjustment, NOUN 
+diameters, NOUN 
+needed, VERB 
+
+, SPACE 
+ends, NOUN 
+satisfy, VERB 
+loop, NOUN 
+loop, NOUN 
+boundary, ADJ 
+condition, NOUN 
+
+, SPACE 
+change, NOUN 
+vibration, NOUN 
+distribution, NOUN 
+
+, SPACE 
+change, NOUN 
+diameter, NOUN 
+obtained, VERB 
+follows, VERB 
+kinetic, ADJ 
+
+, SPACE 
+energy, NOUN 
+T, PROPN 
+loop, NOUN 
+point, NOUN 
+bar, NOUN 
+
+, SPACE 
+T=, NOUN 
+$, SYM 
+4u, NUM 
+s, VERB 
+Eh, INTJ 
+
+, SPACE 
+cos(lnzlx, NOUN 
+dx, PROPN 
+=, NOUN 
+2npAv2, NUM 
+
+, SPACE 
+-Eh, PUNCT 
+n2, PROPN 
+
+, SPACE 
+cross, ADJ 
+sectional, ADJ 
+area, NOUN 
+v, NOUN 
+vibration, NOUN 
+velocity, NOUN 
+
+, SPACE 
+wavelength, NOUN 
+flexural, ADJ 
+mode, NOUN 
+vibration, NOUN 
+
+, SPACE 
+E, NOUN 
+constant, NOUN 
+small, ADJ 
+value, NOUN 
+S, PROPN 
+energy, NOUN 
+T, PROPN 
+
+, SPACE 
+constant, ADJ 
+x, PROPN 
+u(x, PROPN 
+proportional, ADJ 
+ln21, PROPN 
+A(x))“2, PROPN 
+
+, SPACE 
+Considering, VERB 
+phase, NOUN 
+angle, NOUN 
+vibration, NOUN 
+
+, SPACE 
+represent, VERB 
+displacement, ADJ 
+distribution, NOUN 
+u(x, PROPN 
+weight, NOUN 
+
+, SPACE 
+function, NOUN 
+x, SYM 
+cos(phase, NOUN 
+angle, NOUN 
+result, NOUN 
+u(x, PROPN 
+
+, SPACE 
+u(x, NOUN 
+=, SYM 
+a(xYw, PUNCT 
+=, PROPN 
+~oCf~~l, NUM 
+~, PROPN 
+zl,>l~~~~~l, NUM 
+~, NOUN 
+zl~~1”2, PROPN 
+cos(l, PROPN 
+~, PUNCT 
+zlx4, PROPN 
+
+, SPACE 
+4, NUM 
+
+, SPACE 
+subscripts, VERB 
+0, PUNCT 
+x, SYM 
+represent, VERB 
+values, NOUN 
+
+, SPACE 
+large, ADJ 
+diameter, NOUN 
+end, NOUN 
+x, PROPN 
+respectively, ADV 
+
+, SPACE 
+2.4, X 
+Fabrication, NOUN 
+transducer, NOUN 
+system, NOUN 
+
+, SPACE 
+flexural, ADJ 
+mode, NOUN 
+transducer, NOUN 
+system, NOUN 
+fabricated, VERB 
+
+, SPACE 
+following, VERB 
+conditions, NOUN 
+1, X 
+Resonant, PROPN 
+frequency, NOUN 
+
+, SPACE 
+f0, PROPN 
+=, SYM 
+50, NUM 
+kHz, NOUN 
+2, X 
+Diameter, PROPN 
+transducer, NOUN 
+=, PRON 
+20, NUM 
+mm, NUM 
+
+, SPACE 
+diameter, NOUN 
+tool, NOUN 
+d, NOUN 
+=, PROPN 
+5, NUM 
+mm, NUM 
+3, X 
+vibration, NOUN 
+
+, SPACE 
+mode, NOUN 
+transducer, NOUN 
+sixth, ADJ 
+mode, NOUN 
+vibration, NOUN 
+
+, SPACE 
+mode, NOUN 
+tool, NOUN 
+mode, NOUN 
+4, X 
+thickness, NOUN 
+
+, SPACE 
+PZT, PROPN 
+ceramics, NOUN 
+4, NUM 
+mm, NOUN 
+including, VERB 
+electrode, ADJ 
+plate, NOUN 
+
+, SPACE 
+5, X 
+shape, NOUN 
+horn, NOUN 
+exponential, ADJ 
+smooth, ADJ 
+
+, SPACE 
+connection, NOUN 
+tool, NOUN 
+area, NOUN 
+horn, NOUN 
+A(x, SYM 
+
+, SPACE 
+represented, VERB 
+A(x, NOUN 
+=, VERB 
+A0, PROPN 
+exp(-yx, PROPN 
+A0, NOUN 
+area, NOUN 
+
+, SPACE 
+large, ADJ 
+length, NOUN 
+horn, NOUN 
+3n(rad, PROPN 
+equivalent, ADJ 
+
+, SPACE 
+diameter, NOUN 
+transducer, NOUN 
+end, NOUN 
+horn, NOUN 
+
+, SPACE 
+20, NUM 
+mm, NOUN 
+transducer, NOUN 
+diameter, NOUN 
+
+, SPACE 
+tool, NOUN 
+end, NOUN 
+horn, NOUN 
+5, NUM 
+mm, NOUN 
+
+, SPACE 
+tool, NOUN 
+6, X 
+material, NOUN 
+transducer, NOUN 
+body, NOUN 
+tool, NOUN 
+
+, SPACE 
+horn, NOUN 
+aluminium, NOUN 
+alloy, NOUN 
+A2024, NOUN 
+piezoelectric, ADJ 
+
+, SPACE 
+ceramic, NOUN 
+MT-18, PROPN 
+PZT4, PROPN 
+equivalent, ADJ 
+Table, NOUN 
+2, NUM 
+shows, VERB 
+
+, SPACE 
+material, NOUN 
+constants, NOUN 
+design, NOUN 
+
+, SPACE 
+iteration, NOUN 
+procedure, NOUN 
+described, VERB 
+
+, SPACE 
+taper, NOUN 
+constant, NOUN 
+y, PROPN 
+obtained, VERB 
+0.534, NUM 
+length, NOUN 
+
+, SPACE 
+horn, NOUN 
+51.89, NUM 
+mm, NOUN 
+jodo, NOUN 
+=, SYM 
+100, NUM 
+kHz, ADJ 
+cm, PROPN 
+
+, SPACE 
+f, PROPN 
+=, PRON 
+639.53, NUM 
+kHz, VERB 
+cm, NOUN 
+Fig, PROPN 
+3, NUM 
+correction, NOUN 
+
+, SPACE 
+transducer, NOUN 
+length, NOUN 
+insertion, NOUN 
+piezoelectric, ADJ 
+
+, SPACE 
+ceramics, NOUN 
+transducer, NOUN 
+length, NOUN 
+1, NUM 
+121.45, NUM 
+mm, NOUN 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+Material, PROPN 
+constants, VERB 
+
+, SPACE 
+Metal, PROPN 
+Al, PROPN 
+alloy, NOUN 
+circular, ADJ 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+Young, PROPN 
+modulus, ADJ 
+E, NOUN 
+7.45, NUM 
+x, SYM 
+10, NUM 
+N, NUM 
+m-, X 
+
+, SPACE 
+Effective, ADJ 
+shear, NOUN 
+modulus, NOUN 
+k’G, X 
+0.9, NUM 
+x, SYM 
+2.81, NUM 
+x, SYM 
+10, NUM 
+N, NUM 
+mm2, NOUN 
+
+, SPACE 
+Density, PROPN 
+p, NOUN 
+2.7, NUM 
+x, SYM 
+10, NUM 
+kg, NOUN 
+mm3, PROPN 
+
+, SPACE 
+Poisson, PROPN 
+ratio, NOUN 
+v, X 
+0.325, NUM 
+
+, SPACE 
+Piezoelectric, PROPN 
+ceramics, NOUN 
+MT-18, PROPN 
+PZT-4, NOUN 
+equivalent, ADJ 
+
+, SPACE 
+Young, PROPN 
+modulus, ADJ 
+E, NOUN 
+6.30, NUM 
+x, SYM 
+10, NUM 
+N, PROPN 
+m-, X 
+
+, SPACE 
+Effective, ADJ 
+shear, NOUN 
+modulus, NOUN 
+k, PROPN 
+G, NOUN 
+0.9, NUM 
+x, SYM 
+2.40, NUM 
+x, SYM 
+10, NUM 
+N, PROPN 
+me2, ADJ 
+
+, SPACE 
+Density, PROPN 
+p, NOUN 
+7.5, NUM 
+x, SYM 
+lo3, ADJ 
+kg, PROPN 
+me3, NOUN 
+
+, SPACE 
+Poisson, PROPN 
+ratio, NOUN 
+Y, PROPN 
+0.31, NUM 
+
+, SPACE 
+Electrode, PROPN 
+plate, NOUN 
+beryllium, PROPN 
+copper, NOUN 
+0.2, NUM 
+mm, NOUN 
+thickness, NOUN 
+
+, SPACE 
+f,,d, NOUN 
+=, PROPN 
+25, NUM 
+kHz, ADJ 
+cm, PROPN 
+fOl, NOUN 
+=, NOUN 
+50.18, NUM 
+kHz, NOUN 
+cm, NOUN 
+
+, SPACE 
+tool, NOUN 
+length, NOUN 
+1, NUM 
+10.04, NUM 
+mm, NUM 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+shows, VERB 
+fabricated, VERB 
+transducer, NOUN 
+system, NOUN 
+
+, SPACE 
+flexural, ADJ 
+mode, NOUN 
+vibration, NOUN 
+displacement, NOUN 
+measured, VERB 
+
+, SPACE 
+laser, NOUN 
+Doppler, PROPN 
+interferometer, NOUN 
+Fig, PROPN 
+6, NUM 
+shows, VERB 
+admit-, NUM 
+
+, SPACE 
+tance, NOUN 
+locus, NOUN 
+transducer, NOUN 
+system, NOUN 
+load, NOUN 
+
+, SPACE 
+condition, NOUN 
+shown, VERB 
+Figs, PROPN 
+5, NUM 
+6, NUM 
+vibration, NOUN 
+
+, SPACE 
+transducer, NOUN 
+system, NOUN 
+good, ADJ 
+agreement, NOUN 
+
+, SPACE 
+theoretical, ADJ 
+values, NOUN 
+Fig, PROPN 
+5, NUM 
+right, ADJ 
+hand, NOUN 
+
+, SPACE 
+transducer, NOUN 
+horn, NOUN 
+tool, NOUN 
+fabricated, VERB 
+
+, SPACE 
+component, NOUN 
+component, NOUN 
+com-, NOUN 
+
+, SPACE 
+ponents, NOUN 
+connected, VERB 
+inner, ADJ 
+bolt, NOUN 
+
+, SPACE 
+3, X 
+Joining, VERB 
+PTFE, PROPN 
+sheets, NOUN 
+flexural, ADJ 
+mode, NOUN 
+
+, SPACE 
+transducer, NOUN 
+system, NOUN 
+9, NUM 
+
+, SPACE 
+Fig, PROPN 
+7(a, NUM 
+shows, VERB 
+experimental, ADJ 
+set, NOUN 
+PTFE, PROPN 
+
+, SPACE 
+joining, VERB 
+Fig, PROPN 
+7(b, X 
+shows, VERB 
+structure, NOUN 
+holding, VERB 
+case, NOUN 
+
+, SPACE 
+53.71, NUM 
+8.0, NUM 
+59.68, NUM 
+s, NOUN 
+1, NUM 
+.w, NOUN 
+Ill.04, NOUN 
+
+, SPACE 
+>, X 
+
+, SPACE 
+~__-~__--________;4, SYM 
+
+, SPACE 
+n, CCONJ 
+
+, SPACE 
+Electrode, PROPN 
+plate, NOUN 
+
+, SPACE 
+Flexural, PROPN 
+mode, NOUN 
+vibration, NOUN 
+displacement, NOUN 
+measured, VERB 
+
+, SPACE 
+/=50.06kHz, PUNCT 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Trial, ADJ 
+flexural, ADJ 
+mode, NOUN 
+transducer, NOUN 
+system, NOUN 
+measured, VERB 
+vibration, NOUN 
+
+, SPACE 
+displacement, ADJ 
+distribution, NOUN 
+unit, NOUN 
+Length, PROPN 
+mm, PROPN 
+
+, SPACE 
+2, X 
+
+, SPACE 
+fo=49.899kHz, X 
+
+, SPACE 
+-2, PUNCT 
+
+, SPACE 
+t, PROPN 
+Q=1026.74, PROPN 
+
+, SPACE 
+~Y,,o~=3Al, PROPN 
+l(mS, NOUN 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Admittance, NOUN 
+locus, NOUN 
+transducer, NOUN 
+system, NOUN 
+load, NOUN 
+
+, SPACE 
+condition, NOUN 
+
+, SPACE 
+238, NUM 
+Y., PROPN 
+Watanabe, PROPN 
+E., PROPN 
+Moril, PROPN 
+Ultrasonics, PROPN 
+34, NUM 
+1996, NUM 
+235, NUM 
+238, NUM 
+
+, SPACE 
+6, NUM 
+
+, SPACE 
+Fig, PROPN 
+7, X 
+Schematic, ADJ 
+configuration, NOUN 
+experimental, ADJ 
+set, NOUN 
+ultra-, ADJ 
+
+, SPACE 
+sonic, ADJ 
+joining, NOUN 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+SEM, PROPN 
+image, NOUN 
+cross, NOUN 
+section, NOUN 
+joined, ADJ 
+
+, SPACE 
+thickness, NOUN 
+PTFE, PROPN 
+sheet, NOUN 
+0.4, NUM 
+mm, NOUN 
+specimen, NOUN 
+joined, VERB 
+
+, SPACE 
+following, VERB 
+conditions, NOUN 
+static, ADJ 
+pressure, NOUN 
+70, NUM 
+N, PROPN 
+vibration, NOUN 
+displacement, NOUN 
+
+, SPACE 
+tip, NOUN 
+20, NUM 
+urn, NOUN 
+joining, VERB 
+time, NOUN 
+1, NUM 
+s., NOUN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+7(a, NUM 
+transducer, NOUN 
+attached, VERB 
+
+, SPACE 
+inside, NOUN 
+hollow, ADJ 
+cylindrical, ADJ 
+case, NOUN 
+screws, NOUN 
+
+, SPACE 
+nodal, NOUN 
+points, NOUN 
+flexural, ADJ 
+mode, NOUN 
+vibration, NOUN 
+case, NOUN 
+
+, SPACE 
+connected, VERB 
+air, NOUN 
+cylinder, NOUN 
+means, NOUN 
+flange, NOUN 
+
+, SPACE 
+air, NOUN 
+cylinder, NOUN 
+supply, VERB 
+suitable, ADJ 
+static, ADJ 
+pressure, NOUN 
+
+, SPACE 
+PTFE, PROPN 
+sheets, NOUN 
+placed, VERB 
+anvil, NOUN 
+tool, NOUN 
+end, NOUN 
+
+, SPACE 
+joining, VERB 
+tip, NOUN 
+ground, VERB 
+convex, ADJ 
+shape, NOUN 
+avoid, VERB 
+
+, SPACE 
+cutting, NOUN 
+PTFE, PROPN 
+sheets, NOUN 
+edge, NOUN 
+tip, NOUN 
+
+, SPACE 
+diameter, NOUN 
+joining, VERB 
+tip, NOUN 
+5, NUM 
+mm, NUM 
+anvil, NOUN 
+steel, NOUN 
+
+, SPACE 
+block, NOUN 
+25, NUM 
+mm, NOUN 
+thickness, NOUN 
+Fig, PROPN 
+8, NUM 
+shows, VERB 
+example, NOUN 
+cross, ADJ 
+sectional, ADJ 
+view, NOUN 
+
+, SPACE 
+joints, NOUN 
+thicknesses, NOUN 
+PTFE, PROPN 
+sheets, NOUN 
+0.4, NUM 
+mm, NUM 
+
+, SPACE 
+thick, ADJ 
+driving, VERB 
+frequency, NOUN 
+50, NUM 
+kHz, NOUN 
+Note, VERB 
+
+, SPACE 
+preprocesses, NOUN 
+chemical, NOUN 
+physical, ADJ 
+processes, NOUN 
+
+, SPACE 
+required, VERB 
+ultrasonic, ADJ 
+PTFE, PROPN 
+joining, VERB 
+light, ADJ 
+
+, SPACE 
+wiping, NOUN 
+PTFE, PROPN 
+faces, NOUN 
+carried, VERB 
+order, NOUN 
+
+, SPACE 
+maintain, VERB 
+uniform, ADJ 
+joining, VERB 
+condition, NOUN 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+clearly, ADV 
+seen, VERB 
+PTFE, PROPN 
+sheets, NOUN 
+joined, VERB 
+
+, SPACE 
+completely, ADV 
+boundary, NOUN 
+joined, ADJ 
+
+, SPACE 
+
+, SPACE 
+4, X 
+Conclusions, NOUN 
+
+, SPACE 
+new, ADJ 
+design, NOUN 
+procedure, NOUN 
+flexural, ADJ 
+mode, NOUN 
+solid-, X 
+
+, SPACE 
+horn, NOUN 
+system, NOUN 
+dimensional, ADJ 
+construction, NOUN 
+
+, SPACE 
+described, VERB 
+procedure, NOUN 
+designed, VERB 
+
+, SPACE 
+fabricated, VERB 
+50, NUM 
+kHz, ADJ 
+transducer, NOUN 
+large, ADJ 
+diameter, NOUN 
+
+, SPACE 
+resonant, ADJ 
+frequency, NOUN 
+fairly, ADV 
+close, ADJ 
+required, VERB 
+
+, SPACE 
+value, NOUN 
+50, NUM 
+kHz, NOUN 
+
+, SPACE 
+confirmed, VERB 
+transducer, NOUN 
+system, NOUN 
+
+, SPACE 
+suitable, ADJ 
+ultrasonic, ADJ 
+joining, NOUN 
+exchanging, VERB 
+
+, SPACE 
+conventionally, ADV 
+longitudinal, ADJ 
+mode, NOUN 
+transducer, NOUN 
+
+, SPACE 
+new, ADJ 
+transducer, NOUN 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+Cl1, NOUN 
+
+, SPACE 
+c21, NOUN 
+
+, SPACE 
+c31, NOUN 
+
+, SPACE 
+c41, NOUN 
+
+, SPACE 
+c51, NOUN 
+
+, SPACE 
+II61, PROPN 
+
+, SPACE 
+c71, PROPN 
+
+, SPACE 
+CSI, PROPN 
+
+, SPACE 
+PI, PROPN 
+Y., PROPN 
+Watanabe, PROPN 
+Y., PROPN 
+Tsuda, PROPN 
+E., PROPN 
+Mori, PROPN 
+IEICE, NOUN 
+Tech, PROPN 
+Rep., PROPN 
+US93, PROPN 
+92, NUM 
+
+, SPACE 
+1994, NUM 
+Japanese, PROPN 
+
+, SPACE 
+Y., PROPN 
+Watanabe, PROPN 
+Y., PROPN 
+Tsuda, PROPN 
+E., PROPN 
+Mori, PROPN 
+Proc, PROPN 
+11th, PROPN 
+Int, PROPN 
+FASE, PROPN 
+
+, SPACE 
+Symp, PROPN 
+Valencia, PROPN 
+1994, NUM 
+Sociedad, PROPN 
+Espanola, PROPN 
+de, PROPN 
+Acustica, PROPN 
+Madrid, PROPN 
+
+, SPACE 
+1994, NUM 
+p., NOUN 
+105, NUM 
+
+, SPACE 
+Y., PROPN 
+Watanabe, PROPN 
+Y., PROPN 
+Tsuda, PROPN 
+E., PROPN 
+Mori, PROPN 
+J., PROPN 
+Acoust, PROPN 
+Sot, PROPN 
+Jpn, PROPN 
+51, NUM 
+
+, SPACE 
+1995, NUM 
+Japanese, PROPN 
+
+, SPACE 
+E., PROPN 
+Mori, PROPN 
+Y., PROPN 
+Watanabe, PROPN 
+Y., PROPN 
+Tsuda, PROPN 
+K., PROPN 
+Ohya, PROPN 
+H., PROPN 
+Yamamori, PROPN 
+
+, SPACE 
+S., PROPN 
+Mishiro, PROPN 
+H., PROPN 
+Hamada, PROPN 
+Proc, PROPN 
+Ultrasonics, PROPN 
+Int, PROPN 
+89, NUM 
+
+, SPACE 
+Butterworth, PROPN 
+Heinemann, PROPN 
+Oxford, PROPN 
+1989, NUM 
+p., NOUN 
+256, NUM 
+
+, SPACE 
+Y., PROPN 
+Watanabe, PROPN 
+Y., PROPN 
+Tsuda, PROPN 
+E., PROPN 
+Mori, PROPN 
+H., PROPN 
+Yamamori, PROPN 
+K., PROPN 
+Ohya, PROPN 
+
+, SPACE 
+S., PROPN 
+Mishiro, PROPN 
+H., PROPN 
+Hamada, PROPN 
+IEICE, NOUN 
+Tech, PROPN 
+Rep., PROPN 
+US89, PROPN 
+39, NUM 
+1994, NUM 
+
+, SPACE 
+Japanese, PROPN 
+
+, SPACE 
+J., PROPN 
+Miklowitz, PROPN 
+J., PROPN 
+Appl, PROPN 
+Mech, PROPN 
+1953, NUM 
+511, NUM 
+
+, SPACE 
+Y., PROPN 
+Watanabe, PROPN 
+Y., PROPN 
+Tsuda, PROPN 
+E., PROPN 
+Mori, PROPN 
+Proc, PROPN 
+Autumn, PROPN 
+Meet, PROPN 
+Acoust, ADV 
+
+, SPACE 
+Sot, PROPN 
+Jpn, PROPN 
+1994, NUM 
+p., NOUN 
+1107, NUM 
+Japanese, PROPN 
+
+, SPACE 
+J., PROPN 
+Saneyoshi, PROPN 
+G., PROPN 
+Matsumoto, PROPN 
+IECE, PROPN 
+Tech, PROPN 
+Rep., PROPN 
+June, PROPN 
+
+, SPACE 
+1956, NUM 
+p., NOUN 
+1, NUM 
+Japanese, PROPN 
+
+, SPACE 
+Y., PROPN 
+Watanabe, PROPN 
+Y., PROPN 
+Tsuda, PROPN 
+E., PROPN 
+Mori, PROPN 
+Jpn, PROPN 
+J., PROPN 
+Appl, PROPN 
+Phys, PROPN 
+34, NUM 
+
+, SPACE 
+1, NUM 
+1995, NUM 
+2730, NUM 
+
+, SPACE 

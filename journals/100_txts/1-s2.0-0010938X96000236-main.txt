@@ -1,0 +1,940 @@
+Corrosion Science, Vol. 38, No. 8, pp. 1331-1356, 1996 
+Copyright 0 1996 Published by Elsevier Science Ltd 
+Printed in Great Britain. All rights reserved 
+001&938X/96 %15.00+0.00 
+PII: SOOlO-938X(96)00023-6 
+THE CORROSION OF A 12Cr ALLOY IN A CARBONIC ACID 
+ENVIRONMENT IN A HIGH-PRESSURE STEAM TURBINE 
+J. M. LYONS? and J. CORISHS 
+t Electricity Supply Board, Shannonbridge, Co. Offaly, Republic of Ireland 
+1 Department of Chemistry, Trinity College, Dublin 2, Republic of Ireland 
+Abstract-The kinetics of the corrosion of the turbine blade material 12Cr steel has been studied for periods of up to 
+18 x lo3 h on specimens located in an in situ rig attached to a working turbine. Measurements made on the 
+distribution of carbon dioxide between the vapour and liquid phases in an in-service turbine had shown that the 
+CO2 greatly favours the liquid phase. Specimens were exposed which had been prepared with either electropolished 
+or silicon carbide-finished surfaces. Both exhibited parabolic kinetics after an initial lag time had elapsed with the 
+measured parabolic rate constant, k,, being 0.49 x lo-’ and 1.05 x 10m5 mg’ crnm4 for the electropolished and SiC- 
+finished specimens, respectively. The nature of the corrosion products has been determined using SEM, XRD, 
+EPMA, XPS and SIMS with particular attention to the inner oxide layer that formed on the metal substrate. Similar 
+specimens were also exposed under the same conditions in a laboratory test rig in which the concentrations of both 
+COz and O2 were carefully controlled. Copyright 0 1996 Published by Elsevier Science Ltd 
+Ke.vwords: A. acid solutions, A. alloy, A. steel, C. oxidation. 
+INTRODUCTION 
+There is little variation world-wide in the material used for the manufacture of turbine 
+blades for use in power generation facilities. Resistance to oxidation and other types of 
+corrosion is a prerequisite together with appropriate mechanical properties. This paper is 
+concerned with the resistance of 12Cr stainless steel, a material that is used very extensively 
+for such blades, to in-service attack by carbon dioxide. Steam turbines in the electric utility 
+industry are designed to operate with approximately 10% moisture content so that their 
+thermodynamic operating efficiency is maximized. The moisture content, generally referred 
+to as the wetness fraction, is manifested in the last few rows of blades in the low pressure 
+(LP) end of the turbine, prior to the steam entering the condenser. As steam expands 
+through the turbine it gradually loses its degree of superheat and the solubilities of the 
+impurities that it carries decrease. Within the wet steam region, the area most at risk is where 
+the first condensate occurs: this is commonly referred to as the Wilson line. This means that 
+the LP end of the turbine is exposed to the most corrosive environment and this can result in 
+failure of turbine blades due to stress corrosion cracking (SCC). ‘,* 
+A primary source of CO2 in turbine steam is from the ingress of organic matter in the 
+make-up water to the thermal cycle and its subsequent decomposition by pyrohydrolysis. 
+The products of this decomposition have been identified as being principally CO2 and to a 
+significantly lesser extent acetic, butyric, formic and propionic acids. Because a two-phase 
+system exists in the LP end of the turbine the distribution coefficient of CO2 between the 
+Manuscript received 19 October 1995; in amended form 8 January 1996. 
+1331 
+1332 J. M. Lyons and J. Corish 
+vapour and liquid phases under the operating conditions is of paramount importance to the 
+corrosion process. A study of this distribution carried out in a working turbine has recently 
+been reported, which shows that the CO2 greatly favours the liquid phase and that the 
+concentrations attained in that phase can exceed those in the bulk steam by more than an 
+order of magnitude.3 While complete condensation of the steam would lead to high 
+concentrations of CO* in the liquid phase, the extent to which this process occurs in the LP 
+end of the operating turbine will depend on the mass transfer coefficient between vapour and 
+liquid phases and consequently the concentration in the liquid phase may not be as high as is 
+predicted. Chemical measures are used in an effort to protect the metal surfaces of the 
+various turbine components. These involve the use of volatile amines such as hydrazine 
+(N*Hd) morpholine (CdHsNO) and cyclohexylamine (ChHtsN), which are weakly basic but 
+which differ somewhat in their basicity and in the extent of their hydrolysis. It is obvious that 
+their effectiveness in neutralizing wet steam acidified by CO* also depends on their 
+distribution between the vapour and liquid phases in the working turbine. Dissolved oxygen 
+is always present in the boiler-turbine cycle, but its concentration is generally maintained 
+below 5 pg kg- ’ by mechanical deaeration and by the addition of hydrazine. It is regarded 
+as the primary cause of corrosion of carbon steel components in the boiler, but its corrosive 
+action on 12Cr stainless steel in the presence of CO2 has to date merited little investigation. 
+The overall chemical reaction representing the interaction of high-temperature water/ 
+steam with iron may be written simply as: 
+3Fe + 4H20 P Fe304 + 4H2 (1) 
+The mechanism of formation and progress of the reaction is complex, being generally 
+diffusion controlled by the transport of iron ions by an outward movement and the inward 
+movement of oxygen ions through the oxide layer.4 Oxide nuclei formed in an activated 
+process on the surface’ expand in a lateral direction on the surface until they meet with other 
+nuclei which form an oxide layer which may be either protective or non-protective. The 
+protective layers, which subsequently grow according to a parabolic rate law, can have 
+either single or duplex layer morphology. Single layers on these substrates have been found 
+to consist of similar columnar grains: the inner layers consist of fine equiaxed grains. In 
+general, studies of gas-metal interfaces suggest that single layers grow at the oxide-gas 
+interface following metal ion diffusion across the oxide and this diffusion is generally along 
+oxide grain boundaries6 The outer layer of the duplex scale also grows at the oxide-metal 
+interface, at such a rate that the boundary between the inner and outer layer usually lies at 
+the position of the original metal surface.’ Although the volume of the growing oxide, 
+whether single or duplex, exceeds that of the original metal substrate, this process may not 
+necessarily create any stress because the new oxide grows in an unconstrained space at the 
+external surface. 
+The rate of oxidation of steels in dry steam follows a parabolic relationship and the 
+growth of the oxide layer can generally be represented by the equation: 
+(Aw/u)* = 2k,t (1) 
+where (Awja) is the weight gain per unit area, k, a parabolic rate constant and t is the time. A 
+compact magnetite (Fes04) layer that develops and adheres to the surface ensures that the 
+grain structure of the substrate alloy is then protected against corrosive environments 
+encountered in well-operated boiler-turbine systems. 
+The corrosion of a 12Cr alloy 1333 
+When the exposed metal contains added chromium, as is the case for the standard 
+turbine blades, then Crz03 is formed together with the normal corrosion product magnetite. 
+Increasing the chromium content produces a Cr203 film more resistant to acid 
+environments, and this film has been stated to provide satisfactory resistance to wet 
+steam.4 High chromium steel is initially attacked at the same rate as is bright mild steel, but it 
+rapidly builds up a self-healing passive oxide film which is then protective. Chromium has a 
+greater affinity for oxygen than has iron, but the Cr203 layer can only afford protection if it 
+remains intact. Wood et a1.8 have described the initially more rapid and finally slower 
+oxidation of iron alloys containing only small quantities of chromium in gas-metal 
+reactions. There are other studies’.” that explore the nature of the Cr203 layer and the 
+mechanism whereby it affords protection when it forms on iron alloys with varying 
+chromium content. The resistance of stainless steel to acidic environments in general is 
+further improved by the addition of molydenum.” Because of the importance of the 
+corrosion of LP blades and SCC in this process, considerable research is also directed at 
+designing out mechanical problems and at achieving a complete understanding of the 
+chemistry of steam and turbine deposits.2~‘2-‘4 However the study of magnetite growth 
+under the conditions existing in a typical turbine has generally been confined to that 
+occurring on low alloy steels and plain carbon steel and the effect of adding chromium to the 
+substrate metal has not been reported. 
+The surface condition of an alloy can play a significant role in its ability to establish a 
+resistance to corrosion and the nucleation and growth of an oxide film is very sensitive to the 
+condition of the substrate surface.’ 5 The degree of roughness of a surface is related to the 
+area in contact with its environment, but even more important is the effect that surface 
+treatment can have on sub-surface diffusion rates. The surface condition most closely 
+approximating that of a turbine blade is a suitably Sic-finished (cold-worked) surface where 
+there is deformation of the surface material to a depth of N 5 pm. Work-free surfaces are 
+produced by chemical treatments such as electropolishing or etching or by annealing in 
+vucuo: mechanical polishing is used to produce structurally strained surfaces. Surfaces 
+produced using these preparative techniques will, in general, carry a prenucleation oxide 
+film due to exposure to air which decreases the surface reactivity.16 The effects of surface 
+preparation have been elucidated in experimental studies of the gas-metal interface for both 
+pure metals and alloys17-‘9 and at high temperatures cold working has been shown to 
+promote the selective oxidation of chromium.20-22 It is generally agreed that this selective 
+oxidation is due to short circuit diffusion of this element along the grain boundaries leading 
+to the fast development of a continuous Cr203 layer. The present work will determine 
+whether behaviour similar to that observed at the gas-metal interface occurs in the lower 
+temperature steam/water-alloy reactions. 
+The growth mechanism of the characteristic duplex magnetite layers formed on mild 
+steel in boilers under normal operating conditions has been the subject of a model proposed 
+by Potter and Mann23 that involves the outward movement of iron ions and the inward 
+counter flow of oxygen ions by solid-state diffusion through the bulk crystal lattice and via 
+grain boundaries. Other ~ork~~ by the same authors suggested that another model in which 
+the oxidant is supposed to have close access to the metal surface through a network of 
+interconnecting pores23 is applicable to the growth of magnetite in high purity water of low 
+alkalinity and this model is supported by later studies.25,26 Asakura et a1.27 also presented 
+evidence for two layers in their study of the corrosion behaviour of AISI 304 SS in pure 
+water at temperatures in the range 473-593K. The growth mechanisms of oxides on a 9Cr 
+1334 J. M. Lyons and J. Corish 
+steel in a gaseous environment was studied by Iseda et a1.28 and Lees et aI. with the results 
+showing a duplex layer, the outer being magnetite and the inner an Fe-Cr spinel. Berge et 
+a1.30 have investigated the protective effect of magnetite on bright mild steel in an aqueous 
+environment at 500K. There are apparently no reports in the literature of magnetite growth 
+mechanisms on 12Cr steel in an alkaline environment: neither has the effect of changing this 
+environment to acidic been the subject of research. 
+This paper reports on experiments carried out in a specially designed corrosion rig that 
+was constructed and installed on a 45 MW turbine which has a high concentration of CO1 
+present: the operating pressure was 9.6 MPa and the steam temperature at inlet to the 
+turbine was 791K. The rig was connected to a bleed stream where the pressure was 
+0.235 MPa (abs) and the temperature 400K, since this was the region of the turbine where 
+the first condensate was calculated to form on the 12Cr blades as determined from design 
+data supplied by the manufacturers (C. A. Parsons, Newcastle, U.K.). The monitoring 
+period extended over 3 years so that a meaningful pattern could be established in the 
+corrosion pattern and multiple specimens of 12Cr steel, with both cold-worked and 
+electropolished surfaces, were exposed to determine the effects of surface finish on the 
+corrosion process. The work makes extensive use of a variety of structural techniques and so 
+encompasses an assessment of the influence of the microstructure and thickness of the oxide 
+layer on the corrosion. The kinetics were measured using discontinuous gravimetry. The 
+corrosion of the 12Cr material has been studied in a working environment containing CO*, 
+with emphasis on the mechanisms of protection afforded by magnetite and chromium oxide 
+layers against the agressive CO* environment. 
+In a second segment of the study, a laboratory system was built to investigate corrosion 
+processes on the 12Cr alloy, with varying concentrations of CO* in conjunction with varying 
+concentrations of 02 under ideal laboratory conditions. This approach to a proper 
+assessment of the problem was considered necessary because air ingress (including COZ) at 
+the low pressure end of a turbine can occur for periods of varying length, often depending on 
+the frequency of shutdowns. The effect of CO2 on 12Cr steel in the presence of 02 and 
+without the protection of a magnetite layer, was studied in these laboratory experiments. 
+EXPERIMENTAL METHOD 
+Alloy composition and specimen preparation 
+The material used for the experiments was a 12% chromium molybdenum stainless steel 
+bar in the softened condition and was supplied by the turbine manufacturers, having been 
+selected at random. It was analysed prior to use by optical emission spectrometry and was 
+found to conform to the standard specifications of the manufacturer: these data are given in 
+Table 1. The specimens that were exposed were in the form of discs of dimensions: 
+thickness = 6 mm, diameter = 2 mm and square specimens of dimensions 15 x 15 mm and 
+6 mm thick. These were initially machined very carefully, to avoid careless abrasion cuts, 
+from the as-received bar. Since the influence of surface condition on the corrosion behaviour 
+was one of the factors to be investigated, two different surface finishes were applied. The 
+mechanically deformed “cold-worked” surface was achieved by grinding with “180 grade” 
+silicon carbide paper using an automatic grinding technique. This ensured uniform 
+treatment of all the specimens by controlling the variables involved in the process, such as: 
+grinding pressure, speed and time, the condition of the SIC paper and the use of water as a 
+lubricant. Both flat faces of the specimens were ground for a period of 30 s with constant 
+flowing water: this gave a reproducible depth of deformation of the worked layer of _. 
+- 5 pm.3’ The work-free surface was achieved by electropolishing in an electrolytic bath of 
+15% H$SOd in methanol. A 10-15 V potential was applied between the specimen anode and 
+a platinum cathode, the electrolyte was magnetically stirred and the polishing was continued 
+for a period of 60min. Following surface preparation as described, the specimens were 
+ultrasonically cleaned in ethanol, dried to constant weight and stored in a desiccator. A total 
+of 150 specimens, with equal numbers having Sic-finished and electropolished surfaces, 
+were prepared in this manner so that all specimens could be destructively tested. The corrosion of a 12Cr alloy 1335 
+Table 1. Chemical specification of the 12 Cr alloy as given by 
+the manufacturer and as measured in the laboratory 
+Chemical composition (wt%) 
+Component As measured Specification 
+Min Max 
+C 0.136 
+Si 0.260 
+Mn 0.565 
+P 0.007 
+S 0.010 
+Cr 11.760 
+Ni 0.400 
+MO 0.476 
+cu 0.066 
+Al 0.007 
+Ti 0.003 
+Nb <O.OOl 
+V 0.011 
+W <O.OOl 
+Cd 0.016 
+Sn 0.007 
+B 0.003 
+N 0.060 0.09 0.15 
+0.50 
+0.70 
+0.04 
+0.03 
+11.50 13.00 
+0.60 
+0.40 0.80 
+Not specified in 
+supply contract 
+document 
+In situ measurements 
+The in situ exposures were made in a test chamber designed to receive a sample of steam 
+from the bleed pipe supplying steam from the LP section of the turbine to the deaerator on a 
+45 MW single cylinder turbine. The test rig, shown in Fig. 1, was constructed of AISI 3 16 SS 
+material.32 Argon arc welding was used throughout and the joints were ground, polished 
+and microscopically examined to ensure the elimination of all potential sources of corrosive 
+contaminants. The lid of the chamber was fitted with runners on to which the racks carrying 
+the specimens were attached. Each rack had a capacity for nine specimens and a total of 72 
+test specimens, both Sic-finished and electropolished were placed in the test rig to facilitate 
+destructive testing techniques. They were insulated from metal to metal contact with the 
+racks by means of Teflon (PTFE) liners, the use of which was found to be satisfactory at 
+550K in earlier analogous studies.33,34 
+The outlet from the test chamber was connected to the condenser flashbox, which was at 
+negative pressure, through a non-return valve and with a sample line inserted into the outlet 
+1336 J. M. Lyons and J. Corish 
+(4 (b) 
+1: Inlet Steam 7: Non-return Valve 
+2: Isolation Valves 8: Sample Cooler 
+3: Reaction Chamber 9: Cooling Water In 
+4: Baffle 10: Cooling Water Out 
+5: Temperature Probe 11: Condensed Steam Out 
+6: Pressure Probe 12: To Condenser Flash Box 
+Fig. 1. Schematic representation of the in situ rig that was attached to the turbine: (a) reaction 
+chamber and connections; (b) specimen holding rack (not to scale) in which the specimens were 
+insulated from the stainless steel rack using teflon liners; the rack was suspended from the lid of the 
+reaction chamber. 
+pipe which provided samples with a stainless steel cooler. These samples were routed to a 
+cation conductivity (CC) monitor (Model 4510 Kent Conductivity Monitor with automatic 
+temperature compensation) and an 02 monitor (Model 27 13 Orbisphere Dissolved Oxygen 
+Monitor), which provided continuous readouts and recording of data. The dissolved oxygen 
+concentration was verified each week by the calorimetric (CHEMetrics ampoules) 
+method.35 In addition, grab samples of superheated steam condensate together with 
+samples from the test rig were, where feasible, were taken each week and analysed for: total 
+iron, COZ, SOd2-, Cl-, Na+, acetic, butyric, formic and propionic acid contents. The 
+measurements of the concentrations of the carbonic acid and organic acids were carried out 
+using ion chromatography. The concentrations of carbonic acid determined in this manner 
+were compared with those predicted by the CC method. The close agreement found between 
+the measured and predicted values, i.e. within f 5%, indicated that only very small 
+concentrations of other ions were present in the steam. This was confirmed by the Cl- and 
+so4 2- ion measurements which were < 2 pg kg-‘. The CC of the superheated steam 
+The corrosion of a 12Cr alloy 1337 
+entering the turbine was also monitored continuously and recorded and compared with the 
+data from the test rig instrument. The temperature and pressure in the reaction chamber 
+were measured through special tapping points using sensors. The entire assembly was lagged 
+with aluminium-clad glasswool and the measurements showed that pressure and 
+temperature losses were negligible. 
+The test specimens were exposed for periods of not less than 18 x lo3 h operating time 
+with analyses being performed at intervals of 3 x lo3 h. Gravimetric kinetic measurements 
+and structural analysis data were obtained after all six time intervals. Weight gains were 
+measured to within 50 pg using a OHAUS 110 microbalance. During the time over which 
+the experiments were done the turbine was off load for two periods of 1700 h each for 
+routine maintenance. Further downtime periods of short duration amounted in all to 1850 h 
+so that the experiments spanned a total period of 23.25 x lo3 h. During turbine outages 
+dehumidified air was pumped through the turbine and also the rest rig so that the specimens 
+were at all times in the same environment as were the turbine blades. 
+The laboratory test rig 
+The laboratory test rig, shown in Fig. 2, was designed to carry out in the laboratory 
+experiments analogous to those carried out in the in situ exposures. These experiments 
+enabled the effect of varying the concentration of CO* in association with varying the 02 
+1: Site for conductivity 7: Mixing coil 
+measurements 8: 02 Inlet 
+2: Site for 02 9: Condensed steam 
+measurements inlet 
+3: Sample cooler 10: HzCOs solution 
+4: Reaction vessel 11: Peristaltic pump 
+5: Specimen holder 12: Sample from reaction 
+6: Heater vessel 
+Fig. 2. Schematic diagram of the test rig used for the laboratory experiments. 
+1338 J. M. Lyons and J. Corish 
+concentration under carefully controlled conditions to be investigated and also provided 
+independent control data for evaluation purposes. Since O2 can be a primary source of 
+corrosion in the form of pitting of the metal surface, especially when small amounts of 
+chloride and sulphate ions are present, great care was taken to ensure that the 
+concentrations of these two anions were maintained at < 2 pg kg- ’ during the 
+experiments. The feedwater supply to this test rig was deoxygenated and deionized 
+condensed steam with a conductivity ~0.1 pg cm-’ at 298K and the chosen 
+concentrations of CO2 and O2 were added to this. The dissolved oxygen concentration in 
+the reaction chamber was established by accurately controlling the flow of oxygen-saturated 
+feedwater by means of a peristaltic pump: the CO2 concentration was controlled in the same 
+manner. These added solutions were ultimately mixed with the feedwater flow prior to 
+entering the reaction chamber by means of a mixing coil. The racks containing a total of 72 
+insulated test specimens were attached to the lid of the reaction chamber and the solution 
+was continuously stirred. The temperature was maintained at 340K with a pressure of 
+0.1 MPa (abs) for the duration of the experiments. These values were chosen because they 
+cover the range of values of these parameters for the three relevant bleeds of the 45 MW 
+turbine at full and 50% load. Two series of experiments were performed in this model 
+system. In the first, Regime A, the 02 concentration was maintained in the range 8- 
+lOpgkg-’ with a CO* concentration 1000 pg kg- ’ k 5%. In the second, Regime B, the 
+O2 concentration was held at 200 pg kg-’ f 5% with the COZ concentration as it was in 
+the first series. The higher concentration of oxygen was used because observations made 
+during the early states of the in situ study showed that oxygen concentrations of this 
+magnitude could be maintained for periods of - 1000 h after a turbine cover lift and for 
+periods of 24-48 h due to infrequent minor air in-leakages. The test specimens used in the 
+model rig were prepared as for the in situ experiments and were exposed to each of the test 
+environments for a total period of 3 x lo3 h: they were removed for analysis at intervals of 
+500 h. The oxygen and CO1 concentrations were determined using the same methods as were 
+used in the analyses of the turbine bleed steam. 
+Analyses of corrosion products 
+The exposed specimens from both the in situ and model systems were characterized as 
+fully as was possible using a range of complementary structural analytical techniques to 
+investigate the morphology, distribution and composition of the phases formed under each 
+exposure condition. The techniques used were diffraction (XRD), scanning electron 
+microscopy (SEM), electron-probe microanalysis (EPMA), X-ray photo-electron 
+spectroscopy (XPS) and secondary ion mass spectrometry (SIMS). 
+X-Ray diffraction measurements were made using a Siemens Type D-500 diffractometer 
+with Cu-Ku radiation and were used for in situ non-destructive analysis of the phases that 
+developed on the alloy surfaces after exposure. The analysis of the diffraction patterns was 
+computer assisted. To assess possible Cr substitution in the magnetite the position of a high 
+angle peak was measured very accurately by adding silicon powder to act as an internal 
+standard. 
+SEM measurements were made with either a Cambridge S360 or a Hitachi S520 
+instrument and were used to examine cross-sections of the exposed specimens as well as their 
+surfaces. Prior to cross-sectioning the specimens were degreased and the surface to be 
+examined was sputter-coated with gold and electroplated with nickel to keep the surface 
+phases intact during polishing. Following mounting in conductive carbon-filled bakelite the 
+The corrosion of a 12Cr alloy 1339 
+specimens were sectioned in the centre perpendicular to the major face and the exposed 
+section polished by grinding on successively fine emery paper. Finally the surface was 
+prepared using y-alumina powder of particle size 0.5 pm slurried in water. 
+The morphology and distribution of the phases formed on the alloy surfaces were also 
+investigated using EPMA with spectrometers attached to both SEM instruments each with 
+energy dispersive Si(Li) detectors and tungsten hairpin filament emitters. The X-ray spectral 
+information provided elemental point analyses of selected areas and features on the surface 
+via standard analytical software. 
+XPS analyses were carried out on a Kratos XSAM 800 instrument fitted with a Kratos 
+Minibeam I argon ion sputtering source operating at 3 kV and 4 PA to effect depth profiling. 
+Spectra were recorded with monochromated Al-Ku X-rays (hv = 1486.6 eV) at an anode 
+power of 240 W. Electron take-off was at 90” to the sample surface giving a typical depth of 
+analysis of 3&50 A. The instrument was microprocessor controlled with the binding energy 
+(B.E.) calibration based on measurement of the Au4f7,z line at 84.0eV which, under the 
+operating conditions, has a resolution of - 1.2 eV. A low energy electron flood compensated 
+for any build-up of charge on sample surfaces and peaks were, in addition, charge corrected 
+by setting the Cls line for adventitious hydrocarbon at 285 eV. 
+SIMS spectra and their attendant depth profiles were measured on a VSW DPS 10 
+duoplasmatron system operating with oxygen gas (02+) at 5 kV and 75 nA. A raster-gated 
+mass-selected analysis from a 10% area centred in a 200-300pm region on the sample 
+surface swept out by a 20pm spot was then recorded. A Balzers QHS511, &500 amu 
+quadrupole mass spectrometer with a VSW energy filter attachment was used to identify 
+and quantify the secondary ions. A single channeltron electron multiplier located 90” off- 
+axis to ensure high-sensitivity ion detection was used in the counting system. 
+EXPERIMENTAL RESULTS 
+Corrosion kinetics 
+The kinetic data were derived from weight measurements of triplicate samples and are 
+shown in Fig. 3. The corrosion of specimens prepared with both surface finishes was found 
+to follow parabolic kinetics as expressed in equation (2). A plot of the weight gain per 
+surface area, Awla, against elapsed time gave values for the parabolic rate constants of: 
+k, = 0.50 x 10 -5 mg* cmp4 h- ’ and k, = 1.03 x 10e5 mg-* cme4 h-’ for the electropolished 
+and Sic-finished surfaces, respectively. As subsequent detailed comparisons of the 
+corrosion behaviour of the alloy with regard to surface finishes will reveal, the principal 
+difference is this factor of approximately 100% in their weight gains after the 18 x lo3 h 
+period of exposure. The parabolic growth rate observed for both surface finishes indicates 
+that the reaction is controlled by diffusion through compact growing layers.4 As is evident 
+the initial stages of the exposure, especially for the Sic-finished surface do not conform to 
+parabolic kinetics: these differences in start-up kinetics observed between samples with 
+different surface finishes will be discussed in detail later. 
+Structural studies of the corrosion products 
+Scanning electron microscope. The corrosion products on the Sic-finished specimens in 
+the in situ experiments consisted of two distinct layers: an inner smooth layer of fine-grained 
+oxide and an outer layer of loosely adherent octahedral- and tetrahedral-shaped crystals of 
+varying dimensions. SEM images of the surfaces were used to monitor changes in surface 
+1340 J. M. Lyons and J. Corish 
+I.0 
+0.8 - 
+p! 
+E 
+” 0.6 - 
+E 
+.e 
+E 0.4 
+.z 
+IO.21 ,;/%/= 
+.;’ 
+.“,’ , Ic I I I I 
+0 3 6 9 12 I5 
+Time (h) x IO3 
+Fig. 3. Kinetic data measured for the silicon carbide-finished (-x- Sic) and electropolished 
+(-o- EP) specimens of the 12Cr alloy in the in situ test rig. 
+phase morphology, in the degree of coverage and other surface features. Although the 
+images taken at different exposure times did not refer to the same surface, because the test 
+specimens were not returned to the test rig after analysis, a consistent pattern of behaviour 
+was observed. The surfaces were examined after exposure periods of 3, 6, 9, 12, 15 and 
+18 x lo3 h. Cross-sectional metallography was also used to derive information about the 
+growth process of the underlying oxide layers. After SEM imaging of their surfaces the 
+specimens were sectioned, as described previously, and the thicknesses of the underlying 
+oxide layers were measured. To obtain a statistically representative value for these 
+thicknesses, the average of 28 measurements was taken for each of the cross-sections. 
+These measurements revealed the layers to be very uniform with little variation from place 
+to place over the entire exposed surface: the measured thicknesses are given in Table 2. 
+SEM images of the surfaces of Sic-finished specimens exposed for periods of 3 x 1 O3 and 
+12 x lo3 h are shown in Figs 4(a) and (b), respectively. These are representative of the full 
+sequence of images which showed that the sizes of the crystals present on these oxide 
+surfaces varied from less than 1 pm up to 12 pm with no apparent correlation between the 
+size of the crystals and the length of exposure of the particular specimen, after the first 
+exposure period. The shapes of the crystals tended to be flat and irregular for the period of 
+3 x lo3 h, but after subsequent periods of exposure, many well-developed octahedral-shaped 
+crystals were evident. There was clear evidence that the microcrystals tended to align along 
+the surface grooves produced by the grinding technique, which would indicate that these 
+scratches were acting as preferred nucleation or deposition sites. Crystals which at first 
+appeared to be globular were revealed by closer inspection to consist of agglomerates of 
+many smaller crystals. After 6 x lo3 h the crystals had more regular shapes and the 
+The corrosion of a 12Cr alloy 1341 
+Table 2. The thickness measurements (each is the 
+average of 28 readings) of the inner oxide layers formed 
+on the 12 Cr alloy on silicon carbide (Sic) finished and 
+electropolished (EP) surfaces 
+Exposure time 
+(h x 103) 
+3 
+6 
+9 
+12 
+15 
+18 Surface condition 
+Sic EP 
+412nm 269 nm 
+632 nm 471 nm 
+685 nm 592 nm 
+1170nm 681 nm 
+980 nm 706 nm 
+1080 nm 696 nm 
+population density of the larger crystals was seen to continue to increase slightly: after 
+9 x lo3 h exposure their shapes tended to deteriorate. This observation was not fully 
+understood and, while not evident after exposures of 12 x lo3 and 15 x IO3 h, it was again 
+apparent after 18 x 1 O3 h. 
+SEM images of the cross-sections of the inner oxide layers developed on the Sic-finished 
+surfaces also after periods of 3 x lo3 and 12 x lo3 h are shown in Figs 5(a) and (b), 
+respectively. As is apparent the compact fine-grained layer after 3 x lo3 h was uniform in 
+appearance with no evidence of crystal or nodular growth, an average thickness of 412 nm 
+and with crystals sitting on the surface. The layer increased in thickness during the exposure 
+times of 6, 9 and 12 x lo3 h, but thereafter showed no increase in thickness. The small 
+decrease in this measurement for the exposure periods of 15 x lo3 and 18 x lo3 h is not 
+regarded as significant (Table 2). Essentially the thickness of the inner layer was of similar 
+magnitude for the exposure periods of 12, 15 and 18 x lo3 h and there was no increase 
+apparent in the population density of the surface crystals. 
+An analogous sequence of SEM images taken of the electropolished specimens again 
+revealed consistent behaviour, but with a pattern somewhat different from&hat observed on 
+the Sic-finished material. After an exposure of 3 x lo3 h there was now only a minimal 
+number of well-developed crystals in evidence and the outer layer consisted of a lateral 
+spread of globular crystals in agglomerate form. Some minute scratches present, which were 
+considerably less deep than the grooves on the Sic-finished surfaces, did not give rise to any 
+significant preferential growth. SEM micrographs of typical surfaces taken after 3 x lo3 and 
+12 x lo3 h exposures are shown in Figs 6(a) and (b), respectively: the corresponding SEM 
+images of the cross sections of the inner oxide layers are shown in Figs 7(a) and (b). While 
+the oxide layer was present after 3 x lo3 h, it was not uniform and appeared to be extending 
+irregularly into the alloy substrate. Both a well-developed inner oxide layer and a 
+population of well-formed octahedral crystals were evident after a 6 x lo3 h exposure 
+together with some globular crystals. The inner layer, now of average thickness of 471 nm, 
+again showed an irregular pattern at the alloy substrate boundary. After 9 x lo3 h the 
+population density of well-defined crystals in the outer layer again increased and these were 
+randomly distributed. For exposure periods of 12, 15 and 18 x lo3 h there was no further 
+increase in either the population density or the size of the crystals. There was a modest 
+increase in the inner layer thickness, 592 nm at 9 x lo3 h to 681 nm at 12 x lo3 h, but for the 
+1342 J. M. Lyons and J. Corish 
+Fig. 4. SEM micrographs of the corrosion products on Sic-finished surfaces: (a) after 3 x IO3 hand 
+(b) after 12 x lo3 h, each shown at two magnifications: the scales on the micrographs are in pm. 
+W The corrosion of a 12Cr alloy 
+Fig. 5. SEM micrographs of cross-sections of the corrosion products on Sic-finished specimens 
+after (a) 3 x IO3 h exposure and (b) 12 x lo3 h exposure, each shown at two magnifications: the scales 
+on the micrographs are in pm. 
+J. M. Lyons and J. Corish 
+Fig. 6. SEM micrographs of the corrosion products electropolished surfaces, (a) after 3 x lo3 h 
+exposure and (b) after 12 x lo3 h-exposure, each shown at two magnifications: the scales on the 
+micrographs are in pm. 
+The corrosion of a 12Cr alloy 1345 
+09 
+Fig. 7. SEM micrographs of cross-sections of the corrosion products on electropolished specimens 
+after (a) 3 x IO3 h exposure and (b) 12 x lo3 h exposure, each shown at two magnifications: the scales 
+on the micrographs are in pm. 
+1346 J. M. Lyons and J. Corish 
+subsequent periods of exposure the thickness did not show any further significant increase: 
+after 18 x IO3 h it stood at an average of 696 nm (Table 2). 
+X-ray dzfiaction. The phase formed on the alloy surface was identified by reference to 
+the powder diffraction file (PDF) system. Despite extensive searches for other likely 
+candidates the only phase detected was magnetite (Fe304). The magnetite peaks were clearly 
+evident on a specimen exposed for 15 x IO3 h with the strongest peak being due to iron. Thin 
+film geometry was used with the maximum signal being obtained with a fixed 0 angle of 4” 
+and scanning in 28. The substitution of Cr for Fe causes only a very small change in lattice 
+parameters36 so that the XRD patterns of Fe-Cr and FeCrzOd (chromite) are almost 
+identical to those of Fe and Fe304 (magnetite). Attempts to measure Cr substitution in the 
+magnetite using a thin layer of silicon as an internal standard and a very slow scan of the 
+relevant region were unsuccessful: the CrzOs phase was also undetected. The XRD 
+measurements indicated that the oxide layer was virtually pure magnetite, but it is 
+probable that the crystals on the oxide surface, because of their size, would have masked 
+any signal from the underlying layer at low 9 during a glancing incidence scan. Hence no 
+reliable information was derived from XRD on the composition of the inner oxide layer. 
+Electron probe microanalysis. The two layers identified by the SEM examinations of the 
+corrosion products were analysed separately using EPMA. Five large crystals of the outer 
+porous layer whose size would minimize penetration of the electron beam into the 
+underlying oxide layer and alloy substrate were selected for analysis on each test 
+specimen: the averages of these five measurements were taken. The chemical composition 
+of the crystals on both electropolished and Sic-finished surfaces confirmed the XRD 
+findings that Fe304 was the only phase present in the crystals. Surface preparation did not 
+have any apparent effect and the quantity of Cr detected at less than 2.0 wt% was very low. 
+A slightly higher Cr content at 2.1 wt% measured after 3 x lo3 h exposure of the 
+electropolished surface was probably a result of a contribution from the substrate metal 
+due to the absence of crystals and the very thin oxide layer. The EPMA results for the 
+underlying fine-grained oxide layer are summarized in Table 3. While there is some random 
+variation in the amounts of Fe, Cr and 0 found to be present after the various exposure 
+times this is not regarded as significant and is probably due to the relative thicknesses of the 
+inner layer that was being analysed. The most important result is the consistent increase in 
+the Cr content with exposure time. 
+XPS analysis and depth profiling. An independent depth calibration-time depth 
+relationship was established for the XPS measurements using the argon ion sputter source 
+on test specimens with both Sic-finished and electropolished surfaces prior to their 
+exposure. A wide energy (1100-O eV) scan was used to establish which elements were present 
+and the following spectral regions Fe2p (735-700 eV), Cr2p (595-565 eV), 01s (543-523 eV) 
+and Cls (297-277 eV) were subsequently scanned with improved resolution both before and 
+after each period of etching. Expanded BE scale plots for these main photo-electron lines 
+were used to calculate the elemental concentrations (%) of these species for each surface 
+examined and the results showed clearly that the surface of each sample examined was 
+heavily contaminated with a carbonaceous material that gave large contributions from the 
+Cls spectral line.37 Depth profiles recorded for specimens prior to acid steam exposure for a 
+total time of 12 min showed a sharp decrease in this Cls contribution which subsequently 
+increased a little before levelling off and the 01s mirrored this behaviour almost exactly. The 
+The corrosion of a 12Cr alloy 1347 
+Table 3. Electron probe microanalysts of the inner oxide layers formed on (a) Sic-finished and 
+(b) electropolished surfaces of the 12 Cr alloy after the stated exposure times 
+Chemical composition (wt%) 
+Time (h x 103) Fe Cr Ni Si MO Mn 0 
+(a) SC-finished 
+3 67.6 13.1 0.4 0.3 0.4 0.6 11.6 
+6 59.3 13.6 0.4 0.3 0.4 0.3 25.8 
+9 65.7 13.9 0.5 0.6 0.5 18.4 
+12 59.8 15.3 0.4 0.3 0.4 0.3 23.5 
+15 54.6 16.9 0.5 0.3 0.5 0.4 26.2 
+18 51.2 17.2 0.5 0.3 0.4 0.4 24.0 
+(b) Electropolished 
+3 69.1 12.3 0.4 0.3 0.3 0.5 17.1 
+6 66.9 13.4 0.4 0.3 0.6 0.5 18.2 
+9 65.1 13.9 0.5 0.4 0.6 0.5 18.4 
+12 63.0 14.3 0.6 0.4 0.6 0.6 20.5 
+15 64.5 14.2 0.5 0.4 0.5 0.5 19.4 
+18 60.7 15.3 0.4 0.3 0.3 0.4 22.5 
+initial binding energy positions of the Fe2p and Cr2p peaks indicate that these elements were 
+present as FC304 and/or Fez03 (-710.9 eV) and Cr203 (-576.6 eV), respectively. The 
+spectral envelopes changed with etching as shown in Fig. 8 with the Fe binding energy going 
+to - 706.4 eV and that of Cr2p to - 574.3 eV, indicating the presence of the metallic state for 
+both elements in the sub-surface region. No additional changes over those illustrated for the 
+8 min etch in Fig. 8 occurred during a prolonged test etch period of 58 min. 
+XPS measurements on samples with both surface finishes which had been exposed in the 
+rig showed no significant differences between the corrosion products which formed on the 
+two surface finishes. Very much longer sputter etching times were required to achieve a near- 
+equilibrium composition and the data shown in Fig. 9, which refer to a Sic-finished 
+specimen exposed for 18 x lo3 h, illustrate how the per cent atomic concentrations of the 
+principal species vary over a 960 min time interval. There was little or no variation in the 
+shape of the Fe2p spectral envelope until -600 min, after which it broadened and a 
+pronounced shoulder developed on the low binding energy side. This additional feature at 
+-706.3 eV was attributed to metallic iron. Analogous behaviour by the Cr2p envelope 
+produced a shoulder at - 574.3 eV after 960 min of sputter which corresponded to metallic 
+chromium. The rapid decrease in intensity of the Cls line indicated that the original surface 
+was heavily contaminated with carbonaceous species. The persistence of the 01s layer until 
+- 500 min provided evidence for the oxide layer. 
+SIMS analysis and depth profding. A procedure analogous to that adopted for the XPS 
+analysis, in which an independent depth calibration-time depth relationship was 
+determined on Sic-finished and electropolished specimens before they were exposed to the 
+corrosive environment, was followed for the SIMS measurements. The 02+ ion was used 
+and the following six masses were recorded: 23(Na+), 52(Cr+), 62(Fe+), 68(CrO+), 
+72(FeO+) and 12(C+). Depth profiles, all as a function of etch time, were constructed 
+1348 J. M. Lyons and J. Corish 
+Binding energy 
+(b) 
+(iv) 
+(iii) 
+(ii) 
+(i) 
+Binding energy 
+Fig. 8. XPS measurements from an Sic-finished specimen before exposure. The spectral envelopes 
+for (a) Fe2p and (b) Cr2p were determined (i) as prepared, (ii) after sputter etching for I min, (iii) after 
+3 min and (iv) after 8 min total etch time. 
+showing: (i) the intensities of the six masses, suitably scaled; (ii) the ratios Cr+:Fe+ and 
+CrO’:FeO+; and (iii) the ratios Fe +:FeO+ and Cr+:CrO+. The full details of the 
+techniques used will be published elsewhere.38 
+The Sic-finished reference sample was considerably more contaminated than was the 
+electropolished surface, presumably because of the preparation process. Significant organic 
+fragments were removed after only a very brief etch time, Na+ and K+ peaks attributable to 
+normal handling contamination were more persistent and the samples were shown to have 
+thin metal oxide layers. The electropolished reference sample showed very little organic 
+contamination but had strong Na+ and Kt peaks as well as peaks corresponding to Fe+ 
+and Cr+, cf. Fig. 10(a). After etching for 1Omin at lOOnA all the Na+ and K+ had 
+disappeared and oxide peaks of both Cr and Fe were visible. Because of the extensive work 
+involved in the full SIMS analyses that were carried out, only those test specimens that had 
+undergone in situ exposure for periods of 3 x lo3 and 18 x lo3 h were examined in this way. 
+Sic-finished specimens exposed for each of these time intervals showed contamination 
+with organic material. The depth profile for the 3 x lo3 h specimen showed no CrC peak at 
+The corrosion of a 12Cr alloy 1349 
+-e- Cls 
+* 01s 
+- Fe2p 
+* Cr2p 
+0 
+0 200 400 600 600 1000 
+Etch time ( min. ) 
+Fig. 9. Changes in the per cent atomic concentrations for the relevant elements with etch time 
+measured on a Sic-finished specimen that had been exposed in the in situ rig for a total of 18 x 1 O3 h. 
+the surface, but it then quickly became evident, peaked after a 100 min etch at 2.5 nA and 
+thereafter decreased to a steady value after a further 140 min of etching. There was also a 
+gradual increase in the metallic nature of both the Fe+ and Crf present. There were some 
+experimental difficulties with the Sic-finished specimen exposed for 18 x lo3 h, possibly 
+because of charge build-up as a result of the retention of small particles of the insulating SIC 
+in the corrosion layer. The Fe+ and FeOf peaks were the main signals both initially and 
+after additional sputtering. 
+Figure 10 is a comparison of the depth profiles obtained for a reference electropolished 
+specimen and for a similarly prepared sample that had been exposed for 3 x lo3 h. An 
+examination of the various ion yields for the latter (Fig. 10(b)) shows that it had an increased 
+Fe+ signal compared to that of Cr + , which decreased linearly to a steady value after 
+- 220 min etching. There were also differences between the Cr:Fe ratios measured for the 
+electropolished and those for the Sic-finished specimens. The electropolished specimen 
+exposed for 18 x 1 O3 h was quite different and showed a depletion of Cr + in the surface layer 
+which was similar to that in the Sic-finished specimen that had been exposed for the same 
+time interval. This depletion lasted through - 90 min etch time before the level of Cr + 
+slowly increased to a maximum, though not quite levelling out. 
+Samples with both surface finishes when exposed for 18 x lo3 h were seen to have 
+mottled surfaces comprising dark and light areas. Mass spectra were obtained on and off the 
+darker areas on the electropolished specimen and the dark areas were found to contain 
+much more Cr+ than did the corresponding lighter areas. This may explain the differences 
+noted above in the depth profiles of the specimens that had been exposed for 18 x lo3 h 
+because the depth profiling process samples a region of the surface that may not be spatially 
+homogeneous. 
+1350 J. M. Lyons and J. Corish 
+0 
+0 110 220 330 440 550 660 770 880 F 
+Etch time ( min ) 
+@I 20000 + 23 Na * 5 
+* 52 Cr L 1 
++ 56 Fe f 1 
+- 68 CrO * 25 
+- 72 Fe0 t 25 
+d 12c *loo 
++ 23 No * 5 
+* 52 Cr * 1 
++ 56 Fe * 1 
+- 68 00 * 25 
++ 72 Fe0 * 25 
+- 12c *lOO 
+Etch time ( min ) 
+Fig. 10. Positive ion depth profiles measured by SIMS for electropolished specimens: (a) the 
+reference surface before exposure; and (b) after 3 x lo3 h exposure in the in situ rig. The intensity 
+counts of the various species have been scaled as indicated in the diagram. 
+Results from the laboratory rig 
+In assuming the role of CO* in the corrosion of a 12 Cr alloy in a working turbine, with 
+all the variable conditions that are unavoidable in such an in situ experiment, it was 
+considered appropriate and necessary to provide the independent control experiment under 
+the model conditions described previously for the laboratory rig. The products were 
+characterized using the same techniques as were used for the samples exposed in situ and 
+routine monitoring of both the make-up water and the experimental environment of the test 
+rig was carried out with corrective action being taken where necessary during the course of 
+the experiments to ensure that the control environments as described were maintained. 
+The corrosion of a 12Cr alloy 1351 
+Kinetic data were derived from weight measurements of triplicate samples removed after 
+each 500 h during the total 3000 h exposure. These observations showed both weight gains 
+and weight losses compared to the base measurements prior to exposure for Sic-finished 
+specimens after 2 x lo3 h and for electropolished specimens after 3 x 1 O3 h. The Sic-finished 
+specimens exposed for 3 x lo3 h did show a consistent positive weight gain, but the overall 
+quality of the data measured in the rig made it impossible to reliably determine a weight gain 
+relationship within the time scale of the experiments. 
+SEM images of the surfaces of both Sic-finished and electropolished specimens exposed 
+in the model rig also proved to be of limited value. Even after 3 x lo3 h there was little 
+apparent change from the reference specimens, although there was an indication of oxide 
+formation in grooves of the Sic-finished specimens after 3 x lo3 h exposure. EPMA analysis 
+to confirm this observation was inconclusive. Cross-sectional metallography did, however, 
+provide strong evidence that an oxide layer was forming on the metal surface. Exposures of 
+both surface finishes to either of the two experimental regimes for 1000 h did not provide 
+any evidence for oxide formation. After 2000 h there were patches of oxide to be seen at 
+random on the surfaces and after the total exposure period of 3 x lo3 h the specimens under 
+both experimental regimes exhibited definite oxide layer presence. There were no apparent 
+differences between the appearances and thicknesses of the oxide layers on specimens with 
+the same surface finish after exposure under either of the experimental regimes used. 
+However, the Sic-finished surfaces had a thicker and more uniform oxide layer than had the 
+electropolished specimens. After 3 x lo3 h this layer appeared to be fine-grained, compact 
+and adherent to the metal surface and to have an average thickness of 187 nm which is 
+consistent with the kinetic data from the in situ experiments for this period of exposure. The 
+corresponding layer on the electropolished surface appeared to be incomplete and not fully 
+protective of the alloy. EPMA analyses were unreliable due to the thin nature of the oxide 
+layer which led to an interference contribution from the substrate metal. 
+Detailed XPS measurements, including depth profiling as described previously, were 
+found to be worthwhile only for those samples that had been exposed for the full duration of 
+3 x lo3 h in the more aggressive environment (Regime B). The~binding energy positions of 
+the Fe2p and Cr2p peaks from the exposed specimens, at 710.9 eV and 576.6eV, 
+respectively, indicate that those elements are present at Fe304 and/or Fez03 and Cr203. 
+All the exposed samples were heavily contaminated by a carbonaceous material which 
+showed large contributions from the Cls line. The Sic-finished specimens were more 
+severely affected and also exhibited a relatively large Si2p signal which fell away only slightly 
+with depth. The Fe2p and Cr2p contributions were quite small and rose only a little during 
+etching, the Fe2p intensity more so than the Cr2p signal. Distinctive changes in the 
+oxidation states of these peaks were also observed, but the overall change to Fe(O) and 
+Cr(0) was on a much longer time scale compared with that for the reference material: the 
+metallic states were dominant only after a total etch time of 32 min. The depth profiles from 
+the exposed electropolished specimens were somewhat similar with rather small Fe2p and 
+Cr2p contributions which increased slowly, but remained relatively less intense than were 
+the corresponding peaks in the reference material. Again an extended profile of some 18 min 
+was required to begin to see the metallic surface and even then there remained a major 
+contribution from oxide species of both elements. 
+1352 J. M. Lyons and J. Corish 
+DISCUSSION 
+Experimental regimes 
+The turbine chosen for the in situ experiments described here did not have a condensate 
+polishing demineralizing plant and the steam supply to the rig was taken from the region in 
+which the first condensate formed. These factors, together with our knowledge of the 
+distribution ratio, 6, of CO2 between the gaseous and liquid phases3 made the conditions 
+especially suitable to determine the effect of CO2 on the corrosion of “in service” turbine 
+material. Even though the concentrations of the various contaminants in the steam/water 
+cycle of such a boiler turbine system are maintained at very low levels by rigorous chemical 
+control, the laboratory test rig exposures were carried out to provide independent control 
+experiments. The conditions chosen in this model system sought to reproduce the pressures 
+and temperatures of the three bleeds in the LP end of the turbine for full load and 50% load 
+conditions. The level of CO* added to the ultrapure carrier water in the laboratory rig was 
+chosen to be close to the maximum value measured in the turbine, the lower level of O2 
+corresponded to the normal level of 02 measured in the turbine and the higher 02 level to 
+levels found in the turbine for periods (< 500 h each) on coming back on load after outages 
+for maintenance. The laboratory measurements were therefore designed so that the data 
+measured could be compared with the results from the in situ test rig mounted on the 
+working turbine. 
+Oxide layer nucleation and structure 
+The results from the in situ exposures fulfil the principal objective of the study and show 
+that under operating conditions with high concentrations of CO* in the bulk steam, a 
+protective coating of oxide is formed on the 12 Cr turbine alloy material. The product had a 
+two-layer structure of which the outer layer, which was very porous, consisted of magnetite 
+crystals generally octahedral in shape which appeared to have been nucleated and grown 
+from solution elsewhere in the turbine and deposited as preformed particles. This proposed 
+method of production of the crystals is supported by a number of observations. Firstly, the 
+complete absence of crystallites in the analogous experiments in the laboratory test rig 
+indicates that they do not grow from the substrate alloy. Secondly, only very small amounts 
+of chromium (< 2% after all exposure periods) were found to be present in the crystals that 
+were formed in the in situ exposures and this contrasts with the much larger percentages (15- 
+17%, Table 3) found in the inner oxide layers. It had been well established in the turbine 
+used here that the turbine casing at the LP end had suffered significant corrosion which 
+resulted in solutions containing iron. Earlier work on an experimental turbine’35’4,39 had 
+shown that a liquid film can form on turbine blades in the wet zone of the LP end which 
+would make possible the deposition of crystals containing Fe from elsewhere in the turbine. 
+If the crystals seen in the present study had grown from the substrate alloy the process would 
+have involved an excess of metal ions being transported through the inner oxide layer to the 
+surface, followed by dissolution in the aqueous film with subsequent deposition.23 If this 
+occurred, a reasonable expectation would be that the chromium content would be similar to 
+that found in the inner oxide layer. Finally an examination of the morphology of the crystals 
+formed on both surface finishes showed that they were broadly similar throughout the total 
+exposure period: this again supports the hypothesis that the crystals were nucleated 
+elsewhere in the system. The noted exceptional absence of crystals from the electropolished 
+surface after 3 x lo3 h exposure was probably due the the fact that the highly polished 
+The corrosion of a 12Cr alloy 1353 
+surface did not provide sites on which the crystals could be attached. The presence of 
+crystallites on the surface is also considered to be responsible for the fact that the SIMS data 
+show that there were areas of higher chromium concentration distributed at random over 
+the exposed surfaces. Because of the nature of the technique, in which the ion beam sampled 
+an area some of which was covered by magnetite crystals (~2% Cr), the data showed 
+certain areas with a high Fe signal. Other possible explanations such as the selective leaching 
+of either iron or chromium from the surface are unlikely, given the experimental conditions 
+prevailing in the environment of the in situ test rig.27,4o 
+All of the exposures investigated here, including those in the laboratory test rig, cause a 
+fine-grained compact and adherent layer to be developed on the surfaces of the test 
+specimens. This is in broad agreement with the findings of Ramasubramanian et al.4’ and 
+Shoesmith et af.34 working on AISI 304, the former at a pH of 8-9 and room temperature 
+and the latter at a pH of 3 and a temperature in the range 350-360K. In this study in the in 
+situ rig the temperature range was 330-4OOK and with the concentration of CO2 that was 
+found to be present, the pH value was expected to be in the range 5.5-6.0.42 The exact value 
+would depend on the extent to which the CO2 favours the liquid phase and that there was 
+sufficient time for the mass transfer of all the CO2 to the liquid phase to take place. 
+Inner oxide layer growth mechanism and kinetics 
+The action of high temperature water/steam on iron, as expressed in equation (1) 
+produces magnetite:4 when alloyed steel is exposed to the same environment, magnetite is 
+again produced together with oxides of the alloying elements. Chromium is an important 
+element in alloying because it forms Cr203, which is resistant to acidic environments. Cross- 
+sectional metallography of the inner oxide layer formed in the in situ test rig showed it to be 
+compact and that it adhered closely to the substrate alloy. The measured thicknesses of the 
+layer were found to increase in a manner analogous to the kinetic data, which followed a 
+parabolic rate law for surfaces with both surface finishes. This requires that the oxide 
+growth is governed by the outward transport of metal ions from the underlying metal 
+substrate and the inward transport of oxygen, as described by Potter and Mann23 and 
+Effertz,43 for magnetite growth in their work on ferritic steels. These transport processes 
+take place by solid-state diffusion through the bulk crystal lattices and via grain boundaries 
+with oxide growth occurring at the oxide-metal interface. The EPMA analysis which 
+showed that the Cr content of the inner layer (15-17%) was greater than that of the 
+substrate alloy (Tables 1 and 3) would support that mechanism. An alternative mechanism 
+proposed by Field et al.24 for magnetite growth, whereby the aqueous medium has close 
+access to the metal substrate through a network of interconnecting pores, does not appear to 
+apply here. Manolescu and Mayer26 showed that contaminants, even those present at very 
+low levels in the steam, could be concentrated by factors as large as lo4 at the oxide-metal 
+interface by means of the interconnecting pores. However, in this study no traces of either Cl 
+or S, which were the contaminants in the steam were detected at this interface in the XPS and 
+SIMS analyses. 
+As reported earlier the value of the parabolic rate constant determined for the SiC- 
+finished surface was approximately twice that of the electropolished specimens. Since the 
+population density of the crystals increased only slightly with time of exposure for both 
+surface finishes, excepting the first period of 3 x lo3 h, this implies that the weight gain was 
+due principally to the growth of the inner oxide layer at the oxide-metal interface. It is 
+generally known that oxide layer formation and the homogeneity of the layer which 
+1354 J. M. Lyons and J. Corish 
+develops are both strongly dependent on the initial state of the metal surface” and this is, of 
+course, borne out in the present study. None of the specimens exhibited parabolic kinetics in 
+the initial stages of the reactions with the effect being more marked for those with the SiC- 
+finished surfaces. This was probably due to the fact that the initiation of kinetic growth was 
+inhibited by the prenucleated oxide film that was found to be present on the specimens prior 
+to their exposure. The XPS analyses showed that this film was typically 2-3 nm in thickness 
+with a high content of Crz03 and such films are known to decrease initial surface 
+reactivities.‘6’30 A possible explanation for the slower start-up kinetics of the Sic-finished 
+surface (Fig. 3) may lie in the nature of their prenucleated layers. Even though both surface 
+finishes were degreased the organic contaminant was shown by XPS to be greater for the 
+Sic-finished specimens. The very initial stages of the oxidative process, the adsorption of 
+oxygen onto the surface and its subsequent dissolution in the underlying layers,44 may have 
+been inhibited by the organic contaminants. 
+Once the initial delay in the oxidative process had been overcome there was an increase 
+in the kinetic growth rates for both surface finishes. After 6 x lo3 h exposures in the in situ 
+rig, the growth of the oxide layer on the Sic-finished surface had increased over that of the 
+electropolished surface and this was a reversal of the situation observed after 3 x 10’ h 
+exposure. The population densities of the magnetite crystals were determined for both 
+surface finishes by counting on known areas of micrographs and were found to be similar. 
+The markedly different oxidation response of the Sic-finished surface was because the cold- 
+working increases the surface roughness and changes the sub-surface region so that the rates 
+of diffusion of oxide-forming elements are increased. The results here are in agreement with 
+those of Foroulis and Uhlig45 who found that although cold-working did not affect the 
+velocity of oxide growth on pure iron, it did enhance the rate of growth on iron alloys. 
+Working with gas-metal interfaces, Warzee et al.,*’ Giggins and Pettit*’ and Ericsson** 
+found that an increase in the number of grain boundaries caused by the cold-working 
+process can also lead to short-circuit diffusion of chromium along these boundaries to give 
+an oxide layer high in Cr203. The fact that the EPMA, XPS and SIMS analyses in the 
+present work have shown that the chromium concentration in the inner oxide layer is higher 
+than in the substrate metal suggests that a similar process has occurred here. 
+Electropolishing removes the strained surface material and results in slower oxidation 
+kinetics. 
+Nevertheless the XPS and SIMS analyses showed the structures of the layers formed on 
+the two surface finishes to be very similar with a slightly higher, 17% as against 15%, 
+concentration of Cr in the inner layers on the Sic-finished surfaces. Thus the really 
+significant difference between the surface finishes was in the kinetics of the development of 
+the protective layers. The XPS and SIMS techniques also made it possible to conclude that 
+the specimens exposed in the laboratory test rig had developed oxide layers broadly similar 
+in structure to those found on the in situ specimens and that the growth of these layers could 
+be rationalized by assuming the same growth mechanism. The full details of these 
+characterization studies will be published elsewhere.38 
+It is worth noting that in the laboratory test rig experiment with a raised 02 
+concentration of 200 pg kg- ’ for 3 x lo3 h, there was no evidence of pitting on the 
+surfaces of the 12Cr test specimens. This finding lends support to the presently accepted 
+view that raised O2 concentrations do not necessarily give rise to pitting of the metal surface, 
+provided that the concentrations of ionic contaminants and in particular of Cl- and SOd2- 
+ions are maintained at very low levels. In this case study the feedwater supply to the test rig 
+The corrosion of a 12Cr alloy 1355 
+was of high purity, with a cation conductivity ~0.1 $3 cm-’ and Cl- and SOa2- ion 
+concentrations < 2 pg kg-’ . This is an important finding for utilities that are compelled for 
+operational reasons to change from all volatile alkaline treatment (AVT) to oxygenated 
+treatment (OT). 
+The O2 concentration in OT is generally between 50 pg kg- ’ and 150 pg kg- ‘, although 
+O2 concentrations up to 400 pg kg-’ may be used for a short period of about 10 days during 
+initial start-up of the procedure until all metal surfaces are passivated and the O2 
+concentration becomes stable. EPRI guidelines for OT operation which draw heavily on 
+German and Russian experience, specify high purity make-up water and feedwater cation 
+conductivity of < 0.1 @ cm-‘. From the findings in this study this level of purity would 
+appear to be adequate. 
+CONCLUSIONS 
+This study has provided a framework for the understanding of passivating oxide growth 
+on 12Cr alloy used in turbine blade manufacture when this material is exposed to the 
+corrosive carbonic acid environment in a working turbine. A two layered oxide product was 
+formed of which the outer layer consisted of octahedral shaped magnetite crystals and was 
+highly porous. All the experimental evidence suggests that these crystals were nucleated 
+elsewhere in the turbine and transported to the growing sites in the liquid steam phase and 
+deposited there. The inner oxide layer was fine-grained, compact and adhered to the 
+substrate alloy with Cr203being a principal constituent and giving it passivating properties. 
+While the two different surface preparations exposed (Sic-finished and electropolished) 
+both grew the double oxide layer, the cold-worked specimens, which approximate to the 
+surface finish on turbine blades, had a greater thickness of the passivating layer. Parabolic 
+rate constants of k, = 1.05 x 10M5 mg2 cmp4 h-i and 0.50 x 10e5 mg2 cmp4 h- ’ were 
+determined for the Sic-finished and electropolished surfaces, respectively. Exactly similar 
+specimens exposed in control experiments in a laboratory test rig to analogous 
+environments developed similar fine-grained compact and adhering layers, but without 
+the outer layer of magnetite crystals. 
+Acknowledgements-We are grateful to the Electricity Supply Board for their generous support and for their 
+permission to carry out the in situ experimental work. We thank also Professor Nonnan Brown and Dr Brian 
+Meenan of the University of Ulster at Coleraine for the XPS and SIMS work and the Department of Geography 
+(Dr David Doll) and Electron Microscope Unit (Colin Reid) at Trinity College for their assistance. 
+REFERENCES 
+1. R. P. Dewey, T. H. McCloskey and N. F. Rieger, Paper 83-JPGC-PWR20. ASME, New York (1983). 
+2. W. Engelke, H. Jesterich, K. Schleithoff and H. Terrnuehlen, Proc. Am. Power Co@ 45, 196 (1983). 
+3. J. M. Lyons and J. Corish, Muter. Perf. (accepted). 
+4. CEGB Modern Power Station Practice, Vol. 5, 2nd Edn, p. 213. Pergamon Press, Oxford (1971). 
+5. J. Benard, Oxidation of Metals and Alloys (ed. D. L. Douglass), p. 1. ASM, Ohio (1971). 
+6. A. Atkinson, Rev. mod. Phys. 57, 437 (1985). 
+7. A. Bruckman, R. Emmerich and S. Mrowec, Oxid. Met. 5, 37 (1972). 
+8. G. C. Wood, M. G. Hobby and B. Vaszko, J. Iron Steel Inst. 202, 685 (1964). 
+9. A. U. Seybolt, J. electrochem. Sot. 107, 147 (1960). 
+10. H. E. Evans, Paper MST/952. The Institute of Metals, London (1988). 
+11. U. R. Evans, An Introduction of Metallic Corrosion, 2nd Edn, p. 148. Edward Arnold, London (1963). 
+1356 J. M. Lyons and J. Corish 
+12. 0. JonasCorrosion/84, paper no. 55, New Orleans (1984). 
+13. 0. I. Martynova, 0. A. Povarov, V. S. Rabaenko, V. Sememov and N. A. Zaitsev, Therm. Engng 4, 
+194 (1984). 
+14. 0. A. Povarov, V. S. Rabenko and B. V. Bogomolov, Therm. Engng 6, 318 (1984). 
+15. J. M. Harrison, J. F. Norton, R. T. Derricott and J. B. Marriott, Werkstoffu Korrosion 30, 785 (1979). 
+16. M. J. Graham, G. I. Sproule, D. Caplan and M. Cohen, J. electrochem. Sot. 119, 883 (1972). 
+17. S. T. Wlodek, Trans. metaN. Sor. 230, 1078 (1964). 
+18. D. Caplan and G. I. Sproule, Oxid. Met. 9, 459 (1975). 
+19. S. J. Allan and M. J. Dean, Proc. Int. Conf Behaviour of High Temperature Alloys in Aggressive 
+Environments, p. 319. Metals Society, London (1980). 
+20. M. Warzee, J. Hennault, M. Maurice and C. Sonnen, J. eiectrochem. Sot. 112, 670 (1965). 
+21. C. S. Giggins and F. S. Pettit, Trans. metall. Sot. AIME 245, 2495 (1969). 
+22. T. Ericsson, Oxid. Met. 2, 401 (1970). 
+23. E. C. Potter and G. M. W. Mann, Proc. Ist Inr. Congr. on Metallic Corrosion, London (1961). 
+24. E. M. Field, R. C. Stanley, A. M. Adams and D. R. Holmes, 2nd Int. Congress on Metallic Corrosion, New 
+York (1963). 
+25. J. E. Castle and H. G. Masterson, Corros. Sci. 6, 93 (1966). 
+26. A. V. Manolescu and P. Mayer, Corrosion/dO, paper no. 174, Chicago, 173 (1980). 
+27. Y. Asakura, H. Karasawa, M. Sakayami and S. Uchida, Corrosion 45, 119 (1989). 
+28. A. Iseda, M. Kubota, Y. Hagase, S. Yamamoto and K. Yoshikawa, Sumitomo Search 36, 17 (1988). 
+29. D. J. Lees, P. C. Rowlands and P. Humphrey, O.vid. Met. 27, 75 (1988). 
+30. P. Berge, J. Ducreux and P. Saint-Paul, Water Chemistry II, paper 2. BNES, London (1980). 
+31. J. F. Norton, L. Blidegen, S. Canetoli and P. D. Frampton. Werkstoff u Korrosion 32, 46 (1981). 
+32. J. Congleton and R. N. Parkins, Corrosion 44, 290 (1988). 
+33. T. Christman and G. Cragnolino, Corrosion 44, 345 (1988). 
+34. D. W. Shoesmith, D. S. Marcey, D. C. Doern and M. G. Bailey, Corrosion 45, 149 (1989). 
+35. W. E. Ruther, W. K. Soppett and T. F. Kassner, Corrosion 44, 791 (1988). 
+36. C. Whiston, X-Ray Methods, p. 128. Wiley, Chichester (1987). 
+37. B. J. Meenan, N. M. D. Brown, J. M. Lyons and J. Corish, Prog. in Analytical Chemistry in the Steel and 
+Metals Industry (ed. R. Nauche), p. 371. European Commission, Luxemburg (1996). 
+38. B. J. Meenan, N. M. D. Brown, J. M. Lyons and J. Corish, to be published. 
+39. 0. A. Povarov, V. W. Semenov and B. V. Bogomoloy, Therm. Engng 33, 542 (1986). 
+40. F. J. Pocock and S. Leedy. Proc. Int. Water Canf, Engineering Society of Western Pennsylvania (1971). 
+41. N. Ramasubramanian. N. Preocanin and R. A. Davidson. J. electrochem. Sot. 132, 793 (1985). 
+42. T. B Healy, private communication (1990). 
+43. P. H. Effertz, Proc. 5th. Inr. Conf on Metallic Corrosion, Tokyo (1972). 
+44. K. R. Lawless, Rep. Prog. Phys. 37, 321 (1974). 
+45. Z. A. Foroulis and W. W. Uhlig, J. electrochem Sot. 112, 1177 (1965). 

@@ -1,0 +1,442 @@
+JOURNAL OF 
+biochemical and 
+biophysical 
+methods ELSEVIER J. Biochem. Biophys. Methods 32 (1996) 85-96 
+Research article 
+Cytokine activity assay by means of proliferation 
+measured in plane convex microtiter wells 
+Karola Vorauer ‘, Franz Steindl, Alois Jungbauer, Rainer Hahn, 
+Hermann Katinger 
+Institute of Applied Microbiology. Unil~er.sit~ qf Agriculture. N@dmferkinde I I, A-l I90 Vienna. Amtria 
+Received 15 November 1995; revised 6 February 1996; accepted 6 February 1996 
+Abstract 
+A new assay to measure cell proliferation by turbidimetric evaluation of cultures in specially 
+designed microtiter plates was set up. The IL-2-dependent proliferation of CTLL-2 cell line was 
+used as a model. The novel microtiter plate detection system, the General Cell Screening System 
+(GCSS) was used for the evaluation of the cell proliferation assay. The test system utilizes the 
+population growth rate (CL) of the cells. The tests were performed in specially designed microtiter 
+plates which were read in a scanning spectrophotometer. These results were compared with 
+calorimetric assays, using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTTI 
+and 3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl~-2-(4-sulfophenyl)-2 H-tetrazolium, 
+inner salt (MTS) as substrates. In contrast to conventional methods, the presently described system 
+is not an end-point method, this means that cell growth can be observed over a certain period and 
+is not limited to a single moment during the period of cell growth. Another advantage is the 
+reduction of manual manipulations and the avoidance of toxic or radioactive substances and 
+organic solvents. Therefore, a higher number of samples can be analyzed compared to other 
+methods. The range for detection was 0.015-10 units IL-2 per well, and the accuracy is in the 
+range of < 0.005 standard deviation. 
+Kqwords: Interleukin-2; Proliferation assay; General cell screening system; Cytotoxic T-cell line; 3-(4.5-Di- 
+methylthiazol-2-yl)-2,5-diphenyltetrazolium bromide; 3-(4.5-Dimethylthiazol-2.yl)-5-(3-carboxymetho- 
+xyphenyl)-2-(4-sulfophenyl)-2 H-tetrazolium 
+* Corresponding author. Fax: (43) (1) 369 7615 
+0165-022X/96/$15.00 0 1996 Elsevier Science B.V. All rights reserved 
+PII SO1 65-022X(96)00002-4 
+1. Introduction 
+Determination of cytokines as growth factors in a biological relevant manner is very 
+complex. since the assay has to be based on growth kinetics. Conventional proliferation 
+assays take only two points into considerations. the culture starting point and end point. 
+Very often only the culture end point is evaluated [l-3]. This approach cannot be 
+considered as kinetics assay. Modifying the conventional assays to true kinetics assays 
+multiplies the number of cell culture experiments by the number of observations used 
+for the kinetics studies. The described methods do not have this limitation, since the cell 
+culture can be measured in a non-destructive way at different time periods. 
+We have chosen an IL-2-dependent cell line (CTLL-2) as an exemplary model of 
+cytokine induced proliferation. IL-2 being considered as one of the major regulatory 
+molecules in the immune system [4-61. Interleukin-2 (IL-2). a I8 kDa glycopeptide. is 
+produced by activated T-lymphocytes. Several biological processes are driven by IL-2 
+such as proliferation and/or differentiation of T-lymphocytes. modulation of B- 
+lymphocytes responses and increasing of the cytotoxic activity of natural killer cells and 
+monocytes. 
+Two conventional assays are commonly used to evaluate cell proliferation: colorimet- 
+ric and radioisotopic assays. In the calorimetric assay [I 2.71 the substrate 3-(45dimeth- 
+ylthiazol-2-yll-2.5diphenyltetrazolium bromide (MTT) or 3-(45dimethylthiazol-2-y@ 
+S-(3-carboxymethoxyphenyl)-3-(4-sulfophenyl)-2 H-tetrazolium, inner salt (MTS) [8] are 
+reduced by mitochondrial dehydrogenases to formazan. Using radioisotopic assays the 
+measurement of the DNA-synthesis rate of growing cells after a pulse with radiolabelled 
+nucleotides is performed [3]. 
+In order to avoid the use of radioisotopes or of toxic tetrazolium salts, we developed 
+a computer controlled system making it possible to measure the IL-2-dependent prolifer- 
+ation of CTLL-2 cells without further manipulations. 
+The principle of the assay is based on the evaluation of turbidity of the cell culture 
+measuring the entire volume of the well in concentration steps by using General Cell 
+Screening System (GCSS). This allows the quantification of the particle content of 
+non-homogeneously distributed suspensions. 
+The turbidity measurement is heavily dependent on cell density. on size, shape and 
+growth pattern of the cells. One major requirement for cell count determination is the 
+development of the special designed GCSS plates. These plates have a rectangular 
+bottom, with a planconvex shape and conical walls. The rectangular bottom is essential 
+in order to scan the entire well by the light path. having the same width as the well 
+bottom. The geometry of the well bottom allows to cover the whole well in 17 steps. 
+The addition of these measurements are integrated to the total transmission. 
+For determination of IL-?. IL-2-dependent CTLL-2 [IO] cells were seeded into 
+specially designed 96-well microtiterplates. The seeded cells were cultivated with 
+different IL-2 concentrations by incubation under standard conditions. By repetitive 
+measurements of the culture plates, the cell count can be determined. From cell counts 
+of different time periods the growth rate t pu) and the cell growing curves can be 
+calculated. The correlation between the kinetics data and the cell proliferation allows the 
+quantification of IL-2 activity. The results of the assay were compared with the 
+K. Vorauer et al. /.I. Biochem. Biophys. Methods 32 (I 996) 85-96 87 
+calorimetric assays, using MTT and MTS as substrates. Essential parameters such as 
+accuracy and analytical range of both test systems were compared. 
+2. Materials and methods 
+2.1. Cell line and medium 
+The murine cytotoxic T-cell line (CTLL-2) was obtained from European Collection 
+for Animal Cell Cultures (Porton, UK). The cells were cultivated in RPM1 1640 
+(Gibco-BRL, Life Technologies, Gaithersburg, USA) supplemented with 10% fetal calf 
+serum, 4 mM L-glutamine, 10 pg/ml sodium pyruvate, 1 kg/ml 2-mercaptoethanol, 
+1% non-essential amino acids composition (100 X concentrate; Seromed-Biochrom KG, 
+Berlin, Germany) and 20 units recombinant human Interleukin-2 per ml (Boehringer- 
+Mannheim-Biochemie, Vienna, Austria) 
+2.2. Cell number calibration curue 
+For the determination of cell number a calibration curve was carried out. For this 
+purpose CTLL-2 cells were diluted 2-fold from 8 X lo5 to 3.125 X lo3 cells per well in 
+volumes of 100 ~1 per well in GCSS plates. After a 2-h incubation period the 
+transmission at 690 nm was measured. The plot of cell density versus the change of 
+transmission was used as calibration curve for cell number. 
+2.3. Determination of IL-2 activity by GCSS 
+Prior to the proliferation assays, the cells were washed twice in IL-2 free medium and 
+suspended at 1.4 X IO5 cells/ml in IL-2 free medium. 50 ~1 of the suspension were 
+transferred into each well of the 96-well plate, the wells already contained 50 ~1 of IL-2 
+in 2-fold dilutions from 10 to 0.015 U/well. In order to remove potential air bubbles 
+and to minimize temperature influences, the IL-2 filled culture plates were preincubated 
+for 1 h at 37°C. Recombinant human Interleukin-2, purchased from Boehringer-Man- 
+nheim Biochemie (Vienna, Austria) was used as a standard. After cell seeding, plates 
+were incubated at 37°C in 5% CO, atmosphere for a total 72 h of culturing Cell culture 
+plates were periodically (every 12 h) read in a GCSS reader at 690 nm wavelength. The 
+cell number was then calculated on the calibration curve. The population growth rate 
+( p) is calculated from Eq. (I), Eq. 0, where N,,, , and N,, are cell counts at different 
+times and t,+ , and t, represent the time. 
+ln(N,+, -4) 
+CL= t (1) 
+II+ I - 43 
+2.4. Determination of IL-2 activity by calorimetric assay 
+In comparison with the determination of IL-2 by the GCSS two calorimetric assays 
+with MTT and MTS as substrate were performed. 
+The MTT assay was carried out according to the method of Mosmann et al. [I]. 
+Briefly, MTT (Sigma. St. Louis. MO, USA) was dissolved in a concentration of 4 
+mg/ml and clarified by filtration through a 0.2 pm sterile discfilter (Millipore 
+Corporation, Bedford, USA). Cells were seeded analogously to the prior described 
+population growth rate assay. During a time period of 4 days, every 24 h 10 PI of MTT 
+stock solution per well were added to one of these plates. After 4 h incubation at 37°C 
+and 5%- CO, atmosphere. 70 ~1 of supernatant were removed from each well and 
+discarded and 100 ~1 dimethyl sulfoxide (DMSO. Sigma. St. Louis. MO, USA) were 
+added to the wells to dissolve the dark blue formazan crystals. After complete solubiliza- 
+tion adsorbance was measured in a spectrophotometer using a test wavelength of 590 nm 
+and reference wavelength of 690 nm. 
+For the second calorimetric assay MTS (Promega, Madison, USA) instead of MTT 
+was used. MTS in combination with PMS (phenanzine methosulfate) as electron 
+coupling reagent is reduced to a medium soluble formazan. Microtiterplates containing 
+100 ~1 cell suspension per well were prepared as described above. After 24.48 and 72 h 
+incubation 20 ~1 MTS/PMS stock solution per well were added to the growing cells. 
+Plates were again incubated for at least 6 h followed by the adsorption reading at 492 
+nm with reference wavelength of 690 nm. In both assays samples were quantified using 
+an internal standard curve. 
+2.5. GCSS-instrurnentutior~ cd techicctl details 
+A prototype of the GCSS reader and a prototype of the specially designed cell culture 
+plates were used for the setting up of the method. Meanwhiles the equipment consisting 
+of GCSS reader, GCSS plates and GCSS software [9]. is commercially available (SLT 
+Labinstuments GmbH. UntersbergstraBe I, A-5082 Gr8ding). The conventional 96-well 
+cell culture plates have a very limited application for the determination of cell counts. A 
+non-stirred culture is a non-homogeneous suspension. The well form, the non-homoge- 
+neous suspension and the single measurement of each well do not allow a correct 
+determination of cell number and the observation of the cell kinetics during cell growth. 
+To circumvent these problems the turbidity of the whole well must be taken into 
+account. By scanning a well with a rectangular cross-section the whole well can be 
+measured. The planconvex shape of the bottom in combination with a defined light- 
+beamwidth is necessary to measure the whole volume of the well, to avoid quenching 
+Fig. 1. Schematic drawng of one GCSS well. Each well has 3 rectangular crosssection, a planconvex shape 
+with conical side wall\. The width of the hottom corresponds to the light path width. 
+K. Vorauer et al. /J. Biochem. Biophw. Methods 32 (1996) M-96 89 
+and other effects by reflection, when the lightpath is transmitting the well bottom. The 
+conical sidewalls provide the same well volume as conventional wells. Furthermore, 
+convenient pipetting of liquids in well with conical sidewalls are made more practical. 
+The GCSS reader scans each well in 17 additive steps. Only the specially designed 
+planconvex cell culture wells in combination with the rectangular lightbeam make the 
+measurement of the rectangular bottoms possible. A schematic drawing of the cell 
+culture well (GCSS well) is shown in Fig. 1. Data were directly transferred to an Apple 
+Macintosh computer and calculations were carried out by GCSS software. The GCSS 
+reader was placed in a laminar flow hood to avoid airbom contamination during the 
+measuring procedure. 
+3. Results 
+IL-2-dependent proliferation of CTLL-2 cells evaluated by GCSS over a period of 5 
+days is reported in Fig. 2. The GCSS software offers the possibility to zoom each well to 
+get more detailed information and in Fig. 2 one selected graph shows the history of a 
+single well. Each data point of this growth curve represents the cell count of the CTLL-2 
+cells at a certain time. By this zoomed representation the exponential growth phase can 
+be easily evaluated. 
+Cells/ml 
+2.25OE67 
+2.0OOE6j 
+1.750E64 
+1.500E6j 
+1.250E6j 
+1 .OOOE6-I 
+S.OOOES-i, 
+! / 
+. . . . . . . . “...~~~~, Dys 
+0 1 2 3 4 5 6 Elapsed 
+1993’02’10 14:04 1993’02’16 14:04 
+Population Growth Rate (&I between two oiroled points: 0.04032Ihow 
+Fig. 2. Representation of the zoomed curve from one well of the plan-convex GCSS plates. The selected well 
+is marked in Fig. 3. The population growth rate ( /.L) is calculated between the two circled points; 0.04032/h. 
+mm IL2-Uergeich, Phase #l, Cell Concentration History, Unblanked 
+Plate =l (ID: IL2-Vera.001 .OOll 
+Fig. 3. GCSS representation of growth kinetics curves in the Y6-well format. A3-A 12. B3-B I2 and C3-C I2 
+are IL-2 (Boehringer-Mannheim) dilutions in triplicates starting from IO units per well. D3-Dl1 and E3-El2 
+are unknown IL-2 snnples (No. I) measured in duplicates. FSFIZ, G3-Cl2 and H3-HI? are unknown IL-2 
+samples (No. 2) measured in triplicate\. .41-H? are blank wells where CTLL-2 cell5 are incubated without 
+IL-?. The figures below the curve.\ are the population growth mtes after G3 h incubation. The marked well 
+corresponds to the data shown in Fig. 2 
+1.0 
+0.9 
+z 0.6 
+8 
+= c 0.7 
+.P 
+zi .Ei 0.6 
+E 05 
+k 
+= 04 
+a 
+E 0 0.3 
+E 
+O 0.2 i 
+8’ 
+J’ 
+i 
+i 
+r; T -7-i 
+0 100 200 300 400 500 600 700 800 900 1000 
+Cell Number x 1000 
+Fig. 4. Calibration curve for cells measured nt 690 nm. The filling volume of each well wab 100 ~1 
+K. Vorauer et al./ J. Biochem. Biophys. Methods 32 (1996) 85-96 91 
+The 96-well representation (Fig. 3) allows a quick overview of a whole cell culture 
+plate. From this overview the cell growth kinetics, lag phase and indications about 
+influences by additives, osmolarity, etc. can be seen. For each well of the test-plate the 
+0.07 
+0.06 
+0.05 
+0.04 
+0.03 
+0.02 
+0.01 
+0.00 
+-0.01 
+-0.02 
+0.07 
+0.06 
+0.05 
+0.04 
+0.03 
+0.02 
+0.01 
+0.00 
+-0.01 
+-0.02 Prediction interval (P=O.95) 
+0.01 0.1 1 10 
+IL-2 Units 
+/ r ““,‘I ’ “,,“‘I “‘!“‘I 
+0.01 0.1 1 10 
+IL-2 Units 
+Fig. 5. Population growth rates plotted versus units IL-2 per well. For curve fitting a fourth polynom 
+( y = a, + a, x + aI x2 + a,x3 + a,.rJ) is used. In (A) 8 consecutive calibration curves measured in 8 
+different plates are compared. In (B) one sample is measured in 8 different plates. (0) shows the mean values 
+and standard deviation of the population growth rate. 
+91 
+0 00 +- _...._ _.T _I I 
+4 $ % z 00 d N 
+Sample(llDilutlon) 
+IL-2 Standard (u/well) 
+Fig. 6. Population growth rate of two different IL-2 samples compared to standard IL-2: sample No. I (0) and 
+sample No. 2 (H ). Sample No. 2 has a different slope compared to the calibration curve ( A ). 
+growth curve is shown and the population growth rate (~1 is calculated within the 
+exponential growth phase. Dependence of IL-2 proliferation on the IL-2 concentration is 
+shown. For accuracy reasons the samples covering border wells are measured in 
+triplicates because border wells often shows outliners. 
+The calibration curve of CTLL-2 cells (opacity vs. cell number) is shown in Fig. 4 
+and demonstrate that the GCSS offers the cell number determination by measuring the 
+turbidity of a non-homogeneous cell suspension, essential for the calculation of IL-2 
+activity. 
+The exact determination of cell density can be used for the quantitative determination 
+activity of IL-2. Therefore IL-2 samples and IL-2 standard were tested in different 
+concentration ranges. In Fig. 5A population growth rate/h data of IL-2 standard 
+performed in 8 parallel GCSS plates are shown. One selected sample is tested in the 
+same plates. Data are shown in Fig. 5B. The confidence limits of the fitted parameters 
+(a,--~,) of the fourth polynom do not differ significantly ((Y = 0.05). 
+If the slope of p versus concentration differs between sample and standard curve, the 
+determination of the sample activity is not accurate (Fig. 6). A reduced slope can be an 
+indication for inhibitation, a competitive effect or a reduced biological activity (activity 
+based on mass or molarity of the target protein). 
+K. Vorauer et al. /J. Biochem. Biophy. Methods 32 (I 9%) 85-96 93 
+0.06 
+0.05 
+T 0.04 
+c 
+al 
+3 0.03 
+‘r 
+g 0.02 - 
+E 
+g 0.01 - 
+2 
+2 0.00 - 
+-0.01 - 1 
+-0.02 i 
+0.0001 0.01 0.1 1 10 100 
+IL-2 Units 
+Fig. 7. Population growth rate of two different IL-2 samples (0.0 1 having the identical IL-2 activity per 
+mass, IL-2 mass was measured by ELISA. The calibration curve (A 1 is carried out as in Fig. 6. 
+The GCSS method can also be used for checking the identical activity of different 
+samples compared with a known standard. In order to ascertain if different samples have 
+the same IL-2 activity one can determine the IL-2 content by ELBA, prior to the 
+proliferation assay. The samples in the bioactivity test were diluted to the identical IL-2 
+content as derived by ELISA. The curve of p versus concentration must be identical in 
+the case of same IL-2 activity as shown in Fig. 7. 
+To find the appropriate time interval for quantification, we calculated the population 
+growth rate after 48-h and 72-h incubations and the calculated IL-2 levels were 
+compared (Table 1). No significant difference in IL-2 activity could be observed using 
+different time periods for calculation of CL. This data show that the assay is not 
+Table 1 
+Comoarison of 11-2 values obtained after 48 h and 72 h incubation 
+Sample IL-2 units/ml-48h IL-2 units/ml-72h (IL-2 units-48h/IL-2 units-72hlX 100 (%l 
+Al 
+A2 
+A3 
+A4 
+A5 
+A6 
+A7 19 100&290 
+850+ 56 
+18 100&210 
+970+26 
+945 f 14 
+19300&78 
+1870+ 19 203OOrt600 
+915* 18 
+18OOOk487 
+960f 10 
+98Ok 15 
+18900&75 
+187Ok85 106 
+107 
+99 
+99 
+104 
+98 
+99 
+mean 102 
+Samples were measured in triplicates. 
+94 K. Vowurr rt 4. /.t. Bioctum. Bioptrys. Mrthods 32 f IYY6) 85-96 
+Table 2 
+II-2 activity measured in 7 different samples by GCSS, MTT and MTS 
+IL-3 units/ml 
+Sample GCSS MTT MTS 
+Al 19 loo+290 
+A7 850 f 56 
+A3 IX IOOiZlO 
+Al 970 I26 
+A5 945* II 
+A6 l9300+78 
+A7 l890+ I9 
+Samples were measured in triplicates. 19530+ 175 18880&-206 
+875 f 30 861&-30 
+17740* 179 17250~200 
+951*1x 1020*34 
+93oi 70 970+ 12 
+197oo+‘zJ _- 20400* I04 
+I893k23 1887*50 
+dependent on an exact time for evaluation of the cell number. A more flexible set-up of 
+experiments can be therefore carried out. 
+The novel proliferation assay. using the General cell screening system, was compared 
+to conventional methods. Calorimetric MTT and MTS assays were performed as written 
+in Section 2: Materials and methods. Results of 7 different samples with unknown IL-2 
+activity are listed in Table 2 showing that all three assays produce comparable data. The 
+obtained IL-2 units do not vary significantly with the applied methods. 
+The residuals of the GCSS data and the MTT and MTS data from samples of known 
+0.06 
+-0.06 
+-0.08 I -1 
+Fig. 8. Residuala of IL-2 activities of known IL-2 samples; GCSS-MTT (hatched bar) and GCSS-MTS (open 
+bar). The samples were measured in triplicates. The residuals are defined as differences between the IL-2 
+activity determined with the GCSS method and the conventional methods (MTT-. MTS-assay). 
+K. Vorauer et al./J. Biochem. Biophy. Methods 32 (19961X-96 95 
+IL-2 activity were plotted against the concentration of IL-2. The residuals were 
+calculated by substraction of the GCSS-data from the conventional calorimetric assay 
+data used in this study. No trend could be observed over the whole range of IL-2 (Fig. 
+81, where MTT and MTS data are applicable. The residuals did not depend on the IL-2 
+concentrations. 
+4. Discussion 
+The GCSS offers a novel strategy for measurement of the biological activity of 
+cytokine samples in terms of cell proliferation. By measuring the transmission during the 
+incubation period of an IL-2-dependent cell line (CTLL-2), we found that we could 
+exactly determine the cell number of a given cell type. The increase in cell density is the 
+fundamental criterion for the proliferation assay. In contrast to other cell proliferation 
+assays, the range for detection of this particular assay is very broad. Assays based on the 
+incorporation of radiolabelled nucleotides [3,11] detect cell proliferation after addition of 
+the nucleotides. The DNA synthesis rate which is observed in a narrow time range can 
+be correlated to the biological activity. The incorporation and in consequence the 
+analytical response depends heavily on the cell activity at the time period, between the 
+addition of nucleotides to the cell population and the harvesting of the cells. These 
+parameters must be carefully optimized in order to obtain reliable data. In the case of 
+GCSS a lag phase can be detected and for instance an early termination of the assay can 
+be avoided. In all types of end-point assays only one observation, that at the time of cell 
+harvesting or addition of MTT or MTS, is used for quantification. 
+The calculation of the population growth rate ( ~1 of CTLL-2 cell line over a 48-h 
+cultivation can be correlated to the IL-2 activity of IL-2 containing samples of different 
+origin, autologous or recombinant. The regression coefficients of the fourth polynom 
+were R = 0.998, R,, = 0.996 and Adj Rsqr = 0.993 in the concentration range between 
+9.76 X 10e3 units IL-2 and 10 units IL-2. Advantages of the system, which is based on 
+growth kinetics is obvious. Each plate can be measured 32 times without further 
+manipulation and without influencing the culture conditions. This feature makes the 
+system more transparent and cell densities can be observed over a long time period. The 
+optimal time where an exponential growth curve is observed can be utilized for 
+calculation. More samples can be processed in a continuously controlled system. 
+Therefore manpower, time and costs are minimized. 
+In comparison with calorimetric (MTT, MTS) methods or incorporation of radiola- 
+belled nucleotides (L3H]Tdr) no use of toxic components or solvents and radioactive 
+substances is necessary. All these methods therefore require additional manipulation 
+steps and represent only one moment of a continuous situation. The main advantage of 
+the GCSS proliferation assay is the fact that one culture can be kept under permanent 
+observation and the calculation of the cell kinetics is simplified by the direct combina- 
+tion of the multiwell scanning spectrophotometer with the personal computer. 
+The results of the GCSS-IL-2 proliferation assay correlate with the results calculated 
+in calorimetric assays (Table 2). The residuals of GCSS-MIT and GCSS-MTS versus 
+IL-2 activity are randomly distributed. The reproducibility of our test system relies on 
+the quality of the specially designed multiwell plates. the minimization of the manipula- 
+tions (no indirect measurement of cell density by addition of a component) and the use 
+of the optimal cell density. Consequently. precise quantitation of samples are shown in 
+Fig. 5B. 
+Our observations with the GCSS-IL-2 method suggest that determination of IL-2 
+activity in a computer assisted system, without further manipulations, simplifies the 
+handling of multiple samples in a routine laboratory. We feel that this system is safer 
+and more cost effective compared to other methods. In principle the test is also suited 
+for screening of cytokine-dependent cells other than CTLL-2 cell line. The system is 
+also applicable for the screening of growth or inhibition factors. When a biological 
+activity is observed in conjunction with cell kinetics GCSS can be used for quantifica- 
+tion of this biological activity. 
+References 
+[I] Mosmann. T.. Rapid calorimetric assay for cellular growth and survival: application to proliferation and 
+cytotoxicity assays. J. Immunol. Methods, 65 C 198.1) 55-63. 
+[2] Tada. H.. Shiho, 0.. Kuroshima. K.. Koyama. M. and Tsukamoto. K., An improved calorimetric assay 
+for Interleukin-2. J. Immunol. Methoda. 93 (1986) 157-165. 
+[3] Hewlett. G.. Stiinkel. K.G. and Schlumherger. H.D.. A method for quantification of Interleukin-2 activity. 
+J. Immunol. Methods, I I7 (1989) 243-246. 
+[4] Rohh, R.J.. Kutny. R.M.. Panico. M.. Morri\. H.R. and Chowdhry. V.. Amino acid sequence and 
+post-translational modification of human interleukin-7. Proc. Natl. Acad. Sci. USA. 81 (1984) 6486-6490. 
+[5] Strahel. R.A.. Klinische Bedeutung van Interleukin-2 in der Tumortherapie. Prakt. Onkol.. 8 (1989) 
+126-129. 
+[6] Ju. G.. Collins. L.. Kaftka. K.L.. Tsien. W.. Chizzonite, R.. Crowl. R.. Bhatt. R. and Kilian. P.L.. 
+Structure-Function Analysis of Human Interleukin-2. J. Biol. Chem.. 262 (1987) 5733-5731. 
+[7] Buttke. T.M., McCuhrey, J.A. and Owen. T.C., Use of an aqueous soluble tetrazolium/formazan assay to 
+measure viability and proliferation of lymphokinr-dependent cell lines. J. Immunol. Methods. I57 (I 993) 
+233-240. 
+[x] Barltrop. J.A. and Owen. T.C.. .5-(3-Carhoxymethoxyphenyl)-2-(3.5-dimethylthi~zolyl)-3-(4- 
+sulphophenyl)tetrazolium. Inner Salt (MTS) and related analogs of 3-(4.5.dimethylthiazolyl).2.5.diphen- 
+yltetrazolium bromide (MTT) reducing to purple water-soluble formazans as cell-viability indicators. 
+Bioorg. Med. Chem. Lett.. I (1991) 61 I-61-t. 
+[9] Steindl. F.. General cell screening system-a new dimension in screening and cell culture. Fermentation 
+and Cell Culture/Application Note, Int. Biotechnology Laboratory. 1990. 
+[IO] Gearing. A.J.H. and Bird. C.M.. Production and Assay of Interleukin-2. Lymphokines and Interferons: A 
+Practical Approach. IRL Press. Oxford 29 I. 1987. 
+[I I] Gillis, S.. Ferm. M.M., Ou. W. and Smith. K.A . T cell growth factor: parameters of production and a 
+quantitative microassay for activity, J. Immunal. Methods I20 (1978) 2027. 

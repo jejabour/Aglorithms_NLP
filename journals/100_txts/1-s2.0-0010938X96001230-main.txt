@@ -1,0 +1,553 @@
+Pergamon Corrosion Science, Vol. 38, No. 1, pp. 155-170. 1996 
+Elsevier Science Ltd 
+Printed in Great Britain 
+001&938X/96 $15.00+0.00 
+0010-938X(96)00123-9 
+ALUMINIUM-MAGNESIUM ALLOYS AS CORROSION 
+RESISTANT COATINGS FOR STEEL 
+K.R. BALDWIN,’ R.I. BATES,* R.D. ARNELL* and C.J.E. SMITH’ 
+I Structural Materials Centre, Defence Research Agency, Farnborough, Hampshire GUI4 6TD, U.K. 
+’ Research Institute for Design, Manufacture and Marketing, University of Salford, Salford M5 4WT, U.K 
+Abstract-The corrosion behaviour of binary aluminium-magnesium (Al-Mg) alloy coatings deposited on to steel 
+panels using an unbalanced magnetron sputtering technique has been studied. Neutral salt fog tests have shown 
+that the corrosion resistance of sputtered aluminium alloy coatings increases as the magnesium content is raised 
+until an optimum is reached for alloys containing approximately 20 wt% Mg. Increasing the magnesium content 
+above 20wt% did not give further improvements in protection but instead caused a decline in corrosion 
+performance. Potentiodynamic cathodic polarization sweeps conducted in 600 mmol 1-l sodium chloride solution 
+have shown that the corrosion current density of sputtered aluminium coatings is increased as the magnesium 
+content is increased, suggesting that there is a reduction in barrier protection afforded by the Al coatings as the Mg 
+level is raised. Open-circuit corrosion potential measurements have shown that the sputtered aluminium alloys 
+become progressively more active as the magnesium content is increased, suggesting that they afford improved 
+sacrificial protection as the Mg level is raised. It is proposed that the peak in performance observed in the neutral 
+salt fog environment represents an optimum balance between the barrier and sacrificial properties of the Al-Mg 
+coatings. 
+Keywords: A. aluminium, A. magnesium, A. metal coatings, B. polarization, C. sputtered films. 
+INTRODUCTION 
+Aluminium coatings are used on an industrial scale and can be applied using a variety of 
+methods including metal spraying, hot dipping or cladding. Where fine tolerances are 
+required, aluminium coatings can be deposited by electrodeposition from organic 
+electrolytes1-6 or, more usually, by ion-vapour deposition (IVD) or other vacuum 
+techniques.7-‘3 Since the early 1970s aluminium coatings deposited by the IVD route have 
+been produced commercially and the technology required to obtain controlled thicknesses 
+on both simple and complex shapes is well established. Aluminium coatings are now 
+routinely employed for corrosion protection, decoration of metallic and non-metallic 
+surfaces and have been suggested as a means of cladding less corrosion resistant aluminium 
+alloy substrates.14 A further advantage of aluminium coatings is that they are receptive to 
+conventional chromate passivation treatments. 
+Aluminium coatings are used for the corrosion protection of ferrous substrates for two 
+main reasons. Firstly, aluminium with its air-formed passive oxide film forms an effective 
+barrier layer against attack and, secondly, if the underlying substrate is exposed at, for 
+example, the base of pre-existing defects or corrosion pits, the aluminium coating will afford 
+a degree of sacrificial protection to the substrate. A further advantage with aluminium 
+Manuscript received 1 June 1995 
+0 Crown copyright (I 995). 
+155 
+156 K.R. Baldwin et al 
+coatings is that their corrosion potentials are relatively close to those of many structural 
+aerospace aluminium alloys and hence there is very little driving force for galvanic corrosion 
+between them.i5-” Thus the use of aluminium coatings on, for example, steel fasteners, will 
+serve to reduce bimetallic corrosion between steel components and the structural aluminium 
+alloys with which they may come into contact. 
+A disadvantage of aluminium coatings deposited by IVD is that they are often columnar 
+and porous in nature.‘-12 This porous structure may result in inefficient barrier protection 
+and the premature breakdown of the coating since the substrate is rapidly exposed to the 
+corrosive environment at the base of the pores. The porosity of IVD aluminium coatings can 
+be reduced by compacting the surface with post-plating glass-bead peening treatments. 
+Electrolytically deposited aluminium coatings are generally more dense than as-plated IVD 
+aluminium and thus the former may afford high levels of protection to steel substrates when 
+exposed to aggressive chloride bearing environments.i6*‘* 
+Recent advances at the University of Salford have enabled aluminium coatings to be 
+obtained using unbalanced magnetron sputtering.” Aluminium coatings deposited using 
+this vacuum technique are dense and non-columnar with significantly improved barrier 
+properties over those produced by conventional ion-plating. Magnetron-sputtering can be 
+used to deposit not only pure metals such as aluminium but also alloy coatings with 
+controlled compositions. A drawback with pure aluminium is that since its corrosion 
+potential is not far removed from that of many steels, it is unable to provide adequate levels 
+of sacrificial protection, particularly under natural exposure conditions.2s22 Earlier work at 
+DRA Farnborough2’ has shown that if aluminium is alloyed with small amounts of active 
+metals such as magnesium, its corrosion potential can be depressed, leading to a significant 
+improvement in sacrificial properties. In the present work, an unbalanced magnetron 
+sputtering technique has been used to deposit Al-Mg alloys with both improved barrier and 
+sacrificial properties. Aluminium alloys containing up to 50% Mg and above have been 
+deposited on to steel substrates and the corrosion behaviour of the sputtered deposits 
+determined using neutral salt fog tests and electrochemical techniques. Particular attention 
+has been paid to determining the effects of magnesium additions on the barrier and 
+sacrificial properties of aluminium. 
+EXPERIMENTAL METHODS 
+The production of coatings 
+Pure Al and Al-Mg alloy coatings were deposited using an unbalanced magnetron- 
+sputtering technique at the University of Salford. The use of magnetron-sputtering has been 
+reviewed in several published articles23-25 and precise details of the unit and its operation in 
+the present work are described elsewhere.” 
+In the present work, mild steel test panels of 1 mm thickness (50 x 50 mm dimensions) 
+were initially degreased using an ultrasonic bath containing alcohol and then placed in the 
+vacuum chamber. The magnetron sputtering chamber was evacuated to lo-’ Torr or below 
+and then backfilled with high purity argon to typically 5 x lop3 Torr. The chamber 
+contained two consumable targets, one of commercial grade aluminium (99.4% purity) and 
+one of commercial grade magnesium (99.5% purity). Prior to deposition, the steel test 
+panels were sputter cleaned, typically at an applied voltage of 1 kV for 30 min, to remove 
+any traces of surface contamination. 
+Following this high voltage sputter cleaning process, a low-voltage was applied to the test 
+Aluminium-magnesium alloys 157 
+panels, typically - 50 V (DC), to provide an external bias during deposition. Unbalanced 
+magnetron sputtering utilises the plasma in front of the metal targets to self bias the 
+substrates during deposition. In the present work, this was achieved by weakening the 
+magnetic field strengths of the targets and allowing the plasma to escape the confines of the 
+target surface and engulf the substrates. However, due to the large substrate assembly, in 
+relation to the size of the targets, and the fact that the targets are only slightly unbalanced, the 
+coating facility at Salford necessitates the use of an external bias supply during deposition. 
+The targets were energised using an electrical current, to typical power levels of 3 kW for 
+the aluminium target and 1.5 kW for magnesium target. The power levels were varied to 
+obtain the required ratio of Al:Mg in the deposits by producing different sputtering rates. 
+The coating process was continued for a sufficient time to allow the required thickness of 
+deposit to build up on the substrates. After the required thickness had been obtained, the 
+deposition process was halted and the coupons allowed to cool under vacuum to prevent 
+oxidation. A typical deposition rate for the pure Al and Al-Mg alloy coatings was 
+0.3 pm min-’ , depending on the power supplied to the targets. 
+The composition of each alloy coating was checked using electron-microprobe analysis. 
+The sputtering process was used to produce coatings with thicknesses of 5, 7.5, 10, 15, 25 
+and 2.5 pm. The thickness of each coating was measured prior to testing using a non- 
+destructive eddy-current method. The coatings were not subjected to any post-plating 
+treatments and were tested in the as-plated condition only. 
+Neutral salt fog tests 
+The corrosion resistance of as-plated pure Al and Al-Mg alloy coatings containing up to 
+60 wt% Mg were evaluated using neutral salt fog tests conducted in accordance with ASTM 
+Bl 17.26 The salt fog cabinet was fed from a reservoir containing 5% w/v NaCl solution with 
+no pH adjustment. The NaCl solution was pumped to an atomizing jet and compressed air 
+directed into the stream of solution to produce a dense salt fog. The test panels were 
+mounted on Perspex racks at an angle of 20” to the vertical and inspected daily for signs of 
+corrosion. 
+Open-circuit potential measurements 
+Open-circuit corrosion potential measurements were conducted using test electrodes 
+constructed from as-plated pure Al and Al-Mg alloy coatings of 25 pm thickness on steel 
+substrates, The test electrodes were separately immersed in 600 mmol 1-l (3.5% w/v) NaCl 
+solution (100 ml) contained in polypropylene beakers. The beakers were positioned in a 
+water bath maintained at 25 f 2°C. A Luggin capillary, in solution contact with an external 
+reference electrode (SCE), was positioned adjacent to the surface of each test electrode and 
+the potential measured at 30 min intervals using a programmable voltmeter. The 
+experiments were halted after 200 h in each case. 
+Polarization sweeps 
+Cathodic potentiodynamic polarization sweeps were carried out in a conventional three- 
+electrode glass cell using test electrodes constructed from sputtered pure Al and Al-Mg 
+alloy coatings of 25 pm thickness. The test electrodes were immersed in 600 mmol 1-l NaCl 
+solution at 25 + 1 “C contained in the glass cell. Prior to each sweep, the test electrodes were 
+permitted to stabilise for approximately 30 min. Immediately following the stabilisation 
+period, the electrodes were polarized cathodically at a sweep rate of 0.125 mV SF’. The 
+158 K.R. Baldwin et al. 
+sweeps were conducted in solutions which were gently aerated both before and during the 
+experiment. 
+EXPERIMENTAL RESULTS 
+Coating microstructure 
+The microstructure of magnetron-sputtered pure Al and Al-Mg alloy coatings was 
+investigated using scanning electron microscopy (SEM). Figure l(a) shows the surface of a 
+pure Al sputter deposit on a steel substrate. The pure Al coating was flat and almost 
+completely featureless which is typical of the dense, non-columnar, coatings which can be 
+deposited by unbalanced magnetron sputtering.” The pure Al coating appeared to afford 
+complete coverage to the substrate and was almost completely free of holidays (small pores) 
+or other microscopic surface defects. 
+(a) Pm Aluminium 
+(c) Al-32 wt% Mg (d) k-57 wt% r&g 
+w 
+Fig. 1. SEM micrographs of fracture cross-sections of unbalanced magnetron sputtered pure Al 
+and AI-Mg alloy coatings on steel substrates. The black bar at the bottom is 4 pm long. 
+Aluminium-magnesium alloys 159 
+Figures l(b)-l(d) show fracture cross-sections of Al alloy coatings containing 5, 32 and 
+57 wt% Mg. The Al-Mg alloy coatings were similar to pure Al in that the sputter deposits 
+were flat and generally featureless indicating that the Mg content had very little effect on the 
+microstructure of the coatings. The pure Al and Al-Mg alloy coatings exhibited extremely 
+good adhesion to the steel substrate. 
+Neutral salt fog tests 
+The corrosion of the sputtered pure Al and Al-Mg alloy deposits containing up to 
+30 wt% Mg in the salt fog environment was initially characterized by the formation of large 
+pits in the coating surface, although the coatings remained generally bright. White corrosion 
+products, commonly termed white-rust, were found to build-up in the region of the pits and 
+this was usually accompanied by the formation of gelatinous corrosion products. The Al 
+alloy coatings containing over 30 wt% Mg were generally less susceptible to localized pitting 
+attack but instead appeared to corrode in a more uniform manner. 
+With prolonged exposure to the salt fog, the coatings ceased to provide full protection 
+against attack and corrosion of the underlying metal occurred, giving rise to the formation 
+of red-rust, the iron oxide (FezOs) corrosion products of the ferrous substrate. Figure 2 
+illustrates the time taken for the appearance of first red-rust as a function of alloy Mg 
+content for 8 pm thick coatings. It was found that the time to red-rust increased as the alloy 
+Mg content was increased until a peak in corrosion performance was obtained for Al alloys 
+containing approximately 20 wt% Mg. Further increases in the magnesium content were of 
+no further benefit but instead caused a decrease in the corrosion resistance of the Al-Mg 
+I I I I I 
+10 20 30 40 50 
+Ut X Mg alloying addition 
+Fig. 2. The relationship between time to red-rust and alloy composition for 8 pm thick unbalanced 
+magnetron sputtered AI-Mg alloy coatings on steel-exposed to continuous neutral salt fog. 
+160 K.R. Baldwin et al. 
+alloy coatings. Figure 2 shows that the sputtered Ai- wt% Mg alloy delayed the onset of 
+red-rust for almost twice as long as the pure aluminium coatings. 
+The effect of coating thickness on time to red-rust for sputtered pure Al and Al alloys 
+containing 5, 10, 15, 30 and 55 wt% magnesium is given in Fig. 3. For pure aluminium 
+coatings, the time to red-rust increased linearly as the thickness was increased, which is in 
+good agreement with earlier work’6,18 on the corrosion behaviour of IVD pure Al coatings 
+in the neutral salt fog environment. Figure 3 shows that, in contrast with the pure Al 
+coatings, for the Al-Mg alloys as the Mg level was increased up to 30 wt%, a significant 
+deviation from linearity occurred in the thickness-time to red-rust relationship. This was 
+particularly pronounced for the Al-30 wt% Mg alloy coatings, where the time to red-rust 
+increased sharply for a relatively small increase in coating thickness. When the 
+concentration of magnesium metal was increased to 55 wt%, a return to linear behaviour 
+was obtained. 
+Information relating to the kinetics of coating breakdown can be obtained by 
+determining the rate at which red-rust forms on the panel surfaces once full barrier and 
+sacrificial protection have been lost. The relationship between the area of red-rust and 
+exposure time for 8pm thick sputtered coatings is shown by Fig. 4. For pure Al and the Al 
+alloys containing up to 35 wt% magnesium, the spread of red-rust was limited, with the area 
+of rust increasingly very slowly for extended exposure periods. Following this initial period, 
+where the coating remained largely intact, the rate of coating loss increased sharply with the 
+Time tD red-rust Ihours) 
+Fig. 3. The relationship between coating thickness and time to red-rust for unbalanced magnetron 
+sputtered pure Al and Al-Mg alloy coatings on steel-exposed to continuous neutral salt fog. 
+Aluminium-magnesium alloys 161 
+Exposure time (hours) 
+Fig. 4. The relationship between area of red-rust and exposure time for unbalanced magnetron 
+sputtered pure Al and AI-Mg alloy coatings on steel-exposed to continuous neutral salt fog. 
+sputtered deposits being rapidly consumed. It is possible that this type of behaviour was 
+related to the dense nature of the sputtered deposits. The coatings may have become very 
+thin before a significant area of the substrate became exposed to the corrodant so that rapid 
+corrosion of the underlying steel would have only occurred at the moment when the coating 
+was finally lost. Figure 4 shows that the Al-55 wt% Mg alloy coating was consumed rapidly 
+once red-rust had initiated, reflecting the poor corrosion resistance of this high-Mg alloy. 
+Open circuit potential measurements 
+The variation in open circuit corrosion potential, EC,,,, with time for sputtered pure Al 
+and the alloys containing 5, 10, 1.5, 25 and 55 wt% Mg, recorded during immersion in 
+quiescent 600 mmol 1-l NaCl solution, is shown by Fig. 5. The test electrode constructed 
+from pure Al initially adopted a potential of - 0.90 V (SCE) in the chloride solution. The 
+potential then increased sharply over the first few hours of immersion to a value of 
+approximately - 0.74 V (SCE) which is similar to that previously recorded for ion-plated 
+aluminium in quiescent sodium chloride solutions.16*18 The corrosion behaviour of the pure 
+Al coatings was characterized by frequent potential fluctuations of up to 0.1 V in magnitude, 
+which are usually attributed to the effects of localized corrosion such as pitting attack.27-30 
+Figure 5 shows that for aluminium alloys containing the lower magnesium contents of 
+15 wt% and below, similar potential-time behaviour was observed to that obtained for 
+sputtered pure aluminium, with a steep rise in potential being followed by a period of rapid 
+potential fluctuations. In contrast, when the alloy magnesium content was further increased 
+to 25 wt%, the open circuit potential was generally more stable with the fluctuations in 
+potential being less pronounced. This suggests that the Al alloys containing moderate levels 
+of magnesium may be more resistant to pitting attack than pure Al or those containing low 
+levels of Mg, supporting the observations made in the salt fog environment. This trend was 
+continued with the aluminium alloy containing 55 wt% magnesium, where very few 
+potential fluctuations were observed. However, the Al-55 wt% Mg alloy behaved 
+differently from the alloys which were mainly composed of Al in that following a very 
+large rise in open-circuit potential in the first 100 h of immersion, the potential did not 
+stabilise but continued to drift in a noble direction. 
+162 K.R. Baldwin er al. 
+Pure Aluminium 
+Time lhoursl 
+jg -1.01 0 100 200 
+Tlme (hours1 4 
+(D Al-5% Mg -0.6 v . m , , , , , , 
+Time Ihours) 
+Time lhoursl 
+Time fhoursl Time Ihours) 
+Fig. 5. The variation in open circuit corrosion potential with time for unbalanced magnetron 
+sputtered pure Al and AI-Mg alloy coatings containing 5, IO. 15, 25 and 55 wt% Mg, determined in 
+quiescent 600 mmol I-’ sodium chloride solution. 
+The average open-circuit corrosion potential of the sputtered deposits was calculated 
+over the 200 h immersion period in 600 mmol 1-t NaCl solution. Figure 6 illustrates the 
+relationship between the average open-circuit corrosion potential and Al-Mg alloy 
+composition. This plot shows that the average potential of the Al alloys became 
+increasingly negative as the Mg content was increased, which is in line with a previous 
+study on Al-Mg alloys carried out at DRA Farnborough.” The open-circuit corrosion 
+potential of bare steel has been determined in earlier workI and a value of -0.67 V (SCE) 
+Aluminium-magnesium alloys 163 
+-0.6 - 
+iii 
+ti r___-___-___________-~--- E eOPr tsteell------- 
+-0.7 - 
+a, 
+: -1.0 - 
+& 
+z -1.1- 
+I 0 I I I I I 10 20 30 40 50 
+WtX Mg alloying addition 
+Fig. 6. The relationship between average open circuit corrosion potential and alloy composition for 
+unbalanced magnetron sputtered AI-Mg alloy coatings, determined over 200 h immersion in 
+600 mmol 1-l NaCl solution. 
+was obtained in quiescent 600 mmol 1-l NaCl solution. Figure 6 shows that the sputtered 
+deposits were negative with respect to bare steel and that the Al alloys will become 
+increasingly sacrificial as the concentration of the more active Mg metal is increased. 
+Potentiodynamic polarization sweeps 
+The cathodic polarization sweeps obtained for magnetron-sputtered pure Al and 
+selected Al-Mg alloys in aerated 600 mmol 1-l NaCl solution are shown by Fig. 7. For the 
+pure Al coatings, a rapid increase in current density was initially observed close to the open- 
+circuit potential. The cathodic response then showed highly polarized behaviour, with only 
+a very small increase in current density being observed for a large increase in overpotential. 
+This behaviour is typical of corrosion processes that are under diffusion control, e.g. oxygen 
+reduction.31 
+Figure 7 shows that the cathodic polarization response of the Al-Mg alloys was similar 
+to that obtained for pure Al in that diffusion controlled cathodic reactions appeared to be 
+predominant. However, it was found that the polarization curves obtained for the Al-Mg 
+alloy coatings were, in most cases, less polarized than pure aluminium, with the alloys 
+showing some deviation from purely diffusion limited behaviour, particularly at the higher 
+overpotentials. 
+A further effect of increasing the alloy magnesium content was to shift the cathodic 
+polarization curves to progressively higher current densities. The corrosion current density 
+was determined for each sputtered deposit using a Tafel extrapolation technique.32 The 
+corrosion current density values obtained are plotted logarithmically as a function of 
+magnesium content by Fig. 8. This plot shows that the corrosion current density of the Al 
+alloys increased as the Mg content was increased and suggests that the barrier corrosion 
+resistance of sputtered Al will be progressively diminished as the concentration of Mg in the 
+alloys is raised. 
+164 K.R. Baldwin et al 
+-7oc 
+-900 
+z 
+5: 
+: 
+> -1100 E 
+r( II) .?I JJ 
+s &J -1300 
+a0 
+-1500 M9 
+.5x M9 
+-3 -2 -1 0 i 
+Log.Current Density $tA/mmz) J 
+I 
+2 
+Fig. 7. Cathodic potentiodynamic polarization sweeps of unbalanced magneton sputtered pure Al 
+and AI-Mg alloy coatings in aerated 600mmoll-’ sodium chloride solution. Sweep rate: 
+0.125mVs-‘. 
+Figure 7 showed that as the alloy magnesium content was increased the cathodic 
+polarization curves were shifted to lower potentials. The relationship between the corrosion 
+current density and the open circuit potentials of the sputtered deposits determined after 1 h 
+immersion in aerated 600 mmol I-‘NaCl solution is shown by Fig. 9. The plot obtained for 
+the Al-Mg alloys indicates that the corrosion current density increased as the open circuit 
+potential became more negative. This type of relationship has been observed for other 
+binary alloy systems33*34 and demonstrates that the corrosion of the Al-Mg alloys was 
+predominantly under cathodic control since the corrosion current became larger as the 
+potential became more negative. 
+DISCUSSION 
+Barrier properties of coatings 
+The cathodic polarization sweeps conducted on sputtered pure Al showed the type of 
+highly polarized behaviour normally associated with corrosion reactions that are under 
+diffusion control (Fig. 7). In the near neutral solutions employed in this study, the 
+predominant cathodic reaction is considered to be oxygen reduction. The cathodic 
+corrosion behaviour of the sputtered Al alloys was similar to that of pure Al even for 
+those alloys containing high Mg levels. For example, the Al-55wt% Mg alloy behaved in a 
+similar manner to pure Al in that diffusion control was predominant, rather than showing 
+Aluminium-magnesium alloys 165 
+0. 
+Magnesium content (wtX1 
+Fig. 8. The relationship between corrosion current density and magnesium content for unbalanced 
+magnetron sputtered AI-Mg alloy coatings in aerated 600 mmol I-’ NaCl solution. 
+the more active behaviour associated with pure magnesium where hydrogen evolution is 
+often the principal cathodic process.3S37 
+The cathodic polarization sweeps showed that the corrosion current density of pure Al 
+was shifted to higher currents as the Mg level was raised (Figs 7 and 8). If the cathodic 
+current was determined solely by the diffusion limited reduction of oxygen, then no effect of 
+the nature of the cathode should be observed and the corrosion current should be 
+independent of alloy composition. The fact that the currents were very different shows that 
+the nature of the alloy surface was significant. The addition to aluminium of significant 
+concentrations of magnesium would certainly be expected to change the nature of the 
+passive surface film on Al. In the presence of moisture, Mg develops a thin film of 
+magnesium hydroxide, Mg(OH)2, which is generally incomplete and provides only limited 
+protection to magnesium. Thus the addition of sufficient concentrations of Mg to Al would 
+be expected to disrupt the surface oxide film formed on Al and weaken its protective effect, 
+possibly accounting for the poorer barrier properties of the Al-Mg binary alloys. The 
+increase in the cathodic current that occurs as the magnesium content is raised may be 
+related to the increased rate of oxygen diffusion through the less protective oxide film 
+formed on the Al-Mg alloys. Mansfeld et a1.38 employed similar arguments to explain the 
+difference in corrosion rates between aluminium alloys where none should be found since 
+their corrosion reactions were under cathodic control. Mansfeld et al.38 also proposed that 
+differences in efficiency for oxygen reduction on individual Al alloys themselves could also 
+account for the observed difference in their corrosion rates. 
+166 K.R. Baldwin et al 
+Open-circuit potential (V vs SCEl 
+Fig. 9. The relationship between corrosion current density and open circuit corrosion potential for 
+unbalanced magnetron sputtered AI-Mg alloys determined after 1 h immersion in aerated 
+600 mmol I-’ NaCl solution. Weight percentage magnesium content ofeach alloy shown in brackets. 
+The barrier corrosion resistance of the Al coatings will not only be dependent on the rate 
+at which they corrode but also the nature of the corrosion itself. In the neutral salt fog 
+environment it was found that the corrosion of the Al and Al-Mg alloy coatings was 
+characterized mainly by pitting attack. This type of localized attack is thought to result from 
+the presence of flaws in the passive oxide film. In studies on pure Al coatings, Hinton et al.” 
+proposed that if the local microstructure exhibited little or no porosity, attack occurred 
+mainly by uniform penetration over a wide area, while some pitting was prevalent at grain 
+boundaries. With as-plated ion-vapour deposited coatings, Hinton et al.” found that the 
+local microstructure contained high levels of porosity, and was thus characterized mainly by 
+localized pitting, leading to early exposure of the substrate. In the present work, the 
+corrosion of the dense, non-porous sputtered Al alloys containing low Mg levels (< 15 wt%) 
+was characterized by the formation of large pits similar in form to those observed for pure 
+Al. The susceptibility of these coatings to pitting attack was demonstrated by the open 
+circuit corrosion potential measurements which showed potential fluctuations which are 
+typical of this type of localized attack. In contrast, those Al-Mg alloys containing higher 
+Mg levels were less susceptible to pitting attack. A possible explanation is that the high Mg 
+alloys were gradually assuming the characteristics of pure Mg for which a more uniform 
+type of attack is often found.36337 This was supported by the open circuit potential 
+measurements which showed a marked increase in electrochemical stability as the alloy Mg 
+level was increased (Fig. 5). 
+Aluminium-magnesium alloys 167 
+For pure Al and the Al-Mg alloy coatings, the air-formed film will provide the first 
+barrier against attack in the presence of an aggressive environment. In the presence of 
+chloride ions, appreciable thinning of the oxide film is likely to occur, and eventually the 
+underlying metallic layer will be exposed to the corrodant. The corrodant will penetrate pre- 
+existing defects in the coating such as small pores, which will then behave as crevices. In the 
+pores or in pits formed as a result of corrosion, the local environment will become 
+increasingly acidic. In the case of pure Al, the development of local acidity will accelerate the 
+dissolution of Al and thus stimulate pit growth.39 For the Al-Mg alloys, the development of 
+strongly acidic conditions may lead to the dissolution of both Al and Mg. In the early stages 
+of pit growth, hydrogen evolution would occur because of the limited oxygen supply and the 
+low solubility of oxygen in solutions of high chloride concentration. lo Following this initial 
+period, the pH in the pit is thought to rise as oxygen reduction becomes the predominant 
+cathodic reaction thus generating hydroxyl ions. In the case of pure Al, hydroxides such as 
+Al(OH)s, then precipitate in the pit, accompanied by the formation of other insoluble 
+corrosion products such as Mg(OH)2 in the case of the Al-Mg alloys which may help to stifle 
+corrosion activity. 
+The sacrificialproperties of coatings 
+The electrochemical potential of binary alloys is related to the thermodynamic 
+equilibrium potentials of the two components of the alloy.40 The electrochemical potential 
+adopted by the binary alloy will be located between the potential values of the parent metals. 
+The potential of pure magnesium is approximately - 1.9 V (SCE) in 600 mmol 1-l chloride 
+solution35-37 compared with a value of between -0.7 and - 1 .O V (SCE) for aluminium, 
+depending upon its purity.‘5-18 Accordingly, the addition of Mg to the sputtered Al deposits 
+produced alloys which adopted open circuit corrosion potentials that were negative to that 
+of pure Al but were positive with respect to that of pure Mg (Fig. 6). 
+Previous work at DRA Farnborough4i has shown that open circuit potential 
+measurements can be a reliable guide in predicting the direction of current flow in a 
+galvanic couple formed between metal coatings and steel although the magnitude of the 
+current cannot be determined solely from potential data and must usually be determined 
+experimentally. If the potential of the coating is negative to steel then sacrificial protection 
+will be obtained whereas if it is more noble than the substrate, the steel will corrode 
+preferentially. In the present work, the open circuit potential adopted by pure Al was close 
+to that of bare steel which, as indicated above, adopts a potential of -0.67 V (SCE) 
+600 mmol 1-l NaCl solution.16 Although pure Al is slightly negative to steel, it is possible 
+that the coatings will be insufficiently active to drive the potential of the steel substrate well 
+below its protection potential, accounting for the limited sacrificial protection afforded by 
+the pure Al. The sputter deposited Al alloy coatings were found to become increasingly 
+active as the magnesium content was raised, indicating that the coatings would afford 
+improved sacrificial protection to steel over that obtained for pure Al. 
+Figures 5 and 6 showed that alloying additions of 15 wt% Mg and above are required to 
+obtain the significant negative shift in potential to ensure that steel would be effectively 
+protected at any pre-existing pores or corrosion pits in the coating. If the magnesium level 
+was increased significantly above this value, to over 30 wt% Mg, the potential of the alloys 
+was found to decrease below - 1 .O V (SCE). Although Al-Mg alloys which adopt such 
+active potentials would provide very effective sacrificial protection, it is likely that they 
+would not be present for long since they are likely to suffer high rates of galvanic corrosion. 
+168 K.R. Baldwin et al. 
+Binary alloy systems composed of two metals with widely different electrochemical 
+potentials are often susceptible to de-alloying. This occurs with, for example, some types of 
+copper-zinc alloys (brasses) where the more active metal (Zn) selectively dissolves from the 
+alloy matrix leaving a deposit enriched in the more noble metal (Cu). In simple terms, the Al 
+alloys containing less than 50 wt% magnesium are analogous to the Cu-Zn alloys in that the 
+more active metal (Mg) is contained in a matrix composed of the more noble metal (Al). An 
+earlier study conducted at DRA Farnborough42 has shown that open circuit potential 
+monitoring is useful in studying de-alloying since a significant positive shift in potential 
+generally occurs as the more active component of the alloy is dissolved from the alloy 
+surface. In the present work, the potential of the Al alloys containing less than 50 wt% Mg 
+remained relatively stable despite the fluctuations in potential, suggesting that the Al-Mg 
+alloys which were composed mainly of Al were resistant to de-alloying. 
+The open circuit corrosion potential measurements conducted on the sputtered alloys 
+composed mainly of Mg were found to behave differently to those composed mainly of Al. 
+Fig. 5 shows that the potential of the Al-55 wt% Mg alloy increased sharply over the initial 
+immersion period. In contrast to pure Al and the low-magnesium alloys which also showed 
+initial rises in potential, the Al-55 wt% Mg alloy became increasingly noble and did not 
+stabilise suggesting that it is susceptible to a form of de-alloying. A possible explanation is 
+that magnesium was selectively dissolved leaving a surface enriched in the more noble 
+aluminium, accounting for the noble shift in potential. Toward the end of the immersion 
+period, the potential of the high-magnesium alloy did eventually show signs of stabilising, 
+possibly as an equilibrium structure developed in the surface layers. 
+Corrosion behaviour iiz neutral salt f5g 
+In the neutral salt fog tests, it was found that the level of corrosion protection afforded to 
+steel by the sputtered Al coatings increased sharply as the magnesium content was increased 
+until a peak in performance was observed for alloys containing 20 wt% magnesium. Further 
+increases in the magnesium content were of no further benefit and instead caused a decline in 
+corrosion performance. The cathodic polarization sweeps showed that the corrosion current 
+density of Al in 600 mmol l- ’ NaCl solution was increased as the Mg level was raised. The 
+values obtained for Al alloys with Mg concentrations of up to approximately 20 wt% were 
+lower than corrosion currents previously recorded for ion-vapour deposited pure Al,’ where 
+the corrosion current density of the as-plated IVD coatings in aerated 600 mmol 1-l was 
+found to be approximately 0.01 PA mm-‘, which is 10 times higher than that recorded in the 
+present work for sputtered pure Al under very similar experimental conditions. The 
+significantly higher corrosion current density found for the ion-vapour deposited 
+aluminium coating is most likely due to its high porosity compared with the sputtered 
+deposits evaluated in this study. Thus it may be concluded that although the addition of 
+significant concentrations of Mg would have reduced the barrier corrosion protection 
+afforded by the Al alloy sputtered deposits, they would remain more effective than 
+conventional ion-plated aluminium coatings provided the Mg content does not exceed 
+approximately 20 wt %. 
+In the neutral salt fog environment, it is proposed that the initial increase in the level of 
+corrosion protection observed in the neutral salt fog environment for alloys containing up to 
+20 wt% magnesium was mainly due to an improvement in the level of sacrificial protection 
+afforded by the sputtered deposits as the Mg concentration was increased. It has been shown 
+that the loss of barrier properties would not have become a significant factor until the 
+Aluminium-magnesium alloys 169 
+magnesium content was relatively high ( > 20 wt% Mg). The decline in the level of corrosion 
+protection afforded by the sputtered Al-Mg alloys (Fig. 2) when the magnesium level was 
+increased above 20 wt% was most likely due to the combined effects of excessive rates of 
+galvanic corrosion as the coatings became more active and the loss of barrier corrosion 
+protection. Thus the data obtained in the present work suggest that the peak in performance 
+observed in the neutral salt fog environment for the sputtered deposits containing 
+approximately 20 wt% Mg represents an optimum balance being attained between the 
+barrier and sacrificial properties of the Al-Mg alloy coatings. 
+CONCLUSIONS 
+1. Potentiodynamic cathodic polarization sweeps conducted on unbalanced mag- 
+netron sputtered Al-Mg alloy coatings in 600mmol I-’ NaCl solution showed that the 
+corrosion current density of the Al alloys increased as the Mg content was raised, 
+indicating that the barrier corrosion resistance of sputtered Al will decline as the alloy 
+Mg level is increased. 
+2. From open circuit corrosion potential measurements conducted in 600 mmol l- ’ 
+NaCl solution it was found that sputter deposited Al alloy coatings become progressively 
+more active as the alloy Mg content is increased, suggesting that the Al alloys will become 
+more sacrificial as the Mg level is raised. 
+3. In neutral salt fog tests, the level of corrosion protection afforded by Al alloy coatings 
+is improved by the addition of Mg until an optimum is reached for alloys containing 
+approximately 20 wt% Mg. Further increases in the Mg level, above 20 wt%, caused a 
+decline in performance. It is proposed that the peak in performance represents an optimum 
+balance attained in the neutral salt fog environment between the barrier and sacrificial 
+properties of the Al-Mg alloy coatings. 
+REFERENCES 
+I G.A. Capuano, R. Lafortune and C. Gobeil, Plating and Surface Finishing &I,49 (1977). 
+2. R. Suchentrunk, Corrosion Protection by Electra-deposited Aluminium, AGARD Lecture Series 106, I. l-7.25 
+(1980). 
+3. W. Wittich. R. Suchentrunk and H. Kellerer, Metal1 und Technik 30, 943 (1980). 
+4. M. Galova, Surf. Technol. 11, 357 (1980). 
+5. S. Biallozor. A. Lisowska-Oleksiak and W.N. Titova, Surf Coat. Technol. 34, 549 (1988). 
+6. W. Kautek, Corros. Sci. 28, I73 (1988). 
+7. E. Fanin, AGARD Conf Proc., No. 256, Advanced Fabrication Processes, Florence, Italy, 2628 September 
+(1978). 
+8. M. El-Sherbiny and E. Salem, Anti-corrosion 28, 15 (1981). 
+9. N.A.G. Ahmed, Anti-Corrosion 31, 4 (1984). 
+10. B.R.W. Hinton, W.J. Pollock, P.N. Trathen and A. Crosky, Corros. Australasia 13, 12 (1987). 
+11. R. Palmer and D.J. Hall, Product Finishing 45, 6 (1992). 
+12. B.T. Nevill, Plating Surf Finishing 80, 14 (1993). 
+13. J.F. McIntyre and L. Hang, Corrosion 50, 26 (1994). 
+14. J.C. Salvador Fernandes and M.G.S. Ferreira, Surf Coat. Technol. 53, 99 (1992). 
+15. W.H. Ailor, Proc. ConfI Corrosion ‘70, Paper No. 36, p. 200. Philadelphia (1970). 
+16. C.J.E. Smith and K.R. Baldwin, Product Finishing 45, 12 (1992). 
+17. T.D. Burleigh, R.C. Rennick and F.S. Bovard, Corrosion 49, 683 (1993). 
+18. K.R. Baldwin and C.J.E. Smith, Proc. Co@ Materials Technology ‘91 (ed. A. Niku-Lari), p. 153. IITT- 
+Technology Transfer International, Paris, September (1991). 
+170 K.R. Baldwin et al. 
+19. D.P. Monaghan. D.G. Teer, P.A. Logan, K.C. Laing, R.I. Bates and R.D. Amell, Surf. Coat. Technol. 60, 
+592 (1993). 
+20. P.L. Lane and C.J.E. Smith, Surface Engineering Practise (ed. K.N. Strafford, P.K. Datta and J.S. Gray), 
+p. 566. Ellis-Horwood Ltd., Chichester (1990). 
+21. J.B. Horton, Corrosion Control by Coatings (ed. H. Leidheiser), Science Press, p. 59. Princeton (1979). 
+22. V.C.R. McLaughlin. AGARD Cant Proc.. No. 256, Advanced Fabrication Processes, Florence, Italy, 2628 
+September (1978). 
+23. B. Window and N. Savvides, J. Var. Sri. Technol. A4, 196 (1986). 
+24. B. Window and N. Savvides, J. Var. Sci. Technol. A4, 453 (1986). 
+25. B. Window and N. Savvides, J. Var. Sri. Technol. A4, 504 (1986). 
+26. ASTM B117. Standard Method of Salt Spray (Fog) Testing, American Society for Testing and Materials, 
+Philadelphia (198 1). 
+27. M. Janik-Czachor, G.C. Wood and G.E. Thompson, Br. Corros. J. 15, 154 (1980). 
+28. B. Samuels, K. Sotoudeh and R.T. Foley, Corrosion 37, 92 (1981). 
+29. R.T. Foley, Corrosion 42, 277 (1986). 
+30. K. Nisancioglu and H. Holtan, Werkstoffe und Korrosion 30, 105 (1979). 
+31. M.G. Fontana and N.D. Greene, Corros. Eng. Ch. 9. McGraw-Hill Book Co., New York (1967). 
+32. F. Mansfeld, Electrochemical Techniques for Corrosion (ed. R. Baboian), p. 18. NACE (1977). 
+33. K.R. Baldwin, M.J. Robinson and C.J.E. Smith, Corros. Sri. 36, 1115 (1994). 
+34. N.R. Short, A. Abibsi and J.K. Dennis, Trans. Inst. Met. Finishing 67, 73 (1991). 
+35. F. Hehmann, F. Sommer, H. Jones and R.G.J. Edyvean, J. Mar. Sci. 24, 2369 (1989). 
+36. G.L. Makar and J. Kruger, J. electrochem. Sot. 137, 414 (1990). 
+37. G.L. Makar, J. Kruger and K. Sieradzki. J. electrochem. Sot. 139, 47 (1992). 
+38. F. Mansfeld, D.H. Hengstenberg and J.V. Kenkel, Corrosion 30, 343 (1974). 
+39. M. Pourbaix, Atlas of Electrochemical Equilibria in Aqueous Solutions, Section 5.1. 2nd Edition. NACE; 
+Cebelcor (1974). 
+40. H. Kaiser, Corrosion Mechanisms (ed. F. Mansfeld), p. 85. Marcel Dekker Inc. (1987). 
+41. K.R. Baldwin, M.J. Robinson and C.J.E. Smith. Br. Corrosion J. 29, 299 (1994). 
+42. K.R. Baldwin, M.J. Robinson and C.J.E. Smith. Corros. Sci. 35, 1267 (1993). 

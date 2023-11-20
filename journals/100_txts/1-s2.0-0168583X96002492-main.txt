@@ -1,0 +1,492 @@
+Nuclear Instruments and Methods in Physics Research B 118 (19%) 382-387 
+ELSEVIER ham Inbractions 
+with Yatedals 8 Atoms 
+Channeling studies of YBaCuO thin films with combined 
+RBS and PIXE 
+K.H. Ecker a9 *, Z. Quan b, T. Schurig b, H.P. Weise a 
+a Bundesanstaltfir Marerialjorschung und -priijmg, Unter den Eichen 87,122OS Berlin, Germany 
+b Physikalisch-Technische Bundesanstah, Abbestr. 2-12,10587 Berlin, Germany 
+Abstract 
+Thin films of YBa&usO,_, (YBCO) deposited by hollow cathode discharge sputtering on (100) MgO, (100) SrTiO, 
+and (100) Zr(Y)O, (YSZ) buffered r-plane sapphire, are studied using channeling techniques. Simultaneous Rutherford 
+backscattering spectrometry (RBS) and particle induced X-ray emission (PIXE) are applied to investigate the high-T, 
+superconducting films (HTSC) and the pure substrates. Using the RBS signal of Ba near the surface, we obtain minimum 
+yields of 3.2%, 17% and 18% for films on MgO, SrTiO, and Zt(Y)O, substrates respectively. The minimum yields 
+measured on thin films with PIXE depend on the film thickness, since X-rays from the total depth of the film are integrated. 
+For the films investigated, minimum yields in the range 12-40% are measured when Ba,, Y,, Y,, and CuKa X-rays are 
+detected. A constant half-angle for (100) axial scans was found for RBS and PIXE measurements on all YBCO samples 
+when signals from Ba, Y and Cu were used. Results on the homogeneity of a large area deposition (50 X 50 mm*) are 
+presented. The present channeling results are compared with T,, and j, measurements. 
+1. Introduction 
+The application of high-temperature superconductor 
+(HTSC) thin films in cryoelectronic and high-frequency 
+device fabrication requires deposition techniques which are 
+capable of producing high-quality large-area HTSC films. 
+Sputtering is considered to be one of the most advanta- 
+geous techniques for thin-film production currently used. 
+To optimize the deposition parameters for the deposition, 
+analysis techniques have to be applied, that are sensitive to 
+the stoichiometric composition and to the crystalline struc- 
+ture. The analysis should also be fast and nondestructive. 
+Rutherford backscattering spectrometry (RBS) and particle 
+induced X-ray emission (PIXE) are well-known techniques 
+that fulfil these requirements for the analysis of thin films 
+and near-surface regions [ 1,2]. The combination of RBS 
+and PIXE with channeling is a powerful tool for investigat- 
+ing single crystal structures [3]. Numerous applications of 
+RBS channeling for characterizing HTSC films have been 
+published in recent years [4-71, but very few results of 
+investigations have been published where PIXE has been 
+used [8]. This is probably due to the fact that PIXE 
+channeling measurements are hampered by the poor depth 
+resolution of PIXE. If, however, the films to be investi- 
+l Corresponding author. Fax: + 49 30 8 1041147. gated are thin, or if the depth from which the X-rays are 
+detected is small, as in the case of high-2 material, PIXE 
+channeling can contribute valuable information in addition 
+to RBS. In particular when structures of several layers on 
+top of each other have to be investigated, PIXE can 
+supplement RBS. It is the aim of this paper to show 
+examples where the combination of RBS and PIXE chan- 
+neling measurements contribute to the characterization of 
+YBCO films and layered structures containing YBCO that 
+are of interest in the production of cryoelectronic devices. 
+We have focussed on samples with thicknesses greater 
+than 100 nm where the signals from Ba, Y and Cu overlap 
+in the RBS spectrum, making the RBS analysis less accu- 
+rate. The case of large-area thin-film deposition for mi- 
+crowave applications, with a film thickness in the range of 
+250 up to 600 nm is of particular interest. 
+2. Experiment 
+The RBS and PIXE channeling measurements were 
+performed on the 2.5 MV Van de Graaff accelerator at the 
+Hahn-Meitner Institut, Berlin. A 2 MeV He+ beam was 
+used to obtain the results presented here. A vacuum of 
+5 X lo-* mbar was maintained in the spectroscopy cham- 
+ber during the measurement. The samples were mounted 
+on a 3-axis goniometer head with an angular resolution of 
+0168-583X/%/$15.00 Copyright 0 1996 Elsevier Science B.V. All rights reserved 
+PI1 SOl68-583X(96)00249-2 
+K.H. Ecker et al. / Nucl. Instr. and Meth. in Phys. Res. B I1 8 (1996) 382-387 383 
+(a) Eneqy (Me\/) 
+0.5 1 .I3 I .5 
+e 0 I I 
+c I_. 
+random 
+i (100) aligned i 
+He+ 
+i 
+0 ., AJ . i 
+300 400 500 EOO 7 c: i:\ 
+Channel 
+-random 
+‘. (100) aligned 
+400 600 
+Channel 
+Fig. 1. Random and channeled spectrum for 2 MeV He+ on 300 nm YBCO on MgO. (a) RBS, solid line RUMP simulation with 
+Y:Ba:Cu:Oratiosof 1:1.9:3:7.(b)PIXE. 
+V. PIXE 
+384 K.H. Ecker et al./Nucl. Instr. and Meth. in Phys. Res. B I I8 (1996) 382-387 
+0.01” which can also be shifted in two directions perpen- 
+dicular to the beam. A passivated implanted planar silicon 
+(PIPS) detector, with an energy resolution of 17 keV 
+positioned at an angle of 150” to the incident beam direc- 
+tion, was used for the RBS measurements. The X-rays 
+were measured with a lithium-drifted silicon detector with 
+an energy resolution of 170 eV positioned at an angle of 
+150” on the other side. The distance between the detectors 
+and the sample can be varied to adjust them to the count 
+rates when scattered ions and X-rays are simultaneously 
+detected. The ion current, typically in the range of 1 to 2 
+nA, was measured with an annular Faraday cup, which was frequently calibrated by using a second Faraday cup 
+that can be moved into the beam in front of the goniome- 
+ter. We observed changes in the minimum yields of YBCO 
+films after irradiation with a fluence greater 10 p.C in a 
+random direction. To avoid irradiation damage, the total 
+fluence for measurements on one spot of the sample was 
+therefore kept below 2 pC. (100) axial angular scans 
+were performed in a plane which was inclined at 22.5” to 
+the ( 100) plane. 
+The random spectra measured by RBS were quantita- 
+tively analyzed by fitting them with computer simulation 
+curves produced by the RUMP program (version 3.5 11) [9] 
+Table I 
+Minimum yields and full-width axial half-angles of 2 MeV He+ channeling in substrates and YBCO films 
+Sample Signal Xmin 
+[%I 
+Substrates: 
+Al,O, (1102) 
+SrTiO, (100) 
+MgO (loo) RBS Al ss 2.7 1.15 
+PIXE A’,, 11.1 1 .OO 
+RBS Sr ss 2.5 1.41 
+PIXE SrLa 7.2 1.30 
+SrK, 7.0 1.40 
+Ti,, 7.0 1.40 
+RBS Mg ss 2.4 
+PIXE Mg,, 13.0 
+YBCO layers: 
+135 nm YBCO/ 
+SrTiO, 
+230 nm YBCO/ 
+70 nm YSZ/ 
+Al,% 
+80 nm SrTiO, 
+170 nm YBCO/ 
+MgO 
+300 nm YBCO/ 
+MgO 
+70 nm YBCO/ 
+MgO RBS 
+PIXE 
+RBS 
+PIXE 
+RBS 
+PIXE 
+RBS 
+PIXE 
+RBS 
+PIXE Ba ss 
+total 
+Ba,, 
+CUK, 
+Y 
+B:“ss 
+total 
+Ba,, 
+“Kc, 
+YL 
+Y 
+B,“ii 
+total 
+Ba,, 
+CUK, 
+Y Ka 
+SrKm 
+Ba ss 
+total 
+BaL, 
+Ck, 
+YL 
+Y 
+B:;ot 
+cu tot 
+Y tot 
+BaL 
+CUK, 
+YL 21.0 1.80 
+28.0 1.80 
+27.0 
+30.0 1.80 
+28.0 
+17.7 1.75 
+33.0 1.80 
+33.0 
+36.0 
+45.0 
+47.0 
+17.0 1.80 
+30.0 1.80 
+22.0 
+26.0 1.80 
+22.0 
+60.0 1.85 
+3.2 1.85 
+12.6 1.80 
+11.8 1.80 
+14.2 1.80 
+IO.8 1.78 
+12.0 1.75 
+38.0 1.80 
+45.0 
+39.0 
+39.0 1.75 
+44.0 
+40.0 
+K.H. Ecker et al./Nucl. Instr. and Meth. in Phys. Res. B I18 (1996) 382-387 385 
+using the tabulated stopping cross-sections of Ziegler et al. 
+[lo] with the corrections of Borgesen [l l] and with an 
+empirical correction factor of 0.85 for the average stopping 
+cross-section in YBCO. Details of the RBS analysis and 
+this correction factor are given in Ref. [12]. No attempt 
+was made to deduce absolute values of the thickness and 
+the stoichiometric composition from the PIXE spectra, 
+since the X-ray excitation cross-sections are not suffi- 
+ciently well known for accuracies better than 5- 10% to be 
+achieved. However, relative intensities of the X-ray lines 
+were obtained with an accuracy better than 2%. 
+The YBCO thin films investigated in this work were 
+fabricated by hollow cathode discharge sputtering. For the 
+sputtering we developed a special type of linear hollow 
+cathode sputtering gun with a cathode slot 100 mm in 
+length and 20 mm in width. This source is capable of 
+depositing large-area substrates up to 3 inches in diameter 
+by moving the substrate perpendicularly to the cathode slot 
+during deposition [ 131. Epitaxial YBCO thin films with the 
+c-axis perpendicular to the substrate surface were de- 
+posited on (100) MgO substrates of 10 X 10 and 50 X 50 
+mm2, (100) SrTiO, substrates of 10 X 10 mm2 and r-plane 
+sapphire substrates buffered by (001) YSZ layers. The 
+oxygen content of our YBCO films was determined using 
+near-infrared excited Fourier-transform Raman spectrome- 
+try (FIR) with an accuracy better than 1% [14], since the 
+oxygen determination is not very accurate with RBS and 
+impossible with PIXE. 
+3. Results and discussion 
+Fig. I shows typical RBS and PIXE spectra of a 300 
+nm YBCO layer on MgO. For a film of this thickness the 
+RBS signals from Ba, Y and Cu overlap in such a way that 
+minimum yields and half-angles of the Y and Cu compo- 
+nent cannot be accurately determined with RBS. However, 
+the X-ray lines of the three elements are well separated. 
+The X-ray spectrum also shows small extra lines corre- 
+sponding to Cl,, and InLa. As these lines were observed 
+only with samples on MgO substrates and also in measure- 
+ments of the MgO substrate alone, it would appear that the 
+Cl and In impurities stem from the MgO substrate and are 
+not introduced by the preparation process of the YBCO 
+films. This is confirmed by XPS measurements where 
+these species were not found at the surface of the YBCO 
+films. 
+In Table 1 the minimum yields xmin and full-width 
+axial half-angles for 2 MeV He” channeling are presented. 
+‘RBS (element) ss’ and ‘si’ stands for sub-surface and 
+sub-interface. In these cases only the ions backscattered 
+from a 50 nm thick layer below the surface or interface are 
+taken into account. ‘RBS total’ means that the backscatter- 
+ing of the whole film is considered for the signal, includ- 
+ing the surface peak. The relative precision of the xmin 
+measurements is better than 5% in all cases except for those measurements where Y,, and BaL, lines are used, 
+due to poor counting statistics. The accuracy of the half- 
+angles is 0.05” throughout. The results on the substrates 
+show the high quality of the pure bulk crystals. The 
+differences between the RBS and the PIXE results are due 
+to the difference in the sampling depths of the PIXE 
+measurements. On bulk samples this depth depends on the 
+energy loss of the ions and on the X-ray absorption in the 
+sample, and is therefore larger for Al,O, and MgO than 
+for SrTiO,. 
+Looking at the results for the YBCO films, within the 
+experimental error, we observe the same axial half-angles 
+for all samples when the signals from Y, Ba and Cu are 
+used. Yu et al. [ 151 have carried out computer simulations 
+for 1.5 MeV He+ channeling in YBCO, i.e. with an ion 
+energy which is lower than the energy in the present 
+experiment. They have obtained an identical angular half- 
+width from Y and Ba in good agreement with our experi- 
+mental findings, bearing in mind that the half angles 
+decrease with increasing energy. The computer simulations 
+result in a slightly smaller half-width from Cu compared to 
+the half-width from Y and Ba and this can be explained by 
+the structure of the YBCO unit cell. We do not observe a 
+different half-width for Cu. but a difference at the higher 
+energy of our experiment could be too small to be detected 
+with the accuracy of the present experiment. 
+For the 70 nm YBCO film on MgO, where the RBS 
+signals of the Ba, Y and Cu components are well sepa- 
+rated, we find good agreement between X-ray and RBS 
+total-minimum yields for all three components. Thus the 
+minimum yield results for RBS and PIXE are the same 
+provided the same sampling depth of the signal is used. To 
+demonstrate this point, the results of this sample were 
+included although it is an example from the early stages of 
+our preparation development with rather poor crystal qual- 
+ity. An angular scan has been performed with this sample 
+only for the Ba component. No significant difference 
+between RBS and PIXE axial half-angles is observed in 
+this case. 
+For each YBCO sample the minimum yields of Ba and 
+Y signals are almost the same and the minimum yield of 
+the Cu signal is about 10% higher than that of the Ba or Y 
+signal. Yu et al. [15] give no values for minimum yields 
+but with a small decrease in the half-angle for Cu. a small 
+increase in minimum yield is also expected. It is not clear 
+at present if the higher xmin values for Cu can be ex- 
+plained by the intrinsic difference in channeling along two 
+different atom rows in a perfect crystal, or if it is an 
+indication of a slightly higher disorder in the Cu sublattice. 
+The minimum yield for the various YBCO samples varies 
+over a wide range. Changes in minimum yield with con- 
+stant angular half-width is compatible with randomly dis- 
+tributed disorder. More detailed information on the kind of 
+disorder could possibly be gained by additional experi- 
+ments in different crystal directions combined with simula- 
+tion calculations. 
+V. PIXE 
+386 K.H. Ecker et al./Nucl. Instr. and Meth. in Phys. Res. B I18 (1996) 382-387 
+50 mm 
+9.4 l 
+6.3-10 06.2 
+5.1 . 
+4.3 
+l 3.8 3.4 l 
+3.7. 3.9 . . 
+3.: 
+3;2 
+4;’ 3;6 
+3.6 3.9 5.8 l . 
+$9 4.0. ,,3.0:::, 
+; 
+6;6 . $4 l 
+5.5 
+0.01 * I I I I I I I I I I I 1 I I I * I I I 
+-5 -4 -3 -2 -1 0 1 2 3 4 5 
+vu 
+Fig. 2. Angular yield curves for a multilayer sample 80 nm 
+SrTiO, /I70 nm YBCO/MgO. 
+For the sample with a SrTiO, layer on top, the X-ray 
+minimum yields of the YBCO layer underneath cannot be 
+compared with the RBS total minimum yield, since the 
+RBS signals from the two layers are not separated. This 
+layer structure is of great interest as a first step towards the 
+preparation of two electrically isolated high-l”, films on 
+one substrate. A SrTiO, layer of high single-crystal quality 
+is a prerequisite for a good epitaxial growth of the second 
+YBCO layer. Fig. 2 shows angular scans around the ( 100) 
+axis for this sample using various signals. Y, and Ba,,,,@ 
+X-rays interfere with Sr, and Ti,,,x, X-rays respectively, 
+and the backscattering signals of Ti and Cu partially 
+overlap. Hence only the PIXE measurement with Sr,, 
+X-rays reveals the rather poor quality ( x,,~, = 0.6) of the 
+SrTiO, film. The RBS spectrum of this sample shows a 
+distinct peak, almost like a surface peak, due to He ions 
+being scattered by Ba atoms at the interface of the two 
+layers. The height of this peak is about one third of the 
+Table 2 e f 
+Fig. 3. Variation of xmin on a 50 X 50 mm* YBCO layer pro- 
+duced by hollow cathode discharge sputtering on MgO. 
+height of the Ba surface peak depicted in Fig. la for the 
+best YBCO film on MgO. This is an indication of consid- 
+erable disorder at the YBCO/SrTiO, interface. This disor- 
+der can be caused by bad epitaxial growth of the SrTiO, 
+layer on the YBCO or by poor quality of the YBCO on the 
+MgO. Experiments are planned to distinguish between 
+these cases. 
+On a sample of 300 nm YBCO on MgO we measured 
+the lowest minimum yields. The value of 3.2% for the 
+sub-surface RBS-Ba signal is amongst the lowest reported 
+in the literature. This sample is one part of an YBCO 
+deposition on a large 50 X 50 mm2 MgO substrate, which 
+was subsequently cut in smaller pieces. This large area 
+deposition was investigated in more detail since it showed 
+some inhomogeneity in the superconducting properties. In 
+Fig. 3 the variation of minimum yield for the sub-surface 
+RBS-Ba signal over parts of the sample is shown. Each 
+point is a measurement with an ion beam 1 mm in 
+diameter. The trend to higher minimum yields towards the 
+comers of the sample is clearly visible. In Table 2 these 
+minimum yields are compared with the superconducting 
+properties for different regions of the sample. It should be 
+Sub-surface Ba-RBS minimum yields and thickness compared to the measurements of superconducting properties for the sample of Fig. 3 
+Region Xmin J, at 77 K 
+[%I hd [lo6 A/cm*] 
+a 6.3-10 300 82.5 - 3.0 0.8 
+b 3.4-4.3 305 82.5 - 1.0 2.2 
+C 3.2-4.1 300 83.0 - 1.0 2.5 
+d 3.6-8.9 280 82.5 - 3.5 0.8 
+e 3.3-4.4 280 84.0 - I.0 2.5 
+f 5.1-9.4 270 83.0 - 3.0 0.7 
+K.H. Ecker et ul./Nucl. Instr. and Meth. in Phys. Res. B I18 (1996) 382-387 387 
+noted that the superconducting parameters are obtained by 
+a nondestructive inductive measurement using detection 
+coils 8 mm in diameter located in the center of the pieces, 
+as indicated by the circles. With decreasing minimum 
+yield, there is an increase in the transition temperature T, 
+and the current density j, at 77 K. Particularly striking is 
+the rapid increase in the temperature width AT of the 
+transition with increasing minimum yield. The better the 
+single crystallinity of the film, the better the quality of the 
+superconducting properties. The thickness and the stoichio- 
+metric composition was determined from the random RBS 
+spectra using RUMP. For the RUMP analysis of these 
+films the errors are 5% for the thickness and 510% for 
+the stoichiometric composition [ 121. Within these errors we 
+found a 10% reduction in film thickness at the edges of the 
+sample, but the stoichiometric composition remained con- 
+stant for all measurements on this sample with 
+Y : Ba: Cu: 0 ratios of 1 : 1.9: 3 : 7. When the film thick- 
+ness varies by only IO%, the small differences in ion 
+energy loss and X-ray absorption of the films can be 
+neglected, and the relative composition of the components 
+Ba, Y and Cu can be obtained from the X-ray intensity 
+ratios Ba,/Y, and Ba,/Cu, of the PIXE measurements. 
+For the large area deposition, as these ratios are found to 
+be constant within an error of less than 2% over the 
+sample, we do not think that the inhomogeneities in this 
+sample are due to variation in thickness or stoichiometric 
+composition of the Ba, Y and Cu components. Near-in- 
+frared Fourier transform Raman spectrometry has not pro- 
+vided evidence of inhomogeneities in oxygen content. One 
+explanation could be that temperature inhomogeneities cap- 
+proximately 25 K at the periphery of the 3” area heated to 
+980 K during the deposition) lead to less favorable condi- 
+tions for good epitaxial growth towards the edges of the 
+sample. To guarantee a constant temperature over the 
+whole area of the substrate and to maintain it during the 
+sputter deposition is quite difficult with radiation heating. 
+We have meanwhile improved this equipment and we have 
+sputtered films on MgO with transition temperatures 2 87 
+K, j, 2 2 X lo6 A/cm’ and a surface resistance of 5.2 
+mR at 18 GHz. RBS and PIXE measurements on these 
+samples are planned. 
+In conclusion, our measurements clearly illustrate that 
+PIXE channelling combined with RBS channelling, pro- 
+vides valuable additional information on the properties of 
+epitaxially grown YBCO films. This is of particular inter- 
+est for the thicker films needed in microwave devices. Large-area YBCO films up to 50 X 50 mm2 produced by 
+hollow cathode discharge sputtering show constant compo- 
+sition ratios for Y, Ba and Cu and only a small variation in 
+thickness. However, the crystalline order of the film, and 
+thus the quality of the superconducting parameters, de- 
+creases at the edges of the films. A further improvement of 
+the homogeneity of the deposition conditions, especially 
+the control of the substrate temperature, is required. 
+Acknowledgements 
+The authors would like to thank Prof. D. Braunig for 
+providing access to the ion accelerator at the Hahn-Meitner 
+Institute, and Mr. K. Effland for technical assistance. This 
+work was partly funded by the Federal Ministry of Re- 
+search and Technology (BMFT) under Contract no. 
+13N5484A. 
+References 
+[ll 
+I21 
+Dl 
+141 
+151 
+[61 
+171 
+[Sl 
+t91 
+[lOI 
+11 II 
+[121 
+[131 W.K. Chu, J.W. Mayer and M.A. Nicolet, Backscattering 
+Spectrotnetty (Academic Press, New York, 1978). 
+S.A.E. Johansson and J.L. Campell, PIXE (Wiley, New 
+York, 1988). 
+L.C. Feldmann, J.W. Mayer and S.T. Picraux, Materials 
+Analysis by Ion Chamrelhng (Academic Press, New York, 
+1982). 
+0. Meyer, J. Geerk, Q. Li, G. Linker and X.X. Xi, Nucl. 
+Instr. and Meth. B 45 (1990) 483. 
+L.E. Rehn, Nucl. Instr. and Meth. B 64 (1992) 161. 
+A. Lubig, Ch. Buchal, J. Friihlingsdorf, W. Zander and B. 
+Stritzker, Nucl. Instr. and Meth. B 50 (1990) 114. 
+H. Jhans and L.G. Earwaker, N.G. Ghew, J.A. Edwards and 
+A.G. Cullis, Nucl. Instr. and Meth. B 56/57 (1991) 768. 
+J.A. van Kan, J.H. Rector, B. Dam and R.D. Vis. Nucl. Instr. 
+and Meth. B 89 (1994) 204. 
+L.R. Doolittle, Nucl. Instr. and Meth. B 15 (1986) 227. 
+J.F. Ziegler, J.P. Biersack and U. Littmark, The Stopping and 
+Range of the Ions in Solids (New York, Pergamon, 1985). 
+P. Bergesen and D.A. Lilienfeld, Nucl. Instr. and Meth. B 36 
+(1989) 1. 
+Z. Quart, Th. Schutig, S. Menkel, S. Kappe, J. Beyer and H. 
+Koch, Physica C 249 (1995) 309. 
+Th. Schurig, S. Menkel, Z. Quart, J. Beyer, B. Giittler, S. 
+Kappe and H. Koch, Physica C 262 (19%) 89. 
+[14] B. Giittler, J. Sawatzki and W. Richter, Supercond. Sci. 
+Technol. 4 (1991) 199. 
+[15] N. Yu, K.B. Ma and W.K. Chu, Nucl. Instr. and Meth. B 
+59/60 (1991) 1409. 
+V. PIXE 

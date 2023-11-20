@@ -1,0 +1,504 @@
+cm . __ 
+@ __ 
+ELSEVIER Nuclear Instruments and Methods in Physics Research B 116 (1996) W-446 
+NOW B Beam Interactions 
+with Materials & Atoms 
+Ion beam induced reduction of metallic cations in yttria-zirconia 
+G.M. Ingo aT*, G. Marletta b 
+a Consiglio Nazionale delle Ricerche, Institute di Chimica dei Materiali, C.P. 10 Monterotondo Stazione, Roma, Italy 
+b Dipartimento di Chimica, Uniuersitk della Basilicata, Via N. Sauro 85, 85100 Potenza. Italy 
+Abstract 
+Samples consisting in polycrystalline films of 8 wt.% Y,O,--ZIG,, 0.8 mm thick, deposited by plasma spray technique, 
+were irradiated with l-4 keV Ar ions in the fluence range between 1 X 1016 and 7 X lOi ions/cm2. The formation of 
+radiation-induced Z&II> and Z&I) as well as Y(E) suboxides is demonstrated by using X-ray photoelectron spectroscopy 
+(XPS). In particular, reduced species start to be observed when the energy of the irradiating ions is higher than 1 keV, while 
+the relative amount of the low valence cations produced for a given fluence in the altered layer has been found to depend on 
+the primary ion energy. The results obtained by angular dependent XPS (ADXPS) analysis suggest that the in-depth 
+distribution of the Zr and Y reduced species also depends on the primary ion energy. In particular, for samples irradiated 
+with 2 keV Ar ions the Zr (and Y) reduced species are detected at the surface, while for samples irradiated with 4 keV ions 
+the reduced species are found to be mostly localized in depth. The observed irradiation effects are explained in terms of 
+bombardment-induced Gibbsian segregation (BIS) mechanism. 
+1. Introduction 
+A continuously growing interest is being devoted to 
+study the effects of ion beam irradiation on refractory 
+oxides and ceramic-based materials f1,2]. More in particu- 
+lar, it has been demonstrated that some of the relevant 
+properties of ceramics can be modified by ion irradiation. 
+In fact, hardness, resistance to cracks, strengthening, fric- 
+tion and wear properties are significantly affected by the 
+ion beam treatments [2]. Accordingly, ion irradiation ef- 
+fects in zirconia are very interesting due to both fundamen- 
+tal and technological reasons. 
+As to the fundamental interest, the understanding of ion 
+irradiation effects on refractory oxides in general and in 
+zirconia in particular is linked to the occurrence of the 
+complex phenomenology of sputtering in such materials 
+[1,3,4]. In particular, the still puzzling point concerns 
+mainly the occurrence of more or less severe composi- 
+tional modifications induced by irradiation in such materi- 
+als. Likewise, the preferential depletion of oxygen in zirco- 
+nia is one of the controversial points in the field, as it does 
+not fit with model based on simple thermodynamical argu- 
+ments [1,4]. 
+On the other hand, from a technological point of view, 
+among the ceramics, zirconia-based materials have an 
+outstanding interest, due to their very interesting engineer- 
+* Corresponding author. ing properties. Zirconia indeed is hard, strong, chemically 
+resistant and refractory, it is currently used as a coating in 
+a variety of applications such as cutting tools, pumps 
+engine parts, oxygen sensors, thermal barrier coatings and, 
+potentially, for biological implants. Many of these applica- 
+tions require high strength with low friction and wear, 
+which can be optimized by means of ion irradiation. In 
+particular, it has been found that the hardness and the 
+friction coefficient (i.e., the wear resistance) are affected 
+by the ion-induced damage [5]. 
+Finally, the preparation techniques of thin and thick 
+films of zirconia and zirconia-based materials are mainly 
+based on processes as air pressure plasma spray (APPS) or 
+low pressure plasma spray (LPPS), electron beam deposi- 
+tion or ion beam sputter deposition. All these techniques 
+involve the interaction of energetic particles with the sur- 
+faces of the growing films. Accordingly, some evidences 
+of the chemical and structural modification of the zirconia 
+surfaces induced by irradiation effects during the deposi- 
+tion have been reported [6-91. 
+In a general way, the mechanism of beam-induced 
+modification of the properties of ceramics may involve 
+several different leading factors, including compositional 
+changes, due either to reactive ion implantation or to inert 
+beam-induced chemistry, phase changes, including also 
+amorphization, and formation of single or clustering point 
+defects [4]. However, it should be noted that, due to the 
+ihtrinsic difficulty in detecting them, only a little attention 
+has been paid to investigate the beam-induced chemical 
+modifications. 
+0168-583X/96/$15.00 Copyright 0 1996 Published by Elsevier Science B.V. All rights reserved 
+PII SO 168-583X(96)00085-7 
+G.M. Ingo, G. Marletta/Nucl. Instr. and Meth. in Phys. Res. B I16 (1996) 440-446 441 
+The aim of this paper is to study the occurrence of the 
+compositional and chemical modifications induced in yt- 
+tria-zirconia thick films by low-energy ion irradiation. The 
+underlying idea is that significant chemical modifications 
+of the oxidation state of the Zr and Y cations are induced 
+by the ion irradiation and that the compositional modifica- 
+tions, i.e., the oxygen depletion, is a direct consequence of 
+such a primary chemical modification. The relevant chemi- 
+cal modifications essentially consist in the reduction of the 
+Z&V> and Y(II1) species respectively to Zr(III), Z&I) and 
+Y(B) species. 
+2. Experimental 
+The yttria-zirconia samples have the following chemi- 
+cal composition (wt.%): Y,O,, 7.98; ZIG,, 90.34; the 
+samples contain also small traces of HfO, (1.09%>, CaO 
+(0.2%), Fe,O, (0.12%) and TiO, (0.17%). The samples 
+were films (about 0.8 mm thick) deposited on type AISI 
+316 stainless steel, by air pressure plasma spray (APPS). 
+Flat surfaces especially suited for angular dependent XPS 
+analysis and for Ar + irradiation were obtained first by 
+mechanical polishing to mirror-like finish, using diamond 
+pastes up to 0.25 pm, followed by a cleaning step with 
+organic solvents in an ultrasonic bath and air thermal 
+treatment at 1220 K for 4 h. The final surface composition 
+was the expected fully oxidized 8 wt.% Y,O,-ZrG,. 
+Angular dependent X-ray photoelectron spectra (AD- 
+XPS) were obtained in an XPS spectrometer equipped with 
+hemispherical analyser using Al Ka ,J radiation (hv = 
+1486.6 eV>. The electron analyser was operated in fixed 
+analyser transmission mode (FAT) with a constant pass 
+energy of 20 eV. Under this condition the full width at half 
+maximum (FWHM) of the reference Ag3d,,, peak for 
+Ar+ cleaned material was 1.0 eV. The base pressure 
+during the experiments was 5 X 10-i’ mbar in the analy- 
+sis chamber. The correction for the charging-up effects 
+was obtained by referencing all the peaks to the binding 
+energy (B.E.) of the Au4f,,,, set at 83.8 eV, from evapo- 
+rated gold onto the surface of some samples. In such 
+conditions the B.E. of the Zr3d,,, is found at 182.3 eV, in 
+good agreement with literature [7,10,11]. The doublet Zr 3d 
+signal was analysed by a peak fitting routine, obtaining 
+that the doublet consists of two Gaussian shaped peaks 
+having a FWHM of 1.5 eV and a spin-orbit splitting value 
+of 2.37 eV. The intensity ratio for the two peaks is 1.47 
+with respect to the theoretical 1.5. 
+The analysis of the various components in the Zr3d 
+region of Ar+ irradiated samples has been performed by 
+using doublets reproducing exactly the Z&V) doublet, i.e., 
+keeping a Gaussian shape for the components, the internal 
+distance between 3d,,, and 3d,,, peaks to be 2.4 eV and 
+their intensity ratio 1(3d,,,): 1(3d,,,) = 1.5. The FWHM 
+of each component was allowed to vary only at 0.1 eV 
+after the irradiation. The Ar+ irradiation was performed in situ in the XPS 
+apparatus by using a AG21 ion gun, operated at a pressure 
+of 5 X lop6 mbar. Ar+ energies were set to 1, 2 and 4 
+keV. Samples were irradiated in the fluence range between 
+5 X 1016 and 1.2 X 10” ions/cm*. The fluence was eval- 
+uated by switching the Ar+ beam onto a Faraday cup near 
+to the surface of the target. The angle of incidence was 0” 
+from the normal to the sample surface. 
+3. Results and discussion 
+Samples of the 8 wt.% (equivalent to a 4.5 mol%) 
+yttria-zirconia plasma sprayed coatings (henceforth YSZ) 
+have been irradiated by using Ar+ beams at 1, 2 and 4 
+keV. The ion fluence ranges from 5 X 1016 to 1.0 X lOi* 
+ions/cm2. The related mean projected ranges (R,) for the 
+bombarding ions, as estimated by TRIM code [ 121, are 
+respectively about 1.9 run for 1 keV Ar ions, 3.0 nm for 
+2.0 keV ions and 4.8 nm for 4 keV ions. It should be noted 
+that the thickness of the whole irradiated layer is probably 
+higher than the R,, as it depends also upon the longitudi- 
+nal straggling of the primary ion as well as on the effect of 
+the recoiling atoms. On the other hand, we should also 
+take into account the fact that probably a substantial 
+alteration cannot occur below a critical energy density, as 
+it is suggested from the fact that 1 keV Ar+ is not able to 
+induce any detectable reduction in the fluence range up to 
+1 X 10” ions/cm2. Hence, we can estimate that the thick- 
+ness of the altered layer is probably comparable to the 
+estimated R,. 
+After each step of Ar+ irradiation, XPS measurements 
+have been carried out at various values of (Y, this being the 
+angle between the normal to the sample and the entrance 
+slit axis. In particular (Y = 0” and cr = 60” of take-off 
+angles have been explored, i.e., respectively bulk-like and 
+surface-enhanced modes, as for (Y = 0” take-off angle the 
+estimated sampling depth is about 6.6 nm, while for 
+cr = 60” take-off angle it is 3.3 nm [13]. According to the 
+above discussion, we can estimate that the XPS sampling 
+depth in bulk mode is larger or comparable to the thick- 
+ness of the altered layer for the considered Arf energies. 
+Fig. 1A reports the XPS spectra of the energy region of 
+Zr3d s/2-Zr3d,,, of a virgin YSZ sample (trace a) and an 
+Ar+ irradiated surface (2 keV, fluence 1.3 X 10” 
+ions/cm2) (trace b). Both spectra have been obtained with 
+a take-off angle (Y = 0” (sampling depth 6.6 nm). The 
+characteristic features of the 3d peaks, i.e., the binding 
+energy (B.E.) of Zr3d,,, at 182.3 eV, the intensity ratio 
+of 3 : 2 and the spin-orbit splitting of 2.4 eV, are in close 
+agreement with those of Z&V) species [lo,1 11. The sub- 
+traction of the normalized b) spectrum from the a) yields a 
+further doublet structure for the irradiated samples. 
+Fig. 1B compares the XPS Zr3d peaks for the Ar+ 
+irradiated sample, respectively obtained with take-off angle 
+(Y = 0” (trace b) and take-off angle cy = 60” (trace c). The 
+result of the subtraction procedure of trace b from trace c 
+442 G.M. Ingo, G. Marlena / Nucl. Instr. and Meth. in Phys. Res. B I I6 (I 996) 440-446 
+Binding Energy f eV 
+- ‘Lr-Bd 
+180 182 184 it36 lE8 
+Binding Energy / eV 
+170 180 182 184 186 188 
+Binding Energy / eV 
+Fig. 1. XPS spectra of the energy region of Zr3d,,,-Zr3d,,, of 
+a virgin 8 wt.% Y,O,-ZrO,: (A) sample (trace a), take-off angle 
+LY = 0” (sampling depth 6.6 nm); 2 keV Ar+ irradiated surface, 
+fluence 1.3X 10” ions/cm’, take-off angle a = 0” (sampling 
+depth 6.6 nm) (trace b); (B) same irradiated surface, take-off angle 
+(Y = 60” (sampling depth 3.3 nm> (trace c). (C) The result of the 
+subtraction procedure of the trace b from trace c is the doublet 
+indicated as trace d, having a B.E. of 1 eV lower than the Zd4+) 
+doublet. The peak fitting of such a doublet is achieved by using 
+peak FWHM of 1.58 eV, distance 2.4 eV and intensity ratio 1.5 
+between the Zr3d,,, and 3d,,, components. 
+shows again the doublet structure, indicated now as trace 
+d, already seen in Fig. 1A. This doublet has a B.E. 1 eV 
+lower than that of Zr(IV) doublet, while the spin-orbit 
+splitting and the characteristic 3d,,, to 3d,,, intensity 
+ratio turns to be exactly those expected for the Zr doublet. 
+This is put in evidence in the peak fitting of such a doublet 
+reported in Fig. 1C. We assign this doublet to Z&II> 
+species (18 1.3 eV for Zr 3d,,, component). 
+It is important to note that the subtraction procedure of 
+the bulk-like spectrum from the surface-enhanced spec- 
+trum yields the same effect as when the spectra for the 
+virgin surface is subtracted from that of the irradiakd 
+surface (in Fig. IA). Thus, we can see that the main effect 
+of 2 keV Arc to 1.3 X lOI ions/cm2 consists in the formation of reduced Zr doublet and that the reduced 
+species are mainly formed on the surface. 
+The first evidence obtained by the peak fitting proce- 
+dure has to be confirmed with a more definitive evidence. 
+In particular, such an evidence can be univocally obtained 
+by monitoring the irradiation-induced modification of the 
+valence band structure. Fig. 2 reports the uppermost part of 
+the valence bands of the virgin sample (Fig. 2a) and of the 
+2 keV Arf irradiated one (Fig. 2b). In the case of pure 
+ZrO, as well as in Yttria-doped ZrO,, theoretical calcula- 
+tions showed that these levels correspond to the bonding 
+levels formed essentially “02~” bands with a very weak 
+d character, as expected for a Zr and Y 4d(O) configuration 
+[15]. In particular, the doublet in Fig. 2a consists essen- 
+tially of a component due to the 0 2pa molecular orbit&, 
+centred at 7.8 eV in the present spectra and a component 
+due to the 02prr, roughly centred at 5.5 eV [10,14,15]. It 
+is to note that the absolute value of the bonding levels is 
+still a matter of debate, as various experimental factors, 
+such as the physical structure of the oxide layer, its 
+thickness and crystalline structure, etc., affect the correct 
+determination of the B.E. of the bonding levels with 
+respect to the Fermi level. Accordingly here we positioned 
+the spectra with respect to the apparent B.E., after remov- 
+ing the work function of the spectrometer. 
+After the Ar+ irradiation the whole shape of the va- 
+lence band is significantly modified. In particular, the most 
+interesting feature corresponds to a new broad band which 
+appears in the bandgap, its centroid being at about 0 eV. 
+This new band is due to the filling-up of 4d orbitals in the 
+altered layer [ 141, i.e., to the formation of reduced Zr(III) 
+or Zr(I1) species, in agreement with the spectral evidence 
+-2 -0 2 4 6 2 10 12 
+Binding energy (t?V) 
+Fig. 2. Valence band region for the surface of 8 (wt.%) Y203- 
+ZrO, samples (a) before and (b) after 4 keV Ar+-etched. 
+G.M. lngo, G. Marletta/Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 440-446 443 
+reported for the core Zr3d peaks in Fig. 1. We recall here 
+that the possible contribution of the Y species to the V.B. 
+structure is negligible, due to the very low concentration of 
+the Y, the Y/Zr atomic ratio being 0.085-0.091, as 
+expected for the 8 wt.% doping. 
+These results indicate clearly that a reduction process is 
+induced by ion irradiation in YSZ samples. Such a reduc- 
+tion effect of ZrO,-based materials has been observed also 
+from other research groups, either induced by electron- 
+1161 or ion-irradiation [3,14,17-201. As to the general 
+interpretation of the 0 loss from ZrO,, a very stable oxide, 
+it has been attributed to a “chemically-guided” mecha- 
+nism just based onto the formation of a met&able phase 
+I 
+2r 3d 
+a=O’ A a 
+i of Zr,O,, demanding only about 0.95 eV/atom instead of 
+the 3.8 eV/atom needed to obtain the complete (and 
+unlike) reduction to metallic cations [3,4]. 
+The open problem for these materials consists in the 
+extent and dependence of reduction upon the ion energy 
+and fluence. Indeed, some authors claimed that in ZrO, 
+thin films a very extensive reduction occurs, producing not 
+only a predominant Zr(I1) species but also metallic Zr 
+species [14,19]. On the other hand, several authors, work- 
+ing on ZrO, powder compacts or thick layers, observed 
+only a very mild reduction, producing mainly Zr(II1) 
+species and a final substoichiometric layer of Zr0,,so_s5 
+[3,16-18,201. Thus, in order to provide more dam on such 
+r 
+178 182 186 
+Binding energy (eV) 178 182 186 
+Binding energy (eV) 
+Fig. 3. XPS spectra of the energy region of the Zr3d,,, and 3d,,, region of: (a) a virgin 8 wt.% Y,O,-ZrO, and ion-irradiated surfaces; 
+(b) bulk-like and (c) surface-enhanced spectra for Ar 1 keV (fluence = 5.6 X lOI cm- *). (d) bulk-like and (e) surface-enhanced spectxa for , 
+Ar 2 keV (fluence = 1.3 X 10” cm-*); (f> bulk-like and (g) surface-enhanced spectra for Ar 4 keV (fluence = 1.3 X 10” cm-*). The 
+sampling depth for bulk-like spectra is 6.6 nm, that for surface-enhanced spectra is 3.3 mn. The various components are assigned as in Fig. 
+f 
+444 G.M. Ingo, G. Marletta/Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 440-446 
+a controversial point we performed a series of experiments 
+to determine the evolution of the reduced phase for such 
+thick film as YSZ. 
+Fig. 3 reports the irradiation effects in the Zr3d region 
+induced by ions of different energy and to different flu- 
+ence. The samples have been analysed in the bulk-like and 
+surface-enhanced modes, in order to provide some insight 
+on the nature of the phenomenon. Thus, spectra reported in 
+Figs. 3a, 3b, 3d and 3f are obtained with take-off angle 
+(Y = O”, i.e., with a sampling depth of 6.6 nm. Spectra 3c, 
+3e and 3g have been obtained with a take-off angle 
+(Y = 60”, i.e., with a sampling depth of 3.3 nm [13]. 
+The comparison of spectra 3b and 3c (bulk-like) with 
+spectra 3d and 3e (surface enhanced) suggests that an 
+energy threshold may exist for reduction, as far as the 1 
+keV Ar+ irradiation does not induce any measurable re- 
+duction (Figs. 3b-3c). Further experiments in our Labora- 
+tory (not reported here) have shown that 1 keV Ar ions 
+seem not able to promote reduction up to a fluence of 
+1 X 10” ions/cm*. Thus energy and fluence thresholds, at 
+least for Ar ions could well exist, energies higher than 1 
+keV and fluence higher than 1 X 10” ions/cm* needed to 
+promote the cation reduction. 
+On the other hand, the comparison of spectra 3d-3e 
+and 3f-3g suggests that ions of increasing energy have an increasing effectiveness in promoting reduction of Zr. In 
+fact, these spectra refer to samples irradiated respectively 
+with 2 and 4 keV Ar+ but to the same total fluence 
+(1.3 X 10” ions/cm*). According to the figure, 2 keV 
+Arf irradiation promotes only a very low but detectable 
+reduction of Zr(IV) to Zr(III), the reduced species resulting 
+“segregated” at the surface. Thus, the indicated fluence of 
+about 1 X 10” ions/cm2 seems to be the onset fluence of 
+Zr reduction (Fig. 3d). At variance of this, 4 keV Art 
+irradiation induces a more significant reduction of Z&V) 
+to Z&II) and (to a small extent) Z&I) species, the reduced 
+species being more abundant in depth, i.e., “buried” 
+within the altered layer. 
+Fig. 4 reports the effects of Ar+ irradiation on the 
+oxidation state of Y atoms present in the structure of our 
+samples. The general trend with respect to the ion fluence 
+is very close to that obtained for Zr atoms, as the Y(II1) 
+species are reduced in part to Y(II) species as much as the 
+ArC fluence and energy increase. Accordingly, also in this 
+case the irradiation with 2 keV is less effective than the 
+irradiation with 4 keV Ar’ ions. Furthermore, the profile 
+of the Y reduced species tend to follow that of the reduced 
+Zr ones, the Y(I1) being in depth for 4 keV Ar irradiated 
+samples. 
+Fig. 5 reports respectively the information on the rela- 
+152 156 160 164 152 156 160 164 
+Binding energy (eV) Binding energy (eV) 
+Fig. 4. XPS spectra of the energy region of the Y 3d,,,-3d,,, region oE (a) a virgin 8 wt.% Y,O,-ZrO, and ion-irradiated surfaces; (b) 
+bulk-like aad (c) surface-enhanced spectra for Ar 2 keV (fluence = 1.3 X 1 017 cm- ‘>; (d) bulk-like and (f) surface-enhanced spectra for Ar 
+4 keV (fluence = 1.3 X lO”cm- *). The sampling depth for bulk-like spectra is 6.6 MI, that for surface-enhanced spectra is 3.3 urn. The 
+various components are assigned as in Fig. 1. 
+G.M. Ingo, G. Marletta/Nucl. Instr. and Meth. in Phys. Res. B 116 (1996) 440-446 445 
+x in ZrOx 
+1.5 _ A f 
+x in YOX 
+1.4. S 
+1.3. b 5 
+1.2 .- ._ 
+a.r. 2 keV 1.3~10” 4 keV 1.3~10” 
+Fig. 5. Histograms of the x value in Zro, and l/2 Y,O, as a 
+function of the ion energy and XPS sampling depth. “b” traces 
+indicate data from bulk-like spectra, “s” traces indicate the data 
+from surface-enhanced spectra. The data are calculated from the 
+curve fitting of the XPS spectra reported in Figs. 2 and 3. 
+tive content of Zr- and the Y-related oxygen content of the 
+virgin and Ar+ irradiated samples. The calculation has 
+been performed by taking into account the percentage of 
+the reduced Zr(II1) and,ZrfII) as well as the Y(I1) species 
+normalised respectively to the initial 100% of Z&V) for 
+which x = 2.0 and Y(II1) for which x = 1.5. Fig. 5 con- 
+tains an interesting feature indicating the starting of the 
+reversal of the profile of the reduced Zr and Y species. In 
+fact, the comparison of the bulk-like (“b” traces in the 
+figure) and surface-enhanced dam (“s” traces in the fig- 
+ure) for 2 keV irradiated samples indicate that the reduced 
+species lies on the top of the altered layer, while the same 
+comparison for the 4 keV irradiated samples indicate that 
+the reduced species are more in depth for such higher 
+energy. 
+The results shown in Figs. 3-5 deserve a more careful 
+discussion. In particular, two facts seem to be well de- 
+fined: a) the higher is the ion energy, the more extended is 
+the reduction; b) for 4 keV Ar irradiation the reduced Zr 
+and Y species is located beneath the surface. These two 
+effects have to be analysed separately. 
+As to the first effect, a simple explanation can be 
+related to the mean projected range of projectiles of in- 
+creasing energy. Accordingly, the difference in the ion 
+range is responsible for the variation in the thickness of the 
+effectively altered layer, and in turn, the thicker is the 
+altered layer, the higher is the detected concentration of the 
+reduced species. Another explanation can involve the dif- 
+ference in the total deposited energy for ions of increasing 
+energy. Thus, the irradiation to a given fluence with 1, 2 
+and 4 keV Ar ions will involve an increasing amount of deposited energy (roughly a factor 1.5 between 1 and 4 
+keV) and in turn an increasing efficiency of the reduction 
+process. It is to point out that an univoque explanation of 
+the reduction efficiency still needs the clarification of the 
+relation between the reduction mechanism and the primary 
+energy deposition events. 
+As to the second effect, it deserves a more careful 
+discussion, as the two chemically guided mechanisms (i.e., 
+chemically random and the enthalpy guided ones) cur- 
+rently proposed to account for the 0 loss from irradiated 
+oxides does not allow any definite expectation about the 
+depth distribution of the 0 vacancies [4]. In the same way, 
+we can rule out the possible influence of a merely ballistic 
+mechanism, as we expect in this case that the O-depleted 
+layer lies on the top surface, due to the inhinsic nature of 
+the ballistic mechanism [20]. 
+Hence, we propose that the peculiar behaviour of Zr 
+reduced species is due to another chemically-guided mech- 
+anism, i.e., the bombardment-induced Gibbsian segrega- 
+tion (BIS) [4,21]. According to such mechanism, the loss 
+of 0 is induced all along the projected range of the 
+incoming ions, but there is a preferential sense of diffusion 
+of the available 0 atoms, due to the energetically favoured 
+formation of a surface spike of 0, acting as a “pump” for 
+the subsurface atoms. Thus, the process would consists in 
+a “back streaming” and trapping of the in-depth depleted 
+oxygen within a surfacial layer. In this framework, we can 
+account for the observed difference between the 2 and the 
+4 keV Arf effect, as it is due to the fact that (below a 
+critical distance of the damage peak from the surface) the 
+oxygen segregation layer cannot be detected by the XI’S, 
+its thickness being critically related to an effective “0 
+escape depth”, obviously depending on the chemical na- 
+ture of the oxide. 
+Accordingly, the above reported experiments suggest 
+that such an “0 escape depth” is about 3 nm in YSZ, as it 
+coincides with the projected range for 2 keV Ar+ ions. It 
+is to recall that the XI’S technique in surface-enhanced 
+mode has just a sampling depth of 3.3 nm, so that the 
+existence of a possible surface O-rich layer remain unde- 
+tectable. At variance of this, a clear difference will be seen 
+when the Ar ion projected range is 4.8 nm, so that the 
+reduced species can be detected in the bulk-like mode 
+(sampling depth of 6.6 mn) but not in the surface-enhanced 
+mode. 
+4. Conclusions 
+Let us summarize the experimental data up to now 
+reported: 
+a) the Ar+ irradiation promotes reduction of the Zr(IV) 
+and Y(II1) cations respectively to Zr(III), Zr(II) and to 
+Y(I1) species, producing respectively an average ZrO,,,, 
+and a Y,O,,e phase; 
+446 G.M. Zngo, G. Marletta/Nucl. Znstr. and Meth. in Phys. Rex B 116 (1996) 440446 
+b> the formation rate of these reduced species increases 
+with the energy of the primary ion; 
+c) the reduced Z&II) and Y(U) species have a depth 
+profile peaked at the surface for 2 keV Ar ions and peaked 
+inside the altered layer for 4 keV Ar ions; 
+d) the experimental evidence can be explained in the 
+framework of the bombardment-induced Gibbsian segrega- 
+tion model, accounting for the different depth profiles of 
+reduced species in terms of the formation of a surface 
+spike of 0, detectable in the case of the highest range but 
+not detectable for an ion range comparable with the sam- 
+pling depth in surface-enhanced mode. 
+The results reported in the present paper can be consid- 
+ered as a first stimulus to further investigation of the 
+microstructure of the altered layers as a tool to understand 
+the working mechanisms for the compositional modifica- 
+tion of oxides systems. 
+Acknowledgement 
+The authors gratefully acknowledge the financial sup- 
+port to this research by the Project “Microtecnologie”, 
+CNR (Rome). G.M. also acknowledges the support of 
+CNR and MURST (40%). The XPS analyses were per- 
+formed at the Servizio ESCA of the Area della Ricerca di 
+Roma de1 CNR. 
+References 
+[l] R. Kelly, Nucl. Instr. and Meth. 182/183 (1981) 351. 
+[2] C.J. McHargue, Def. and Diff. Forum 57/58 (1988) 359. [3] R. Kelly, G. Marietta and F. Iacona, Surf. Sci. submitted. 
+141 R. Kelly, I. Bertoti and A. Miotello, Nucl. Instr. and Meth. B 
+80/81 (1993) 1154. 
+[5] E.L. Fleischer, W. Hertl, T.L. Alford, P. Bijrgesen and J.W. 
+Mayer, J. Mater. Res. 5 (1990) 385. 
+[6] W.J.A. Wiibust, P.J.M. Kroot and A.J. Burrgraaf, .I. Phys. 
+Chem. Solids 44 (1983) 596. 
+[71 G.M. Ingo and G. Padeletti, Surf. Interf. Anal. 21 (1994) 
+450. 
+[81 AS. Kao and C.H. Wang, J. Vat. Sci. Technol. A 8 (1990) 
+3289. 
+191 L.J. Ohuer, J.C. Viguie and F.J.L. Schouler, Solid State 
+Ionics 7 (1981) 23. 
+[ 101 D. Majumdar and D. Chatterjee, J. Appl. Phys. 70 (1991) 
+988. 
+[ll] G.M. Ingo, J. Am. Ceram. Sot. 74 (1991) 381. 
+[I21 J.P. Biersack and J.F. Ziegler, Transport of Ions in Matter, 
+TRIM, Version 91.14, IBM Research, Yorktown Heights, 
+NY, 10598, USA. 
+[13] S. Tanuma, C.J. Powell and D.R. Penn, Surf. Intcrf. Anal. 17 
+(1990, 911 and 927. 
+[141 C. Morant, J.M. Sanz and L. Galan, Phys. Rev. B 45 (1992) 
+1391. 
+[151 M. Morinaga, H. Adachi and M. Tsukada, J. Phys. Chem. 
+Solids 44 (1983) 301. 
+1161 M. Cotter and R.G. Egdell, J. Solid State Chem. 66 (1987) 
+364. 
+[171 I. Bertoti, R. Kelly, M. Mohai and A. Toth, Nucl. Instr. and 
+Meth. B SO/81 (1993) 1219. 
+[181 S. Hoffmann and J.M. Sanz, J. Trace Microprobe Techu. 1 
+(1982-1983) 213. 
+[lY] J.E. Greene, RE. Klinger, T.L. Barr and L.B. Welsh, Chem. 
+Phys. Lett. 62 (1979) 46. 
+[201 E. Taglauer, Appl. Surf. Sci. 13 (1982) 80. 
+[211 G. Marletta, F. Iacona and R. Kelly, Nucl. Instr. and Meth. B 
+65 (1992) 97. 

@@ -1,0 +1,3639 @@
+Pergamon, PROPN 
+
+, SPACE 
+PII, PROPN 
+S0025, PROPN 
+-326X(96)00034, NOUN 
+-3, PUNCT 
+Mar, PROPN 
+~, PROPN 
+Je, PROPN 
+Pollution, PROPN 
+Bulletin, PROPN 
+Vol, PROPN 
+32, NUM 
+10, NUM 
+pp, PROPN 
+734, NUM 
+739, NUM 
+1996, NUM 
+
+, SPACE 
+Copyright, PROPN 
+©, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+0025, NUM 
+326X/96, NUM 
+$, SYM 
+15.00, NUM 
++, NUM 
+0.00, NUM 
+
+, SPACE 
+Distribution, PROPN 
+Origin, PROPN 
+
+, SPACE 
+Hydrocarbons, PROPN 
+Sediments, NOUN 
+
+, SPACE 
+Lagoons, NOUN 
+Fringing, VERB 
+Mangrove, PROPN 
+
+, SPACE 
+Communities, PROPN 
+
+, SPACE 
+D., PROPN 
+BERNARD, PROPN 
+H., PROPN 
+PASCALINE, PROPN 
+J.-J., NOUN 
+JEREMIE, PROPN 
+
+, SPACE 
+Laboratoire, PROPN 
+de, X 
+Gdochirnie, PROPN 
+Facultd, PROPN 
+des, PROPN 
+Sciences, PROPN 
+Exactes, PROPN 
+et, NOUN 
+Naturelles, PROPN 
+Universitd, PROPN 
+des, PROPN 
+Antilles, PROPN 
+et, PROPN 
+de, PROPN 
+la, PROPN 
+Guyane, PROPN 
+
+, SPACE 
+B.P., PROPN 
+250, NUM 
+F-97157, PROPN 
+Pointe, PROPN 
+d, PROPN 
+Pitre, PROPN 
+Cedex, PROPN 
+Guadeloupe, PROPN 
+French, ADJ 
+West, PROPN 
+Indies, PROPN 
+
+, SPACE 
+distribution, NOUN 
+origin, NOUN 
+non, ADJ 
+aromatic, ADJ 
+hydrocarbons, NOUN 
+
+, SPACE 
+NAH, PROPN 
+polycyclic, PROPN 
+aromatic, ADJ 
+hydrocarbons, NOUN 
+PAIl, PROPN 
+
+, SPACE 
+investigated, VERB 
+surface, NOUN 
+sediments, NOUN 
+lagoons, NOUN 
+
+, SPACE 
+Grand, PROPN 
+Cul, PROPN 
+de, NOUN 
+Sac, PROPN 
+Matin, PROPN 
+Petit, PROPN 
+Cul, PROPN 
+de, NOUN 
+Sac, PROPN 
+Matin, PROPN 
+
+, SPACE 
+Caribbean, ADJ 
+island, NOUN 
+Guadeloupe, PROPN 
+61, NUM 
+°, NUM 
+30'W, NUM 
+16, NUM 
+°, NUM 
+N, PROPN 
+
+, SPACE 
+surrounded, VERB 
+mangrove, NOUN 
+ecosystem, NOUN 
+Hydro-, X 
+
+, SPACE 
+carbons, NOUN 
+extracted, VERB 
+sediments, NOUN 
+fractioned, VERB 
+
+, SPACE 
+chromatography, NOUN 
+adsorption, NOUN 
+analysed, VERB 
+gas, NOUN 
+chroma-, NOUN 
+
+, SPACE 
+tography, NOUN 
+NAIl, NOUN 
+concentrations, NOUN 
+ranged, VERB 
+28.2, NUM 
+4104.4, NUM 
+
+, SPACE 
+lag, NOUN 
+g-1, NUM 
+dry, ADJ 
+sediment, NOUN 
+103, NUM 
+1656.5, NUM 
+ng, PROPN 
+g, PROPN 
+t, NOUN 
+
+, SPACE 
+PAIl, PROPN 
+founded, VERB 
+naturally, ADV 
+occurring, VERB 
+hydrocarbons, NOUN 
+
+, SPACE 
+predominated, VERB 
+coastline, NOUN 
+harbour, NOUN 
+zone, NOUN 
+
+, SPACE 
+sediment, NOUN 
+polluted, VERB 
+petroleum, NOUN 
+hydrocarbons, NOUN 
+PAHs, NOUN 
+
+, SPACE 
+sediments, NOUN 
+medium, ADJ 
+high, ADJ 
+molecular, ADJ 
+weight, NOUN 
+residues, NOUN 
+
+, SPACE 
+pyrolytic, ADJ 
+origin, NOUN 
+Copyright, NOUN 
+©, NOUN 
+1996, NUM 
+Elsevier, ADJ 
+
+, SPACE 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Caribbean, ADJ 
+island, NOUN 
+Guadeloupe, PROPN 
+61, NUM 
+°, NUM 
+30"W, NUM 
+16, NUM 
+°, NUM 
+N, PROPN 
+
+, SPACE 
+rapidly, ADV 
+developing, VERB 
+society, NOUN 
+strong, ADJ 
+industrial, ADJ 
+
+, SPACE 
+agricultural, ADJ 
+sectors, NOUN 
+lagoons, NOUN 
+Grand, PROPN 
+
+, SPACE 
+Cul, PROPN 
+de, NOUN 
+Sac, PROPN 
+Marin, PROPN 
+GCSM, PROPN 
+north, NOUN 
+Petit, PROPN 
+
+, SPACE 
+Cul, PROPN 
+de, NOUN 
+Sac, PROPN 
+Marin, PROPN 
+PCSM, PROPN 
+South, PROPN 
+Fig, PROPN 
+1, NUM 
+lie, VERB 
+
+, SPACE 
+sides, NOUN 
+island, NOUN 
+major, ADJ 
+urban, ADJ 
+centre, NOUN 
+Pointe-/L-, PROPN 
+
+, SPACE 
+Pitre, PROPN 
+half, NOUN 
+population, NOUN 
+island, NOUN 
+lives, VERB 
+
+, SPACE 
+lagoons, NOUN 
+connected, VERB 
+narrow, ADJ 
+channel, NOUN 
+
+, SPACE 
+running, VERB 
+south, NOUN 
+north, NOUN 
+Rivirre, PROPN 
+Salre, PROPN 
+assess, VERB 
+
+, SPACE 
+anthropogenic, ADJ 
+influence, NOUN 
+coastal, ADJ 
+zones, NOUN 
+concentra-, NUM 
+
+, SPACE 
+tions, NOUN 
+aromatic, ADJ 
+non, ADJ 
+aromatic, ADJ 
+hydrocarbons, NOUN 
+
+, SPACE 
+PAH, PROPN 
+NAH, PROPN 
+respectively, ADV 
+n, NOUN 
+Cl0, NOUN 
+n, PROPN 
+C35, PROPN 
+
+, SPACE 
+measured, VERB 
+sediments, NOUN 
+lagoons, NOUN 
+
+, SPACE 
+PCSM, PROPN 
+primarily, ADV 
+receives, VERB 
+sewage, NOUN 
+wastewater, NOUN 
+
+, SPACE 
+local, ADJ 
+industries, NOUN 
+shipping, NOUN 
+traffic, NOUN 
+GCSM, PROPN 
+receives, VERB 
+
+, SPACE 
+freshwater, NOUN 
+intensively, ADV 
+cultivated, VERB 
+agricultural, ADJ 
+
+, SPACE 
+zone, NOUN 
+drained, VERB 
+Grande, PROPN 
+Rivirre, PROPN 
+~, PUNCT 
+Goyaves, NOUN 
+
+, SPACE 
+GRG, PROPN 
+sediment, NOUN 
+samples, NOUN 
+collected, VERB 
+
+, SPACE 
+lagoons, NOUN 
+mouth, NOUN 
+GRG, PROPN 
+river, NOUN 
+west, ADJ 
+
+, SPACE 
+GCSM, PROPN 
+east, ADJ 
+GCSM, PROPN 
+
+, SPACE 
+PCSM, PROPN 
+0aarbour, SYM 
+zone, NOUN 
+indicated, VERB 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Materials, NOUN 
+Methods, PROPN 
+
+, SPACE 
+Thirteen, PROPN 
+surface, NOUN 
+samples, NOUN 
+collected, VERB 
+divers, NOUN 
+
+, SPACE 
+PVC, ADJ 
+hand, NOUN 
+held, VERB 
+corer, NOUN 
+10, NUM 
+cm, NOUN 
+internal, ADJ 
+diameter, NOUN 
+
+, SPACE 
+70, NUM 
+cm, NOUN 
+length, NOUN 
+sampling, VERB 
+periods, NOUN 
+February, PROPN 
+
+, SPACE 
+December, PROPN 
+1993, NUM 
+hours, NOUN 
+cores, NOUN 
+
+, SPACE 
+extruded, VERB 
+3, NUM 
+5, NUM 
+cm, NOUN 
+frozen, VERB 
+
+, SPACE 
+analysis, NOUN 
+freeze, NOUN 
+drying, NOUN 
+sediments, NOUN 
+forced, VERB 
+
+, SPACE 
+200, NUM 
+~m, PUNCT 
+sieve, ADV 
+discard, VERB 
+organic, ADJ 
+detritus, NOUN 
+
+, SPACE 
+basic, ADJ 
+classification, NOUN 
+purposes, NOUN 
+texture, NOUN 
+organic, ADJ 
+
+, SPACE 
+carbon, NOUN 
+content, NOUN 
+OC, PROPN 
+sediments, NOUN 
+deter-, X 
+
+, SPACE 
+mined, VERB 
+wet, ADJ 
+sieving, NOUN 
+AFNOR, PROPN 
+1983, NUM 
+wet, ADJ 
+
+, SPACE 
+sulphochromic, ADJ 
+oxidization, NOUN 
+AFNOR, PROPN 
+1985, NUM 
+
+, SPACE 
+Hydrocarbons, NOUN 
+extracted, VERB 
+soxhlet, ADJ 
+apparatus, NOUN 
+
+, SPACE 
+mixture, NOUN 
+hexane, NOUN 
+dichloromethane, NOUN 
+1:1, NUM 
+v, NOUN 
+v, NOUN 
+
+, SPACE 
+Aliquots, NOUN 
+20, NUM 
+g, NOUN 
+treated, VERB 
+200, NUM 
+ml, NOUN 
+
+, SPACE 
+solvent, NOUN 
+known, ADJ 
+n, ADV 
+Cls, NOUN 
+l, NOUN 
+spiked, VERB 
+
+, SPACE 
+internal, ADJ 
+standard, NOUN 
+soxhlet, ADJ 
+extraction, NOUN 
+
+, SPACE 
+procedure, NOUN 
+typically, ADV 
+gives, VERB 
+recoveries, NOUN 
+hydrocarbons, NOUN 
+
+, SPACE 
+range, NOUN 
+70, NUM 
+100, NUM 
+Bernard, PROPN 
+1994, NUM 
+NAH, PROPN 
+
+, SPACE 
+PAH, PROPN 
+fractions, NOUN 
+isolated, VERB 
+adsorption, NOUN 
+chromato-, PRON 
+
+, SPACE 
+graphy, NOUN 
+Silica, PROPN 
+Alumina, PROPN 
+Organic, ADJ 
+solvents, NOUN 
+
+, SPACE 
+sodium, NOUN 
+sulphate, NOUN 
+Silica, PROPN 
+Silica, PROPN 
+gel, PROPN 
+60, NUM 
+Alumina, PROPN 
+
+, SPACE 
+Aluminium, PROPN 
+Oxide, PROPN 
+90, NUM 
+MERCK, PROPN 
+quality, NOUN 
+
+, SPACE 
+residue, ADJ 
+analysis, NOUN 
+fractions, NOUN 
+analysed, VERB 
+gas, NOUN 
+
+, SPACE 
+chromatography, NOUN 
+Chromatograms, NOUN 
+obtained, VERB 
+
+, SPACE 
+Hewlett, PROPN 
+Packard, PROPN 
+5890A, PROPN 
+Gas, PROPN 
+Chromatograph, PROPN 
+including, VERB 
+
+, SPACE 
+flame, ADJ 
+ionization, NOUN 
+detector, NOUN 
+GC, PROPN 
+FID, PROPN 
+column, NOUN 
+
+, SPACE 
+injector, NOUN 
+fused, VERB 
+capillary, NOUN 
+column, NOUN 
+25, NUM 
+m, NOUN 
+long, ADJ 
+0.32, NUM 
+
+, SPACE 
+mm, PROPN 
+internal, ADJ 
+diameter, NOUN 
+coated, VERB 
+methyl, NOUN 
+silicone, NOUN 
+0.52, NUM 
+
+, SPACE 
+~tm, PUNCT 
+thick, ADJ 
+temperature, NOUN 
+rose, VERB 
+60, NUM 
+105, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+rate, NOUN 
+15, NUM 
+°, NUM 
+C, NOUN 
+rain, NOUN 
+-1, PROPN 
+105, NUM 
+295, NUM 
+°, NOUN 
+C, NOUN 
+rate, NOUN 
+
+, SPACE 
+4, NUM 
+°, NUM 
+C, NOUN 
+min-, ADV 
+1, NUM 
+injector, NOUN 
+detector, NOUN 
+temperatures, NOUN 
+
+, SPACE 
+respectively, ADV 
+set, VERB 
+280, NUM 
+300, NUM 
+°, NUM 
+C, NOUN 
+Helium, PROPN 
+
+, SPACE 
+carrier, NOUN 
+gas, NOUN 
+Hydrocarbons, NOUN 
+identified, VERB 
+quanti-, NOUN 
+
+, SPACE 
+fied, VERB 
+comparison, NOUN 
+retention, NOUN 
+times, NOUN 
+
+, SPACE 
+known, VERB 
+standards, NOUN 
+injected, VERB 
+conditions, NOUN 
+
+, SPACE 
+analytical, ADJ 
+standards, NOUN 
+PAH, PROPN 
+NAH, PROPN 
+
+, SPACE 
+provided, VERB 
+International, PROPN 
+Atomic, PROPN 
+Energy, PROPN 
+Agency, PROPN 
+
+, SPACE 
+samples, NOUN 
+analysed, VERB 
+mass, ADJ 
+spectrometry, NOUN 
+
+, SPACE 
+electron, NOUN 
+impact, NOUN 
+ionization, NOUN 
+70, NUM 
+eV, NUM 
+similar, ADJ 
+GC, PROPN 
+
+, SPACE 
+conditions, NOUN 
+confirm, VERB 
+identification, NOUN 
+doubtful, ADJ 
+
+, SPACE 
+734, NUM 
+
+
+, SPACE 
+Volume, PROPN 
+32, NUM 
+Number, NOUN 
+10, NUM 
+October, PROPN 
+1996, NUM 
+
+, SPACE 
+C, PROPN 
+rand, NOUN 
+Cul, PROPN 
+de, X 
+
+, SPACE 
+Sac, PROPN 
+Matin, PROPN 
+
+, SPACE 
+Rubbish, PROPN 
+Dump, PROPN 
+
+, SPACE 
+t, NOUN 
+Goyaves, NOUN 
+
+, SPACE 
+Rivi6re, ADJ 
+Sal6e, ADJ 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Map, PROPN 
+study, NOUN 
+area, NOUN 
+locations, NOUN 
+sampling, VERB 
+sites, NOUN 
+
+, SPACE 
+peaks, NOUN 
+control, NOUN 
+solution, NOUN 
+run, VERB 
+check, VERB 
+solvent, ADJ 
+
+, SPACE 
+purity, NOUN 
+possible, ADJ 
+contamination, NOUN 
+adsorption, NOUN 
+
+, SPACE 
+column, NOUN 
+peak, NOUN 
+higher, ADJ 
+3, NUM 
+
+, SPACE 
+corresponding, VERB 
+ones, NOUN 
+obtained, VERB 
+sample, NOUN 
+extracts, NOUN 
+
+, SPACE 
+sample, NOUN 
+blank, ADV 
+corrected, VERB 
+conversion, NOUN 
+
+, SPACE 
+concentration, NOUN 
+units, NOUN 
+unresolved, ADJ 
+components, NOUN 
+
+, SPACE 
+methods, NOUN 
+described, VERB 
+Burns, PROPN 
+Villeneuve, PROPN 
+1983, NUM 
+
+, SPACE 
+applied, VERB 
+Individual, ADJ 
+PAHs, NOUN 
+confirmed, VERB 
+
+, SPACE 
+basis, NOUN 
+retention, NOUN 
+time, NOUN 
+mass, NOUN 
+spectra, PROPN 
+
+, SPACE 
+Results, NOUN 
+discussion, NOUN 
+
+, SPACE 
+Sediment, PROPN 
+characterization, NOUN 
+
+, SPACE 
+Results, NOUN 
+granulometric, ADJ 
+analysis, NOUN 
+given, VERB 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+Sediment, NOUN 
+characteristics, NOUN 
+varied, VERB 
+wide, ADJ 
+
+, SPACE 
+range, NOUN 
+depending, VERB 
+sampling, NOUN 
+site, NOUN 
+confirming, VERB 
+
+, SPACE 
+diversity, NOUN 
+complexity, NOUN 
+environment, NOUN 
+GCSM, PROPN 
+
+, SPACE 
+river, NOUN 
+discharge, NOUN 
+coral, ADJ 
+reef, NOUN 
+mangrove, NOUN 
+seagrasses, NOUN 
+
+, SPACE 
+analysis, NOUN 
+revealed, VERB 
+
+, SPACE 
+asymmetric, ADJ 
+distribution, NOUN 
+grain, NOUN 
+coarse, ADV 
+
+, SPACE 
+fine, VERB 
+
+, SPACE 
+large, ADJ 
+dispersion, NOUN 
+wrong, ADJ 
+classification, NOUN 
+
+, SPACE 
+GCSM, PROPN 
+sediments, NOUN 
+Stations, NOUN 
+1, NUM 
+-6, NOUN 
+west, NOUN 
+
+, SPACE 
+near, ADP 
+mouth, NOUN 
+river, NOUN 
+C, NOUN 
+rande, NOUN 
+Rivi, PROPN 
+~, PUNCT 
+Goyaves, NOUN 
+generally, ADV 
+brown, ADJ 
+black, ADJ 
+sandy, ADJ 
+terrigenous, ADJ 
+
+, SPACE 
+mud, NOUN 
+average, NOUN 
+1.82, NUM 
+organic, ADJ 
+carbon, NOUN 
+OC, PROPN 
+
+, SPACE 
+ferralitic, ADJ 
+soils, NOUN 
+sandy, ADJ 
+deposits, NOUN 
+
+, SPACE 
+characterized, VERB 
+high, ADJ 
+vegetal, ADJ 
+detritus, NOUN 
+leaves, NOUN 
+
+, SPACE 
+branches, NOUN 
+typical, ADJ 
+estuarine, NOUN 
+areas, NOUN 
+especially, ADV 
+
+, SPACE 
+mangrove, NOUN 
+environment, NOUN 
+Snedaker, PROPN 
+1978, NUM 
+Surface, NOUN 
+
+, SPACE 
+sediments, NOUN 
+east, ADJ 
+GCSM, PROPN 
+Stations, PROPN 
+7, NUM 
+
+, SPACE 
+8), NUM 
+consisted, VERB 
+gray, ADJ 
+calcareous, ADJ 
+silty, NOUN 
+mud, NOUN 
+
+, SPACE 
+percentage, NOUN 
+organic, ADJ 
+carbon, NOUN 
+close, ADJ 
+4, NUM 
+
+, SPACE 
+calcareous, ADJ 
+sediments, NOUN 
+near, ADP 
+seagrasses, NOUN 
+
+, SPACE 
+leaves, NOUN 
+Thalassia, PROPN 
+testudinum, NOUN 
+Syringodium, PROPN 
+fili-, ADJ 
+
+, SPACE 
+forme, NOUN 
+species, NOUN 
+seagrasses, NOUN 
+found, VERB 
+
+, SPACE 
+samples, NOUN 
+
+, SPACE 
+Surface, PROPN 
+sediments, NOUN 
+PCSM, PROPN 
+Stations, PROPN 
+10, NUM 
+13, NUM 
+
+, SPACE 
+consisted, VERB 
+sandy, ADJ 
+muddy, ADJ 
+particles, NOUN 
+levels, NOUN 
+
+, SPACE 
+organic, ADJ 
+carbon, NOUN 
+ranging, VERB 
+widely, ADV 
+0.52, NUM 
+10, NUM 
+
+, SPACE 
+considering, VERB 
+Stations, PROPN 
+10, NUM 
+12, NUM 
+Table, NOUN 
+2, NUM 
+Deposits, NOUN 
+
+, SPACE 
+terrigenous, ADJ 
+10, NUM 
+11, NUM 
+calcareous, ADJ 
+12, NUM 
+13, NUM 
+
+, SPACE 
+Non, ADJ 
+aromatic, ADJ 
+hydrocarbons, NOUN 
+NAH, PROPN 
+
+, SPACE 
+Concentration, PROPN 
+main, ADJ 
+hydrocarbon, NOUN 
+series, NOUN 
+
+, SPACE 
+diagnostic, ADJ 
+criteria, NOUN 
+characteristics, NOUN 
+given, VERB 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+total, ADJ 
+concentration, NOUN 
+hydrocarbons, NOUN 
+
+, SPACE 
+area, NOUN 
+studied, VERB 
+varied, ADJ 
+25.4, NUM 
+ttg, PROPN 
+g-1, PROPN 
+marine, PROPN 
+zone, NOUN 
+
+, SPACE 
+735, NUM 
+
+
+, SPACE 
+Marine, PROPN 
+Pollution, PROPN 
+Bulletin, PROPN 
+
+, SPACE 
+TABLE, PROPN 
+1, NUM 
+
+, SPACE 
+Particle, PROPN 
+sizes, NOUN 
+distributions, NOUN 
+granulometric, ADJ 
+characteristics, NOUN 
+sediments, NOUN 
+collected, VERB 
+Grand, PROPN 
+Cul, PROPN 
+de, NOUN 
+Sac, PROPN 
+Matin, PROPN 
+Stations, NOUN 
+3, NUM 
+8), NUM 
+
+, SPACE 
+Petit, PROPN 
+Cul, PROPN 
+de, NOUN 
+Sac, PROPN 
+Matin, PROPN 
+Stations, PROPN 
+10, NUM 
+11, NUM 
+Percentages, NOUN 
+calcium, NOUN 
+carbonates, NOUN 
+CaCO3, NOUN 
+Percentages, NOUN 
+organic, ADJ 
+carbon, NOUN 
+OC, PROPN 
+
+, SPACE 
+Stations, NOUN 
+3, NUM 
+4, NUM 
+5, NUM 
+6, NUM 
+7, NUM 
+8, NUM 
+10, NUM 
+11, NUM 
+
+, SPACE 
+Sand, NOUN 
+65.13, NUM 
+46.23, NUM 
+75.94, NUM 
+56.52, NUM 
+7.01, NUM 
+7.34, NUM 
+5.9, NUM 
+88.40, NUM 
+
+, SPACE 
+Silt, PROPN 
+20.59, NUM 
+48.65, NUM 
+15.28, NUM 
+25.12, NUM 
+56.05, NUM 
+77.91, NUM 
+53.3, NUM 
+5.00, NUM 
+
+, SPACE 
+Clay, NOUN 
+14.29, NUM 
+5.12, NUM 
+7.78, NUM 
+18.35, NUM 
+36.94, NUM 
+14.75, NUM 
+40.78, NUM 
+6.6, NUM 
+
+, SPACE 
+Average, ADJ 
+grain, NOUN 
+size, NOUN 
+ma, PROPN 
+29, NUM 
+34.4, NUM 
+142, NUM 
+31.2, NUM 
+5, NUM 
+12.4, NUM 
+4, NUM 
+464, NUM 
+
+, SPACE 
+Sorting, VERB 
+coefficient, NOUN 
+2.41, NUM 
+2.57, NUM 
+2.59, NUM 
+2.96, NUM 
+2.22, NUM 
+1.98, NUM 
+2.031, NUM 
+2.63, NUM 
+
+, SPACE 
+CaCO3, NOUN 
+0, PROPN 
+0, NUM 
+0.45, NUM 
+0, NUM 
+51.81, NUM 
+65.59, NUM 
+0, NUM 
+0.1, NUM 
+
+, SPACE 
+OC, PROPN 
+1.67, NUM 
+2.91, NUM 
+2.83, NUM 
+1.90, NUM 
+4.42, NUM 
+4.09, NUM 
+10, NUM 
+1.26, NUM 
+
+, SPACE 
+TABLE, NOUN 
+2, NUM 
+
+, SPACE 
+Hydrocarbon, PROPN 
+levels, NOUN 
+Total, ADJ 
+hydrocarbons, NOUN 
+HT, PROPN 
+concentration, NOUN 
+n, ADJ 
+alkanes, NOUN 
+ALC, PROPN 
+concentration, NOUN 
+unresolved, ADJ 
+complex, ADJ 
+mixture, NOUN 
+U, PROPN 
+ratio, NOUN 
+
+, SPACE 
+unresolved, ADJ 
+resolved, VERB 
+U, NOUN 
+R, NOUN 
+carbon, NOUN 
+preference, PROPN 
+index, NOUN 
+n, ADJ 
+alkanes, NOUN 
+calculated, VERB 
+carbon, NOUN 
+range, NOUN 
+23, NUM 
+33, NUM 
+CPI, PROPN 
+percentage, NOUN 
+organic, ADJ 
+carbon, NOUN 
+
+, SPACE 
+OC, PROPN 
+Non, PROPN 
+quantified, ADJ 
+NQ, PROPN 
+
+, SPACE 
+HT, PROPN 
+ALC, PROPN 
+Pristane, PROPN 
+Phytane, PROPN 
+U, PROPN 
+
+, SPACE 
+Stations, PROPN 
+lag, NOUN 
+g-~, NOUN 
+lag, PROPN 
+g-~, NOUN 
+ng, ADV 
+g-~, NOUN 
+ng, ADV 
+g-~, NOUN 
+lag, PROPN 
+g-, X 
+CPI, PROPN 
+U, NOUN 
+R, NOUN 
+OC, PROPN 
+g/100, PROPN 
+g, X 
+HT, PROPN 
+CO, PROPN 
+
+, SPACE 
+GCSM, PROPN 
+
+, SPACE 
+1, NUM 
+273.3, NUM 
+58.74, NUM 
+NQ, PROPN 
+NQ, PROPN 
+214.53, NUM 
+5.9, NUM 
+3.6, NUM 
+2.48, NUM 
+110.2, NUM 
+
+, SPACE 
+2, NUM 
+55.4, NUM 
+24.24, NUM 
+NQ, PROPN 
+NQ, PROPN 
+31.13, NUM 
+16.2, NUM 
+1.3, NUM 
+2.32, NUM 
+23.9, NUM 
+
+, SPACE 
+3, NUM 
+290.40, NUM 
+137.77, NUM 
+39.1, NUM 
+54.2, NUM 
+152.54, NUM 
+1.2, NUM 
+1.1, NUM 
+1.67, NUM 
+173.9, NUM 
+
+, SPACE 
+4, NUM 
+25.4, NUM 
+25.34, NUM 
+NQ, PROPN 
+NQ, PROPN 
+NQ, PROPN 
+1.2, NUM 
+2.91, NUM 
+8.7, NUM 
+
+, SPACE 
+5, NUM 
+28.2, NUM 
+28.2, NUM 
+NQ, PROPN 
+NQ, PROPN 
+NQ, PROPN 
+1.2, NUM 
+2.83, NUM 
+10, NUM 
+
+, SPACE 
+6, NUM 
+163.1, NUM 
+47.11, NUM 
+NQ, PROPN 
+NQ, PROPN 
+116.0, NUM 
+1.4, NUM 
+2.5, NUM 
+3.34, NUM 
+48.8, NUM 
+
+, SPACE 
+7, NUM 
+134.9, NUM 
+113.14, NUM 
+261.5, NUM 
+84.5, NUM 
+21.51, NUM 
+1.1, NUM 
+0.2, NUM 
+4.42, NUM 
+30.5, NUM 
+
+, SPACE 
+8, NUM 
+131.7, NUM 
+131.4, NUM 
+168.7, NUM 
+71.1, NUM 
+NQ, PROPN 
+4.5, NUM 
+4.09, NUM 
+32.2, NUM 
+
+, SPACE 
+9, NUM 
+1242.5, NUM 
+135.99, NUM 
+414.2, NUM 
+260.0, NUM 
+1105.89, NUM 
+4.4, NUM 
+8.1, NUM 
+4.78, NUM 
+260.0, NUM 
+
+, SPACE 
+PCSM, PROPN 
+
+, SPACE 
+10, NUM 
+4104.4, NUM 
+382.76, NUM 
+3422, NUM 
+3602, NUM 
+3714.6, NUM 
+1.1, NUM 
+9.7, NUM 
+9.97, NUM 
+411.7, NUM 
+
+, SPACE 
+11, NUM 
+1672.5, NUM 
+1.14, NUM 
+200.6, NUM 
+NQ, PROPN 
+1671.17, NUM 
+1247, NUM 
+1.257, NUM 
+1327.4, NUM 
+
+, SPACE 
+12, NUM 
+18.6, NUM 
+0.7, NUM 
+7.4, NUM 
+12.7, NUM 
+17.84, NUM 
+5.3, NUM 
+25.4, NUM 
+0.52, NUM 
+35.7, NUM 
+
+, SPACE 
+13, NUM 
+29.4, NUM 
+1.15, NUM 
+0.3, NUM 
+21.7, NUM 
+28.12, NUM 
+0.3, NUM 
+24.4, NUM 
+1.35, NUM 
+21.7, NUM 
+
+, SPACE 
+4104.4, NUM 
+~, VERB 
+g, PROPN 
+g-, X 
+harbour, NOUN 
+zone, NOUN 
+value, NOUN 
+
+, SPACE 
+different, ADJ 
+ratios, NOUN 
+presented, VERB 
+
+, SPACE 
+HT, PROPN 
+CO, PROPN 
+HT/%OC.104, PROPN 
+generally, ADV 
+70, NUM 
+
+, SPACE 
+unpolluted, ADJ 
+sediments, NOUN 
+Philippi, PROPN 
+1965, NUM 
+Farrington, PROPN 
+
+, SPACE 
+Tripp, PROPN 
+1977, NUM 
+Marchand, PROPN 
+Roucache, PROPN 
+1981, NUM 
+ratio, NOUN 
+
+, SPACE 
+varied, ADJ 
+8.7, NUM 
+1327.4, NUM 
+
+, SPACE 
+ratio, NOUN 
+U, NOUN 
+R, NOUN 
+U, PROPN 
+unresolved, ADJ 
+signal, NOUN 
+
+, SPACE 
+quantified, VERB 
+use, NOUN 
+average, ADJ 
+response, NOUN 
+factor, NOUN 
+
+, SPACE 
+elution, NOUN 
+range, NOUN 
+indicated, VERB 
+R, PROPN 
+resolved, VERB 
+signal, NOUN 
+
+, SPACE 
+ratio, NOUN 
+varied, VERB 
+0.2, NUM 
+1247, NUM 
+
+, SPACE 
+carbon, NOUN 
+preference, NOUN 
+index, NOUN 
+CPI, PROPN 
+n, PROPN 
+alkanes, NOUN 
+
+, SPACE 
+changed, VERB 
+0.3, NUM 
+16.2, NUM 
+calculated, VERB 
+carbon, NOUN 
+range, NOUN 
+
+, SPACE 
+23, NUM 
+33, NUM 
+
+, SPACE 
+GCSM, PROPN 
+values, NOUN 
+
+, SPACE 
+calcareous, ADJ 
+sediments, NOUN 
+hexanic, ADJ 
+extracts, NOUN 
+
+, SPACE 
+characterized, VERB 
+distribution, NOUN 
+n, NOUN 
+alkanes, NOUN 
+n, ADJ 
+Cla, PROPN 
+
+, SPACE 
+n, PROPN 
+C34, PROPN 
+maximum, ADJ 
+Cmax, PROPN 
+n, CCONJ 
+C29_31, NOUN 
+NAH, PROPN 
+
+, SPACE 
+accounted, VERB 
+86.5, NUM 
+99, NUM 
+total, ADJ 
+hydrocarbon, NOUN 
+
+, SPACE 
+fraction, NOUN 
+U, NOUN 
+accounted, VERB 
+13, NUM 
+Isoprenoid, PROPN 
+
+, SPACE 
+hydrocarbons, NOUN 
+Pristane, PROPN 
+Pr, PROPN 
+Phytane, PROPN 
+Ph, PROPN 
+
+, SPACE 
+generally, ADV 
+found, VERB 
+calcareous, ADJ 
+sediment, NOUN 
+concen-, NOUN 
+
+, SPACE 
+trations, NOUN 
+varied, VERB 
+0.3, NUM 
+3602, NUM 
+ng, PROPN 
+g, PROPN 
+l., NOUN 
+
+, SPACE 
+terrigenous, ADJ 
+sediments, NOUN 
+concentrations, NOUN 
+
+, SPACE 
+hydrocarbons, NOUN 
+varied, VERB 
+25.4, NUM 
+1242.5, NUM 
+~, PUNCT 
+g, PROPN 
+g, PROPN 
+l., NOUN 
+
+, SPACE 
+samples, NOUN 
+contained, VERB 
+small, ADJ 
+amounts, NOUN 
+
+, SPACE 
+lower, ADJ 
+alkanes, NOUN 
+
+, SPACE 
+samples, NOUN 
+collected, VERB 
+PCSM, PROPN 
+results, NOUN 
+
+, SPACE 
+concentrations, NOUN 
+fluctuating, VERB 
+levels, NOUN 
+18.6, NUM 
+
+, SPACE 
+~, PUNCT 
+g, PROPN 
+g-1, PROPN 
+4104.4, NUM 
+~tg, PUNCT 
+g, X 
+l., NOUN 
+marine, NOUN 
+zone, NOUN 
+Stations, PROPN 
+12, NUM 
+13, NUM 
+found, VERB 
+small, ADJ 
+hydrocarbons, NOUN 
+
+, SPACE 
+<, PROPN 
+29.4, NUM 
+lag, NOUN 
+g, PROPN 
+l, NOUN 
+harbour, NOUN 
+zone, NOUN 
+
+, SPACE 
+1000, NUM 
+~tg, NUM 
+g-1, NUM 
+hydrocarbons, NOUN 
+adsorbed, VERB 
+
+, SPACE 
+sandy, ADJ 
+muddy, ADJ 
+particles, NOUN 
+Stations, PROPN 
+10, NUM 
+11, NUM 
+
+, SPACE 
+highest, ADJ 
+concentration, NOUN 
+hydrocarbons, NOUN 
+found, VERB 
+
+, SPACE 
+Station, PROPN 
+10, NUM 
+Table, NOUN 
+2, NUM 
+Analyses, NOUN 
+different, ADJ 
+fractions, NOUN 
+
+, SPACE 
+revealed, VERB 
+existence, NOUN 
+species, NOUN 
+organic, ADJ 
+
+, SPACE 
+compounds, NOUN 
+n, NUM 
+alkanes, NOUN 
+isoprenoids, VERB 
+
+, SPACE 
+polycyclic, ADJ 
+aromatics, NOUN 
+hydrocarbons, NOUN 
+matter, ADV 
+
+, SPACE 
+station, NOUN 
+fraction, NOUN 
+U, PROPN 
+accounted, VERB 
+89.7, NUM 
+
+, SPACE 
+HT, PROPN 
+terrigenous, ADJ 
+samples, NOUN 
+contained, VERB 
+small, ADJ 
+
+, SPACE 
+amounts, NOUN 
+lower, ADJ 
+alkanes, NOUN 
+harbour, NOUN 
+
+, SPACE 
+zones, NOUN 
+chromatographic, ADJ 
+profile, NOUN 
+obtained, VERB 
+
+, SPACE 
+sediments, NOUN 
+lagoons, NOUN 
+complex, ADJ 
+
+, SPACE 
+hydrocarbons, NOUN 
+mixture, NOUN 
+different, ADJ 
+
+, SPACE 
+sources, NOUN 
+groups, NOUN 
+stand, VERB 
+
+, SPACE 
+group, NOUN 
+Stations, PROPN 
+2, NUM 
+4, NUM 
+6, NUM 
+7, NUM 
+8), NUM 
+included, VERB 
+
+, SPACE 
+calcareous, ADJ 
+terrigenous, ADJ 
+sediments, NOUN 
+characterized, VERB 
+
+, SPACE 
+HT, PROPN 
+CO, PROPN 
+<, PROPN 
+50, NUM 
+U, NOUN 
+R, PROPN 
+<, X 
+5, NUM 
+patterns, NOUN 
+similar, ADJ 
+
+, SPACE 
+trends, NOUN 
+predominance, NOUN 
+high, ADJ 
+molecular, ADJ 
+
+, SPACE 
+weight, NOUN 
+range, NOUN 
+n, PROPN 
+C23, PROPN 
+34, NUM 
+found, VERB 
+
+, SPACE 
+sediments, NOUN 
+influenced, VERB 
+terrestrial, ADJ 
+inputs, NOUN 
+
+, SPACE 
+mangroves, NOUN 
+detritus, NOUN 
+Stations, PROPN 
+2, NUM 
+4, NUM 
+6, NUM 
+tropical, ADJ 
+
+, SPACE 
+seagrasses, NOUN 
+Stations, PROPN 
+7, NUM 
+8), NUM 
+Identical, ADJ 
+shapes, NOUN 
+
+, SPACE 
+chromatographic, ADJ 
+resultswere, NOUN 
+found, VERB 
+mangrove, NOUN 
+soils, NOUN 
+
+, SPACE 
+Scherrer, PROPN 
+1988, NUM 
+Oudot, PROPN 
+Dutrieux, PROPN 
+1989, NUM 
+strong, ADJ 
+
+, SPACE 
+evidence, NOUN 
+mangrove, NOUN 
+detritus, NOUN 
+incorporation, NOUN 
+
+, SPACE 
+surface, NOUN 
+sediments, NOUN 
+shift, NOUN 
+maximum, ADJ 
+
+, SPACE 
+alkane, PROPN 
+carbon, NOUN 
+predominantly, ADV 
+29, NUM 
+31, NUM 
+
+, SPACE 
+736, NUM 
+
+
+, SPACE 
+Volume, NOUN 
+32, NUM 
+Number, NOUN 
+10, NUM 
+October, PROPN 
+1996, NUM 
+
+, SPACE 
+founded, VERB 
+profiles, NOUN 
+suspended, VERB 
+matter, NOUN 
+
+, SPACE 
+river, NOUN 
+water, NOUN 
+column, NOUN 
+dissolved, VERB 
+particulate, NOUN 
+
+, SPACE 
+phase, NOUN 
+seawater, NOUN 
+Bernard, PROPN 
+et, PROPN 
+aL, PROPN 
+1995, NUM 
+
+, SPACE 
+foundings, NOUN 
+confirmed, VERB 
+contribution, NOUN 
+mangrove, NOUN 
+
+, SPACE 
+detritus, NOUN 
+adjacent, ADJ 
+nearshore, NOUN 
+areas, NOUN 
+noted, VERB 
+
+, SPACE 
+contribution, NOUN 
+dead, ADJ 
+leaves, NOUN 
+Thalassia, PROPN 
+
+, SPACE 
+testudinum, NOUN 
+Syringodium, PROPN 
+filiforme, NOUN 
+seagrasses, NOUN 
+
+, SPACE 
+broadly, ADV 
+distributed, VERB 
+lagoons, NOUN 
+Seagrasses, NOUN 
+
+, SPACE 
+known, VERB 
+sources, NOUN 
+organic, ADJ 
+carbon, NOUN 
+Newell, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+1986, NUM 
+Large, ADJ 
+amounts, NOUN 
+fresh, ADJ 
+leaf, NOUN 
+material, NOUN 
+
+, SPACE 
+frequently, ADV 
+detached, VERB 
+plants, NOUN 
+deposited, VERB 
+
+, SPACE 
+sediment, NOUN 
+deposits, NOUN 
+exposed, VERB 
+leaching, VERB 
+
+, SPACE 
+burying, VERB 
+soils, NOUN 
+probably, ADV 
+conditioned, VERB 
+
+, SPACE 
+distribution, NOUN 
+hydrocarbons, NOUN 
+sediments, NOUN 
+
+, SPACE 
+Stations, PROPN 
+7, NUM 
+8, NUM 
+
+, SPACE 
+second, ADJ 
+group, NOUN 
+Stations, NOUN 
+1, NUM 
+3, NUM 
+
+, SPACE 
+sediments, NOUN 
+coasts, NOUN 
+near, ADP 
+mangrove, NOUN 
+forest, NOUN 
+
+, SPACE 
+sediments, NOUN 
+characterized, VERB 
+HT, PROPN 
+CO, PROPN 
+ratio, NOUN 
+
+, SPACE 
+>, X 
+100, NUM 
+important, ADJ 
+fraction, NOUN 
+U, PROPN 
+respectively, ADV 
+214.5, NUM 
+
+, SPACE 
+152.54, NUM 
+lag, NOUN 
+g-~, NOUN 
+U, PROPN 
+R, NOUN 
+ratio, NOUN 
+<, X 
+3.6, NUM 
+CPI, PROPN 
+
+, SPACE 
+<, X 
+5.9, NUM 
+U, PROPN 
+fraction, NOUN 
+probably, ADV 
+high, ADJ 
+
+, SPACE 
+rate, NOUN 
+subsurface, ADJ 
+bacterial, ADJ 
+activity, NOUN 
+Process, NOUN 
+
+, SPACE 
+mangrove, NOUN 
+included, VERB 
+rapid, ADJ 
+deposition, NOUN 
+organic, ADJ 
+matter, NOUN 
+
+, SPACE 
+followed, VERB 
+rapid, ADJ 
+bacterial, ADJ 
+degradation, NOUN 
+Alongi, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+1993, NUM 
+
+, SPACE 
+group, NOUN 
+included, VERB 
+surface, NOUN 
+sediment, NOUN 
+
+, SPACE 
+PCSM, PROPN 
+Stations, PROPN 
+12, NUM 
+13, NUM 
+consisted, VERB 
+sandy, ADJ 
+
+, SPACE 
+particles, NOUN 
+levels, NOUN 
+organic, ADJ 
+carbon, NOUN 
+<, X 
+1.35, NUM 
+
+, SPACE 
+values, NOUN 
+CPI, PROPN 
+equal, ADJ 
+5.3, NUM 
+0.3, NUM 
+respectively, ADV 
+
+, SPACE 
+level, NOUN 
+HT, PROPN 
+<, X 
+30, NUM 
+lag, NOUN 
+g-, X 
+~, NOUN 
+HT, PROPN 
+CO, PROPN 
+ratio, NOUN 
+
+, SPACE 
+<, X 
+50, NUM 
+ratio, NOUN 
+U, PROPN 
+R, NOUN 
+>, X 
+20, NUM 
+values, NOUN 
+U, PROPN 
+R, NOUN 
+
+, SPACE 
+ratio, NOUN 
+indicated, VERB 
+total, ADJ 
+degradation, NOUN 
+
+, SPACE 
+hydrocarbons, NOUN 
+sediments, NOUN 
+polluted, VERB 
+
+, SPACE 
+groups, NOUN 
+concentration, NOUN 
+Pr, PROPN 
+Ph, PROPN 
+
+, SPACE 
+261.5, NUM 
+ng, PROPN 
+g, PROPN 
+l., NOUN 
+find, VERB 
+
+, SPACE 
+compounds, NOUN 
+terrigenous, ADJ 
+sediments, NOUN 
+
+, SPACE 
+Station, PROPN 
+3, NUM 
+minor, ADJ 
+isoprenoids, NOUN 
+suggested, VERB 
+
+, SPACE 
+little, ADJ 
+zooplankton, NOUN 
+contribution, NOUN 
+sediments, NOUN 
+near, ADP 
+
+, SPACE 
+mouth, NOUN 
+GRG, PROPN 
+possibility, NOUN 
+
+, SPACE 
+preferential, ADJ 
+degradation, NOUN 
+evaporation, NOUN 
+
+, SPACE 
+lower, ADJ 
+hydrocarbons, NOUN 
+isoprenoids, NOUN 
+n, CCONJ 
+alkanes, PROPN 
+
+, SPACE 
+occuring, VERB 
+Suspended, VERB 
+particles, NOUN 
+waters, NOUN 
+char-, ADV 
+
+, SPACE 
+acterized, VERB 
+small, ADJ 
+contributions, NOUN 
+lower, ADJ 
+hydrocarbons, NOUN 
+
+, SPACE 
+Bernard, PROPN 
+et, PROPN 
+al, PROPN 
+1995, NUM 
+Concentrations, NOUN 
+founded, VERB 
+
+, SPACE 
+calcareous, ADJ 
+sediments, NOUN 
+confirm, VERB 
+marine, NOUN 
+input, NOUN 
+
+, SPACE 
+different, ADJ 
+isoprenoids, NOUN 
+precursors, NOUN 
+like, ADP 
+zooplankton, PROPN 
+
+, SPACE 
+marine, ADJ 
+animals, NOUN 
+plants, NOUN 
+photosynthetic, ADJ 
+non-, VERB 
+
+, SPACE 
+photosynthetic, ADJ 
+bacterial, ADJ 
+metabolism, NOUN 
+fourth, ADJ 
+group, NOUN 
+Stations, PROPN 
+10, NUM 
+11, NUM 
+included, VERB 
+
+, SPACE 
+Stations, PROPN 
+Harbour, PROPN 
+zone, NOUN 
+.narrow, ADJ 
+
+, SPACE 
+channel, VERB 
+Rivirre, PROPN 
+Salre, PROPN 
+Station, PROPN 
+9, NUM 
+exhibits, VERB 
+
+, SPACE 
+characteristics, NOUN 
+polluted, ADJ 
+sediments, NOUN 
+likewise, ADV 
+over-, NOUN 
+
+, SPACE 
+laying, VERB 
+seawater, NOUN 
+Bernard, PROPN 
+et, PROPN 
+al, PROPN 
+1995, NUM 
+
+, SPACE 
+significant, ADJ 
+accumulation, NOUN 
+light, ADJ 
+hydrocarbons, NOUN 
+coming, VERB 
+
+, SPACE 
+petroleum, NOUN 
+hydrocarbons, NOUN 
+muddy, ADJ 
+sediments, NOUN 
+
+, SPACE 
+Station, PROPN 
+10, NUM 
+Fig, PROPN 
+2, NUM 
+found, VERB 
+high, ADJ 
+levels, NOUN 
+
+, SPACE 
+hydrocarbons, NOUN 
+>, X 
+1000, NUM 
+lag, NOUN 
+g-, NOUN 
+1, NUM 
+isoprenoids, NOUN 
+U, PROPN 
+R, NOUN 
+
+, SPACE 
+ratio, NOUN 
+>, PROPN 
+5, NUM 
+HT, PROPN 
+CO, PROPN 
+ratio, NOUN 
+>, PROPN 
+70, NUM 
+Pollution, NOUN 
+input, NOUN 
+caused, VERB 
+
+, SPACE 
+hydrocarbons, NOUN 
+shipping, NOUN 
+noted, VERB 
+
+, SPACE 
+suggested, VERB 
+high, ADJ 
+input, NOUN 
+anthropogenic, ADJ 
+hydrocarbons, NOUN 
+
+, SPACE 
+harbour, NOUN 
+zone, NOUN 
+PCSM, PROPN 
+GCSM, PROPN 
+
+, SPACE 
+Rivirre, PROPN 
+Salre, PROPN 
+
+, SPACE 
+Aromatic, ADJ 
+hydrocarbons, NOUN 
+
+, SPACE 
+concentrations, NOUN 
+polycyclic, NOUN 
+aromatic, ADJ 
+hydro-, NOUN 
+
+, SPACE 
+carbons, NOUN 
+PAH, PROPN 
+varied, VERB 
+range, NOUN 
+103, NUM 
+1656.5, NUM 
+ng, INTJ 
+g-, ADV 
+
+, SPACE 
+sediment, NOUN 
+samples, NOUN 
+lagoons, NOUN 
+Table, NOUN 
+3, NUM 
+
+, SPACE 
+PAH, PROPN 
+found, VERB 
+calcareous, ADJ 
+sediments, NOUN 
+Stations, PROPN 
+
+, SPACE 
+7, NUM 
+8, NUM 
+12, NUM 
+13, NUM 
+terrigenous, ADJ 
+sediments, NOUN 
+Stations, PROPN 
+6, NUM 
+
+, SPACE 
+10, NUM 
+Seven, NUM 
+terrigenous, ADJ 
+sediment, NOUN 
+samples, NOUN 
+
+, SPACE 
+contaminated, VERB 
+PAH, PROPN 
+Table, PROPN 
+3, NUM 
+usually, ADV 
+
+, SPACE 
+contained, VERB 
+PAH, PROPN 
+different, ADJ 
+aromatic, ADJ 
+structures, NOUN 
+
+, SPACE 
+Phenanthrene, PROPN 
+178, NUM 
+fluoranthene, NOUN 
+pyrene, NOUN 
+202, NUM 
+
+, SPACE 
+chrysene, NOUN 
+228, NUM 
+benzo(e)pyrene, ADJ 
+perylene, NOUN 
+252, NUM 
+
+, SPACE 
+indeno(1,2,3,-cd)pyrene, NOUN 
+Benzo(ghi)perylene, NOUN 
+276, NUM 
+
+, SPACE 
+abundant, ADJ 
+congeners, NOUN 
+Table, NOUN 
+3, NUM 
+
+, SPACE 
+isomers, NOUN 
+linear, ADJ 
+presence, NOUN 
+propor-, ADJ 
+
+, SPACE 
+tions, NOUN 
+usually, ADV 
+taken, VERB 
+indication, NOUN 
+anthro-, NUM 
+
+, SPACE 
+pogenic, NOUN 
+and/or, CCONJ 
+combustion, NOUN 
+products, NOUN 
+Laflamme, PROPN 
+
+, SPACE 
+Hires, PROPN 
+1978, NUM 
+PAHs, NOUN 
+acenaphtene, NOUN 
+acenaphtylene, NOUN 
+
+, SPACE 
+2, NUM 
+3, NUM 
+6, NUM 
+trimethyl, NUM 
+naphtalene, NOUN 
+marginally, ADV 
+
+, SPACE 
+detected, VERB 
+Station, PROPN 
+9, NUM 
+
+, SPACE 
+sediment, NOUN 
+samples, NOUN 
+contained, VERB 
+PAHs, NOUN 
+concentra-, ADJ 
+
+, SPACE 
+tions, NOUN 
+range, NOUN 
+founded, VERB 
+mangrove, NOUN 
+
+, SPACE 
+environments, NOUN 
+Kleskowski, PROPN 
+et, PROPN 
+al, PROPN 
+1994, NUM 
+Smith, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+1985, NUM 
+Bermuda, PROPN 
+harbours, VERB 
+Burns, PROPN 
+et, PROPN 
+al, PROPN 
+1990, NUM 
+
+, SPACE 
+Rhone, PROPN 
+Delta, PROPN 
+Western, PROPN 
+Mediterranean, PROPN 
+Lipiatou, PROPN 
+
+, SPACE 
+Saliot, PROPN 
+1991, NUM 
+sediments, NOUN 
+showed, VERB 
+predominance, NOUN 
+
+, SPACE 
+compounds, NOUN 
+mass, NOUN 
+202, NUM 
+252, NUM 
+profile, NOUN 
+
+, SPACE 
+commonly, ADV 
+observed, VERB 
+marine, ADJ 
+particulate, NOUN 
+
+, SPACE 
+shelf, NOUN 
+sediment, NOUN 
+Hites, PROPN 
+et, PROPN 
+al, PROPN 
+1980, NUM 
+Bates, PROPN 
+et, PROPN 
+al, PROPN 
+1984, NUM 
+
+, SPACE 
+Lipiatou, PROPN 
+Saliot, PROPN 
+1991, NUM 
+Global, ADJ 
+concentrations, NOUN 
+
+, SPACE 
+compounds, NOUN 
+higher, ADJ 
+Stations, PROPN 
+3, NUM 
+9, NUM 
+Station, NOUN 
+3, NUM 
+
+, SPACE 
+received, VERB 
+freshwater, NOUN 
+GRG, NOUN 
+Station, PROPN 
+9, NUM 
+
+, SPACE 
+received, VERB 
+marine, ADJ 
+water, NOUN 
+Pointe, PROPN 
+fi, NOUN 
+Pitre, PROPN 
+harbour, NOUN 
+
+, SPACE 
+Perylene, ADJ 
+benzo(e)pyrene, ADJ 
+abundant, ADJ 
+
+, SPACE 
+O, INTJ 
+
+, SPACE 
+O, INTJ 
+
+, SPACE 
+230, NUM 
+°, NUM 
+3000, NUM 
+Temperature, PROPN 
+
+, SPACE 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Gas, NOUN 
+chromatographic, ADJ 
+analysis, NOUN 
+saturated, VERB 
+hydrocarbon, NOUN 
+
+, SPACE 
+fractions, NOUN 
+polluted, ADJ 
+station, NOUN 
+Station, PROPN 
+10, NUM 
+
+, SPACE 
+737, NUM 
+
+
+, SPACE 
+Marine, PROPN 
+Pollution, PROPN 
+Bulletin, PROPN 
+
+, SPACE 
+TABLE, PROPN 
+3, NUM 
+
+, SPACE 
+Lagoons, PROPN 
+surface, NOUN 
+sediments, NOUN 
+Concentrations, NOUN 
+selected, VERB 
+polyeyclic, ADJ 
+aromatic, ADJ 
+hydrocarbons, NOUN 
+Phenanthrene, NOUN 
+anthracene, VERB 
+178, NUM 
+fluoranthene, NOUN 
+
+, SPACE 
+pyrene, NOUN 
+202, NUM 
+chrysene, NOUN 
+228, NUM 
+benzo(k)fluoranthene, NOUN 
+benzo(e)pyrene, ADJ 
+perylene, NOUN 
+252, NUM 
+indeno[1,2,3,-ed]pyrene, PROPN 
+dibenz[a, PROPN 
+c]anthracene, PROPN 
+
+, SPACE 
+benzo[g, PROPN 
+h, PROPN 
+i]perylene, NOUN 
+276, NUM 
+
+, SPACE 
+Stations, NOUN 
+178, NUM 
+ng, PROPN 
+g, PROPN 
+l, NOUN 
+202, NUM 
+ng, PROPN 
+g, PROPN 
+228, NUM 
+ng, INTJ 
+g-, X 
+252, NUM 
+ng, PROPN 
+g, PROPN 
+276, NUM 
+ng, PROPN 
+g, PROPN 
+HPA, PROPN 
+ng, PROPN 
+g, PROPN 
+
+, SPACE 
+1, NUM 
+<, X 
+4.1, NUM 
+<, X 
+4.4, NUM 
+103, NUM 
+<, SYM 
+3, NUM 
+<, X 
+3, NUM 
+103, NUM 
+
+, SPACE 
+3, NUM 
+24.9, NUM 
+91, NUM 
+35.2, NUM 
+1252.2, NUM 
+253.2, NUM 
+1656.5, NUM 
+
+, SPACE 
+2, NUM 
+<, X 
+4.1, NUM 
+<, X 
+4.4, NUM 
+<3, NUM 
+419, NUM 
+<, NUM 
+5, NUM 
+419, NUM 
+
+, SPACE 
+4, NUM 
+<, NUM 
+4.1, NUM 
+8, NUM 
+<3, NUM 
+110.2, NUM 
+<, X 
+5, NUM 
+118.2, NUM 
+
+, SPACE 
+5, NUM 
+<, NUM 
+4.1, NUM 
+29.7, NUM 
+127.8, NUM 
+123.9, NUM 
+<, X 
+5, NUM 
+281.4, NUM 
+
+, SPACE 
+9, NUM 
+14.4, NUM 
+39, NUM 
+37.4, NUM 
+318, NUM 
+331.8, NUM 
+740.6, NUM 
+
+, SPACE 
+11, NUM 
+<, X 
+4.1, NUM 
+198.2, NUM 
+<, X 
+3, NUM 
+<, X 
+3, NUM 
+<, NUM 
+5, NUM 
+198.21, NUM 
+
+, SPACE 
+t, PROPN 
+
+, SPACE 
+tL, NUM 
+
+, SPACE 
+
+, SPACE 
+140, NUM 
+°, NOUN 
+
+, SPACE 
+t, NOUN 
+ID, PROPN 
+o, NOUN 
+
+, SPACE 
+Temperature, PROPN 
+
+, SPACE 
+~a=, NOUN 
+Chrysene, PROPN 
+
+, SPACE 
+¢*g, NOUN 
+c, NOUN 
+=, PROPN 
+Benzo[e]pyrene, PROPN 
+
+, SPACE 
+c, NOUN 
+=, PROPN 
+Benzo[k]fluoranthene, ADJ 
+e, NOUN 
+=, PUNCT 
+Indeno, PROPN 
+1,2,3, NUM 
+cd]pyrene, NOUN 
+e, PROPN 
+
+, SPACE 
+f, PROPN 
+=, PROPN 
+Dibenz[a, PROPN 
+c]anthracene, PROPN 
+
+, SPACE 
+g, PROPN 
+=, PROPN 
+Benzo[ghi]perylene, PROPN 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Gas, NOUN 
+chromatographic, ADJ 
+analysis, NOUN 
+aromatic, ADJ 
+hydrocarbons, NOUN 
+
+, SPACE 
+fraction, NOUN 
+sediment, NOUN 
+samples, NOUN 
+Station, PROPN 
+9, NUM 
+Individual, ADJ 
+PAHs, NOUN 
+
+, SPACE 
+confirmed, VERB 
+mass, PROPN 
+spectra, PROPN 
+
+, SPACE 
+738, NUM 
+
+
+, SPACE 
+Volume, PROPN 
+32, NUM 
+Number, NOUN 
+10, NUM 
+October, PROPN 
+1996, NUM 
+
+, SPACE 
+congeners, NOUN 
+Stations, PROPN 
+Diagenetic, ADJ 
+production, NOUN 
+
+, SPACE 
+perylene, NOUN 
+demonstrated, VERB 
+anoxic, ADJ 
+sediment, NOUN 
+
+, SPACE 
+Venkatesan, PROPN 
+1988, NUM 
+Mangrove, PROPN 
+environments, NOUN 
+
+, SPACE 
+characterized, VERB 
+exchanges, NOUN 
+litter, NOUN 
+forest, NOUN 
+
+, SPACE 
+coastal, ADJ 
+water, NOUN 
+Snedaker, PROPN 
+1978, NUM 
+Dissolved, VERB 
+
+, SPACE 
+particulate, NOUN 
+matters, NOUN 
+exported, VERB 
+tidally, ADV 
+contribu-, NOUN 
+
+, SPACE 
+tions, NOUN 
+affect, VERB 
+soil, NOUN 
+redox, ADJ 
+potential, ADJ 
+level, NOUN 
+evolves, VERB 
+
+, SPACE 
+reducing, VERB 
+conditions, NOUN 
+Anoxic, ADJ 
+conditions, NOUN 
+
+, SPACE 
+high, ADJ 
+levels, NOUN 
+organic, ADJ 
+carbon, NOUN 
+preferential, ADJ 
+uptake, NOUN 
+
+, SPACE 
+conservation, NOUN 
+compounds, NOUN 
+
+, SPACE 
+Sediments, NOUN 
+harbours, NOUN 
+predominantly, ADV 
+retained, VERB 
+
+, SPACE 
+heavier, ADJ 
+PAHs, PROPN 
+mass, NOUN 
+252, NUM 
+276, NUM 
+likely, ADJ 
+
+, SPACE 
+formed, VERB 
+fires, NOUN 
+forests, NOUN 
+nearby, ADJ 
+rubbish, NOUN 
+
+, SPACE 
+dump, NOUN 
+Fig, PROPN 
+1, NUM 
+Bernard, PROPN 
+1994, NUM 
+pattern, NOUN 
+founded, VERB 
+
+, SPACE 
+Station, PROPN 
+9, NUM 
+Fig, PROPN 
+3, NUM 
+illustrated, VERB 
+hypothesis, NOUN 
+
+, SPACE 
+Combustion, PROPN 
+inputs, NOUN 
+transported, VERB 
+air, NOUN 
+run-, ADJ 
+
+, SPACE 
+land, NOUN 
+particles, NOUN 
+deposited, VERB 
+lagoon, NOUN 
+
+, SPACE 
+concentrated, VERB 
+sediment, NOUN 
+tropical, ADJ 
+
+, SPACE 
+coastline, NOUN 
+like, ADP 
+decayed, VERB 
+mangrove, NOUN 
+detritus, NOUN 
+
+, SPACE 
+Conclusions, PROPN 
+
+, SPACE 
+Hydrocarbons, NOUN 
+terrigenous, ADJ 
+calcareous, ADJ 
+sedi-, NOUN 
+
+, SPACE 
+ments, NOUN 
+lagoons, NOUN 
+Grand, PROPN 
+Cul, PROPN 
+de, NOUN 
+Sac, PROPN 
+Matin, PROPN 
+
+, SPACE 
+Petit, PROPN 
+Cul, PROPN 
+de, NOUN 
+Sac, PROPN 
+Matin, PROPN 
+investigated, VERB 
+
+, SPACE 
+sediments, NOUN 
+contained, VERB 
+high, ADJ 
+levels, NOUN 
+organic, ADJ 
+
+, SPACE 
+carbons, NOUN 
+hydrocarbons, NOUN 
+results, NOUN 
+suggest, VERB 
+
+, SPACE 
+compounds, NOUN 
+surface, NOUN 
+sediments, NOUN 
+
+, SPACE 
+lagoons, NOUN 
+mainly, ADV 
+n, CCONJ 
+alkanes, NOUN 
+Sediments, NOUN 
+PCSM, NOUN 
+
+, SPACE 
+polluted, VERB 
+petroleum, NOUN 
+hydrocarbons, NOUN 
+GCSM, PROPN 
+
+, SPACE 
+linear, ADJ 
+fraction, NOUN 
+dominated, VERB 
+higher, ADJ 
+plants, NOUN 
+
+, SPACE 
+seagrasses, NOUN 
+n, NOUN 
+alkanes, NOUN 
+PAHs, PROPN 
+fraction, NOUN 
+
+, SPACE 
+result, NOUN 
+combustion, NOUN 
+relicts, VERB 
+Atmospheric, ADJ 
+transports, NOUN 
+
+, SPACE 
+river, NOUN 
+discharge, NOUN 
+contribute, VERB 
+relatively, ADV 
+high, ADJ 
+
+, SPACE 
+proportion, NOUN 
+PAHs, NOUN 
+pristine, ADJ 
+area, NOUN 
+Chemical, PROPN 
+
+, SPACE 
+conditions, NOUN 
+coastal, ADJ 
+mangrove, NOUN 
+environments, NOUN 
+anoxic, ADJ 
+
+, SPACE 
+conditions, NOUN 
+high, ADJ 
+primary, ADJ 
+production, NOUN 
+peat, NOUN 
+deposits, NOUN 
+
+, SPACE 
+suitable, ADJ 
+preservation, NOUN 
+anthropogenic, ADJ 
+
+, SPACE 
+inputs, NOUN 
+
+, SPACE 
+authors, NOUN 
+wish, VERB 
+acknowledge, VERB 
+financial, ADJ 
+support, NOUN 
+Conseil, PROPN 
+
+, SPACE 
+Gtntral, PROPN 
+de, PROPN 
+la, PROPN 
+Guadeloupe, PROPN 
+work, NOUN 
+sincere, ADJ 
+gratitudes, NOUN 
+
+, SPACE 
+Professors, PROPN 
+A., NOUN 
+Ouensanga, PROPN 
+M., PROPN 
+Porthault, PROPN 
+A., NOUN 
+Saliot, PROPN 
+R., PROPN 
+Faure, PROPN 
+P., PROPN 
+E., PROPN 
+
+, SPACE 
+Brodwin, PROPN 
+Dr, PROPN 
+J.-P., PROPN 
+Villenenve, PROPN 
+co, NOUN 
+operation, NOUN 
+
+, SPACE 
+AFNOR, PROPN 
+1983, NUM 
+Analyse, PROPN 
+granulomttrique, VERB 
+par, NOUN 
+stdimentation, NOUN 
+Mtth-, X 
+
+, SPACE 
+ode, PROPN 
+de, PROPN 
+la, PROPN 
+pipette, NOUN 
+Mtthode, PROPN 
+X31, PROPN 
+107, NUM 
+Association, PROPN 
+Franeaise, PROPN 
+de, PROPN 
+
+, SPACE 
+Normalisation, PROPN 
+AFNOR, PROPN 
+1985, NUM 
+Mtthode, PROPN 
+Anne, PROPN 
+oxydation, NOUN 
+sulfochromique, NOUN 
+M6thode, NOUN 
+
+, SPACE 
+X31, PROPN 
+109, NUM 
+Nov, PROPN 
+1985, NUM 
+Association, PROPN 
+Francaise, PROPN 
+de, PROPN 
+Normalisation, PROPN 
+
+, SPACE 
+Alongi, PROPN 
+D., PROPN 
+M., PROPN 
+Christoffersen, PROPN 
+P., PROPN 
+Tirendi, PROPN 
+R., PROPN 
+1993, NUM 
+influence, NOUN 
+
+, SPACE 
+forest, NOUN 
+type, NOUN 
+microbial, ADJ 
+nutriment, NOUN 
+relationship, NOUN 
+tropical, ADJ 
+
+, SPACE 
+mangrove, NOUN 
+sediments, NOUN 
+Mar., PROPN 
+Biol, PROPN 
+Ecol, PROPN 
+171, NUM 
+201, NUM 
+223, NUM 
+
+, SPACE 
+Bates, NOUN 
+T., PROPN 
+S., PROPN 
+Hamilton, PROPN 
+S., PROPN 
+E., PROPN 
+Cfine, PROPN 
+J., PROPN 
+D., PROPN 
+1984, NUM 
+Vertical, ADJ 
+transport, NOUN 
+
+, SPACE 
+sedimentation, NOUN 
+hydrocarbons, NOUN 
+central, ADJ 
+main, ADJ 
+basin, NOUN 
+
+, SPACE 
+Puget, PROPN 
+Sound, PROPN 
+Washington, PROPN 
+Environ, PROPN 
+ScL, PROPN 
+Tech, PROPN 
+15, NUM 
+299, NUM 
+305, NUM 
+
+, SPACE 
+Bernard, PROPN 
+D., PROPN 
+1994, NUM 
+Contribution, NOUN 
+~i, PROPN 
+l'ttude, PROPN 
+des, PROPN 
+perturbations, NOUN 
+
+, SPACE 
+chimiques, NOUN 
+en, ADP 
+zone, NOUN 
+marine, NOUN 
+~i, PROPN 
+mangrove, VERB 
+et, NOUN 
+sous, ADJ 
+pression, NOUN 
+anthropique, NOUN 
+
+, SPACE 
+exemple, ADJ 
+des, PROPN 
+lagnns, X 
+de, X 
+la, PROPN 
+Guadeloupe, PROPN 
+Thts¢, PROPN 
+de, PROPN 
+Doctorat, PROPN 
+de, X 
+
+, SPACE 
+l'Universit~, PROPN 
+Claude, PROPN 
+Bernard, PROPN 
+LYON, PROPN 
+15094, NUM 
+
+, SPACE 
+Bernard, PROPN 
+D., PROPN 
+ltrtmie, NOUN 
+J., PROPN 
+J., PROPN 
+Pascaline, PROPN 
+H., PROPN 
+1995, NUM 
+assessment, NOUN 
+
+, SPACE 
+hydrocarbon, NOUN 
+pollution, NOUN 
+mangrove, ADJ 
+estuary, NOUN 
+Mar., PROPN 
+Pollut, PROPN 
+Bull, PROPN 
+30, NUM 
+
+, SPACE 
+146, NUM 
+150, NUM 
+
+, SPACE 
+Burns, PROPN 
+K., PROPN 
+A., PROPN 
+ViUeneuve, PROPN 
+J., PROPN 
+P., PROPN 
+1983, NUM 
+Biogeochemical, ADJ 
+processes, NOUN 
+
+, SPACE 
+affecting, VERB 
+distribution, NOUN 
+vertical, ADJ 
+transport, NOUN 
+hydrocarbon, NOUN 
+
+, SPACE 
+residue, NOUN 
+coastal, ADJ 
+mediterranean, NOUN 
+Geochim, PROPN 
+Cosmochim, PROPN 
+Acta, PROPN 
+47, NUM 
+
+, SPACE 
+995, NUM 
+1006, NUM 
+
+, SPACE 
+Bums, NOUN 
+K., PROPN 
+A., PROPN 
+Ehrhardt, PROPN 
+M., PROPN 
+G., PROPN 
+MacPherson, PROPN 
+J., PROPN 
+Tierney, PROPN 
+J., PROPN 
+A., PROPN 
+
+, SPACE 
+Kananen, PROPN 
+G., PROPN 
+Connelly, PROPN 
+D., PROPN 
+1990, NUM 
+Organic, ADJ 
+trace, VERB 
+metal, NOUN 
+
+, SPACE 
+contaminants, NOUN 
+sediments, NOUN 
+seawater, NOUN 
+organisms, NOUN 
+
+, SPACE 
+Bermudan, PROPN 
+harbours, VERB 
+J., PROPN 
+Exp, PROPN 
+Mar., PROPN 
+Biol, PROPN 
+Ecol, NOUN 
+138, NUM 
+9, NUM 
+34, NUM 
+
+, SPACE 
+Farrington, PROPN 
+J., PROPN 
+W., PROPN 
+Tripp, PROPN 
+B., PROPN 
+W., PROPN 
+1977, NUM 
+Hydrocarbons, NOUN 
+western, ADJ 
+
+, SPACE 
+North, PROPN 
+Atlantic, PROPN 
+surface, NOUN 
+sediments, NOUN 
+Geochim, PROPN 
+Cosmochim, PROPN 
+Acta, PROPN 
+4, NUM 
+
+, SPACE 
+1627, NUM 
+1641, NUM 
+
+, SPACE 
+Hites, PROPN 
+R., PROPN 
+A., PROPN 
+Laflamme, PROPN 
+R., PROPN 
+E., PROPN 
+Windsor, PROPN 
+J., PROPN 
+G., PROPN 
+Farrington, PROPN 
+J., PROPN 
+W., PROPN 
+
+, SPACE 
+Denser, PROPN 
+W., PROPN 
+G., PROPN 
+1980, NUM 
+Polycyclie, ADJ 
+aromatic, ADJ 
+hydrocarbon, NOUN 
+anoxic, ADJ 
+
+, SPACE 
+sediment, NOUN 
+core, NOUN 
+Pettaquamscutt, PROPN 
+River, PROPN 
+Rhode, PROPN 
+Island, PROPN 
+USA, PROPN 
+
+, SPACE 
+Geochim, PROPN 
+Cosmochim, PROPN 
+Acta, PROPN 
+44, NUM 
+873, NUM 
+878, NUM 
+
+, SPACE 
+Kleskowski, PROPN 
+E., PROPN 
+J., PROPN 
+Corredor, PROPN 
+J., PROPN 
+E., PROPN 
+Morell, PROPN 
+J., PROPN 
+M., PROPN 
+Del, PROPN 
+Castillo, PROPN 
+C., PROPN 
+A., NOUN 
+
+, SPACE 
+1994, NUM 
+Petroleum, NOUN 
+pollution, NOUN 
+mutation, NOUN 
+mangroves, NOUN 
+Mar., PROPN 
+
+, SPACE 
+Pollut, PROPN 
+Bull, PROPN 
+28, NUM 
+166, NUM 
+169, NUM 
+
+, SPACE 
+Laflamme, PROPN 
+R., PROPN 
+E., PROPN 
+Hites, PROPN 
+R., PROPN 
+A., PROPN 
+1978, NUM 
+global, ADJ 
+distribution, NOUN 
+
+, SPACE 
+polycyclic, ADJ 
+aromatic, ADJ 
+hydrocarbons, NOUN 
+recent, ADJ 
+sediments, NOUN 
+Geochim, PROPN 
+
+, SPACE 
+Cosmochim, PROPN 
+Acta, PROPN 
+42, NUM 
+289, NUM 
+303, NUM 
+
+, SPACE 
+Lipiatou, PROPN 
+E., PROPN 
+Saliot, PROPN 
+A., PROPN 
+1991, NUM 
+Hydrocarbon, NOUN 
+contamination, NOUN 
+
+, SPACE 
+Rhtne, PROPN 
+delta, NOUN 
+western, ADJ 
+Mediterranean, PROPN 
+Mar., PROPN 
+Pollut, PROPN 
+Bull, PROPN 
+22, NUM 
+297-, NUM 
+
+, SPACE 
+304, NUM 
+
+, SPACE 
+Marchand, PROPN 
+A., NOUN 
+E., PROPN 
+Roucache, PROPN 
+J., PROPN 
+1981, NUM 
+Crittre, PROPN 
+de, ADP 
+pollution, NOUN 
+par, NOUN 
+
+, SPACE 
+hydrocarbures, NOUN 
+dans, PROPN 
+les, VERB 
+stdiments, NOUN 
+matins, NOUN 
+Etude, ADJ 
+appliqute, NOUN 
+fi, NOUN 
+la, DET 
+
+, SPACE 
+pollution, NOUN 
+du, X 
+BOHLEN, PROPN 
+Oceanol, PROPN 
+Acta, PROPN 
+4, NUM 
+171, NUM 
+183, NUM 
+
+, SPACE 
+Newell, PROPN 
+Y., PROPN 
+S., PROPN 
+Fell, PROPN 
+J., PROPN 
+W., PROPN 
+Miller, PROPN 
+C., PROPN 
+1986, NUM 
+Deposition, NOUN 
+
+, SPACE 
+decomposition, NOUN 
+turtle, NOUN 
+grass, NOUN 
+leaves, NOUN 
+Int, PROPN 
+Rev., PROPN 
+Ges, PROPN 
+Hydrobiol, PROPN 
+71, NUM 
+
+, SPACE 
+363, NUM 
+369, NUM 
+
+, SPACE 
+Oudot, PROPN 
+T., PROPN 
+J., PROPN 
+Dutrieux, PROPN 
+E., PROPN 
+1989, NUM 
+Hydrocarbon, NOUN 
+weathering, NOUN 
+
+, SPACE 
+biodegradation, NOUN 
+tropical, ADJ 
+estuarine, NOUN 
+ecosystem, NOUN 
+Mar., PROPN 
+Environ, PROPN 
+Res, PROPN 
+
+, SPACE 
+27, NUM 
+195, NUM 
+213, NUM 
+
+, SPACE 
+Philippi, PROPN 
+G., PROPN 
+T., PROPN 
+1965, NUM 
+depth, NOUN 
+time, NOUN 
+mechanism, NOUN 
+
+, SPACE 
+petroleum, NOUN 
+generation, NOUN 
+Geochim, PROPN 
+Cosmochim, PROPN 
+Acta, PROPN 
+41, NUM 
+1575, NUM 
+1586, NUM 
+
+, SPACE 
+Scherrer, PROPN 
+1988, NUM 
+La, PROPN 
+rtgtntration, NOUN 
+de, X 
+la, PROPN 
+mangrove, NOUN 
+aprts, VERB 
+un, PROPN 
+dtversement, PROPN 
+
+, SPACE 
+accidental, PROPN 
+d'hydrocarbures, PROPN 
+phytotoxicit6, NOUN 
+et, NOUN 
+6volution, NOUN 
+physico-, NOUN 
+
+, SPACE 
+chimique, ADJ 
+du, PROPN 
+pttrole, PROPN 
+brut, PROPN 
+pitg6, PROPN 
+dans, PROPN 
+le, X 
+substrat, PROPN 
+Thtse, PROPN 
+de, PROPN 
+Doctorat, PROPN 
+
+, SPACE 
+Universit6, PROPN 
+Sabatier, PROPN 
+P., PROPN 
+Toulouse, PROPN 
+
+, SPACE 
+Smith, PROPN 
+J., PROPN 
+D., PROPN 
+Hauser, PROPN 
+J., PROPN 
+Y., PROPN 
+Bagg, PROPN 
+J., PROPN 
+1985, NUM 
+Polycyclic, PROPN 
+aromatic, ADJ 
+
+, SPACE 
+hydrocarbons, NOUN 
+sediments, NOUN 
+Great, PROPN 
+Barrier, PROPN 
+Reef, PROPN 
+region, NOUN 
+
+, SPACE 
+Australia, PROPN 
+Mar., PROPN 
+Pollut, PROPN 
+Bull, PROPN 
+16, NUM 
+110, NUM 
+114, NUM 
+
+, SPACE 
+Snedaker, PROPN 
+S., PROPN 
+1978, NUM 
+Les, PROPN 
+mangroves, NOUN 
+leur, ADJ 
+inttrgt, NOUN 
+et, NOUN 
+leur, ADJ 
+conservation, NOUN 
+
+, SPACE 
+Nature, NOUN 
+et, NOUN 
+ressources, NOUN 
+Unesco, PROPN 
+Paris, PROPN 
+14, NUM 
+7, NUM 
+15, NUM 
+
+, SPACE 
+Venkatesan, PROPN 
+M., PROPN 
+I., PROPN 
+1988, NUM 
+Occurence, NOUN 
+possible, ADJ 
+sources, NOUN 
+perylene, NOUN 
+
+, SPACE 
+marine, ADJ 
+sediments, NOUN 
+Mar., PROPN 
+Chem, PROPN 
+25, NUM 
+1, NUM 
+27, NUM 
+
+, SPACE 
+739, NUM 
+
+
+, SPACE 

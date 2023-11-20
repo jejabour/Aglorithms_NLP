@@ -1,0 +1,316 @@
+Nuclear Instruments and Methods in Physics Research B 111 (1996) 17 1- 175 
+__ 
+@ NUNI B 
+ELSEVIER Beam Interactions 
+with Materials&Atoms 
+Position sensitive detection of individual nuclear particle scintillations 
+using image intensifier tubes 
+Amar Sinha a7*, B.D. Bhawe ‘, C.G. Panchal a, A. Shyam a, M. Srinivasan a, V.M. Joshi b 
+a Neutron Physics Division, Bhabha Atomic Research Centre, Trombay, Bombay-400 085, India 
+b Electronics Division, Bhabha Atomic Research Centre, Trombay, Bombay-400 08.5, India 
+’ Technical Physics and Prototype Engineering Division, Bhabha Atomic Research Centre, Trombay, Bombay-400 085, India 
+Received 9 June 1995; revised form received 3 October 1995 
+Abstract 
+An imaging position sensitive detector for charged particles, neutrons, X- and gamma rays has been developed. The 
+novel feature of this scintillation imaging radiation detector is its ability to detect individual nuclear particle scintillations 
+with a high degree of spatial resolution. The key elements of this detector system are a high gain, low noise image intensifier 
+tube, a CCD camera and commercially available image processing hardware and software. This detector system is highly 
+effective for applications such as low fluence and real time neutron radiography, mapping of radioactive contamination in 
+nuclear reactor fuel rods, X-ray diffraction imaging, high speed autoradiography and in general position sensitive detection 
+of nuclear radiation. Results of some of the exploratory experiments carried out using this detector system are presented in 
+this paper. 
+1. Introduction 
+Position sensitive radiation detectors find widespread 
+applications in low and high energy nuclear physics, neu- 
+tron scattering, X-ray diffraction studies, radiography and 
+medical applications. Over the years a wide variety of 
+position encoding methods have been devised for obtain- 
+ing online and offline one and two dimensional position 
+information for nuclear particle interactions. The online 
+position encoding method can broadly be grouped into 
+three categories: (1) arrays of individually processed dis- 
+crete detection elements [1,2], (2) weighted networks of 
+passive components connecting detection elements [3-51 
+and (3) scintillation imaging technique [6,7] which pro- 
+vidks direct scintillation images on a video monitor. In 
+cases where real time measurements involving processes 
+with long time constants of a few tens of milliseconds are 
+invblved or steady state measurements are to be made, the 
+thizd type of detector offers a simple and inexpensive 
+method of position encoding. In this technique, instead of 
+coupling a scintillator to a pulse readout device such as a 
+phtitomultiplier or a microchannel plate, it is directly cou- 
+pled to a position sensitive device such as a solid state 
+charge coupled device (CCD) or a combination of image 
+intensifier and CCD and a video monitor. Some of the 
+* Corresponding author. Fax + 91 22 5560750. attractive features of imaging of nuclear radiation using 
+image intensifier tubes is increased detection quantum 
+efficiency, wide dynamic range (compared to photographic 
+film) [8] and retention of position information of nuclear 
+scintillation. Furthermore the information is available on- 
+line with the possibility of further processing using frame 
+grabber and processors. In addition these detectors can 
+offer very high spatial resolution (typically 30 km at the 
+image intensifier level) depending on their design. In 
+recent years several such detectors have been developed 
+for specific applications [9, lo]. 
+We report in this paper on the development of a 
+position sensitive detector based on a pair of image intensi- 
+fier tubes, a CCD camera, frame grabber and processor 
+card which is modular in design and can be adapted to 
+detect various nuclear radiations. The attractive feature of 
+this scintillation imaging radiation detector is its ability to 
+detect individual nuclear particle scintillations with a high 
+degree of spatial resolution. This paper describes the de- 
+sign of this detector system and some of the preliminary 
+results obtained using this detector. 
+2. Description of the scintillation imaging system 
+The primary imaging sensor for detection of nuclear 
+radiation such as charged particles, neutrons, X- or gamma 
+rays is a suitable scintillator. This scintillator is optically 
+0168-583X/96/$15.00 0 1996 Elsevier Science B.V. All rights reserved 
+SSDI 0168-583X(95)01253-2 
+172 A. Sinha et al. / Nucl. Instr. and Meth. in Phys. Res. B 111 (1996) I71 -I 75 
+Schematic Of Experimental setup 
+Fig. 1. Schematic diagram of nuclear particle imaging system. 
+coupled to a pair of image intensifier tubes. The nature of 
+optical coupling depends upon the detector size required 
+and the type and strength of radiation to be imaged. 
+Fig. 1 shows the schematic diagram of the experimental 
+arrangement used by us. The experimental set up from 
+intensifier to frame grabber is common for all experiments. 
+Only in some cases the coupling scheme between scintilla- 
+tor and input face plate of the image intensifier tube has 
+been changed. This has been done in the cases where the 
+signal to noise ratio is not good enough even after intensi- 
+fication. The scintillation images produced by incoming 
+charged particle or neutron or X- or gamma ray were 
+intensified by an image intensifier tube and converted into 
+a video signal using a CCD camera. These images are then 
+digitized using a frame grabber and processed using a 
+specialized frame processor. These images can then be 
+displayed using a video monitor or recorded on a video 
+tape recorder (VTR). 
+The two second generation image intensifier tubes used 
+by us have gains of 30000 and 100000 respectively. The 
+typical spatial resolution of these tubes is 30 line pairs per 
+mm. The input and output surfaces of both the image 
+intensifier tubes are made up of fibre optic face plates. The 
+diameter of the input and output face plates of the first 
+image intensifier tube. is 2.5 mm and that of the second 
+image intensifier tube 18 mm. The Hitachi make CCD 
+camera employed by us uses 18 mm image size CCD 
+having 756(H) X 581(V) effective number of pixels with a 
+pitch of 11 .O p,rn (H) X 11.0 km (V). The video signals 
+obtained from the CCD camera are digitized using a 8 bit 
+Erame grabber. Using input look up table approach we can 
+“threshold” the video signal to subtract noise. We have 
+developed programs to perform tasks such as integration, 
+thresholding, etc. The-operation such as integration, aver- 
+aging etc. are carried out using a 16 bit processor card. 
+This scintillation imaging system can be operated in 
+three basic modes of operations. In the fist, it serves as a 
+simple frame grabber and retains all the original pixel 
+intensity information per frame; in the second or counting 
+mode it integrates background subtracted counts into a 
+buffer image over a preset time period; in the third mode, 
+it categorizes detected events by pixel intensity. The time 
+resolution of the system is limited to 40 ms by the serial 
+readout circuitry of CCD camera. There have been at- 
+tempts to use faster readout CCD cameras but these re- 
+quire customized design of CCD electronics. An ingenious 
+technique to surmount this problem has been discussed by Kella et al. [ll]. The video images obtained by CCD 
+cameras can be subjected to a variety of image processing 
+techniques for different applications. One other advantage 
+of this technique is that in case of radiation emitting 
+objects, not only imaging of the scintillations be obtained 
+but a direct image of the object can also be recorded for 
+studying the spatial correlation of the visible image of the 
+sample along with its “radiation map”. Details of the 
+analysis of imaging system characterization will be pre- 
+sented in a separate paper. 
+3. Scintillation imaging of charged particles 
+In the initial series of experiments, scintillations of 
+alphas from a 241Am source of various strengths ranging 
+from 173 dpm to several thousand dpm were used. These 
+alpha sources were placed in contact with a thin ZnS(Ag) 
+scintillator screen. The choice of a ZnS scintillator was 
+dictated by the fact that the light output from this scintilla- 
+tor is higher compared to other commonly used charged 
+particle scintillators even though this scintillator is granu- 
+lar. Subsequently a thin CsI(T1) scintillator has also been 
+used to image alphas. In the subsequent part of this section 
+we discuss the results obtained using ZnS scintillators 
+only. It was found that if the ZnS scintillator screen is 
+placed in contact with the input fibre optic face plate of the 
+image intensifier tube, the light output is sufficient for 
+registration by CCD camera even with only one stage of 
+light intensification (single image intensifier) being used. 
+However if the scintillator screen and image intensifier 
+tube are optically coupled, such as in the case of imaging 
+of large size objects, single stage of image intensification 
+is not adequate for registration by the CCD camera used 
+by us and two stage image intensification is required. A 
+higher sensitivity CCD camera is required to overcome 
+these limitations. It is found that with optical coupling and 
+“thresholding” to suppress intensifier tube noise, a single 
+particle event registration efficiency in excess of 60% in 
+2 rr geometry is achieved [ 121. The efficiency of registra- 
+tion is found to depend on the type of coupling and the 
+threshold level employed. Time integrated counting soft- 
+ware has been developed for this purpose which can do 
+position analysis also. A preliminary analysis of alpha 
+scintillation images using single image intensifier tube in 
+direct contact with the scintillator shows a resolution of 
+about 100 p,m. However, the resolution is dependent on 
+several factors such as the mode of optical coupling be- 
+tween image intensifier input face plate and scintillator, 
+type of scintillator, etc. Fig. 2 shows a ten second inte- 
+grated scintillation image of a ring shaped 24’Am alpha 
+source. Some stray scintillation in the central and outside 
+portion of the ring are due to residual alpha contamination 
+during the deposition of americium. 
+We have also conducted experiments to detect the 
+lower limit of the alpha energy which can be detected in 
+A. Sinha et al./ Nucl. Insb. and Meth. in Phys. Res. B 1 II (1996) I71 -I 75 
+Fig. 3. Images of individual thermal neutron scintillations. 
+Fig. 2. Scintillation images of a ring shaped alpha source. 
+4.2. Low energy neutron detection: experimental results 
+the optical coupling method. For this purpose several 
+layers of aluminized mylar foils of thickness about 2 pm 
+each were introduced one by one between the scintillator 
+and the source in order to reduce the energy of the emitted 
+alphas. Alpha particles of energy as low as 0.1 MeV have 
+been detected in the optical coupling mode. We have done 
+rudimentary charged particle spectroscopy, but more ex- 
+periments with a better scintillator are required to calibrate 
+the system. This detector system was recently employed as 
+a hand held alpha contamination monitor system. 
+4. Scintillation imaging of neutrons 
+4.1. Converter jilm 
+All detectors used to detect, quantify and map neutron 
+fields require an intermediate material to convert neutrons 
+to an ionizing form of radiation which in turn can be 
+detected using suitable scintillators. The converters re- 
+quired for thermal neutrons are different from those used 
+for fast neutrons. For fast neutrons, charged particles are 
+directly produced in some hydrogenous material such as 
+plastics which then scintillates. For thermal neutrons, ad- 
+vantage is taken of the fact that,some light elements have 
+nuclides that undergo exothermic reactions to yield ener- 
+getic charged particles which can in turn induce scintilla- 
+tions. Many of these neutron to energetic charged particle 
+converters have minimal gamma sensitivity and thus are 
+ideally suited for detection of neutrons. Two commonly 
+used converters having exothermic reactions and high 
+cross-sections for thermal neutrons are boron-10 and 
+lithium-6. In the initial series of experiments, we used an enriched 
+boron-10 coated plate in contact with a ZnS screen which 
+in turn was mounted in direct contact .with the input face 
+plate of the first image intensifier tube. However it was 
+realized that the light output of the scintillator using 
+boron-10 and ZnS combination is rather poor and therefore 
+in the next series of experiments we employed a scintilla- 
+tor NE-426 made up of a mixture of 6Li with ZnS. The 
+light output of this scintillator is of the order of 1.7 X lo5 
+photons per thermal neutron absorbed. Using this scintilla- 
+tor, it is possible to use only a single image intensifier tube 
+in contact with the scintillator and obtain neutron images 
+trough a CCD camera. Fig. 3 shows one such image using 
+NE-426 and a single image intensifier tube using a CCD 
+camera. We have developed a hand held neutron monitor 
+using a NE-426 scintillator and a single image intensifier 
+tube. 
+Fig. 4. Radiograph of a Cd sheet with holes of 1, 1.5 and 2 mm. 
+114 A. Sinha et al./Nucl. lnstr. and Meth. in Phys. Res. B 111 (1996) 171-175 
+In order to demonstrate the radiographic imaging appli- 
+cation using this detector system, we present in Fig. 4 a 
+neutron radiographic image of a cadmium sheet with holes 
+of 1, 1.5 and 2 mm. This detector system is very much 
+suited for low fluence neutron radiography and has been 
+employed to obtain qualitative neutron radiographs of both 
+hydrogenous objects such as plastic, water and non-hy- 
+drogenous objects such as Cd using only a relatively small 
+Pu-Be neutron source emitting about 2 X 10’ n/s. 
+4.3. Fast neutron imaging 
+We have also carried out the feasibility of position 
+sensitive detection of fast neutrons using the present detec- 
+tor. For this purpose we have used a plastic scintillator. 
+Work is in progress on the applications of fast neutron 
+imaging using this detector. 
+5. Scintillation imaging of X-rays, gamma rays and 
+beta particles 
+We have also tested this detector for scintillation imag- 
+ing of radiations other than alphas and neutrons. For 
+imaging of gamma ray photons, the CsI(Tl) scintillator was 
+used and for low energy X-rays, the CaFa(Eu) scintillator 
+has been used. Depending on the energy of the incident 
+radiation, scintillators ranging in thickness from 1.5 to 4 
+mm were used for gamma rays. Gamma rays from both 
+6oCo and 13’ Cs were also detected. Also the X-rays pho- 
+tons emitted from ‘@Cd and “Fe X-ray sources with 
+energies of 22 and 5.9 keV respectively have been imaged 
+usirrg this technique. The thickness of the CaF,(Eu) scintil- 
+lator used in the case of low energy X-rays is 200-300 
+p,rn in order to avoid defocusing. A thinner scintillator for 
+low energy X-rays will give a better resolution. Fig. 5 
+shows one such .&age of individual X-ray photons from a 
+Fig. 5. Scintillation images of X-ray photons from io9Cd. Fig. 6. Scintillation images of 90Sr beta using CaF, (Eu). 
+‘mCd X-ray source emitting 22 keV X-ray photons. One of 
+the interesting applications to which this detector system 
+has been applied to is the online imaging of X-ray diffrac- 
+tion images. Work is in preliminary stages and details of 
+this work will be reported separately. 
+Similarly for beta particles both a plastic scintillator 
+and a CaF,(Eu) scintillator were employed. We have been 
+able to image individual beta scintillations of both low and 
+high energy. Fig. 6 shows the image of betas from a “Sr 
+source using a CaF$(Eu) detector. However for tritium 
+betas of E_ = 18 keV, the signal to noise ratio obtained 
+in the present detector-scintillator combination is rather 
+poor. Using a CaF,(Eu) scintillator we have been able to 
+image spot tritium contamination in titanium samples hav- 
+ing an activity of = 1000 Bq in a few seconds of integra- 
+tion time. 
+6. Conclusions 
+A position sensitive scintillation imaging detector sys- 
+tem has been developed for online high resolution imaging 
+of charged particles, neutrons, X-rays, gamma rays and 
+betas. A few preliminary experiments on energy spec- 
+troscopy have also beerrcanied out. The detector has good 
+spatial resolution and can be adapted for a high dynamic 
+range. Among the several applications for this detector, we 
+have carried out neutron radiography using a low flux 
+neutron source, neutron source imaging, charged particle 
+detection containing x-y information, count rate, etc. The 
+time resolution, however is limited to 40 ms. It can also be 
+used in neutron scattering experiments and beam profile 
+monitoring of neutron or charged particle beams. We 
+propose to apply this technique for real time neutron 
+radiography, neutron tomography and X-ray diffraction 
+imaging. 
+A. Sinha et al./NucI. Instr. and Meth. in Phys. Res. B 111 (1996) 171-175 175 
+References 
+[I] R. Allemand, J. Bourdel, E. Roudaut, P. Convert, K. Abel, J. 
+Jacobe, J.P. Cotton and B. Famoux, Nucl. Instr. and Meth. 
+126 (1975) 29. 
+[2] A. Ged, Nucl. Instr. and Meth. A 263 (1988) 351. 
+[3] R.A. Schrac, Nucl. Instr. and Meth. 222 (1984) 499. 
+[4] H. Kume, S. Muramatsu and M. Iida, IEEE. Trans. Nucl. Sci. 
+NS-33 (1986) 359. 
+[5] S. Charbomieau, L.B. Allard, J.F. Young, G. Dyck and B.J. 
+Kyle, Rev. Sci. Instr. 63(11) (1992) 5315. 
+[6] M.G. Strauss, I. Naday, IS. Sherman, M.R. Kraimer and 
+E.M. Westbrook, IEEE Trans. Nucl. Sci. NS-34 (1987) 389. [7] P.N. Chemyshov, A.A. Sumbatyan, V.Ya. Kezerashvili, S.P. 
+Gaevoi, V.M. Gataulin and V.A. Tumov, Instr. Exper. Tech. 
+29 (1986) 1297. 
+[S] R.H. Templer, S.M. Gruner and E.F. Eikenberry, Adv. Elec- 
+tronics and Electron Physics 17 (1988) 275. 
+[9] U.W. Amdt, Nucl. Instr. and Meth. 201 (1982) 13. 
+[lo] U.W. Amdt and D.J. Gilmore, BNL-50453 (1982) VIII-16. 
+[ll] D. Kella, M. Algrauati, H. Feidman, O.H. Eber, I-I. Kovner, 
+E. Malkin, E. Miklazky, R. Naaman, D. Zajfman, J. Zajfiuan 
+and Z. Vager, Nucl. Iustr. and Meth. A 329 (1993) 440. 
+[12] A. Sinha, B.D. Bhawe, C.G. Panchal, A. Shyam and M. 
+Srinivasan, Symp. on Nuclear Physics, Bhubaneshwar, India, 
+1994. 

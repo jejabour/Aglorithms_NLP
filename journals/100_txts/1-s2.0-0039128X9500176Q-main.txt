@@ -1,0 +1,725 @@
+ELSEVIER 
+The syntheses of 3-substituted 
+perfluoroalkyl steroids 
+John R. Williams and Timothy J. Shea 
+Department of Chemistry, Temple University, Philadelphia, Pennsylvania, USA 
+The syntheses of three classes of C-3 perfluoroalkyl substituted steroids are described. They are the 3~-hydroxy- 
+3o~-perfluoroalkylandrost-4-en-17-ones (5a-c), 3-perfluoroalkylandrosta-3,5-dien-3-ones (8a-c) and 3~-hydroxy- 
+3o~-perfluoroalkylandrost-5-en-17-ones (12a-c). Addition of a series of perfluroalkylorganometallic reagents 
+(RFLi; R F = C2F s, C3F 7, or C4F9) to the 3 position of silylated testosterone 2b afforded A4perfluoroalkyl 
+carbinols 3. In Scheme 1, deprotection with HF and oxidation at the C-17 carbon with PCC produced A 4 ketones 
+5. In Scheme 2 dehydration of 3 with 1,2-phenylenephosphorochloridite and iodine afforded A 3'5 dienes 6 which 
+were deprotected and oxidized as above to the C-17 ketones 8. In Scheme 3 isomerization of the double bond of 
+3 from the C-4 to the C-5 position using the allylic halogenation followed by treatment with lithium aluminum 
+hydride led to the synthesis of the double bond isomer series 12. A new method for dehydration was developed. 
+On average and within experimental error, 3~-hydroxy-3o~-perfluoroalkylandrost-5-en-17 ones (12a-c) were 
+better than the 3-perfluoroalkylandrosta-3,5-dien-17-ones (8a-c) and 3~-hydroxy-3o~-perfluoroalkylandrost-4- 
+en-17-ones (5a-c) at inhibiting glucose-6-phosphate dehydrogenase. (Steroids 61:50-57, 1996) 
+Keywords: synthesis; perfluoroalkyl steroids; 3~-hydroxy-3o~-perfluoroalkylandrost-4-en-17-ones; 3-perfluoroalkylandrosta- 
+3,5-dien-17-ones; 3~-hydroxy-3tx-perfluoroalkylandrost-5-en-17-ones; dehydration; glucose-6-phosphate dehydrogenase 
+Introduction 
+Dehydroepiandrosterone (DHEA, 3[3-hydroxyandrost-5-en- 
+17-one, la) together with its sulfate are the most abundant 
+adrenal steroids in humans. DHEA has been shown to have 
+a number of beneficial biological effects in animals. 1 Some 
+of these properties have been explained by the fact that 
+DHEA is an inhibitor of the important enzyme glucose-6- 
+phosphate dehydrogenase (G6PDH). 2 However, DHEA can 
+be metabolized to estrogens which are known tumor pro- 
+moters.1 Previous work in our laboratories has shown that 
+the hydrophobic A-ring steroid, 3[3-methylandrost-5-en-17- 
+one lb is an excellent inhibitor of the G6PDH. 3 It is also 
+known that incorporation of fluorine can impart useful bi- 
+ological properties to organic molecules. 4'5 As part of a 
+program designed to prepare more biologically active ana- 
+logs of DHEA which would not be metabolized to estro- 
+gens, a series of 3[3-hydroxy-3-perfluoroalkyl substituted A 4 
+and AS-androsten-17-ones and A3'5-androstadien-17-ones 
+were synthesized. They are the 3~-hydroxy-3cx-per- 
+fluoroalkyl-androst-4-en-17-ones (5a-c), 3-perfluoroalkyl- 
+androsta-3,5-dien-17-ones (8a-c), and 3~-hydroxy-3~- 
+Address reprint requests to Dr. John R. Williams, Department of Chemis- 
+try, Temple University, College of Arts and Sciences, Beury (016-00), 
+Philadelphia, PA 19122-2585, USA. 
+Received August 7, 1995; accepted September 13, 1995. 
+Steroids 61:50-57, 1996 
+© 1996 by Elsevier Science Inc. 
+655 Avenue of the Americas, New York, NY 10010 perfluoroalkylandrost-5-en-17-ones (12a-c). The perfluoro- 
+alkyl groups were: a = C2F 5, b = C3F 7 and c = C4F 9. 
+Experimental 
+All reagents and solvents were used as supplied without further 
+purification unless otherwise noted. Hexanes were distilled 
+through a 40 × 3 cm Vigreux column before use. Ether and meth- 
+ylene chloride were obtained from Aldrich in Sure-Seal bottles and 
+transferred under an inert atmosphere. Analytical thin-layer chro- 
+matography (TLC) was conducted using Analtech silica gel GF 
+plates (250 microns) containing a fluorescent indicator. Detection 
+was performed by observation under UV light or by iodine stain- 
+ing. Preparative TLC was carried out using 20 cm 2 silica gel GF 
+plates (1000 microns). Flash column chromatography was per- 
+formed using Merck silica gel 50 (230-400 mesh). 
+Melting points were determined on a Thomas-Hoover capillary 
+melting point apparatus and are uncorrected. IR spectra were re- 
+corded on a Mattson 4040 FT IR spectrometer and the data re- 
+ported in wavenumbers (cm-l). ~H and 13C NMR spectra were 
+recorded on a GE QE 300 (at 300 MHz and 75.48 MHz, respec- 
+tively) spectrometer. Spectra were recorded in CDC13 with chem- 
+ical shift values in ppm relative to the solvent peak (7.26 ppm for 
+~H and 77.0 for 13C). ~H and J3C NMR assignments were made 
+from a combination of DEPT (distortionless enhancement by po- 
+larization transfer) spectra in conjunction with ~H and J3C chem- 
+ical shift comparisons and substituent increments. 6'7 Low resolu- 
+tion mass spectra were recorded with a Hewlett-Packard HP 5995 
+direct inlet mass spectrometer. High resolution mass spectra 
+0039-128X/96/$15.00 
+SSDI 0039-128X(95)00176-X 
+
+Syntheses of 3-substituted perfluoroalkyl steroids: Williams and Shea 
+O 
+la R=OH 
+b R=CH3 
+Figure 1 Structure of DHEA (313-hydroxyandrost-5-en-17-one, 
+la) and 313-methylandrost-5-en-17-one (lb). 
+(HRMS) were obtained on a Kratos M59-50 E1 Magnetic Sector 
+mass spectrometer at Penn State University (University Park, PA). 
+Elemental analyses were performed by Galbraith Laboratories, 
+Inc. (Knoxville, TN). 
+17~-[(t-Bu~ldimethylsilyl)oxy]androst-4-en-3-one (2b ) 
+To a solution of testosterone 2a (5.0 g, 17.4 mmol) in 100 mL of 
+dry DMF was added tert-dimethylsilyl chloride (3.34 g, 22.2 
+mmol) and imidazole (3.30 g, 48.5 mmol). After stirring for 18 h 
+at room temperature, the mixture was diluted with water (100 mL) 
+and the resulting precipitate was filtered and washed several times 
+with water. The solid was dried in vacuo to afford essentially pure 
+silyl ether 2b (6.5 g, 93%). m.p. 136-138°C. IR (KBr) 2940, 1680 
+cm -I. IH NMR (CDC13): ~5 5.70 (s, 1 H, C-4), 3.57 (t, 1 H, J = 7.8 
+Hz, C-17~), 1.20 (s, 3 H, C-19), 0.90 (s, 9 H, t-butyl silyl), 0.80 (s, 
+3 H, C-18), 0.03 (s, 6 H, methyl silyl). MS: m/z (relative intensity): 
+402 (3, M+), 345 (100, M-57). Analysis calculated for 
+C25H42025i . 1/2 H20: C, 72.94; H, 10.53, found C, 72.74; H, 
+10.36. 
+3~-Pentafluoroethyl- 17~- 
+[ (t-butyldimethylsilyl )oxy landrost-4-en-3~-ol (3a) 
+Silyl testosterone 2b (5.0 g, 12.5 mmol) in 100 mL of ethyl ether 
+was treated with perfluoroethyl iodide (7.0 g, 28.0 mmol). The 
+solution was cooled to -78°C and 1.5 M methyllithium in ether (15 
+mL, 22.5 mmol) was added. The solution was kept at -78°C for 1 
+h then allowed to warm up to room temperature. The solution was 
+poured into 100 mL of 2 M HCI, extracted with ether and dried 
+over MgSO 4. Filtration and removal of solvent in vacuo gave an 
+oil which was purified by silica gel chromatography. Elution with 
+ethyl acetate/hexanes 5/95 afforded 3a (5.8 g, 85%) as a waxy 
+solid, m.p. 69-72°C. IR (KBr): 3450, 2915 cm -1. 1H NMR 
+(CDCI3): 5 5.36 (s, 1 H, C-4) 3.57 (t, J = 7.8 Hz, 1 H, 17otH), 1.08 
+(s, 3 H, C-19), 0.88 (s, 9 H, t-butylsilyl), 0.73 (s, 3 H, C-18), 0.02 
+(s, 6 H, dimethylsilyl). MS: m/z (relative intensity) 522 (0.4, M+), 
+465 (100, M-57), 389 (64, M-133). HRMS: Calculated for 
+C27H4302FsSi: 522.2952, found 522.2971. 
+3~-Heptafluoropropyl-17~- 
+[ (t-butyldimethylsilyl )oxy ]androst-4-en-3~-ol (3b ) 
+Silyltestosterone 2b (5.0 g, 12.5 mmol) in 100 mL of ethyl ether 
+was treated with perfluoropropyl iodide (8.0 g, 26 mmol). Reaction 
+and workup as in 3a afforded alcohol 3b (5.5 g, 82%) as a waxy 
+solid, m.p. 53-56°C. IR (KBr): 3450, 2920 cm -1. IH NMR 
+(CDCI3) 5 5.35 (s, 1 H, C-4), 3.57 (t, J=7.8 Hz, 1 H, 17ocH), 1.09 (s, 3 H, C-19), 0.89 (s, 9 H, t-butylsilyl), 0.75 (s, 3 H, C-18), 0.03 
+(s, 6 H, dimethylsilyl). MS: m/z (relative intensity) 515 (90, 
+M-tBu), 439 (M-133). HRMS: Calculated for C28H4302FvSi: 
+572.2922, found 572.2914. 
+3~-Nonafluorobutyl- 17~- 
+[ ( tbutyldimethylsilyl )oxy ]androst-4-en-3~-ol (3c) 
+Silyl testosterone 2b (5.0 g, 8.0 mmol) in 100 mL of dry ethyl ether 
+was treated with perfluorobutyl iodide (8.5 g, 15 mmol). Reaction 
+and workup as in 3a afforded alcohol 3c (5.6 g, 80%) as a waxy 
+solid, m.p. 67-70°C. IR (KBr): 3430, 2920 cm -j, ~H NMR 
+(CDC13) ~ 5.35 (s, 1 H, C-4), 3.56 (t, J = 8,0 Hz, 1 H, 17~H), 1.07 
+(s, 3 H, C-19), 0.89 (s, 9 H, t-butylsilyl), 0.74 (s, 3 H, C-18); 0.06 
+(s, 6 H, dimethylsilyl). MS: m/z (relative intensity) 607 (1.4, 
+M-15), 565 (73, M-57), 489 (100, M-133) HRMS: Calculated for 
+C28H4302FgSi-CH~: 607.2677, found 607,2655. 
+3o~-Pentafluoroethylandrost-4-ene-3~, 17~-diol (4a) 
+Silyl ether 3a (0.50 g, 0.8 mmol) in 10 mL of acetonitrile was 
+treated with 1 mL of 48% HF in water. The solution was stirred at 
+room temperature overnight. The reaction was diluted with 50 mL 
+of ether, washed repeatedly with saturated sodium chloride solu- 
+tion and dried over MgSO 4. Filtration and removal of solvent in 
+vacuo gave a yellow solid which was purified by silica gel chro- 
+matography. Elution with ethyl acetate/hexanes 15/85 afforded the 
+diol 4a (0.350 g, 88%) as a white solid, m.p. 89-91°C. IR (KBr): 
+3450, 2920 cm -1. IH NMR (CDCI3): ~ 5.36 (s, 1 H, C-4), 3.63 (t, 
+J = 7.8 Hz, 1 H, 17otH), 1.08 (s, 3 H, C-19), 0.77 (s, 3 H, C-18). 
+MS: m/z (relative intensity) 408 (1.2, M+), 289 (100, M-119). 
+HRMS: Calculated for C21H2902Fs: 408.2088, found 408.2104. 
+3~-Heptafluoropropylandrost-4-ene-3~, 17~-diol (4b) 
+Silyl ether 3b (0.600 g, 1.0 mmol) in 10 mL of acetonitrile was 
+treated with 1 mL of 48% hydrofluoric acid in water. Reaction and 
+workup as in 4a afforded diol 4b (0.450 g, 85%) as a white solid. 
+m.p. 92-95°C. IR (KBr): 3450, 2910 cm -I. JH NMR (CDC13) 8 
+5.36 (s, 1 H, C-4), 3.62 (t, J = 7.8 Hz, 1 H, 17c~H), 1.09 (s, 3 H, 
+C-19), 0.78 (s, 3 H, C-18). MS: m/z (relative intensity) 458 (1, 
+M+), 289 (100, M-C3FT). HRMS: Calculated for C22H2902F7: 
+458.2051, found 458.2046. 
+3~-Nonafluorobutylandrost-4-ene-3~, 17~-diol (4c) 
+Silyl ether 3e (0.600 g, 1.0 mmol) in 10 mL of acetonitrile was 
+treated with 1 mL of 48% HF in water. Reaction and workup as in 
+4a afforded diol 4e (0.485 g, 89%) as a white solid, m.p. 88-91 °C. 
+IR (KBr): 3430, 2925 cm -~. ~H NMR (CDCI3): 8 5.34 (s, 1 H, 
+C-4), 3.63 (t, J = 8.0 Hz, 1 H, 17~H), 1.07 (s, 3 H, C-19), 0.76 (s, 
+3 H, C-18). MS: m/z (relative intensity) 289 (100, M-219). HRMS: 
+Calculated for C23H2902F9: 508.2025, found 508.2023. 
+3~-Pentafluoroethyl-3~-hydroxyandrost-4-en- 17- 
+one (Sa) 
+Diol 4a (0.125 g, 0.27 mmol) in 25 mL of methylene chloride was 
+treated with PCC (0.100 g, 0.45 mmol). The resulting suspension 
+turned from orange to brown and was stirred at room temperature 
+for 3 h. The reaction mixture was diluted with 20 mL of ether and 
+filtered with the aid of Celite. Removal of solvent in vacuo gave a 
+brown oil which was purified by silica gel chromatography. Elu- 
+tion with ethyl acetate/hexanes 5/95 afforded ketone 5a (0.100 g, 
+80%) as white crystals, m.p. 130-133°C. IR (KBr): 3500, 2920, 
+Steroids, 1996, vol. 61, February 51 
+
+Papers 
+1740 cm -I. aN NMR (CDCI3): ~ 5.36 (s, 1 H, C-4), 1.08 (s, 3 H, 
+C-19), 0.88 (s, 3H, C-18). MS: m/z (relative intensity) 406 (3, M+), 
+287 (100, M-119). HRMS: Calculated for C21H2702Fs: 406.1932, 
+found 406.1949. 
+30~-Heptafluoropropyl-3~-hydroxyandrost-4-en-17- 
+one (Sb) 
+Diol 4b (0.100 g, 0.25 mmol) in 20 mL of methylene chloride was 
+treated with PCC (0.100 g, 0.45 mmol). Reaction and workup as in 
+5a afforded ketone 5b (0.082 g, 82%) as white crystals, m.p. 
+140-143°C. IR (KBr): 3450, 2910, 1737 cm -~. IH NMR (CDC13): 
+5 5.36 (s, 1 H, C-4), 1.08 (s, 3 H, C-19), 0.88 (s, 3 H, C-18). MS: 
+m/z (relative intensity) 287 (100, M-C3F7). HRMS: Calculated for 
+C22H:zyO2Fv-C3F7: 287.2012, found 287.2024. 
+3~-Nonafluorobutyl-3~-hydroxyandrost-4-en-17- 
+one (5c) 
+Diol 4e (0.100 g, 0.20 mmol) in 20 mL of methylene chloride was 
+treated with PCC (0.100 g, 0.45 mmol). Reaction and workup as in 
+5a afforded ketone 5e (0.076 g, 76%) as white crystals, m,p. 150- 
+152°C. IR (KBr): 3450, 2920, 1740 cm -1. IH NMR (CDC13): 
+5.40 (s, 1 H, C-4), 1.11 (s, 3 H, C-19) (s, 3 H, C-18). MS: m/z 
+(relative intensity) 491 (1, M-15), 287 (I00, M-219). HRMS: Cal- 
+culated for C23H2702F9-C4Fg: 287.2012, found 287.1996. 
+3-Pentafluoroethyl-1 7~-[(t-butyldimethylsilyl)oxyl- 
+androsta-3,5-diene (6a) 
+Silyl ether 3a (1.2 g, 2.0 mmol) in 20 mL of methylene chloride 
+was treated with 1,2-phenylene phosphorochloridite (0.435 g, 2.5 
+mmol) and 1.5 mL of pyridine. The solution was stirred at room 
+temperature for 0.5 b. Iodine (0.50 g, 4.0 mmol) was added and 
+stirring was continued for 3 h. The dark brown suspension was 
+washed with saturated sodium thiosulfate until a yellow color per- 
+sisted and then washed with saturated sodium chloride solution 
+and dried over MgSO 4. Filtration and removal of the solvent in 
+vacuo gave a yellow solid which was purified by silica gel chro- 
+matography. Elution with ethyl acetate/hexanes 5/95 afforded di- 
+ene 6a (0.95 g, 86%) as white crystals, m.p. 88-91°C. IR (KBr): 
+2920, 1205 cm 1. l H NMR (CDC13): ~5 6.42 (s, 1 H, C-4), 5.71 (m, 
+1 H, C-6), 3.58 (t, J= 8.0 Hz, 1 H, 17~H), 0.93 (s, 3 H, C-19), 0.89 
+(s, 9 H, t-butylsilyl), 0.73 (s, 3 H, C-18), 0.02 (s, 6 H, dimethyl- 
+silyl). MS: m/z (relative intensity): 489 (0.4, M-15). HRMS: Cal- 
+culated for C27H41OFsSi: 504.2847, found 504.2867. 
+3-Heptafluoropropyl-1 7~-l (t-butyldimethylsilyl )oxy ]- 
+androsta-3,5-diene (6b) 
+Silyl ether 3b (1.0 g, 1.8 mmol) in 20 mL of methylene chloride 
+was treated with 1,2-phenylene phosphorochloridite (0.37 g, 2.0 
+mmol) and 1.5 mL of pyridine. Reaction and workup as in 6a 
+afforded diene 6b (0.76 g, 77%) as white crystals, m.p. 100- 
+102°C. IR (KBr): 2930, 1205 cm i. 1H NMR (CDCI3): ~ 6.40 (s, 
+1 H, C-4), 5.69 (m, 1 H, C-6), 3.57 (t, J = 7.8 Hz, 1 H, 17~H), 0.92 
+(s, 3 H, C-19), 0.88 (s, 9 H, t-butylsilyl), 0.75 (s, 3 H, C-18), 0.01 
+(s, 6 H, dimethylsilyl). MS: m/z (relative intensity) 497 (65, 
+M-57), 421 (94, M-133). HRMS: Calculated for C28H41OFvSi: 
+554.2816, found 554.2835. 
+3-Nonafluorobutyl- 1 7~-[ (t-butyldimethylsilyl )oxy ]- 
+androsta-3,5-diene (6c) 
+Method A. Silyl ether 3e (1.0 g, 1.6 mmol) in 20 mL of methylene 
+chloride was treated with 1,2-phenylene phosphorochloridite (0.35 
+g, 1.9 mmol) and 1.5 mL of pyridine. Reaction and workup as in 6a aflbrded diene 6e (0.765 g, 79%) as white crystals, m.p. 72- 
+75°C. IR (KBr): 2930, 1210 cm -l. IH NMR (CDCI3): 5 6.45 (s, 1 
+H, C-4), 5.74 (m, 1 H, C-6), 3.60 (t, J = 7.8 Hz, I H, 17~H), 0.95 
+(s, 3 H, C-19), 0.91 (s, 9 H, t-butylsilyl), 0.78 (s, 3 H, C-18), 0.04 
+(s, 6 H, dimethylsilyl). MS: m/z (relative intensity) 565 (3, M-57), 
+471 (100, M-133). HRMS: Calculated for C29H4tOF,)Si: 
+604.2784, lkgund 604.2753. 
+Method B. To the silyl ether 3e (0.100 g, 0.16 mmol) in l0 mL of 
+methylene chloride was added 0.5 mL of pyridine and 1 mL of 
+POCI 3. The solution was stirred at room temperature for 1 h. The 
+reaction was quenched by cautious dropwise addition of ice-cold 
+water. The organic layer was washed with 1 M HCI, brine, then 
+dried over MgSO 4 and the solvent evaporated in vacuo to give a 
+yellow solid which was one spot by TLC (ethyl acetate/hexane 
+20/80). Examination of the ~H NMR indicated the diene 6e plus an 
+impurity (-20%) of 3-chloro-3-perfluoroalkylandrost-4-en-17- 
+OTBDMS. tH NMR (CDC13): 8 6.22 (s, 1 H, C-4), 3.57 (t, J = 7.8 
+Hz, 1 H, 17~H), 1.22 (s, 3 H, C-19), 0.89 (s, 9 H, t-butylsilyl), 0.73 
+(s, 3 H, C-18), 0.06 (s, 6 H, dimethylsilyl). 
+Method C. To the silyl ether 3e (0.100 g, 0.16 mmol) in 10 mL of 
+methylene chloride was added 0.5 mL of pyridine and 1 mL of 
+SOCI 2. The solution was stirred at room temperature for 1 h. The 
+reaction was worked up as above for Method B to yield a yellow 
+solid which was one spot by TLC (ethyl acetate/hexane 20/80). 
+Examination of the ~H NMR indicated the diene 6e plus an im- 
+purity (-20%) of 3-chloro-3-perfluoroalkylandrost-4-en-17- 
+OTBDMS. 
+3-Pentafluoroethylandrosta-3,5-dien- 17~-ol (7a) 
+Silyl ether 6a (0.400 g, 0.6 mmol) in 10 mL of acetonitrile was 
+treated with 1 mL of 48% HF in water. The solution was stirred at 
+room temperature overnight. The reaction mixture was diluted 
+with 50 mL of ether, washed with saturated sodium chloride so- 
+lution (3 × 50 mL) and dried over MgSO 4. Filtration and removal 
+of the solvent in vacuo gave a yellow solid which was purified by 
+silica gel chromatography. Elution with ethyl acetate/hexanes 10/ 
+90 afforded alcohol 7a (0.245 g, 77%) as white crystals, m.p. 
+115-120°C. IR (KBr): 3430, 2920, 1205 cm -j. 1H NMR (CDCI3): 
+~5 6.42 (s, 1 H, C-4), 5.71 (m, 1 H, C-6), 3.63 (t, J = 8.0 Hz, l H, 
+17~H), 0.94 (s, 3 H, C-19), 0.78 (s, 3 H, C-18). MS: m/z (relative 
+intensity): 390 (29, M+). HRMS: Calculated for C21H27OFs: 
+390.1984, found 390.1959. 
+3-Heptafluoropropylandrosta-3,5-dien-1 7~-ol ( 7b ) 
+Silyl ether 6b (0.400 g, 0.58 mmol) in 10 mL of acetonitrile was 
+treated with 1 mL of 48% HF in water. Reaction and workup as in 
+7a afforded alcohol 7b (0.242 g, 73%) as white crystals, m.p. 
+132-134°C. IR (KBr): 3450, 2920, 1205 cm -~. 1H NMR (CDCI3): 
+~5 6.40 (s, 1 H, C-4), 5.69 (m, I H, C-6), 3.65 (t, J = 7.8 Hz, 1 H, 
+17~H), 0.93 (s, 3 H, C-19), 0.78 (s, 3 H, C-18). MS: m/z (relative 
+intensity) 440 (100, M+). HRMS: Calculated for C22HzTOF7: 
+440.1951, found 440.1973. 
+3-Nonafluorobutylandrosta-3, 5-dien-1 7~-ol (7c) 
+Silyl ether 6e (0.300 g, 0.5 retool) in 10 mL of acetonitrile was 
+treated with 1 mL of 48% HF in water. Reaction and workup as in 
+7a afforded alcohol 7e (0.185 g, 76%) as white crystals m.p. 151- 
+154°C. IR (KBr): 3430, 2920, 1210 cm -1. JH NMR (CDC13): 5 
+6.45 (s, 1 H, C-4), 5.74 (m, 1 H, C-6), 3.66 (t, J = 7.8 Hz, 1 H, 
+17~H), 0.96 (s, 3 H, C-19), 0.80 (s, 3 H, C-18). MS: m/z (relative 
+intensity) 490 (100, M+). HRMS: Calculated for C23H27OFg: 
+490.1919, found 490.1929. 
+52 Steroids, 1996, vol. 61, February 
+
+Syntheses of 3-substituted perfluoroalkyl steroids: Williams and Shea 
+3-P entafiuoroethylandrosta-3,5-dien-17-one (Sa) 
+Alcohol 7a (0.150 g, 0.28 retool) in 20 mL of methylene chloride 
+was treated with PCC (0.100 g, 0.45 mmol). The resulting suspen- 
+sion turned from orange to brown and was stirred for 3 h at room 
+temperature. The reaction mixture was diluted with 20 mL of ether 
+and filtered with the aid of Celite. Removal of the solvent in vacuo 
+gave a brown solid which was purified by silica gel chromatogra- 
+phy. Elution with ethyl acetate/hexane 5/95 afforded ketone 8a 
+(0.125 g, 81%) as white crystals, m.p. 115-117°C. IR (KBr): 2920, 
+1740 cm -~. IH NMR (CDC13): 8 6.42 (s, 1 H, C-4), 5.71 (m, 1 H, 
+C-6), 0.95 (s. 3 H, C-19), 0.93 is, 3 H, C-18). MS: m/z irelative 
+intensity) 388 (100, M+). HRMS: Calculated for C2~H25OFs: 
+388.1826, found 388.1857. 
+3-Heptafluoropropylandrosta-3,5-dien- 17-one (8b) 
+Alcohol 7b (0.100 g, 0.18 retool) in 20 mL of methylene chloride 
+was treated with PCC (0.100 g, 0.45 mmol). Reaction and workup 
+as in 8a afforded ketone 8b (0.081 g, 81%) as white crystals, m.p. 
+121-123°C. IR (KBr): 2920, 1735 cm -l. lH NMR (CDC13): 8 6.40 
+(s, 1 H, C-4), 5.69 (m, 1 H, C-6), 0.96 is, 3 H, C-19), 0.93 (s, 3 H, 
+C-18). MS: m/z (relative intensity) 438 (100, M+). HRMS: Cal- 
+culated for C22H25OF7: 438.1781, found 438.1789. 
+3-Nonafluorobu~landrosta-3,5-dien-1 7-one (8c) 
+Alcohol 7e (0.085 g, 0.17 mmol) in 20 mL of methylene chloride 
+was treated with PCC (0.050 g, 0.23 mmol). Reaction and workup 
+as in 8a afforded ketone 8c (0.069 g, 81%) as white crystals, m.p. 
+115-117°C. IR (KBr): 2920, 1740 cm -1. 1H NMR (CDCI3): 8 6.45 
+(s, 1 H, C-4). 5.76 (m, 1 H, C-6), 0.96 (s, 3 H, C-19), 0.94 (s, 3 H, 
+C-18). MS: m/z (relative intensity) 488 (100, M+). HRMS: Cal- 
+culated for C23HzsOFg: 488.1763, found 488.1789. 
+6~-Bromo- 17~-l(t-butyldimethylsilyl)oxy]-3o~- 
+pentafluoroethylandrost-4-en-3~-ol (ga) 
+Silyl ether 3a (1.2 g, 2.3 mmol) in 100 mL of carbon tetrachloride 
+was treated with NBS (0.600 g, 3.7 mmol). The reaction mixture 
+was refluxed for 1 h and cooled in an ice bath. Filtration of pre- 
+cipitated succinimide and removal of the solvent in vacuo afforded 
+the C-6 bromide 9a (1.1 g, 82%) as an orange oil which was used 
+without further purification. IH NMR (CDC13): 8 5.69 (s, 1 H, 
+C-4), 4.96 (m, 1 H, C-6), 3.57 (t, J = 7.8 Hz, 1 H, 17~H), 1.46 (s, 
+3 H, C-19), 0.89 (s, 9 H, t-butylsilyl), 0.77 (s, 3 H, C-18), 0.02 (s, 
+6 H, dimethylsilyl). 
+6~-Bromo-1 7~-[(t-butyldimethylsilyl)oxy ]-30~- 
+heptafluoropropylandrost-4-en-3~-ol (gb) 
+Silyl ether 3b (l.0 g, 1.7 mmol) in 100 mL of carbon tetrachloride 
+was treated with NBS (0.600 g, 3.7 mmol). Reaction and workup 
+as in 9a afforded the C-6 bromide 9b (0.85 g, 75%) as an orange 
+oil which was used without further purification. 1H NMR (CDCI3): 
+5 5.69 (s, 1 H, C-4), 4.96 (m, 1 H, C-6), 3.56 (t, J = 7.8 Hz, 1 H, 
+170~H), 1.45 (s, 3 H, C-19), 0.89 (s, 9 H, t-butylsilyl), 0.79 (s, 3 H, 
+C-18), 0.01 (s, 6 H, dimethylsilyl). 
+6~-B romo-1 7~- [ ( t-buty ldimethylsilyl )oxy l- 3 ot- 
+nonafluorobu~landrost-4-en-3~-ol (9c) 
+Silyl ether 3c (0.850 g, 1.4 mmol) in 100 mL of carbon tetrachlo- 
+ride was treated with NBS (0.500 g, 3.1 mmol). Reaction and workup as in 9a afforded the C-6 bromide 9c (0.775 g, 81%) as an 
+orange oil which was used without further purification. ~H NMR 
+(CDC13): 8 5.69 is, 1 H, C-4), 4.97 (m, 1 H, C-6), 3.56 (t, J = 7.8 
+Hz, 1 H, 17c~H), 1.46 (s, 3 H, C-19), 0.89 (s, 9 H, t-butylsilyl), 0.74 
+(s, 3 H, C-18), 0.02 (s, 6 H, dimethylsilyl). 
+1 7~-[(t-Butyldimethylsilyl)oxy]-30~- 
+pentafluoroethylandrost-5-en-3~-ol (lOa) 
+To a stirring suspension of lithium aluminum hydride (1.0 g, 26 
+mmol) in 50 mL of ether was added a solution of bromide 9a ( 1.1 
+g, 1.8 mmol) in 25 mL of ether. The mixture was stirred at room 
+temperature for 1 h. The reaction was quenched by dropwise ad- 
+dition of ethyl acetate and I M HC1 and extracted with ethyl 
+acetate (3 × 50 mL). The combined extracts were washed with 
+saturated sodium chloride solution and dried over MgSO 4. Filtra- 
+tion and removal of the solvent in vacuo gave a yellow oil which 
+was purified by silica gel chromatography. Elution with ethyl ac- 
+etate/hexane 5/95 afforded the silyl ether 10a (0.705 g, 77%) as 
+white crystals, m.p. 88-90°C. IR (KBr): 3458, 2856 cm -~. ~H 
+NMR (CDCI3): 8 5.35 (m, 1 H, C-6), 3.56 (t, J = 7.8 Hz, 1 H, 
+17c~H), 1.09 (s, 3 H, C-19), 0.89 (s, 9 H, t-butylsilyl), 0.73 (s, 3 H, 
+C-18), 0.02 (s, 6 H, dimethylsilyl). MS: m/z (relative intensity): 
+465 (10, M-57), 389 (100, M-133). HRMS: Calculated for 
+C27H43OzFsSi: 522.2952, found 522.2953. 
+1 7~-[(t-Butyldimethylsilyl)oxy]-3~- 
+heptafluoropropylandrost-5-en-3[3-ol (lOb) 
+To a stirring suspension of lithium aluminum hydride (1.0 g, 26 
+mmol) in 50 mL of ether was added a solution of bromide 9b (0.85 
+g, 1.3 mmol) in 25 mE of ether. Reaction and workup as in 10a 
+afforded the silyl ether 10b (0.605 g, 81%) as white crystals, m.p. 
+68-70°C. IR (KBr): 3440, 2956 cm ~. tH NMR (CDC13): 8 5.36 
+(m, 1 H, C-6), 3.57 (t, J = 7.8 Hz, 1 H, 17~H), 1.09 (s, 3 H, C-19), 
+0.89 (s, 9 H, t-butylsilyl), 0.73 (s, 3 H, C-18), 0.02 (s, 6 H, di- 
+methylsilyl). MS: m/z (relative intensity): 515 (60, M-57), 439 
+(100, M-133). HRMS: Calculated for C2~H4302FvSi: 572.2921, 
+found 572.2896. 
+1 7~-[(t-Butyldimethylsilyl)o©']-30t- 
+nonafluorobutylandrost- 5-en- 3~-ol ( l Oc ) 
+To a stirring suspension of lithium aluminum hydride (l.0 g, 26 
+mmol) in 50 mL of ether was added a solution of bromide 9e 
+(0.775 g, 1.1 mmol) in 25 mL of ether. Reaction and workup as in 
+10a afforded the silyl ether 10e (0.450 g, 65%) an oil. IR (KBr): 
+3421,2957 cm -I. IH NMR (CDCI3): 8 5.35 (m, 1 H, C-6), 3.56 (t, 
+J = 7.8 Hz, 1 H, 170tH), 1.09 (s, 3 H, C-19), 0.89 (s, 9 H, t-bu- 
+tylsilyl), 0.73 (s, 3 H, C-18), 0.02 (s, 6 H, dimethylsilyl). MS: m/z 
+(relative intensity): 490 (36, M-132). HRMS: Calculated for 
+C29H43OzFgSi-C4Hg: 565.2184, found 565.2214. 
+30t-Pentafluoroethylandrost-5-ene-3~, 17~-diol (lla) 
+Silyl ether 10a (0.150 g, 0.27 retool) in 10 mL of acetonitrile was 
+treated with 1 mL of 48% HF in water. The solution was stirred at 
+room temperature overnight. The reaction mixture was washed 
+with saturated sodium chloride solution and dried over MgSO 4. 
+Filtration and removal of the solvent in vacuo gave a yellow solid 
+which was purified by silica gel chromatography. Elution with 
+ethyl acetate/hexane 10/90 afforded the diol lla (0.105 g, 87%) as 
+white crystals, m.p. 125-127°C. IR (KBr): 3387, 2940 cm -~. 1H 
+NMR (CDC13): 8 5.35 (m, 1 H, C-6), 3.63 (t. J = 7.8 Hz, 1 H, 
+17o~H), 1.08 (s, 3 H, C-19), 0.79 (s, 3 H, C-18). MS: m/z (relative 
+Steroids, 1996, vol. 61, February 53 
+
+Papers 
+intensity): 408 (25, M+), 390 (14, M-18). HRMS: Calculated for 
+C2jHz902Fs: 408.2088, found 408.2083. 
+30~-Heptafluoropropylandrost- 5-ene-3~, 1 7~- 
+diol (llb) 
+Silyl ether 10b (0.185 g, 0.32 mmol) in 10 mL of acetonitrile was 
+treated with 1 mL of 48% HF in water. Reaction and workup as in 
+lla afforded diol llb (0.135 g, 91%) as white crystals, m.p. 145- 
+147°C. IR (KBr): 3431, 2941 cm -l. IH NMR (CDC13): 6 5.36 (m, 
+1 H, C-6), 3.62 (t, J= 7.8 Hz, 1 H, 17t~H), 1.09 (s, 3 H, C-19), 0.78 
+(s, 3 H, C-18). MS: m/z (relative intensity): 458 (100, M+), 440 
+(31, M-18). HRMS: Calculated for C22H2902F7: 458.2056, found 
+458.2031. 
+3~-Nonafluorobutylandrost-5-ene-3~, 17~-diol (llc) 
+Silyl ether 10¢ (0.200 g, 0.32 mmol) in 10 mL of acetonitrile was 
+treated with 1 mL of 48% HF in water. Reaction and workup as in 
+lla afforded diol llc (0.125 g, 77%) as white crystals, m.p. 168- 
+170°C. IR (KBr): 3450, 2950 cm -l. IH NMR (CDC13): ~5 5.36 (m, 
+1 H, C-6), 3.62 (t, J= 7.8 Hz, 1 H, 17~H), 1.08 (s, 3 H, C-19), 0.77 
+(s, 3 H, C-18). MS: m/z (relative intensity): 508 (100, M+), 490 
+(32, M-18). HRMS: Calculated for C23H2902F9: 508.2024, found 
+508.2025. 
+3~-Hydroxy-30~-pentafluoroethylandrost-5-en-17- 
+one (12a) 
+Diol lla (0.080 g, 0.18 mmol) in 20 mL of methylene chloride was 
+treated with PCC (0.100 g, 0.45 mmol). The resulting suspension 
+turned from orange to brown and was stirred at room temperature 
+for 3 h. The reaction mixture was diluted with 20 mL of ether and 
+filtered with the aid of Celite. Removal of the solvent in vacuo 
+gave a brown oil which was purified by silica gel chromatography. 
+Elution with ethyl acetate/hexanes 5/95 afforded ketone 12a (0.065 
+g, 81%) as white crystals, m.p. 140-142°C. IR (KBr): 3430, 2949, 
+1738 cm -1. 1H NMR (CDCI3): t~ 5.41 (m, 1 H, C-6), 1.11 (s, 3 H, 
+C-19), 0.90 (s, 1 H, C-18). MS: m/z (relative intensity): 406 (80, 
+M+), 285 (100, M-121). HRMS: Calculated for C21H2702Fs: 
+406.1931, found 406.1949. 
+3~3-Hydroxy-3o~-heptafluoropropylandrost- 5-en-17- 
+one (12b) 
+Diol llb (0.065 g, 0.14 mmol) in 20 mL of methylene chloride 
+was treated with PCC (0.050 g, 0.23 mmol). Reaction and workup 
+as in 12a afforded ketone 12b (0.050 g, 77%) as white crystals. 
+m.p. 142-145°C. IR (KBr): 3430, 2950, 1740 cm -1. ~H NMR 
+(CDC13): 8 5.40 (m, 1 H, C-6), 1.12 (s, 3 H, C-19), 0.91 (s, 1 H, 
+C-18). MS: m/z (relative intensity): 456 (56, M*). HRMS: Calcu- 
+lated for C22H2702FT: 456.1899, found 456.1900. 
+3~-Hydroxy-3c~-nonafluorobutylandrost-5-en-1 7- 
+one (12c) 
+Diol lle (0.075 g, 0.15 mmol) in 20 mL of methylene chloride was 
+treated with PCC (0.050 g, 0.23 mmol). Reaction and workup as in 
+12a afforded ketone 12e (0.055 g, 73%) as white crystals, m.p. 
+102-104°C. IR (KBr): 3450, 2940, 1738 cm -I. IH NMR (CDC13): 
+8 5.39 (m, 1 H, C-6), 1.11 (s, 3 H, C-19), 0.90 (s, 1 H, C-18). MS: 
+m/z (relative intensity): 506 (13, M+). HRMS: Calculated for 
+C231-12702F9:506.1867, found 506.1889. G6PDH inhibition testing 
+G6DPH inhibition was determined essentially as described by Oer- 
+tel and Rebeleinf Bovine adrenal G6PDH, G6P disodium salt, 
+NADP-free acid, and tris(hydroxymethyl)aminomethane 
+(TRIZMA) buffer were purchased from Sigma Biochemicals. Di- 
+oxane was either freshly distilled from Na°/benzophenone ketyl or 
+obtained directly from a freshly opened bottle of Aldrich anhy- 
+drous dioxane. Freshly prepared stock solutions of inhibitor ( 1.5 x 
+10 -~ M in dioxane), G6PDH (-34 U/mL H20), NADP (3 x 10 -3 
+M), MgC12. 6 H20 (6 x 10 2 M), and G6P (2.3 x 10 i M) were 
+prepared. The inhibitor, G6PDH, NADP, and MgC12 were then 
+diluted in pH 7.8, 0.03 M TRIZMA buffer solution (to a total 
+volume of 3 mL) to give a final concentration of-6.9 x 10 2 U/mL 
+G6PDH, 1 x 10 -5 M inhibitor (for the blank runs an equal volume 
+(20 ~tL) of pure dioxane was diluted in the buffer), 2 x 10 4 M 
+NADP, and 2 x 10 -3 M MgCI 2. The enzymatic reaction was then 
+initiated by adding sufficient G6P stock solution to give a final 
+G6P concentration of -4 x l0 3 M. The rate of formation of 
+NADPH was followed by monitoring the increase in absorption of 
+the NADPH chromophore at 340 nm from 0.5 rain to 7.5 rain after 
+initiating the reaction. Percent inhibition = (rate of blank run - rate 
+of inhibited run)/(rate of blank run) x 100%. The measurements 
+are the result of two determinations. DHEA was used as a standard 
+and our results were estimated to be accurate to plus or minus 10%. 
+Results and discussion 
+The use of perfluorinated organometallic reagents 5 affords a 
+convenient route for the synthesis of perfluorinated steroids. 
+The synthesis of 3~-hydroxy-3tx-perfluoroalkylandrost-4- 
+en-17-ones (5a-c) is described in Scheme 1. The 17-hydrox- 
+yl of testosterone 2a was first protected as the t-butyldim- 
+ethylsilyl (TBDMS) ether 9 in 93% yield. Addition of the 
+appropriate perfluoroalkyllithium reagents using the method 
+of Gassman and O'Reilly ~° afforded the tertiary carbinols 
+3a-c in 80-85% yield. Only one product was obtained 
+which was assigned to be the [3-alcohol based on literature 
+precedent in the reduction of A4-3-keto steroids.l 1 Further, 
+the IR, MS, and JH and J3C NMR data (see Table 1) on the 
+new steroids 3-12, were fully in accord with the assigned 
+structures. Deprotection of the TBDMS ether with aqueous 
+HF in acetonitrile produced 4a-e in 85-89% yield. 12 Oxi- 
+dation of the secondary alcohol to a ketone with PCC af- 
+forded the 313-hydroxy-3a-perfluoroalkylandrost-4-en-17- 
+ones (5a-c) in 76-82% yield.13 
+~ R OTBDMS 
+AI_J- 
+.... AWZ ~'-~ HF, CH3CN 
+O MeLi' R#' ~'t20 L Z 5 " 
+HO': ~ v 
+2aR=H RF 
+b R = TBDMS 3a Rv = C2F 5 
+b R E= C3F 7 
+c R F = C4F 9 
+RF RF 4a-c 5a-c 
+Scheme 1 Synthesis of 313-hydroxy-3ct-perfluoroalkylandrost- 
+4-en-17-ones 5a-c. 
+54 Steroids, 1996, vol. 61, February 
+
+Syntheses of 3-substituted perfluoroalkyl steroids: Williams and Shea 
+Table 1 13C NMR data for 3-substituted perfluoroalkyl steroids 
+Steroid 
+Carbon 3a 3b 3c 4a 4b 4c 5a 5b 5c 6a 6b 6c 7a 
+1 32.8 32.9 32.9 32.3 32.3 32.8 31.9 32.4 31.9 32,6 32.7 32.5 32.7 
+2 27.2 27.2 27,3 26.8 26.8 27.4 27.0 27.2 26.9 20,2 20.2 20.2 20.1 
+3 71.7 73.0 73,4 71.4 72.5 73.5 71.5 72.9 72.7 122,0 122.0 122.8 122.0 
+4 115.4 115.5 115.4 115.2 115.3 116.5 115.4 116.3 115.9 132,7 133.0 133.8 132.7 
+5 154.8 154.8 154.5 154.0 154.1 154.5 154.0 153.6 153.2 139,0 139.0 139.6 139.0 
+6 32.6 32.7 32,7 32.1 32.1 32.6 32.0 32.0 31.5 129,8 129.9 130.7 129.7 
+7 31.8 31.7 31.8 31.4 31.3 31.9 31.9 31.9 31.4 31.3 31.3 31.2 31.2 
+8 36.0 36.0 36.0 35.5 35.5 35.9 35.0 35.4 35.0 31,2 31.2 31.1 31.1 
+9 52.7 52.6 52,6 52.0 52.0 52.6 52.2 52.5 52.1 47,8 47.6 47.5 47.6 
+10 37.3 37.5 37,4 37.0 36.9 37.4 37.1 37.4 36.9 34.0 34.1 34.1 34.0 
+11 20.9 21.0 21,0 20.5 20.5 20.9 20.5 20.6 20.1 19,9 19.9 20.0 20.0 
+12 37.3 36.9 36.9 36.0 35.9 36.4 31.0 31.2 30.8 36,4 36.3 36.4 35.9 
+13 43.3 42.6 42,6 42.5 42.5 42.9 47.7 47.7 47.2 42,7 42.8 43.0 42.4 
+14 50.2 50.2 50,2 50.0 50.1 50.5 50.8 50.9 50.4 50.6 50.9 51.0 50.9 
+15 23.3 23.4 23,4 22.8 22.8 23.3 21.5 21.7 21.2 22.9 22.9 23.0 22.8 
+16 30.8 30.8 30,9 29.9 29.9 30.3 35.5 35.7 35.3 30.3 30.1 30.0 29.9 
+17 81.6 81.5 81,5 81.5 81.2 82.0 220.8 221.3 220.3 81.5 81.2 81.5 81.2 
+18 11.2 11.3 11,3 10.6 10.6 11,1 13.5 13.7 13.2 10.8 10.5 11.0 10.6 
+19 19.4 19.6 19,6 19.1 19.1 19.5 19.1 19.4 19.0 18.2 18.5 18.6 18.3 
+Si Me2 -5.0 -4.9 -4,9 -5.4 -5.0 -4.9 
+-4.7 -4.6 -4,6 -5.0 -4.7 -4.6 
+t-Bu 4 ° 17.9 18.0 18,1 17.8 18.0 18.0 
+t-Bu Me 3 25.7 25.8 25,8 25.3 25.3 25.9 
+~ TBDMS OTBDMS 
+CH2CIz~ ~ HF, CH~C~N 
+RF II [ -pcI, 12. pyr 6a-c 3a R F = C21'~ 
+b RF= C3[: ? 
+c RF = C4F~ 
+OH O 
+7a-c 8a-c 
+Scheme 2 
+ones 8a-c. Synthesis of 3-Perfluoroalkylandrosta-3,5-dien-17- 
+~ TBDMS . OTBDMS 
+NBS, CCI 4 ~ LAH 
+U y HO - 
+Br 
+3a R v = C2F 5 9a-c 
+b R F = C3F 7 
+c RF = C4F9 
+~ TBDMS OH 
+HF, CH3CN~ 
+HO - HO _ R F RF lOa-c lla-c 
+o 
+PCC ~ HO ~ 
+RF 12a-c 
+Scheme 3 Synthesis of 3[3-hydroxy-3c~-perfluoroalkylandrost- 
+5-en-17-ones 12a-c. The 3-perfluoroalkylandrosta-3,5-dien-17-ones (Sa-e) 
+were prepared as described in Scheme 2 starting with same 
+intermediate 3 from the previous synthesis. Attempts to de- 
+hydrate this system using the method of Weintraub et al. 14 
+(HCl/acetone) failed producing the deprotected diol 4. De- 
+hydration using phosphorus oxychloride or thionyl chloride 
+in pyridine afforded the desired product as well as 20% of 
+3-chloro-3-perfluoroalkylandrost-4-en- 17-OTBDMS. The 
+difficulty in dehydrating the tertiary alcohol 3 is due to the 
+attachment of the very electronegative perfluoroalkyl group 
+at C-3 and has been observed previously in other systems. 15 
+A new method for the clean dehydration of 3 was discov- 
+ered using 1,2-phenylene phosphorochloridite and iodine 
+with pyridine in methylene chloride. This method produced 
+the 3,5-dienes 6a-c in 77-86% yield. To gain insight into 
+the mechanism of this useful reaction, the experiment was 
+repeated leaving out the iodine. The product formed was not 
+the diene 6 but the 3-phosphite which was the intermediate 
+for the 3-iodination. 16 Also, treatment of 3 with iodine in 
+methylene chloride afforded only starting material. A pos- 
+sible explanation for these observations is that it is a free 
+radical reaction. Deprotection of the TBDMS ethers 6a-e 
+with aqueous HF in acetonitrile produced the alcohols 7a-e 
+in 73-77% yield. 12 Oxidation of the secondary alcohol to a 
+ketone as before with PCC afforded the 3-perfluoroalkylan- 
+drosta-3,5-dien-17-ones (8a-e) in 81% yield. 13 
+The synthesis of the 3[3-hydroxy-3~-perfluoroalkyland- 
+Table 2 Inhibition of GPDH by 3-substituted perfluoroalkyl ste- 
+roids at 10 -S M 
+Steroid la 5a 5b 5c 8a 8b 8¢ 12a 12b 12c 
+Percent 
+inhibition 45 37 40 48 53 54 36 45 56 53 
+Steroids, 1996, vol. 61, February 55 
+
+Papem 
+Table 1 Continued 
+7b 7c 8a 8b 8c lOa lOb 10c 11a 11b 11c 12a 12b 12c 
+32.7 32.7 32.5 32.6 33.1 34.5 34.4 34.3 34.5 33.9 33.8 34.4 33.8 34.0 
+20.2 20.2 19.9 20.2 20.7 30.9 30.9 30.9 30.4 29.9 30.0 30.1 29.4 29.7 
+122.5 122.5 122.6 122.7 123.2 74.8 74.8 74.7 74.5 74.3 74.2 72.7 74.2 74.5 
+133.1 133.2 132.9 132.9 133.6 40.2 40.2 40.4 40.1 39.8 40.0 40.1 39.8 39.9 
+139.0 139.1 139.3 139.2 139.6 138.4 138.4 138.0 138.0 137.5 137.5 138.1 137.6 138.0 
+129.9 129.9 129.2 129.2 129.9 122.7 122.7 122.5 122.5 122.0 122.0 122.1 121.5 121.8 
+31.2 31.2 30.6 30.4 30.9 31.4 31.4 31.4 31.3 30.8 30.8 30.6 30.0 30.5 
+31.1 31.1 30.8 30.9 31.3 31.9 31.9 31.9 31.8 31.3 31.4 31.4 30.8 31.0 
+47.5 47.6 47.6 47.6 48.0 49.4 49.4 49.4 49.3 48.7 48.7 49.2 48.7 49.0 
+34.1 34.1 34.2 34.2 34.7 36.0 36.0 36.1 35.9 35.6 35.6 36.1 35.6 35.5 
+20.1 20.1 19.8 19.8 20.3 20.6 20.6 20.6 20.6 20.1 20.1 20.3 19.7 19.9 
+35.9 35.9 30.8 30.8 31.2 36.9 36.9 36.9 36.5 36.0 36.0 31.3 30.7 31.0 
+42.4 42.4 47.1 47.1 47.6 43.3 43.3 43.0 42.8 42.2 42.3 47.5 47.0 47.4 
+50.9 50.9 51.3 51.3 51.8 50.9 50.9 51.0 51.3 50.7 50.8 51.7 51.1 51.4 
+22.8 22.8 21.3 21.3 21.8 23.5 23.5 23.5 23.4 22.9 22.8 21.8 21.3 21.5 
+30.0 29.9 35.2 35.2 35.8 30.1 30.1 30.0 30.1 29.5 29.6 35.8 35.3 35.5 
+81.2 81.2 219.8 219.8 220.7 81.7 81.7 81.7 81.8 81.3 81.3 221.0 220.6 221.0 
+10.6 10.6 13.2 13.2 13.7 11.2 11.2 11.2 11.0 10.4 10.4 13.6 13.0 13.1 
+18.2 18.2 18.1 18.2 18.7 19.9 19.9 19.9 19.9 19.5 19.5 19.9 19.4 19.8 
+-4.8 -4.8 -4.9 
+-4.5 -4.5 -4.6 
+18.0 18.1 18.1 
+25.8 25.8 25.8 
+rost-5-en-17-ones (12a-c) is outlined in Scheme 3. The dou- 
+ble bond was isomerized using the method of Knapp and 
+Schroepfer. ~7 Allylic bromination of 3 with N-bromosuc- 
+cinimide afforded 9a-c in 75-82% yield. Isomerization of 
+the double bond using lithium aluminum hydride gave 
+10a-c in 65-81% yield. Deprotection of the TBDMS ether 
+with aqueous HF in acetonitrile produced the diols lla-c in 
+77-91% yield. 12 Oxidation of the secondary alcohol to a 
+ketone as before with PCC afforded the target 3[3-hydroxy- 
+3~-perfluoroalkylandrost-5-en-17-ones (12a-c) in 73-81% 
+yield. 13 
+In summary, three classes of 3-substituted perfluoroalkyl 
+steroids were conveniently prepared from testosterone. In 
+the A 4 series, the target molecules were prepared in four 
+steps with overall yields of 45-48%. The A 3"5 diene series 
+was prepared in five steps with overall yields of 30-35%. 
+The synthesis of A 5 ketones was achieved in six steps from 
+testosterone with an overall yield of 19-25%. 
+The G6DPH inhibitory properties of the 3-perfluoroalkyl 
+steroids are shown in Table 2. All of the new steroids were 
+comparable to DHEA in inhibiting G6DPH. The best class 
+of inhibitors were the 3]3-hydroxy-3c~-perfluoroalkyland- 
+rost-5-en-17-ones (12a-c). These compounds are very sim- 
+ilar to DHEA structurally except that the 3o~-hydrogen is 
+replaced by a perfluoroalkyl group. It is interesting that a 
+large C-3 axial R F group can still fit in and bind to a hy- 
+drophobic region in G6DPH. There is a slight trend favoring 
+an increase in activity with an increase in R F for both the 
+5-ene, 12a-c and the lesser active 4-ene series, 5a-c. The 
+pseudo-equatorial 3,5-diene series 8a-c is on average 
+slightly less active than the 5-ene steroids. 
+Acknowledgments 
+Financial support for this research was provided by a grant 
+from the Temple University Research Incentive fund, a Temple University Summer Research Fellowship, and an 
+NIH Biomedical Research Support Grant. 
+References 
+1. Schwartz AG, Whitcomb JM, Nyce JW, Lewbart ML, Pashko LL 
+(1988). Dehydroepiandrosterone and structural analogs: A new class 
+of chemopreventive agents. Adv Cancer Res 51:391-425. 
+2. Oertel GW, Benes P (1972). The effects of steroids on glucose-6- 
+phosphate dehydrogenase. J Steroid Chem 3:493-496. 
+3. Pashko LL, Rovito RJ, Williams JR, Sobel EL, Schwartz AG 
+(1984). Dehydroepiandrosterone (DHEA) and 3l]-methylandrost-5- 
+en-17-one: inhibitors of 7,12-dimethylbenz[a]anthracene (DMBA)- 
+initiated and 12-O-tetradecanoylphorbol-13-acetate (TPA)- 
+promoted skin papilloma formation in mice. Carcinogenesis 5:463- 
+466. 
+4. Filler R, Kobayashi Y, Yagupolski LM (eds), (1993). In: Organo- 
+fluorine Compounds in Medicinal Chemistry and Biomedical Ap- 
+plications, Elsevier, Amsterdam. 
+5. Burton DJ, Yang ZY (1992). Fluorinated Organometallics: Perflu- 
+oroalkyl and functionalized perfluoroalkyl organometallic reagents 
+in organic synthesis. Tetrahedron 48:189-275. 
+6. Kirk DN, Toms HC, Douglas C, White KA, Smith KE, Latif S, 
+Hubbard RWP (1990). A survey of the high-field ~H NMR spectra 
+of steroid hormones, their hydroxylated derivatives and related com- 
+pounds. J Chem Soc Perkin Trans 2 1567-1594. 
+7. Blunt JW, Stothers JB (1977). 13C NMR spectra of steroids--a 
+survey and commentary. Org Mag Reson 9:439-464. 
+8. Oertel GW, Rebelein I (1969). Effects of dehydroepianodrosterone 
+and its conjugates upon the activity of ghicose-6-phosphate dehy- 
+drogenase in human erythrocytes. Biochem Biophys Acta 184:459- 
+460. 
+9. Corey EJ, Venkateswarlu A (1972). Protection of hydroxyl groups 
+as tert-butyldimethylsilyl derivatives. J Am Chem Soc 94:6190- 
+6191. 
+10. Gassman PG, O'Reilly NJ (1987). Nucleophilic addition of the pen- 
+tafluoroethyl group to aldehydes, ketones and esters. J Org Chem 
+52:2481-2490. 
+11. Wheeler OH, Mateos JL (1958). Stereochemistry of reduction of 
+ketones by complex metal hydrides. Can J Chem 36:1431-1435. 
+56 Steroids, 1996, vol. 61, February 
+
+Syntheses of 3-substituted perfluoroalkyl steroids: Williams and Shea 
+12. Keana JFW, Heo GS, Gaughan GT (1985). Stereospecific synthesis 
+of difunctionalized 2,5-disubstituted cis-2,5-dimethylpyrrolidine 
+(azethoyl) nitroxides by oxidative clevage of protected 
+8-azabicyclo[3.2.1]octane precursors. J Org Chem 50:2346--2351. 
+13. Corey EJ, Suggs JW (1975). Pyridinium chlorochromate: an effi- 
+cient reagent for oxidation of primary and secondary alcohols to 
+carbonyl compounds. Tetrahedron Lett 2647-2650. 
+14. Weintraub PM, Tiernan PL, Benson HD, Grunwell JF, Johnston JO, 
+Petrow V (1976). Steroidal 3,5-dienes. J Med Chem 19:1395-1399. 
+15. Nagai T, Hama M, Yoshioka M, Yuda M, Yoshida N, Ando A, 16. 
+17. Koyama M, Miki T, Kumadaki I (1989). Reaction of trifluoromethyl 
+ketones. V. Dehydration of trifluoromethylated homoallyl alcohols: 
+synthesis of trifluoromethylated dienes. Chem Pharm Bull (Tokyo) 
+37:177-183. 
+Corey EJ, Anderson JE (1967). A useful method for the conversion 
+of alcohols to iodides. J Org Chem 32:4160--4161. 
+Knapp FF, Schroepfer GJ (1974). A novel synthesis of 4~- and 
+413-methylcholest-5-en-31]-ol from 6[3-bromo-4-methylcholest-4-en- 
+3-one. J Org Chem 39:3247-3250. 
+Steroids, 1996, vol. 61, February 57 
+

@@ -1,0 +1,4597 @@
+Corrosion, PROPN 
+Science, PROPN 
+Vol, PROPN 
+38, NUM 
+9, NUM 
+pp, PROPN 
+1579, NUM 
+1594, NUM 
+1996, NUM 
+
+, SPACE 
+Copyright, PROPN 
+Q, PROPN 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+0010, NUM 
+938X/96, NOUN 
+$, SYM 
+lS.OO+O.OO, PROPN 
+
+, SPACE 
+PII, PROPN 
+SOOlO-938X(96)00053, NUM 
+4, NUM 
+
+, SPACE 
+MICRODISSOLUTION, NOUN 
+CALCIUM, NOUN 
+IONS, NOUN 
+CALCIUM-, NOUN 
+
+, SPACE 
+ION, PROPN 
+IMPLANTED, PROPN 
+TITANIUM, PROPN 
+
+, SPACE 
+T., PROPN 
+HANAWA, PROPN 
+K., PROPN 
+ASAMI, PROPN 
+K., PROPN 
+ASAOKA, PROPN 
+
+, SPACE 
+Department, PROPN 
+Dental, PROPN 
+Engineering, PROPN 
+Tokushima, PROPN 
+University, PROPN 
+School, PROPN 
+Dentistry, PROPN 
+3, NUM 
+18, NUM 
+l, NOUN 
+5, NUM 
+Kuramoto, PROPN 
+cho, PROPN 
+Tokushima, PROPN 
+
+, SPACE 
+770, NUM 
+Japan, PROPN 
+
+, SPACE 
+Laboratory, PROPN 
+Developmental, PROPN 
+Research, PROPN 
+Advanced, PROPN 
+Materials, PROPN 
+Institute, PROPN 
+Materials, PROPN 
+Research, PROPN 
+Tohoku, PROPN 
+
+, SPACE 
+University, PROPN 
+2, NUM 
+l-1, NUM 
+Katahira, PROPN 
+Aoba, PROPN 
+ku, PROPN 
+Sendai, PROPN 
+980, NUM 
+Japan, PROPN 
+
+, SPACE 
+Abstract, PROPN 
+Microdissolution, PROPN 
+calcium, NOUN 
+ions, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+
+, SPACE 
+pH, NUM 
+-0.99, NUM 
+0, NUM 
+1, NUM 
+2, NUM 
+phosphatecitric, ADJ 
+acid, NOUN 
+buffers, NOUN 
+pH, NUM 
+5.2, NUM 
+7.2, NUM 
+310, NUM 
+K, NOUN 
+103, NUM 
+5x, NUM 
+10, NUM 
+
+, SPACE 
+characterized, VERB 
+X, NOUN 
+ray, NOUN 
+photo, NOUN 
+electron, NOUN 
+spectroscopy, NOUN 
+result, NOUN 
+surface, NOUN 
+oxides, VERB 
+calcium, NOUN 
+found, VERB 
+
+, SPACE 
+dissolve, VERB 
+solutions, NOUN 
+Oxygen, NOUN 
+decreased, VERB 
+titanium, NOUN 
+increased, VERB 
+surface, NOUN 
+oxide, NOUN 
+according, VERB 
+dissolution, NOUN 
+
+, SPACE 
+addition, NOUN 
+hydroxyl, PROPN 
+radicals, NOUN 
+decreased, VERB 
+number, NOUN 
+proportion, NOUN 
+TI, PROPN 
+4c, NOUN 
+titanium, NOUN 
+increased, VERB 
+Core, NOUN 
+level, NOUN 
+
+, SPACE 
+binding, VERB 
+energies, NOUN 
+calcium, NOUN 
+titanium, NOUN 
+originating, VERB 
+Ti4, NOUN 
++, ADV 
+decreased, VERB 
+dissolution, NOUN 
+changes, NOUN 
+
+, SPACE 
+caused, VERB 
+transformation, NOUN 
+surface, NOUN 
+oxide, NOUN 
+according, VERB 
+dissolution, NOUN 
+Calcium, NOUN 
+dissolved, VERB 
+
+, SPACE 
+consequently, ADV 
+surface, NOUN 
+oxide, NOUN 
+titanium, NOUN 
+oxide, NOUN 
+feasible, ADJ 
+estimate, VERB 
+microdissolution, NOUN 
+element, NOUN 
+
+, SPACE 
+materials, NOUN 
+surface, NOUN 
+analysis, NOUN 
+techniques, NOUN 
+Copyright, NOUN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+INTRODUCTION, NOUN 
+
+, SPACE 
+Titanium, PROPN 
+implanted, VERB 
+calcium, NOUN 
+ions, NOUN 
+acceleration, NOUN 
+energy, NOUN 
+18, NUM 
+keV, NOUN 
+useful, ADJ 
+
+, SPACE 
+properties, NOUN 
+biomaterial, NOUN 
+Calcium, NOUN 
+phosphate, ADJ 
+precipitation, NOUN 
+titanium, NOUN 
+electrolyte, NOUN 
+
+, SPACE 
+tremendously, ADV 
+accelerated, VERB 
+calcium, NOUN 
+ion, NOUN 
+implantation, NOUN 
+phenomenon, NOUN 
+
+, SPACE 
+observed, VERB 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+retrieved, VERB 
+canine, NOUN 
+femur.2, NOUN 
+addition, NOUN 
+
+, SPACE 
+osteogenic, ADJ 
+cells, NOUN 
+titanium, NOUN 
+activated, VERB 
+formation, NOUN 
+osteoid, ADJ 
+tissue, NOUN 
+cells, NOUN 
+
+, SPACE 
+accelerated, VERB 
+calcium, NOUN 
+ions, NOUN 
+implanted, VERB 
+titanium.3, PROPN 
+Calcium, PROPN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+
+, SPACE 
+suitable, ADJ 
+biomaterial, NOUN 
+favorable, ADJ 
+property, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+
+, SPACE 
+titanium, NOUN 
+caused, VERB 
+implanted, VERB 
+calcium, NOUN 
+ions, NOUN 
+surface, NOUN 
+modified, VERB 
+layer, NOUN 
+formed, VERB 
+ion, NOUN 
+
+, SPACE 
+implantation, NOUN 
+surface, NOUN 
+modified, VERB 
+layer, NOUN 
+consists, VERB 
+calcium, NOUN 
+titanate, NOUN 
+ions, NOUN 
+
+, SPACE 
+implanted, VERB 
+lOi, NOUN 
+10, NUM 
+ions, NOUN 
+cm2, NOUN 
+calcium, NOUN 
+oxide, NOUN 
+hydroxide, ADV 
+calcium, NOUN 
+
+, SPACE 
+titanate, NOUN 
+implanted, VERB 
+10, NUM 
+ions, NOUN 
+cm2.4, X 
+possibility, NOUN 
+outermost, ADJ 
+
+, SPACE 
+surface, NOUN 
+surface, NOUN 
+modified, VERB 
+layer, NOUN 
+calcium, NOUN 
+hydroxide, ADV 
+cases, NOUN 
+described, VERB 
+
+, SPACE 
+Calcium, NOUN 
+ions, NOUN 
+exist, VERB 
+surface, NOUN 
+oxide, NOUN 
+grows, VERB 
+ion, NOUN 
+implantation, NOUN 
+thicknesses, NOUN 
+
+, SPACE 
+surface, NOUN 
+modified, VERB 
+layers, NOUN 
+thin, ADJ 
+approximately, ADV 
+6, NUM 
+nm, ADJ 
+8, NUM 
+nm, NUM 
+13, NUM 
+nm, NOUN 
+specimens, NOUN 
+
+, SPACE 
+implanted, VERB 
+lOI, ADJ 
+ions, NOUN 
+cm2, PROPN 
+10, NUM 
+ions, NOUN 
+cm, PROPN 
+lo, PROPN 
+ions, NOUN 
+cm2, NOUN 
+respectively.5, PROPN 
+7, NUM 
+
+, SPACE 
+surface, NOUN 
+modified, VERB 
+layer, NOUN 
+works, VERB 
+substrate, NOUN 
+improving, VERB 
+hard, ADJ 
+tissue, NOUN 
+compatibility, NOUN 
+
+, SPACE 
+causes, NOUN 
+good, ADJ 
+bone, NOUN 
+conductivity, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+
+, SPACE 
+possibly, ADV 
+microdissolution, NOUN 
+calcium, NOUN 
+ions, NOUN 
+bioliquid, NOUN 
+inducing, VERB 
+precipitation, NOUN 
+
+, SPACE 
+calcium, NOUN 
+phosphate, NOUN 
+material, NOUN 
+supersaturation, NOUN 
+bioliquid, NOUN 
+near, ADP 
+material, NOUN 
+
+, SPACE 
+Manuscript, PROPN 
+received, VERB 
+7, NUM 
+March, PROPN 
+1996, NUM 
+
+, SPACE 
+1579, NUM 
+
+, SPACE 
+1580, NUM 
+T., PROPN 
+Hanawa, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+mechanism, NOUN 
+similar, ADJ 
+dissolution, NOUN 
+calcium, NOUN 
+silicon, NOUN 
+bioactive, ADJ 
+glasses, NOUN 
+
+, SPACE 
+confirmation, NOUN 
+dissolution, NOUN 
+calcium, NOUN 
+ions, NOUN 
+estimation, NOUN 
+
+, SPACE 
+dissolution, ADJ 
+rate, NOUN 
+important, ADJ 
+understanding, NOUN 
+behavior, NOUN 
+calcium, NOUN 
+ion-, NOUN 
+
+, SPACE 
+implanted, VERB 
+titanium, NOUN 
+biological, ADJ 
+systems, NOUN 
+difficult, ADJ 
+detect, VERB 
+dissolution, NOUN 
+analysis, NOUN 
+
+, SPACE 
+calcium, NOUN 
+solution, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+immersed, VERB 
+calcium, NOUN 
+
+, SPACE 
+ions, NOUN 
+dissolve, VERB 
+concentration, NOUN 
+calcium, NOUN 
+ions, NOUN 
+dissolved, VERB 
+small, ADJ 
+
+, SPACE 
+calcium, NOUN 
+ions, NOUN 
+dissolved, VERB 
+Naturally, ADV 
+complete, ADJ 
+release, NOUN 
+calcium, NOUN 
+ions, NOUN 
+hardly, ADV 
+occurs, VERB 
+
+, SPACE 
+bioliquid, NOUN 
+appropriate, ADJ 
+method, NOUN 
+necessary, ADJ 
+estimation, NOUN 
+
+, SPACE 
+study, NOUN 
+changes, NOUN 
+compositions, NOUN 
+chemical, ADJ 
+states, NOUN 
+calcium, NOUN 
+surface-, NOUN 
+
+, SPACE 
+modified, VERB 
+layers, NOUN 
+characterized, VERB 
+X, NOUN 
+ray, NOUN 
+photo, NOUN 
+electron, NOUN 
+spectroscopy, NOUN 
+XPS, PROPN 
+
+, SPACE 
+estimate, VERB 
+dissolution, NOUN 
+calcium, NOUN 
+ions, NOUN 
+surface, NOUN 
+dissolution, NOUN 
+
+, SPACE 
+calcium, NOUN 
+surface, NOUN 
+change, NOUN 
+chemical, ADJ 
+condition, NOUN 
+
+, SPACE 
+dissolution, NOUN 
+consequently, ADV 
+assessed, VERB 
+XPS, PROPN 
+information, NOUN 
+provide, VERB 
+important, ADJ 
+
+, SPACE 
+clue, NOUN 
+understanding, NOUN 
+bone, NOUN 
+conduction, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+
+, SPACE 
+study, NOUN 
+attempts, VERB 
+use, VERB 
+surface, NOUN 
+analysis, NOUN 
+techniques, NOUN 
+estimation, NOUN 
+
+, SPACE 
+dissolution, NOUN 
+element, NOUN 
+material, NOUN 
+dissolution, NOUN 
+element, NOUN 
+
+, SPACE 
+small, ADJ 
+detection, NOUN 
+element, NOUN 
+solvent, NOUN 
+difficult, ADJ 
+field, NOUN 
+biomaterials, NOUN 
+
+, SPACE 
+microdissolution, NOUN 
+plays, VERB 
+important, ADJ 
+roles, NOUN 
+example, NOUN 
+bone, NOUN 
+formation, NOUN 
+bioactive, ADJ 
+
+, SPACE 
+glasses, NOUN 
+occurs, VERB 
+microrelease, NOUN 
+ions, NOUN 
+estimation, NOUN 
+dissolution, NOUN 
+
+, SPACE 
+element, NOUN 
+biomaterial, NOUN 
+important, ADJ 
+investigating, VERB 
+performance, NOUN 
+bone, NOUN 
+
+, SPACE 
+conductiyity, NOUN 
+fields, NOUN 
+similar, ADJ 
+situation, NOUN 
+exists, VERB 
+approach, NOUN 
+
+, SPACE 
+useful, ADJ 
+
+, SPACE 
+materials, NOUN 
+investigated, VERB 
+study, NOUN 
+assumed, VERB 
+biomaterials, NOUN 
+
+, SPACE 
+specimens, NOUN 
+treated, VERB 
+ambient, ADJ 
+atmosphere, NOUN 
+exposed, VERB 
+air, NOUN 
+
+, SPACE 
+analysis, NOUN 
+
+, SPACE 
+EXPERIMENTAL, PROPN 
+METHOD, PROPN 
+
+, SPACE 
+Preparation, PROPN 
+specimens, NOUN 
+
+, SPACE 
+Commercially, ADV 
+pure, ADJ 
+titanium, NOUN 
+plates, NOUN 
+0.4, NUM 
+mm, NUM 
+thickness, NOUN 
+starting, NOUN 
+
+, SPACE 
+material, NOUN 
+chemical, NOUN 
+composition, NOUN 
+shown, VERB 
+Table, PROPN 
+1, NUM 
+titanium, NOUN 
+plates, NOUN 
+
+, SPACE 
+metallographically, ADV 
+polished, VERB 
+followed, VERB 
+polishing, VERB 
+diamond, NOUN 
+paste, NOUN 
+composed, VERB 
+1, NUM 
+pm, NOUN 
+
+, SPACE 
+particles, NOUN 
+ultrasonic, ADJ 
+rinsing, NOUN 
+acetone, NOUN 
+ethanol, NOUN 
+900, NUM 
+s, NOUN 
+drying, VERB 
+stream, NOUN 
+
+, SPACE 
+high, ADJ 
+purity, NOUN 
+nitrogen, NOUN 
+>, X 
+99.999, NUM 
+
+, SPACE 
+Calcium, NOUN 
+ions, NOUN 
+implanted, VERB 
+titanium, NOUN 
+plate, NOUN 
+
+, SPACE 
+acceleration, NOUN 
+energy, NOUN 
+18, NUM 
+keV, NOUN 
+ion, NOUN 
+beam, NOUN 
+current, ADJ 
+density, NOUN 
+50, NUM 
+pA, NUM 
+cm2, NOUN 
+assist, ADJ 
+gas, NOUN 
+
+, SPACE 
+implantation, NOUN 
+krypton, PROPN 
+Calcium, NOUN 
+ions, NOUN 
+uniformly, ADV 
+implanted, VERB 
+amounts, NOUN 
+
+, SPACE 
+10, NUM 
+ions, NOUN 
+cm2, NOUN 
+color, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+pale, ADJ 
+gold, NOUN 
+calcium-, ADJ 
+
+, SPACE 
+Table, NOUN 
+1, NUM 
+Chemical, ADJ 
+composition, NOUN 
+commercial, ADJ 
+pure, ADJ 
+titamum, NUM 
+
+, SPACE 
+Composition, PROPN 
+mass%, PROPN 
+
+, SPACE 
+H, PROPN 
+c, NOUN 
+N, PROPN 
+0, NUM 
+Fe, PROPN 
+Ti, PROPN 
+
+, SPACE 
+0.007, NUM 
+0.033, NUM 
+0.003, NUM 
+0.048, NUM 
+0.029, NUM 
+Balance, PROPN 
+
+, SPACE 
+Microdissolution, PROPN 
+calcium, NOUN 
+ions, NOUN 
+1581, NUM 
+
+, SPACE 
+ion, NOUN 
+implanted, VERB 
+plates, NOUN 
+ultrasonically, ADV 
+rinsed, VERB 
+acetone, NOUN 
+ethanol, NOUN 
+900, NUM 
+s, NOUN 
+
+, SPACE 
+dried, VERB 
+nitrogen, NOUN 
+acetone, NOUN 
+ethanol, NOUN 
+degassed, ADJ 
+dehydrated, VERB 
+
+, SPACE 
+addition, NOUN 
+specimens, NOUN 
+exposed, VERB 
+air, NOUN 
+operation, NOUN 
+specimens, NOUN 
+
+, SPACE 
+restored, VERB 
+desiccator, NOUN 
+surface, NOUN 
+analysis, NOUN 
+
+, SPACE 
+immersion, NOUN 
+nitric, NOUN 
+acid, NOUN 
+buffer, VERB 
+solutions, NOUN 
+
+, SPACE 
+Nitric, PROPN 
+acid, NOUN 
+solutions, NOUN 
+dissolution, NOUN 
+calcium, NOUN 
+ions, NOUN 
+
+, SPACE 
+characterization, NOUN 
+changes, NOUN 
+chemical, ADJ 
+states, NOUN 
+elements, NOUN 
+specimens, NOUN 
+caused, VERB 
+
+, SPACE 
+dissolution, NOUN 
+Specimens, NOUN 
+immersed, VERB 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+9.68,1, PROPN 
+lo-, PROPN 
+10e2, NUM 
+mol, PROPN 
+l, PROPN 
+
+, SPACE 
+3, NUM 
+10, NUM 
+K, NOUN 
+1, NUM 
+03, NUM 
+1, NUM 
+O6, PROPN 
+s, NOUN 
+scaled, VERB 
+polytetrafluoroethylene, NOUN 
+bottles, NOUN 
+pH, NUM 
+values, NOUN 
+nitric, NOUN 
+
+, SPACE 
+acid, NOUN 
+solutions, NOUN 
+-0.99, NUM 
+0, NUM 
+1, NUM 
+2, NUM 
+9.68, NUM 
+mol, PROPN 
+l, PROPN 
+1, NUM 
+mol, PROPN 
+l, PROPN 
+10, NUM 
+mol, PROPN 
+l, PROPN 
+10e2, NUM 
+mol, PROPN 
+l, NOUN 
+
+, SPACE 
+solutions, NOUN 
+respectively, ADV 
+Phosphate, PROPN 
+citric, NOUN 
+acid, NOUN 
+buffers, NOUN 
+pH, NUM 
+5.2, NUM 
+7.2, NUM 
+prepared, VERB 
+
+, SPACE 
+Na2HP04, PROPN 
+C6Hs07, PROPN 
+adopted, VERB 
+pH, NUM 
+hard, ADJ 
+tissue, NOUN 
+near, ADP 
+
+, SPACE 
+materials, NOUN 
+inserted, VERB 
+immediately, ADV 
+decreases, VERB 
+5.2,9, PROPN 
+normal, ADJ 
+biological, ADJ 
+system, NOUN 
+
+, SPACE 
+pH, PROPN 
+7.2, NUM 
+7.4, NUM 
+Specimens, NOUN 
+immersed, VERB 
+buffers, NOUN 
+310, NUM 
+K, NOUN 
+103, NUM 
+5, NUM 
+x, SYM 
+lo6, PROPN 
+s., X 
+ion, NOUN 
+
+, SPACE 
+concentrations, NOUN 
+pH, NUM 
+values, NOUN 
+buffer, NOUN 
+solutions, NOUN 
+summarized, VERB 
+Table, PROPN 
+2, NUM 
+buffer, NOUN 
+
+, SPACE 
+capacity, NOUN 
+solutions, NOUN 
+affected, VERB 
+existence, NOUN 
+calcium, NOUN 
+ions, NOUN 
+
+, SPACE 
+change, NOUN 
+pH, NUM 
+observed, VERB 
+experiments, NOUN 
+immersion, NOUN 
+specimens, NOUN 
+rinsed, VERB 
+
+, SPACE 
+times, NOUN 
+de, ADJ 
+ionized, ADJ 
+water, NOUN 
+300, NUM 
+s, NOUN 
+dried, VERB 
+nitrogen, NOUN 
+
+, SPACE 
+X, NOUN 
+ray, NOUN 
+photo, NOUN 
+electron, NOUN 
+spectroscopy, NOUN 
+
+, SPACE 
+X, NOUN 
+ray, NOUN 
+photo, NOUN 
+electron, NOUN 
+spectroscopy, NOUN 
+performed, VERB 
+electron, NOUN 
+spectrometer, NOUN 
+SSI, PROPN 
+
+, SPACE 
+SSXlOO, PROPN 
+binding, VERB 
+energies, NOUN 
+given, VERB 
+paper, NOUN 
+relative, ADJ 
+Fermi, PROPN 
+level, NOUN 
+
+, SPACE 
+spectra, PROPN 
+excited, VERB 
+monochromatized, ADJ 
+Al, PROPN 
+Ka, PROPN 
+1,2, NUM 
+line, NOUN 
+1486.61, NUM 
+eV, PROPN 
+electron, NOUN 
+
+, SPACE 
+energy, NOUN 
+analyser, NOUN 
+operated, VERB 
+constant, ADJ 
+analysing, VERB 
+energy, NOUN 
+mode, NOUN 
+pass, ADJ 
+energy, NOUN 
+
+, SPACE 
+20, NUM 
+eV, NUM 
+calibrated, VERB 
+energies, NOUN 
+Au, PROPN 
+4f7,2, NUM 
+84.07, NUM 
+eV, NUM 
+Au, PROPN 
+4fsi2, NOUN 
+87.74, NUM 
+eV, PROPN 
+pure, ADJ 
+
+, SPACE 
+gold, NOUN 
+Cu, PROPN 
+2p3,2, PROPN 
+932.53, NUM 
+eV, NUM 
+Cu, PROPN 
+2~312, NUM 
+952.35, NUM 
+eV, X 
+Cu, PROPN 
+Auger, PROPN 
+L3M4,sM4,~, PROPN 
+line, NOUN 
+
+, SPACE 
+918.65eV, PROPN 
+pure, ADJ 
+copper, NOUN 
+Resolution, NOUN 
+width, NOUN 
+half, ADJ 
+maximum, ADJ 
+FWHM, NOUN 
+
+, SPACE 
+Au, PROPN 
+4fTi2, NOUN 
+peak, NOUN 
+0.96eV, NUM 
+experimental, ADJ 
+conditions, NOUN 
+base, NOUN 
+pressure, NOUN 
+
+, SPACE 
+5.8, NUM 
+x, SYM 
+lo-, NUM 
+Pa, NOUN 
+spectral, ADJ 
+acquisitions, NOUN 
+angle, NOUN 
+photo, NOUN 
+electron, NOUN 
+
+, SPACE 
+35, NUM 
+surface, NOUN 
+specimen, NOUN 
+quantification, NOUN 
+performed, VERB 
+according, VERB 
+
+, SPACE 
+methods, NOUN 
+Asami, PROPN 
+et, NOUN 
+al.123’3, NUM 
+compositions, NOUN 
+surface, NOUN 
+oxides, VERB 
+
+, SPACE 
+determined, VERB 
+addition, NOUN 
+thickness, NOUN 
+surface, NOUN 
+oxide, NOUN 
+film, NOUN 
+simultaneously, ADV 
+calculated, VERB 
+
+, SPACE 
+Empirica114, PROPN 
+16, NUM 
+published, VERB 
+data, NOUN 
+applied, VERB 
+photo, NOUN 
+ionization, NOUN 
+cross, NOUN 
+sections, NOUN 
+
+, SPACE 
+quantification, NOUN 
+Relative, ADJ 
+photo, NOUN 
+ionization, NOUN 
+cross, NOUN 
+sections, NOUN 
+core, NOUN 
+levelj, PROPN 
+element, NOUN 
+
+, SPACE 
+0, NUM 
+oii, NOUN 
+/coin, NOUN 
+study, NOUN 
+summarized, VERB 
+Table, PROPN 
+3, NUM 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+Concentrations, NOUN 
+pH, NUM 
+values, NOUN 
+
+, SPACE 
+buffer, NOUN 
+solutions, NOUN 
+
+, SPACE 
+Concentration, PROPN 
+nmol, PROPN 
+l, PROPN 
+PH, PROPN 
+
+, SPACE 
+107.2, NUM 
+46.4, NUM 
+5.2, NUM 
+
+, SPACE 
+173.9, NUM 
+13.1, NUM 
+7.2, NUM 
+
+, SPACE 
+1582, NUM 
+T., PROPN 
+Hanawa, PROPN 
+er, INTJ 
+ul, PROPN 
+
+, SPACE 
+Table, PROPN 
+3, NUM 
+Photo, NOUN 
+ionization, NOUN 
+cross, NOUN 
+sections, NOUN 
+level, NOUN 
+j, PROPN 
+
+, SPACE 
+element, NOUN 
+relative, ADJ 
+0, NUM 
+CT,,,~,J,~, PROPN 
+
+, SPACE 
+Photo, PROPN 
+ionization, NOUN 
+cross, NOUN 
+section, ADJ 
+
+, SPACE 
+Level, PROPN 
+Ti, PROPN 
+2pl, ADJ 
+J, PROPN 
+2p, PROPN 
+P, PROPN 
+2P, PROPN 
+c, NOUN 
+
+, SPACE 
+fl#,'1001\, ADJ 
+.28, PROPN 
+2.59, NUM 
+0.786, NUM 
+0.341, NUM 
+
+, SPACE 
+Reference, PROPN 
+16, NUM 
+Ii, PROPN 
+14, NUM 
+17, NUM 
+
+, SPACE 
+EXPERIMENTAL, PROPN 
+RESULTS, NOUN 
+
+, SPACE 
+Change, PROPN 
+relative, ADJ 
+concentration, NOUN 
+
+, SPACE 
+gold, NOUN 
+color, NOUN 
+specimens, NOUN 
+gradually, ADV 
+returned, VERB 
+original, ADJ 
+titanium, NOUN 
+color, NOUN 
+
+, SPACE 
+immersion, NOUN 
+C, PROPN 
+1s, PROPN 
+spectra, PROPN 
+obtained, VERB 
+specimens, NOUN 
+contain, VERB 
+carbonate, NOUN 
+
+, SPACE 
+peak, NOUN 
+detected, VERB 
+binding, VERB 
+energy, NOUN 
+region, NOUN 
+289, NUM 
+290, NUM 
+eV, NUM 
+C, PROPN 
+1s, PROPN 
+peak, NOUN 
+
+, SPACE 
+originating, VERB 
+carbonate, PROPN 
+appear, VERB 
+carbon, NOUN 
+detected, VERB 
+XPS, PROPN 
+assigned, VERB 
+
+, SPACE 
+surface, NOUN 
+contamination, NOUN 
+addition, NOUN 
+nitrogen, NOUN 
+detected, VERB 
+specimens, NOUN 
+
+, SPACE 
+N, PROPN 
+1s, PROPN 
+peak, NOUN 
+originating, VERB 
+nitrate, ADJ 
+undetected, VERB 
+experiments, NOUN 
+indicating, VERB 
+nitrate, ADJ 
+
+, SPACE 
+present, ADJ 
+specimens, NOUN 
+Nitrogen, PROPN 
+originated, VERB 
+surface, NOUN 
+
+, SPACE 
+contamination, NOUN 
+environment, NOUN 
+hand, NOUN 
+phosphorus, NOUN 
+detected, VERB 
+
+, SPACE 
+specimens, NOUN 
+immersed, VERB 
+buffers, NOUN 
+phosphorus, NOUN 
+existed, VERB 
+phosphate, NOUN 
+judging, VERB 
+
+, SPACE 
+peak, ADJ 
+binding, VERB 
+energy, NOUN 
+8.19, NUM 
+phosphate, NOUN 
+apparently, ADV 
+came, VERB 
+phosphate, ADJ 
+ions, NOUN 
+buffer, NOUN 
+
+, SPACE 
+phosphate, NOUN 
+usually, ADV 
+adsorbed, VERB 
+titanium, NOUN 
+constitute, VERB 
+surface, NOUN 
+oxide, NOUN 
+
+, SPACE 
+Carbon, PROPN 
+nitrogen, NOUN 
+phosphorus, NOUN 
+contained, VERB 
+quantification, NOUN 
+relative, ADJ 
+
+, SPACE 
+concentrations, NOUN 
+calcium, NOUN 
+oxygen, NOUN 
+and/or, CCONJ 
+titanium, NOUN 
+specimens, NOUN 
+
+, SPACE 
+immersion, NOUN 
+assuming, VERB 
+gross, ADJ 
+elements, NOUN 
+detected, VERB 
+XPS, PROPN 
+
+, SPACE 
+100, NUM 
+mol%, PROPN 
+calculated, VERB 
+
+, SPACE 
+Changes, NOUN 
+calcium, NOUN 
+concentrations, NOUN 
+specimens, NOUN 
+immersed, VERB 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+
+, SPACE 
+phosphate4tric, NUM 
+acid, NOUN 
+buffers, NOUN 
+immersion, NOUN 
+time, NOUN 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+value, NOUN 
+marked, VERB 
+
+, SPACE 
+unimmersion, NOUN 
+represents, VERB 
+calcium, NOUN 
+concentration, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+
+, SPACE 
+immersion, NOUN 
+Calcium, NOUN 
+decreased, VERB 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+buffer, NOUN 
+
+, SPACE 
+solutions, NOUN 
+indicating, VERB 
+calcium, NOUN 
+dissolved, VERB 
+solutions, NOUN 
+larger, ADJ 
+
+, SPACE 
+concentration, NOUN 
+nitric, NOUN 
+acid, NOUN 
+solution, NOUN 
+lower, ADJ 
+pH, NUM 
+solution, NOUN 
+larger, ADJ 
+
+, SPACE 
+dissolution, NOUN 
+calcium, NOUN 
+decrease, NOUN 
+calcium, NOUN 
+pH, NUM 
+5.2, NUM 
+buffer, NOUN 
+larger, ADJ 
+
+, SPACE 
+pH, NUM 
+7.2, NUM 
+buffer, NOUN 
+concentration, NOUN 
+calcium, NOUN 
+approximately, ADV 
+
+, SPACE 
+6, NUM 
+mol%, PROPN 
+gold, NOUN 
+color, NOUN 
+eliminated, VERB 
+seen, VERB 
+Fig, PROPN 
+1, NUM 
+logarithm, NOUN 
+
+, SPACE 
+calcium, NOUN 
+concentration, NOUN 
+cCa, PROPN 
+decreases, VERB 
+linearly, ADV 
+logarithm, NOUN 
+immersion, NOUN 
+time, NOUN 
+t., PROPN 
+
+, SPACE 
+Figure, PROPN 
+2, NUM 
+shows, VERB 
+changes, NOUN 
+oxygen, NOUN 
+concentrations, NOUN 
+specimens, NOUN 
+immersed, VERB 
+nitric, NOUN 
+
+, SPACE 
+acid, NOUN 
+solutions, NOUN 
+buffer, NOUN 
+solutions, NOUN 
+immersion, NOUN 
+time, NOUN 
+Oxygen, PROPN 
+decreased, VERB 
+
+, SPACE 
+dissolution, NOUN 
+calcium, NOUN 
+immersion, NOUN 
+solutions, NOUN 
+logarithm, NOUN 
+oxygen, NOUN 
+
+, SPACE 
+concentration, NOUN 
+co, NOUN 
+decreases, VERB 
+linearly, ADV 
+logarithm, NOUN 
+immersion, NOUN 
+time, NOUN 
+t., PROPN 
+relative, ADJ 
+
+, SPACE 
+concentration, NOUN 
+titanium, NOUN 
+increased, VERB 
+immersion, NOUN 
+solutions, NOUN 
+shown, VERB 
+Fig, PROPN 
+
+, SPACE 
+3, X 
+logarithm, NOUN 
+titanium, NOUN 
+concentration, NOUN 
+cri, PROPN 
+increases, VERB 
+logarithm, NOUN 
+
+, SPACE 
+immersion, NOUN 
+time, NOUN 
+t., PROPN 
+
+, SPACE 
+Microdissolution, PROPN 
+calcium, NOUN 
+ions, NOUN 
+1583, NUM 
+
+, SPACE 
+
+, SPACE 
+unimmersion, VERB 
+
+, SPACE 
+pH, NUM 
+5.2, NUM 
+bf, NOUN 
+
+, SPACE 
+0.1, NUM 
+1, NUM 
+pH, NUM 
+7.2, NUM 
+bf, NOUN 
+m, VERB 
+I., PROPN 
+
+, SPACE 
+IO2, PROPN 
+IO3, PROPN 
+IO4, PROPN 
+lo5, NOUN 
+IO6, PROPN 
+IO7, PROPN 
+
+, SPACE 
+Immersion, PROPN 
+time, NOUN 
+tl, PROPN 
+s, PART 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Changes, NOUN 
+concentration, NOUN 
+calcium, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+immersion, NOUN 
+
+, SPACE 
+time, NOUN 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+na, ADP 
+phosphate, ADJ 
+citric, NOUN 
+acid, NOUN 
+buffers, NOUN 
+bf, NUM 
+
+, SPACE 
+Proportions, NOUN 
+spectra, PROPN 
+different, ADJ 
+chemical, NOUN 
+states, NOUN 
+
+, SPACE 
+0, PROPN 
+1s, NUM 
+spectra, NOUN 
+
+, SPACE 
+0, NUM 
+1s, NUM 
+XPS, PROPN 
+spectrum, NOUN 
+decomposed, VERB 
+spectra, NOUN 
+originating, VERB 
+oxide, NOUN 
+02-, NUM 
+
+, SPACE 
+hydroxide, NOUN 
+hydroxyl, PROPN 
+groups, NOUN 
+OH-, PROPN 
+hydrate, VERB 
+and/or, CCONJ 
+adsorbed, PROPN 
+water.20, PROPN 
+Figure, PROPN 
+4, NUM 
+shows, VERB 
+
+, SPACE 
+change, NOUN 
+ratio, NOUN 
+area, NOUN 
+spectrum, NOUN 
+originating, VERB 
+02-, PROPN 
+OH-, PROPN 
+
+, SPACE 
+O-‘]/[OH-1, PROPN 
+function, NOUN 
+immersion, NOUN 
+time, NOUN 
+ratio, NOUN 
+proportionally, ADV 
+increases, VERB 
+
+, SPACE 
+logarithm, NOUN 
+immersion, NOUN 
+time, NOUN 
+indicating, VERB 
+hydroxyl, PROPN 
+groups, NOUN 
+decreases, VERB 
+immersion, NOUN 
+
+, SPACE 
+time, NOUN 
+dissolution, NOUN 
+calcium, NOUN 
+
+, SPACE 
+Ti, PROPN 
+2p, NOUN 
+spectra, NOUN 
+
+, SPACE 
+Ti, PROPN 
+2p, NOUN 
+XPS, PROPN 
+spectrum, NOUN 
+decomposed, VERB 
+peaks, NOUN 
+corresponding, VERB 
+Ti, PROPN 
+Ti2, INTJ 
++, CCONJ 
+Ti3, PRON 
++, ADJ 
+
+, SPACE 
+Ti4, NOUN 
++, ADJ 
+states, NOUN 
+proportion, NOUN 
+Ti4, ADJ 
++, PROPN 
+spectrum, NOUN 
+Ti02, PROPN 
+oxidised, VERB 
+states, NOUN 
+Ti'+, INTJ 
+
+, SPACE 
+Ti3, PROPN 
++, NOUN 
+Ti4, PROPN 
++, NOUN 
+considerable, ADJ 
+interest, NOUN 
+Changes, NOUN 
+proportion, NOUN 
+Ti4, ADJ 
++, ADJ 
+oxide, NOUN 
+
+, SPACE 
+state, NOUN 
+shown, VERB 
+Fig, PROPN 
+5, NUM 
+proportion, NOUN 
+Ti4, ADJ 
++, ADJ 
+oxidised, VERB 
+state, NOUN 
+increases, NOUN 
+
+, SPACE 
+immersion, NOUN 
+time, NOUN 
+indicating, VERB 
+surface, NOUN 
+oxide, NOUN 
+stable, ADJ 
+immersion, NOUN 
+
+, SPACE 
+thickness, NOUN 
+surface, NOUN 
+oxide, NOUN 
+
+, SPACE 
+thickness, NOUN 
+surface, NOUN 
+oxide, NOUN 
+determined, VERB 
+specimens, NOUN 
+
+, SPACE 
+immersed, VERB 
+short, ADJ 
+duration, NOUN 
+metallic, ADJ 
+state, NOUN 
+Ti, PROPN 
+undetected, VERB 
+
+, SPACE 
+T., PROPN 
+Hanawa, PROPN 
+el, PROPN 
+al, PROPN 
+
+, SPACE 
+0, NUM 
+pH, NUM 
+-0.99, NOUN 
+na, ADP 
+
+, SPACE 
+l, PROPN 
+pHOna, PROPN 
+
+, SPACE 
+0, NUM 
+pH, NUM 
+1, NUM 
+na, ADP 
+
+, SPACE 
+n, NOUN 
+pH2na, PROPN 
+
+, SPACE 
+pH, NUM 
+5.2, NUM 
+bf, NOUN 
+
+, SPACE 
+pH, NUM 
+7.2, NUM 
+bf, NOUN 
+
+, SPACE 
+102, NUM 
+IO3, PROPN 
+IO4, PROPN 
+lo5, NOUN 
+IO6, PROPN 
+IO7, PROPN 
+
+, SPACE 
+Immwsh, PROPN 
+time, NOUN 
+t, PROPN 
+s, PROPN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Changes, NOUN 
+concentration, NOUN 
+oxygen, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+immersion, NOUN 
+
+, SPACE 
+time, NOUN 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+na, ADP 
+phosphate, ADJ 
+citric, NOUN 
+acid, NOUN 
+buffers, NOUN 
+bf, NUM 
+
+, SPACE 
+specimens, NOUN 
+calculation, NOUN 
+thickness, NOUN 
+performed, VERB 
+ratio, NOUN 
+integrated, VERB 
+
+, SPACE 
+intensity, NOUN 
+metallic, ADJ 
+state, NOUN 
+oxide, NOUN 
+state, NOUN 
+time, NOUN 
+quantification, NOUN 
+
+, SPACE 
+change, NOUN 
+thickness, NOUN 
+shown, VERB 
+Fig, PROPN 
+6, NUM 
+thickness, NOUN 
+oxide, NOUN 
+decreased, VERB 
+
+, SPACE 
+immersion, NOUN 
+indicating, VERB 
+surface, NOUN 
+oxide, NOUN 
+dissolves, VERB 
+dissolution, NOUN 
+calcium, NOUN 
+
+, SPACE 
+Core, NOUN 
+level, NOUN 
+binding, VERB 
+energy, NOUN 
+
+, SPACE 
+Core, PROPN 
+level, NOUN 
+binding, VERB 
+energies, NOUN 
+carbon, NOUN 
+noticeable, ADJ 
+tendency, NOUN 
+change, VERB 
+
+, SPACE 
+immersion, NOUN 
+time, NOUN 
+binding, VERB 
+energies, NOUN 
+range, NOUN 
+284.9, NUM 
+285.4, NUM 
+eV., PROPN 
+
+, SPACE 
+Changes, NOUN 
+core, NOUN 
+level, NOUN 
+binding, VERB 
+energy, NOUN 
+calcium, NOUN 
+immersion, NOUN 
+time, NOUN 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+binding, VERB 
+energy, NOUN 
+increases, NOUN 
+proportionally, ADV 
+logarithm, NOUN 
+immersion, NOUN 
+time, NOUN 
+
+, SPACE 
+indicating, VERB 
+chemical, ADJ 
+atmosphere, NOUN 
+calcium, NOUN 
+changed, VERB 
+immersion, NOUN 
+
+, SPACE 
+dissolution, NOUN 
+solution, NOUN 
+composition, NOUN 
+calcium, NOUN 
+dependent, ADJ 
+
+, SPACE 
+depth, NOUN 
+
+, SPACE 
+changes, NOUN 
+core, NOUN 
+level, NOUN 
+binding, VERB 
+energies, NOUN 
+0, NUM 
+1, NUM 
+s, NOUN 
+electrons, NOUN 
+02-, NOUN 
+state, NOUN 
+
+, SPACE 
+Ti, PROPN 
+2~312, NUM 
+electrons, NOUN 
+Ti4, ADJ 
++, CCONJ 
+state, NOUN 
+shown, VERB 
+Figs, PROPN 
+8, NUM 
+9, NUM 
+respectively, ADV 
+binding, VERB 
+
+, SPACE 
+energies, NOUN 
+increased, VERB 
+immersion, NOUN 
+time, NOUN 
+dissolution, NOUN 
+calcium, NOUN 
+
+, SPACE 
+Microdissolution, PROPN 
+calcium, NOUN 
+ions, NOUN 
+
+, SPACE 
+1, NUM 
+.“I, NOUN 
+.“I, NOUN 
+n, NOUN 
+
+, SPACE 
+Ti, PROPN 
+0pH, PROPN 
+-0.99, NOUN 
+na, ADP 
+
+, SPACE 
+l, PROPN 
+pHOna, PROPN 
+
+, SPACE 
+OpHlna, PROPN 
+
+, SPACE 
+mpH, SYM 
+2, NUM 
+na, ADP 
+
+, SPACE 
+ApH5.2, PROPN 
+M, PROPN 
+
+, SPACE 
+1pH7.2, NUM 
+M, PROPN 
+
+, SPACE 
+/MA, PROPN 
+B, PROPN 
+B, NOUN 
+
+, SPACE 
+unimmerslon, NOUN 
+
+, SPACE 
+k, NOUN 
+
+, SPACE 
+10L, NUM 
+
+, SPACE 
+10, NUM 
+2, NUM 
+10, NUM 
+10, NUM 
+4, NUM 
+10, NUM 
+5, NUM 
+10, NUM 
+6, NUM 
+10, NUM 
+7, NUM 
+1585, NUM 
+
+, SPACE 
+tmmersJon, X 
+t/, NOUN 
+8, NUM 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Changes, NOUN 
+concentration, NOUN 
+titanium, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+
+, SPACE 
+immersion, NOUN 
+time, NOUN 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+na, ADP 
+phosphate, ADJ 
+citric, NOUN 
+acid, NOUN 
+buffers, NOUN 
+bf, NUM 
+
+, SPACE 
+DISCUSSION, PROPN 
+
+, SPACE 
+relative, ADJ 
+concentrations, NOUN 
+determined, VERB 
+study, NOUN 
+outer, ADJ 
+
+, SPACE 
+oxide, NOUN 
+layer, NOUN 
+depth, NOUN 
+smaller, ADJ 
+thickness, NOUN 
+surface, NOUN 
+oxide, NOUN 
+oxide, NOUN 
+
+, SPACE 
+thicker, ADJ 
+analysing, ADJ 
+depth, NOUN 
+XPS, PROPN 
+specimen, NOUN 
+immersed, VERB 
+
+, SPACE 
+short, ADJ 
+term, NOUN 
+hand, NOUN 
+detection, NOUN 
+depth, NOUN 
+larger, ADJ 
+thickness, NOUN 
+
+, SPACE 
+surface, NOUN 
+oxide, NOUN 
+oxide, NOUN 
+thinner, ADJ 
+detection, NOUN 
+depth, NOUN 
+XPS, PROPN 
+
+, SPACE 
+titanium, NOUN 
+substrate, NOUN 
+detected, VERB 
+oxide, NOUN 
+cases, NOUN 
+quantification, NOUN 
+
+, SPACE 
+performed, VERB 
+surface, NOUN 
+oxide, NOUN 
+layer, NOUN 
+substrate, ADJ 
+value, NOUN 
+employed, VERB 
+
+, SPACE 
+calculation, NOUN 
+
+, SPACE 
+Calcium, PROPN 
+dissolution, NOUN 
+kinetics, NOUN 
+
+, SPACE 
+logarithm, NOUN 
+calcium, NOUN 
+concentration, NOUN 
+cCa, NOUN 
+linear, ADJ 
+relationship, NOUN 
+logarithm, NOUN 
+
+, SPACE 
+immersion, NOUN 
+time, NOUN 
+t, PROPN 
+Fig, PROPN 
+1, NUM 
+following, VERB 
+equation, NOUN 
+holds, VERB 
+
+, SPACE 
+logcca, NOUN 
+=, ADJ 
+kIlogt, PROPN 
++, PROPN 
+kx, PROPN 
+1, X 
+
+, SPACE 
+kI, PROPN 
+Frz, PROPN 
+constants, NOUN 
+kl, NOUN 
+approximately, ADV 
+-0.70, NUM 
+nitric, NOUN 
+acid, NOUN 
+solutions, NOUN 
+
+, SPACE 
+-0.23, NOUN 
+buffer, NOUN 
+solutions, NOUN 
+independent, ADJ 
+concentrations, NOUN 
+Equation, NOUN 
+1, NUM 
+
+, SPACE 
+holds, VERB 
+cc&co, X 
+co, NOUN 
+initial, ADJ 
+concentration, NOUN 
+calcium, NOUN 
+indicated, VERB 
+
+, SPACE 
+level, NOUN 
+unimmersion, NOUN 
+Fig, PROPN 
+1, NUM 
+
+, SPACE 
+1586, NUM 
+T., PROPN 
+Hanawa, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+0, NUM 
+pH, NUM 
+-0.99, NOUN 
+na, ADP 
+
+, SPACE 
+
+, SPACE 
+0, X 
+lo, PROPN 
+103, NUM 
+IO4, PROPN 
+IO5, PROPN 
+IO6, PROPN 
+IO7, PROPN 
+
+, SPACE 
+Immersion, PROPN 
+time, NOUN 
+t, PROPN 
+s, PROPN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Changes, NOUN 
+integrated, VERB 
+intensity, NOUN 
+ratio, NOUN 
+0, NUM 
+1s, PROPN 
+peak, NOUN 
+02-, NOUN 
+state, NOUN 
+OH-, PROPN 
+
+, SPACE 
+state, NOUN 
+immersion, NOUN 
+time, NOUN 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+na, ADP 
+phosphate, ADJ 
+citric, NOUN 
+acid, NOUN 
+buffers, NOUN 
+bn, ADP 
+
+, SPACE 
+seen, VERB 
+Fig, PROPN 
+1, NUM 
+dissolution, NOUN 
+begin, VERB 
+immediately, ADV 
+immersion, NOUN 
+
+, SPACE 
+incubation, NOUN 
+time, NOUN 
+needed, VERB 
+dissolution, NOUN 
+incubation, NOUN 
+time, NOUN 
+dissolution, NOUN 
+
+, SPACE 
+determined, VERB 
+intersection, NOUN 
+extrapolated, VERB 
+lines, NOUN 
+Fig, PROPN 
+1, NUM 
+initial, ADJ 
+
+, SPACE 
+concentration, NOUN 
+calcium, NOUN 
+co, NOUN 
+immersion, NOUN 
+unimmersion, NOUN 
+Fig, PROPN 
+1, NUM 
+incubation, NOUN 
+
+, SPACE 
+time, NOUN 
+function, NOUN 
+pH, NUM 
+nitric, NOUN 
+acid, NOUN 
+shown, VERB 
+Fig, PROPN 
+10, NUM 
+logarithm, NOUN 
+incubation, NOUN 
+
+, SPACE 
+time, NOUN 
+decreases, VERB 
+linearly, ADV 
+logarithm, NOUN 
+concentration, NOUN 
+nitric, NOUN 
+acid, NOUN 
+pH, NUM 
+5.2, NUM 
+
+, SPACE 
+7.2, NUM 
+buffers, NOUN 
+incubation, NOUN 
+times, NOUN 
+9, NUM 
+x, SYM 
+lo4, PROPN 
+s, PROPN 
+6, NUM 
+x, SYM 
+lo5, NOUN 
+s, PROPN 
+respectively, ADV 
+
+, SPACE 
+dissolution, NOUN 
+calcium, NOUN 
+ions, NOUN 
+begins, VERB 
+dissolution, NOUN 
+follows, VERB 
+equation, NOUN 
+1, NUM 
+calcium, NOUN 
+ion-, NOUN 
+
+, SPACE 
+implanted, VERB 
+titanium, NOUN 
+study, NOUN 
+calcium, NOUN 
+atoms, NOUN 
+distribute, VERB 
+Gaussian, ADJ 
+function, NOUN 
+
+, SPACE 
+depth, NOUN 
+direction, NOUN 
+maximum, ADJ 
+concentration, NOUN 
+locates, VERB 
+certain, ADJ 
+depth, NOUN 
+
+, SPACE 
+outermost, ADJ 
+surface.5, NOUN 
+7, NUM 
+concentration, NOUN 
+calcium, NOUN 
+outermost, ADJ 
+surface, NOUN 
+relatively, ADV 
+
+, SPACE 
+small, ADJ 
+dissolution, NOUN 
+calcium, NOUN 
+slight, ADJ 
+outermost, ADJ 
+surface, NOUN 
+dissolves, NOUN 
+
+, SPACE 
+incubation, NOUN 
+time, NOUN 
+equals, VERB 
+time, NOUN 
+dissolution, NOUN 
+outermost, ADJ 
+surface, NOUN 
+
+, SPACE 
+specific, ADJ 
+concentration, NOUN 
+solution, NOUN 
+
+, SPACE 
+equation, NOUN 
+l, NOUN 
+
+, SPACE 
+cCa, NOUN 
+=, PROPN 
+10kltkh, PROPN 
+=, SYM 
+k3tkl, PROPN 
+2, X 
+
+, SPACE 
+k3, PROPN 
+=, SYM 
+10, NUM 
+dissolved, VERB 
+calcium, NOUN 
+CO, PROPN 
+cca, PROPN 
+dissolution, ADJ 
+rate, NOUN 
+
+, SPACE 
+calcium, NOUN 
+specimens, NOUN 
+rCa, NOUN 
+
+, SPACE 
+Microdissolution, PROPN 
+calcium, NOUN 
+ions, NOUN 
+1587, NUM 
+
+, SPACE 
+
+, SPACE 
+gure, NOUN 
+Ti, PROPN 
+WV, PROPN 
+
+, SPACE 
+zlbH1, CCONJ 
+na, ADP 
+
+, SPACE 
+IpH2na, NOUN 
+
+, SPACE 
+h, NOUN 
+pH, NUM 
+5.2, NUM 
+bf, NOUN 
+
+, SPACE 
+pH, NUM 
+7.2, NUM 
+bf, NOUN 
+
+, SPACE 
+0.5, NUM 
+L, NOUN 
+1, NUM 
+
+, SPACE 
+IO2, PROPN 
+IO3, PROPN 
+lo4, NOUN 
+IO5, PROPN 
+log, VERB 
+lo7, NOUN 
+
+, SPACE 
+Immersion, PROPN 
+time, NOUN 
+t, PROPN 
+s, PROPN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Changes, NOUN 
+integrated, VERB 
+intensity, NOUN 
+ratio, NOUN 
+Ti, PROPN 
+2~3,~, NUM 
+peak, NOUN 
+Ti4, ADJ 
++, ADJ 
+state, NOUN 
+total, ADJ 
+
+, SPACE 
+Ti, PROPN 
+2~3,~, NUM 
+peaks, NOUN 
+oxide, NOUN 
+states, NOUN 
+Ti*+, PROPN 
+Ti3, NOUN 
++, PROPN 
+Ti4, PROPN 
++, NUM 
+immersion, NOUN 
+time, NOUN 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+na, ADP 
+
+, SPACE 
+phosphate, ADJ 
+citric, NOUN 
+acid, NOUN 
+buffers, NOUN 
+bf, NUM 
+
+, SPACE 
+rCa, NOUN 
+=, PROPN 
+-d(co, PROPN 
+cca)/dt, PROPN 
+=, SYM 
+k&#‘-, NOUN 
+3, X 
+
+, SPACE 
+Consequently, ADV 
+dissolution, ADJ 
+rate, NOUN 
+calcium, NOUN 
+ions, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+
+, SPACE 
+proportional, ADJ 
+immersion, VERB 
+time, NOUN 
+power, NOUN 
+ki, PROPN 
+1, NUM 
+words, NOUN 
+dissolution, ADJ 
+
+, SPACE 
+rate, NOUN 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+proportional, ADJ 
+t-, X 
+buffer, NOUN 
+solutions, NOUN 
+
+, SPACE 
+proportional, ADJ 
+t-‘.23, NOUN 
+
+, SPACE 
+Change, PROPN 
+surface, NOUN 
+oxide, NOUN 
+according, VERB 
+dissolution, NOUN 
+
+, SPACE 
+surface, NOUN 
+modified, VERB 
+layer, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+consists, VERB 
+calcium, NOUN 
+
+, SPACE 
+titanate, NOUN 
+Calcium, NOUN 
+dissolved, VERB 
+surface, NOUN 
+oxide, NOUN 
+immersion, NOUN 
+concentration, NOUN 
+
+, SPACE 
+calcium, NOUN 
+decreased, VERB 
+Fig, PROPN 
+1, NUM 
+Oxygen, PROPN 
+decreased, VERB 
+Fig, PROPN 
+2, NUM 
+titanium, NOUN 
+increased, VERB 
+Fig, PROPN 
+
+, SPACE 
+3, NUM 
+immersion, NOUN 
+time, NOUN 
+phenomena, NOUN 
+correspond, VERB 
+dissolution, NOUN 
+surface, NOUN 
+oxide, NOUN 
+
+, SPACE 
+composition, NOUN 
+calcium, NOUN 
+titanate, NOUN 
+CaTiOs, PROPN 
+following, VERB 
+change, NOUN 
+surface, NOUN 
+oxide, NOUN 
+
+, SPACE 
+possibly, ADV 
+occurs, VERB 
+release, NOUN 
+calcium, NOUN 
+dissolution, NOUN 
+oxide, NOUN 
+
+, SPACE 
+CaTiOy, PROPN 
++, CCONJ 
+TiOz, PROPN 
+4, X 
+
+, SPACE 
+ox, NOUN 
+represents, VERB 
+oxide, NOUN 
+state, NOUN 
+According, VERB 
+equation, NOUN 
+4, NUM 
+relative, ADJ 
+concentrations, NOUN 
+
+, SPACE 
+calcium, NOUN 
+oxygen, NOUN 
+decrease, NOUN 
+titanium, NOUN 
+increases, NOUN 
+supported, VERB 
+
+, SPACE 
+result, NOUN 
+quantification, NOUN 
+XPS, PROPN 
+
+, SPACE 
+opH, VERB 
+-0.99, NUM 
+na, ADP 
+
+, SPACE 
+l, PROPN 
+pHOna, PROPN 
+
+, SPACE 
+q, ADJ 
+pH, NUM 
+1, NUM 
+na, ADP 
+
+, SPACE 
+n, PRON 
+pH, NUM 
+2, NUM 
+na, ADP 
+
+, SPACE 
+ApH, PROPN 
+5.2, NUM 
+bf, NOUN 
+
+, SPACE 
+pH, NUM 
+7.2, NUM 
+M, NUM 
+
+, SPACE 
+m, VERB 
+c, PROPN 
+
+, SPACE 
+3, X 
+102, NUM 
+IO3, PROPN 
+IO4, PROPN 
+lo5, NOUN 
+IO6, PROPN 
+IO7, PROPN 
+
+, SPACE 
+Immersion, PROPN 
+time, NOUN 
+t, NOUN 
+8, NUM 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Changes, NOUN 
+thickness, NOUN 
+surface, NOUN 
+oxide, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+immersion, NOUN 
+
+, SPACE 
+time, NOUN 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+na, ADP 
+phosphate, ADJ 
+citric, NOUN 
+acid, NOUN 
+buffers, NOUN 
+bf, NUM 
+
+, SPACE 
+previous, ADJ 
+study, NOUN 
+shown, VERB 
+amounts, NOUN 
+hydroxyl, PROPN 
+groups, NOUN 
+surface, NOUN 
+
+, SPACE 
+oxide, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+15.40, NUM 
++, SYM 
+10.58, NUM 
+nm-, NUM 
+considerably, ADV 
+larger, ADJ 
+
+, SPACE 
+titanium, NOUN 
+1.84, NUM 
++, NUM 
+1.56, NUM 
+nm-*),*I, PROPN 
+supported, VERB 
+XPS, PROPN 
+study.4, PROPN 
+
+, SPACE 
+study, NOUN 
+demonstrated, VERB 
+shown, VERB 
+Fig, PROPN 
+4, NUM 
+hydroxyl, PROPN 
+radical, PROPN 
+
+, SPACE 
+decreases, NOUN 
+immersion, NOUN 
+time, NOUN 
+indicating, VERB 
+composition, NOUN 
+surface, NOUN 
+oxide, NOUN 
+calcium-, ADJ 
+
+, SPACE 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+approaches, NOUN 
+titanium, NOUN 
+supports, VERB 
+change, NOUN 
+
+, SPACE 
+according, VERB 
+equation, NOUN 
+4, NUM 
+oxygen, NOUN 
+oxide, NOUN 
+replaced, VERB 
+OH-, PROPN 
+proportion, NOUN 
+
+, SPACE 
+number, NOUN 
+oxygen, NOUN 
+atom, NOUN 
+addition, NOUN 
+increase, NOUN 
+binding, VERB 
+energy, NOUN 
+Ti, PROPN 
+2psi2, NOUN 
+
+, SPACE 
+electrons, NOUN 
+Fig, PROPN 
+9, NUM 
+correspond, VERB 
+change, NOUN 
+equation, NOUN 
+4, NUM 
+Ti4, ADJ 
++, SYM 
+2pa12, NOUN 
+electron, NOUN 
+
+, SPACE 
+binding, VERB 
+energy, NOUN 
+CaTi03,458.4, PROPN 
+eV, NUM 
+smaller, ADJ 
+Ti02, PROPN 
+458.8, NUM 
+eV.4, NOUN 
+binding, VERB 
+
+, SPACE 
+energy, NOUN 
+458.99, NUM 
+eV, NUM 
+calcium, NOUN 
+completely, ADV 
+dissolves, VERB 
+pH, NUM 
+0.99, NUM 
+nitric, NOUN 
+acid, NOUN 
+Fig, PROPN 
+9, NUM 
+
+, SPACE 
+accordance, NOUN 
+binding, VERB 
+energy, NOUN 
+anodizing, NOUN 
+oxide, NOUN 
+film, NOUN 
+titanium, NOUN 
+
+, SPACE 
+458.98, NUM 
++0.04, PROPN 
+eV, PROPN 
+
+, SPACE 
+thickness, NOUN 
+surface, NOUN 
+oxide, NOUN 
+3.5, NUM 
+5.2, NUM 
+nm, NOUN 
+calcium, NOUN 
+released, VERB 
+
+, SPACE 
+immersion, NOUN 
+Fig, PROPN 
+6, NUM 
+values, NOUN 
+range, NOUN 
+thickness, NOUN 
+surface, NOUN 
+oxide, NOUN 
+
+, SPACE 
+titanium, NOUN 
+indicating, VERB 
+surface, NOUN 
+oxide, NOUN 
+thickness, NOUN 
+approaches, VERB 
+titanium, NOUN 
+
+, SPACE 
+Furthermore, ADV 
+binding, VERB 
+energy, NOUN 
+2psi2, NOUN 
+electrons, NOUN 
+Eb, PROPN 
+caZp, PROPN 
+increases, VERB 
+
+, SPACE 
+dissolution, NOUN 
+calcium, NOUN 
+Fig, PROPN 
+7, NUM 
+Eb, PROPN 
+c+, PROPN 
+CaTiOs, PROPN 
+346.6, NUM 
+eV, NUM 
+Ca(OH, NOUN 
+
+, SPACE 
+348.0, NUM 
+
+, SPACE 
+347.0, NUM 
+
+, SPACE 
+0, X 
+
+, SPACE 
+w, PROPN 
+347.6, NUM 
+
+, SPACE 
+B, PROPN 
+
+, SPACE 
+t, PROPN 
+
+, SPACE 
+Q, PROPN 
+347.4, NUM 
+
+, SPACE 
+P, NOUN 
+
+, SPACE 
+z, NOUN 
+
+, SPACE 
+5, NUM 
+347.2, NUM 
+Microdissolution, PROPN 
+calcium, NOUN 
+ions, NOUN 
+
+, SPACE 
+2P3d2, PROPN 
+
+, SPACE 
+0, NUM 
+pH, NUM 
+-0.99, NOUN 
+na, ADP 
+
+, SPACE 
+l, PROPN 
+pHOna, PROPN 
+
+, SPACE 
+0, NUM 
+pH, NUM 
+1, NUM 
+na, ADP 
+
+, SPACE 
+wpH2na, NOUN 
+
+, SPACE 
+pH, NUM 
+5.2, NUM 
+bf, NOUN 
+
+, SPACE 
+pH, NUM 
+7.2, NUM 
+bf, NOUN 
+cl, NOUN 
+
+, SPACE 
+El, PROPN 
+
+, SPACE 
+
+, SPACE 
+./f, PUNCT 
+4, NUM 
+unimmersion, NOUN 
+
+, SPACE 
+347.0, NUM 
+I-, NUM 
+
+, SPACE 
+IO2, PROPN 
+IO3, PROPN 
+IO4, PROPN 
+IO5, PROPN 
+IO6, PROPN 
+IO, PROPN 
+1589, NUM 
+
+, SPACE 
+Immersion, PROPN 
+time, NOUN 
+t/, NOUN 
+8, NUM 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+Changes, NOUN 
+binding, VERB 
+energy, NOUN 
+2p, NOUN 
+electrons, NOUN 
+calcium, NOUN 
+species, NOUN 
+calcium-, ADJ 
+
+, SPACE 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+immersion, NOUN 
+time, NOUN 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+na, ADP 
+phosphate, ADJ 
+citric, NOUN 
+acid, NOUN 
+
+, SPACE 
+buffers, NOUN 
+bf, NUM 
+
+, SPACE 
+347.2, NUM 
+eV, NUM 
+according, VERB 
+previous, ADJ 
+study.4, PROPN 
+Calcium, PROPN 
+existed, VERB 
+carbonate, NOUN 
+nitrate, ADJ 
+
+, SPACE 
+carbonate, NOUN 
+nitrate, ADJ 
+peaks, NOUN 
+detected, VERB 
+XPS, PROPN 
+change, NOUN 
+Eb, PROPN 
+cazp, NOUN 
+
+, SPACE 
+explicable, ADJ 
+follows, VERB 
+calcium, NOUN 
+present, ADJ 
+calcium, NOUN 
+hydroxide, ADV 
+outermost, ADJ 
+surface, NOUN 
+
+, SPACE 
+surface, NOUN 
+oxide, NOUN 
+calcium, NOUN 
+easily, ADV 
+reacts, VERB 
+moisture, NOUN 
+ambient, ADJ 
+air, NOUN 
+hypothesis, NOUN 
+
+, SPACE 
+supported, VERB 
+large, ADJ 
+hydroxyl, PROPN 
+groups, NOUN 
+surface, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+
+, SPACE 
+titanium, NOUN 
+described, VERB 
+above.2, NOUN 
+relative, ADJ 
+calcium, NOUN 
+hydroxide, ADV 
+surface, NOUN 
+
+, SPACE 
+oxide, NOUN 
+small, ADJ 
+E6,ca2r, NOUN 
+governed, VERB 
+calcium, NOUN 
+titanate, NOUN 
+main, ADJ 
+component, NOUN 
+
+, SPACE 
+hand, NOUN 
+relative, ADJ 
+calcium, NOUN 
+hydroxide, ADV 
+surface, NOUN 
+large, ADJ 
+
+, SPACE 
+dissolution, NOUN 
+surface, NOUN 
+oxide, NOUN 
+binding, VERB 
+energy, NOUN 
+Eb, PROPN 
+ca;?p, NOUN 
+case, NOUN 
+governed, VERB 
+
+, SPACE 
+calcium, NOUN 
+hydroxide, ADV 
+calcium, NOUN 
+titanate, NOUN 
+relatively, ADV 
+small, ADJ 
+
+, SPACE 
+equation, NOUN 
+4, NUM 
+strictly, ADV 
+rewritten, VERB 
+follows, VERB 
+aqueous, ADJ 
+solution, NOUN 
+considering, VERB 
+mass, ADJ 
+
+, SPACE 
+balance, NOUN 
+electric, ADJ 
+charge, NOUN 
+balance, NOUN 
+
+, SPACE 
+Ca(Of-, PROPN 
++, CCONJ 
+CaTi03tox, NOUN 
++, PUNCT 
+2Hf, NUM 
++, PUNCT 
+Ca(OHh, PROPN 
++, CCONJ 
+TiOz, PROPN 
++, CCONJ 
++, CCONJ 
+H20taq, NUM 
+5, NUM 
+
+, SPACE 
+WOW2~, PROPN 
++, CCONJ 
+2H, PROPN 
++, PROPN 
+Caf, PROPN 
++, CCONJ 
+3, NUM 
+Waq, PROPN 
+
+, SPACE 
+1590, NUM 
+T., PROPN 
+Hanawa, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Unimmersion, PROPN 
+J, PROPN 
+
+, SPACE 
+Immersion, PROPN 
+time, NOUN 
+t, PROPN 
+s, PROPN 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+Changes, NOUN 
+0, NUM 
+electron, NOUN 
+binding, VERB 
+energy, NOUN 
+02-, PROPN 
+species, NOUN 
+surface, NOUN 
+oxide, NOUN 
+film, NOUN 
+
+, SPACE 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+immersion, NOUN 
+time, NOUN 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+na, ADP 
+phosphate-, NOUN 
+
+, SPACE 
+citric, NOUN 
+acid, NOUN 
+buffers, NOUN 
+bf, NUM 
+
+, SPACE 
+aq, NOUN 
+represents, VERB 
+species, NOUN 
+aqueous, ADJ 
+solution, NOUN 
+calcium, NOUN 
+titanate, NOUN 
+
+, SPACE 
+calcium, NOUN 
+hydroxide, ADV 
+surface, NOUN 
+oxide, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+release, NOUN 
+calcium, NOUN 
+
+, SPACE 
+solution, NOUN 
+resultant, ADJ 
+surface, NOUN 
+oxide, NOUN 
+tends, VERB 
+titanium, VERB 
+oxide, NOUN 
+
+, SPACE 
+mean, ADJ 
+composition, NOUN 
+surface, NOUN 
+oxide, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+
+, SPACE 
+immersion, NOUN 
+determined, VERB 
+XPS, PROPN 
+data, NOUN 
+account, NOUN 
+mass, ADJ 
+balance, NOUN 
+
+, SPACE 
+proportions, NOUN 
+states, NOUN 
+oxygen, NOUN 
+follows, VERB 
+
+, SPACE 
+TiCao.l601.39(OH)t, PROPN 
+,s, PROPN 
+.0.50H20, PROPN 
+6, NUM 
+
+, SPACE 
+valence, NOUN 
+titanium, NOUN 
+calculated, VERB 
+3.3, NUM 
+equation, NOUN 
+6, NUM 
+hand, NOUN 
+
+, SPACE 
+valence, NOUN 
+titanium, NOUN 
+estimated, VERB 
+integrated, VERB 
+intensities, NOUN 
+Ti, PROPN 
+2p, NOUN 
+spectra, PROPN 
+originating, VERB 
+
+, SPACE 
+Ti2, NOUN 
++, PROPN 
+Ti3, NOUN 
++, NOUN 
+Ti4, ADJ 
++, ADJ 
+states, NOUN 
+3.6, NUM 
+discrepancy, NOUN 
+valences, NOUN 
+3.3, NUM 
+3.6, NUM 
+
+, SPACE 
+range, NOUN 
+experimental, ADJ 
+error, NOUN 
+Apart, ADV 
+estimation, NOUN 
+following, VERB 
+
+, SPACE 
+composition, NOUN 
+derived, VERB 
+electric, ADJ 
+charge, NOUN 
+balance, NOUN 
+mass, ADJ 
+balance, NOUN 
+assuming, VERB 
+
+, SPACE 
+titanium, NOUN 
+exists, VERB 
+Ti4, ADJ 
++, ADJ 
+calcium, NOUN 
+exists, VERB 
+Ca2, ADV 
++, NOUN 
+
+, SPACE 
+TitvCa, NOUN 
+~~OX(OH)~,J~_~X.(X, NOUN 
+1.37)HzO, PROPN 
+7, NUM 
+
+, SPACE 
+Substituting, VERB 
+1.39, NUM 
+obtained, VERB 
+equation, NOUN 
+6, NUM 
+X, NOUN 
+equation, NOUN 
+7, NUM 
+6, NUM 
+
+, SPACE 
+7, NUM 
+accordance, NOUN 
+OH-, PROPN 
+H20, PROPN 
+
+, SPACE 
+Microdissolution, PROPN 
+calcium, NOUN 
+ions, NOUN 
+1591, NUM 
+
+, SPACE 
+459.2, NUM 
+
+, SPACE 
+3, NUM 
+459.0, NUM 
+
+, SPACE 
+ruQ, NOUN 
+
+, SPACE 
+E, NOUN 
+4588, NUM 
+
+, SPACE 
+5, NUM 
+
+, SPACE 
+z, NOUN 
+v, ADP 
+
+, SPACE 
+g, NOUN 
+458.6, NUM 
+.““I, X 
+‘I, PROPN 
+1, NUM 
+=, X 
+s.1, NOUN 
+
+, SPACE 
+Ti, PROPN 
+2p3n, PROPN 
+TV+, NOUN 
+
+, SPACE 
+.I, PROPN 
+.,U, PUNCT 
+
+, SPACE 
+450.4, NUM 
+I-, NUM 
+10, NUM 
+10, NUM 
+3, NUM 
+10, NUM 
+4, NUM 
+IO, PROPN 
+5, NUM 
+10, NUM 
+6, NUM 
+10, NUM 
+7, NUM 
+
+, SPACE 
+Immersion, PROPN 
+time, NOUN 
+t, PROPN 
+s, PROPN 
+
+, SPACE 
+Fig, PROPN 
+9, NUM 
+Changes, NOUN 
+Ti, PROPN 
+2, NUM 
+~, NOUN 
+x1~, NOUN 
+binding, VERB 
+energy, NOUN 
+Ti4, PROPN 
++, ADJ 
+species, NOUN 
+surface, NOUN 
+oxide, NOUN 
+film, NOUN 
+
+, SPACE 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+immersion, NOUN 
+time, NOUN 
+nitric, ADJ 
+acid, NOUN 
+solutions, NOUN 
+na, ADP 
+phosphate-, NOUN 
+
+, SPACE 
+citric, NOUN 
+acid, NOUN 
+buffers, NOUN 
+bf, NUM 
+
+, SPACE 
+discrepancy, NOUN 
+caused, VERB 
+existence, NOUN 
+Ti2, NOUN 
++, PROPN 
+Ti3, PROPN 
++, PROPN 
+surface, NOUN 
+oxide, NOUN 
+chemical, NOUN 
+
+, SPACE 
+composition, NOUN 
+surface, NOUN 
+oxide, NOUN 
+material, NOUN 
+immersed, VERB 
+pH, NUM 
+0.99, NUM 
+nitric, NOUN 
+acid, NOUN 
+lo5, PROPN 
+s, PROPN 
+
+, SPACE 
+calcium, NOUN 
+ions, NOUN 
+completely, ADV 
+dissolved, VERB 
+immersion, NOUN 
+determined, VERB 
+follows, VERB 
+
+, SPACE 
+Ti0r.67(OH)0,33, INTJ 
+.0.22H20, PROPN 
+8), NUM 
+
+, SPACE 
+valence, NOUN 
+titanium, NOUN 
+determined, VERB 
+3.7, NUM 
+equation, NOUN 
+8), NUM 
+integrated, VERB 
+
+, SPACE 
+intensities, NOUN 
+Ti, PROPN 
+2p, NOUN 
+spectra, PROPN 
+originating, VERB 
+Ti*+, PROPN 
+Ti3, NOUN 
++, PROPN 
+Ti4, ADJ 
++, CCONJ 
+states, NOUN 
+valence, NOUN 
+
+, SPACE 
+estimated, VERB 
+3.7, NUM 
+valences, NOUN 
+completely, ADV 
+accord, NOUN 
+valence, NOUN 
+
+, SPACE 
+titanium, NOUN 
+equation, NOUN 
+6, NUM 
+3.3, NUM 
+increases, VERB 
+3.7, NUM 
+equation, NOUN 
+8), NUM 
+immersion, NOUN 
+
+, SPACE 
+supported, VERB 
+increase, NOUN 
+proportion, NOUN 
+Ti4, NOUN 
++, ADJ 
+surface, NOUN 
+oxide, NOUN 
+shown, VERB 
+Fig, PROPN 
+5, NUM 
+
+, SPACE 
+calcium, NOUN 
+ions, NOUN 
+implanted, VERB 
+titanium, NOUN 
+surface, NOUN 
+ions, NOUN 
+oxygen, NOUN 
+away, ADV 
+
+, SPACE 
+titanium, NOUN 
+oxide, NOUN 
+free, ADJ 
+energy, NOUN 
+oxidation, NOUN 
+calcium, NOUN 
+smaller, ADJ 
+
+, SPACE 
+titanium,23, PROPN 
+inducing, VERB 
+Ti2, NOUN 
++, CCONJ 
+Ti3, PROPN 
++, ADJ 
+oxide, NOUN 
+states, NOUN 
+similar, ADJ 
+phenomenon, NOUN 
+observed, VERB 
+Ti-, PROPN 
+
+, SPACE 
+Zr, PROPN 
+alloys, NOUN 
+zirconium, NOUN 
+takes, VERB 
+oxygen, NOUN 
+atoms, NOUN 
+titanium, NOUN 
+surface, NOUN 
+oxide.24, NOUN 
+
+, SPACE 
+proportion, NOUN 
+Ti4, NOUN 
++, ADJ 
+surface, NOUN 
+oxide, NOUN 
+increased, VERB 
+immersion, NOUN 
+Fig, PROPN 
+5, NUM 
+
+, SPACE 
+proportions, NOUN 
+lower, ADJ 
+valence, NOUN 
+oxides, NOUN 
+Ti*+, PROPN 
+Ti3, PROPN 
++, PROPN 
+decreased, VERB 
+indicates, VERB 
+
+, SPACE 
+titanium, NOUN 
+surface, NOUN 
+oxide, NOUN 
+stable, ADJ 
+immersion, NOUN 
+change, NOUN 
+occurs, VERB 
+
+, SPACE 
+nitric, NOUN 
+acid, NOUN 
+buffers, NOUN 
+surface, NOUN 
+oxide, NOUN 
+state, NOUN 
+stable, ADJ 
+state, NOUN 
+
+, SPACE 
+release, NOUN 
+calcium, NOUN 
+words, NOUN 
+surface, NOUN 
+oxide, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+
+, SPACE 
+titanium, NOUN 
+unstable, ADJ 
+aqueous, ADJ 
+solutions, NOUN 
+existence, NOUN 
+calcium, NOUN 
+
+, SPACE 
+1592, NUM 
+T., PROPN 
+Hanawa, PROPN 
+rt, PROPN 
+al, PROPN 
+
+, SPACE 
+1o-3, NUM 
+lo-, NUM 
+10, NUM 
+l, NOUN 
+loo, PROPN 
+IO, PROPN 
+lo, PROPN 
+
+, SPACE 
+Concentr8tion, PROPN 
+nitric, NOUN 
+acid, NOUN 
+c/, NOUN 
+mol, PROPN 
+I-1, PROPN 
+
+, SPACE 
+Fig, PROPN 
+10, NUM 
+Incubation, NOUN 
+time, NOUN 
+dissolution, NOUN 
+calcium, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+
+, SPACE 
+immersion, NOUN 
+nitric, NOUN 
+acid, NOUN 
+solutions, NOUN 
+
+, SPACE 
+gold, NOUN 
+color, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+originate, VERB 
+Ti2, NOUN 
++, SYM 
+oxide, NOUN 
+
+, SPACE 
+TiO., NOUN 
+elimination, NOUN 
+color, NOUN 
+dissolution, NOUN 
+surface, NOUN 
+oxide, NOUN 
+caused, VERB 
+
+, SPACE 
+decrease, NOUN 
+Ti’+, NOUN 
+addition, NOUN 
+decrease, NOUN 
+thickness, NOUN 
+surface, NOUN 
+oxide, NOUN 
+
+, SPACE 
+influence, VERB 
+change, NOUN 
+color, NOUN 
+
+, SPACE 
+DISSOLUTION, PROPN 
+HARD, ADJ 
+TISSUE, NOUN 
+
+, SPACE 
+discussion, NOUN 
+correct, ADJ 
+nitric, NOUN 
+acid, NOUN 
+solutions, NOUN 
+buffers, NOUN 
+
+, SPACE 
+dissolution, NOUN 
+calcium, NOUN 
+ions, NOUN 
+begins, VERB 
+approximately, ADV 
+day, NOUN 
+insertion, NOUN 
+calcium-, ADJ 
+
+, SPACE 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+hard, ADJ 
+tissue, NOUN 
+known, VERB 
+pH, NUM 
+hard, ADJ 
+tissue, NOUN 
+
+, SPACE 
+decreases, VERB 
+5.2, NUM 
+insertion, NOUN 
+calcium, NOUN 
+began, VERB 
+released, VERB 
+9, NUM 
+x, SYM 
+lo4, PROPN 
+s, PROPN 
+
+, SPACE 
+immersion, NOUN 
+pH, NUM 
+5.2, NUM 
+buffer, NOUN 
+decrease, NOUN 
+calcium, NOUN 
+dissolution, NOUN 
+surface, NOUN 
+oxide, NOUN 
+
+, SPACE 
+detected, VERB 
+XPS, PROPN 
+changes, NOUN 
+binding, VERB 
+energy, NOUN 
+accompanied, VERB 
+release, NOUN 
+
+, SPACE 
+calcium, NOUN 
+dissolution, NOUN 
+surface, NOUN 
+oxide, NOUN 
+detected, VERB 
+buffer, NOUN 
+
+, SPACE 
+microdissolution, NOUN 
+calcium, NOUN 
+ions, NOUN 
+surely, ADV 
+occurs, VERB 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+
+, SPACE 
+inserted, VERB 
+hard, ADJ 
+tissue, NOUN 
+pH, NUM 
+near, ADP 
+inserted, VERB 
+material, NOUN 
+decreases, VERB 
+5.2, NUM 
+
+, SPACE 
+induces, VERB 
+tile, ADJ 
+supersaturation, NOUN 
+calcium, NOUN 
+ions, NOUN 
+calcium, NOUN 
+phosphate, NOUN 
+accelerate, VERB 
+
+, SPACE 
+bone, NOUN 
+formation, NOUN 
+pH, NUM 
+hard, ADJ 
+tissue, NOUN 
+recovered, VERB 
+microdissolution, NOUN 
+
+, SPACE 
+Microdissolution, PROPN 
+calcium, NOUN 
+ions, NOUN 
+1593, NUM 
+
+, SPACE 
+calcium, NOUN 
+ions, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+continues, VERB 
+calcium, NOUN 
+
+, SPACE 
+released, VERB 
+pH, NUM 
+7.2, NUM 
+solution, NOUN 
+Fig, PROPN 
+1, NUM 
+microdissolution, NOUN 
+calcium, NOUN 
+ions, NOUN 
+calcium-, ADJ 
+
+, SPACE 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+possibly, ADV 
+causes, NOUN 
+good, ADJ 
+bone, NOUN 
+conduction, NOUN 
+
+, SPACE 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+material, NOUN 
+
+, SPACE 
+methodology, NOUN 
+present, ADJ 
+study, NOUN 
+useful, ADJ 
+estimation, NOUN 
+dissolution, NOUN 
+
+, SPACE 
+element, NOUN 
+material, NOUN 
+dissolution, NOUN 
+minute, NOUN 
+detection, NOUN 
+
+, SPACE 
+dissolution, NOUN 
+analysis, NOUN 
+solvent, NOUN 
+difficult, ADJ 
+hand, NOUN 
+changes, NOUN 
+binding, VERB 
+
+, SPACE 
+energies, NOUN 
+detected, VERB 
+study, NOUN 
+available, ADJ 
+prediction, NOUN 
+dissolution, NOUN 
+
+, SPACE 
+element, NOUN 
+dissolution, NOUN 
+small, ADJ 
+
+, SPACE 
+CONCLUSIONS, PROPN 
+
+, SPACE 
+1, NUM 
+dissolution, ADJ 
+rates, NOUN 
+calcium, NOUN 
+ions, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+nitric, NOUN 
+
+, SPACE 
+acid, NOUN 
+sodium, NOUN 
+phosphate, ADJ 
+citric, ADJ 
+acid, NOUN 
+buffer, NOUN 
+proportional, ADJ 
+t, PROPN 
+i., PROPN 
+t-1.23, PROPN 
+
+, SPACE 
+respectively, ADV 
+t, NOUN 
+immersion, NOUN 
+time, NOUN 
+
+, SPACE 
+2, X 
+surface, NOUN 
+oxide, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+releases, NOUN 
+calcium, NOUN 
+ions, NOUN 
+
+, SPACE 
+solutions, NOUN 
+Calcium, NOUN 
+titanate, NOUN 
+constituents, NOUN 
+surface, NOUN 
+oxide, NOUN 
+changes, NOUN 
+titanium, NOUN 
+
+, SPACE 
+oxide, NOUN 
+dissolution, NOUN 
+
+, SPACE 
+3, X 
+surface, NOUN 
+oxide, NOUN 
+dissolves, NOUN 
+thickness, ADJ 
+decreases, VERB 
+dissolution, NOUN 
+calcium, NOUN 
+
+, SPACE 
+simulated, ADJ 
+solutions, NOUN 
+
+, SPACE 
+4, X 
+dissolution, NOUN 
+calcium, NOUN 
+ions, NOUN 
+calcium, NOUN 
+ion, NOUN 
+implanted, VERB 
+titanium, NOUN 
+occurs, VERB 
+
+, SPACE 
+material, NOUN 
+inserted, VERB 
+hard, ADJ 
+tissue, NOUN 
+
+, SPACE 
+5, X 
+feasible, ADJ 
+dissolution, NOUN 
+element, NOUN 
+materials, NOUN 
+estimated, VERB 
+
+, SPACE 
+surface, NOUN 
+analysis, NOUN 
+techniques, NOUN 
+dissolution, NOUN 
+minute, ADJ 
+
+, SPACE 
+Acknoaledgemcnrs, PROPN 
+study, NOUN 
+supported, VERB 
+funds, NOUN 
+Laboratory, PROPN 
+Developmental, PROPN 
+Research, PROPN 
+
+, SPACE 
+Advanced, PROPN 
+Materials, PROPN 
+Institute, PROPN 
+Materials, PROPN 
+Research, PROPN 
+Tohoku, PROPN 
+University, PROPN 
+Sendai, PROPN 
+Japan, PROPN 
+thank, VERB 
+Yoshihiro, PROPN 
+
+, SPACE 
+Murakami, PROPN 
+laboratory, NOUN 
+assistance, NOUN 
+thank, VERB 
+Hidemi, PROPN 
+Ukai, PROPN 
+Koichi, PROPN 
+Murakami, PROPN 
+Research, PROPN 
+
+, SPACE 
+Institute, PROPN 
+Ishikawajima, PROPN 
+Harima, PROPN 
+Heavy, PROPN 
+Industries, PROPN 
+Co., PROPN 
+Ltd., PROPN 
+Tokyo, PROPN 
+Japan, PROPN 
+calcium, NOUN 
+ion, NOUN 
+implantation, NOUN 
+
+, SPACE 
+titanium, NOUN 
+
+, SPACE 
+REFERENCES, NOUN 
+
+, SPACE 
+1, NUM 
+T., PROPN 
+Hanawa, PROPN 
+K., PROPN 
+Murakami, PROPN 
+S., PROPN 
+Kihara, PROPN 
+Characterization, PROPN 
+Performance, PROPN 
+Calcium, PROPN 
+Phosphate, PROPN 
+Coatings, PROPN 
+
+, SPACE 
+Implants, PROPN 
+ASTM, PROPN 
+STP, PROPN 
+1196, NUM 
+E., PROPN 
+Horowitz, PROPN 
+J., PROPN 
+E., PROPN 
+Parr, PROPN 
+eds, PROPN 
+Philadelphia, PROPN 
+PA, PROPN 
+1994, NUM 
+American, PROPN 
+Society, PROPN 
+
+, SPACE 
+Testing, PROPN 
+Materials, PROPN 
+pp, PROPN 
+170, NUM 
+184, NUM 
+
+, SPACE 
+2, X 
+K., PROPN 
+Motojima, PROPN 
+K., PROPN 
+Furuya, PROPN 
+S., PROPN 
+Morita, PROPN 
+S., PROPN 
+Hasegawa, PROPN 
+T., PROPN 
+Hanawa, PROPN 
+0, NUM 
+Okuno, PROPN 
+K., PROPN 
+Murakami, PROPN 
+J., PROPN 
+Jpn, PROPN 
+Orthop, PROPN 
+
+, SPACE 
+Assoc, PROPN 
+66, NUM 
+S1117, PROPN 
+1992, NUM 
+
+, SPACE 
+3, X 
+T., PROPN 
+Hanawa, PROPN 
+Y., PROPN 
+Nodasaka, PROPN 
+H., PROPN 
+Ukai, PROPN 
+K., PROPN 
+Murakami, PROPN 
+K., PROPN 
+Asaoka, PROPN 
+J., PROPN 
+Jpn, PROPN 
+Sot, PROPN 
+Biomater, PROPN 
+12, NUM 
+209, NUM 
+1994, NUM 
+
+, SPACE 
+4, X 
+T., PROPN 
+Hanawa, PROPN 
+H., PROPN 
+Ukai, PROPN 
+K., PROPN 
+Murakami, PROPN 
+J., PROPN 
+Electron, PROPN 
+Spectrosc, PROPN 
+63, NUM 
+347, NUM 
+1993, NUM 
+
+, SPACE 
+5, X 
+T., PROPN 
+Hanawa, PROPN 
+K., PROPN 
+Asaoka, PROPN 
+H., PROPN 
+Ukai, PROPN 
+K., PROPN 
+Murakami, PROPN 
+Compatibility, PROPN 
+Biomedical, PROPN 
+Implants, PROPN 
+P., PROPN 
+Kovacs, PROPN 
+
+, SPACE 
+N., PROPN 
+S., PROPN 
+Istephanous, PROPN 
+eds, NOUN 
+Pennington, PROPN 
+NJ, PROPN 
+1994, NUM 
+Electrochemical, PROPN 
+Society, PROPN 
+Inc., PROPN 
+pp, PROPN 
+126137, NUM 
+
+, SPACE 
+6, X 
+T., PROPN 
+Hanawa, PROPN 
+H., PROPN 
+Ukai, PROPN 
+K., PROPN 
+Murakami, PROPN 
+K., PROPN 
+Asaoka, PROPN 
+Mater, PROPN 
+Trans, PROPN 
+Jpn, PROPN 
+Inst, PROPN 
+Met, PROPN 
+36,438, NUM 
+1995, NUM 
+
+, SPACE 
+7, X 
+H., PROPN 
+Ukai, PROPN 
+T., PROPN 
+Hanawa, PROPN 
+K., PROPN 
+Murakami, PROPN 
+K., PROPN 
+Asaoka, PROPN 
+Surface, PROPN 
+Modification, PROPN 
+Technologies, PROPN 
+VIII, PROPN 
+T., PROPN 
+S., PROPN 
+
+, SPACE 
+Sudarshan, PROPN 
+M., PROPN 
+Jeandin, PROPN 
+eds, NOUN 
+London, PROPN 
+1995, NUM 
+Institute, PROPN 
+Materials, PROPN 
+pp, ADV 
+862, NUM 
+872, NUM 
+
+, SPACE 
+8, X 
+T., PROPN 
+Kokubo, PROPN 
+Biomater, PROPN 
+12, NUM 
+155, NUM 
+1991, NUM 
+
+, SPACE 
+9, X 
+L.L., PROPN 
+Hen, PROPN 
+EC, PROPN 
+Ethridge, PROPN 
+Adv, PROPN 
+Biomed, VERB 
+Eng, PROPN 
+5, NUM 
+35, NUM 
+1975, NUM 
+
+, SPACE 
+10, X 
+T.C., PROPN 
+McIlvaine, PROPN 
+J., PROPN 
+Biol, PROPN 
+Chem, PROPN 
+49, NUM 
+183, NUM 
+1921, NUM 
+
+, SPACE 
+11, NUM 
+K., PROPN 
+Asami, PROPN 
+J., PROPN 
+Eiectron, PROPN 
+Spectrosc, PROPN 
+9, NUM 
+469, NUM 
+1976, NUM 
+
+, SPACE 
+12, NUM 
+K., PROPN 
+Asami, PROPN 
+K., PROPN 
+Hashimoto, PROPN 
+S., PROPN 
+Shimodaira, PROPN 
+Corros, PROPN 
+Sci, PROPN 
+17, NUM 
+713, NUM 
+1977, NUM 
+
+, SPACE 
+1594, NUM 
+T., PROPN 
+Hanawa, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+13, NUM 
+K., PROPN 
+Asami, PROPN 
+K., PROPN 
+Hashimoto, PROPN 
+Corros, PROPN 
+Sci, PROPN 
+24, NUM 
+83, NUM 
+1984, NUM 
+
+, SPACE 
+14, NUM 
+K., PROPN 
+Hashimoto, PROPN 
+M., PROPN 
+Kasaya, PROPN 
+K., PROPN 
+Asami, PROPN 
+T., PROPN 
+Masumoto, PROPN 
+Corros, PROPN 
+Engng, PROPN 
+Boshoku, PROPN 
+Gzjutsu, PROPN 
+26,445, NUM 
+1977, NUM 
+
+, SPACE 
+15, X 
+K., PROPN 
+Asami, PROPN 
+M., PROPN 
+S., PROPN 
+De, PROPN 
+Sa, PROPN 
+V., PROPN 
+Ashworth, PROPN 
+Ann, PROPN 
+Univ, ADJ 
+Ferrara, PROPN 
+N., PROPN 
+S., PROPN 
+Sez, PROPN 
+V, PROPN 
+Suppl, PROPN 
+N., PROPN 
+8, NUM 
+1985, NUM 
+pp, PROPN 
+769, NUM 
+778, NUM 
+
+, SPACE 
+16, NUM 
+K., PROPN 
+Asami, PROPN 
+S.-C., PROPN 
+Chen, PROPN 
+H., PROPN 
+Habazaki, PROPN 
+A., NOUN 
+Kawashima, PROPN 
+K., PROPN 
+Hashimoto, PROPN 
+Corros, PROPN 
+Sci, PROPN 
+31, NUM 
+727, NUM 
+1990, NUM 
+
+, SPACE 
+17, X 
+J.H., PROPN 
+Scotield, PROPN 
+J., PROPN 
+Electron, PROPN 
+Spectrosc, PROPN 
+8, NUM 
+129, NUM 
+1976, NUM 
+
+, SPACE 
+18, X 
+C., PROPN 
+D., PROPN 
+Wagner, PROPN 
+W., PROPN 
+M., PROPN 
+Riggs, PROPN 
+L., PROPN 
+E., PROPN 
+Davies, PROPN 
+J., PROPN 
+F., PROPN 
+Moulder, PROPN 
+G., PROPN 
+E., PROPN 
+Muilenberg, PROPN 
+Handbook, PROPN 
+X, PROPN 
+Ray, PROPN 
+Photo-, PROPN 
+
+, SPACE 
+electron, PROPN 
+Specrroscopy, PROPN 
+Eden, PROPN 
+Prairie, PROPN 
+Minnesota, PROPN 
+1979, NUM 
+Perkin, PROPN 
+Elmer, PROPN 
+
+, SPACE 
+19, NUM 
+C., PROPN 
+D., PROPN 
+Wagner, PROPN 
+Practical, PROPN 
+Surface, PROPN 
+Analysis, PROPN 
+2nd, PROPN 
+ed, PROPN 
+Vol, PROPN 
+1, NUM 
+Auger, PROPN 
+X, PROPN 
+ray, NOUN 
+Photo, PROPN 
+electron, PROPN 
+Spectroscopy, PROPN 
+
+, SPACE 
+D., PROPN 
+Briggs, PROPN 
+M., PROPN 
+P., PROPN 
+Seah, PROPN 
+eds, PROPN 
+New, PROPN 
+York, PROPN 
+NY, PROPN 
+1990, NUM 
+John, PROPN 
+Wiley, PROPN 
+Sons, PROPN 
+pp, PROPN 
+595634, NUM 
+
+, SPACE 
+20, NUM 
+N., PROPN 
+S., PROPN 
+McIntyre, PROPN 
+T., PROPN 
+C., PROPN 
+Chan, PROPN 
+Practical, PROPN 
+Surface, PROPN 
+Analysis, PROPN 
+2nd, PROPN 
+ed, PROPN 
+Vol, PROPN 
+1, NUM 
+Auger, PROPN 
+X, PROPN 
+ray, NOUN 
+Photo, PROPN 
+electron, PROPN 
+
+, SPACE 
+Spectroscopy, PROPN 
+D., PROPN 
+Briggs, PROPN 
+M., PROPN 
+P., PROPN 
+Seah, PROPN 
+eds, PROPN 
+New, PROPN 
+York, PROPN 
+NY, PROPN 
+1990, NUM 
+John, PROPN 
+Wiley, PROPN 
+Sons, PROPN 
+pp, ADV 
+485, NUM 
+529, NUM 
+
+, SPACE 
+21, NUM 
+T., PROPN 
+Hanawa, PROPN 
+M., PROPN 
+Kon, PROPN 
+H., PROPN 
+Doi, PROPN 
+H., PROPN 
+Ukai, PROPN 
+K., PROPN 
+Murakami, PROPN 
+H., PROPN 
+Hamanaka, PROPN 
+K., PROPN 
+Asaoka, PROPN 
+J., PROPN 
+Mater, PROPN 
+Sci, PROPN 
+Mafer, PROPN 
+
+, SPACE 
+Med, PROPN 
+submitted, VERB 
+
+, SPACE 
+22, X 
+K., PROPN 
+Asami, PROPN 
+S.-C., PROPN 
+Chen, PROPN 
+H., PROPN 
+Habasaki, PROPN 
+K., PROPN 
+Hashimoto, PROPN 
+Corros, PROPN 
+Sci, PROPN 
+35, NUM 
+43, NUM 
+1993, NUM 
+
+, SPACE 
+23, NUM 
+D., PROPN 
+R., PROPN 
+Gaskell, PROPN 
+Introduction, NOUN 
+Metallurgical, PROPN 
+Thermodynamics, PROPN 
+2nd, ADJ 
+Ed, PROPN 
+New, PROPN 
+York, PROPN 
+NY, PROPN 
+1981, NUM 
+Hemisphere, INTJ 
+
+, SPACE 
+p., NOUN 
+287, NUM 
+
+, SPACE 
+24, NUM 
+T., PROPN 
+Hanawa, PROPN 
+0, NUM 
+Okuno, PROPN 
+H., PROPN 
+Hamanaka, PROPN 
+J., PROPN 
+Jpn, PROPN 
+Inst, PROPN 
+Met, PROPN 
+56, NUM 
+1168, NUM 
+1992, NUM 
+
+, SPACE 

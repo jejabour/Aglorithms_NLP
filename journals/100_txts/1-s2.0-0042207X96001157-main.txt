@@ -1,0 +1,483 @@
+Vacuum/volume 47lnumbers 6-W/pages 7017 to 1022/1996 
+Copyright 0 1996 Elsevier Science Ltd 
+Printed in Great Britain. All riahts reserved Pergamon 
+PII: SOO42-207X(96)OOll!b7 0042-207X/i6 $15.00+.00 
+Time resolved analysis of ion motion in an oscillating 
+plasma sheath 
+D Martin and H Oechsner, Department of Physics and Center of Materials Research, University of 
+Kaiserslautern, Erwin-Schroedinger_Stra/3e, D-67663 Kaiserslautern, Germany 
+The ion extraction mechanism based on the self-biasing effect resulting from an RF voltage between a low 
+pressure plasma and an electrode in contact with the plasma is studied using detailed computer simulations. 
+The results from the simulations are compared with corresponding measurements. In particular, the influence 
+of the frequency of the RF extraction voltage and the ion mass on the energy distribution of the extracted ion 
+flux are investigated. The simulation of the ion kinetics in the oscillating plasma sheath in front of the electrode 
+is shown to provide a detailed understanding of the respective ion acceleration mechanism. The simulation 
+results supply useful information for the selection of favorable operation conditions, e.g. for establishing a 
+uniform energy of the extracted plasma ions. Copyright 0 1996 Elsevier Science Ltd. 
+Key words: Computer simulation of ion motion, ion energy distributions, plasma sheath effects, RF based ion 
+extraction. 
+Introduction 
+The self-biasing effect of an electrode carrying an RF potential 
+against a surrounding plasma has been well known as an inter- 
+esting phenomenon in low pressure gas discharges for some 
+time.‘.’ Its early utilization for the bombardment of electrically 
+insulated or dielectric targets by plasma ions has tremendously 
+fostered the evolution of ion sputtering towards the most uni- 
+versal PVD method in thin film technology.3,4 More recently 
+the self-biasing process has been utilized for the production of 
+monoenergetic and completely charge compensated large area 
+ion beams.’ ’ In the respective plasma beam sources, an RF 
+potential is applied to an arbitrarily excited low pressure plasma. 
+Then, an ion accelerating self-bias voltage U,, develops between 
+the plasma and a favorably grounded extraction electrode. The 
+saturation current of monoenergetic ions which Us, causes to 
+leave the plasma is precisely compensated for by short pulses of 
+an electron retardation current which periodically superimpose 
+the ion current when the potential of the plasma approaches that 
+of the extraction electrode once in each RF period. RF plasma 
+beam sources of that type have been successfully employed for 
+the deposition of diamond-like carbon8 or titanium nitride films.’ 
+The same extraction method has been used for a plasma based 
+technique for controlled low energy ion bombardment of dielec- 
+tric surfaces.“’ In the respective apparatus, a capacitive RF 
+circuit, consisting of the insulating target and a counterelectrode, 
+is superimposed onto a cylindrical plasma column excited by 
+electron cyclotron wave resonance.” An RF based ion extraction 
+method is also employed for surface and depth profile analysis of insulating specimens by e-gas Secondary Neutral Mass Spec- 
+trometry (SNMS) in the so-called High Frequency Mode of 
+SNMS.” 
+When such a system, or low energy RF plasma beam sources 
+are employed to solve demanding tasks such as, for instance, the 
+removal of leached surface layers from oxidic glasses’” or the 
+exact texturing of surface coatings.” a detailed understanding of 
+the RF based ion extraction mechanism is mandatory. While the 
+control of the height of the self-biasing voltage U,, via the area 
+of the RF carrying electrodes has been discussed by several 
+authors,” ” detailed studies of the ion acceleration in the oscil- 
+lating space charge sheath in front of the extraction electrode are 
+still lacking to our knowledge. The present study was intended 
+to fill this gap by a computer simulation of the corresponding ion 
+acceleration processes, particularly as a function of the applied 
+frequency and ion mass. The computer simulations will be com- 
+pared with experimental results obtained for the plasma extrac- 
+tion system mentioned above.“’ 
+Experimental 
+The plasma system at which the RF plasma extraction process 
+has been studied experimentally as a function of the relevant 
+operation parameters contains two RF circuits. One of them 
+serves for the plasma excitation by electron cyclotron wave res- 
+onance.” For that purpose, a cylindrical glass vessel is sur- 
+rounded by a single turn antenna coil coupled to a 27.12 MHz 
+RF generator of 200 W. To establish ECWR conditions a weak, 
+1017 
+D Martin and H OechsnecTime resolved analysis of ion motion 
+steady magnetic field of the order of 25 Gauss is superimposed 
+in a transverse direction to the axis of the plasma vessel (height 
+10 cm, diameter 12 cm). Resonant plasma excitation is 
+accomplished by a right-handed circularly polarized wave prop- 
+agating into the plasma parallel to the superimposed magnetic 
+field. The ECWR plasma has been operated with the different 
+noble gases (He, Ne, Ar, Kr and Xe) at pressures in the range 
+from 10m4 to 10P2 mbar. For the ion and electron extraction via 
+the self-biasing effect a second capacitive RF circuit is super- 
+imposed onto the ECWR plasma. This extraction circuit is oper- 
+ated at frequencies from 2 to 125 MHz. It consists of a coupling 
+electrode connected to the tunable RF generator by a matching 
+network, and a retarding field analyzer which replaced the target 
+to be treated by the extracted plasma ions. The analyzer enables a 
+separation of the ion and the electron component in the extracted 
+plasma flux and measurements of the ion energy distributions 
+by the retarding field technique. In the subsequent sections the 
+entrance grid of the analyzer replacing the surface of the ion 
+bombarded sample is addressed as a “target electrode”. More 
+details of the experimental arrangement are found elsewhere.‘0,‘5 
+Simulation algorithm 
+The potential distribution sketched in Figure 1 is intended to 
+serve as the background for a short explanation of the computer 
+algorithm which has been developed to describe the ion motion in 
+the RF based plasma extraction system. We distinguish between a 
+pre-sheath ranging from the center of the plasma vessel to the 
+edge of the space charge sheath (“plasma sheath”) in front of the 
+target electrode. d,,,.,, assigns the maximum thickness of the 
+plasma sheath. The potential 4 in the pre-sheath, i.e. in the quasi- 
+neutral plasma region, is assumed to vary as z2 ’ according to the 
+results from previous experimental studies of an identical ECWR 
+plasma.“’ During the operation the actual plasma edge varies 
+periodically between d,,,,, and a minimum thickness d,,,;, with the 
+frequency&, applied to the capacitive extraction circuit. 
+The ions being individually considered in the simulation are 
+Plasma sheath 
+region 
++W A’ L 1 t 
+b& 0 1 
+Figure 1. Schematic of the plasma potential distribution in the pre-sheath 
+q(z) and in the plasma sheath q(s) as a function of the distance from the 
+center of the plasma vessel (z) and the plasma sheath boundary (s), 
+respectively. 
+1018 assumed to start along the z-axis with a thermal energy E,,, = 30 
+meV. Each ion is accelerated by the local electric field, i.e. the 
+spatial variation of the plasma potential in the pre-sheath. The 
+ion motion through the pre-sheath and the plasma sheath is then 
+traced up to the plane of the target electrode. In the pre-sheath 
+the time intervals for subsequent acceleration steps are chosen 
+such that the energy gain is < 10-l eV. Since the ion is assumed 
+to keep its local velocity by which it enters the corresponding 
+interval AZ, the potential drop along each individual step AZ 
+determines the kinetic energy within the next interval. As soon 
+as an ion arrives at a,,,,,, the maximum step width AZ is reduced 
+to 10m4 of the actual sheath thickness in order to get a sufficient 
+spatial resolution for the acceleration process in the plasma 
+sheath. 
+During the ion motion from its point of origin towards the 
+target electrode both gas kinetic and charge exchange collisions 
+with other heavy plasma species are considered. An elastic (gas 
+kinetic) collision is assumed to occur on average when the particle 
+has travelled a distance corresponding to the mean free path for 
+elastic atom-atom collisions. In the respective travelling distances 
+of an ion the path before its ionization is included. It should be 
+noted that, according to the experimental conditions, the mean 
+free path is of the order of the length of the pre-sheath. The 
+energy loss by an elastic collision is determined by a random 
+generator which is asked for its present value at each collision. 
+For the mean free path of charge exchange collisions the energy 
+dependence of the respective cross section is taken into account 
+for the noble gas under consideration. Each ion generated by 
+charge exchange is assumed to start again with Et,, = 30 meV. 
+The individual cycles for the traveling intervals are repeated 
+until the ion reaches the plane of maximum extension of the 
+plasma sheath, i.e. arrives at z = L/2-d,,, (L is the height of the 
+plasma cylinder). The total potential drop UPlasma between the 
+plasma and the target electrode is split up into the constant self- 
+biasing voltage U,, and the superimposed high frequency voltage 
+URF with the amplitude fi,,: 
+u plasma = Us, + URF = Us, + ii,, * sin (~,,~t + SJ 
+hi refers to the phase angle for any ion i when it enters the plasma 
+sheath region at z = L/2 -d,,,, and ocaP is 2 nfcap. When Q defines 
+the phase angle of URF at that instant, Q becomes equal to 6, 
+when the entry time t is put equal to zero for each ion i. The 
+frequency fclp and the ion velocity at t = 0 determine the time 
+tkgin at which an ion i passes the actual plasma sheath edge for 
+the first time. The difference between 0 = ~,,~t,_+6, and Q 
+yields the respective flight time of the considered ion i. 
+The potential within the plasma sheath of a time-dependent 
+thickness d(t) is assumed to vary proportionally to s4:’ according 
+to the well known Langmuir-Schottky law. The ion motion in 
+the plasma sheath is traced along individual path elements As 
+with a maximum length of 10m4 d(t) along the sheath coordinate 
+s (Figure 1). After each acceleration step As the simulation pro- 
+gram checks whether the ion remains in the plasma sheath or is 
+overtaken by its regressing boundary. In the latter case, the ion 
+is assumed to move on with its actual velocity without additional 
+energy gain. When the ion remains in the plasma sheath, an 
+identical calculation loop as in the pre-sheath is applied but 
+with the actual potential distribution in the oscillating sheath. 
+The calculation ends when the ion reaches the position of the 
+target electrode at z = L/2 at a time tend, i.e. at a phase angle 
+y = &,p fend + 4. 
+D Martin and H 0echsner:Time resolved analysis of ion motion 
+0 10 20 30 40 50 60 70 
+U ret [VI 
+0 10 20 30 40 50 6b 7b 
+E Lo" [W 
+Figure 2. Comparison between experiment (symbols) and calculation 
+(lines) of retarding field curves (a) and ion energy distributions (b) for 
+ions with a mean energy of about 40 eV. Ion extraction from an Ar- 
+plasma for different frequencies in the capacitive RF circuit (f,,, = 2.0, 
+10.5, 125.0 MHz). The normalized results are given in arbitrary units 
+(w.E.). 
+Simulation results and comparison with experiment 
+A direct comparison between the results from the measurements 
+with the retarding field analyzer and the respective computer 
+simulations, is displayed in Figure 2 for different operation fre- 
+quencies &,, of the capacitive extraction circuit. Retarding field 
+curves for ion extraction from an Ar-plasma are shown in Figure 
+2(a) for threej&-values. We define a nominal ion energy E,,, by 
+the retarding voltage U,,, where the ion retardation current has 
+dropped down to 50% of its initial saturation value. In all cases 
+depicted in Figure 2, the amplitude ii,, of the extracting high 
+frequency voltage has been chosen such that Ei,, becomes 40 eV. 
+The width AE,,, of the ion energy distribution is defined as that 
+interval of Ii,,, across which the retardation current decreases 
+from 84 to 16%. AE,,, becomes narrower with increasing fre- 
+quency .& both for the experimental and the simulated results. 
+In the lower panel of Figure 2 the experimental ion distributions 
+derived from the retarding field measurements are compared with 
+the results from the computer algorithm. Both sets of results 
+agree quite well. In particular, the splitting of the energy dis- 
+tributions with decreasing fcap is well reproduced by the simu- 
+lation curves. 
+In Figure 3, the AE,,,-values from a larger number of retar- 
+dation curves, always measured for AT+-ions with a nominal ion 
+3~ yl,I ,..p.,, ‘, ....,., 1 
+I 10 100 
+f car, [MHz1 
+Figure 3. Ion energy width A&, vs the frequency of the capacitive extrac- 
+tion circuit for ions with E,,, = 40 eV (a: experiment; 0: simulation). energy E,,, of 40 eV, are plotted vs the frequencies .fcap in the 
+extraction circuit. Again a satisfactory agreement between the 
+experimental and the simulated data is obtained. In particular, 
+an fZ!i of about 16 MHz at which AE,,, attains a constant low 
+level around only 5 eV is extracted from Figure 3. As an impor- 
+tant result from the computer simulations it is found that the Ar+- 
+ions experience just two field oscillations during their acceleration 
+towards the target electrode for ,&, = ,r:,$ ‘u 16 MHz in the 
+present case. 
+When the ECWR discharge is operated with the other noble 
+gases, an identical behavior is derived from the corresponding 
+measurements of BE,,, as a function of,&, and from the respec- 
+tive computer simulations. In all cases the measured and the 
+simulated values f$ for which AE,,,, approaches a frequency 
+independent low level are found to coincide surprisingly well. 
+AEi,, above .f cap c”t is of the order of 4-5 eV for the heavier noble 
+gas ions and around 10 eV for Net and He+. Such AE,,,-values 
+agree well with the width of the potential drop AU,,, across the 
+pre-sheath, i.e. in the quasi-neutral plasma regime. According 
+to previous studies AU,, 2 0.6 kT, for the employed ECWR 
+discharges.lh 
+Again the computer simulations for the different types of noble 
+gas ions reveal that the f$A values refer to such ion travelling 
+times through the plasma sheath which correspond to two field 
+oscillations. The respective measurements have been performed 
+for almost identical ion saturation current densities leaving the 
+ECWR plasma. Hence, for the plane geometry of the present 
+extraction system the relation 
+s2 - M*;n”*P(S) (2) 
+is valid according to the Schottky-Langmuir equation. 
+Correspondingly the ion accelerating field E in the sheath var- 
+ies with 
+(3) 
+By integrating the respective equation of the ion motion, the total 
+ion travelling time t(d) of an ion through a plasma sheath of 
+thickness d produced by a sheath voltage U is readily found to 
+be proportional to A4kz5 when the ion velocity at the sheath 
+entrance is neglected. The low ion energy width BEion (or uniform 
+E,,,) reached for f f:i in the present experiments and computer 
+simulations, suggest that eqns (2) and (3) can be used as a simple 
+approximation for the conditions in the investigated RF extrac- 
+tion system at fcap = f Srk. Since an identical ion energy E,,, of 40 
+eV has always been established by a proper selection of the RF 
+amplitude at the extraction circuit, a constant sheath voltage can 
+be assumed at f :$ for the acceleration of the different noble gas 
+ions. Hence, the effective ion travelling time through the plasma 
+sheath which corresponds to two RF periods according to com- 
+puter simulations should vary with I@,:‘, or vice versa, ,Jz$ 
+should be proportional to Mi;:.25. A corresponding plot of the 
+experimental ,fszk values, being confirmed by the computer 
+simulations, is presented in Figure 4. Across the mass range 
+accessible by the different noble gas ions. ,/‘::A is found to vary 
+linearly with Ml;:.” within the error bars of the individual.f’:,‘A 
+values. The behaviour in Figure 4 is also of considerable practical 
+importance, since it enables the prediction of the minimum oper- 
+ation frequency for which the ion extraction with uniform E,,, is 
+achieved for the RF based ion extraction from a plasma. A 
+numerical formula for f ~$(M,,,) is inserted in Figure 4 for the 
+present case. 
+D Martin and H Oechsnec Time resolved analysis of ion motion 
+lo- yt[rAr j,O, y 3 mAem-* _ 
+E,,, g 40 eV . 
+01 I I I . ’ 
+w 02 0,4 076 
+Figure 4. Critical frequency values f:G according to Figure 
+different kinds of noble gas ions vs M,;/. 3 for the 
+An even more detailed understanding of the ion extraction 
+process is obtained from the discussion of the correlations with 
+the phase angles 0, 0 and Y introduced in Section 3. By simu- 
+lating the ion motion in the plasma sheath, the final energy E,,, 
+is obtained as a function of 0. Corresponding results for four 
+different frequencies fcap (1.0, 4.0, 10.5 and 125.0 MHz) are 
+depicted in Figure 5. The oscillation of the potential drop between 
+the plasma and the target electrode, as well as that of the sheath 
+thickness, is reflected by the periodic variation of E,,, for low 
+frequencies (Figure 5(a)). Since the ion velocity built up in the 
+pre-sheath is in that case higher than the veiocity h(t) with which 
+the plasma boundary moves, the ions can enter the plasma sheath 
+even when it passes through its minimum thickness d,i” (at 
+0 = 270” in Figure 5). Hence, the variation of E,,, reflects that 
+of the total RF voltage across the plasma sheath. The behaviour 
+of Eion (0) changes for higher&. Then d(t) is above v,,, at d,,, 
+and no ions can enter the accelerating plasma sheath in an O- 
+regime around O(d,i”). For high values off,,, (Figure 5(c) and 
+140, , , 140, , , 
+120 
+100 I 
+E SO- 
+S 60 
+w 40. 
+20. (a) few = I .O MHz 120. 
+B “, e” LOO- 
+0 
+0 d : so! 0 
+O . 60. 
+.p 
+: 40. 
+- 20. (b) f_,= 
+Ok------ O-0 90 180 270 360 450 
+140 
+120 
+100 
+g *O 
+6 60 
+w- 
+40 
+20 
+0 (c) f_, = 10.5 MHz 
+4 
+90 180 270 360 450 
+@ [“I 140 
+120 (d) f_, = 125.0 MHz 
+loo 
+80 
+I-----I P 
+60 
+40 q 
+0 
+20 n 
+OJ 0 1 0 90 180 270 360 450 
+@ [“I 
+Figure 5. Energy of Arc-ions at the target electrode vs the phase angle 0 
+of the RF voltage for the first entry of an ion into the plasma sheath 
+cf,,, = 1.0, 4.0, 10.5 and 125.0 MHz). simulation. Ar - plasma 
+E...=“7OeV 
+0 60 180 270 360 
+@ [“I 
+Figure 6. Number of RF oscillations during the ion flight time through 
+the plasma sheath region for Art-ions with an average energy of 70 eV 
+as a function of the RF phase angle @ for the entry of an ion into the 
+plasma sheath region (& = 1.0, 4.0, 10.5, 30.0 and 125.0 MHz). 
+(d)), i.e. for Uion < d(t), the incoming ions are touched by the 
+plasma sheath only at such O-values where it reaches its 
+maximum thickness d,,,. Since the ions experience a sufficiently 
+high number of field changes for high j&,, their energy E,,, 
+attained across the oscillating sheath approaches a uniform value 
+(70 eV under the simulation conditions of Figure 5). 
+The number I of RF cycles which the ions experience in the 
+plasma sheath region is determined by the difference between the 
+two phase angles Q, and Y. As can be seen in Figure 6, I increases 
+for ions with a mean energy E,,, = 70 eV (as referring to the 
+results in Figure 5) from about 0.06 up to 0.5 for&, = I MHz 
+to about 10-20 at 125 MHz. For low frequencies, I depends 
+strongly on the phase angle @ under which an ion enters the 
+plasma sheath region. Forf,,, = 4 MHz a sudden rise of I occurs 
+at @ = 90”. While for that frequency the plasma boundary moves 
+towards the arriving plasma ions for @ < 90” and @ > 270”, it 
+leaves the ions behind for 90” < @ < 270”. With fiaP in the 10 
+MHz regime, such effects disappear because of the increasing 
+number of field oscillations experienced by the travelling ions. 
+In contrast to Figure 5 where the ion energy E,,, is shown as a 
+function of the phase angle 0 at which an ion “feels” the acce- 
+lerating field in the plasma sheath for the first time, Figure 7 
+displays the ion energy against the phase angle ‘I’ under which 
+the ions arrive at the target electrode. The simulation reveals a 
+strong f,,,-dependence of the relation between Ei,” and ‘I”. For 
+lowf,,,-values E,,, again becomes sensitive to the variation of the 
+potential drop between the plasma and the target electrode. In 
+contrast, for very high&,, (125 MHz, Figure 7(d)) E,,, is inde- 
+pendent of Y. This is again a consequence of the large number 
+of RF cycles which an ion passes through during its acceleration 
+period. 
+The density of the simulated data points in Figure 7 describes 
+the variation of the ion current density onto the target electrode. 
+Quite obviously for 1 MHz a Y- (or time-) independent ion 
+current arrives at the electrode. This is also achieved for very 
+high frequencies (e.g. for,f,,, = 125 MHz). However, for medium 
+frequencies as 4 MHz, the point density gap in the Y-interval of 
+18&360° indicates a significant variation of the ion current den- 
+sity onto the target electrode during each RF period. A time 
+modulation of the ion current density may be of some dis- 
+advantage for certain applications because of the periodically 
+interrupted ion bombardment of a target. 
+1020 
+D Martin and H Oechsner: Time resolved analysis of ion motion 
+B 60 
+w 
+40 
+0 90 180 270 360 0 90 180 270 360 
+'y ["l YJ [“I 
+Figure 7. Ar+-Energy at the target electrode vs the RF phase angle Y for 
+the ion arrival at the target surface (j&, = 1.0, 4.0, 7.5 and 125.0 MHz). 
+The interval of missing ions in Figure 7(b) can be referred to 
+the results in Figure 5(b): the respective O-gap for which no 
+plasma ions enter the accelerating sheath translates into the Y- 
+gap in Figure 7(b). Since the ions experience less than one field 
+oscillation under such conditions, a mean ion energy above that 
+for very low&,-values becomes visible from the results in Figure 
+5, too. This is also depicted in Figure 8(a), which simultaneously 
+shows that uniform Eton (and minimum BE,,,) is achieved for 
+frequencies referring to I-numbers above two (see panel b in 
+Figure 8). As an additional detail of the simulation of the ion 
+motion in the oscillating plasma sheath, the average ion flight 
+time across the maximum sheath thickness d,,, is presented in 
+Figure 8(c). The residence time in the sheath region decreases 
+significantly with j&, and reaches a constant low level around 
+0.1 0 ” 
+1 I IO 100 
+E simulatmn~ 
+Ar- plasma 
+d'423wm 
+I 
+z x-3 
+c 100 +WWZSAAA&A*AAA 
+I IO 100 
+f cap [MHz1 
+Figure 8. Average ion energy E,,, and ion energy width A&,,, at the target 
+electrode (a) number I of RF cycles experienced by an ion during its path 
+through the plasma sheath region (b) and average ion flight time in the 
+plasma sheath region (c) as a function of the frequency&, in the RF 
+extraction circuit. 360 . I I ..,. ~ 
+tb) f, =40MHz 
+270 2701 
+& 180 I80 
+b 
+90 90 
+0 0 
+0 90 180 270 360 0 90 180 270 
+j f, .n,, :, ,oj jcnn.9 o,n =;I 
+0 90 180 270 360 0 90 180 270 360 
+@ ("1 a I”1 
+Figure 9. Correlation between the phase angles CD and Y’ for ,& = I .O, 
+4.0. 10.5 and 125.0 MHz. 
+100 ns for&, > 10 MHz for acceleration until an ion energy of 
+70 eV. 
+Finally, in Figure 9 the dependence between the two phase 
+angles @ and Y under which the ions enter the sheath and arrive 
+at the target electrode, respectively, is depicted again for 
+fcap = 1 .O, 4.0, 10.5 and 125 MHz. A strong correlation between 
+these two phase angles exists for the lower frequencies, but is still 
+visible for some angle regimes at 10 MHz. However, for high 
+frequencies (e.g. for fcap = 125 MHz) no correlation between 9, 
+and Y exists anymore. This again indicates that a constant ion 
+current reaches the electrode, since a sufficient number 1 of field 
+changes experienced by an accelerated ion blurs the correlation 
+between the entrance and the exit phase angles, Q, and Y (Figure 
+9(d)). 
+Conclusions 
+The present studies demonstrate that computer simulations are 
+an appropriate means for a detailed understanding of the 
+dynamic behavior of plasma ions even in such a complicated 
+situation as the ion acceleration in an oscillating plasma sheath. 
+Once the validity of the simulated behavior has been cor- 
+roborated by a comparison with the results from corresponding 
+experiments, the simulation can be used to supply details of 
+the ion kinetics which are not accessible experimentally. The 
+respective simulation data contribute not only to an increased 
+understanding of the RF ion extraction mechanism studied in 
+the present investigations, but also provide useful information 
+helping to select appropriate operation parameters, as for 
+instance the minimum frequencies ,f:yi being mandatory for the 
+extraction of ions of uniform energy. 
+References 
+‘F Schneider, Z AngeM; Phys, 6, 456 (1954). 
+‘H Fetz and H Oechsner, Z Anger Phys, 12, 250 (1960). 
+‘G S Anderson, W N Mayer and G K Wehner, J Appl Phys, 33, 2991 
+(1962). 
+“P D Davidse and L I Maissel, J Appl Phys, 37, 574 (1966). 
+1021 
+D Martin and H OechsnecTime resolved analysis of ion motion 
+‘H Oechsner, H J Ftiger, J Waldorf and A Fuchs, in Plasma Surface ‘F R Weber and H Oechsner, Surf Coating Technol, 59, 273 (1993). 
+Engineering I, (Eds) E Broszeit, W D Miinz, H Oechsner, K T Rie and “‘D Martin and H Oechsner, Surf Coating Technol, 59, 239 (1993). 
+G K Wolf). DGM-Verlag, Oberursel(l989). “H Oechsner, Plasma Physics, 16, 835 (1974). 
+6H Oechsner, Deutsches Bundespatent DE 3708717Al (1988). 12H Oechsner, Appl Surf Sci, 70/71, 250 (1993). 
+‘5 Waldorf, H Oechsner, H J Fiiger and J Mathuni, Thin Solid Films, “H R Koenig and L I Maissel, IBM J Res Develop, 14, 168 (1970). 
+174, 39 (1989). 14S Maniv, J AppZ Phys, 63, 1022 (1988). 
+‘J Kessler, B Tomcik, J Waldorf and H Oechsner, Vucuum, 42, 273 “D Martin, Doctorate thesis, University of Kaiserslautern (1993). 
+(1991). 16H Oechsner, Z Phys, 238,433 (1970). 
+1022 

@@ -1,0 +1,2481 @@
+Nuclear, PROPN 
+Instruments, PROPN 
+Methods, PROPN 
+Physics, PROPN 
+Research, PROPN 
+B, PROPN 
+111, NUM 
+1996, NUM 
+17, NUM 
+1-, NUM 
+175, NUM 
+
+, SPACE 
+
+, SPACE 
+NUNI, PROPN 
+B, PROPN 
+
+, SPACE 
+ELSEVIER, PROPN 
+Beam, PROPN 
+Interactions, PROPN 
+
+, SPACE 
+Materials&Atoms, NOUN 
+
+, SPACE 
+Position, PROPN 
+sensitive, ADJ 
+detection, NOUN 
+individual, ADJ 
+nuclear, ADJ 
+particle, NOUN 
+scintillations, NOUN 
+
+, SPACE 
+image, NOUN 
+intensifier, ADJ 
+tubes, NOUN 
+
+, SPACE 
+Amar, PROPN 
+Sinha, PROPN 
+a7, PROPN 
+B.D., PROPN 
+Bhawe, PROPN 
+C.G., PROPN 
+Panchal, PROPN 
+A., PROPN 
+Shyam, PROPN 
+M., PROPN 
+Srinivasan, PROPN 
+V.M., PROPN 
+Joshi, PROPN 
+b, PROPN 
+
+, SPACE 
+Neutron, PROPN 
+Physics, PROPN 
+Division, PROPN 
+Bhabha, PROPN 
+Atomic, PROPN 
+Research, PROPN 
+Centre, PROPN 
+Trombay, PROPN 
+Bombay-400, PROPN 
+085, NUM 
+India, PROPN 
+
+, SPACE 
+b, PROPN 
+Electronics, PROPN 
+Division, PROPN 
+Bhabha, PROPN 
+Atomic, PROPN 
+Research, PROPN 
+Centre, PROPN 
+Trombay, PROPN 
+Bombay-400, PROPN 
+08.5, NUM 
+India, PROPN 
+
+, SPACE 
+Technical, PROPN 
+Physics, PROPN 
+Prototype, PROPN 
+Engineering, PROPN 
+Division, PROPN 
+Bhabha, PROPN 
+Atomic, PROPN 
+Research, PROPN 
+Centre, PROPN 
+Trombay, PROPN 
+Bombay-400, PROPN 
+085, NUM 
+India, PROPN 
+
+, SPACE 
+Received, VERB 
+9, NUM 
+June, PROPN 
+1995, NUM 
+revised, VERB 
+form, NOUN 
+received, VERB 
+3, NUM 
+October, PROPN 
+1995, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+imaging, NOUN 
+position, NOUN 
+sensitive, ADJ 
+detector, NOUN 
+charged, VERB 
+particles, NOUN 
+neutrons, NOUN 
+X-, PROPN 
+gamma, NOUN 
+rays, NOUN 
+developed, VERB 
+
+, SPACE 
+novel, ADJ 
+feature, NOUN 
+scintillation, NOUN 
+imaging, VERB 
+radiation, NOUN 
+detector, NOUN 
+ability, NOUN 
+detect, VERB 
+individual, ADJ 
+nuclear, ADJ 
+particle, NOUN 
+scintillations, NOUN 
+
+, SPACE 
+high, ADJ 
+degree, NOUN 
+spatial, ADJ 
+resolution, NOUN 
+key, ADJ 
+elements, NOUN 
+detector, NOUN 
+system, NOUN 
+high, ADJ 
+gain, NOUN 
+low, ADJ 
+noise, NOUN 
+image, NOUN 
+intensifier, ADJ 
+
+, SPACE 
+tube, NOUN 
+CCD, PROPN 
+camera, NOUN 
+commercially, ADV 
+available, ADJ 
+image, NOUN 
+processing, NOUN 
+hardware, NOUN 
+software, NOUN 
+detector, NOUN 
+system, NOUN 
+highly, ADV 
+
+, SPACE 
+effective, ADJ 
+applications, NOUN 
+low, ADJ 
+fluence, NOUN 
+real, ADJ 
+time, NOUN 
+neutron, NOUN 
+radiography, NOUN 
+mapping, NOUN 
+radioactive, ADJ 
+contamination, NOUN 
+
+, SPACE 
+nuclear, ADJ 
+reactor, NOUN 
+fuel, NOUN 
+rods, NOUN 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+imaging, NOUN 
+high, ADJ 
+speed, NOUN 
+autoradiography, NOUN 
+general, ADJ 
+position, NOUN 
+sensitive, ADJ 
+detection, NOUN 
+
+, SPACE 
+nuclear, ADJ 
+radiation, NOUN 
+Results, NOUN 
+exploratory, ADJ 
+experiments, NOUN 
+carried, VERB 
+detector, NOUN 
+system, NOUN 
+presented, VERB 
+
+, SPACE 
+paper, NOUN 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+Position, PROPN 
+sensitive, ADJ 
+radiation, NOUN 
+detectors, NOUN 
+find, VERB 
+widespread, ADJ 
+
+, SPACE 
+applications, NOUN 
+low, ADJ 
+high, ADJ 
+energy, NOUN 
+nuclear, ADJ 
+physics, NOUN 
+neu-, DET 
+
+, SPACE 
+tron, NOUN 
+scattering, VERB 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+studies, NOUN 
+radiography, NOUN 
+
+, SPACE 
+medical, ADJ 
+applications, NOUN 
+years, NOUN 
+wide, ADJ 
+variety, NOUN 
+
+, SPACE 
+position, NOUN 
+encoding, NOUN 
+methods, NOUN 
+devised, VERB 
+obtain-, ADJ 
+
+, SPACE 
+ing, PROPN 
+online, ADV 
+offline, ADJ 
+dimensional, ADJ 
+position, NOUN 
+
+, SPACE 
+information, NOUN 
+nuclear, ADJ 
+particle, NOUN 
+interactions, NOUN 
+online, ADJ 
+
+, SPACE 
+position, NOUN 
+encoding, NOUN 
+method, NOUN 
+broadly, ADV 
+grouped, VERB 
+
+, SPACE 
+categories, NOUN 
+1, X 
+arrays, NOUN 
+individually, ADV 
+processed, VERB 
+dis-, ADJ 
+
+, SPACE 
+crete, ADJ 
+detection, NOUN 
+elements, NOUN 
+1,2, NUM 
+2, X 
+weighted, VERB 
+networks, NOUN 
+
+, SPACE 
+passive, ADJ 
+components, NOUN 
+connecting, VERB 
+detection, NOUN 
+elements, NOUN 
+3, NUM 
+51, NUM 
+
+, SPACE 
+3, NUM 
+scintillation, NOUN 
+imaging, NOUN 
+technique, NOUN 
+6,7, NUM 
+pro-, VERB 
+
+, SPACE 
+vidks, VERB 
+direct, ADJ 
+scintillation, NOUN 
+images, NOUN 
+video, NOUN 
+monitor, NOUN 
+
+, SPACE 
+cases, NOUN 
+real, ADJ 
+time, NOUN 
+measurements, NOUN 
+involving, VERB 
+processes, NOUN 
+
+, SPACE 
+long, ADJ 
+time, NOUN 
+constants, NOUN 
+tens, NOUN 
+milliseconds, NOUN 
+
+, SPACE 
+invblved, VERB 
+steady, ADJ 
+state, NOUN 
+measurements, NOUN 
+
+, SPACE 
+thizd, ADJ 
+type, NOUN 
+detector, NOUN 
+offers, VERB 
+simple, ADJ 
+inexpensive, ADJ 
+
+, SPACE 
+method, NOUN 
+position, NOUN 
+encoding, NOUN 
+technique, NOUN 
+instead, ADV 
+
+, SPACE 
+coupling, VERB 
+scintillator, NOUN 
+pulse, NOUN 
+readout, NOUN 
+device, NOUN 
+
+, SPACE 
+phtitomultiplier, NOUN 
+microchannel, NOUN 
+plate, NOUN 
+directly, ADV 
+cou-, ADJ 
+
+, SPACE 
+pled, VERB 
+position, NOUN 
+sensitive, ADJ 
+device, NOUN 
+solid, ADJ 
+state, NOUN 
+
+, SPACE 
+charge, NOUN 
+coupled, VERB 
+device, NOUN 
+CCD, PROPN 
+combination, NOUN 
+image, NOUN 
+
+, SPACE 
+intensifier, ADJ 
+CCD, PROPN 
+video, NOUN 
+monitor, NOUN 
+
+, SPACE 
+Corresponding, PROPN 
+author, NOUN 
+Fax, NOUN 
++, CCONJ 
+91, NUM 
+22, NUM 
+5560750, NUM 
+attractive, ADJ 
+features, NOUN 
+imaging, NOUN 
+nuclear, ADJ 
+radiation, NOUN 
+
+, SPACE 
+image, NOUN 
+intensifier, ADJ 
+tubes, NOUN 
+increased, VERB 
+detection, NOUN 
+quantum, NOUN 
+
+, SPACE 
+efficiency, NOUN 
+wide, ADJ 
+dynamic, ADJ 
+range, NOUN 
+compared, VERB 
+photographic, ADJ 
+
+, SPACE 
+film, NOUN 
+8, NUM 
+retention, NOUN 
+position, NOUN 
+information, NOUN 
+nuclear, ADJ 
+
+, SPACE 
+scintillation, NOUN 
+Furthermore, ADV 
+information, NOUN 
+available, ADJ 
+on-, ADJ 
+
+, SPACE 
+line, NOUN 
+possibility, NOUN 
+processing, NOUN 
+frame, NOUN 
+
+, SPACE 
+grabber, NOUN 
+processors, NOUN 
+addition, NOUN 
+detectors, NOUN 
+
+, SPACE 
+offer, VERB 
+high, ADJ 
+spatial, ADJ 
+resolution, NOUN 
+typically, ADV 
+30, NUM 
+km, NOUN 
+
+, SPACE 
+image, NOUN 
+intensifier, ADJ 
+level, NOUN 
+depending, VERB 
+design, NOUN 
+
+, SPACE 
+recent, ADJ 
+years, NOUN 
+detectors, NOUN 
+developed, VERB 
+
+, SPACE 
+specific, ADJ 
+applications, NOUN 
+9, NUM 
+lo, PROPN 
+
+, SPACE 
+report, VERB 
+paper, NOUN 
+development, NOUN 
+
+, SPACE 
+position, NOUN 
+sensitive, ADJ 
+detector, NOUN 
+based, VERB 
+pair, NOUN 
+image, NOUN 
+intensi-, NUM 
+
+, SPACE 
+fier, ADJ 
+tubes, NOUN 
+CCD, PROPN 
+camera, NOUN 
+frame, NOUN 
+grabber, NOUN 
+processor, NOUN 
+
+, SPACE 
+card, NOUN 
+modular, ADJ 
+design, NOUN 
+adapted, VERB 
+
+, SPACE 
+detect, VERB 
+nuclear, ADJ 
+radiations, NOUN 
+attractive, ADJ 
+feature, NOUN 
+
+, SPACE 
+scintillation, NOUN 
+imaging, VERB 
+radiation, NOUN 
+detector, NOUN 
+ability, NOUN 
+
+, SPACE 
+detect, VERB 
+individual, ADJ 
+nuclear, ADJ 
+particle, NOUN 
+scintillations, NOUN 
+high, ADJ 
+
+, SPACE 
+degree, NOUN 
+spatial, ADJ 
+resolution, NOUN 
+paper, NOUN 
+describes, VERB 
+de-, PROPN 
+
+, SPACE 
+sign, NOUN 
+detector, NOUN 
+system, NOUN 
+preliminary, ADJ 
+
+, SPACE 
+results, NOUN 
+obtained, VERB 
+detector, NOUN 
+
+, SPACE 
+2, X 
+Description, NOUN 
+scintillation, NOUN 
+imaging, NOUN 
+system, NOUN 
+
+, SPACE 
+primary, ADJ 
+imaging, NOUN 
+sensor, NOUN 
+detection, NOUN 
+nuclear, ADJ 
+
+, SPACE 
+radiation, NOUN 
+charged, VERB 
+particles, NOUN 
+neutrons, NOUN 
+X-, PROPN 
+gamma, NOUN 
+
+, SPACE 
+rays, NOUN 
+suitable, ADJ 
+scintillator, NOUN 
+scintillator, NOUN 
+optically, ADV 
+
+, SPACE 
+0168, NUM 
+583X/96/$15.00, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, ADJ 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+SSDI, PROPN 
+0168, NUM 
+583X(95)01253, NUM 
+2, NUM 
+
+, SPACE 
+172, NUM 
+A., NOUN 
+Sinha, NOUN 
+et, NOUN 
+al, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+111, NUM 
+1996, NUM 
+I71, PROPN 
+-I, PROPN 
+75, NUM 
+
+, SPACE 
+Schematic, PROPN 
+Experimental, ADJ 
+setup, NOUN 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Schematic, ADJ 
+diagram, NOUN 
+nuclear, ADJ 
+particle, NOUN 
+imaging, NOUN 
+system, NOUN 
+
+, SPACE 
+coupled, VERB 
+pair, NOUN 
+image, NOUN 
+intensifier, ADJ 
+tubes, NOUN 
+nature, NOUN 
+
+, SPACE 
+optical, ADJ 
+coupling, NOUN 
+depends, VERB 
+detector, NOUN 
+size, NOUN 
+required, VERB 
+
+, SPACE 
+type, NOUN 
+strength, NOUN 
+radiation, NOUN 
+imaged, VERB 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+shows, VERB 
+schematic, ADJ 
+diagram, NOUN 
+experimental, ADJ 
+
+, SPACE 
+arrangement, NOUN 
+experimental, ADJ 
+set, VERB 
+
+, SPACE 
+intensifier, ADJ 
+frame, VERB 
+grabber, NOUN 
+common, ADJ 
+experiments, NOUN 
+
+, SPACE 
+cases, NOUN 
+coupling, NOUN 
+scheme, NOUN 
+scintilla-, ADJ 
+
+, SPACE 
+tor, NOUN 
+input, NOUN 
+face, NOUN 
+plate, NOUN 
+image, NOUN 
+intensifier, ADJ 
+tube, NOUN 
+
+, SPACE 
+changed, VERB 
+cases, NOUN 
+
+, SPACE 
+signal, NOUN 
+noise, NOUN 
+ratio, NOUN 
+good, ADJ 
+intensi-, PRON 
+
+, SPACE 
+fication, NOUN 
+scintillation, NOUN 
+images, NOUN 
+produced, VERB 
+incoming, ADJ 
+
+, SPACE 
+charged, VERB 
+particle, NOUN 
+neutron, NOUN 
+X-, PROPN 
+gamma, NOUN 
+ray, NOUN 
+
+, SPACE 
+intensified, VERB 
+image, NOUN 
+intensifier, ADJ 
+tube, NOUN 
+converted, VERB 
+
+, SPACE 
+video, NOUN 
+signal, NOUN 
+CCD, PROPN 
+camera, NOUN 
+images, NOUN 
+
+, SPACE 
+digitized, VERB 
+frame, NOUN 
+grabber, NOUN 
+processed, VERB 
+
+, SPACE 
+specialized, VERB 
+frame, NOUN 
+processor, NOUN 
+images, NOUN 
+
+, SPACE 
+displayed, VERB 
+video, NOUN 
+monitor, NOUN 
+recorded, VERB 
+video, NOUN 
+
+, SPACE 
+tape, NOUN 
+recorder, NOUN 
+VTR, PROPN 
+
+, SPACE 
+second, ADJ 
+generation, NOUN 
+image, NOUN 
+intensifier, ADJ 
+tubes, NOUN 
+
+, SPACE 
+gains, NOUN 
+30000, NUM 
+100000, NUM 
+respectively, ADV 
+
+, SPACE 
+typical, ADJ 
+spatial, ADJ 
+resolution, NOUN 
+tubes, NOUN 
+30, NUM 
+line, NOUN 
+pairs, NOUN 
+
+, SPACE 
+mm, X 
+input, NOUN 
+output, NOUN 
+surfaces, NOUN 
+image, NOUN 
+
+, SPACE 
+intensifier, ADJ 
+tubes, NOUN 
+fibre, NOUN 
+optic, ADJ 
+face, NOUN 
+plates, NOUN 
+
+, SPACE 
+diameter, NOUN 
+input, NOUN 
+output, NOUN 
+face, NOUN 
+plates, NOUN 
+
+, SPACE 
+image, NOUN 
+intensifier, ADJ 
+tube, NOUN 
+2.5, NUM 
+mm, NUM 
+second, ADJ 
+
+, SPACE 
+image, NOUN 
+intensifier, ADJ 
+tube, NOUN 
+18, NUM 
+mm, NOUN 
+Hitachi, PROPN 
+CCD, NOUN 
+
+, SPACE 
+camera, NOUN 
+employed, VERB 
+uses, VERB 
+18, NUM 
+mm, NUM 
+image, NOUN 
+size, NOUN 
+CCD, NOUN 
+
+, SPACE 
+having, VERB 
+756(H, PROPN 
+X, PROPN 
+581(V, NUM 
+effective, ADJ 
+number, NOUN 
+pixels, NOUN 
+
+, SPACE 
+pitch, NOUN 
+11, NUM 
+.O, NOUN 
+p, NOUN 
+rn, ADP 
+H, PROPN 
+X, NOUN 
+11.0, NUM 
+km, NOUN 
+V, NOUN 
+video, NOUN 
+signals, NOUN 
+
+, SPACE 
+obtained, VERB 
+CCD, PROPN 
+camera, NOUN 
+digitized, VERB 
+8, NUM 
+bit, NOUN 
+
+, SPACE 
+Erame, PROPN 
+grabber, NOUN 
+input, NOUN 
+look, VERB 
+table, NOUN 
+approach, NOUN 
+
+, SPACE 
+threshold, NOUN 
+video, NOUN 
+signal, NOUN 
+subtract, VERB 
+noise, NOUN 
+
+, SPACE 
+developed, VERB 
+programs, NOUN 
+perform, VERB 
+tasks, NOUN 
+integration, NOUN 
+
+, SPACE 
+thresholding, NOUN 
+etc, X 
+operation, NOUN 
+integration, NOUN 
+aver-, X 
+
+, SPACE 
+aging, VERB 
+etc, X 
+carried, VERB 
+16, NUM 
+bit, NOUN 
+processor, NOUN 
+card, NOUN 
+
+, SPACE 
+scintillation, NOUN 
+imaging, NOUN 
+system, NOUN 
+operated, VERB 
+
+, SPACE 
+basic, ADJ 
+modes, NOUN 
+operations, NOUN 
+fist, NOUN 
+serves, VERB 
+
+, SPACE 
+simple, ADJ 
+frame, NOUN 
+grabber, NOUN 
+retains, VERB 
+original, ADJ 
+pixel, ADJ 
+
+, SPACE 
+intensity, NOUN 
+information, NOUN 
+frame, NOUN 
+second, ADJ 
+counting, NOUN 
+
+, SPACE 
+mode, NOUN 
+integrates, VERB 
+background, NOUN 
+subtracted, VERB 
+counts, NOUN 
+
+, SPACE 
+buffer, NOUN 
+image, NOUN 
+preset, ADJ 
+time, NOUN 
+period, NOUN 
+mode, NOUN 
+
+, SPACE 
+categorizes, VERB 
+detected, VERB 
+events, NOUN 
+pixel, ADJ 
+intensity, NOUN 
+time, NOUN 
+
+, SPACE 
+resolution, NOUN 
+system, NOUN 
+limited, VERB 
+40, NUM 
+ms, NOUN 
+serial, ADJ 
+
+, SPACE 
+readout, NOUN 
+circuitry, NOUN 
+CCD, PROPN 
+camera, NOUN 
+at-, DET 
+
+, SPACE 
+tempts, NOUN 
+use, VERB 
+faster, ADJ 
+readout, PROPN 
+CCD, NOUN 
+cameras, NOUN 
+re-, ADJ 
+
+, SPACE 
+quire, ADJ 
+customized, VERB 
+design, NOUN 
+CCD, PROPN 
+electronics, NOUN 
+ingenious, ADJ 
+
+, SPACE 
+technique, NOUN 
+surmount, VERB 
+problem, NOUN 
+discussed, VERB 
+Kella, PROPN 
+et, PROPN 
+al, PROPN 
+ll, X 
+video, NOUN 
+images, NOUN 
+obtained, VERB 
+CCD, PROPN 
+
+, SPACE 
+cameras, NOUN 
+subjected, VERB 
+variety, NOUN 
+image, NOUN 
+processing, NOUN 
+
+, SPACE 
+techniques, NOUN 
+different, ADJ 
+applications, NOUN 
+advantage, NOUN 
+
+, SPACE 
+technique, NOUN 
+case, NOUN 
+radiation, NOUN 
+emitting, VERB 
+
+, SPACE 
+objects, NOUN 
+imaging, NOUN 
+scintillations, NOUN 
+obtained, VERB 
+
+, SPACE 
+direct, ADJ 
+image, NOUN 
+object, NOUN 
+recorded, VERB 
+
+, SPACE 
+studying, VERB 
+spatial, ADJ 
+correlation, NOUN 
+visible, ADJ 
+image, NOUN 
+
+, SPACE 
+sample, NOUN 
+radiation, NOUN 
+map, NOUN 
+Details, NOUN 
+
+, SPACE 
+analysis, NOUN 
+imaging, NOUN 
+system, NOUN 
+characterization, NOUN 
+pre-, ADV 
+
+, SPACE 
+sented, VERB 
+separate, ADJ 
+paper, NOUN 
+
+, SPACE 
+3, X 
+Scintillation, NOUN 
+imaging, NOUN 
+charged, VERB 
+particles, NOUN 
+
+, SPACE 
+initial, ADJ 
+series, NOUN 
+experiments, NOUN 
+scintillations, NOUN 
+
+, SPACE 
+alphas, NOUN 
+241Am, ADJ 
+source, NOUN 
+strengths, NOUN 
+ranging, VERB 
+
+, SPACE 
+173, NUM 
+dpm, NOUN 
+thousand, NUM 
+dpm, NOUN 
+
+, SPACE 
+alpha, NOUN 
+sources, NOUN 
+placed, VERB 
+contact, NOUN 
+thin, ADJ 
+ZnS(Ag, NOUN 
+
+, SPACE 
+scintillator, NOUN 
+screen, NOUN 
+choice, NOUN 
+ZnS, PROPN 
+scintillator, NOUN 
+
+, SPACE 
+dictated, VERB 
+fact, NOUN 
+light, ADJ 
+output, NOUN 
+scintilla-, NOUN 
+
+, SPACE 
+tor, NOUN 
+higher, ADJ 
+compared, VERB 
+commonly, ADV 
+charged, VERB 
+
+, SPACE 
+particle, NOUN 
+scintillators, NOUN 
+scintillator, NOUN 
+granu-, VERB 
+
+, SPACE 
+lar, ADJ 
+Subsequently, ADV 
+thin, ADJ 
+CsI(T1, ADJ 
+scintillator, NOUN 
+
+, SPACE 
+image, NOUN 
+alphas, NOUN 
+subsequent, ADJ 
+section, NOUN 
+
+, SPACE 
+discuss, VERB 
+results, NOUN 
+obtained, VERB 
+ZnS, NOUN 
+scintillators, NOUN 
+
+, SPACE 
+found, VERB 
+ZnS, PROPN 
+scintillator, NOUN 
+screen, NOUN 
+
+, SPACE 
+placed, VERB 
+contact, NOUN 
+input, NOUN 
+fibre, NOUN 
+optic, ADJ 
+face, NOUN 
+plate, NOUN 
+
+, SPACE 
+image, NOUN 
+intensifier, ADJ 
+tube, NOUN 
+light, ADJ 
+output, NOUN 
+sufficient, ADJ 
+
+, SPACE 
+registration, NOUN 
+CCD, PROPN 
+camera, NOUN 
+stage, NOUN 
+
+, SPACE 
+light, ADJ 
+intensification, NOUN 
+single, ADJ 
+image, NOUN 
+intensifier, ADJ 
+
+, SPACE 
+scintillator, NOUN 
+screen, NOUN 
+image, NOUN 
+intensifier, ADJ 
+
+, SPACE 
+tube, NOUN 
+optically, ADV 
+coupled, VERB 
+case, NOUN 
+imaging, NOUN 
+
+, SPACE 
+large, ADJ 
+size, NOUN 
+objects, NOUN 
+single, ADJ 
+stage, NOUN 
+image, NOUN 
+intensification, NOUN 
+
+, SPACE 
+adequate, ADJ 
+registration, NOUN 
+CCD, PROPN 
+camera, NOUN 
+
+, SPACE 
+stage, NOUN 
+image, NOUN 
+intensification, NOUN 
+required, VERB 
+
+, SPACE 
+higher, ADJ 
+sensitivity, NOUN 
+CCD, PROPN 
+camera, NOUN 
+required, VERB 
+overcome, VERB 
+
+, SPACE 
+limitations, NOUN 
+found, VERB 
+optical, ADJ 
+coupling, NOUN 
+
+, SPACE 
+thresholding, NOUN 
+suppress, VERB 
+intensifier, ADJ 
+tube, NOUN 
+noise, NOUN 
+single, ADJ 
+
+, SPACE 
+particle, NOUN 
+event, NOUN 
+registration, NOUN 
+efficiency, NOUN 
+excess, NOUN 
+60, NUM 
+
+, SPACE 
+2, NUM 
+rr, NOUN 
+geometry, NOUN 
+achieved, VERB 
+121, NUM 
+efficiency, NOUN 
+registra-, ADJ 
+
+, SPACE 
+tion, NOUN 
+found, VERB 
+depend, VERB 
+type, NOUN 
+coupling, NOUN 
+
+, SPACE 
+threshold, NOUN 
+level, NOUN 
+employed, VERB 
+Time, NOUN 
+integrated, VERB 
+counting, NOUN 
+soft-, X 
+
+, SPACE 
+ware, NOUN 
+developed, VERB 
+purpose, NOUN 
+
+, SPACE 
+position, VERB 
+analysis, NOUN 
+preliminary, ADJ 
+analysis, NOUN 
+alpha, NOUN 
+
+, SPACE 
+scintillation, NOUN 
+images, NOUN 
+single, ADJ 
+image, NOUN 
+intensifier, ADJ 
+tube, NOUN 
+
+, SPACE 
+direct, ADJ 
+contact, NOUN 
+scintillator, NOUN 
+shows, VERB 
+resolution, NOUN 
+
+, SPACE 
+100, NUM 
+p, NOUN 
+m., NOUN 
+resolution, NOUN 
+dependent, ADJ 
+
+, SPACE 
+factors, NOUN 
+mode, NOUN 
+optical, ADJ 
+coupling, NOUN 
+be-, X 
+
+, SPACE 
+tween, NOUN 
+image, NOUN 
+intensifier, ADJ 
+input, NOUN 
+face, NOUN 
+plate, NOUN 
+scintillator, NOUN 
+
+, SPACE 
+type, NOUN 
+scintillator, NOUN 
+etc, X 
+Fig, PROPN 
+2, NUM 
+shows, VERB 
+second, ADJ 
+inte-, NOUN 
+
+, SPACE 
+grated, ADJ 
+scintillation, NOUN 
+image, NOUN 
+ring, NOUN 
+shaped, VERB 
+24’Am, NUM 
+alpha, NOUN 
+
+, SPACE 
+source, NOUN 
+stray, ADJ 
+scintillation, NOUN 
+central, ADJ 
+outside, ADJ 
+
+, SPACE 
+portion, NOUN 
+ring, NOUN 
+residual, ADJ 
+alpha, NOUN 
+contamination, NOUN 
+
+, SPACE 
+deposition, NOUN 
+americium, NOUN 
+
+, SPACE 
+conducted, VERB 
+experiments, NOUN 
+detect, VERB 
+
+, SPACE 
+lower, ADJ 
+limit, NOUN 
+alpha, NOUN 
+energy, NOUN 
+detected, VERB 
+
+, SPACE 
+A., NOUN 
+Sinha, NOUN 
+et, X 
+al./, ADV 
+Nucl, PROPN 
+Insb, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, NOUN 
+1, NUM 
+II, PROPN 
+1996, NUM 
+I71, PROPN 
+-I, PROPN 
+75, NUM 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Images, NOUN 
+individual, ADJ 
+thermal, ADJ 
+neutron, PROPN 
+scintillations, NOUN 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Scintillation, NOUN 
+images, NOUN 
+ring, NOUN 
+shaped, VERB 
+alpha, NOUN 
+source, NOUN 
+
+, SPACE 
+4.2, X 
+Low, ADJ 
+energy, NOUN 
+neutron, PROPN 
+detection, NOUN 
+experimental, ADJ 
+results, NOUN 
+
+, SPACE 
+optical, ADJ 
+coupling, NOUN 
+method, NOUN 
+purpose, NOUN 
+
+, SPACE 
+layers, NOUN 
+aluminized, ADJ 
+mylar, ADJ 
+foils, NOUN 
+thickness, NOUN 
+2, NUM 
+pm, NOUN 
+
+, SPACE 
+introduced, VERB 
+scintillator, NOUN 
+
+, SPACE 
+source, NOUN 
+order, NOUN 
+reduce, VERB 
+energy, NOUN 
+emitted, ADJ 
+
+, SPACE 
+alphas, NOUN 
+Alpha, NOUN 
+particles, NOUN 
+energy, NOUN 
+low, ADJ 
+0.1, NUM 
+MeV, PROPN 
+
+, SPACE 
+detected, VERB 
+optical, ADJ 
+coupling, NOUN 
+mode, NOUN 
+
+, SPACE 
+rudimentary, ADJ 
+charged, VERB 
+particle, NOUN 
+spectroscopy, NOUN 
+ex-, NOUN 
+
+, SPACE 
+periments, NOUN 
+better, ADJ 
+scintillator, NOUN 
+required, VERB 
+calibrate, VERB 
+
+, SPACE 
+system, NOUN 
+detector, NOUN 
+system, NOUN 
+recently, ADV 
+employed, VERB 
+
+, SPACE 
+hand, NOUN 
+held, VERB 
+alpha, NOUN 
+contamination, NOUN 
+monitor, NOUN 
+system, NOUN 
+
+, SPACE 
+4, X 
+Scintillation, NOUN 
+imaging, NOUN 
+neutrons, NOUN 
+
+, SPACE 
+4.1, NUM 
+Converter, NOUN 
+jilm, NOUN 
+
+, SPACE 
+detectors, NOUN 
+detect, VERB 
+quantify, VERB 
+map, VERB 
+neutron, NOUN 
+
+, SPACE 
+fields, NOUN 
+require, VERB 
+intermediate, ADJ 
+material, NOUN 
+convert, VERB 
+neutrons, NOUN 
+
+, SPACE 
+ionizing, ADJ 
+form, NOUN 
+radiation, NOUN 
+turn, NOUN 
+
+, SPACE 
+detected, VERB 
+suitable, ADJ 
+scintillators, NOUN 
+converters, NOUN 
+re-, ADV 
+
+, SPACE 
+quired, VERB 
+thermal, ADJ 
+neutrons, NOUN 
+different, ADJ 
+
+, SPACE 
+fast, ADJ 
+neutrons, NOUN 
+fast, ADJ 
+neutrons, NOUN 
+charged, VERB 
+particles, NOUN 
+
+, SPACE 
+directly, ADV 
+produced, VERB 
+hydrogenous, ADJ 
+material, NOUN 
+
+, SPACE 
+plastics, NOUN 
+scintillates, VERB 
+thermal, ADJ 
+neutrons, NOUN 
+ad-, PRON 
+
+, SPACE 
+vantage, NOUN 
+taken, VERB 
+fact, NOUN 
+light, ADJ 
+elements, NOUN 
+
+, SPACE 
+nuclides, NOUN 
+undergo, VERB 
+exothermic, ADJ 
+reactions, NOUN 
+yield, VERB 
+ener-, NOUN 
+
+, SPACE 
+getic, NOUN 
+charged, VERB 
+particles, NOUN 
+turn, NOUN 
+induce, VERB 
+scintilla-, ADJ 
+
+, SPACE 
+tions, NOUN 
+neutron, NOUN 
+energetic, ADJ 
+charged, VERB 
+particle, NOUN 
+
+, SPACE 
+converters, NOUN 
+minimal, ADJ 
+gamma, NOUN 
+sensitivity, NOUN 
+
+, SPACE 
+ideally, ADV 
+suited, VERB 
+detection, NOUN 
+neutrons, NOUN 
+commonly, ADV 
+
+, SPACE 
+converters, NOUN 
+having, VERB 
+exothermic, ADJ 
+reactions, NOUN 
+high, ADJ 
+
+, SPACE 
+cross, NOUN 
+sections, NOUN 
+thermal, ADJ 
+neutrons, NOUN 
+boron-10, PROPN 
+
+, SPACE 
+lithium-6, PROPN 
+initial, ADJ 
+series, NOUN 
+experiments, NOUN 
+enriched, ADJ 
+
+, SPACE 
+boron-10, PROPN 
+coated, ADJ 
+plate, NOUN 
+contact, NOUN 
+ZnS, PROPN 
+screen, NOUN 
+
+, SPACE 
+turn, NOUN 
+mounted, VERB 
+direct, ADJ 
+contact, NOUN 
+.with, PUNCT 
+input, NOUN 
+face, NOUN 
+
+, SPACE 
+plate, NOUN 
+image, NOUN 
+intensifier, ADJ 
+tube, NOUN 
+
+, SPACE 
+realized, VERB 
+light, ADJ 
+output, NOUN 
+scintillator, NOUN 
+
+, SPACE 
+boron-10, PROPN 
+ZnS, NOUN 
+combination, NOUN 
+poor, ADJ 
+
+, SPACE 
+series, NOUN 
+experiments, NOUN 
+employed, VERB 
+scintilla-, ADJ 
+
+, SPACE 
+tor, NOUN 
+NE-426, PROPN 
+mixture, NOUN 
+6Li, PROPN 
+ZnS., PROPN 
+
+, SPACE 
+light, ADJ 
+output, NOUN 
+scintillator, NOUN 
+order, NOUN 
+1.7, NUM 
+X, NOUN 
+lo5, NOUN 
+
+, SPACE 
+photons, NOUN 
+thermal, ADJ 
+neutron, NOUN 
+absorbed, VERB 
+scintilla-, ADJ 
+
+, SPACE 
+tor, NOUN 
+possible, ADJ 
+use, VERB 
+single, ADJ 
+image, NOUN 
+intensifier, ADJ 
+tube, NOUN 
+
+, SPACE 
+contact, NOUN 
+scintillator, NOUN 
+obtain, VERB 
+neutron, NOUN 
+images, NOUN 
+
+, SPACE 
+trough, ADP 
+CCD, PROPN 
+camera, NOUN 
+Fig, PROPN 
+3, NUM 
+shows, VERB 
+image, NOUN 
+
+, SPACE 
+NE-426, PROPN 
+single, ADJ 
+image, NOUN 
+intensifier, ADJ 
+tube, NOUN 
+CCD, PROPN 
+
+, SPACE 
+camera, NOUN 
+developed, VERB 
+hand, NOUN 
+held, VERB 
+neutron, NOUN 
+monitor, NOUN 
+
+, SPACE 
+NE-426, PROPN 
+scintillator, NOUN 
+single, ADJ 
+image, NOUN 
+intensifier, ADJ 
+
+, SPACE 
+tube, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Radiograph, NOUN 
+Cd, PROPN 
+sheet, NOUN 
+holes, NOUN 
+1, NUM 
+1.5, NUM 
+2, NUM 
+mm, NUM 
+
+, SPACE 
+114, NUM 
+A., NOUN 
+Sinha, PROPN 
+et, NOUN 
+al./Nucl, PROPN 
+lnstr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+111, NUM 
+1996, NUM 
+171, NUM 
+175, NUM 
+
+, SPACE 
+order, NOUN 
+demonstrate, VERB 
+radiographic, ADJ 
+imaging, NOUN 
+appli-, PART 
+
+, SPACE 
+cation, NOUN 
+detector, NOUN 
+system, NOUN 
+present, VERB 
+Fig, PROPN 
+4, NUM 
+
+, SPACE 
+neutron, NOUN 
+radiographic, ADJ 
+image, NOUN 
+cadmium, NOUN 
+sheet, NOUN 
+holes, NOUN 
+
+, SPACE 
+1, NUM 
+1.5, NUM 
+2, NUM 
+mm, NUM 
+detector, NOUN 
+system, NOUN 
+
+, SPACE 
+suited, VERB 
+low, ADJ 
+fluence, NOUN 
+neutron, NOUN 
+radiography, NOUN 
+
+, SPACE 
+employed, VERB 
+obtain, VERB 
+qualitative, ADJ 
+neutron, NOUN 
+radiographs, NOUN 
+
+, SPACE 
+hydrogenous, ADJ 
+objects, NOUN 
+plastic, NOUN 
+water, NOUN 
+non, ADJ 
+hy-, ADJ 
+
+, SPACE 
+drogenous, ADJ 
+objects, NOUN 
+Cd, PROPN 
+relatively, ADV 
+small, ADJ 
+
+, SPACE 
+Pu, PROPN 
+neutron, NOUN 
+source, NOUN 
+emitting, VERB 
+2, NUM 
+X, NUM 
+10, NUM 
+n, CCONJ 
+s., PROPN 
+
+, SPACE 
+4.3, NUM 
+Fast, ADJ 
+neutron, NOUN 
+imaging, NOUN 
+
+, SPACE 
+carried, VERB 
+feasibility, NOUN 
+position, NOUN 
+
+, SPACE 
+sensitive, ADJ 
+detection, NOUN 
+fast, ADJ 
+neutrons, NOUN 
+present, ADJ 
+detec-, NOUN 
+
+, SPACE 
+tor, NOUN 
+purpose, NOUN 
+plastic, NOUN 
+scintillator, NOUN 
+
+, SPACE 
+Work, PROPN 
+progress, NOUN 
+applications, NOUN 
+fast, ADJ 
+neutron, NOUN 
+
+, SPACE 
+imaging, NOUN 
+detector, NOUN 
+
+, SPACE 
+5, X 
+Scintillation, NOUN 
+imaging, NOUN 
+X, NOUN 
+rays, NOUN 
+gamma, NOUN 
+rays, NOUN 
+
+, SPACE 
+beta, ADJ 
+particles, NOUN 
+
+, SPACE 
+tested, VERB 
+detector, NOUN 
+scintillation, NOUN 
+imag-, ADP 
+
+, SPACE 
+ing, PROPN 
+radiations, NOUN 
+alphas, NOUN 
+neutrons, NOUN 
+
+, SPACE 
+imaging, NOUN 
+gamma, NOUN 
+ray, NOUN 
+photons, NOUN 
+CsI(Tl, PROPN 
+scintillator, NOUN 
+
+, SPACE 
+low, ADJ 
+energy, NOUN 
+X, NOUN 
+rays, NOUN 
+CaFa(Eu, PROPN 
+scintillator, NOUN 
+
+, SPACE 
+Depending, VERB 
+energy, NOUN 
+incident, NOUN 
+
+, SPACE 
+radiation, NOUN 
+scintillators, NOUN 
+ranging, VERB 
+thickness, NOUN 
+1.5, NUM 
+4, NUM 
+
+, SPACE 
+mm, NOUN 
+gamma, NOUN 
+rays, NOUN 
+Gamma, PROPN 
+rays, NOUN 
+
+, SPACE 
+6oCo, NOUN 
+13, NUM 
+Cs, ADJ 
+detected, VERB 
+X, NOUN 
+rays, NOUN 
+pho-, NOUN 
+
+, SPACE 
+tons, NOUN 
+emitted, VERB 
+@Cd, ADJ 
+Fe, PROPN 
+X, NOUN 
+ray, NOUN 
+sources, NOUN 
+
+, SPACE 
+energies, NOUN 
+22, NUM 
+5.9, NUM 
+keV, NOUN 
+respectively, ADV 
+imaged, VERB 
+
+, SPACE 
+usirrg, ADJ 
+technique, NOUN 
+thickness, NOUN 
+CaF,(Eu, PROPN 
+scintil-, NUM 
+
+, SPACE 
+lator, PROPN 
+case, NOUN 
+low, ADJ 
+energy, NOUN 
+X, NOUN 
+rays, NOUN 
+200, NUM 
+300, NUM 
+
+, SPACE 
+p, NOUN 
+rn, ADP 
+order, NOUN 
+avoid, VERB 
+defocusing, VERB 
+thinner, ADJ 
+scintillator, NOUN 
+
+, SPACE 
+low, ADJ 
+energy, NOUN 
+X, NOUN 
+rays, NOUN 
+better, ADJ 
+resolution, NOUN 
+Fig, PROPN 
+5, NUM 
+
+, SPACE 
+shows, VERB 
+.&age, NOUN 
+individual, ADJ 
+X, NOUN 
+ray, NOUN 
+photons, NOUN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Scintillation, NOUN 
+images, NOUN 
+X, NOUN 
+ray, NOUN 
+photons, NOUN 
+io9Cd, PROPN 
+Fig, PROPN 
+6, NUM 
+Scintillation, NOUN 
+images, NOUN 
+90Sr, NOUN 
+beta, NOUN 
+CaF, NOUN 
+Eu, PROPN 
+
+, SPACE 
+mCd, NOUN 
+X, NOUN 
+ray, NOUN 
+source, NOUN 
+emitting, VERB 
+22, NUM 
+keV, NOUN 
+X, NOUN 
+ray, NOUN 
+photons, NOUN 
+
+, SPACE 
+interesting, ADJ 
+applications, NOUN 
+detector, NOUN 
+system, NOUN 
+
+, SPACE 
+applied, VERB 
+online, ADJ 
+imaging, NOUN 
+X, NOUN 
+ray, NOUN 
+diffrac-, NOUN 
+
+, SPACE 
+tion, NOUN 
+images, NOUN 
+Work, NOUN 
+preliminary, ADJ 
+stages, NOUN 
+details, NOUN 
+
+, SPACE 
+work, NOUN 
+reported, VERB 
+separately, ADV 
+
+, SPACE 
+Similarly, ADV 
+beta, NOUN 
+particles, NOUN 
+plastic, ADJ 
+scintillator, NOUN 
+
+, SPACE 
+CaF,(Eu, NOUN 
+scintillator, NOUN 
+employed, VERB 
+
+, SPACE 
+able, ADJ 
+image, VERB 
+individual, ADJ 
+beta, NOUN 
+scintillations, NOUN 
+low, ADJ 
+
+, SPACE 
+high, ADJ 
+energy, NOUN 
+Fig, PROPN 
+6, NUM 
+shows, VERB 
+image, NOUN 
+betas, NOUN 
+Sr, PROPN 
+
+, SPACE 
+source, NOUN 
+CaF$(Eu, ADJ 
+detector, NOUN 
+tritium, NOUN 
+
+, SPACE 
+betas, NOUN 
+E, PROPN 
+=, SYM 
+18, NUM 
+keV, NOUN 
+signal, NOUN 
+noise, NOUN 
+ratio, NOUN 
+obtained, VERB 
+
+, SPACE 
+present, ADJ 
+detector, NOUN 
+scintillator, NOUN 
+combination, NOUN 
+
+, SPACE 
+poor, ADJ 
+CaF,(Eu, NOUN 
+scintillator, NOUN 
+able, ADJ 
+
+, SPACE 
+image, NOUN 
+spot, NOUN 
+tritium, NOUN 
+contamination, NOUN 
+titanium, NOUN 
+samples, NOUN 
+hav-, VERB 
+
+, SPACE 
+ing, VERB 
+activity, NOUN 
+=, NOUN 
+1000, NUM 
+Bq, PROPN 
+seconds, NOUN 
+integra-, ADJ 
+
+, SPACE 
+tion, NOUN 
+time, NOUN 
+
+, SPACE 
+6, X 
+Conclusions, NOUN 
+
+, SPACE 
+position, NOUN 
+sensitive, ADJ 
+scintillation, NOUN 
+imaging, NOUN 
+detector, NOUN 
+sys-, NOUN 
+
+, SPACE 
+tem, NOUN 
+developed, VERB 
+online, ADJ 
+high, ADJ 
+resolution, NOUN 
+imaging, VERB 
+
+, SPACE 
+charged, VERB 
+particles, NOUN 
+neutrons, NOUN 
+X, NOUN 
+rays, NOUN 
+gamma, NOUN 
+rays, NOUN 
+
+, SPACE 
+betas, NOUN 
+preliminary, ADJ 
+experiments, NOUN 
+energy, NOUN 
+spec-, X 
+
+, SPACE 
+troscopy, NOUN 
+beerrcanied, VERB 
+detector, NOUN 
+good, ADJ 
+
+, SPACE 
+spatial, ADJ 
+resolution, NOUN 
+adapted, VERB 
+high, ADJ 
+dynamic, ADJ 
+
+, SPACE 
+range, NOUN 
+applications, NOUN 
+detector, NOUN 
+
+, SPACE 
+carried, VERB 
+neutron, NOUN 
+radiography, NOUN 
+low, ADJ 
+flux, NOUN 
+
+, SPACE 
+neutron, NOUN 
+source, NOUN 
+neutron, PROPN 
+source, NOUN 
+imaging, NOUN 
+charged, VERB 
+particle, NOUN 
+
+, SPACE 
+detection, NOUN 
+containing, VERB 
+x, NOUN 
+y, ADJ 
+information, NOUN 
+count, NOUN 
+rate, NOUN 
+etc, X 
+
+, SPACE 
+time, NOUN 
+resolution, NOUN 
+limited, VERB 
+40, NUM 
+ms, NOUN 
+
+, SPACE 
+neutron, NOUN 
+scattering, VERB 
+experiments, NOUN 
+beam, NOUN 
+profile, NOUN 
+
+, SPACE 
+monitoring, NOUN 
+neutron, NOUN 
+charged, VERB 
+particle, NOUN 
+beams, NOUN 
+
+, SPACE 
+propose, VERB 
+apply, VERB 
+technique, NOUN 
+real, ADJ 
+time, NOUN 
+neutron, NOUN 
+
+, SPACE 
+radiography, NOUN 
+neutron, PROPN 
+tomography, PROPN 
+X, NOUN 
+ray, NOUN 
+diffraction, NOUN 
+
+, SPACE 
+imaging, NOUN 
+
+, SPACE 
+A., NOUN 
+Sinha, VERB 
+et, NOUN 
+al./NucI., PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+111, NUM 
+1996, NUM 
+171, NUM 
+175, NUM 
+175, NUM 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+R., PROPN 
+Allemand, PROPN 
+J., PROPN 
+Bourdel, PROPN 
+E., PROPN 
+Roudaut, PROPN 
+P., PROPN 
+Convert, PROPN 
+K., PROPN 
+Abel, PROPN 
+J., PROPN 
+
+, SPACE 
+Jacobe, PROPN 
+J.P., PROPN 
+Cotton, PROPN 
+B., PROPN 
+Famoux, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+
+, SPACE 
+126, NUM 
+1975, NUM 
+29, NUM 
+
+, SPACE 
+2, NUM 
+A., NOUN 
+Ged, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+263, NUM 
+1988, NUM 
+351, NUM 
+
+, SPACE 
+3, X 
+R.A., PROPN 
+Schrac, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+222, NUM 
+1984, NUM 
+499, NUM 
+
+, SPACE 
+4, X 
+H., PROPN 
+Kume, PROPN 
+S., PROPN 
+Muramatsu, PROPN 
+M., PROPN 
+Iida, PROPN 
+IEEE, PROPN 
+Trans, PROPN 
+Nucl, PROPN 
+Sci, PROPN 
+
+, SPACE 
+NS-33, PROPN 
+1986, NUM 
+359, NUM 
+
+, SPACE 
+5, X 
+S., PROPN 
+Charbomieau, PROPN 
+L.B., PROPN 
+Allard, PROPN 
+J.F., PROPN 
+Young, PROPN 
+G., PROPN 
+Dyck, PROPN 
+B.J., PROPN 
+
+, SPACE 
+Kyle, PROPN 
+Rev., PROPN 
+Sci, PROPN 
+Instr, PROPN 
+63(11, X 
+1992, NUM 
+5315, NUM 
+
+, SPACE 
+6, NUM 
+M.G., PROPN 
+Strauss, PROPN 
+I., PROPN 
+Naday, PROPN 
+Sherman, PROPN 
+M.R., PROPN 
+Kraimer, PROPN 
+
+, SPACE 
+E.M., PROPN 
+Westbrook, PROPN 
+IEEE, PROPN 
+Trans, PROPN 
+Nucl, PROPN 
+Sci, PROPN 
+NS-34, PROPN 
+1987, NUM 
+389, NUM 
+7, X 
+P.N., PROPN 
+Chemyshov, PROPN 
+A.A., PROPN 
+Sumbatyan, PROPN 
+V.Ya, PROPN 
+Kezerashvili, PROPN 
+S.P., PROPN 
+
+, SPACE 
+Gaevoi, PROPN 
+V.M., PROPN 
+Gataulin, PROPN 
+V.A., PROPN 
+Tumov, PROPN 
+Instr, PROPN 
+Exper, PROPN 
+Tech, NOUN 
+
+, SPACE 
+29, NUM 
+1986, NUM 
+1297, NUM 
+
+, SPACE 
+S, X 
+R.H., PROPN 
+Templer, PROPN 
+S.M., PROPN 
+Gruner, PROPN 
+E.F., PROPN 
+Eikenberry, PROPN 
+Adv, PROPN 
+Elec-, PROPN 
+
+, SPACE 
+tronics, NOUN 
+Electron, PROPN 
+Physics, PROPN 
+17, NUM 
+1988, NUM 
+275, NUM 
+
+, SPACE 
+9, X 
+U.W., PROPN 
+Amdt, PROPN 
+Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+201, NUM 
+1982, NUM 
+13, NUM 
+
+, SPACE 
+lo, X 
+U.W., PROPN 
+Amdt, PROPN 
+D.J., PROPN 
+Gilmore, PROPN 
+BNL-50453, PROPN 
+1982, NUM 
+VIII-16, NOUN 
+
+, SPACE 
+ll, X 
+D., PROPN 
+Kella, PROPN 
+M., PROPN 
+Algrauati, PROPN 
+H., PROPN 
+Feidman, PROPN 
+O.H., PROPN 
+Eber, PROPN 
+I., PROPN 
+Kovner, PROPN 
+
+, SPACE 
+E., PROPN 
+Malkin, PROPN 
+E., PROPN 
+Miklazky, PROPN 
+R., PROPN 
+Naaman, PROPN 
+D., PROPN 
+Zajfman, PROPN 
+J., PROPN 
+Zajfiuan, PROPN 
+
+, SPACE 
+Z., PROPN 
+Vager, PROPN 
+Nucl, PROPN 
+Iustr, PROPN 
+Meth, PROPN 
+329, NUM 
+1993, NUM 
+440, NUM 
+
+, SPACE 
+12, NUM 
+A., NOUN 
+Sinha, PROPN 
+B.D., PROPN 
+Bhawe, PROPN 
+C.G., PROPN 
+Panchal, PROPN 
+A., NOUN 
+Shyam, PROPN 
+M., PROPN 
+
+, SPACE 
+Srinivasan, PROPN 
+Symp, PROPN 
+Nuclear, PROPN 
+Physics, PROPN 
+Bhubaneshwar, PROPN 
+India, PROPN 
+
+, SPACE 
+1994, NUM 
+
+, SPACE 

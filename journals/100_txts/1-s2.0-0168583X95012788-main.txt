@@ -1,0 +1,372 @@
+Nuclear Instruments and Methods in Physics Research B I 12 (1996) 275-279 
+cQ.5 __ we 
+E!B k!lOMl B 
+ELSEVIER Beam Interactions 
+with Materials&Atoms 
+Thin BN films obtained by dual-ion-beam sputtering: an FYI’-IR and 
+spectroscopic ellipsometry characterization 
+C. Quir&, P. Prieto, J.F. Trigo, E. Elizalde, J.M. Sanz * 
+Dpto. Ficica Aplicada C-XII. Uniuersidad Authwma de Madrid. Canrohlanco, E-28049 Madrid, Spain 
+Abstract 
+Thin BN films (100-250 nm) have been deposited on Si( 100) substrates in a double-ion-beam sputtering system from a 
+h-BN target. The films have been characterized by FT-IR spectroscopy and spectroscopic phase-modulated ellipsometry as a 
+function of the deposition and irradiation parameters. Assistance with Ar + ions result in boron rich films with refraction 
+indexes above 2 or even higher as the deposited energy of the assisting ions increases. N:-bombardment causes 
+stoichiometric and even nitrogen-rich BN films characterized by refraction indexes around 1.85. The stability of the films is 
+enhanced when the deposited energy of the N, + ions is above 30 eV/atom and/or the deposition is performed on substrates 
+at temperatures above 100°C. 
+1. Introduction 
+A number of different techniques have been applied for 
+the synthesis of BN films. Recent reviews of these meth- 
+ods are to be found in the literature [l--S]. These include 
+ion-assisted deposition, mainly based on the evaporation of 
+both BN and pure B assisted by nitrogen ions. Here we 
+report the results of a study of BN, films prepared in a 
+double-ion-beam sputtering system. The main aim is to 
+determine the deposition parameters that result in stable 
+transparent coatings. For that purpose we present an opti- 
+cal characterization of the BN, films in terms of FT-IR 
+spectroscopy and phase-modulated spectroscopic ellipsom- 
+etry. were Si(100) wafers cleaned in a HF + methanol solution 
+(50% in volume). Both the substrate and the target were 
+sputter-cleaned with a low energy Ar+ beam before the 
+deposition was started. 
+2. Experimental 
+The BN, films were deposited in a dual-ion-beam 
+sputtering system at a base pressure of lo-’ Torr. A 3 cm 
+Kaufmann-type ion source was used for sputtering of a BN 
+target (97.5% purity) from Cerac Inc. The angle of inci- 
+dence of the beam was 45” from the target normal. An 
+end-Hall ion source was used for low energy N:- and 
+Ar+-bombardment of the growing film. The angle of inci- 
+dence was 60” from the substrate normal. The substrates The ion current density and the ion energy of both ion 
+sources were changed in order to investigate the effect of 
+the energy input of the assisting ions on the structural and 
+optical properties of the BN films. A summary of the 
+deposition conditions is outlined in Table 1. The reduced 
+energy is an estimate of the deposited energy per arriving 
+atom determined in terms of the current density, energy of 
+the impinging ions, growth rate and atomic density of 
+h-BN. The samples have been labeled as A- and N- for 
+Ar+- and NC-assisted samples, respectively, and as NA- 
+for the non-assisted film. Although the sample holder was 
+cooled by water, the temperature can increase up to 85°C 
+depending on the conditions of the deposition. Some films 
+were deposited maintaining the substrate temperature at 
+100, 150 and 200°C. The temperature is controlled through 
+a thermocouple by a microprocessor-based controller. In 
+other cases the substrate was biased to increase the energy 
+of the ions. 
+* Corresponding author. Tel. + 34 I 397 4508, fax + 34 1 397 
+3969. e-mail jomasanz@ccuam3.sdi.uam.es. Infrared spectra were obtained on a Bruker IFS66V 
+Fourier transform infrared spectrometer between 7000 and 
+560 cm- ’ with a resolution of 4 cm- ‘. The optical 
+constants (n and k) and the thickness were determined in 
+the 1.5-4.5 eV photon energy range by spectroscopic 
+ellipsometry. The procedure consists in a least-squares 
+fitting of the experimental data assuming a bilayer struc- 
+ture (i.e., film and semi-infinite substrate) using the Powell 
+algorithm [6]. 
+0168-583X/96/$15.00 0 19% Elsevier Science B.V. All rights reserved 
+SD! 0 168-583X(95)01 278-8 IX. ENGINEERING 
+276 C. Quit& et al./Nucl. Instr. and Meth. in Phys. Rex B I12 (1996) 275-279 
+3. Results and discussion 
+In Fig. 1 a series of IR spectra of several films obtained 
+under different conditions (see Table 1) is shown. The 
+spectra correspond to the non-assisted film and Ar+- and 
+N:-assisted samples as labelled. Although all the spectra 
+show a rather broad peak in the 1300- 1400 cm-’ range 
+due to in-plane B-N bond stretching and a smaller one 
+located at 750-800 cm-’ associated with B-N-B bond- 
+bending (out of plane), they show significant differences in 
+both the broadness and the wavenumbers of the absorption 
+bands. In Fig. 2a and Fig. 2b we have represented the 
+wavenumber and the full width at one half maximum 
+(FWHM) of the main absorption band as a function of the 
+reduced energy (i.e., average delivered energy per de- 
+posited atom). Data of those N-films which were deposited 
+on hot substrates have been depicted with a different 
+symbol. 
+Fig. 2a shows that the wavenumber of the main band is 
+always lower for Ar+-assisted than for NT-assisted films. 
+This clearly indicates that the average intralayer B-N bond 
+length is larger for the A-films than for the N-films. In 
+fact, Fig. 2a shows that the N-films reach values between 
+1380 and 1400 cm-‘, usually found in the literature for 
+stoichiometric h-BN [ 11, whereas the wavenumber for the 
+Ar+-assisted films remains always below 1340 cm-‘. In I - 1 ’ I ’ I ’ I *, . , - 
+2000 1800 1600 1400 1200 1000 800 600 
+Wavenumber (cm“) 
+Fig. 1. IR spectra of different BN, thin films, Ar+-assisted (A6 
+and A9), non-assisted (NA) and N;-assisted (N8 and N9). See 
+Table 1 for deposition parameters. 
+Table 1 
+Deposition parameters, optical thickness and atomic nitrogen/boron ratio of BN, thin films 
+Sample Reduced Ion energy Ion current Optical Growth 
+energy [evl density thickness rate 
+[eV/atoml [ ~A/cm*l [Al [A/s1 
+NA 0 0 0 2050 0.27 
+Nl 148 60(-300)a 28 1060 0.19 
+N2 145 103 89 1360 0.18 
+N3 144 76(-ICOja 66 1300 0.23 
+N4 11.5 76 75 840 0.14 
+N5 105 60-2OO)a 30 1280 0.2 1 
+N6 80 103 77 1500 0.28 
+N7 61 103 67 290 0.32 
+N8 42 76 66 1770 0.34 
+N9 41 76 66 2020 0.35 
+NlO 15 60 29 1820 0.33 
+Nil 7 60 23 2040 0.61 
+N12 7 60 25 2200 0.60 
+Al 172 74 82 740 0.10 
+A2 148 76 82 840 0.12 
+A3 118 76 82 300 0.15 
+A4 105 74 60 560 0.12 
+A5 50 52 57 lOCKI 0.17 
+A6 31 52 57 1080 0.27 
+A7 20 41 41 620 0.24 
+A8 9 32 33 1220 0.34 
+A9 8 32 37 1620 0.40 
+A10 5 32 34 2040 0.60 Substrate 
+temperature 
+[“Cl 
+60 
+85 
+100 
+100 
+100 
+85 
+150 
+50 
+100 
+200 
+85 
+150 
+200 
+150 
+200 
+100 
+85 
+200 
+150 
+85 
+200 
+150 
+100 [Nl/[Bl 
+0.7 
+1.1 
+1.1 
+1.3 
+1.0 
+1.1 
+0.9 
+0.2 
+0.3 
+0.6 
+0.6 
+0.7 
+0.6 
+0.6 
+’ Substrate bias voltage. 
+C. Quirks ef al./Nucl. Instr. and Meth. in Phys. Res. B 112 (1996) 275-279 277 
+-1m- q 0 
+‘E 1380- El El (a) 
+g1380-0 0 0 0 
+0 
+L 1340- 00 0 
+d . 
+. 
+E 132014 . 
+z 1300- m 
+9 1280- 8 Af-assisted 8 
+m 1260_ 0 N,*msisted 
+3 ,240_ q N~*-assisted+T 
+b ’ 5b do IhI 2&l 
+3OOm n = @I 
+280 mm 8 
+_ 
+_I 7 5 260 ,"" 0 0 0 0 
+5 0 240 
+$ 0 220 
+200 1 ‘3 
+180 1 R 
+I I I -I 0 50 100 150 200 
+Reduced Energy (eV/atom) 
+Fig. 2. In plane B-N bond stretch wavenumber (a) and full width 
+at one-half peak maximum intensity (b) as a function of the 
+reduced energy (eV/atom) for BN, films: non-assisted (0). 
+Ar+-assisted (m), NC-assisted (0) and Nl-assisted at different 
+substrate temperatures (0 1. 
+addition, it is shown that the dependence on the deposition 
+parameters is stronger for A-films than for N-films. In the 
+last case, the data suggest a small decrease of the 
+wavenumber when the reduced energy is below 30 
+eV/atom, obviously tending to the value measured for the 
+non-assisted film. The measured wavenumber for the non- 
+assisted and Ar+-assisted films at low reduced energies is 
+around 1320 cm-’ and, although it increases slightly up to 
+1340 cm- ’ for 50 eV/atom, rapidly decreases below 1300 
+cm-’ at reduced energies above 100 eV/atom. Fig. 2b 
+shows that the FWHM of the IR-absorption band associ- 
+ated with the B-N bond stretch also depends on the 
+deposition parameters. It is greater for non-assisted and 
+A-films ( = 300 cm-‘) than for nitrogen assisted films 
+(260 cm-- ‘1 indicating a greater statistical distribution 
+about the average intralayer B-N bond length (i.e., larger 
+disorder). 
+Interestingly the influence of the substrate temperature 
+was more significant in N-films than in A-films. For films 
+grown under NC-bombardment it was observed that depo- 
+sition on hot substrates caused a significant decrease in the 
+width of the IR-absorption bands (cf. Fig. 2b) as well as an 
+increase in the wavenumber for films deposited at low 
+reduced energies (cf. Fig. 2a). The effects are obviously due to the relocation of the components in a more ordered 
+structure. In the case of substoichiometric films (i.e., A- 
+films) the effect is much weaker and probably requires 
+higher temperature. It is worth mentioning that any fea- 
+tures attributable to c-BN were absent from all the spectra 
+presented here. 
+Fig. 3a and Fig. 3b show n and k as a function of the 
+photon energy (1.5 s hv s 4.5 eV> for the same films 
+whose IR-spectra are depicted in Fig. 1. Fig. 3a shows that 
+the N-films have a rather constant n-value around 1.8 for 
+the whole photon energy range. In the case of the non-as- 
+sisted film (i.e., NA) and Ar-assisted films with low 
+reduced energy (i.e., A9) we obtain a similar behavior but 
+with a higher n-value between 2 and 2.1. However, the 
+dependence of n on the photon energy for Ar+-assisted 
+films at high reduced energies (i.e., A6) clearly suggests a 
+metallic behavior. The dependence of n and k (h v = 2.3 
+eV) on the deposition parameters is depicted in Fig. 4a and 
+Fig. 4b, respectively. All the N-films show a refraction 
+index between 1.7 and 2, apparently independent on the 
+deposition parameters. These values are in good agreement 
+with data published in the literature for bulk h-BN [7]. On 
+the contrary, the A-films show a rapid increase of the 
+refraction index with the reduced energy tending to that of 
+pure boron when the energy is above 30 eV/atom. In fact, 
+refraction indexes above 2 are related to boron rich films. 
+3.0 
+. (a) -N 
+2.8 ---.___._. _..-.. -. N8 
+2.6- ----.___ 
+'Y_.__ _____N6 
+-A,* -_._.- *6 
+2.4- . . . . . \. *g 
+L_ 
+2.2 - -.._. 
+--.._.______ 
+. . . . . . . . . . . . . .._........ ._,_............_. 
+1.61. ,.,,,,,.,,j 
+1.5 2.0 2.5 3.0 3.5 4.0 45 
+(W l.O- 
+C.-.~--~-.-.-.______._____ 
+_.A _/ . . / 
+0,5- _./-. __*. 
+, .A' 
+I * 1 ’ I, I I , . 1.5 2.0 2.5 3.0 3.5 4.0 4: 
+Photon Energy (ev) 5 
+Fig. 3. n (a) and k (b) as a function of photon energy for different 
+BN, thin films Ar+-assisted (A6 and A9), non-assisted (NA) and 
+N:-assisted (N8 and N9). See Table 1 for deposition parameters. 
+IX. ENGINEERING 
+278 C. Quids et al./Nucl. Instr. andh4eth. in Phys. Res. B 1 I2 (1996) 275-279 
+n Ar+-assisted (a) 
+. 
+0 Non-assisted 
+m 
+. 
+0 50 100 150 200 
+2.0 
+-I . n (b) 1 
+2 I5 2 1.0 II 
+I . . 3 
+f. 0.5 
+Y n 
+8 q 0 
+0 
+0.0 . 0 D 0 0 00 
+i I 1 I I 
+0 50 100 150 200 
+Reduced Energy (eV/atom) 
+Fig. 4. n (a) and k (b) as a function of the reduced energy 
+(eV/atom) for BN, films non-assisted (a), Ar+-assisted (ml, 
+N;-assisted (0) and NC-assisted at different substrate tempera- 
+tures ( IJ ). 
+The behavior of k is clearly complementary to that of II. 
+The N-films show very low k-values (- 0.11, whereas 
+those assisted with Argon show much higher k-values and 
+a significant increase as the reduced energy increases 
+above 30 eV/atom. Refraction indexes around 1.85 and 
+very low extinction coefficients (i.e., 0.005) can be ob- 
+tained for N:-assisted films deposited on a substrate at 
+200°C and reduced energies around 40 eV/atom. 
+All the data above and the observed differences seem to 
+derive from structural and stoichiometric effects. Even 
+though the sputtering target was stoichiometric .BN, it is 
+shown that Ar+-sputtering causes boron-rich films. In fact, 
+when the deposition is assisted with Ar+-ions, the films 
+show IR-absorption bands which shift towards lower 
+wavenumbers and a refraction index which increases, as 
+expected for boron-rich films. On the contrary, assisting 
+with nitrogen enables formation of stoichiometric and ni- 
+trogen-rich films, with a high transparency. All this has 
+been confirmed by quantitative AES analysis, as can be 
+seen in Table 1, where the atomic [N]/[B] ratio has been 
+included for many films. The analysis was performed in 
+terms of a standard stoichiometric h-BN sample. 
+Although, in general, the N-films showed the best properties, it is interesting to point out that those samples 
+grown under low reduced energy conditions (< 30 
+eV/atom) underwent some degradation after several 
+months of exposure to the atmosphere of the laboratory. 
+The effect consists in a significant intensity decrease of the 
+main IR-band associated with the B-N bond-stretching 
+and the growth of a new band at 3500 cm-’ associated 
+with hydroxide species. On the contrary, those films de- 
+posited at higher reduced energies and/or on substrates at 
+temperatures 2 100°C did not show any degradation even 
+after six months of exposure to the atmosphere. Such 
+improvement is generally attributed to a reduction of the 
+void density and consequently to a densification of the 
+films due to the transfer of momentum to the growing film 
+which hinders the adsorption of water and their oxidation. 
+4. Conclusions 
+Thin BN, films have been prepared on Si(100) in a 
+dual-ion-beam sputtering system from a BN target. The 
+films have been characterized by ET-IR spectroscopy and 
+spectroscopic phase-modulated ellipsometry as a function 
+of the deposition and irradiation parameters. It is shown 
+that the Ar+-assisted films are boron rich with refraction 
+indexes above 2 or even higher as the deposited energy of 
+the assisting ions increases. On the contrary, Nc-bombard- 
+ment causes the formation of stoichiometric and even 
+nitrogen-rich BN films, characterized by refraction indexes 
+around 1.85 (hv = 2.3 eV>. Furthermore, the stability of 
+the films against air exposure is enhanced when the de- 
+posited energy of the Nl-ions is above 30 eV/atom 
+and/or the substrate temperature is above 100°C. The 
+results are discussed in terms of the stoichiometry (i.e., 
+[Nl/[Bl atomic ratio) and the enhanced packing density 
+induced by the ion assistance. 
+Acknowledgements 
+This work is supported by the CICYT (contract 
+MAT93/ 1039). 
+References 
+111 J.J. Pouch and S.A. Alteroviz feds.), Synthesis and Properties 
+of Boron Nitride, Materials Science Forum 5455 (1990) and 
+references therein. 
+[21 W.G. Sainty, P.J. Martin, R.P. Nettertield, D.R. Mckenzie, 
+D.J.H. Cockayne and D.M. Dwarte, J. Appl. Phys. 64 (1988) 
+3980. 
+[31 0. Burat, D. Bouchier, V. Stambouli and G. Gautherin, J. 
+Appl. Phys. 68 (1990) 2780. 
+C. Quir6s et al./Nucl. Instr. und Meth. in Phys. Rex. B 112 (1996) 275-279 279 
+[4] N. Tanabe, T. Hayashi and M. Iwaki, Diamond Relat. Mater. 
+l(1992) 151. 
+[5] N. Tanabe, T. Hayashi and M. Iwaki, Diamond Relat. Mater. 
+1 (1992) 883. 
+[6] W.H. Press et al. (eds.). Numerical recipes in C. The Art of Scientific Computing, Chapter IO (Cambridge Univ. Press, 
+Cambridge, 1988) p. 3 14. 
+[7] M.Y. Rand and J.F. Roberts, J. Electrochem. Sot 115 (1975) 
+423. 
+IX. ENGINEERING 

@@ -1,0 +1,3961 @@
+Bone, PROPN 
+Vol, PROPN 
+19, NUM 
+6, NUM 
+
+, SPACE 
+December, PROPN 
+1996:589, NUM 
+594, NUM 
+
+, SPACE 
+ELSEVIER, NOUN 
+
+, SPACE 
+Bone, PROPN 
+Particles, PROPN 
+Disturb, PROPN 
+New, PROPN 
+Bone, PROPN 
+Formation, PROPN 
+Interface, PROPN 
+
+, SPACE 
+Titanium, PROPN 
+Implant, PROPN 
+Reaming, NOUN 
+
+, SPACE 
+Marrow, PROPN 
+Cavity, PROPN 
+
+, SPACE 
+M., PROPN 
+ISHIZAKA, PROPN 
+T., PROPN 
+TANIZAWA, PROPN 
+M., PROPN 
+SOFUE, PROPN 
+Y., PROPN 
+DOHMAE, PROPN 
+N., PROPN 
+ENDO, PROPN 
+H., PROPN 
+E., PROPN 
+TAKAHASHI, PROPN 
+
+, SPACE 
+Department, PROPN 
+Orthopaedic, PROPN 
+Surgery, PROPN 
+Niigata, PROPN 
+University, PROPN 
+School, PROPN 
+Medicine, PROPN 
+Niigata, PROPN 
+City, PROPN 
+Japan, PROPN 
+
+, SPACE 
+Histomorphometric, PROPN 
+studies, NOUN 
+conducted, VERB 
+rats, NOUN 
+deter-, NOUN 
+
+, SPACE 
+bone, NOUN 
+particles, NOUN 
+disturb, VERB 
+new, ADJ 
+hone, NOUN 
+forma-, NUM 
+
+, SPACE 
+tion, NOUN 
+interface, NOUN 
+titanium, NOUN 
+implants, NOUN 
+inserted, VERB 
+
+, SPACE 
+reaming, NOUN 
+marrow, NOUN 
+cavity, NOUN 
+eighty, NUM 
+10, NUM 
+week, NOUN 
+old, ADJ 
+female, ADJ 
+
+, SPACE 
+Wistar, PROPN 
+rats, NOUN 
+smooth, ADJ 
+surfaced, VERB 
+titanium, NOUN 
+alloy, NOUN 
+implants, NOUN 
+
+, SPACE 
+inserted, VERB 
+bilaterally, ADV 
+marrow, NOUN 
+cavity, NOUN 
+reaming, VERB 
+
+, SPACE 
+distal, ADJ 
+femur, NOUN 
+experimental, ADJ 
+groups, NOUN 
+
+, SPACE 
+irrigated, VERB 
+femora, NOUN 
+sterile, ADJ 
+saline, NOUN 
+flushed, VERB 
+
+, SPACE 
+medullary, NOUN 
+canal, NOUN 
+particle, NOUN 
+femora, NOUN 
+autologous, ADJ 
+bone, NOUN 
+par-, NOUN 
+
+, SPACE 
+ticles, NOUN 
+inserted, VERB 
+intramedullary, ADJ 
+cavity, NOUN 
+
+, SPACE 
+reamed, VERB 
+femora, PROPN 
+implant, NOUN 
+inserted, VERB 
+procedures, NOUN 
+
+, SPACE 
+reaming, VERB 
+rats, NOUN 
+sacrificed, VERB 
+
+, SPACE 
+weeks, NOUN 
+postoperatively, ADV 
+Villanueva, PROPN 
+bone, NOUN 
+staining, NOUN 
+
+, SPACE 
+applied, VERB 
+histomorphometric, ADJ 
+studies, NOUN 
+hone, NOUN 
+volume, NOUN 
+
+, SPACE 
+new, ADJ 
+bone, NOUN 
+interface, NOUN 
+implant, NOUN 
+irrigated, ADJ 
+
+, SPACE 
+femora, NOUN 
+greater, ADJ 
+particle, NOUN 
+reamed, VERB 
+
+, SPACE 
+femora, NOUN 
+study, NOUN 
+period, NOUN 
+results, NOUN 
+suggest, VERB 
+
+, SPACE 
+clearance, NOUN 
+bone, NOUN 
+particles, NOUN 
+irrigation, NOUN 
+reaming, VERB 
+
+, SPACE 
+marrow, NOUN 
+cavity, NOUN 
+significantly, ADV 
+facilitates, VERB 
+new, ADJ 
+bone, NOUN 
+formation, NOUN 
+
+, SPACE 
+interface, NOUN 
+implants, NOUN 
+week, NOUN 
+findings, NOUN 
+sug-, X 
+
+, SPACE 
+gest, ADJ 
+potential, ADJ 
+clinical, ADJ 
+application, NOUN 
+total, ADJ 
+canal, NOUN 
+irrigation, NOUN 
+
+, SPACE 
+prior, ADV 
+insertion, NOUN 
+cementless, ADJ 
+femoral, ADJ 
+components, NOUN 
+
+, SPACE 
+cemented, VERB 
+prosthesis, NOUN 
+Bone, NOUN 
+19:589, PROPN 
+594, NUM 
+1996, NUM 
+©, NOUN 
+1996, NUM 
+
+, SPACE 
+Elsevier, ADJ 
+Science, PROPN 
+Inc., PROPN 
+
+, SPACE 
+Key, PROPN 
+Words, NOUN 
+Bone, NOUN 
+particle, NOUN 
+Bone, NOUN 
+formation, NOUN 
+Bone, NOUN 
+resorption, NOUN 
+
+, SPACE 
+Interface, PROPN 
+Irrigation, PROPN 
+Histomorphometry, PROPN 
+
+, SPACE 
+Introduction, PROPN 
+
+, SPACE 
+Excellent, PROPN 
+results, NOUN 
+obtained, VERB 
+arthroplasty, ADJ 
+components, NOUN 
+
+, SPACE 
+implanted, VERB 
+cement, NOUN 
+modem, NOUN 
+cementing, NOUN 
+techniques, NOUN 
+
+, SPACE 
+retrograde, NOUN 
+filling, VERB 
+plugged, ADJ 
+medullary, NOUN 
+canal, NOUN 
+cement, NOUN 
+
+, SPACE 
+gun, NOUN 
+2'9, NOUN 
+generally, ADV 
+recommended, VERB 
+insertion, NOUN 
+
+, SPACE 
+cement, NOUN 
+canal, NOUN 
+thoroughly, ADV 
+irrigated, VERB 
+remove, VERB 
+loose, ADJ 
+
+, SPACE 
+debris, NOUN 
+bone, NOUN 
+marrow, NOUN 
+blood, NOUN 
+7, NUM 
+Uncemented, ADJ 
+total, ADJ 
+hip, NOUN 
+replace-, NOUN 
+
+, SPACE 
+ment, NOUN 
+porous, ADJ 
+surfaces, NOUN 
+developed, VERB 
+provide, VERB 
+
+, SPACE 
+mechanical, ADJ 
+fixation, NOUN 
+means, NOUN 
+bone, NOUN 
+growth, NOUN 
+porous, ADJ 
+
+, SPACE 
+spaces, NOUN 
+implant, NOUN 
+6a~'12, PROPN 
+Galante, PROPN 
+et, PROPN 
+al, PROPN 
+observed, VERB 
+bone, NOUN 
+in-, ADP 
+
+, SPACE 
+growth, NOUN 
+6, NUM 
+weeks, NOUN 
+wire, NOUN 
+mesh, NOUN 
+system, NOUN 
+produced, VERB 
+
+, SPACE 
+stability, NOUN 
+bone, NOUN 
+cement, NOUN 
+interface, NOUN 
+3, NUM 
+gain, VERB 
+earlier, ADJ 
+ingrowth, NOUN 
+
+, SPACE 
+form, VERB 
+strong, ADJ 
+bond, NOUN 
+hydroxyapatite, NOUN 
+tricalcium, ADJ 
+phosphate, NOUN 
+
+, SPACE 
+calcium, NOUN 
+phosphate, ADJ 
+ceramic, NOUN 
+coated, VERB 
+implants, NOUN 
+pres-, NOUN 
+
+, SPACE 
+Address, PROPN 
+correspondence, NOUN 
+reprints, NOUN 
+Dr., PROPN 
+Masaki, PROPN 
+Ishizaka, PROPN 
+Depart-, PUNCT 
+
+, SPACE 
+ment, NOUN 
+Orthopaedic, PROPN 
+Surgery, PROPN 
+Niigata, PROPN 
+University, PROPN 
+School, PROPN 
+Medicine, PROPN 
+
+, SPACE 
+Asahimachi, PROPN 
+doril, NOUN 
+Niigata, PROPN 
+City, PROPN 
+951, NUM 
+Japan, PROPN 
+ently, ADV 
+use, NOUN 
+4"5"8, NUM 
+Tisdel, PROPN 
+described, VERB 
+ceramic, ADJ 
+coated, VERB 
+fiber-, NOUN 
+
+, SPACE 
+metal, NOUN 
+implants, NOUN 
+providing, VERB 
+rapid, ADJ 
+voluminous, ADJ 
+bone, NOUN 
+
+, SPACE 
+ingrowth, NOUN 
+rabbits, NOUN 
+uncoated, ADJ 
+implants, NOUN 
+TM, PROPN 
+
+, SPACE 
+effect, NOUN 
+irrigation, NOUN 
+canal, NOUN 
+prior, ADV 
+insertion, NOUN 
+cementless, ADJ 
+
+, SPACE 
+femoral, ADJ 
+components, NOUN 
+thoroughly, ADV 
+investigated, VERB 
+
+, SPACE 
+effects, NOUN 
+bone, NOUN 
+particles, NOUN 
+new, ADJ 
+bone, NOUN 
+formation, NOUN 
+
+, SPACE 
+marrow, NOUN 
+cavity, NOUN 
+reaming, NOUN 
+documented, VERB 
+purpose, NOUN 
+
+, SPACE 
+study, NOUN 
+clarify, VERB 
+effect, NOUN 
+bone, NOUN 
+particles, NOUN 
+new, ADJ 
+bone, NOUN 
+
+, SPACE 
+formation, NOUN 
+interface, NOUN 
+implant, NOUN 
+marrow, NOUN 
+cavity, NOUN 
+
+, SPACE 
+reaming, VERB 
+histomorphometry, NOUN 
+bone, NOUN 
+mineral, NOUN 
+
+, SPACE 
+measurements, NOUN 
+
+, SPACE 
+Materials, PROPN 
+Methods, PROPN 
+
+, SPACE 
+Operative, PROPN 
+Technique, PROPN 
+Grouping, PROPN 
+
+, SPACE 
+Eighty, NUM 
+10, NUM 
+week, NOUN 
+old, ADJ 
+female, ADJ 
+Wistar, PROPN 
+rats, NOUN 
+anesthetized, VERB 
+intra-, ADJ 
+
+, SPACE 
+peritoneally, ADV 
+25, NUM 
+mg, NOUN 
+kg, PROPN 
+Nembutal, PROPN 
+Abbott, PROPN 
+Laboratories, PROPN 
+
+, SPACE 
+North, PROPN 
+Chicago, PROPN 
+1L, PROPN 
+aseptic, ADJ 
+surgical, ADJ 
+technique, NOUN 
+
+, SPACE 
+intercondylar, ADJ 
+area, NOUN 
+femur, NOUN 
+exposed, VERB 
+15, NUM 
+mm, NOUN 
+
+, SPACE 
+longitudinal, ADJ 
+incision, NOUN 
+medial, ADJ 
+parapatellar, ADJ 
+approach, NOUN 
+
+, SPACE 
+distal, ADJ 
+femoral, ADJ 
+canal, NOUN 
+reamed, VERB 
+intercondylar, ADJ 
+notch, NOUN 
+
+, SPACE 
+stainless, ADJ 
+steel, NOUN 
+drill, NOUN 
+creating, VERB 
+hole, NOUN 
+1.6, NUM 
+mm, NOUN 
+diameter, NOUN 
+
+, SPACE 
+15, NUM 
+mm, NOUN 
+depth, NOUN 
+femur, NOUN 
+treated, VERB 
+groups, NOUN 
+
+, SPACE 
+follows, VERB 
+irrigated, VERB 
+femora, NOUN 
+10, NUM 
+mL, NUM 
+sterile, ADJ 
+saline, NOUN 
+
+, SPACE 
+flushed, VERB 
+medullary, NOUN 
+cavity, NOUN 
+23, NUM 
+gauge, NOUN 
+needle, NOUN 
+
+, SPACE 
+particle, NOUN 
+femora, NOUN 
+14, NUM 
+mg, NOUN 
+autologous, ADJ 
+bone, NOUN 
+particles, NOUN 
+harvested, VERB 
+
+, SPACE 
+gutter, NOUN 
+drill, NOUN 
+70, NUM 
+
+, SPACE 
+ones, NOUN 
+inserted, VERB 
+medullary, NOUN 
+cavity, NOUN 
+
+, SPACE 
+reamed, PROPN 
+femora, PROPN 
+reaming, VERB 
+performed, VERB 
+Table, NOUN 
+1, NUM 
+
+, SPACE 
+bone, NOUN 
+particles, NOUN 
+supposed, VERB 
+contain, VERB 
+dead, ADJ 
+blood, NOUN 
+cells, NOUN 
+
+, SPACE 
+denatured, VERB 
+bone, NOUN 
+marrow, NOUN 
+coagula, NOUN 
+smooth-, NOUN 
+
+, SPACE 
+surfaced, VERB 
+titanium, NOUN 
+alloy, NOUN 
+Ti-6A1, NOUN 
+4V, PROPN 
+Nippon, PROPN 
+Kokan, PROPN 
+Tokyo, PROPN 
+im-, ADP 
+
+, SPACE 
+plant, NOUN 
+1.6, NUM 
+mm, NOUN 
+diameter, NOUN 
+15, NUM 
+mm, NOUN 
+length, NOUN 
+inserted, VERB 
+
+, SPACE 
+medullary, NOUN 
+canal, NOUN 
+Figure, NOUN 
+1, NUM 
+right, ADJ 
+femora, NOUN 
+rats, NOUN 
+
+, SPACE 
+irrigated, ADJ 
+particle, NOUN 
+femora, NOUN 
+experimental, ADJ 
+
+, SPACE 
+group, NOUN 
+left, ADJ 
+femora, PROPN 
+reamed, VERB 
+femora, PROPN 
+
+, SPACE 
+standard, ADJ 
+group, NOUN 
+rats, NOUN 
+sacrificed, VERB 
+
+, SPACE 
+weeks, NOUN 
+postoperatively, ADV 
+femora, NOUN 
+microradiographed, VERB 
+
+, SPACE 
+time, NOUN 
+sacrifice, NOUN 
+
+, SPACE 
+Histological, PROPN 
+Study, PROPN 
+
+, SPACE 
+femora, NOUN 
+irrigated, ADJ 
+particle, NOUN 
+
+, SPACE 
+femora, NOUN 
+56, NUM 
+reamed, PROPN 
+femora, PROPN 
+labeled, VERB 
+calcein, NOUN 
+
+, SPACE 
+Dozin, PROPN 
+Kagaku, PROPN 
+Kumamoto, PROPN 
+day, NOUN 
+operation, NOUN 
+
+, SPACE 
+double, ADJ 
+labeling, NOUN 
+tetracycline, NOUN 
+Pfizer, PROPN 
+Tokyo, PROPN 
+performed, VERB 
+
+, SPACE 
+6th, ADJ 
+3rd, ADJ 
+days, NOUN 
+sacrifice, NOUN 
+represents, VERB 
+1, NUM 
+2-, NUM 
+
+, SPACE 
+1, NUM 
+2, NUM 
+labeling, NOUN 
+schedule, NOUN 
+femur, NOUN 
+fixed, VERB 
+70, NUM 
+ethanol, NOUN 
+
+, SPACE 
+©, NOUN 
+1996, NUM 
+Elsevier, ADJ 
+Science, PROPN 
+Inc., PROPN 
+589, NUM 
+8756, NUM 
+3282/96/$15.00, NOUN 
+
+, SPACE 
+rights, NOUN 
+reserved, VERB 
+PII, PROPN 
+$, SYM 
+8756, NUM 
+3282(96)00303, NUM 
+1, NUM 
+
+
+, SPACE 
+590, NUM 
+M., PROPN 
+Ishizaka, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, PROPN 
+Vol, PROPN 
+19, NUM 
+6, NUM 
+
+, SPACE 
+Bone, NOUN 
+particles, NOUN 
+disturb, VERB 
+new, ADJ 
+bone, NOUN 
+formation, NOUN 
+December, PROPN 
+1996:589, NUM 
+594, NUM 
+
+, SPACE 
+Table, NOUN 
+1, NUM 
+Grouping, VERB 
+
+, SPACE 
+Histological, ADJ 
+study, NOUN 
+
+, SPACE 
+Group, PROPN 
+femora, NOUN 
+Number, PROPN 
+femora, NOUN 
+Number, PROPN 
+Stain, PROPN 
+Densitometric, PROPN 
+analysis, NOUN 
+
+, SPACE 
+1, NUM 
+Irrigated, ADJ 
+R, NOUN 
+40(n, NUM 
+=, SYM 
+10, NUM 
+28(n, NUM 
+=, SYM 
+7, NUM 
+Villanueva, PROPN 
+
+, SPACE 
+~12(n, NOUN 
+3, X 
+TRAP, PROPN 
+
+, SPACE 
+2, NUM 
+Particle, PROPN 
+R, NOUN 
+40(n, NUM 
+=, SYM 
+10, NUM 
+28(n, NUM 
+=, SYM 
+7, NUM 
+Villanueva, PROPN 
+
+, SPACE 
+~12(n, NOUN 
+3, X 
+TRAP, PROPN 
+
+, SPACE 
+3, NUM 
+Reamed, PROPN 
+L, PROPN 
+80(n, PROPN 
+=, SYM 
+20, NUM 
+56(n, PROPN 
+=, SYM 
+14, NUM 
+b, PRON 
+Villanueva, PROPN 
+
+, SPACE 
+~24(n, PROPN 
+6, NUM 
+
+, SPACE 
+aln, ADV 
+femora, NOUN 
+groups, NOUN 
+1, NUM 
+2, NUM 
+femora, NOUN 
+group, PROPN 
+3, NUM 
+examined, VERB 
+weeks, NOUN 
+postoperatively, ADV 
+implants, NOUN 
+retrieved, VERB 
+
+, SPACE 
+histological, ADJ 
+study, NOUN 
+TRAP, PROPN 
+stain, NOUN 
+densitometric, ADJ 
+analysis, NOUN 
+performed, VERB 
+weeks, NOUN 
+postoperatively, ADV 
+
+, SPACE 
+bHistological, PROPN 
+study, NOUN 
+28, NUM 
+femora(n, NOUN 
+=, NOUN 
+7, NUM 
+selected, VERB 
+56, NUM 
+random, ADJ 
+
+, SPACE 
+CDensitometric, ADJ 
+analysis, NOUN 
+carried, VERB 
+
+, SPACE 
+stained, VERB 
+Villanueva, PROPN 
+bone, NOUN 
+stain, NOUN 
+embedded, VERB 
+methyl-, NOUN 
+
+, SPACE 
+methacrylate, NOUN 
+Transverse, ADJ 
+sections, NOUN 
+diaphysis, NOUN 
+fe-, NOUN 
+
+, SPACE 
+mur, X 
+level, NOUN 
+middle, ADJ 
+implant, ADJ 
+Figure, NOUN 
+
+, SPACE 
+2A, PROPN 
+cut, VERB 
+thickness, NOUN 
+10, NUM 
+~m, PUNCT 
+cutting, VERB 
+machine, NOUN 
+
+, SPACE 
+EXAKT, PROPN 
+BS-3000, PROPN 
+Meiwa, PROPN 
+Osaka, PROPN 
+Japan, PROPN 
+microgrinding, VERB 
+
+, SPACE 
+machine, NOUN 
+EXAKT, PROPN 
+MG-4000, PROPN 
+Meiwa, PROPN 
+Osaka, PROPN 
+Japan, PROPN 
+Histomor-, ADP 
+
+, SPACE 
+phometric, ADJ 
+measurements, NOUN 
+performed, VERB 
+digitizing, VERB 
+sys-, NOUN 
+
+, SPACE 
+tem, NOUN 
+System, PROPN 
+Supply, PROPN 
+Nagano, PROPN 
+Japan, PROPN 
+28, NUM 
+specimens, NOUN 
+
+, SPACE 
+irrigated, VERB 
+particle, NOUN 
+reamed, VERB 
+femora, NOUN 
+28, NUM 
+specimens, NOUN 
+
+, SPACE 
+selected, VERB 
+56, NUM 
+random, ADJ 
+following, VERB 
+measures, NOUN 
+
+, SPACE 
+bone, NOUN 
+volume, NOUN 
+new, ADJ 
+bone, NOUN 
+marrow, NOUN 
+cavity, NOUN 
+
+, SPACE 
+determined, VERB 
+bone, NOUN 
+volume, NOUN 
+interface, NOUN 
+implant, ADJ 
+BV.I, PROPN 
+
+, SPACE 
+bone, NOUN 
+volume, NOUN 
+new, ADJ 
+bone, NOUN 
+present, ADJ 
+marrow, NOUN 
+cavity, NOUN 
+
+, SPACE 
+BV.Ma, PROPN 
+bone, NOUN 
+volume, NOUN 
+endosteum, NOUN 
+mea-, ADJ 
+
+, SPACE 
+sured, VERB 
+calcein, NOUN 
+labeled, VERB 
+area, NOUN 
+innermost, ADV 
+endos-, NOUN 
+
+, SPACE 
+teum, NOUN 
+BV.Es, PROPN 
+Figure, NOUN 
+3, NUM 
+compare, VERB 
+sample, NOUN 
+
+, SPACE 
+bone, NOUN 
+volume, NOUN 
+rate, NOUN 
+new, ADJ 
+bone, NOUN 
+marrow, NOUN 
+cavity, NOUN 
+calcu-, ADJ 
+
+, SPACE 
+lated, VERB 
+percentage, NOUN 
+new, ADJ 
+bone, NOUN 
+marrow, NOUN 
+cavity, NOUN 
+ex-, NOUN 
+
+, SPACE 
+cluding, VERB 
+implant, ADJ 
+area, NOUN 
+BV.Ma, PROPN 
+Ma, PROPN 
+V, PROPN 
+bone, NOUN 
+volume, NOUN 
+rate, NOUN 
+
+, SPACE 
+endosteum, NOUN 
+calculated, VERB 
+percentage, NOUN 
+bone, NOUN 
+vol-, NOUN 
+
+, SPACE 
+ume, NOUN 
+endosteum, NOUN 
+total, ADJ 
+core, NOUN 
+BV.Es, PROPN 
+Tt, PROPN 
+
+, SPACE 
+distal, ADJ 
+portion, NOUN 
+12, NUM 
+irrigated, VERB 
+12, NUM 
+particle, NOUN 
+24, NUM 
+
+, SPACE 
+reamed, VERB 
+femora, PROPN 
+removed, VERB 
+carefully, ADV 
+bone, NOUN 
+cutting, NOUN 
+for-, NOUN 
+
+, SPACE 
+ceps, VERB 
+expose, VERB 
+distal, ADJ 
+portion, NOUN 
+implant, NOUN 
+attempt, NOUN 
+
+, SPACE 
+retrieve, VERB 
+implant, NOUN 
+12, NUM 
+femora, NOUN 
+exam-, PROPN 
+ined, VERB 
+weeks, NOUN 
+postoperatively, ADV 
+implants, NOUN 
+re-, ADV 
+
+, SPACE 
+trieved, ADJ 
+36, NUM 
+specimens, NOUN 
+fixed, VERB 
+cold, ADJ 
+formalin, NOUN 
+
+, SPACE 
+decalcification, NOUN 
+ethylenediaminetetraacetic, ADJ 
+acid, NOUN 
+
+, SPACE 
+EDTA, PROPN 
+femora, NOUN 
+divided, VERB 
+sagittal, ADJ 
+sections, NOUN 
+
+, SPACE 
+embedded, VERB 
+glycol, NOUN 
+methacrylate, NOUN 
+polymerized, VERB 
+
+, SPACE 
+cold, ADJ 
+storage, NOUN 
+Sagittal, ADJ 
+sections, NOUN 
+cut, VERB 
+thickness, NOUN 
+5, NUM 
+txm, NOUN 
+
+, SPACE 
+Jung, PROPN 
+K, PROPN 
+microtome, NOUN 
+Carl, PROPN 
+Zeiss, PROPN 
+Tokyo, PROPN 
+stained, VERB 
+
+, SPACE 
+tartrate, NOUN 
+resistant, ADJ 
+acid, NOUN 
+phosphatase, NOUN 
+TRAP, PROPN 
+number, NOUN 
+
+, SPACE 
+TRAP, PROPN 
+stained, VERB 
+cells, NOUN 
+having, VERB 
+nuclei, NOUN 
+
+, SPACE 
+mononuclear, NOUN 
+bone, NOUN 
+resorbing, VERB 
+cells, NOUN 
+determined, VERB 
+
+, SPACE 
+interface, NOUN 
+area, NOUN 
+5, NUM 
+mm, NOUN 
+proximal, ADJ 
+epiphyseal, ADJ 
+plate, NOUN 
+total, NOUN 
+
+, SPACE 
+10, NUM 
+fields, NOUN 
+original, ADJ 
+magnification, NOUN 
+200x, NUM 
+total, ADJ 
+
+, SPACE 
+measured, VERB 
+area, NOUN 
+1, NUM 
+mm, NUM 
+2, NUM 
+irrigated, ADJ 
+particle, NOUN 
+femora, NOUN 
+
+, SPACE 
+Figure, NOUN 
+2B, PROPN 
+
+, SPACE 
+Densitometr, PROPN 
+3, NUM 
+
+, SPACE 
+bone, NOUN 
+mineral, NOUN 
+density, NOUN 
+BMD, PROPN 
+36, NUM 
+femora, NOUN 
+harvested, VERB 
+
+, SPACE 
+weeks, NOUN 
+postoperatively, ADV 
+implants, NOUN 
+
+, SPACE 
+retrieved, VERB 
+measured, VERB 
+dual, ADJ 
+energy, NOUN 
+X, NOUN 
+ray, NOUN 
+ab-, NOUN 
+
+, SPACE 
+sorptiometry, NOUN 
+unit, NOUN 
+DXA, PROPN 
+Hologic, ADJ 
+QDR--1000, NOUN 
+W, PROPN 
+Hologic, PROPN 
+
+, SPACE 
+Waltham, PROPN 
+MA, PROPN 
+area, NOUN 
+measurement, NOUN 
+diaphysis, NOUN 
+
+, SPACE 
+femur, NOUN 
+level, NOUN 
+proximal, ADJ 
+half, NOUN 
+implant, ADJ 
+Figure, NOUN 
+
+, SPACE 
+2A, PROPN 
+
+, SPACE 
+Statistical, PROPN 
+Analysis, PROPN 
+
+, SPACE 
+mean, ADJ 
+standard, ADJ 
+error, NOUN 
+mean, NOUN 
+descrip-, ADJ 
+
+, SPACE 
+tive, ADJ 
+statistics, NOUN 
+differences, NOUN 
+pairs, NOUN 
+
+, SPACE 
+Figure, NOUN 
+1, NUM 
+Anteroposterior, PROPN 
+lateral, ADJ 
+microradiographs, NOUN 
+specimen, NOUN 
+
+, SPACE 
+obtained, VERB 
+weeks, NOUN 
+postoperatively, ADV 
+B, NOUN 
+
+, SPACE 
+aU-, PROPN 
+ 
+, SPACE 
+°, NOUN 
+t, X 
+Figure, NOUN 
+2, NUM 
+Schematic, ADJ 
+drawings, NOUN 
+femur, NOUN 
+implant, ADJ 
+
+, SPACE 
+transverse, ADJ 
+section, NOUN 
+harvested, VERB 
+diaphysis, NOUN 
+femur, NOUN 
+
+, SPACE 
+level, NOUN 
+middle, ADJ 
+implant, ADJ 
+b, NOUN 
+bone, NOUN 
+mineral, NOUN 
+density, NOUN 
+
+, SPACE 
+diaphysis, NOUN 
+femur, NOUN 
+measured, VERB 
+level, NOUN 
+proximal, ADJ 
+half, NOUN 
+
+, SPACE 
+implant, ADJ 
+shaded, ADJ 
+area, NOUN 
+B, NOUN 
+sagittal, ADJ 
+section, NOUN 
+number, NOUN 
+
+, SPACE 
+TRAP, PROPN 
+stained, VERB 
+cells, NOUN 
+determined, VERB 
+sides, NOUN 
+implant, ADJ 
+interface, NOUN 
+
+, SPACE 
+5, NUM 
+mm, NOUN 
+proximal, ADJ 
+epiphyseal, ADJ 
+plate, NOUN 
+including, VERB 
+10, NUM 
+fields, NOUN 
+shaded, ADJ 
+
+, SPACE 
+area, NOUN 
+
+
+, SPACE 
+Bone, PROPN 
+Vol, PROPN 
+19, NUM 
+6, NUM 
+M., PROPN 
+Ishizaka, PROPN 
+et, PROPN 
+al, PROPN 
+591, NUM 
+
+, SPACE 
+December, PROPN 
+1996:589, NUM 
+594, NUM 
+Bone, NOUN 
+particles, NOUN 
+disturb, VERB 
+new, ADJ 
+bone, NOUN 
+formation, NOUN 
+
+, SPACE 
+Figure, PROPN 
+3, NUM 
+Diagram, PROPN 
+representative, ADJ 
+section, NOUN 
+formation, NOUN 
+new, ADJ 
+
+, SPACE 
+bone, NOUN 
+marrow, NOUN 
+cavity, NOUN 
+determined, VERB 
+areas, NOUN 
+i.e., X 
+bone, NOUN 
+
+, SPACE 
+volume, NOUN 
+interface, NOUN 
+implant, ADJ 
+BV.I, PROPN 
+bone, NOUN 
+volume, NOUN 
+new, ADJ 
+
+, SPACE 
+bone, NOUN 
+present, ADJ 
+marrow, NOUN 
+cavity, NOUN 
+BV.Ma, PROPN 
+bone, NOUN 
+volume, NOUN 
+
+, SPACE 
+new, ADJ 
+bone, NOUN 
+endosteum, NOUN 
+measured, VERB 
+calcein-, NOUN 
+
+, SPACE 
+labeled, VERB 
+area, NOUN 
+innermost, ADJ 
+endosteum, NOUN 
+BV.Es, PROPN 
+C, NOUN 
+=, PUNCT 
+cortical, ADJ 
+bone, NOUN 
+
+, SPACE 
+=, VERB 
+implant, ADJ 
+core, NOUN 
+
+, SPACE 
+groups, NOUN 
+studied, VERB 
+parametric, ADJ 
+analysis, NOUN 
+variance, NOUN 
+
+, SPACE 
+comparison, NOUN 
+groups, NOUN 
+Fisher, PROPN 
+protected, VERB 
+
+, SPACE 
+significant, ADJ 
+difference, NOUN 
+test, NOUN 
+
+, SPACE 
+Results, PROPN 
+
+, SPACE 
+Radiography, PROPN 
+
+, SPACE 
+Microradiographs, PROPN 
+specimens, NOUN 
+time, NOUN 
+sacrifice, NOUN 
+
+, SPACE 
+demonstrated, VERB 
+implants, NOUN 
+integrated, VERB 
+sur-, NOUN 
+
+, SPACE 
+rounding, VERB 
+bone, NOUN 
+fractures, NOUN 
+Figure, NOUN 
+1, NUM 
+
+, SPACE 
+Histomorphometric, PROPN 
+Histological, PROPN 
+Study, PROPN 
+
+, SPACE 
+bone, NOUN 
+volume, NOUN 
+interface, NOUN 
+implant, ADJ 
+BV.I, PROPN 
+
+, SPACE 
+irrigated, VERB 
+femora, NOUN 
+greater, ADJ 
+number, NOUN 
+
+, SPACE 
+weeks, NOUN 
+particle, NOUN 
+reamed, VERB 
+femora, PROPN 
+Woven, ADJ 
+bone, NOUN 
+
+, SPACE 
+seen, VERB 
+irrigated, VERB 
+femora, NOUN 
+early, ADV 
+week, NOUN 
+
+, SPACE 
+groups, NOUN 
+bone, NOUN 
+formation, NOUN 
+observed, VERB 
+time, NOUN 
+Fig-, PROPN 
+
+, SPACE 
+ure, ADJ 
+4, NUM 
+weeks, NOUN 
+woven, VERB 
+bone, NOUN 
+formation, NOUN 
+observed, VERB 
+
+, SPACE 
+particle, NOUN 
+reamed, PROPN 
+femora, PROPN 
+BV.I, PROPN 
+groups, NOUN 
+increased, VERB 
+time, NOUN 
+dependently, ADV 
+magnitude, NOUN 
+increase, NOUN 
+
+, SPACE 
+irrigated, VERB 
+femora, NOUN 
+significantly, ADV 
+higher, ADJ 
+
+, SPACE 
+groups, NOUN 
+week, NOUN 
+p, NOUN 
+<, X 
+0.01, NUM 
+weeks, NOUN 
+p, NOUN 
+<, X 
+
+, SPACE 
+0.05, NUM 
+Figure, PROPN 
+5, NUM 
+Abundant, ADJ 
+lamellar, ADJ 
+bone, NOUN 
+formation, NOUN 
+irri-, NOUN 
+
+, SPACE 
+gated, VERB 
+femora, NOUN 
+exceeding, VERB 
+particle, NOUN 
+femora, NOUN 
+weeks, NOUN 
+
+, SPACE 
+shown, VERB 
+Figure, PROPN 
+6, NUM 
+
+, SPACE 
+initial, ADJ 
+peak, NOUN 
+bone, NOUN 
+volume, NOUN 
+rate, NOUN 
+new, ADJ 
+bone, NOUN 
+
+, SPACE 
+marrow, NOUN 
+cavity, NOUN 
+BV.Ma, PROPN 
+Ma, PROPN 
+V, PROPN 
+irrigated, VERB 
+femora, NOUN 
+
+, SPACE 
+week, NOUN 
+followed, VERB 
+subsequent, ADJ 
+decrease, NOUN 
+final, ADJ 
+rise, NOUN 
+
+, SPACE 
+weeks, NOUN 
+changes, NOUN 
+time, NOUN 
+similar, ADJ 
+
+, SPACE 
+particle, NOUN 
+reamed, PROPN 
+femora, PROPN 
+initial, ADJ 
+delay, NOUN 
+
+, SPACE 
+week, NOUN 
+significant, ADJ 
+difference, NOUN 
+BV.Ma/, PROPN 
+
+, SPACE 
+Ma, PROPN 
+V, NOUN 
+irrigated, ADJ 
+femora, NOUN 
+
+, SPACE 
+groups, NOUN 
+week, NOUN 
+p, NOUN 
+<, X 
+0.01, NUM 
+significant, ADJ 
+difference, NOUN 
+
+, SPACE 
+seen, VERB 
+weeks, NOUN 
+irrigated, ADJ 
+
+, SPACE 
+reamed, VERB 
+femora, PROPN 
+p, NOUN 
+<, X 
+0.01, NUM 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+bone, NOUN 
+volume, NOUN 
+rate, NOUN 
+endosteum, NOUN 
+BV.Es, PROPN 
+Tt, PROPN 
+showed, VERB 
+
+, SPACE 
+increase, NOUN 
+time, NOUN 
+similar, ADJ 
+BV.I, PROPN 
+Table, NOUN 
+2, NUM 
+New, ADJ 
+bone, NOUN 
+
+, SPACE 
+formation, NOUN 
+noted, VERB 
+irrigated, VERB 
+femora, NOUN 
+week, NOUN 
+
+, SPACE 
+groups, NOUN 
+noted, VERB 
+weeks, NOUN 
+
+, SPACE 
+Significant, ADJ 
+differences, NOUN 
+observed, VERB 
+weeks, NOUN 
+p, NOUN 
+<, X 
+
+, SPACE 
+0.05, NUM 
+comparing, VERB 
+Irrigated, PROPN 
+vs., ADP 
+particle, NOUN 
+reamed, VERB 
+femora, NOUN 
+
+, SPACE 
+week, NOUN 
+p, NOUN 
+<, X 
+0.01, NUM 
+irrigated, VERB 
+vs., ADP 
+reamed, VERB 
+femora, NOUN 
+
+, SPACE 
+weeks, NOUN 
+positive, ADJ 
+correlation, NOUN 
+BV.I, PROPN 
+
+, SPACE 
+BV.Es, PROPN 
+Tt, PROPN 
+group, NOUN 
+p, NOUN 
+<, X 
+0.01, NUM 
+Figure, NOUN 
+7, NUM 
+
+, SPACE 
+Mineralizing, VERB 
+surface, NOUN 
+interface, NOUN 
+implant, ADJ 
+MS, PROPN 
+OS, PROPN 
+
+, SPACE 
+irrigated, VERB 
+femora, NOUN 
+increased, VERB 
+week, NOUN 
+de-, X 
+
+, SPACE 
+creased, VERB 
+weeks, NOUN 
+particle, NOUN 
+reamed, VERB 
+
+, SPACE 
+femora, NOUN 
+increased, VERB 
+weeks, NOUN 
+decreased, VERB 
+there-, ADV 
+
+, SPACE 
+Significant, ADJ 
+differences, NOUN 
+noted, VERB 
+weeks, NOUN 
+
+, SPACE 
+p, NOUN 
+<, X 
+0.01, NUM 
+irrigated, VERB 
+vs., ADP 
+particle, NOUN 
+reamed, VERB 
+femora, NOUN 
+
+, SPACE 
+weeks, NOUN 
+p, NOUN 
+<, X 
+0.05, NUM 
+reamed, VERB 
+vs., ADP 
+irrigated, VERB 
+particle, NOUN 
+femora, NOUN 
+
+, SPACE 
+weeks, NOUN 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+Woven, ADJ 
+bone, NOUN 
+rate, NOUN 
+bone, NOUN 
+volume, NOUN 
+interface, NOUN 
+
+, SPACE 
+implant, NOUN 
+showed, VERB 
+100, NUM 
+irrigated, VERB 
+femora, NOUN 
+new, ADJ 
+
+, SPACE 
+bone, NOUN 
+formation, NOUN 
+observed, VERB 
+week, NOUN 
+decreased, VERB 
+
+, SPACE 
+time, NOUN 
+weeks, NOUN 
+new, ADJ 
+bone, NOUN 
+consisted, VERB 
+entirely, ADV 
+
+, SPACE 
+lamellar, ADJ 
+bone, NOUN 
+significant, ADJ 
+difference, NOUN 
+
+, SPACE 
+group, NOUN 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+percentage, NOUN 
+total, ADJ 
+area, NOUN 
+bone, NOUN 
+particles, NOUN 
+marrow, NOUN 
+
+, SPACE 
+cavity, NOUN 
+Bp, PROPN 
+Ma, PROPN 
+V, PROPN 
+particle, NOUN 
+reamed, PROPN 
+femora, PROPN 
+de-, PROPN 
+
+, SPACE 
+creased, VERB 
+12.96, NUM 
+1.42, NUM 
+respectively, ADV 
+week, NOUN 
+
+, SPACE 
+3.43, NUM 
+0.18, NUM 
+respectively, ADV 
+weeks, NOUN 
+weeks, NOUN 
+
+, SPACE 
+bone, NOUN 
+particles, NOUN 
+seen, VERB 
+group, NOUN 
+average, ADJ 
+
+, SPACE 
+Figure, NOUN 
+4, NUM 
+Photomicrograph, NOUN 
+examined, VERB 
+week, NOUN 
+postoperatively, ADV 
+irrigated, VERB 
+specimen, NOUN 
+showing, VERB 
+plenty, NOUN 
+woven, ADJ 
+bone, NOUN 
+interface, NOUN 
+
+, SPACE 
+implant, ADJ 
+marrow, NOUN 
+cavity, NOUN 
+B, PROPN 
+bone, NOUN 
+particle, NOUN 
+inserted, VERB 
+specimen, NOUN 
+bone, NOUN 
+particles, NOUN 
+marrow, NOUN 
+cavity, NOUN 
+Bar, NOUN 
+=, SYM 
+500, NUM 
+txm, NOUN 
+
+
+, SPACE 
+592, NUM 
+M., PROPN 
+Ishizaka, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, PROPN 
+Vol, PROPN 
+19, NUM 
+6, NUM 
+
+, SPACE 
+Bone, NOUN 
+particles, NOUN 
+disturb, VERB 
+new, ADJ 
+bone, NOUN 
+formation, NOUN 
+December, PROPN 
+1996:589, NUM 
+594, NUM 
+
+, SPACE 
+XlOSm, PROPN 
+2, NUM 
+
+, SPACE 
+5, NUM 
+D, NOUN 
+e-, NOUN 
+Irrigated, ADJ 
+femora, NOUN 
+T, PROPN 
+
+, SPACE 
+Particle, PROPN 
+femora, NOUN 
+|, NOUN 
+
+, SPACE 
+--4, PROPN 
+Reamed, PROPN 
+femora, NOUN 
+//111, PROPN 
+
+, SPACE 
+4, X 
+11, NUM 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+>, X 
+
+, SPACE 
+Izl, PROPN 
+2, NUM 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+o, NOUN 
+~, PUNCT 
+
+, SPACE 
+0, NUM 
+1, NUM 
+2, NUM 
+4, NUM 
+8, NUM 
+
+, SPACE 
+WEEKS, NOUN 
+SURGERY, PROPN 
+
+, SPACE 
+Figure, PROPN 
+5, NUM 
+course, NOUN 
+bone, NOUN 
+volume, NOUN 
+interface, NOUN 
+implant, ADJ 
+
+, SPACE 
+BV.I, PROPN 
+irrigated, ADJ 
+particle, NOUN 
+reamed, PROPN 
+femora, PROPN 
+bone, NOUN 
+
+, SPACE 
+volume, NOUN 
+consistently, ADV 
+higher, ADJ 
+irrigated, ADJ 
+femora, NOUN 
+
+, SPACE 
+groups, NOUN 
+differences, NOUN 
+significant, ADJ 
+weeks, NOUN 
+
+, SPACE 
+=, X 
+p, PROPN 
+<, X 
+0.05, NUM 
+=, X 
+p, PROPN 
+<, X 
+0.01, NUM 
+vertical, ADJ 
+bars, NOUN 
+indicate, VERB 
+standard, ADJ 
+
+, SPACE 
+errors, NOUN 
+mean, NOUN 
+data, NOUN 
+point, NOUN 
+
+, SPACE 
+size, NOUN 
+bone, NOUN 
+particle, NOUN 
+particle, NOUN 
+reamed, VERB 
+femora, PROPN 
+
+, SPACE 
+2964, NUM 
+2725, NUM 
+ixm, NOUN 
+2, NUM 
+week, NOUN 
+2347, NUM 
+1120, NUM 
+ixm, NOUN 
+2, NUM 
+
+, SPACE 
+weeks, NOUN 
+irrigated, VERB 
+femora, NOUN 
+bone, NOUN 
+particles, NOUN 
+
+, SPACE 
+seen, VERB 
+study, NOUN 
+period, NOUN 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+number, NOUN 
+TRAP, PROPN 
+stained, VERB 
+cells, NOUN 
+measured, VERB 
+ir-, NOUN 
+
+, SPACE 
+rigated, VERB 
+particle, NOUN 
+femora, NOUN 
+shown, VERB 
+Table, PROPN 
+2, NUM 
+number, NOUN 
+
+, SPACE 
+cells, NOUN 
+particle, NOUN 
+femora, NOUN 
+greater, ADJ 
+irri-, NOUN 
+
+, SPACE 
+gated, VERB 
+femora, NOUN 
+weeks, NOUN 
+significant, ADJ 
+difference, NOUN 
+
+, SPACE 
+obtained, VERB 
+small, ADJ 
+sample, NOUN 
+size, NOUN 
+group, NOUN 
+
+, SPACE 
+DXA, PROPN 
+
+, SPACE 
+value, NOUN 
+BMD, PROPN 
+weeks, NOUN 
+highest, ADJ 
+
+, SPACE 
+particle, NOUN 
+femora, NOUN 
+followed, VERB 
+reamed, NOUN 
+irrigated, VERB 
+femora, NOUN 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+significant, ADJ 
+difference, NOUN 
+BMD, PROPN 
+
+, SPACE 
+week, NOUN 
+particle, NOUN 
+irrigated, VERB 
+femora, PROPN 
+p, NOUN 
+<, X 
+0.01, NUM 
+
+, SPACE 
+reamed, NOUN 
+irrigated, VERB 
+femora, PROPN 
+p, NOUN 
+<, X 
+0.05, NUM 
+Discussion, NOUN 
+
+, SPACE 
+articles, NOUN 
+referring, VERB 
+repair, NOUN 
+hemopoietic, ADJ 
+bone, NOUN 
+mar-, PROPN 
+
+, SPACE 
+row, NOUN 
+following, VERB 
+evacuation, NOUN 
+long, ADJ 
+bone, NOUN 
+cavity, NOUN 
+pre-, ADV 
+
+, SPACE 
+sentedJ, PROPN 
+m'13, NOUN 
+Amsel, NOUN 
+et, NOUN 
+alJ, NOUN 
+demonstrated, VERB 
+reparative, ADJ 
+pro-, NOUN 
+
+, SPACE 
+cess, ADJ 
+following, VERB 
+bone, NOUN 
+marrow, NOUN 
+ablation, NOUN 
+consisted, VERB 
+capillary, ADJ 
+in-, ADP 
+
+, SPACE 
+vasion, NOUN 
+cavity, NOUN 
+appearance, NOUN 
+primitive, ADJ 
+mesenchymal, NOUN 
+cells, NOUN 
+
+, SPACE 
+osteoblastic, ADJ 
+proliferation, NOUN 
+woven, VERB 
+bone, NOUN 
+formation, NOUN 
+development, NOUN 
+
+, SPACE 
+sinusoids, NOUN 
+reappearance, NOUN 
+hemopoietic, ADJ 
+tissue, NOUN 
+resorption, NOUN 
+
+, SPACE 
+bone, NOUN 
+tissue, NOUN 
+preceded, VERB 
+appearance, NOUN 
+regenerated, PROPN 
+nor-, ADP 
+
+, SPACE 
+mal, ADJ 
+marrow, NOUN 
+woven, ADJ 
+bone, NOUN 
+appeared, VERB 
+injury, NOUN 
+
+, SPACE 
+thought, VERB 
+produced, VERB 
+endosteal, ADJ 
+osteoblasts, NOUN 
+osteoblasts, NOUN 
+
+, SPACE 
+derived, VERB 
+cells, NOUN 
+residing, VERB 
+normal, ADJ 
+hemopoietic, NOUN 
+tissue.1, X 
+
+, SPACE 
+nature, NOUN 
+triggering, NOUN 
+stimulus, NOUN 
+unknown, ADJ 
+probably, ADV 
+
+, SPACE 
+related, VERB 
+disruption, NOUN 
+continuity, NOUN 
+marrow, NOUN 
+stroma, PROPN 
+
+, SPACE 
+endosteum, NOUN 
+m, VERB 
+study, NOUN 
+positive, ADJ 
+correlation, NOUN 
+
+, SPACE 
+bone, NOUN 
+volume, NOUN 
+interface, NOUN 
+endosteum, NOUN 
+Figure, PROPN 
+
+, SPACE 
+7, NUM 
+indicates, VERB 
+marrow, NOUN 
+stroma, PROPN 
+endosteum, PROPN 
+reacted, VERB 
+
+, SPACE 
+body, NOUN 
+endosteum, NOUN 
+plays, VERB 
+role, NOUN 
+repair, NOUN 
+
+, SPACE 
+marrow, NOUN 
+cavity, NOUN 
+origin, NOUN 
+regeneration, NOUN 
+cells, NOUN 
+
+, SPACE 
+endosteum, NOUN 
+repair, NOUN 
+bone, NOUN 
+
+, SPACE 
+marrow, NOUN 
+insertion, NOUN 
+heterotopic, ADJ 
+titanium, NOUN 
+implant, ADJ 
+ream-, PRON 
+
+, SPACE 
+ing, NOUN 
+marrow, NOUN 
+cavity, NOUN 
+different, ADJ 
+
+, SPACE 
+bone, NOUN 
+marrow, NOUN 
+ablation, NOUN 
+
+, SPACE 
+irrigated, VERB 
+femora, NOUN 
+showed, VERB 
+bone, NOUN 
+formation, NOUN 
+ar-, NOUN 
+
+, SPACE 
+eas, X 
+early, ADJ 
+stage, NOUN 
+particle, NOUN 
+reamed, PROPN 
+femora, PROPN 
+
+, SPACE 
+showed, VERB 
+bone, NOUN 
+formation, NOUN 
+week, NOUN 
+delay, NOUN 
+compared, VERB 
+
+, SPACE 
+irrigated, ADJ 
+femora, NOUN 
+course, NOUN 
+change, NOUN 
+bone, NOUN 
+
+, SPACE 
+volume, NOUN 
+new, ADJ 
+bone, NOUN 
+areas, NOUN 
+mineralizing, VERB 
+
+, SPACE 
+surface, NOUN 
+particle, NOUN 
+reamed, PROPN 
+femora, PROPN 
+showed, VERB 
+similar, ADJ 
+
+, SPACE 
+week, NOUN 
+delay, NOUN 
+study, NOUN 
+period, NOUN 
+reason, NOUN 
+
+, SPACE 
+delay, NOUN 
+bone, NOUN 
+formation, NOUN 
+groups, NOUN 
+compared, VERB 
+
+, SPACE 
+irrigated, VERB 
+femora, NOUN 
+time, NOUN 
+lag, NOUN 
+capillary, ADJ 
+invasion, NOUN 
+
+, SPACE 
+titanium, NOUN 
+implant, NOUN 
+Weiss, PROPN 
+reported, VERB 
+major, ADJ 
+arterial, ADJ 
+sup-, NOUN 
+
+, SPACE 
+ply, NOUN 
+marrow, NOUN 
+long, ADJ 
+bones, NOUN 
+nutrient, ADJ 
+arteries, NOUN 
+
+, SPACE 
+oriented, VERB 
+central, ADJ 
+longitudinal, ADJ 
+axis, NOUN 
+sinusoidal, NOUN 
+
+, SPACE 
+system, NOUN 
+extended, VERB 
+radially, ADV 
+arteries, NOUN 
+periphery, NOUN 
+
+, SPACE 
+central, ADJ 
+longitudinal, ADJ 
+veinJ, PROPN 
+6, NUM 
+disruption, NOUN 
+major, ADJ 
+
+, SPACE 
+artery, NOUN 
+sinusoidal, NOUN 
+system, NOUN 
+reaming, NOUN 
+result, VERB 
+
+, SPACE 
+local, ADJ 
+necrosis, NOUN 
+heat, NOUN 
+high, ADJ 
+speed, NOUN 
+drilling, NOUN 
+capillary, ADJ 
+
+, SPACE 
+invasion, NOUN 
+cavity, NOUN 
+apparently, ADV 
+originates, VERB 
+endosteum, NOUN 
+
+, SPACE 
+presence, NOUN 
+bone, NOUN 
+particles, NOUN 
+marrow, NOUN 
+
+, SPACE 
+cavity, NOUN 
+disturb, VERB 
+capillary, ADJ 
+invasion, NOUN 
+implant, NOUN 
+
+, SPACE 
+particle, NOUN 
+femora, NOUN 
+reduction, NOUN 
+bone, NOUN 
+particles, NOUN 
+
+, SPACE 
+Figure, NOUN 
+6, NUM 
+Epifluorescent, NOUN 
+micrograph, NOUN 
+examined, VERB 
+weeks, NOUN 
+postoperatively, ADV 
+irrigated, ADJ 
+specimen, NOUN 
+showing, VERB 
+abundant, ADJ 
+lamellar, ADJ 
+bone, NOUN 
+formation, NOUN 
+
+, SPACE 
+interface, NOUN 
+implant, ADJ 
+original, ADJ 
+magnification, NOUN 
+x5, PROPN 
+B, PROPN 
+bone, NOUN 
+particle, NOUN 
+inserted, VERB 
+specimen, NOUN 
+showing, VERB 
+lamellar, ADJ 
+bone, NOUN 
+formation, NOUN 
+Bar, NOUN 
+=, SYM 
+800, NUM 
+ixm, NOUN 
+
+
+, SPACE 
+Bone, PROPN 
+Vol, PROPN 
+19, NUM 
+6, NUM 
+M., PROPN 
+Ishizaka, PROPN 
+et, PROPN 
+al, PROPN 
+593, NUM 
+
+, SPACE 
+December, PROPN 
+1996:589, NUM 
+594, NUM 
+Bone, NOUN 
+particles, NOUN 
+disturb, VERB 
+new, ADJ 
+bone, NOUN 
+formation, NOUN 
+
+, SPACE 
+Table, PROPN 
+2, NUM 
+Results, NOUN 
+histological, ADJ 
+study, NOUN 
+densitometric, ADJ 
+analysis, NOUN 
+
+, SPACE 
+Group, PROPN 
+Bone, PROPN 
+volume, NOUN 
+Bone, PROPN 
+volume, NOUN 
+
+, SPACE 
+rate, NOUN 
+rate, NOUN 
+Mineralizing, PROPN 
+surface, NOUN 
+
+, SPACE 
+marrow, NOUN 
+endosteum, NOUN 
+interface, NOUN 
+
+, SPACE 
+BV, PROPN 
+Ma, PROPN 
+Ma, PROPN 
+V, PROPN 
+BV.Es, PROPN 
+Tt, PROPN 
+implant, ADJ 
+
+, SPACE 
+n, CCONJ 
+=, SYM 
+7, NUM 
+n, CCONJ 
+=, SYM 
+7, NUM 
+MS, PROPN 
+OS, PROPN 
+n, CCONJ 
+=, SYM 
+7, X 
+Woven, ADJ 
+bone, NOUN 
+rate, NOUN 
+Bone, PROPN 
+Size, PROPN 
+
+, SPACE 
+bone, NOUN 
+volume, NOUN 
+particle, NOUN 
+bone, NOUN 
+TRAP, PROPN 
+
+, SPACE 
+interface, NOUN 
+particle, NOUN 
+cell, NOUN 
+
+, SPACE 
+implant, ADJ 
+Bp, PROPN 
+Ma, PROPN 
+V, PROPN 
+ixm, PROPN 
+2, NUM 
+/mm, PROPN 
+z, X 
+BMD, PROPN 
+
+, SPACE 
+n, CCONJ 
+=, SYM 
+7, NUM 
+n, CCONJ 
+=, SYM 
+7, NUM 
+n, CCONJ 
+=, SYM 
+7, NUM 
+n, CCONJ 
+<, X 
+3, NUM 
+g, NOUN 
+cm, PROPN 
+2, NUM 
+
+, SPACE 
+1, NUM 
+Week, NOUN 
+
+, SPACE 
+Irrigated, VERB 
+9.02, NUM 
+1.67, NUM 
+b'o, NOUN 
+0.97, NUM 
+-+, PROPN 
+0.32, NUM 
+a'~, NOUN 
+0, NUM 
+100, NUM 
+
+, SPACE 
+Particle, PROPN 
+0.14-+0.14, PROPN 
+0.20_+0.16, PROPN 
+0, NUM 
+
+, SPACE 
+Reamed, PROPN 
+0.91, NUM 
+-+, NOUN 
+0.58, NUM 
+0.10, NUM 
++, PUNCT 
+0.05, NUM 
+0, NUM 
+
+, SPACE 
+2, NUM 
+Weeks, NOUN 
+
+, SPACE 
+Irrigated, VERB 
+6.63, NUM 
++, PUNCT 
+0.89, NUM 
+3.73, NUM 
++, PUNCT 
+0.50, NUM 
+b, NUM 
+4.44, NUM 
+4-, NUM 
+1.39, NUM 
+b'a, NOUN 
+77.1, NUM 
+-+, SYM 
+6.1, NUM 
+
+, SPACE 
+Particle, PROPN 
+9.32, NUM 
+-+, NOUN 
+1.98, NUM 
+2.58, NUM 
++, NUM 
+0.73, NUM 
+0.43, NUM 
++, PUNCT 
+0.30, NUM 
+88.6, NUM 
++, CCONJ 
+5.5, NUM 
+
+, SPACE 
+Reamed, PROPN 
+8.17, NUM 
++, NUM 
+2.69, NUM 
+1.47, NUM 
++, NUM 
+0.25, NUM 
+0, NUM 
+91.0, NUM 
++, CCONJ 
+4.6, NUM 
+
+, SPACE 
+4, NUM 
+Weeks, NOUN 
+
+, SPACE 
+Irrigated, VERB 
+3.47, NUM 
+-+, NOUN 
+1.07, NUM 
+5.29, NUM 
++, PUNCT 
+1.04, NUM 
+20.15, NUM 
++, PUNCT 
+3.56, NUM 
+32.9, NUM 
++, CCONJ 
+4.8, NUM 
+
+, SPACE 
+Particle, PROPN 
+6.48_+1.28, NOUN 
+6.06_+1.27, NOUN 
+20.51_+2.50, NUM 
+41.2_+4.2, NUM 
+
+, SPACE 
+Reamed, PROPN 
+2.82, NUM 
++, NUM 
+1.07, NUM 
+4.24, NUM 
+0.77, NUM 
+26.99, NUM 
+-4-, PUNCT 
+4.73, NUM 
+41.4, NUM 
++, CCONJ 
+8.0, NUM 
+
+, SPACE 
+8, NUM 
+Weeks, NOUN 
+
+, SPACE 
+Irrigated, VERB 
+6.25, NUM 
++, CCONJ 
+0.73, NUM 
+10.08, NUM 
++, NUM 
+1.23, NUM 
+7.65, NUM 
++, CCONJ 
+4.04, NUM 
+3.1, NUM 
++, SYM 
+1.4, NUM 
+
+, SPACE 
+Particle, PROPN 
+4.12-+1.28, NUM 
+9.11-+1.72, NUM 
+9.63_+2.73, PROPN 
+7.4-+1.5, NOUN 
+
+, SPACE 
+Reamed, PROPN 
+1.34, NUM 
+-+, NOUN 
+0.91, NUM 
+6.15, NUM 
+-+, NOUN 
+1.01, NUM 
+21.87, NUM 
++, NUM 
+5.12, NUM 
+c'e, NOUN 
+4.0, NUM 
++, SYM 
+1.4, NUM 
+0, NUM 
+5.3, NUM 
+0.222, NUM 
++, PUNCT 
+0.004, NUM 
+
+, SPACE 
+12.96, NUM 
+4-, PROPN 
+3.29, NUM 
+b, PROPN 
+f, PROPN 
+2964, NUM 
+4-, NUM 
+215, NUM 
+5.9, NUM 
+0.245, NUM 
++, NOUN 
+0.003, NUM 
+r, NOUN 
+
+, SPACE 
+1.42, NUM 
++, PUNCT 
+0•36, NUM 
+2725, NUM 
++, NUM 
+522, NUM 
+0.238, NUM 
+-+, NOUN 
+0.003, NUM 
+e, NOUN 
+
+, SPACE 
+0, NUM 
+7.1, NUM 
+0.238, NUM 
++, SYM 
+0.001, NUM 
+
+, SPACE 
+3.43, NUM 
+-+, PROPN 
+1.19, NUM 
+b'f, NUM 
+2347, NUM 
+~+, PROPN 
+158, NUM 
+8.7, NUM 
+0.252, NUM 
+-+, NOUN 
+0.004, NUM 
+
+, SPACE 
+0.18_+0.18, PROPN 
+1120, NUM 
++, SYM 
+146, NUM 
+0.245_+0.004, NUM 
+
+, SPACE 
+0, NUM 
+0•51, PROPN 
+0.260, NUM 
++, PUNCT 
+0.008, NUM 
+
+, SPACE 
+0, NUM 
+0.77, NUM 
+0.273, NUM 
+-+, NOUN 
+0.005, NUM 
+
+, SPACE 
+0, NUM 
+0.265, NUM 
++, PUNCT 
+0•002, PROPN 
+
+, SPACE 
+0, X 
+0.68, NUM 
+
+, SPACE 
+0, NUM 
+0.64, NUM 
+
+, SPACE 
+0, NUM 
+w, PROPN 
+
+, SPACE 
+m, NOUN 
+
+, SPACE 
+Values, NOUN 
+given, VERB 
+mean, PROPN 
+-+, PROPN 
+SE, PROPN 
+TRAP, PROPN 
+cell, NOUN 
+significant, ADJ 
+difference, NOUN 
+obtained, VERB 
+small, ADJ 
+sample, NOUN 
+size, NOUN 
+group, NOUN 
+
+, SPACE 
+BMD, PROPN 
+n, CCONJ 
+=, SYM 
+3, NUM 
+irrigated, VERB 
+particle, NOUN 
+femora, NOUN 
+n, CCONJ 
+=, SYM 
+6, NUM 
+reamed, VERB 
+femora)•, PROPN 
+
+, SPACE 
+ap, PROPN 
+<, X 
+0.05, NUM 
+vs., ADP 
+reamed, PROPN 
+femora, PROPN 
+
+, SPACE 
+bp, PROPN 
+<, X 
+0.01, NUM 
+VS, PROPN 
+reamed, VERB 
+femora, PROPN 
+
+, SPACE 
+Cp, PROPN 
+<, X 
+0.05, NUM 
+vs., ADP 
+particle, NOUN 
+femora, NOUN 
+
+, SPACE 
+dp, NOUN 
+<, X 
+0.01, NUM 
+VS, PROPN 
+particle, NOUN 
+femora, PROPN 
+
+, SPACE 
+ep, PROPN 
+<, X 
+0.05, NUM 
+vs., ADP 
+irrigated, VERB 
+femora, PROPN 
+
+, SPACE 
+fp, X 
+<, X 
+0.01, NUM 
+vs., ADP 
+irrigated, VERB 
+femora, PROPN 
+
+, SPACE 
+marrow, NOUN 
+cavity, NOUN 
+seen, VERB 
+weeks, NOUN 
+increase, NOUN 
+
+, SPACE 
+number, NOUN 
+TRAP, PROPN 
+stained, VERB 
+cells, NOUN 
+week, NOUN 
+peaking, VERB 
+
+, SPACE 
+weeks, NOUN 
+declining, VERB 
+negligible, ADJ 
+
+, SPACE 
+weeks, NOUN 
+total, ADJ 
+resorption, NOUN 
+bone, NOUN 
+particles, NOUN 
+re-, PRON 
+
+, SPACE 
+quire, NOUN 
+weeks, NOUN 
+bone, NOUN 
+formation, NOUN 
+group, NOUN 
+
+, SPACE 
+follow, VERB 
+resorption, NOUN 
+bone, NOUN 
+particles, NOUN 
+
+, SPACE 
+reason, NOUN 
+delayed, VERB 
+change, NOUN 
+compared, VERB 
+irrigated, ADJ 
+
+, SPACE 
+femora, NOUN 
+irrigated, VERB 
+femora, NOUN 
+woven, ADJ 
+bone, NOUN 
+formed, VERB 
+
+, SPACE 
+soon, ADV 
+irrigation, NOUN 
+bone, NOUN 
+marrow, NOUN 
+regeneration, NOUN 
+
+, SPACE 
+local, ADJ 
+injury, NOUN 
+m, VERB 
+particle, NOUN 
+reamed, PROPN 
+femora, PROPN 
+
+, SPACE 
+woven, VERB 
+bone, NOUN 
+formed, VERB 
+processes, NOUN 
+bone, NOUN 
+
+, SPACE 
+marrow, NOUN 
+regeneration, NOUN 
+local, ADJ 
+injury, NOUN 
+irrigated, VERB 
+femora, NOUN 
+
+, SPACE 
+bone, NOUN 
+formation, NOUN 
+following, VERB 
+resorption, NOUN 
+bone, NOUN 
+particles, NOUN 
+
+, SPACE 
+process, NOUN 
+speculated, VERB 
+major, ADJ 
+
+, SPACE 
+groups, NOUN 
+osteoprogenitor, NOUN 
+cells, NOUN 
+osteoblasts, NOUN 
+osteocytes, VERB 
+
+, SPACE 
+bone, NOUN 
+particles, NOUN 
+assumed, VERB 
+viable, ADJ 
+viable, ADJ 
+cells, NOUN 
+observed, VERB 
+bone, NOUN 
+particles, NOUN 
+histological, ADJ 
+ex-, NOUN 
+
+, SPACE 
+amination, NOUN 
+week, NOUN 
+bone, NOUN 
+particles, NOUN 
+contain, VERB 
+local, ADJ 
+
+, SPACE 
+osteoinductive, ADJ 
+factors, NOUN 
+bone, NOUN 
+morphogenic, ADJ 
+protein, NOUN 
+
+, SPACE 
+BMP, PROPN 
+15, NUM 
+matrix, NOUN 
+local, ADJ 
+factors, NOUN 
+
+, SPACE 
+play, VERB 
+important, ADJ 
+role, NOUN 
+process, NOUN 
+bone, NOUN 
+
+, SPACE 
+particles, NOUN 
+presumably, ADV 
+exposure, NOUN 
+
+, SPACE 
+local, ADJ 
+factors, NOUN 
+particle, NOUN 
+femora, NOUN 
+reamed, PROPN 
+femora, PROPN 
+
+, SPACE 
+bone, NOUN 
+volume, NOUN 
+new, ADJ 
+bone, NOUN 
+areas, NOUN 
+
+, SPACE 
+particle, NOUN 
+femora, NOUN 
+appear, VERB 
+higher, ADJ 
+reamed, VERB 
+
+, SPACE 
+femora, PROPN 
+significant, ADJ 
+difference, NOUN 
+
+, SPACE 
+Figure, NOUN 
+5, NUM 
+Table, NOUN 
+2, NUM 
+hand, NOUN 
+irrigating, VERB 
+mar-, PROPN 
+
+, SPACE 
+row, NOUN 
+stimulate, VERB 
+osteoblastic, ADJ 
+activity, NOUN 
+endosteum, NOUN 
+
+, SPACE 
+independent, ADJ 
+role, NOUN 
+bone, NOUN 
+particles, NOUN 
+
+, SPACE 
+evidence, NOUN 
+investigation, NOUN 
+needed, VERB 
+
+, SPACE 
+comparatively, ADV 
+higher, ADJ 
+BMD, PROPN 
+values, NOUN 
+week, NOUN 
+
+, SPACE 
+particle, NOUN 
+femora, NOUN 
+relative, ADJ 
+irrigated, VERB 
+femora, PROPN 
+reflect, VERB 
+
+, SPACE 
+ej~, PROPN 
+
+, SPACE 
+10, NUM 
+
+, SPACE 
+0, NUM 
+k, NOUN 
+~, PROPN 
+~, PUNCT 
+
+, SPACE 
+BV.I, PROPN 
+
+, SPACE 
+Irrigated, VERB 
+femora, NOUN 
+
+, SPACE 
+10-, PROPN 
+
+, SPACE 
+t/, NOUN 
+
+, SPACE 
+IJJ, PROPN 
+
+, SPACE 
+130, NUM 
+
+, SPACE 
+~, PUNCT 
+°, NUM 
+o, NOUN 
+
+, SPACE 
+xlO, PROPN 
+~, PROPN 
+m, PROPN 
+2, NUM 
+j, NOUN 
+
+, SPACE 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+
+, SPACE 
+BV.I, PROPN 
+XlO5, PROPN 
+m, PROPN 
+2, NUM 
+
+, SPACE 
+Particle, PROPN 
+femora, NOUN 
+
+, SPACE 
+10-, NUM 
+
+, SPACE 
+J, PROPN 
+J, PROPN 
+
+, SPACE 
+0, NUM 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+5, NUM 
+
+, SPACE 
+BV.I, PROPN 
+×105, PROPN 
+m, PROPN 
+2, NUM 
+
+, SPACE 
+Reamed, PROPN 
+femora, NOUN 
+
+, SPACE 
+Figure, PROPN 
+7, NUM 
+Correlation, NOUN 
+BV.I, PROPN 
+BV.Es, PROPN 
+Tt, PROPN 
+positive, ADJ 
+correlation, NOUN 
+group•, NUM 
+
+
+, SPACE 
+594, NUM 
+M., PROPN 
+lshizaka, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, PROPN 
+Vol, PROPN 
+19, NUM 
+6, NUM 
+
+, SPACE 
+Bone, NOUN 
+particles, NOUN 
+disturb, VERB 
+new, ADJ 
+bone, NOUN 
+formation, NOUN 
+December, PROPN 
+1996:589, NUM 
+594, NUM 
+
+, SPACE 
+residual, ADJ 
+bone, NOUN 
+particles, NOUN 
+Table, NOUN 
+2, NUM 
+irrigated, VERB 
+femora, NOUN 
+
+, SPACE 
+interval, NOUN 
+extensive, ADJ 
+woven, ADJ 
+bone, NOUN 
+prolilL'ration, NOUN 
+observed, VERB 
+
+, SPACE 
+woven, ADJ 
+bone, NOUN 
+apparently, ADV 
+detected, VERB 
+bone, NOUN 
+mineral, NOUN 
+
+, SPACE 
+measured, VERB 
+DXA, PROPN 
+mineralizing, VERB 
+surface, NOUN 
+inter-, ADJ 
+
+, SPACE 
+face, NOUN 
+implant, NOUN 
+irrigated, VERB 
+femora, NOUN 
+increased, VERB 
+beginning, VERB 
+
+, SPACE 
+weeks, NOUN 
+particle, NOUN 
+femora, NOUN 
+detected, VERB 
+
+, SPACE 
+time, NOUN 
+difference, NOUN 
+BMD, PROPN 
+irrigated, ADJ 
+
+, SPACE 
+particle, NOUN 
+femora, NOUN 
+diminish, VERB 
+weeks, NOUN 
+
+, SPACE 
+implants, NOUN 
+study, NOUN 
+subjected, VERB 
+stress, NOUN 
+
+, SPACE 
+early, ADJ 
+weight, NOUN 
+bearing, NOUN 
+produces, VERB 
+micromotion, NOUN 
+clear-, NOUN 
+
+, SPACE 
+ance, NOUN 
+bone, NOUN 
+particles, NOUN 
+irrigation, NOUN 
+interface, NOUN 
+implant, ADJ 
+
+, SPACE 
+reaming, VERB 
+marrow, NOUN 
+cavity, NOUN 
+significantly, ADV 
+increased, VERB 
+bone, NOUN 
+
+, SPACE 
+formation, NOUN 
+early, ADJ 
+stage, NOUN 
+Additional, ADJ 
+studies, NOUN 
+required, VERB 
+
+, SPACE 
+investigate, VERB 
+effects, NOUN 
+bone, NOUN 
+particles, NOUN 
+porous, ADJ 
+surfaces, NOUN 
+
+, SPACE 
+implants, NOUN 
+interface, NOUN 
+hydroxyapatite, NOUN 
+calcium-, ADJ 
+
+, SPACE 
+phosphate, ADJ 
+ceramic, NOUN 
+coated, ADJ 
+implants, NOUN 
+clinically, ADV 
+cavitary, ADJ 
+
+, SPACE 
+deficits, NOUN 
+proximal, ADJ 
+femur, NOUN 
+removal, NOUN 
+loosed, VERB 
+prosthe-, NOUN 
+
+, SPACE 
+sis, NOUN 
+revision, NOUN 
+total, ADJ 
+hip, NOUN 
+arthroplasty, NOUN 
+cancellous, ADJ 
+bone, NOUN 
+graft, NOUN 
+
+, SPACE 
+useful, ADJ 
+filling, VERB 
+small, ADJ 
+deficits, NOUN 
+adjacent, ADJ 
+stem, NOUN 
+me-, PROPN 
+
+, SPACE 
+chanically, ADV 
+stable, ADJ 
+virtue, NOUN 
+fit, NOUN 
+canal, NOUN 
+7, NUM 
+fate, NOUN 
+
+, SPACE 
+grafted, VERB 
+bone, NOUN 
+unknown, ADJ 
+findings, NOUN 
+suggest, VERB 
+bone, NOUN 
+
+, SPACE 
+particles, NOUN 
+smaller, ADJ 
+better, ADJ 
+quality, NOUN 
+
+, SPACE 
+cancellous, ADJ 
+bone, NOUN 
+fated, VERB 
+resorbed, VERB 
+disturb, VERB 
+
+, SPACE 
+facilitation, NOUN 
+new, ADJ 
+bone, NOUN 
+formation, NOUN 
+interface, NOUN 
+implants, NOUN 
+
+, SPACE 
+conclusion, NOUN 
+clearance, NOUN 
+bone, NOUN 
+particles, NOUN 
+irrigation, NOUN 
+
+, SPACE 
+interface, NOUN 
+implant, NOUN 
+reaming, VERB 
+marrow, NOUN 
+cavity, NOUN 
+sig-, NOUN 
+
+, SPACE 
+nificantly, ADV 
+increases, VERB 
+new, ADJ 
+bone, NOUN 
+formation, NOUN 
+early, ADJ 
+stage, NOUN 
+
+, SPACE 
+clinical, ADJ 
+application, NOUN 
+form, NOUN 
+total, ADJ 
+canal, NOUN 
+irrigation, NOUN 
+
+, SPACE 
+prior, ADV 
+insertion, NOUN 
+cementless, ADJ 
+femoral, ADJ 
+components, NOUN 
+
+, SPACE 
+cemented, VERB 
+prostheses, NOUN 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+1, NUM 
+Amsel, PROPN 
+S., PROPN 
+Maniatis, PROPN 
+A., PROPN 
+Tavassoli, PROPN 
+M., PROPN 
+Crosby, PROPN 
+W., PROPN 
+H., PROPN 
+significance, NOUN 
+
+, SPACE 
+intramedullary, ADJ 
+cancellous, ADJ 
+bone, NOUN 
+formation, NOUN 
+repair, NOUN 
+bone, NOUN 
+marrow, NOUN 
+tissue, NOUN 
+
+, SPACE 
+Anat, PROPN 
+Rec, PROPN 
+164:101, PROPN 
+105, NUM 
+1969, NUM 
+
+, SPACE 
+2, X 
+Bosco, PROPN 
+J., PROPN 
+A., PROPN 
+Lachiewicz, PROPN 
+P., PROPN 
+F., PROPN 
+Demasi, PROPN 
+R., PROPN 
+Survivorship, NOUN 
+analysis, NOUN 
+ce-, PROPN 
+
+, SPACE 
+mented, VERB 
+high, ADJ 
+modulus, ADJ 
+total, ADJ 
+hip, NOUN 
+arthroplasty, NOUN 
+Clin, PROPN 
+Orthop, PROPN 
+294:131, PROPN 
+139, NUM 
+1993, NUM 
+
+, SPACE 
+3, X 
+Galante, PROPN 
+J., PROPN 
+O., PROPN 
+Laing, PROPN 
+P., PROPN 
+G., PROPN 
+Lautenschlager, PROPN 
+E., PROPN 
+Biomaterials, PROPN 
+American, PROPN 
+Academy, PROPN 
+Orthopaedic, PROPN 
+Surgeons, PROPN 
+Instructional, ADJ 
+course, NOUN 
+lectures, VERB 
+Vol, PROPN 
+24, NUM 
+St, PROPN 
+
+, SPACE 
+Louis, PROPN 
+CV, PROPN 
+Mosby, PROPN 
+1975, NUM 
+
+, SPACE 
+4, X 
+Geesink, PROPN 
+R., PROPN 
+G., PROPN 
+T., PROPN 
+Groot, PROPN 
+K., PROPN 
+Klein, PROPN 
+C., PROPN 
+P., PROPN 
+A., NOUN 
+T., PROPN 
+Chemical, PROPN 
+implant, ADJ 
+fixation, NOUN 
+
+, SPACE 
+hydroxyl, PROPN 
+apatite, ADJ 
+coatings, NOUN 
+development, NOUN 
+human, ADJ 
+total, ADJ 
+hip, NOUN 
+pros-, ADJ 
+
+, SPACE 
+thesis, NOUN 
+chemical, ADJ 
+fixation, NOUN 
+bone, NOUN 
+hydroxyl, PROPN 
+apatite, ADJ 
+coatings, NOUN 
+titanium, NOUN 
+
+, SPACE 
+substrates, NOUN 
+Clin, PROPN 
+Orthop, PROPN 
+225:147, PROPN 
+170, NUM 
+1987, NUM 
+
+, SPACE 
+5, X 
+Geesink, PROPN 
+R., PROPN 
+G., PROPN 
+T., PROPN 
+Grout, PROPN 
+K., PROPN 
+Klein, PROPN 
+C., PROPN 
+P., PROPN 
+A., NOUN 
+T., PROPN 
+Bonding, PROPN 
+bone, NOUN 
+apatite-, VERB 
+
+, SPACE 
+coated, VERB 
+implants, NOUN 
+J, PROPN 
+Bone, PROPN 
+Jt, PROPN 
+Surg, PROPN 
+70, NUM 
+B:17, NOUN 
+22, NUM 
+1988, NUM 
+
+, SPACE 
+6, X 
+Haddad, PROPN 
+R., PROPN 
+J., PROPN 
+Jr., PROPN 
+Cook, PROPN 
+S., PROPN 
+D., PROPN 
+Thomas, PROPN 
+K., PROPN 
+A., NOUN 
+Current, ADJ 
+concepts, NOUN 
+review, NOUN 
+
+, SPACE 
+Biological, ADJ 
+fixation, NOUN 
+porous, ADJ 
+coated, ADJ 
+implants, NOUN 
+J, PROPN 
+Bone, PROPN 
+Jt, PROPN 
+Surg, PROPN 
+69, NUM 
+1459, NUM 
+1466, NUM 
+
+, SPACE 
+1987, NUM 
+
+, SPACE 
+7, X 
+Harkess, PROPN 
+J., PROPN 
+W., PROPN 
+Arthroplasty, PROPN 
+hip, NOUN 
+Eighth, PROPN 
+ed, NOUN 
+Crenshaw, PROPN 
+A., NOUN 
+H., PROPN 
+Ed, PROPN 
+Camp-, ADV 
+
+, SPACE 
+bell, NOUN 
+Operative, PROPN 
+Orthopaedics, PROPN 
+St, PROPN 
+Louis, PROPN 
+CV, PROPN 
+Mosby, PROPN 
+1992, NUM 
+441, NUM 
+626, NUM 
+Vol, PROPN 
+1, NUM 
+
+, SPACE 
+8, X 
+Jarcho, PROPN 
+M., PROPN 
+Calcium, PROPN 
+phosphate, NOUN 
+ceramics, NOUN 
+hard, ADJ 
+tissue, NOUN 
+prosthetics, NOUN 
+Clin, PROPN 
+Orthop, PROPN 
+
+, SPACE 
+157:259, PROPN 
+278, NUM 
+1981, NUM 
+
+, SPACE 
+9, X 
+Oh, INTJ 
+1, NUM 
+Carlson, PROPN 
+C., PROPN 
+E., PROPN 
+Tom|ord, PROPN 
+W., PROPN 
+W., PROPN 
+Harris, PROPN 
+W., PROPN 
+H., PROPN 
+Improved, ADJ 
+fixation, NOUN 
+
+, SPACE 
+femoral, ADJ 
+component, NOUN 
+THR, PROPN 
+methacrylate, ADJ 
+intramedullary, NOUN 
+plug, NOUN 
+J, PROPN 
+
+, SPACE 
+Bone, PROPN 
+Jt, PROPN 
+Surg, PROPN 
+60, NUM 
+A:608, NOUN 
+613, NUM 
+1978, NUM 
+
+, SPACE 
+10, NUM 
+Pan, PROPN 
+H., PROPN 
+M., PROPN 
+Maloney, PROPN 
+M., PROPN 
+A., PROPN 
+Bone, PROPN 
+marrow, NOUN 
+regeneration, NOUN 
+local, ADJ 
+injury, NOUN 
+
+, SPACE 
+review, NOUN 
+Exp, PROPN 
+Hemat, PROPN 
+3:135, PROPN 
+148, NUM 
+1975, NUM 
+
+, SPACE 
+11, NUM 
+Pilliar, PROPN 
+R., PROPN 
+M., PROPN 
+Porous, ADJ 
+surfaced, VERB 
+metallic, ADJ 
+implants, NOUN 
+orthopedic, ADJ 
+applications, NOUN 
+J, PROPN 
+
+, SPACE 
+Biomed, PROPN 
+Mater, PROPN 
+Res, PROPN 
+21:1, PROPN 
+33, NUM 
+1987, NUM 
+
+, SPACE 
+12, NUM 
+Spector, PROPN 
+M., PROPN 
+Historical, PROPN 
+review, NOUN 
+porous, ADJ 
+coated, ADJ 
+implants, NOUN 
+J, PROPN 
+Arthroplasty, PROPN 
+2:163-, NUM 
+
+, SPACE 
+177, NUM 
+1987, NUM 
+
+, SPACE 
+13, NUM 
+Suva, PROPN 
+L., PROPN 
+J., PROPN 
+Seedor, PROPN 
+J., PROPN 
+G., PROPN 
+Endo, PROPN 
+N., PROPN 
+Quartuccio, PROPN 
+H., PROPN 
+A., PROPN 
+Thompson, PROPN 
+D., PROPN 
+D., PROPN 
+Bab, PROPN 
+
+, SPACE 
+1, NUM 
+Rodan, PROPN 
+G., PROPN 
+A., NOUN 
+Pattern, PROPN 
+gene, NOUN 
+expression, NOUN 
+following, VERB 
+rat, ADJ 
+tibial, ADJ 
+marrow, NOUN 
+
+, SPACE 
+ablation, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+8:379, PROPN 
+388, NUM 
+1993, NUM 
+
+, SPACE 
+14, NUM 
+Tisdel, PROPN 
+C., PROPN 
+L., PROPN 
+Goldberg, PROPN 
+V., PROPN 
+M., PROPN 
+Parr, PROPN 
+J., PROPN 
+A., PROPN 
+Bensusan, PROPN 
+J., PROPN 
+S., PROPN 
+Staikoff, PROPN 
+L., PROPN 
+S., PROPN 
+
+, SPACE 
+Stevenson, PROPN 
+S., PROPN 
+influence, NOUN 
+hydroxyapatite, NOUN 
+tricalcium, ADJ 
+phosphate, NOUN 
+coat-, NOUN 
+
+, SPACE 
+ing, PROPN 
+bone, NOUN 
+growth, NOUN 
+titanium, NOUN 
+fiber, NOUN 
+metal, NOUN 
+implants, NOUN 
+J, PROPN 
+Bone, PROPN 
+Jt, PROPN 
+Surg, PROPN 
+76-, PROPN 
+
+, SPACE 
+A:159, PROPN 
+171, NUM 
+1994, NUM 
+
+, SPACE 
+15, X 
+Urist, PROPN 
+M., PROPN 
+R., PROPN 
+Bone, PROPN 
+formation, NOUN 
+autoinduction, NOUN 
+Science, NOUN 
+150:893, PROPN 
+899, NUM 
+1965, NUM 
+
+, SPACE 
+16, NUM 
+Weiss, PROPN 
+L., PROPN 
+histophysiology, NOUN 
+bone, NOUN 
+marrow, NOUN 
+Clin, PROPN 
+Orthop, PROPN 
+52:12, NUM 
+23, NUM 
+1967, NUM 
+
+, SPACE 
+Date, PROPN 
+Received, VERB 
+March, PROPN 
+1, NUM 
+1996, NUM 
+
+, SPACE 
+Date, PROPN 
+Revised, VERB 
+August, PROPN 
+5, NUM 
+1996, NUM 
+
+, SPACE 
+Date, PROPN 
+Accepted, PROPN 
+August, PROPN 
+6, NUM 
+1996, NUM 
+
+
+, SPACE 

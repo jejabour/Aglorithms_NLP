@@ -1,0 +1,3620 @@
+JOURNAL, PROPN 
+
+, SPACE 
+biochemical, ADJ 
+
+, SPACE 
+biophysical, ADJ 
+
+, SPACE 
+methods, NOUN 
+ELSEVIER, PROPN 
+J., PROPN 
+Biochem, PROPN 
+Biophys, NOUN 
+Methods, NOUN 
+32, NUM 
+1996, NUM 
+85, NUM 
+96, NUM 
+
+, SPACE 
+Research, PROPN 
+article, NOUN 
+
+, SPACE 
+Cytokine, ADJ 
+activity, NOUN 
+assay, VERB 
+means, NOUN 
+proliferation, NOUN 
+
+, SPACE 
+measured, VERB 
+plane, NOUN 
+convex, PROPN 
+microtiter, NOUN 
+wells, PROPN 
+
+, SPACE 
+Karola, PROPN 
+Vorauer, PROPN 
+Franz, PROPN 
+Steindl, PROPN 
+Alois, PROPN 
+Jungbauer, PROPN 
+Rainer, PROPN 
+Hahn, PROPN 
+
+, SPACE 
+Hermann, PROPN 
+Katinger, PROPN 
+
+, SPACE 
+Institute, PROPN 
+Applied, PROPN 
+Microbiology, PROPN 
+Unil, PROPN 
+~, PUNCT 
+er.sit~, PROPN 
+qf, ADP 
+Agriculture, PROPN 
+N@dmferkinde, VERB 
+l, NOUN 
+I90, PROPN 
+Vienna, PROPN 
+Amtria, PROPN 
+
+, SPACE 
+Received, VERB 
+15, NUM 
+November, PROPN 
+1995, NUM 
+revised, VERB 
+6, NUM 
+February, PROPN 
+1996, NUM 
+accepted, VERB 
+6, NUM 
+February, PROPN 
+1996, NUM 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+new, ADJ 
+assay, NOUN 
+measure, VERB 
+cell, NOUN 
+proliferation, NOUN 
+turbidimetric, ADJ 
+evaluation, NOUN 
+cultures, NOUN 
+specially, ADV 
+
+, SPACE 
+designed, VERB 
+microtiter, NOUN 
+plates, NOUN 
+set, VERB 
+IL-2, ADJ 
+dependent, ADJ 
+proliferation, NOUN 
+CTLL-2, NOUN 
+cell, NOUN 
+line, NOUN 
+
+, SPACE 
+model, NOUN 
+novel, ADJ 
+microtiter, NOUN 
+plate, NOUN 
+detection, NOUN 
+system, NOUN 
+General, PROPN 
+Cell, PROPN 
+Screening, PROPN 
+System, PROPN 
+
+, SPACE 
+GCSS, PROPN 
+evaluation, NOUN 
+cell, NOUN 
+proliferation, NOUN 
+assay, NOUN 
+test, NOUN 
+system, NOUN 
+utilizes, VERB 
+
+, SPACE 
+population, NOUN 
+growth, NOUN 
+rate, NOUN 
+CL, PROPN 
+cells, NOUN 
+tests, NOUN 
+performed, VERB 
+specially, ADV 
+designed, VERB 
+microtiter, NOUN 
+
+, SPACE 
+plates, NOUN 
+read, VERB 
+scanning, NOUN 
+spectrophotometer, NOUN 
+results, NOUN 
+compared, VERB 
+
+, SPACE 
+calorimetric, NOUN 
+assays, NOUN 
+3-(4,5, ADJ 
+dimethylthiazol-2, VERB 
+yl)-2,5, NOUN 
+diphenyltetrazolium, NOUN 
+bromide, NOUN 
+MTTI, NOUN 
+
+, SPACE 
+3-(4,5, NUM 
+dimethylthiazol-2, NUM 
+yl)-5-(3, PROPN 
+carboxymethoxyphenyl~-2-(4, PROPN 
+sulfophenyl)-2, PROPN 
+H, PROPN 
+tetrazolium, PROPN 
+
+, SPACE 
+inner, ADJ 
+salt, NOUN 
+MTS, PROPN 
+substrates, NOUN 
+contrast, NOUN 
+conventional, ADJ 
+methods, NOUN 
+presently, ADV 
+described, VERB 
+system, NOUN 
+
+, SPACE 
+end, NOUN 
+point, NOUN 
+method, NOUN 
+means, VERB 
+cell, NOUN 
+growth, NOUN 
+observed, VERB 
+certain, ADJ 
+period, NOUN 
+
+, SPACE 
+limited, VERB 
+single, ADJ 
+moment, NOUN 
+period, NOUN 
+cell, NOUN 
+growth, NOUN 
+advantage, NOUN 
+
+, SPACE 
+reduction, NOUN 
+manual, ADJ 
+manipulations, NOUN 
+avoidance, NOUN 
+toxic, ADJ 
+radioactive, ADJ 
+substances, NOUN 
+
+, SPACE 
+organic, ADJ 
+solvents, NOUN 
+higher, ADJ 
+number, NOUN 
+samples, NOUN 
+analyzed, VERB 
+compared, VERB 
+
+, SPACE 
+methods, NOUN 
+range, NOUN 
+detection, NOUN 
+0.015, NUM 
+10, NUM 
+units, NOUN 
+IL-2, NOUN 
+accuracy, NOUN 
+
+, SPACE 
+range, NOUN 
+<, SYM 
+0.005, NUM 
+standard, ADJ 
+deviation, NOUN 
+
+, SPACE 
+Kqwords, NOUN 
+Interleukin-2, NOUN 
+Proliferation, NOUN 
+assay, NOUN 
+General, PROPN 
+cell, NOUN 
+screening, NOUN 
+system, NOUN 
+Cytotoxic, PROPN 
+T, PROPN 
+cell, NOUN 
+line, NOUN 
+3-(4.5, NUM 
+Di-, NOUN 
+
+, SPACE 
+methylthiazol-2, PROPN 
+yl)-2,5, NOUN 
+diphenyltetrazolium, NOUN 
+bromide, NOUN 
+3-(4.5, NUM 
+Dimethylthiazol-2.yl)-5-(3, PROPN 
+carboxymetho-, PROPN 
+
+, SPACE 
+xyphenyl)-2-(4, PROPN 
+sulfophenyl)-2, PROPN 
+H, PROPN 
+tetrazolium, PROPN 
+
+, SPACE 
+Corresponding, VERB 
+author, NOUN 
+Fax, NOUN 
+43, NUM 
+1, NUM 
+369, NUM 
+7615, NUM 
+
+, SPACE 
+0165, NUM 
+022X/96/$15.00, NUM 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+PII, PROPN 
+SO1, PROPN 
+65, NUM 
+022X(96)00002, NUM 
+4, NUM 
+
+, SPACE 
+1, NUM 
+Introduction, NOUN 
+
+, SPACE 
+Determination, PROPN 
+cytokines, NOUN 
+growth, NOUN 
+factors, NOUN 
+biological, ADJ 
+relevant, ADJ 
+manner, NOUN 
+
+, SPACE 
+complex, ADJ 
+assay, NOUN 
+based, VERB 
+growth, NOUN 
+kinetics, NOUN 
+Conventional, ADJ 
+proliferation, NOUN 
+
+, SPACE 
+assays, NOUN 
+points, NOUN 
+considerations, NOUN 
+culture, NOUN 
+starting, VERB 
+point, NOUN 
+end, NOUN 
+point, NOUN 
+
+, SPACE 
+culture, NOUN 
+end, NOUN 
+point, NOUN 
+evaluated, VERB 
+l-3, PROPN 
+approach, NOUN 
+
+, SPACE 
+considered, VERB 
+kinetics, NOUN 
+assay, VERB 
+Modifying, VERB 
+conventional, ADJ 
+assays, NOUN 
+true, ADJ 
+kinetics, NOUN 
+assays, AUX 
+
+, SPACE 
+multiplies, NOUN 
+number, NOUN 
+cell, NOUN 
+culture, NOUN 
+experiments, NOUN 
+number, NOUN 
+observations, NOUN 
+
+, SPACE 
+kinetics, NOUN 
+studies, NOUN 
+described, VERB 
+methods, NOUN 
+limitation, NOUN 
+cell, NOUN 
+
+, SPACE 
+culture, NOUN 
+measured, VERB 
+non, ADJ 
+destructive, ADJ 
+way, NOUN 
+different, ADJ 
+time, NOUN 
+periods, NOUN 
+
+, SPACE 
+chosen, VERB 
+IL-2, ADJ 
+dependent, ADJ 
+cell, NOUN 
+line, NOUN 
+CTLL-2, NOUN 
+exemplary, ADJ 
+model, NOUN 
+
+, SPACE 
+cytokine, ADJ 
+induced, VERB 
+proliferation, NOUN 
+IL-2, NOUN 
+considered, VERB 
+major, ADJ 
+regulatory, ADJ 
+
+, SPACE 
+molecules, NOUN 
+immune, ADJ 
+system, NOUN 
+4, NUM 
+61, NUM 
+Interleukin-2, NOUN 
+IL-2, NUM 
+I8, NOUN 
+kDa, PROPN 
+glycopeptide, NOUN 
+
+, SPACE 
+produced, VERB 
+activated, VERB 
+T, PROPN 
+lymphocytes, NOUN 
+biological, ADJ 
+processes, NOUN 
+driven, VERB 
+IL-2, NOUN 
+
+, SPACE 
+proliferation, NOUN 
+and/or, CCONJ 
+differentiation, NOUN 
+T, PROPN 
+lymphocytes, NOUN 
+modulation, NOUN 
+B-, PROPN 
+
+, SPACE 
+lymphocytes, VERB 
+responses, NOUN 
+increasing, VERB 
+cytotoxic, ADJ 
+activity, NOUN 
+natural, ADJ 
+killer, NOUN 
+cells, NOUN 
+
+, SPACE 
+monocytes, NOUN 
+
+, SPACE 
+conventional, ADJ 
+assays, NOUN 
+commonly, ADV 
+evaluate, VERB 
+cell, NOUN 
+proliferation, NOUN 
+colorimet-, PROPN 
+
+, SPACE 
+ric, PROPN 
+radioisotopic, ADJ 
+assays, NOUN 
+calorimetric, NOUN 
+assay, NOUN 
+2.71, NUM 
+substrate, NOUN 
+3-(45dimeth-, NUM 
+
+, SPACE 
+ylthiazol-2, PROPN 
+yll-2.5diphenyltetrazolium, NOUN 
+bromide, NOUN 
+MTT, NOUN 
+3-(45dimethylthiazol-2, NUM 
+y@, NOUN 
+
+, SPACE 
+S-(3, PROPN 
+carboxymethoxyphenyl)-3-(4, PROPN 
+sulfophenyl)-2, PROPN 
+H, PROPN 
+tetrazolium, PROPN 
+inner, ADJ 
+salt, NOUN 
+MTS, PROPN 
+8, X 
+
+, SPACE 
+reduced, VERB 
+mitochondrial, ADJ 
+dehydrogenases, NOUN 
+formazan, NOUN 
+radioisotopic, NOUN 
+assays, NOUN 
+
+, SPACE 
+measurement, NOUN 
+DNA, PROPN 
+synthesis, NOUN 
+rate, NOUN 
+growing, VERB 
+cells, NOUN 
+pulse, NOUN 
+radiolabelled, VERB 
+
+, SPACE 
+nucleotides, NOUN 
+performed, VERB 
+3, NUM 
+
+, SPACE 
+order, NOUN 
+avoid, VERB 
+use, NOUN 
+radioisotopes, NOUN 
+toxic, ADJ 
+tetrazolium, NOUN 
+salts, NOUN 
+developed, VERB 
+
+, SPACE 
+computer, NOUN 
+controlled, VERB 
+system, NOUN 
+making, VERB 
+possible, ADJ 
+measure, VERB 
+IL-2, ADJ 
+dependent, ADJ 
+prolifer-, NOUN 
+
+, SPACE 
+ation, NOUN 
+CTLL-2, NOUN 
+cells, NOUN 
+manipulations, NOUN 
+
+, SPACE 
+principle, NOUN 
+assay, NOUN 
+based, VERB 
+evaluation, NOUN 
+turbidity, NOUN 
+cell, NOUN 
+culture, NOUN 
+
+, SPACE 
+measuring, VERB 
+entire, ADJ 
+volume, NOUN 
+concentration, NOUN 
+steps, NOUN 
+General, PROPN 
+Cell, PROPN 
+
+, SPACE 
+Screening, PROPN 
+System, PROPN 
+GCSS, PROPN 
+allows, VERB 
+quantification, NOUN 
+particle, NOUN 
+content, NOUN 
+
+, SPACE 
+non, ADJ 
+homogeneously, ADV 
+distributed, VERB 
+suspensions, NOUN 
+
+, SPACE 
+turbidity, NOUN 
+measurement, NOUN 
+heavily, ADV 
+dependent, ADJ 
+cell, NOUN 
+density, NOUN 
+size, NOUN 
+shape, NOUN 
+
+, SPACE 
+growth, NOUN 
+pattern, NOUN 
+cells, NOUN 
+major, ADJ 
+requirement, NOUN 
+cell, NOUN 
+count, NOUN 
+determination, NOUN 
+
+, SPACE 
+development, NOUN 
+special, ADJ 
+designed, VERB 
+GCSS, NOUN 
+plates, NOUN 
+plates, NOUN 
+rectangular, ADJ 
+
+, SPACE 
+planconvex, NOUN 
+shape, NOUN 
+conical, ADJ 
+walls, NOUN 
+rectangular, ADJ 
+essential, ADJ 
+
+, SPACE 
+order, NOUN 
+scan, VERB 
+entire, ADJ 
+light, ADJ 
+path, NOUN 
+having, VERB 
+width, NOUN 
+
+, SPACE 
+geometry, NOUN 
+allows, VERB 
+cover, VERB 
+17, NUM 
+steps, NOUN 
+
+, SPACE 
+addition, NOUN 
+measurements, NOUN 
+integrated, VERB 
+total, ADJ 
+transmission, NOUN 
+
+, SPACE 
+determination, NOUN 
+IL-, PROPN 
+IL-2, PUNCT 
+dependent, ADJ 
+CTLL-2, NOUN 
+IO, PROPN 
+cells, NOUN 
+seeded, VERB 
+
+, SPACE 
+specially, ADV 
+designed, VERB 
+96, NUM 
+microtiterplates, NOUN 
+seeded, ADJ 
+cells, NOUN 
+cultivated, VERB 
+
+, SPACE 
+different, ADJ 
+IL-2, ADJ 
+concentrations, NOUN 
+incubation, NOUN 
+standard, ADJ 
+conditions, NOUN 
+repetitive, ADJ 
+
+, SPACE 
+measurements, NOUN 
+culture, NOUN 
+plates, NOUN 
+cell, NOUN 
+count, NOUN 
+determined, VERB 
+cell, NOUN 
+counts, NOUN 
+
+, SPACE 
+different, ADJ 
+time, NOUN 
+periods, NOUN 
+growth, NOUN 
+rate, NOUN 
+t, PROPN 
+pu, PROPN 
+cell, NOUN 
+growing, VERB 
+curves, NOUN 
+
+, SPACE 
+calculated, VERB 
+correlation, NOUN 
+kinetics, NOUN 
+data, NOUN 
+cell, NOUN 
+proliferation, NOUN 
+allows, VERB 
+
+, SPACE 
+quantification, NOUN 
+IL-2, NUM 
+activity, NOUN 
+results, NOUN 
+assay, NOUN 
+compared, VERB 
+
+, SPACE 
+K., PROPN 
+Vorauer, PROPN 
+et, PROPN 
+al, PROPN 
+/.I., PROPN 
+Biochem, PROPN 
+Biophys, NOUN 
+Methods, NOUN 
+32, NUM 
+996, NUM 
+85, NUM 
+96, NUM 
+87, NUM 
+
+, SPACE 
+calorimetric, NOUN 
+assays, NOUN 
+MTT, NOUN 
+MTS, PROPN 
+substrates, NOUN 
+Essential, ADJ 
+parameters, NOUN 
+
+, SPACE 
+accuracy, NOUN 
+analytical, ADJ 
+range, NOUN 
+test, NOUN 
+systems, NOUN 
+compared, VERB 
+
+, SPACE 
+2, X 
+Materials, NOUN 
+methods, NOUN 
+
+, SPACE 
+2.1, NUM 
+Cell, NOUN 
+line, NOUN 
+medium, NOUN 
+
+, SPACE 
+murine, NOUN 
+cytotoxic, ADJ 
+T, PROPN 
+cell, NOUN 
+line, NOUN 
+CTLL-2, PROPN 
+obtained, VERB 
+European, PROPN 
+Collection, PROPN 
+
+, SPACE 
+Animal, PROPN 
+Cell, PROPN 
+Cultures, PROPN 
+Porton, PROPN 
+UK, PROPN 
+cells, NOUN 
+cultivated, VERB 
+RPM1, PROPN 
+1640, NUM 
+
+, SPACE 
+Gibco, PROPN 
+BRL, PROPN 
+Life, PROPN 
+Technologies, PROPN 
+Gaithersburg, PROPN 
+USA, PROPN 
+supplemented, VERB 
+10, NUM 
+fetal, ADJ 
+calf, NOUN 
+
+, SPACE 
+serum, NOUN 
+4, NUM 
+mM, NUM 
+L, PROPN 
+glutamine, NOUN 
+10, NUM 
+pg, PROPN 
+ml, PROPN 
+sodium, PROPN 
+pyruvate, PROPN 
+1, NUM 
+kg, NOUN 
+ml, PROPN 
+2, NUM 
+mercaptoethanol, NOUN 
+
+, SPACE 
+1, NUM 
+non, ADJ 
+essential, ADJ 
+amino, NOUN 
+acids, NOUN 
+composition, NOUN 
+100, NUM 
+X, NOUN 
+concentrate, NOUN 
+Seromed, PROPN 
+Biochrom, PROPN 
+KG, PROPN 
+
+, SPACE 
+Berlin, PROPN 
+Germany, PROPN 
+20, NUM 
+units, NOUN 
+recombinant, ADJ 
+human, ADJ 
+Interleukin-2, NOUN 
+ml, PROPN 
+Boehringer-, PROPN 
+
+, SPACE 
+Mannheim, PROPN 
+Biochemie, PROPN 
+Vienna, PROPN 
+Austria, PROPN 
+
+, SPACE 
+2.2, NUM 
+Cell, NOUN 
+number, NOUN 
+calibration, NOUN 
+curue, ADJ 
+
+, SPACE 
+determination, NOUN 
+cell, NOUN 
+number, NOUN 
+calibration, NOUN 
+curve, NOUN 
+carried, VERB 
+
+, SPACE 
+purpose, NOUN 
+CTLL-2, NOUN 
+cells, NOUN 
+diluted, VERB 
+2, NUM 
+fold, NOUN 
+8, NUM 
+X, NOUN 
+lo5, NOUN 
+3.125, NUM 
+X, NOUN 
+lo3, ADJ 
+cells, NOUN 
+
+, SPACE 
+volumes, NOUN 
+100, NUM 
+~1, NOUN 
+GCSS, NOUN 
+plates, NOUN 
+2, NUM 
+h, NOUN 
+incubation, NOUN 
+period, NOUN 
+
+, SPACE 
+transmission, NOUN 
+690, NUM 
+nm, NOUN 
+measured, VERB 
+plot, NOUN 
+cell, NOUN 
+density, NOUN 
+versus, ADP 
+change, NOUN 
+
+, SPACE 
+transmission, NOUN 
+calibration, NOUN 
+curve, NOUN 
+cell, NOUN 
+number, NOUN 
+
+, SPACE 
+2.3, X 
+Determination, NOUN 
+IL-2, NOUN 
+activity, NOUN 
+GCSS, PROPN 
+
+, SPACE 
+Prior, ADV 
+proliferation, NOUN 
+assays, NOUN 
+cells, NOUN 
+washed, VERB 
+twice, ADV 
+IL-2, NUM 
+free, ADJ 
+medium, NOUN 
+
+, SPACE 
+suspended, VERB 
+1.4, NUM 
+X, PROPN 
+IO5, PROPN 
+cells, NOUN 
+ml, PROPN 
+IL-2, NUM 
+free, ADJ 
+medium, NOUN 
+50, NUM 
+~1, NOUN 
+suspension, NOUN 
+
+, SPACE 
+transferred, VERB 
+96, NUM 
+plate, NOUN 
+wells, NOUN 
+contained, VERB 
+50, NUM 
+~1, NOUN 
+IL-2, NOUN 
+
+, SPACE 
+2, NUM 
+fold, ADJ 
+dilutions, NOUN 
+10, NUM 
+0.015, NUM 
+U, NOUN 
+order, NOUN 
+remove, VERB 
+potential, ADJ 
+air, NOUN 
+bubbles, NOUN 
+
+, SPACE 
+minimize, VERB 
+temperature, NOUN 
+influences, NOUN 
+IL-2, CCONJ 
+filled, VERB 
+culture, NOUN 
+plates, NOUN 
+preincubated, VERB 
+
+, SPACE 
+1, NUM 
+h, NOUN 
+37, NUM 
+°, NUM 
+C, NOUN 
+Recombinant, ADJ 
+human, ADJ 
+Interleukin-2, NOUN 
+purchased, VERB 
+Boehringer, PROPN 
+Man-, PROPN 
+
+, SPACE 
+nheim, PROPN 
+Biochemie, PROPN 
+Vienna, PROPN 
+Austria, PROPN 
+standard, NOUN 
+cell, NOUN 
+seeding, NOUN 
+plates, NOUN 
+
+, SPACE 
+incubated, VERB 
+37, NUM 
+°, NUM 
+C, NOUN 
+5, NUM 
+CO, PROPN 
+atmosphere, NOUN 
+total, ADJ 
+72, NUM 
+h, NOUN 
+culturing, VERB 
+Cell, NOUN 
+culture, NOUN 
+
+, SPACE 
+plates, NOUN 
+periodically, ADV 
+12, NUM 
+h, NOUN 
+read, VERB 
+GCSS, NOUN 
+reader, NOUN 
+690, NUM 
+nm, ADJ 
+wavelength, NOUN 
+
+, SPACE 
+cell, NOUN 
+number, NOUN 
+calculated, VERB 
+calibration, NOUN 
+curve, NOUN 
+population, NOUN 
+growth, NOUN 
+rate, NOUN 
+
+, SPACE 
+p, NOUN 
+calculated, VERB 
+Eq, PROPN 
+Eq, PROPN 
+0, PROPN 
+N, PROPN 
+N, PROPN 
+cell, NOUN 
+counts, NOUN 
+different, ADJ 
+
+, SPACE 
+times, NOUN 
+t,+, PROPN 
+t, PROPN 
+represent, VERB 
+time, NOUN 
+
+, SPACE 
+ln(N,+, PROPN 
+-4, PROPN 
+
+, SPACE 
+CL=, PROPN 
+t, PROPN 
+1, NUM 
+
+, SPACE 
+II+, PUNCT 
+43, NUM 
+
+, SPACE 
+2.4, NUM 
+Determination, NOUN 
+IL-2, NOUN 
+activity, NOUN 
+calorimetric, PROPN 
+assay, NOUN 
+
+, SPACE 
+comparison, NOUN 
+determination, NOUN 
+IL-2, NOUN 
+GCSS, PROPN 
+calorimetric, ADJ 
+assays, NOUN 
+
+, SPACE 
+MTT, PROPN 
+MTS, PROPN 
+substrate, NOUN 
+performed, VERB 
+
+, SPACE 
+MTT, PROPN 
+assay, NOUN 
+carried, VERB 
+according, VERB 
+method, NOUN 
+Mosmann, PROPN 
+et, PROPN 
+al, PROPN 
+
+, SPACE 
+Briefly, PROPN 
+MTT, PROPN 
+Sigma, PROPN 
+St., PROPN 
+Louis, PROPN 
+MO, PROPN 
+USA, PROPN 
+dissolved, VERB 
+concentration, NOUN 
+4, NUM 
+
+, SPACE 
+mg, NOUN 
+ml, PROPN 
+clarified, VERB 
+filtration, NOUN 
+0.2, NUM 
+pm, NOUN 
+sterile, ADJ 
+discfilter, NOUN 
+Millipore, PROPN 
+
+, SPACE 
+Corporation, PROPN 
+Bedford, PROPN 
+USA, PROPN 
+Cells, NOUN 
+seeded, VERB 
+analogously, ADV 
+prior, ADJ 
+described, VERB 
+
+, SPACE 
+population, NOUN 
+growth, NOUN 
+rate, NOUN 
+assay, NOUN 
+time, NOUN 
+period, NOUN 
+4, NUM 
+days, NOUN 
+24, NUM 
+h, NOUN 
+10, NUM 
+PI, PROPN 
+MTT, NOUN 
+
+, SPACE 
+stock, NOUN 
+solution, NOUN 
+added, VERB 
+plates, NOUN 
+4, NUM 
+h, NOUN 
+incubation, NOUN 
+37, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+5%-, PROPN 
+CO, PROPN 
+atmosphere, NOUN 
+70, NUM 
+~1, NOUN 
+supernatant, NOUN 
+removed, VERB 
+
+, SPACE 
+discarded, VERB 
+100, NUM 
+~1, ADJ 
+dimethyl, PROPN 
+sulfoxide, ADP 
+DMSO, PROPN 
+Sigma, PROPN 
+St., PROPN 
+Louis, PROPN 
+MO, PROPN 
+USA, PROPN 
+
+, SPACE 
+added, VERB 
+wells, NOUN 
+dissolve, VERB 
+dark, ADJ 
+blue, ADJ 
+formazan, ADJ 
+crystals, NOUN 
+complete, ADJ 
+solubiliza-, ADJ 
+
+, SPACE 
+tion, NOUN 
+adsorbance, NOUN 
+measured, VERB 
+spectrophotometer, NOUN 
+test, NOUN 
+wavelength, NOUN 
+590, NUM 
+nm, NOUN 
+
+, SPACE 
+reference, NOUN 
+wavelength, NOUN 
+690, NUM 
+nm, NOUN 
+
+, SPACE 
+second, ADJ 
+calorimetric, NOUN 
+assay, X 
+MTS, PROPN 
+Promega, PROPN 
+Madison, PROPN 
+USA, PROPN 
+instead, ADV 
+MTT, PROPN 
+
+, SPACE 
+MTS, PROPN 
+combination, NOUN 
+PMS, PROPN 
+phenanzine, ADJ 
+methosulfate, NOUN 
+electron, NOUN 
+
+, SPACE 
+coupling, VERB 
+reagent, NOUN 
+reduced, VERB 
+medium, ADJ 
+soluble, ADJ 
+formazan, NOUN 
+Microtiterplates, NOUN 
+containing, VERB 
+
+, SPACE 
+100, NUM 
+~1, ADJ 
+cell, NOUN 
+suspension, NOUN 
+prepared, VERB 
+described, VERB 
+24.48, NUM 
+72, NUM 
+h, NOUN 
+
+, SPACE 
+incubation, NOUN 
+20, NUM 
+~1, ADJ 
+MTS, PROPN 
+PMS, PROPN 
+stock, NOUN 
+solution, NOUN 
+added, VERB 
+growing, VERB 
+cells, NOUN 
+
+, SPACE 
+Plates, NOUN 
+incubated, VERB 
+6, NUM 
+h, NOUN 
+followed, VERB 
+adsorption, NOUN 
+reading, VERB 
+492, NUM 
+
+, SPACE 
+nm, NOUN 
+reference, NOUN 
+wavelength, NOUN 
+690, NUM 
+nm, NOUN 
+assays, NOUN 
+samples, NOUN 
+quantified, VERB 
+
+, SPACE 
+internal, ADJ 
+standard, ADJ 
+curve, NOUN 
+
+, SPACE 
+2.5, X 
+GCSS, PROPN 
+instrurnentutior~, VERB 
+cd, PROPN 
+techicctl, PROPN 
+details, NOUN 
+
+, SPACE 
+prototype, NOUN 
+GCSS, NOUN 
+reader, NOUN 
+prototype, NOUN 
+specially, ADV 
+designed, VERB 
+cell, NOUN 
+culture, NOUN 
+
+, SPACE 
+plates, NOUN 
+setting, NOUN 
+method, NOUN 
+Meanwhiles, NOUN 
+equipment, NOUN 
+consisting, VERB 
+
+, SPACE 
+GCSS, PROPN 
+reader, NOUN 
+GCSS, NOUN 
+plates, NOUN 
+GCSS, NOUN 
+software, NOUN 
+9, NUM 
+commercially, ADV 
+available, ADJ 
+SLT, PROPN 
+
+, SPACE 
+Labinstuments, PROPN 
+GmbH., PROPN 
+UntersbergstraBe, PROPN 
+A-5082, NOUN 
+Gr8ding, PROPN 
+conventional, ADJ 
+96, NUM 
+
+, SPACE 
+cell, NOUN 
+culture, NOUN 
+plates, NOUN 
+limited, ADJ 
+application, NOUN 
+determination, NOUN 
+cell, NOUN 
+counts, NOUN 
+
+, SPACE 
+non, ADJ 
+stirred, ADJ 
+culture, NOUN 
+non, ADJ 
+homogeneous, ADJ 
+suspension, NOUN 
+form, NOUN 
+non, ADJ 
+homoge-, ADJ 
+
+, SPACE 
+neous, ADJ 
+suspension, NOUN 
+single, ADJ 
+measurement, NOUN 
+allow, VERB 
+correct, ADJ 
+
+, SPACE 
+determination, NOUN 
+cell, NOUN 
+number, NOUN 
+observation, NOUN 
+cell, NOUN 
+kinetics, NOUN 
+cell, NOUN 
+growth, NOUN 
+
+, SPACE 
+circumvent, VERB 
+problems, NOUN 
+turbidity, NOUN 
+taken, VERB 
+
+, SPACE 
+account, NOUN 
+scanning, VERB 
+rectangular, ADJ 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+measured, VERB 
+planconvex, NOUN 
+shape, NOUN 
+combination, NOUN 
+defined, VERB 
+light-, ADJ 
+
+, SPACE 
+beamwidth, NOUN 
+necessary, ADJ 
+measure, VERB 
+volume, NOUN 
+avoid, VERB 
+quenching, VERB 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+Schematic, ADJ 
+drawng, NOUN 
+GCSS, NOUN 
+3, NUM 
+rectangular, ADJ 
+crosssection, NOUN 
+planconvex, NOUN 
+shape, NOUN 
+
+, SPACE 
+conical, ADJ 
+wall\., NOUN 
+width, NOUN 
+hottom, NOUN 
+corresponds, VERB 
+light, ADJ 
+path, NOUN 
+width, PROPN 
+
+, SPACE 
+K., PROPN 
+Vorauer, PROPN 
+et, PROPN 
+al, PROPN 
+/J., PROPN 
+Biochem, PROPN 
+Biophw, NOUN 
+Methods, NOUN 
+32, NUM 
+1996, NUM 
+M-96, PROPN 
+89, NUM 
+
+, SPACE 
+effects, NOUN 
+reflection, NOUN 
+lightpath, NOUN 
+transmitting, VERB 
+
+, SPACE 
+conical, ADJ 
+sidewalls, NOUN 
+provide, VERB 
+volume, NOUN 
+conventional, ADJ 
+wells, NOUN 
+Furthermore, ADV 
+
+, SPACE 
+convenient, ADJ 
+pipetting, NOUN 
+liquids, NOUN 
+conical, ADJ 
+sidewalls, NOUN 
+practical, ADJ 
+
+, SPACE 
+GCSS, NOUN 
+reader, NOUN 
+scans, VERB 
+17, NUM 
+additive, ADJ 
+steps, NOUN 
+specially, ADV 
+designed, VERB 
+
+, SPACE 
+planconvex, VERB 
+cell, NOUN 
+culture, NOUN 
+wells, NOUN 
+combination, NOUN 
+rectangular, ADJ 
+lightbeam, NOUN 
+
+, SPACE 
+measurement, NOUN 
+rectangular, ADJ 
+bottoms, NOUN 
+possible, ADJ 
+schematic, ADJ 
+drawing, NOUN 
+cell, NOUN 
+
+, SPACE 
+culture, NOUN 
+GCSS, NOUN 
+shown, VERB 
+Fig, PROPN 
+1, NUM 
+Data, NOUN 
+directly, ADV 
+transferred, VERB 
+Apple, PROPN 
+
+, SPACE 
+Macintosh, PROPN 
+computer, NOUN 
+calculations, NOUN 
+carried, VERB 
+GCSS, NOUN 
+software, NOUN 
+GCSS, NOUN 
+
+, SPACE 
+reader, NOUN 
+placed, VERB 
+laminar, NOUN 
+flow, NOUN 
+hood, NOUN 
+avoid, VERB 
+airbom, ADJ 
+contamination, NOUN 
+
+, SPACE 
+measuring, VERB 
+procedure, NOUN 
+
+, SPACE 
+3, X 
+Results, NOUN 
+
+, SPACE 
+IL-2, ADJ 
+dependent, ADJ 
+proliferation, NOUN 
+CTLL-2, NOUN 
+cells, NOUN 
+evaluated, VERB 
+GCSS, NOUN 
+period, NOUN 
+5, NUM 
+
+, SPACE 
+days, NOUN 
+reported, VERB 
+Fig, PROPN 
+2, NUM 
+GCSS, NOUN 
+software, NOUN 
+offers, VERB 
+possibility, NOUN 
+zoom, VERB 
+
+, SPACE 
+detailed, ADJ 
+information, NOUN 
+Fig, PROPN 
+2, NUM 
+selected, VERB 
+graph, NOUN 
+shows, VERB 
+history, NOUN 
+
+, SPACE 
+single, ADJ 
+data, NOUN 
+point, NOUN 
+growth, NOUN 
+curve, NOUN 
+represents, VERB 
+cell, NOUN 
+count, NOUN 
+CTLL-2, NOUN 
+
+, SPACE 
+cells, NOUN 
+certain, ADJ 
+time, NOUN 
+zoomed, VERB 
+representation, NOUN 
+exponential, ADJ 
+growth, NOUN 
+phase, NOUN 
+
+, SPACE 
+easily, ADV 
+evaluated, VERB 
+
+, SPACE 
+Cells, NOUN 
+ml, PROPN 
+
+, SPACE 
+2.25OE67, NUM 
+
+, SPACE 
+2.0OOE6j, PROPN 
+
+, SPACE 
+1.750E64, PROPN 
+
+, SPACE 
+1.500E6j, PROPN 
+
+, SPACE 
+1.250E6j, PROPN 
+
+, SPACE 
+1, NUM 
+.OOOE6, PROPN 
+
+, SPACE 
+S.OOOES, NOUN 
+
+, SPACE 
+
+, SPACE 
+~~~~, PUNCT 
+Dys, PROPN 
+
+, SPACE 
+0, NUM 
+1, NUM 
+2, NUM 
+3, NUM 
+4, NUM 
+5, NUM 
+6, NUM 
+Elapsed, VERB 
+
+, SPACE 
+1993’02’10, NUM 
+14:04, NUM 
+1993’02’16, NUM 
+14:04, NUM 
+
+, SPACE 
+Population, PROPN 
+Growth, PROPN 
+Rate, PROPN 
+oiroled, ADJ 
+points, NOUN 
+0.04032Ihow, X 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+Representation, NOUN 
+zoomed, PROPN 
+curve, NOUN 
+plan, NOUN 
+convex, ADJ 
+GCSS, NOUN 
+plates, NOUN 
+selected, VERB 
+
+, SPACE 
+marked, VERB 
+Fig, PROPN 
+3, NUM 
+population, NOUN 
+growth, NOUN 
+rate, NOUN 
+/.L, PROPN 
+calculated, VERB 
+circled, VERB 
+points, NOUN 
+0.04032, NUM 
+h., PROPN 
+
+, SPACE 
+mm, PROPN 
+IL2, PROPN 
+Uergeich, PROPN 
+Phase, PROPN 
+l, NOUN 
+Cell, PROPN 
+Concentration, PROPN 
+History, NOUN 
+Unblanked, PROPN 
+
+, SPACE 
+Plate, PROPN 
+=, NOUN 
+l, PROPN 
+ID, PROPN 
+IL2, PROPN 
+Vera.001, PROPN 
+.OOll, PUNCT 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+GCSS, NOUN 
+representation, NOUN 
+growth, NOUN 
+kinetics, NOUN 
+curves, NOUN 
+Y6, NOUN 
+format, NOUN 
+A3, PROPN 
+12, NUM 
+B3, ADJ 
+B, PROPN 
+I2, PROPN 
+C3, PROPN 
+C, PROPN 
+I2, PROPN 
+
+, SPACE 
+IL-2, NOUN 
+Boehringer, PROPN 
+Mannheim, PROPN 
+dilutions, NOUN 
+triplicates, NOUN 
+starting, VERB 
+IO, PROPN 
+units, NOUN 
+D3, PROPN 
+Dl1, PROPN 
+E3, PROPN 
+El2, NOUN 
+
+, SPACE 
+unknown, ADJ 
+IL-2, PROPN 
+snnples, NOUN 
+measured, VERB 
+duplicates, NOUN 
+FSFIZ, PROPN 
+G3, NOUN 
+Cl2, NOUN 
+H3, PROPN 
+HI, PROPN 
+unknown, ADJ 
+IL-2, ADJ 
+
+, SPACE 
+samples, NOUN 
+2, NUM 
+measured, VERB 
+triplicate\., PROPN 
+.41, NUM 
+H, PROPN 
+blank, ADJ 
+wells, NOUN 
+CTLL-2, NOUN 
+cell5, NOUN 
+incubated, VERB 
+
+, SPACE 
+IL-, PROPN 
+figures, NOUN 
+curve.\, NOUN 
+population, NOUN 
+growth, NOUN 
+mtes, NOUN 
+G3, PROPN 
+h, NOUN 
+incubation, NOUN 
+marked, ADJ 
+
+, SPACE 
+corresponds, VERB 
+data, NOUN 
+shown, VERB 
+Fig, PROPN 
+2, NUM 
+
+, SPACE 
+1.0, NUM 
+
+, SPACE 
+0.9, NUM 
+
+, SPACE 
+z, NOUN 
+0.6, NUM 
+
+, SPACE 
+8, NUM 
+
+, SPACE 
+=, VERB 
+c, NOUN 
+0.7, NUM 
+
+, SPACE 
+.P, NOUN 
+
+, SPACE 
+zi, PROPN 
+.Ei, PROPN 
+0.6, NUM 
+
+, SPACE 
+E, NOUN 
+05, NUM 
+
+, SPACE 
+k, NOUN 
+
+, SPACE 
+=, SYM 
+04, NUM 
+
+, SPACE 
+
+, SPACE 
+E, NOUN 
+0, NUM 
+0.3, NUM 
+
+, SPACE 
+E, NOUN 
+
+, SPACE 
+O, NOUN 
+0.2, NUM 
+
+, SPACE 
+8, NUM 
+
+, SPACE 
+J, PROPN 
+
+, SPACE 
+
+, SPACE 
+
+, SPACE 
+r, NOUN 
+T, PROPN 
+-7, INTJ 
+
+, SPACE 
+0, NUM 
+100, NUM 
+200, NUM 
+300, NUM 
+400, NUM 
+500, NUM 
+600, NUM 
+700, NUM 
+800, NUM 
+900, NUM 
+1000, NUM 
+
+, SPACE 
+Cell, PROPN 
+Number, PROPN 
+x, SYM 
+1000, NUM 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Calibration, NOUN 
+curve, NOUN 
+cells, NOUN 
+measured, VERB 
+nt, PART 
+690, NUM 
+nm, NOUN 
+filling, NOUN 
+volume, NOUN 
+wab, VERB 
+100, NUM 
+~1, ADJ 
+
+, SPACE 
+K., PROPN 
+Vorauer, PROPN 
+et, NOUN 
+al./, ADV 
+J., PROPN 
+Biochem, PROPN 
+Biophys, NOUN 
+Methods, NOUN 
+32, NUM 
+1996, NUM 
+85, NUM 
+96, NUM 
+91, NUM 
+
+, SPACE 
+96, NUM 
+representation, NOUN 
+Fig, PROPN 
+3, NUM 
+allows, VERB 
+quick, ADJ 
+overview, NOUN 
+cell, NOUN 
+culture, NOUN 
+
+, SPACE 
+plate, NOUN 
+overview, NOUN 
+cell, NOUN 
+growth, NOUN 
+kinetics, NOUN 
+lag, NOUN 
+phase, NOUN 
+indications, NOUN 
+
+, SPACE 
+influences, NOUN 
+additives, NOUN 
+osmolarity, NOUN 
+etc, X 
+seen, VERB 
+test, NOUN 
+plate, NOUN 
+
+, SPACE 
+0.07, NUM 
+
+, SPACE 
+0.06, NUM 
+
+, SPACE 
+0.05, NUM 
+
+, SPACE 
+0.04, NUM 
+
+, SPACE 
+0.03, NUM 
+
+, SPACE 
+0.02, NUM 
+
+, SPACE 
+0.01, NUM 
+
+, SPACE 
+0.00, NUM 
+
+, SPACE 
+-0.01, NUM 
+
+, SPACE 
+-0.02, NUM 
+
+, SPACE 
+0.07, NUM 
+
+, SPACE 
+0.06, NUM 
+
+, SPACE 
+0.05, NUM 
+
+, SPACE 
+0.04, NUM 
+
+, SPACE 
+0.03, NUM 
+
+, SPACE 
+0.02, NUM 
+
+, SPACE 
+0.01, NUM 
+
+, SPACE 
+0.00, NUM 
+
+, SPACE 
+-0.01, NUM 
+
+, SPACE 
+-0.02, NUM 
+Prediction, PROPN 
+interval, NOUN 
+P, PROPN 
+=, SYM 
+O.95, PROPN 
+
+, SPACE 
+0.01, NUM 
+0.1, NUM 
+1, NUM 
+10, NUM 
+
+, SPACE 
+IL-2, NOUN 
+Units, NOUN 
+
+, SPACE 
+r, NOUN 
+
+, SPACE 
+0.01, NUM 
+0.1, NUM 
+1, NUM 
+10, NUM 
+
+, SPACE 
+IL-2, NOUN 
+Units, PROPN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+Population, NOUN 
+growth, NOUN 
+rates, NOUN 
+plotted, VERB 
+versus, ADP 
+units, NOUN 
+IL-2, NUM 
+curve, NOUN 
+fitting, VERB 
+fourth, ADJ 
+polynom, NOUN 
+
+, SPACE 
+y, PROPN 
+=, ADJ 
++, CCONJ 
+x, PROPN 
++, NUM 
+aI, NUM 
+x2, PROPN 
++, PUNCT 
+x3, PROPN 
++, PROPN 
+a,.rJ, PROPN 
+8, NUM 
+consecutive, ADJ 
+calibration, NOUN 
+curves, NOUN 
+measured, VERB 
+8, NUM 
+
+, SPACE 
+different, ADJ 
+plates, NOUN 
+compared, VERB 
+B, NOUN 
+sample, NOUN 
+measured, VERB 
+8, NUM 
+different, ADJ 
+plates, NOUN 
+0, X 
+shows, VERB 
+mean, ADJ 
+values, NOUN 
+
+, SPACE 
+standard, ADJ 
+deviation, NOUN 
+population, NOUN 
+growth, NOUN 
+rate, NOUN 
+
+, SPACE 
+91, NUM 
+
+, SPACE 
+0, NUM 
+00, NUM 
++, NUM 
+.T, PUNCT 
+
+, SPACE 
+4, NUM 
+$, SYM 
+z, NOUN 
+00, NUM 
+d, NOUN 
+N, PROPN 
+
+, SPACE 
+Sample(llDilutlon, NOUN 
+
+, SPACE 
+IL-2, VERB 
+Standard, PROPN 
+u, NOUN 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+Population, NOUN 
+growth, NOUN 
+rate, NOUN 
+different, ADJ 
+IL-2, ADJ 
+samples, NOUN 
+compared, VERB 
+standard, ADJ 
+IL-2, NOUN 
+sample, NOUN 
+0, NUM 
+
+, SPACE 
+sample, NOUN 
+2, NUM 
+H, NOUN 
+Sample, PROPN 
+2, NUM 
+different, ADJ 
+slope, NOUN 
+compared, VERB 
+calibration, NOUN 
+curve, NOUN 
+
+, SPACE 
+growth, NOUN 
+curve, NOUN 
+shown, VERB 
+population, NOUN 
+growth, NOUN 
+rate, NOUN 
+~1, NOUN 
+calculated, VERB 
+
+, SPACE 
+exponential, ADJ 
+growth, NOUN 
+phase, NOUN 
+Dependence, NOUN 
+IL-2, NOUN 
+proliferation, NOUN 
+IL-2, NOUN 
+concentration, NOUN 
+
+, SPACE 
+shown, VERB 
+accuracy, NOUN 
+reasons, NOUN 
+samples, NOUN 
+covering, VERB 
+border, NOUN 
+wells, NOUN 
+measured, VERB 
+
+, SPACE 
+triplicates, NOUN 
+border, NOUN 
+wells, NOUN 
+shows, VERB 
+outliners, NOUN 
+
+, SPACE 
+calibration, NOUN 
+curve, NOUN 
+CTLL-2, NOUN 
+cells, NOUN 
+opacity, NOUN 
+vs., ADP 
+cell, NOUN 
+number, NOUN 
+shown, VERB 
+Fig, PROPN 
+4, NUM 
+
+, SPACE 
+demonstrate, VERB 
+GCSS, PROPN 
+offers, VERB 
+cell, NOUN 
+number, NOUN 
+determination, NOUN 
+measuring, VERB 
+
+, SPACE 
+turbidity, NOUN 
+non, ADJ 
+homogeneous, ADJ 
+cell, NOUN 
+suspension, NOUN 
+essential, ADJ 
+calculation, NOUN 
+IL-2, NOUN 
+
+, SPACE 
+activity, NOUN 
+
+, SPACE 
+exact, ADJ 
+determination, NOUN 
+cell, NOUN 
+density, NOUN 
+quantitative, ADJ 
+determination, NOUN 
+
+, SPACE 
+activity, NOUN 
+IL-2, NOUN 
+IL-2, NOUN 
+samples, NOUN 
+IL-2, NOUN 
+standard, NOUN 
+tested, VERB 
+different, ADJ 
+
+, SPACE 
+concentration, NOUN 
+ranges, VERB 
+Fig, PROPN 
+5A, ADJ 
+population, NOUN 
+growth, NOUN 
+rate, NOUN 
+h, NOUN 
+data, NOUN 
+IL-2, PROPN 
+standard, NOUN 
+
+, SPACE 
+performed, VERB 
+8, NUM 
+parallel, ADJ 
+GCSS, NOUN 
+plates, NOUN 
+shown, VERB 
+selected, VERB 
+sample, NOUN 
+tested, VERB 
+
+, SPACE 
+plates, NOUN 
+Data, NOUN 
+shown, VERB 
+Fig, PROPN 
+5B., NUM 
+confidence, NOUN 
+limits, NOUN 
+fitted, VERB 
+parameters, NOUN 
+
+, SPACE 
+a,--~, PROPN 
+fourth, PROPN 
+polynom, PROPN 
+differ, VERB 
+significantly, ADV 
+Y, PROPN 
+=, PUNCT 
+0.05, NUM 
+
+, SPACE 
+slope, NOUN 
+p, PROPN 
+versus, ADP 
+concentration, NOUN 
+differs, VERB 
+sample, NOUN 
+standard, ADJ 
+curve, NOUN 
+
+, SPACE 
+determination, NOUN 
+sample, NOUN 
+activity, NOUN 
+accurate, ADJ 
+Fig, PROPN 
+6, NUM 
+reduced, ADJ 
+slope, NOUN 
+
+, SPACE 
+indication, NOUN 
+inhibitation, NOUN 
+competitive, ADJ 
+effect, NOUN 
+reduced, VERB 
+biological, ADJ 
+activity, NOUN 
+activity, NOUN 
+
+, SPACE 
+based, VERB 
+mass, NOUN 
+molarity, NOUN 
+target, NOUN 
+protein, NOUN 
+
+, SPACE 
+K., PROPN 
+Vorauer, PROPN 
+et, PROPN 
+al, PROPN 
+/J., PROPN 
+Biochem, PROPN 
+Biophy, PROPN 
+Methods, NOUN 
+32, NUM 
+9, NUM 
+85, NUM 
+96, NUM 
+93, NUM 
+
+, SPACE 
+0.06, NUM 
+
+, SPACE 
+0.05, NUM 
+
+, SPACE 
+T, NOUN 
+0.04, NUM 
+
+, SPACE 
+c, X 
+
+, SPACE 
+al, PROPN 
+
+, SPACE 
+3, NUM 
+0.03, NUM 
+
+, SPACE 
+r, NOUN 
+
+, SPACE 
+g, PROPN 
+0.02, NUM 
+
+, SPACE 
+E, NOUN 
+
+, SPACE 
+g, PROPN 
+0.01, NUM 
+
+, SPACE 
+2, NUM 
+
+, SPACE 
+2, NUM 
+0.00, NUM 
+
+, SPACE 
+-0.01, NUM 
+1, NUM 
+
+, SPACE 
+-0.02, NUM 
+
+, SPACE 
+0.0001, NUM 
+0.01, NUM 
+0.1, NUM 
+1, NUM 
+10, NUM 
+100, NUM 
+
+, SPACE 
+IL-2, NOUN 
+Units, PROPN 
+
+, SPACE 
+Fig, PROPN 
+7, NUM 
+Population, NOUN 
+growth, NOUN 
+rate, NOUN 
+different, ADJ 
+IL-2, ADJ 
+samples, NOUN 
+0.0, NUM 
+1, NUM 
+having, VERB 
+identical, ADJ 
+IL-2, ADJ 
+activity, NOUN 
+
+, SPACE 
+mass, NOUN 
+IL-2, NOUN 
+mass, NOUN 
+measured, VERB 
+ELISA, PROPN 
+calibration, NOUN 
+curve, NOUN 
+1, NUM 
+carried, VERB 
+Fig, PROPN 
+6, NUM 
+
+, SPACE 
+GCSS, NOUN 
+method, NOUN 
+checking, VERB 
+identical, ADJ 
+activity, NOUN 
+different, ADJ 
+
+, SPACE 
+samples, NOUN 
+compared, VERB 
+known, VERB 
+standard, NOUN 
+order, NOUN 
+ascertain, VERB 
+different, ADJ 
+samples, NOUN 
+
+, SPACE 
+IL-2, NUM 
+activity, NOUN 
+determine, VERB 
+IL-2, ADJ 
+content, NOUN 
+ELBA, PROPN 
+prior, ADV 
+
+, SPACE 
+proliferation, NOUN 
+assay, NOUN 
+samples, NOUN 
+bioactivity, NOUN 
+test, NOUN 
+diluted, VERB 
+identical, ADJ 
+IL-2, NOUN 
+
+, SPACE 
+content, NOUN 
+derived, VERB 
+ELISA, PROPN 
+curve, NOUN 
+p, PROPN 
+versus, ADP 
+concentration, NOUN 
+identical, ADJ 
+
+, SPACE 
+case, NOUN 
+IL-2, NUM 
+activity, NOUN 
+shown, VERB 
+Fig, PROPN 
+7, NUM 
+
+, SPACE 
+find, VERB 
+appropriate, ADJ 
+time, NOUN 
+interval, NOUN 
+quantification, NOUN 
+calculated, VERB 
+population, NOUN 
+
+, SPACE 
+growth, NOUN 
+rate, NOUN 
+48, NUM 
+h, NOUN 
+72, NUM 
+h, NOUN 
+incubations, NOUN 
+calculated, VERB 
+IL-2, NOUN 
+levels, NOUN 
+
+, SPACE 
+compared, VERB 
+Table, NOUN 
+1, NUM 
+significant, ADJ 
+difference, NOUN 
+IL-2, NUM 
+activity, NOUN 
+observed, VERB 
+
+, SPACE 
+different, ADJ 
+time, NOUN 
+periods, NOUN 
+calculation, NOUN 
+CL, PROPN 
+data, NOUN 
+assay, NOUN 
+
+, SPACE 
+Table, PROPN 
+1, NUM 
+
+, SPACE 
+Comoarison, PROPN 
+11, NUM 
+2, NUM 
+values, NOUN 
+obtained, VERB 
+48, NUM 
+h, NOUN 
+72, NUM 
+h, NOUN 
+incubation, NOUN 
+
+, SPACE 
+Sample, PROPN 
+IL-2, PROPN 
+units, NOUN 
+ml-48h, ADJ 
+IL-2, NOUN 
+units, NOUN 
+ml-72h, NOUN 
+IL-2, NOUN 
+units-48h, NOUN 
+IL-2, NOUN 
+units-72hlX, ADJ 
+100, NUM 
+l, NOUN 
+
+, SPACE 
+Al, PROPN 
+
+, SPACE 
+A2, PROPN 
+
+, SPACE 
+A3, NOUN 
+
+, SPACE 
+A4, NOUN 
+
+, SPACE 
+A5, PROPN 
+
+, SPACE 
+A6, PROPN 
+
+, SPACE 
+A7, PROPN 
+19, NUM 
+100&290, NUM 
+
+, SPACE 
+850, NUM 
++, SYM 
+56, NUM 
+
+, SPACE 
+18, NUM 
+100&210, ADP 
+
+, SPACE 
+970, NUM 
++, NUM 
+26, NUM 
+
+, SPACE 
+945, NUM 
+f, PROPN 
+14, NUM 
+
+, SPACE 
+19300&78, NUM 
+
+, SPACE 
+1870, NUM 
++, SYM 
+19, NUM 
+203OOrt600, NUM 
+
+, SPACE 
+915, NUM 
+18, NUM 
+
+, SPACE 
+18OOOk487, NUM 
+
+, SPACE 
+960f, PROPN 
+10, NUM 
+
+, SPACE 
+98Ok, NUM 
+15, NUM 
+
+, SPACE 
+18900&75, NUM 
+
+, SPACE 
+187Ok85, NUM 
+106, NUM 
+
+, SPACE 
+107, NUM 
+
+, SPACE 
+99, NUM 
+
+, SPACE 
+99, NUM 
+
+, SPACE 
+104, NUM 
+
+, SPACE 
+98, NUM 
+
+, SPACE 
+99, NUM 
+
+, SPACE 
+mean, VERB 
+102, NUM 
+
+, SPACE 
+Samples, NOUN 
+measured, VERB 
+triplicates, NOUN 
+
+, SPACE 
+94, NUM 
+K., PROPN 
+Vowurr, PROPN 
+rt, PROPN 
+4, NUM 
+/.t, PUNCT 
+Bioctum, PROPN 
+Bioptrys, NOUN 
+Mrthods, NOUN 
+32, NUM 
+f, PROPN 
+IYY6, PROPN 
+85, NUM 
+96, NUM 
+
+, SPACE 
+Table, NOUN 
+2, NUM 
+
+, SPACE 
+II-2, NUM 
+activity, NOUN 
+measured, VERB 
+7, NUM 
+different, ADJ 
+samples, NOUN 
+GCSS, PROPN 
+MTT, PROPN 
+MTS, PROPN 
+
+, SPACE 
+IL-3, PUNCT 
+units, NOUN 
+ml, PROPN 
+
+, SPACE 
+Sample, PROPN 
+GCSS, PROPN 
+MTT, PROPN 
+MTS, PROPN 
+
+, SPACE 
+Al, PROPN 
+19, NUM 
+loo+290, NOUN 
+
+, SPACE 
+A7, PROPN 
+850, NUM 
+f, PROPN 
+56, NUM 
+
+, SPACE 
+A3, NOUN 
+IX, PROPN 
+IOOiZlO, NOUN 
+
+, SPACE 
+Al, PROPN 
+970, NUM 
+I26, PROPN 
+
+, SPACE 
+A5, PROPN 
+945, NUM 
+II, PROPN 
+
+, SPACE 
+A6, ADJ 
+l9300, NOUN 
++, NUM 
+78, NUM 
+
+, SPACE 
+A7, NOUN 
+l890, NOUN 
++, CCONJ 
+I9, NOUN 
+
+, SPACE 
+Samples, NOUN 
+measured, VERB 
+triplicates, NOUN 
+19530, NUM 
++, NUM 
+175, NUM 
+18880&-206, NUM 
+
+, SPACE 
+875, NUM 
+f, PROPN 
+30, NUM 
+861&-30, NUM 
+
+, SPACE 
+17740, NUM 
+179, NUM 
+17250~200, NUM 
+
+, SPACE 
+951, NUM 
+1x, NUM 
+1020, NUM 
+34, NUM 
+
+, SPACE 
+93oi, NOUN 
+70, NUM 
+970, NUM 
++, SYM 
+12, NUM 
+
+, SPACE 
+197oo+‘zJ, NUM 
+20400, NUM 
+I04, PROPN 
+
+, SPACE 
+I893k23, NOUN 
+1887, NUM 
+50, NUM 
+
+, SPACE 
+dependent, ADJ 
+exact, ADJ 
+time, NOUN 
+evaluation, NOUN 
+cell, NOUN 
+number, NOUN 
+flexible, ADJ 
+set, NOUN 
+
+, SPACE 
+experiments, NOUN 
+carried, VERB 
+
+, SPACE 
+novel, ADJ 
+proliferation, NOUN 
+assay, NOUN 
+General, PROPN 
+cell, NOUN 
+screening, NOUN 
+system, NOUN 
+compared, VERB 
+
+, SPACE 
+conventional, ADJ 
+methods, NOUN 
+Calorimetric, ADJ 
+MTT, PROPN 
+MTS, PROPN 
+assays, NOUN 
+performed, VERB 
+written, VERB 
+
+, SPACE 
+Section, NOUN 
+2, NUM 
+Materials, NOUN 
+methods, NOUN 
+Results, NOUN 
+7, NUM 
+different, ADJ 
+samples, NOUN 
+unknown, ADJ 
+IL-2, ADJ 
+
+, SPACE 
+activity, NOUN 
+listed, VERB 
+Table, PROPN 
+2, NUM 
+showing, VERB 
+assays, NOUN 
+produce, VERB 
+comparable, ADJ 
+data, NOUN 
+
+, SPACE 
+obtained, VERB 
+IL-2, NOUN 
+units, NOUN 
+vary, VERB 
+significantly, ADV 
+applied, VERB 
+methods, NOUN 
+
+, SPACE 
+residuals, NOUN 
+GCSS, PROPN 
+data, NOUN 
+MTT, PROPN 
+MTS, PROPN 
+data, NOUN 
+samples, NOUN 
+known, VERB 
+
+, SPACE 
+0.06, NUM 
+
+, SPACE 
+-0.06, NUM 
+
+, SPACE 
+-0.08, NUM 
+-1, PUNCT 
+
+, SPACE 
+Fig, PROPN 
+8, NUM 
+Residuala, PROPN 
+IL-2, NOUN 
+activities, NOUN 
+known, VERB 
+IL-2, NOUN 
+samples, NOUN 
+GCSS, NOUN 
+MTT, PROPN 
+hatched, VERB 
+bar, NOUN 
+GCSS, PROPN 
+MTS, PROPN 
+open, ADJ 
+
+, SPACE 
+bar, NOUN 
+samples, NOUN 
+measured, VERB 
+triplicates, NOUN 
+residuals, NOUN 
+defined, VERB 
+differences, NOUN 
+IL-2, NOUN 
+
+, SPACE 
+activity, NOUN 
+determined, VERB 
+GCSS, NOUN 
+method, NOUN 
+conventional, ADJ 
+methods, NOUN 
+MTT-, X 
+MTS, PROPN 
+assay, PROPN 
+
+, SPACE 
+K., PROPN 
+Vorauer, PROPN 
+et, NOUN 
+al./J., VERB 
+Biochem, PROPN 
+Biophy, PROPN 
+Methods, NOUN 
+32, NUM 
+19961X-96, NUM 
+95, NUM 
+
+, SPACE 
+IL-2, NOUN 
+activity, NOUN 
+plotted, VERB 
+concentration, NOUN 
+IL-2, NOUN 
+residuals, NOUN 
+
+, SPACE 
+calculated, VERB 
+substraction, NOUN 
+GCSS, NOUN 
+data, NOUN 
+conventional, ADJ 
+calorimetric, NOUN 
+assay, VERB 
+
+, SPACE 
+data, NOUN 
+study, NOUN 
+trend, NOUN 
+observed, VERB 
+range, NOUN 
+IL-2, NOUN 
+Fig, PROPN 
+
+, SPACE 
+81, NUM 
+MTT, PROPN 
+MTS, PROPN 
+data, NOUN 
+applicable, ADJ 
+residuals, NOUN 
+depend, VERB 
+IL-2, NUM 
+
+, SPACE 
+concentrations, NOUN 
+
+, SPACE 
+4, X 
+Discussion, NOUN 
+
+, SPACE 
+GCSS, PROPN 
+offers, VERB 
+novel, ADJ 
+strategy, NOUN 
+measurement, NOUN 
+biological, ADJ 
+activity, NOUN 
+
+, SPACE 
+cytokine, ADJ 
+samples, NOUN 
+terms, NOUN 
+cell, NOUN 
+proliferation, NOUN 
+measuring, VERB 
+transmission, NOUN 
+
+, SPACE 
+incubation, NOUN 
+period, NOUN 
+IL-2, ADJ 
+dependent, ADJ 
+cell, NOUN 
+line, NOUN 
+CTLL-2, NOUN 
+found, VERB 
+
+, SPACE 
+exactly, ADV 
+determine, VERB 
+cell, NOUN 
+number, NOUN 
+given, VERB 
+cell, NOUN 
+type, NOUN 
+increase, NOUN 
+cell, NOUN 
+density, NOUN 
+
+, SPACE 
+fundamental, ADJ 
+criterion, NOUN 
+proliferation, NOUN 
+assay, NOUN 
+contrast, NOUN 
+cell, NOUN 
+proliferation, NOUN 
+
+, SPACE 
+assays, NOUN 
+range, NOUN 
+detection, NOUN 
+particular, ADJ 
+assay, NOUN 
+broad, ADJ 
+Assays, NOUN 
+based, VERB 
+
+, SPACE 
+incorporation, NOUN 
+radiolabelled, VERB 
+nucleotides, NOUN 
+3,11, X 
+detect, VERB 
+cell, NOUN 
+proliferation, NOUN 
+addition, NOUN 
+
+, SPACE 
+nucleotides, NOUN 
+DNA, NOUN 
+synthesis, NOUN 
+rate, NOUN 
+observed, VERB 
+narrow, ADJ 
+time, NOUN 
+range, NOUN 
+
+, SPACE 
+correlated, VERB 
+biological, ADJ 
+activity, NOUN 
+incorporation, NOUN 
+consequence, NOUN 
+
+, SPACE 
+analytical, ADJ 
+response, NOUN 
+depends, VERB 
+heavily, ADV 
+cell, NOUN 
+activity, NOUN 
+time, NOUN 
+period, NOUN 
+
+, SPACE 
+addition, NOUN 
+nucleotides, NOUN 
+cell, NOUN 
+population, NOUN 
+harvesting, NOUN 
+cells, NOUN 
+
+, SPACE 
+parameters, NOUN 
+carefully, ADV 
+optimized, VERB 
+order, NOUN 
+obtain, VERB 
+reliable, ADJ 
+data, NOUN 
+case, NOUN 
+
+, SPACE 
+GCSS, PROPN 
+lag, NOUN 
+phase, NOUN 
+detected, VERB 
+instance, NOUN 
+early, ADJ 
+termination, NOUN 
+assay, NOUN 
+
+, SPACE 
+avoided, VERB 
+types, NOUN 
+end, NOUN 
+point, NOUN 
+assays, NOUN 
+observation, NOUN 
+time, NOUN 
+cell, NOUN 
+
+, SPACE 
+harvesting, NOUN 
+addition, NOUN 
+MTT, PROPN 
+MTS, PROPN 
+quantification, NOUN 
+
+, SPACE 
+calculation, NOUN 
+population, NOUN 
+growth, NOUN 
+rate, NOUN 
+~1, NOUN 
+CTLL-2, NOUN 
+cell, NOUN 
+line, NOUN 
+48, NUM 
+h, NOUN 
+
+, SPACE 
+cultivation, NOUN 
+correlated, VERB 
+IL-2, ADJ 
+activity, NOUN 
+IL-2, NOUN 
+containing, VERB 
+samples, NOUN 
+different, ADJ 
+
+, SPACE 
+origin, NOUN 
+autologous, ADJ 
+recombinant, ADJ 
+regression, NOUN 
+coefficients, NOUN 
+fourth, PROPN 
+polynom, PROPN 
+
+, SPACE 
+R, PROPN 
+=, NOUN 
+0.998, NUM 
+R, PROPN 
+=, PROPN 
+0.996, NUM 
+Adj, PROPN 
+Rsqr, PROPN 
+=, SYM 
+0.993, NUM 
+concentration, NOUN 
+range, NOUN 
+
+, SPACE 
+9.76, NUM 
+X, NOUN 
+10e3, NUM 
+units, NOUN 
+IL-2, NUM 
+10, NUM 
+units, NOUN 
+IL-2, NOUN 
+Advantages, NOUN 
+system, NOUN 
+based, VERB 
+
+, SPACE 
+growth, NOUN 
+kinetics, NOUN 
+obvious, ADJ 
+plate, NOUN 
+measured, VERB 
+32, NUM 
+times, NOUN 
+
+, SPACE 
+manipulation, NOUN 
+influencing, VERB 
+culture, NOUN 
+conditions, NOUN 
+feature, NOUN 
+makes, VERB 
+
+, SPACE 
+system, NOUN 
+transparent, ADJ 
+cell, NOUN 
+densities, NOUN 
+observed, VERB 
+long, ADJ 
+time, NOUN 
+period, NOUN 
+
+, SPACE 
+optimal, ADJ 
+time, NOUN 
+exponential, ADJ 
+growth, NOUN 
+curve, NOUN 
+observed, VERB 
+utilized, VERB 
+
+, SPACE 
+calculation, NOUN 
+samples, NOUN 
+processed, VERB 
+continuously, ADV 
+controlled, VERB 
+system, NOUN 
+
+, SPACE 
+manpower, NOUN 
+time, NOUN 
+costs, NOUN 
+minimized, VERB 
+
+, SPACE 
+comparison, NOUN 
+calorimetric, NOUN 
+MTT, PROPN 
+MTS, PROPN 
+methods, NOUN 
+incorporation, NOUN 
+radiola-, ADJ 
+
+, SPACE 
+belled, VERB 
+nucleotides, NOUN 
+L3H]Tdr, PROPN 
+use, NOUN 
+toxic, ADJ 
+components, NOUN 
+solvents, NOUN 
+radioactive, ADJ 
+
+, SPACE 
+substances, NOUN 
+necessary, ADJ 
+methods, NOUN 
+require, VERB 
+additional, ADJ 
+manipulation, NOUN 
+
+, SPACE 
+steps, NOUN 
+represent, VERB 
+moment, NOUN 
+continuous, ADJ 
+situation, NOUN 
+main, ADJ 
+advantage, NOUN 
+
+, SPACE 
+GCSS, NOUN 
+proliferation, NOUN 
+assay, NOUN 
+fact, NOUN 
+culture, NOUN 
+kept, VERB 
+permanent, ADJ 
+
+, SPACE 
+observation, NOUN 
+calculation, NOUN 
+cell, NOUN 
+kinetics, NOUN 
+simplified, VERB 
+direct, ADJ 
+combina-, NOUN 
+
+, SPACE 
+tion, NOUN 
+multiwell, NOUN 
+scanning, VERB 
+spectrophotometer, NOUN 
+personal, ADJ 
+computer, NOUN 
+
+, SPACE 
+results, NOUN 
+GCSS, NOUN 
+IL-2, NOUN 
+proliferation, NOUN 
+assay, VERB 
+correlate, NOUN 
+results, NOUN 
+calculated, VERB 
+
+, SPACE 
+calorimetric, ADJ 
+assays, NOUN 
+Table, NOUN 
+2, NUM 
+residuals, NOUN 
+GCSS, PROPN 
+MIT, PROPN 
+GCSS, PROPN 
+MTS, PROPN 
+versus, ADP 
+
+, SPACE 
+IL-2, NOUN 
+activity, NOUN 
+randomly, ADV 
+distributed, VERB 
+reproducibility, NOUN 
+test, NOUN 
+system, NOUN 
+relies, VERB 
+
+, SPACE 
+quality, NOUN 
+specially, ADV 
+designed, VERB 
+multiwell, NOUN 
+plates, NOUN 
+minimization, NOUN 
+manipula-, ADJ 
+
+, SPACE 
+tions, NOUN 
+indirect, ADJ 
+measurement, NOUN 
+cell, NOUN 
+density, NOUN 
+addition, NOUN 
+component, NOUN 
+use, NOUN 
+
+, SPACE 
+optimal, ADJ 
+cell, NOUN 
+density, NOUN 
+Consequently, ADV 
+precise, ADJ 
+quantitation, NOUN 
+samples, NOUN 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+5B., NUM 
+
+, SPACE 
+observations, NOUN 
+GCSS, NOUN 
+IL-2, NOUN 
+method, NOUN 
+suggest, VERB 
+determination, NOUN 
+IL-2, NOUN 
+
+, SPACE 
+activity, NOUN 
+computer, NOUN 
+assisted, VERB 
+system, NOUN 
+manipulations, NOUN 
+simplifies, NOUN 
+
+, SPACE 
+handling, NOUN 
+multiple, ADJ 
+samples, NOUN 
+routine, ADJ 
+laboratory, NOUN 
+feel, VERB 
+system, NOUN 
+safer, ADJ 
+
+, SPACE 
+cost, NOUN 
+effective, ADJ 
+compared, VERB 
+methods, NOUN 
+principle, NOUN 
+test, NOUN 
+suited, VERB 
+
+, SPACE 
+screening, NOUN 
+cytokine, ADJ 
+dependent, ADJ 
+cells, NOUN 
+CTLL-2, NOUN 
+cell, NOUN 
+line, NOUN 
+system, NOUN 
+
+, SPACE 
+applicable, ADJ 
+screening, NOUN 
+growth, NOUN 
+inhibition, NOUN 
+factors, NOUN 
+biological, ADJ 
+
+, SPACE 
+activity, NOUN 
+observed, VERB 
+conjunction, NOUN 
+cell, NOUN 
+kinetics, NOUN 
+GCSS, PROPN 
+quantifica-, NOUN 
+
+, SPACE 
+tion, NOUN 
+biological, ADJ 
+activity, NOUN 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+Mosmann, PROPN 
+T, NOUN 
+Rapid, ADJ 
+calorimetric, NOUN 
+assay, VERB 
+cellular, ADJ 
+growth, NOUN 
+survival, NOUN 
+application, NOUN 
+proliferation, NOUN 
+
+, SPACE 
+cytotoxicity, NOUN 
+assays, NOUN 
+J., PROPN 
+Immunol, PROPN 
+Methods, NOUN 
+65, NUM 
+C, NOUN 
+198.1, NUM 
+55, NUM 
+63, NUM 
+
+, SPACE 
+2, X 
+Tada, PROPN 
+H, PROPN 
+Shiho, PROPN 
+0, NUM 
+Kuroshima, PROPN 
+K, PROPN 
+Koyama, PROPN 
+M., PROPN 
+Tsukamoto, PROPN 
+K., PROPN 
+improved, ADJ 
+calorimetric, NOUN 
+assay, NOUN 
+
+, SPACE 
+Interleukin-2, NUM 
+J., PROPN 
+Immunol, PROPN 
+Methoda, PROPN 
+93, NUM 
+1986, NUM 
+157, NUM 
+165, NUM 
+
+, SPACE 
+3, X 
+Hewlett, PROPN 
+G, PROPN 
+Stiinkel, PROPN 
+K.G., PROPN 
+Schlumherger, PROPN 
+H.D, PROPN 
+method, NOUN 
+quantification, NOUN 
+Interleukin-2, ADJ 
+activity, NOUN 
+
+, SPACE 
+J., PROPN 
+Immunol, PROPN 
+Methods, NOUN 
+I7, VERB 
+1989, NUM 
+243, NUM 
+246, NUM 
+
+, SPACE 
+4, X 
+Rohh, PROPN 
+R.J, PROPN 
+Kutny, PROPN 
+R.M, PROPN 
+Panico, PROPN 
+M, PROPN 
+Morri\., PROPN 
+H.R., PROPN 
+Chowdhry, PROPN 
+V, NOUN 
+Amino, ADJ 
+acid, NOUN 
+sequence, NOUN 
+
+, SPACE 
+post, ADJ 
+translational, ADJ 
+modification, NOUN 
+human, PROPN 
+interleukin-7, PROPN 
+Proc, PROPN 
+Natl, PROPN 
+Acad, PROPN 
+Sci, PROPN 
+USA, PROPN 
+81, NUM 
+1984, NUM 
+6486, NUM 
+6490, NUM 
+
+, SPACE 
+5, X 
+Strahel, PROPN 
+R.A, PROPN 
+Klinische, PROPN 
+Bedeutung, PROPN 
+van, NOUN 
+Interleukin-2, PROPN 
+der, PROPN 
+Tumortherapie, PROPN 
+Prakt, PROPN 
+Onkol, PROPN 
+8, NUM 
+1989, NUM 
+
+, SPACE 
+126, NUM 
+129, NUM 
+
+, SPACE 
+6, NUM 
+Ju, NOUN 
+G, PROPN 
+Collins, PROPN 
+L, PROPN 
+Kaftka, PROPN 
+K.L, PROPN 
+Tsien, PROPN 
+W, PROPN 
+Chizzonite, PROPN 
+R, PROPN 
+Crowl, PROPN 
+R, NOUN 
+Bhatt, PROPN 
+R., PROPN 
+Kilian, PROPN 
+P.L, PROPN 
+
+, SPACE 
+Structure, PROPN 
+Function, PROPN 
+Analysis, PROPN 
+Human, PROPN 
+Interleukin-2, NOUN 
+J., PROPN 
+Biol, PROPN 
+Chem, PROPN 
+262, NUM 
+1987, NUM 
+5733, NUM 
+5731, NUM 
+
+, SPACE 
+7, X 
+Buttke, PROPN 
+T.M., PROPN 
+McCuhrey, PROPN 
+J.A., PROPN 
+Owen, PROPN 
+T.C., PROPN 
+Use, PROPN 
+aqueous, ADJ 
+soluble, ADJ 
+tetrazolium, NOUN 
+formazan, NOUN 
+assay, VERB 
+
+, SPACE 
+measure, VERB 
+viability, NOUN 
+proliferation, NOUN 
+lymphokinr, ADJ 
+dependent, ADJ 
+cell, NOUN 
+lines, NOUN 
+J., PROPN 
+Immunol, PROPN 
+Methods, NOUN 
+I57, PROPN 
+993, NUM 
+
+, SPACE 
+233, NUM 
+240, NUM 
+
+, SPACE 
+x, X 
+Barltrop, PROPN 
+J.A., PROPN 
+Owen, PROPN 
+T.C, PROPN 
+.5-(3, PROPN 
+Carhoxymethoxyphenyl)-2-(3.5, PROPN 
+dimethylthi, NOUN 
+~, PUNCT 
+zolyl)-3-(4-, PROPN 
+
+, SPACE 
+sulphophenyl)tetrazolium, X 
+Inner, ADJ 
+Salt, PROPN 
+MTS, PROPN 
+related, VERB 
+analogs, NOUN 
+3-(4.5.dimethylthiazolyl).2.5.diphen-, NOUN 
+
+, SPACE 
+yltetrazolium, NOUN 
+bromide, NOUN 
+MTT, NOUN 
+reducing, VERB 
+purple, ADJ 
+water, NOUN 
+soluble, ADJ 
+formazans, NOUN 
+cell, NOUN 
+viability, NOUN 
+indicators, NOUN 
+
+, SPACE 
+Bioorg, PROPN 
+Med, PROPN 
+Chem, NOUN 
+Lett, PROPN 
+1991, NUM 
+61, NUM 
+I-61, PROPN 
+t., PROPN 
+
+, SPACE 
+9, X 
+Steindl, PROPN 
+F, PROPN 
+General, ADJ 
+cell, NOUN 
+screening, VERB 
+system, NOUN 
+new, ADJ 
+dimension, NOUN 
+screening, NOUN 
+cell, NOUN 
+culture, NOUN 
+Fermentation, NOUN 
+
+, SPACE 
+Cell, PROPN 
+Culture, PROPN 
+Application, PROPN 
+Note, PROPN 
+Int, PROPN 
+Biotechnology, PROPN 
+Laboratory, PROPN 
+1990, NUM 
+
+, SPACE 
+IO, PROPN 
+Gearing, PROPN 
+A.J.H., PROPN 
+Bird, PROPN 
+C.M, PROPN 
+Production, NOUN 
+Assay, NOUN 
+Interleukin-2, NOUN 
+Lymphokines, NOUN 
+Interferons, PROPN 
+
+, SPACE 
+Practical, ADJ 
+Approach, PROPN 
+IRL, PROPN 
+Press, PROPN 
+Oxford, PROPN 
+29, NUM 
+I., NOUN 
+1987, NUM 
+
+, SPACE 
+Gillis, PROPN 
+S, PROPN 
+Ferm, PROPN 
+M.M., PROPN 
+Ou, PROPN 
+W., PROPN 
+Smith, PROPN 
+K.A, PROPN 
+T, NOUN 
+cell, NOUN 
+growth, NOUN 
+factor, NOUN 
+parameters, NOUN 
+production, NOUN 
+
+, SPACE 
+quantitative, ADJ 
+microassay, NOUN 
+activity, NOUN 
+J., PROPN 
+Immunal, PROPN 
+Methods, PROPN 
+I20, PROPN 
+1978, NUM 
+2027, NUM 
+
+, SPACE 

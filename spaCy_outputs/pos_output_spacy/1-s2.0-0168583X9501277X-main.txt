@@ -1,0 +1,2158 @@
+Nuclear, PROPN 
+Instruments, PROPN 
+Methods, PROPN 
+Physics, PROPN 
+Research, PROPN 
+B, PROPN 
+112, NUM 
+1996, NUM 
+133, NUM 
+138, NUM 
+
+, SPACE 
+ELSEVIER, PROPN 
+Brm, PROPN 
+Interactions, PROPN 
+
+, SPACE 
+Materials&Atoms, NOUN 
+
+, SPACE 
+Observation, PROPN 
+vacancy, NOUN 
+clustering, NOUN 
+FZ, PROPN 
+Si, PROPN 
+crystals, NOUN 
+situ, NOUN 
+
+, SPACE 
+electron, NOUN 
+irradiation, NOUN 
+high, ADJ 
+voltage, NOUN 
+electron, NOUN 
+microscope, NOUN 
+
+, SPACE 
+L., PROPN 
+Fedina, PROPN 
+a2c3, PUNCT 
+J., PROPN 
+Van, PROPN 
+Landuyt, PROPN 
+J., PROPN 
+Vanhellemont, PROPN 
+b, PROPN 
+A.L., PROPN 
+Aseev, PROPN 
+
+, SPACE 
+Uniuersiry, PROPN 
+Antwerp, PROPN 
+RCJCA, PROPN 
+Groenenborgerlaan, PROPN 
+171, NUM 
+B-2020, NOUN 
+Antwerp, PROPN 
+Belgium, PROPN 
+
+, SPACE 
+b, PROPN 
+IMEC, PROPN 
+Kapeldreef, PROPN 
+75, NUM 
+B-3001, PROPN 
+Leuven, PROPN 
+Belgium, PROPN 
+
+, SPACE 
+Institute, PROPN 
+Semiconductor, PROPN 
+Physics, PROPN 
+pr, PROPN 
+ak, PROPN 
+Lavrentjeva, PROPN 
+13, NUM 
+630090, NUM 
+Novosibirsk, PROPN 
+Russian, PROPN 
+Federation, PROPN 
+
+, SPACE 
+Abstract, PROPN 
+
+, SPACE 
+Vacancy, PROPN 
+accumulation, NOUN 
+pure, ADJ 
+FZ, PROPN 
+Si, PROPN 
+crystals, NOUN 
+covered, VERB 
+thin, ADJ 
+Si, PROPN 
+N, PROPN 
+films, NOUN 
+leads, VERB 
+irradiation, NOUN 
+high, ADJ 
+intensity, NOUN 
+
+, SPACE 
+electron, NOUN 
+beam, NOUN 
+high, ADJ 
+voltage, NOUN 
+electron, NOUN 
+microscope, NOUN 
+HVEM, PROPN 
+temperatures, NOUN 
+20, NUM 
+250, NUM 
+°, NOUN 
+C, NOUN 
+suppression, NOUN 
+
+, SPACE 
+formation, NOUN 
+113)-defects, NOUN 
+interstitial, ADJ 
+type, NOUN 
+central, ADJ 
+irradiated, VERB 
+area, NOUN 
+small, ADJ 
+secondary, ADJ 
+clusters, NOUN 
+
+, SPACE 
+interstitial, ADJ 
+type, NOUN 
+density, NOUN 
+IO, PROPN 
+cmm2, NOUN 
+appear, VERB 
+area, NOUN 
+prolonged, VERB 
+irradiation, NOUN 
+Small, ADJ 
+stacking, NOUN 
+
+, SPACE 
+fault, VERB 
+tetrahedra, NOUN 
+Frank, PROPN 
+loops, NOUN 
+vacancy, NOUN 
+type, NOUN 
+connected, VERB 
+interstitial, ADJ 
+clusters, NOUN 
+analysed, VERB 
+atomic, ADJ 
+scale, NOUN 
+
+, SPACE 
+thinnest, ADJ 
+irradiated, VERB 
+area, NOUN 
+400, NUM 
+keV, NOUN 
+high, ADJ 
+resolution, NOUN 
+electron, NOUN 
+microscope, NOUN 
+Vacancy, NOUN 
+clusters, NOUN 
+act, VERB 
+
+, SPACE 
+nucleation, NOUN 
+centres, NOUN 
+observed, ADJ 
+secondary, ADJ 
+defect, NOUN 
+formation, NOUN 
+
+, SPACE 
+1, X 
+Introduction, NOUN 
+
+, SPACE 
+High, ADJ 
+fluxes, NOUN 
+1, NUM 
+MeV, PROPN 
+electrons, NOUN 
+high, ADJ 
+voltage, NOUN 
+
+, SPACE 
+electron, NOUN 
+microscope, NOUN 
+HvEM, PROPN 
+create, VERB 
+supersaturation, NOUN 
+
+, SPACE 
+self, NOUN 
+interstitials, NOUN 
+Si, PROPN 
+crystals, NOUN 
+covered, VERB 
+thin, ADJ 
+films, NOUN 
+SiO, ADJ 
+
+, SPACE 
+Si3N, PROPN 
+11, NUM 
+self, NOUN 
+interstitials, NOUN 
+cluster, NOUN 
+called, VERB 
+
+, SPACE 
+113}-defects, NOUN 
+found, VERB 
+state, NOUN 
+impurity, NOUN 
+atoms, NOUN 
+
+, SPACE 
+oxygen, NOUN 
+carbon, NOUN 
+dopant, ADJ 
+atoms, NOUN 
+P, NOUN 
+B, PROPN 
+plays, VERB 
+
+, SPACE 
+important, ADJ 
+role, NOUN 
+formation, NOUN 
+13}-defects, NUM 
+
+, SPACE 
+Si, PROPN 
+crystals, NOUN 
+1.21, NUM 
+formation, NOUN 
+irradiation, NOUN 
+induced, VERB 
+
+, SPACE 
+13)-defects, NOUN 
+different, ADJ 
+pure, ADJ 
+floating, VERB 
+zone, NOUN 
+FZ, PROPN 
+
+, SPACE 
+Czochralski, PROPN 
+Cz, PROPN 
+Si, PROPN 
+l-4, X 
+
+, SPACE 
+low, ADJ 
+concentration, NOUN 
+impurity, NOUN 
+atoms, NOUN 
+concluded, VERB 
+
+, SPACE 
+defects, NOUN 
+related, VERB 
+impinging, VERB 
+impurity, NOUN 
+atoms, NOUN 
+
+, SPACE 
+irradiated, VERB 
+surface, NOUN 
+observed, VERB 
+temperatures, NOUN 
+
+, SPACE 
+room, NOUN 
+temperature, NOUN 
+400, NUM 
+°, NOUN 
+C, NOUN 
+FZ, PROPN 
+Si, PROPN 
+2, NUM 
+exclude, VERB 
+
+, SPACE 
+effect, NOUN 
+impurity, NOUN 
+atoms, NOUN 
+introduced, VERB 
+electron, NOUN 
+micro-, NOUN 
+
+, SPACE 
+scope, NOUN 
+surface, NOUN 
+specimen, NOUN 
+defect, NOUN 
+forma-, NOUN 
+
+, SPACE 
+tion, NOUN 
+present, ADJ 
+study, NOUN 
+carried, VERB 
+FZ, PROPN 
+Si, PROPN 
+specimens, NOUN 
+
+, SPACE 
+covered, VERB 
+thin, ADJ 
+Si, PROPN 
+N, PROPN 
+coating, VERB 
+prevent, VERB 
+indiffusion, NOUN 
+
+, SPACE 
+impurities, NOUN 
+TEM, PROPN 
+specimen, NOUN 
+preparation, NOUN 
+
+, SPACE 
+2, X 
+Experiments, NOUN 
+
+, SPACE 
+specimens, NOUN 
+prepared, VERB 
+FZ, PROPN 
+Si, PROPN 
+crystal, NOUN 
+
+, SPACE 
+110, NUM 
+orientation, NOUN 
+containing, VERB 
+1, NUM 
+X, NOUN 
+lOI, ADJ 
+cme3, NOUN 
+interstitial, NOUN 
+
+, SPACE 
+Corresponding, VERB 
+author, NOUN 
+Tel, INTJ 
++, SYM 
+32, NUM 
+3, NUM 
+2180259, NUM 
+fax, NOUN 
++, PROPN 
+32, NUM 
+3, NUM 
+
+, SPACE 
+2180257, NUM 
+e, NOUN 
+mail, NOUN 
+jovalan@rnca.ua.ac.be, PROPN 
+oxygen, NOUN 
+atoms, NOUN 
+3, NUM 
+X, NUM 
+10, NUM 
+crnv3, NOUN 
+substitutional, ADJ 
+carbon, NOUN 
+atoms, NOUN 
+
+, SPACE 
+3, NUM 
+X, NOUN 
+lOI, ADJ 
+cms3, NOUN 
+substitutional, ADJ 
+phosphorous, ADJ 
+atoms, NOUN 
+
+, SPACE 
+thinned, VERB 
+Si, PROPN 
+specimens, NOUN 
+covered, VERB 
+Si, PROPN 
+N, PROPN 
+films, NOUN 
+
+, SPACE 
+5, NUM 
+15, NUM 
+nm, NOUN 
+thickness, NOUN 
+situ, ADJ 
+observation, NOUN 
+high, ADJ 
+volt-, NOUN 
+
+, SPACE 
+age, NOUN 
+electron, NOUN 
+microscope, NOUN 
+JEOL-1250, PROPN 
+Antwerp, PROPN 
+Univer-, PROPN 
+
+, SPACE 
+sity, NOUN 
+RUCA, PROPN 
+carried, VERB 
+Ill, PROPN 
+dynamical, ADJ 
+contrast, NOUN 
+
+, SPACE 
+mode, NOUN 
+temperature, NOUN 
+range, NOUN 
+20, NUM 
+450, NUM 
+°, NUM 
+C, NOUN 
+1, NUM 
+MeV., NOUN 
+
+, SPACE 
+intensities, NOUN 
+irradiation, NOUN 
+3, NUM 
+X, PROPN 
+IO, PROPN 
+
+, SPACE 
+3, NUM 
+X, NOUN 
+lOI, ADJ 
+electrons, NOUN 
+cm2, NOUN 
+s., NOUN 
+temperature, NOUN 
+control, NOUN 
+
+, SPACE 
+situ, NOUN 
+experiments, NOUN 
+performed, VERB 
+thermocouple, DET 
+mea-, ADJ 
+
+, SPACE 
+surement, NOUN 
+specimen, NOUN 
+cup, NOUN 
+specimens, NOUN 
+
+, SPACE 
+irradiated, VERB 
+investigated, VERB 
+JEM-4000, PROPN 
+EX, PROPN 
+high, ADJ 
+
+, SPACE 
+resolution, NOUN 
+electron, NOUN 
+microscope, NOUN 
+operated, VERB 
+400, NUM 
+keV, NOUN 
+
+, SPACE 
+Institute, PROPN 
+Semiconductor, PROPN 
+Physics, PROPN 
+Novosibirsk, PROPN 
+Russia, PROPN 
+
+, SPACE 
+3, X 
+Results, NOUN 
+
+, SPACE 
+defect, ADJ 
+creation, NOUN 
+FZ, PROPN 
+Si, PROPN 
+crystals, NOUN 
+covered, VERB 
+
+, SPACE 
+Si, PROPN 
+N, PROPN 
+films, NOUN 
+electron, NOUN 
+irradiation, NOUN 
+temperature, NOUN 
+
+, SPACE 
+range, NOUN 
+20, NUM 
+250, NUM 
+°, NOUN 
+C, NOUN 
+depends, VERB 
+electron, NOUN 
+beam, NOUN 
+intensity, NOUN 
+
+, SPACE 
+central, ADJ 
+irradiated, VERB 
+area, NOUN 
+density, NOUN 
+
+, SPACE 
+defects, NOUN 
+area, NOUN 
+decreases, VERB 
+10, NUM 
+cme2, NOUN 
+
+, SPACE 
+complete, ADJ 
+suppression, NOUN 
+increasing, VERB 
+intensity, NOUN 
+irradia-, ADJ 
+
+, SPACE 
+tion, NOUN 
+3, NUM 
+X, PROPN 
+IO, PROPN 
+3, NUM 
+X, NOUN 
+lOI, ADJ 
+electrons, NOUN 
+cm2, PROPN 
+s, PROPN 
+shown, VERB 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+incubation, NOUN 
+time, NOUN 
+nucleation, NOUN 
+
+, SPACE 
+initially, ADV 
+formed, VERB 
+defects, NOUN 
+slightly, ADV 
+increased, VERB 
+increasing, VERB 
+
+, SPACE 
+beam, NOUN 
+intensity, NOUN 
+irradiation, NOUN 
+temperatures, NOUN 
+300, NUM 
+°, NOUN 
+C, NOUN 
+
+, SPACE 
+shown, VERB 
+Fig, PROPN 
+2a, PROPN 
+10, NUM 
+min, NOUN 
+irradiation, NOUN 
+
+, SPACE 
+maximum, ADJ 
+beam, NOUN 
+intensity, NOUN 
+secondary, ADJ 
+small, ADJ 
+clusters, NOUN 
+
+, SPACE 
+0168, NUM 
+583X/%/$15.00, NUM 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+B.V., PROPN 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+SSDlOl68, ADJ 
+583X(95)01277, PROPN 
+X, NOUN 
+VI, PROPN 
+SILICON, PROPN 
+DEFECTS, NOUN 
+DAMAGE, NOUN 
+
+, SPACE 
+134, NUM 
+L., PROPN 
+Fedinu, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+II2, PROPN 
+1996, NUM 
+133, NUM 
+138, NUM 
+
+, SPACE 
+Fig, PROPN 
+1, NUM 
+defects, NOUN 
+created, VERB 
+FZ, PROPN 
+Si, PROPN 
+covered, VERB 
+50, NUM 
+nm, PROPN 
+Si, PROPN 
+N, PROPN 
+film, NOUN 
+10, NUM 
+min, NOUN 
+situ, NOUN 
+irradiation, NOUN 
+HVEM, PROPN 
+250, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+intensity, NOUN 
+1=6X, NUM 
+IO, PROPN 
+ecm-2s-, PROPN 
+a)and3X, NOUN 
+lOI9, NOUN 
+ecm-2s-‘(b, NOUN 
+
+, SPACE 
+point, NOUN 
+defects, NOUN 
+appear, VERB 
+central, ADJ 
+
+, SPACE 
+irradiated, VERB 
+area, NOUN 
+Fig, PROPN 
+3, NUM 
+density, NOUN 
+secondary, ADJ 
+
+, SPACE 
+defects, NOUN 
+increases, NOUN 
+prolonged, VERB 
+irradiation, NOUN 
+45, NUM 
+120, NUM 
+min, NOUN 
+
+, SPACE 
+dose, NOUN 
+10, NUM 
+cm-, PROPN 
+incubation, NOUN 
+time, NOUN 
+
+, SPACE 
+creation, NOUN 
+defects, NOUN 
+found, VERB 
+strongly, ADV 
+depen-, ADJ 
+
+, SPACE 
+dent, NOUN 
+electron, NOUN 
+beam, NOUN 
+intensity, NOUN 
+shown, VERB 
+Fig, PROPN 
+
+, SPACE 
+2a, PROPN 
+initial, ADJ 
+secondary, ADJ 
+defects, NOUN 
+
+, SPACE 
+interstitial, ADJ 
+type, NOUN 
+reveal, VERB 
+supersaturation, NOUN 
+self, NOUN 
+in-, ADP 
+
+, SPACE 
+terstitials, NOUN 
+step, NOUN 
+nucleation, NOUN 
+mechanism, NOUN 
+
+, SPACE 
+reported, VERB 
+real, ADJ 
+understanding, NOUN 
+
+, SPACE 
+secondary, ADJ 
+defects, NOUN 
+nucleate, ADJ 
+e.g., ADV 
+Refs, NOUN 
+1,2, NUM 
+
+, SPACE 
+Irradiation, NOUN 
+temperatures, NOUN 
+300, NUM 
+°, NOUN 
+C, NOUN 
+leads, VERB 
+forma-, ADJ 
+
+, SPACE 
+tion, NOUN 
+113}-defects, NOUN 
+disappe, VERB 
+
+, SPACE 
+higher, ADJ 
+intensity, NOUN 
+irradiation, NOUN 
+incubation, NOUN 
+time, NOUN 
+
+, SPACE 
+nucleation, NOUN 
+defects, NOUN 
+decreased, VERB 
+increasing, VERB 
+
+, SPACE 
+irradiation, NOUN 
+intensity, NOUN 
+available, ADJ 
+range, NOUN 
+Fig, PROPN 
+2a, NUM 
+
+, SPACE 
+creation, NOUN 
+rate, NOUN 
+initially, ADV 
+formed, VERB 
+defects, NOUN 
+T=, NOUN 
+
+, SPACE 
+210, NUM 
+250, NUM 
+curve, NOUN 
+2, NUM 
+T-, PROPN 
+310, NUM 
+350, NUM 
+°, NUM 
+C, NOUN 
+curve, NOUN 
+1, NUM 
+
+, SPACE 
+function, NOUN 
+electron, PROPN 
+beam, NOUN 
+intensity, NOUN 
+shown, VERB 
+Fig, PROPN 
+2b, PROPN 
+
+, SPACE 
+Curve, PROPN 
+2, NUM 
+illustrates, VERB 
+decrease, NOUN 
+initial, ADJ 
+defects, NOUN 
+
+, SPACE 
+increasing, VERB 
+electron, NOUN 
+beam, NOUN 
+intensity, NOUN 
+curve, NOUN 
+1, NUM 
+illus-, NOUN 
+
+, SPACE 
+trates, VERB 
+initial, ADJ 
+defects, NOUN 
+formed, VERB 
+higher, ADJ 
+temperature, NOUN 
+
+, SPACE 
+stable, ADJ 
+dark, ADJ 
+field, NOUN 
+micrographs, NOUN 
+Fig, PROPN 
+4, NUM 
+
+, SPACE 
+changes, NOUN 
+size, NOUN 
+defect, VERB 
+density, NOUN 
+changing, VERB 
+thickness, NOUN 
+
+, SPACE 
+wedge, NOUN 
+shaped, VERB 
+TEM, PROPN 
+specimens, NOUN 
+irradiated, VERB 
+T=, PROPN 
+
+, SPACE 
+250, NUM 
+°, NOUN 
+C, NOUN 
+central, ADJ 
+seen, VERB 
+Fig, PROPN 
+4a, NOUN 
+
+, SPACE 
+thinnest, ADJ 
+irradiated, VERB 
+area, NOUN 
+extinction, NOUN 
+
+, SPACE 
+band, NOUN 
+small, ADJ 
+defects, NOUN 
+black, ADJ 
+white, ADJ 
+contrast, NOUN 
+
+, SPACE 
+observed, VERB 
+mixing, NOUN 
+113)-defects, NOUN 
+
+, SPACE 
+observed, VERB 
+thicker, ADJ 
+extinction, NOUN 
+contour, NOUN 
+
+, SPACE 
+Fig, PROPN 
+4b, PROPN 
+small, ADJ 
+size, NOUN 
+defects, NOUN 
+2, NUM 
+nm, NOUN 
+
+, SPACE 
+makes, VERB 
+difficult, ADJ 
+determine, VERB 
+type, NOUN 
+created, VERB 
+
+, SPACE 
+defects, NOUN 
+type, NOUN 
+specimens, NOUN 
+irradi-, AUX 
+
+, SPACE 
+ated, VERB 
+investigated, VERB 
+atomic, ADJ 
+scale, NOUN 
+400, NUM 
+keV, NOUN 
+high, ADJ 
+
+, SPACE 
+resolution, NOUN 
+electron, NOUN 
+microscope, NOUN 
+Fig, PROPN 
+5, NUM 
+shows, VERB 
+types, NOUN 
+
+, SPACE 
+defects, NOUN 
+found, VERB 
+thinnest, ADJ 
+FZ, PROPN 
+Si, PROPN 
+crystals, NOUN 
+
+, SPACE 
+irradiation, NOUN 
+high, ADJ 
+resolution, NOUN 
+electron, NOUN 
+microscope, NOUN 
+
+, SPACE 
+Fig, PROPN 
+5c, NUM 
+conclude, VERB 
+image, NOUN 
+plane, NOUN 
+
+, SPACE 
+V, NOUN 
+shaped, VERB 
+defect, NOUN 
+differs, VERB 
+image, NOUN 
+
+, SPACE 
+plane, NOUN 
+clearly, ADV 
+seen, VERB 
+
+, SPACE 
+vacancy, NOUN 
+prismatic, ADJ 
+type, NOUN 
+second, ADJ 
+non, ADJ 
+pris-, ADJ 
+
+, SPACE 
+matic, ADJ 
+defect, NOUN 
+atomic, ADJ 
+model, NOUN 
+V, NOUN 
+shaped, VERB 
+defect, NOUN 
+
+, SPACE 
+based, VERB 
+HREM, PROPN 
+image, NOUN 
+shown, VERB 
+Fig, PROPN 
+5d, PROPN 
+model, NOUN 
+
+, SPACE 
+illustrates, VERB 
+V, PROPN 
+shaped, VERB 
+defect, NOUN 
+corresponds, NOUN 
+Frank, PROPN 
+
+, SPACE 
+loop, NOUN 
+vacancy, NOUN 
+type, NOUN 
+connected, VERB 
+Shockley, PROPN 
+
+, SPACE 
+
+, SPACE 
+bd, NOUN 
+E, NOUN 
+
+, SPACE 
+un-3.p, VERB 
+
+, SPACE 
+10, NUM 
+<, X 
+10, NUM 
+
+, SPACE 
+3, NUM 
+
+, SPACE 
+10, NUM 
+<, X 
+2, NUM 
+
+, SPACE 
+IllI, PROPN 
+IIll, PROPN 
+III, PROPN 
+
+, SPACE 
+lo, PROPN 
+ld9, NOUN 
+11)‘~, NUM 
+Ecm‘2, NUM 
+.s, NOUN 
+lo, PROPN 
+1o19, NUM 
+10ZO, INTJ 
+I,&cm-2, PUNCT 
+.s-1, PROPN 
+b, X 
+
+, SPACE 
+1, NUM 
+
+, SPACE 
+Fig, PROPN 
+2, NUM 
+dependencies, NOUN 
+incubation, NOUN 
+time, NOUN 
+creation, NOUN 
+rate, NOUN 
+b, NOUN 
+defects, NOUN 
+intensity, NOUN 
+electron, NOUN 
+beam, NOUN 
+1, NUM 
+
+, SPACE 
+3, NUM 
+represent, VERB 
+data, NOUN 
+initial, ADJ 
+defects, NOUN 
+2, NUM 
+represents, VERB 
+data, NOUN 
+secondary, ADJ 
+defects, NOUN 
+Data, NOUN 
+1, NUM 
+2, NUM 
+obtained, VERB 
+25O”C, NUM 
+
+, SPACE 
+data, NOUN 
+3, NUM 
+obtained, VERB 
+350, NUM 
+°, NUM 
+C, NOUN 
+b, X 
+rate, NOUN 
+creation, NOUN 
+initial, ADJ 
+defects, NOUN 
+given, VERB 
+250, NUM 
+2, NUM 
+350, NUM 
+°, NUM 
+C, NOUN 
+1, NUM 
+
+, SPACE 
+L., PROPN 
+Fedina, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Insrr, PROPN 
+Merh, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+112, NUM 
+1996, NUM 
+133, NUM 
+138, NUM 
+135, NUM 
+
+, SPACE 
+Fig, PROPN 
+3, NUM 
+Formation, NOUN 
+secondary, ADJ 
+defects, NOUN 
+central, ADJ 
+
+, SPACE 
+ecm-, X 
+s-, X 
+6, NUM 
+16, NUM 
+min, NOUN 
+b, NOUN 
+
+, SPACE 
+dislocation, NOUN 
+gliding, VERB 
+core, NOUN 
+Frank, PROPN 
+dislocation, NOUN 
+
+, SPACE 
+defect, NOUN 
+appears, VERB 
+classical, ADJ 
+stacking, NOUN 
+fault, NOUN 
+tetrahedron, NOUN 
+
+, SPACE 
+vacancy, NOUN 
+type, NOUN 
+plane, NOUN 
+prismatic, ADJ 
+vacancy, NOUN 
+
+, SPACE 
+defects, VERB 
+perpendicular, ADJ 
+110, NUM 
+surface, NOUN 
+specimen, NOUN 
+
+, SPACE 
+Fig, PROPN 
+5b, PROPN 
+reveals, VERB 
+undissociated, ADJ 
+vacancy, NOUN 
+Frank, PROPN 
+loop, NOUN 
+
+, SPACE 
+interconnected, VERB 
+interstitial, ADJ 
+cluster, NOUN 
+close, ADV 
+
+, SPACE 
+core, NOUN 
+dislocation, NOUN 
+type, NOUN 
+defect, NOUN 
+11, NUM 
+l, NOUN 
+
+, SPACE 
+plane, NOUN 
+prolonged, VERB 
+irradiation, NOUN 
+30, NUM 
+min, NOUN 
+
+, SPACE 
+found, VERB 
+thicker, ADJ 
+irradiated, VERB 
+areas, NOUN 
+Fig, PROPN 
+6a, NUM 
+
+, SPACE 
+HREM, NOUN 
+images, NOUN 
+defects, NOUN 
+distinguish, VERB 
+
+, SPACE 
+vacancy, NOUN 
+defects, NOUN 
+thinnest, ADJ 
+irradiated, VERB 
+area, NOUN 
+small, ADJ 
+
+, SPACE 
+distortions, NOUN 
+111, NUM 
+planes, NOUN 
+parallel, ADJ 
+defect, NOUN 
+plane, NOUN 
+
+, SPACE 
+observed, VERB 
+enabling, VERB 
+determination, NOUN 
+type, NOUN 
+
+, SPACE 
+defects, NOUN 
+HREM, NOUN 
+images, NOUN 
+images, NOUN 
+reveal, VERB 
+regu-, NOUN 
+
+, SPACE 
+lar, ADJ 
+sequences, NOUN 
+complicated, ADJ 
+configurations, NOUN 
+black, ADJ 
+
+, SPACE 
+white, ADJ 
+dots, NOUN 
+seen, VERB 
+Fig, PROPN 
+6a, NOUN 
+defects, NOUN 
+
+, SPACE 
+connected, VERB 
+113, NUM 
+defects, NOUN 
+irradiated, ADJ 
+area, NOUN 
+Irradiation, NOUN 
+conditions, NOUN 
+250, NUM 
+°, NUM 
+C, NOUN 
+
+, SPACE 
+4, X 
+Discussion, NOUN 
+
+, SPACE 
+results, NOUN 
+reported, VERB 
+reveal, VERB 
+vacancy, NOUN 
+accumula-, NOUN 
+
+, SPACE 
+tion, NOUN 
+FZ, PROPN 
+Si, PROPN 
+crystals, NOUN 
+covered, VERB 
+Si, PROPN 
+N, PROPN 
+films, NOUN 
+
+, SPACE 
+irradiation, NOUN 
+high, ADJ 
+intensity, NOUN 
+electron, NOUN 
+beam, NOUN 
+tempera-, ADJ 
+
+, SPACE 
+tures, NOUN 
+ranging, VERB 
+20, NUM 
+250, NUM 
+°, NUM 
+C, NOUN 
+leads, VERB 
+suppres-, ADJ 
+
+, SPACE 
+sion, NOUN 
+creation, NOUN 
+interstitial, ADJ 
+clusters, NOUN 
+continued, ADJ 
+
+, SPACE 
+irradiation, NOUN 
+vacancy, NOUN 
+clusters, NOUN 
+formed, VERB 
+shape, NOUN 
+
+, SPACE 
+stacking, VERB 
+fault, NOUN 
+tetrahedra, NOUN 
+separated, VERB 
+undissociated, ADJ 
+Frank, PROPN 
+
+, SPACE 
+loops, NOUN 
+decrease, NOUN 
+creation, NOUN 
+rate, NOUN 
+interstitial, ADJ 
+
+, SPACE 
+clusters, NOUN 
+increasing, VERB 
+intensity, NOUN 
+irradiation, NOUN 
+gives, VERB 
+
+, SPACE 
+evidence, NOUN 
+conclude, VERB 
+free, ADJ 
+vacancies, NOUN 
+accumulate, VERB 
+
+, SPACE 
+high, ADJ 
+intensity, NOUN 
+pure, ADJ 
+FZ, PROPN 
+Si, PROPN 
+dissolve, VERB 
+nuclei, NOUN 
+
+, SPACE 
+interstitial, ADJ 
+clusters, NOUN 
+appearance, NOUN 
+
+, SPACE 
+prolonged, VERB 
+irradiation, NOUN 
+accumulation, NOUN 
+free, ADJ 
+
+, SPACE 
+vacancies, NOUN 
+leads, VERB 
+formation, NOUN 
+vacancy, NOUN 
+clusters, NOUN 
+
+, SPACE 
+thinnest, ADJ 
+irradiated, VERB 
+crystal, NOUN 
+form, NOUN 
+stack-, PROPN 
+
+, SPACE 
+Fig, PROPN 
+4, NUM 
+Dark, ADJ 
+field, NOUN 
+electron, NOUN 
+micrographs, NOUN 
+secondary, ADJ 
+defects, NOUN 
+
+, SPACE 
+Irradiation, PROPN 
+conditions, NOUN 
+Fig, PROPN 
+3, NUM 
+45, NUM 
+min, NOUN 
+specimen, NOUN 
+areas, NOUN 
+thicknesses, NOUN 
+120, NUM 
+360, NUM 
+nm, NOUN 
+b, NOUN 
+
+, SPACE 
+VI, PROPN 
+SILICON, PROPN 
+DEFECTS, NOUN 
+DAMAGE, NOUN 
+
+, SPACE 
+136, NUM 
+L., PROPN 
+Fedina, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+112, NUM 
+1996, NUM 
+133, NUM 
+138, NUM 
+
+, SPACE 
+ing, ADJ 
+fault, NOUN 
+tetrahedra, NOUN 
+SIT, PROPN 
+strain, NOUN 
+
+, SPACE 
+interface, NOUN 
+Si, PROPN 
+Si, PROPN 
+N, PROPN 
+play, VERB 
+important, ADJ 
+role, NOUN 
+
+, SPACE 
+relaxation, NOUN 
+deformed, VERB 
+crystal, PROPN 
+area, NOUN 
+Frank, PROPN 
+
+, SPACE 
+dislocation, NOUN 
+core, NOUN 
+assume, VERB 
+strain, NOUN 
+promotes, VERB 
+
+, SPACE 
+formation, NOUN 
+gliding, VERB 
+Shockley, PROPN 
+dislocation, NOUN 
+
+, SPACE 
+stacking, VERB 
+fault, NOUN 
+energy, NOUN 
+Si, PROPN 
+high, ADJ 
+mecha-, ADJ 
+
+, SPACE 
+nism, NOUN 
+formation, NOUN 
+Sfl, PROPN 
+known, VERB 
+metals, NOUN 
+51, NUM 
+
+, SPACE 
+realised, VERB 
+reports, NOUN 
+SFT, PROPN 
+Si, PROPN 
+
+, SPACE 
+concern, VERB 
+formation, NOUN 
+Sfl, PROPN 
+silicon, NOUN 
+
+, SPACE 
+layer, NOUN 
+surface, NOUN 
+amorphous, ADJ 
+buried, VERB 
+layer, NOUN 
+complicated, ADJ 
+behaviour, NOUN 
+vacancy, NOUN 
+clus-, NOUN 
+
+, SPACE 
+ters, NOUN 
+occurs, VERB 
+thicker, ADJ 
+irradiated, VERB 
+areas, NOUN 
+con-, NUM 
+
+, SPACE 
+centration, NOUN 
+interstitials, NOUN 
+higher, ADJ 
+process, NOUN 
+
+, SPACE 
+point, NOUN 
+defect, ADJ 
+recombination, NOUN 
+strong, ADJ 
+recently, ADV 
+
+, SPACE 
+found, VERB 
+interstitial, ADJ 
+atoms, NOUN 
+located, VERB 
+11, NUM 
+l, NOUN 
+atomic, ADJ 
+
+, SPACE 
+plane, NOUN 
+metastable, ADJ 
+intermediate, ADJ 
+configuration, NOUN 
+
+, SPACE 
+interact, VERB 
+core, NOUN 
+interstitial, ADJ 
+Frank, PROPN 
+dislocation, NOUN 
+9, NUM 
+
+, SPACE 
+basis, NOUN 
+HREM, NOUN 
+images, NOUN 
+atomic, ADJ 
+model, NOUN 
+
+, SPACE 
+transformed, VERB 
+dislocation, NOUN 
+core, NOUN 
+developed, VERB 
+including, VERB 
+
+, SPACE 
+regular, ADJ 
+sequence, NOUN 
+double, ADJ 
+membered, VERB 
+rings, NOUN 
+
+, SPACE 
+single, ADJ 
+membered, VERB 
+atomic, ADJ 
+rings, NOUN 
+illustrated, VERB 
+Fig, PROPN 
+
+, SPACE 
+Fig, PROPN 
+5, NUM 
+HREM, NOUN 
+images, NOUN 
+different, ADJ 
+vacancy, NOUN 
+type, NOUN 
+defects, NOUN 
+FZ, PROPN 
+Si, PROPN 
+formed, VERB 
+situ, PROPN 
+electron, NOUN 
+irradiation, NOUN 
+SFT, PROPN 
+b, NOUN 
+isolated, VERB 
+Frank, PROPN 
+loops, NOUN 
+
+, SPACE 
+interco, PROPN 
+~, PROPN 
+ected, VERB 
+interstitial, ADJ 
+type, NOUN 
+defects, NOUN 
+arrow, ADV 
+c, X 
+high, ADJ 
+magnification, NOUN 
+SFT, PROPN 
+single, ADJ 
+arrow, NOUN 
+shows, VERB 
+prismatic, ADJ 
+vacancy, NOUN 
+loop, NOUN 
+double, ADJ 
+
+, SPACE 
+arrow, NOUN 
+shows, VERB 
+Shockley, PROPN 
+dislocation, NOUN 
+d, X 
+structural, ADJ 
+model, NOUN 
+SW, PROPN 
+
+, SPACE 
+L., PROPN 
+Fedina, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+112, NUM 
+1996, NUM 
+133, NUM 
+138, NUM 
+137, NUM 
+
+, SPACE 
+6b-6e, NOUN 
+comparison, NOUN 
+HREM, NOUN 
+images, NOUN 
+
+, SPACE 
+defects, NOUN 
+111, NUM 
+plane, NOUN 
+shown, VERB 
+Fig, PROPN 
+6a, NOUN 
+
+, SPACE 
+transformed, VERB 
+core, NOUN 
+Frank, PROPN 
+dislocation, NOUN 
+Fig, PROPN 
+6b, NUM 
+
+, SPACE 
+assume, VERB 
+core, NOUN 
+vacancy, NOUN 
+Frank, PROPN 
+dislocation, NOUN 
+
+, SPACE 
+interact, VERB 
+interstitial, ADJ 
+atoms, NOUN 
+process, NOUN 
+
+, SPACE 
+lead, VERB 
+filling, NOUN 
+plane, NOUN 
+vacancy, NOUN 
+loops, NOUN 
+
+, SPACE 
+interstitials, NOUN 
+having, VERB 
+similar, ADJ 
+configuration, NOUN 
+core, NOUN 
+
+, SPACE 
+interstitial, ADJ 
+Frank, PROPN 
+dislocation, NOUN 
+Fig, PROPN 
+6e, NUM 
+
+, SPACE 
+time, NOUN 
+interaction, NOUN 
+interstitials, NOUN 
+stable, ADJ 
+vacancy, NOUN 
+
+, SPACE 
+loops, NOUN 
+lead, VERB 
+compensation, NOUN 
+strain, NOUN 
+
+, SPACE 
+vacancy, NOUN 
+loops, NOUN 
+formation, NOUN 
+new, ADJ 
+configura-, NOUN 
+
+, SPACE 
+tion, NOUN 
+interstitial, ADJ 
+atoms, NOUN 
+111, NUM 
+planes, NOUN 
+
+, SPACE 
+recombination, NOUN 
+extended, VERB 
+defects, NOUN 
+assumption, NOUN 
+
+, SPACE 
+agrees, VERB 
+low, ADJ 
+probability, NOUN 
+insertion, NOUN 
+inter-, ADJ 
+stitial, ADJ 
+atoms, NOUN 
+lattice, NOUN 
+points, NOUN 
+dislocation, NOUN 
+loop, NOUN 
+
+, SPACE 
+planes, NOUN 
+energy, NOUN 
+barrier, NOUN 
+low, ADJ 
+temperatures, NOUN 
+lo, X 
+
+, SPACE 
+reason, NOUN 
+interstitial, ADJ 
+atoms, NOUN 
+form, VERB 
+metastable, ADJ 
+
+, SPACE 
+intermediate, ADJ 
+configuration, NOUN 
+different, ADJ 
+planes, NOUN 
+ob-, NOUN 
+
+, SPACE 
+served, VERB 
+
+, SPACE 
+5, X 
+Conclusion, NOUN 
+
+, SPACE 
+situ, ADJ 
+high, ADJ 
+voltage, NOUN 
+high, ADJ 
+resolution, NOUN 
+electron, NOUN 
+mi-, X 
+
+, SPACE 
+croscopy, NOUN 
+FZ, PROPN 
+Si, PROPN 
+specimens, NOUN 
+gives, VERB 
+rise, NOUN 
+characteristic, ADJ 
+
+, SPACE 
+secondary, ADJ 
+defects, NOUN 
+vacancy, NOUN 
+interstitial, ADJ 
+type, NOUN 
+
+, SPACE 
+probably, ADV 
+related, VERB 
+vacancy, NOUN 
+clustering, NOUN 
+
+, SPACE 
+prolonged, VERB 
+irradiation, NOUN 
+temperatures, NOUN 
+250, NUM 
+°, NUM 
+C, NOUN 
+Va-, X 
+
+, SPACE 
+cancy, NOUN 
+accumulation, NOUN 
+leads, VERB 
+formation, NOUN 
+stacking, VERB 
+fault, NOUN 
+
+, SPACE 
+Fig, PROPN 
+6, NUM 
+HREM, NOUN 
+images, NOUN 
+interstitial, ADJ 
+type, NOUN 
+defects, NOUN 
+formed, VERB 
+111, NUM 
+plane, NOUN 
+single, ADJ 
+arrow, NOUN 
+113, NUM 
+plane, NOUN 
+double, ADJ 
+arrow, NOUN 
+I%-%, PROPN 
+
+, SPACE 
+transformation, NOUN 
+dislocation, NOUN 
+conz, NOUN 
+pre, ADJ 
+existing, ADJ 
+Frank, PROPN 
+partial, ADJ 
+b, NOUN 
+situ, PROPN 
+electron, NOUN 
+irradiation, NOUN 
+HREM, PROPN 
+room, NOUN 
+
+, SPACE 
+temperature, NOUN 
+Calculated, VERB 
+c, NOUN 
+experimentally, ADV 
+observed, VERB 
+d, X 
+HREM, NOUN 
+images, NOUN 
+transformed, VERB 
+core, NOUN 
+e, NOUN 
+structural, ADJ 
+model, NOUN 
+
+, SPACE 
+superimposed, VERB 
+experimental, ADJ 
+image, NOUN 
+191, NUM 
+
+, SPACE 
+VI, PROPN 
+SILICON, PROPN 
+DEFECTS, NOUN 
+/DAMAGE, PUNCT 
+
+, SPACE 
+138, NUM 
+L., PROPN 
+Fedina, PROPN 
+et, PROPN 
+al./Nucl, PROPN 
+Instr, PROPN 
+Meth, PROPN 
+Phys, PROPN 
+Res, PROPN 
+B, PROPN 
+I12, PROPN 
+1996, NUM 
+133, NUM 
+138, NUM 
+
+, SPACE 
+tetrahedra, PROPN 
+separated, VERB 
+Frank, PROPN 
+loops, NOUN 
+thinnest, ADJ 
+
+, SPACE 
+irradiated, VERB 
+area, NOUN 
+thicker, ADJ 
+irradiated, VERB 
+area, NOUN 
+
+, SPACE 
+interaction, NOUN 
+interstitials, NOUN 
+stable, ADJ 
+vacancy, NOUN 
+loops, NOUN 
+
+, SPACE 
+lead, VERB 
+formation, NOUN 
+new, ADJ 
+configurations, NOUN 
+inter-, ADJ 
+
+, SPACE 
+stitials, NOUN 
+plane, NOUN 
+vacancy, NOUN 
+loops, NOUN 
+vacancy, NOUN 
+
+, SPACE 
+clusters, NOUN 
+act, VERB 
+nucleation, NOUN 
+centres, NOUN 
+sec-, ADJ 
+
+, SPACE 
+ondary, ADJ 
+interstitial, ADJ 
+type, NOUN 
+defects, NOUN 
+
+, SPACE 
+Acknowledgements, NOUN 
+
+, SPACE 
+authors, NOUN 
+like, VERB 
+thank, VERB 
+Dr., PROPN 
+A., NOUN 
+Gutakovski, PROPN 
+
+, SPACE 
+valuable, ADJ 
+discussions, NOUN 
+assistance, NOUN 
+experiments, NOUN 
+
+, SPACE 
+high, ADJ 
+resolution, NOUN 
+electron, NOUN 
+microscopy, NOUN 
+Novosibirsk, PROPN 
+
+, SPACE 
+L.F., PROPN 
+grateful, ADJ 
+research, NOUN 
+fellowship, NOUN 
+
+, SPACE 
+Belgian, PROPN 
+Federal, PROPN 
+Office, PROPN 
+Scientific, PROPN 
+Technical, PROPN 
+
+, SPACE 
+Cultural, PROPN 
+Affairs, PROPN 
+J.V.L, PROPN 
+J.V, PROPN 
+gratefully, ADV 
+acknowledge, VERB 
+
+, SPACE 
+financial, ADJ 
+support, NOUN 
+Belgian, PROPN 
+National, PROPN 
+Science, PROPN 
+
+, SPACE 
+Foundation, PROPN 
+NFWO, PROPN 
+References, NOUN 
+
+, SPACE 
+l, X 
+A., PROPN 
+Aseev, PROPN 
+L., PROPN 
+Fedina, PROPN 
+D., PROPN 
+Hoehl, PROPN 
+H., PROPN 
+Barsch, PROPN 
+Clusters, PROPN 
+
+, SPACE 
+Interstitial, PROPN 
+Atoms, PROPN 
+Si, PROPN 
+Ge, PROPN 
+Academy, PROPN 
+Berlin, PROPN 
+1994, NUM 
+
+, SPACE 
+21, NUM 
+R., PROPN 
+Oshima, PROPN 
+G.C., PROPN 
+Hua, PROPN 
+Ultramicroscopy, PROPN 
+39, NUM 
+1991, NUM 
+160, NUM 
+
+, SPACE 
+3, X 
+M., PROPN 
+Kuwabara, PROPN 
+H., PROPN 
+Endoh, PROPN 
+Y., PROPN 
+Tsubokawa, PROPN 
+H., PROPN 
+Hashimoto, PROPN 
+Y., PROPN 
+
+, SPACE 
+Yokota, PROPN 
+R., PROPN 
+Shimuzi, PROPN 
+Situ, PROPN 
+Experiments, NOUN 
+HVEM, PROPN 
+
+, SPACE 
+ed, NOUN 
+H., PROPN 
+Fujita, PROPN 
+Osaka, PROPN 
+University, PROPN 
+Osaka, PROPN 
+1985, NUM 
+p., NOUN 
+433, NUM 
+
+, SPACE 
+4, X 
+M., PROPN 
+Hirata, PROPN 
+M., PROPN 
+Kiritani, PROPN 
+Physica, PROPN 
+B, PROPN 
+116, NUM 
+1983, NUM 
+616, NUM 
+
+, SPACE 
+5, X 
+J., PROPN 
+Silcox, PROPN 
+P.B., PROPN 
+Hirsch, PROPN 
+Philos, PROPN 
+Mag, PROPN 
+4, NUM 
+1958, NUM 
+72, NUM 
+
+, SPACE 
+6, NUM 
+D.K., PROPN 
+Sadana, PROPN 
+1, NUM 
+Washburn, PROPN 
+Philos, PROPN 
+Mag, PROPN 
+B, NOUN 
+46, NUM 
+19821, NUM 
+
+, SPACE 
+611, NUM 
+
+, SPACE 
+7, X 
+W., PROPN 
+Coene, PROPN 
+H., PROPN 
+Bender, PROPN 
+S., PROPN 
+Amelinkx, PROPN 
+Philos, PROPN 
+Mag, PROPN 
+52, NUM 
+
+, SPACE 
+1985, NUM 
+369, NUM 
+
+, SPACE 
+8, X 
+G., PROPN 
+Nabert, PROPN 
+H.-U., NOUN 
+Habermeier, PROPN 
+Appl, PROPN 
+Phys, NOUN 
+Lett, PROPN 
+58, NUM 
+1991, NUM 
+
+, SPACE 
+1074, NUM 
+
+, SPACE 
+9, X 
+L., PROPN 
+Fedina, PROPN 
+A., NOUN 
+Gutakovski, PROPN 
+A., PROPN 
+Chuvilin, PROPN 
+ICEM-13, NOUN 
+2A, PROPN 
+
+, SPACE 
+1994, NUM 
+99, NUM 
+
+, SPACE 
+lo, X 
+L., PROPN 
+Fedina, PROPN 
+A., PROPN 
+Aseev, PROPN 
+Phys, PROPN 
+Status, PROPN 
+Solidi, PROPN 
+al, PROPN 
+95, NUM 
+1986, NUM 
+
+, SPACE 
+517, NUM 
+
+, SPACE 

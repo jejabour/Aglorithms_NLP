@@ -1,0 +1,5034 @@
+Bone, PROPN 
+Vol, PROPN 
+21, NUM 
+3, NUM 
+
+, SPACE 
+September, PROPN 
+1997:281, NUM 
+287, NUM 
+
+, SPACE 
+ELSEVIER, NOUN 
+
+, SPACE 
+Dimensional, PROPN 
+Imaging, PROPN 
+Trabecular, PROPN 
+Bone, PROPN 
+
+, SPACE 
+Computer, PROPN 
+Numerically, PROPN 
+Controlled, PROPN 
+Milling, PROPN 
+Technique, PROPN 
+
+, SPACE 
+J., PROPN 
+D., PROPN 
+BECK, PROPN 
+1, NUM 
+B., PROPN 
+L., PROPN 
+CANFIELD, PROPN 
+l, PRON 
+S., PROPN 
+M., PROPN 
+HADDOCK, PROPN 
+1, NUM 
+T., PROPN 
+J., PROPN 
+H., PROPN 
+CHEN, PROPN 
+1, NUM 
+M., PROPN 
+KOTHARI, PROPN 
+2, NUM 
+
+, SPACE 
+T., PROPN 
+M., PROPN 
+KEAVENY, PROPN 
+1'3, NUM 
+
+, SPACE 
+Orthopaedic, PROPN 
+Biomechanics, PROPN 
+Laboratory, PROPN 
+Department, PROPN 
+Mechanical, PROPN 
+Engineering, PROPN 
+University, PROPN 
+California, PROPN 
+Berkeley, PROPN 
+USA, PROPN 
+
+, SPACE 
+Departments, PROPN 
+2, NUM 
+Radiology, PROPN 
+3, NUM 
+Orthopaedic, PROPN 
+Surgery, PROPN 
+University, PROPN 
+California, PROPN 
+San, PROPN 
+Francisco, PROPN 
+USA, PROPN 
+
+, SPACE 
+techniques, NOUN 
+exist, VERB 
+high, ADJ 
+resolution, NOUN 
+three-, VERB 
+
+, SPACE 
+dimensional, ADJ 
+imaging, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+common, ADJ 
+limita-, ADJ 
+
+, SPACE 
+tion, NOUN 
+resolution, NOUN 
+depends, VERB 
+specimen, NOUN 
+size, NOUN 
+tech-, NOUN 
+
+, SPACE 
+niques, NOUN 
+limited, VERB 
+availability, NOUN 
+expense, NOUN 
+
+, SPACE 
+complexity, NOUN 
+developed, VERB 
+simple, ADJ 
+accurate, ADJ 
+tech-, PROPN 
+
+, SPACE 
+nique, NOUN 
+resolution, NOUN 
+independent, ADJ 
+specimen, NOUN 
+
+, SPACE 
+size, NOUN 
+Thin, ADJ 
+layers, NOUN 
+serially, ADV 
+removed, VERB 
+embedded, VERB 
+
+, SPACE 
+bone, NOUN 
+specimen, NOUN 
+computer, NOUN 
+numerically, ADV 
+controlled, VERB 
+
+, SPACE 
+CNC, PROPN 
+milling, NOUN 
+machine, NOUN 
+exposed, VERB 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+imaged, VERB 
+low, ADJ 
+magnification, NOUN 
+digital, ADJ 
+camera, NOUN 
+Precise, ADJ 
+
+, SPACE 
+positioning, NOUN 
+specimen, NOUN 
+camera, NOUN 
+achieved, VERB 
+
+, SPACE 
+programmable, ADJ 
+feature, NOUN 
+CNC, PROPN 
+milling, NOUN 
+machine, NOUN 
+
+, SPACE 
+Large, ADJ 
+specimens, NOUN 
+imaged, VERB 
+loss, NOUN 
+resolution, NOUN 
+
+, SPACE 
+moving, VERB 
+specimen, NOUN 
+camera, NOUN 
+array, NOUN 
+
+, SPACE 
+field, NOUN 
+views, NOUN 
+spans, NOUN 
+cross, NOUN 
+section, NOUN 
+images, NOUN 
+
+, SPACE 
+field, NOUN 
+view, NOUN 
+alre, AUX 
+easily, ADV 
+assembled, VERB 
+registered, VERB 
+
+, SPACE 
+postprocessing, NOUN 
+Higll, ADJ 
+contrast, NOUN 
+sections, NOUN 
+achieved, VERB 
+stain-, ADV 
+
+, SPACE 
+ing, VERB 
+bone, NOUN 
+black, NOUN 
+silver, NOUN 
+nitrate, NOUN 
+embedding, VERB 
+
+, SPACE 
+whitened, VERB 
+methylmethacrylate, NOUN 
+high, ADJ 
+contrast, NOUN 
+na-, ADJ 
+
+, SPACE 
+ture, NOUN 
+high, ADJ 
+resolution, NOUN 
+images, NOUN 
+thresholding, VERB 
+
+, SPACE 
+single, ADJ 
+value, NOUN 
+yielded, VERB 
+excellent, ADJ 
+predictions, NOUN 
+morphological, ADJ 
+
+, SPACE 
+parameters, NOUN 
+bone, NOUN 
+volume, NOUN 
+fraction, NOUN 
+mean, PROPN 
+SD, NOUN 
+per-, NOUN 
+
+, SPACE 
+cent, NOUN 
+error, NOUN 
+=, NOUN 
+0.70, NUM 
++, NUM 
+4.28, NUM 
+main, ADJ 
+limitations, NOUN 
+fully, ADV 
+
+, SPACE 
+automated, VERB 
+CNC, PROPN 
+milling, NOUN 
+technique, NOUN 
+specimen, NOUN 
+
+, SPACE 
+destroyed, VERB 
+process, NOUN 
+relatively, ADV 
+slow, ADJ 
+be-, NOUN 
+
+, SPACE 
+cause, NOUN 
+accuracy, NOUN 
+independence, NOUN 
+image, NOUN 
+resolution, NOUN 
+
+, SPACE 
+specimen, NOUN 
+size, NOUN 
+ease, NOUN 
+implementation, NOUN 
+new, ADJ 
+tech-, ADJ 
+
+, SPACE 
+nique, NOUN 
+excellent, ADJ 
+method, NOUN 
+ex, PROPN 
+situ, NOUN 
+imaging, NOUN 
+trabecular, ADJ 
+
+, SPACE 
+architecture, NOUN 
+particularly, ADV 
+high, ADJ 
+resolution, NOUN 
+required, VERB 
+
+, SPACE 
+Bone, NOUN 
+21:281, NUM 
+287, NUM 
+1997, NUM 
+©, NOUN 
+1997, NUM 
+Elsevier, ADJ 
+Science, PROPN 
+Inc., PROPN 
+
+, SPACE 
+rights, NOUN 
+reserved, VERB 
+
+, SPACE 
+Key, PROPN 
+Words, NOUN 
+Bone, NOUN 
+architecture, NOUN 
+Cancellous, ADJ 
+bone, NOUN 
+Histomor-, PROPN 
+
+, SPACE 
+phometry, NOUN 
+Imaging, PROPN 
+dimensional, ADJ 
+Trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+Introduction, PROPN 
+
+, SPACE 
+High, ADJ 
+resolution, NOUN 
+dimensional, ADJ 
+imaging, VERB 
+techniques, NOUN 
+cur-, ADV 
+
+, SPACE 
+rently, ADV 
+investigate, VERB 
+effects, NOUN 
+osteoporosis, NOUN 
+aging, NOUN 
+
+, SPACE 
+disease, NOUN 
+drug, NOUN 
+treatment, NOUN 
+bone, NOUN 
+remodeling, NOUN 
+trabecular, ADJ 
+
+, SPACE 
+architecture, NOUN 
+3,5,7,1, NUM 
+°, NUM 
+,11'16'17, PUNCT 
+imaging, VERB 
+techniques, NOUN 
+typically, ADV 
+
+, SPACE 
+Address, PROPN 
+correspondence, NOUN 
+reprints, NOUN 
+Tony, PROPN 
+M., PROPN 
+Keaveny, PROPN 
+Ph.D., PROPN 
+
+, SPACE 
+6175, NUM 
+Etcheverry, PROPN 
+Hall, PROPN 
+University, PROPN 
+California, PROPN 
+Berkeley, PROPN 
+94720-, PROPN 
+
+, SPACE 
+1740, NUM 
+E, NOUN 
+mail, NOUN 
+tmk@euler.me.berkeley.edu, PROPN 
+resolutions, NOUN 
+20, NUM 
+150, NUM 
+Ixm, PROPN 
+1, NUM 
+cm, NOUN 
+3, NUM 
+region, NOUN 
+
+, SPACE 
+generated, VERB 
+methods, NOUN 
+microcomputed, VERB 
+tomography, NOUN 
+
+, SPACE 
+micro, NOUN 
+CT"l'4'll, NOUN 
+high, ADJ 
+resolution, NOUN 
+magnetic, ADJ 
+resonance, NOUN 
+imag-, ADP 
+
+, SPACE 
+ing, PROPN 
+micro, NOUN 
+MRI"2'9A3, ADJ 
+serial, NOUN 
+sectioning, VERB 
+direct, ADJ 
+light, NOUN 
+
+, SPACE 
+imagingJ, NOUN 
+4"15, NUM 
+method, NOUN 
+particular, ADJ 
+advantages, NOUN 
+
+, SPACE 
+common, ADJ 
+limitation, NOUN 
+maximum, ADJ 
+image, NOUN 
+resolution, NOUN 
+
+, SPACE 
+constrained, VERB 
+specimen, NOUN 
+size, NOUN 
+different, ADJ 
+regions, NOUN 
+
+, SPACE 
+specimen, NOUN 
+imaged, VERB 
+multiple, ADJ 
+sessions, NOUN 
+later, ADV 
+recom-, NOUN 
+
+, SPACE 
+bined, VERB 
+8, NUM 
+specimen, NOUN 
+size, NOUN 
+decreased, VERB 
+image, NOUN 
+resolution, NOUN 
+
+, SPACE 
+increased, VERB 
+Conversely, ADV 
+resolution, NOUN 
+decreased, VERB 
+
+, SPACE 
+directly, ADV 
+imaging, VERB 
+larger, ADJ 
+specimens, NOUN 
+addition, NOUN 
+mi-, ADJ 
+
+, SPACE 
+cro, NOUN 
+CT, NOUN 
+micro, PROPN 
+MRI, PROPN 
+require, VERB 
+relatively, ADV 
+expensive, ADJ 
+equipment, NOUN 
+
+, SPACE 
+substantial, ADJ 
+postprocessing, NOUN 
+raw, ADJ 
+data, NOUN 
+factors, NOUN 
+limit, VERB 
+
+, SPACE 
+availability, NOUN 
+techniques, NOUN 
+general, ADJ 
+research, NOUN 
+community, NOUN 
+
+, SPACE 
+describe, VERB 
+new, ADJ 
+technique, NOUN 
+based, VERB 
+serial, ADJ 
+sectioning, NOUN 
+
+, SPACE 
+technique,14'15, NOUN 
+generating, VERB 
+high, ADJ 
+resolution, NOUN 
+dimensional, ADJ 
+
+, SPACE 
+models, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+image, NOUN 
+resolution, NOUN 
+indepen-, NOUN 
+
+, SPACE 
+dent, NOUN 
+specimen, NOUN 
+size, NOUN 
+method, NOUN 
+produces, VERB 
+accurate, ADJ 
+images, NOUN 
+
+, SPACE 
+requires, VERB 
+minimal, ADJ 
+postprocessing, NOUN 
+relatively, ADV 
+simple, ADJ 
+inex-, ADJ 
+
+, SPACE 
+pensive, ADJ 
+implement, VERB 
+fully, ADV 
+automated, VERB 
+described, VERB 
+
+, SPACE 
+follows, VERB 
+CNC, PROPN 
+milling, NOUN 
+technique, NOUN 
+destroys, VERB 
+
+, SPACE 
+specimen, NOUN 
+imaging, NOUN 
+unique, ADJ 
+advantages, NOUN 
+justify, VERB 
+
+, SPACE 
+use, NOUN 
+ex, NOUN 
+situ, NOUN 
+studies, NOUN 
+trabecular, ADJ 
+architecture, NOUN 
+particularly, ADV 
+
+, SPACE 
+high, ADJ 
+resolution, NOUN 
+required, VERB 
+
+, SPACE 
+Materials, PROPN 
+Methods, PROPN 
+
+, SPACE 
+overall, ADJ 
+strategy, NOUN 
+serially, ADV 
+remove, VERB 
+thin, ADJ 
+layers, NOUN 
+
+, SPACE 
+embedded, VERB 
+high, ADJ 
+contrast, NOUN 
+specimen, NOUN 
+computer, NOUN 
+numerically, ADV 
+
+, SPACE 
+controlled, VERB 
+CNC, PROPN 
+milling, NOUN 
+machine, NOUN 
+capturing, VERB 
+high, ADJ 
+resolu-, NOUN 
+
+, SPACE 
+tion, NOUN 
+digital, ADJ 
+images, NOUN 
+layer, NOUN 
+low, ADJ 
+magnification, NOUN 
+lens, NOUN 
+
+, SPACE 
+digital, ADJ 
+camera, NOUN 
+Figure, PROPN 
+la, PROPN 
+technique, NOUN 
+consists, VERB 
+
+, SPACE 
+phases, NOUN 
+specimen, NOUN 
+preparation, NOUN 
+automated, VERB 
+CNC, PROPN 
+milling, NOUN 
+
+, SPACE 
+image, NOUN 
+capture, NOUN 
+image, NOUN 
+processing, NOUN 
+
+, SPACE 
+Specimen, PROPN 
+preparation, NOUN 
+consists, VERB 
+cleaning, VERB 
+bone, NOUN 
+staining, VERB 
+
+, SPACE 
+black, ADJ 
+embedding, VERB 
+white, ADJ 
+polymer, NOUN 
+matrix, NOUN 
+
+, SPACE 
+produces, VERB 
+high, ADJ 
+contrast, NOUN 
+embedded, VERB 
+specimen, NOUN 
+black, ADJ 
+bone, NOUN 
+white, ADJ 
+
+, SPACE 
+polymer, NOUN 
+eventually, ADV 
+yields, VERB 
+images, NOUN 
+simple, ADJ 
+
+, SPACE 
+threshold, NOUN 
+subsequent, ADJ 
+morphologic, ADJ 
+analysis, NOUN 
+dimen-, NUM 
+
+, SPACE 
+sional, ADJ 
+rendering, NOUN 
+describe, VERB 
+process, NOUN 
+developed, VERB 
+
+, SPACE 
+8, NUM 
+mm, NOUN 
+diameter, NOUN 
+10, NUM 
+ram, VERB 
+long, ADJ 
+cylindrical, ADJ 
+specimens, NOUN 
+trabecular, ADJ 
+
+, SPACE 
+bone, NOUN 
+similar, ADJ 
+techniques, NOUN 
+size, NOUN 
+
+, SPACE 
+specimens, NOUN 
+Cleaning, NOUN 
+achieved, VERB 
+gentle, ADJ 
+rinsing, NOUN 
+water, NOUN 
+
+, SPACE 
+jet, NOUN 
+followed, VERB 
+trichloroethylene, NOUN 
+soaking, VERB 
+ultrasound, NOUN 
+agita-, NOUN 
+
+, SPACE 
+tion, NOUN 
+Bransonic, PROPN 
+Branson, PROPN 
+Ultrasonics, PROPN 
+Corp., PROPN 
+Danbury, PROPN 
+CT, PROPN 
+
+, SPACE 
+repeated, VERB 
+times, NOUN 
+ensure, VERB 
+marrow, NOUN 
+removal, NOUN 
+trabec-, DET 
+
+, SPACE 
+ular, ADJ 
+damage, NOUN 
+Cleaning, NOUN 
+larger, ADJ 
+specimens, NOUN 
+
+, SPACE 
+©, ADJ 
+1997, NUM 
+Elsevier, ADJ 
+Science, PROPN 
+Inc., PROPN 
+281, NUM 
+8756, NUM 
+3282/97/$17.00, PROPN 
+rights, NOUN 
+reserved, VERB 
+PII, PROPN 
+$, SYM 
+8756, NUM 
+3282(97)00122, NUM 
+1, NUM 
+
+
+, SPACE 
+282, NUM 
+J.D., PROPN 
+Beck, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, PROPN 
+Vol, PROPN 
+21, NUM 
+3, NUM 
+
+, SPACE 
+Imaging, PROPN 
+trabecular, ADJ 
+bone, NOUN 
+September, PROPN 
+1997:281, NUM 
+287, NUM 
+
+, SPACE 
+
+, SPACE 
+b, PROPN 
+
+, SPACE 
+Figure, PROPN 
+1, NUM 
+Schematic, PROPN 
+CNC, PROPN 
+milling, NOUN 
+imaging, NOUN 
+process, NOUN 
+b, X 
+
+, SPACE 
+detail, NOUN 
+specimen, NOUN 
+ready, ADJ 
+processing, NOUN 
+specimen, NOUN 
+bone, NOUN 
+black, NOUN 
+
+, SPACE 
+held, VERB 
+pneumatic, ADJ 
+grips, NOUN 
+shown, VERB 
+cutting, NOUN 
+process, NOUN 
+
+, SPACE 
+vacuum, NOUN 
+remove, VERB 
+chips, NOUN 
+produced, VERB 
+cutting, VERB 
+
+, SPACE 
+specimen, NOUN 
+moved, VERB 
+air, NOUN 
+jet, NOUN 
+B, PROPN 
+compressed, ADJ 
+air, NOUN 
+cleans, VERB 
+
+, SPACE 
+surface, NOUN 
+residual, ADJ 
+chips, NOUN 
+optional, ADJ 
+UV, NOUN 
+light, NOUN 
+
+, SPACE 
+C, PROPN 
+residual, ADJ 
+silver, NOUN 
+reacted, VERB 
+ensure, VERB 
+complete, ADJ 
+staining, NOUN 
+
+, SPACE 
+bone, NOUN 
+specimen, NOUN 
+finally, ADV 
+moved, VERB 
+CCD, PROPN 
+camera, NOUN 
+lens, NOUN 
+D, PROPN 
+
+, SPACE 
+ring, PROPN 
+illuminator, NOUN 
+E, NOUN 
+image, NOUN 
+capture, NOUN 
+Note, VERB 
+camera, NOUN 
+lens, NOUN 
+
+, SPACE 
+ring, PROPN 
+illuminator, NOUN 
+vacuum, PROPN 
+rigidly, ADV 
+mounted, VERB 
+vertical, ADJ 
+axis, NOUN 
+
+, SPACE 
+mill, NOUN 
+vertical, ADJ 
+distance, NOUN 
+milled, VERB 
+surface, NOUN 
+
+, SPACE 
+specimen, NOUN 
+lens, NOUN 
+constant, ADJ 
+
+, SPACE 
+described, VERB 
+literature, NOUN 
+15, NUM 
+cleaning, NOUN 
+specimens, NOUN 
+
+, SPACE 
+stained, VERB 
+black, ADJ 
+room, NOUN 
+temperature, NOUN 
+immersion, NOUN 
+10, NUM 
+wt, PROPN 
+
+, SPACE 
+silver, PROPN 
+nitrate, ADJ 
+AgNO3, PROPN 
+solution, NOUN 
+20, NUM 
+min, NOUN 
+ultrasound, NOUN 
+
+, SPACE 
+chamber, NOUN 
+24, NUM 
+h, NOUN 
+process, NOUN 
+repeated, VERB 
+
+, SPACE 
+fresh, ADJ 
+solution, NOUN 
+specimens, NOUN 
+rinsed, VERB 
+water, NOUN 
+dried, VERB 
+
+, SPACE 
+air, NOUN 
+jet, NOUN 
+placed, VERB 
+100, NUM 
+ethanol, NOUN 
+exposed, VERB 
+
+, SPACE 
+long, ADJ 
+wave, NOUN 
+UV, NOUN 
+light, NOUN 
+Gates, PROPN 
+UV, NOUN 
+light, NOUN 
+George, PROPN 
+Gates, PROPN 
+Co., PROPN 
+
+, SPACE 
+Franklin, PROPN 
+Square, PROPN 
+NY, PROPN 
+40, NUM 
+rain, NOUN 
+optimal, ADJ 
+exposure, NOUN 
+
+, SPACE 
+glass, NOUN 
+vials, NOUN 
+placed, VERB 
+specimen, NOUN 
+close, ADJ 
+possible, ADJ 
+
+, SPACE 
+UV, NOUN 
+light, NOUN 
+source, NOUN 
+rotated, VERB 
+specimen, NOUN 
+180, NUM 
+°, NOUN 
+long, ADJ 
+
+, SPACE 
+axis, NOUN 
+20, NUM 
+min, NOUN 
+Staining, NOUN 
+occurs, VERB 
+diffusion, NOUN 
+silver, NOUN 
+
+, SPACE 
+nitrate, ADV 
+bone, NOUN 
+substitution, NOUN 
+Ag, PROPN 
+ions, NOUN 
+Ag, PROPN 
+
+, SPACE 
+reduced, VERB 
+UV, NOUN 
+light, NOUN 
+giving, VERB 
+bone, NOUN 
+deep, ADJ 
+black, NOUN 
+matted, VERB 
+
+, SPACE 
+nonreflective, ADJ 
+color, NOUN 
+
+, SPACE 
+staining, VERB 
+specimens, NOUN 
+prepared, VERB 
+embedding, VERB 
+
+, SPACE 
+dehydrated, VERB 
+fresh, ADJ 
+100, NUM 
+ethanol, NOUN 
+24, NUM 
+h, NOUN 
+room, NOUN 
+
+, SPACE 
+temperature, NOUN 
+found, VERB 
+graded, VERB 
+alcohol, NOUN 
+solutions, NOUN 
+
+, SPACE 
+necessary, ADJ 
+process, NOUN 
+repeated, VERB 
+Second, ADV 
+placed, VERB 
+13, NUM 
+
+, SPACE 
+Figure, NOUN 
+2, NUM 
+Typical, ADJ 
+dimensional, ADJ 
+image, NOUN 
+exposed, VERB 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+raw, ADJ 
+image, NOUN 
+obtained, VERB 
+digital, ADJ 
+camera, NOUN 
+B, NOUN 
+
+, SPACE 
+threshold, NOUN 
+image, NOUN 
+bone, NOUN 
+black, NOUN 
+high, ADJ 
+contrast, NOUN 
+black, ADJ 
+white, ADJ 
+
+, SPACE 
+coloring, NOUN 
+embedded, VERB 
+specimen, NOUN 
+uniformity, NOUN 
+lighting, NOUN 
+
+, SPACE 
+provided, VERB 
+ring, NOUN 
+illuminator, NOUN 
+raw, ADJ 
+image, NOUN 
+excellent, ADJ 
+represen-, NOUN 
+
+, SPACE 
+tation, NOUN 
+real, ADJ 
+bone, NOUN 
+microstructure, NOUN 
+single, ADJ 
+threshold, NOUN 
+value, NOUN 
+
+, SPACE 
+postprocessing, VERB 
+
+, SPACE 
+methylmethacrylate, ADJ 
+solution, NOUN 
+15, NUM 
+mixture, NOUN 
+
+, SPACE 
+volume, NOUN 
+white, ADJ 
+pigments, NOUN 
+Tap, NOUN 
+epoxy, NOUN 
+pigmentation, NOUN 
+Tap, PROPN 
+Plastics, PROPN 
+
+, SPACE 
+Corp., PROPN 
+E1, PROPN 
+Cerrito, PROPN 
+degassed, VERB 
+vacuum, NOUN 
+chamber, NOUN 
+20, NUM 
+
+, SPACE 
+min, NOUN 
+degassing, VERB 
+process, NOUN 
+repeated, VERB 
+times, NOUN 
+time, NOUN 
+
+, SPACE 
+replacing, VERB 
+old, ADJ 
+pigmented, VERB 
+methylmethacrylate, NOUN 
+fresh, ADJ 
+
+, SPACE 
+stock, NOUN 
+cycle, NOUN 
+vials, NOUN 
+tightly, ADV 
+capped, VERB 
+placed, VERB 
+
+, SPACE 
+water, NOUN 
+bath, NOUN 
+cured, VERB 
+oven, NOUN 
+35, NUM 
+°, NOUN 
+C, NOUN 
+24, NUM 
+h., NOUN 
+result, NOUN 
+
+, SPACE 
+high, ADJ 
+contrast, NOUN 
+black, ADJ 
+white, ADJ 
+bone, NOUN 
+polymer, NOUN 
+composite, NOUN 
+
+, SPACE 
+curing, VERB 
+specimens, NOUN 
+removed, VERB 
+vials, NOUN 
+
+, SPACE 
+automated, VERB 
+CNC, PROPN 
+milling, NOUN 
+Larger, ADJ 
+specimens, NOUN 
+prepared, VERB 
+
+, SPACE 
+similarly, ADV 
+protocols, NOUN 
+15, NUM 
+found, VERB 
+far, ADV 
+
+, SPACE 
+critical, ADJ 
+step, NOUN 
+embedding, VERB 
+process, NOUN 
+avoiding, VERB 
+air, NOUN 
+
+, SPACE 
+bubbles, NOUN 
+Care, NOUN 
+taken, VERB 
+control, VERB 
+rate, NOUN 
+polymer-, NOUN 
+
+, SPACE 
+ization, NOUN 
+reaction, NOUN 
+particularly, ADV 
+larger, ADJ 
+specimens, NOUN 
+reaction, NOUN 
+
+, SPACE 
+slowed, VERB 
+surrounding, VERB 
+curing, VERB 
+specimen, NOUN 
+water, NOUN 
+
+, SPACE 
+bath, NOUN 
+reducing, VERB 
+ambient, ADJ 
+temperature, NOUN 
+
+, SPACE 
+main, ADJ 
+hardware, NOUN 
+component, NOUN 
+standard, ADJ 
+table, NOUN 
+CNC, PROPN 
+
+, SPACE 
+milling, NOUN 
+machine, NOUN 
+SpectraLite, PROPN 
+0200, NUM 
+Light, PROPN 
+Machines, PROPN 
+Corp., PROPN 
+
+, SPACE 
+Manchester, PROPN 
+NH, PROPN 
+vertical, ADJ 
+axis, NOUN 
+mounted, VERB 
+digital, ADJ 
+
+, SPACE 
+camera, NOUN 
+CCD, PROPN 
+Model, PROPN 
+XC-75, PROPN 
+Sony, PROPN 
+Japan, PROPN 
+low, ADJ 
+magnification, NOUN 
+
+, SPACE 
+lens, NOUN 
+Pan, PROPN 
+Cinor, PROPN 
+1:3,8, NUM 
+f, PROPN 
+=, SYM 
+17, NUM 
+Som, PROPN 
+Berthoit, PROPN 
+France, PROPN 
+ring, NOUN 
+
+, SPACE 
+illuminator, NOUN 
+Lite, PROPN 
+Mite, PROPN 
+ring, NOUN 
+illuminator, NOUN 
+Stocker, PROPN 
+Yale, PROPN 
+Beverly, PROPN 
+
+, SPACE 
+MA, PROPN 
+Figure, NOUN 
+lb, ADV 
+digital, ADJ 
+camera, NOUN 
+connected, VERB 
+personal, ADJ 
+
+, SPACE 
+computer, NOUN 
+PC, NOUN 
+image, NOUN 
+grabber, NOUN 
+board, NOUN 
+Pro256, PROPN 
+Altech, PROPN 
+
+, SPACE 
+Milpitas, PROPN 
+produces, VERB 
+8, NUM 
+bit, NOUN 
+640, NUM 
+×, NOUN 
+480, NUM 
+pixel, ADJ 
+gray, ADJ 
+scale, NOUN 
+
+, SPACE 
+images, NOUN 
+PC, NOUN 
+connected, VERB 
+serial, ADJ 
+port, NOUN 
+second, ADJ 
+PC, NOUN 
+
+, SPACE 
+controls, VERB 
+operation, NOUN 
+CNC, PROPN 
+machine, NOUN 
+rigidly, ADV 
+attaching, VERB 
+
+, SPACE 
+Figure, NOUN 
+3, NUM 
+Schematic, ADJ 
+conversion, NOUN 
+series, NOUN 
+dimensional, ADJ 
+
+, SPACE 
+images, NOUN 
+exposed, VERB 
+section, NOUN 
+dimensional, ADJ 
+model, NOUN 
+
+, SPACE 
+specimen, NOUN 
+dimensional, ADJ 
+images, NOUN 
+stacked, VERB 
+dimen-, NUM 
+
+, SPACE 
+sional, ADJ 
+data, NOUN 
+set, VERB 
+left, ADJ 
+rendered, VERB 
+dimensional, ADJ 
+
+, SPACE 
+porous, ADJ 
+solid, ADJ 
+right, NOUN 
+Registration, NOUN 
+images, NOUN 
+cutting, NOUN 
+axis, NOUN 
+
+, SPACE 
+simple, ADJ 
+precision, NOUN 
+positioning, VERB 
+ability, NOUN 
+CNC, PROPN 
+machine, NOUN 
+80, NUM 
+
+, SPACE 
+sections, NOUN 
+construct, VERB 
+dimensional, ADJ 
+model, NOUN 
+
+, SPACE 
+bovine, ADJ 
+sample, NOUN 
+resolution, NOUN 
+approximately, ADV 
+20, NUM 
+p, NOUN 
+m., NOUN 
+
+
+, SPACE 
+Bone, PROPN 
+Vol, PROPN 
+21, NUM 
+3, NUM 
+J.D., PROPN 
+Beck, PROPN 
+et, PROPN 
+al, PROPN 
+283, NUM 
+
+, SPACE 
+September, PROPN 
+1997:281, NUM 
+287, NUM 
+Imaging, PROPN 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+1,0, NUM 
+
+, SPACE 
+o~, PROPN 
+c, NOUN 
+d, NOUN 
+
+, SPACE 
+0.8, NUM 
+~, PUNCT 
+~, PUNCT 
+Specimen, PROPN 
+tc-24, VERB 
+0.35, NUM 
+
+, SPACE 
+g, PROPN 
+06, NUM 
+025, NUM 
+
+, SPACE 
+0.4, NUM 
+xH, NUM 
+R, NOUN 
+LLE, PROPN 
+0.150"20, PROPN 
+
+, SPACE 
+-A, PROPN 
+tl, NOUN 
+O.lO, PROPN 
+2, NUM 
+0.2, NUM 
+
+, SPACE 
+I~., PROPN 
+s, PROPN 
+f, NOUN 
+.~, PROPN 
+0.05, NUM 
+
+, SPACE 
+.J, PUNCT 
+L, NOUN 
+I--, PROPN 
+1, NUM 
+0.0, NUM 
+0.00, NUM 
+
+, SPACE 
+0, NUM 
+50, NUM 
+l, PROPN 
+100, NUM 
+150, NUM 
+200, NUM 
+250, NUM 
+
+, SPACE 
+T, PROPN 
+Gray, PROPN 
+Scale, PROPN 
+Value, PROPN 
+c, PROPN 
+/i, PUNCT 
+o, PROPN 
+5o, PROPN 
+I.r, PROPN 
+OO, PROPN 
+lh, NOUN 
+sholdVaruJ!T, PROPN 
+
+, SPACE 
+voxels, NOUN 
+microns, NOUN 
+1~9, NUM 
+180, NUM 
+I~-, PUNCT 
+
+, SPACE 
+~, PUNCT 
+~1, PROPN 
+
+, SPACE 
+Q, PROPN 
+ii, PROPN 
+
+, SPACE 
+-=, PROPN 
+ , SPACE 
+ooHili, VERB 
+>, X 
+~, PUNCT 
+~, PUNCT 
+E, NOUN 
+iii, PROPN 
+ii, PROPN 
+
+, SPACE 
+lii, VERB 
+ii, PROPN 
+
+, SPACE 
+~, PUNCT 
+5, NUM 
+iiilii, NOUN 
+II, PROPN 
+
+, SPACE 
+o, NOUN 
+
+, SPACE 
+0, PROPN 
+10, NUM 
+20, NUM 
+11, NUM 
+220, NUM 
+L, PROPN 
+~1, PROPN 
+
+, SPACE 
+~, PUNCT 
+~1, VERB 
+
+, SPACE 
+iiii, VERB 
+
+, SPACE 
+iii, PROPN 
+lli, PROPN 
+
+, SPACE 
+iii, NUM 
+
+, SPACE 
+III, PROPN 
+
+, SPACE 
+ll, AUX 
+
+, SPACE 
+30, NUM 
+
+, SPACE 
+Number, NOUN 
+Voxels, PROPN 
+6, NUM 
+120, NUM 
+
+, SPACE 
+T, PROPN 
+~, NOUN 
+r, NOUN 
+ii, PROPN 
+iii, PROPN 
+
+, SPACE 
+Ji, PROPN 
+~, PROPN 
+iii, NUM 
+
+, SPACE 
+Jill, PROPN 
+Ell, PROPN 
+
+, SPACE 
+ii, PROPN 
+
+, SPACE 
+ii, PROPN 
+
+, SPACE 
+ii, PROPN 
+iiii'ii, NOUN 
+
+, SPACE 
+40, NUM 
+T*=78, PROPN 
+
+, SPACE 
+Figure, PROPN 
+4, NUM 
+Histogram, PROPN 
+gray, ADJ 
+scale, NOUN 
+values, NOUN 
+complete, ADJ 
+model, NOUN 
+typical, ADJ 
+specimen, NOUN 
+0, NUM 
+black, ADJ 
+255, NUM 
+white, ADJ 
+pure, ADJ 
+white, ADJ 
+region, NOUN 
+>, PROPN 
+250, NUM 
+
+, SPACE 
+shown, VERB 
+yield, VERB 
+large, ADJ 
+discrete, ADJ 
+peak, NOUN 
+right, ADJ 
+fiat, NOUN 
+region, NOUN 
+right, ADJ 
+gray, ADJ 
+scale, NOUN 
+values, NOUN 
+>, PROPN 
+100, NUM 
+representative, ADJ 
+volume, NOUN 
+
+, SPACE 
+averaging, VERB 
+trabecular, ADJ 
+surfaces, NOUN 
+flatness, NOUN 
+region, NOUN 
+indicates, VERB 
+degree, NOUN 
+surface, NOUN 
+volume, NOUN 
+averaging, NOUN 
+approximately, ADV 
+constant, ADJ 
+
+, SPACE 
+surface, NOUN 
+Based, VERB 
+characteristic, ADJ 
+shape, NOUN 
+histogram, NOUN 
+developed, VERB 
+simple, ADJ 
+scheme, NOUN 
+determine, VERB 
+threshold, NOUN 
+value, NOUN 
+estimates, VERB 
+
+, SPACE 
+specimen, NOUN 
+volume, NOUN 
+fraction, NOUN 
+event, NOUN 
+measurement, NOUN 
+available, ADJ 
+vertical, ADJ 
+distance, NOUN 
+H, PROPN 
+defined, VERB 
+length, NOUN 
+maximum, ADJ 
+
+, SPACE 
+frequency, NOUN 
+gray, ADJ 
+walue, NOUN 
+line, NOUN 
+c, PROPN 
+d, NOUN 
+average, ADJ 
+frequency, NOUN 
+flat, ADJ 
+portion, NOUN 
+region, NOUN 
+R, NOUN 
+line, NOUN 
+b, NOUN 
+horizontal, ADJ 
+line, NOUN 
+e, PROPN 
+f, PROPN 
+defined, VERB 
+
+, SPACE 
+fixed, VERB 
+fraction, NOUN 
+X, PROPN 
+distance, NOUN 
+H, NOUN 
+measured, VERB 
+maximum, ADJ 
+frequency, NOUN 
+X, PROPN 
+chosen, VERB 
+0.96, NUM 
+trial, NOUN 
+error, NOUN 
+analysis, NOUN 
+
+, SPACE 
+bovine, ADJ 
+specimens, NOUN 
+threshold, NOUN 
+value, NOUN 
+T, PROPN 
+chosen, VERB 
+lowest, ADJ 
+gray, ADJ 
+value, NOUN 
+intersection, NOUN 
+line, NOUN 
+e, PROPN 
+f, PROPN 
+histogram, NOUN 
+b, X 
+Distribution, NOUN 
+
+, SPACE 
+gray, ADJ 
+scale, NOUN 
+values, NOUN 
+thickness, NOUN 
+adjacent, ADJ 
+trabeculae, NOUN 
+specimen, NOUN 
+Note, VERB 
+voxel, PROPN 
+~20, PUNCT 
+p, PROPN 
+m, VERB 
+wide, ADJ 
+numbers, NOUN 
+
+, SPACE 
+represent, VERB 
+upper, ADJ 
+bound, VERB 
+thicknesses, NOUN 
+trabeculae, NOUN 
+trabeculae, NOUN 
+moved, VERB 
+closer, ADV 
+viewing, VERB 
+purposes, NOUN 
+dots, NOUN 
+
+, SPACE 
+represent, VERB 
+gray, ADJ 
+scale, NOUN 
+values, NOUN 
+voxel, NOUN 
+horizontal, ADJ 
+line, NOUN 
+represents, VERB 
+threshold, NOUN 
+value, NOUN 
+7, NUM 
+yielded, VERB 
+directly, ADV 
+measured, VERB 
+volume, NOUN 
+fraction, NOUN 
+
+, SPACE 
+specimen, NOUN 
+plateau, NOUN 
+gray, ADJ 
+scale, NOUN 
+value, NOUN 
+~40, NOUN 
+reached, VERB 
+trabecula, NOUN 
+voxel, NOUN 
+surface, NOUN 
+usually, ADV 
+
+, SPACE 
+affected, VERB 
+volume, NOUN 
+averaging, VERB 
+voxels, NOUN 
+gray, ADJ 
+scale, NOUN 
+values, NOUN 
+range, NOUN 
+~50, NUM 
+250, NUM 
+data, NOUN 
+indicate, VERB 
+volume, NOUN 
+averaging, VERB 
+
+, SPACE 
+surface, NOUN 
+affect, VERB 
+trabeculae, NOUN 
+trabecular, ADJ 
+thickness, NOUN 
+greater, ADJ 
+approximately, ADV 
+3, NUM 
+4, NUM 
+voxels, NOUN 
+~--60, ADJ 
+80, NUM 
+Ixm, PROPN 
+example, NOUN 
+
+, SPACE 
+illustrates, VERB 
+small, ADJ 
+changes, NOUN 
+threshold, NOUN 
+value, NOUN 
+T, PROPN 
+7, NUM 
+affect, VERB 
+thickness, NOUN 
+trabeculae, NOUN 
+left, ADJ 
+trabecula, NOUN 
+
+, SPACE 
+changed, VERB 
+middle, ADJ 
+lose, VERB 
+voxel, NOUN 
+right, ADJ 
+gain, VERB 
+voxels, NOUN 
+depending, VERB 
+change, NOUN 
+T., PROPN 
+c, NOUN 
+Volume, NOUN 
+fraction, NOUN 
+threshold, NOUN 
+
+, SPACE 
+curve, NOUN 
+V, PROPN 
+vs., NOUN 
+T, PROPN 
+specimen, NOUN 
+parts, NOUN 
+b, NOUN 
+Volume, NOUN 
+fraction, NOUN 
+entire, ADJ 
+specimen, NOUN 
+computed, VERB 
+threshold, NOUN 
+value, NOUN 
+curve, NOUN 
+
+, SPACE 
+fit, ADJ 
+resulting, VERB 
+data, NOUN 
+points, NOUN 
+curve, NOUN 
+identify, VERB 
+threshold, NOUN 
+value, NOUN 
+T, NOUN 
+yields, VERB 
+correct, ADJ 
+volume, NOUN 
+fraction, NOUN 
+1//, PROPN 
+Note, VERB 
+transition, NOUN 
+
+, SPACE 
+region, NOUN 
+occurs, VERB 
+threshold, NOUN 
+value, NOUN 
+approximately, ADV 
+50, NUM 
+specimen, NOUN 
+corresponds, VERB 
+end, NOUN 
+bell, NOUN 
+region, NOUN 
+histogram, NOUN 
+
+, SPACE 
+plateau, NOUN 
+region, NOUN 
+b, NOUN 
+threshold, NOUN 
+value, NOUN 
+increased, VERB 
+value, NOUN 
+gradually, ADV 
+volume, NOUN 
+averaged, VERB 
+gray, ADJ 
+voxels, NOUN 
+
+, SPACE 
+surfaces, NOUN 
+trabeculae, NOUN 
+included, VERB 
+bone, NOUN 
+Note, VERB 
+predicted, VERB 
+volume, NOUN 
+fracture, NOUN 
+merely, ADV 
+area, NOUN 
+integral, ADJ 
+histogram, NOUN 
+
+, SPACE 
+flatness, NOUN 
+region, NOUN 
+right, ADJ 
+hand, NOUN 
+histogram, NOUN 
+corresponds, VERB 
+directly, ADV 
+constant, ADJ 
+slope, NOUN 
+right, ADJ 
+hand, NOUN 
+curve, NOUN 
+
+, SPACE 
+lens, PROPN 
+camera, NOUN 
+light, ADJ 
+source, NOUN 
+vertical, ADJ 
+axis, NOUN 
+milling, NOUN 
+
+, SPACE 
+machine, NOUN 
+vertical, ADJ 
+distance, NOUN 
+exposed, VERB 
+surface, NOUN 
+
+, SPACE 
+specimen, NOUN 
+camera, NOUN 
+light, NOUN 
+fixed, VERB 
+
+, SPACE 
+ensures, VERB 
+equal, ADJ 
+focus, NOUN 
+lighting, NOUN 
+exposed, VERB 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+imaging, NOUN 
+use, NOUN 
+ring, NOUN 
+illuminator, NOUN 
+provides, VERB 
+uni-, NOUN 
+
+, SPACE 
+form, NOUN 
+lighting, VERB 
+entire, ADJ 
+field, NOUN 
+view, NOUN 
+
+, SPACE 
+imaging, NOUN 
+process, NOUN 
+consists, VERB 
+steps, NOUN 
+
+, SPACE 
+specimen, NOUN 
+gripped, VERB 
+pneumatic, ADJ 
+vise, NOUN 
+mounted, VERB 
+mill, NOUN 
+
+, SPACE 
+table, NOUN 
+cylindrical, ADJ 
+specimen, NOUN 
+oriented, VERB 
+axis, ADJ 
+parallel, NOUN 
+
+, SPACE 
+vertical, ADJ 
+axis, NOUN 
+milling, NOUN 
+machine, NOUN 
+Second, ADV 
+milling, NOUN 
+
+, SPACE 
+machine, NOUN 
+programmed, VERB 
+remove, VERB 
+thin, ADJ 
+layer, NOUN 
+typically, ADV 
+20, NUM 
+~m, NUM 
+specimen, NOUN 
+3/8, NUM 
+carbide, PROPN 
+impregnated, ADJ 
+two-, X 
+
+, SPACE 
+fluted, VERB 
+end, NOUN 
+mill, NOUN 
+Bassett, PROPN 
+USA, PROPN 
+52032, NUM 
+MSE, NOUN 
+Pacific, PROPN 
+Tool, PROPN 
+Oak-, PROPN 
+
+, SPACE 
+land, NOUN 
+cutting, VERB 
+500, NUM 
+rpm, NOUN 
+specimen, NOUN 
+feed, NOUN 
+rate, NOUN 
+3, NUM 
+
+, SPACE 
+in./min, NOUN 
+tool, NOUN 
+replaced, VERB 
+speci-, NOUN 
+
+, SPACE 
+mens, NOUN 
+blunting, VERB 
+tool, NOUN 
+roughens, VERB 
+machined, VERB 
+surface, NOUN 
+
+, SPACE 
+degrades, VERB 
+image, NOUN 
+quality, NOUN 
+milling, VERB 
+vacuum, NOUN 
+
+, SPACE 
+collect, VERB 
+chips, NOUN 
+cut, VERB 
+specimen, NOUN 
+
+, SPACE 
+residual, ADJ 
+chips, NOUN 
+obscure, VERB 
+images, NOUN 
+milling, VERB 
+
+, SPACE 
+complete, ADJ 
+cross, NOUN 
+section, NOUN 
+specimen, NOUN 
+moved, VERB 
+air, NOUN 
+jet, NOUN 
+
+, SPACE 
+station, NOUN 
+compressed, VERB 
+air, NOUN 
+cleans, VERB 
+surface, NOUN 
+
+, SPACE 
+specimen, NOUN 
+producing, VERB 
+dust-, ADJ 
+chip, NOUN 
+free, ADJ 
+surface, NOUN 
+imaging, NOUN 
+
+
+, SPACE 
+284, NUM 
+J., PROPN 
+D, PROPN 
+Beck, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, PROPN 
+Vol, PROPN 
+21, NUM 
+3, NUM 
+
+, SPACE 
+Imaging, PROPN 
+trabecular, ADJ 
+bone, NOUN 
+September, PROPN 
+1997:281, NUM 
+287, NUM 
+
+, SPACE 
+p, NOUN 
+~.~.-, NOUN 
+~, PUNCT 
+~, PUNCT 
+~, PUNCT 
+~J, PUNCT 
+1, X 
+~~J., NOUN 
+
+, SPACE 
+d., PROPN 
+.5, PROPN 
+t, PROPN 
+.5, PROPN 
+
+, SPACE 
+Figure, PROPN 
+5, NUM 
+arrayed, VERB 
+imaging, NOUN 
+technique, NOUN 
+cross, ADJ 
+sectional, ADJ 
+image, NOUN 
+
+, SPACE 
+sagittal, ADJ 
+section, NOUN 
+~30, NOUN 
+mm, PROPN 
+x, SYM 
+35, NUM 
+mm, PROPN 
+human, ADJ 
+vertebral, ADJ 
+body, NOUN 
+
+, SPACE 
+voxel, NOUN 
+resolution, NOUN 
+20, NUM 
+I-~m, NOUN 
+640, NUM 
+x, SYM 
+480, NUM 
+voxel, PROPN 
+camera, NOUN 
+
+, SPACE 
+obtain, VERB 
+image, NOUN 
+straight, ADJ 
+lines, NOUN 
+3, NUM 
+X, NUM 
+3, NUM 
+array, NOUN 
+
+, SPACE 
+regions, NOUN 
+total, NOUN 
+image, VERB 
+complete, ADJ 
+cross, NOUN 
+section, NOUN 
+Note, VERB 
+
+, SPACE 
+excellent, ADJ 
+registration, NOUN 
+images, NOUN 
+overlap, NOUN 
+evident, ADJ 
+borders, NOUN 
+
+, SPACE 
+regions, NOUN 
+possible, ADJ 
+precision, NOUN 
+positioning, VERB 
+ability, NOUN 
+
+, SPACE 
+CNC, PROPN 
+milling, NOUN 
+machine, NOUN 
+
+, SPACE 
+optional, ADJ 
+fourth, ADJ 
+step, NOUN 
+newly, ADV 
+milled, VERB 
+surface, NOUN 
+
+, SPACE 
+specimen, NOUN 
+exposed, VERB 
+additional, ADJ 
+UV, NOUN 
+light, NOUN 
+Quartz, PROPN 
+Pencil, PROPN 
+Lamp, PROPN 
+
+, SPACE 
+Spectroline, PROPN 
+Model, PROPN 
+11SC-2, NUM 
+Spectronics, PROPN 
+Westbury, PROPN 
+NY, PROPN 
+re-, ADV 
+
+, SPACE 
+duce, VERB 
+residual, ADJ 
+silver, NOUN 
+interior, NOUN 
+thick, ADJ 
+trabeculae, NOUN 
+
+, SPACE 
+ensures, VERB 
+regions, NOUN 
+bone, NOUN 
+dark, ADJ 
+black, ADJ 
+
+, SPACE 
+step, NOUN 
+required, VERB 
+low, ADJ 
+density, NOUN 
+human, ADJ 
+trabecular, NOUN 
+bone, NOUN 
+
+, SPACE 
+vertebral, ADJ 
+body, NOUN 
+Finally, ADV 
+specimen, NOUN 
+moved, VERB 
+
+, SPACE 
+camera, NOUN 
+field, NOUN 
+view, NOUN 
+digital, ADJ 
+image, NOUN 
+
+, SPACE 
+exposed, VERB 
+surface, NOUN 
+taken, VERB 
+high, ADJ 
+contrast, NOUN 
+black, ADJ 
+white, ADJ 
+
+, SPACE 
+embedded, VERB 
+bone, NOUN 
+specimen, NOUN 
+uniform, NOUN 
+lighting, VERB 
+entire, ADJ 
+
+, SPACE 
+field, NOUN 
+view, NOUN 
+sharp, ADJ 
+focus, NOUN 
+ensure, VERB 
+accurate, ADJ 
+imaging, NOUN 
+
+, SPACE 
+exposed, VERB 
+trabecular, ADJ 
+microstructure, NOUN 
+Figure, NOUN 
+2A, PROPN 
+
+, SPACE 
+fully, ADV 
+automated, VERB 
+process, NOUN 
+achieved, VERB 
+programming, VERB 
+
+, SPACE 
+sequence, NOUN 
+motions, NOUN 
+CNC, PROPN 
+milling, NOUN 
+machine, NOUN 
+
+, SPACE 
+synchronized, VERB 
+command, NOUN 
+signals, NOUN 
+image, NOUN 
+grabber, NOUN 
+board, NOUN 
+C, NOUN 
+
+, SPACE 
+program, NOUN 
+developed, VERB 
+controls, VERB 
+motions, NOUN 
+CNC, PROPN 
+
+, SPACE 
+machine, NOUN 
+aspects, NOUN 
+capturing, VERB 
+storing, VERB 
+digital, ADJ 
+
+, SPACE 
+images, NOUN 
+CNC, PROPN 
+custom, NOUN 
+programming, NOUN 
+language, NOUN 
+
+, SPACE 
+control, VERB 
+CNC, PROPN 
+motion, NOUN 
+imaging, NOUN 
+process, NOUN 
+pro-, PROPN 
+
+, SPACE 
+grammed, ADJ 
+repeat, VERB 
+entire, ADJ 
+specimen, NOUN 
+
+, SPACE 
+milled, VERB 
+exposed, VERB 
+surface, NOUN 
+imaged, VERB 
+digital, ADJ 
+
+, SPACE 
+image, NOUN 
+saved, VERB 
+separate, ADJ 
+file, NOUN 
+TIFF, PROPN 
+format, NOUN 
+files, NOUN 
+
+, SPACE 
+sent, VERB 
+imaging, VERB 
+PC, NOUN 
+workstation, NOUN 
+eventual, ADJ 
+postpro-, NOUN 
+
+, SPACE 
+cessing, VERB 
+Typically, ADV 
+8, NUM 
+mm, NOUN 
+diameter, NOUN 
+10, NUM 
+mm, ADJ 
+long, ADJ 
+cylindrical, ADJ 
+
+, SPACE 
+specimen, NOUN 
+imaged, VERB 
+20, NUM 
+Ixm, PROPN 
+resolution, NOUN 
+requires, VERB 
+150, NUM 
+mega-, NOUN 
+
+, SPACE 
+bytes, NOUN 
+disk, NOUN 
+space, NOUN 
+storage, NOUN 
+uncompressed, ADJ 
+unprocessed, ADJ 
+
+, SPACE 
+Milling, NOUN 
+imaging, NOUN 
+slice, NOUN 
+takes, VERB 
+approximately, ADV 
+2, NUM 
+min, NOUN 
+
+, SPACE 
+attempted, VERB 
+optimize, VERB 
+tool, NOUN 
+path, NOUN 
+
+, SPACE 
+minimize, VERB 
+time, NOUN 
+example, NOUN 
+8, NUM 
+mm, NOUN 
+diameter, NOUN 
+10-, NUM 
+
+, SPACE 
+mm, ADJ 
+long, ADJ 
+cylindrical, ADJ 
+specimen, NOUN 
+imaged, VERB 
+20, NUM 
+Ixm, PROPN 
+resolution, NOUN 
+
+, SPACE 
+requires, VERB 
+500, NUM 
+slices, NOUN 
+currently, ADV 
+takes, VERB 
+16, NUM 
+17, NUM 
+h, NOUN 
+process, VERB 
+
+, SPACE 
+imaging, NOUN 
+process, NOUN 
+fully, ADV 
+automated, VERB 
+usually, ADV 
+
+, SPACE 
+performed, VERB 
+unsupervised, VERB 
+overnight, ADV 
+requires, VERB 
+little, ADJ 
+
+, SPACE 
+personnel, NOUN 
+time, NOUN 
+~-15, NUM 
+min, NOUN 
+initial, ADJ 
+setup, NOUN 
+
+, SPACE 
+flexibility, NOUN 
+CNC, PROPN 
+milling, NOUN 
+machine, NOUN 
+
+, SPACE 
+designed, VERB 
+position, VERB 
+specimen, NOUN 
+precisely, ADV 
+position, NOUN 
+
+, SPACE 
+base, NOUN 
+plane, NOUN 
+perpendicular, ADJ 
+vertical, ADJ 
+milling, NOUN 
+tool, NOUN 
+enables, VERB 
+
+, SPACE 
+imaging, VERB 
+resolution, NOUN 
+independent, ADJ 
+specimen, NOUN 
+size, NOUN 
+arrayed, VERB 
+imaging, PROPN 
+technique, NOUN 
+achieve, VERB 
+
+, SPACE 
+cross, NOUN 
+section, NOUN 
+divided, VERB 
+array, NOUN 
+equally, ADV 
+sized, ADJ 
+slightly, ADV 
+
+, SPACE 
+overlapping, VERB 
+regions, NOUN 
+CNC, PROPN 
+machine, NOUN 
+moves, VERB 
+region, NOUN 
+
+, SPACE 
+cross, NOUN 
+section, NOUN 
+field, NOUN 
+view, NOUN 
+stationary, ADJ 
+
+, SPACE 
+camera, NOUN 
+digital, ADJ 
+image, NOUN 
+taken, VERB 
+region, NOUN 
+
+, SPACE 
+resolution, NOUN 
+regional, ADJ 
+image, NOUN 
+determined, VERB 
+
+, SPACE 
+lens, NOUN 
+magnification, NOUN 
+camera, NOUN 
+frame, NOUN 
+grabber, NOUN 
+resolution, NOUN 
+
+, SPACE 
+independent, ADJ 
+overall, ADJ 
+dimensions, NOUN 
+specimen, NOUN 
+
+, SPACE 
+fixed, VERB 
+resolution, NOUN 
+larger, ADJ 
+specimens, NOUN 
+imaged, VERB 
+increasing, VERB 
+
+, SPACE 
+size, NOUN 
+imaging, PROPN 
+array, PROPN 
+e.g., ADV 
+1, NUM 
+x, SYM 
+1, NUM 
+2, NUM 
+x, SYM 
+2, NUM 
+4, NUM 
+×, PROPN 
+4, NUM 
+
+, SPACE 
+multiple, ADJ 
+images, NOUN 
+layer, NOUN 
+easily, ADV 
+recombined, VERB 
+
+, SPACE 
+postprocessing, VERB 
+precise, ADJ 
+position, NOUN 
+im-, X 
+
+, SPACE 
+aging, VERB 
+region, NOUN 
+stored, VERB 
+PC, NOUN 
+controls, VERB 
+motion, NOUN 
+
+, SPACE 
+CNC, PROPN 
+milling, NOUN 
+machine, NOUN 
+
+, SPACE 
+dimensional, ADJ 
+image, NOUN 
+reconstruction, NOUN 
+performed, VERB 
+
+, SPACE 
+routines, NOUN 
+written, VERB 
+Interactive, PROPN 
+Display, PROPN 
+Language, PROPN 
+IDL, PROPN 
+Re-, NOUN 
+
+, SPACE 
+search, NOUN 
+Systems, PROPN 
+Inc., PROPN 
+Boulder, PROPN 
+CO, PROPN 
+raw, ADJ 
+gray, ADJ 
+scale, NOUN 
+images, NOUN 
+
+, SPACE 
+Figure, NOUN 
+2A, PROPN 
+processed, VERB 
+simple, ADJ 
+filter, NOUN 
+eliminate, VERB 
+
+, SPACE 
+artifacts, NOUN 
+air, NOUN 
+bubbles, NOUN 
+exist, VERB 
+artifacts, NOUN 
+
+, SPACE 
+light, ADJ 
+gray, ADJ 
+voxels, NOUN 
+trabeculae, NOUN 
+easily, ADV 
+
+, SPACE 
+eliminated, VERB 
+deleting, VERB 
+light, ADJ 
+gray, ADJ 
+regions, NOUN 
+immediately, ADV 
+
+, SPACE 
+adjacent, ADJ 
+dark, ADJ 
+bone, NOUN 
+images, NOUN 
+thresholded, VERB 
+
+, SPACE 
+black, ADJ 
+white, ADJ 
+images, NOUN 
+Figure, NOUN 
+2B, PROPN 
+stacked, VERB 
+
+, SPACE 
+produce, VERB 
+dimensional, ADJ 
+model, NOUN 
+Figure, NOUN 
+3, NUM 
+Regis-, X 
+
+, SPACE 
+tration, NOUN 
+depends, VERB 
+accuracy, NOUN 
+milling, NOUN 
+machine, NOUN 
+
+, SPACE 
+generally, ADV 
+problem, NOUN 
+imaging, VERB 
+20, NUM 
+Ixm, PROPN 
+resolution, NOUN 
+
+, SPACE 
+situations, NOUN 
+higher, ADJ 
+resolution, NOUN 
+required, VERB 
+accuracy, NOUN 
+
+, SPACE 
+machine, NOUN 
+displacement, ADJ 
+transducers, NOUN 
+record, VERB 
+
+, SPACE 
+precisely, ADV 
+position, NOUN 
+specimen, NOUN 
+imaged, VERB 
+
+, SPACE 
+Images, NOUN 
+offset, VERB 
+recorded, VERB 
+distance, NOUN 
+
+, SPACE 
+specified, VERB 
+origin, NOUN 
+Registration, NOUN 
+similarly, ADV 
+plane, NOUN 
+
+, SPACE 
+arrayed, VERB 
+imaging, NOUN 
+technique, NOUN 
+direction, NOUN 
+milling, NOUN 
+
+, SPACE 
+depth, NOUN 
+voxel, NOUN 
+plane, NOUN 
+resolution, NOUN 
+equal, ADJ 
+
+, SPACE 
+cutting, VERB 
+depth, NOUN 
+programmed, VERB 
+CNC, PROPN 
+machine, NOUN 
+
+, SPACE 
+usually, ADV 
+set, VERB 
+match, VERB 
+plane, NOUN 
+voxel, NOUN 
+size, NOUN 
+Depending, VERB 
+
+, SPACE 
+accuracy, NOUN 
+precision, NOUN 
+milling, NOUN 
+machine, NOUN 
+depths, NOUN 
+
+, SPACE 
+accurately, ADV 
+machined, VERB 
+low, ADJ 
+1, NUM 
+~, NOUN 
+m, PROPN 
+
+, SPACE 
+current, ADJ 
+CNC, PROPN 
+machine, NOUN 
+
+, SPACE 
+resolution, NOUN 
+plane, NOUN 
+resolution, NOUN 
+limited, VERB 
+
+, SPACE 
+transparency, NOUN 
+whitened, ADJ 
+methylmethacrylate, NOUN 
+
+, SPACE 
+seen, VERB 
+little, ADJ 
+evidence, NOUN 
+artifact, NOUN 
+20, NUM 
+ixm, NOUN 
+resolution, NOUN 
+
+, SPACE 
+constant, ADJ 
+threshold, NOUN 
+value, NOUN 
+images, NOUN 
+speci-, NOUN 
+
+, SPACE 
+men, NOUN 
+uniform, ADJ 
+lighting, NOUN 
+provided, VERB 
+ring, NOUN 
+illuminator, NOUN 
+
+, SPACE 
+high, ADJ 
+contrast, NOUN 
+nature, NOUN 
+raw, ADJ 
+images, NOUN 
+histogram, NOUN 
+
+, SPACE 
+gray, ADJ 
+values, NOUN 
+typical, ADJ 
+specimen, NOUN 
+demonstrates, VERB 
+sharp, ADJ 
+
+, SPACE 
+distinction, NOUN 
+gray, ADJ 
+values, NOUN 
+associated, VERB 
+bone, NOUN 
+
+, SPACE 
+associated, VERB 
+volume, NOUN 
+averaging, NOUN 
+trabecular, ADJ 
+surfaces, NOUN 
+
+, SPACE 
+Figure, PROPN 
+4A, PROPN 
+analysis, NOUN 
+gray, ADJ 
+scale, NOUN 
+data, NOUN 
+
+, SPACE 
+thickness, NOUN 
+individual, ADJ 
+trabeculae, NOUN 
+Figure, NOUN 
+4B, PROPN 
+demonstrates, VERB 
+
+, SPACE 
+plateau, NOUN 
+gray, ADJ 
+values, NOUN 
+representing, VERB 
+bone, NOUN 
+tissue, NOUN 
+reached, VERB 
+
+, SPACE 
+trabeculae, NOUN 
+having, VERB 
+thicknesses, NOUN 
+greater, ADJ 
+60, NUM 
+80, NUM 
+p, NOUN 
+~, NOUN 
+m, PROPN 
+
+, SPACE 
+volume, NOUN 
+averaging, VERB 
+artifact, NOUN 
+extended, VERB 
+
+, SPACE 
+voxel, NOUN 
+20, NUM 
+txm, NOUN 
+trabecular, ADJ 
+surface, NOUN 
+thresholding, VERB 
+
+, SPACE 
+affected, VERB 
+trabecular, ADJ 
+thickness, NOUN 
+equally, ADV 
+trabeculae, NOUN 
+
+, SPACE 
+thicknesses, NOUN 
+greater, ADJ 
+60, NUM 
+80, NUM 
+txm, NOUN 
+implication, NOUN 
+
+, SPACE 
+single, ADJ 
+threshold, NOUN 
+value, NOUN 
+reasonable, ADJ 
+identifying, VERB 
+trabeculae, NOUN 
+
+, SPACE 
+thickness, NOUN 
+appropriate, ADJ 
+entire, ADJ 
+
+, SPACE 
+specimen, NOUN 
+corresponding, VERB 
+plot, NOUN 
+predicted, VERB 
+volume, NOUN 
+fraction, NOUN 
+
+, SPACE 
+entire, ADJ 
+specimen, NOUN 
+vs., ADP 
+assumed, ADJ 
+threshold, NOUN 
+value, NOUN 
+Figure, NOUN 
+
+, SPACE 
+4C, PROPN 
+supports, VERB 
+use, NOUN 
+single, ADJ 
+threshold, NOUN 
+value, NOUN 
+entire, ADJ 
+
+, SPACE 
+specimen, NOUN 
+sensitivity, NOUN 
+volume, NOUN 
+fraction, NOUN 
+threshold, NOUN 
+
+, SPACE 
+value, NOUN 
+constant, ADJ 
+region, NOUN 
+curve, NOUN 
+associated, VERB 
+
+, SPACE 
+volume, NOUN 
+averaging, VERB 
+artifact, NOUN 
+
+, SPACE 
+threshold, NOUN 
+value, NOUN 
+chosen, VERB 
+ways, NOUN 
+direct, ADJ 
+
+, SPACE 
+measure, NOUN 
+volume, NOUN 
+fraction, NOUN 
+available, ADJ 
+e.g., ADV 
+
+, SPACE 
+Archimedes, NOUN 
+Principle, ADJ 
+6, NUM 
+threshold, NOUN 
+value, NOUN 
+chosen, VERB 
+graphi-, NOUN 
+
+
+, SPACE 
+Bone, PROPN 
+Vol, PROPN 
+21, NUM 
+3, NUM 
+J.D., PROPN 
+Beck, PROPN 
+et, PROPN 
+al, PROPN 
+285, NUM 
+
+, SPACE 
+September, PROPN 
+1997:281, NUM 
+2~;7, PROPN 
+Imaging, PROPN 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+
+, SPACE 
+L, PROPN 
+B, NOUN 
+
+, SPACE 
+Figure, PROPN 
+6, NUM 
+dimen,;ional, ADJ 
+rendered, VERB 
+images, NOUN 
+8, NUM 
+mm, ADJ 
+thick, ADJ 
+human, ADJ 
+vertebral, ADJ 
+sagittal, ADJ 
+section, NOUN 
+shown, VERB 
+Figure, PROPN 
+5, NUM 
+Larger, ADJ 
+section, NOUN 
+7.9, NUM 
+mm, NOUN 
+
+, SPACE 
+anterior, ADJ 
+posterior, NOUN 
+×, PROPN 
+8.0, NUM 
+mm, NOUN 
+superior, ADJ 
+inferior, ADJ 
+×, PROPN 
+1.44, NUM 
+mm, NOUN 
+medial, ADJ 
+lateral, ADJ 
+showing, VERB 
+entrance, NOUN 
+basivertebral, ADJ 
+vein, NOUN 
+midway, ADV 
+posterior, ADJ 
+
+, SPACE 
+cortical, ADJ 
+shell, NOUN 
+clear, ADJ 
+heterogeneity, NOUN 
+porosity, NOUN 
+architecture, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+adjacent, ADJ 
+centrum, NOUN 
+B, NOUN 
+Smaller, ADJ 
+section, NOUN 
+1.4, NUM 
+X, NUM 
+
+, SPACE 
+1.4, NUM 
+x, SYM 
+1.4, NUM 
+mm, NOUN 
+3, NUM 
+taken, VERB 
+inset, NOUN 
+shown, VERB 
+slightly, ADV 
+different, ADJ 
+perspective, NOUN 
+trabecula, NOUN 
+marked, VERB 
+asterisk, NOUN 
+thickness, NOUN 
+
+, SPACE 
+approximately, ADV 
+160, NUM 
+p, NOUN 
+~, NOUN 
+m., NOUN 
+
+, SPACE 
+cally, ADV 
+volume, NOUN 
+fraction, NOUN 
+threshold, NOUN 
+value, NOUN 
+curve, NOUN 
+
+, SPACE 
+computed, VERB 
+volume, NOUN 
+fraction, NOUN 
+model, NOUN 
+equals, VERB 
+directly, ADV 
+
+, SPACE 
+measured, VERB 
+value, NOUN 
+Figure, NOUN 
+4C, PROPN 
+direct, ADJ 
+measure, NOUN 
+
+, SPACE 
+available, ADJ 
+developed, VERB 
+simple, ADJ 
+algorithm, PROPN 
+pick, VERB 
+threshold, NOUN 
+
+, SPACE 
+value, NOUN 
+average, ADJ 
+gives, VERB 
+excellent, ADJ 
+agreement, NOUN 
+di-, NOUN 
+
+, SPACE 
+rectly, ADV 
+measured, VERB 
+values, NOUN 
+Figure, NOUN 
+4A, PROPN 
+algorithm, PROPN 
+chooses, VERB 
+
+, SPACE 
+threshold, NOUN 
+values, NOUN 
+based, VERB 
+shape, NOUN 
+histogram, NOUN 
+gray-, ADJ 
+
+, SPACE 
+scale, NOUN 
+values, NOUN 
+entire, ADJ 
+specimen, NOUN 
+specific, ADJ 
+
+, SPACE 
+specimen, NOUN 
+way, NOUN 
+lighting, VERB 
+staining, VERB 
+conditions, NOUN 
+vary, VERB 
+
+, SPACE 
+specimens, NOUN 
+threshold, NOUN 
+values, NOUN 
+adjusted, VERB 
+appro-, NOUN 
+
+, SPACE 
+priately, ADV 
+trial, NOUN 
+error, NOUN 
+found, VERB 
+value, NOUN 
+single, ADJ 
+free, ADJ 
+
+, SPACE 
+parameter, NOUN 
+X, NOUN 
+=, NOUN 
+0.96, NUM 
+Figure, PROPN 
+4A, PROPN 
+algorithm, PROPN 
+
+, SPACE 
+resulted, VERB 
+best, ADJ 
+aw, ADJ 
+~, NOUN 
+rage, NOUN 
+match, NOUN 
+predicted, VERB 
+directly, ADV 
+
+, SPACE 
+measured, VERB 
+values, NOUN 
+
+, SPACE 
+Results, NOUN 
+
+, SPACE 
+example, NOUN 
+arrayed, VERB 
+imaging, NOUN 
+technique, NOUN 
+8, NUM 
+mm, NOUN 
+thick, ADJ 
+
+, SPACE 
+sagittal, ADJ 
+section, NOUN 
+human, ADJ 
+vertebral, ADJ 
+body, NOUN 
+imaged, VERB 
+20, NUM 
+p, NOUN 
+m, NOUN 
+
+, SPACE 
+resolution, NOUN 
+3, NUM 
+×, NOUN 
+3, NUM 
+array, NOUN 
+images, NOUN 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+Figure, NOUN 
+5, NUM 
+digital, ADJ 
+camera, NOUN 
+resolution, NOUN 
+640, NUM 
+×, NOUN 
+
+, SPACE 
+480, NUM 
+voxels, NOUN 
+field, NOUN 
+view, NOUN 
+effective, ADJ 
+number, NOUN 
+voxels, NOUN 
+
+, SPACE 
+exposed, VERB 
+section, NOUN 
+approximately, ADV 
+tripled, VERB 
+~1900, PUNCT 
+x, SYM 
+
+, SPACE 
+1420, NUM 
+maintainin, PROPN 
+~, PUNCT 
+g, NOUN 
+resolution, NOUN 
+sagittal, ADJ 
+
+, SPACE 
+section, NOUN 
+8, NUM 
+ram, NOUN 
+diameter, NOUN 
+specimen, NOUN 
+dimensional, ADJ 
+
+, SPACE 
+models, NOUN 
+smaller, ADJ 
+subsets, NOUN 
+data, NOUN 
+set, NOUN 
+rendered, VERB 
+
+, SPACE 
+reveal, VERB 
+microstracture, NOUN 
+greater, ADJ 
+detail, NOUN 
+Figure, NOUN 
+6, NUM 
+
+, SPACE 
+demonstrate, VERB 
+rite, ADJ 
+ability, NOUN 
+single, ADJ 
+value, NOUN 
+thresholding, NOUN 
+predict, VERB 
+accurately, ADV 
+volume, NOUN 
+fraction, NOUN 
+specimen, NOUN 
+data, NOUN 
+
+, SPACE 
+presented, VERB 
+bovine, ADJ 
+tibial, ADJ 
+specimens, NOUN 
+imaged, VERB 
+20, NUM 
+
+, SPACE 
+p, NOUN 
+m, PROPN 
+resolution, NOUN 
+volume, NOUN 
+fraction, NOUN 
+bone, NOUN 
+volume, NOUN 
+total, ADJ 
+
+, SPACE 
+volume, NOUN 
+measured, VERB 
+specimen, NOUN 
+Archimedes, PROPN 
+
+, SPACE 
+Principle, PROPN 
+values, NOUN 
+ranging, VERB 
+0.181, NUM 
+0.286, NUM 
+percent-, ADJ 
+
+, SPACE 
+age, NOUN 
+coefficient, NOUN 
+variation, NOUN 
+volume, NOUN 
+fraction, NOUN 
+repeated, VERB 
+
+, SPACE 
+measurements, NOUN 
+specimen, NOUN 
+ranged, VERB 
+0.13, NUM 
+
+, SPACE 
+0.70, NUM 
+indicating, VERB 
+excellent, ADJ 
+precision, NOUN 
+directly, ADV 
+measured, VERB 
+
+, SPACE 
+volume, NOUN 
+fraction, NOUN 
+measurements, NOUN 
+specimens, NOUN 
+mean, NOUN 
+
+, SPACE 
+SD, PROPN 
+percentage, NOUN 
+error, NOUN 
+predicted, VERB 
+measured, VERB 
+
+, SPACE 
+volume, NOUN 
+fractions, NOUN 
+0.70, NUM 
++, NUM 
+4.28, NUM 
+noted, VERB 
+
+, SPACE 
+specimen, NOUN 
+lowest, ADJ 
+volume, NOUN 
+fraction, NOUN 
+percent-, ADJ 
+
+, SPACE 
+age, NOUN 
+error, NOUN 
+10.6, NUM 
+errors, NOUN 
+range, NOUN 
+-4.36, NUM 
+
+, SPACE 
+4.66, NUM 
+specimens, NOUN 
+volume, NOUN 
+fraction, NOUN 
+predicted, VERB 
+
+, SPACE 
+±5, PROPN 
+correct, ADJ 
+value, NOUN 
+regression, NOUN 
+data, NOUN 
+
+, SPACE 
+sets, NOUN 
+predicted, VERB 
+vs., ADP 
+measured, VERB 
+r, NOUN 
+2, NUM 
+=, SYM 
+0.92, NUM 
+standard, ADJ 
+error, NOUN 
+
+, SPACE 
+regression, NOUN 
+0.0095, NUM 
+4, NUM 
+mean, ADJ 
+volume, NOUN 
+
+, SPACE 
+fraction, NOUN 
+slope, NOUN 
+regression, NOUN 
+1.0028, NUM 
+statisti-, NOUN 
+
+, SPACE 
+cally, ADV 
+insignificant, ADJ 
+p, NOUN 
+=, SYM 
+0.94, NUM 
+intercept, NOUN 
+-0.0019, NOUN 
+Figure, PROPN 
+7, NUM 
+
+, SPACE 
+regardless, ADV 
+measure, NOUN 
+quantify, VERB 
+uncertainty, NOUN 
+
+, SPACE 
+introduced, VERB 
+method, NOUN 
+predicting, VERB 
+volume, NOUN 
+fraction, NOUN 
+error, NOUN 
+
+, SPACE 
+small, ADJ 
+
+, SPACE 
+Discussion, PROPN 
+
+, SPACE 
+dimensional, ADJ 
+imaging, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+nec-, ADJ 
+
+, SPACE 
+essary, ADJ 
+properly, ADV 
+quantify, VERB 
+architectural, ADJ 
+parameters, NOUN 
+
+, SPACE 
+conaectivity, NOUN 
+degree, NOUN 
+anisotropy, PROPN 
+generally, ADV 
+overcome, VERB 
+
+
+, SPACE 
+286, NUM 
+J.D., PROPN 
+Beck, PROPN 
+et, PROPN 
+al, PROPN 
+Bone, PROPN 
+Vol, PROPN 
+21, NUM 
+3, NUM 
+
+, SPACE 
+Imaging, PROPN 
+trabecular, ADJ 
+bone, NOUN 
+September, PROPN 
+1997:281, NUM 
+287, NUM 
+
+, SPACE 
+¢-, NOUN 
+
+, SPACE 
+._0, PUNCT 
+0.30, NUM 
+
+, SPACE 
+o, NOUN 
+
+, SPACE 
+0.28, NUM 
+LL, NOUN 
+
+, SPACE 
+0.26, NUM 
+E, NOUN 
+
+, SPACE 
+~, PUNCT 
+0.24, NUM 
+
+, SPACE 
+>, X 
+
+, SPACE 
+o, NOUN 
+0.22, NUM 
+
+, SPACE 
+0.20, NUM 
+
+, SPACE 
+0.18, NUM 
+Y, PROPN 
+=, NOUN 
+X, PROPN 
+
+, SPACE 
+~, PUNCT 
+Y, PROPN 
+=, PROPN 
+1.0028, NUM 
+X, PROPN 
+0.0019, NUM 
+
+, SPACE 
+R, NOUN 
+2, NUM 
+=, SYM 
+0.92, NUM 
+SER, PROPN 
+=, ADP 
+0.0095, NUM 
+
+, SPACE 
+0.18, NUM 
+0.20, NUM 
+0.22, NUM 
+0.24, NUM 
+0.26, NUM 
+0.28, NUM 
+0.30, NUM 
+
+, SPACE 
+Predicted, PROPN 
+Volume, PROPN 
+Fraction, PROPN 
+
+, SPACE 
+Figure, PROPN 
+7, NUM 
+Plot, NOUN 
+predicted, VERB 
+value, NOUN 
+volume, NOUN 
+fraction, NOUN 
+vs., ADP 
+directly, ADV 
+
+, SPACE 
+measured, VERB 
+value, NOUN 
+bovine, ADJ 
+tibial, ADJ 
+trabecular, ADJ 
+bone, NOUN 
+specimens, NOUN 
+
+, SPACE 
+algorithm, PROPN 
+described, VERB 
+Figure, PROPN 
+4a, PROPN 
+choose, VERB 
+specific, ADJ 
+threshold, NOUN 
+
+, SPACE 
+value, NOUN 
+specimen, NOUN 
+fit, NOUN 
+predicted, VERB 
+measured, VERB 
+values, NOUN 
+
+, SPACE 
+excellent, ADJ 
+heavy, ADJ 
+line, NOUN 
+standard, ADJ 
+error, NOUN 
+regression, NOUN 
+SER, PROPN 
+
+, SPACE 
+units, NOUN 
+volume, NOUN 
+0.0095, NUM 
+~4, NOUN 
+mean, ADJ 
+volume, NOUN 
+fraction, NOUN 
+
+, SPACE 
+Performance, NOUN 
+poorest, ADJ 
+lowest, ADJ 
+density, NOUN 
+specimen, NOUN 
+suggesting, VERB 
+
+, SPACE 
+higher, ADJ 
+imaging, NOUN 
+resolutions, NOUN 
+alternative, ADJ 
+thresholding, NOUN 
+algo-, NOUN 
+
+, SPACE 
+rithms, NOUN 
+low, ADJ 
+density, NOUN 
+specimens, NOUN 
+
+, SPACE 
+restrictions, NOUN 
+having, VERB 
+extrapolate, VERB 
+dimensional, ADJ 
+stereo-, NOUN 
+
+, SPACE 
+logical, ADJ 
+measures, NOUN 
+dimensions, NOUN 
+4J, PROPN 
+1.14,15,17, NUM 
+CNC, PROPN 
+mill-, NOUN 
+
+, SPACE 
+ing, PROPN 
+technique, NOUN 
+described, VERB 
+similar, ADJ 
+aspects, NOUN 
+
+, SPACE 
+serial, ADJ 
+sectioning, VERB 
+technique, NOUN 
+developed, VERB 
+Odgaard, PROPN 
+col-, NOUN 
+
+, SPACE 
+leagues, NOUN 
+14"15, NUM 
+introduces, VERB 
+noteworthy, ADJ 
+innovations, NOUN 
+
+, SPACE 
+utilizing, VERB 
+programmable, ADJ 
+nature, NOUN 
+CNC, PROPN 
+milling, NOUN 
+machine, NOUN 
+
+, SPACE 
+control, VERB 
+precisely, ADV 
+relative, ADJ 
+positions, NOUN 
+specimen, NOUN 
+
+, SPACE 
+respect, NOUN 
+camera, NOUN 
+arrayed, VERB 
+imaging, NOUN 
+technique, NOUN 
+frees, VERB 
+image, NOUN 
+
+, SPACE 
+resolution, NOUN 
+specimen, NOUN 
+size, NOUN 
+imaging, NOUN 
+resolution, NOUN 
+
+, SPACE 
+depend, VERB 
+specimen, NOUN 
+size, NOUN 
+allows, VERB 
+technique, NOUN 
+
+, SPACE 
+large, ADJ 
+specimens, NOUN 
+entire, ADJ 
+human, ADJ 
+vertebral, ADJ 
+body, NOUN 
+
+, SPACE 
+small, ADJ 
+specimens, NOUN 
+rat, NOUN 
+metaphysis, NOUN 
+
+, SPACE 
+techniques, NOUN 
+micro, PROPN 
+CT, PROPN 
+similar, ADJ 
+
+, SPACE 
+fashion, NOUN 
+image, VERB 
+large, ADJ 
+sections, NOUN 
+bone, NOUN 
+relatively, ADV 
+high, ADJ 
+reso-, NOUN 
+
+, SPACE 
+lution, NOUN 
+s, VERB 
+method, NOUN 
+fully, ADV 
+automated, VERB 
+respect, NOUN 
+there-, NOUN 
+
+, SPACE 
+fore, NOUN 
+easier, ADJ 
+accurate, ADJ 
+use, VERB 
+purposes, NOUN 
+Second, ADV 
+
+, SPACE 
+high, ADJ 
+contrast, NOUN 
+nature, NOUN 
+raw, ADJ 
+image, NOUN 
+arising, VERB 
+
+, SPACE 
+use, NOUN 
+black, ADJ 
+silver, NOUN 
+nitrate, ADJ 
+staining, NOUN 
+bone, NOUN 
+
+, SPACE 
+white, ADJ 
+pigmentation, NOUN 
+embedding, VERB 
+medium, NOUN 
+
+, SPACE 
+uniform, ADJ 
+lighting, NOUN 
+focus, NOUN 
+field, NOUN 
+view, NOUN 
+resulting, VERB 
+
+, SPACE 
+raw, ADJ 
+images, NOUN 
+accurately, ADV 
+represent, VERB 
+real, ADJ 
+bone, NOUN 
+microstructure, NOUN 
+
+, SPACE 
+postprocessing, NOUN 
+simple, ADJ 
+example, NOUN 
+data, NOUN 
+suggest, VERB 
+
+, SPACE 
+complex, ADJ 
+segmentation, NOUN 
+threshold, NOUN 
+techniques, NOUN 
+12'~5, PROPN 
+
+, SPACE 
+required, VERB 
+CNC, PROPN 
+milling, NOUN 
+technique, NOUN 
+higher, ADJ 
+
+, SPACE 
+density, NOUN 
+bone, NOUN 
+use, NOUN 
+single, ADJ 
+threshold, NOUN 
+value, NOUN 
+
+, SPACE 
+entire, ADJ 
+specimen, NOUN 
+yielded, VERB 
+small, ADJ 
+errors, NOUN 
+morphological, ADJ 
+
+, SPACE 
+properties, NOUN 
+volume, NOUN 
+fraction, NOUN 
+Clearly, ADV 
+sophisticated, ADJ 
+
+, SPACE 
+algorithms, NOUN 
+performance, NOUN 
+unacceptable, ADJ 
+
+, SPACE 
+technique, NOUN 
+suited, ADJ 
+high, ADJ 
+resolution, NOUN 
+ex, NOUN 
+situ, NOUN 
+
+, SPACE 
+imaging, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+permit, VERB 
+early, ADJ 
+identification, NOUN 
+
+, SPACE 
+subtle, ADJ 
+disease-, NOUN 
+drug, NOUN 
+related, VERB 
+changes, NOUN 
+trabecular, ADJ 
+architecture, NOUN 
+
+, SPACE 
+detectable, ADJ 
+current, ADJ 
+techniques, NOUN 
+
+, SPACE 
+Despite, SCONJ 
+advantages, NOUN 
+new, ADJ 
+technique, NOUN 
+
+, SPACE 
+limitations, NOUN 
+like, ADP 
+microtome, ADV 
+based, VERB 
+serial, ADJ 
+sectioning, VERB 
+
+, SPACE 
+method, NOUN 
+14'15, PROPN 
+destructive, ADJ 
+imaging, NOUN 
+technique, NOUN 
+
+, SPACE 
+specimen, NOUN 
+destroyed, VERB 
+course, NOUN 
+imaging, NOUN 
+
+, SPACE 
+technique, NOUN 
+situ, NOUN 
+Furthermore, ADV 
+biochemical, ADJ 
+
+, SPACE 
+biomechanical, ADJ 
+analyses, NOUN 
+specimen, NOUN 
+
+, SPACE 
+imaging, NOUN 
+analyses, NOUN 
+nondestructive, ADJ 
+trabecular, ADJ 
+architecture, NOUN 
+jeopardize, VERB 
+silver, NOUN 
+nitrate, ADJ 
+
+, SPACE 
+staining, VERB 
+tess, NOUN 
+important, ADJ 
+limitation, NOUN 
+long, ADJ 
+imaging, NOUN 
+time, NOUN 
+
+, SPACE 
+Chemical, PROPN 
+processing, NOUN 
+samples, NOUN 
+week, NOUN 
+
+, SPACE 
+multiple, ADJ 
+specimens, NOUN 
+processed, VERB 
+simultaneously, ADV 
+
+, SPACE 
+Imaging, PROPN 
+embedded, VERB 
+specimen, NOUN 
+currently, ADV 
+requires, VERB 
+16, NUM 
+
+, SPACE 
+17, NUM 
+h, NOUN 
+10, NUM 
+mm, ADJ 
+long, ADJ 
+cylindrical, ADJ 
+specimen, NOUN 
+65, NUM 
+75, NUM 
+h, NOUN 
+
+, SPACE 
+vertebral, ADJ 
+body, NOUN 
+system, NOUN 
+auto-, ADV 
+
+, SPACE 
+mated, ADJ 
+require, VERB 
+supervision, NOUN 
+user, NOUN 
+time, NOUN 
+minimal, ADJ 
+
+, SPACE 
+Typically, ADV 
+specimens, NOUN 
+processed, VERB 
+overnight, ADV 
+imaging, VERB 
+
+, SPACE 
+8, NUM 
+10, NUM 
+mm, NOUN 
+specimen, NOUN 
+day, NOUN 
+easy, ADJ 
+achieve, VERB 
+
+, SPACE 
+limitation, NOUN 
+single, ADJ 
+value, NOUN 
+threshold, NOUN 
+scheme, NOUN 
+employed, VERB 
+
+, SPACE 
+applicable, ADJ 
+specimens, NOUN 
+low, ADJ 
+density, NOUN 
+
+, SPACE 
+thin, ADJ 
+<, NUM 
+60, NUM 
+80, NUM 
+1xm, NOUN 
+thick, ADJ 
+trabeculae, NOUN 
+case, NOUN 
+
+, SPACE 
+recommend, VERB 
+use, NOUN 
+higher, ADJ 
+resolution, NOUN 
+system, NOUN 
+sophisti-, ADJ 
+
+, SPACE 
+cated, VERB 
+thresholding, NOUN 
+algorithms.12'15, NOUN 
+possible, ADJ 
+free, ADJ 
+
+, SPACE 
+parameter, NOUN 
+X, PROPN 
+algorithm, PROPN 
+sensitive, ADJ 
+density, NOUN 
+
+, SPACE 
+alternative, ADJ 
+value, NOUN 
+X, PROPN 
+=, NOUN 
+0.96, NUM 
+
+, SPACE 
+better, ADJ 
+performance, NOUN 
+lower, ADJ 
+density, NOUN 
+bone, NOUN 
+method, NOUN 
+
+, SPACE 
+predicting, VERB 
+volume, NOUN 
+fraction, NOUN 
+single, ADJ 
+threshold, NOUN 
+value, NOUN 
+
+, SPACE 
+performing, VERB 
+types, NOUN 
+quantitative, ADJ 
+validation, NOUN 
+
+, SPACE 
+studies, NOUN 
+described, VERB 
+particular, ADJ 
+bone, NOUN 
+tissue, NOUN 
+interest, NOUN 
+
+, SPACE 
+relative, ADJ 
+advantages, NOUN 
+disadvantages, NOUN 
+
+, SPACE 
+technique, NOUN 
+respect, NOUN 
+available, ADJ 
+imaging, NOUN 
+modalities, NOUN 
+
+, SPACE 
+CNC, PROPN 
+milling, NOUN 
+technique, NOUN 
+best, ADV 
+viewed, VERB 
+complementary, ADJ 
+
+, SPACE 
+existing, VERB 
+technologies, NOUN 
+micro, ADJ 
+CT, PROPN 
+1,4J1, PROPN 
+micro, PROPN 
+MRI, PROPN 
+2'9'13, NUM 
+
+, SPACE 
+important, ADJ 
+benefit, NOUN 
+able, ADJ 
+generate, VERB 
+images, NOUN 
+
+, SPACE 
+nondestructively, ADV 
+techniques, NOUN 
+vivo, NOUN 
+
+, SPACE 
+imaging, NOUN 
+required, VERB 
+specimen, NOUN 
+required, VERB 
+
+, SPACE 
+analysis, NOUN 
+imaging, VERB 
+lack, NOUN 
+radiation, NOUN 
+micro, PROPN 
+MRI, PROPN 
+
+, SPACE 
+clinically, ADV 
+resolution, NOUN 
+
+, SPACE 
+noninvasive, ADJ 
+techniques, NOUN 
+limited, VERB 
+access, NOUN 
+technol-, NOUN 
+
+, SPACE 
+ogies, NOUN 
+techniques, NOUN 
+require, VERB 
+complex, ADJ 
+image, NOUN 
+postprocess-, NUM 
+
+, SPACE 
+ing, PROPN 
+4'9"12'13, PROPN 
+limiting, VERB 
+availability, NOUN 
+research, NOUN 
+
+, SPACE 
+community, NOUN 
+requiring, VERB 
+expertise, NOUN 
+equipment, NOUN 
+usage, NOUN 
+
+, SPACE 
+image, NOUN 
+interpretation, NOUN 
+Serial, ADJ 
+sectioning,14'~5, NOUN 
+like, ADP 
+CNC, PROPN 
+milling, NOUN 
+
+, SPACE 
+technique, NOUN 
+destructive, ADJ 
+imaging, NOUN 
+method, NOUN 
+
+, SPACE 
+vivo, NOUN 
+specimen, NOUN 
+required, VERB 
+
+, SPACE 
+analysis, NOUN 
+Serial, ADJ 
+sectioning, NOUN 
+unique, ADJ 
+advantage, NOUN 
+
+, SPACE 
+method, NOUN 
+speed, NOUN 
+capability, NOUN 
+imaging, VERB 
+
+, SPACE 
+vertebral, ADJ 
+body, NOUN 
+approximately, ADV 
+2, NUM 
+h., NOUN 
+15, NUM 
+like, ADP 
+non-, NUM 
+
+, SPACE 
+destructive, ADJ 
+imaging, NOUN 
+techniques, NOUN 
+serial, ADJ 
+sectioning, VERB 
+technique, NOUN 
+
+, SPACE 
+inherently, ADV 
+limited, VERB 
+dependence, NOUN 
+image, NOUN 
+resolution, NOUN 
+
+, SPACE 
+specimen, NOUN 
+size, NOUN 
+Related, VERB 
+large, ADJ 
+specimens, NOUN 
+serial-, NOUN 
+
+, SPACE 
+sectioning, VERB 
+technique, NOUN 
+reported, VERB 
+15, NUM 
+requires, VERB 
+substantial, ADJ 
+postpro-, NOUN 
+
+, SPACE 
+cessing, VERB 
+images, NOUN 
+variable, ADJ 
+lighting, NOUN 
+conditions, NOUN 
+
+, SPACE 
+image, NOUN 
+quality, NOUN 
+cross, NOUN 
+section, NOUN 
+
+, SPACE 
+Finally, ADV 
+simplicity, NOUN 
+modularity, NOUN 
+CNC, PROPN 
+milling, NOUN 
+
+, SPACE 
+technique, NOUN 
+present, VERB 
+number, NOUN 
+possibilities, NOUN 
+enhance-, NUM 
+
+, SPACE 
+ments, NOUN 
+Use, PROPN 
+higher, ADJ 
+resolution, NOUN 
+camera, NOUN 
+increase, VERB 
+reso-, PRON 
+
+, SPACE 
+lutions, NOUN 
+described, VERB 
+upgrade, NOUN 
+
+, SPACE 
+simple, ADJ 
+implement, VERB 
+modular, ADJ 
+nature, NOUN 
+system, NOUN 
+
+, SPACE 
+possible, ADJ 
+differentially, ADV 
+stain, VERB 
+bone, NOUN 
+identify, VERB 
+
+, SPACE 
+different, ADJ 
+histologic, ADJ 
+entities, NOUN 
+newly, ADV 
+formed, VERB 
+osteoid, NOUN 
+
+, SPACE 
+mineralized, VERB 
+bone, NOUN 
+bone, NOUN 
+ingrowth, NOUN 
+implants, NOUN 
+CNC, PROPN 
+
+, SPACE 
+milling, NOUN 
+technique, NOUN 
+easily, ADV 
+mill, VERB 
+metallic, ADJ 
+implants, NOUN 
+Use, PROPN 
+color, NOUN 
+
+, SPACE 
+digital, ADJ 
+photography, NOUN 
+imaging, NOUN 
+enable, VERB 
+separation, NOUN 
+
+, SPACE 
+entities, NOUN 
+quantification, NOUN 
+dimensional, ADJ 
+archi-, ADJ 
+
+, SPACE 
+tectures, NOUN 
+Coupled, VERB 
+high, ADJ 
+resolution, NOUN 
+capability, NOUN 
+
+, SPACE 
+enhancement, NOUN 
+CNC, PROPN 
+milling, NOUN 
+technique, NOUN 
+greatly, ADV 
+improve, VERB 
+
+, SPACE 
+ability, NOUN 
+quantitatively, ADV 
+characterize, VERB 
+bone, NOUN 
+responses, NOUN 
+im-, VERB 
+
+, SPACE 
+plants, NOUN 
+drug, NOUN 
+treatments, NOUN 
+large, ADJ 
+small, ADJ 
+animal, NOUN 
+
+, SPACE 
+models, NOUN 
+
+, SPACE 
+Acknowledgments, NOUN 
+work, NOUN 
+supported, VERB 
+grants, NOUN 
+
+, SPACE 
+Whitaker, PROPN 
+Foundation, PROPN 
+NIH, PROPN 
+AR4, PROPN 
+i481, PROPN 
+AR43784, PROPN 
+Committee, PROPN 
+
+
+, SPACE 
+Bone, PROPN 
+Vol, PROPN 
+21, NUM 
+3, NUM 
+J.D., PROPN 
+Beck, PROPN 
+et, PROPN 
+al, PROPN 
+287, NUM 
+
+, SPACE 
+September, PROPN 
+1997:281, NUM 
+287, NUM 
+Imaging, PROPN 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+Research, PROPN 
+UC, PROPN 
+Berkeley, PROPN 
+Thanks, NOUN 
+technical, ADJ 
+assistance, NOUN 
+
+, SPACE 
+Andy, PROPN 
+Hsia, PROPN 
+Gordon, PROPN 
+Wong, PROPN 
+
+, SPACE 
+References, PROPN 
+
+, SPACE 
+1, NUM 
+Bonse, NOUN 
+U., PROPN 
+Busch, PROPN 
+F., PROPN 
+Gunnewig, PROPN 
+O., PROPN 
+Beckmann, PROPN 
+F., PROPN 
+Pahl, PROPN 
+R., PROPN 
+Delling, PROPN 
+G., PROPN 
+
+, SPACE 
+Hahn, PROPN 
+M., PROPN 
+Graeff, PROPN 
+W., PROPN 
+3D, PROPN 
+computed, VERB 
+X, NOUN 
+ray, NOUN 
+tomography, NOUN 
+human, PROPN 
+cancel-, PROPN 
+
+, SPACE 
+lous, ADJ 
+bone, NOUN 
+8, NUM 
+micron, NOUN 
+spatial, NOUN 
+10, NUM 
+4, NUM 
+energy, NOUN 
+resolution, NOUN 
+Bone, PROPN 
+Miner, PROPN 
+
+, SPACE 
+25:25, NUM 
+38, NUM 
+1994, NUM 
+
+, SPACE 
+2, X 
+Chung, PROPN 
+H., PROPN 
+W., PROPN 
+WehrlJ, PROPN 
+F., PROPN 
+W., PROPN 
+Williams, PROPN 
+J., PROPN 
+L., PROPN 
+Wehrli, PROPN 
+S., PROPN 
+L., PROPN 
+Three-, ADP 
+
+, SPACE 
+dimensional, ADJ 
+nuclear, ADJ 
+r, NOUN 
+~, NOUN 
+agnetic, ADJ 
+resonance, PROPN 
+microimaging, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+10:1452, PROPN 
+1461, NUM 
+1995, NUM 
+
+, SPACE 
+3, X 
+Engelke, PROPN 
+K., PROPN 
+Song, PROPN 
+S., PROPN 
+M., PROPN 
+Gliier, PROPN 
+C., PROPN 
+C., PROPN 
+Genant, PROPN 
+H., PROPN 
+K., PROPN 
+digital, ADJ 
+model, NOUN 
+
+, SPACE 
+trabecular, ADJ 
+bone, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+11:480, PROPN 
+489, NUM 
+1996, NUM 
+
+, SPACE 
+4, X 
+Feldkamp, NOUN 
+L., PROPN 
+A., PROPN 
+Goldstein, PROPN 
+S., PROPN 
+A., PROPN 
+Parfitt, PROPN 
+A., PROPN 
+M., PROPN 
+Jesion, PROPN 
+G., PROPN 
+Kleerekoper, PROPN 
+
+, SPACE 
+M., PROPN 
+direct, ADJ 
+examinal, ADJ 
+ion, NOUN 
+dimensional, ADJ 
+bone, NOUN 
+architecture, NOUN 
+vitro, X 
+
+, SPACE 
+computed, VERB 
+tomography, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+4:3, NUM 
+11, NUM 
+1989, NUM 
+
+, SPACE 
+5, X 
+Fyhrie, PROPN 
+D., PROPN 
+P., PROPN 
+Fazzal, PROPN 
+~, PUNCT 
+xi, PROPN 
+N., PROPN 
+L., PROPN 
+Goulet, PROPN 
+R., PROPN 
+Goldstein, PROPN 
+S., PROPN 
+A., NOUN 
+Direct, PROPN 
+
+, SPACE 
+calculation, NOUN 
+die, NOUN 
+surface, NOUN 
+volume, NOUN 
+ratio, NOUN 
+human, ADJ 
+cancellous, ADJ 
+bone, NOUN 
+J, PROPN 
+Bio-, PROPN 
+
+, SPACE 
+mech, ADJ 
+26:955, NOUN 
+967, NUM 
+19913, NUM 
+
+, SPACE 
+6, X 
+Galante, PROPN 
+J., PROPN 
+Rostoker, PROPN 
+W., PROPN 
+Ray, PROPN 
+R., PROPN 
+D., PROPN 
+Physical, PROPN 
+properties, NOUN 
+trabecular, ADJ 
+
+, SPACE 
+bone, NOUN 
+Calcif, PROPN 
+Tissue, PROPN 
+5:236, PROPN 
+246, NUM 
+1970, NUM 
+
+, SPACE 
+7, X 
+Goulet, PROPN 
+R., PROPN 
+W., PROPN 
+Goldstein, PROPN 
+S., PROPN 
+A., PROPN 
+Ciarelli, PROPN 
+M., PROPN 
+J., PROPN 
+Kuhn, PROPN 
+J., PROPN 
+L., PROPN 
+Brown, PROPN 
+M., PROPN 
+B., PROPN 
+
+, SPACE 
+Feldkamp, PROPN 
+L., PROPN 
+A., NOUN 
+relationship, NOUN 
+structural, ADJ 
+orthogonal, ADJ 
+
+, SPACE 
+compressive, ADJ 
+properties, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+J, PROPN 
+Biomech, PROPN 
+27:375, PROPN 
+389, NUM 
+1994, NUM 
+
+, SPACE 
+8, X 
+Guo, PROPN 
+X., PROPN 
+E., PROPN 
+Weissman, PROPN 
+D., PROPN 
+E., PROPN 
+Goulet, PROPN 
+R., PROPN 
+W., PROPN 
+Hollister, PROPN 
+S., PROPN 
+J., PROPN 
+Derwin, PROPN 
+K., PROPN 
+A., PROPN 
+
+, SPACE 
+Goldstein, PROPN 
+S., PROPN 
+A., PROPN 
+Characterization, PROPN 
+local, ADJ 
+failure, NOUN 
+vertebral, ADJ 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+Trans, PROPN 
+41st, NOUN 
+ORS, PROPN 
+20:53~, NUM 
+1995, NUM 
+
+, SPACE 
+9, X 
+Hipp, PROPN 
+J., PROPN 
+A., PROPN 
+Jansujwic~, PROPN 
+A., PROPN 
+Simmons, PROPN 
+C., PROPN 
+A., PROPN 
+Snyder, PROPN 
+B., PROPN 
+D., PROPN 
+Trabecular, PROPN 
+bone, NOUN 
+morphology, NOUN 
+micro, ADJ 
+magnetic, ADJ 
+resonance, NOUN 
+imaging, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+
+, SPACE 
+11:286, NUM 
+292, NUM 
+1996, NUM 
+
+, SPACE 
+10, X 
+Hollister, PROPN 
+S., PROPN 
+J., PROPN 
+Brennan, PROPN 
+J., PROPN 
+M., PROPN 
+Kikuchi, PROPN 
+N., PROPN 
+homogenization, NOUN 
+sampling, VERB 
+
+, SPACE 
+procedure, NOUN 
+calculating, VERB 
+trabecular, ADJ 
+bone, NOUN 
+effective, ADJ 
+stiffness, NOUN 
+tissue, NOUN 
+level, NOUN 
+
+, SPACE 
+stress, NOUN 
+J, PROPN 
+Biomech, PROPN 
+27:433, NUM 
+444, NUM 
+1994, NUM 
+
+, SPACE 
+11, NUM 
+Kinney, PROPN 
+J., PROPN 
+H., PROPN 
+Lane, PROPN 
+N., PROPN 
+E., PROPN 
+Haupt, PROPN 
+D., PROPN 
+L., PROPN 
+vivo, NOUN 
+dimensional, ADJ 
+
+, SPACE 
+microscopy, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+J, PROPN 
+Bone, PROPN 
+Miner, PROPN 
+Res, PROPN 
+10:264, PROPN 
+270, NUM 
+1995, NUM 
+
+, SPACE 
+12, NUM 
+Kuhn, PROPN 
+J., PROPN 
+L., PROPN 
+Goldstein, PROPN 
+S., PROPN 
+A., PROPN 
+Feldkamp, PROPN 
+L., PROPN 
+A., PROPN 
+Goulet, PROPN 
+R., PROPN 
+W., PROPN 
+Jesion, PROPN 
+G., PROPN 
+
+, SPACE 
+Evaluation, PROPN 
+microcomputed, VERB 
+tomography, NOUN 
+system, NOUN 
+study, VERB 
+trabecular, ADJ 
+bone, NOUN 
+
+, SPACE 
+structure, NOUN 
+J, PROPN 
+Orthop, PROPN 
+Res, PROPN 
+8:833, NUM 
+842, NUM 
+1990, NUM 
+
+, SPACE 
+13, X 
+Majumdar, PROPN 
+S., PROPN 
+Newitt, PROPN 
+D., PROPN 
+Jergas, PROPN 
+M., PROPN 
+Gies, PROPN 
+A., PROPN 
+Chiu, PROPN 
+E., PROPN 
+Osman, PROPN 
+D., PROPN 
+Keltner, PROPN 
+
+, SPACE 
+J., PROPN 
+Keyak, PROPN 
+J., PROPN 
+Genant, PROPN 
+H., PROPN 
+Evaluation, PROPN 
+technical, ADJ 
+factors, NOUN 
+affecting, VERB 
+
+, SPACE 
+quantification, NOUN 
+trabecular, ADJ 
+bone, NOUN 
+structure, NOUN 
+magnetic, ADJ 
+resonance, NOUN 
+imaging, NOUN 
+
+, SPACE 
+Bone, PROPN 
+17:417, PROPN 
+430, NUM 
+1995, NUM 
+
+, SPACE 
+14, NUM 
+Odgaard, PROPN 
+A., PROPN 
+Andersen, PROPN 
+K., PROPN 
+Melsen, PROPN 
+F., PROPN 
+Gundersen, PROPN 
+H., PROPN 
+J., PROPN 
+direct, ADJ 
+method, NOUN 
+
+, SPACE 
+fast, ADJ 
+dimensional, ADJ 
+serial, ADJ 
+reconstruction, NOUN 
+J, PROPN 
+Microsc, PROPN 
+159:335, PROPN 
+342, NUM 
+1990, NUM 
+
+, SPACE 
+15, X 
+Odgaard, PROPN 
+A., PROPN 
+Andersen, PROPN 
+K., PROPN 
+Ullerup, PROPN 
+R., PROPN 
+Frich, PROPN 
+L., PROPN 
+H., PROPN 
+Melsen, PROPN 
+F., PROPN 
+Three-, ADP 
+
+, SPACE 
+dimensional, ADJ 
+reconstruction, NOUN 
+entire, ADJ 
+vertebral, ADJ 
+bodies, NOUN 
+Bone, NOUN 
+15:335, NUM 
+342, NUM 
+1994, NUM 
+
+, SPACE 
+16, X 
+van, PROPN 
+Rietbergen, PROPN 
+B., PROPN 
+Weinans, PROPN 
+H., PROPN 
+Huiskes, PROPN 
+R., PROPN 
+Odgaard, PROPN 
+A., NOUN 
+new, ADJ 
+method, NOUN 
+
+, SPACE 
+determine, VERB 
+trabecular, ADJ 
+bone, NOUN 
+elastic, ADJ 
+properties, NOUN 
+loading, NOUN 
+microme-, PROPN 
+
+, SPACE 
+chanical, ADJ 
+finite, ADJ 
+element, NOUN 
+models, NOUN 
+J, PROPN 
+Biomech, PROPN 
+28:69, NUM 
+81, NUM 
+1995, NUM 
+
+, SPACE 
+17, X 
+Zhu, PROPN 
+M., PROPN 
+Keller, PROPN 
+T., PROPN 
+S., PROPN 
+Moeljanto, PROPN 
+E., PROPN 
+Spengler, PROPN 
+D., PROPN 
+M., PROPN 
+Multiplanar, PROPN 
+
+, SPACE 
+variations, NOUN 
+structural, ADJ 
+characteristics, NOUN 
+cancellous, ADJ 
+bone, NOUN 
+Bone, NOUN 
+15:251-, NOUN 
+
+, SPACE 
+259, NUM 
+1994, NUM 
+
+, SPACE 
+Date, PROPN 
+Received, VERB 
+15, NUM 
+1996, NUM 
+
+, SPACE 
+Date, PROPN 
+Revised, VERB 
+April, PROPN 
+23, NUM 
+1997, NUM 
+
+, SPACE 
+Date, PROPN 
+Accepted, PROPN 
+20, NUM 
+1997, NUM 
+
+
+, SPACE 

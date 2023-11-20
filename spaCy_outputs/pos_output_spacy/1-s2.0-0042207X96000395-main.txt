@@ -1,0 +1,2420 @@
+Vacuum, PROPN 
+volume, NOUN 
+47Inumbers, NOUN 
+6, NUM 
+6lpages, NUM 
+653, NUM 
+65511996, NUM 
+
+, SPACE 
+Copyright, PROPN 
+0, NUM 
+1996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd, PROPN 
+
+, SPACE 
+Printed, PROPN 
+Great, PROPN 
+Britain, PROPN 
+riahts, NOUN 
+reserved, VERB 
+Pergamon, PROPN 
+
+, SPACE 
+PII, PROPN 
+SOO42, PROPN 
+207X(96)00039, PROPN 
+5, NUM 
+0042, NUM 
+207X/56, PROPN 
+$, SYM 
+15.00+.00, NUM 
+
+, SPACE 
+Wall, PROPN 
+conditioning, NOUN 
+ITER, PROPN 
+
+, SPACE 
+H, PROPN 
+Nakamura, PROPN 
+J, PROPN 
+Dietz, PROPN 
+P, PROPN 
+Ladd, PROPN 
+lTER, NOUN 
+Garching, PROPN 
+JWS, PROPN 
+c, PROPN 
+o, NOUN 
+Max, PROPN 
+Planck, PROPN 
+Institute, PROPN 
+fuer, NOUN 
+Plasmaphysik, PROPN 
+
+, SPACE 
+Boltzmannstrasse, PROPN 
+2,85748, NOUN 
+Garching, PROPN 
+bei, NOUN 
+Muenchen, PROPN 
+Germany, PROPN 
+
+, SPACE 
+article, NOUN 
+presents, VERB 
+plans, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+ITER, PROPN 
+Typical, ADJ 
+machine, NOUN 
+parameters, NOUN 
+7.5, NUM 
+GW, PROPN 
+fusion, NOUN 
+
+, SPACE 
+power, NOUN 
+7000, NUM 
+s, NOUN 
+DT, PROPN 
+burn, NOUN 
+duration, NOUN 
+achieve, VERB 
+plasma, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+required, VERB 
+ITER, PROPN 
+
+, SPACE 
+baseline, ADJ 
+methods, NOUN 
+glow, VERB 
+discharge, NOUN 
+cleaning, VERB 
+zero, NUM 
+magnetic, ADJ 
+field, NOUN 
+electron, NOUN 
+cyclotron, NOUN 
+resonance, NOUN 
+
+, SPACE 
+discharge, NOUN 
+cleaning, NOUN 
+divertor, VERB 
+active, ADJ 
+pumping, NOUN 
+high, ADJ 
+magnetic, ADJ 
+fields, NOUN 
+considered, VERB 
+Alternative, ADJ 
+methods, NOUN 
+
+, SPACE 
+considered, VERB 
+Copyright, NOUN 
+0, NUM 
+7996, NUM 
+Elsevier, PROPN 
+Science, PROPN 
+Ltd., PROPN 
+
+, SPACE 
+Key, ADJ 
+words, NOUN 
+Electron, PROPN 
+cyclotron, NOUN 
+resonance, NOUN 
+discharge, NOUN 
+cleaning, NOUN 
+glow, VERB 
+discharge, NOUN 
+cleaning, NOUN 
+ITER, PROPN 
+recycling, VERB 
+control, NOUN 
+
+, SPACE 
+wall, NOUN 
+conditioning, NOUN 
+
+, SPACE 
+Introduction, NOUN 
+
+, SPACE 
+purpose, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+impurity, NOUN 
+removal, NOUN 
+recyc-, VERB 
+
+, SPACE 
+ling, NOUN 
+control, NOUN 
+hydrogenic, ADJ 
+gas, NOUN 
+plasma, NOUN 
+start, NOUN 
+
+, SPACE 
+addition, NOUN 
+minimisation, NOUN 
+tritium, NOUN 
+inventory, NOUN 
+vessel, NOUN 
+com-, NOUN 
+
+, SPACE 
+ponents, NOUN 
+important, ADJ 
+shown, VERB 
+recent, ADJ 
+plasma, NOUN 
+experi-, NOUN 
+
+, SPACE 
+ments, NOUN 
+deuterium, NOUN 
+and/or, CCONJ 
+tritium, NOUN 
+gases, NOUN 
+present, ADJ 
+plasma, NOUN 
+
+, SPACE 
+confinement, NOUN 
+devices, NOUN 
+wall, PROPN 
+conditioning, NOUN 
+plays, VERB 
+important, ADJ 
+role, NOUN 
+
+, SPACE 
+realising, VERB 
+good, ADJ 
+plasma, NOUN 
+confinement, NOUN 
+characteristics.3.4.5, PROPN 
+
+, SPACE 
+devices, NOUN 
+Glow, PROPN 
+Discharge, PROPN 
+Cleaning, PROPN 
+GDC),6, PROPN 
+Electron, PROPN 
+Cyclotron, PROPN 
+
+, SPACE 
+Resonance, PROPN 
+Discharge, PROPN 
+Cleaning, PROPN 
+ECRDC),7, PROPN 
+Taylor, PROPN 
+Type, PROPN 
+Dis-, X 
+
+, SPACE 
+charge, NOUN 
+Cleaning, PROPN 
+TDC),8, PROPN 
+Disruptive, PROPN 
+Discharge, PROPN 
+Cleaning, PROPN 
+DDC),4, NOUN 
+
+, SPACE 
+tokamak, PROPN 
+shot, VERB 
+discharge, NOUN 
+cleaning, NOUN 
+thin, ADJ 
+film, NOUN 
+coating, NOUN 
+
+, SPACE 
+carbonisation, NOUN 
+boronization’O, PROPN 
+siliconization, NOUN 
+
+, SPACE 
+ITER, PROPN 
+start, NOUN 
+super, ADJ 
+conducting, NOUN 
+coils, NOUN 
+steady, ADJ 
+
+, SPACE 
+state, NOUN 
+toroidal, NOUN 
+magnetic, ADJ 
+field, NOUN 
+present, ADJ 
+exists, VERB 
+established, VERB 
+
+, SPACE 
+method, NOUN 
+periodically, ADV 
+conditioning, VERB 
+surfaces, NOUN 
+high, ADJ 
+field, NOUN 
+
+, SPACE 
+reduce, VERB 
+near, ADJ 
+surface, NOUN 
+hydrogenic, ADJ 
+inventory, NOUN 
+low, ADJ 
+recycling, NOUN 
+
+, SPACE 
+plasma, NOUN 
+operation, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+
+, SPACE 
+procedures, NOUN 
+considered, VERB 
+zero, NUM 
+magnetic, ADJ 
+field, NOUN 
+
+, SPACE 
+wall, NOUN 
+conditioning, NOUN 
+high, ADJ 
+magnetic, ADJ 
+field, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+
+, SPACE 
+periodic, ADJ 
+shot, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+
+, SPACE 
+ITER, VERB 
+machine, NOUN 
+
+, SPACE 
+ITER, NOUN 
+machine, NOUN 
+aim, NOUN 
+demonstrate, VERB 
+controlled, VERB 
+ignition, NOUN 
+
+, SPACE 
+nominal, ADJ 
+fusion, NOUN 
+power, NOUN 
+1.5, NUM 
+GWwith, PROPN 
+D, PROPN 
+T, NOUN 
+fuel, NOUN 
+mixture, NOUN 
+
+, SPACE 
+providing, VERB 
+inductive, ADJ 
+pulse, NOUN 
+flat, ADJ 
+capability, NOUN 
+1000, NUM 
+s, NOUN 
+
+, SPACE 
+steady, ADJ 
+state, NOUN 
+ultimate, ADJ 
+goal, NOUN 
+basic, ADJ 
+device, NOUN 
+par-, PROPN 
+
+, SPACE 
+ameters, NOUN 
+major, ADJ 
+radius, NOUN 
+8.14, NUM 
+m, PROPN 
+minor, ADJ 
+radius, NOUN 
+2.8, NUM 
+m., NOUN 
+
+, SPACE 
+plasma, NOUN 
+current, NOUN 
+21, NUM 
+MA, PROPN 
+toroidal, VERB 
+magnetic, ADJ 
+field, NOUN 
+5.68, NUM 
+
+, SPACE 
+T, NOUN 
+major, ADJ 
+radius, NOUN 
+plasma, NOUN 
+single, ADJ 
+null, NOUN 
+divertor, NOUN 
+
+, SPACE 
+configuration, NOUN 
+null, NOUN 
+located, VERB 
+Inside, ADP 
+
+, SPACE 
+vacuum, NOUN 
+vessel, NOUN 
+stainless, ADJ 
+steel, NOUN 
+316LN, PROPN 
+divertor, NOUN 
+cassettes, NOUN 
+shield, NOUN 
+blankets, NOUN 
+installed, VERB 
+wall, NOUN 
+material, NOUN 
+shield, NOUN 
+
+, SPACE 
+blanket, NOUN 
+plasma, NOUN 
+facing, VERB 
+components, NOUN 
+divertor, NOUN 
+
+, SPACE 
+cassettes, NOUN 
+candidate, NOUN 
+materials, NOUN 
+Carbon, PROPN 
+fiber, NOUN 
+composite, NOUN 
+
+, SPACE 
+CFC, PROPN 
+W., PROPN 
+Material, PROPN 
+selection, NOUN 
+based, VERB 
+material, NOUN 
+R, PROPN 
+
+, SPACE 
+D, PROPN 
+design, NOUN 
+evacuate, VERB 
+vacuum, NOUN 
+vessel, NOUN 
+16, NUM 
+cryopumps, NOUN 
+
+, SPACE 
+located, VERB 
+inside, ADJ 
+divertor, NOUN 
+pumping, VERB 
+ports, NOUN 
+burn, NOUN 
+phase, NOUN 
+
+, SPACE 
+cryopumps, NOUN 
+operation, NOUN 
+mode, NOUN 
+pumps, NOUN 
+
+, SPACE 
+regeneration, NOUN 
+mode, NOUN 
+regeneration, NOUN 
+90, NUM 
+
+, SPACE 
+regenerated, VERB 
+fuel, NOUN 
+gases, NOUN 
+H, PROPN 
+D, PROPN 
+T, PROPN 
+directly, ADV 
+fuelled, VERB 
+
+, SPACE 
+plasmas, NOUN 
+recirculation, NOUN 
+operation, NOUN 
+mitigates, VERB 
+tritium, NOUN 
+
+, SPACE 
+inventory, NOUN 
+fuelling, NOUN 
+system, NOUN 
+consists, VERB 
+gas, NOUN 
+injection, NOUN 
+pellet, NOUN 
+
+, SPACE 
+injection, NOUN 
+gas, NOUN 
+puffing, NOUN 
+system, NOUN 
+deliver, VERB 
+hydrogenic, ADJ 
+
+, SPACE 
+H, PROPN 
+D, PROPN 
+T, PROPN 
+gases, NOUN 
+divertor, NOUN 
+radiation, NOUN 
+enhancement, NOUN 
+
+, SPACE 
+wall, PROPN 
+conditioning, NOUN 
+poloidal, ADJ 
+elevations, NOUN 
+
+, SPACE 
+plasma, NOUN 
+center, NOUN 
+divertor, NOUN 
+
+, SPACE 
+Requirements, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+ITER, PROPN 
+
+, SPACE 
+Wall, PROPN 
+conditioning, NOUN 
+capability, NOUN 
+1TER, NOUN 
+
+, SPACE 
+pumping, NOUN 
+system, NOUN 
+Wall, PROPN 
+conditioning, NOUN 
+gases, NOUN 
+HZ, PROPN 
+DL, PROPN 
+
+, SPACE 
+reactive, NOUN 
+gases, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+pumping, VERB 
+speed, NOUN 
+
+, SPACE 
+impurity, NOUN 
+residence, NOUN 
+times, NOUN 
+torus, NOUN 
+5, NUM 
+10, NUM 
+s, NOUN 
+required, VERB 
+order, NOUN 
+
+, SPACE 
+minimise, VERB 
+impurity, NOUN 
+implantation, NOUN 
+discharge, NOUN 
+Maximum, ADJ 
+
+, SPACE 
+operation, NOUN 
+cleaning, NOUN 
+cycle, NOUN 
+required, VERB 
+100, NUM 
+h., NOUN 
+
+, SPACE 
+requirements, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+relate, NOUN 
+vacuum, PROPN 
+plasma, PROPN 
+
+, SPACE 
+operation, NOUN 
+tritium, NOUN 
+inventory, NOUN 
+issues, NOUN 
+
+, SPACE 
+Vacuum, PROPN 
+base, ADJ 
+vacuum, NOUN 
+pressure, NOUN 
+IO, PROPN 
+5, NUM 
+Pa, PROPN 
+hydro-, PROPN 
+
+, SPACE 
+gen, PROPN 
+isotopes, NOUN 
+lo-, X 
+Pa, NOUN 
+impurity, NOUN 
+gases, NOUN 
+bake-, PROPN 
+
+, SPACE 
+conditioning, NOUN 
+bakeout, NOUN 
+temperature, NOUN 
+vessel, NOUN 
+com-, NOUN 
+
+, SPACE 
+ponents, NOUN 
+required, VERB 
+200, NUM 
+C., PROPN 
+graphite, NOUN 
+plasma, NOUN 
+
+, SPACE 
+facing, VERB 
+components, NOUN 
+widely, ADV 
+baking, VERB 
+higher, ADJ 
+200, NUM 
+C, NOUN 
+
+, SPACE 
+653, NUM 
+
+, SPACE 
+H, PROPN 
+Nakamura, PROPN 
+et, PROPN 
+al, PROPN 
+Wall, PROPN 
+conditioning, NOUN 
+ITER, NOUN 
+
+, SPACE 
+required, VERB 
+effective, ADJ 
+outgassing, NOUN 
+Total, ADJ 
+pumping, NOUN 
+speed, NOUN 
+pri-, NOUN 
+
+, SPACE 
+mary, PROPN 
+cryopumps, NOUN 
+200, NUM 
+m3, PROPN 
+SK, PROPN 
+Projected, VERB 
+surface, NOUN 
+area, NOUN 
+
+, SPACE 
+components, NOUN 
+exposed, VERB 
+vacuum, VERB 
+inside, ADP 
+vacuum, NOUN 
+vessel, NOUN 
+
+, SPACE 
+7200, NUM 
+m2, PROPN 
+Based, VERB 
+values, NOUN 
+total, ADJ 
+outgassing, VERB 
+rate, NOUN 
+
+, SPACE 
+4.2x, NUM 
+lo-, NOUN 
+Pam3s~‘m~, NOUN 
+previous, ADJ 
+toka-, ADJ 
+
+, SPACE 
+maks, NOUN 
+e.g., ADV 
+JT-60, PROPN 
+JET, PROPN 
+TFTR, PROPN 
+DIII, PROPN 
+D, PROPN 
+total, ADJ 
+outgassing, VERB 
+
+, SPACE 
+rate, NOUN 
+range, NOUN 
+4.3, NUM 
+x, SYM 
+IO-, NOUN 
+3, NUM 
+x, SYM 
+IO-, PROPN 
+Pam’s’mm, NOUN 
+
+, SPACE 
+required, VERB 
+outgassing, VERB 
+rate, NOUN 
+ITER, PROPN 
+value, NOUN 
+
+, SPACE 
+design, NOUN 
+experience, NOUN 
+
+, SPACE 
+Plasma, PROPN 
+operation, NOUN 
+plasma, NOUN 
+operation, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+
+, SPACE 
+required, VERB 
+impurity, NOUN 
+removal, NOUN 
+recycling, VERB 
+control, NOUN 
+hydrogenic, ADJ 
+
+, SPACE 
+gas, NOUN 
+plasma, NOUN 
+start, NOUN 
+flat, ADJ 
+discharge, NOUN 
+
+, SPACE 
+purpose, NOUN 
+GDC, PROPN 
+ECRDC, PROPN 
+TDC, PROPN 
+DDC, PROPN 
+tokamak, PROPN 
+shot, VERB 
+thin, ADJ 
+
+, SPACE 
+film, NOUN 
+coating, NOUN 
+e.g., ADV 
+Li, PROPN 
+B, PROPN 
+C, PROPN 
+Si, PROPN 
+present, ADJ 
+tokamak, NOUN 
+
+, SPACE 
+experiments, NOUN 
+Recent, ADJ 
+experiments, NOUN 
+low, ADJ 
+recycling, NOUN 
+con-, VERB 
+
+, SPACE 
+ditions, NOUN 
+particle, NOUN 
+replacement, NOUN 
+time, NOUN 
+seconds, NOUN 
+necess-, VERB 
+
+, SPACE 
+ary, ADJ 
+realise, VERB 
+good, ADJ 
+plasma, NOUN 
+confinement, NOUN 
+Based, VERB 
+results, NOUN 
+
+, SPACE 
+low, ADJ 
+recycling, NOUN 
+conditions, NOUN 
+required, VERB 
+ITER, NOUN 
+obtain, VERB 
+
+, SPACE 
+good, ADJ 
+plasma, NOUN 
+confinement, NOUN 
+ITER, PROPN 
+start, NOUN 
+super-, NOUN 
+
+, SPACE 
+conducting, NOUN 
+coils, NOUN 
+steady, ADJ 
+state, NOUN 
+magnetic, ADJ 
+field, NOUN 
+produced, VERB 
+
+, SPACE 
+Change, PROPN 
+toroidal, ADJ 
+magnetic, ADJ 
+field, NOUN 
+5.7, NUM 
+T, NOUN 
+zero, NUM 
+needs, VERB 
+
+, SPACE 
+2, NUM 
+h., NOUN 
+change, NOUN 
+induce, VERB 
+mechanical, ADJ 
+stress, NOUN 
+
+, SPACE 
+superconducting, VERB 
+coils, NOUN 
+development, NOUN 
+wall, NOUN 
+con-, X 
+
+, SPACE 
+ditioning, VERB 
+method, NOUN 
+high, ADJ 
+magnetic, ADJ 
+field, NOUN 
+required, VERB 
+especially, ADV 
+
+, SPACE 
+shot, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+
+, SPACE 
+thin, ADJ 
+film, NOUN 
+coating, NOUN 
+helium, NOUN 
+gas, NOUN 
+preferred, VERB 
+wall, PROPN 
+con-, X 
+
+, SPACE 
+ditioning, VERB 
+deuterium, NOUN 
+gas, NOUN 
+increases, VERB 
+deuterium, NOUN 
+outgassing, VERB 
+
+, SPACE 
+wail, NOUN 
+plasma, NOUN 
+start, VERB 
+phase, NOUN 
+Recently, ADV 
+reduction, NOUN 
+
+, SPACE 
+wall, NOUN 
+particle, NOUN 
+inventory, NOUN 
+active, ADJ 
+divertor, NOUN 
+pumping, NOUN 
+
+, SPACE 
+reported, VERB 
+DIII, PROPN 
+D.14, PROPN 
+effect, NOUN 
+mitigate, VERB 
+requirements, NOUN 
+
+, SPACE 
+wall, PROPN 
+conditioning, NOUN 
+method, NOUN 
+
+, SPACE 
+Tritium, PROPN 
+inventory, NOUN 
+plasma, NOUN 
+operation, NOUN 
+tritium, NOUN 
+
+, SPACE 
+fuel, NOUN 
+implanted, VERB 
+retained, VERB 
+plasma, NOUN 
+facing, VERB 
+components, NOUN 
+
+, SPACE 
+According, VERB 
+experimental, ADJ 
+results, NOUN 
+present, ADJ 
+tokamak, NOUN 
+machines, NOUN 
+
+, SPACE 
+co, NOUN 
+deposition, NOUN 
+main, ADJ 
+mechanism, NOUN 
+tritium, NOUN 
+retention, NOUN 
+
+, SPACE 
+tokamak, NOUN 
+machines, NOUN 
+graphite, NOUN 
+divertor, NOUN 
+plates, NOUN 
+e.g., ADV 
+JET, NOUN 
+
+, SPACE 
+JT-60U, NUM 
+co, NOUN 
+deposition, ADJ 
+layers, NOUN 
+100, NUM 
+micron, NOUN 
+thickness, NOUN 
+
+, SPACE 
+observed, VERB 
+According, VERB 
+tritium, NOUN 
+retention, NOUN 
+analysis, NOUN 
+CFC, PROPN 
+
+, SPACE 
+divertor, NOUN 
+plate, NOUN 
+ITER, PROPN 
+tritium, NOUN 
+inventory, NOUN 
+calculated, VERB 
+
+, SPACE 
+hundreds, NOUN 
+grams, NOUN 
+1000, NUM 
+shots, NOUN 
+1000, NUM 
+s, PART 
+pulse.15, NOUN 
+
+, SPACE 
+maximum, ADJ 
+value, NOUN 
+tritium, NOUN 
+inventory, NOUN 
+wall, NOUN 
+
+, SPACE 
+conditioning, NOUN 
+effect, NOUN 
+included, VERB 
+especially, ADV 
+
+, SPACE 
+case, NOUN 
+CFC, PROPN 
+material, NOUN 
+effective, ADJ 
+reduction, NOUN 
+tritium, NOUN 
+inventory, NOUN 
+
+, SPACE 
+codeposition, NOUN 
+layer, NOUN 
+required, VERB 
+
+, SPACE 
+Wall, PROPN 
+conditioning, NOUN 
+ITER, PROPN 
+
+, SPACE 
+Based, VERB 
+existing, VERB 
+results, NOUN 
+laboratories, NOUN 
+tokamaks, NOUN 
+base-, NOUN 
+
+, SPACE 
+line, NOUN 
+methods, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+ITER, NOUN 
+glow, ADJ 
+discharge, NOUN 
+
+, SPACE 
+cleaning, NOUN 
+GDC, PROPN 
+zero, NUM 
+magnetic, ADJ 
+field, NOUN 
+electron, NOUN 
+cyclotron, NOUN 
+
+, SPACE 
+resonance, NOUN 
+discharge, NOUN 
+cleaning, VERB 
+ECRDC, PROPN 
+divertor, VERB 
+active, ADJ 
+
+, SPACE 
+pumping, VERB 
+high, ADJ 
+magnetic, ADJ 
+field, NOUN 
+addition, NOUN 
+methods, NOUN 
+
+, SPACE 
+alternative, ADJ 
+methods, NOUN 
+include, VERB 
+Taylor, PROPN 
+type, NOUN 
+discharge, NOUN 
+cleaning, VERB 
+
+, SPACE 
+TDC, PROPN 
+disruptive, ADJ 
+shot, NOUN 
+discharge, NOUN 
+cleaning, NOUN 
+DDC, PROPN 
+tokamak, PROPN 
+shot, VERB 
+
+, SPACE 
+discharge, NOUN 
+cleaning, NOUN 
+thin, ADJ 
+film, NOUN 
+coating, NOUN 
+reactive, ADJ 
+gas, NOUN 
+
+, SPACE 
+ECRDC, PROPN 
+effective, ADJ 
+wall, NOUN 
+conditioning, NOUN 
+
+, SPACE 
+shot, NOUN 
+Recently, ADV 
+ion, NOUN 
+cyclotron, NOUN 
+resonance, NOUN 
+discharge, NOUN 
+
+, SPACE 
+cleaning, NOUN 
+ICRDC, PROPN 
+proposed, VERB 
+shot, NOUN 
+discharge, NOUN 
+
+, SPACE 
+conditioning.16, NOUN 
+obtain, VERB 
+optimum, ADJ 
+conditions, NOUN 
+ITER, PROPN 
+wall, NOUN 
+
+, SPACE 
+654, NUM 
+conditioning, NOUN 
+technology, NOUN 
+physics, NOUN 
+R, PROPN 
+D, PROPN 
+required, VERB 
+Pre-, X 
+
+, SPACE 
+liminary, ADJ 
+assessments, NOUN 
+methods, NOUN 
+follows, VERB 
+
+, SPACE 
+Baseline, PROPN 
+methods, NOUN 
+1, X 
+Baking, NOUN 
+Baking, NOUN 
+vacuum, NOUN 
+
+, SPACE 
+vessel, NOUN 
+heating, NOUN 
+system, NOUN 
+pressurised, VERB 
+hot, ADJ 
+water, NOUN 
+Maximum, PROPN 
+
+, SPACE 
+baking, VERB 
+temperature, NOUN 
+limited, VERB 
+200, NUM 
+C, NOUN 
+mech-, PROPN 
+
+, SPACE 
+anical, ADJ 
+stress, NOUN 
+resulting, VERB 
+pressurised, ADJ 
+water, NOUN 
+
+, SPACE 
+2, NUM 
+MPa, NOUN 
+case, NOUN 
+divertor, NOUN 
+cassettes, NOUN 
+baking, VERB 
+
+, SPACE 
+higher, ADJ 
+temperatures, NOUN 
+350, NUM 
+C, PROPN 
+planned, VERB 
+graphite, NOUN 
+materials, NOUN 
+
+, SPACE 
+widely, ADV 
+assembled, ADJ 
+torus, NOUN 
+system, NOUN 
+baked, VERB 
+200, NUM 
+
+, SPACE 
+C, NOUN 
+100, NUM 
+h, NOUN 
+maximum, ADJ 
+impurity, NOUN 
+partial, ADJ 
+pressures, NOUN 
+drop, VERB 
+
+, SPACE 
+<, X 
+10m3, NUM 
+Pa., PROPN 
+surfaces, NOUN 
+maintained, VERB 
+2, NUM 
+150, NUM 
+C, NOUN 
+
+, SPACE 
+plasma, NOUN 
+shots, NOUN 
+minimise, VERB 
+impurity, NOUN 
+absorption, NOUN 
+H, NOUN 
+trapping, NOUN 
+
+, SPACE 
+2, X 
+GDC, PROPN 
+GDC, PROPN 
+widely, ADV 
+existing, VERB 
+tokamaks.5,h, NOUN 
+
+, SPACE 
+GDC, PROPN 
+high, ADJ 
+magnetic, ADJ 
+field, NOUN 
+difficult, ADJ 
+GDC, PROPN 
+
+, SPACE 
+initial, ADJ 
+machine, NOUN 
+commissioning, VERB 
+phase, NOUN 
+prior, ADV 
+
+, SPACE 
+plasma, NOUN 
+GDC, PROPN 
+system, NOUN 
+designed, VERB 
+H2,Dz, PROPN 
+
+, SPACE 
+reactive, NOUN 
+gases, NOUN 
+GDC, PROPN 
+anodes, NOUN 
+attached, VERB 
+vacuum, NOUN 
+vessel, NOUN 
+
+, SPACE 
+fixed, VERB 
+movable, ADJ 
+type, NOUN 
+probes, NOUN 
+considered, VERB 
+
+, SPACE 
+anodes, NOUN 
+installed, VERB 
+location, NOUN 
+deter-, X 
+
+, SPACE 
+mined, VERB 
+GDC, PROPN 
+current, ADJ 
+density, NOUN 
+existing, VERB 
+machines, NOUN 
+
+, SPACE 
+10, NUM 
+PA, PROPN 
+cm-, PROPN 
+total, ADJ 
+current, NOUN 
+100, NUM 
+assuming, NOUN 
+
+, SPACE 
+wall, PROPN 
+surface, PROPN 
+area, NOUN 
+1000, NUM 
+m, NUM 
+GDC, PROPN 
+anode, NOUN 
+designed, VERB 
+
+, SPACE 
+20, NUM 
+discharge, NOUN 
+current, NOUN 
+Maximum, ADJ 
+operation, NOUN 
+cleaning, NOUN 
+
+, SPACE 
+cycle, NOUN 
+designed, VERB 
+100, NUM 
+h., PROPN 
+GDC, PROPN 
+begin, VERB 
+gently, ADV 
+keeping, VERB 
+
+, SPACE 
+impurity, NOUN 
+partial, ADJ 
+pressures, NOUN 
+5, NUM 
+10, NUM 
+j, NOUN 
+Pa, PROPN 
+increase, VERB 
+surface, NOUN 
+
+, SPACE 
+flux, NOUN 
+lOI4, ADV 
+cmmZss, PROPN 
+rapid, ADJ 
+conditioning, NOUN 
+
+, SPACE 
+3, X 
+ECRDC, PROPN 
+ECR, PROPN 
+discharge, NOUN 
+cleaning, NOUN 
+established, VERB 
+method, NOUN 
+
+, SPACE 
+existing, VERB 
+tokamaks, NOUN 
+high, ADJ 
+magnetic, ADJ 
+field, NOUN 
+ITER, PROPN 
+
+, SPACE 
+existing, VERB 
+ECRH, PROPN 
+system, NOUN 
+Multi, ADJ 
+gyrotron, NOUN 
+sources, NOUN 
+
+, SPACE 
+different, ADJ 
+frequency, NOUN 
+90, NUM 
+130, NUM 
+170, NUM 
+GHz, NOUN 
+prepared, VERB 
+
+, SPACE 
+plasma, NOUN 
+start, NOUN 
+heating, NOUN 
+current, ADJ 
+drive, NOUN 
+Figure, NOUN 
+shows, VERB 
+
+, SPACE 
+resonance, NOUN 
+position, NOUN 
+vs, ADP 
+toroidal, ADJ 
+magnetic, ADJ 
+field, NOUN 
+ECR, PROPN 
+frequency, NOUN 
+
+, SPACE 
+BT, PROPN 
+=, NUM 
+5.7, NUM 
+T, NOUN 
+plasma, NOUN 
+center, NOUN 
+R, NOUN 
+=, NOUN 
+8.1, NUM 
+m, NOUN 
+resonance, NOUN 
+
+, SPACE 
+position, NOUN 
+R, NOUN 
+=, NOUN 
+10, NUM 
+m, NOUN 
+R, PROPN 
+=, NOUN 
+7, NUM 
+m, AUX 
+130, NUM 
+GHz, NOUN 
+
+, SPACE 
+I70, PROPN 
+GHz, NOUN 
+case, NOUN 
+resonance, NOUN 
+location, NOUN 
+located, VERB 
+
+, SPACE 
+inner, ADJ 
+region, NOUN 
+vacuum, NOUN 
+vessel, NOUN 
+BT, PROPN 
+=, SYM 
+4.0, NUM 
+T, NOUN 
+
+, SPACE 
+plasma, NOUN 
+center, NOUN 
+R, NOUN 
+=, NOUN 
+8.1, NUM 
+m, NOUN 
+resonance, NOUN 
+position, NOUN 
+
+, SPACE 
+R, NOUN 
+=, NOUN 
+10.5, NUM 
+m., NOUN 
+R, NOUN 
+=, NOUN 
+7, NUM 
+m, NOUN 
+R, PROPN 
+=, SYM 
+5, NUM 
+m, AUX 
+90, NUM 
+GHz, NOUN 
+130, NUM 
+GHz, NOUN 
+
+, SPACE 
+170, NUM 
+GHz, NOUN 
+case, NOUN 
+resonance, NOUN 
+location, NOUN 
+moved, VERB 
+
+, SPACE 
+discretely, ADV 
+region, NOUN 
+sweep, VERB 
+resonance, NOUN 
+
+, SPACE 
+location, NOUN 
+outer, ADJ 
+region, NOUN 
+R, NOUN 
+=, NOUN 
+1, NUM 
+m, VERB 
+inner, ADJ 
+region, NOUN 
+
+, SPACE 
+R, NOUN 
+=, SYM 
+5, NUM 
+m, ADV 
+efficient, ADJ 
+wall, NOUN 
+conditioning, NOUN 
+toroidal, NOUN 
+magnetic, ADJ 
+
+, SPACE 
+12, NUM 
+
+, SPACE 
+GHz, NOUN 
+
+, SPACE 
+GHz, NOUN 
+
+, SPACE 
+GHz, NOUN 
+
+, SPACE 
+GHz, NOUN 
+
+, SPACE 
+GHz, NOUN 
+
+, SPACE 
+4, NUM 
+6, NUM 
+10, NUM 
+12, NUM 
+
+, SPACE 
+H.NBLlm”R, PROPN 
+Feb.21.1995, PROPN 
+
+, SPACE 
+Figure, PROPN 
+1, NUM 
+Resonance, NOUN 
+position, NOUN 
+vs, ADP 
+toroidal, ADJ 
+magnetic, ADJ 
+field, NOUN 
+ECR, PROPN 
+
+, SPACE 
+frequency, NOUN 
+
+, SPACE 
+H, PROPN 
+Nakamura, PROPN 
+et, PROPN 
+al, PROPN 
+Wall, PROPN 
+conditioning, NOUN 
+ITER, PROPN 
+
+, SPACE 
+field, NOUN 
+need, VERB 
+changed, VERB 
+slowly, ADV 
+BT, PROPN 
+=, SYM 
+5.7, NUM 
+T, NOUN 
+BT, PROPN 
+=, SYM 
+4, NUM 
+
+, SPACE 
+T, NOUN 
+different, ADJ 
+frequencies, NOUN 
+90, NUM 
+GHz, NOUN 
+130, NUM 
+GHz, NOUN 
+170, NUM 
+
+, SPACE 
+GHz, NOUN 
+sweeping, NOUN 
+toroidal, ADJ 
+magnetic, ADJ 
+field, NOUN 
+5.7, NUM 
+T, NOUN 
++, CCONJ 
+4, NUM 
+
+, SPACE 
+T, NOUN 
++, CCONJ 
+5.7, NUM 
+T, NOUN 
+4300, NUM 
+s, PART 
+required, VERB 
+interval, NOUN 
+time, NOUN 
+
+, SPACE 
+shots, NOUN 
+2200, NUM 
+s, NOUN 
+reference, NOUN 
+operation, NOUN 
+sweeping, ADJ 
+
+, SPACE 
+operation, NOUN 
+need, VERB 
+increase, NOUN 
+interval, NOUN 
+time, NOUN 
+Based, VERB 
+
+, SPACE 
+previous, ADJ 
+work, NOUN 
+Sakamoto, PROPN 
+dominant, ADJ 
+power, NOUN 
+loss, NOUN 
+pro-, VERB 
+
+, SPACE 
+cess, ADJ 
+ECRDC, PROPN 
+molecular, ADJ 
+dissociation, NOUN 
+TEX-, NUM 
+
+, SPACE 
+TOR, PROPN 
+tokamak, NOUN 
+power, NOUN 
+loss, NOUN 
+estimated, VERB 
+1.7, NUM 
+kW., PROPN 
+
+, SPACE 
+Assuming, VERB 
+ECRDC, NOUN 
+plasma, NOUN 
+parameters, NOUN 
+ITER, NOUN 
+
+, SPACE 
+TEXTOR, PROPN 
+ECRDC, PROPN 
+power, NOUN 
+proportion, NOUN 
+plasma, NOUN 
+volume, NOUN 
+
+, SPACE 
+required, VERB 
+power, NOUN 
+MW, VERB 
+plasma, NOUN 
+volumes, NOUN 
+
+, SPACE 
+2.2, NUM 
+m, NOUN 
+TEXTOR, NOUN 
+1000, NUM 
+m, NOUN 
+ITER, PROPN 
+effect, NOUN 
+
+, SPACE 
+ECRDC, PROPN 
+helium, NOUN 
+gas, NOUN 
+shot, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+
+, SPACE 
+needs, VERB 
+evaluation, NOUN 
+obtain, VERB 
+optimum, ADJ 
+operation, NOUN 
+con-, AUX 
+
+, SPACE 
+ditions, NOUN 
+efficient, ADJ 
+wall, NOUN 
+conditioning, NOUN 
+technology, NOUN 
+R, PROPN 
+D, PROPN 
+
+, SPACE 
+required, VERB 
+physics, NOUN 
+R, PROPN 
+D, PROPN 
+tokamak, ADJ 
+machines, NOUN 
+e.g., ADV 
+
+, SPACE 
+TEXTOR, NOUN 
+Alcator, NOUN 
+C, PROPN 
+Mod, PROPN 
+devices, NOUN 
+
+, SPACE 
+4, X 
+Divertor, NOUN 
+pumping, VERB 
+plasma, NOUN 
+operation, NOUN 
+present, ADJ 
+
+, SPACE 
+divertor, NOUN 
+pumping, VERB 
+200, NUM 
+mi, NUM 
+5, NUM 
+l, NOUN 
+total, ADJ 
+pumping, NOUN 
+speed, NOUN 
+
+, SPACE 
+significant, ADJ 
+effect, NOUN 
+reduction, NOUN 
+hydrogenic, ADJ 
+species, NOUN 
+reten-, X 
+
+, SPACE 
+tion, NOUN 
+wall, NOUN 
+plasma, NOUN 
+exhaust, NOUN 
+designed, VERB 
+neutral, ADJ 
+
+, SPACE 
+pressure, NOUN 
+0.1, NUM 
+Pa, PROPN 
+IO, PROPN 
+pa, NOUN 
+inlet, NOUN 
+pumping, NOUN 
+duct, NOUN 
+
+, SPACE 
+DT, PROPN 
+burn, VERB 
+total, ADJ 
+exhaust, NOUN 
+rate, NOUN 
+50, NUM 
+pam, NOUN 
+s, NOUN 
+
+, SPACE 
+200, NUM 
+pam, NOUN 
+s, NOUN 
+IO, PROPN 
+particles, NOUN 
+qualitative, ADJ 
+evaluation, NOUN 
+
+, SPACE 
+reduction, NOUN 
+tritium, NOUN 
+inventory, NOUN 
+ITER, PROPN 
+needs, VERB 
+experimental, ADJ 
+
+, SPACE 
+data, NOUN 
+recent, ADJ 
+results, NOUN 
+DIII, PROPN 
+D, PROPN 
+Tore, PROPN 
+Supra, PROPN 
+suggest, VERB 
+elfec-, PRON 
+
+, SPACE 
+tiveness, NOUN 
+external, ADJ 
+active, ADJ 
+pumping, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+
+, SPACE 
+Alternative, ADJ 
+methods, NOUN 
+TDC, PROPN 
+DDC, PROPN 
+tokamak, NOUN 
+shot, VERB 
+discharge, NOUN 
+
+, SPACE 
+cleaning, NOUN 
+methods, NOUN 
+existing, VERB 
+tokamaks, NOUN 
+
+, SPACE 
+ITER, PROPN 
+cleaning, NOUN 
+methods, NOUN 
+shot, NOUN 
+
+, SPACE 
+conditioning, NOUN 
+high, ADJ 
+field, NOUN 
+tokamak, NOUN 
+shot, VERB 
+discharge, NOUN 
+cleaning, NOUN 
+
+, SPACE 
+end, NOUN 
+shot, NOUN 
+gas, NOUN 
+injection, NOUN 
+special, ADJ 
+ohmic, NOUN 
+discharges, NOUN 
+
+, SPACE 
+edge, NOUN 
+pumping, NOUN 
+methods, NOUN 
+need, VERB 
+feasibility, NOUN 
+studies, NOUN 
+
+, SPACE 
+plasma, NOUN 
+control, NOUN 
+issues, NOUN 
+e.g., ADV 
+plasma, NOUN 
+equilibrium, NOUN 
+low, ADJ 
+plasma, NOUN 
+
+, SPACE 
+current, ADJ 
+discharge, NOUN 
+obtain, VERB 
+optimum, ADJ 
+conditions, NOUN 
+ITER, PROPN 
+
+, SPACE 
+physics, NOUN 
+R, PROPN 
+D, PROPN 
+undertaken, VERB 
+existing, VERB 
+tokamaks, NOUN 
+
+, SPACE 
+2, X 
+Thin, ADJ 
+film, NOUN 
+coating, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+thin, ADJ 
+film, NOUN 
+coatings, NOUN 
+
+, SPACE 
+reactive, NOUN 
+gases, NOUN 
+evaporation, NOUN 
+sources, NOUN 
+considered, VERB 
+
+, SPACE 
+currently, ADV 
+proposed, VERB 
+wall, NOUN 
+conditioning, NOUN 
+method, NOUN 
+effective, ADJ 
+
+, SPACE 
+shot, NOUN 
+wall, NOUN 
+conditioning, NOUN 
+thin, ADJ 
+film, NOUN 
+coating, NOUN 
+
+, SPACE 
+reactive, ADJ 
+gas, NOUN 
+candidate, NOUN 
+gases, NOUN 
+B, PROPN 
+C, PROPN 
+Si, PROPN 
+Recently, ADV 
+
+, SPACE 
+boronization, NOUN 
+ECRDC, NOUN 
+demonstrated, VERB 
+Heli-, X 
+
+, SPACE 
+otron, NOUN 
+E, NOUN 
+device, NOUN 
+thin, ADJ 
+film, NOUN 
+coating, NOUN 
+evaporation, NOUN 
+source, NOUN 
+
+, SPACE 
+candidate, NOUN 
+materials, NOUN 
+Li, PROPN 
+present, NOUN 
+surveys, NOUN 
+
+, SPACE 
+experimental, ADJ 
+results, NOUN 
+laboratories, NOUN 
+plasma, NOUN 
+devices, NOUN 
+star-, PROPN 
+
+, SPACE 
+ted, VERB 
+Design, NOUN 
+consideration, NOUN 
+thin, ADJ 
+film, NOUN 
+coating, NOUN 
+systems, NOUN 
+
+, SPACE 
+application, NOUN 
+method, NOUN 
+ITER, VERB 
+wall, NOUN 
+conditioning, NOUN 
+
+, SPACE 
+justified, VERB 
+
+, SPACE 
+3, X 
+ICRDC, PROPN 
+ICRDC, PROPN 
+existing, VERB 
+ITER, PROPN 
+ICRF, PROPN 
+system, NOUN 
+
+, SPACE 
+frequency, ADJ 
+range, NOUN 
+40, NUM 
+MHz, NOUN 
+90, NUM 
+MHz, NOUN 
+
+, SPACE 
+According, VERB 
+calculations, NOUN 
+ICRDC, PROPN 
+high, ADJ 
+energy, NOUN 
+eV, PROPN 
+produced, VERB 
+helium, NOUN 
+gas, NOUN 
+
+, SPACE 
+define, VERB 
+system, NOUN 
+parameters, NOUN 
+ICRDC, PROPN 
+R, NOUN 
+D, PROPN 
+
+, SPACE 
+demonstration, NOUN 
+tokamak, NOUN 
+experiments, NOUN 
+necessary, ADJ 
+
+, SPACE 
+Summary, PROPN 
+
+, SPACE 
+baseline, ADJ 
+methods, NOUN 
+ITER, VERB 
+wall, PROPN 
+conditioning, NOUN 
+GDC, PROPN 
+zero-, NOUN 
+
+, SPACE 
+magnetic, ADJ 
+field, NOUN 
+ECRDC, NOUN 
+divertor, VERB 
+active, ADJ 
+pumping, NOUN 
+
+, SPACE 
+high, ADJ 
+magnetic, ADJ 
+fields, NOUN 
+proposed, VERB 
+alternative, ADJ 
+methods, NOUN 
+TDC, PROPN 
+
+, SPACE 
+DDC, PROPN 
+tokamak, PROPN 
+shot, VERB 
+discharge, NOUN 
+cleaning, NOUN 
+thin, ADJ 
+film, NOUN 
+coating, NOUN 
+
+, SPACE 
+ICRDC, NOUN 
+evaluated, VERB 
+select, VERB 
+wall, NOUN 
+conditioning, NOUN 
+methods, NOUN 
+
+, SPACE 
+obtain, VERB 
+optimum, ADJ 
+conditions, NOUN 
+technology, NOUN 
+R, PROPN 
+D, PROPN 
+planned, VERB 
+
+, SPACE 
+clarify, VERB 
+effectiveness, NOUN 
+proposed, VERB 
+wall, NOUN 
+conditioning, NOUN 
+
+, SPACE 
+methods, NOUN 
+guidance, NOUN 
+implications, NOUN 
+physics, NOUN 
+R, PROPN 
+D, PROPN 
+
+, SPACE 
+existing, VERB 
+tokamaks, NOUN 
+sought, VERB 
+physics, NOUN 
+expert, NOUN 
+group, NOUN 
+
+, SPACE 
+Acknowledgements, NOUN 
+
+, SPACE 
+report, NOUN 
+account, NOUN 
+work, NOUN 
+undertaken, VERB 
+frame, NOUN 
+
+, SPACE 
+work, NOUN 
+ITER, PROPN 
+EDA, PROPN 
+Agreement, PROPN 
+lTER, NOUN 
+Director, NOUN 
+
+, SPACE 
+Parties, NOUN 
+ITER, PROPN 
+EDA, PROPN 
+Agreement, PROPN 
+IAEA, PROPN 
+
+, SPACE 
+agency, NOUN 
+thereof, ADV 
+employees, NOUN 
+makes, VERB 
+warranty, NOUN 
+
+, SPACE 
+express, ADJ 
+implied, VERB 
+assumes, VERB 
+legal, ADJ 
+liability, NOUN 
+responsibility, NOUN 
+
+, SPACE 
+accuracy, NOUN 
+completeness, NOUN 
+usefulness, NOUN 
+information, NOUN 
+
+, SPACE 
+apparatus, NOUN 
+product, NOUN 
+process, NOUN 
+disclosed, VERB 
+represents, VERB 
+
+, SPACE 
+use, NOUN 
+infringe, VERB 
+privately, ADV 
+owned, VERB 
+rights, NOUN 
+Reference, NOUN 
+
+, SPACE 
+specific, ADJ 
+commercial, ADJ 
+product, NOUN 
+process, NOUN 
+service, NOUN 
+trade, NOUN 
+
+, SPACE 
+trademark, NOUN 
+manufacturer, NOUN 
+necess-, VERB 
+
+, SPACE 
+arily, ADV 
+constitute, VERB 
+imply, VERB 
+endorsement, NOUN 
+recommendation, NOUN 
+
+, SPACE 
+favouring, VERB 
+parties, NOUN 
+ITER, PROPN 
+EDA, PROPN 
+Agreement, PROPN 
+IAEA, PROPN 
+
+, SPACE 
+agency, NOUN 
+thereof, ADV 
+views, NOUN 
+opinions, NOUN 
+authors, NOUN 
+expre-, VERB 
+
+, SPACE 
+ssed, VERB 
+necessarily, ADV 
+state, VERB 
+reflect, VERB 
+ITER, PROPN 
+
+, SPACE 
+Director, PROPN 
+Parties, NOUN 
+ITER, PROPN 
+EDA, PROPN 
+Agreement, PROPN 
+IAEA, PROPN 
+
+, SPACE 
+agency, NOUN 
+thereof, ADV 
+
+, SPACE 
+References, NOUN 
+
+, SPACE 
+P, NOUN 
+H, NOUN 
+Rebut, PROPN 
+Nuc+I;u.sion, NUM 
+32, NUM 
+187, NUM 
+1992, NUM 
+
+, SPACE 
+R, PROPN 
+J, PROPN 
+Hawryluk, PROPN 
+Ph~,s, PROPN 
+Rer, PROPN 
+L&l, PROPN 
+72, NUM 
+3526, NUM 
+1994, NUM 
+
+, SPACE 
+J, PROPN 
+Winter, PROPN 
+J, PROPN 
+Nucl, PROPN 
+Mater, PROPN 
+176177, NUM 
+14, NUM 
+1990, NUM 
+
+, SPACE 
+H, PROPN 
+F, PROPN 
+Dylla, PROPN 
+ct, PROPN 
+~1, ADV 
+J, PROPN 
+Nucl, PROPN 
+Muter, PROPN 
+162, NUM 
+164, NUM 
+IX, PROPN 
+1989, NUM 
+
+, SPACE 
+G, PROPN 
+Jackson, PROPN 
+Nucl, PROPN 
+Fusion, PROPN 
+30, NUM 
+2305, NUM 
+1990, NUM 
+
+, SPACE 
+K, PROPN 
+J, PROPN 
+Dietz, PROPN 
+Proc, PROPN 
+IX, PROPN 
+Ini, PROPN 
+Vacuun~, PROPN 
+C’on, NOUN 
+yre.s.v, VERB 
+~tztl, PUNCT 
+S//I, VERB 
+III/, ADJ 
+Con/, ADJ 
+WI, PROPN 
+Solid, PROPN 
+
+, SPACE 
+Su,-fi, PROPN 
+rc, PROPN 
+~, PROPN 
+s, PROPN 
+Madrid, PROPN 
+1983, NUM 
+p, NOUN 
+706, NUM 
+
+, SPACE 
+Y, PROPN 
+Sakamoto, PROPN 
+PIOL, PROPN 
+IX, PROPN 
+Ini, PROPN 
+Vucuunz, PROPN 
+Con, PROPN 
+yc, ADP 
+~, PROPN 
+s.r, PROPN 
+rod, NOUN 
+51, NUM 
+r, NOUN 
+In/, PROPN 
+Conj, PROPN 
+OH, NOUN 
+Solid, PROPN 
+
+, SPACE 
+Surfacrs, PROPN 
+Madrid, PROPN 
+1983, NUM 
+p, NOUN 
+7, NUM 
+16, NUM 
+
+, SPACE 
+L, PROPN 
+Oren, PROPN 
+Nucl, PROPN 
+Fusion, PROPN 
+17, NUM 
+1143, NUM 
+1977, NUM 
+
+, SPACE 
+J, PROPN 
+Winter, PROPN 
+J, PROPN 
+Nucl, PROPN 
+Muter, PROPN 
+145147, NUM 
+I31, PROPN 
+1987, NUM 
+
+, SPACE 
+J, PROPN 
+Winter, PROPN 
+J, PROPN 
+Nut,/, PROPN 
+Maler, PROPN 
+162, NUM 
+164, NUM 
+713, NUM 
+1990, NUM 
+
+, SPACE 
+J, PROPN 
+van, PROPN 
+Seggern, PROPN 
+e/, PROPN 
+al, PROPN 
+Nucl, PROPN 
+Muter, PROPN 
+220, NUM 
+222, NUM 
+677, NUM 
+lYY5, X 
+
+, SPACE 
+J, PROPN 
+Dietz, PROPN 
+Vrrcuum, PROPN 
+47, NUM 
+91, NUM 
+1996, NUM 
+
+, SPACE 
+H, PROPN 
+Nakamura, PROPN 
+et, PROPN 
+al, PROPN 
+Paper, PROPN 
+PS3, PROPN 
+014, PROPN 
+conference, NOUN 
+
+, SPACE 
+lJP, PROPN 
+Mioduszewski, PROPN 
+i’f, PROPN 
+a/, PRON 
+J, PROPN 
+Nucl, PROPN 
+Mnwr, PROPN 
+22&222, NUM 
+91, NUM 
+1995, NUM 
+
+, SPACE 
+G, PROPN 
+Federici, PROPN 
+rrl, VERB 
+published, VERB 
+Prm, PROPN 
+~~f’, PROPN 
+S~~n, ADV 
+~, PROPN 
+po.viwn, PROPN 
+OH, PROPN 
+Fu.sior~, PROPN 
+
+, SPACE 
+En, PROPN 
+qirwrri, NOUN 
+~, NOUN 
+y, PROPN 
+1995, NUM 
+
+, SPACE 
+IbD, PROPN 
+Cowgill, PROPN 
+II, NUM 
+private, ADJ 
+communication, NOUN 
+
+, SPACE 
+T, PROPN 
+Loarer, PROPN 
+c’t, PROPN 
+01, NUM 
+J, PROPN 
+Nucl, PROPN 
+Muter, PROPN 
+220, NUM 
+222, NUM 
+X.3, PROPN 
+lY9i, X 
+
+, SPACE 
+lXT, PROPN 
+Mizuuchi, PROPN 
+private, ADJ 
+communication, NOUN 
+
+, SPACE 
+D, PROPN 
+Post, PROPN 
+J, PROPN 
+Winter, PROPN 
+private, ADJ 
+communication, NOUN 
+
+, SPACE 
+655, NUM 
+
+, SPACE 

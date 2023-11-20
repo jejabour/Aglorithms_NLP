@@ -1,0 +1,224 @@
+Vacuum/volume 47lnumbers 6-8/pages 1035 to 1038t1996 
+Copyright 0 1996 Published by Elsevier Science Ltd 
+Printed in Great Britain. All rights reserved Pergamon 
+PII: SOO42-207X(96300119-4 0042-207X/56 $15.00+.00 
+Computational simulations on electron orbits in the 
+magnetron sputtering plasmas 
+Shunji Ido and Kosuke Nakamura, Department of Functional Materials Science, faculty of Engineering, 
+Saitama University, 255 Shimo-Okubo, Urawa, Saitama 338, Japan 
+Three-dimensional particle orbit simulations are carried out to analyze the electron orbits in a magnetron 
+sputtering system. Collisions between electrons and neutral Ar gas atoms are included using the Monte-Carlo 
+method. Ionization points are related to the plasma generation points and approximate the distribution of 
+plasmas in the magnetron sputtering system. The profiles of plasma distribution correspond to the shape of 
+the magnetic field. The increase of ionization points is obtained by increasing the glow discharge voltage. 
+Copyright 0 1996 Published by Elsevier Science Ltd. 
+Introduction 
+The characteristics of a magnetron sputtering system is to trap 
+electrons in a magnetic field so that it maintains the plasma state 
+at low voltage.’ The electrons trapped by the magnetic field will 
+ionize the neutral particles by collisions. The positive ions in 
+plasmas are accelerated toward the target by the electric field. The 
+result of bombardment against the target causes the sputtering. 
+Sputtered atoms are deposited on the substrate to form the thin 
+films. This is the process of sputtering in the magnetron sputtering 
+system. 
+The distribution of plasmas mostly depends on the geometry 
+of magnetic fields. To design the sputtering system effectively, 
+analysis of the relation between plasmas and magnetic fields is 
+necessary. Simulations are carried out to trace the electron orbits 
+with collisions to examine the distribution of plasmas. 
+In the previous studies, simulations were carried out to examine 
+the electron orbits without collisions in the magnetron sputtering 
+system.’ By considering the collision effects,3 the authors 
+developed a simulation code to trace an electron orbit including 
+the collisions between an electron and neutral atoms”’ in the 
+magnetron sputtering system. By examining the distribution ol 
+ionization collision points, the shape of plasmas and the erosion 
+profiles were studied. A compressed magnetic field-magnetron 
+sputtering system was proposed by Hata’~” and also studied by us 
+experimentally” and computationally.5~7 These types of particle 
+simulation were applied in computational and experimental studies 
+to analyze the features of magnetron sputtering systems.“m’5 
+In the present paper, the authors will discuss the availability 
+of control of magnetic fields in the reference system of rectangular 
+magnetron, and the effect of control of the glow discharge volt- 
+age. 
+Calculation model 
+Magnetron sputtering system. Figure 1 shows the schematic of 
+the reference model of a compressed magnetic field-magnetron sputtering system.“~” The shape of magnetic field on the target 
+can be modified by changing the current in the compressing coil. 
+Figure 2 shows the configuration of rectangular permanent 
+magnets in the reference calculation model. The electric field is 
+formed between the anode and the cathode by applying dc volt- 
+age. The anode has a role as a substrate in formation of the thin 
+film. The cathode is a target which consists of thin film material 
+to be sputtered. 
+Basic equation. Two basic equations shown below are used to 
+obtain the electron orbits. 
+m~=y(E+vxB)+1;:,., (1) 
+dX 
+dr = !’ (2) 
+where E (V/m) is the vector of electric field, 5 (T) is the vector of 
+magnetic flux density, 11 (m/s) is the velocity vector, X (m) is the 
+I I I Electric field 
+Magnetv Coil 1 
+Figure 1. Schematics of a rectangular magnetron sputtering system 
+1035 
+S/do and K Nakamura: Computational simulations of electron orbits 
+b’l 
+I- E 
+E 
+0 
+m 
+Pi 
+1 I- ~----__--_- 3 II 0 111 m--- . 
+Figure 2. Configuration of permanent magnets. a’ - 
+-IL 2 0 mm 
+t 
+vector of position, I (s) is time, q (C) is the electric charge of a 
+particle, and m (kg) is the mass of a charged particle. Equation 
+(I) is the equation of motion, which includes Coulomb force and 
+Lorentz force. The other, eqn (2) is the definition of velocity. To 
+solve the two equations, we used the Runge-Kutta-Gill method. 
+The collision term can be described as follows: 
+where Av is the change of the velocity vector due to the collision 
+and At is the time interval between collisions. In the present 
+calculations, three types of collision are considerd, namely an 
+ionization collision, an excitation collision and an elastic colli- 
+sion. In the present model, energy losses due to the collision are 
+fixed as 15.8 eV in an ionization collision and 11.6 eV in an 
+excitation collision. No energy loss occurs in an elastic collision. 
+The Monte-Carlo method was used to calculate the collision 
+term.J ’ 
+Magnetic field. The magnetic field is calculated using the magnetic 
+Coulomb’s law for the magnet and Biot Savart’s law for the 
+compressing coils. These are shown below. 
+Am is the magnetic charge on a magnet. AB, (T) is the vector of 
+magnetic flux density generated by Am at the position of r (m). I 
+(A) is the current in a coil. pO represents the permeabilty of 
+vacuum. r (m) is the distance from the position of the As (m) of 
+the coil. 
+Figures 3(a) and (b) show the lines of magnetic force as the 
+profile along the cross section line o-a’ shown in Figure 2. In 
+Figure 3(a), by the positive coil current, the magnetic field is 
+compressed toward the inside, which is called an inward com- 
+pressed case. In Figure 3(b), the Imagnetic field is expanded 
+towards the outside by the negative coil current, which is called 
+an outward expanded case. 
+1036 (a) 
+(b) X --Ax i s 
+X--Axi s 
+Figure 3. Calculation results of lines of magnetic force in a magnetron 
+sputtering system: (a) inward compressed model and (b) outward 
+expanded model. 
+Electric field. The electric field is assumed to have only a Z- 
+component. Therefore, the electric potential V is a function of 
+the :-component. The potential of the anode is zero, thus the 
+potential of the cathode has a value of -400 V. The numerical 
+approximation is shown in Figure 4 with the experimental 
+Calculated data 
+0 Experimental data 
+z 1 m 1 [xl0 ‘1 
+Figure 4. Numerical model and experimental results of electric field in a 
+magnetron plasma. 
+S /do and K Nakamura: Computational simulations of electron orbits 
+z 
+X 
+Figure 5. Electron orbit with collisions in a magnetron sputtering system 
+results.” The solid line shows the numerical approximation and 
+the solid circles show the experimental data. In Figure 4, the 
+rapid drop ofthe potential is seen near the surface of the cathode. 
+it is assumed that the potential profile is not dependent on the 
+gas pressure. And it is also assumed that the thickness of the 
+sheath is constant.‘” 
+Orbits of electrons. The electron orbits are obtained by solving 
+eqns ( I) and (2). using the RungeeKuttaaGill method and the 
+Monte-Carlo method for the collision term. Figure 5 shows the 
+calculated result of the electron orbit in a magnetron sputtering 
+system. The solid circles represent the collision points. The elec- 
+tron moves spirally along the line of magnetic force during the 
+time interval between collisions. Then the electron is reflected by 
+the potential and the magnetic mirror, The electron drift motions 
+such as an Lx B drift can be seen in the azimuthal direction. 
+Results and discussion 
+The distribution of ionization points. In the simulations. electrons 
+are traced to obtain the points where ionization collision between 
+electron and Ar gas atom occurs. Those points are called ion- 
+ization points in the present paper. The profiles of distribution 
+of ionization points are assumed to approximate the profiles of 
+density of plasma. Figure 6 shows the profiles of distribution of 
+ionization points in the zone near the o-a’ cross section of Figure 
+2. In Figure 6(a). calculations are carried out using the inward 
+compressed model of magnetic field shown in Figure 3(a). On the 
+other hand. Figure 6(b) corresponds to the results obtained using 
+the outward expanded model of magnetic field shown in Figure 
+3(b). In the denser area. there are many ionization collisions with 
+neutral atoms. It is assumed that the dense area corresponds to 
+the dense area of plasmas in a magnetron. 
+As shown in Figure 6, the distribution of ionization points will 
+correspond to the configuration of magnetic fields, resulting in 
+the good control of the position of dense regions of ionization 
+points. 
+Electric field control. Calculations are carried out to examine the 
+effects of the electric field. We assume that the potentials of the 
+sheath edge and the plasmas are not dependent on the discharge 
+voltage. and the thickness of the sheath is constant. By changing 
+the potential of the cathode, we control the electric field. Figure 
+7 shows the relation between the number of electrons and the 
+number of ionization points corresponding to the variation of Figure 6. Profile of distribution of lonkttion points. (a) inward com- 
+pressed model and tb) outwad expanded model 
+the discharge voltage. The discharge voltage we take is 350 V. 
+400 V and 450 V. As the discharge voltage increases, the number 
+of ionization points increases. This result means that, when the 
+discharge voltage becomes higher. the distribution of the plasmas 
+becomes larger, and the density of the plasmas becomes larger. 
+,x,o’] 1 ’ ’ 7 
+Lo 151 0 : 350 v 
+‘c I : 400 v 
+0 I A a : 450 v 1 
+* 
+A 0 
+. l 
+Number of electrcns [Xl (I’] 
+Figure 7. Calculated results of the number ol ionitation points as il 
+function ofthe number ofelectrons when the cathode voltages were ~ 350 
+V. -400 V. and -450 V. 
+1037 
+S /do and K Nakamura: Computational simulations of electron orbits 
+The energy of the ion which sputters the target surface becomes 
+higher when the discharge voltage becomes higher. Therefore, 
+higher glow discharge voltage causes deeper and wider erosion. 
+Conclusions 
+By tracing the electron orbits, ionization points are obtained. By 
+estimating ionization points as plasma generation points, we 
+can approximate the profile of distribution of plasmas in the 
+magnetron sputtering system. As the glow discharge voltage 
+becomes higher, the distribution of the plasmas becomes larger 
+and the density of the plasmas becomes larger. 
+References 
+’ K Wasa and S Hayakawa, Sparta G(i),utsu (Sputter Technique). Kyoritsu 
+Syuppan, Tokyo (1988) (in Japanese). 
+‘S Ido and K Sakamoto, Proc of the Second Japanese-Polish Joint Sem- 
+inur on Electromagnetic Phenomena in Materialsand Computational Tech- 
+niques. Ohita, 1991, p 427. “T E Sheridan, M J Goeckner and J Goree, J Vuc Sci Tech&, A8, 30 
+( 1990). 
+“S Ido and K Sakamoto, Kakuyugo Kenkyu, 68,386 (1992) (in Japanese). 
+‘S Ido and K Nakamura, Jpn J Appl Phyx. 32, 5698 (1993). 
+‘S Ido, K Nakamura and S Noguchi, Journal qf Plasma und Fusion 
+Research, 69, 1224 (1993) (in Japanese). 
+7M Miyagi, K Nakamura and S Jdo, Pror of’ the 12th Symposium on 
+Plasma Processing, Sendai, 1995, p 293. 
+‘K Nakamura and S Ido, Proc of’ the 3rd International Symposium on 
+Sputtering and Plasmu Processes. Tokyo, 1995, p 173. 
+‘T Hata, F Takeda. 0 Morimoto, E Noda and T Hada, Jpn J Appl Phys, 
+20, 145 (1981). 
+‘OT Hata, J Kawahara and K Toriyama, Jpn J Appl Phq’s, 22, 505 (1983). 
+” T Hata and Y Kamide, J Vat Sci Technol. A5, 2 I54 (1987). 
+“S Ido, Y Ishida and K Hijikata, Jpn J &pi Phys, 32, 2112 (1993). 
+“E Shidoji M Nemoto. T Nomura and Y Yoshikawa, Jpn J Appl Phys, 
+33, 4281 (i994). 
+“‘T Kobayashi, K Itagaki, T Uchiyama, T Tsukada and N Hosokawa, 
+Pmc of the 3rd International Symposium on Sputtering and Plasma 
+Processes, Tokyo, 1995, p 23. 
+“M Kamei. Proc of‘ the 3rd International Symplsium on Sputtering and 
+Plasma Processes, Tokyo, 1995, p 187. 

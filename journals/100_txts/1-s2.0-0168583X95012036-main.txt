@@ -1,0 +1,434 @@
+s __ Nuclear Instruments and Methods in Physics Research B 118 ( 1996) 162- 166 
+__ 
+II!! 
+ELSEVIER IHIIIHU B 
+Beam Interactions 
+with Materials A Atoms 
+Rutherford backscattering spectrometry for the analysis 
+of atmospheric aerosols 
+P. Kov% a, J. Dobrovodskf a, S. Kalbitzer b, Ch. Klatt b, * 
+a Department of Nuclear Physics and Technology, Faculty of Electrical Engineering, Slovak Technical University, 
+812 19 Bratislavu, Slovakia 
+b Max-Planck-Institutfr Kernphysik, Postfach 103980, D-69029 Heidelberg, Germany 
+Abstract 
+First results of the application of Rutherford Backscattering Spectrometry (RBS) to the analysis of heavy metals content 
+in aerosol samples are described. Procedures of sample collection, preparation, and measurement are characterized with 
+respect to the main instrumental demands. At this stage of development, RBS looks promising with respect to other 
+established analytical methods. The presently achieved sensitivity of about lo’* at/cm2 is already satisfying but can be 
+further enhanced by at least one order of magnitude by using a Si multidetector array instead of a single device. 
+1. Introduction 
+Increasing interest in air quality problems is one of the 
+stimulating factors for the development of sensitive analyt- 
+ical methods suitable for tracing the pollutants. One pollu- 
+tant group of considerable current interest, treated in the 
+present paper, are certain heavy metals incorporated in 
+atmospheric aerosols. In conjunction with the recom- 
+mended European emission limits our selection has been 
+focused to elements of predominantly anthropogeneous 
+origin: V, Cr, Mn, Ni, Cu, Zn, Cd and Pb. 
+Many analytical methods are routinely used in trace 
+element analysis. Fig. 1 shows the impurity detection 
+limits of some typical methods. RBS is a well established 
+analytical method with most applications in the area of 
+few-component systems, such as depth profiling of heavy 
+dopants (high Z) in light (low Z) matrices. The capabili- 
+ties of RBS as a tool for very sensitive multi-element 
+analysis have been exploited much less, the reason being 
+that mass resolution of RBS is lower than with other mass 
+spectrometric techniques. 
+The principles of RBS analysis are well documented 
+and can be found elsewhere [ 11. Also its standard uses and 
+limitations and comparison of it to other methods have 
+been reviewed several times together in comparison with 
+other methods [2-lo]. As stated above, in general RBS is 
+used as a high-resolution depth microscope rather than a 
+mass spectrometer of medium quality. 
+* Corresponding author. Tel. +6221 516268, fax 6221 516540, 
+e-mail cklatt@zooey.mpi-hd.mpg.de. The use of RBS and NRA (Nuclear Reaction Analysis) 
+in the analysis of light elements in aerosols as methods 
+complementary to PIXE (Proton Induced X-ray Emission) 
+has been reported [I 1,141 with the verdict “they can 
+hardly be performed on particulate matter collected on 
+standard filters commonly used for PIXE analyses” [ 111. 
+Only recently it was shown [12] that due to the improve- 
+ment of experimental apparatus it is possible to use RBS 
+for analysis of trace amounts of heavy impurities on/in 
+light substrates. RBS is an absolute method detecting 
+impurities in solids at levels of typically 10’2-10’4 at/cm* 
+IO-lOO-fold lower area1 concentrations, however, can be 
+measured when special instrumentation is used. It is clear 
+that its application should provide valid results at least 
+complementing, if not surpassing, other methods in certain 
+respects. It is the aim of this first attempt to find out how 
+successfully RBS can be applied to the multielement anal- 
+ysis of atmospheric aerosols. Again, of utmost importance 
+in this context is the relative mass resolution m/Am 
+which can be optimized by proper choice of the analysis 
+conditions as there are: incident particle mass and energy, 
+and detector type. 
+2. Sample preparation 
+Considering the practical aspects of RBS analysis it is 
+clear that several problems imposed specifically by aerosol 
+geometry have to be solved in order to obtain reliable 
+results. To this end two main limitations - surface rough- 
+ness and beam resistance of the filters - have to be 
+overcome. 
+0168-583X/96/$15.00 Copyright 0 19% Elsevier Science B.V. All rights reserved 
+SSDI 0168-583X(95)01203-6 
+P. Kooa’i: et al./Nucl. Instr. und Meth. in Phys. Res. B I I8 (1996) 162-166 163 
+1 IMPURITY DETECTION LIMITS 1 5 
+0.11 ‘- ’ ’ ” . , , , ] , , 
+0 20 40 60 80 
+ATOMIC NUMBER Z 
+Fig. 1. Detection limits of five selected analysis techniques for al1 
+natural elements. AAS = atomic absorption spectrometry, figures 
+are typical; NAA = neutron activation analysis, figures refer to a 
+thermal neutron flux of IO-l4 cm-*s-l and a decay rate of 10 
+Bq; NRA = nuclear reaction analysis, figures obtained from Ref. 
+[12]; TRFA = total relection X-ray fluorescence analysis, figures 
+also for RBS depend systematically on the atomic number of the 
+traced element; figure taken from Ref. [ 121. 
+2.1. Sample surface topography 
+To apply RBS analysis to aerosol samples on standard 
+fibre filters is practically impossible. Therefore special 
+filters without surface texture have to be used. Based on 
+the experience with PIXE measurements Nuclepore mem- 
+brane filters were chosen because of their low-Z composi- 
+tion, only H, C and 0, high purity and reported resistance 
+to the ion beam exposure [ 11,131. 
+Aerosols are microscopic particles of markedly lower 
+density than bulk material with typical dimensions of 
+about 0.1-10 pm [ 14,151 strongly deviating from the flat 
+surface topography ideal for RBS. To alleviate conditions 
+for RBS analysis size-resolved sampling of aerosol parti- 
+cles is absolutely necessary. 
+Another factor that could cause a problem is the amount 
+of the material collected on separate filters. A theoretical 
+treatment of nonuniform layers based on the simple model 
+of spheres of varying size on a flat substrate [l] describes 
+the actual case situation of aerosol particles on a Nucle- 
+pore filter reasonably well. According to this model, the 
+degree of particle accumulation, and thus the correspond- 
+ing RBS spectra, can be divided into three categories, as 
+illustrated in Fig. 2. 
+1) The most difficult case arises from integral sampling 
+when too much material on a single filter is collected. The resulting bulk spectra can be evaluated only, if the concen- 
+tration of the interesting elements is sufficiently high - at 
+least of the order of a few atomic percent. 
+2) When the particles on a single filter surface form 
+one monolayer or less, the RBS spectra will feature asym- 
+metric peaks with low-energy tails. The shape of the tails 
+depends on particle geometry and individual peaks are 
+usually superimposed on top of each other. 
+3) In the case, where a stack unit of several filters is 
+used, the best conditions are met when the lower stages 
+exhibit a low surface coverage with particles of similar 
+size. Then the corresponding RBS spectra approach least 
+overlap conditions for the individual impurity peaks. This 
+is of course strongly dependent on the mass distribution of 
+the traced elements and on the energy resolution of the 
+RBS set-up as well. 
+The last two thin film conditions are suitable for quanti- 
+tative evaluation as the peak integrals are in most practical 
+cases proportional to the respective elemental or isotopic 
+areal concentration. 
+2.2. Radiation resistance 
+In many laboratories ion beam analysis of air-pollution 
+samples is carried out by PIXE. It is accepted practice to 
+expose aerosol filters with collected particles directly to 
+the analyzing ion beam without any sample pre-treatment. 
+Most of the PIXE installations use defocused ion beams 
+Sample: RBS-Spectrum: 
+collected dust 
+a) Integral sampfing 
+‘\ 
+l sll particle sizes 
+. surface coverage: 
+above one monolayer 
+Nueiepore filter ’ 
+b) Fractional sampling 
+l upper stage , pore size 1 plm 
+l all particle sizes 
+. surface coverage: -*~Q.~~-& 
+below one monolayer 
+c) Fractional sampling 
+. lower stage , pore si!Ae 0.1 /ml 
+l particle sizes < 0.8 firn 
+l surface coverage: 
+well below one monolayer ._* F :o_* ‘o_o’*_ Energy 
+Energy 
+Energy 
+Fig. 2. Model of aerosol collection on nuclepore filters with 
+corresponding RBS spectra. (a) integral sampling on a single 
+filter, (b) upper stage of the stacking filter unit, (c) lower stage 
+thereof. 
+II. RBS. ETC. 
+164 P. Kovcii: et al./Nucl. Instr. and Meth. in Phys. Rex B 118 (1996) 162-166 
+with beam spots of about 1 cm*. Moreover, thin diffusor 
+foils are often used to achieve broad flat beam profiles. 
+Both large beam spots and diffusor foils are unacceptable 
+for RBS because of a loss in energy and mass resolution. 
+As measurements with too intense focused ion beams 
+cause destruction of the filter material, the analyzing 4He 
+ion beam had to be kept at a maximum current density 
+level of the order of 10 nA/cm2. Due to the considerably 
+higher stopping power of He ions of similar energy as 
+protons the corresponding energy deposit in a filter mate- 
+rial is much more critical. The concomitant structural 
+changes lead to embrittlement and mechanical stress in the 
+exposed layer, and eventually to filter rupture etc. In order 
+to prevent this well-sticking mechanical support is neces- 
+sary. It was found that filters backed with an approxi- 
+mately 800 nm Al layer can withstand 4He+ ion beams up 
+to current densities of 1 kA/cm2 for periods of the order 
+of hours. 
+3. Experimental 
+To fulfil the conditions for backscattering spectrometry, 
+as described in Section 2.1, a simple holder for stacking 
+filters was constructed for aerosol sampling. At the begin- 
+ning, for safe and convenient manipulation of the samples 
+throughout the whole process, each filter was attached to a 
+metal ring covered with a rubber coating. All manipula- 
+tions, such as pumping, metallization, measurement, etc., 
+were then done using these holders. 
+As the experiments presented here were carried out for 
+the development of the analytical method rather than for 
+real aerosol research, only two filters with pore sizes of 1 
+and 0.1 pm were placed in the stacking filter unit. The 
+filters used were Nuclepore Polycarbonate Membranes 13 
+mm in diameter. The active sampling area was 50 mm2; 
+only one fifth of it, however, was used for analysis. The 
+stacking filter unit was operated at a flow rate of 0.7 
+l/min. It was found that approximately 8 hours of sam- 
+pling were sufficient for collecting enough material for the 
+RBS analysis. The SEM photograph (Fig. 3) of a sample 
+prepared under the above conditions shows a very low 
+coverage of the filter surface which satisfies our model 
+assumptions of Fig. 2c. 
+The back sides of the filter samples were coated with 
+700-900 nm thick Al layers. The metallization was per- 
+formed in a standard electron gun evaporation unit. The 
+layer growth rate varied between 5 to 10 rim/s,, the 
+vacuum during the evaporation was kept at 10d3 Pa. Then 
+the aerosol samples were measured with 1, 2 and 3 MeV 
+4He ion beams at the RBS station installed in the 25” line 
+of the 3 MV Pelletron tandem accelerator at the Max- 
+Planck-Institut fir Kemphysik [ 161. All samples were mea- 
+sured under conditions of normal incidence, 160” backscat- 
+tering angle, and 0.8 msr solid angle subtended by a single 
+Si detector. The average analyzing beam current was 30 Fig. 3. SEM photograph of a 1.0 pm Nuclepore filter with 
+aerosols collected from 0.45 m3 of air. 
+nA into a beam spot of about 0.1 cm2. The detector had an 
+energy resolution of 12 keV FWHM [ 171. 
+For the determination of the sensitivity of the RBS 
+measurements a set of metallized filters and Si substrates 
+was implanted with 2 keV Pb, Ag and V ions with areal 
+doses from 10” to lOr4 ions/cm2. The implanted samples 
+were measured under the same conditions as the aerosol 
+filters. 
+4. Results and discussion 
+Prior to any evaluation, the material of the unexposed 
+filters was checked (Fig. 4a). In the interesting mass 
+region, between about 50 and 208 amu, only a contamina- 
+tion around m = 50 + 1 amu was found so that no other 
+background corrections should be necessary. Similar re- 
+sults were also reported in Ref. ill], where Cr was de- 
+tected by PIXE. Spectra of the clean filter implanted with 
+2 keV lOI Pb ions/cm2 (Fig. 4b) and the real aerosol 
+sample (Fig. 4c) compare the contamination level with the 
+expected heavy metal signal. Note that in the single pile-up 
+regime, between about channels 180-360, some back- 
+ground varying with the actual count rates is present. A 
+novel technique of reducing this kind of pile-up from a 
+light substrate will be published elsewhere [ 181. 
+RBS spectra were taken with various combinations of 
+places, sampling time, air flow etc. Typical example of the 
+measured spectra from the upper and lower stage of the 
+stacking filter unit are shown in Fig. 5. The influence of 
+P. KoulE et ul./Nucl. Instr. und M&h. in Phyx Rex 3 118 (19961 162-166 16.5 
+100 
+(a) 
+2 
+5” 8 50 
+0 100 200 300 400 500 
+CHANNEL 
+Fig. 4. 2 MeV ‘He backscattering spectra from: (a) clean Nucle- 
+pore filter, (b) a filter implanted with 2 keV lOI Pb/cm’, (c) 0.1 
+km Nuclepore filter (lower stage) with aerosols collected from 0.5 
+rn’ of air. Pb content: - 1.9X lOi at/cm’. 
+the analyzing beam energy on the measured spectra is 
+documented in Fig. 6. 
+Already these first results demonstrate that RBS can 
+very well be applied to the elemental analysis of aerosols, 
+where some specific advantages may be noted: 
+- absolute method - no need for calibrated standards; 
+_ increasing sensitivity for heavier elements; 
+- isotopic resolution of elements; 
+- no further physico-chemical preparation steps on the 
+as-collected sample. 
+The present procedure, however, is still far from opti- 
+mum performance utilizing all RBS advantages. The actual 
+200 
+;;1 
+g 100 
+g 
+\ 0 
+K? 
+z 
+8 100 
+0 100 200 300 400 500 
+CHANNEL 
+Fig. 5. 2 MeV 4He backscattering spectra of a stacking filter unit 
+with an evaluated Pb content of 98 rig/m’’ collected from an air 
+volume of 0.95 m3: (a) upper stage of the filter unit, 1.4X lOI 
+at/cm’ (the Ag peak stamps from the used silver paint), (b) lower 
+stage thereof, 1.6x IO’” at/cm’. 100 
+E 
+5 8 50 (4 I Si 
+0 00 200 300 400 5 
+CHANNEL 
+Fig. 6. Backscattering spectra of a 0.1 pm Nuclepore filter (lower 
+stage) with aerosols from 0.4 m3 of air; Pb content: - 6~ lOI 
+at/cm*. Beam energy: (a) 3 MeV. (b) I MeV. 
+energy choice must take into account competing require- 
+ments imposed by particle size, sensitivity and mass reso- 
+lution. This is clearly illustrated by measurements of the 
+same sample in Fig. 6, where a 3 MeV 4He+ beam hardly 
+detects any Pb, while at I MeV the mass resolution is 
+markedly decreased. As a compromise, most of the mea- 
+surements have been performed at 2 MeV, although the 
+elements with isotopes lying closely on the mass scale 
+(5’ V-52Cr, 63Cu-64Zn, 208Pb-2wBi) could hardly be dis- 
+tinguished. It is known, however, which elements are 
+typical contaminants of aerosols [21] and what the abun- 
+dances of neighbouring impurities are. For example, in the 
+case of the pair 2osPb/2WBi the identification criterion 
+was that the atmospheric appearance of Bi is three orders 
+of magnitude lower than that of Pb. 
+RBS spectra were evaluated with the following assump- 
+tions: elements were identified according to their surface 
+peak positions in the energy spectrum to which a mass 
+scale was calculated. For an incident energy of E. = 2 
+MeV 4He + and a detector resolution of A E = I2 keV the 
+mass-resolution was calculated to change monotonically 
+from Am= 1.3 at m=5l (V) to Am=5.4 at m= II2 
+(Cd) and to Am = 17.4 at m = 207 (Pb) by using the 
+equation m/Am = 4~ 1 p - I J(/.L + I)-‘/(AE/E,), 
+(backscattering angle = 180’). where p is the mass ratio of 
+target atom to analyzing ion [22]. The above values of 
+mass resolution are typical for RBS with solid state detec- 
+tors but have been improved by using an electrostatic 
+analyser system (ESA) [l9]. By this means, a (constant) 
+energy resolution of A E/E = 0.001, can be obtained with 
+reasonable ESA sizes and slit widths. Thus, one would 
+achieve mass resolutions of Am - I up to m - 100 and 
+Am - 3 up to m _ 200. 
+The corresponding peak integrals were used for the 
+determination of elemental concentration. The precision of 
+II. RBS, ETC. 
+166 P. Km& et al./Nucl. Instr. and Meth. in Phys. Res. B 118 (1996) 162-166 
+Table I Acknowledgements 
+Lowest measured element concentrations of aerosols for 2 MeV 
+4He RBS 
+Element 
+Pb 
+Zn, cu 
+Ni 
+Cr, V 
+40Ca 
+32 Target concentration 
+[at/cm*] 
+2.4X 10” 
+2.0x IO” 
+2.4X 10” 
+3.3x 10” 
+4.8 X 10” Air contamination 
+Wm’l 
+2.1 
+5.6-7.8 
+7.2 
+8.9-11.6 
+15.3 The authors gratefully acknowledge the support of 
+Stabsabteilung fir Intemationale Beziehungen, Kem- 
+forschungszentrum Karlsruhe, Germany and the Ministry 
+of Education and Science, Bratislava, Slovakia. 
+S 7.1 x 10” 17.7 
+**Si 1.1 x 10’4 23.1 References 
+the latter is a few % only for particles smaller than 500 nm 
+in diameter. Calculations based on a model of spheres on a 
+flat substrate showed that e.g. the Pb signals in the mea- 
+sured spectra correspond to particle sizes of 80-300 nm in 
+diameter. For larger particles a suitable correction factor or 
+different spectra evaluation procedure should be intro- 
+duced. [l] W.K. Chu, M-A. Nicolet and J.W. Mayer, Backscattering 
+Spectrometry (Academic Press, New York, 1977). 
+[2] W.K. Chu, J.W. Mayer, M-A. Nicolet, T.M. Buck, Cl. Amsel 
+and F. Eisen, Thin Solid Films 17 (1973) 1. 
+[31 J.W. Mayer and A. Turos, Thin Solid Films 19 (1973) 1. 
+141 J.F. Ziegler, Physics Today 26 (1976) 11, 52. 
+[5] LV. Mitchel, Phys. Bull. 30 (1979) 01, 23. 
+[6] W. Reuter and J.E.E. Baglin, J. Vat. Sci. Technol. 18 (1981) 
+2, 282. 
+The Rutherford scattering cross section rises with the 
+atomic number of the target atoms according to u a 2’. 
+It means that the sensitivity in atoms/cm2, e.g. for Cd, is 
+increased approximately by factor of 10 and for Pb by 
+factor of 100 as compared to V. The present detection limit 
+of Pb in our aerosol samples is at the level of 10” atoms. 
+This corresponds to an area1 density of lOI atoms/cm2. 
+Thus, with the present set-up it is possible to detect Pb in 
+concentrations of the order of tenths of ng/m3 of air. This 
+limit can be easily lowered by enlargement of the air 
+volume used for sampling, which was in most cases only 
+at the level of 0.5 m3. Also using the annular ring detector 
+system [20] a gain by a factor of at least 10 in solid angle 
+and therewith also in detection limit can be achieved. [7] W. Reuter, Nucl. Instr. and Meth. 218 (1983) 391. 
+[8] H.W. Werner and R.P.H. Gartcn, Rep. Prog. Phys. 47 (1984) 
+221. 
+191 G. Amsel, Ch. Heitz and M. Menu, Nucl. Instr. and Meth. B 
+14 (1986) 30. 
+[lOI KG. Malmqvist, Nucl. Instr. and Meth. B 85 (1994) 84. 
+[l 11 L. Boni, G.M. Braga Marcazzan, E. Caruzo, E. Cereda and 
+P. Redaelli, Nucl. Instr. and Meth. B 15 (1986) 382. 
+[121 Th. Maisch, V. Schlile, R. Glnzler, P. Oberschachtsiek, M. 
+Weiser, S. Jans, K. lzsak and S. Kalbitzer, Nucl. Instr. and 
+Meth. B 50 (1990) 1. 
+The target concentrations as derived from the evaluated 
+spectra are summarized in Table 1. The uncertainty of the 
+present results originating from both measurement and 
+evaluation procedures was estimated as less than 10%. The 
+accuracy of the air contamination depends also on some 
+details of the sampling procedure. As this procedure was 
+not of primary concern in this work and was not yet 
+optimized these results are presented only for illustration 
+of the sensitivity level. [I31 I. Borbely-Kiss, L. Haszpra, E. Koltay, S. Lbsz16, A. 
+MCszCos and Gy. Szab6, Physica Scripta 37 (1988) 299. 
+[14] G.M. Braga Marcazzan, E. Caruso, E. Cereda, P. Redaelli, P. 
+Bacci, A. Ventura and G. Lombardo, Nucl. Instr. and Meth. 
+B 22 (1987) 305. 
+[15] T.A. Cahill, Nucl. Instr. and Meth. 181 (1981) 473. 
+[16] P. Oberschachtsiek, M. Weiser and S. Kalbitzer, Nucl. Instr. 
+and Meth. B 56/57 (1991) 1010. 
+[I71 J. Dobrovodsky, 1. BeSrje, L. HNW~ and P. Kova?, Sensors 
+and Actuators A 41/42 (1994) 558. 
+[181 J. Dobrovodsky and P. Kov%, Czech. J. Phys. (1996) sub- 
+mitted. 
+[19] A. Feuerstein, H. Grahmann, S. Kalbitzer and H. Oetzmann, 
+Proc. 2nd Int. Conf. on Ion Beam Surface Layer Analysis, 
+Karlsruhe, eds. 0. Meyer, G. Linker and F. Klppeler (Plenum, 
+New York, 1976) p. 471. 
+5. Conclusion 
+The results achieved at the present state of method 
+development indicate that RBS can be successfuly applied 
+to various tasks of atmospheric aerosol research. Future 
+improvements, however, will have to include several fac- 
+tors, such as mass resolution, detection efficiency and 
+spectrum evaluation. 1201 R. Ginzler, V. Schiile, G. Seeliger. M. Weiser, K. Bijhringer, 
+S. Kalbitzer and J. Kemmer, Nucl. Instr. and Meth. B 35 
+(1988) 522. 
+1211 H.J.M. Bowen. Environmental Chemistry of the Elements 
+(Academic Press, London, 1979). 
+1221 S. Kalbitzer, A. Feuerstein, H. Oetzmann and J. Winner. 
+Scientific & Industrial Applications of Small Accelerators, 
+4th Conf. 1976, The Institute for Electrical & Electronic 
+Engineers, Inc., p. 403. 

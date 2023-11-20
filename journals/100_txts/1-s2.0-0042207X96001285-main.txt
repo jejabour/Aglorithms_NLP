@@ -1,0 +1,148 @@
+Vacuum/volume 47lnumber IO/pages 1223 to 122511996 
+Copyright 0 1996 Published by Elsevier Science Ltd 
+Printed in Great Britain. All riahts reserved Pergamon 
+PII: SOO42-207X(96)00126-6 0042-207x156 $15.00+.00 
+Properties of amorphous silicon carbide films prepared 
+by PECVD” 
+J Huran,’ L Hrubcin,a A P Kobzev* and J Liday,” B Institute of Electrical Engineering, Slovak Academy of 
+Sciences, 84239 Bratislava, Dtibravskd cesta 9, Slovakia; *Laboratory of Neutron Physics, Joint Institute for 
+Nuclear Research, 14 1980 Dubna, Russian Federation; “Faculty of Electrical Engineering, Slovak Technical 
+University, llkoviCova 3 81279 Bratislava, Slovakia 
+received 20 November 1995 
+Amorphous Sic was prepared by plasma enhanced chemical vapour deposition of SiH, and CH,. The 
+properties of the Sic deposits were studied using a combination of infrared fIR1, RBS, ERD (electron recoiling 
+detection) and AES measurement. lnfra red spectra showed the presence of Si-C, Si-H and C-H bonds. The 
+compositions of the silicon, carbon and hydrogen in the films were found to be dependent on the preparation 
+conditions. Copyright 0 1996 Published by Elsevier Science Ltd 
+Introduction 
+Hydrogenated amorphous silicon carbide (a-Si, -,C, : H) films 
+have been under intense research since their successful prep- 
+aration using the rf glow discharge technique.’ Silicon carbide is 
+an important material for potential applications in photo- 
+electronics, high temperature semiconducting devices, hard wear 
+resistant coatings and protective barriers for corrosion or thermal 
+oxidation. All these applications are due to its unique properties 
+such as wide band gap, high electron mobility, high thermal 
+conductivity and high melting point. Furthermore, SIC can also 
+be used as a thin buffer layer for the growth of diamond films 
+on silicon substrates.* For example a-S& _,C, : H was used as a 
+wideband window material to enhance the conversion efficiency 
+of amorphous solar cells.3 The significance of this material is that 
+its electrical and optical properties can be controlled by varying 
+the carbon, silicon and hydrogen composition of the film. 
+In the present article, an investigation is focused on the struc- 
+tural properties of a-Si, _ .C, : H films prepared by the plasma 
+enhanced chemical vapor deposition (PECVD) of silane SiH, and 
+methane CH, using IR, RBS, ERD and AES measurement. 
+Experimental 
+Amorphous silicon carbide films were deposited on bare silicon 
+substrates in a high frequency parallel-plate plasma reactor, with 
+the frequency, rf power and substrate temperature maintained at 
+13.56 MHz, 0.06 Wcm--* and 350°C respectively. The electrode 
+diameters were 12 cm and they were 4 cm apart. The rf power 
+*Paper based on that presented at the 9th International School on 
+Vacuum Electron and Ion Technologies, 14-17 September 1995, Sozopol, 
+Bulgaria was fed to the upper electrode, while the lower electrode which 
+held the substrates, was grounded. The gas mixture of SM, and 
+CH, was directly introduced into the reaction chamber, and the 
+gas flow rates were 10 seem and 40 seem, respectively. Hydrogen 
+concentration was determined by the ERD method. For this 
+purpose the 4He+ ion beam from the Van de Graaff accelerator 
+of JINR in Dubna has been applied. An ion energy of 2.4 MeV 
+was chosen with the target tilted at an angle 15” with respect to 
+the beam direction and the recoiled protons measured forward 
+at an angle of 30’. 
+Results and discussion 
+The infrared spectra of amorphous silicon carbide films were 
+obtained using a Fourier transform infrared spectrometer (FTIR- 
+8101M Shimadzu). Figure 1 shows the spectra of samples pre- 
+pared under different gas pressure in the working chamber. It 
+can be seen that films contain the features found in a-Sic : H: the 
+Si-C stretching modes at 7OK300 cm-‘, the Si-H stretching 
+modes at about 2100 cm-‘, and the C-H stretching modes at 
+about 2900 cm-‘. These results indicate small difference only at 
+the C-H stretching modes. The amount of hydrogen increases 
+with increasing pressure, and is bonded in C-H bonds. 
+The hydrogen content was determined by the ERD method. 
+In Figure 2 are plotted ERD spectra obtained from the deposited 
+films which contain different amounts of incorporated hydrogen. 
+ERD analyses show that the amount of incorporated H rose 
+from 10 to 15 at%. These values were obtained by computer 
+modeling of measured spectra, and compared with the results 
+obtained from a Si reference sample implanted with H. Results 
+from ERD measurements correspond with the result from IR 
+measurement where the hydrogen content is computed from the 
+concentration of the Si-H and C-H bonds. 
+1223 
+J Huran et a/: Properties of amorphous silicon carbide films 
+3000 2000 1000 
+Wavenumbers [cm-‘] 
+Figure 1. The IR spectra of plasma deposited amorphous silicon carbide 
+films with chamber pressure during deposition for samples: SC1 (P = 60 
+Pa), SC2 (P = 100 Pa), SC3 (P = 150 Pa) 
+” I 
+0 ibd 200 300 
+Channel 
+Figure 2. The ERD spectra of recoiled hydrogen obtained with 2.4 MeV 
+4He+. The concetration of hydrogen for samples SCl, SC2, and SC3 are 
+11, 12, 15 at%, respectively. 
+Figure 3 shows the RBS spectra for three samples of different 
+thickness of the deposited amorphous silicon carbide films. The 
+spectra were smoothed out for better identification of differences. 
+Differences are practically at the place that represents con- 
+centration of carbon vs silicon and thickness of film. Typical 
+concentrations were for silicon 40 at% and carbon 45 at%. 
+Figure 4 shows an AES depth profile of sample SC5. The 
+concentration of silicon and carbon are approximately the same, 
+which differs from the concentrations obtained from RBS 
+measurements and probably arises from accuracy of measure- 
+ment. Small amounts of oxygen and nitrogen were present in the 
+films at concentrations up to I or 2%, respectively. More carbon 
+1224 5000 
+j 4000 
+s 
+Q 
+5 3000 
+h 
+n 
+cn 2000 
+2 
+0’ 
+0 1000 
+n SC4 __ 
+SC5 - - 
+sc6 
+$ , , , / , , , , , , , , , , ,g, , , , 700 300 500 7 
+Channel IO 
+Figure 3. Smoothed RBS data for 2 MeV alfa particles detected at a 
+scattering angle of 170”. The three curves are for samples SC4 (thickness 
+of film 90 nm), SC5 ( 120 nm) and SC6 ( 170 nm). 
+I 
+7 
+0 20 40 60 80 100 120 
+Sputter Time (min) 
+Figure 4. The AES depth profile for a amorphous silicon carbide film of 
+sample SCS. 
+was detected on the surface than in the volume of film and this 
+carbon is probably from the external environment. At a sputter 
+time of 100 min the interface between the substrate and film, 
+begins to appear. 
+Conclusion 
+The structural properties of amorphous silicon carbide films pre- 
+pared by PECVD have been investigated. The IR spectra show 
+the presence of Si-C, Si-H, C-H bonds. The concentration of 
+hydrogen determined by ERD is l&15 at%. The RBS and AES 
+J Huran et al: Properties of amorphous silicon carbide films 
+results show that concentrations of Si and C are almost equal. The References 
+concentrations of other elements such as oxygen and nitrogen are 
+very small. The results indicate that the properties of amorphous 
+carbon films depend upon the reaction conditions. The SijC ratio 
+determines film properties, but the hydrogen content and the 
+chemical bonding pattern play an important role, which cannot 
+be ignored when considering film properties. ‘D A Anderson and W E Spear, Philos Mag, 35, 1 (1976). 
+*E G Wang, Physica B 185,85 (1993). 
+‘S Nahano, Y Kishi, M Ohnishi, S Tsuda, H Shibuya, N Nakamura, Y 
+Hishikawa, H Tarui, T Takahawa and Y Kuwano, Ma&r Res Sot Symp 
+Proc, 49,275 (1985). 
+“5 Huran, F Szulenyi and E Pisarovicova, Acfa phys slot 39, 116 (1990). 
+1225 

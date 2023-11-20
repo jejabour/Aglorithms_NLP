@@ -52,6 +52,8 @@ from nltk.probability import FreqDist
 from nltk.corpus import stopwords
 import pandas as pd
 nltk.download('averaged_perceptron_tagger')
+nltk.download('stopwords')
+nltk.download('punkt')
 
 # Grabs the nltk stop words corpora
 stop_words = set(stopwords.words('english'))
@@ -72,12 +74,14 @@ freq_dict = {}
 new_line = '\n'
 
 # Path to my small subset of txt's to test
-test_path = 'test-txt-search/'
+working_path = 'journals/100_txts/'
 
 # Path to where I want to store all the txt outputs containing finalized parts of speech
-pos_output_path = "./pos_output_nltk/"
+pos_output_path = "NLTK_outputs/pos_output_nltk/"
 
-freq_output_path = "NLTK_Frequency_of_coat.csv"
+freq_output_path = "NLTK_outputs/NLTK_Frequency_of_coat.csv"
+
+time_output = "NLTK_outputs/nltk_times.csv"
 
 # Make the output path if it doesn't exist
 try:
@@ -89,50 +93,68 @@ except OSError as error:
 if os.path.exists(freq_output_path):
     os.remove(freq_output_path)
 
+if os.path.exists(time_output):
+    os.remove(time_output)
+
 # This is just a file I know contains a few instances of coating
 # 1-s2.0-S8756328205000050-main.txt
 
-# iterate over my directory of files
-for file in os.listdir(test_path):
-    
-    # Open the file, set encoder because these journals use big words
-    with open(test_path + file, encoding='utf-8') as f:
-        # Read the text
-        text = f.read()
-        # Tokenize every individual word by space
-        text_tokens = word_tokenize(text)
-        # List for containing all the words that are stemmed
-        stemmed_list = []
-        # Create and open a new file in the output path to write to
-        pos_output_file = open(pos_output_path + file, "w")
-        
-        # Iterate over every word in the tokenized list
-        for word in text_tokens:
+
+for i in range(50):
+    loop_begin = time.time()
+    # iterate over my directory of files
+    for file in os.listdir(working_path):
+        # print(pos_output_path + file)
+        # if os.path.exists(pos_output_path + file):
+        #     # print("file is already there")
+        #     pass
+        # else:
+        # Open the file, set encoder because these journals use big words
+        with open(working_path + file, encoding='utf-8') as f:
+            # Read the text
+            text = f.read()
+            # Tokenize every individual word by space
+            text_tokens = word_tokenize(text)
+            # List for containing all the words that are stemmed
+            stemmed_list = []
+            # Create and open a new file in the output path to write to
+            pos_output_file = open(pos_output_path + file, "w")
             
-            # Only if it's not included in the stop words
-            if not word in stop_words:
-                # Remove most punctuations
-                no_punct = punctuation.sub("", word)
-                # Create a string of parts of speech out of the words with punctuation remove, then new line
-                pos_output = f"{nltk.pos_tag([no_punct])} {new_line}"
-                # Write the string to the file
-                pos_output_file.write(pos_output)
-                # If no_punct basically exists, stem the word and add it to our list
-                if len(no_punct) > 0:
-                    stemmed_list.append(pst.stem(no_punct.lower()))
-        # close the pos_output_file
-        pos_output_file.close()
-        
-        # Clear the freq distribution for a new file, then add every word in stemmed list to it
-        fdist.clear()
-        for word in stemmed_list:
-            fdist[word] += 1
-        
-        # Search freq_dist for the word 'coat'
-        freq_dict.update({file: fdist['coat'] })
-        
-    # close the open file.
-    f.close()
+            # Iterate over every word in the tokenized list
+            for word in text_tokens:
+                
+                # Only if it's not included in the stop words
+                if not word in stop_words:
+                    # Remove most punctuations
+                    no_punct = punctuation.sub("", word)
+                    # Create a string of parts of speech out of the words with punctuation remove, then new line
+                    pos_output = f"{nltk.pos_tag([no_punct])} {new_line}"
+                    # Write the string to the file
+                    pos_output_file.write(pos_output)
+                    # If no_punct basically exists, stem the word and add it to our list
+                    if len(no_punct) > 0:
+                        stemmed_list.append(pst.stem(no_punct.lower()))
+            # close the pos_output_file
+            pos_output_file.close()
+            
+            # Clear the freq distribution for a new file, then add every word in stemmed list to it
+            fdist.clear()
+            for word in stemmed_list:
+                fdist[word] += 1
+            
+            # Search freq_dist for the word 'coat'
+            freq_dict.update({file: fdist['coat'] })
+
+        # close the open file.
+            f.close()
+
+    time.sleep(1)
+    loop_end = time.time()
+    loop_time = (f"{loop_end - loop_begin} {new_line}")
+    print(loop_time)
+    with open(time_output, 'a', newline = '') as csvfile:
+        csvfile.write(loop_time)
+
 
 
 sorted_dict = dict(sorted(freq_dict.items(), key = lambda x:x[1], reverse=True))

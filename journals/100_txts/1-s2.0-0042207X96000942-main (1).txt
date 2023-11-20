@@ -1,0 +1,594 @@
+Pergamon Vacuum/volume 47/numbers 6-g/pages 919 to 929/1996 
+Copyright 0 1996 Elsevier Science Ltd 
+Printed in Great Britain. All rights reserved 
+PII:SOO42-207X(96100094-2 0042-207X/96$15.00+.00 
+Two-dimensional measurements of thin film erosion 
+and deposition by calorimetry of interference colors 
+and its application in fusion devices 
+P Wienhold and F Weschenfelder, lnstitut fiir Plasmaphysik, Forschungszentrum Jiilich GmbH, Ass. 
+EURATOM-KFA, D-52425 Jiilich, Germany 
+The paper describes time resolved observations of the erosion of a thin (Z 705 nm) and transparent a-B:D film 
+on a roof-like graphite test probe (60 mm x 63 mm) in the scrape-off layer plasma of the tokamak TEXTOR-94. 
+Steady state of the erosion pattern was a/most achieved after 22 discharges (727.3s total exposure time). 
+After each of the pulses the interference color pattern in illuminating light of 3200 K color temperature was 
+observed by means of conventional video technique and the color coordinates R, G, B measured. Since they 
+can be related unique/y to the film thickness contour maps and profiles could be evaluated and erosion rates 
+determined. Net deposition on parts of the surface is also observed. Most of the results can be described by 
+erosion due to the hydrogen flux and the simultaneous deposition of carbon and other impurities from the 
+background plasma. The deposition of impurities onto the a-B:D bulk seems to reduce the erosion rates which 
+profongs its lifetime. This interpretation is backed by AES and NRA analysis of the boron content and by 
+EPMA. Copyright 0 7996 Elsevier Science Ltd. 
+Key words: TEXTOR-94, calorimetry, thin film erosion, a-BrD, protective coatings, erosion/deposition 
+modelling. 
+Introduction 
+Colorimetry has been developed at the Jiilich tokamak TEX- 
+TOR-94 to observe thickness changes of thin coatings on 
+extended areas.’ These coatings cover the inner wall surface- 
+inconel liner and graphite limiters-in the form of amorphous 
+semi-transparent boron and carbon containing hydrogenated 
+films (a-C/B:H) of about 1OOnm thickness in order to prevent 
+the tokamak plasma from metal and oxygen impurity release.’ 
+Despite the erosion of boron and carbon due to plasma hydrogen. 
+their ionization and transport away along the magnetic field lines 
+in the scrape-off layer (SOL), the films can be reformed partly by 
+deposition of species eroded at other parts of the wall’ or by 
+prompt redeposition.4 The survival time of the film depends on 
+the balance of the rates for erosion and deposition:5 it may vary 
+between seconds and hours at different locations, and even areas 
+of net deposition develop. The control of this material metab- 
+olism and the in situ wall protection will be of essential import- 
+ance in future fusion devices.h 
+Colorimetry is a technique to measure on extended areas the 
+thickness changes of the protective coatings between about 30 
+and 500 nm, by means of the accompanying changes in the inter- 
+ference colors in illuminating light. At TEXTOR- we instalted 
+a CCD color camera and recorded images from test pieces after each plasma discharge. They were processed later in order to 
+determine thickness profiles and to create contour plots from the 
+measured color coordinates. Three-filter calorimetry by means 
+of a black and white camera has been set up successfully at the 
+tokamak D-111 D where neutrons coming out of the fusion pro- 
+cess would affect a color camera.” At JET calorimetry has been 
+applied to observe divertor plates.x In the following we will report 
+mainly about findings from an erosion experiment carried out 
+recently at TEXTOR-94. The calorimetric data evaluation will 
+be addressed briefly. 
+Experimental 
+Sample preparation. A roof-like graphite test piece with a size of 
+60 mm x 63 mm and a tilt angle of 20.8 (see Figure I) was covered 
+with an aluminum interlayer of ~300nm and then boronized 
+on the top surface twice along with routine boronizations in 
+TEXTOR- (rf assisted DC glow discharge in B,D, and He). 
+This led to the formation of a pure and rather homogeneous a- 
+B:D film on top of the aluminum with thicknesses ranging 
+between 95 and 110 nm. The film appeared yellow-greenish in 
+dayhght. The test piece was mounted with four graphite screws 
+onto a graphite holder which was shielded on ion and electron 
+919 
+P Wienhold and F Weschenfeldec Measurements of thin film erosion and deposition 
+Al plate ~ 
+graphite plate - 
+ion drift side a-B:D (100 nm) 
+Al layer (300 ran) 1 illumination 1 
+jobservationl 
+drift side with aluminum plates (2 mm thick). This avoids carbon 
+sputtering and direct deposition onto the adjacent roof surface. 
+Holder and sample were inserted into the machine from the 
+bottom by means of a limiter lock system and oriented in a way 
+that the top corner of the roof shielded the surface against the 
+electron drift side. The angled surface pointed to the ion drift 
+side direction. It was illuminated and observed from the top. 
+Since the holder was 5 mm wider than the roof a small uncovered 
+graphite area could be used later for the grey balance of the 
+images. 
+Material constants. Two small silicon wafers boronized together 
+with the roof sample but at another location were analyzed eilip- 
+sometrically after dismounting. Measurements under 5 different 
+incident angles (between 30” and 70”) using light of wavelength 
+;i = 632 nm yielded the refractive constant n = 2.7 with an uncer- 
+tainty of less than 0.1, the extinction constant k = 0.15 kO.01 
+and the film thickness 39 nm. Its composition was almost pure a- 
+B:D with small amounts of carbon near the surface and at the 
+interface as can be seen from the AES-depth profile in Figure 2. 
+There was almost no oxygen present in the layer (not shown). 
+The profiles show also a slight increase of the impurity content 
+at a depth (around 18 nm) which separates the strata formed in 
+the two boronization steps. The area1 densities of B determined 
+by nuclear reaction analysis (NRA) and by electron probe micro 
+analysis (EPMA) agree within 20% and correspond to an average 
+atomic density of 1.0 x 10z3cm3. This comparatively high density 
+coincides with the high refractive constant’ and might have been 
+the reason for the doubled etching time needed during the AES 
+sputter process. The values for a-C:D or boron containing a- 
+C/B:D are 6.5 x 10z2cmp3 and n~2, respectively.‘” 
+Exposures in TEXTOR-94. The roof piece was kept with its edge 
+at a radial position of 47.2cm for most of the exposures and 
+covered a radial range of 22mm (out to 49.4cm) because of its 
+declination. This is well within the scrape-off layer, since the 
+920 toroidal belt limiter (ALT II) defined the plasma radius 
+ra = 46cm. The poloidal limiters and the reference limiter on ion 
+drift side were withdrawn to 49 and 50cm, respectively. The 
+plasma discharges (current Ip = 350 kA, toroidal magnetic field 
+of BT = 2.25 T, average line density n,(O)~2.5 x 10” cm ‘) were 
+carried out in deuterium. Most of them were auxiliary heated by 
+neutral hydrogen beam coinjection (NBI) of 1.3 MW power 
+which increased the density and temperature at the last closed 
+flux surface (LCFS) from n,(r,) = 2.4 x 10’2cmp’ to 6.2 x lOI 
+cm-’ and from TJr,) = 25eV to 44eV, respectively. Other 
+exposure parameters are listed in Table 1. 
+There were also 5 pulses that disrupted after 1.1 s. The total 
+exposure time was 12 1.3 s. 
+During the exposures the test piece has been observed in the 
+emitted B I1 light with CCD cameras from side and top. A 
+spectrometer was viewing from the side across the roof surface 
+at a position about 1 cm away from the edge. After each plasma 
+discharge the 4 halogen lamps (each of SOW) located in the 
+liner inside the machine roughly 1 m above were activated. They 
+illuminated the surface of the test piece with light of 3200K 
+color temperature. The color patterns were then recorded using 
+a conventional video technique from the same direction through 
+a window by means of a CCD color camera.’ Single images were 
+grabbed afterwards with a frame grabber board and stored in a 
+personal computer for further processing. 
+After the experiment the test piece was dismounted for visual 
+inspection. The photograph (Figure 3) shows the final color pat- 
+tern of the precoated area in top view. Obviously, a part of the 
+initial a-B:D coating is strongly eroded (right hand side). The left 
+side which was further away from the plasma exhibits fringes of 
+the first interference order which indicate a steep increase in 
+thickness up to a plateau region. In contrast to the strong change 
+in the toroidal field direction the slight changes in the poloidal 
+direction (perpendicular) cause almost straight contour lines of 
+the colors. The four screw holes in the corners have little influence 
+on the pattern. 
+Data evaluation 
+Colorimetry of interference colors. Thickness changes within a 
+few nanometers can be recognized by calorimetry of the thin 
+film interference colors on extended substrate areas (- 50 cm’) in 
+TEXTOR-94. The technique is based on a correct measurement 
+of the color coordinates all over the surface which are related 
+mainly to the film thickness d However refractive and extinction 
+constants (n, k) of both film and substrate, spectral distribution 
+of illuminating light $l(n) and angle of incidence B are important 
+as well and influence the reflected spectral distributions $(2) 
+according to the interference laws.” Any of these distributions 
+corresponds to a particular color impression which can be 
+uniquely described by the three color coordinates R, G, B typi- 
+cally. The locally dependent coordinates are measured by the 
+calorimetric facility (camera, grabber board, computer), so that 
+the thickness-pattern can be inferred.’ 
+The formalism has often been published,‘2.‘3 thus only a short 
+description will be given here. The CCD camera generates color 
+coordinates (in the form of output voltages) according to 
+R = c,&(A)P&+Li 
+G = c&(l&(~)d/z (1) 
+B = c&b(JJP&)dii 
+P Wienhold and F Weschenfeldec Measurements of thin film erosion and deposition 
+Figure 2. AES sputter depth profile through the virgin a-B:D film deposited on a silicon substrate + silicon 
+-B- boron 
+--)c carbon 
+depth [nm] 
+Table 1. Non-dlsrupted pulses with a Bat top time of 4 s 
+Radial position 
+Pulse Duration NBI during flat top of probe edge 
+I 3.x s 46.8 cm 
+3 
+; 5.x 5 47.8 cm 
+6.0 s 47.2 cm 
+4-h 7.2 s 2s 47.2 cm 
+I 6.1 s 47.2 cm 
+8-17 7.25 s 2s 47.2 cm 
+where P,, P,, and P, are the relative responses of three different 
+sensors having their maxima in the red (615 nm), green (535 nm) 
+and blue (475 nm) part of the spectrum. The calibration factors 
+cR, cCi and C” have to be adjusted by means of a grey balance 
+(defined by R = G = B) with light of the initial spectral dis- 
+tribution il(i) which is reflected unchanged from an ideal white 
+or grey surface, e.g. the virgin graphite surface itself. 
+In the case of interference colors of thin films on substrates 
+a two-dimensional representation in terms of the chromaticity 
+coordinates 
+.Y = R/(R+G+B)andj,= G/(R+G+B) (21 
+is fully sufficient. As Figure 4 shows the (UJ) values form a 
+triangular shaped trace if an incident monochromatic light 
+increases the wavelength within the sensitive range of the camera 
+beginning at 385 nm (red, lower left corner) over 520nm (green, 
+upper corner) up to 880 nm (red, right corner). Any other visible 
+distribution will create (.x,J,) pairs defining a point inside the 
+triangle. In particular, the unchanged spectral distribution is 
+represented by the ‘no color’ point (l/3,1/3). These are also the 
+almost identical coordinates for the spectral distribution reflected 
+from a free aluminum surface (film thickness d = 0). But, if d 
+grows the varying distributions $(i) form a trace which circles 
+the ‘no colour’ point once for each order of interference, thus 
+passing the color sections yellow, purple, blue and green regu- 
+larly, As can be seen the color tone angle (hue) h,!,.,, between 
+the abscissa and a line intersecting the center and a single point (.u,J~) on the curve is uniquely related to the tilm thickness d 
+(indicated in the figure as dots in 1Onm steps) within each of 
+the orders of interference and can be calculated via the simple 
+equation 
+tan h = (_v- 1/3)/(.x- l/3). (3) 
+Figure 5 shows 11 = lz(d;n,,k,,t),$,) as a Cartesian plot for the system 
+a-BID/AI taking into account the measured optical constants and 
+light of color temperature 3200 K and an incident angle 0 = 20.8’ _ 
+Since we measure h (via R, G. B) under these conditions the 
+according film thicknesses can be determined from the curve 
+directly. The maximum deviation is 1.8 nm;degree at rl = 70 nm. 
+Image processing. For the grey balance the non-coated areas have 
+been scanned (part of the graphite holder plus graphite screws in 
+the roof sample) from the image grabbed before exposure and 
+the R, G. B values measured. Their average ratios G:R = 
+1.1 I kO.05 and G/B = 1.04~0.05 were used as calibration 
+factors (‘K and cg, respectively, together with c’(+ = I. and all RGB 
+data files corrected accordingly. 
+The image files represent the total surface area of 
+63 mm x 60 mm (top view) in 480 lines with 3 I2 pixels and were 
+averaged over rectangular fields of 16 x 8 according to a ‘mosaic’- 
+like structure. This yields a reduced data field of 30 lines with 39 
+fields each and a space resolution of about 2 mm. but with much 
+improved statistical accuracy of 5P10%. It is sufficient, however, 
+to create two-dimensional contour plots as e.g. given in Figure 6 
+for the image taken after the last exposure. It corresponds fuHy 
+to the color pattern visible in the photograph (Figure 3). Areas 
+between the screw holes are omitted here for simplicity as well as 
+contour lines for thicknesses below 20 nm which are not correctly 
+recognized by the system. As expected the film has become very 
+thin (20-40 nm), but increases steeply between 32 and 28 mm of 
+toroidal distance to 94nm thickness. It turns with slower slope 
+into the plateau region (I 27 nm). 
+Post mortem analysis. Surprising is the steepness of the erosion 
+edge which has been checked by fringe analysis of the sample 
+after the end of the experiment. This implies a color -thickness 
+921 
+P Wienhold and F Weschenfeldec Measurements of thin film erosion and deposition 
+0.0 I I 
+OTO 012 014 o!s 0!8 I.” n 
+X 
+Figure 4. Development of chromaticity coordinates .x,1* (see text) for a transparent film (M = 2.7) growing on an Al-substrate and in the light of color 
+temperature 3200 K observed with the CCD color camera Pulnix TMC74. The definition of the color tone angle hue. h,,,,,l is indicated. 
+1 O~‘“,.‘~,~“,~“,‘~‘,‘~‘,“~,~‘~,“‘,”~ 
+0 20 40 60 80 100 120 140 160 180 2 IO 
+THICKNESS [nm] a-B:D (n=2.7 k=O. 15)/Al 
+Figure 5. Relation between hue and film thickness according to Figure 4 as a Cartesian plot (incidence angle .Q = 20.8“) 
+relation similar to the one shown in Figure 5, but calculated for 
+daylight illumination and a human observer,’ and relates the 
+principal color impressions yellow (Y), purple (P), blue (B) and 
+green (G) to the according thickness ranges. The result of this 
+analysis along the central part of the surface in the toroidal 
+direction is given as a chain of boxes in Figure 7 and includes the 
+reddish (R) color impression of the plateau region (transition to 
+purple of second order of interference). Steepness of the profile 
+as well as absolute amounts of thicknesses fit well within about 
+10% the contours given in Figure 6. For further comparison a 
+profile is given (dots) which was averaged from ten poloidally 
+equidistant line scans made in the toroidal direction. This yields a 
+statistical error of about 10% for the measured color coordinates 
+RGB, but maximum space resolution of 0.2 mm. 
+922 First investigations of B, C, Si and Al made by EPMA and of 
+B made by NRA show that carbon and silicon are present in the 
+deposit and have replaced also a fraction of the boron. Boron is 
+found also beyond the erosion edge where the measured thick- 
+nesses fall below 20 nm. Here, part of the Al inter-layer is eroded. 
+These results are preliminary, however, because the analysis is 
+not yet completed. 
+Colored deposits had grown on the aluminum shielding plates 
+by impurity deposition from the background plasma. This is 
+mainly carbon (73%) and sihcon (24%) and very little boron as 
+measured by EPMA. Silicon was likely present in TEXTOR 
+because SiD, had been puffed through limiter holes two weeks 
+before the erosion experiment. The total impurity concentration 
+of 6.9 x lO”cm~ found at the end of the plate (r = 49.7 cm) on 
+P Wienhold a&F Weschenfeldec Measurements of thin film erosion and deposition 
+Figul re 3. To view photograph of the roof sample after the end of the experiment and dismounting. The dark circles are screw hates. 
+923 
+P Wienhold and F Weschenfeldec Measurements of thin film erosion and deposition 
+Figure 6. Thickness contour from TOROIDAL DISTANCE [mm] 
+hue values measured across the image which was recorded after the last exposure (#60313). 
+_ - fringe analysis 
+0 “:“““,““““‘l~~~~~~~~~,.~~~~~~~~,~~~..~~~~ calorimetry 
+0 IO 20 30 40 50 
+TOROIDAL DISTANCE [mm] 
+Figure 7. Thickness profile in the toroidal direction as determined by interference fringe analysis (boxes) of the sample after dismounting and one 
+profile (dots) averaged from ten colorimetrical measurements at different poloidal locations. 
+the ion drift side corresponds well to the pale yelIow hue which 
+indicates the beginning of the 2nd order of interference (l35- 
+175 nm for a-C:H with n = 2).’ 
+Results 
+Transition from deposition to erosion zone. Because the thicknesses 
+change very little in the poloidal direction (see Figure 6) we will 
+in the foilowing compare the averaged thickness profiles made in 
+the toroidal direction instead of the set of contour plots. Figure 
+8 shows part of the results. Scans are given from images taken 
+after an exposure time of about 30 s (triangles), 59 s (circles) and 
+12 1 s (squares) and compared with the thickness profile gained from an image before exposure (thick line). Because of the dec- 
+lination of the roof surface the toroidal locations (t in mm) 
+correspond to different radial distances from the plasma center 
+for which examples (r in cm) are written parallel to the abscissa 
+values. Note that the test piece ended at r = 47.2 cm, the confined 
+main plasma at r, = 46cm. 
+A deposition area can be recognized clearly beyond the dis- 
+tance rz 48.5 cm (t< 25 mm) well in the scrape-off layer. The 
+thickness increases gradually during the experiment from the 
+initial values between 95 and 1OOnm up to 125 and 1 I5 nm, 
+respectively, with a growth rate of about + 0.2nm/s. Since the 
+graphite holder was shielded by aluminum plates which prevent 
+carbon sputtering and its direct redeposition onto the sample the 
+925 
+P Wienhold and F Weschenfeldec Measurements of thin film erosion and deposition 
+~“““i”“““““““““““““““““““““““““~ 
+c/1 loo- 
+: 
+5 2 
+E 
+W 50- . :. . 
+2 
+3 ‘7 ;-, i 
+\ 
+‘L -L* 
+5 12s 5; s 30 s 
+r: 49.1 48.7 48.3 47.9 47.5 cm 
+0 ““““‘I”“““‘I”““‘“l”“““‘I”“““‘I”“””’ 
+0 10 20 30 40 50 60 
+TOROIDAL DISTANCE ACROSS THE TILE [mm] 
+Figure 8. Selection of thickness profiles in the toroidal direction as measured by calorimetry. The radial distances from the plasma center change with 
+toioidal location across the roof slope. 
+growth is due to deposition of impurities (C, Si) out of the 
+background plasma. Throughout the series of discharges the 
+deposition zone ends at f z 28 mm (corresponding to r z48.4cm) 
+where the thickness of roughly 100nm remains constant (rate 
+Onm/s). Despite the deposition of the impurities erosion is 
+observed at t > 30 mm with rates up to - 6 rim/s,, but varying with 
+space and time. 
+Time evolution of erosion. The gradual disappearance of the a- 
+B:D film in the erosion zone with exposure time can better be 
+seen from Figure 9. Beside the former profiles (thick lines) most 
+of the others measured in between are given (thin lines) together 
+with the integrated exposure time. The initial thickness between 
+100 and 110 nm in this area decreases slowly first and with erosion 
+rates not higher than zz - 1.5 nmjs at locations r 347.5 cm. But, 
+it sharply drops to z -6 nmjs when the layer becomes thinner than about 88 nm (dashed line) resulting in a sudden decrease by 
+roughly 40nm within a single discharge. This drop happens at 
+increasing radial locations as time proceeds which results in a 
+motion of the erosion edge position down the roof. In spite of 
+this high rate which would be sufficient to blow off the film within 
+less than 20 s it can survive up to about 120 s on the surface, e.g. 
+near the transition point. After the drastic decrease in thickness 
+to about 43 nm the erosion rate is reduced again and becomes 
+comparable to the values at the beginning. 
+Discussion of erosion/deposition rates 
+Peak erosion rates. At present we are not able to present a con- 
+clusive model for the observations because not all of the material 
+constants needed for final discussion are known. Nevertheless, 
+part of results become plausible with reasonable assumptions for 
+I-: 40.3 48.1 47.9 47.7 47.5 cm 
+O,~~~,,~,,,,~~~,,,,,,,~~~,,,,‘,,,,l~ 
+25 30 35 40 45 50 55 60 
+TOROIDAL DISTANCE [mm] 
+Figure 9. Thickness profiles in the erosion dominated zone. The integrated exposure times are given. 
+926 
+P We&told and F Weschenfeldec Measurements of thin film erosion and deposition 
+the sputter erosion yields and for the hydrogen and impurity 
+fluxes. 
+In order to determine the high erosion rates the differences 
+between two succeeding thickness profiles were calculated at the 
+positions of their steepest slopes. They have been integrated 
+between the two (relative) minima adjacent to the peaked 
+maximum (compare Figure 9). Dividing these values through the 
+half widths of the peaks yields average losses between -45 and 
+- 37 nm during one exposure. Taking into account the exposure 
+time the peak erosion rates were calculated and are given in 
+Figure IO as squares. They seem to depend slightly only on radial 
+position and range between - 7 and - 4 nmjs. 
+This behavior may be compared with the slight decrease (decay 
+length i,, = I. I cm) of the deuterium ion flux from 
+Tn = 3.8 x 1O’“cm ~‘s-’ to 2.2 x 10’8cm~2s~’ in the radial range 
+from 47.5 cm to 48.2cm. These values have been calculated by 
+means of the measured electron density and temperature at the 
+LCFS14 giving consideration to the neutral beam power injected 
+during one third of the exposure time. But, erosion yields 
+Y = 0.00S’5 and even 0.01’” as published for boron containing 
+amorphous carbon a-C!B:H are not sufficient to explain the high 
+rates. Higher sputter rates of 0.03 for 350eV Hi ions on a- 
+B:H” are reported and even values up to 0.14’” for pure boron 
+bombarded with 400eV D+ ions if the angle of incidence is not 
+perpendicular. The line connecting the two stars in Figure 10 has 
+been calculated for Y’, = 0.05 and a boron density of 
+1 .O x 10” cm ’ as was measured for the original a-B:D deposit 
+and shows that these assumptions can explain the data. Sput- 
+tering by carbon or oxygen impurities in the SOL plasma do not 
+contribute considerably (thin lines), even if a flux ratio of 0.04 to 
+r,,.19 and an ion energy of about 5 kT, are assumed. 
+Intermediate rates. The rates observed in the erosion zone during 
+the intermediate time before peak erosion is achieved are much 
+less. As can be gathered from Figure 9 the thickness at a particular 
+radial position decreases more or less linearly with time until 
+about 88 nm is reached. This time is shorter, however, at positions 
+close to the plasma edge, but becomes larger further out. The 
+erosion rates vary accordingly. They were calculated from the average slopes of the thickness changes with time and are given 
+in Figure 11 as crosses for some radial positions. A few deposition 
+rates calculated in the same way are also given. 
+The rates range between - 1.6 rim/s at r = 47.4cm, zero at 
+Y” = 48.4cm, and +0.2 nmjs at Y = 49.1 cm. The fact that erosion 
+turns into deposition at the fixed position suggests a balance 
+between the eroding hydrogen flux Tl, and the impurity depo- 
+sition flux r, from the background,‘ but with a ratio which 
+depends on radial distance. For the SOL of TEXTOR-94, the 
+fluxes can be assumed as exponentially decaying’J and the net 
+rate ;+ should be given by 
+y[nmisj = sinb{r,(r,)exp( - (r-r,,):‘i., 
+- l-dr-0) YrGP( - (1. - G%Jj~) (4) 
+where I,, and i., are the decay lengths for the deuterium and the 
+impurity fluxes in the SOL, Yl, the sputter erosion yield. p the 
+atomic density of the deposit, and 6 = 20.8 the tilt angle of the 
+sample (‘roof). Note, that the rates would become higher by a 
+factor of 2.8 if 6 = 90’ (normal incidence of particles). 
+Since :$r,,) = 0 and r,(r,) = I .7 x 10” cm ‘s ’ the value for 
+the yield Y, can be inferred by taking into account the impurity 
+flux. The estimate from the deposit which has grown after 121.3 s 
+at r = 49.7 cm on the aluminum shielding plate can be made only 
+very roughly. But, if we assume that the decay length is that 
+of carbon (& ~2.Ocrn)~ and that chemical erosion cannot be 
+neglected T,(r,) it should fall into the range between 1.1 and 
+1.8 x 10’hcm~‘s~‘. Accordingly, the values for Y,, in eqn (4) vary 
+between 0.006 and 0.01. They are much less than 0.05 which was 
+concluded for the peak erosion. Such a lowering of the erosion 
+yield is expected, however, if carbon”’ and silicon” are admixed 
+to the boron as happens in the deposition zone. The two lines in 
+Figure 1 t are calculated from eqn (4) for the two limiting cases 
+assuming that the sputter yields are valid also at the other radii. 
+For simplicity, p = 6.5 x lO”cm- ’ is valid for a-C:D. The pres- 
+ence of silicon in the deposition zone might lower the density” 
+by about 10%. 
+The curves fairly coincide with the measured deposition rates 
+and part of the rates in the erosion dominated area which means 
+- -2: 
+q 3 
+i&m 1 
+a -6; 
+-91 - D+-> B : 
+-1o- n measured : I I I I 
+47.4 4’7.6 47.0 48.0 48.2 48.4 
+RADIAL DISTANCE [cm] 
+Figure 10. Measured peak erosion rates (squares) depending on radial distance from the plasma center and the expected rates for a-B:D if a sputter 
+yield of Y,, = 0.05 is assumed (thick line). The possible contributions by impurity sputtering (0: circles, C: squares) are negligible. 
+927 
+P Wienhold and F Weschenfelder: Measurements of thin film erosion and deposition 
+g+ 1 , , I , ( , , fo, , , ~~eI;;;~:j ‘47.4 47.6 47.0 48.0 48.2 48.4 48.6 48.8 49.0 49.2 49.4 
+RADIAL DISTANCE [cm] 
+Figure 11. Intermediate rates (crosses) before ueak erosion is achieved and calculations according to the model eqn (4) with Yo = 0.01 (thick line) and 
+I’,” = 0.006 (dashed line). 
+that they can be understood as a difference between impurity 
+deposition and hydrogen erosion. It seems that carbon (and sili- 
+con) are deposited on the surface while the boron film thickness 
+can decrease due to erosion. Since the impurity content reduces 
+the erosion yield the pure a-B:D bulk is protected and its lifetime 
+prolonged. 
+Further into the erosion zone eqn (4) deviates more and more 
+from the observed intermediate rates which become larger. At 
+present we would not exclude that the erosion yield is not con- 
+stant across the surface due to e.g. a changing impurity content. 
+But, it is not clear by which process a protective layer of roughly 
+20 nm thickness can currently be formed. Direct redeposition of 
+boron ions or re-eroded carbon from other parts of the surface 
+can be neglected during the ohmic phase because of the ionization 
+length 1,: it is not shorter than about 30mm in the radial direc- 
+tier? which is more than the radial range of the sample (22 mm). 
+During the NB heated phase of the discharges, however, 1, =z 6 
+mm for boron (or carbon) eroded with thermal energy at 
+r = 47.5 cm, so some redeposition on the plasma near the end of 
+the sample would be possible. Prompt redeposition of boron 
+which remains neutral after the erosion cannot fully be excluded. 
+Indeed, the post mortem analysis revealed boron concentrations 
+of ~2 x lO”cm”, which would correspond to a thickness of 
+z 20 nm. But, it is unclear whether an a-B:D film is formed since 
+part of the aluminum interlayer is eroded here simultaneously. 
+The redeposition as Al+ is unlikely because I, >9mm (NBI 
+phase). 
+Conclusions 
+As a consequence of a ‘two-layer’ model with a thin a-C(Si)/B:D 
+film on top of the a-B:D bulk the influence of different refractive 
+constants n and different material densities p have to be 
+considered. First calculations with n = 2.0 for the upper film and 
+n = 2.7 for the bulk yield an increase of about 10% to be assumed 
+for the total thicknesses in order to fit the measured hue values. 
+Because this is due to the top layer only its thickness is larger by 
+a factor of 1.6 and with it also the sputter yield Y,, in the model 
+equation (4). Different densities (p = 6.5 x 102’ cm-’ for a-C/B:D 
+and p = I .O x 10”cmp3 for a-B:D) have already been used in 
+928 the discussion. But, if the density (and the according refractive 
+constant) in the top film is as high as in the pure boron layer a 
+factor of 1.8 would replace the factor 1.6. 
+Both of the possibilities will not affect the major conclusion 
+that the observed deposition and erosion rates can be described 
+as a net effect between impurity deposition from the background 
+plasma and erosion by hydrogen ions. This implies that a ‘two 
+layer’ model is favored as a working hypothesis, i.e. the formation 
+of a thin carbon/silicon-containing film on the virgin a-B:D. It 
+prevents the pure boron from fast erosion because of the lower 
+sputter erosion yield and prolongs its lifetime. Pure boron films 
+in fusion devices are advantageous, however, because boron get- 
+ters the oxygen impurities very effectively.‘4 Since the evaluation 
+of the data (spectroscopy) and the post mortem analysis of the 
+sample (EPMA, NRA, AES) are not yet fully finished it remains 
+to be shown whether the deposit is stratified and whether prompt 
+deposition of neutral boron plays a role. Moreover. the model 
+has to explain the time dependence of the shift of the erosion 
+edge across the declined surface. 
+The lifetime of the boronization layer varies extremely between 
+seconds and minutes and probably hours depending on the 
+location, and even deposition zones are observed. This will be of 
+importance for future fusion devices and for optimizing of feed 
+rates and duty cycles of reactive gases used for the in situ repair 
+of protecting coatings.” It shows that single observations at a 
+particular location or time are not sufficient. In contrast, color- 
+imetry allows the investigation of evolutions on large areas and 
+provides the essential experimental information as a basis for 
+model validation and the understanding of the processes. The 
+influence of geometry can easily be investigated by changing the 
+shape of the probe, 
+Acknowledgements 
+The authors very much acknowledge the readiness of Dr J von 
+Seggern, IPP Jtilich, to help us with AES sputter depth profiles, 
+of Dr B Emmoth, KTH Stockholm, for the NRA studies, and of 
+Dr P Karduck, RWTH Aachen, for the EPMA analysis. They 
+also thank for much technical help members of our working 
+group and the TEXTOR team. 
+P Wienhold and F Weschenfeldec Measurements of thin film erosion and deposition 
+References 
+’ P Wienhold. F Weschenfelder and J Winter, Nucl lnst and Methods in 
+Phys Rrs, B94, 503 (1994). 
+‘J Winter. H G Esser, L KBnen. V Philipps, H Reimer, J von Seggern. J 
+Schliiter. E Vietzke, F Waelbroeck, P Wienhold, T Banno, D Ringer and 
+S Vepi-ek. .I NW/ Maler, 162-164, 713 (1989). 
+‘P Wienhold, F Waelbroeck. H Bergsaker, .I Winter and H G Esser. J 
+Nut,/ Muter, 162-164, 369 (1989). 
+“D Naujoks and R Behrisch, J Nrccl Muccr. 220-222, 227 (1995). 
+‘G M McCracken, D H J Goodall. P C Stangeby, J P Coad, J Roth. B 
+Denne and R Behrisch. J Nut,/ Ma/rr. 162-164, 356 (1989). 
+‘M F A Harrison, E S Hotston and G P Maddison, NET Report EC’R- 
+Fb:80:90-97 ( 1990). 
+‘F Weschenfelder. G L Jackson, P Wienhold, J Winter, N H Brooks. W 
+P West and R Lee. 22nd EPS Conf’on (‘untr Fusion and Plasma Pk~ts. Z- 
+7 July 1995, Bournemouth, UK. 
+“H Y Gou. X L L,i. J P Coad. L D Horton. J Lingertat, A Loarte. G F 
+Matthews. R D Monk. M F Stamp and P C Stangeby, 22nd EPS Con/‘ 
+on C’ontr Fusion untl Plr.v~~a Ph~x 2-7 July 1995, Bournemouth, UK. 
+“A Bubenrer. B Dischler and A Nyaiesh, Pvoc of’ Syrup Laser Intlucrd 
+II~~ln~crqc in Opficrrl ,Morc,riu/s. November l7- 18, 1981, Boulder, CO. 
+USA. 
+“‘P Wienhold J von Seggern. H G Esser, J Winter, H Bergsiker, M 
+Rubel. I Gudc;wska and B Emmoth. J Nucl Mater, 176-177, 150 (1990). 
+“M Born and E Wolf. Princ~ip/r,.v of’ OJ~tics. 6th edn. Pergamon Press, 
+Oxford (1980. 
+“D L MacAdam. (‘o/or Mrcrsur-enlvrrrs. Springer, Berlin (1981). 
+“I Khandaker. E Glavas. K Morse. S Moruzzi and G R Jones, Vac~uum. 
+49(l), 109 (1094). ‘“A Pospieszczyk. Diagnostics of edge plasmas by optical methods, In 
+Plasma Phwic*s in Controlkd Thermonuckor Fusion. Janev and Drawin 
+(Eds) (1993) p 213. 
+15E Vietzke, V Philipps, K Flaskamp. J Winter. S Vepiek and P Koidl. 
+10th Int Synp on Plasma Chem, August 4 9, 1991. Bochum. Germany. 
+16V M Sharapov A I Kanaev. S Yu Rybakov and L E Gavrilov. J Nucl 
+Mafo-, t20-222,‘930 (1995). 
+“H Toyoda, T Isozum, H Sugai and T Okuda. J .\‘lrc,/ Marrr. 162-164, 
+732 ( 1989). 
+lXE Hechtl. A Mazanec, W Eckstein. J Roth and C Garcia-Rosnles. .I 
+NW/ Marev. 198, 7 13 (1992). 
+“A Pospieszczyk. V Philipps. E Casarotto. U Kiigler. B Schweer. B 
+Unterberg. F Weschenfelder and G Y Diao. ?%(I EPS Coy/‘on (‘on/r 
+Fusion und Plasma Phjx , 2~-7 July lYY5, Bournemouth, UK. 
+‘“S Vepiek. S Rambert. M Heintze. F Mattenberger, M Jurcik-Rajman. 
+W Portmann. D Ringer and U Stiefel. J Nzrc,/ Mure~,. 162-164. 714 ( 1989). 
+“J Winter. H G Esser, G L Jackson. L Kdnen, V Philipps. A PospiesL- 
+czyk. U Samm, B Schweer. B Unterberg. P Wienhold and TEXTOR 
+Team. 20rlr EPS Conf’on Contr R’u.vior~ and P/rr.vmtr P/I~x 26 30 July 1993. 
+Lisboa, Portugal. 
+“J von Seggern. J Winter. L Grobusch. H G Ester. E Vietzke. F Wes- 
+chenfelder. Ch Hollenstein. H Kiinzli. G G Ross and M Rubei. .I NM/ 
+Maler, 220-222, 671 ( 1995). 
+“D Naujoks, R Behrisch, J P Coad and L de Kock. N~rr,/ ~~/~,~ion. 33, 58 I 
+(1993). 
+“P Wienhold. J von Seggern. M Rubel. I Gudowska and H Kiinzli. 
+Vnclrum. 43(5-7), 74s (1992). 
+‘iH G Esser. J Winter. V Philipps. A Pospiesrczyk, J von Seggern. F 
+Weschenfelder, P Wienhold, B Emmoth. M Rubel and TEXTOR Team. 
+J Nnc,l Mafer. 220-222, 457 ( 1995). 
+929 
